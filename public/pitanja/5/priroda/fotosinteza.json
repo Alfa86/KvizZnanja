@@ -1,0 +1,410 @@
+{
+  "lekcijaId": "fotosinteza",
+  "pitanja": [
+    {
+      "id": "5-priroda-fotosinteza-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove proces u kojem zelene biljke uz pomoć sunčeve svjetlosti proizvode hranu?",
+      "ponudeni": ["Disanje", "Fotosinteza", "Oprašivanje", "Isparavanje"],
+      "tocan": 1,
+      "objasnjenje": "Fotosinteza je proces u kojem biljke uz sunčevu svjetlost od vode i ugljikova dioksida proizvode hranu.",
+      "savjet": "Naziv tog procesa počinje grčkom riječju za svjetlost."
+    },
+    {
+      "id": "5-priroda-fotosinteza-002",
+      "tezina": "lagano",
+      "pitanje": "Koji plin biljke uzimaju iz zraka za fotosintezu?",
+      "ponudeni": ["Kisik", "Dušik", "Ugljikov dioksid", "Vodik"],
+      "tocan": 2,
+      "objasnjenje": "Biljke iz zraka uzimaju ugljikov dioksid i od njega i vode proizvode hranu.",
+      "savjet": "Sjeti se koji plin mi izdišemo."
+    },
+    {
+      "id": "5-priroda-fotosinteza-003",
+      "tezina": "lagano",
+      "pitanje": "Koji plin nastaje fotosintezom i odlazi u zrak?",
+      "ponudeni": ["Ugljikov dioksid", "Dušik", "Metan", "Kisik"],
+      "tocan": 3,
+      "objasnjenje": "Fotosintezom nastaje kisik koji odlazi u zrak i potreban je za disanje živih bića.",
+      "savjet": "Sjeti se koji plin udišeš da bi živio."
+    },
+    {
+      "id": "5-priroda-fotosinteza-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove zeleni pigment u biljkama?",
+      "ponudeni": ["Klorofil", "Kloroplast", "Glukoza", "Ugljikov dioksid"],
+      "tocan": 0,
+      "objasnjenje": "Klorofil je zeleni pigment koji se nalazi u kloroplastima i daje biljkama zelenu boju.",
+      "savjet": "Sjeti se kako se zove tvar koja lišću daje boju."
+    },
+    {
+      "id": "5-priroda-fotosinteza-005",
+      "tezina": "lagano",
+      "pitanje": "U kojim se dijelovima biljne stanice odvija fotosinteza?",
+      "ponudeni": ["U jezgri", "U kloroplastima", "U vakuoli", "U staničnoj stijenci"],
+      "tocan": 1,
+      "objasnjenje": "Fotosinteza se odvija u kloroplastima, malim zelenim tjelešcima koja sadrže klorofil.",
+      "savjet": "Sjeti se malih zelenih tjelešaca u stanicama lista."
+    },
+    {
+      "id": "5-priroda-fotosinteza-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove šećer koji biljka proizvodi fotosintezom?",
+      "ponudeni": ["Sol", "Vitamin", "Glukoza", "Bjelančevina"],
+      "tocan": 2,
+      "objasnjenje": "Fotosintezom nastaje glukoza, šećer koji biljci služi kao hrana i izvor energije.",
+      "savjet": "Taj se šećer nalazi i u našoj krvi i daje nam energiju."
+    },
+    {
+      "id": "5-priroda-fotosinteza-007",
+      "tezina": "lagano",
+      "pitanje": "Što je biljci izvor energije za fotosintezu?",
+      "ponudeni": ["Toplina tla", "Vjetar", "Kiša", "Sunčeva svjetlost"],
+      "tocan": 3,
+      "objasnjenje": "Biljka za fotosintezu koristi energiju sunčeve svjetlosti koju hvata klorofil.",
+      "savjet": "Razmisli zašto sobne biljke rastu prema prozoru."
+    },
+    {
+      "id": "5-priroda-fotosinteza-008",
+      "tezina": "lagano",
+      "pitanje": "U kojem se biljnom organu fotosinteza odvija najviše?",
+      "ponudeni": ["List", "Korijen", "Cvijet", "Sjemenka"],
+      "tocan": 0,
+      "objasnjenje": "Fotosinteza se najviše odvija u stanicama listova jer one imaju mnogo kloroplasta.",
+      "savjet": "Razmisli koji je dio biljke najviše zelen i okrenut suncu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-009",
+      "tezina": "lagano",
+      "pitanje": "Koju tvar, osim ugljikova dioksida, biljka koristi u fotosintezi?",
+      "ponudeni": ["Kisik", "Glukozu", "Vodu", "Pelud"],
+      "tocan": 2,
+      "objasnjenje": "Biljka u fotosintezi koristi vodu i ugljikov dioksid, a nastaju glukoza i kisik.",
+      "savjet": "Sjeti se što korijen upija iz tla."
+    },
+    {
+      "id": "5-priroda-fotosinteza-010",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo živa bića koja sama proizvode svoju hranu?",
+      "ponudeni": ["Potrošači", "Razlagači", "Grabežljivci", "Proizvođači"],
+      "tocan": 3,
+      "objasnjenje": "Zelene biljke su proizvođači jer fotosintezom same proizvode hranu.",
+      "savjet": "Razmisli kako bismo nazvali nekoga tko nešto sam izrađuje."
+    },
+    {
+      "id": "5-priroda-fotosinteza-011",
+      "tezina": "lagano",
+      "pitanje": "Koje su boje najčešće dijelovi biljke u kojima se odvija fotosinteza?",
+      "ponudeni": ["Crvene", "Zelene", "Smeđe", "Bijele"],
+      "tocan": 1,
+      "objasnjenje": "Dijelovi biljke u kojima se odvija fotosinteza najčešće su zeleni jer sadrže klorofil.",
+      "savjet": "Sjeti se kakvu boju klorofil daje biljci."
+    },
+    {
+      "id": "5-priroda-fotosinteza-012",
+      "tezina": "lagano",
+      "pitanje": "Zašto je kisik nastao fotosintezom važan živim bićima?",
+      "ponudeni": ["Služi kao hrana za korijen", "Potreban je za oprašivanje", "Potreban je za disanje", "Od njega nastaje tlo"],
+      "tocan": 2,
+      "objasnjenje": "Kisik koji biljke otpuštaju u zrak potreban je ljudima, životinjama i biljkama za disanje.",
+      "savjet": "Razmisli što radiš svakog trenutka, čak i dok spavaš."
+    },
+    {
+      "id": "5-priroda-fotosinteza-013",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih živih bića provode fotosintezu?",
+      "ponudeni": ["Psi", "Gljive", "Zelene biljke", "Ljudi"],
+      "tocan": 2,
+      "objasnjenje": "Fotosintezu provode zelene biljke jer imaju klorofil, a psi, gljive i ljudi ga nemaju.",
+      "savjet": "Razmisli koje živo biće ne mora jesti druga bića jer hranu proizvodi samo."
+    },
+    {
+      "id": "5-priroda-fotosinteza-014",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenog nastaje fotosintezom?",
+      "ponudeni": ["Voda i ugljikov dioksid", "Glukoza i kisik", "Sol i dušik", "Pelud i sjemenke"],
+      "tocan": 1,
+      "objasnjenje": "Fotosintezom od vode i ugljikova dioksida nastaju glukoza i kisik.",
+      "savjet": "Razlikuj tvari koje biljka uzima od onih koje na kraju proizvede."
+    },
+    {
+      "id": "5-priroda-fotosinteza-015",
+      "tezina": "lagano",
+      "pitanje": "Kada biljke provode fotosintezu?",
+      "ponudeni": ["Danju, kada ima svjetlosti", "Samo noću", "Samo zimi", "Samo kad pada kiša"],
+      "tocan": 0,
+      "objasnjenje": "Fotosinteza se odvija kada ima svjetlosti, dakle danju.",
+      "savjet": "Sjeti se što je biljci nužno da bi mogla provoditi fotosintezu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-016",
+      "tezina": "srednje",
+      "pitanje": "Zašto su listovi većine biljaka zeleni?",
+      "ponudeni": ["Jer upijaju vodu", "Jer sadrže glukozu", "Jer imaju puči", "Jer sadrže klorofil"],
+      "tocan": 3,
+      "objasnjenje": "Listovi su zeleni zbog klorofila, zelenog pigmenta u kloroplastima.",
+      "savjet": "Razmisli koja tvar u kloroplastima ima određenu boju."
+    },
+    {
+      "id": "5-priroda-fotosinteza-017",
+      "tezina": "srednje",
+      "pitanje": "Biljka je stavljena u potpuno mračnu prostoriju. Što će se dogoditi s fotosintezom?",
+      "ponudeni": ["Prestat će jer nema svjetlosti", "Ubrzat će se", "Preselit će se u korijen", "Neće se promijeniti"],
+      "tocan": 0,
+      "objasnjenje": "Bez svjetlosti fotosinteza se ne može odvijati, pa biljka u mraku ne proizvodi hranu.",
+      "savjet": "Sjeti se što sve biljka treba za fotosintezu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-018",
+      "tezina": "srednje",
+      "pitanje": "Zašto korijen mrkve nije zelen i u njemu se ne odvija fotosinteza?",
+      "ponudeni": ["Jer upija previše vode", "Jer je pod zemljom pa nema svjetlosti ni klorofila", "Jer je pretežak", "Jer sadrži previše kisika"],
+      "tocan": 1,
+      "objasnjenje": "Korijen raste u tlu gdje nema svjetlosti, pa nema ni klorofila ni fotosinteze.",
+      "savjet": "Razmisli gdje raste korijen i što ondje nedostaje."
+    },
+    {
+      "id": "5-priroda-fotosinteza-019",
+      "tezina": "srednje",
+      "pitanje": "Zašto kažemo da su zelene biljke proizvođači?",
+      "ponudeni": ["Jer jedu druge organizme", "Jer stvaraju tlo", "Jer same proizvode hranu fotosintezom", "Jer upijaju kisik iz zraka"],
+      "tocan": 2,
+      "objasnjenje": "Zelene biljke same proizvode hranu fotosintezom, a životinje hranu moraju uzimati jedući druga živa bića.",
+      "savjet": "Usporedi kako hranu dobivaju biljke, a kako životinje."
+    },
+    {
+      "id": "5-priroda-fotosinteza-020",
+      "tezina": "srednje",
+      "pitanje": "Što je na početku hranidbenog lanca trava → zec → lisica i zašto?",
+      "ponudeni": ["Zec, jer jede travu", "Lisica, jer je najjača", "Trava, jer sama proizvodi hranu", "Zec, jer ga ima najviše"],
+      "tocan": 2,
+      "objasnjenje": "Trava je proizvođač jer fotosintezom sama proizvodi hranu, pa je na početku hranidbenog lanca.",
+      "savjet": "Razmisli koje od tih živih bića ne treba jesti druge da bi imalo hranu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-021",
+      "tezina": "srednje",
+      "pitanje": "Zašto je korisno u akvarij staviti vodene biljke?",
+      "ponudeni": ["Ribama daju svjetlost", "Zagrijavaju vodu", "Uklanjaju kisik iz vode", "Fotosintezom proizvode kisik za ribe"],
+      "tocan": 3,
+      "objasnjenje": "Vodene biljke na svjetlu provode fotosintezu i otpuštaju kisik koji ribe udišu.",
+      "savjet": "Razmisli što ribama treba za disanje i odakle to može doći."
+    },
+    {
+      "id": "5-priroda-fotosinteza-022",
+      "tezina": "srednje",
+      "pitanje": "Biljka u posudi stoji na suncu, ali je dugo nitko nije zalio. Zašto će joj fotosinteza biti slabija?",
+      "ponudeni": ["Jer voda stvara sunčevu svjetlost", "Jer je voda jedna od tvari potrebnih za fotosintezu", "Jer bez vode list proizvodi više glukoze", "Jer bez vode kloroplasti postaju veći"],
+      "tocan": 1,
+      "objasnjenje": "Za fotosintezu su potrebni voda i ugljikov dioksid, pa bez dovoljno vode biljka proizvodi manje hrane.",
+      "savjet": "Sjeti se što sve biljka uzima da bi proizvela glukozu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-023",
+      "tezina": "srednje",
+      "pitanje": "Koji je ispravan zapis fotosinteze riječima?",
+      "ponudeni": ["glukoza + kisik → voda + ugljikov dioksid", "voda + ugljikov dioksid → glukoza + kisik (uz svjetlost)", "voda + kisik → glukoza + ugljikov dioksid", "glukoza + voda → kisik + ugljikov dioksid"],
+      "tocan": 1,
+      "objasnjenje": "Biljka uz sunčevu svjetlost od vode i ugljikova dioksida proizvodi glukozu i kisik.",
+      "savjet": "S lijeve strane strelice napiši tvari koje biljka uzima iz tla i zraka."
+    },
+    {
+      "id": "5-priroda-fotosinteza-024",
+      "tezina": "srednje",
+      "pitanje": "Što biljka radi s glukozom koju je proizvela?",
+      "ponudeni": ["Izbacuje je kroz puči u zrak", "Odbacuje je kao otpad u tlo", "Koristi je kao hranu i izvor energije za rast", "Pretvara je u sunčevu svjetlost"],
+      "tocan": 2,
+      "objasnjenje": "Glukoza je hrana biljke, koja iz nje dobiva energiju i tvari za rast.",
+      "savjet": "Sjeti se zašto glukozu nazivamo hranom biljke."
+    },
+    {
+      "id": "5-priroda-fotosinteza-025",
+      "tezina": "srednje",
+      "pitanje": "Zašto je u gradovima važno saditi drveće i uređivati parkove?",
+      "ponudeni": ["Drveće uzima ugljikov dioksid i proizvodi kisik", "Drveće proizvodi ugljikov dioksid", "Drveće troši sav kisik iz zraka", "Drveće uklanja vodu iz zraka"],
+      "tocan": 0,
+      "objasnjenje": "Drveće fotosintezom uzima ugljikov dioksid iz zraka i otpušta kisik, pa je zrak u gradu bolji.",
+      "savjet": "Razmisli koje plinove biljke uzimaju iz zraka, a koje u njega vraćaju."
+    },
+    {
+      "id": "5-priroda-fotosinteza-026",
+      "tezina": "srednje",
+      "pitanje": "Kroz koje otvore ugljikov dioksid ulazi u list?",
+      "ponudeni": ["Kroz korijenove dlačice", "Kroz latice", "Kroz provodne žile", "Kroz puči"],
+      "tocan": 3,
+      "objasnjenje": "Ugljikov dioksid iz zraka ulazi u list kroz puči, sitne otvore najčešće na donjoj strani lista.",
+      "savjet": "Sjeti se sićušnih otvora na površini lista kroz koje se izmjenjuju plinovi."
+    },
+    {
+      "id": "5-priroda-fotosinteza-027",
+      "tezina": "srednje",
+      "pitanje": "Kako voda potrebna za fotosintezu stiže do listova?",
+      "ponudeni": ["Korijen je upije iz tla, a provodne žile u stabljici dovedu je do listova", "List je upija iz zraka kroz klorofil", "Nastaje u kloroplastima iz kisika", "Dolazi iz cvijeta preko latica"],
+      "tocan": 0,
+      "objasnjenje": "Korijen upija vodu iz tla, a stabljika je provodnim žilama nosi do listova gdje se odvija fotosinteza.",
+      "savjet": "Prati put vode od tla prema vrhu biljke."
+    },
+    {
+      "id": "5-priroda-fotosinteza-028",
+      "tezina": "srednje",
+      "pitanje": "Klice graha koje su rasle u mraku blijedožute su, a one koje su rasle na svjetlu zelene. Što to pokazuje?",
+      "ponudeni": ["Biljci je svjetlost potrebna za stvaranje klorofila", "Svjetlost uništava klorofil", "Klice u mraku imaju više klorofila", "Boja klica ne ovisi o svjetlosti"],
+      "tocan": 0,
+      "objasnjenje": "Klice na svjetlu stvorile su klorofil i ozelenile, a klice u mraku nisu, pa je za klorofil potrebna svjetlost.",
+      "savjet": "Razmisli koja je jedina razlika u uvjetima u kojima su rasle te dvije skupine klica."
+    },
+    {
+      "id": "5-priroda-fotosinteza-029",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko svim zelenim biljkama kao proizvođačima?",
+      "ponudeni": ["Hrane se drugim biljkama", "Žive samo u vodi", "Sadrže klorofil i proizvode hranu fotosintezom", "Rastu samo u mraku"],
+      "tocan": 2,
+      "objasnjenje": "Zelene biljke sadrže klorofil i uz pomoć svjetlosti same proizvode hranu.",
+      "savjet": "Sjeti se zašto ih nazivamo baš proizvođačima."
+    },
+    {
+      "id": "5-priroda-fotosinteza-030",
+      "tezina": "srednje",
+      "pitanje": "Zašto sobne biljke stavljamo blizu prozora?",
+      "ponudeni": ["Da im bude hladnije", "Da ih kukci lakše oprašuju", "Da sporije rastu", "Da imaju dovoljno svjetlosti za fotosintezu"],
+      "tocan": 3,
+      "objasnjenje": "Kroz prozor ulazi sunčeva svjetlost koja je biljkama potrebna za fotosintezu.",
+      "savjet": "Razmisli što kroz prozor ulazi u sobu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-031",
+      "tezina": "tesko",
+      "pitanje": "Kad bi na nekom području nestale sve biljke, zašto bi i životinje koje jedu meso ostale bez hrane?",
+      "ponudeni": ["Jer bi meso postalo otrovno", "Jer biljojedi kojima se hrane ne bi imali hrane", "Jer bi im nestalo vode za piće", "Jer bi u zraku bilo previše kisika"],
+      "tocan": 1,
+      "objasnjenje": "Mesojedi jedu biljojede, a biljojedi jedu biljke, pa bez proizvođača propada cijeli hranidbeni lanac.",
+      "savjet": "Prati hranidbeni lanac od početka do mesojeda."
+    },
+    {
+      "id": "5-priroda-fotosinteza-032",
+      "tezina": "tesko",
+      "pitanje": "Zašto u jezeru s mnogo vodenih biljaka danju ima više kisika nego noću?",
+      "ponudeni": ["Jer ribe danju ne dišu", "Jer noću vjetar odnosi kisik", "Jer se voda noću zagrijava", "Jer vodene biljke danju fotosintezom proizvode kisik"],
+      "tocan": 3,
+      "objasnjenje": "Danju ima svjetlosti pa vodene biljke provode fotosintezu i otpuštaju kisik u vodu, a noću to ne mogu.",
+      "savjet": "Razmisli koji proces vodenih biljaka ovisi o svjetlosti."
+    },
+    {
+      "id": "5-priroda-fotosinteza-033",
+      "tezina": "tesko",
+      "pitanje": "Učenik je jednu biljku stavio na prozor, a drugu jednaku u tamni ormar i obje jednako zalijevao. Nakon dva tjedna biljka iz ormara bila je slaba. Što zaključuje iz pokusa?",
+      "ponudeni": ["Biljkama je za proizvodnju hrane potrebna svjetlost", "Biljkama nije potrebna voda", "Biljke u mraku stvaraju više klorofila", "Biljke na prozoru dobivaju manje zraka"],
+      "tocan": 0,
+      "objasnjenje": "Biljke su se razlikovale samo po svjetlosti, pa pokus pokazuje da je svjetlost potrebna za fotosintezu i rast.",
+      "savjet": "Odredi po čemu su se jedino razlikovali uvjeti za te dvije biljke."
+    },
+    {
+      "id": "5-priroda-fotosinteza-034",
+      "tezina": "tesko",
+      "pitanje": "Zašto su biljke osnova hranidbenih lanaca na kopnu?",
+      "ponudeni": ["Jer su veće od životinja", "Jer žive dulje od životinja", "Jer od vode, ugljikova dioksida i svjetlosti mogu proizvesti hranu", "Jer imaju cvjetove raznih boja"],
+      "tocan": 2,
+      "objasnjenje": "Biljke fotosintezom proizvode hranu od neživih tvari uz svjetlost, a sva ostala bića hranu dobivaju izravno ili neizravno od njih.",
+      "savjet": "Razmisli odakle životinje na kraju lanca zapravo dobivaju energiju."
+    },
+    {
+      "id": "5-priroda-fotosinteza-035",
+      "tezina": "tesko",
+      "pitanje": "Kako su povezani fotosinteza biljaka i disanje životinja?",
+      "ponudeni": ["Životinje izdišu kisik koji biljke koriste, a biljke otpuštaju ugljikov dioksid", "Biljke otpuštaju kisik koji životinje udišu, a životinje izdišu ugljikov dioksid koji biljke koriste", "Životinje proizvode glukozu koju biljke koriste za disanje", "Biljke i životinje uzimaju iz zraka iste plinove pa se natječu za njih"],
+      "tocan": 1,
+      "objasnjenje": "Biljke fotosintezom otpuštaju kisik koji životinje udišu, a ugljikov dioksid koji životinje izdišu biljke koriste u fotosintezi.",
+      "savjet": "Usporedi koje plinove biljka uzima i otpušta s onima koje ti udišeš i izdišeš."
+    },
+    {
+      "id": "5-priroda-fotosinteza-036",
+      "tezina": "tesko",
+      "pitanje": "Neke biljke, poput crvenolisnog javora, imaju crvene listove. Mogu li one provoditi fotosintezu?",
+      "ponudeni": ["Ne mogu, jer uopće nemaju klorofil", "Mogu, ali samo noću", "Ne mogu, jer crvena boja ne propušta vodu", "Mogu, jer uz crveni pigment sadrže i klorofil"],
+      "tocan": 3,
+      "objasnjenje": "U crvenim listovima ima klorofila, ali ga prekriva crveni pigment, pa se fotosinteza ipak odvija.",
+      "savjet": "Sjeti se da list može istodobno sadržavati više različitih pigmenata."
+    },
+    {
+      "id": "5-priroda-fotosinteza-037",
+      "tezina": "tesko",
+      "pitanje": "Gljive nisu zelene i nemaju klorofil. Što iz toga možemo zaključiti?",
+      "ponudeni": ["Proizvode više kisika od biljaka", "Fotosintezu provode noću", "Ne mogu same proizvoditi hranu fotosintezom", "Hranu proizvode u korijenu"],
+      "tocan": 2,
+      "objasnjenje": "Bez klorofila nema fotosinteze, pa gljive hranu moraju uzimati iz okoline.",
+      "savjet": "Sjeti se koja je zadaća klorofila u fotosintezi."
+    },
+    {
+      "id": "5-priroda-fotosinteza-038",
+      "tezina": "tesko",
+      "pitanje": "Koju ulogu u fotosintezi ima sunčeva svjetlost?",
+      "ponudeni": ["Ona je jedan od sastojaka glukoze", "Daje energiju potrebnu da od vode i ugljikova dioksida nastane glukoza", "Hladi list da se ne pregrije", "Donosi vodu do lista"],
+      "tocan": 1,
+      "objasnjenje": "Svjetlost nije tvar od koje nastaje glukoza, nego daje energiju potrebnu da se voda i ugljikov dioksid pretvore u glukozu.",
+      "savjet": "Razmisli treba li biljka svjetlost kao tvar ili zbog nečega drugog."
+    },
+    {
+      "id": "5-priroda-fotosinteza-039",
+      "tezina": "tesko",
+      "pitanje": "U zatvorenoj staklenoj posudi nalazi se zelena biljka na svjetlu. Kako će se kroz nekoliko sati mijenjati količina ugljikova dioksida u posudi?",
+      "ponudeni": ["Smanjivat će se jer ga biljka troši za fotosintezu", "Povećavat će se jer ga biljka proizvodi", "Ostat će jednaka", "Pretvorit će se u vodu"],
+      "tocan": 0,
+      "objasnjenje": "Na svjetlu biljka fotosintezom troši ugljikov dioksid, pa ga u zatvorenoj posudi postaje sve manje.",
+      "savjet": "Sjeti se koji plin biljka uzima iz zraka tijekom fotosinteze."
+    },
+    {
+      "id": "5-priroda-fotosinteza-040",
+      "tezina": "tesko",
+      "pitanje": "Kako bi sječa velikih šuma utjecala na nastajanje kisika?",
+      "ponudeni": ["Kisika bi se proizvodilo više", "U zraku bi bilo manje ugljikova dioksida", "Šume ne utječu na kisik u zraku", "Fotosintezom bi nastajalo manje kisika"],
+      "tocan": 3,
+      "objasnjenje": "Manje drveća znači manje fotosinteze, pa nastaje manje kisika, a u zraku ostaje više ugljikova dioksida.",
+      "savjet": "Razmisli koliko zelenih listova nestane kad se posiječe šuma."
+    },
+    {
+      "id": "5-priroda-fotosinteza-041",
+      "tezina": "tesko",
+      "pitanje": "Zašto listopadno drveće zimi, kad ostane bez lišća, gotovo ne proizvodi hranu?",
+      "ponudeni": ["Jer korijen zimi raste brže", "Jer zimi u zraku nema ugljikova dioksida", "Jer nema listova u kojima se odvija većina fotosinteze", "Jer zimi uopće nema sunčeve svjetlosti"],
+      "tocan": 2,
+      "objasnjenje": "Većina fotosinteze odvija se u listovima, pa drvo bez lišća zimi gotovo ne proizvodi hranu.",
+      "savjet": "Sjeti se gdje se u biljci nalazi najviše kloroplasta."
+    },
+    {
+      "id": "5-priroda-fotosinteza-042",
+      "tezina": "tesko",
+      "pitanje": "Zašto se može reći da energija koju dobiješ jedući jabuku potječe od Sunca?",
+      "ponudeni": ["Jer jabuka sama svijetli", "Jer jabuka upija toplinu dok je jedeš", "Jer jabuka sadrži mnogo kisika", "Jer je šećer u jabuci nastao fotosintezom uz sunčevu svjetlost"],
+      "tocan": 3,
+      "objasnjenje": "Stablo je uz sunčevu svjetlost fotosintezom proizvelo šećer koji se spremio u plod, pa jedući jabuku dobivaš tu energiju.",
+      "savjet": "Prati odakle je stablo jabuke dobilo energiju za stvaranje šećera u plodu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-043",
+      "tezina": "tesko",
+      "pitanje": "U kojem će slučaju biljka najbolje provoditi fotosintezu?",
+      "ponudeni": ["U mraku, s puno vode i zraka", "Na svjetlu, s dovoljno vode i zraka", "Na svjetlu, bez imalo vode", "U mraku, bez zraka"],
+      "tocan": 1,
+      "objasnjenje": "Za fotosintezu biljka treba svjetlost, vodu i ugljikov dioksid iz zraka, a to ima samo u jednom slučaju.",
+      "savjet": "Provjeri ima li biljka u svakom slučaju sve što joj treba za fotosintezu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-044",
+      "tezina": "tesko",
+      "pitanje": "Ponekad iz sjemenke izraste biljka potpuno bijelih listova, bez klorofila. Zašto takva biljka ne može dugo preživjeti?",
+      "ponudeni": ["Ne može hvatati svjetlost i proizvoditi hranu", "Ne može upijati vodu korijenom", "Ne može stvarati puči", "Ne može primati kisik iz zraka"],
+      "tocan": 0,
+      "objasnjenje": "Bez klorofila biljka ne može hvatati sunčevu svjetlost, pa nema fotosinteze ni hrane kad potroši zalihe iz sjemenke.",
+      "savjet": "Sjeti se koju zadaću ima zeleni pigment u listu."
+    },
+    {
+      "id": "5-priroda-fotosinteza-045",
+      "tezina": "tesko",
+      "pitanje": "Fitoplankton su sitni zeleni organizmi u moru koji provode fotosintezu. Zašto su važni za život u moru?",
+      "ponudeni": ["Hrane se velikim ribama", "Troše kisik iz mora", "Proizvode hranu i kisik pa su na početku morskih hranidbenih lanaca", "Fotosintezu provode na dnu mora u potpunom mraku"],
+      "tocan": 2,
+      "objasnjenje": "Fitoplankton fotosintezom proizvodi hranu i kisik, pa je proizvođač na kojem počivaju morski hranidbeni lanci.",
+      "savjet": "Sjeti se koje mjesto u hranidbenom lancu imaju proizvođači."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lekcijaId": "nepoznati-pribrojnik-umanjenik-i-umanjitelj",
+  "pitanja": [
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-001",
+      "tezina": "srednje",
+      "pitanje": "Koji broj nedostaje? 3500 + ___ = 8000",
+      "ponudeni": [
+        "5500",
+        "4500",
+        "11 500",
+        "5000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati pribrojnik dobiješ oduzimanjem: 8000 − 3500 = 4500.",
+      "savjet": "Od zbroja oduzmi poznati pribrojnik."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-002",
+      "tezina": "srednje",
+      "pitanje": "Koji broj nedostaje? ___ − 2400 = 6100",
+      "ponudeni": [
+        "3700",
+        "8400",
+        "3600",
+        "8500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati umanjenik dobiješ zbrajanjem: 6100 + 2400 = 8500.",
+      "savjet": "Razlici dodaj umanjitelj i dobit ćeš umanjenik."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-003",
+      "tezina": "tesko",
+      "pitanje": "Zbroj dvaju brojeva je 100 000. Jedan od njih je 37 845. Koji je drugi broj?",
+      "ponudeni": [
+        "63 155",
+        "137 845",
+        "62 155",
+        "62 255"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Drugi broj dobiješ oduzimanjem: 100 000 − 37 845 = 62 155.",
+      "savjet": "Od zbroja oduzmi poznati broj, a rezultat provjeri zbrajanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-004",
+      "tezina": "tesko",
+      "pitanje": "Koji broj nedostaje? 456 789 − ___ = 123 456",
+      "ponudeni": [
+        "333 333",
+        "580 245",
+        "333 233",
+        "343 333"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznati umanjitelj dobiješ kad od umanjenika oduzmeš razliku: 456 789 − 123 456 = 333 333.",
+      "savjet": "Umanjitelj = umanjenik − razlika."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-005",
+      "tezina": "tesko",
+      "pitanje": "Ivan je zamislio broj. Kad mu je dodao 15 600, a zatim oduzeo 8400, dobio je 50 000. Koji je broj zamislio?",
+      "ponudeni": [
+        "42 800",
+        "57 200",
+        "74 000",
+        "42 200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Računamo unatrag: 50 000 + 8400 = 58 400, zatim 58 400 − 15 600 = 42 800.",
+      "savjet": "Kreni od kraja i radi suprotne računske radnje."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-006",
+      "tezina": "tesko",
+      "pitanje": "Koji broj nedostaje? 250 000 + ___ = 1 000 000 − 150 000",
+      "ponudeni": [
+        "600 000",
+        "750 000",
+        "900 000",
+        "400 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Desna strana je 1 000 000 − 150 000 = 850 000. Zatim 850 000 − 250 000 = 600 000.",
+      "savjet": "Prvo izračunaj desnu stranu, pa traži nepoznati pribrojnik."
+    }
+  ]
+}

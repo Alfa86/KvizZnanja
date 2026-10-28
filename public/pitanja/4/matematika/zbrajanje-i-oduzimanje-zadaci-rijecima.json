@@ -1,0 +1,145 @@
+{
+  "lekcijaId": "zbrajanje-i-oduzimanje-zadaci-rijecima",
+  "pitanja": [
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-001",
+      "tezina": "lagano",
+      "pitanje": "U knjižnici je bilo 3000 knjiga. Kupili su još 2000 knjiga. Koliko knjiga sada ima knjižnica?",
+      "ponudeni": [
+        "1000",
+        "5000",
+        "50 000",
+        "32 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Knjige su dodane pa zbrajamo: 3000 + 2000 = 5000.",
+      "savjet": "Riječ „još” znači da trebaš zbrajati."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-002",
+      "tezina": "srednje",
+      "pitanje": "Grad ima 125 400 stanovnika, a obližnje selo 8600 stanovnika. Koliko stanovnika imaju zajedno?",
+      "ponudeni": [
+        "133 000",
+        "134 000",
+        "211 400",
+        "134 400"
+      ],
+      "tocan": 1,
+      "objasnjenje": "125 400 + 8600 = 134 000. Najprije dodaš 600 do 126 000, pa još 8000.",
+      "savjet": "Pazi da 8600 potpišeš ispod pravih mjesnih vrijednosti."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-003",
+      "tezina": "srednje",
+      "pitanje": "Tvornica je proizvela 72 500 boca, a prodala je 38 700 boca. Koliko je boca ostalo?",
+      "ponudeni": [
+        "33 800",
+        "34 800",
+        "111 200",
+        "44 200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oduzimamo prodane boce: 72 500 − 38 700 = 33 800.",
+      "savjet": "Riječ „ostalo” znači da trebaš oduzimati."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-004",
+      "tezina": "tesko",
+      "pitanje": "Ana je imala 2450 eura. Zaradila je još 1380 eura, a zatim je potrošila 975 eura. Koliko joj je novca ostalo?",
+      "ponudeni": [
+        "4805",
+        "2855",
+        "2955",
+        "2045"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo zbrojiš: 2450 + 1380 = 3830. Zatim oduzmeš: 3830 − 975 = 2855.",
+      "savjet": "Riješi zadatak u dva koraka: prvo što je zaradila, pa što je potrošila."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-005",
+      "tezina": "tesko",
+      "pitanje": "U knjižnici je bilo 48 250 knjiga. Čitatelji su posudili 6730 knjiga, a vratili 4980 knjiga. Koliko je sada knjiga u knjižnici?",
+      "ponudeni": [
+        "59 960",
+        "36 540",
+        "45 500",
+        "46 500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Posuđene knjige oduzimamo: 48 250 − 6730 = 41 520. Vraćene knjige dodajemo: 41 520 + 4980 = 46 500.",
+      "savjet": "Posuđene knjige odlaze iz knjižnice, a vraćene se vraćaju u nju."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-006",
+      "tezina": "tesko",
+      "pitanje": "Prve večeri koncert je posjetilo 18 750 ljudi, a druge večeri 2340 ljudi više. Koliko je ljudi posjetilo koncert u obje večeri?",
+      "ponudeni": [
+        "21 090",
+        "39 840",
+        "37 500",
+        "41 090"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Druge večeri bilo je 18 750 + 2340 = 21 090 ljudi. Ukupno: 18 750 + 21 090 = 39 840.",
+      "savjet": "Prvo izračunaj koliko je ljudi bilo druge večeri, pa zbroji obje večeri."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-007",
+      "tezina": "tesko",
+      "pitanje": "Tata je u tri dana prešao 1240 km. Prvi dan prešao je 485 km, a drugi dan 390 km. Koliko je kilometara prešao treći dan?",
+      "ponudeni": [
+        "755",
+        "875",
+        "465",
+        "365"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U prva dva dana prešao je 485 + 390 = 875 km. Treći dan: 1240 − 875 = 365 km.",
+      "savjet": "Zbroji prva dva dana pa to oduzmi od ukupnog puta."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-008",
+      "tezina": "tesko",
+      "pitanje": "Brod je prevozio 125 000 kg tereta. U luci je istovario 46 500 kg, a utovario 28 750 kg. Koliko tereta sada prevozi?",
+      "ponudeni": [
+        "49 750",
+        "142 750",
+        "107 250",
+        "96 250"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Istovareni teret oduzimamo: 125 000 − 46 500 = 78 500. Utovareni dodajemo: 78 500 + 28 750 = 107 250 kg.",
+      "savjet": "Istovariti znači skinuti teret (oduzimaš), a utovariti znači staviti teret (zbrajaš)."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-009",
+      "tezina": "tesko",
+      "pitanje": "Tri razreda skupila su staru papirnatu ambalažu: 1250 kg, 980 kg i 1475 kg. Za koliko su kilograma skupili više od 3000 kg?",
+      "ponudeni": [
+        "3705",
+        "695",
+        "805",
+        "705"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ukupno su skupili 1250 + 980 + 1475 = 3705 kg. Od toga oduzmeš 3000: 3705 − 3000 = 705 kg.",
+      "savjet": "Pitanje „za koliko više” rješava se oduzimanjem."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-010",
+      "tezina": "tesko",
+      "pitanje": "Računalo košta 899 eura, a monitor je 345 eura jeftiniji od računala. Koliko košta računalo zajedno s monitorom?",
+      "ponudeni": [
+        "1244",
+        "1453",
+        "554",
+        "1553"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Monitor košta 899 − 345 = 554 eura. Zajedno: 899 + 554 = 1453 eura.",
+      "savjet": "Prvo izračunaj cijenu monitora, pa je dodaj cijeni računala."
+    }
+  ]
+}

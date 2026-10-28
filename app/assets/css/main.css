@@ -1,0 +1,66 @@
+@import "tailwindcss";
+/* Font se poslužuje s naše domene, bez slanja podataka Googleu */
+@import "@fontsource-variable/nunito";
+
+@theme {
+  --font-sans: "Nunito Variable", ui-rounded, "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+@layer base {
+  html {
+    background-color: var(--color-sky-50);
+    color: var(--color-slate-900);
+    scroll-padding-top: 1rem;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+
+  body {
+    font-size: var(--text-lg);
+    line-height: 1.6;
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--color-blue-900);
+    outline-offset: 3px;
+  }
+}
+
+@layer components {
+  .omotac {
+    @apply mx-auto w-full max-w-[66rem] px-5 sm:px-6;
+  }
+
+  .gumb-glavni {
+    @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl bg-indigo-700 px-6 py-3 font-bold text-white transition-colors hover:bg-indigo-800 disabled:cursor-not-allowed disabled:bg-slate-400;
+  }
+
+  .gumb-sporedni {
+    @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl border-2 border-indigo-700 bg-white px-6 py-3 font-bold text-indigo-800 transition-colors hover:bg-indigo-50 disabled:cursor-not-allowed disabled:border-slate-300 disabled:text-slate-500;
+  }
+
+  .gumb-tekstualni {
+    @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl px-6 py-3 font-bold text-indigo-800 transition-colors hover:bg-indigo-50;
+  }
+
+  /* Radnja nakon koje se gubi napredak (npr. izlazak iz kviza) */
+  .gumb-opasni {
+    @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl border-2 border-red-700 bg-white px-6 py-3 font-bold text-red-700 transition-colors hover:bg-red-50;
+  }
+
+  .kartica {
+    @apply rounded-3xl bg-white p-5 shadow-sm ring-1 ring-slate-200 sm:p-6;
+  }
+
+  .nadnaslov {
+    @apply text-sm font-extrabold tracking-wide uppercase;
+  }
+
+  .naslov-sekcije {
+    @apply text-3xl font-extrabold tracking-tight text-balance sm:text-[2.75rem] sm:leading-tight;
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "razred": 4,
+  "predmet": "priroda-i-drustvo",
+  "napomena": "Prijedlog grupiranja 135 nastavnih sati iz priroda_i_društvo_poglavlja.txt u cjeline i lekcije za odabir u kvizu. Polje izvori sadrži brojeve redaka iz txt datoteke. Jedan sat može pripadati u više lekcija (npr. sati ponavljanja).",
+  "cjeline": [
+    {
+      "id": "zivotni-uvjeti",
+      "naziv": "Životni uvjeti",
+      "ikona": "☀️",
+      "lekcije": [
+        {
+          "id": "zivotni-uvjeti-i-ziva-bica",
+          "naziv": "Životni uvjeti i živa bića",
+          "opis": "Učenici navode životne uvjete (svjetlost, toplina, voda, zrak, tlo) i objašnjavaju njihovu važnost. Opisuju međuovisnost žive i nežive prirode i kako životni uvjeti utječu na organizme.",
+          "kljucniPojmovi": ["životni uvjeti", "svjetlost", "toplina", "voda", "zrak", "tlo", "živa priroda", "neživa priroda", "okoliš"],
+          "izvori": [4, 5, 6, 7, 15, 16, 47, 126, 127, 128, 133, 134]
+        },
+        {
+          "id": "voda",
+          "naziv": "Voda i kruženje vode",
+          "opis": "Učenici opisuju svojstva vode, njezina stanja (kruto, tekuće, plinovito) i kruženje vode u prirodi (isparavanje, oblaci, oborine).",
+          "kljucniPojmovi": ["svojstva vode", "led", "vodena para", "isparavanje", "oborine", "kruženje vode"],
+          "izvori": [8]
+        },
+        {
+          "id": "zrak",
+          "naziv": "Zrak",
+          "opis": "Učenici opisuju zrak kao uvjet života, njegova svojstva i sastav (dušik, kisik, ugljikov dioksid) te uzroke i posljedice onečišćenja zraka.",
+          "kljucniPojmovi": ["zrak", "kisik", "dušik", "ugljikov dioksid", "svojstva zraka", "onečišćenje zraka"],
+          "izvori": [9, 10, 11]
+        },
+        {
+          "id": "tlo",
+          "naziv": "Tlo",
+          "opis": "Učenici opisuju nastanak tla, njegova svojstva i vrste te utjecaj tla na živi svijet. Znaju kako se pokusom istražuje propusnost tla.",
+          "kljucniPojmovi": ["tlo", "nastanak tla", "humus", "propusnost", "vrste tla", "pokus"],
+          "izvori": [12, 13, 14]
+        },
+        {
+          "id": "obnovljivi-izvori-energije",
+          "naziv": "Obnovljivi izvori energije",
+          "opis": "Učenici razlikuju obnovljive (Sunce, vjetar, voda) i neobnovljive izvore energije te objašnjavaju zašto je važno štedjeti energiju.",
+          "kljucniPojmovi": ["energija", "obnovljivi izvor", "neobnovljivi izvor", "Sunčeva energija", "energija vjetra", "štednja energije"],
+          "izvori": [17]
+        },
+        {
+          "id": "kako-istrazujemo",
+          "naziv": "Kako istražujemo",
+          "opis": "Učenici poznaju etape istraživanja (pitanje, pretpostavka, pokus ili promatranje, bilježenje, zaključak) i postupke istraživanja.",
+          "kljucniPojmovi": ["istraživanje", "pretpostavka", "pokus", "promatranje", "bilježenje", "zaključak"],
+          "izvori": [3, 13, 14, 78, 102]
+        }
+      ]
+    },
+    {
+      "id": "republika-hrvatska",
+      "naziv": "Republika Hrvatska",
+      "ikona": "🇭🇷",
+      "lekcije": [
+        {
+          "id": "najvaznije-o-hrvatskoj",
+          "naziv": "Najvažnije o Hrvatskoj",
+          "opis": "Učenici navode najvažnije značajke Republike Hrvatske, njezinu prirodnu i društvenu raznolikost i kako je država organizirana.",
+          "kljucniPojmovi": ["Republika Hrvatska", "država", "domovina", "raznolikost", "uređenje države"],
+          "izvori": [18, 46, 48, 100]
+        },
+        {
+          "id": "simboli-republike-hrvatske",
+          "naziv": "Simboli Republike Hrvatske",
+          "opis": "Učenici prepoznaju i opisuju simbole Republike Hrvatske (grb, zastava, himna „Lijepa naša domovino“) i njihovu ulogu te znaju kako im se iskazuje poštovanje.",
+          "kljucniPojmovi": ["grb", "zastava", "himna", "Lijepa naša domovino", "nacionalni simboli"],
+          "izvori": [19, 25, 28, 46]
+        },
+        {
+          "id": "zagreb-glavni-grad",
+          "naziv": "Zagreb – glavni grad",
+          "opis": "Učenici opisuju Zagreb kao glavni grad te prometno, upravno, političko, kulturno, obrazovno, zdravstveno i sportsko središte Hrvatske i navode njegove znamenitosti.",
+          "kljucniPojmovi": ["Zagreb", "glavni grad", "upravno središte", "Sabor", "Vlada", "znamenitosti"],
+          "izvori": [20, 21, 24]
+        },
+        {
+          "id": "stanovnistvo-jezik-i-pismo",
+          "naziv": "Stanovništvo, jezik i pismo",
+          "opis": "Učenici znaju da u Hrvatskoj uz Hrvate žive i nacionalne manjine te da su službeni jezik hrvatski jezik i latinično pismo. Opisuju posebnosti stanovništva.",
+          "kljucniPojmovi": ["stanovništvo", "nacionalna manjina", "službeni jezik", "hrvatski jezik", "latinica"],
+          "izvori": [22, 23, 25, 28]
+        },
+        {
+          "id": "granice-susjedi-i-karta",
+          "naziv": "Granice, susjedi i geografska karta",
+          "opis": "Učenici na geografskoj karti pokazuju državnu granicu, susjedne države, reljefne oblike i vode Hrvatske te se služe kartom (boje, znakovi, legenda).",
+          "kljucniPojmovi": ["geografska karta", "državna granica", "susjedne države", "reljef", "legenda karte", "rijeke", "jezera"],
+          "izvori": [26, 27, 29, 129]
+        },
+        {
+          "id": "europska-unija",
+          "naziv": "Europska unija",
+          "opis": "Učenici znaju da je Hrvatska članica Europske unije, prepoznaju simbole Europske unije i opisuju što članstvo znači za Hrvatsku.",
+          "kljucniPojmovi": ["Europska unija", "zastava EU", "himna EU", "država članica", "euro"],
+          "izvori": [99]
+        }
+      ]
+    },
+    {
+      "id": "krajevi-republike-hrvatske",
+      "naziv": "Krajevi Republike Hrvatske",
+      "ikona": "🏞️",
+      "lekcije": [
+        {
+          "id": "nizinski-krajevi",
+          "naziv": "Nizinski krajevi",
+          "opis": "Učenici opisuju prirodna obilježja nizinskih krajeva (ravnice, velike rijeke, plodno tlo), gospodarske djelatnosti (ratarstvo, stočarstvo, prerada hrane), naselja te znamenitosti i običaje.",
+          "kljucniPojmovi": ["nizina", "ravnica", "Sava", "Drava", "Dunav", "ratarstvo", "stočarstvo", "Osijek"],
+          "izvori": [39, 40, 41, 42, 43, 44, 45, 65]
+        },
+        {
+          "id": "brezuljkasti-krajevi",
+          "naziv": "Brežuljkasti krajevi",
+          "opis": "Učenici opisuju prirodna obilježja brežuljkastih krajeva (brežuljci, gorice), gospodarske djelatnosti (vinogradarstvo, voćarstvo, industrija), naselja te povijesne i kulturne znamenitosti.",
+          "kljucniPojmovi": ["brežuljci", "gorice", "Hrvatsko zagorje", "vinogradarstvo", "voćarstvo", "dvorci", "Varaždin"],
+          "izvori": [30, 31, 32, 33, 34, 36, 37, 38, 45, 65]
+        },
+        {
+          "id": "gorski-krajevi",
+          "naziv": "Gorski krajevi",
+          "opis": "Učenici opisuju prirodna obilježja gorskih krajeva (planine, šume, oštra klima), gospodarske djelatnosti (šumarstvo, drvna industrija, turizam), rijetka naselja te baštinu i pučke običaje.",
+          "kljucniPojmovi": ["gorje", "planina", "Gorski kotar", "Lika", "šumarstvo", "drvna industrija", "Gospić"],
+          "izvori": [57, 58, 59, 60, 61, 63, 64, 65]
+        },
+        {
+          "id": "primorski-krajevi",
+          "naziv": "Primorski krajevi",
+          "opis": "Učenici opisuju prirodna obilježja primorskih krajeva (more, otoci, sredozemna klima), gospodarske djelatnosti (turizam, ribarstvo, brodogradnja, maslinarstvo), naselja i kulturno-povijesne znamenitosti.",
+          "kljucniPojmovi": ["Jadransko more", "otok", "obala", "turizam", "ribarstvo", "brodogradnja", "Split", "Rijeka", "Dubrovnik"],
+          "izvori": [50, 51, 52, 53, 54, 55, 56, 65, 117]
+        },
+        {
+          "id": "usporedba-krajeva",
+          "naziv": "Usporedba krajeva",
+          "opis": "Učenici uspoređuju krajeve Hrvatske prema reljefu, klimi, gospodarstvu i načinu života te objašnjavaju kako prirodna obilježja utječu na život ljudi.",
+          "kljucniPojmovi": ["reljef", "gospodarstvo", "način života", "prirodna obilježja", "raznolikost"],
+          "izvori": [29, 37, 41, 48, 52, 59, 65, 100]
+        },
+        {
+          "id": "kulturna-bastina-i-obicaji",
+          "naziv": "Kulturna baština i običaji",
+          "opis": "Učenici razlikuju materijalnu i nematerijalnu kulturnu baštinu, navode primjere baštine pod zaštitom UNESCO-a te objašnjavaju zašto je važno čuvati baštinu i običaje.",
+          "kljucniPojmovi": ["kulturna baština", "materijalna baština", "nematerijalna baština", "UNESCO", "običaji", "tradicijske igračke"],
+          "izvori": [34, 35, 36, 43, 54, 61, 62, 63, 131, 132]
+        }
+      ]
+    },
+    {
+      "id": "covjek",
+      "naziv": "Čovjek i zdravlje",
+      "ikona": "🫀",
+      "lekcije": [
+        {
+          "id": "covjek-prava-i-duznosti",
+          "naziv": "Čovjek, prava i dužnosti",
+          "opis": "Učenici opisuju čovjeka kao prirodno, misaono i društveno biće, navode prava i dužnosti djece, prepoznaju kršenje dječjih prava te razlikuju obveze od slobodnoga vremena.",
+          "kljucniPojmovi": ["prirodno biće", "misaono biće", "društveno biće", "dječja prava", "dužnosti", "slobodno vrijeme"],
+          "izvori": [1, 2, 66, 67, 68, 84]
+        },
+        {
+          "id": "organi-za-kretanje",
+          "naziv": "Organi za kretanje",
+          "opis": "Učenici opisuju kostur, zglobove i mišiće kao sustav organa za kretanje, njihovu povezanost i ulogu te važnost tjelovježbe i pravilnoga držanja.",
+          "kljucniPojmovi": ["kostur", "kost", "zglob", "mišić", "kretanje", "pravilno držanje"],
+          "izvori": [69, 70, 71, 75]
+        },
+        {
+          "id": "organi-za-probavu",
+          "naziv": "Organi za probavu",
+          "opis": "Učenici navode organe sustava za probavu (usta, jednjak, želudac, crijeva, jetra) redom kojim hrana prolazi i opisuju njihovu ulogu.",
+          "kljucniPojmovi": ["probava", "usta", "jednjak", "želudac", "tanko crijevo", "debelo crijevo", "jetra"],
+          "izvori": [72, 75, 85]
+        },
+        {
+          "id": "disanje-krvotok-i-izlucivanje",
+          "naziv": "Disanje, krvotok i izlučivanje",
+          "opis": "Učenici opisuju organe za disanje (nos, dušnik, pluća), krvotok (srce, krvne žile, krv) i izlučivanje (bubrezi, mokraćni mjehur) te njihovu ulogu.",
+          "kljucniPojmovi": ["pluća", "dušnik", "srce", "krvne žile", "krv", "bubrezi", "izlučivanje"],
+          "izvori": [73, 74, 75]
+        },
+        {
+          "id": "zivcani-sustav-i-osjetila",
+          "naziv": "Živčani sustav i osjetila",
+          "opis": "Učenici opisuju dijelove živčanoga sustava (mozak, leđna moždina, živci) i osjetila (vid, sluh, njuh, okus, dodir) te kako nas povezuju s okolišem.",
+          "kljucniPojmovi": ["mozak", "leđna moždina", "živci", "osjetila", "vid", "sluh", "njuh", "okus", "dodir"],
+          "izvori": [77, 78, 80]
+        },
+        {
+          "id": "zdravlje-rast-i-razvoj",
+          "naziv": "Zdravlje, rast i razvoj",
+          "opis": "Učenici opisuju promjene tijekom rasta i razvoja, brigu o zdravlju (prehrana, tjelovježba, higijena, odmor) i odgovorno korištenje tehnologije.",
+          "kljucniPojmovi": ["rast i razvoj", "zdravlje", "prehrana", "tjelovježba", "higijena", "odmor", "zaslon"],
+          "izvori": [71, 76, 79, 81, 86, 135]
+        },
+        {
+          "id": "ovisnosti-nasilje-i-trazenje-pomoci",
+          "naziv": "Ovisnosti, nasilje i traženje pomoći",
+          "opis": "Učenici navode vrste ovisnosti i njihov štetan utjecaj na zdravlje, prepoznaju nasilje i znaju kome se obratiti za pomoć.",
+          "kljucniPojmovi": ["ovisnost", "pušenje", "alkohol", "ovisnost o ekranima", "nasilje", "traženje pomoći"],
+          "izvori": [79, 81, 82, 83, 87]
+        }
+      ]
+    },
+    {
+      "id": "hrvatska-povijest",
+      "naziv": "Hrvatska povijest",
+      "ikona": "🏰",
+      "lekcije": [
+        {
+          "id": "dolazak-hrvata-i-vladari",
+          "naziv": "Dolazak Hrvata i hrvatski vladari",
+          "opis": "Učenici opisuju dolazak Hrvata, dvije kneževine i prijelaz na kršćanstvo te navode važne hrvatske vladare od 9. do 12. stoljeća (Trpimir, Branimir, Tomislav, Petar Krešimir IV., Zvonimir) i spomenike toga razdoblja.",
+          "kljucniPojmovi": ["dolazak Hrvata", "kneževina", "kršćanstvo", "knez Trpimir", "kralj Tomislav", "Petar Krešimir IV.", "Bašćanska ploča"],
+          "izvori": [88, 89, 90, 91, 101]
+        },
+        {
+          "id": "od-12-do-17-stoljeca",
+          "naziv": "Od 12. do 17. stoljeća",
+          "opis": "Učenici navode značajne osobe i događaje hrvatske prošlosti od kraja 11. do 17. stoljeća te kulturno-povijesne spomenike toga razdoblja.",
+          "kljucniPojmovi": ["Hrvatsko-Ugarsko Kraljevstvo", "Osmanlije", "Zrinski", "Frankopani", "kulturni spomenik"],
+          "izvori": [92, 95, 96]
+        },
+        {
+          "id": "borba-za-hrvatski-jezik",
+          "naziv": "Borba za hrvatski jezik",
+          "opis": "Učenici opisuju borbu za hrvatski jezik i hrvatske velikane 19. stoljeća (narodni preporod, Ljudevit Gaj) te kada je hrvatski postao službeni jezik.",
+          "kljucniPojmovi": ["hrvatski narodni preporod", "Ljudevit Gaj", "službeni jezik", "19. stoljeće"],
+          "izvori": [93, 94]
+        },
+        {
+          "id": "zivot-u-proslosti",
+          "naziv": "Život u prošlosti",
+          "opis": "Učenici opisuju kako su Hrvati živjeli u zajednicama u prošlosti (obitelj, selo, poslovi, običaji) i uspoređuju to sa sadašnjošću.",
+          "kljucniPojmovi": ["prošlost", "zajednica", "selo", "zadruga", "običaji"],
+          "izvori": [97]
+        },
+        {
+          "id": "osamostaljenje-republike-hrvatske",
+          "naziv": "Osamostaljenje Republike Hrvatske",
+          "opis": "Učenici opisuju uzroke i posljedice osamostaljenja Republike Hrvatske, Domovinski rat i međunarodno priznanje.",
+          "kljucniPojmovi": ["samostalnost", "Domovinski rat", "međunarodno priznanje", "Dan državnosti"],
+          "izvori": [98]
+        },
+        {
+          "id": "vremenska-crta",
+          "naziv": "Vremenska crta",
+          "opis": "Učenici smještaju važne događaje i osobe iz hrvatske povijesti na vremensku crtu (lentu vremena) i određuju njihov redoslijed i stoljeće.",
+          "kljucniPojmovi": ["vremenska crta", "lenta vremena", "stoljeće", "redoslijed događaja"],
+          "izvori": [91, 95, 101, 130]
+        }
+      ]
+    },
+    {
+      "id": "biljke-zivotinje-i-zivotne-zajednice",
+      "naziv": "Biljke, životinje i životne zajednice",
+      "ikona": "🌳",
+      "lekcije": [
+        {
+          "id": "zivot-biljaka",
+          "naziv": "Život biljaka",
+          "opis": "Učenici navode dijelove biljke (korijen, stabljika, list, cvijet, plod) i njihovu ulogu, opisuju kako životni uvjeti utječu na biljke i kako se izrađuje herbarij.",
+          "kljucniPojmovi": ["korijen", "stabljika", "list", "cvijet", "plod", "sjemenka", "herbarij"],
+          "izvori": [102, 103, 104, 108, 116]
+        },
+        {
+          "id": "zivotinje",
+          "naziv": "Životinje",
+          "opis": "Učenici razlikuju domaće i divlje životinje i kućne ljubimce te ih razvrstavaju prema načinu prehrane na biljojede, mesojede i svejede.",
+          "kljucniPojmovi": ["domaće životinje", "divlje životinje", "kućni ljubimci", "biljojedi", "mesojedi", "svejedi"],
+          "izvori": [105, 106, 108]
+        },
+        {
+          "id": "staniste-i-hranidbeni-odnosi",
+          "naziv": "Stanište i hranidbeni odnosi",
+          "opis": "Učenici objašnjavaju što je stanište i životna zajednica, opisuju hranidbeni lanac (proizvođači, potrošači, razlagači) i međuovisnost biljaka i životinja.",
+          "kljucniPojmovi": ["stanište", "životna zajednica", "hranidbeni lanac", "proizvođači", "potrošači", "razlagači"],
+          "izvori": [109, 110, 111, 125, 135]
+        },
+        {
+          "id": "travnjak",
+          "naziv": "Travnjak",
+          "opis": "Učenici opisuju životnu zajednicu travnjaka, njegove životne uvjete te tipične biljke i životinje travnjaka.",
+          "kljucniPojmovi": ["travnjak", "livada", "trave", "kukci", "oprašivanje", "životni uvjeti"],
+          "izvori": [112, 113, 115, 122]
+        },
+        {
+          "id": "suma",
+          "naziv": "Šuma",
+          "opis": "Učenici opisuju životnu zajednicu šume, njezine slojeve te tipične biljke i životinje šume.",
+          "kljucniPojmovi": ["šuma", "slojevi šume", "listopadno drveće", "crnogorično drveće", "šumske životinje"],
+          "izvori": [114, 115, 122]
+        },
+        {
+          "id": "more",
+          "naziv": "More",
+          "opis": "Učenici opisuju životnu zajednicu mora, životne uvjete u moru, prilagodbe biljaka i životinja na život u moru i uz more te važnost Jadranskoga mora za Hrvatsku.",
+          "kljucniPojmovi": ["more", "Jadransko more", "morske biljke", "morske životinje", "prilagodbe", "slanost"],
+          "izvori": [117, 118, 119, 120, 121, 122]
+        },
+        {
+          "id": "prilagodbe-i-promjene-u-prirodi",
+          "naziv": "Prilagodbe i promjene u prirodi",
+          "opis": "Učenici opisuju promjene u prirodi tijekom godišnjih doba, prilagodbe biljaka i životinja na zimske uvjete (seoba, zimski san) i životne cikluse.",
+          "kljucniPojmovi": ["prilagodba", "zimski san", "seoba ptica", "godišnja doba", "životni ciklus"],
+          "izvori": [49, 119, 125]
+        },
+        {
+          "id": "zasticena-priroda",
+          "naziv": "Zaštićena priroda",
+          "opis": "Učenici navode nacionalne parkove i parkove prirode Hrvatske, ugrožene i zakonom zaštićene biljke i životinje te pravila ponašanja u zaštićenim dijelovima prirode.",
+          "kljucniPojmovi": ["nacionalni park", "park prirode", "zaštićene vrste", "ugrožene vrste", "Plitvička jezera"],
+          "izvori": [107, 123, 124]
+        }
+      ]
+    }
+  ]
+}

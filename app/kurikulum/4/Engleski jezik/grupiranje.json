@@ -1,0 +1,217 @@
+{
+  "razred": 4,
+  "predmet": "engleski-jezik",
+  "napomena": "Prijedlog grupiranja 30 nastavnih cjelina iz engleski_jezik_poglavlja.txt. Cjeline slijede stupac tema iz csv-a. Nazivi jedinica (npr. Meet my family) dolaze iz jednoga udžbenika, a škole koriste različite, pa su lekcije teme vokabulara i gramatike razine A1 za 4. razred. Pitanja su na engleskom s uputom na hrvatskom gdje je potrebno. Polje izvori sadrži brojeve redaka iz txt datoteke.",
+  "cjeline": [
+    {
+      "id": "skola",
+      "naziv": "Škola",
+      "ikona": "🏫",
+      "lekcije": [
+        {
+          "id": "school-subjects-and-questions",
+          "naziv": "Školski predmeti i pitanja (School subjects)",
+          "opis": "Učenici imenuju školske predmete i školski pribor na engleskom te postavljaju i odgovaraju na pitanja s What, Where, When, Who i How many.",
+          "kljucniPojmovi": ["school subjects", "Maths", "English", "Art", "PE", "What", "Where", "When", "Who", "How many"],
+          "izvori": [1, 2]
+        }
+      ]
+    },
+    {
+      "id": "obitelj-i-prijatelji",
+      "naziv": "Obitelj i prijatelji",
+      "ikona": "👫",
+      "lekcije": [
+        {
+          "id": "family",
+          "naziv": "Obitelj (Family)",
+          "opis": "Učenici imenuju članove obitelji i koriste posvojni 's (my sister's bike) te posvojne pridjeve (my, your, his, her).",
+          "kljucniPojmovi": ["mother", "father", "brother", "sister", "grandparents", "aunt", "uncle", "cousin", "possessive 's", "my, your, his, her"],
+          "izvori": [3]
+        },
+        {
+          "id": "describing-people",
+          "naziv": "Opisivanje osoba (Describing people)",
+          "opis": "Učenici opisuju izgled i osobine prijatelja i čudovišta koristeći have got / has got i pridjeve (tall, short, curly hair, friendly).",
+          "kljucniPojmovi": ["have got", "has got", "tall", "short", "hair", "eyes", "friendly", "funny"],
+          "izvori": [4, 6]
+        },
+        {
+          "id": "countries-and-nationalities",
+          "naziv": "Države i nacionalnosti (Countries)",
+          "opis": "Učenici imenuju države i nacionalnosti (Croatia – Croatian, England – English) te pitaju i odgovaraju odakle je tko (Where are you from? I'm from…).",
+          "kljucniPojmovi": ["country", "nationality", "Croatia", "Croatian", "Where are you from?", "I'm from"],
+          "izvori": [5]
+        }
+      ]
+    },
+    {
+      "id": "tijelo-i-zdravlje",
+      "naziv": "Tijelo i zdravlje",
+      "ikona": "🩺",
+      "lekcije": [
+        {
+          "id": "parts-of-the-body",
+          "naziv": "Dijelovi tijela (Parts of the body)",
+          "opis": "Učenici imenuju dijelove tijela na engleskom, uključujući nepravilnu množinu (foot – feet, tooth – teeth).",
+          "kljucniPojmovi": ["head", "shoulders", "arm", "hand", "leg", "foot", "feet", "tooth", "teeth"],
+          "izvori": [7]
+        },
+        {
+          "id": "at-the-doctors",
+          "naziv": "Kod liječnika (At the doctor's)",
+          "opis": "Učenici opisuju bolesti i tegobe (I've got a headache, a cold) i daju savjete (You should rest. You shouldn't…).",
+          "kljucniPojmovi": ["What's the matter?", "headache", "toothache", "cold", "temperature", "should", "shouldn't"],
+          "izvori": [8, 9]
+        },
+        {
+          "id": "sports-and-can",
+          "naziv": "Sport i can (Sports)",
+          "opis": "Učenici imenuju sportove i aktivnosti, izriču što mogu, a što ne mogu (can / can't) i što vole raditi (I like swimming).",
+          "kljucniPojmovi": ["football", "basketball", "swimming", "can", "can't", "play", "go", "like + -ing"],
+          "izvori": [9, 10]
+        }
+      ]
+    },
+    {
+      "id": "vrijeme-i-praznici",
+      "naziv": "Vrijeme i praznici",
+      "ikona": "🌦️",
+      "lekcije": [
+        {
+          "id": "weather-and-seasons",
+          "naziv": "Vrijeme i godišnja doba (Weather)",
+          "opis": "Učenici opisuju vrijeme (It's sunny, rainy, windy) i nabrajaju godišnja doba i mjesece.",
+          "kljucniPojmovi": ["What's the weather like?", "sunny", "rainy", "windy", "snowy", "cloudy", "seasons", "months"],
+          "izvori": [11]
+        },
+        {
+          "id": "holidays",
+          "naziv": "Praznici i putovanja (Holidays)",
+          "opis": "Učenici govore o planovima za praznike i što će ponijeti na putovanje (going to, suitcase, passport).",
+          "kljucniPojmovi": ["holiday", "travel", "suitcase", "beach", "mountains", "going to"],
+          "izvori": [12]
+        },
+        {
+          "id": "celebrations",
+          "naziv": "Blagdani (Christmas and Easter)",
+          "opis": "Učenici imenuju pojmove povezane s Božićem i Uskrsom te znaju čestitati blagdane na engleskom.",
+          "kljucniPojmovi": ["Christmas", "Merry Christmas", "presents", "Christmas tree", "Easter", "Easter egg", "Happy Easter"],
+          "izvori": [13, 25]
+        }
+      ]
+    },
+    {
+      "id": "dom-i-okolica",
+      "naziv": "Dom i okolica",
+      "ikona": "🏠",
+      "lekcije": [
+        {
+          "id": "my-home",
+          "naziv": "Moj dom (My home)",
+          "opis": "Učenici imenuju prostorije i namještaj te opisuju gdje se što nalazi prijedlozima (in, on, under, next to, behind) i izrazom There is / There are.",
+          "kljucniPojmovi": ["bedroom", "kitchen", "living room", "bathroom", "in", "on", "under", "next to", "behind", "there is", "there are"],
+          "izvori": [14]
+        },
+        {
+          "id": "in-town-and-traffic",
+          "naziv": "U gradu i promet (In town)",
+          "opis": "Učenici imenuju mjesta u gradu i prometne znakove, daju upute za put (go straight on, turn left) i znaju pravila sigurnoga prometa.",
+          "kljucniPojmovi": ["traffic lights", "zebra crossing", "go straight on", "turn left", "turn right", "stop", "wait"],
+          "izvori": [15]
+        },
+        {
+          "id": "london-and-the-uk",
+          "naziv": "London i Ujedinjeno Kraljevstvo (The UK)",
+          "opis": "Učenici imenuju poznate znamenitosti Londona (Big Ben, Tower Bridge, London Eye) i dijelove Ujedinjenoga Kraljevstva.",
+          "kljucniPojmovi": ["London", "Big Ben", "Tower Bridge", "London Eye", "England", "Scotland", "Wales", "Northern Ireland"],
+          "izvori": [19]
+        }
+      ]
+    },
+    {
+      "id": "odjeca",
+      "naziv": "Odjeća",
+      "ikona": "👕",
+      "lekcije": [
+        {
+          "id": "clothes",
+          "naziv": "Odjeća (Clothes)",
+          "opis": "Učenici imenuju odjevne predmete, opisuju što tko nosi (He's wearing…) i biraju odjeću prema vremenu i prigodi.",
+          "kljucniPojmovi": ["T-shirt", "jeans", "jumper", "jacket", "dress", "shoes", "wearing", "What should I wear?"],
+          "izvori": [17, 18]
+        }
+      ]
+    },
+    {
+      "id": "zivi-svijet",
+      "naziv": "Živi svijet",
+      "ikona": "🌿",
+      "lekcije": [
+        {
+          "id": "plants-and-garden",
+          "naziv": "Biljke i vrt (Plants)",
+          "opis": "Učenici imenuju dijelove biljke i stvorenja iz vrta (bugs, insects) te opisuju kako biljka raste.",
+          "kljucniPojmovi": ["plant", "seed", "root", "leaf", "flower", "grow", "garden", "insects"],
+          "izvori": [16, 20]
+        },
+        {
+          "id": "animals",
+          "naziv": "Životinje (Animals)",
+          "opis": "Učenici imenuju domaće, divlje i šumske životinje, opisuju što životinje mogu raditi i gdje žive.",
+          "kljucniPojmovi": ["wild animals", "farm animals", "forest", "can fly", "can swim", "live in"],
+          "izvori": [21, 22]
+        }
+      ]
+    },
+    {
+      "id": "hrana",
+      "naziv": "Hrana",
+      "ikona": "🍎",
+      "lekcije": [
+        {
+          "id": "food-and-drinks",
+          "naziv": "Hrana i piće (Food)",
+          "opis": "Učenici imenuju hranu i piće, razlikuju zdravu od nezdrave hrane te koriste some / any i I'd like… pri naručivanju.",
+          "kljucniPojmovi": ["fruit", "vegetables", "healthy", "unhealthy", "some", "any", "I'd like", "hungry"],
+          "izvori": [23, 24]
+        },
+        {
+          "id": "cooking",
+          "naziv": "Kuhanje i recepti (Cooking)",
+          "opis": "Učenici razumiju jednostavan recept i upute u imperativu (mix, cut, add, bake) te imenuju kuhinjski pribor.",
+          "kljucniPojmovi": ["recipe", "mix", "cut", "add", "bake", "bowl", "spoon"],
+          "izvori": [26]
+        }
+      ]
+    },
+    {
+      "id": "moje-vrijeme",
+      "naziv": "Moje vrijeme",
+      "ikona": "⏰",
+      "lekcije": [
+        {
+          "id": "daily-routine",
+          "naziv": "Dnevna rutina (Daily routine)",
+          "opis": "Učenici opisuju svoj dan i navike u sadašnjem vremenu (I get up at…, He goes to school) i koriste priloge učestalosti (always, sometimes, never).",
+          "kljucniPojmovi": ["get up", "have breakfast", "go to school", "present simple", "always", "usually", "sometimes", "never"],
+          "izvori": [27, 29]
+        },
+        {
+          "id": "telling-the-time",
+          "naziv": "Koliko je sati? (Telling the time)",
+          "opis": "Učenici pitaju i govore koliko je sati (What time is it? It's half past three, quarter to five) i dane u tjednu.",
+          "kljucniPojmovi": ["What time is it?", "o'clock", "half past", "quarter past", "quarter to", "days of the week"],
+          "izvori": [28]
+        },
+        {
+          "id": "music-and-hobbies",
+          "naziv": "Glazba i hobiji (Music)",
+          "opis": "Učenici imenuju glazbene instrumente i hobije te govore što vole raditi u slobodno vrijeme (play the guitar, I love dancing).",
+          "kljucniPojmovi": ["guitar", "piano", "drums", "violin", "play the…", "hobby", "free time"],
+          "izvori": [29, 30]
+        }
+      ]
+    }
+  ]
+}

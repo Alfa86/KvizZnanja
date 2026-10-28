@@ -1,0 +1,275 @@
+{
+  "lekcijaId": "zbrajanje-i-oduzimanje-do-100",
+  "pitanja": [
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 30 + 40?",
+      "ponudeni": ["60", "70", "80", "34"],
+      "tocan": 1,
+      "objasnjenje": "3 desetice i 4 desetice su 7 desetica. Zato je 30 + 40 = 70.",
+      "savjet": "Zbroji desetice kao da zbrajaš male brojeve."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-002",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 25 + 4?",
+      "ponudeni": ["29", "65", "28", "21"],
+      "tocan": 0,
+      "objasnjenje": "Desetice ostaju iste, a jedinice zbrojiš: 5 + 4 = 9. Zato je 25 + 4 = 29.",
+      "savjet": "Zbroji samo jedinice, desetice ostaju iste."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-003",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 58 − 6?",
+      "ponudeni": ["64", "53", "52", "58"],
+      "tocan": 2,
+      "objasnjenje": "Od jedinica oduzmeš jedinice: 8 − 6 = 2. Zato je 58 − 6 = 52.",
+      "savjet": "Oduzmi samo jedinice, desetice ostaju iste."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-004",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 90 − 50?",
+      "ponudeni": ["50", "30", "140", "40"],
+      "tocan": 3,
+      "objasnjenje": "9 desetica manje 5 desetica su 4 desetice. Zato je 90 − 50 = 40.",
+      "savjet": "Oduzmi desetice kao da oduzimaš male brojeve."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove rezultat zbrajanja?",
+      "ponudeni": ["Razlika", "Zbroj", "Pribrojnik", "Umanjenik"],
+      "tocan": 1,
+      "objasnjenje": "Brojeve koje zbrajamo zovemo pribrojnici, a rezultat zovemo zbroj.",
+      "savjet": "Sjeti se kako zovemo broj koji dobiješ kad nešto dodaješ."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove rezultat oduzimanja?",
+      "ponudeni": ["Zbroj", "Umanjitelj", "Razlika", "Pribrojnik"],
+      "tocan": 2,
+      "objasnjenje": "Kad oduzimaš, rezultat se zove razlika. Na primjer, u 9 − 4 = 5 broj 5 je razlika.",
+      "savjet": "Sjeti se kako zovemo broj koji ostane nakon oduzimanja."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-007",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 43 + 20?",
+      "ponudeni": ["45", "53", "63", "64"],
+      "tocan": 2,
+      "objasnjenje": "Desetice zbrojiš: 4 + 2 = 6, a jedinica 3 ostaje. Zato je 43 + 20 = 63.",
+      "savjet": "Dodaj samo desetice, jedinice ostaju iste."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-008",
+      "tezina": "lagano",
+      "pitanje": "Koliko desetica ima broj 74?",
+      "ponudeni": ["4", "7", "74", "11"],
+      "tocan": 1,
+      "objasnjenje": "Broj 74 ima 7 desetica i 4 jedinice.",
+      "savjet": "U dvoznamenkastom broju desetice pišemo lijevo, a jedinice desno."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-009",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 67 − 30?",
+      "ponudeni": ["37", "97", "64", "47"],
+      "tocan": 0,
+      "objasnjenje": "Od desetica oduzmeš desetice: 6 − 3 = 3, a jedinica 7 ostaje. Zato je 67 − 30 = 37.",
+      "savjet": "Oduzmi samo desetice, jedinice ostaju iste."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-010",
+      "tezina": "lagano",
+      "pitanje": "U računu 12 + 5 = 17 broj 12 je:",
+      "ponudeni": ["umanjenik", "zbroj", "razlika", "pribrojnik"],
+      "tocan": 3,
+      "objasnjenje": "Brojevi koje zbrajamo su pribrojnici. Broj 12 je prvi pribrojnik.",
+      "savjet": "Pogledaj je li to račun zbrajanja ili oduzimanja."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-011",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 38 + 7?",
+      "ponudeni": ["35", "44", "45", "315"],
+      "tocan": 2,
+      "objasnjenje": "Prvo dodaš 2 do 40, pa još 5: 38 + 2 + 5 = 45.",
+      "savjet": "Prvo nadopuni do pune desetice, pa dodaj ostatak."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-012",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 52 − 8?",
+      "ponudeni": ["44", "56", "46", "43"],
+      "tocan": 0,
+      "objasnjenje": "Prvo oduzmeš 2 do 50, pa još 6: 52 − 2 − 6 = 44.",
+      "savjet": "Prvo oduzmi do pune desetice, pa oduzmi ostatak."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-013",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 46 + 27?",
+      "ponudeni": ["63", "73", "72", "83"],
+      "tocan": 1,
+      "objasnjenje": "Desetice: 40 + 20 = 60. Jedinice: 6 + 7 = 13. Zajedno 60 + 13 = 73.",
+      "savjet": "Prvo zbroji desetice, pa jedinice, i pazi na prijelaz desetice."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-014",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 81 − 35?",
+      "ponudeni": ["54", "56", "46", "45"],
+      "tocan": 2,
+      "objasnjenje": "Prvo oduzmeš desetice: 81 − 30 = 51. Zatim oduzmeš jedinice: 51 − 5 = 46.",
+      "savjet": "Prvo oduzmi desetice, a onda jedinice."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-015",
+      "tezina": "srednje",
+      "pitanje": "Ana ima 24 bombona. Dobila je još 9. Koliko bombona sada ima?",
+      "ponudeni": ["33", "23", "15", "32"],
+      "tocan": 0,
+      "objasnjenje": "Ana je dobila još bombona pa zbrajaš: 24 + 9 = 33.",
+      "savjet": "Kad nešto dobiješ, imaš više, pa zbrajaš."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-016",
+      "tezina": "srednje",
+      "pitanje": "U razredu su 32 učenika. Na izlet ih je otišlo 17. Koliko ih je ostalo u školi?",
+      "ponudeni": ["25", "49", "15", "14"],
+      "tocan": 2,
+      "objasnjenje": "Od svih učenika oduzmeš one koji su otišli: 32 − 17 = 15.",
+      "savjet": "Kad netko ode, ostane ih manje, pa oduzimaš."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-017",
+      "tezina": "srednje",
+      "pitanje": "Kojim zbrajanjem možeš provjeriti račun 63 − 28 = 35?",
+      "ponudeni": ["63 + 28 = 91", "35 + 63 = 98", "28 + 7 = 35", "35 + 28 = 63"],
+      "tocan": 3,
+      "objasnjenje": "Razliku zbrojiš s umanjiteljem i dobiješ umanjenik: 35 + 28 = 63.",
+      "savjet": "Razlika i umanjitelj zajedno daju umanjenik."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-018",
+      "tezina": "srednje",
+      "pitanje": "Koji broj nedostaje? 45 + __ = 60",
+      "ponudeni": ["25", "15", "105", "5"],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati pribrojnik dobiješ oduzimanjem: 60 − 45 = 15.",
+      "savjet": "Razmisli koliko nedostaje od manjeg broja do većeg."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-019",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 70 − 26?",
+      "ponudeni": ["56", "54", "44", "46"],
+      "tocan": 2,
+      "objasnjenje": "Prvo oduzmeš desetice: 70 − 20 = 50. Zatim jedinice: 50 − 6 = 44.",
+      "savjet": "Prvo oduzmi desetice, a onda jedinice."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-020",
+      "tezina": "srednje",
+      "pitanje": "U računu 50 − 18 = 32 broj 18 je:",
+      "ponudeni": ["umanjitelj", "umanjenik", "razlika", "pribrojnik"],
+      "tocan": 0,
+      "objasnjenje": "Broj koji oduzimamo zove se umanjitelj. Ovdje od 50 oduzimamo 18.",
+      "savjet": "Razmisli koji broj u oduzimanju umanjuje onaj prvi broj."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-021",
+      "tezina": "tesko",
+      "pitanje": "Marko je imao 45 sličica. Dobio je još 18, a onda je 23 dao bratu. Koliko mu je sličica ostalo?",
+      "ponudeni": ["40", "86", "50", "30"],
+      "tocan": 0,
+      "objasnjenje": "Prvo zbrojiš: 45 + 18 = 63. Zatim oduzmeš: 63 − 23 = 40.",
+      "savjet": "Riješi zadatak u dva koraka: prvo što je dobio, pa što je dao."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-022",
+      "tezina": "tesko",
+      "pitanje": "Zbroj dvaju brojeva je 72. Jedan pribrojnik je 39. Koliki je drugi pribrojnik?",
+      "ponudeni": ["43", "33", "111", "23"],
+      "tocan": 1,
+      "objasnjenje": "Drugi pribrojnik dobiješ kad od zbroja oduzmeš poznati pribrojnik: 72 − 39 = 33.",
+      "savjet": "Od zbroja oduzmi pribrojnik koji znaš."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-023",
+      "tezina": "tesko",
+      "pitanje": "Koji broj trebaš oduzeti od 91 da dobiješ 47?",
+      "ponudeni": ["44", "54", "138", "46"],
+      "tocan": 0,
+      "objasnjenje": "Umanjitelj dobiješ kad od umanjenika oduzmeš razliku: 91 − 47 = 44. Provjera: 91 − 44 = 47.",
+      "savjet": "Od većeg broja oduzmi manji, pa provjeri svoj rezultat."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-024",
+      "tezina": "tesko",
+      "pitanje": "Na prvoj polici je 36 knjiga. Na drugoj polici je 15 knjiga više. Koliko je knjiga na obje police zajedno?",
+      "ponudeni": ["51", "87", "77", "66"],
+      "tocan": 1,
+      "objasnjenje": "Na drugoj polici je 36 + 15 = 51 knjiga. Zajedno je 36 + 51 = 87 knjiga.",
+      "savjet": "Prvo izračunaj koliko je knjiga na drugoj polici."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-025",
+      "tezina": "tesko",
+      "pitanje": "Koji je račun točan?",
+      "ponudeni": ["47 + 26 = 63", "56 + 18 = 64", "90 − 43 = 57", "82 − 37 = 45"],
+      "tocan": 3,
+      "objasnjenje": "Točno je 82 − 37 = 45 jer je 45 + 37 = 82. Ostali računi su netočni: 47 + 26 = 73, 56 + 18 = 74, 90 − 43 = 47.",
+      "savjet": "Izračunaj svaki račun sam i pazi na prijelaz desetice."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-026",
+      "tezina": "tesko",
+      "pitanje": "Knjiga ima 100 stranica. Iva je u ponedjeljak pročitala 27, a u utorak 35 stranica. Koliko joj je stranica ostalo?",
+      "ponudeni": ["38", "62", "48", "28"],
+      "tocan": 0,
+      "objasnjenje": "Iva je pročitala 27 + 35 = 62 stranice. Ostalo joj je 100 − 62 = 38 stranica.",
+      "savjet": "Prvo izračunaj koliko je stranica Iva ukupno pročitala."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-027",
+      "tezina": "tesko",
+      "pitanje": "Koji je broj za 26 veći od razlike brojeva 80 i 35?",
+      "ponudeni": ["45", "71", "61", "19"],
+      "tocan": 1,
+      "objasnjenje": "Razlika je 80 − 35 = 45. Broj za 26 veći je 45 + 26 = 71.",
+      "savjet": "Prvo izračunaj razliku, a onda razmisli znači li „veći” dodati ili oduzeti."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-028",
+      "tezina": "tesko",
+      "pitanje": "Umanjenik je 64, a razlika je 29. Koliki je umanjitelj?",
+      "ponudeni": ["93", "45", "25", "35"],
+      "tocan": 3,
+      "objasnjenje": "Umanjitelj dobiješ kad od umanjenika oduzmeš razliku: 64 − 29 = 35. Provjera: 64 − 35 = 29.",
+      "savjet": "Sjeti se: umanjenik minus umanjitelj daje razliku."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-029",
+      "tezina": "tesko",
+      "pitanje": "U autobusu je bilo 48 putnika. Na stanici je izašlo 19, a ušlo 12. Koliko je sada putnika u autobusu?",
+      "ponudeni": ["55", "17", "41", "43"],
+      "tocan": 2,
+      "objasnjenje": "Kad su izašli, ostalo je 48 − 19 = 29 putnika. Kad su ušli, bilo ih je 29 + 12 = 41.",
+      "savjet": "Oni koji izađu smanjuju broj putnika, a oni koji uđu ga povećavaju."
+    },
+    {
+      "id": "2-matematika-zbrajanje-i-oduzimanje-do-100-030",
+      "tezina": "tesko",
+      "pitanje": "Zbroj dvaju brojeva je 100, a njihova razlika je 20. Koji su to brojevi?",
+      "ponudeni": ["50 i 50", "70 i 30", "60 i 40", "80 i 20"],
+      "tocan": 2,
+      "objasnjenje": "Brojevi 60 i 40 imaju zbroj 60 + 40 = 100 i razliku 60 − 40 = 20.",
+      "savjet": "Za svaki par provjeri i zbroj i razliku."
+    }
+  ]
+}

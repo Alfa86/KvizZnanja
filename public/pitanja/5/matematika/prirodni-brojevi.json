@@ -1,0 +1,275 @@
+{
+  "lekcijaId": "prirodni-brojevi",
+  "pitanja": [
+    {
+      "id": "5-matematika-prirodni-brojevi-001",
+      "tezina": "lagano",
+      "pitanje": "Koji je sljedbenik broja 4 999?",
+      "ponudeni": ["4 998", "5 000", "5 001", "4 990"],
+      "tocan": 1,
+      "objasnjenje": "Sljedbenik je broj za 1 veći: 4 999 + 1 = 5 000.",
+      "savjet": "Sljedbenik je broj koji dolazi odmah iza zadanog broja."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-002",
+      "tezina": "lagano",
+      "pitanje": "Koji je prethodnik broja 10 000?",
+      "ponudeni": ["9 999", "10 001", "9 000", "1 000"],
+      "tocan": 0,
+      "objasnjenje": "Prethodnik je broj za 1 manji: 10 000 − 1 = 9 999.",
+      "savjet": "Prethodnik je broj koji dolazi neposredno ispred zadanog broja."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-003",
+      "tezina": "lagano",
+      "pitanje": "Kolika je mjesna vrijednost znamenke 7 u broju 47 325?",
+      "ponudeni": ["7", "700", "7 000", "70 000"],
+      "tocan": 2,
+      "objasnjenje": "Znamenka 7 nalazi se na mjestu tisućica, pa je njezina mjesna vrijednost 7 000.",
+      "savjet": "Kreni od jedinica zdesna i odredi na kojem je mjestu ta znamenka."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-004",
+      "tezina": "lagano",
+      "pitanje": "Kojom se oznakom označava skup prirodnih brojeva zajedno s nulom?",
+      "ponudeni": ["N", "N₀", "Z", "R"],
+      "tocan": 1,
+      "objasnjenje": "Skup prirodnih brojeva označava se s N, a kad mu dodamo nulu, označavamo ga s N₀.",
+      "savjet": "Oznaka je slična oznaci skupa prirodnih brojeva, ali ima dodatak koji podsjeća na nulu."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-005",
+      "tezina": "lagano",
+      "pitanje": "Koji je najmanji prirodni broj?",
+      "ponudeni": ["10", "2", "0", "1"],
+      "tocan": 3,
+      "objasnjenje": "Prirodni brojevi služe za brojenje i počinju s 1. Nula ne pripada skupu N.",
+      "savjet": "Sjeti se kojim brojem počinješ kad brojiš predmete."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se čita broj 305 040?",
+      "ponudeni": ["tristo pedeset tisuća četrdeset", "tristo pet tisuća četrdeset", "trideset pet tisuća četiristo", "tristo pet tisuća četiristo"],
+      "tocan": 1,
+      "objasnjenje": "Broj podijeliš u razrede: 305 tisuća i 040. Zato ga čitaš „tristo pet tisuća četrdeset”.",
+      "savjet": "Podijeli broj u razrede po tri znamenke zdesna i pročitaj svaki razred posebno."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-007",
+      "tezina": "lagano",
+      "pitanje": "Koliko je broj 3 862 zaokružen na desetice?",
+      "ponudeni": ["3 860", "3 870", "3 900", "3 800"],
+      "tocan": 0,
+      "objasnjenje": "Znamenka jedinica je 2, što je manje od 5, pa zaokružuješ na manje: 3 860.",
+      "savjet": "Pogledaj znamenku jedinica i usporedi je s brojem pet."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-008",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 1 250 + 3 480?",
+      "ponudeni": ["4 730", "4 630", "4 720", "5 730"],
+      "tocan": 0,
+      "objasnjenje": "Zbrajaš mjesne vrijednosti: 1 250 + 3 480 = 4 730. Pazi da 2 stotice i 4 stotice s prijenosom daju 7 stotica.",
+      "savjet": "Potpiši brojeve jedan ispod drugoga i zbrajaj zdesna, pazeći na prijenos."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-009",
+      "tezina": "lagano",
+      "pitanje": "Koja je tvrdnja točna?",
+      "ponudeni": ["50 809 > 50 890", "50 890 < 50 809", "50 809 < 50 890", "50 809 = 50 890"],
+      "tocan": 2,
+      "objasnjenje": "Oba broja imaju jednake desettisućice, tisućice i stotice, ali 50 809 ima 0 desetica, a 50 890 ima 9 desetica. Zato je 50 809 < 50 890.",
+      "savjet": "Uspoređuj znamenke slijeva nadesno dok ne naiđeš na prvu različitu."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-010",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 6 · 700?",
+      "ponudeni": ["420", "42 000", "4 900", "4 200"],
+      "tocan": 3,
+      "objasnjenje": "Pomnožiš 6 · 7 = 42 i dopišeš dvije nule: 6 · 700 = 4 200.",
+      "savjet": "Pomnoži znamenke bez nula, a nule dopiši na kraju."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-011",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 8 + 4 · 5?",
+      "ponudeni": ["60", "28", "40", "17"],
+      "tocan": 1,
+      "objasnjenje": "Množenje ima prednost pred zbrajanjem: 4 · 5 = 20, a zatim 8 + 20 = 28.",
+      "savjet": "Sjeti se koja računska operacija ima prednost."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-012",
+      "tezina": "srednje",
+      "pitanje": "Koliko je (20 − 8) : 4?",
+      "ponudeni": ["18", "12", "3", "2"],
+      "tocan": 2,
+      "objasnjenje": "Prvo računaš u zagradi: 20 − 8 = 12, a zatim dijeliš: 12 : 4 = 3.",
+      "savjet": "Prvo izračunaj ono što je u zagradi."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-013",
+      "tezina": "srednje",
+      "pitanje": "Koliko je broj 47 499 zaokružen na tisućice?",
+      "ponudeni": ["48 000", "47 000", "47 500", "50 000"],
+      "tocan": 1,
+      "objasnjenje": "Gledaš samo znamenku stotica, a ona je 4. Budući da je 4 manje od 5, zaokružuješ na manje: 47 000.",
+      "savjet": "Gledaj samo znamenku odmah desno od tisućica i ne zaokružuj u više koraka."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-014",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 10 000 − 2 375?",
+      "ponudeni": ["7 625", "8 735", "7 735", "8 625"],
+      "tocan": 0,
+      "objasnjenje": "10 000 − 2 375 = 7 625. Provjera: 7 625 + 2 375 = 10 000.",
+      "savjet": "Kad posuđuješ iz nula, pazi da svaka nula postane devetka osim zadnje."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-015",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 36 : 4 + 5 · 3?",
+      "ponudeni": ["42", "19", "24", "12"],
+      "tocan": 2,
+      "objasnjenje": "Prvo dijeliš i množiš: 36 : 4 = 9 i 5 · 3 = 15. Zatim zbrajaš: 9 + 15 = 24.",
+      "savjet": "Množenje i dijeljenje rade se prije zbrajanja."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-016",
+      "tezina": "srednje",
+      "pitanje": "Koji broj ima 5 desettisućica, 0 tisućica, 3 stotice, 0 desetica i 8 jedinica?",
+      "ponudeni": ["5 308", "50 308", "53 080", "50 380"],
+      "tocan": 1,
+      "objasnjenje": "Znamenke upisuješ redom od desettisućica do jedinica: 5, 0, 3, 0, 8. To je broj 50 308.",
+      "savjet": "Napiši tablicu mjesnih vrijednosti i ne zaboravi upisati nule."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-017",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 125 · 8?",
+      "ponudeni": ["900", "800", "1 600", "1 000"],
+      "tocan": 3,
+      "objasnjenje": "Rastaviš 125 na 100 + 25: 100 · 8 = 800 i 25 · 8 = 200, a 800 + 200 = 1 000.",
+      "savjet": "Rastavi prvi broj na stotice i ostatak pa pomnoži svaki dio."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-018",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 3 · (14 + 6)?",
+      "ponudeni": ["48", "26", "62", "60"],
+      "tocan": 3,
+      "objasnjenje": "Prvo računaš u zagradi: 14 + 6 = 20, a zatim množiš: 3 · 20 = 60.",
+      "savjet": "Zagrada ima prednost pred množenjem."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-019",
+      "tezina": "srednje",
+      "pitanje": "Školska knjižnica imala je 2 450 knjiga. Dobila je još 375 knjiga, a 120 starih knjiga poklonila je. Koliko knjiga sada ima?",
+      "ponudeni": ["2 945", "2 705", "2 825", "2 605"],
+      "tocan": 1,
+      "objasnjenje": "Prvo zbrojiš: 2 450 + 375 = 2 825. Zatim oduzmeš: 2 825 − 120 = 2 705.",
+      "savjet": "Dobivene knjige dodaj, a poklonjene oduzmi."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-020",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 4 800 : 6?",
+      "ponudeni": ["80", "8 000", "800", "850"],
+      "tocan": 2,
+      "objasnjenje": "Podijeliš 48 : 6 = 8 i dopišeš dvije nule: 4 800 : 6 = 800.",
+      "savjet": "Gledaj broj kao 48 stotica i podijeli te stotice."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-021",
+      "tezina": "tesko",
+      "pitanje": "Koliko je 100 − 4 · (18 − 3 · 5)?",
+      "ponudeni": ["288", "12", "88", "96"],
+      "tocan": 2,
+      "objasnjenje": "U zagradi prvo množiš: 3 · 5 = 15, pa 18 − 15 = 3. Zatim 4 · 3 = 12 i na kraju 100 − 12 = 88.",
+      "savjet": "Kreni od zagrade, a i unutar nje poštuj redoslijed računskih operacija."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-022",
+      "tezina": "tesko",
+      "pitanje": "Koji je najveći peteroznamenkasti broj kojemu su sve znamenke različite?",
+      "ponudeni": ["99 999", "98 765", "98 760", "97 865"],
+      "tocan": 1,
+      "objasnjenje": "Na svako mjesto slijeva staviš najveću znamenku koja još nije upotrijebljena: 9, 8, 7, 6, 5. Dobiješ 98 765.",
+      "savjet": "Na najveće mjesne vrijednosti stavi najveće znamenke, ali nijednu ne ponovi."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-023",
+      "tezina": "tesko",
+      "pitanje": "Koji je najmanji prirodni broj koji zaokružen na stotice daje 3 500?",
+      "ponudeni": ["3 449", "3 500", "3 451", "3 450"],
+      "tocan": 3,
+      "objasnjenje": "Broj 3 450 ima 5 desetica pa se zaokružuje na više, na 3 500. Broj 3 449 zaokružuje se na 3 400.",
+      "savjet": "Razmisli od koje se znamenke desetica broj zaokružuje na više."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-024",
+      "tezina": "tesko",
+      "pitanje": "Ivan je kupio 3 bilježnice po 4 eura i 2 olovke po 2 eura. Platio je novčanicom od 50 eura. Koliko mu je eura vraćeno?",
+      "ponudeni": ["16", "34", "38", "26"],
+      "tocan": 1,
+      "objasnjenje": "Platio je 3 · 4 + 2 · 2 = 12 + 4 = 16 eura. Vraćeno mu je 50 − 16 = 34 eura.",
+      "savjet": "Prvo izračunaj koliko je Ivan ukupno potrošio."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-025",
+      "tezina": "tesko",
+      "pitanje": "Kolika je razlika prethodnika broja 60 000 i sljedbenika broja 9 999?",
+      "ponudeni": ["50 000", "49 998", "49 999", "50 001"],
+      "tocan": 2,
+      "objasnjenje": "Prethodnik broja 60 000 je 59 999, a sljedbenik broja 9 999 je 10 000. Razlika je 59 999 − 10 000 = 49 999.",
+      "savjet": "Prvo odredi oba broja, a tek onda oduzimaj."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-026",
+      "tezina": "tesko",
+      "pitanje": "Kolika je razlika mjesnih vrijednosti dviju znamenaka 4 u broju 4 040?",
+      "ponudeni": ["0", "3 960", "4 036", "3 600"],
+      "tocan": 1,
+      "objasnjenje": "Prva četvorka vrijedi 4 000, a druga 40. Razlika je 4 000 − 40 = 3 960.",
+      "savjet": "Iste znamenke na različitim mjestima imaju različitu vrijednost."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-027",
+      "tezina": "tesko",
+      "pitanje": "Na izlet ide 94 učenika. U jedan autobus stane 45 učenika. Koliko je najmanje autobusa potrebno?",
+      "ponudeni": ["2", "3", "4", "49"],
+      "tocan": 1,
+      "objasnjenje": "Dva autobusa prevezu 2 · 45 = 90 učenika, a ostaju još 4 učenika. Za njih treba još jedan autobus, pa su ukupno potrebna 3 autobusa.",
+      "savjet": "Razmisli što ćeš s učenicima koji ostanu nakon što popuniš pune autobuse."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-028",
+      "tezina": "tesko",
+      "pitanje": "Koliko je (250 + 150) : 8 − 5 · 6?",
+      "ponudeni": ["270", "300", "45", "20"],
+      "tocan": 3,
+      "objasnjenje": "U zagradi je 400. Zatim 400 : 8 = 50 i 5 · 6 = 30. Na kraju 50 − 30 = 20.",
+      "savjet": "Zagrada, zatim množenje i dijeljenje, a oduzimanje na kraju."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-029",
+      "tezina": "tesko",
+      "pitanje": "Broj 37 □82 zaokružen na tisućice daje 38 000. Koja od ponuđenih znamenki može stajati umjesto □?",
+      "ponudeni": ["2", "4", "6", "0"],
+      "tocan": 2,
+      "objasnjenje": "Da bi se broj zaokružio na više, znamenka stotica mora biti 5 ili veća. Od ponuđenih to je samo 6, pa je broj 37 682.",
+      "savjet": "Razmisli kakva mora biti znamenka stotica da se broj zaokruži na više."
+    },
+    {
+      "id": "5-matematika-prirodni-brojevi-030",
+      "tezina": "tesko",
+      "pitanje": "Gdje treba staviti zagrade da vrijednost izraza 24 − 4 · 3 + 2 bude 4?",
+      "ponudeni": ["(24 − 4) · 3 + 2", "24 − (4 · 3 + 2)", "(24 − 4 · 3) + 2", "24 − 4 · (3 + 2)"],
+      "tocan": 3,
+      "objasnjenje": "Kad je zbroj u zagradi, računaš 3 + 2 = 5, pa 4 · 5 = 20 i 24 − 20 = 4.",
+      "savjet": "Izračunaj vrijednost svakog izraza poštujući zagrade."
+    }
+  ]
+}

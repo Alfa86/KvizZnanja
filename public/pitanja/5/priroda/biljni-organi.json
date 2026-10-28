@@ -1,0 +1,410 @@
+{
+  "lekcijaId": "biljni-organi",
+  "pitanja": [
+    {
+      "id": "5-priroda-biljni-organi-001",
+      "tezina": "lagano",
+      "pitanje": "Koji organ u biljci upija vodu i mineralne tvari iz tla?",
+      "ponudeni": ["List", "Korijen", "Cvijet", "Plod"],
+      "tocan": 1,
+      "objasnjenje": "Korijen se nalazi u tlu i upija vodu i mineralne tvari koje su biljci potrebne.",
+      "savjet": "Razmisli koji se dio biljke nalazi ispod zemlje."
+    },
+    {
+      "id": "5-priroda-biljni-organi-002",
+      "tezina": "lagano",
+      "pitanje": "Koji biljni organ nosi listove i cvjetove?",
+      "ponudeni": ["Stabljika", "Korijen", "Sjemenka", "Plod"],
+      "tocan": 0,
+      "objasnjenje": "Stabljika nosi listove i cvjetove te ih povezuje s korijenom.",
+      "savjet": "Sjeti se koji dio biljke raste iznad tla i povezuje korijen s ostalim dijelovima."
+    },
+    {
+      "id": "5-priroda-biljni-organi-003",
+      "tezina": "lagano",
+      "pitanje": "U kojem se biljnom organu najviše odvija fotosinteza?",
+      "ponudeni": ["Korijen", "Cvijet", "List", "Sjemenka"],
+      "tocan": 2,
+      "objasnjenje": "Fotosinteza se najviše odvija u listovima jer su zeleni i okrenuti prema svjetlosti.",
+      "savjet": "Razmisli koji je dio biljke najčešće zelen, plosnat i okrenut prema Suncu."
+    },
+    {
+      "id": "5-priroda-biljni-organi-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu sitni otvori na listu kroz koje biljka izmjenjuje plinove?",
+      "ponudeni": ["Provodne žile", "Korijenove dlačice", "Pupovi", "Puči"],
+      "tocan": 3,
+      "objasnjenje": "Puči su sitni otvori na listu kroz koje biljka izmjenjuje plinove i isparava vodu.",
+      "savjet": "Sjeti se kako biljka „diše” kroz površinu lista."
+    },
+    {
+      "id": "5-priroda-biljni-organi-005",
+      "tezina": "lagano",
+      "pitanje": "Koji je biljni organ zadužen za razmnožavanje?",
+      "ponudeni": ["Cvijet", "Korijen", "Stabljika", "List"],
+      "tocan": 0,
+      "objasnjenje": "Cvijet je organ za razmnožavanje jer iz njega nastaju plod i sjemenke.",
+      "savjet": "Razmisli koji dio biljke privlači kukce svojim bojama i mirisom."
+    },
+    {
+      "id": "5-priroda-biljni-organi-006",
+      "tezina": "lagano",
+      "pitanje": "Koji organ biljke nastaje iz cvijeta nakon oplodnje i u sebi sadrži sjemenke?",
+      "ponudeni": ["Korijen", "Plod", "List", "Pup"],
+      "tocan": 1,
+      "objasnjenje": "Nakon oprašivanja i oplodnje iz cvijeta nastaje plod u kojem se nalaze sjemenke.",
+      "savjet": "Sjeti se što beremo s voćke nekoliko mjeseci nakon što je procvjetala."
+    },
+    {
+      "id": "5-priroda-biljni-organi-007",
+      "tezina": "lagano",
+      "pitanje": "Iz kojeg dijela biljke klija nova biljka?",
+      "ponudeni": ["Iz puči", "Iz latice", "Iz sjemenke", "Iz provodne žile"],
+      "tocan": 2,
+      "objasnjenje": "Iz sjemenke, kad dobije vodu i toplinu, klija nova biljka.",
+      "savjet": "Sjeti se što se nalazi unutar ploda, primjerice u lubenici."
+    },
+    {
+      "id": "5-priroda-biljni-organi-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove prijenos peluda s prašnika na tučak?",
+      "ponudeni": ["Fotosinteza", "Klijanje", "Isparavanje", "Oprašivanje"],
+      "tocan": 3,
+      "objasnjenje": "Oprašivanje je prijenos peluda s prašnika na tučak, a često ga obavljaju kukci ili vjetar.",
+      "savjet": "Sjeti se što rade pčele dok lete s cvijeta na cvijet."
+    },
+    {
+      "id": "5-priroda-biljni-organi-009",
+      "tezina": "lagano",
+      "pitanje": "Kroz koje dijelove stabljike putuju voda i hranjive tvari?",
+      "ponudeni": ["Kroz puči", "Kroz provodne žile", "Kroz latice", "Kroz sjemenke"],
+      "tocan": 1,
+      "objasnjenje": "Provodne žile u stabljici prenose vodu i hranjive tvari kroz cijelu biljku.",
+      "savjet": "Zamisli tanke cjevčice koje povezuju korijen s listovima."
+    },
+    {
+      "id": "5-priroda-biljni-organi-010",
+      "tezina": "lagano",
+      "pitanje": "Koja je zadaća korijena osim upijanja vode?",
+      "ponudeni": ["Učvršćuje biljku u tlu", "Proizvodi kisik", "Privlači kukce", "Stvara sjemenke"],
+      "tocan": 0,
+      "objasnjenje": "Korijen drži biljku čvrsto u tlu pa je vjetar ne može lako iščupati.",
+      "savjet": "Razmisli zašto jak vjetar ne može lako srušiti veliko stablo."
+    },
+    {
+      "id": "5-priroda-biljni-organi-011",
+      "tezina": "lagano",
+      "pitanje": "Što biljka isparava kroz puči?",
+      "ponudeni": ["Pelud", "Tlo", "Vodu", "Sjemenke"],
+      "tocan": 2,
+      "objasnjenje": "Kroz puči biljka isparava vodu, zato je biljke potrebno redovito zalijevati.",
+      "savjet": "Sjeti se zašto se sobna biljka na vrućini brzo osuši ako je ne zalijevaš."
+    },
+    {
+      "id": "5-priroda-biljni-organi-012",
+      "tezina": "lagano",
+      "pitanje": "Koji dio biljke jedemo kad jedemo jabuku?",
+      "ponudeni": ["Plod", "Korijen", "List", "Stabljika"],
+      "tocan": 0,
+      "objasnjenje": "Jabuka je plod koji je nastao iz cvijeta, a u njoj se nalaze sjemenke.",
+      "savjet": "Sjeti se iz čega se razvila jabuka na grani nakon cvatnje."
+    },
+    {
+      "id": "5-priroda-biljni-organi-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu biljke koje imaju korijen, stabljiku, listove i cvjetove?",
+      "ponudeni": ["Mahovine", "Cvjetnjače", "Paprati", "Alge"],
+      "tocan": 1,
+      "objasnjenje": "Cvjetnjače su biljke koje imaju cvjetove, a iz cvjetova nastaju plodovi i sjemenke.",
+      "savjet": "Naziv tih biljaka dolazi od organa za razmnožavanje koji one imaju, a mnoge druge biljke nemaju."
+    },
+    {
+      "id": "5-priroda-biljni-organi-014",
+      "tezina": "lagano",
+      "pitanje": "Što stabljika provodi od korijena prema listovima?",
+      "ponudeni": ["Pelud", "Svjetlost", "Vodu i mineralne tvari", "Sjemenke"],
+      "tocan": 2,
+      "objasnjenje": "Stabljika provodnim žilama prenosi vodu i mineralne tvari od korijena do listova.",
+      "savjet": "Razmisli što listovi moraju dobiti odozdo, iz tla, da bi mogli rasti."
+    },
+    {
+      "id": "5-priroda-biljni-organi-015",
+      "tezina": "lagano",
+      "pitanje": "Koji organ biljke jedemo kad jedemo mrkvu?",
+      "ponudeni": ["List", "Plod", "Cvijet", "Korijen"],
+      "tocan": 3,
+      "objasnjenje": "Mrkva je zadebljali korijen u kojem biljka sprema hranu.",
+      "savjet": "Sjeti se gdje mrkva raste dok je ne izvadiš iz vrta."
+    },
+    {
+      "id": "5-priroda-biljni-organi-016",
+      "tezina": "srednje",
+      "pitanje": "Ako biljci odrežeš sav korijen i ostaviš je na stolu, što će se dogoditi?",
+      "ponudeni": ["Brže će rasti", "Procvjetat će", "Uvenut će jer ne može upijati vodu", "Stvorit će više plodova"],
+      "tocan": 2,
+      "objasnjenje": "Bez korijena biljka ne može upijati vodu iz tla pa ubrzo uvene.",
+      "savjet": "Razmisli koju zadaću korijen obavlja za cijelu biljku."
+    },
+    {
+      "id": "5-priroda-biljni-organi-017",
+      "tezina": "srednje",
+      "pitanje": "Bijeli karanfil stavljen je u vodu obojenu crvenom bojom i nakon nekoliko dana latice su mu postale crvenkaste. Što to pokazuje?",
+      "ponudeni": ["Da stabljika provodnim žilama prenosi vodu do cvijeta", "Da cvijet upija boju iz zraka", "Da listovi proizvode crvenu boju", "Da latice same mijenjaju boju kad ostare"],
+      "tocan": 0,
+      "objasnjenje": "Obojena voda putovala je kroz provodne žile stabljike sve do cvijeta i obojila latice.",
+      "savjet": "Razmisli kojim je putem obojena voda mogla stići od dna stabljike do vrha."
+    },
+    {
+      "id": "5-priroda-biljni-organi-018",
+      "tezina": "srednje",
+      "pitanje": "Na kojoj strani lista kod većine biljaka ima najviše puči?",
+      "ponudeni": ["Na gornjoj strani", "Na donjoj strani", "Samo na rubovima lista", "Samo na peteljci"],
+      "tocan": 1,
+      "objasnjenje": "Većina puči nalazi se na donjoj strani lista, gdje je manje izravnog sunca pa biljka gubi manje vode.",
+      "savjet": "Razmisli koja je strana lista manje izložena izravnom suncu."
+    },
+    {
+      "id": "5-priroda-biljni-organi-019",
+      "tezina": "srednje",
+      "pitanje": "Pčela je sletjela na cvijet jabuke i na tijelu odnijela pelud do drugog cvijeta. Kojem je procesu pčela pritom pomogla?",
+      "ponudeni": ["Fotosintezi", "Klijanju", "Isparavanju vode", "Oprašivanju"],
+      "tocan": 3,
+      "objasnjenje": "Prenoseći pelud s cvijeta na cvijet, pčela pomaže oprašivanju, nakon kojeg mogu nastati plodovi.",
+      "savjet": "Razmisli što se prenosi na pčelinim nožicama i zašto je to cvijetu potrebno."
+    },
+    {
+      "id": "5-priroda-biljni-organi-020",
+      "tezina": "srednje",
+      "pitanje": "Zašto biljka koju nitko ne zalijeva po vrućem danu brzo uvene?",
+      "ponudeni": ["Jer joj otpadnu cvjetovi", "Jer prestane stvarati plodove", "Jer kroz puči gubi više vode nego što korijen upije", "Jer joj stabljika prebrzo raste"],
+      "tocan": 2,
+      "objasnjenje": "Na vrućini biljka kroz puči isparava mnogo vode, a iz suhog tla korijen ne može upiti dovoljno.",
+      "savjet": "Razmisli što se događa s vodom u listovima kad je jako toplo."
+    },
+    {
+      "id": "5-priroda-biljni-organi-021",
+      "tezina": "srednje",
+      "pitanje": "Kod graška jedemo zrna iz mahune. Koji su biljni organi zrna, a koji mahuna?",
+      "ponudeni": ["Zrna su plodovi, a mahuna je list", "Zrna su sjemenke, a mahuna je plod", "Zrna su cvjetovi, a mahuna je stabljika", "Zrna su korijenje, a mahuna je cvijet"],
+      "tocan": 1,
+      "objasnjenje": "Mahuna je plod graška nastao iz cvijeta, a zrna u njoj su sjemenke iz kojih mogu izrasti nove biljke.",
+      "savjet": "Sjeti se koji organ nastaje iz cvijeta i u sebi čuva ono iz čega rastu nove biljke."
+    },
+    {
+      "id": "5-priroda-biljni-organi-022",
+      "tezina": "srednje",
+      "pitanje": "Kod koje od navedenih biljaka jedemo listove?",
+      "ponudeni": ["Zelena salata", "Mrkva", "Jabuka", "Grah"],
+      "tocan": 0,
+      "objasnjenje": "Kod zelene salate jedemo listove, kod mrkve korijen, kod jabuke plod, a kod graha sjemenke.",
+      "savjet": "Za svaku namirnicu zamisli kako biljka izgleda u vrtu i koji dio beremo."
+    },
+    {
+      "id": "5-priroda-biljni-organi-023",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko korijenu i stabljici?",
+      "ponudeni": ["Oboje imaju puči", "Oboje stvaraju sjemenke", "Oboje privlače kukce", "Oboje sudjeluju u prijenosu vode kroz biljku"],
+      "tocan": 3,
+      "objasnjenje": "Korijen upija vodu iz tla, a stabljika je provodnim žilama nosi dalje do listova, pa oboje sudjeluju u prijenosu vode.",
+      "savjet": "Razmisli kojim putem voda putuje od tla do listova."
+    },
+    {
+      "id": "5-priroda-biljni-organi-024",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove glavna drvenasta stabljika drveća?",
+      "ponudeni": ["Deblo", "Krošnja", "Korijen", "Pupoljak"],
+      "tocan": 0,
+      "objasnjenje": "Deblo je drvenasta stabljika drveta koja nosi grane s listovima i kroz koju putuje voda.",
+      "savjet": "Sjeti se kako zovemo onaj debeli dio stabla koji možeš obgrliti rukama."
+    },
+    {
+      "id": "5-priroda-biljni-organi-025",
+      "tezina": "srednje",
+      "pitanje": "Zašto su listovi većine biljaka široki i tanki?",
+      "ponudeni": ["Da bi upijali vodu iz tla", "Da bi učvrstili biljku", "Da bi uhvatili što više sunčeve svjetlosti", "Da bi privukli kukce"],
+      "tocan": 2,
+      "objasnjenje": "Široka i tanka površina lista hvata mnogo sunčeve svjetlosti koja je potrebna za fotosintezu.",
+      "savjet": "Sjeti se što je listu potrebno za fotosintezu."
+    },
+    {
+      "id": "5-priroda-biljni-organi-026",
+      "tezina": "srednje",
+      "pitanje": "Kod koje od navedenih biljaka jedemo stabljiku?",
+      "ponudeni": ["Mrkva", "Rajčica", "Špinat", "Šparoga"],
+      "tocan": 3,
+      "objasnjenje": "Kod šparoge jedemo mladu stabljiku, kod mrkve korijen, kod rajčice plod, a kod špinata listove.",
+      "savjet": "Razmisli koje povrće izgleda kao dugi uspravni štapić s malim listićima na vrhu."
+    },
+    {
+      "id": "5-priroda-biljni-organi-027",
+      "tezina": "srednje",
+      "pitanje": "Lubenica, rajčica i krastavac su biljni organi koje zovemo:",
+      "ponudeni": ["korijeni", "plodovi", "listovi", "stabljike"],
+      "tocan": 1,
+      "objasnjenje": "Lubenica, rajčica i krastavac nastali su iz cvjetova i u sebi imaju sjemenke, pa su plodovi.",
+      "savjet": "Razmisli imaju li te namirnice unutra sjemenke."
+    },
+    {
+      "id": "5-priroda-biljni-organi-028",
+      "tezina": "srednje",
+      "pitanje": "Biljka na prozorskoj dasci nagnula se prema staklu. Koji se njezin organ savio i tako okrenuo listove prema svjetlosti?",
+      "ponudeni": ["Korijen", "Cvijet", "Plod", "Stabljika"],
+      "tocan": 3,
+      "objasnjenje": "Stabljika nosi listove i savija se prema svjetlosti kako bi listovi dobili što više sunca.",
+      "savjet": "Razmisli koji dio biljke drži listove i može ih pomaknuti."
+    },
+    {
+      "id": "5-priroda-biljni-organi-029",
+      "tezina": "srednje",
+      "pitanje": "Što je, osim vode, otopljeno u tlu i korijen to upija jer je biljci potrebno za rast?",
+      "ponudeni": ["Mineralne tvari", "Kisik iz listova", "Pelud", "Sunčeva svjetlost"],
+      "tocan": 0,
+      "objasnjenje": "Korijen zajedno s vodom upija i mineralne tvari otopljene u tlu, koje su biljci potrebne za rast.",
+      "savjet": "Sjeti se zašto vrtlari biljkama ponekad dodaju gnojivo u tlo."
+    },
+    {
+      "id": "5-priroda-biljni-organi-030",
+      "tezina": "srednje",
+      "pitanje": "Vrtlar je sve listove biljke prekrio neprozirnim crnim vrećicama. Koji je proces time najviše omeo?",
+      "ponudeni": ["Oprašivanje", "Fotosintezu", "Klijanje sjemenke", "Upijanje vode korijenom"],
+      "tocan": 1,
+      "objasnjenje": "Fotosinteza se odvija u listovima i treba svjetlost, a crne vrećice ne propuštaju svjetlost.",
+      "savjet": "Razmisli što listovi trebaju primiti sa Sunca da bi biljka proizvela hranu."
+    },
+    {
+      "id": "5-priroda-biljni-organi-031",
+      "tezina": "tesko",
+      "pitanje": "Korijen i list rade zajedno. Što korijen daje listu, a što list daje ostatku biljke?",
+      "ponudeni": ["Korijen daje hranu, a list vodu", "Korijen daje vodu i mineralne tvari, a list proizvodi hranu za cijelu biljku", "Korijen daje kisik, a list mineralne tvari", "Korijen daje pelud, a list sjemenke"],
+      "tocan": 1,
+      "objasnjenje": "Korijen upija vodu i mineralne tvari koje stižu do lista, a list fotosintezom proizvodi hranu za cijelu biljku.",
+      "savjet": "Razmisli što koji organ može dobiti iz svoje okoline: jedan iz tla, a drugi sa Sunca."
+    },
+    {
+      "id": "5-priroda-biljni-organi-032",
+      "tezina": "tesko",
+      "pitanje": "Kaktus ima listove pretvorene u bodlje, a debela zelena stabljika sprema vodu. Gdje se kod kaktusa uglavnom odvija fotosinteza?",
+      "ponudeni": ["U bodljama", "U korijenu", "U stabljici", "U cvijetu"],
+      "tocan": 2,
+      "objasnjenje": "Kod kaktusa je zelena stabljika preuzela zadaću listova pa se fotosinteza odvija u njoj.",
+      "savjet": "Sjeti se da se fotosinteza odvija u zelenim dijelovima biljke."
+    },
+    {
+      "id": "5-priroda-biljni-organi-033",
+      "tezina": "tesko",
+      "pitanje": "Zašto je korisno da kaktus u pustinji ima vrlo malo puči?",
+      "ponudeni": ["Tako brže raste", "Tako lakše privlači kukce", "Tako bolje stoji u tlu", "Tako gubi manje vode isparavanjem"],
+      "tocan": 3,
+      "objasnjenje": "Kroz puči biljka isparava vodu, pa s malo puči kaktus čuva vodu koje u pustinji ima vrlo malo.",
+      "savjet": "Razmisli što kroz puči izlazi iz biljke i koliko je toga u pustinji."
+    },
+    {
+      "id": "5-priroda-biljni-organi-034",
+      "tezina": "tesko",
+      "pitanje": "Učenik je biljku zalijevao samo prskanjem po listovima, a tlo u posudi ostalo je suho. Zašto biljka ipak vene?",
+      "ponudeni": ["Jer vodu iz tla upija uglavnom korijen", "Jer listovima voda uopće ne treba", "Jer su cvjetovi bili zatvoreni", "Jer stabljika ne može nositi mokre listove"],
+      "tocan": 0,
+      "objasnjenje": "Biljka vodu uzima uglavnom korijenom iz tla, pa joj u suhom tlu nedostaje vode bez obzira na mokre listove.",
+      "savjet": "Razmisli kojim putem voda inače ulazi u biljku."
+    },
+    {
+      "id": "5-priroda-biljni-organi-035",
+      "tezina": "tesko",
+      "pitanje": "Kojim redoslijedom voda prolazi kroz biljku od tla do zraka?",
+      "ponudeni": ["List → stabljika → korijen → puči", "Puči → list → stabljika → korijen", "Korijen → stabljika → list → puči", "Stabljika → korijen → list → puči"],
+      "tocan": 2,
+      "objasnjenje": "Korijen upije vodu, stabljika je provodnim žilama nosi do lista, a kroz puči voda isparava u zrak.",
+      "savjet": "Kreni od organa koji je u dodiru s tlom."
+    },
+    {
+      "id": "5-priroda-biljni-organi-036",
+      "tezina": "tesko",
+      "pitanje": "Stabljika biljke se prelomila i provodne žile su se prekinule. Što će se dogoditi s listovima iznad prijeloma?",
+      "ponudeni": ["Počet će brže rasti", "Pretvorit će se u cvjetove", "Počet će upijati vodu iz zraka", "Uvenut će jer do njih ne stiže voda"],
+      "tocan": 3,
+      "objasnjenje": "Provodne žile dovode vodu od korijena do listova, pa listovi iznad prekida ostaju bez vode i venu.",
+      "savjet": "Razmisli koju ulogu imaju provodne žile u stabljici."
+    },
+    {
+      "id": "5-priroda-biljni-organi-037",
+      "tezina": "tesko",
+      "pitanje": "Kasni proljetni mraz uništio je cvjetove na jabuci, a listovi su ostali zdravi. Zašto te godine na stablu neće biti jabuka?",
+      "ponudeni": ["Jer listovi tada ne mogu provoditi fotosintezu", "Jer plodovi nastaju iz oprašenih i oplođenih cvjetova", "Jer mraz zaustavi rad korijena", "Jer stabljika prestane nositi grane"],
+      "tocan": 1,
+      "objasnjenje": "Plod se razvija iz cvijeta nakon oprašivanja i oplodnje, pa bez cvjetova ne mogu nastati jabuke.",
+      "savjet": "Sjeti se od kojeg se organa razvija plod."
+    },
+    {
+      "id": "5-priroda-biljni-organi-038",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o organima cvjetnjače točna?",
+      "ponudeni": ["Listovi upijaju vodu iz tla", "Cvijet učvršćuje biljku u tlu", "Sjemenka provodi vodu do listova", "Korijen upija vodu, a stabljika je provodi do listova"],
+      "tocan": 3,
+      "objasnjenje": "Korijen upija vodu iz tla, a stabljika je provodnim žilama prenosi do listova.",
+      "savjet": "Za svaku tvrdnju provjeri odgovara li opisana zadaća organu koji je naveden."
+    },
+    {
+      "id": "5-priroda-biljni-organi-039",
+      "tezina": "tesko",
+      "pitanje": "Biljka je dva tjedna stajala u mračnom ormaru. Iako je zalijevana, listovi su joj požutjeli i oslabila je. Koji je najvjerojatniji razlog?",
+      "ponudeni": ["Listovi bez svjetlosti nisu mogli proizvoditi hranu", "Korijen nije mogao upijati vodu", "Cvjetovi su se prerano oprašili", "Stabljika je prestala nositi listove"],
+      "tocan": 0,
+      "objasnjenje": "Bez svjetlosti u listovima se ne može odvijati fotosinteza, pa biljka ostaje bez hrane i slabi.",
+      "savjet": "Razmisli što se u listovima odvija samo uz svjetlost."
+    },
+    {
+      "id": "5-priroda-biljni-organi-040",
+      "tezina": "tesko",
+      "pitanje": "Maslačak ima sjemenke s „padobranima”, a čičak plodove s kukicama koje se zakače za krzno. Čemu služe obje te prilagodbe?",
+      "ponudeni": ["Upijanju vode iz tla", "Provođenju fotosinteze", "Raznošenju sjemenki daleko od biljke", "Privlačenju kukaca oprašivača"],
+      "tocan": 2,
+      "objasnjenje": "Vjetar nosi sjemenke maslačka, a životinje nose plodove čička, pa nove biljke rastu daleko od biljke majke.",
+      "savjet": "Razmisli što bi bilo kad bi sve sjemenke pale točno ispod biljke majke."
+    },
+    {
+      "id": "5-priroda-biljni-organi-041",
+      "tezina": "tesko",
+      "pitanje": "Lopoč ima listove koji plutaju na vodi, a puči su mu uglavnom na gornjoj strani lista. Zašto je to korisno?",
+      "ponudeni": ["Jer gornja strana upija vodu iz jezera", "Jer je donja strana u vodi, a plinovi se izmjenjuju sa zrakom", "Jer tako lakše privlači kukce", "Jer tako listovi brže tonu"],
+      "tocan": 1,
+      "objasnjenje": "Donja strana lista lopoča leži na vodi, pa puči na gornjoj strani omogućuju izmjenu plinova sa zrakom.",
+      "savjet": "Razmisli koja strana tog lista dodiruje zrak."
+    },
+    {
+      "id": "5-priroda-biljni-organi-042",
+      "tezina": "tesko",
+      "pitanje": "Koji je ispravan redoslijed događaja kod cvjetnjače?",
+      "ponudeni": ["Plod → cvijet → oprašivanje → sjemenka", "Sjemenka → oprašivanje → korijen → cvijet", "Oprašivanje → plod → cvijet → oplodnja", "Cvijet → oprašivanje → oplodnja → plod sa sjemenkama"],
+      "tocan": 3,
+      "objasnjenje": "Najprije se cvijet opraši, zatim slijedi oplodnja, a nakon nje razvija se plod sa sjemenkama.",
+      "savjet": "Kreni od organa za razmnožavanje i razmisli što mu se mora dogoditi da bi nastalo nešto novo."
+    },
+    {
+      "id": "5-priroda-biljni-organi-043",
+      "tezina": "tesko",
+      "pitanje": "Zašto suncokret ima visoku i čvrstu stabljiku?",
+      "ponudeni": ["Da upija vodu iz zraka", "Da u njoj sprema sjemenke", "Da nosi listove i cvijet visoko prema svjetlosti", "Da proizvodi pelud"],
+      "tocan": 2,
+      "objasnjenje": "Visoka i čvrsta stabljika drži listove i cvijet iznad drugih biljaka, gdje ima više svjetlosti, a cvijet lakše vide kukci.",
+      "savjet": "Razmisli što bi bilo s listovima kad bi biljka ležala na tlu u sjeni drugih biljaka."
+    },
+    {
+      "id": "5-priroda-biljni-organi-044",
+      "tezina": "tesko",
+      "pitanje": "Učenik je donju stranu lista namazao vazelinom koji zatvara puči. Što će se najvjerojatnije dogoditi s tim listom?",
+      "ponudeni": ["Slabije će izmjenjivati plinove i isparavati vodu", "Upijat će više vode iz tla", "Pretvorit će se u cvijet", "Brže će rasti"],
+      "tocan": 0,
+      "objasnjenje": "Kroz puči list izmjenjuje plinove i isparava vodu, pa ako su zatvorene, ti procesi gotovo prestanu.",
+      "savjet": "Sjeti se što se sve odvija kroz puči."
+    },
+    {
+      "id": "5-priroda-biljni-organi-045",
+      "tezina": "tesko",
+      "pitanje": "Zašto je voćarima korisno imati pčele u blizini voćnjaka?",
+      "ponudeni": ["Pčele oprašuju cvjetove pa nastaje više plodova", "Pčele zalijevaju korijenje voćaka", "Pčele štite listove od sunca", "Pčele nose vodu do stabljike"],
+      "tocan": 0,
+      "objasnjenje": "Pčele prenose pelud s cvijeta na cvijet, a iz oprašenih i oplođenih cvjetova razvijaju se plodovi.",
+      "savjet": "Razmisli što mora prethoditi nastanku ploda na voćki."
+    }
+  ]
+}

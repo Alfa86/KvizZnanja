@@ -1,0 +1,327 @@
+{
+  "lekcijaId": "vjerojatnost-dogadaja",
+  "pitanja": [
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-001",
+      "tezina": "lagano",
+      "pitanje": "Bacaš običnu kocku s brojevima od 1 do 6. Kakav je događaj „pao je broj 7”?",
+      "ponudeni": [
+        "siguran",
+        "moguć",
+        "nemoguć",
+        "jako čest"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na kocki nema broja 7, pa on nikako ne može pasti. Takav događaj je nemoguć.",
+      "savjet": "Provjeri postoji li taj broj uopće na kocki."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-002",
+      "tezina": "lagano",
+      "pitanje": "Bacaš običnu kocku s brojevima od 1 do 6. Kakav je događaj „pao je broj manji od 7”?",
+      "ponudeni": [
+        "nemoguć",
+        "siguran",
+        "moguć, ali ne siguran",
+        "rijedak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svi brojevi na kocki (1, 2, 3, 4, 5 i 6) manji su od 7. Zato će se to sigurno dogoditi.",
+      "savjet": "Prođi redom kroz sve brojeve na kocki i za svaki provjeri je li manji od 7."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-003",
+      "tezina": "lagano",
+      "pitanje": "Bacaš kovanicu. Koliko je mogućih ishoda?",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kovanica može pasti na glavu ili na pismo. To su 2 moguća ishoda.",
+      "savjet": "Sjeti se koliko strana ima kovanica."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-004",
+      "tezina": "lagano",
+      "pitanje": "U vrećici su samo 4 crvene kuglice. Bez gledanja izvlačiš jednu. Kakav je događaj „izvučena je plava kuglica”?",
+      "ponudeni": [
+        "nemoguć",
+        "siguran",
+        "moguć",
+        "vjerojatan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U vrećici nema plavih kuglica, pa plavu ne možeš izvući. Događaj je nemoguć.",
+      "savjet": "Pogledaj koje se kuglice uopće nalaze u vrećici."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-005",
+      "tezina": "lagano",
+      "pitanje": "Bacaš kovanicu. Što je vjerojatnije: da padne glava ili da padne pismo?",
+      "ponudeni": [
+        "glava",
+        "pismo",
+        "jednako su vjerojatni",
+        "ne može se znati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kovanica ima dvije strane i obje imaju jednake šanse. Glava i pismo su jednako vjerojatni.",
+      "savjet": "Razmisli ima li jedna strana kovanice prednost pred drugom."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-006",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih događaja siguran?",
+      "ponudeni": [
+        "U srpnju će padati snijeg.",
+        "Nakon ponedjeljka dolazi utorak.",
+        "Na kocki će pasti 6.",
+        "Iz vrećice s crvenim i plavim kuglicama izvući ćeš crvenu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nakon ponedjeljka uvijek dolazi utorak, pa je to siguran događaj. Ostali događaji se mogu, ali ne moraju dogoditi.",
+      "savjet": "Siguran događaj dogodit će se uvijek, bez iznimke."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-007",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih događaja nemoguć?",
+      "ponudeni": [
+        "Na kocki će pasti 3.",
+        "Kovanica će pasti na pismo.",
+        "Sutra će biti oblačno.",
+        "Tjedan će imati 8 dana."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tjedan uvijek ima 7 dana, pa ne može imati 8. Taj događaj je nemoguć.",
+      "savjet": "Nemoguć događaj nikada se ne može dogoditi."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-008",
+      "tezina": "lagano",
+      "pitanje": "Kotač sreće podijeljen je na 4 jednaka dijela: 3 su crvena, a 1 je plavi. Na kojoj će se boji kotač vjerojatnije zaustaviti?",
+      "ponudeni": [
+        "plava",
+        "jednako su vjerojatne",
+        "zelena",
+        "crvena"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Crvenih dijelova ima 3, a plavih samo 1. Zato je vjerojatnije da će se kotač zaustaviti na crvenoj.",
+      "savjet": "Boja koja zauzima više dijelova ima veće šanse."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-009",
+      "tezina": "srednje",
+      "pitanje": "U vrećici je 5 crvenih, 2 plave i 1 žuta kuglica. Koju je boju najmanje vjerojatno izvući?",
+      "ponudeni": [
+        "crvenu",
+        "plavu",
+        "sve su jednako vjerojatne",
+        "žutu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Žuta kuglica je samo jedna, a ostalih boja ima više. Zato je žutu najmanje vjerojatno izvući.",
+      "savjet": "Što je manje kuglica neke boje, manje su šanse da je izvučeš."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-010",
+      "tezina": "srednje",
+      "pitanje": "Bacaš kocku. Što je vjerojatnije: da padne paran broj ili da padne broj 6?",
+      "ponudeni": [
+        "broj 6",
+        "paran broj",
+        "jednako su vjerojatni",
+        "ne može se znati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Parni brojevi na kocki su 2, 4 i 6 (tri mogućnosti), a broj 6 je samo jedna mogućnost. Zato je paran broj vjerojatniji.",
+      "savjet": "Prebroji koliko ishoda odgovara svakom događaju."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-011",
+      "tezina": "srednje",
+      "pitanje": "Bacaš kocku. Koliko je ishoda u kojima padne broj veći od 4?",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brojevi veći od 4 na kocki su 5 i 6. To su 2 ishoda.",
+      "savjet": "Napiši sve brojeve od 1 do 6 i zaokruži one veće od 4."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-012",
+      "tezina": "srednje",
+      "pitanje": "Kovanicu bacaš dva puta zaredom. Koliko je različitih ishoda moguće?",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mogući ishodi su: glava-glava, glava-pismo, pismo-glava i pismo-pismo. To su 4 ishoda.",
+      "savjet": "Zapiši sve mogućnosti redom, prvo za prvo bacanje, pa za drugo."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-013",
+      "tezina": "srednje",
+      "pitanje": "U vrećici su 3 crvene i 3 plave kuglice. Bez gledanja izvlačiš jednu. Što je vjerojatnije?",
+      "ponudeni": [
+        "crvena",
+        "plava",
+        "nijedna, nemoguće je izvući kuglicu",
+        "jednako su vjerojatne"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Crvenih i plavih kuglica ima jednako, po 3. Zato su obje boje jednako vjerojatne.",
+      "savjet": "Usporedi koliko kuglica ima svake boje."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-014",
+      "tezina": "srednje",
+      "pitanje": "Bacaš kocku. Koji je događaj moguć, ali nije siguran?",
+      "ponudeni": [
+        "pao je broj 8",
+        "pao je broj manji od 10",
+        "pao je broj 0",
+        "pao je neparan broj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Neparan broj (1, 3 ili 5) može pasti, ali može pasti i paran broj. Zato je taj događaj moguć, ali nije siguran.",
+      "savjet": "Moguć događaj može se dogoditi, ali i ne mora."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-015",
+      "tezina": "tesko",
+      "pitanje": "U vrećici su 4 crvene i 6 plavih kuglica. Koliko crvenih kuglica treba dodati da izvlačenje crvene i plave bude jednako vjerojatno?",
+      "ponudeni": [
+        "6",
+        "2",
+        "10",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Boje su jednako vjerojatne kad ih ima jednako. Crvenih mora biti 6, pa treba dodati 6 − 4 = 2 kuglice.",
+      "savjet": "Izjednači broj crvenih i plavih kuglica."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-016",
+      "tezina": "tesko",
+      "pitanje": "U vrećici je 7 bijelih i 3 crne kuglice. Izvukli smo 3 bijele kuglice i nismo ih vratili. Što je sada vjerojatnije izvući?",
+      "ponudeni": [
+        "crnu",
+        "jednako su vjerojatne",
+        "bijelu",
+        "crnu je nemoguće izvući"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U vrećici su sada 4 bijele (7 − 3) i 3 crne kuglice. Bijelih je i dalje više, pa je bijela vjerojatnija.",
+      "savjet": "Prvo izračunaj koliko je kuglica svake boje ostalo u vrećici."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-017",
+      "tezina": "tesko",
+      "pitanje": "Kotač sreće ima 8 jednakih polja: 3 crvena, 4 plava i 1 zeleno. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Crvena je vjerojatnija od plave.",
+        "Zelena je najmanje vjerojatna.",
+        "Sve boje su jednako vjerojatne.",
+        "Plava je sigurna."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zelena zauzima samo 1 polje, a crvena 3 i plava 4. Zato je zelena najmanje vjerojatna.",
+      "savjet": "Usporedi broj polja za svaku boju."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-018",
+      "tezina": "tesko",
+      "pitanje": "Bacaš kocku. Koliko je ishoda u kojima padne broj koji je i paran i veći od 3?",
+      "ponudeni": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Brojevi veći od 3 su 4, 5 i 6. Od njih su parni 4 i 6. To su 2 ishoda.",
+      "savjet": "Broj mora ispuniti oba uvjeta odjednom."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-019",
+      "tezina": "tesko",
+      "pitanje": "Kovanicu bacaš dva puta zaredom. U koliko je ishoda barem jednom pala glava?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svi ishodi su: glava-glava, glava-pismo, pismo-glava, pismo-pismo. Glava se pojavljuje u prva tri. To su 3 ishoda.",
+      "savjet": "„Barem jednom” znači jednom ili dvaput."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-020",
+      "tezina": "tesko",
+      "pitanje": "U vrećici je 5 crvenih, 3 plave i 2 zelene kuglice. Koliko najmanje kuglica moraš izvući bez gledanja da bi sigurno imao barem jednu crvenu?",
+      "ponudeni": [
+        "1",
+        "5",
+        "6",
+        "11"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U najgorem slučaju prvo izvučeš sve plave i zelene, to je 3 + 2 = 5 kuglica. Šesta kuglica tada sigurno je crvena.",
+      "savjet": "Zamisli najgori mogući slučaj."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-021",
+      "tezina": "tesko",
+      "pitanje": "U vrećici je 5 crvenih, 3 plave i 2 zelene kuglice. Koliko najmanje kuglica moraš izvući bez gledanja da bi sigurno imao dvije kuglice iste boje?",
+      "ponudeni": [
+        "4",
+        "2",
+        "3",
+        "6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Postoje 3 boje. U najgorem slučaju prve 3 kuglice su različitih boja. Četvrta mora biti iste boje kao jedna od njih.",
+      "savjet": "Razmisli koliko kuglica možeš izvući, a da su sve različitih boja."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-022",
+      "tezina": "tesko",
+      "pitanje": "Luka kaže: „Bacio sam kocku 5 puta i nijednom nije pala šestica. Zato će sljedeći put sigurno pasti.” Je li Luka u pravu?",
+      "ponudeni": [
+        "Da, šestica će sigurno pasti.",
+        "Ne, šestica je sada nemoguća.",
+        "Da, jer je sada red na šesticu.",
+        "Ne, šestica je i dalje samo moguća."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka ne pamti prijašnja bacanja. Pri svakom novom bacanju šestica može pasti, ali ne mora.",
+      "savjet": "Svako bacanje kocke je novo i ne ovisi o prethodnima."
+    },
+    {
+      "id": "4-matematika-vjerojatnost-dogadaja-023",
+      "tezina": "tesko",
+      "pitanje": "Kotač ima 6 jednakih polja: 2 crvena, 2 plava i 2 žuta. Ana dobiva bod ako padne crveno, a Ivan ako padne plavo ili žuto. Tko ima veće šanse za bod?",
+      "ponudeni": [
+        "Ana",
+        "imaju jednake šanse",
+        "Ivan",
+        "nitko ne može dobiti bod"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ana ima 2 polja, a Ivan 2 + 2 = 4 polja. Ivan ima više polja, pa ima veće šanse.",
+      "savjet": "Prebroji koliko polja donosi bod svakom igraču."
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "razred": 4,
+  "predmet": "matematika",
+  "napomena": "Prijedlog grupiranja 203 nastavna sata iz matematika_poglavlja.txt u cjeline i lekcije za odabir u kvizu. Polje izvori sadrži brojeve redaka iz txt datoteke (isti redoslijed kao u csv-u). Jedan sat može pripadati u više lekcija (npr. sati ponavljanja).",
+  "cjeline": [
+    {
+      "id": "brojevi-do-milijun",
+      "naziv": "Brojevi do milijun",
+      "ikona": "🔢",
+      "lekcije": [
+        {
+          "id": "citanje-i-pisanje-brojeva-do-milijun",
+          "naziv": "Čitanje i pisanje brojeva",
+          "opis": "Učenici broje, čitaju i pišu brojeve do milijun riječima i znamenkama. Brojeve zapisuju i čitaju u tablici mjesnih vrijednosti te ih prikazuju na različite načine (rastavljanjem na dekadske jedinice, na brojevnoj crti, slikovno).",
+          "kljucniPojmovi": ["znamenka", "višeznamenkasti broj", "deset tisuća", "sto tisuća", "milijun", "zapis riječima"],
+          "izvori": [1, 2, 3, 4, 5, 9, 161, 201]
+        },
+        {
+          "id": "dekadske-jedinice-i-mjesna-vrijednost",
+          "naziv": "Dekadske jedinice i mjesna vrijednost",
+          "opis": "Učenici imenuju dekadske jedinice (jedinica, desetica, stotica, tisućica, desetica tisuća, stotica tisuća) i uspoređuju ih. Određuju mjesnu vrijednost znamenke u broju i rastavljaju broj na dekadske jedinice.",
+          "kljucniPojmovi": ["dekadska jedinica", "mjesna vrijednost", "jedinica", "desetica", "stotica", "tisućica", "desetica tisuća", "stotica tisuća"],
+          "izvori": [6, 8, 10, 162, 196]
+        },
+        {
+          "id": "usporedivanje-prethodnik-i-sljedbenik",
+          "naziv": "Uspoređivanje, prethodnik i sljedbenik",
+          "opis": "Učenici uspoređuju brojeve do milijun znakovima <, > i = te ih poredaju po veličini. Određuju prethodnik i sljedbenik broja te susjedne desetice, stotice i tisućice.",
+          "kljucniPojmovi": ["veći", "manji", "jednako", "prethodnik", "sljedbenik", "poredak"],
+          "izvori": [5, 6, 161]
+        },
+        {
+          "id": "zaokruzivanje-brojeva",
+          "naziv": "Zaokruživanje brojeva",
+          "opis": "Učenici zaokružuju brojeve na najbližu deseticu, stoticu ili tisućicu i odlučuju zaokružuju li na nižu ili višu. Zaokružene brojeve koriste za procjenu rezultata.",
+          "kljucniPojmovi": ["zaokruživanje", "niža desetica", "viša desetica", "približno", "procjena"],
+          "izvori": [128]
+        }
+      ]
+    },
+    {
+      "id": "zbrajanje-i-oduzimanje-do-milijun",
+      "naziv": "Zbrajanje i oduzimanje do milijun",
+      "ikona": "➕",
+      "lekcije": [
+        {
+          "id": "pisano-zbrajanje",
+          "naziv": "Pisano zbrajanje",
+          "opis": "Učenici pisano zbrajaju četveroznamenkaste, peteroznamenkaste i šesteroznamenkaste brojeve s prijelazom i bez prijelaza. Pravilno potpisuju brojeve po mjesnim vrijednostima i provjeravaju rezultat.",
+          "kljucniPojmovi": ["pisano zbrajanje", "pribrojnik", "zbroj", "prijelaz", "potpisivanje"],
+          "izvori": [11, 13, 14, 17, 18, 22, 41, 42, 165, 166, 202]
+        },
+        {
+          "id": "pisano-oduzimanje",
+          "naziv": "Pisano oduzimanje",
+          "opis": "Učenici pisano oduzimaju četveroznamenkaste, peteroznamenkaste i šesteroznamenkaste brojeve, i kad je znamenka umanjenika manja od znamenke umanjitelja (posuđivanje). Provjeravaju rezultat zbrajanjem.",
+          "kljucniPojmovi": ["pisano oduzimanje", "umanjenik", "umanjitelj", "razlika", "posuđivanje", "provjera"],
+          "izvori": [25, 26, 27, 28, 31, 32, 33, 35, 37, 38, 39, 42, 165, 166, 202]
+        },
+        {
+          "id": "nepoznati-pribrojnik-umanjenik-i-umanjitelj",
+          "naziv": "Nepoznati pribrojnik, umanjenik i umanjitelj",
+          "opis": "Učenici određuju nepoznati broj u jednakostima zbrajanja i oduzimanja koristeći vezu između tih računskih operacija. Nepoznati broj označavaju slovom ili simbolom i provjeravaju rješenje.",
+          "kljucniPojmovi": ["nepoznati broj", "pribrojnik", "umanjenik", "umanjitelj", "veza zbrajanja i oduzimanja", "slovo kao oznaka broja"],
+          "izvori": [7, 20, 43, 164, 167, 186]
+        },
+        {
+          "id": "zbrajanje-i-oduzimanje-zadaci-rijecima",
+          "naziv": "Zadaci riječima",
+          "opis": "Učenici rješavaju tekstualne zadatke iz svakodnevnog života u kojima zbrajaju i oduzimaju brojeve do milijun, u jednom ili više koraka. Iz teksta izdvajaju podatke i zapisuju račun i odgovor.",
+          "kljucniPojmovi": ["tekstualni zadatak", "podatak", "račun", "odgovor", "više koraka"],
+          "izvori": [29, 31, 40, 163, 166]
+        }
+      ]
+    },
+    {
+      "id": "kutovi",
+      "naziv": "Kutovi",
+      "ikona": "📐",
+      "lekcije": [
+        {
+          "id": "pojam-kuta",
+          "naziv": "Pojam kuta i točke kuta",
+          "opis": "Učenici prepoznaju i imenuju kut, njegov vrh i krakove te kut označavaju. Određuju pripadaju li točke kutu ili ne pripadaju.",
+          "kljucniPojmovi": ["kut", "vrh kuta", "krak", "oznaka kuta", "točka pripada kutu"],
+          "izvori": [46, 49, 63, 64]
+        },
+        {
+          "id": "vrste-kutova",
+          "naziv": "Šiljasti, pravi i tupi kut",
+          "opis": "Učenici prepoznaju, uspoređuju i razlikuju šiljasti, pravi i tupi kut. Pravi kut provjeravaju trokutom ili preklopljenim papirom.",
+          "kljucniPojmovi": ["šiljasti kut", "pravi kut", "tupi kut", "uspoređivanje kutova"],
+          "izvori": [47, 48, 49, 63, 173, 185, 197]
+        }
+      ]
+    },
+    {
+      "id": "trokuti",
+      "naziv": "Trokuti",
+      "ikona": "🔺",
+      "lekcije": [
+        {
+          "id": "vrhovi-stranice-i-kutovi-trokuta",
+          "naziv": "Vrhovi, stranice i kutovi trokuta",
+          "opis": "Učenici imenuju vrhove, stranice i kutove trokuta te ih pravilno označavaju velikim i malim slovima. Trokut zapisuju simbolom ∆ABC.",
+          "kljucniPojmovi": ["trokut", "vrh", "stranica", "kut trokuta", "∆ABC", "označavanje"],
+          "izvori": [50, 51, 57, 58, 174, 177]
+        },
+        {
+          "id": "vrste-trokuta-prema-stranicama",
+          "naziv": "Vrste trokuta prema stranicama",
+          "opis": "Učenici razlikuju jednakostranični, jednakokračni i raznostranični trokut prema duljinama stranica. Opisuju trokut i prepoznaju krakove i osnovicu jednakokračnoga trokuta.",
+          "kljucniPojmovi": ["jednakostranični trokut", "jednakokračni trokut", "raznostranični trokut", "krak", "osnovica"],
+          "izvori": [52, 54, 55, 56, 65, 173, 175, 178]
+        },
+        {
+          "id": "pravokutni-trokut",
+          "naziv": "Pravokutni trokut",
+          "opis": "Učenici prepoznaju i opisuju pravokutni trokut kao trokut s jednim pravim kutom. Razlikuju ga od drugih trokuta.",
+          "kljucniPojmovi": ["pravokutni trokut", "pravi kut", "vrste trokuta"],
+          "izvori": [53, 66, 175, 176]
+        },
+        {
+          "id": "opseg-trokuta",
+          "naziv": "Opseg trokuta",
+          "opis": "Učenici računaju opseg trokuta kao zbroj duljina njegovih stranica. Iz zadanoga opsega određuju duljinu nepoznate stranice.",
+          "kljucniPojmovi": ["opseg", "duljina stranice", "zbroj duljina", "mjerna jedinica"],
+          "izvori": [67, 179, 180]
+        }
+      ]
+    },
+    {
+      "id": "krug-i-kruznica",
+      "naziv": "Krug i kružnica",
+      "ikona": "⭕",
+      "lekcije": [
+        {
+          "id": "srediste-polumjer-i-promjer",
+          "naziv": "Središte, polumjer i promjer",
+          "opis": "Učenici razlikuju krug i kružnicu te imenuju njihove dijelove: središte, polumjer i promjer. Znaju da je promjer dvostruko dulji od polumjera.",
+          "kljucniPojmovi": ["krug", "kružnica", "središte", "polumjer", "promjer", "šestar"],
+          "izvori": [59, 61, 62]
+        },
+        {
+          "id": "tocke-i-krug",
+          "naziv": "Točke na kružnici, u krugu i izvan njega",
+          "opis": "Učenici određuju pripada li točka kružnici, krugu ili se nalazi izvan kruga, uspoređujući njezinu udaljenost od središta s polumjerom.",
+          "kljucniPojmovi": ["točka", "pripada krugu", "na kružnici", "izvan kruga", "udaljenost od središta"],
+          "izvori": [60]
+        }
+      ]
+    },
+    {
+      "id": "pisano-mnozenje",
+      "naziv": "Pisano množenje",
+      "ikona": "✖️",
+      "lekcije": [
+        {
+          "id": "mnozenje-jednoznamenkastim-brojem",
+          "naziv": "Množenje jednoznamenkastim brojem",
+          "opis": "Učenici pisano množe dvoznamenkaste, troznamenkaste i višeznamenkaste brojeve jednoznamenkastim brojem, s prijenosom i bez njega. Primjenjuju množenje u tekstualnim zadacima i određuju nepoznati faktor.",
+          "kljucniPojmovi": ["pisano množenje", "faktor", "umnožak", "prijenos", "nepoznati faktor"],
+          "izvori": [68, 70, 71, 73, 74, 75, 76, 78, 79, 168, 202]
+        },
+        {
+          "id": "mnozenje-s-10-i-100",
+          "naziv": "Množenje s 10, 100 i višekratnicima",
+          "opis": "Učenici usmeno i pisano množe brojeve s 10 i 100 te s njihovim višekratnicima (20, 300…). Primjenjuju to u tekstualnim zadacima.",
+          "kljucniPojmovi": ["množenje s 10", "množenje sa 100", "višekratnik", "dopisivanje nula"],
+          "izvori": [81, 82]
+        },
+        {
+          "id": "mnozenje-dvoznamenkastim-brojem",
+          "naziv": "Množenje dvoznamenkastim brojem",
+          "opis": "Učenici pisano množe dvoznamenkaste, troznamenkaste, četveroznamenkaste i peteroznamenkaste brojeve dvoznamenkastim brojem. Pravilno potpisuju djelomične umnoške i zbrajaju ih.",
+          "kljucniPojmovi": ["pisano množenje", "dvoznamenkasti faktor", "djelomični umnožak", "umnožak"],
+          "izvori": [83, 85, 87, 89, 90, 92, 95, 97, 101, 168, 202]
+        },
+        {
+          "id": "svojstva-racunskih-operacija",
+          "naziv": "Svojstva računskih operacija",
+          "opis": "Učenici koriste zamjenu mjesta faktora, združivanje i rastavljanje broja kako bi lakše računali. Svojstva primjenjuju u različitim tipovima zadataka.",
+          "kljucniPojmovi": ["zamjena mjesta faktora", "združivanje", "rastavljanje", "lakše računanje"],
+          "izvori": [74, 96]
+        }
+      ]
+    },
+    {
+      "id": "pravokutnik-i-kvadrat",
+      "naziv": "Pravokutnik i kvadrat",
+      "ikona": "⬛",
+      "lekcije": [
+        {
+          "id": "vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata",
+          "naziv": "Vrhovi, stranice i kutovi",
+          "opis": "Učenici imenuju vrhove, stranice i kutove pravokutnika i kvadrata te ih označavaju. Znaju da su im svi kutovi pravi, da kvadrat ima sve stranice jednake, a pravokutnik po dvije nasuprotne.",
+          "kljucniPojmovi": ["pravokutnik", "kvadrat", "vrh", "stranica", "pravi kut", "nasuprotne stranice"],
+          "izvori": [103, 104, 106, 107, 109, 181, 185]
+        },
+        {
+          "id": "opseg-pravokutnika-i-kvadrata",
+          "naziv": "Opseg pravokutnika i kvadrata",
+          "opis": "Učenici računaju opseg pravokutnika i kvadrata zbrajanjem duljina stranica i pomoću formule (o = 2 · a + 2 · b, o = 4 · a). Iz opsega određuju duljinu stranice.",
+          "kljucniPojmovi": ["opseg", "o = 2 · a + 2 · b", "o = 4 · a", "duljina stranice"],
+          "izvori": [105, 108, 110, 182]
+        }
+      ]
+    },
+    {
+      "id": "povrsina",
+      "naziv": "Površina",
+      "ikona": "🟩",
+      "lekcije": [
+        {
+          "id": "mjerenje-povrsine-kvadratnom-mrezom",
+          "naziv": "Mjerenje površine kvadratnom mrežom",
+          "opis": "Učenici mjere površinu likova u kvadratnoj mreži prebrojavanjem jediničnih kvadrata. Uspoređuju likove prema veličini dijela ravnine koji zauzimaju.",
+          "kljucniPojmovi": ["površina", "jedinični kvadrat", "kvadratna mreža", "uspoređivanje površina"],
+          "izvori": [111, 112, 113, 119, 183, 193, 198]
+        },
+        {
+          "id": "mjerne-jedinice-za-povrsinu",
+          "naziv": "Mjerne jedinice za površinu",
+          "opis": "Učenici imenuju jedinice za površinu cm², dm² i m² te ih preračunavaju. Razlikuju jedinice za duljinu od jedinica za površinu.",
+          "kljucniPojmovi": ["cm²", "dm²", "m²", "preračunavanje", "jedinice za duljinu"],
+          "izvori": [114, 115, 118, 184, 191]
+        },
+        {
+          "id": "povrsina-pravokutnika",
+          "naziv": "Površina pravokutnika i kvadrata",
+          "opis": "Učenici računaju površinu pravokutnika i kvadrata množenjem duljina stranica (P = a · b, P = a · a) i povezuju to s prebrojavanjem jediničnih kvadrata.",
+          "kljucniPojmovi": ["površina", "P = a · b", "P = a · a", "jedinični kvadrat"],
+          "izvori": [116, 117, 184]
+        }
+      ]
+    },
+    {
+      "id": "pisano-dijeljenje",
+      "naziv": "Pisano dijeljenje",
+      "ikona": "➗",
+      "lekcije": [
+        {
+          "id": "dijeljenje-jednoznamenkastim-brojem",
+          "naziv": "Dijeljenje jednoznamenkastim brojem",
+          "opis": "Učenici pisano dijele troznamenkaste i višeznamenkaste brojeve jednoznamenkastim brojem, s ostatkom i bez ostatka. Primjenjuju dijeljenje u računskim i tekstualnim zadacima.",
+          "kljucniPojmovi": ["pisano dijeljenje", "djeljenik", "djelitelj", "količnik", "ostatak"],
+          "izvori": [120, 123, 125, 141, 142, 168, 202]
+        },
+        {
+          "id": "dijeljenje-s-10-i-visekratnicima",
+          "naziv": "Dijeljenje s 10 i višekratnicima",
+          "opis": "Učenici dijele višeznamenkaste brojeve s 10 i višekratnicima broja 10 (20, 30…) u različitim tipovima zadataka.",
+          "kljucniPojmovi": ["dijeljenje s 10", "višekratnik broja 10", "količnik"],
+          "izvori": [129]
+        },
+        {
+          "id": "dijeljenje-dvoznamenkastim-brojem",
+          "naziv": "Dijeljenje dvoznamenkastim brojem",
+          "opis": "Učenici pisano dijele troznamenkaste, četveroznamenkaste i višeznamenkaste brojeve dvoznamenkastim brojem. Primjenjuju postupak u zadacima riječima.",
+          "kljucniPojmovi": ["pisano dijeljenje", "dvoznamenkasti djelitelj", "količnik", "ostatak"],
+          "izvori": [131, 132, 134, 135, 136, 137, 139, 141, 142, 168, 202]
+        },
+        {
+          "id": "provjera-dijeljenja-mnozenjem",
+          "naziv": "Provjera dijeljenja množenjem",
+          "opis": "Učenici provjeravaju rezultat dijeljenja množenjem (količnik · djelitelj + ostatak = djeljenik) i koriste vezu množenja i dijeljenja za određivanje nepoznatoga broja.",
+          "kljucniPojmovi": ["provjera", "veza množenja i dijeljenja", "djeljenik", "nepoznati broj"],
+          "izvori": [121, 133, 169]
+        },
+        {
+          "id": "procjena-kolicnika",
+          "naziv": "Procjena količnika",
+          "opis": "Učenici prije pisanoga dijeljenja procjenjuju koliko će znamenaka imati količnik i približno koliko će iznositi, zaokružujući djeljenik i djelitelj.",
+          "kljucniPojmovi": ["procjena", "količnik", "zaokruživanje", "broj znamenaka"],
+          "izvori": [140, 143]
+        }
+      ]
+    },
+    {
+      "id": "kocka-i-kvadar",
+      "naziv": "Kocka i kvadar",
+      "ikona": "🧊",
+      "lekcije": [
+        {
+          "id": "vrhovi-bridovi-i-strane",
+          "naziv": "Vrhovi, bridovi i strane",
+          "opis": "Učenici određuju broj vrhova, bridova i strana kocke i kvadra te ih uspoređuju. Znaju da su strane kocke sukladni kvadrati, a strane kvadra pravokutnici.",
+          "kljucniPojmovi": ["kocka", "kvadar", "vrh", "brid", "strana", "geometrijsko tijelo"],
+          "izvori": [149, 150, 151]
+        }
+      ]
+    },
+    {
+      "id": "volumen-tekucine",
+      "naziv": "Volumen tekućine",
+      "ikona": "🥤",
+      "lekcije": [
+        {
+          "id": "litra-i-decilitar",
+          "naziv": "Litra i decilitar",
+          "opis": "Učenici imenuju i uspoređuju jedinice za volumen tekućine (litra, decilitar) te procjenjuju koliko tekućine stane u posude iz svakodnevnog života.",
+          "kljucniPojmovi": ["volumen", "litra", "decilitar", "l", "dl", "procjena"],
+          "izvori": [153, 154, 158, 159]
+        },
+        {
+          "id": "racunanje-s-litrama-i-decilitrima",
+          "naziv": "Preračunavanje i računanje",
+          "opis": "Učenici preračunavaju litre u decilitre i obratno (1 l = 10 dl) te računaju s mjernim jedinicama za volumen tekućine u tekstualnim zadacima.",
+          "kljucniPojmovi": ["1 l = 10 dl", "preračunavanje", "računanje s mjernim jedinicama"],
+          "izvori": [155, 156, 157, 159, 191, 192]
+        }
+      ]
+    },
+    {
+      "id": "podatci-i-vjerojatnost",
+      "naziv": "Podatci i vjerojatnost",
+      "ikona": "📊",
+      "lekcije": [
+        {
+          "id": "tablice-i-dijagrami",
+          "naziv": "Tablice i dijagrami",
+          "opis": "Učenici čitaju podatke iz tablica, stupčastih i slikovnih dijagrama te kružnoga prikaza i računaju s njima. Podatke iz teksta prikazuju tablicom ili dijagramom.",
+          "kljucniPojmovi": ["podatak", "tablica", "stupčasti dijagram", "slikovni dijagram", "kružni prikaz"],
+          "izvori": [12, 15, 18, 24, 30, 34, 69, 80, 82, 84, 86, 88, 94, 98, 124, 127, 145, 148, 160, 167, 170, 186]
+        },
+        {
+          "id": "vjerojatnost-dogadaja",
+          "naziv": "Siguran, moguć i nemoguć događaj",
+          "opis": "Učenici opisuju događaje kao sigurne, moguće i nemoguće, određuju moguće ishode (bacanje kovanice i kocke, izvlačenje kuglica) i uspoređuju koji je događaj vjerojatniji.",
+          "kljucniPojmovi": ["siguran događaj", "moguć događaj", "nemoguć događaj", "ishod", "vjerojatnost"],
+          "izvori": [16, 21, 23, 44, 99, 152, 160, 190, 199]
+        }
+      ]
+    },
+    {
+      "id": "racunske-operacije-i-problemski-zadaci",
+      "naziv": "Računske operacije i problemski zadaci",
+      "ikona": "🧩",
+      "lekcije": [
+        {
+          "id": "redoslijed-racunskih-operacija",
+          "naziv": "Redoslijed računskih operacija i zagrade",
+          "opis": "Učenici primjenjuju pravila redoslijeda računskih operacija (prvo zagrade, zatim množenje i dijeljenje, pa zbrajanje i oduzimanje) u zadacima s više računskih radnji te postavljaju zadatke sa zagradama.",
+          "kljucniPojmovi": ["redoslijed računskih operacija", "zagrade", "više računskih radnji"],
+          "izvori": [19, 138, 146, 147, 171, 172]
+        },
+        {
+          "id": "odabir-racunske-operacije",
+          "naziv": "Odabir računske operacije",
+          "opis": "Učenici u zadacima riječima prepoznaju koju računsku operaciju (ili više njih) trebaju primijeniti i zapisuju račun.",
+          "kljucniPojmovi": ["zadatak riječima", "odabir operacije", "zbrajanje", "oduzimanje", "množenje", "dijeljenje"],
+          "izvori": [45, 77, 100, 102, 130, 144, 187, 189, 194, 195, 200]
+        },
+        {
+          "id": "procjena-rezultata",
+          "naziv": "Procjena rezultata",
+          "opis": "Učenici prije računanja procjenjuju rezultat zaokruživanjem brojeva i nakon računanja provjeravaju je li rezultat razuman.",
+          "kljucniPojmovi": ["procjena", "zaokruživanje", "približno", "provjera rezultata"],
+          "izvori": [13, 36, 40, 44, 45, 71, 93, 102, 167]
+        },
+        {
+          "id": "problemski-zadaci",
+          "naziv": "Problemski zadaci",
+          "opis": "Učenici rješavaju jednostavne problemske zadatke koristeći različite strategije (slikovni prikaz, pokušaj i pogreška, rad unatrag) i sve četiri računske operacije s brojevima do milijun.",
+          "kljucniPojmovi": ["problemski zadatak", "strategija", "slikovni prikaz", "četiri računske operacije"],
+          "izvori": [72, 91, 122, 124, 126, 187, 188, 189, 190, 202, 203]
+        }
+      ]
+    }
+  ]
+}

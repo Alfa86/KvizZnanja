@@ -1,0 +1,1527 @@
+{
+  "lekcijaId": "trokut",
+  "pitanja": [
+    {
+      "id": "6-matematika-trokut-001",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom označava stranica označena upitnikom?",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB označena je s c, stranica CA s b, a stranica BC upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            5.8,
+            7.86
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "c"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "b"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "a",
+        "b",
+        "c",
+        "α"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica nasuprot vrha A označava se malim slovom a. To je stranica BC.",
+      "savjet": "Pogledaj koji vrh leži nasuprot toj stranici."
+    },
+    {
+      "id": "6-matematika-trokut-002",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom označava kut označen upitnikom?",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A označen je upitnikom, kut pri B s β, a kut pri C s γ.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            5.74,
+            6.65
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "?"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "β"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "γ"
+          }
+        ]
+      },
+      "ponudeni": [
+        "β",
+        "γ",
+        "δ",
+        "α"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kut pri vrhu A označava se grčkim slovom α (alfa).",
+      "savjet": "Kutovi se označavaju grčkim slovima istim redom kao vrhovi."
+    },
+    {
+      "id": "6-matematika-trokut-003",
+      "tezina": "lagano",
+      "pitanje": "Koliki je zbroj veličina svih unutarnjih kutova trokuta?",
+      "ponudeni": [
+        "360°",
+        "270°",
+        "180°",
+        "90°"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbroj unutarnjih kutova svakog trokuta je 180°.",
+      "savjet": "Zbroj kutova trokuta jednak je ispruženom kutu."
+    },
+    {
+      "id": "6-matematika-trokut-004",
+      "tezina": "lagano",
+      "pitanje": "Kakav je trokut na slici s obzirom na kutove?",
+      "slika": {
+        "opis": "Trokut ABC s pravim kutom pri vrhu C.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            6.37,
+            4.76
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "pravi": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "jednakostraničan",
+        "pravokutan",
+        "šiljastokutan",
+        "tupokutan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut ima pravi kut (označen kvadratićem), pa je pravokutan.",
+      "savjet": "Pogledaj kakav je kut označen kvadratićem."
+    },
+    {
+      "id": "6-matematika-trokut-005",
+      "tezina": "lagano",
+      "pitanje": "Kakav je trokut na slici s obzirom na kutove?",
+      "slika": {
+        "opis": "Trokut ABC u kojem kut pri vrhu C iznosi 120°.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            5.8,
+            3.24
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "oznaka": "120°"
+          }
+        ]
+      },
+      "ponudeni": [
+        "tupokutan",
+        "pravokutan",
+        "šiljastokutan",
+        "jednakokračan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut od 120° veći je od pravog kuta, a trokut s takvim kutom zove se tupokutan.",
+      "savjet": "Usporedi kut od 120° s pravim kutom."
+    },
+    {
+      "id": "6-matematika-trokut-006",
+      "tezina": "lagano",
+      "pitanje": "Kakav je trokut na slici s obzirom na duljine stranica?",
+      "slika": {
+        "opis": "Trokut ABC kojem su sve tri stranice duge 6 cm.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            5,
+            6.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "6 cm",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "6 cm",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "raznostraničan",
+        "pravokutan",
+        "tupokutan",
+        "jednakostraničan"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve tri stranice jednake su duljine, pa je trokut jednakostraničan.",
+      "savjet": "Usporedi duljine svih triju stranica."
+    },
+    {
+      "id": "6-matematika-trokut-007",
+      "tezina": "lagano",
+      "pitanje": "Kakav je trokut na slici s obzirom na duljine stranica?",
+      "slika": {
+        "opis": "Trokut ABC sa stranicama duljina 6 cm, 5 cm i 3 cm.",
+        "tocke": {
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            8,
+            2
+          ],
+          "C": [
+            6.33,
+            4.49
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "jednakostraničan",
+        "pravokutan",
+        "raznostraničan",
+        "jednakokračan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve su stranice različitih duljina, pa je trokut raznostraničan.",
+      "savjet": "Ima li trokut barem dvije stranice jednake duljine?"
+    },
+    {
+      "id": "6-matematika-trokut-008",
+      "tezina": "lagano",
+      "pitanje": "Koliko vrhova ima trokut?",
+      "ponudeni": [
+        "6",
+        "3",
+        "4",
+        "2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut ima tri vrha, tri stranice i tri kuta.",
+      "savjet": "Sjeti se što nam govori sama riječ „trokut“."
+    },
+    {
+      "id": "6-matematika-trokut-009",
+      "tezina": "lagano",
+      "pitanje": "Koliko stupnjeva ima kut označen kvadratićem?",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu C označen je kvadratićem.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            5.69,
+            4.94
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "pravi": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "90°",
+        "180°",
+        "45°",
+        "60°"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadratićem se označava pravi kut, a on ima 90°.",
+      "savjet": "Kvadratić je oznaka za jednu posebnu vrstu kuta."
+    },
+    {
+      "id": "6-matematika-trokut-010",
+      "tezina": "lagano",
+      "pitanje": "Trokut na slici ima dvije stranice jednake duljine. Kako se zove takav trokut?",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 4 cm, a stranice BC i CA po 5 cm.",
+        "tocke": {
+          "A": [
+            3,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            5,
+            5.58
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "5 cm",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "jednakostraničan",
+        "raznostraničan",
+        "pravokutan",
+        "jednakokračan"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut s dvije stranice jednake duljine zove se jednakokračan; te dvije stranice su njegovi kraci.",
+      "savjet": "Dvije jednake stranice takvog trokuta zovu se kraci."
+    },
+    {
+      "id": "6-matematika-trokut-011",
+      "tezina": "srednje",
+      "pitanje": "Kolika je veličina kuta γ u trokutu na slici?",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A iznosi 50°, kut pri vrhu B 60°, a kut pri vrhu C označen je s γ.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            5.74,
+            6.65
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "50°"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "60°"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "γ"
+          }
+        ]
+      },
+      "ponudeni": [
+        "60°",
+        "90°",
+        "70°",
+        "80°"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbroj kutova u trokutu je 180°, pa je γ = 180° − 50° − 60° = 70°.",
+      "savjet": "Sjeti se koliki je zbroj svih kutova u trokutu."
+    },
+    {
+      "id": "6-matematika-trokut-012",
+      "tezina": "srednje",
+      "pitanje": "Koliki je kut β u pravokutnom trokutu na slici?",
+      "slika": {
+        "opis": "Pravokutan trokut ABC s pravim kutom pri vrhu C; kut pri vrhu A iznosi 35°, a kut pri vrhu B označen je s β.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            6.37,
+            4.76
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "35°"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "β"
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "145°",
+        "55°",
+        "65°",
+        "45°"
+      ],
+      "tocan": 1,
+      "objasnjenje": "β = 180° − 90° − 35° = 55°.",
+      "savjet": "Kvadratić označava kut od 90°, a svi kutovi zajedno daju 180°."
+    },
+    {
+      "id": "6-matematika-trokut-013",
+      "tezina": "srednje",
+      "pitanje": "Koliki je opseg trokuta na slici?",
+      "slika": {
+        "opis": "Pravokutan trokut ABC sa stranicama duljina 4 cm, 3 cm i 5 cm.",
+        "tocke": {
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            8,
+            2
+          ],
+          "C": [
+            2,
+            6.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 cm",
+        "60 cm",
+        "7 cm",
+        "11 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg je zbroj duljina svih stranica: 4 cm + 3 cm + 5 cm = 12 cm.",
+      "savjet": "Opseg dobiješ kad zbrojiš duljine svih stranica."
+    },
+    {
+      "id": "6-matematika-trokut-014",
+      "tezina": "srednje",
+      "pitanje": "Trokut na slici je jednakostraničan. Koliki je njegov opseg?",
+      "slika": {
+        "opis": "Jednakostraničan trokut ABC; stranica AB duga je 6 cm.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            5,
+            6.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 cm",
+        "36 cm",
+        "6 cm",
+        "18 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve tri stranice su jednake, pa je opseg 3 · 6 cm = 18 cm.",
+      "savjet": "Koliko su duge ostale dvije stranice jednakostraničnog trokuta?"
+    },
+    {
+      "id": "6-matematika-trokut-015",
+      "tezina": "srednje",
+      "pitanje": "Koliki je opseg jednakokračnog trokuta na slici?",
+      "slika": {
+        "opis": "Jednakokračan trokut ABC s osnovicom AB duljine 4 cm i kracima duljine 7 cm.",
+        "tocke": {
+          "A": [
+            3,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            5,
+            7.71
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "7 cm",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "7 cm",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "11 cm",
+        "21 cm",
+        "18 cm",
+        "15 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg je 4 cm + 7 cm + 7 cm = 18 cm.",
+      "savjet": "Ne zaboravi da trokut ima dva kraka."
+    },
+    {
+      "id": "6-matematika-trokut-016",
+      "tezina": "srednje",
+      "pitanje": "Trokut ABC je jednakokračan s osnovicom AB. Koliki je kut β?",
+      "slika": {
+        "opis": "Jednakokračan trokut ABC s osnovicom AB; kut pri vrhu A iznosi 70°, a kut pri vrhu B označen je upitnikom.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            5,
+            9.24
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "70°"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "55°",
+        "70°",
+        "40°",
+        "110°"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U jednakokračnom trokutu kutovi uz osnovicu su jednaki, pa je β = α = 70°.",
+      "savjet": "Što znaš o kutovima uz osnovicu jednakokračnog trokuta?"
+    },
+    {
+      "id": "6-matematika-trokut-017",
+      "tezina": "srednje",
+      "pitanje": "Trokut ABC je jednakokračan s osnovicom AB. Koliki je kut γ?",
+      "slika": {
+        "opis": "Jednakokračan trokut ABC s osnovicom AB; kutovi pri vrhovima A i B iznose po 65°, a kut pri vrhu C označen je s γ.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            5,
+            7.43
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "65°"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "65°"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "γ"
+          }
+        ]
+      },
+      "ponudeni": [
+        "50°",
+        "65°",
+        "115°",
+        "25°"
+      ],
+      "tocan": 0,
+      "objasnjenje": "γ = 180° − 65° − 65° = 50°.",
+      "savjet": "Od zbroja svih kutova trokuta oduzmi dva poznata kuta."
+    },
+    {
+      "id": "6-matematika-trokut-018",
+      "tezina": "srednje",
+      "pitanje": "Može li trokut imati dva prava kuta?",
+      "ponudeni": [
+        "Da, ako je jednakokračan",
+        "Da, ako su mu sve stranice jednake",
+        "Da, ako je dovoljno velik",
+        "Ne, jer bi zbroj kutova bio veći od 180°"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dva prava kuta zajedno već imaju 180°, pa za treći kut ne bi ostalo ništa.",
+      "savjet": "Zbroji dva prava kuta i usporedi s ukupnim zbrojem kutova trokuta."
+    },
+    {
+      "id": "6-matematika-trokut-019",
+      "tezina": "srednje",
+      "pitanje": "Koliki je svaki unutarnji kut jednakostraničnog trokuta?",
+      "ponudeni": [
+        "45°",
+        "180°",
+        "60°",
+        "90°"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jednakostraničan trokut ima tri jednaka kuta, pa je svaki 180° : 3 = 60°.",
+      "savjet": "Svi kutovi jednakostraničnog trokuta su jednaki, a zajedno daju 180°."
+    },
+    {
+      "id": "6-matematika-trokut-020",
+      "tezina": "srednje",
+      "pitanje": "Koliki je kut γ i kakav je trokut na slici s obzirom na kutove?",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A iznosi 25°, kut pri vrhu B 40°, a kut pri vrhu C označen je s γ.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            6.14,
+            3.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "25°"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "40°"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "γ"
+          }
+        ]
+      },
+      "ponudeni": [
+        "105°, tupokutan",
+        "115°, tupokutan",
+        "115°, šiljastokutan",
+        "65°, šiljastokutan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "γ = 180° − 25° − 40° = 115°. Taj je kut veći od 90°, pa je trokut tupokutan.",
+      "savjet": "Prvo izračunaj γ, a zatim ga usporedi s pravim kutom."
+    },
+    {
+      "id": "6-matematika-trokut-021",
+      "tezina": "tesko",
+      "pitanje": "Kolika je veličina vanjskog kuta x na slici?",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A iznosi 45°, kut pri vrhu C 65°. Stranica AB produljena je preko vrha B do točke D, a vanjski kut između BC i BD označen je s x.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            5.03,
+            5.03
+          ],
+          "D": [
+            9.5,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "D",
+            "isprekidana": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "45°"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "65°"
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "C",
+              "D"
+            ],
+            "oznaka": "x"
+          }
+        ]
+      },
+      "ponudeni": [
+        "110°",
+        "70°",
+        "65°",
+        "135°"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vanjski kut jednak je zbroju dvaju nesusjednih unutarnjih kutova: x = 45° + 65° = 110°.",
+      "savjet": "Sjeti se veze vanjskog kuta i dvaju unutarnjih kutova koji mu nisu susjedni."
+    },
+    {
+      "id": "6-matematika-trokut-022",
+      "tezina": "tesko",
+      "pitanje": "Opseg jednakokračnog trokuta na slici je 20 cm. Kolika je duljina kraka x?",
+      "slika": {
+        "opis": "Jednakokračan trokut ABC s osnovicom AB duljine 6 cm; oba kraka označena su s x.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            5,
+            7.32
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "x",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "x",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "8 cm",
+        "6,5 cm",
+        "7 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kraci zajedno imaju 20 cm − 6 cm = 14 cm, pa je jedan krak 14 cm : 2 = 7 cm.",
+      "savjet": "Od opsega oduzmi osnovicu pa razmisli koliko je krakova ostalo."
+    },
+    {
+      "id": "6-matematika-trokut-023",
+      "tezina": "tesko",
+      "pitanje": "U pravokutnom trokutu na slici kut α je dvostruko veći od kuta β. Koliki je kut α?",
+      "slika": {
+        "opis": "Pravokutan trokut ABC s pravim kutom pri vrhu C; kutovi pri vrhovima A i B označeni su s α i β.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            3,
+            4.46
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "α"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "β"
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "45°",
+        "120°",
+        "60°",
+        "30°"
+      ],
+      "tocan": 2,
+      "objasnjenje": "α + β = 90°, a α = 2 · β, pa je 3 · β = 90°, β = 30° i α = 60°.",
+      "savjet": "Koliko zajedno iznose α i β ako je treći kut pravi?"
+    },
+    {
+      "id": "6-matematika-trokut-024",
+      "tezina": "tesko",
+      "pitanje": "Od kojih se triju dužina može nacrtati trokut?",
+      "ponudeni": [
+        "4 cm, 4 cm i 9 cm",
+        "3 cm, 4 cm i 5 cm",
+        "2 cm, 3 cm i 6 cm",
+        "1 cm, 2 cm i 3 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut postoji samo ako je zbroj bilo kojih dviju stranica veći od treće: 3 + 4 > 5 vrijedi, a kod ostalih ne vrijedi.",
+      "savjet": "Za svaku trojku provjeri je li zbroj dviju kraćih dužina veći od najdulje."
+    },
+    {
+      "id": "6-matematika-trokut-025",
+      "tezina": "tesko",
+      "pitanje": "Točka S jednako je udaljena od svih vrhova trokuta ABC. Kako se zove kružnica na slici?",
+      "slika": {
+        "opis": "Trokut ABC i kružnica sa središtem u točki S koja prolazi kroz sva tri vrha trokuta.",
+        "tocke": {
+          "A": [
+            1.24,
+            3.63
+          ],
+          "B": [
+            8.46,
+            3
+          ],
+          "C": [
+            5.69,
+            8.94
+          ],
+          "S": [
+            5,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "opisana kružnica trokuta",
+        "upisana kružnica trokuta",
+        "polukružnica",
+        "kružni isječak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kružnica koja prolazi kroz sve vrhove trokuta zove se trokutu opisana kružnica.",
+      "savjet": "Kružnica prolazi kroz vrhove, dakle nalazi se oko trokuta."
+    },
+    {
+      "id": "6-matematika-trokut-026",
+      "tezina": "tesko",
+      "pitanje": "Dijagonala AC dijeli četverokut ABCD na dva trokuta. Koliki je zbroj unutarnjih kutova četverokuta?",
+      "slika": {
+        "opis": "Četverokut ABCD s isprekidanom dijagonalom AC koja ga dijeli na trokute ABC i ACD.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1.5
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            2.5,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "C",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "180°",
+        "540°",
+        "270°",
+        "360°"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kutovi obaju trokuta zajedno čine kutove četverokuta: 2 · 180° = 360°.",
+      "savjet": "Koliki je zbroj kutova jednog trokuta i koliko je trokuta na slici?"
+    },
+    {
+      "id": "6-matematika-trokut-027",
+      "tezina": "tesko",
+      "pitanje": "Koliko iznosi x u trokutu na slici?",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A označen je s x, kut pri vrhu B s 2x, a kut pri vrhu C s x.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            8,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "x"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "2x"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "x"
+          }
+        ]
+      },
+      "ponudeni": [
+        "30°",
+        "90°",
+        "45°",
+        "60°"
+      ],
+      "tocan": 2,
+      "objasnjenje": "x + 2x + x = 180°, odnosno 4x = 180°, pa je x = 45°.",
+      "savjet": "Zbroji sve kutove izražene pomoću x i izjednači ih s ukupnim zbrojem kutova trokuta."
+    },
+    {
+      "id": "6-matematika-trokut-028",
+      "tezina": "tesko",
+      "pitanje": "Kut pri vrhu C jednakokračnog trokuta iznosi 40°. Koliki je kut uz osnovicu označen upitnikom?",
+      "slika": {
+        "opis": "Jednakokračan trokut ABC s osnovicom AB; kut pri vrhu C iznosi 40°, a kut pri vrhu A označen je upitnikom.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            5,
+            9.24
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "oznaka": "40°"
+          },
+          {
+            "vrh": "A",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "50°",
+        "70°",
+        "140°",
+        "40°"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kutovi uz osnovicu zajedno imaju 180° − 40° = 140°, a jednaki su, pa svaki ima 70°.",
+      "savjet": "Kutovi uz osnovicu su jednaki; koliko im ukupno ostaje od 180°?"
+    },
+    {
+      "id": "6-matematika-trokut-029",
+      "tezina": "tesko",
+      "pitanje": "Vanjski kut pri vrhu A iznosi 130°, a kut β iznosi 60°. Koliki je kut γ?",
+      "slika": {
+        "opis": "Trokut ABC; stranica BA produljena je preko vrha A do točke D. Vanjski kut između AC i AD iznosi 130°, kut pri vrhu B 60°, a kut pri vrhu C označen je s γ.",
+        "tocke": {
+          "A": [
+            3,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            6.55,
+            5.24
+          ],
+          "D": [
+            0.5,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "C",
+              "D"
+            ],
+            "oznaka": "130°"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "60°"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "γ"
+          }
+        ]
+      },
+      "ponudeni": [
+        "70°",
+        "50°",
+        "120°",
+        "60°"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vanjski kut pri A jednak je zbroju β + γ, pa je γ = 130° − 60° = 70°.",
+      "savjet": "Vanjski kut jednak je zbroju dvaju unutarnjih kutova koji mu nisu susjedni."
+    },
+    {
+      "id": "6-matematika-trokut-030",
+      "tezina": "tesko",
+      "pitanje": "Opseg jednakostraničnog trokuta na slici je 27 cm. Kolika je duljina stranice a?",
+      "slika": {
+        "opis": "Jednakostraničan trokut ABC kojem su sve tri stranice označene s a.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            5,
+            6.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "a",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "a",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "a",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "3 cm",
+        "81 cm",
+        "13,5 cm",
+        "9 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg je 3 · a, pa je a = 27 cm : 3 = 9 cm.",
+      "savjet": "Opseg se sastoji od tri jednake stranice."
+    }
+  ]
+}

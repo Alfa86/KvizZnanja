@@ -1,0 +1,313 @@
+{
+  "lekcijaId": "tablice-i-dijagrami",
+  "pitanja": [
+    {
+      "id": "4-matematika-tablice-i-dijagrami-001",
+      "tezina": "lagano",
+      "pitanje": "Učenici su birali omiljenu boju: crvenu je izabralo 5 učenika, plavu 8, a zelenu 3. Koja je boja najomiljenija?",
+      "ponudeni": [
+        "crvena",
+        "zelena",
+        "plava",
+        "sve su jednako omiljene"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plavu je izabralo najviše učenika, njih 8. Zato je plava najomiljenija.",
+      "savjet": "Potraži najveći broj među podatcima."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-002",
+      "tezina": "lagano",
+      "pitanje": "Učenici su birali omiljenu boju: crvenu je izabralo 5 učenika, plavu 8, a zelenu 3. Koliko je učenika izabralo zelenu boju?",
+      "ponudeni": [
+        "3",
+        "5",
+        "8",
+        "16"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U podatcima piše da je zelenu boju izabralo 3 učenika.",
+      "savjet": "Pažljivo pročitaj podatak koji pripada zelenoj boji."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-003",
+      "tezina": "lagano",
+      "pitanje": "Pri prebrojavanju koristiš crtice, a petu crticu crtaš preko prve četiri. Koji broj prikazuje zapis: ||||| ||?",
+      "ponudeni": [
+        "5",
+        "7",
+        "2",
+        "12"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedna skupina od pet crtica znači 5, a još dvije crtice znače 2. Ukupno je 5 + 2 = 7.",
+      "savjet": "Broji skupine po 5, pa dodaj preostale crtice."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-004",
+      "tezina": "lagano",
+      "pitanje": "Što pokazuje najviši stupac na stupčastom dijagramu?",
+      "ponudeni": [
+        "najmanju vrijednost",
+        "prvi podatak",
+        "zadnji podatak",
+        "najveću vrijednost"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Što je stupac viši, to je vrijednost koju prikazuje veća. Najviši stupac pokazuje najveću vrijednost.",
+      "savjet": "Visina stupca govori koliko čega ima."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-005",
+      "tezina": "lagano",
+      "pitanje": "Luka je bacio kocku 10 puta. Šestica je pala 3 puta. Koliko puta NIJE pala šestica?",
+      "ponudeni": [
+        "3",
+        "7",
+        "10",
+        "13"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od ukupno 10 bacanja oduzmeš 3 bacanja sa šesticom: 10 − 3 = 7.",
+      "savjet": "Od svih bacanja oduzmi ona u kojima je pala šestica."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-006",
+      "tezina": "lagano",
+      "pitanje": "U anketi o omiljenom voću jabuku je izabralo 6 učenika, bananu 9, a krušku 4. Koliko je učenika sudjelovalo u anketi?",
+      "ponudeni": [
+        "19",
+        "15",
+        "9",
+        "20"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojimo sve odgovore: 6 + 9 + 4 = 19 učenika.",
+      "savjet": "Ukupan broj dobiješ zbrajanjem svih podataka."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-007",
+      "tezina": "lagano",
+      "pitanje": "U anketi o omiljenom voću jabuku je izabralo 6 učenika, bananu 9, a krušku 4. Koliko je više učenika izabralo bananu nego krušku?",
+      "ponudeni": [
+        "13",
+        "4",
+        "5",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bananu je izabralo 9, a krušku 4 učenika. Razlika je 9 − 4 = 5.",
+      "savjet": "„Koliko više” znači da trebaš oduzimati."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-008",
+      "tezina": "srednje",
+      "pitanje": "Ocjene iz testa: ocjenu 5 dobilo je 7 učenika, ocjenu 4 dobilo je 9, ocjenu 3 dobilo je 6, a ocjenu 2 dobila su 2 učenika. Koliko je učenika pisalo test?",
+      "ponudeni": [
+        "22",
+        "24",
+        "23",
+        "26"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrojimo sve učenike: 7 + 9 + 6 + 2 = 24.",
+      "savjet": "Zbroji broj učenika za svaku ocjenu."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-009",
+      "tezina": "srednje",
+      "pitanje": "Ocjene iz testa: ocjenu 5 dobilo je 7 učenika, ocjenu 4 dobilo je 9, ocjenu 3 dobilo je 6, a ocjenu 2 dobila su 2 učenika. Koja je ocjena bila najčešća?",
+      "ponudeni": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ocjenu 4 dobilo je najviše učenika, njih 9. Zato je 4 najčešća ocjena.",
+      "savjet": "Najčešća ocjena nije nužno najveća ocjena, nego ona koju je dobilo najviše učenika."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-010",
+      "tezina": "srednje",
+      "pitanje": "Ocjene iz testa: ocjenu 5 dobilo je 7 učenika, ocjenu 4 dobilo je 9, ocjenu 3 dobilo je 6, a ocjenu 2 dobila su 2 učenika. Koliko je učenika dobilo ocjenu 4 ili 5?",
+      "ponudeni": [
+        "16",
+        "9",
+        "7",
+        "13"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojimo učenike s ocjenom 5 i ocjenom 4: 7 + 9 = 16.",
+      "savjet": "Riječ „ili” znači da zbrajaš obje skupine."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-011",
+      "tezina": "srednje",
+      "pitanje": "Na slikovnom dijagramu jedan kvadratić znači 2 učenika. Stupac za nogomet ima 6 kvadratića. Koliko učenika voli nogomet?",
+      "ponudeni": [
+        "6",
+        "8",
+        "12",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaki kvadratić vrijedi 2 učenika, pa 6 kvadratića vrijedi 6 · 2 = 12 učenika.",
+      "savjet": "Uvijek provjeri koliko vrijedi jedan znak na dijagramu."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-012",
+      "tezina": "srednje",
+      "pitanje": "Izmjerene temperature: ponedjeljak 12 °C, utorak 15 °C, srijeda 9 °C, četvrtak 14 °C, petak 11 °C. Koji je dan bio najhladniji?",
+      "ponudeni": [
+        "srijeda",
+        "ponedjeljak",
+        "petak",
+        "utorak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najniža temperatura je 9 °C, a izmjerena je u srijedu.",
+      "savjet": "Najhladniji dan je onaj s najmanjom temperaturom."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-013",
+      "tezina": "srednje",
+      "pitanje": "Izmjerene temperature: ponedjeljak 12 °C, utorak 15 °C, srijeda 9 °C, četvrtak 14 °C, petak 11 °C. Kolika je razlika između najviše i najniže temperature?",
+      "ponudeni": [
+        "3 °C",
+        "6 °C",
+        "24 °C",
+        "5 °C"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najviša temperatura je 15 °C, a najniža 9 °C. Razlika je 15 − 9 = 6 °C.",
+      "savjet": "Prvo pronađi najveći i najmanji podatak, pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-014",
+      "tezina": "srednje",
+      "pitanje": "Broj pročitanih knjiga: Ana 7, Ivan 4, Mia 9, Leo 4. Koja su dva učenika pročitala jednak broj knjiga?",
+      "ponudeni": [
+        "Ana i Mia",
+        "Ivan i Leo",
+        "Ana i Leo",
+        "Mia i Ivan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ivan i Leo pročitali su po 4 knjige, a to je jednak broj.",
+      "savjet": "Potraži dva ista broja u podatcima."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-015",
+      "tezina": "srednje",
+      "pitanje": "Broj pročitanih knjiga: Ana 7, Ivan 4, Mia 9, Leo 4. Koliko su knjiga pročitali svi zajedno?",
+      "ponudeni": [
+        "24",
+        "23",
+        "20",
+        "9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojimo sve podatke: 7 + 4 + 9 + 4 = 24 knjige.",
+      "savjet": "Pazi da Ivanove i Leove knjige zbrojiš obje."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-016",
+      "tezina": "srednje",
+      "pitanje": "U anketi je sudjelovalo 30 učenika. Nogomet voli 12 učenika, košarku 8, a svi ostali vole rukomet. Koliko učenika voli rukomet?",
+      "ponudeni": [
+        "20",
+        "10",
+        "12",
+        "18"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nogomet i košarku voli 12 + 8 = 20 učenika. Rukomet voli 30 − 20 = 10 učenika.",
+      "savjet": "Od ukupnog broja oduzmi učenike koje već znaš."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-017",
+      "tezina": "tesko",
+      "pitanje": "Kocka je bačena 20 puta. Broj 1 pao je 3 puta, broj 2 pao je 4 puta, broj 3 pao je 2 puta, broj 4 pao je 5 puta, a broj 6 pao je 3 puta. Koliko je puta pao broj 5?",
+      "ponudeni": [
+        "3",
+        "4",
+        "2",
+        "17"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbroj poznatih bacanja je 3 + 4 + 2 + 5 + 3 = 17. Broj 5 pao je 20 − 17 = 3 puta.",
+      "savjet": "Zbroji poznate podatke i oduzmi ih od ukupnog broja bacanja."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-018",
+      "tezina": "tesko",
+      "pitanje": "Na slikovnom dijagramu jedan kvadratić znači 5 učenika. Stupac A ima 7 kvadratića, a stupac B 4 kvadratića. Koliko je učenika više u stupcu A?",
+      "ponudeni": [
+        "3",
+        "15",
+        "35",
+        "20"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stupac A ima 3 kvadratića više (7 − 4 = 3). Svaki vrijedi 5 učenika, pa je to 3 · 5 = 15 učenika.",
+      "savjet": "Ne zaboravi pomnožiti razliku kvadratića s vrijednošću jednog kvadratića."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-019",
+      "tezina": "tesko",
+      "pitanje": "Omiljeni ljubimac: psa je izabralo 9 učenika, mačku 7, ribicu 4, a hrčka 5. Koliko je više učenika izabralo psa nego ribicu i hrčka zajedno?",
+      "ponudeni": [
+        "5",
+        "4",
+        "0",
+        "9"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ribicu i hrčka zajedno izabralo je 4 + 5 = 9 učenika, a psa također 9. Razlika je 9 − 9 = 0, dakle jednako.",
+      "savjet": "Prvo zbroji ribicu i hrčka, pa usporedi s psom."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-020",
+      "tezina": "tesko",
+      "pitanje": "Razred je u tri dana skupio 35 kg papira. U ponedjeljak su skupili 14 kg, a u srijedu 9 kg. Koliko su kilograma skupili u utorak?",
+      "ponudeni": [
+        "12",
+        "23",
+        "58",
+        "11"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ponedjeljak i srijeda zajedno: 14 + 9 = 23 kg. Utorak: 35 − 23 = 12 kg.",
+      "savjet": "Zbroji poznate dane pa ih oduzmi od ukupne količine."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-021",
+      "tezina": "tesko",
+      "pitanje": "Prodano sladoleda: u lipnju 240, u srpnju 380, u kolovozu 310. U kojem bi mjesecu trebalo prodati još 70 sladoleda da bude jednako kao u srpnju?",
+      "ponudeni": [
+        "lipanj",
+        "kolovoz",
+        "srpanj",
+        "ni u jednom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Srpanj ima 380, a 380 − 70 = 310. Toliko je prodano u kolovozu.",
+      "savjet": "Od broja za srpanj oduzmi 70 i potraži taj podatak."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-022",
+      "tezina": "tesko",
+      "pitanje": "Glasanje za boju razreda: crvena ||||| ||||| |, plava ||||| |||, žuta ||||| ||||| ||||. Za koliko je glasova pobjednička boja dobila više od posljednje?",
+      "ponudeni": [
+        "3",
+        "14",
+        "33",
+        "6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Crvena ima 11, plava 8, a žuta 14 glasova. Pobjednica je žuta, posljednja plava: 14 − 8 = 6.",
+      "savjet": "Prvo prebroji crtice za svaku boju, pa pronađi najveći i najmanji broj."
+    }
+  ]
+}

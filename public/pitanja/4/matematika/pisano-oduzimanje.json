@@ -1,0 +1,159 @@
+{
+  "lekcijaId": "pisano-oduzimanje",
+  "pitanja": [
+    {
+      "id": "4-matematika-pisano-oduzimanje-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 9000 − 4000?",
+      "ponudeni": [
+        "4000",
+        "6000",
+        "13 000",
+        "5000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9 tisućica manje 4 tisućice su 5 tisućica. Zato je 9000 − 4000 = 5000.",
+      "savjet": "Izračunaj 9 − 4 pa dopiši tri nule."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-002",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 80 000 − 30 000?",
+      "ponudeni": [
+        "50 000",
+        "40 000",
+        "110 000",
+        "5000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "8 desetica tisuća manje 3 desetice tisuća su 5 desetica tisuća. Zato je 80 000 − 30 000 = 50 000.",
+      "savjet": "Izračunaj 8 − 3 pa pazi da broj nula ostane isti."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-003",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 1 000 000 − 1?",
+      "ponudeni": [
+        "999 999",
+        "900 000",
+        "1 000 001",
+        "99 999"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj koji dolazi neposredno prije milijuna je 999 999. Zato je 1 000 000 − 1 = 999 999.",
+      "savjet": "Kad od broja oduzmeš 1, dobiješ broj koji je ispred njega."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-004",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 7600 − 600?",
+      "ponudeni": [
+        "1600",
+        "7060",
+        "6000",
+        "7000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad od 7600 oduzmeš 600, ostanu samo tisućice: 7000.",
+      "savjet": "Oduzmi stotice od stotica, tisućice ostaju iste."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-005",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 45 000 − 5000?",
+      "ponudeni": [
+        "45 500",
+        "40 000",
+        "44 500",
+        "35 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "45 tisućica manje 5 tisućica su 40 tisućica. Zato je 45 000 − 5000 = 40 000.",
+      "savjet": "Izračunaj 45 − 5 pa dopiši tri nule."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-006",
+      "tezina": "lagano",
+      "pitanje": "Koliko je 500 000 − 200 000?",
+      "ponudeni": [
+        "700 000",
+        "200 000",
+        "300 000",
+        "30 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "5 stotica tisuća manje 2 stotice tisuća su 3 stotice tisuća. Zato je 500 000 − 200 000 = 300 000.",
+      "savjet": "Izračunaj 5 − 2 pa dopiši pet nula."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-007",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 8645 − 3421?",
+      "ponudeni": [
+        "5124",
+        "12 066",
+        "5224",
+        "5226"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oduzimamo mjesne vrijednosti: 5 − 1 = 4, 4 − 2 = 2, 6 − 4 = 2, 8 − 3 = 5. Rezultat je 5224.",
+      "savjet": "Oduzimaj redom: jedinice, desetice, stotice, tisućice."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-008",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 7002 − 2358?",
+      "ponudeni": [
+        "5356",
+        "4756",
+        "4654",
+        "4644"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Možeš oduzimati u dijelovima: 7002 − 2000 = 5002, zatim 5002 − 358 = 4644.",
+      "savjet": "Kod nula u umanjeniku pažljivo posuđuj ili oduzimaj u dijelovima."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-009",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 60 000 − 23 450?",
+      "ponudeni": [
+        "36 550",
+        "43 450",
+        "37 550",
+        "36 450"
+      ],
+      "tocan": 0,
+      "objasnjenje": "60 000 − 23 000 = 37 000, zatim 37 000 − 450 = 36 550.",
+      "savjet": "Prvo oduzmi tisućice, a zatim stotice i desetice."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-010",
+      "tezina": "srednje",
+      "pitanje": "Koliko je 10 000 − 4785?",
+      "ponudeni": [
+        "6225",
+        "5225",
+        "5215",
+        "4785"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od 4785 do 5000 nedostaje 215, a od 5000 do 10 000 još 5000. Zajedno: 5000 + 215 = 5215.",
+      "savjet": "Nadopunjuj od manjeg broja do većeg u koracima."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-011",
+      "tezina": "tesko",
+      "pitanje": "Kolika je razlika najvećeg i najmanjeg šesteroznamenkastog broja?",
+      "ponudeni": [
+        "899 999",
+        "900 000",
+        "899 998",
+        "999 998"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najveći šesteroznamenkasti broj je 999 999, a najmanji 100 000. Razlika je 999 999 − 100 000 = 899 999.",
+      "savjet": "Najmanji šesteroznamenkasti broj počinje jedinicom i ima pet nula."
+    }
+  ]
+}

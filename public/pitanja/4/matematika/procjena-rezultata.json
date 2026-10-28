@@ -1,0 +1,33 @@
+{
+  "lekcijaId": "procjena-rezultata",
+  "pitanja": [
+    {
+      "id": "4-matematika-procjena-rezultata-001",
+      "tezina": "srednje",
+      "pitanje": "Koji je zbroj veći od 50 000?",
+      "ponudeni": [
+        "24 000 + 25 000",
+        "30 000 + 19 999",
+        "26 500 + 23 600",
+        "40 000 + 9900"
+      ],
+      "tocan": 2,
+      "objasnjenje": "26 500 + 23 600 = 50 100, a to je više od 50 000. Ostali zbrojevi su 49 000, 49 999 i 49 900.",
+      "savjet": "Izračunaj svaki zbroj i usporedi ga s 50 000."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-002",
+      "tezina": "tesko",
+      "pitanje": "Koliko je otprilike 398 750 + 301 480?",
+      "ponudeni": [
+        "600 000",
+        "700 000",
+        "800 000",
+        "1 000 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "398 750 je blizu 400 000, a 301 480 blizu 300 000. Procjena: 400 000 + 300 000 = 700 000.",
+      "savjet": "Zaokruži oba broja na stotice tisuća pa ih zbroji."
+    }
+  ]
+}

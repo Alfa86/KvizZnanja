@@ -1,0 +1,2440 @@
+{
+  "razredi": [
+    {
+      "broj": 1,
+      "predmeti": []
+    },
+    {
+      "broj": 2,
+      "predmeti": [
+        {
+          "id": "matematika",
+          "naziv": "Matematika",
+          "ikona": "🔢",
+          "boja": "#1d4ed8",
+          "cjeline": [
+            {
+              "id": "lekcije",
+              "naziv": "Matematika",
+              "ikona": "🔢",
+              "lekcije": [
+                {
+                  "id": "zbrajanje-i-oduzimanje-do-100",
+                  "naziv": "Zbrajanje i oduzimanje do 100",
+                  "opis": "Učenici zbrajaju i oduzimaju brojeve do 100 napamet, s prijelazom i bez prijelaza desetice. Razumiju vezu zbrajanja i oduzimanja te provjeravaju rezultat suprotnom računskom operacijom. Imenuju članove zbrajanja i oduzimanja. Rješavaju jednostavne tekstualne zadatke iz svakodnevnog života.",
+                  "kljucniPojmovi": [
+                    "zbroj",
+                    "razlika",
+                    "pribrojnik",
+                    "umanjenik",
+                    "umanjitelj",
+                    "desetica",
+                    "jedinica"
+                  ]
+                },
+                {
+                  "id": "mnozenje-i-dijeljenje",
+                  "naziv": "Množenje i dijeljenje",
+                  "opis": "Učenici upoznaju množenje kao zbrajanje jednakih pribrojnika i dijeljenje kao razdjeljivanje na jednake dijelove. Uče tablicu množenja brojeva 2, 3, 4, 5 i 10 te vezu množenja i dijeljenja. Rješavaju jednostavne tekstualne zadatke.",
+                  "kljucniPojmovi": [
+                    "umnožak",
+                    "faktor",
+                    "količnik",
+                    "djeljenik",
+                    "djelitelj",
+                    "tablica množenja"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "broj": 3,
+      "predmeti": []
+    },
+    {
+      "broj": 4,
+      "predmeti": [
+        {
+          "id": "hrvatski-jezik",
+          "naziv": "Hrvatski jezik",
+          "ikona": "📖",
+          "boja": "#C2410C",
+          "cjeline": [
+            {
+              "id": "pravopis",
+              "naziv": "Pravopis",
+              "ikona": "✏️",
+              "lekcije": [
+                {
+                  "id": "c-c-dz-d-ije-je",
+                  "naziv": "Č, ć, dž, đ i ije/je",
+                  "opis": "Učenici pravilno izgovaraju i pišu riječi s glasovima č, ć, dž i đ te riječi s ije, je, e i i. Prepoznaju i ispravljaju pravopisne pogreške u čestim riječima.",
+                  "kljucniPojmovi": [
+                    "č",
+                    "ć",
+                    "dž",
+                    "đ",
+                    "ije",
+                    "je",
+                    "dugi i kratki slog",
+                    "pravopisna pogreška"
+                  ]
+                },
+                {
+                  "id": "veliko-pocetno-slovo",
+                  "naziv": "Veliko početno slovo",
+                  "opis": "Učenici pišu veliko početno slovo u imenima država, gradova, naroda i stanovnika, ulica, trgova, voda, gora, geografskih cjelina i ustanova.",
+                  "kljucniPojmovi": [
+                    "veliko početno slovo",
+                    "ime države",
+                    "ime grada",
+                    "ime stanovnika",
+                    "ime naroda",
+                    "ime vode",
+                    "ime ustanove"
+                  ]
+                },
+                {
+                  "id": "pisanje-posvojnih-pridjeva",
+                  "naziv": "Pisanje posvojnih pridjeva",
+                  "opis": "Učenici pišu posvojne pridjeve izvedene od vlastitih imena velikim početnim slovom (Ivanov, Marijin), a pridjeve na -ski, -ški, -čki i -ćki izvedene od imena mjesta malim slovom (zagrebački, splitski).",
+                  "kljucniPojmovi": [
+                    "posvojni pridjev",
+                    "vlastito ime",
+                    "-ov, -ev, -in",
+                    "-ski",
+                    "-ški",
+                    "-čki",
+                    "-ćki"
+                  ]
+                },
+                {
+                  "id": "umanjenice-i-uvecanice",
+                  "naziv": "Umanjenice i uvećanice",
+                  "opis": "Učenici tvore i prepoznaju umanjenice (kućica) i uvećanice (kućetina) te ih pravilno pišu s č, ć, ije i je.",
+                  "kljucniPojmovi": [
+                    "umanjenica",
+                    "uvećanica",
+                    "-ica",
+                    "-ić",
+                    "-čić",
+                    "-etina",
+                    "-ina"
+                  ]
+                },
+                {
+                  "id": "nijecnice-i-rijecca-li",
+                  "naziv": "Niječnice i riječca li",
+                  "opis": "Učenici pišu niječnicu ne odvojeno od glagola (ne znam), osim u riječima nemam, neću, nisam i nemoj, te riječcu li odvojeno od riječi (Znaš li?).",
+                  "kljucniPojmovi": [
+                    "niječnica",
+                    "ne",
+                    "nemam",
+                    "neću",
+                    "nisam",
+                    "riječca li"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "vrste-rijeci",
+              "naziv": "Vrste riječi",
+              "ikona": "🔤",
+              "lekcije": [
+                {
+                  "id": "imenice-rod-i-broj",
+                  "naziv": "Imenice – rod i broj",
+                  "opis": "Učenici prepoznaju imenice kao riječi koje imenuju bića, stvari i pojave. Određuju im rod (muški, ženski, srednji) i broj (jednina, množina).",
+                  "kljucniPojmovi": [
+                    "imenica",
+                    "muški rod",
+                    "ženski rod",
+                    "srednji rod",
+                    "jednina",
+                    "množina"
+                  ]
+                },
+                {
+                  "id": "glagoli-radnje-stanja-i-zbivanja",
+                  "naziv": "Glagoli – radnja, stanje i zbivanje",
+                  "opis": "Učenici prepoznaju glagole kao riječi koje izriču radnju (trči), stanje (spava) ili zbivanje (pada kiša) i razlikuju ih od ostalih vrsta riječi.",
+                  "kljucniPojmovi": [
+                    "glagol",
+                    "radnja",
+                    "stanje",
+                    "zbivanje"
+                  ]
+                },
+                {
+                  "id": "glagolska-vremena",
+                  "naziv": "Prošlo, sadašnje i buduće vrijeme",
+                  "opis": "Učenici određuju izriče li glagol prošlu, sadašnju ili buduću radnju te preoblikuju rečenice iz jednoga glagolskog vremena u drugo.",
+                  "kljucniPojmovi": [
+                    "glagolsko vrijeme",
+                    "prošlo vrijeme",
+                    "sadašnje vrijeme",
+                    "buduće vrijeme",
+                    "preoblikovanje"
+                  ]
+                },
+                {
+                  "id": "pridjevi-opisni-posvojni-i-gradivni",
+                  "naziv": "Pridjevi – opisni, posvojni i gradivni",
+                  "opis": "Učenici razlikuju opisne (kakav?), posvojne (čiji?) i gradivne (od čega?) pridjeve. Znaju da se pridjev slaže s imenicom u rodu i broju.",
+                  "kljucniPojmovi": [
+                    "pridjev",
+                    "opisni pridjev",
+                    "posvojni pridjev",
+                    "gradivni pridjev",
+                    "kakav",
+                    "čiji",
+                    "od čega",
+                    "slaganje s imenicom"
+                  ]
+                },
+                {
+                  "id": "imenice-glagoli-i-pridjevi",
+                  "naziv": "Imenice, glagoli i pridjevi zajedno",
+                  "opis": "Učenici u rečenicama i tekstovima razlikuju imenice, glagole i pridjeve te ih pravilno upotrebljavaju uz gramatička i pravopisna pravila.",
+                  "kljucniPojmovi": [
+                    "vrste riječi",
+                    "imenica",
+                    "glagol",
+                    "pridjev",
+                    "rečenica"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "jezik-i-komunikacija",
+              "naziv": "Jezik i komunikacija",
+              "ikona": "💬",
+              "lekcije": [
+                {
+                  "id": "narjecja-i-standardni-jezik",
+                  "naziv": "Narječja i standardni jezik",
+                  "opis": "Učenici znaju da hrvatski jezik ima tri narječja (kajkavsko, čakavsko i štokavsko) i prema riječima za \"što\" ih razlikuju. Razlikuju zavičajni govor od hrvatskoga standardnog jezika.",
+                  "kljucniPojmovi": [
+                    "kajkavsko narječje",
+                    "čakavsko narječje",
+                    "štokavsko narječje",
+                    "kaj",
+                    "ča",
+                    "što",
+                    "zavičajni govor",
+                    "standardni jezik"
+                  ]
+                },
+                {
+                  "id": "poslovice-i-izreke",
+                  "naziv": "Poslovice i izreke",
+                  "opis": "Učenici objašnjavaju značenje poznatih narodnih poslovica i mudrih izreka te ih povezuju sa situacijama iz svakodnevnog života.",
+                  "kljucniPojmovi": [
+                    "poslovica",
+                    "izreka",
+                    "preneseno značenje",
+                    "pouka"
+                  ]
+                },
+                {
+                  "id": "pristojna-komunikacija-i-rasprava",
+                  "naziv": "Pristojna komunikacija i rasprava",
+                  "opis": "Učenici primjenjuju pravila uljudne komunikacije u različitim situacijama, sporazumijevaju se riječima te vizualnim i zvučnim znakovima i poznaju pravila rasprave (slušanje drugih, iznošenje mišljenja, argumenti).",
+                  "kljucniPojmovi": [
+                    "pristojna komunikacija",
+                    "neverbalna komunikacija",
+                    "rasprava",
+                    "mišljenje",
+                    "slušanje"
+                  ]
+                },
+                {
+                  "id": "krasnoslov-i-govorne-vrednote",
+                  "naziv": "Krasnoslov i govorne vrednote",
+                  "opis": "Učenici znaju što su govorne vrednote (jakost, brzina, stanka, intonacija) i kako ih koristiti pri izražajnom čitanju i krasnoslovu.",
+                  "kljucniPojmovi": [
+                    "krasnoslov",
+                    "izražajno čitanje",
+                    "jakost glasa",
+                    "brzina",
+                    "stanka",
+                    "intonacija"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "pisanje-i-pripovijedanje",
+              "naziv": "Pisanje i pripovijedanje",
+              "ikona": "📝",
+              "lekcije": [
+                {
+                  "id": "sastavak-uvod-razrada-zakljucak",
+                  "naziv": "Sastavak: uvod, razrada i zaključak",
+                  "opis": "Učenici znaju trodijelnu strukturu sastavka i pripovijedanja (uvod, razrada ili glavni dio, zaključak) i što pripada u koji dio. Pripovijedaju stvarne i zamišljene događaje prema planu.",
+                  "kljucniPojmovi": [
+                    "sastavak",
+                    "uvod",
+                    "razrada",
+                    "glavni dio",
+                    "zaključak",
+                    "plan pripovijedanja"
+                  ]
+                },
+                {
+                  "id": "opis-lika",
+                  "naziv": "Opis lika",
+                  "opis": "Učenici opisuju lik prema planu opisa: vanjski izgled, ponašanje, govor i osobine. Razlikuju stvarni i slikoviti opis.",
+                  "kljucniPojmovi": [
+                    "opis lika",
+                    "plan opisa",
+                    "vanjski izgled",
+                    "osobine",
+                    "stvarni opis",
+                    "slikoviti opis"
+                  ]
+                },
+                {
+                  "id": "biljeske-i-sazetak",
+                  "naziv": "Bilješke i sažetak",
+                  "opis": "Učenici iz teksta izdvajaju bitne podatke, pišu bilješke i natuknice te oblikuju sažetak izdvajanjem bitnih rečenica. Prema bilješkama prepričavaju tekst.",
+                  "kljucniPojmovi": [
+                    "bilješka",
+                    "natuknica",
+                    "sažetak",
+                    "bitno i nebitno",
+                    "prepričavanje"
+                  ]
+                },
+                {
+                  "id": "pismo",
+                  "naziv": "Pismo i e-poruka",
+                  "opis": "Učenici znaju dijelove pisma (mjesto i datum, oslovljavanje, sadržaj, pozdrav, potpis) i pravila pisanja poruke elektroničke pošte.",
+                  "kljucniPojmovi": [
+                    "pismo",
+                    "mjesto i datum",
+                    "oslovljavanje",
+                    "pozdrav",
+                    "potpis",
+                    "e-pošta"
+                  ]
+                },
+                {
+                  "id": "obavijest-i-izvjesce",
+                  "naziv": "Obavijest i izvješće",
+                  "opis": "Učenici znaju što obavijest mora sadržavati (tko, što, gdje, kada) i razlikuju bitne od nebitnih informacija. Pišu kratko izvješće o obavljenom zadatku.",
+                  "kljucniPojmovi": [
+                    "obavijest",
+                    "tko",
+                    "što",
+                    "gdje",
+                    "kada",
+                    "izvješće",
+                    "bitna informacija"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "prica",
+              "naziv": "Priča",
+              "ikona": "📖",
+              "lekcije": [
+                {
+                  "id": "tema-likovi-mjesto-i-vrijeme-radnje",
+                  "naziv": "Tema, likovi, mjesto i vrijeme radnje",
+                  "opis": "Učenici određuju temu priče, glavne i sporedne likove, mjesto i vrijeme radnje te povezuju sadržaj priče s vlastitim iskustvom.",
+                  "kljucniPojmovi": [
+                    "tema",
+                    "glavni lik",
+                    "sporedni lik",
+                    "mjesto radnje",
+                    "vrijeme radnje"
+                  ]
+                },
+                {
+                  "id": "osobine-likova-i-odnosi-medu-njima",
+                  "naziv": "Osobine likova i odnosi među njima",
+                  "opis": "Učenici opisuju izgled, ponašanje, govor i osobine likova te odnose među likovima. Prosuđuju postupke likova.",
+                  "kljucniPojmovi": [
+                    "lik",
+                    "osobine",
+                    "ponašanje",
+                    "govor lika",
+                    "odnosi među likovima",
+                    "postupci"
+                  ]
+                },
+                {
+                  "id": "redoslijed-dogadaja",
+                  "naziv": "Redoslijed događaja i dijelovi priče",
+                  "opis": "Učenici određuju redoslijed događaja u priči i prepoznaju dijelove priče (uvod, zaplet, rasplet ili početak, glavni dio, završetak).",
+                  "kljucniPojmovi": [
+                    "redoslijed događaja",
+                    "uvod",
+                    "glavni dio",
+                    "završetak",
+                    "trodijelna struktura"
+                  ]
+                },
+                {
+                  "id": "poruka-teksta",
+                  "naziv": "Poruka teksta",
+                  "opis": "Učenici izdvajaju vrijednu poruku priče i povezuju je sa svakodnevnim životom, poželjnim i nepoželjnim ponašanjem te zaštitom okoliša.",
+                  "kljucniPojmovi": [
+                    "poruka",
+                    "pouka",
+                    "poželjno ponašanje",
+                    "vrijednosti"
+                  ]
+                },
+                {
+                  "id": "pripovjedne-tehnike",
+                  "naziv": "Pripovjedne tehnike",
+                  "opis": "Učenici prepoznaju pripovijedanje, opis, dijalog i monolog u tekstu te pripovijedaju sadržaj iz perspektive drugoga lika.",
+                  "kljucniPojmovi": [
+                    "pripovijedanje",
+                    "opis",
+                    "dijalog",
+                    "monolog",
+                    "perspektiva lika"
+                  ]
+                },
+                {
+                  "id": "stvarno-i-nestvarno",
+                  "naziv": "Stvarno i nestvarno u priči",
+                  "opis": "Učenici razlikuju stvarne i nestvarne (čudesne) događaje i likove u priči i bajci te prepoznaju personifikaciju u prozi.",
+                  "kljucniPojmovi": [
+                    "stvarni događaj",
+                    "nestvarni događaj",
+                    "čudesni lik",
+                    "personifikacija"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "pjesma",
+              "naziv": "Pjesma",
+              "ikona": "🎵",
+              "lekcije": [
+                {
+                  "id": "stih-strofa-rima-i-ritam",
+                  "naziv": "Stih, strofa, rima i ritam",
+                  "opis": "Učenici prepoznaju obilježja poetskoga teksta: stih, strofu, rimu, ritam i ponavljanje te ih razlikuju od proznoga teksta.",
+                  "kljucniPojmovi": [
+                    "stih",
+                    "strofa",
+                    "rima",
+                    "ritam",
+                    "ponavljanje",
+                    "poetski tekst"
+                  ]
+                },
+                {
+                  "id": "pjesnicke-slike-usporedba-onomatopeja",
+                  "naziv": "Pjesničke slike, usporedba i onomatopeja",
+                  "opis": "Učenici prepoznaju vidne i slušne pjesničke slike, usporedbu (kao, poput) i onomatopeju (riječi koje oponašaju zvukove).",
+                  "kljucniPojmovi": [
+                    "pjesnička slika",
+                    "vidna slika",
+                    "slušna slika",
+                    "usporedba",
+                    "onomatopeja"
+                  ]
+                },
+                {
+                  "id": "personifikacija",
+                  "naziv": "Personifikacija",
+                  "opis": "Učenici prepoznaju personifikaciju – pridavanje ljudskih osobina, postupaka i govora biljkama, životinjama, predmetima i pojavama – u pjesmi i priči.",
+                  "kljucniPojmovi": [
+                    "personifikacija",
+                    "ljudske osobine",
+                    "oživljavanje"
+                  ]
+                },
+                {
+                  "id": "tema-i-motivi-pjesme",
+                  "naziv": "Tema i motivi pjesme",
+                  "opis": "Učenici određuju temu i motive pjesme te povezuju doživljaj pjesme s vlastitim iskustvom i postupcima.",
+                  "kljucniPojmovi": [
+                    "tema",
+                    "motiv",
+                    "doživljaj",
+                    "vlastito iskustvo"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "knjizevne-vrste",
+              "naziv": "Književne vrste",
+              "ikona": "📚",
+              "lekcije": [
+                {
+                  "id": "basna",
+                  "naziv": "Basna",
+                  "opis": "Učenici prepoznaju obilježja basne: likovi su životinje s ljudskim osobinama, priča je kratka i završava poukom.",
+                  "kljucniPojmovi": [
+                    "basna",
+                    "životinje kao likovi",
+                    "ljudske osobine",
+                    "pouka"
+                  ]
+                },
+                {
+                  "id": "bajka-i-legenda",
+                  "naziv": "Bajka i legenda",
+                  "opis": "Učenici razlikuju bajku (čudesni likovi i događaji, borba dobra i zla) i legendu (priča o stvarnim mjestima ili osobama s nestvarnim elementima).",
+                  "kljucniPojmovi": [
+                    "bajka",
+                    "legenda",
+                    "čudesno",
+                    "dobro i zlo",
+                    "stvarno mjesto"
+                  ]
+                },
+                {
+                  "id": "prica-i-pripovijetka",
+                  "naziv": "Priča i pripovijetka",
+                  "opis": "Učenici prepoznaju obilježja priče i pripovijetke kao proznih tekstova te ih razlikuju od poetskih tekstova.",
+                  "kljucniPojmovi": [
+                    "priča",
+                    "pripovijetka",
+                    "prozni tekst",
+                    "pripovjedač"
+                  ]
+                },
+                {
+                  "id": "igrokaz-i-strip",
+                  "naziv": "Igrokaz i strip",
+                  "opis": "Učenici prepoznaju obilježja igrokaza (tekst za izvođenje, likovi, dijalog, upute za izvođenje) i stripa (slike u kvadratićima, oblačići s tekstom).",
+                  "kljucniPojmovi": [
+                    "igrokaz",
+                    "dijalog",
+                    "uloga",
+                    "strip",
+                    "oblačić",
+                    "kadar"
+                  ]
+                },
+                {
+                  "id": "saljivi-tekst-i-biografija",
+                  "naziv": "Šaljivi tekst i biografija",
+                  "opis": "Učenici prepoznaju obilježja šaljive pjesme i šaljivoga teksta te biografije kao teksta o životu stvarne osobe.",
+                  "kljucniPojmovi": [
+                    "šaljiva pjesma",
+                    "šaljivi tekst",
+                    "humor",
+                    "biografija",
+                    "stvarna osoba"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mediji-i-izvori-informacija",
+              "naziv": "Mediji i izvori informacija",
+              "ikona": "🎬",
+              "lekcije": [
+                {
+                  "id": "film",
+                  "naziv": "Dokumentarni, igrani i crtani film",
+                  "opis": "Učenici razlikuju dokumentarni, igrani i crtani film, određuju redoslijed događaja u filmu te uspoređuju književno djelo i film nastao prema njemu.",
+                  "kljucniPojmovi": [
+                    "dokumentarni film",
+                    "igrani film",
+                    "crtani film",
+                    "ekranizacija"
+                  ]
+                },
+                {
+                  "id": "televizija-radio-i-tisak",
+                  "naziv": "Televizija, radio i tisak",
+                  "opis": "Učenici razlikuju tiskane i elektroničke medije, znaju posebnosti televizije i radija te prepoznaju emisije i intervju.",
+                  "kljucniPojmovi": [
+                    "mediji",
+                    "tiskani mediji",
+                    "elektronički mediji",
+                    "televizija",
+                    "radio",
+                    "emisija",
+                    "intervju"
+                  ]
+                },
+                {
+                  "id": "racunalo-internet-i-sigurnost",
+                  "naziv": "Računalo, internet i sigurnost",
+                  "opis": "Učenici svrhovito koriste računalo i internet, biraju pouzdane izvore informacija i znaju pravila sigurnoga ponašanja na internetu.",
+                  "kljucniPojmovi": [
+                    "internet",
+                    "pouzdan izvor",
+                    "sigurnost na internetu",
+                    "osobni podatci"
+                  ]
+                },
+                {
+                  "id": "enciklopedija-leksikon-pravopis-i-rjecnik",
+                  "naziv": "Enciklopedija, leksikon, pravopis i rječnik",
+                  "opis": "Učenici razlikuju enciklopediju, leksikon, pravopis i rječnik te pronalaze tražene podatke pomoću abecednoga reda, kazala i sadržaja, i u mrežnoj enciklopediji.",
+                  "kljucniPojmovi": [
+                    "enciklopedija",
+                    "leksikon",
+                    "pravopis",
+                    "rječnik",
+                    "kazalo",
+                    "abecedni red",
+                    "mrežna enciklopedija"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "matematika",
+          "naziv": "Matematika",
+          "ikona": "🔢",
+          "boja": "#1D4ED8",
+          "cjeline": [
+            {
+              "id": "brojevi-do-milijun",
+              "naziv": "Brojevi do milijun",
+              "ikona": "🔢",
+              "lekcije": [
+                {
+                  "id": "citanje-i-pisanje-brojeva-do-milijun",
+                  "naziv": "Čitanje i pisanje brojeva",
+                  "opis": "Učenici broje, čitaju i pišu brojeve do milijun riječima i znamenkama. Brojeve zapisuju i čitaju u tablici mjesnih vrijednosti te ih prikazuju na različite načine (rastavljanjem na dekadske jedinice, na brojevnoj crti, slikovno).",
+                  "kljucniPojmovi": [
+                    "znamenka",
+                    "višeznamenkasti broj",
+                    "deset tisuća",
+                    "sto tisuća",
+                    "milijun",
+                    "zapis riječima"
+                  ]
+                },
+                {
+                  "id": "dekadske-jedinice-i-mjesna-vrijednost",
+                  "naziv": "Dekadske jedinice i mjesna vrijednost",
+                  "opis": "Učenici imenuju dekadske jedinice (jedinica, desetica, stotica, tisućica, desetica tisuća, stotica tisuća) i uspoređuju ih. Određuju mjesnu vrijednost znamenke u broju i rastavljaju broj na dekadske jedinice.",
+                  "kljucniPojmovi": [
+                    "dekadska jedinica",
+                    "mjesna vrijednost",
+                    "jedinica",
+                    "desetica",
+                    "stotica",
+                    "tisućica",
+                    "desetica tisuća",
+                    "stotica tisuća"
+                  ]
+                },
+                {
+                  "id": "usporedivanje-prethodnik-i-sljedbenik",
+                  "naziv": "Uspoređivanje, prethodnik i sljedbenik",
+                  "opis": "Učenici uspoređuju brojeve do milijun znakovima <, > i = te ih poredaju po veličini. Određuju prethodnik i sljedbenik broja te susjedne desetice, stotice i tisućice.",
+                  "kljucniPojmovi": [
+                    "veći",
+                    "manji",
+                    "jednako",
+                    "prethodnik",
+                    "sljedbenik",
+                    "poredak"
+                  ]
+                },
+                {
+                  "id": "zaokruzivanje-brojeva",
+                  "naziv": "Zaokruživanje brojeva",
+                  "opis": "Učenici zaokružuju brojeve na najbližu deseticu, stoticu ili tisućicu i odlučuju zaokružuju li na nižu ili višu. Zaokružene brojeve koriste za procjenu rezultata.",
+                  "kljucniPojmovi": [
+                    "zaokruživanje",
+                    "niža desetica",
+                    "viša desetica",
+                    "približno",
+                    "procjena"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "zbrajanje-i-oduzimanje-do-milijun",
+              "naziv": "Zbrajanje i oduzimanje do milijun",
+              "ikona": "➕",
+              "lekcije": [
+                {
+                  "id": "pisano-zbrajanje",
+                  "naziv": "Pisano zbrajanje",
+                  "opis": "Učenici pisano zbrajaju četveroznamenkaste, peteroznamenkaste i šesteroznamenkaste brojeve s prijelazom i bez prijelaza. Pravilno potpisuju brojeve po mjesnim vrijednostima i provjeravaju rezultat.",
+                  "kljucniPojmovi": [
+                    "pisano zbrajanje",
+                    "pribrojnik",
+                    "zbroj",
+                    "prijelaz",
+                    "potpisivanje"
+                  ]
+                },
+                {
+                  "id": "pisano-oduzimanje",
+                  "naziv": "Pisano oduzimanje",
+                  "opis": "Učenici pisano oduzimaju četveroznamenkaste, peteroznamenkaste i šesteroznamenkaste brojeve, i kad je znamenka umanjenika manja od znamenke umanjitelja (posuđivanje). Provjeravaju rezultat zbrajanjem.",
+                  "kljucniPojmovi": [
+                    "pisano oduzimanje",
+                    "umanjenik",
+                    "umanjitelj",
+                    "razlika",
+                    "posuđivanje",
+                    "provjera"
+                  ]
+                },
+                {
+                  "id": "nepoznati-pribrojnik-umanjenik-i-umanjitelj",
+                  "naziv": "Nepoznati pribrojnik, umanjenik i umanjitelj",
+                  "opis": "Učenici određuju nepoznati broj u jednakostima zbrajanja i oduzimanja koristeći vezu između tih računskih operacija. Nepoznati broj označavaju slovom ili simbolom i provjeravaju rješenje.",
+                  "kljucniPojmovi": [
+                    "nepoznati broj",
+                    "pribrojnik",
+                    "umanjenik",
+                    "umanjitelj",
+                    "veza zbrajanja i oduzimanja",
+                    "slovo kao oznaka broja"
+                  ]
+                },
+                {
+                  "id": "zbrajanje-i-oduzimanje-zadaci-rijecima",
+                  "naziv": "Zadaci riječima",
+                  "opis": "Učenici rješavaju tekstualne zadatke iz svakodnevnog života u kojima zbrajaju i oduzimaju brojeve do milijun, u jednom ili više koraka. Iz teksta izdvajaju podatke i zapisuju račun i odgovor.",
+                  "kljucniPojmovi": [
+                    "tekstualni zadatak",
+                    "podatak",
+                    "račun",
+                    "odgovor",
+                    "više koraka"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "kutovi",
+              "naziv": "Kutovi",
+              "ikona": "📐",
+              "lekcije": [
+                {
+                  "id": "pojam-kuta",
+                  "naziv": "Pojam kuta i točke kuta",
+                  "opis": "Učenici prepoznaju i imenuju kut, njegov vrh i krakove te kut označavaju. Određuju pripadaju li točke kutu ili ne pripadaju.",
+                  "kljucniPojmovi": [
+                    "kut",
+                    "vrh kuta",
+                    "krak",
+                    "oznaka kuta",
+                    "točka pripada kutu"
+                  ]
+                },
+                {
+                  "id": "vrste-kutova",
+                  "naziv": "Šiljasti, pravi i tupi kut",
+                  "opis": "Učenici prepoznaju, uspoređuju i razlikuju šiljasti, pravi i tupi kut. Pravi kut provjeravaju trokutom ili preklopljenim papirom.",
+                  "kljucniPojmovi": [
+                    "šiljasti kut",
+                    "pravi kut",
+                    "tupi kut",
+                    "uspoređivanje kutova"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "trokuti",
+              "naziv": "Trokuti",
+              "ikona": "🔺",
+              "lekcije": [
+                {
+                  "id": "vrhovi-stranice-i-kutovi-trokuta",
+                  "naziv": "Vrhovi, stranice i kutovi trokuta",
+                  "opis": "Učenici imenuju vrhove, stranice i kutove trokuta te ih pravilno označavaju velikim i malim slovima. Trokut zapisuju simbolom ∆ABC.",
+                  "kljucniPojmovi": [
+                    "trokut",
+                    "vrh",
+                    "stranica",
+                    "kut trokuta",
+                    "∆ABC",
+                    "označavanje"
+                  ]
+                },
+                {
+                  "id": "vrste-trokuta-prema-stranicama",
+                  "naziv": "Vrste trokuta prema stranicama",
+                  "opis": "Učenici razlikuju jednakostranični, jednakokračni i raznostranični trokut prema duljinama stranica. Opisuju trokut i prepoznaju krakove i osnovicu jednakokračnoga trokuta.",
+                  "kljucniPojmovi": [
+                    "jednakostranični trokut",
+                    "jednakokračni trokut",
+                    "raznostranični trokut",
+                    "krak",
+                    "osnovica"
+                  ]
+                },
+                {
+                  "id": "pravokutni-trokut",
+                  "naziv": "Pravokutni trokut",
+                  "opis": "Učenici prepoznaju i opisuju pravokutni trokut kao trokut s jednim pravim kutom. Razlikuju ga od drugih trokuta.",
+                  "kljucniPojmovi": [
+                    "pravokutni trokut",
+                    "pravi kut",
+                    "vrste trokuta"
+                  ]
+                },
+                {
+                  "id": "opseg-trokuta",
+                  "naziv": "Opseg trokuta",
+                  "opis": "Učenici računaju opseg trokuta kao zbroj duljina njegovih stranica. Iz zadanoga opsega određuju duljinu nepoznate stranice.",
+                  "kljucniPojmovi": [
+                    "opseg",
+                    "duljina stranice",
+                    "zbroj duljina",
+                    "mjerna jedinica"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "krug-i-kruznica",
+              "naziv": "Krug i kružnica",
+              "ikona": "⭕",
+              "lekcije": [
+                {
+                  "id": "srediste-polumjer-i-promjer",
+                  "naziv": "Središte, polumjer i promjer",
+                  "opis": "Učenici razlikuju krug i kružnicu te imenuju njihove dijelove: središte, polumjer i promjer. Znaju da je promjer dvostruko dulji od polumjera.",
+                  "kljucniPojmovi": [
+                    "krug",
+                    "kružnica",
+                    "središte",
+                    "polumjer",
+                    "promjer",
+                    "šestar"
+                  ]
+                },
+                {
+                  "id": "tocke-i-krug",
+                  "naziv": "Točke na kružnici, u krugu i izvan njega",
+                  "opis": "Učenici određuju pripada li točka kružnici, krugu ili se nalazi izvan kruga, uspoređujući njezinu udaljenost od središta s polumjerom.",
+                  "kljucniPojmovi": [
+                    "točka",
+                    "pripada krugu",
+                    "na kružnici",
+                    "izvan kruga",
+                    "udaljenost od središta"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "pisano-mnozenje",
+              "naziv": "Pisano množenje",
+              "ikona": "✖️",
+              "lekcije": [
+                {
+                  "id": "mnozenje-jednoznamenkastim-brojem",
+                  "naziv": "Množenje jednoznamenkastim brojem",
+                  "opis": "Učenici pisano množe dvoznamenkaste, troznamenkaste i višeznamenkaste brojeve jednoznamenkastim brojem, s prijenosom i bez njega. Primjenjuju množenje u tekstualnim zadacima i određuju nepoznati faktor.",
+                  "kljucniPojmovi": [
+                    "pisano množenje",
+                    "faktor",
+                    "umnožak",
+                    "prijenos",
+                    "nepoznati faktor"
+                  ]
+                },
+                {
+                  "id": "mnozenje-s-10-i-100",
+                  "naziv": "Množenje s 10, 100 i višekratnicima",
+                  "opis": "Učenici usmeno i pisano množe brojeve s 10 i 100 te s njihovim višekratnicima (20, 300…). Primjenjuju to u tekstualnim zadacima.",
+                  "kljucniPojmovi": [
+                    "množenje s 10",
+                    "množenje sa 100",
+                    "višekratnik",
+                    "dopisivanje nula"
+                  ]
+                },
+                {
+                  "id": "mnozenje-dvoznamenkastim-brojem",
+                  "naziv": "Množenje dvoznamenkastim brojem",
+                  "opis": "Učenici pisano množe dvoznamenkaste, troznamenkaste, četveroznamenkaste i peteroznamenkaste brojeve dvoznamenkastim brojem. Pravilno potpisuju djelomične umnoške i zbrajaju ih.",
+                  "kljucniPojmovi": [
+                    "pisano množenje",
+                    "dvoznamenkasti faktor",
+                    "djelomični umnožak",
+                    "umnožak"
+                  ]
+                },
+                {
+                  "id": "svojstva-racunskih-operacija",
+                  "naziv": "Svojstva računskih operacija",
+                  "opis": "Učenici koriste zamjenu mjesta faktora, združivanje i rastavljanje broja kako bi lakše računali. Svojstva primjenjuju u različitim tipovima zadataka.",
+                  "kljucniPojmovi": [
+                    "zamjena mjesta faktora",
+                    "združivanje",
+                    "rastavljanje",
+                    "lakše računanje"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "pravokutnik-i-kvadrat",
+              "naziv": "Pravokutnik i kvadrat",
+              "ikona": "⬛",
+              "lekcije": [
+                {
+                  "id": "vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata",
+                  "naziv": "Vrhovi, stranice i kutovi",
+                  "opis": "Učenici imenuju vrhove, stranice i kutove pravokutnika i kvadrata te ih označavaju. Znaju da su im svi kutovi pravi, da kvadrat ima sve stranice jednake, a pravokutnik po dvije nasuprotne.",
+                  "kljucniPojmovi": [
+                    "pravokutnik",
+                    "kvadrat",
+                    "vrh",
+                    "stranica",
+                    "pravi kut",
+                    "nasuprotne stranice"
+                  ]
+                },
+                {
+                  "id": "opseg-pravokutnika-i-kvadrata",
+                  "naziv": "Opseg pravokutnika i kvadrata",
+                  "opis": "Učenici računaju opseg pravokutnika i kvadrata zbrajanjem duljina stranica i pomoću formule (o = 2 · a + 2 · b, o = 4 · a). Iz opsega određuju duljinu stranice.",
+                  "kljucniPojmovi": [
+                    "opseg",
+                    "o = 2 · a + 2 · b",
+                    "o = 4 · a",
+                    "duljina stranice"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "povrsina",
+              "naziv": "Površina",
+              "ikona": "🟩",
+              "lekcije": [
+                {
+                  "id": "mjerenje-povrsine-kvadratnom-mrezom",
+                  "naziv": "Mjerenje površine kvadratnom mrežom",
+                  "opis": "Učenici mjere površinu likova u kvadratnoj mreži prebrojavanjem jediničnih kvadrata. Uspoređuju likove prema veličini dijela ravnine koji zauzimaju.",
+                  "kljucniPojmovi": [
+                    "površina",
+                    "jedinični kvadrat",
+                    "kvadratna mreža",
+                    "uspoređivanje površina"
+                  ]
+                },
+                {
+                  "id": "mjerne-jedinice-za-povrsinu",
+                  "naziv": "Mjerne jedinice za površinu",
+                  "opis": "Učenici imenuju jedinice za površinu cm², dm² i m² te ih preračunavaju. Razlikuju jedinice za duljinu od jedinica za površinu.",
+                  "kljucniPojmovi": [
+                    "cm²",
+                    "dm²",
+                    "m²",
+                    "preračunavanje",
+                    "jedinice za duljinu"
+                  ]
+                },
+                {
+                  "id": "povrsina-pravokutnika",
+                  "naziv": "Površina pravokutnika i kvadrata",
+                  "opis": "Učenici računaju površinu pravokutnika i kvadrata množenjem duljina stranica (P = a · b, P = a · a) i povezuju to s prebrojavanjem jediničnih kvadrata.",
+                  "kljucniPojmovi": [
+                    "površina",
+                    "P = a · b",
+                    "P = a · a",
+                    "jedinični kvadrat"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "pisano-dijeljenje",
+              "naziv": "Pisano dijeljenje",
+              "ikona": "➗",
+              "lekcije": [
+                {
+                  "id": "dijeljenje-jednoznamenkastim-brojem",
+                  "naziv": "Dijeljenje jednoznamenkastim brojem",
+                  "opis": "Učenici pisano dijele troznamenkaste i višeznamenkaste brojeve jednoznamenkastim brojem, s ostatkom i bez ostatka. Primjenjuju dijeljenje u računskim i tekstualnim zadacima.",
+                  "kljucniPojmovi": [
+                    "pisano dijeljenje",
+                    "djeljenik",
+                    "djelitelj",
+                    "količnik",
+                    "ostatak"
+                  ]
+                },
+                {
+                  "id": "dijeljenje-s-10-i-visekratnicima",
+                  "naziv": "Dijeljenje s 10 i višekratnicima",
+                  "opis": "Učenici dijele višeznamenkaste brojeve s 10 i višekratnicima broja 10 (20, 30…) u različitim tipovima zadataka.",
+                  "kljucniPojmovi": [
+                    "dijeljenje s 10",
+                    "višekratnik broja 10",
+                    "količnik"
+                  ]
+                },
+                {
+                  "id": "dijeljenje-dvoznamenkastim-brojem",
+                  "naziv": "Dijeljenje dvoznamenkastim brojem",
+                  "opis": "Učenici pisano dijele troznamenkaste, četveroznamenkaste i višeznamenkaste brojeve dvoznamenkastim brojem. Primjenjuju postupak u zadacima riječima.",
+                  "kljucniPojmovi": [
+                    "pisano dijeljenje",
+                    "dvoznamenkasti djelitelj",
+                    "količnik",
+                    "ostatak"
+                  ]
+                },
+                {
+                  "id": "provjera-dijeljenja-mnozenjem",
+                  "naziv": "Provjera dijeljenja množenjem",
+                  "opis": "Učenici provjeravaju rezultat dijeljenja množenjem (količnik · djelitelj + ostatak = djeljenik) i koriste vezu množenja i dijeljenja za određivanje nepoznatoga broja.",
+                  "kljucniPojmovi": [
+                    "provjera",
+                    "veza množenja i dijeljenja",
+                    "djeljenik",
+                    "nepoznati broj"
+                  ]
+                },
+                {
+                  "id": "procjena-kolicnika",
+                  "naziv": "Procjena količnika",
+                  "opis": "Učenici prije pisanoga dijeljenja procjenjuju koliko će znamenaka imati količnik i približno koliko će iznositi, zaokružujući djeljenik i djelitelj.",
+                  "kljucniPojmovi": [
+                    "procjena",
+                    "količnik",
+                    "zaokruživanje",
+                    "broj znamenaka"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "kocka-i-kvadar",
+              "naziv": "Kocka i kvadar",
+              "ikona": "🧊",
+              "lekcije": [
+                {
+                  "id": "vrhovi-bridovi-i-strane",
+                  "naziv": "Vrhovi, bridovi i strane",
+                  "opis": "Učenici određuju broj vrhova, bridova i strana kocke i kvadra te ih uspoređuju. Znaju da su strane kocke sukladni kvadrati, a strane kvadra pravokutnici.",
+                  "kljucniPojmovi": [
+                    "kocka",
+                    "kvadar",
+                    "vrh",
+                    "brid",
+                    "strana",
+                    "geometrijsko tijelo"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "volumen-tekucine",
+              "naziv": "Volumen tekućine",
+              "ikona": "🥤",
+              "lekcije": [
+                {
+                  "id": "litra-i-decilitar",
+                  "naziv": "Litra i decilitar",
+                  "opis": "Učenici imenuju i uspoređuju jedinice za volumen tekućine (litra, decilitar) te procjenjuju koliko tekućine stane u posude iz svakodnevnog života.",
+                  "kljucniPojmovi": [
+                    "volumen",
+                    "litra",
+                    "decilitar",
+                    "l",
+                    "dl",
+                    "procjena"
+                  ]
+                },
+                {
+                  "id": "racunanje-s-litrama-i-decilitrima",
+                  "naziv": "Preračunavanje i računanje",
+                  "opis": "Učenici preračunavaju litre u decilitre i obratno (1 l = 10 dl) te računaju s mjernim jedinicama za volumen tekućine u tekstualnim zadacima.",
+                  "kljucniPojmovi": [
+                    "1 l = 10 dl",
+                    "preračunavanje",
+                    "računanje s mjernim jedinicama"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "podatci-i-vjerojatnost",
+              "naziv": "Podatci i vjerojatnost",
+              "ikona": "📊",
+              "lekcije": [
+                {
+                  "id": "tablice-i-dijagrami",
+                  "naziv": "Tablice i dijagrami",
+                  "opis": "Učenici čitaju podatke iz tablica, stupčastih i slikovnih dijagrama te kružnoga prikaza i računaju s njima. Podatke iz teksta prikazuju tablicom ili dijagramom.",
+                  "kljucniPojmovi": [
+                    "podatak",
+                    "tablica",
+                    "stupčasti dijagram",
+                    "slikovni dijagram",
+                    "kružni prikaz"
+                  ]
+                },
+                {
+                  "id": "vjerojatnost-dogadaja",
+                  "naziv": "Siguran, moguć i nemoguć događaj",
+                  "opis": "Učenici opisuju događaje kao sigurne, moguće i nemoguće, određuju moguće ishode (bacanje kovanice i kocke, izvlačenje kuglica) i uspoređuju koji je događaj vjerojatniji.",
+                  "kljucniPojmovi": [
+                    "siguran događaj",
+                    "moguć događaj",
+                    "nemoguć događaj",
+                    "ishod",
+                    "vjerojatnost"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "racunske-operacije-i-problemski-zadaci",
+              "naziv": "Računske operacije i problemski zadaci",
+              "ikona": "🧩",
+              "lekcije": [
+                {
+                  "id": "redoslijed-racunskih-operacija",
+                  "naziv": "Redoslijed računskih operacija i zagrade",
+                  "opis": "Učenici primjenjuju pravila redoslijeda računskih operacija (prvo zagrade, zatim množenje i dijeljenje, pa zbrajanje i oduzimanje) u zadacima s više računskih radnji te postavljaju zadatke sa zagradama.",
+                  "kljucniPojmovi": [
+                    "redoslijed računskih operacija",
+                    "zagrade",
+                    "više računskih radnji"
+                  ]
+                },
+                {
+                  "id": "odabir-racunske-operacije",
+                  "naziv": "Odabir računske operacije",
+                  "opis": "Učenici u zadacima riječima prepoznaju koju računsku operaciju (ili više njih) trebaju primijeniti i zapisuju račun.",
+                  "kljucniPojmovi": [
+                    "zadatak riječima",
+                    "odabir operacije",
+                    "zbrajanje",
+                    "oduzimanje",
+                    "množenje",
+                    "dijeljenje"
+                  ]
+                },
+                {
+                  "id": "procjena-rezultata",
+                  "naziv": "Procjena rezultata",
+                  "opis": "Učenici prije računanja procjenjuju rezultat zaokruživanjem brojeva i nakon računanja provjeravaju je li rezultat razuman.",
+                  "kljucniPojmovi": [
+                    "procjena",
+                    "zaokruživanje",
+                    "približno",
+                    "provjera rezultata"
+                  ]
+                },
+                {
+                  "id": "problemski-zadaci",
+                  "naziv": "Problemski zadaci",
+                  "opis": "Učenici rješavaju jednostavne problemske zadatke koristeći različite strategije (slikovni prikaz, pokušaj i pogreška, rad unatrag) i sve četiri računske operacije s brojevima do milijun.",
+                  "kljucniPojmovi": [
+                    "problemski zadatak",
+                    "strategija",
+                    "slikovni prikaz",
+                    "četiri računske operacije"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "priroda-i-drustvo",
+          "naziv": "Priroda i društvo",
+          "ikona": "🏡",
+          "boja": "#0F766E",
+          "cjeline": [
+            {
+              "id": "zivotni-uvjeti",
+              "naziv": "Životni uvjeti",
+              "ikona": "☀️",
+              "lekcije": [
+                {
+                  "id": "zivotni-uvjeti-i-ziva-bica",
+                  "naziv": "Životni uvjeti i živa bića",
+                  "opis": "Učenici navode životne uvjete (svjetlost, toplina, voda, zrak, tlo) i objašnjavaju njihovu važnost. Opisuju međuovisnost žive i nežive prirode i kako životni uvjeti utječu na organizme.",
+                  "kljucniPojmovi": [
+                    "životni uvjeti",
+                    "svjetlost",
+                    "toplina",
+                    "voda",
+                    "zrak",
+                    "tlo",
+                    "živa priroda",
+                    "neživa priroda",
+                    "okoliš"
+                  ]
+                },
+                {
+                  "id": "voda",
+                  "naziv": "Voda i kruženje vode",
+                  "opis": "Učenici opisuju svojstva vode, njezina stanja (kruto, tekuće, plinovito) i kruženje vode u prirodi (isparavanje, oblaci, oborine).",
+                  "kljucniPojmovi": [
+                    "svojstva vode",
+                    "led",
+                    "vodena para",
+                    "isparavanje",
+                    "oborine",
+                    "kruženje vode"
+                  ]
+                },
+                {
+                  "id": "zrak",
+                  "naziv": "Zrak",
+                  "opis": "Učenici opisuju zrak kao uvjet života, njegova svojstva i sastav (dušik, kisik, ugljikov dioksid) te uzroke i posljedice onečišćenja zraka.",
+                  "kljucniPojmovi": [
+                    "zrak",
+                    "kisik",
+                    "dušik",
+                    "ugljikov dioksid",
+                    "svojstva zraka",
+                    "onečišćenje zraka"
+                  ]
+                },
+                {
+                  "id": "tlo",
+                  "naziv": "Tlo",
+                  "opis": "Učenici opisuju nastanak tla, njegova svojstva i vrste te utjecaj tla na živi svijet. Znaju kako se pokusom istražuje propusnost tla.",
+                  "kljucniPojmovi": [
+                    "tlo",
+                    "nastanak tla",
+                    "humus",
+                    "propusnost",
+                    "vrste tla",
+                    "pokus"
+                  ]
+                },
+                {
+                  "id": "obnovljivi-izvori-energije",
+                  "naziv": "Obnovljivi izvori energije",
+                  "opis": "Učenici razlikuju obnovljive (Sunce, vjetar, voda) i neobnovljive izvore energije te objašnjavaju zašto je važno štedjeti energiju.",
+                  "kljucniPojmovi": [
+                    "energija",
+                    "obnovljivi izvor",
+                    "neobnovljivi izvor",
+                    "Sunčeva energija",
+                    "energija vjetra",
+                    "štednja energije"
+                  ]
+                },
+                {
+                  "id": "kako-istrazujemo",
+                  "naziv": "Kako istražujemo",
+                  "opis": "Učenici poznaju etape istraživanja (pitanje, pretpostavka, pokus ili promatranje, bilježenje, zaključak) i postupke istraživanja.",
+                  "kljucniPojmovi": [
+                    "istraživanje",
+                    "pretpostavka",
+                    "pokus",
+                    "promatranje",
+                    "bilježenje",
+                    "zaključak"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "republika-hrvatska",
+              "naziv": "Republika Hrvatska",
+              "ikona": "🇭🇷",
+              "lekcije": [
+                {
+                  "id": "najvaznije-o-hrvatskoj",
+                  "naziv": "Najvažnije o Hrvatskoj",
+                  "opis": "Učenici navode najvažnije značajke Republike Hrvatske, njezinu prirodnu i društvenu raznolikost i kako je država organizirana.",
+                  "kljucniPojmovi": [
+                    "Republika Hrvatska",
+                    "država",
+                    "domovina",
+                    "raznolikost",
+                    "uređenje države"
+                  ]
+                },
+                {
+                  "id": "simboli-republike-hrvatske",
+                  "naziv": "Simboli Republike Hrvatske",
+                  "opis": "Učenici prepoznaju i opisuju simbole Republike Hrvatske (grb, zastava, himna „Lijepa naša domovino“) i njihovu ulogu te znaju kako im se iskazuje poštovanje.",
+                  "kljucniPojmovi": [
+                    "grb",
+                    "zastava",
+                    "himna",
+                    "Lijepa naša domovino",
+                    "nacionalni simboli"
+                  ]
+                },
+                {
+                  "id": "zagreb-glavni-grad",
+                  "naziv": "Zagreb – glavni grad",
+                  "opis": "Učenici opisuju Zagreb kao glavni grad te prometno, upravno, političko, kulturno, obrazovno, zdravstveno i sportsko središte Hrvatske i navode njegove znamenitosti.",
+                  "kljucniPojmovi": [
+                    "Zagreb",
+                    "glavni grad",
+                    "upravno središte",
+                    "Sabor",
+                    "Vlada",
+                    "znamenitosti"
+                  ]
+                },
+                {
+                  "id": "stanovnistvo-jezik-i-pismo",
+                  "naziv": "Stanovništvo, jezik i pismo",
+                  "opis": "Učenici znaju da u Hrvatskoj uz Hrvate žive i nacionalne manjine te da su službeni jezik hrvatski jezik i latinično pismo. Opisuju posebnosti stanovništva.",
+                  "kljucniPojmovi": [
+                    "stanovništvo",
+                    "nacionalna manjina",
+                    "službeni jezik",
+                    "hrvatski jezik",
+                    "latinica"
+                  ]
+                },
+                {
+                  "id": "granice-susjedi-i-karta",
+                  "naziv": "Granice, susjedi i geografska karta",
+                  "opis": "Učenici na geografskoj karti pokazuju državnu granicu, susjedne države, reljefne oblike i vode Hrvatske te se služe kartom (boje, znakovi, legenda).",
+                  "kljucniPojmovi": [
+                    "geografska karta",
+                    "državna granica",
+                    "susjedne države",
+                    "reljef",
+                    "legenda karte",
+                    "rijeke",
+                    "jezera"
+                  ]
+                },
+                {
+                  "id": "europska-unija",
+                  "naziv": "Europska unija",
+                  "opis": "Učenici znaju da je Hrvatska članica Europske unije, prepoznaju simbole Europske unije i opisuju što članstvo znači za Hrvatsku.",
+                  "kljucniPojmovi": [
+                    "Europska unija",
+                    "zastava EU",
+                    "himna EU",
+                    "država članica",
+                    "euro"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "krajevi-republike-hrvatske",
+              "naziv": "Krajevi Republike Hrvatske",
+              "ikona": "🏞️",
+              "lekcije": [
+                {
+                  "id": "nizinski-krajevi",
+                  "naziv": "Nizinski krajevi",
+                  "opis": "Učenici opisuju prirodna obilježja nizinskih krajeva (ravnice, velike rijeke, plodno tlo), gospodarske djelatnosti (ratarstvo, stočarstvo, prerada hrane), naselja te znamenitosti i običaje.",
+                  "kljucniPojmovi": [
+                    "nizina",
+                    "ravnica",
+                    "Sava",
+                    "Drava",
+                    "Dunav",
+                    "ratarstvo",
+                    "stočarstvo",
+                    "Osijek"
+                  ]
+                },
+                {
+                  "id": "brezuljkasti-krajevi",
+                  "naziv": "Brežuljkasti krajevi",
+                  "opis": "Učenici opisuju prirodna obilježja brežuljkastih krajeva (brežuljci, gorice), gospodarske djelatnosti (vinogradarstvo, voćarstvo, industrija), naselja te povijesne i kulturne znamenitosti.",
+                  "kljucniPojmovi": [
+                    "brežuljci",
+                    "gorice",
+                    "Hrvatsko zagorje",
+                    "vinogradarstvo",
+                    "voćarstvo",
+                    "dvorci",
+                    "Varaždin"
+                  ]
+                },
+                {
+                  "id": "gorski-krajevi",
+                  "naziv": "Gorski krajevi",
+                  "opis": "Učenici opisuju prirodna obilježja gorskih krajeva (planine, šume, oštra klima), gospodarske djelatnosti (šumarstvo, drvna industrija, turizam), rijetka naselja te baštinu i pučke običaje.",
+                  "kljucniPojmovi": [
+                    "gorje",
+                    "planina",
+                    "Gorski kotar",
+                    "Lika",
+                    "šumarstvo",
+                    "drvna industrija",
+                    "Gospić"
+                  ]
+                },
+                {
+                  "id": "primorski-krajevi",
+                  "naziv": "Primorski krajevi",
+                  "opis": "Učenici opisuju prirodna obilježja primorskih krajeva (more, otoci, sredozemna klima), gospodarske djelatnosti (turizam, ribarstvo, brodogradnja, maslinarstvo), naselja i kulturno-povijesne znamenitosti.",
+                  "kljucniPojmovi": [
+                    "Jadransko more",
+                    "otok",
+                    "obala",
+                    "turizam",
+                    "ribarstvo",
+                    "brodogradnja",
+                    "Split",
+                    "Rijeka",
+                    "Dubrovnik"
+                  ]
+                },
+                {
+                  "id": "usporedba-krajeva",
+                  "naziv": "Usporedba krajeva",
+                  "opis": "Učenici uspoređuju krajeve Hrvatske prema reljefu, klimi, gospodarstvu i načinu života te objašnjavaju kako prirodna obilježja utječu na život ljudi.",
+                  "kljucniPojmovi": [
+                    "reljef",
+                    "gospodarstvo",
+                    "način života",
+                    "prirodna obilježja",
+                    "raznolikost"
+                  ]
+                },
+                {
+                  "id": "kulturna-bastina-i-obicaji",
+                  "naziv": "Kulturna baština i običaji",
+                  "opis": "Učenici razlikuju materijalnu i nematerijalnu kulturnu baštinu, navode primjere baštine pod zaštitom UNESCO-a te objašnjavaju zašto je važno čuvati baštinu i običaje.",
+                  "kljucniPojmovi": [
+                    "kulturna baština",
+                    "materijalna baština",
+                    "nematerijalna baština",
+                    "UNESCO",
+                    "običaji",
+                    "tradicijske igračke"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "covjek",
+              "naziv": "Čovjek i zdravlje",
+              "ikona": "🫀",
+              "lekcije": [
+                {
+                  "id": "covjek-prava-i-duznosti",
+                  "naziv": "Čovjek, prava i dužnosti",
+                  "opis": "Učenici opisuju čovjeka kao prirodno, misaono i društveno biće, navode prava i dužnosti djece, prepoznaju kršenje dječjih prava te razlikuju obveze od slobodnoga vremena.",
+                  "kljucniPojmovi": [
+                    "prirodno biće",
+                    "misaono biće",
+                    "društveno biće",
+                    "dječja prava",
+                    "dužnosti",
+                    "slobodno vrijeme"
+                  ]
+                },
+                {
+                  "id": "organi-za-kretanje",
+                  "naziv": "Organi za kretanje",
+                  "opis": "Učenici opisuju kostur, zglobove i mišiće kao sustav organa za kretanje, njihovu povezanost i ulogu te važnost tjelovježbe i pravilnoga držanja.",
+                  "kljucniPojmovi": [
+                    "kostur",
+                    "kost",
+                    "zglob",
+                    "mišić",
+                    "kretanje",
+                    "pravilno držanje"
+                  ]
+                },
+                {
+                  "id": "organi-za-probavu",
+                  "naziv": "Organi za probavu",
+                  "opis": "Učenici navode organe sustava za probavu (usta, jednjak, želudac, crijeva, jetra) redom kojim hrana prolazi i opisuju njihovu ulogu.",
+                  "kljucniPojmovi": [
+                    "probava",
+                    "usta",
+                    "jednjak",
+                    "želudac",
+                    "tanko crijevo",
+                    "debelo crijevo",
+                    "jetra"
+                  ]
+                },
+                {
+                  "id": "disanje-krvotok-i-izlucivanje",
+                  "naziv": "Disanje, krvotok i izlučivanje",
+                  "opis": "Učenici opisuju organe za disanje (nos, dušnik, pluća), krvotok (srce, krvne žile, krv) i izlučivanje (bubrezi, mokraćni mjehur) te njihovu ulogu.",
+                  "kljucniPojmovi": [
+                    "pluća",
+                    "dušnik",
+                    "srce",
+                    "krvne žile",
+                    "krv",
+                    "bubrezi",
+                    "izlučivanje"
+                  ]
+                },
+                {
+                  "id": "zivcani-sustav-i-osjetila",
+                  "naziv": "Živčani sustav i osjetila",
+                  "opis": "Učenici opisuju dijelove živčanoga sustava (mozak, leđna moždina, živci) i osjetila (vid, sluh, njuh, okus, dodir) te kako nas povezuju s okolišem.",
+                  "kljucniPojmovi": [
+                    "mozak",
+                    "leđna moždina",
+                    "živci",
+                    "osjetila",
+                    "vid",
+                    "sluh",
+                    "njuh",
+                    "okus",
+                    "dodir"
+                  ]
+                },
+                {
+                  "id": "zdravlje-rast-i-razvoj",
+                  "naziv": "Zdravlje, rast i razvoj",
+                  "opis": "Učenici opisuju promjene tijekom rasta i razvoja, brigu o zdravlju (prehrana, tjelovježba, higijena, odmor) i odgovorno korištenje tehnologije.",
+                  "kljucniPojmovi": [
+                    "rast i razvoj",
+                    "zdravlje",
+                    "prehrana",
+                    "tjelovježba",
+                    "higijena",
+                    "odmor",
+                    "zaslon"
+                  ]
+                },
+                {
+                  "id": "ovisnosti-nasilje-i-trazenje-pomoci",
+                  "naziv": "Ovisnosti, nasilje i traženje pomoći",
+                  "opis": "Učenici navode vrste ovisnosti i njihov štetan utjecaj na zdravlje, prepoznaju nasilje i znaju kome se obratiti za pomoć.",
+                  "kljucniPojmovi": [
+                    "ovisnost",
+                    "pušenje",
+                    "alkohol",
+                    "ovisnost o ekranima",
+                    "nasilje",
+                    "traženje pomoći"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "hrvatska-povijest",
+              "naziv": "Hrvatska povijest",
+              "ikona": "🏰",
+              "lekcije": [
+                {
+                  "id": "dolazak-hrvata-i-vladari",
+                  "naziv": "Dolazak Hrvata i hrvatski vladari",
+                  "opis": "Učenici opisuju dolazak Hrvata, dvije kneževine i prijelaz na kršćanstvo te navode važne hrvatske vladare od 9. do 12. stoljeća (Trpimir, Branimir, Tomislav, Petar Krešimir IV., Zvonimir) i spomenike toga razdoblja.",
+                  "kljucniPojmovi": [
+                    "dolazak Hrvata",
+                    "kneževina",
+                    "kršćanstvo",
+                    "knez Trpimir",
+                    "kralj Tomislav",
+                    "Petar Krešimir IV.",
+                    "Bašćanska ploča"
+                  ]
+                },
+                {
+                  "id": "od-12-do-17-stoljeca",
+                  "naziv": "Od 12. do 17. stoljeća",
+                  "opis": "Učenici navode značajne osobe i događaje hrvatske prošlosti od kraja 11. do 17. stoljeća te kulturno-povijesne spomenike toga razdoblja.",
+                  "kljucniPojmovi": [
+                    "Hrvatsko-Ugarsko Kraljevstvo",
+                    "Osmanlije",
+                    "Zrinski",
+                    "Frankopani",
+                    "kulturni spomenik"
+                  ]
+                },
+                {
+                  "id": "borba-za-hrvatski-jezik",
+                  "naziv": "Borba za hrvatski jezik",
+                  "opis": "Učenici opisuju borbu za hrvatski jezik i hrvatske velikane 19. stoljeća (narodni preporod, Ljudevit Gaj) te kada je hrvatski postao službeni jezik.",
+                  "kljucniPojmovi": [
+                    "hrvatski narodni preporod",
+                    "Ljudevit Gaj",
+                    "službeni jezik",
+                    "19. stoljeće"
+                  ]
+                },
+                {
+                  "id": "zivot-u-proslosti",
+                  "naziv": "Život u prošlosti",
+                  "opis": "Učenici opisuju kako su Hrvati živjeli u zajednicama u prošlosti (obitelj, selo, poslovi, običaji) i uspoređuju to sa sadašnjošću.",
+                  "kljucniPojmovi": [
+                    "prošlost",
+                    "zajednica",
+                    "selo",
+                    "zadruga",
+                    "običaji"
+                  ]
+                },
+                {
+                  "id": "osamostaljenje-republike-hrvatske",
+                  "naziv": "Osamostaljenje Republike Hrvatske",
+                  "opis": "Učenici opisuju uzroke i posljedice osamostaljenja Republike Hrvatske, Domovinski rat i međunarodno priznanje.",
+                  "kljucniPojmovi": [
+                    "samostalnost",
+                    "Domovinski rat",
+                    "međunarodno priznanje",
+                    "Dan državnosti"
+                  ]
+                },
+                {
+                  "id": "vremenska-crta",
+                  "naziv": "Vremenska crta",
+                  "opis": "Učenici smještaju važne događaje i osobe iz hrvatske povijesti na vremensku crtu (lentu vremena) i određuju njihov redoslijed i stoljeće.",
+                  "kljucniPojmovi": [
+                    "vremenska crta",
+                    "lenta vremena",
+                    "stoljeće",
+                    "redoslijed događaja"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "biljke-zivotinje-i-zivotne-zajednice",
+              "naziv": "Biljke, životinje i životne zajednice",
+              "ikona": "🌳",
+              "lekcije": [
+                {
+                  "id": "zivot-biljaka",
+                  "naziv": "Život biljaka",
+                  "opis": "Učenici navode dijelove biljke (korijen, stabljika, list, cvijet, plod) i njihovu ulogu, opisuju kako životni uvjeti utječu na biljke i kako se izrađuje herbarij.",
+                  "kljucniPojmovi": [
+                    "korijen",
+                    "stabljika",
+                    "list",
+                    "cvijet",
+                    "plod",
+                    "sjemenka",
+                    "herbarij"
+                  ]
+                },
+                {
+                  "id": "zivotinje",
+                  "naziv": "Životinje",
+                  "opis": "Učenici razlikuju domaće i divlje životinje i kućne ljubimce te ih razvrstavaju prema načinu prehrane na biljojede, mesojede i svejede.",
+                  "kljucniPojmovi": [
+                    "domaće životinje",
+                    "divlje životinje",
+                    "kućni ljubimci",
+                    "biljojedi",
+                    "mesojedi",
+                    "svejedi"
+                  ]
+                },
+                {
+                  "id": "staniste-i-hranidbeni-odnosi",
+                  "naziv": "Stanište i hranidbeni odnosi",
+                  "opis": "Učenici objašnjavaju što je stanište i životna zajednica, opisuju hranidbeni lanac (proizvođači, potrošači, razlagači) i međuovisnost biljaka i životinja.",
+                  "kljucniPojmovi": [
+                    "stanište",
+                    "životna zajednica",
+                    "hranidbeni lanac",
+                    "proizvođači",
+                    "potrošači",
+                    "razlagači"
+                  ]
+                },
+                {
+                  "id": "travnjak",
+                  "naziv": "Travnjak",
+                  "opis": "Učenici opisuju životnu zajednicu travnjaka, njegove životne uvjete te tipične biljke i životinje travnjaka.",
+                  "kljucniPojmovi": [
+                    "travnjak",
+                    "livada",
+                    "trave",
+                    "kukci",
+                    "oprašivanje",
+                    "životni uvjeti"
+                  ]
+                },
+                {
+                  "id": "suma",
+                  "naziv": "Šuma",
+                  "opis": "Učenici opisuju životnu zajednicu šume, njezine slojeve te tipične biljke i životinje šume.",
+                  "kljucniPojmovi": [
+                    "šuma",
+                    "slojevi šume",
+                    "listopadno drveće",
+                    "crnogorično drveće",
+                    "šumske životinje"
+                  ]
+                },
+                {
+                  "id": "more",
+                  "naziv": "More",
+                  "opis": "Učenici opisuju životnu zajednicu mora, životne uvjete u moru, prilagodbe biljaka i životinja na život u moru i uz more te važnost Jadranskoga mora za Hrvatsku.",
+                  "kljucniPojmovi": [
+                    "more",
+                    "Jadransko more",
+                    "morske biljke",
+                    "morske životinje",
+                    "prilagodbe",
+                    "slanost"
+                  ]
+                },
+                {
+                  "id": "prilagodbe-i-promjene-u-prirodi",
+                  "naziv": "Prilagodbe i promjene u prirodi",
+                  "opis": "Učenici opisuju promjene u prirodi tijekom godišnjih doba, prilagodbe biljaka i životinja na zimske uvjete (seoba, zimski san) i životne cikluse.",
+                  "kljucniPojmovi": [
+                    "prilagodba",
+                    "zimski san",
+                    "seoba ptica",
+                    "godišnja doba",
+                    "životni ciklus"
+                  ]
+                },
+                {
+                  "id": "zasticena-priroda",
+                  "naziv": "Zaštićena priroda",
+                  "opis": "Učenici navode nacionalne parkove i parkove prirode Hrvatske, ugrožene i zakonom zaštićene biljke i životinje te pravila ponašanja u zaštićenim dijelovima prirode.",
+                  "kljucniPojmovi": [
+                    "nacionalni park",
+                    "park prirode",
+                    "zaštićene vrste",
+                    "ugrožene vrste",
+                    "Plitvička jezera"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "engleski-jezik",
+          "naziv": "Engleski jezik",
+          "ikona": "💬",
+          "boja": "#BE185D",
+          "cjeline": [
+            {
+              "id": "skola",
+              "naziv": "Škola",
+              "ikona": "🏫",
+              "lekcije": [
+                {
+                  "id": "school-subjects-and-questions",
+                  "naziv": "Školski predmeti i pitanja (School subjects)",
+                  "opis": "Učenici imenuju školske predmete i školski pribor na engleskom te postavljaju i odgovaraju na pitanja s What, Where, When, Who i How many.",
+                  "kljucniPojmovi": [
+                    "school subjects",
+                    "Maths",
+                    "English",
+                    "Art",
+                    "PE",
+                    "What",
+                    "Where",
+                    "When",
+                    "Who",
+                    "How many"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "obitelj-i-prijatelji",
+              "naziv": "Obitelj i prijatelji",
+              "ikona": "👫",
+              "lekcije": [
+                {
+                  "id": "family",
+                  "naziv": "Obitelj (Family)",
+                  "opis": "Učenici imenuju članove obitelji i koriste posvojni 's (my sister's bike) te posvojne pridjeve (my, your, his, her).",
+                  "kljucniPojmovi": [
+                    "mother",
+                    "father",
+                    "brother",
+                    "sister",
+                    "grandparents",
+                    "aunt",
+                    "uncle",
+                    "cousin",
+                    "possessive 's",
+                    "my, your, his, her"
+                  ]
+                },
+                {
+                  "id": "describing-people",
+                  "naziv": "Opisivanje osoba (Describing people)",
+                  "opis": "Učenici opisuju izgled i osobine prijatelja i čudovišta koristeći have got / has got i pridjeve (tall, short, curly hair, friendly).",
+                  "kljucniPojmovi": [
+                    "have got",
+                    "has got",
+                    "tall",
+                    "short",
+                    "hair",
+                    "eyes",
+                    "friendly",
+                    "funny"
+                  ]
+                },
+                {
+                  "id": "countries-and-nationalities",
+                  "naziv": "Države i nacionalnosti (Countries)",
+                  "opis": "Učenici imenuju države i nacionalnosti (Croatia – Croatian, England – English) te pitaju i odgovaraju odakle je tko (Where are you from? I'm from…).",
+                  "kljucniPojmovi": [
+                    "country",
+                    "nationality",
+                    "Croatia",
+                    "Croatian",
+                    "Where are you from?",
+                    "I'm from"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "tijelo-i-zdravlje",
+              "naziv": "Tijelo i zdravlje",
+              "ikona": "🩺",
+              "lekcije": [
+                {
+                  "id": "parts-of-the-body",
+                  "naziv": "Dijelovi tijela (Parts of the body)",
+                  "opis": "Učenici imenuju dijelove tijela na engleskom, uključujući nepravilnu množinu (foot – feet, tooth – teeth).",
+                  "kljucniPojmovi": [
+                    "head",
+                    "shoulders",
+                    "arm",
+                    "hand",
+                    "leg",
+                    "foot",
+                    "feet",
+                    "tooth",
+                    "teeth"
+                  ]
+                },
+                {
+                  "id": "at-the-doctors",
+                  "naziv": "Kod liječnika (At the doctor's)",
+                  "opis": "Učenici opisuju bolesti i tegobe (I've got a headache, a cold) i daju savjete (You should rest. You shouldn't…).",
+                  "kljucniPojmovi": [
+                    "What's the matter?",
+                    "headache",
+                    "toothache",
+                    "cold",
+                    "temperature",
+                    "should",
+                    "shouldn't"
+                  ]
+                },
+                {
+                  "id": "sports-and-can",
+                  "naziv": "Sport i can (Sports)",
+                  "opis": "Učenici imenuju sportove i aktivnosti, izriču što mogu, a što ne mogu (can / can't) i što vole raditi (I like swimming).",
+                  "kljucniPojmovi": [
+                    "football",
+                    "basketball",
+                    "swimming",
+                    "can",
+                    "can't",
+                    "play",
+                    "go",
+                    "like + -ing"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "vrijeme-i-praznici",
+              "naziv": "Vrijeme i praznici",
+              "ikona": "🌦️",
+              "lekcije": [
+                {
+                  "id": "weather-and-seasons",
+                  "naziv": "Vrijeme i godišnja doba (Weather)",
+                  "opis": "Učenici opisuju vrijeme (It's sunny, rainy, windy) i nabrajaju godišnja doba i mjesece.",
+                  "kljucniPojmovi": [
+                    "What's the weather like?",
+                    "sunny",
+                    "rainy",
+                    "windy",
+                    "snowy",
+                    "cloudy",
+                    "seasons",
+                    "months"
+                  ]
+                },
+                {
+                  "id": "holidays",
+                  "naziv": "Praznici i putovanja (Holidays)",
+                  "opis": "Učenici govore o planovima za praznike i što će ponijeti na putovanje (going to, suitcase, passport).",
+                  "kljucniPojmovi": [
+                    "holiday",
+                    "travel",
+                    "suitcase",
+                    "beach",
+                    "mountains",
+                    "going to"
+                  ]
+                },
+                {
+                  "id": "celebrations",
+                  "naziv": "Blagdani (Christmas and Easter)",
+                  "opis": "Učenici imenuju pojmove povezane s Božićem i Uskrsom te znaju čestitati blagdane na engleskom.",
+                  "kljucniPojmovi": [
+                    "Christmas",
+                    "Merry Christmas",
+                    "presents",
+                    "Christmas tree",
+                    "Easter",
+                    "Easter egg",
+                    "Happy Easter"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "dom-i-okolica",
+              "naziv": "Dom i okolica",
+              "ikona": "🏠",
+              "lekcije": [
+                {
+                  "id": "my-home",
+                  "naziv": "Moj dom (My home)",
+                  "opis": "Učenici imenuju prostorije i namještaj te opisuju gdje se što nalazi prijedlozima (in, on, under, next to, behind) i izrazom There is / There are.",
+                  "kljucniPojmovi": [
+                    "bedroom",
+                    "kitchen",
+                    "living room",
+                    "bathroom",
+                    "in",
+                    "on",
+                    "under",
+                    "next to",
+                    "behind",
+                    "there is",
+                    "there are"
+                  ]
+                },
+                {
+                  "id": "in-town-and-traffic",
+                  "naziv": "U gradu i promet (In town)",
+                  "opis": "Učenici imenuju mjesta u gradu i prometne znakove, daju upute za put (go straight on, turn left) i znaju pravila sigurnoga prometa.",
+                  "kljucniPojmovi": [
+                    "traffic lights",
+                    "zebra crossing",
+                    "go straight on",
+                    "turn left",
+                    "turn right",
+                    "stop",
+                    "wait"
+                  ]
+                },
+                {
+                  "id": "london-and-the-uk",
+                  "naziv": "London i Ujedinjeno Kraljevstvo (The UK)",
+                  "opis": "Učenici imenuju poznate znamenitosti Londona (Big Ben, Tower Bridge, London Eye) i dijelove Ujedinjenoga Kraljevstva.",
+                  "kljucniPojmovi": [
+                    "London",
+                    "Big Ben",
+                    "Tower Bridge",
+                    "London Eye",
+                    "England",
+                    "Scotland",
+                    "Wales",
+                    "Northern Ireland"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "odjeca",
+              "naziv": "Odjeća",
+              "ikona": "👕",
+              "lekcije": [
+                {
+                  "id": "clothes",
+                  "naziv": "Odjeća (Clothes)",
+                  "opis": "Učenici imenuju odjevne predmete, opisuju što tko nosi (He's wearing…) i biraju odjeću prema vremenu i prigodi.",
+                  "kljucniPojmovi": [
+                    "T-shirt",
+                    "jeans",
+                    "jumper",
+                    "jacket",
+                    "dress",
+                    "shoes",
+                    "wearing",
+                    "What should I wear?"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "zivi-svijet",
+              "naziv": "Živi svijet",
+              "ikona": "🌿",
+              "lekcije": [
+                {
+                  "id": "plants-and-garden",
+                  "naziv": "Biljke i vrt (Plants)",
+                  "opis": "Učenici imenuju dijelove biljke i stvorenja iz vrta (bugs, insects) te opisuju kako biljka raste.",
+                  "kljucniPojmovi": [
+                    "plant",
+                    "seed",
+                    "root",
+                    "leaf",
+                    "flower",
+                    "grow",
+                    "garden",
+                    "insects"
+                  ]
+                },
+                {
+                  "id": "animals",
+                  "naziv": "Životinje (Animals)",
+                  "opis": "Učenici imenuju domaće, divlje i šumske životinje, opisuju što životinje mogu raditi i gdje žive.",
+                  "kljucniPojmovi": [
+                    "wild animals",
+                    "farm animals",
+                    "forest",
+                    "can fly",
+                    "can swim",
+                    "live in"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "hrana",
+              "naziv": "Hrana",
+              "ikona": "🍎",
+              "lekcije": [
+                {
+                  "id": "food-and-drinks",
+                  "naziv": "Hrana i piće (Food)",
+                  "opis": "Učenici imenuju hranu i piće, razlikuju zdravu od nezdrave hrane te koriste some / any i I'd like… pri naručivanju.",
+                  "kljucniPojmovi": [
+                    "fruit",
+                    "vegetables",
+                    "healthy",
+                    "unhealthy",
+                    "some",
+                    "any",
+                    "I'd like",
+                    "hungry"
+                  ]
+                },
+                {
+                  "id": "cooking",
+                  "naziv": "Kuhanje i recepti (Cooking)",
+                  "opis": "Učenici razumiju jednostavan recept i upute u imperativu (mix, cut, add, bake) te imenuju kuhinjski pribor.",
+                  "kljucniPojmovi": [
+                    "recipe",
+                    "mix",
+                    "cut",
+                    "add",
+                    "bake",
+                    "bowl",
+                    "spoon"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "moje-vrijeme",
+              "naziv": "Moje vrijeme",
+              "ikona": "⏰",
+              "lekcije": [
+                {
+                  "id": "daily-routine",
+                  "naziv": "Dnevna rutina (Daily routine)",
+                  "opis": "Učenici opisuju svoj dan i navike u sadašnjem vremenu (I get up at…, He goes to school) i koriste priloge učestalosti (always, sometimes, never).",
+                  "kljucniPojmovi": [
+                    "get up",
+                    "have breakfast",
+                    "go to school",
+                    "present simple",
+                    "always",
+                    "usually",
+                    "sometimes",
+                    "never"
+                  ]
+                },
+                {
+                  "id": "telling-the-time",
+                  "naziv": "Koliko je sati? (Telling the time)",
+                  "opis": "Učenici pitaju i govore koliko je sati (What time is it? It's half past three, quarter to five) i dane u tjednu.",
+                  "kljucniPojmovi": [
+                    "What time is it?",
+                    "o'clock",
+                    "half past",
+                    "quarter past",
+                    "quarter to",
+                    "days of the week"
+                  ]
+                },
+                {
+                  "id": "music-and-hobbies",
+                  "naziv": "Glazba i hobiji (Music)",
+                  "opis": "Učenici imenuju glazbene instrumente i hobije te govore što vole raditi u slobodno vrijeme (play the guitar, I love dancing).",
+                  "kljucniPojmovi": [
+                    "guitar",
+                    "piano",
+                    "drums",
+                    "violin",
+                    "play the…",
+                    "hobby",
+                    "free time"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "informatika",
+          "naziv": "Informatika",
+          "ikona": "💻",
+          "boja": "#475569",
+          "cjeline": [
+            {
+              "id": "racunalno-razmisljanje-i-programiranje",
+              "naziv": "Računalno razmišljanje i programiranje",
+              "ikona": "🧩",
+              "lekcije": [
+                {
+                  "id": "kodiranje-i-sifriranje",
+                  "naziv": "Kodiranje i šifriranje",
+                  "opis": "Učenici zapisuju i čitaju poruke pomoću simbola i jednostavnih šifri te objašnjavaju razliku između kodiranja i šifriranja.",
+                  "kljucniPojmovi": [
+                    "kod",
+                    "šifra",
+                    "simbol",
+                    "kodiranje",
+                    "šifriranje",
+                    "tajna poruka"
+                  ]
+                },
+                {
+                  "id": "algoritmi-slijed-i-ponavljanje",
+                  "naziv": "Algoritmi: slijed i ponavljanje",
+                  "opis": "Učenici rješavaju probleme razmišljajući korak po korak, zapisuju algoritam kao slijed naredbi i prepoznaju kada se naredbe ponavljaju.",
+                  "kljucniPojmovi": [
+                    "algoritam",
+                    "naredba",
+                    "slijed",
+                    "ponavljanje",
+                    "petlja",
+                    "računalno razmišljanje"
+                  ]
+                },
+                {
+                  "id": "grananje-i-varijable",
+                  "naziv": "Grananje i varijable",
+                  "opis": "Učenici koriste grananje (ako – onda – inače) za donošenje odluka u programu i varijable za pamćenje vrijednosti (npr. bodova u igri).",
+                  "kljucniPojmovi": [
+                    "grananje",
+                    "ako",
+                    "onda",
+                    "inače",
+                    "uvjet",
+                    "varijabla"
+                  ]
+                },
+                {
+                  "id": "programiram-igru-i-pricu",
+                  "naziv": "Programiram igru i priču",
+                  "opis": "Učenici u blokovskom programskom jeziku (npr. Scratch) izrađuju jednostavnu igru i animiranu priču koristeći likove, pozadine, događaje, slijed, ponavljanje i grananje.",
+                  "kljucniPojmovi": [
+                    "Scratch",
+                    "lik",
+                    "pozornica",
+                    "pozadina",
+                    "događaj",
+                    "blok",
+                    "animacija"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "digitalna-tehnologija",
+              "naziv": "Digitalna tehnologija",
+              "ikona": "💻",
+              "lekcije": [
+                {
+                  "id": "ikt-oko-nas",
+                  "naziv": "Tehnologija oko nas",
+                  "opis": "Učenici prepoznaju informacijsku i komunikacijsku tehnologiju u svakodnevnom životu i razlikuju ulazne i izlazne uređaje.",
+                  "kljucniPojmovi": [
+                    "IKT",
+                    "računalo",
+                    "tablet",
+                    "pametni telefon",
+                    "ulazni uređaj",
+                    "izlazni uređaj"
+                  ]
+                },
+                {
+                  "id": "roboti-i-umjetna-inteligencija",
+                  "naziv": "Roboti i umjetna inteligencija",
+                  "opis": "Učenici opisuju što su roboti i gdje se koriste, po čemu se razlikuju od ljudi te na jednostavnim primjerima objašnjavaju što je umjetna inteligencija.",
+                  "kljucniPojmovi": [
+                    "robot",
+                    "senzor",
+                    "umjetna inteligencija",
+                    "stroj",
+                    "učenje iz primjera"
+                  ]
+                },
+                {
+                  "id": "racunalne-mreze-i-internet",
+                  "naziv": "Računalne mreže i internet",
+                  "opis": "Učenici objašnjavaju što je računalna mreža i internet te kako na internetu pronaći i provjeriti podatke.",
+                  "kljucniPojmovi": [
+                    "računalna mreža",
+                    "internet",
+                    "mrežna stranica",
+                    "tražilica",
+                    "pouzdan izvor"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "digitalni-sadrzaji-i-komunikacija",
+              "naziv": "Digitalni sadržaji i komunikacija",
+              "ikona": "🎨",
+              "lekcije": [
+                {
+                  "id": "prezentacija",
+                  "naziv": "Izrada prezentacije",
+                  "opis": "Učenici izrađuju prezentaciju sa slajdovima, tekstom i slikama te znaju pravila dobre prezentacije (malo teksta, čitljiva slova).",
+                  "kljucniPojmovi": [
+                    "prezentacija",
+                    "slajd",
+                    "naslov",
+                    "slika",
+                    "prijelaz"
+                  ]
+                },
+                {
+                  "id": "digitalni-poster-strip-i-crtez",
+                  "naziv": "Digitalni poster, strip i crtež",
+                  "opis": "Učenici izrađuju digitalni poster i strip te crtaju 2D i 3D crteže u programima za crtanje.",
+                  "kljucniPojmovi": [
+                    "digitalni poster",
+                    "digitalni strip",
+                    "program za crtanje",
+                    "3D crtež",
+                    "mozgalica"
+                  ]
+                },
+                {
+                  "id": "elektronicka-posta",
+                  "naziv": "Elektronička pošta",
+                  "opis": "Učenici pišu i šalju poruku elektroničke pošte s privitkom te znaju dijelove dobre poruke (primatelj, predmet, pozdrav, sadržaj, potpis).",
+                  "kljucniPojmovi": [
+                    "e-pošta",
+                    "primatelj",
+                    "predmet poruke",
+                    "privitak",
+                    "adresa e-pošte",
+                    "@"
+                  ]
+                },
+                {
+                  "id": "komunikacija-i-suradnja-na-mrezi",
+                  "naziv": "Komunikacija i suradnja na mreži",
+                  "opis": "Učenici komuniciraju i surađuju na mreži uz pravila pristojnoga ponašanja (bonton na mreži) u sigurnom online okruženju.",
+                  "kljucniPojmovi": [
+                    "online komunikacija",
+                    "suradnja",
+                    "bonton na mreži",
+                    "dijeljenje datoteka"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sigurnost-i-odgovornost",
+              "naziv": "Sigurnost i odgovornost",
+              "ikona": "🔒",
+              "lekcije": [
+                {
+                  "id": "sigurno-na-internetu",
+                  "naziv": "Sigurno na internetu",
+                  "opis": "Učenici znaju pravila sigurnoga ponašanja na internetu: ne dijele osobne podatke, ne razgovaraju s nepoznatima i odraslima prijavljuju neugodne situacije.",
+                  "kljucniPojmovi": [
+                    "sigurnost",
+                    "osobni podatci",
+                    "nepoznata osoba",
+                    "elektroničko nasilje",
+                    "prijava odrasloj osobi"
+                  ]
+                },
+                {
+                  "id": "sigurna-lozinka",
+                  "naziv": "Sigurna lozinka",
+                  "opis": "Učenici znaju kako smisliti sigurnu lozinku (duljina, slova, brojke, znakovi) i zašto je ne smiju nikome odati.",
+                  "kljucniPojmovi": [
+                    "lozinka",
+                    "sigurna lozinka",
+                    "velika i mala slova",
+                    "brojke",
+                    "posebni znakovi"
+                  ]
+                },
+                {
+                  "id": "zdravlje-i-okolis",
+                  "naziv": "Zdravlje i okoliš",
+                  "opis": "Učenici znaju kako pravilno sjediti za računalom i koliko vremena provoditi pred zaslonom te kako tehnologija može pomoći u čuvanju okoliša (štednja energije, recikliranje uređaja).",
+                  "kljucniPojmovi": [
+                    "pravilno sjedenje",
+                    "vrijeme pred zaslonom",
+                    "odmor za oči",
+                    "štednja energije",
+                    "elektronički otpad"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "broj": 5,
+      "predmeti": [
+        {
+          "id": "priroda",
+          "naziv": "Priroda",
+          "ikona": "🌱",
+          "boja": "#15803d",
+          "cjeline": [
+            {
+              "id": "lekcije",
+              "naziv": "Priroda",
+              "ikona": "🌱",
+              "lekcije": [
+                {
+                  "id": "biljni-organi",
+                  "naziv": "Biljni organi",
+                  "opis": "Cvjetnjače se sastoje od korijena, stabljike, listova, cvjetova, plodova i sjemenki. Korijen učvršćuje biljku u tlu te upija vodu i mineralne tvari. Stabljika nosi listove i cvjetove te provodnim žilama prenosi vodu i hranjive tvari. U listovima se odvija fotosinteza, a kroz puči biljka izmjenjuje plinove i isparava vodu. Cvijet je organ za razmnožavanje iz kojeg nakon oprašivanja i oplodnje nastaju plod i sjemenka.",
+                  "kljucniPojmovi": [
+                    "korijen",
+                    "stabljika",
+                    "list",
+                    "cvijet",
+                    "plod",
+                    "sjemenka",
+                    "oprašivanje",
+                    "puči",
+                    "provodne žile"
+                  ]
+                },
+                {
+                  "id": "fotosinteza",
+                  "naziv": "Fotosinteza",
+                  "opis": "Fotosinteza je proces u kojem zelene biljke uz pomoć sunčeve svjetlosti od vode i ugljikova dioksida proizvode hranu (glukozu) i kisik. Odvija se u kloroplastima koji sadrže zeleni pigment klorofil, najviše u stanicama listova. Kisik nastao fotosintezom odlazi u zrak i potreban je za disanje živih bića. Biljke su proizvođači i čine osnovu hranidbenih lanaca.",
+                  "kljucniPojmovi": [
+                    "fotosinteza",
+                    "klorofil",
+                    "kloroplast",
+                    "ugljikov dioksid",
+                    "kisik",
+                    "glukoza",
+                    "sunčeva svjetlost",
+                    "proizvođači"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "matematika",
+          "naziv": "Matematika",
+          "ikona": "🔢",
+          "boja": "#1d4ed8",
+          "cjeline": [
+            {
+              "id": "lekcije",
+              "naziv": "Matematika",
+              "ikona": "🔢",
+              "lekcije": [
+                {
+                  "id": "prirodni-brojevi",
+                  "naziv": "Prirodni brojevi",
+                  "opis": "Prirodni brojevi su brojevi 1, 2, 3, … koji služe za brojenje; skup prirodnih brojeva označava se s N, a skup koji uključuje i nulu s N0. Učenici čitaju i zapisuju višeznamenkaste brojeve, određuju mjesnu vrijednost znamenke, uspoređuju i zaokružuju brojeve. Računaju zbroj, razliku, umnožak i količnik prirodnih brojeva te poštuju redoslijed računskih operacija i zagrade.",
+                  "kljucniPojmovi": [
+                    "prirodni broj",
+                    "mjesna vrijednost",
+                    "zaokruživanje",
+                    "prethodnik",
+                    "sljedbenik",
+                    "redoslijed računskih operacija",
+                    "zagrade"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "broj": 6,
+      "predmeti": [
+        {
+          "id": "matematika",
+          "naziv": "Matematika",
+          "ikona": "🔢",
+          "boja": "#1d4ed8",
+          "cjeline": [
+            {
+              "id": "lekcije",
+              "naziv": "Matematika",
+              "ikona": "🔢",
+              "lekcije": [
+                {
+                  "id": "trokut",
+                  "naziv": "Trokut",
+                  "opis": "Trokut ima tri vrha (A, B, C), tri stranice i tri unutarnja kuta. Stranica nasuprot vrha A označava se s a, nasuprot vrha B s b, a nasuprot vrha C s c; kutovi pri vrhovima A, B i C označavaju se s α, β i γ. Zbroj unutarnjih kutova trokuta je 180°, a vanjski kut jednak je zbroju dvaju nesusjednih unutarnjih kutova. Prema duljinama stranica trokut može biti raznostraničan, jednakokračan ili jednakostraničan, a prema kutovima šiljastokutan, pravokutan ili tupokutan. Opseg trokuta je zbroj duljina svih stranica; trokut se može nacrtati samo ako je zbroj duljina bilo kojih dviju stranica veći od treće.",
+                  "kljucniPojmovi": [
+                    "vrh",
+                    "stranica",
+                    "kut",
+                    "zbroj kutova",
+                    "vanjski kut",
+                    "jednakokračan",
+                    "jednakostraničan",
+                    "pravokutan",
+                    "tupokutan",
+                    "opseg",
+                    "nejednakost trokuta",
+                    "opisana kružnica"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "broj": 7,
+      "predmeti": []
+    },
+    {
+      "broj": 8,
+      "predmeti": []
+    }
+  ]
+}

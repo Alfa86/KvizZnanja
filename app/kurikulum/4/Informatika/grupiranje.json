@@ -1,0 +1,133 @@
+{
+  "razred": 4,
+  "predmet": "informatika",
+  "napomena": "Prijedlog grupiranja 31 nastavne teme iz informatika_poglavlja.txt u cjeline prema domenama kurikuluma (računalno razmišljanje i programiranje, informacije i digitalna tehnologija, digitalna pismenost i komunikacija, e-društvo). Tjedni s događanjima (Codeweek, Dabar, Hour of Code) i ponavljanje pridruženi su lekcijama koje vježbaju. Polje izvori sadrži brojeve redaka iz txt datoteke.",
+  "cjeline": [
+    {
+      "id": "racunalno-razmisljanje-i-programiranje",
+      "naziv": "Računalno razmišljanje i programiranje",
+      "ikona": "🧩",
+      "lekcije": [
+        {
+          "id": "kodiranje-i-sifriranje",
+          "naziv": "Kodiranje i šifriranje",
+          "opis": "Učenici zapisuju i čitaju poruke pomoću simbola i jednostavnih šifri te objašnjavaju razliku između kodiranja i šifriranja.",
+          "kljucniPojmovi": ["kod", "šifra", "simbol", "kodiranje", "šifriranje", "tajna poruka"],
+          "izvori": [3]
+        },
+        {
+          "id": "algoritmi-slijed-i-ponavljanje",
+          "naziv": "Algoritmi: slijed i ponavljanje",
+          "opis": "Učenici rješavaju probleme razmišljajući korak po korak, zapisuju algoritam kao slijed naredbi i prepoznaju kada se naredbe ponavljaju.",
+          "kljucniPojmovi": ["algoritam", "naredba", "slijed", "ponavljanje", "petlja", "računalno razmišljanje"],
+          "izvori": [4, 5, 6, 7, 10, 31]
+        },
+        {
+          "id": "grananje-i-varijable",
+          "naziv": "Grananje i varijable",
+          "opis": "Učenici koriste grananje (ako – onda – inače) za donošenje odluka u programu i varijable za pamćenje vrijednosti (npr. bodova u igri).",
+          "kljucniPojmovi": ["grananje", "ako", "onda", "inače", "uvjet", "varijabla"],
+          "izvori": [8, 31]
+        },
+        {
+          "id": "programiram-igru-i-pricu",
+          "naziv": "Programiram igru i priču",
+          "opis": "Učenici u blokovskom programskom jeziku (npr. Scratch) izrađuju jednostavnu igru i animiranu priču koristeći likove, pozadine, događaje, slijed, ponavljanje i grananje.",
+          "kljucniPojmovi": ["Scratch", "lik", "pozornica", "pozadina", "događaj", "blok", "animacija"],
+          "izvori": [4, 9, 10, 11]
+        }
+      ]
+    },
+    {
+      "id": "digitalna-tehnologija",
+      "naziv": "Digitalna tehnologija",
+      "ikona": "💻",
+      "lekcije": [
+        {
+          "id": "ikt-oko-nas",
+          "naziv": "Tehnologija oko nas",
+          "opis": "Učenici prepoznaju informacijsku i komunikacijsku tehnologiju u svakodnevnom životu i razlikuju ulazne i izlazne uređaje.",
+          "kljucniPojmovi": ["IKT", "računalo", "tablet", "pametni telefon", "ulazni uređaj", "izlazni uređaj"],
+          "izvori": [1]
+        },
+        {
+          "id": "roboti-i-umjetna-inteligencija",
+          "naziv": "Roboti i umjetna inteligencija",
+          "opis": "Učenici opisuju što su roboti i gdje se koriste, po čemu se razlikuju od ljudi te na jednostavnim primjerima objašnjavaju što je umjetna inteligencija.",
+          "kljucniPojmovi": ["robot", "senzor", "umjetna inteligencija", "stroj", "učenje iz primjera"],
+          "izvori": [2, 12]
+        },
+        {
+          "id": "racunalne-mreze-i-internet",
+          "naziv": "Računalne mreže i internet",
+          "opis": "Učenici objašnjavaju što je računalna mreža i internet te kako na internetu pronaći i provjeriti podatke.",
+          "kljucniPojmovi": ["računalna mreža", "internet", "mrežna stranica", "tražilica", "pouzdan izvor"],
+          "izvori": [13, 14]
+        }
+      ]
+    },
+    {
+      "id": "digitalni-sadrzaji-i-komunikacija",
+      "naziv": "Digitalni sadržaji i komunikacija",
+      "ikona": "🎨",
+      "lekcije": [
+        {
+          "id": "prezentacija",
+          "naziv": "Izrada prezentacije",
+          "opis": "Učenici izrađuju prezentaciju sa slajdovima, tekstom i slikama te znaju pravila dobre prezentacije (malo teksta, čitljiva slova).",
+          "kljucniPojmovi": ["prezentacija", "slajd", "naslov", "slika", "prijelaz"],
+          "izvori": [19, 20]
+        },
+        {
+          "id": "digitalni-poster-strip-i-crtez",
+          "naziv": "Digitalni poster, strip i crtež",
+          "opis": "Učenici izrađuju digitalni poster i strip te crtaju 2D i 3D crteže u programima za crtanje.",
+          "kljucniPojmovi": ["digitalni poster", "digitalni strip", "program za crtanje", "3D crtež", "mozgalica"],
+          "izvori": [21, 22, 23, 24]
+        },
+        {
+          "id": "elektronicka-posta",
+          "naziv": "Elektronička pošta",
+          "opis": "Učenici pišu i šalju poruku elektroničke pošte s privitkom te znaju dijelove dobre poruke (primatelj, predmet, pozdrav, sadržaj, potpis).",
+          "kljucniPojmovi": ["e-pošta", "primatelj", "predmet poruke", "privitak", "adresa e-pošte", "@"],
+          "izvori": [27, 28, 31]
+        },
+        {
+          "id": "komunikacija-i-suradnja-na-mrezi",
+          "naziv": "Komunikacija i suradnja na mreži",
+          "opis": "Učenici komuniciraju i surađuju na mreži uz pravila pristojnoga ponašanja (bonton na mreži) u sigurnom online okruženju.",
+          "kljucniPojmovi": ["online komunikacija", "suradnja", "bonton na mreži", "dijeljenje datoteka"],
+          "izvori": [29, 30]
+        }
+      ]
+    },
+    {
+      "id": "sigurnost-i-odgovornost",
+      "naziv": "Sigurnost i odgovornost",
+      "ikona": "🔒",
+      "lekcije": [
+        {
+          "id": "sigurno-na-internetu",
+          "naziv": "Sigurno na internetu",
+          "opis": "Učenici znaju pravila sigurnoga ponašanja na internetu: ne dijele osobne podatke, ne razgovaraju s nepoznatima i odraslima prijavljuju neugodne situacije.",
+          "kljucniPojmovi": ["sigurnost", "osobni podatci", "nepoznata osoba", "elektroničko nasilje", "prijava odrasloj osobi"],
+          "izvori": [15, 16, 18, 31]
+        },
+        {
+          "id": "sigurna-lozinka",
+          "naziv": "Sigurna lozinka",
+          "opis": "Učenici znaju kako smisliti sigurnu lozinku (duljina, slova, brojke, znakovi) i zašto je ne smiju nikome odati.",
+          "kljucniPojmovi": ["lozinka", "sigurna lozinka", "velika i mala slova", "brojke", "posebni znakovi"],
+          "izvori": [17]
+        },
+        {
+          "id": "zdravlje-i-okolis",
+          "naziv": "Zdravlje i okoliš",
+          "opis": "Učenici znaju kako pravilno sjediti za računalom i koliko vremena provoditi pred zaslonom te kako tehnologija može pomoći u čuvanju okoliša (štednja energije, recikliranje uređaja).",
+          "kljucniPojmovi": ["pravilno sjedenje", "vrijeme pred zaslonom", "odmor za oči", "štednja energije", "elektronički otpad"],
+          "izvori": [25, 26]
+        }
+      ]
+    }
+  ]
+}

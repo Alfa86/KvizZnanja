@@ -1,0 +1,329 @@
+{
+  "razred": 4,
+  "predmet": "hrvatski-jezik",
+  "napomena": "Prijedlog grupiranja 209 nastavnih sati iz hrvatski_jezik_poglavlja.txt u cjeline i lekcije za odabir u kvizu. Polje izvori sadrži brojeve redaka iz txt datoteke. Sati vezani uz pojedina književna djela grupirani su prema pojmu koji se uči (npr. personifikacija, obilježja basne), jer škole koriste različite čitanke. Pitanja ne citiraju zaštićena književna djela, nego koriste vlastite kratke primjere.",
+  "cjeline": [
+    {
+      "id": "pravopis",
+      "naziv": "Pravopis",
+      "ikona": "✏️",
+      "lekcije": [
+        {
+          "id": "c-c-dz-d-ije-je",
+          "naziv": "Č, ć, dž, đ i ije/je",
+          "opis": "Učenici pravilno izgovaraju i pišu riječi s glasovima č, ć, dž i đ te riječi s ije, je, e i i. Prepoznaju i ispravljaju pravopisne pogreške u čestim riječima.",
+          "kljucniPojmovi": ["č", "ć", "dž", "đ", "ije", "je", "dugi i kratki slog", "pravopisna pogreška"],
+          "izvori": [1, 18, 61, 109, 142, 151, 163, 179, 180]
+        },
+        {
+          "id": "veliko-pocetno-slovo",
+          "naziv": "Veliko početno slovo",
+          "opis": "Učenici pišu veliko početno slovo u imenima država, gradova, naroda i stanovnika, ulica, trgova, voda, gora, geografskih cjelina i ustanova.",
+          "kljucniPojmovi": ["veliko početno slovo", "ime države", "ime grada", "ime stanovnika", "ime naroda", "ime vode", "ime ustanove"],
+          "izvori": [34, 61, 89, 109, 141, 151, 184, 203]
+        },
+        {
+          "id": "pisanje-posvojnih-pridjeva",
+          "naziv": "Pisanje posvojnih pridjeva",
+          "opis": "Učenici pišu posvojne pridjeve izvedene od vlastitih imena velikim početnim slovom (Ivanov, Marijin), a pridjeve na -ski, -ški, -čki i -ćki izvedene od imena mjesta malim slovom (zagrebački, splitski).",
+          "kljucniPojmovi": ["posvojni pridjev", "vlastito ime", "-ov, -ev, -in", "-ski", "-ški", "-čki", "-ćki"],
+          "izvori": [35, 38, 53, 55, 83, 89, 191]
+        },
+        {
+          "id": "umanjenice-i-uvecanice",
+          "naziv": "Umanjenice i uvećanice",
+          "opis": "Učenici tvore i prepoznaju umanjenice (kućica) i uvećanice (kućetina) te ih pravilno pišu s č, ć, ije i je.",
+          "kljucniPojmovi": ["umanjenica", "uvećanica", "-ica", "-ić", "-čić", "-etina", "-ina"],
+          "izvori": [46, 130]
+        },
+        {
+          "id": "nijecnice-i-rijecca-li",
+          "naziv": "Niječnice i riječca li",
+          "opis": "Učenici pišu niječnicu ne odvojeno od glagola (ne znam), osim u riječima nemam, neću, nisam i nemoj, te riječcu li odvojeno od riječi (Znaš li?).",
+          "kljucniPojmovi": ["niječnica", "ne", "nemam", "neću", "nisam", "riječca li"],
+          "izvori": [192]
+        }
+      ]
+    },
+    {
+      "id": "vrste-rijeci",
+      "naziv": "Vrste riječi",
+      "ikona": "🔤",
+      "lekcije": [
+        {
+          "id": "imenice-rod-i-broj",
+          "naziv": "Imenice – rod i broj",
+          "opis": "Učenici prepoznaju imenice kao riječi koje imenuju bića, stvari i pojave. Određuju im rod (muški, ženski, srednji) i broj (jednina, množina).",
+          "kljucniPojmovi": ["imenica", "muški rod", "ženski rod", "srednji rod", "jednina", "množina"],
+          "izvori": [6, 9, 42, 82, 195]
+        },
+        {
+          "id": "glagoli-radnje-stanja-i-zbivanja",
+          "naziv": "Glagoli – radnja, stanje i zbivanje",
+          "opis": "Učenici prepoznaju glagole kao riječi koje izriču radnju (trči), stanje (spava) ili zbivanje (pada kiša) i razlikuju ih od ostalih vrsta riječi.",
+          "kljucniPojmovi": ["glagol", "radnja", "stanje", "zbivanje"],
+          "izvori": [21, 42, 43, 173]
+        },
+        {
+          "id": "glagolska-vremena",
+          "naziv": "Prošlo, sadašnje i buduće vrijeme",
+          "opis": "Učenici određuju izriče li glagol prošlu, sadašnju ili buduću radnju te preoblikuju rečenice iz jednoga glagolskog vremena u drugo.",
+          "kljucniPojmovi": ["glagolsko vrijeme", "prošlo vrijeme", "sadašnje vrijeme", "buduće vrijeme", "preoblikovanje"],
+          "izvori": [24, 25, 44, 73, 112, 114, 115, 174, 175, 204]
+        },
+        {
+          "id": "pridjevi-opisni-posvojni-i-gradivni",
+          "naziv": "Pridjevi – opisni, posvojni i gradivni",
+          "opis": "Učenici razlikuju opisne (kakav?), posvojne (čiji?) i gradivne (od čega?) pridjeve. Znaju da se pridjev slaže s imenicom u rodu i broju.",
+          "kljucniPojmovi": ["pridjev", "opisni pridjev", "posvojni pridjev", "gradivni pridjev", "kakav", "čiji", "od čega", "slaganje s imenicom"],
+          "izvori": [30, 37, 39, 82, 195]
+        },
+        {
+          "id": "imenice-glagoli-i-pridjevi",
+          "naziv": "Imenice, glagoli i pridjevi zajedno",
+          "opis": "Učenici u rečenicama i tekstovima razlikuju imenice, glagole i pridjeve te ih pravilno upotrebljavaju uz gramatička i pravopisna pravila.",
+          "kljucniPojmovi": ["vrste riječi", "imenica", "glagol", "pridjev", "rečenica"],
+          "izvori": [42, 63, 81, 101, 122, 123, 155, 156, 169, 178, 209]
+        }
+      ]
+    },
+    {
+      "id": "jezik-i-komunikacija",
+      "naziv": "Jezik i komunikacija",
+      "ikona": "💬",
+      "lekcije": [
+        {
+          "id": "narjecja-i-standardni-jezik",
+          "naziv": "Narječja i standardni jezik",
+          "opis": "Učenici znaju da hrvatski jezik ima tri narječja (kajkavsko, čakavsko i štokavsko) i prema riječima za \"što\" ih razlikuju. Razlikuju zavičajni govor od hrvatskoga standardnog jezika.",
+          "kljucniPojmovi": ["kajkavsko narječje", "čakavsko narječje", "štokavsko narječje", "kaj", "ča", "što", "zavičajni govor", "standardni jezik"],
+          "izvori": [17, 105, 143]
+        },
+        {
+          "id": "poslovice-i-izreke",
+          "naziv": "Poslovice i izreke",
+          "opis": "Učenici objašnjavaju značenje poznatih narodnih poslovica i mudrih izreka te ih povezuju sa situacijama iz svakodnevnog života.",
+          "kljucniPojmovi": ["poslovica", "izreka", "preneseno značenje", "pouka"],
+          "izvori": [8]
+        },
+        {
+          "id": "pristojna-komunikacija-i-rasprava",
+          "naziv": "Pristojna komunikacija i rasprava",
+          "opis": "Učenici primjenjuju pravila uljudne komunikacije u različitim situacijama, sporazumijevaju se riječima te vizualnim i zvučnim znakovima i poznaju pravila rasprave (slušanje drugih, iznošenje mišljenja, argumenti).",
+          "kljucniPojmovi": ["pristojna komunikacija", "neverbalna komunikacija", "rasprava", "mišljenje", "slušanje"],
+          "izvori": [28, 58, 92, 93, 96]
+        },
+        {
+          "id": "krasnoslov-i-govorne-vrednote",
+          "naziv": "Krasnoslov i govorne vrednote",
+          "opis": "Učenici znaju što su govorne vrednote (jakost, brzina, stanka, intonacija) i kako ih koristiti pri izražajnom čitanju i krasnoslovu.",
+          "kljucniPojmovi": ["krasnoslov", "izražajno čitanje", "jakost glasa", "brzina", "stanka", "intonacija"],
+          "izvori": [100, 170]
+        }
+      ]
+    },
+    {
+      "id": "pisanje-i-pripovijedanje",
+      "naziv": "Pisanje i pripovijedanje",
+      "ikona": "📝",
+      "lekcije": [
+        {
+          "id": "sastavak-uvod-razrada-zakljucak",
+          "naziv": "Sastavak: uvod, razrada i zaključak",
+          "opis": "Učenici znaju trodijelnu strukturu sastavka i pripovijedanja (uvod, razrada ili glavni dio, zaključak) i što pripada u koji dio. Pripovijedaju stvarne i zamišljene događaje prema planu.",
+          "kljucniPojmovi": ["sastavak", "uvod", "razrada", "glavni dio", "zaključak", "plan pripovijedanja"],
+          "izvori": [54, 57, 70, 85, 86, 125, 138, 144, 157, 162]
+        },
+        {
+          "id": "opis-lika",
+          "naziv": "Opis lika",
+          "opis": "Učenici opisuju lik prema planu opisa: vanjski izgled, ponašanje, govor i osobine. Razlikuju stvarni i slikoviti opis.",
+          "kljucniPojmovi": ["opis lika", "plan opisa", "vanjski izgled", "osobine", "stvarni opis", "slikoviti opis"],
+          "izvori": [20, 23, 121, 159, 165]
+        },
+        {
+          "id": "biljeske-i-sazetak",
+          "naziv": "Bilješke i sažetak",
+          "opis": "Učenici iz teksta izdvajaju bitne podatke, pišu bilješke i natuknice te oblikuju sažetak izdvajanjem bitnih rečenica. Prema bilješkama prepričavaju tekst.",
+          "kljucniPojmovi": ["bilješka", "natuknica", "sažetak", "bitno i nebitno", "prepričavanje"],
+          "izvori": [5, 7, 11, 15, 16, 80, 91, 121, 149, 177, 188, 189, 208]
+        },
+        {
+          "id": "pismo",
+          "naziv": "Pismo i e-poruka",
+          "opis": "Učenici znaju dijelove pisma (mjesto i datum, oslovljavanje, sadržaj, pozdrav, potpis) i pravila pisanja poruke elektroničke pošte.",
+          "kljucniPojmovi": ["pismo", "mjesto i datum", "oslovljavanje", "pozdrav", "potpis", "e-pošta"],
+          "izvori": [3, 166]
+        },
+        {
+          "id": "obavijest-i-izvjesce",
+          "naziv": "Obavijest i izvješće",
+          "opis": "Učenici znaju što obavijest mora sadržavati (tko, što, gdje, kada) i razlikuju bitne od nebitnih informacija. Pišu kratko izvješće o obavljenom zadatku.",
+          "kljucniPojmovi": ["obavijest", "tko", "što", "gdje", "kada", "izvješće", "bitna informacija"],
+          "izvori": [48, 49, 50]
+        }
+      ]
+    },
+    {
+      "id": "prica",
+      "naziv": "Priča",
+      "ikona": "📖",
+      "lekcije": [
+        {
+          "id": "tema-likovi-mjesto-i-vrijeme-radnje",
+          "naziv": "Tema, likovi, mjesto i vrijeme radnje",
+          "opis": "Učenici određuju temu priče, glavne i sporedne likove, mjesto i vrijeme radnje te povezuju sadržaj priče s vlastitim iskustvom.",
+          "kljucniPojmovi": ["tema", "glavni lik", "sporedni lik", "mjesto radnje", "vrijeme radnje"],
+          "izvori": [4, 26, 27, 29, 47, 51, 78, 95, 98, 140, 153, 164, 167, 185, 193, 196, 197, 198, 205, 206]
+        },
+        {
+          "id": "osobine-likova-i-odnosi-medu-njima",
+          "naziv": "Osobine likova i odnosi među njima",
+          "opis": "Učenici opisuju izgled, ponašanje, govor i osobine likova te odnose među likovima. Prosuđuju postupke likova.",
+          "kljucniPojmovi": ["lik", "osobine", "ponašanje", "govor lika", "odnosi među likovima", "postupci"],
+          "izvori": [23, 29, 51, 65, 69, 108, 119, 140, 147, 168, 181]
+        },
+        {
+          "id": "redoslijed-dogadaja",
+          "naziv": "Redoslijed događaja i dijelovi priče",
+          "opis": "Učenici određuju redoslijed događaja u priči i prepoznaju dijelove priče (uvod, zaplet, rasplet ili početak, glavni dio, završetak).",
+          "kljucniPojmovi": ["redoslijed događaja", "uvod", "glavni dio", "završetak", "trodijelna struktura"],
+          "izvori": [4, 51, 56, 62, 85, 197]
+        },
+        {
+          "id": "poruka-teksta",
+          "naziv": "Poruka teksta",
+          "opis": "Učenici izdvajaju vrijednu poruku priče i povezuju je sa svakodnevnim životom, poželjnim i nepoželjnim ponašanjem te zaštitom okoliša.",
+          "kljucniPojmovi": ["poruka", "pouka", "poželjno ponašanje", "vrijednosti"],
+          "izvori": [26, 66, 69, 79, 94, 136, 154, 205]
+        },
+        {
+          "id": "pripovjedne-tehnike",
+          "naziv": "Pripovjedne tehnike",
+          "opis": "Učenici prepoznaju pripovijedanje, opis, dijalog i monolog u tekstu te pripovijedaju sadržaj iz perspektive drugoga lika.",
+          "kljucniPojmovi": ["pripovijedanje", "opis", "dijalog", "monolog", "perspektiva lika"],
+          "izvori": [41, 129, 176]
+        },
+        {
+          "id": "stvarno-i-nestvarno",
+          "naziv": "Stvarno i nestvarno u priči",
+          "opis": "Učenici razlikuju stvarne i nestvarne (čudesne) događaje i likove u priči i bajci te prepoznaju personifikaciju u prozi.",
+          "kljucniPojmovi": ["stvarni događaj", "nestvarni događaj", "čudesni lik", "personifikacija"],
+          "izvori": [107, 120, 137, 194]
+        }
+      ]
+    },
+    {
+      "id": "pjesma",
+      "naziv": "Pjesma",
+      "ikona": "🎵",
+      "lekcije": [
+        {
+          "id": "stih-strofa-rima-i-ritam",
+          "naziv": "Stih, strofa, rima i ritam",
+          "opis": "Učenici prepoznaju obilježja poetskoga teksta: stih, strofu, rimu, ritam i ponavljanje te ih razlikuju od proznoga teksta.",
+          "kljucniPojmovi": ["stih", "strofa", "rima", "ritam", "ponavljanje", "poetski tekst"],
+          "izvori": [14, 36, 52, 59, 77, 84, 87, 97, 99, 104, 113, 126, 135, 145, 150, 152, 160, 172, 183, 199]
+        },
+        {
+          "id": "pjesnicke-slike-usporedba-onomatopeja",
+          "naziv": "Pjesničke slike, usporedba i onomatopeja",
+          "opis": "Učenici prepoznaju vidne i slušne pjesničke slike, usporedbu (kao, poput) i onomatopeju (riječi koje oponašaju zvukove).",
+          "kljucniPojmovi": ["pjesnička slika", "vidna slika", "slušna slika", "usporedba", "onomatopeja"],
+          "izvori": [2, 14, 36, 84, 99, 160, 199]
+        },
+        {
+          "id": "personifikacija",
+          "naziv": "Personifikacija",
+          "opis": "Učenici prepoznaju personifikaciju – pridavanje ljudskih osobina, postupaka i govora biljkama, životinjama, predmetima i pojavama – u pjesmi i priči.",
+          "kljucniPojmovi": ["personifikacija", "ljudske osobine", "oživljavanje"],
+          "izvori": [10, 45, 59, 120, 194, 199]
+        },
+        {
+          "id": "tema-i-motivi-pjesme",
+          "naziv": "Tema i motivi pjesme",
+          "opis": "Učenici određuju temu i motive pjesme te povezuju doživljaj pjesme s vlastitim iskustvom i postupcima.",
+          "kljucniPojmovi": ["tema", "motiv", "doživljaj", "vlastito iskustvo"],
+          "izvori": [14, 36, 60, 88, 98, 146, 161, 171, 182, 183, 190]
+        }
+      ]
+    },
+    {
+      "id": "knjizevne-vrste",
+      "naziv": "Književne vrste",
+      "ikona": "📚",
+      "lekcije": [
+        {
+          "id": "basna",
+          "naziv": "Basna",
+          "opis": "Učenici prepoznaju obilježja basne: likovi su životinje s ljudskim osobinama, priča je kratka i završava poukom.",
+          "kljucniPojmovi": ["basna", "životinje kao likovi", "ljudske osobine", "pouka"],
+          "izvori": [71, 72, 90, 110, 111, 147, 148, 158]
+        },
+        {
+          "id": "bajka-i-legenda",
+          "naziv": "Bajka i legenda",
+          "opis": "Učenici razlikuju bajku (čudesni likovi i događaji, borba dobra i zla) i legendu (priča o stvarnim mjestima ili osobama s nestvarnim elementima).",
+          "kljucniPojmovi": ["bajka", "legenda", "čudesno", "dobro i zlo", "stvarno mjesto"],
+          "izvori": [90, 107, 108, 139, 158, 181]
+        },
+        {
+          "id": "prica-i-pripovijetka",
+          "naziv": "Priča i pripovijetka",
+          "opis": "Učenici prepoznaju obilježja priče i pripovijetke kao proznih tekstova te ih razlikuju od poetskih tekstova.",
+          "kljucniPojmovi": ["priča", "pripovijetka", "prozni tekst", "pripovjedač"],
+          "izvori": [22, 64, 68, 90, 124, 158, 168]
+        },
+        {
+          "id": "igrokaz-i-strip",
+          "naziv": "Igrokaz i strip",
+          "opis": "Učenici prepoznaju obilježja igrokaza (tekst za izvođenje, likovi, dijalog, upute za izvođenje) i stripa (slike u kvadratićima, oblačići s tekstom).",
+          "kljucniPojmovi": ["igrokaz", "dijalog", "uloga", "strip", "oblačić", "kadar"],
+          "izvori": [74, 75, 76, 90, 134, 158]
+        },
+        {
+          "id": "saljivi-tekst-i-biografija",
+          "naziv": "Šaljivi tekst i biografija",
+          "opis": "Učenici prepoznaju obilježja šaljive pjesme i šaljivoga teksta te biografije kao teksta o životu stvarne osobe.",
+          "kljucniPojmovi": ["šaljiva pjesma", "šaljivi tekst", "humor", "biografija", "stvarna osoba"],
+          "izvori": [13, 90, 131, 133, 158]
+        }
+      ]
+    },
+    {
+      "id": "mediji-i-izvori-informacija",
+      "naziv": "Mediji i izvori informacija",
+      "ikona": "🎬",
+      "lekcije": [
+        {
+          "id": "film",
+          "naziv": "Dokumentarni, igrani i crtani film",
+          "opis": "Učenici razlikuju dokumentarni, igrani i crtani film, određuju redoslijed događaja u filmu te uspoređuju književno djelo i film nastao prema njemu.",
+          "kljucniPojmovi": ["dokumentarni film", "igrani film", "crtani film", "ekranizacija"],
+          "izvori": [12, 19, 116, 117, 118, 127, 128]
+        },
+        {
+          "id": "televizija-radio-i-tisak",
+          "naziv": "Televizija, radio i tisak",
+          "opis": "Učenici razlikuju tiskane i elektroničke medije, znaju posebnosti televizije i radija te prepoznaju emisije i intervju.",
+          "kljucniPojmovi": ["mediji", "tiskani mediji", "elektronički mediji", "televizija", "radio", "emisija", "intervju"],
+          "izvori": [67, 106, 186, 187, 200]
+        },
+        {
+          "id": "racunalo-internet-i-sigurnost",
+          "naziv": "Računalo, internet i sigurnost",
+          "opis": "Učenici svrhovito koriste računalo i internet, biraju pouzdane izvore informacija i znaju pravila sigurnoga ponašanja na internetu.",
+          "kljucniPojmovi": ["internet", "pouzdan izvor", "sigurnost na internetu", "osobni podatci"],
+          "izvori": [102, 103]
+        },
+        {
+          "id": "enciklopedija-leksikon-pravopis-i-rjecnik",
+          "naziv": "Enciklopedija, leksikon, pravopis i rječnik",
+          "opis": "Učenici razlikuju enciklopediju, leksikon, pravopis i rječnik te pronalaze tražene podatke pomoću abecednoga reda, kazala i sadržaja, i u mrežnoj enciklopediji.",
+          "kljucniPojmovi": ["enciklopedija", "leksikon", "pravopis", "rječnik", "kazalo", "abecedni red", "mrežna enciklopedija"],
+          "izvori": [31, 32, 33, 40, 132, 201, 202, 207]
+        }
+      ]
+    }
+  ]
+}
