@@ -1,0 +1,4825 @@
+{
+  "lekcijaId": "vrste-kutova",
+  "pitanja": [
+    {
+      "id": "4-matematika-vrste-kutova-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koja je vrsta kuta nacrtanog na slici.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Pravi kut",
+        "Tupi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut na slici manji je od pravog kuta, zato je šiljasti.",
+      "savjet": "Zamisli ugao lista papira u vrhu kuta i usporedi koji je kut veći.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            2.54,
+            2.95
+          ],
+          "V1": [
+            7.46,
+            3.82
+          ],
+          "V2": [
+            5.41,
+            7.05
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zove kut prikazan na slici.",
+      "ponudeni": [
+        "Pravi kut",
+        "Šiljasti kut",
+        "Tupi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut na slici veći je od pravog kuta, a manji od ispruženog, pa je tupi.",
+      "savjet": "Usporedi kut s uglom bilježnice: je li manji, jednak ili veći?",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            4.76,
+            3.81
+          ],
+          "V1": [
+            9.35,
+            5.04
+          ],
+          "V2": [
+            0.65,
+            6.19
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-003",
+      "tezina": "lagano",
+      "pitanje": "Odaberi vrstu kuta na slici.",
+      "ponudeni": [
+        "Tupi kut",
+        "Pravi kut",
+        "Šiljasti kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krakovi kuta stoje kao rubovi lista papira u uglu, pa je to pravi kut.",
+      "savjet": "Prisloni u mislima ugao bilježnice uz vrh kuta i pogledaj poklapaju li se krakovi.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            2.5,
+            2.5
+          ],
+          "V1": [
+            7.5,
+            2.5
+          ],
+          "V2": [
+            2.5,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-004",
+      "tezina": "lagano",
+      "pitanje": "Kut na slici treba razvrstati. Odaberi kojoj vrsti pripada.",
+      "ponudeni": [
+        "Tupi kut",
+        "Pravi kut",
+        "Ispruženi kut",
+        "Šiljasti kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi su blizu jedan drugome i kut je manji od pravog, pa je šiljasti.",
+      "savjet": "Pogledaj koliko su se krakovi razmaknuli i usporedi to s uglom papira.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            3.75,
+            2.5
+          ],
+          "V1": [
+            6.25,
+            6.83
+          ],
+          "V2": [
+            3.75,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koja je vrsta kuta s vrhom V.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Tupi kut",
+        "Pravi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut je veći od pravog, ali krakovi ne leže na istom pravcu, pa je to tupi kut, a ne ispruženi.",
+      "savjet": "Provjeri je li kut veći od ugla papira i leže li oba kraka na jednom pravcu.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            4.69,
+            3.83
+          ],
+          "V1": [
+            9.35,
+            3.83
+          ],
+          "V2": [
+            0.65,
+            6.17
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-006",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav je kut na slici.",
+      "ponudeni": [
+        "Pravi kut",
+        "Šiljasti kut",
+        "Tupi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut je nacrtan ukoso, ali krakovi i dalje stoje kao rubovi u uglu papira, pa je pravi.",
+      "savjet": "Kut je nagnut; zamisli da okreneš papir i usporedi kut s uglom bilježnice.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            4.08,
+            2.83
+          ],
+          "V1": [
+            8.42,
+            5.33
+          ],
+          "V2": [
+            1.58,
+            7.17
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-007",
+      "tezina": "lagano",
+      "pitanje": "Na slici su četiri kuta. Odaberi koji je od njih pravi.",
+      "ponudeni": [
+        "Kut s vrhom B",
+        "Kut s vrhom A",
+        "Kut s vrhom C",
+        "Kut s vrhom D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi kuta s vrhom C stoje kao rubovi u uglu papira, pa je on pravi.",
+      "savjet": "Traži kut čiji krakovi stoje kao vodoravna i uspravna crta.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            1.38,
+            6.53
+          ],
+          "A1": [
+            3.92,
+            6.53
+          ],
+          "A2": [
+            3.33,
+            8.17
+          ],
+          "B": [
+            6.81,
+            6.31
+          ],
+          "B1": [
+            9.35,
+            6.31
+          ],
+          "B2": [
+            5.35,
+            8.39
+          ],
+          "C": [
+            1.38,
+            1.38
+          ],
+          "C1": [
+            3.92,
+            1.38
+          ],
+          "C2": [
+            1.38,
+            3.92
+          ],
+          "D": [
+            6.16,
+            1.4
+          ],
+          "D1": [
+            8.54,
+            2.27
+          ],
+          "D2": [
+            6.6,
+            3.9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-008",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koji je od nacrtanih kutova tupi.",
+      "ponudeni": [
+        "Kut s vrhom B",
+        "Kut s vrhom A",
+        "Kut s vrhom C",
+        "Kut s vrhom D"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut s vrhom D veći je od pravog kuta, a manji od ispruženog, pa je tupi.",
+      "savjet": "Traži kut koji je otvoreniji od ugla lista papira.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            1.55,
+            6.72
+          ],
+          "A1": [
+            3.75,
+            6.72
+          ],
+          "A2": [
+            3.35,
+            7.98
+          ],
+          "B": [
+            8.45,
+            6.25
+          ],
+          "B1": [
+            8.45,
+            8.45
+          ],
+          "B2": [
+            6.25,
+            6.25
+          ],
+          "C": [
+            1.7,
+            1.55
+          ],
+          "C1": [
+            3.6,
+            2.65
+          ],
+          "C2": [
+            1.89,
+            3.75
+          ],
+          "D": [
+            7.15,
+            2.02
+          ],
+          "D1": [
+            9.35,
+            2.02
+          ],
+          "D2": [
+            5.35,
+            3.28
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-009",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koji je od nacrtanih kutova šiljasti.",
+      "ponudeni": [
+        "Kut s vrhom B",
+        "Kut s vrhom A",
+        "Kut s vrhom C",
+        "Kut s vrhom D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut s vrhom B manji je od pravog kuta, pa je šiljasti.",
+      "savjet": "Traži kut koji je manji od ugla lista papira.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            2.13,
+            6.44
+          ],
+          "A1": [
+            4.22,
+            6.44
+          ],
+          "A2": [
+            1.08,
+            8.26
+          ],
+          "B": [
+            6.34,
+            6.44
+          ],
+          "B1": [
+            8.36,
+            6.98
+          ],
+          "B2": [
+            7.39,
+            8.26
+          ],
+          "C": [
+            2.65,
+            1.91
+          ],
+          "C1": [
+            4.13,
+            3.39
+          ],
+          "C2": [
+            1.17,
+            3.39
+          ],
+          "D": [
+            7.25,
+            2.21
+          ],
+          "D1": [
+            9.35,
+            2.21
+          ],
+          "D2": [
+            5.35,
+            3.09
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-010",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko pravih kutova ima pravokutnik ABCD na slici.",
+      "ponudeni": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svi kutovi pravokutnika su pravi, pa ih ima 4.",
+      "savjet": "Provjeri kut u svakom vrhu pravokutnika, jedan po jedan.",
+      "slika": {
+        "opis": "Pravokutnik ABCD",
+        "tocke": {
+          "A": [
+            1.5,
+            2
+          ],
+          "B": [
+            8.5,
+            2
+          ],
+          "C": [
+            8.5,
+            7
+          ],
+          "D": [
+            1.5,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-011",
+      "tezina": "lagano",
+      "pitanje": "Na slici su dva kuta. Odaberi koji je od njih veći.",
+      "ponudeni": [
+        "Kut s vrhom A",
+        "Kut s vrhom B",
+        "Oba su kuta jednaka",
+        "Kutovi se ne mogu usporediti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krakovi kuta s vrhom B više su razmaknuti, pa je on veći.",
+      "savjet": "Pogledaj koliko su razmaknuti krakovi, a ne koliko su dugi.",
+      "slika": {
+        "opis": "Dva kuta s vrhovima A i B",
+        "tocke": {
+          "A": [
+            1.43,
+            4.07
+          ],
+          "A1": [
+            3.87,
+            4.07
+          ],
+          "A2": [
+            3,
+            5.93
+          ],
+          "B": [
+            6.92,
+            4.07
+          ],
+          "B1": [
+            9.35,
+            4.07
+          ],
+          "B2": [
+            5.35,
+            5.93
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-012",
+      "tezina": "lagano",
+      "pitanje": "Usporedi kut na slici s pravim kutom. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Kut je veći od pravog kuta.",
+        "Kut je jednak ispruženom kutu.",
+        "Kut je jednak pravom kutu.",
+        "Kut je manji od pravog kuta."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi su bliže jedan drugome nego rubovi u uglu papira, pa je kut manji od pravog. To je šiljasti kut.",
+      "savjet": "Zamisli ugao lista papira s vrhom u točki V i jednim rubom uz krak kuta.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            7.17,
+            2.5
+          ],
+          "V1": [
+            7.17,
+            7.5
+          ],
+          "V2": [
+            2.83,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko pravih kutova ima trokut ABC na slici.",
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut na slici ima jedan pravi kut, kod vrha B, a druga dva kuta su šiljasta.",
+      "savjet": "Usporedi kut u svakom vrhu s uglom lista papira.",
+      "slika": {
+        "opis": "Trokut ABC",
+        "tocke": {
+          "A": [
+            2.2,
+            1
+          ],
+          "B": [
+            7.8,
+            1
+          ],
+          "C": [
+            7.8,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-014",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koji je od nacrtanih kutova najmanji.",
+      "ponudeni": [
+        "Kut s vrhom B",
+        "Kut s vrhom A",
+        "Kut s vrhom C",
+        "Kut s vrhom D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krakovi kuta s vrhom B najmanje su razmaknuti, pa je on najmanji.",
+      "savjet": "Gledaj razmak između krakova, a ne njihovu duljinu.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            2.39,
+            6.62
+          ],
+          "A1": [
+            4.65,
+            6.62
+          ],
+          "A2": [
+            0.65,
+            8.08
+          ],
+          "B": [
+            6.23,
+            6.62
+          ],
+          "B1": [
+            8.47,
+            7.02
+          ],
+          "B2": [
+            7.97,
+            8.08
+          ],
+          "C": [
+            1.52,
+            1.52
+          ],
+          "C1": [
+            3.78,
+            1.52
+          ],
+          "C2": [
+            1.52,
+            3.78
+          ],
+          "D": [
+            6.22,
+            1.67
+          ],
+          "D1": [
+            8.48,
+            1.67
+          ],
+          "D2": [
+            7.35,
+            3.63
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-015",
+      "tezina": "lagano",
+      "pitanje": "U vrhu kuta na slici nacrtan je mali kvadratić. Odaberi koji se kut tako označava.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Tupi kut",
+        "Ispruženi kut",
+        "Pravi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadratićem u vrhu označava se pravi kut.",
+      "savjet": "Sjeti se kako izgleda ugao kvadrata i kakav je to kut.",
+      "slika": {
+        "opis": "Kut s vrhom V, u vrhu je nacrtan mali kvadratić",
+        "tocke": {
+          "V": [
+            3.51,
+            2.65
+          ],
+          "V1": [
+            8.2,
+            4.36
+          ],
+          "V2": [
+            1.8,
+            7.35
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ],
+            "pravi": true
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-016",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zove kut koji je manji od pravog kuta.",
+      "ponudeni": [
+        "Tupi kut",
+        "Ispruženi kut",
+        "Šiljasti kut",
+        "Pravi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut manji od pravog kuta zove se šiljasti kut.",
+      "savjet": "Sjeti se tri vrste kutova i poredaj ih od najmanjeg do najvećeg."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-017",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zove kut koji je veći od pravog kuta, a manji od ispruženog kuta.",
+      "ponudeni": [
+        "Tupi kut",
+        "Ispruženi kut",
+        "Pravi kut",
+        "Šiljasti kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tupi kut veći je od pravog, a manji od ispruženog kuta.",
+      "savjet": "Poredaj vrste kutova po veličini i pronađi onu između pravog i ispruženog."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-018",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav kut zatvaraju dva susjedna ruba lista papira u jednom uglu.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Tupi kut",
+        "Pravi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rubovi lista papira u uglu zatvaraju pravi kut, zato papirom možemo provjeriti pravi kut.",
+      "savjet": "Pomisli čime možeš provjeriti kut kad nemaš geotrokut."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-019",
+      "tezina": "lagano",
+      "pitanje": "Odaberi pomagalo kojim se provjerava je li kut pravi.",
+      "ponudeni": [
+        "Šestar",
+        "Geotrokut",
+        "Gumica",
+        "Šiljilo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Geotrokut ima pravi kut, pa ga prislonimo uz kut i usporedimo.",
+      "savjet": "Odaberi pomagalo koje i samo ima jedan pravi kut."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-020",
+      "tezina": "lagano",
+      "pitanje": "Sat pokazuje točno 3 sata. Odaberi kakav kut zatvaraju kazaljke.",
+      "ponudeni": [
+        "Ispruženi kut",
+        "Šiljasti kut",
+        "Tupi kut",
+        "Pravi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mala kazaljka pokazuje 3, a velika 12, pa kazaljke zatvaraju pravi kut, kao rubovi u uglu papira.",
+      "savjet": "Nacrtaj u mislima obje kazaljke i usporedi kut s uglom lista papira."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-021",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav kut zatvaraju kazaljke sata kad je točno 1 sat.",
+      "ponudeni": [
+        "Tupi kut",
+        "Šiljasti kut",
+        "Pravi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U 1 sat kazaljke su vrlo blizu, kut između njih manji je od pravog, pa je šiljasti.",
+      "savjet": "Velika kazaljka je na 12, a mala na 1. Jesu li kazaljke blizu ili daleko jedna od druge?"
+    },
+    {
+      "id": "4-matematika-vrste-kutova-022",
+      "tezina": "lagano",
+      "pitanje": "Sat pokazuje točno 5 sati. Odaberi kakav kut zatvaraju kazaljke.",
+      "ponudeni": [
+        "Tupi kut",
+        "Pravi kut",
+        "Ispruženi kut",
+        "Šiljasti kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U 5 sati kazaljke su razmaknute više nego u 3 sata, ali ne leže na istom pravcu, pa je kut tupi.",
+      "savjet": "Prisjeti se kakav kut kazaljke zatvaraju u 3 sata, a zatim zamisli 5 sati."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-023",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o veličini kutova.",
+      "ponudeni": [
+        "Tupi kut manji je od pravog kuta.",
+        "Šiljasti kut veći je od tupog kuta.",
+        "Pravi kut veći je od tupog kuta.",
+        "Šiljasti kut manji je od pravog kuta."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Šiljasti kut manji je od pravog, a tupi kut veći je od pravog.",
+      "savjet": "Poredaj šiljasti, pravi i tupi kut od najmanjeg do najvećeg."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-024",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko pravih kutova ima kvadrat.",
+      "ponudeni": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadrat ima četiri vrha i u svakom je vrhu pravi kut.",
+      "savjet": "Prebroji vrhove kvadrata i sjeti se kakav je kut u svakom vrhu."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-025",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav kut zatvaraju kazaljke sata u 9 sati.",
+      "ponudeni": [
+        "Pravi kut",
+        "Tupi kut",
+        "Šiljasti kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U 9 sati velika kazaljka je na 12, a mala na 9, pa zatvaraju pravi kut.",
+      "savjet": "Usporedi položaj kazaljki u 9 sati s njihovim položajem u 3 sata."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-026",
+      "tezina": "lagano",
+      "pitanje": "Odaberi predmet na kojem lako uočiš pravi kut.",
+      "ponudeni": [
+        "Rub tanjura",
+        "Lopta",
+        "Ugao korica knjige",
+        "Kotač bicikla"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Korice knjige u uglu imaju dva ravna ruba koja zatvaraju pravi kut.",
+      "savjet": "Kut imaju samo predmeti s ravnim rubovima koji se sastaju u jednoj točki."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-027",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako treba preklopiti papir da bi se njime provjerio pravi kut.",
+      "ponudeni": [
+        "Jednom, bilo kako",
+        "Dvaput, tako da se pregib poklopi sam sa sobom",
+        "Triput, u obliku trokuta",
+        "Ne preklapa se, nego se reže na pola"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad papir preklopimo, a zatim pregib preklopimo tako da se poklopi sam sa sobom, dobijemo pravi kut.",
+      "savjet": "Pregib je ravna crta; razmisli kako od ravne crte dobiti ugao kao kod lista papira."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-028",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koja je od ovih vrsta kutova najveća: šiljasti, pravi ili tupi kut.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Pravi kut",
+        "Sve su vrste jednake",
+        "Tupi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tupi kut veći je od pravog, a pravi od šiljastog, pa je tupi kut najveći.",
+      "savjet": "Usporedi svaku vrstu kuta s pravim kutom."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-029",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav kut zatvaraju oštrice škara kad su tek malo otvorene.",
+      "ponudeni": [
+        "Pravi kut",
+        "Šiljasti kut",
+        "Ispruženi kut",
+        "Tupi kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad su škare malo otvorene, oštrice su blizu i zatvaraju kut manji od pravog, šiljasti kut.",
+      "savjet": "Usporedi mali otvor škara s uglom lista papira."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-030",
+      "tezina": "lagano",
+      "pitanje": "Odaberi riječ koja nedostaje: „Kut čine vrh i dva …“",
+      "ponudeni": [
+        "kraka",
+        "lika",
+        "kruga",
+        "broja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut čine vrh i dva kraka koji iz njega izlaze.",
+      "savjet": "Sjeti se kako zovemo dvije crte koje izlaze iz vrha kuta."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-031",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koja je vrsta kuta na slici.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Pravi kut",
+        "Tupi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut je okrenut neobično, ali manji je od pravog kuta, pa je šiljasti.",
+      "savjet": "Okreni u mislima sliku tako da jedan krak bude vodoravan, pa usporedi kut s uglom papira.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            7.38,
+            2.54
+          ],
+          "V1": [
+            6.51,
+            7.46
+          ],
+          "V2": [
+            2.62,
+            4.08
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-032",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kakav je kut s vrhom V na slici.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Pravi kut",
+        "Tupi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut je nešto veći od pravog kuta, pa je tupi.",
+      "savjet": "Prisloni u mislima ugao lista papira uz jedan krak i pogledaj gdje je drugi krak.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            5.49,
+            6.67
+          ],
+          "V1": [
+            0.79,
+            4.96
+          ],
+          "V2": [
+            9.21,
+            3.33
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-033",
+      "tezina": "srednje",
+      "pitanje": "Kut na slici nacrtan je ukoso. Odaberi koja je to vrsta kuta.",
+      "ponudeni": [
+        "Tupi kut",
+        "Pravi kut",
+        "Ispruženi kut",
+        "Šiljasti kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iako je kut nagnut, krakovi se poklapaju s rubovima u uglu papira, pa je pravi.",
+      "savjet": "Položaj kuta na slici ne mijenja njegovu veličinu; usporedi ga s uglom papira.",
+      "slika": {
+        "opis": "Kut s vrhom V",
+        "tocke": {
+          "V": [
+            6.77,
+            5
+          ],
+          "V1": [
+            3.23,
+            8.54
+          ],
+          "V2": [
+            3.23,
+            1.46
+          ]
+        },
+        "duzine": [
+          {
+            "od": "V",
+            "do": "V1"
+          },
+          {
+            "od": "V",
+            "do": "V2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "V",
+            "kraci": [
+              "V1",
+              "V2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "V1",
+          "V2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-034",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko je tupih kutova na slici.",
+      "ponudeni": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tupi su kutovi s vrhovima A i C; kut s vrhom B je šiljasti, a kut s vrhom D pravi.",
+      "savjet": "Za svaki kut provjeri je li veći od ugla lista papira.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            2.28,
+            6.55
+          ],
+          "A1": [
+            4.36,
+            6.55
+          ],
+          "A2": [
+            0.94,
+            8.15
+          ],
+          "B": [
+            6.37,
+            6.45
+          ],
+          "B1": [
+            8.33,
+            7.16
+          ],
+          "B2": [
+            7.41,
+            8.25
+          ],
+          "C": [
+            2.6,
+            2.29
+          ],
+          "C1": [
+            4.65,
+            2.66
+          ],
+          "C2": [
+            0.65,
+            3.01
+          ],
+          "D": [
+            7.73,
+            1.75
+          ],
+          "D1": [
+            8.77,
+            3.55
+          ],
+          "D2": [
+            5.93,
+            2.79
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-035",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko je šiljastih kutova na slici.",
+      "ponudeni": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šiljasti su kutovi s vrhovima A, B i D, a kut s vrhom C je pravi.",
+      "savjet": "Za svaki kut provjeri je li manji od ugla lista papira.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            1.09,
+            6.57
+          ],
+          "A1": [
+            4.21,
+            6.57
+          ],
+          "A2": [
+            3.79,
+            8.13
+          ],
+          "B": [
+            8.63,
+            5.79
+          ],
+          "B1": [
+            8.63,
+            8.91
+          ],
+          "B2": [
+            6.07,
+            7.58
+          ],
+          "C": [
+            3.58,
+            4.12
+          ],
+          "C1": [
+            0.65,
+            3.05
+          ],
+          "C2": [
+            4.65,
+            1.18
+          ],
+          "D": [
+            5.84,
+            4
+          ],
+          "D1": [
+            7.4,
+            1.3
+          ],
+          "D2": [
+            8.86,
+            3.19
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-036",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko pravih kutova ima četverokut ABCD na slici.",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravi su kutovi kod vrhova A i D; kut kod vrha B je šiljasti, a kod vrha C tupi.",
+      "savjet": "Kut u svakom vrhu usporedi s uglom lista papira.",
+      "slika": {
+        "opis": "Četverokut ABCD",
+        "tocke": {
+          "A": [
+            1,
+            2.71
+          ],
+          "B": [
+            9,
+            2.71
+          ],
+          "C": [
+            5.57,
+            7.29
+          ],
+          "D": [
+            1,
+            7.29
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-037",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko šiljastih kutova ima trokut ABC na slici.",
+      "ponudeni": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kutovi kod vrhova A i B su šiljasti, a kut kod vrha C je tupi.",
+      "savjet": "Pronađi najprije najveći kut trokuta i odredi njegovu vrstu.",
+      "slika": {
+        "opis": "Trokut ABC",
+        "tocke": {
+          "A": [
+            1,
+            3.85
+          ],
+          "B": [
+            9,
+            3.85
+          ],
+          "C": [
+            5,
+            6.15
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-038",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kod kojeg vrha trokut ABC na slici ima tupi kut.",
+      "ponudeni": [
+        "Kod vrha A",
+        "Kod vrha C",
+        "Kod vrha B",
+        "Trokut nema tupi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kod vrha B stranice su najviše razmaknute i kut je veći od pravog, pa je tupi.",
+      "savjet": "Potraži vrh u kojem su stranice trokuta najviše razmaknute.",
+      "slika": {
+        "opis": "Trokut ABC",
+        "tocke": {
+          "A": [
+            1,
+            2.87
+          ],
+          "B": [
+            6.34,
+            2.87
+          ],
+          "C": [
+            9,
+            7.13
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-039",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koji je od nacrtanih kutova najveći.",
+      "ponudeni": [
+        "Kut s vrhom C",
+        "Kut s vrhom B",
+        "Kut s vrhom A",
+        "Kut s vrhom D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krakovi kuta s vrhom C najviše su razmaknuti, pa je on najveći.",
+      "savjet": "Usporedi najprije kutove koji su veći od ugla lista papira.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            2.19,
+            6.47
+          ],
+          "A1": [
+            4.34,
+            6.47
+          ],
+          "A2": [
+            0.96,
+            8.23
+          ],
+          "B": [
+            6.28,
+            6.28
+          ],
+          "B1": [
+            8.42,
+            6.28
+          ],
+          "B2": [
+            6.28,
+            8.42
+          ],
+          "C": [
+            2.51,
+            2.11
+          ],
+          "C1": [
+            4.65,
+            2.11
+          ],
+          "C2": [
+            0.65,
+            3.19
+          ],
+          "D": [
+            6.42,
+            1.58
+          ],
+          "D1": [
+            8.28,
+            2.65
+          ],
+          "D2": [
+            6.42,
+            3.72
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-040",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o kutovima na slici.",
+      "ponudeni": [
+        "Veći je kut s vrhom B jer ima dulje krakove.",
+        "Kutovi su jednaki.",
+        "Veći je kut s vrhom A.",
+        "Kutovi se ne mogu usporediti."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Veličina kuta ovisi o razmaku krakova, a ne o njihovoj duljini; kut A je tupi, a kut B šiljasti.",
+      "savjet": "Duljina krakova nije važna; gledaj koliko su krakovi razmaknuti.",
+      "slika": {
+        "opis": "Dva kuta s vrhovima A i B, krakovi kuta B dulji su",
+        "tocke": {
+          "A": [
+            2.29,
+            4.38
+          ],
+          "A1": [
+            3.73,
+            4.38
+          ],
+          "A2": [
+            1.57,
+            5.62
+          ],
+          "B": [
+            5.43,
+            3.34
+          ],
+          "B1": [
+            9.27,
+            3.34
+          ],
+          "B2": [
+            7.35,
+            6.66
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-041",
+      "tezina": "srednje",
+      "pitanje": "Četverokut ABCD na slici nacrtan je ukoso. Odaberi koliko ima pravih kutova.",
+      "ponudeni": [
+        "0",
+        "4",
+        "2",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iako je lik okrenut, kut u svakom vrhu jednak je uglu papira, pa ima 4 prava kuta.",
+      "savjet": "Okreni u mislima sliku tako da jedna stranica bude vodoravna.",
+      "slika": {
+        "opis": "Četverokut ABCD okrenut na vrh",
+        "tocke": {
+          "A": [
+            5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            5
+          ],
+          "C": [
+            5,
+            8.5
+          ],
+          "D": [
+            1.5,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-042",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o kutovima četverokuta ABCD na slici.",
+      "ponudeni": [
+        "Ima četiri prava kuta.",
+        "Ima tri šiljasta i jedan tupi kut.",
+        "Ima jedan pravi i tri tupa kuta.",
+        "Ima dva šiljasta i dva tupa kuta."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kutovi kod vrhova A i C su šiljasti, a kutovi kod vrhova B i D tupi.",
+      "savjet": "Za svaki vrh odredi je li kut manji ili veći od ugla lista papira.",
+      "slika": {
+        "opis": "Četverokut ABCD",
+        "tocke": {
+          "A": [
+            1,
+            3.27
+          ],
+          "B": [
+            7,
+            3.27
+          ],
+          "C": [
+            9,
+            6.73
+          ],
+          "D": [
+            3,
+            6.73
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-043",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koji je od nacrtanih kutova pravi.",
+      "ponudeni": [
+        "Kut s vrhom A",
+        "Kut s vrhom B",
+        "Kut s vrhom C",
+        "Kut s vrhom D"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut s vrhom B jednak je uglu lista papira; kut A malo je veći, a kut C malo manji od pravog.",
+      "savjet": "Neki su kutovi vrlo blizu pravom kutu; usporedi ih pažljivo s uglom papira.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            2.63,
+            6.73
+          ],
+          "A1": [
+            4.65,
+            7.9
+          ],
+          "A2": [
+            0.65,
+            7.97
+          ],
+          "B": [
+            7.78,
+            6.34
+          ],
+          "B1": [
+            8.94,
+            8.36
+          ],
+          "B2": [
+            5.76,
+            7.51
+          ],
+          "C": [
+            1.5,
+            1.54
+          ],
+          "C1": [
+            3.8,
+            1.95
+          ],
+          "C2": [
+            2.22,
+            3.76
+          ],
+          "D": [
+            8.45,
+            2.47
+          ],
+          "D1": [
+            6.43,
+            3.63
+          ],
+          "D2": [
+            6.25,
+            1.67
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-044",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko tupih kutova ima četverokut ABCD na slici.",
+      "ponudeni": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tupi su kutovi kod vrhova B i D; kod vrha A je pravi, a kod vrha C šiljasti kut.",
+      "savjet": "Kut u svakom vrhu usporedi s uglom lista papira i prebroji one koji su veći.",
+      "slika": {
+        "opis": "Četverokut ABCD",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            4.38,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            4.38
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-045",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koji je od nacrtanih kutova najmanji.",
+      "ponudeni": [
+        "Kut s vrhom A",
+        "Kut s vrhom B",
+        "Kut s vrhom C",
+        "Kut s vrhom D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi kuta s vrhom D najmanje su razmaknuti, pa je on najmanji.",
+      "savjet": "Usporedi najprije kutove koji su manji od ugla lista papira.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            1.43,
+            6.42
+          ],
+          "A1": [
+            3.87,
+            6.42
+          ],
+          "A2": [
+            3,
+            8.28
+          ],
+          "B": [
+            6.13,
+            6.13
+          ],
+          "B1": [
+            8.57,
+            6.13
+          ],
+          "B2": [
+            6.13,
+            8.57
+          ],
+          "C": [
+            2.22,
+            1.72
+          ],
+          "C1": [
+            4.65,
+            1.72
+          ],
+          "C2": [
+            0.65,
+            3.58
+          ],
+          "D": [
+            8.49,
+            3.58
+          ],
+          "D1": [
+            6.21,
+            2.75
+          ],
+          "D2": [
+            6.93,
+            1.72
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-046",
+      "tezina": "srednje",
+      "pitanje": "Dva kuta na slici jednake su veličine. Odaberi koja su to dva kuta.",
+      "ponudeni": [
+        "Kutovi s vrhovima A i D",
+        "Kutovi s vrhovima B i C",
+        "Kutovi s vrhovima A i B",
+        "Kutovi s vrhovima C i D"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kutovi s vrhovima A i B jednako su otvoreni; samo su različito okrenuti i krakovi su im različite duljine.",
+      "savjet": "Ne gledaj duljinu krakova ni položaj kuta, nego samo razmak krakova.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            1.47,
+            6.51
+          ],
+          "A1": [
+            3.83,
+            6.51
+          ],
+          "A2": [
+            3.14,
+            8.19
+          ],
+          "B": [
+            7.41,
+            6.68
+          ],
+          "B1": [
+            7.89,
+            8.02
+          ],
+          "B2": [
+            6.81,
+            7.97
+          ],
+          "C": [
+            2.32,
+            1.81
+          ],
+          "C1": [
+            4.65,
+            2.22
+          ],
+          "C2": [
+            0.65,
+            3.49
+          ],
+          "D": [
+            8.46,
+            3.83
+          ],
+          "D1": [
+            6.24,
+            3.02
+          ],
+          "D2": [
+            8.25,
+            1.47
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-047",
+      "tezina": "srednje",
+      "pitanje": "Sat pokazuje točno 4 sata. Odaberi kakav kut zatvaraju kazaljke.",
+      "ponudeni": [
+        "Tupi kut",
+        "Šiljasti kut",
+        "Pravi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U 4 sata mala kazaljka prešla je broj 3, pa je kut veći od pravog: tupi kut.",
+      "savjet": "Sjeti se kakav kut kazaljke zatvaraju u 3 sata, pa zamisli da se mala kazaljka pomakne dalje."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-048",
+      "tezina": "srednje",
+      "pitanje": "Odaberi u koje vrijeme kazaljke sata zatvaraju šiljasti kut.",
+      "ponudeni": [
+        "U 3 sata",
+        "U 4 sata",
+        "U 2 sata",
+        "U 9 sati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U 2 sata kazaljke su blizu jedna drugoj i zatvaraju kut manji od pravog.",
+      "savjet": "Zamisli brojčanik i potraži vrijeme kad su kazaljke najbliže jedna drugoj."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-049",
+      "tezina": "srednje",
+      "pitanje": "Odaberi u koje vrijeme kazaljke sata zatvaraju pravi kut.",
+      "ponudeni": [
+        "U 2 sata",
+        "U 9 sati",
+        "U 11 sati",
+        "U 5 sati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U 9 sati velika kazaljka je na 12, a mala na 9, pa zatvaraju pravi kut.",
+      "savjet": "Zamisli kazaljke koje stoje kao rubovi u uglu lista papira."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-050",
+      "tezina": "srednje",
+      "pitanje": "Lana provjerava kut dvaput preklopljenim papirom. Vrh i jedan krak poklopi s papirom, a drugi krak ostane ispod papira. Odaberi kakav je kut.",
+      "ponudeni": [
+        "Pravi kut",
+        "Tupi kut",
+        "Ispruženi kut",
+        "Šiljasti kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Drugi krak skriven je ispod papirnatog pravog kuta, pa je kut manji od pravog, odnosno šiljasti.",
+      "savjet": "Razmisli je li kut manji ili veći od pravog kuta koji čini preklopljeni papir."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-051",
+      "tezina": "srednje",
+      "pitanje": "Luka stavi geotrokut na kut tako da se vrh pravog kuta geotrokuta poklopi s vrhom kuta, a jedan rub s jednim krakom. Drugi krak ostane izvan geotrokuta. Odaberi kakav je kut.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Tupi kut",
+        "Ispruženi kut",
+        "Pravi kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Drugi krak prelazi preko ruba geotrokuta, pa je kut veći od pravog, odnosno tupi.",
+      "savjet": "Razmisli je li kut veći ili manji od pravog kuta geotrokuta."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-052",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kakav kut zatvaraju vrata i prag kad su vrata tek malo otvorena.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Tupi kut",
+        "Pravi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad su vrata tek malo otvorena, između vrata i praga nastaje uski otvor, pa je kut šiljasti.",
+      "savjet": "Zamisli kako se vrata polako otvaraju od zatvorenog položaja."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-053",
+      "tezina": "srednje",
+      "pitanje": "Knjiga leži otvorena na stolu, a korice su joj gotovo ravne, ali ne sasvim. Odaberi kakav kut zatvaraju korice.",
+      "ponudeni": [
+        "Pravi kut",
+        "Šiljasti kut",
+        "Ispruženi kut",
+        "Tupi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Korice su razmaknute više od pravog kuta, ali ne leže na istom pravcu, pa zatvaraju tupi kut.",
+      "savjet": "Kad bi korice bile sasvim ravne, bio bi to ispruženi kut; razmisli kakav je kut malo manji od njega."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-054",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o vrstama kutova.",
+      "ponudeni": [
+        "Svaki šiljasti kut veći je od pravog kuta.",
+        "Dva prava kuta mogu biti različite veličine.",
+        "Svaki tupi kut veći je od pravog kuta.",
+        "Tupi kut manji je od šiljastog kuta."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tupi kut veći je od pravog, a svi pravi kutovi jednake su veličine.",
+      "savjet": "Prisjeti se kako se svaka vrsta kuta uspoređuje s pravim kutom."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-055",
+      "tezina": "srednje",
+      "pitanje": "Odaberi u kojem primjeru nastaje tupi kut.",
+      "ponudeni": [
+        "Kazaljke sata u 5 sati",
+        "Kazaljke sata u 1 sat",
+        "Rubovi u uglu bilježnice",
+        "Kazaljke sata u 3 sata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U 5 sati kazaljke su razmaknute više nego u 3 sata, pa zatvaraju tupi kut.",
+      "savjet": "Za svaki primjer usporedi kut s uglom lista papira."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-056",
+      "tezina": "srednje",
+      "pitanje": "Ana je nacrtala šiljasti kut, Ivo pravi kut, a Maja tupi kut. Odaberi tko je nacrtao najveći kut.",
+      "ponudeni": [
+        "Ana",
+        "Ivo",
+        "Maja",
+        "Svi su kutovi jednaki"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tupi kut veći je od pravog i od šiljastog, pa je Majin kut najveći.",
+      "savjet": "Poredaj šiljasti, pravi i tupi kut po veličini."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-057",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kako su vrste kutova poredane od najmanjeg prema najvećem.",
+      "ponudeni": [
+        "Pravi, šiljasti, tupi",
+        "Šiljasti, pravi, tupi",
+        "Šiljasti, tupi, pravi",
+        "Tupi, pravi, šiljasti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šiljasti kut manji je od pravog, a tupi je veći od pravog.",
+      "savjet": "Svaku vrstu kuta usporedi s pravim kutom."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-058",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kakav kut zatvaraju kazaljke sata u 10 sati.",
+      "ponudeni": [
+        "Pravi kut",
+        "Tupi kut",
+        "Ispruženi kut",
+        "Šiljasti kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U 10 sati mala kazaljka je na 10, blizu velike na 12, pa je kut između njih šiljasti.",
+      "savjet": "Pogledaj koliko je broj 10 na brojčaniku udaljen od broja 12."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-059",
+      "tezina": "srednje",
+      "pitanje": "Ema tvrdi da je njezin kut tupi samo zato što ima dugačke krakove. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Ema je u pravu jer dulji krakovi daju veći kut.",
+        "Ema nije u pravu jer veličina kuta ne ovisi o duljini krakova.",
+        "Ema je u pravu jer tupi kutovi imaju najdulje krakove.",
+        "Ema nije u pravu jer dugi krakovi daju šiljasti kut."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrsta kuta ovisi samo o razmaku krakova; kad se krakovi produlje, kut ostaje isti.",
+      "savjet": "Zamisli da produljiš krakove nekog kuta: mijenja li se njihov razmak?"
+    },
+    {
+      "id": "4-matematika-vrste-kutova-060",
+      "tezina": "srednje",
+      "pitanje": "Stol stoji uspravno na ravnom podu. Odaberi kakav kut zatvaraju noga stola i pod.",
+      "ponudeni": [
+        "Pravi kut",
+        "Šiljasti kut",
+        "Tupi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uspravna noga stola i ravan pod zatvaraju pravi kut, kao rubovi u uglu papira.",
+      "savjet": "Zamisli da uz nogu stola na pod prisloniš ugao lista papira."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-061",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koje kutove ima trokut ABC na slici.",
+      "ponudeni": [
+        "Jedan pravi i dva šiljasta kuta",
+        "Jedan tupi i dva šiljasta kuta",
+        "Tri šiljasta kuta",
+        "Dva prava i jedan šiljasti kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kod vrha C je pravi kut, a kutovi kod vrhova A i B su šiljasti.",
+      "savjet": "Trokut je okrenut ukoso; kut u svakom vrhu usporedi s uglom lista papira.",
+      "slika": {
+        "opis": "Trokut ABC",
+        "tocke": {
+          "A": [
+            1,
+            1.87
+          ],
+          "B": [
+            9,
+            5.6
+          ],
+          "C": [
+            4.62,
+            8.13
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-062",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko šiljastih kutova ima četverokut ABCD na slici.",
+      "ponudeni": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Šiljasti su kutovi kod vrhova B i C; kod vrha A je pravi, a kod vrha D tupi kut.",
+      "savjet": "Kut u svakom vrhu usporedi s uglom lista papira, pa prebroji manje kutove.",
+      "slika": {
+        "opis": "Četverokut ABCD",
+        "tocke": {
+          "A": [
+            1.42,
+            1
+          ],
+          "B": [
+            8.58,
+            1
+          ],
+          "C": [
+            3.97,
+            9
+          ],
+          "D": [
+            1.42,
+            4.58
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-063",
+      "tezina": "tesko",
+      "pitanje": "Na slici su pravokutnik ABCD i trokut EFG. Odaberi koliko pravih kutova imaju zajedno.",
+      "ponudeni": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik ima 4 prava kuta, a trokut jedan, kod vrha E, pa ih je ukupno 5.",
+      "savjet": "Prebroji najprije prave kutove u pravokutniku, a zatim u trokutu.",
+      "slika": {
+        "opis": "Pravokutnik ABCD i trokut EFG",
+        "tocke": {
+          "A": [
+            0.5,
+            2
+          ],
+          "B": [
+            4.5,
+            2
+          ],
+          "C": [
+            4.5,
+            7
+          ],
+          "D": [
+            0.5,
+            7
+          ],
+          "E": [
+            5.5,
+            2
+          ],
+          "F": [
+            9.5,
+            2
+          ],
+          "G": [
+            5.5,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          },
+          {
+            "vrh": "E"
+          },
+          {
+            "vrh": "F"
+          },
+          {
+            "vrh": "G"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-064",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o kutovima na slici.",
+      "ponudeni": [
+        "Kut s vrhom A veći je od kuta s vrhom C.",
+        "Kut s vrhom D manji je od kuta s vrhom C.",
+        "Kut s vrhom C veći je od kuta s vrhom B.",
+        "Kut s vrhom B veći je od kuta s vrhom D."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kutovi s vrhovima B i D su tupi, ali krakovi kuta B više su razmaknuti, pa je on veći.",
+      "savjet": "Odredi najprije vrstu svakog kuta, a zatim usporedi kutove iste vrste.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            1.52,
+            6.42
+          ],
+          "A1": [
+            3.78,
+            6.42
+          ],
+          "A2": [
+            2.82,
+            8.28
+          ],
+          "B": [
+            7.09,
+            6.62
+          ],
+          "B1": [
+            9.35,
+            6.62
+          ],
+          "B2": [
+            5.35,
+            8.08
+          ],
+          "C": [
+            2.24,
+            1.67
+          ],
+          "C1": [
+            4.2,
+            2.8
+          ],
+          "C2": [
+            1.1,
+            3.63
+          ],
+          "D": [
+            7.55,
+            3.38
+          ],
+          "D1": [
+            5.42,
+            2.6
+          ],
+          "D2": [
+            9.28,
+            1.92
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-065",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko je na slici kutova većih od pravog kuta.",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od pravog kuta veći su tupi kutovi s vrhovima B, D i F; kut C je pravi, pa nije veći od pravog.",
+      "savjet": "Pazi: kut koji je jednak pravom kutu nije veći od njega.",
+      "slika": {
+        "opis": "Šest kutova s vrhovima A, B, C, D, E i F",
+        "tocke": {
+          "A": [
+            1.23,
+            6.94
+          ],
+          "A1": [
+            3.26,
+            6.94
+          ],
+          "A2": [
+            2.78,
+            8.25
+          ],
+          "B": [
+            4.77,
+            6.87
+          ],
+          "B1": [
+            6.8,
+            6.87
+          ],
+          "B2": [
+            3.47,
+            8.41
+          ],
+          "C": [
+            8.13,
+            6.9
+          ],
+          "C1": [
+            9.57,
+            8.34
+          ],
+          "C2": [
+            6.71,
+            8.34
+          ],
+          "D": [
+            1.53,
+            2.09
+          ],
+          "D1": [
+            3.56,
+            2.09
+          ],
+          "D2": [
+            0.59,
+            3.88
+          ],
+          "E": [
+            5.59,
+            2.03
+          ],
+          "E1": [
+            5.24,
+            4.01
+          ],
+          "E2": [
+            3.7,
+            2.72
+          ],
+          "F": [
+            8.1,
+            2.43
+          ],
+          "F1": [
+            9.7,
+            2.71
+          ],
+          "F2": [
+            6.21,
+            3.13
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          },
+          {
+            "od": "E",
+            "do": "E1"
+          },
+          {
+            "od": "E",
+            "do": "E2"
+          },
+          {
+            "od": "F",
+            "do": "F1"
+          },
+          {
+            "od": "F",
+            "do": "F2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          },
+          {
+            "vrh": "E",
+            "kraci": [
+              "E1",
+              "E2"
+            ]
+          },
+          {
+            "vrh": "F",
+            "kraci": [
+              "F1",
+              "F2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2",
+          "E1",
+          "E2",
+          "F1",
+          "F2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-066",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koji je kut na slici jednak kutu s vrhom A.",
+      "ponudeni": [
+        "Kut s vrhom D",
+        "Kut s vrhom C",
+        "Kut s vrhom B",
+        "Kut s vrhom E"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kutovi s vrhovima A i D oba su prava; samo su različito okrenuti i krakovi su im različite duljine.",
+      "savjet": "Odredi najprije vrstu kuta s vrhom A, a zatim potraži kut iste vrste.",
+      "slika": {
+        "opis": "Pet kutova s vrhovima A, B, C, D i E",
+        "tocke": {
+          "A": [
+            1.58,
+            6.89
+          ],
+          "A1": [
+            3.04,
+            7.43
+          ],
+          "A2": [
+            1.04,
+            8.36
+          ],
+          "B": [
+            4.59,
+            6.65
+          ],
+          "B1": [
+            7.2,
+            6.65
+          ],
+          "B2": [
+            3.29,
+            8.89
+          ],
+          "C": [
+            8.61,
+            6.55
+          ],
+          "C1": [
+            9.07,
+            9.11
+          ],
+          "C2": [
+            6.63,
+            8.21
+          ],
+          "D": [
+            2.35,
+            3.41
+          ],
+          "D1": [
+            0.3,
+            2.67
+          ],
+          "D2": [
+            3.25,
+            0.98
+          ],
+          "E": [
+            4.19,
+            2.08
+          ],
+          "E1": [
+            6.78,
+            2.08
+          ],
+          "E2": [
+            6.03,
+            3.9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          },
+          {
+            "od": "E",
+            "do": "E1"
+          },
+          {
+            "od": "E",
+            "do": "E2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          },
+          {
+            "vrh": "E",
+            "kraci": [
+              "E1",
+              "E2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2",
+          "E1",
+          "E2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-067",
+      "tezina": "tesko",
+      "pitanje": "Sat na slici pokazuje 2 sata. Odaberi kakav će kut kazaljke zatvarati točno dva sata kasnije.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Pravi kut",
+        "Ispruženi kut",
+        "Tupi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dva sata kasnije bit će 4 sata; mala kazaljka tada je iza broja 3, pa je kut tupi.",
+      "savjet": "Odredi najprije koliko će tada biti sati, a zatim zamisli novi položaj male kazaljke.",
+      "slika": {
+        "opis": "Sat s kazaljkama koje pokazuju 2 sata",
+        "tocke": {
+          "3": [
+            8,
+            5
+          ],
+          "6": [
+            5,
+            2
+          ],
+          "9": [
+            2,
+            5
+          ],
+          "12": [
+            5,
+            8
+          ],
+          "S": [
+            5,
+            5
+          ],
+          "M": [
+            5,
+            7.6
+          ],
+          "H": [
+            6.56,
+            5.9
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "duzine": [
+          {
+            "od": "S",
+            "do": "M"
+          },
+          {
+            "od": "S",
+            "do": "H"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "S",
+            "kraci": [
+              "M",
+              "H"
+            ]
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ],
+        "skrivenaImena": [
+          "S",
+          "M",
+          "H"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-068",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD presječen je dužinom AC na dva trokuta. Odaberi koliko šiljastih kutova ima trokut ABC.",
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kod vrha B ostao je pravi kut pravokutnika, a kutove kod vrhova A i C dužina je podijelila, pa su manji od pravog.",
+      "savjet": "Kut kod vrha B ostao je cijeli, a kutove kod vrhova A i C dužina AC dijeli na dva dijela.",
+      "slika": {
+        "opis": "Pravokutnik ABCD s dužinom AC; označeni su kutovi trokuta ABC",
+        "tocke": {
+          "A": [
+            1,
+            2.5
+          ],
+          "B": [
+            9,
+            2.5
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "C"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "B",
+              "C"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "A",
+              "C"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "A",
+              "B"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-069",
+      "tezina": "tesko",
+      "pitanje": "Odaberi kod kojih vrhova četverokut ABCD na slici ima tupe kutove.",
+      "ponudeni": [
+        "Kod vrhova B i D",
+        "Kod vrhova A i C",
+        "Kod vrhova A i B",
+        "Kod vrhova C i D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kod vrhova B i D kutovi su veći od pravog, pa su tupi; kod vrhova A i C kutovi su šiljasti.",
+      "savjet": "Za svaki vrh odredi je li kut manji ili veći od ugla lista papira.",
+      "slika": {
+        "opis": "Četverokut ABCD",
+        "tocke": {
+          "A": [
+            1,
+            2.71
+          ],
+          "B": [
+            5.78,
+            2.71
+          ],
+          "C": [
+            9,
+            6.55
+          ],
+          "D": [
+            4.84,
+            7.29
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-070",
+      "tezina": "tesko",
+      "pitanje": "Kazaljke sata na slici zatvaraju neki kut. Odaberi u koje vrijeme kazaljke zatvaraju kut iste vrste.",
+      "ponudeni": [
+        "U 3 sata",
+        "U 1 sat",
+        "U 4 sata",
+        "U 10 sati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na slici je 5 sati i kazaljke zatvaraju tupi kut; tupi kut zatvaraju i u 4 sata.",
+      "savjet": "Odredi najprije vrstu kuta na slici, a zatim zamisli kazaljke u svako ponuđeno vrijeme.",
+      "slika": {
+        "opis": "Sat s kazaljkama koje pokazuju 5 sati",
+        "tocke": {
+          "3": [
+            8,
+            5
+          ],
+          "6": [
+            5,
+            2
+          ],
+          "9": [
+            2,
+            5
+          ],
+          "12": [
+            5,
+            8
+          ],
+          "S": [
+            5,
+            5
+          ],
+          "M": [
+            5,
+            7.6
+          ],
+          "H": [
+            5.9,
+            3.44
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "duzine": [
+          {
+            "od": "S",
+            "do": "M"
+          },
+          {
+            "od": "S",
+            "do": "H"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "S",
+            "kraci": [
+              "M",
+              "H"
+            ]
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ],
+        "skrivenaImena": [
+          "S",
+          "M",
+          "H"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-071",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko je nacrtanih kutova manjih od kuta s vrhom C.",
+      "ponudeni": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut s vrhom C je pravi; od njega su manji šiljasti kutovi s vrhovima A i D.",
+      "savjet": "Odredi vrstu kuta s vrhom C, a zatim ostale kutove usporedi s njim.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            1.43,
+            6.49
+          ],
+          "A1": [
+            3.87,
+            6.49
+          ],
+          "A2": [
+            3.15,
+            8.21
+          ],
+          "B": [
+            6.92,
+            6.42
+          ],
+          "B1": [
+            9.35,
+            6.42
+          ],
+          "B2": [
+            5.35,
+            8.28
+          ],
+          "C": [
+            3.87,
+            1.43
+          ],
+          "C1": [
+            3.87,
+            3.87
+          ],
+          "C2": [
+            1.43,
+            1.43
+          ],
+          "D": [
+            6.3,
+            1.43
+          ],
+          "D1": [
+            8.4,
+            2.65
+          ],
+          "D2": [
+            6.3,
+            3.87
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-072",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o četverokutima ABCD i EFGH na slici.",
+      "ponudeni": [
+        "Oba četverokuta imaju po četiri prava kuta.",
+        "EFGH ima dva prava i dva tupa kuta.",
+        "ABCD ima dva šiljasta i dva tupa kuta.",
+        "ABCD ima četiri prava kuta, a EFGH nijedan."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Četverokut ABCD ima četiri prava kuta, a EFGH ima dva šiljasta i dva tupa kuta.",
+      "savjet": "Pregledaj kutove svakog četverokuta posebno i odredi vrstu svakog kuta.",
+      "slika": {
+        "opis": "Četverokuti ABCD i EFGH",
+        "tocke": {
+          "A": [
+            0.5,
+            3
+          ],
+          "B": [
+            4,
+            3
+          ],
+          "C": [
+            4,
+            6
+          ],
+          "D": [
+            0.5,
+            6
+          ],
+          "E": [
+            5.2,
+            3
+          ],
+          "F": [
+            7.9,
+            3
+          ],
+          "G": [
+            9.6,
+            5.94
+          ],
+          "H": [
+            6.9,
+            5.94
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          },
+          {
+            "vrh": "D"
+          },
+          {
+            "vrh": "E"
+          },
+          {
+            "vrh": "F"
+          },
+          {
+            "vrh": "G"
+          },
+          {
+            "vrh": "H"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-073",
+      "tezina": "tesko",
+      "pitanje": "Odaberi kako su kutovi na slici poredani od najmanjeg do najvećeg.",
+      "ponudeni": [
+        "D, B, A, C",
+        "B, D, A, C",
+        "B, D, C, A",
+        "C, A, D, B"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najmanji je šiljasti kut B, zatim malo veći šiljasti kut D, pa pravi kut A i na kraju tupi kut C.",
+      "savjet": "Najprije odredi vrstu svakog kuta, a zatim usporedi dva kuta iste vrste.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            1.55,
+            6.25
+          ],
+          "A1": [
+            3.75,
+            6.25
+          ],
+          "A2": [
+            1.55,
+            8.45
+          ],
+          "B": [
+            6.51,
+            6.29
+          ],
+          "B1": [
+            8.19,
+            7.7
+          ],
+          "B2": [
+            7.08,
+            8.41
+          ],
+          "C": [
+            2.45,
+            2.02
+          ],
+          "C1": [
+            4.65,
+            2.02
+          ],
+          "C2": [
+            0.65,
+            3.28
+          ],
+          "D": [
+            8.45,
+            1.7
+          ],
+          "D1": [
+            7.35,
+            3.6
+          ],
+          "D2": [
+            6.25,
+            1.7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-074",
+      "tezina": "tesko",
+      "pitanje": "Odaberi kod kojeg vrha trokut ABC na slici ima pravi kut.",
+      "ponudeni": [
+        "Kod vrha A",
+        "Kod vrha B",
+        "Kod vrha C",
+        "Trokut nema pravi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kod vrha A stranice trokuta zatvaraju kut jednak uglu lista papira, pa je to pravi kut.",
+      "savjet": "Trokut je okrenut; okreni u mislima sliku i usporedi svaki kut s uglom papira.",
+      "slika": {
+        "opis": "Trokut ABC",
+        "tocke": {
+          "A": [
+            8.32,
+            6.58
+          ],
+          "B": [
+            1.68,
+            9
+          ],
+          "C": [
+            6.29,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A"
+          },
+          {
+            "vrh": "B"
+          },
+          {
+            "vrh": "C"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-075",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koja su dva kuta na slici iste vrste.",
+      "ponudeni": [
+        "Kutovi s vrhovima A i B",
+        "Kutovi s vrhovima B i C",
+        "Kutovi s vrhovima C i D",
+        "Kutovi s vrhovima A i D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kutovi s vrhovima A i D oba su veći od pravog kuta, pa su oba tupa.",
+      "savjet": "Za svaki kut odredi je li šiljasti, pravi ili tupi.",
+      "slika": {
+        "opis": "Četiri kuta s vrhovima A, B, C i D",
+        "tocke": {
+          "A": [
+            2.65,
+            6.81
+          ],
+          "A1": [
+            4.51,
+            7.89
+          ],
+          "A2": [
+            0.79,
+            7.89
+          ],
+          "B": [
+            6.28,
+            6.53
+          ],
+          "B1": [
+            8.42,
+            6.53
+          ],
+          "B2": [
+            7.66,
+            8.17
+          ],
+          "C": [
+            3.66,
+            2.01
+          ],
+          "C1": [
+            2.92,
+            4.02
+          ],
+          "C2": [
+            1.64,
+            1.28
+          ],
+          "D": [
+            7.21,
+            2.11
+          ],
+          "D1": [
+            9.35,
+            2.11
+          ],
+          "D2": [
+            5.35,
+            3.19
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "A1"
+          },
+          {
+            "od": "A",
+            "do": "A2"
+          },
+          {
+            "od": "B",
+            "do": "B1"
+          },
+          {
+            "od": "B",
+            "do": "B2"
+          },
+          {
+            "od": "C",
+            "do": "C1"
+          },
+          {
+            "od": "C",
+            "do": "C2"
+          },
+          {
+            "od": "D",
+            "do": "D1"
+          },
+          {
+            "od": "D",
+            "do": "D2"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "kraci": [
+              "A1",
+              "A2"
+            ]
+          },
+          {
+            "vrh": "B",
+            "kraci": [
+              "B1",
+              "B2"
+            ]
+          },
+          {
+            "vrh": "C",
+            "kraci": [
+              "C1",
+              "C2"
+            ]
+          },
+          {
+            "vrh": "D",
+            "kraci": [
+              "D1",
+              "D2"
+            ]
+          }
+        ],
+        "skrivenaImena": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "D1",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-kutova-076",
+      "tezina": "tesko",
+      "pitanje": "Tupi kut podijeljen je na dva jednaka dijela. Odaberi kakav je svaki od dobivenih kutova.",
+      "ponudeni": [
+        "Tupi kut",
+        "Pravi kut",
+        "Šiljasti kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tupi kut manji je od dva prava kuta zajedno, pa je svaka njegova polovina manja od pravog kuta: to je šiljasti kut.",
+      "savjet": "Ispruženi kut čine dva prava kuta; razmisli kolika je polovina kuta koji je manji od ispruženog."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-077",
+      "tezina": "tesko",
+      "pitanje": "Uz pravi kut nacrtan je šiljasti kut tako da imaju zajednički vrh i jedan zajednički krak, a ne preklapaju se. Odaberi kakav kut zatvaraju druga dva kraka.",
+      "ponudeni": [
+        "Tupi kut",
+        "Pravi kut",
+        "Ispruženi kut",
+        "Šiljasti kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Novi kut sastoji se od pravog kuta i još jednog dijela, pa je veći od pravog, a manji od ispruženog: tupi kut.",
+      "savjet": "Razmisli je li novi kut veći ili manji od pravog kuta i je li manji od ispruženog."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-078",
+      "tezina": "tesko",
+      "pitanje": "Odaberi u koje vrijeme kazaljke sata zatvaraju najveći kut.",
+      "ponudeni": [
+        "U 1 sat",
+        "U 3 sata",
+        "U 5 sati",
+        "U 4 sata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U 5 sati mala kazaljka najdalje je od velike kazaljke na 12, pa je kut najveći.",
+      "savjet": "Zamisli brojčanik: što je mala kazaljka dalje od broja 12, to je kut između kazaljki veći."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-079",
+      "tezina": "tesko",
+      "pitanje": "U 3 sata kazaljke zatvaraju pravi kut. Odaberi u koje još vrijeme kazaljke zatvaraju jednako velik kut.",
+      "ponudeni": [
+        "U 4 sata",
+        "U 9 sati",
+        "U 8 sati",
+        "U 1 sat"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U 9 sati mala kazaljka jednako je udaljena od broja 12 kao u 3 sata, samo s druge strane.",
+      "savjet": "Velika kazaljka je na 12; potraži broj koji je od 12 udaljen jednako kao broj 3."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-080",
+      "tezina": "tesko",
+      "pitanje": "Ivan kaže: „Svaki kut manji od tupog kuta je šiljasti.“ Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Ivan je u pravu jer su svi mali kutovi šiljasti.",
+        "Ivan nije u pravu jer je šiljasti kut veći od tupog kuta.",
+        "Ivan je u pravu jer je pravi kut veći od tupog kuta.",
+        "Ivan nije u pravu jer je i pravi kut manji od tupog kuta."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravi kut manji je od tupog kuta, a nije šiljasti, pa Ivanova tvrdnja nije točna.",
+      "savjet": "Prisjeti se koje su sve vrste kutova manje od tupog kuta."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-081",
+      "tezina": "tesko",
+      "pitanje": "Ana otvara škare. Kad oštrice zatvore pravi kut, otvori ih još malo, ali tako da oštrice ne leže na istom pravcu. Odaberi kakav je sada kut između oštrica.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Tupi kut",
+        "Pravi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut je postao veći od pravog, a manji od ispruženog, pa je tupi.",
+      "savjet": "Razmisli postaje li kut veći ili manji kad se škare više otvore."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-082",
+      "tezina": "tesko",
+      "pitanje": "Vrata su otvorena tako da s pragom zatvaraju pravi kut. Marko ih malo pritvori, ali ne do kraja. Odaberi kakav kut sada zatvaraju vrata i prag.",
+      "ponudeni": [
+        "Šiljasti kut",
+        "Pravi kut",
+        "Tupi kut",
+        "Ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pritvaranjem se kut između vrata i praga smanjio, pa je sada manji od pravog: šiljasti kut.",
+      "savjet": "Razmisli postaje li kut veći ili manji kad se vrata pritvaraju."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-083",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat je ravnim rezom razrezan na dva jednaka pravokutnika. Odaberi koliko pravih kutova ima jedan takav pravokutnik.",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svaki pravokutnik ima četiri prava kuta, pa ih ima i svaki dobiveni dio.",
+      "savjet": "Razmisli kakve kutove ima svaki pravokutnik, bez obzira na to kako je nastao."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-084",
+      "tezina": "tesko",
+      "pitanje": "Odaberi kako se dvaput preklopljenim papirom prepoznaje šiljasti kut.",
+      "ponudeni": [
+        "Krakovi kuta točno se poklope s rubovima papira.",
+        "Kad se vrh i jedan krak poklope s papirom, drugi krak ostane izvan papira.",
+        "Kad se vrh i jedan krak poklope s papirom, drugi krak ostane ispod papira.",
+        "Krakovi kuta kraći su od rubova papira."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Šiljasti kut manji je od pravog, pa se njegov drugi krak skrije ispod papirnatog pravog kuta.",
+      "savjet": "Preklopljeni papir ima pravi kut; razmisli gdje završi drugi krak manjeg kuta."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-085",
+      "tezina": "tesko",
+      "pitanje": "Odaberi vrijeme u kojem kazaljke zatvaraju kut manji od kuta koji zatvaraju u 3 sata.",
+      "ponudeni": [
+        "U 11 sati",
+        "U 9 sati",
+        "U 4 sata",
+        "U 5 sati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U 3 sata kazaljke zatvaraju pravi kut, a u 11 sati su vrlo blizu, pa je kut šiljasti, dakle manji.",
+      "savjet": "Odredi najprije vrstu kuta u 3 sata, a zatim potraži vrijeme u kojem su kazaljke bliže jedna drugoj."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-086",
+      "tezina": "tesko",
+      "pitanje": "Odaberi kakav kut zatvaraju kazaljke sata u 9 sati, a kakav u 10 sati.",
+      "ponudeni": [
+        "Pravi, a zatim tupi kut",
+        "Šiljasti, a zatim pravi kut",
+        "Pravi, a zatim šiljasti kut",
+        "Tupi, a zatim šiljasti kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U 9 sati kazaljke zatvaraju pravi kut, a u 10 sati mala kazaljka bliže je broju 12, pa je kut šiljasti.",
+      "savjet": "Zamisli obje kazaljke; velika je u oba slučaja na broju 12."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-087",
+      "tezina": "tesko",
+      "pitanje": "Ana uspoređuje kut u uglu pravokutnog stola s kutom u uglu bilježnice. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Kut stola je veći jer je stol veći.",
+        "Kutovi su jednaki jer su oba prava.",
+        "Kut bilježnice je veći jer je bilježnica manja.",
+        "Kutovi se ne mogu usporediti jer su predmeti različiti."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oba su ugla prava kuta, a svi pravi kutovi jednake su veličine, bez obzira na veličinu predmeta.",
+      "savjet": "Veličina kuta ne ovisi o veličini predmeta, nego o razmaku krakova."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-088",
+      "tezina": "tesko",
+      "pitanje": "Dvije ravne ceste križaju se kao znak +. Odaberi koliko pravih kutova zatvaraju.",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ceste se križaju kao znak +, pa oko raskrižja nastaju četiri prava kuta.",
+      "savjet": "Nacrtaj znak + i pogledaj koliko kutova nastaje oko mjesta gdje se crte sijeku."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-089",
+      "tezina": "tesko",
+      "pitanje": "Odaberi vrijeme u kojem kazaljke zatvaraju kut veći od pravog, a manji od kuta koji zatvaraju u 5 sati.",
+      "ponudeni": [
+        "U 3 sata",
+        "U 4 sata",
+        "U 2 sata",
+        "U 1 sat"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U 4 sata kut je tupi, dakle veći od pravog, ali manji nego u 5 sati jer je mala kazaljka bliže broju 12.",
+      "savjet": "Što je mala kazaljka dalje od broja 12 (sve do broja 6), to je kut između kazaljki veći."
+    },
+    {
+      "id": "4-matematika-vrste-kutova-090",
+      "tezina": "tesko",
+      "pitanje": "Petra je geotrokutom provjerila kut: oba kraka poklopila su se s rubovima uz pravi kut geotrokuta. Zatim je oba kraka produljila. Odaberi kakav je sada kut.",
+      "ponudeni": [
+        "Pravi kut",
+        "Tupi kut",
+        "Ispruženi kut",
+        "Šiljasti kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Produljenjem krakova njihov se razmak ne mijenja, pa kut ostaje pravi.",
+      "savjet": "Razmisli mijenja li se veličina kuta kad su krakovi dulji."
+    }
+  ]
+}
