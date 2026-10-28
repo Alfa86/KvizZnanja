@@ -1,0 +1,3181 @@
+{
+  "lekcijaId": "pravokutni-trokut",
+  "pitanja": [
+    {
+      "id": "4-matematika-pravokutni-trokut-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zove trokut koji ima jedan pravi kut.",
+      "ponudeni": [
+        "pravokutni trokut",
+        "kutni trokut",
+        "oštri trokut",
+        "ravni trokut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trokut koji ima jedan pravi kut zove se pravokutni trokut.",
+      "savjet": "Ime ovog trokuta nastalo je od naziva kuta koji ima."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko pravih kutova ima pravokutni trokut.",
+      "ponudeni": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutni trokut ima točno jedan pravi kut. Druga dva kuta su šiljasta.",
+      "savjet": "Prisjeti se po kojem kutu pravokutni trokut prepoznajemo."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-003",
+      "tezina": "lagano",
+      "pitanje": "Pravokutni trokut osim pravog kuta ima još dva kuta. Odaberi kakvi su ti kutovi.",
+      "ponudeni": [
+        "oba su tupa",
+        "oba su prava",
+        "jedan je šiljasti, a drugi tupi",
+        "oba su šiljasta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Osim pravog kuta, pravokutni trokut ima još dva šiljasta kuta, tj. kuta manja od pravog.",
+      "savjet": "Usporedi te kutove s pravim kutom: jesu li manji ili veći od njega?"
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-004",
+      "tezina": "lagano",
+      "pitanje": "Na slici je trokut s kutom označenim malim kvadratićem. Odaberi kako se zove takav trokut.",
+      "ponudeni": [
+        "trokut s tupim kutom",
+        "trokut s dva prava kuta",
+        "trokut bez pravog kuta",
+        "pravokutni trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadratić označava pravi kut. Trokut s jednim pravim kutom zove se pravokutni trokut.",
+      "savjet": "Prisjeti se koji se kut označava malim kvadratićem u vrhu.",
+      "slika": {
+        "opis": "Trokut ABC, kod vrha A nacrtan je mali kvadratić.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi vrh kod kojeg trokut na slici ima pravi kut.",
+      "ponudeni": [
+        "vrh A",
+        "vrh B",
+        "vrh C",
+        "nijedan vrh"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kod vrha B vodoravna i uspravna stranica sastaju se kao rubovi lista papira, pa je ondje pravi kut.",
+      "savjet": "Prisloni pravi kut geotrokuta redom uz svaki kut trokuta.",
+      "slika": {
+        "opis": "Trokut ABC; vrhovi A i B su dolje, a vrh C gore desno.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-006",
+      "tezina": "lagano",
+      "pitanje": "Na slici su četiri trokuta. Odaberi pravokutni trokut.",
+      "ponudeni": [
+        "△ABC",
+        "△DEF",
+        "△GHI",
+        "△JKL"
+      ],
+      "tocan": 1,
+      "objasnjenje": "△DEF ima pravi kut kod vrha D, zato je pravokutni. Ostali trokuti nemaju pravi kut.",
+      "savjet": "Potraži trokut kojem se dvije stranice sastaju kao rubovi lista papira.",
+      "slika": {
+        "opis": "Četiri trokuta: △ABC, △DEF, △GHI i △JKL.",
+        "tocke": {
+          "A": [
+            0.5,
+            0.5
+          ],
+          "B": [
+            4.5,
+            0.5
+          ],
+          "C": [
+            2,
+            4
+          ],
+          "D": [
+            5.5,
+            0.5
+          ],
+          "E": [
+            9.5,
+            0.5
+          ],
+          "F": [
+            5.5,
+            4
+          ],
+          "G": [
+            1.5,
+            5.5
+          ],
+          "H": [
+            4.5,
+            5.5
+          ],
+          "I": [
+            0.5,
+            8
+          ],
+          "J": [
+            5.5,
+            5.5
+          ],
+          "K": [
+            9.5,
+            5.5
+          ],
+          "L": [
+            7.5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "G",
+              "H",
+              "I"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-007",
+      "tezina": "lagano",
+      "pitanje": "Odaberi pribor iz pernice koji ima oblik pravokutnog trokuta.",
+      "ponudeni": [
+        "ravnalo",
+        "šestar",
+        "geotrokut",
+        "gumica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Geotrokut ima oblik pravokutnog trokuta, pa njime možemo crtati i provjeravati prave kutove.",
+      "savjet": "Sjeti se pribora koji ima tri vrha i tri ravna ruba."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-008",
+      "tezina": "lagano",
+      "pitanje": "Kvadratni sendvič prerezan je ravno od jednog ugla do nasuprotnog ugla. Odaberi kakav oblik ima svaki dio.",
+      "ponudeni": [
+        "pravokutni trokut",
+        "kvadrat",
+        "pravokutnik",
+        "trokut s tupim kutom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki dio ima tri vrha i u njemu je ostao jedan cijeli ugao kvadrata, a to je pravi kut. Zato su dijelovi pravokutni trokuti.",
+      "savjet": "Prebroji vrhove svakog dijela i pogledaj što je ostalo od uglova kvadrata."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-009",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kojim priborom možeš provjeriti je li kut trokuta pravi.",
+      "ponudeni": [
+        "šestarom",
+        "gumicom",
+        "olovkom",
+        "geotrokutom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Geotrokut ima pravi kut. Prislonimo ga uz kut trokuta i vidimo poklapaju li se kutovi.",
+      "savjet": "Treba ti pribor koji i sam ima pravi kut."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-010",
+      "tezina": "lagano",
+      "pitanje": "U trokutu na slici pravi kut je označen kvadratićem. Odaberi kakav je kut kod vrha A.",
+      "ponudeni": [
+        "šiljasti kut",
+        "pravi kut",
+        "tupi kut",
+        "ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut kod vrha A manji je od pravog kuta, zato je šiljasti.",
+      "savjet": "Usporedi kut kod vrha A s pravim kutom: je li manji ili veći od njega?",
+      "slika": {
+        "opis": "Trokut ABC; vrhovi A i C su gore, vrh B dolje desno; kod vrha C nacrtan je mali kvadratić.",
+        "tocke": {
+          "A": [
+            1,
+            8
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "pravi": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-011",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kut po kojem je pravokutni trokut dobio ime.",
+      "ponudeni": [
+        "šiljasti kut",
+        "tupi kut",
+        "pravi kut",
+        "ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutni trokut dobio je ime po pravom kutu koji ima.",
+      "savjet": "Sjeti se kakav kut ima ugao lista papira ili ugao stola."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-012",
+      "tezina": "lagano",
+      "pitanje": "U trokutu na slici pravi kut je označen kvadratićem. Odaberi kakvi su kutovi kod vrhova L i M.",
+      "ponudeni": [
+        "oba su prava",
+        "jedan je pravi, a drugi tupi",
+        "oba su tupa",
+        "oba su šiljasta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kutovi kod vrhova L i M manji su od pravog kuta, pa su oba šiljasta.",
+      "savjet": "Usporedi svaki od ta dva kuta s pravim kutom kod vrha K.",
+      "slika": {
+        "opis": "Nagnuti trokut KLM, kod vrha K nacrtan je mali kvadratić.",
+        "tocke": {
+          "K": [
+            1,
+            5.5
+          ],
+          "L": [
+            7,
+            1
+          ],
+          "M": [
+            4,
+            9.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "K",
+            "pravi": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav kut čine dva susjedna ruba lista papira.",
+      "ponudeni": [
+        "pravi kut",
+        "šiljasti kut",
+        "tupi kut",
+        "ispruženi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Susjedni rubovi lista papira sastaju se pod pravim kutom. Zato ugao lista može zamijeniti geotrokut.",
+      "savjet": "Prisloni ugao lista uz ugao geotrokuta i usporedi ih."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-014",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o trokutu na slici.",
+      "ponudeni": [
+        "Ima tupi kut, pa nije pravokutni.",
+        "Ima pravi kut, pa je pravokutni.",
+        "Ima dva prava kuta.",
+        "Svi su mu kutovi šiljasti."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut kod vrha A veći je od pravog kuta, dakle tupi. Trokut nema pravi kut, pa nije pravokutni.",
+      "savjet": "Usporedi kut kod vrha A s pravim kutom geotrokuta.",
+      "slika": {
+        "opis": "Trokut ABC; vrh C nalazi se gore lijevo od vrha A.",
+        "tocke": {
+          "A": [
+            3,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            1,
+            6
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-015",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav je kut kod vrha A u trokutu na slici.",
+      "ponudeni": [
+        "šiljasti kut",
+        "tupi kut",
+        "ispruženi kut",
+        "pravi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice AB i AC sastaju se kao rubovi lista papira, pa je kut kod vrha A pravi. Zato je trokut pravokutni.",
+      "savjet": "Zamisli ugao lista papira i usporedi ga s tim kutom.",
+      "slika": {
+        "opis": "Trokut ABC; vrh A je dolje lijevo, vrh B dolje desno, a vrh C gore lijevo.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-016",
+      "tezina": "lagano",
+      "pitanje": "Rampa za kolica, ravno tlo i uspravni zid ispod rampe čine trokut. Odaberi kakav kut čine tlo i zid.",
+      "ponudeni": [
+        "šiljasti kut",
+        "tupi kut",
+        "ispruženi kut",
+        "pravi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uspravni zid i vodoravno tlo čine pravi kut, pa je taj trokut pravokutni.",
+      "savjet": "Zamisli kako uspravni zid stoji na podu sobe."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-017",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko šiljastih kutova ima pravokutni trokut.",
+      "ponudeni": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravokutni trokut ima jedan pravi kut i dva šiljasta kuta.",
+      "savjet": "Jedan kut pravokutnog trokuta je pravi; razmisli kakvi su ostali."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-018",
+      "tezina": "lagano",
+      "pitanje": "Na slici su četiri trokuta. Odaberi trokut koji ima pravi kut.",
+      "ponudeni": [
+        "△ABC",
+        "△DEF",
+        "△GHI",
+        "△JKL"
+      ],
+      "tocan": 3,
+      "objasnjenje": "△JKL ima pravi kut kod vrha J. Ostali trokuti imaju samo šiljaste kutove ili tupi kut.",
+      "savjet": "Prisloni zamišljeni ugao lista papira uz kutove svakog trokuta.",
+      "slika": {
+        "opis": "Četiri trokuta: △ABC, △DEF, △GHI i △JKL.",
+        "tocke": {
+          "A": [
+            0.5,
+            0.5
+          ],
+          "B": [
+            4.5,
+            0.5
+          ],
+          "C": [
+            2.5,
+            4
+          ],
+          "D": [
+            5.5,
+            0.5
+          ],
+          "E": [
+            9.5,
+            0.5
+          ],
+          "F": [
+            7.5,
+            1.7
+          ],
+          "G": [
+            1,
+            5.5
+          ],
+          "H": [
+            4,
+            5.5
+          ],
+          "I": [
+            2.5,
+            9.5
+          ],
+          "J": [
+            9.5,
+            9
+          ],
+          "K": [
+            5.5,
+            9
+          ],
+          "L": [
+            9.5,
+            5.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "G",
+              "H",
+              "I"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-019",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj kutove trokuta na slici. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Ima jedan pravi kut.",
+        "Ima jedan tupi kut.",
+        "Svi su mu kutovi šiljasti.",
+        "Ima dva prava kuta."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svi kutovi ovog trokuta manji su od pravog kuta, pa su šiljasti. Taj trokut nije pravokutni.",
+      "savjet": "Usporedi svaki kut trokuta s pravim kutom geotrokuta.",
+      "slika": {
+        "opis": "Trokut ABC; vrh C je gore, malo lijevo od sredine.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            4,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-020",
+      "tezina": "lagano",
+      "pitanje": "Ana je list papira presavila dvaput i dobila pravi kut. Odaberi za što ga može koristiti.",
+      "ponudeni": [
+        "za provjeru je li kut trokuta pravi",
+        "za mjerenje duljine stranice",
+        "za crtanje kružnice",
+        "za brojenje vrhova trokuta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Presavijeni papir ima pravi kut, pa ga prislonimo uz kut trokuta i vidimo je li taj kut pravi.",
+      "savjet": "Presavijeni papir može zamijeniti jedan dio geotrokuta."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-021",
+      "tezina": "lagano",
+      "pitanje": "Odaberi što ima oblik pravokutnog trokuta.",
+      "ponudeni": [
+        "okrugli tanjur",
+        "kvadratna salveta presavijena od ugla do ugla",
+        "list bilježnice",
+        "kutija za cipele"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadratna salveta presavijena od ugla do ugla ima tri vrha i jedan pravi kut, pa ima oblik pravokutnog trokuta.",
+      "savjet": "Potraži nešto što ima tri vrha i jedan ugao kao list papira."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-022",
+      "tezina": "lagano",
+      "pitanje": "U trokutu na slici pravi kut je označen kvadratićem. Odaberi koliko šiljastih kutova ima taj trokut.",
+      "ponudeni": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut kod vrha A je pravi, a kutovi kod vrhova B i C su šiljasti. Dakle, trokut ima dva šiljasta kuta.",
+      "savjet": "Kut s kvadratićem je pravi; pogledaj druga dva kuta.",
+      "slika": {
+        "opis": "Trokut ABC; vrhovi A i B su gore, vrh C dolje lijevo; kod vrha A nacrtan je mali kvadratić.",
+        "tocke": {
+          "A": [
+            1,
+            9
+          ],
+          "B": [
+            9,
+            9
+          ],
+          "C": [
+            1,
+            2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-023",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko vrhova ima pravokutni trokut.",
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutni trokut je trokut, pa ima tri vrha, tri stranice i tri kuta.",
+      "savjet": "Svaki trokut, pa i ovaj, ima jednako mnogo vrhova, stranica i kutova."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-024",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav je kut kod vrha P u trokutu na slici.",
+      "ponudeni": [
+        "šiljasti kut",
+        "tupi kut",
+        "pravi kut",
+        "ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice PR i PS sastaju se pod pravim kutom, iako je trokut nagnut. Zato je trokut PRS pravokutni.",
+      "savjet": "Okreni zamišljeni geotrokut tako da prati stranice uz vrh P.",
+      "slika": {
+        "opis": "Nagnuti trokut PRS; vrh P je dolje, R desno, a S gore lijevo.",
+        "tocke": {
+          "P": [
+            3,
+            1
+          ],
+          "R": [
+            9,
+            3
+          ],
+          "S": [
+            0.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "R",
+              "S"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-025",
+      "tezina": "lagano",
+      "pitanje": "U pravokutnom trokutu jedan je kut pravi. Odaberi kako se zovu kutovi manji od pravog.",
+      "ponudeni": [
+        "tupi kutovi",
+        "puni kutovi",
+        "ispruženi kutovi",
+        "šiljasti kutovi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kutovi manji od pravog zovu se šiljasti. U pravokutnom trokutu takva su dva kuta.",
+      "savjet": "Prisjeti se imena kutova iz lekcije o vrstama kutova."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-026",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o trokutu na slici s kvadratićem kod vrha B.",
+      "ponudeni": [
+        "To je pravokutni trokut.",
+        "Trokut ima tupi kut.",
+        "Trokut nema pravi kut.",
+        "Trokut ima dva prava kuta."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadratić kod vrha B označava pravi kut, pa je trokut ABC pravokutni.",
+      "savjet": "Prisjeti se što označava mali kvadratić u vrhu kuta.",
+      "slika": {
+        "opis": "Trokut ABC, kod vrha B nacrtan je mali kvadratić.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "B",
+            "pravi": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-027",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav je kut kod vrha C u trokutu na slici.",
+      "ponudeni": [
+        "pravi kut",
+        "šiljasti kut",
+        "tupi kut",
+        "ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut kod vrha C veći je od pravog kuta, pa je tupi. Taj trokut nije pravokutni.",
+      "savjet": "Usporedi kut kod vrha C s pravim kutom: je li manji ili veći?",
+      "slika": {
+        "opis": "Plosnati trokut ABC; vrh C je gore u sredini.",
+        "tocke": {
+          "A": [
+            0.5,
+            2
+          ],
+          "B": [
+            9.5,
+            2
+          ],
+          "C": [
+            5,
+            4.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-028",
+      "tezina": "lagano",
+      "pitanje": "Je li trokut na slici pravokutni? Odaberi točan odgovor.",
+      "ponudeni": [
+        "Da, jer ima tri kuta.",
+        "Ne, jer nema pravi kut.",
+        "Da, jer ima pravi kut kod vrha C.",
+        "Ne, jer ima tupi kut."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svi kutovi ovog trokuta su šiljasti, a pravog kuta nema. Zato nije pravokutni trokut.",
+      "savjet": "Provjeri svaki kut trokuta pravim kutom geotrokuta.",
+      "slika": {
+        "opis": "Trokut ABC; vrh C je gore u sredini.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            5,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-029",
+      "tezina": "lagano",
+      "pitanje": "U trokutu na slici pravi kut je označen kvadratićem. Odaberi vrhove kod kojih su šiljasti kutovi.",
+      "ponudeni": [
+        "A i C",
+        "B i C",
+        "samo C",
+        "A i B"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kod vrha C je pravi kut, a kutovi kod vrhova A i B su šiljasti.",
+      "savjet": "Kut s kvadratićem je pravi; pogledaj preostala dva vrha.",
+      "slika": {
+        "opis": "Trokut ABC; vrh C je gore u sredini i kod njega je nacrtan mali kvadratić.",
+        "tocke": {
+          "A": [
+            0.5,
+            1
+          ],
+          "B": [
+            9.5,
+            1
+          ],
+          "C": [
+            5,
+            5.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "pravi": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-030",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakav kut ima geotrokut u vrhu između svojih dvaju kraćih rubova.",
+      "ponudeni": [
+        "šiljasti kut",
+        "tupi kut",
+        "pravi kut",
+        "ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kraći rubovi geotrokuta sastaju se pod pravim kutom, zato geotrokut ima oblik pravokutnog trokuta.",
+      "savjet": "Sjeti se zašto geotrokutom provjeravamo kutove trokuta."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-031",
+      "tezina": "srednje",
+      "pitanje": "Odaberi vrh kod kojeg trokut na slici ima pravi kut.",
+      "ponudeni": [
+        "vrh A",
+        "vrh B",
+        "vrh C",
+        "nijedan vrh"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice CA i CB sastaju se pod pravim kutom, pa je pravi kut kod vrha C, iako je on gore.",
+      "savjet": "Prisloni pravi kut geotrokuta uz svaki kut, bez obzira na to gdje je vrh.",
+      "slika": {
+        "opis": "Trokut ABC; vrhovi A i B su dolje, a vrh C gore u sredini.",
+        "tocke": {
+          "A": [
+            0.5,
+            1
+          ],
+          "B": [
+            9.5,
+            1
+          ],
+          "C": [
+            5,
+            5.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-032",
+      "tezina": "srednje",
+      "pitanje": "Na slici su četiri trokuta. Odaberi trokut s pravim kutom.",
+      "ponudeni": [
+        "△ABC",
+        "△DEF",
+        "△GHI",
+        "△JKL"
+      ],
+      "tocan": 2,
+      "objasnjenje": "△GHI ima pravi kut kod vrha G, iako je nagnut. Ostali trokuti nemaju pravi kut.",
+      "savjet": "Provjeri svaki kut, i kad je trokut okrenut drukčije nego inače.",
+      "slika": {
+        "opis": "Četiri trokuta: △ABC, △DEF, △GHI i △JKL.",
+        "tocke": {
+          "A": [
+            0.5,
+            5.5
+          ],
+          "B": [
+            4.5,
+            5.5
+          ],
+          "C": [
+            2.5,
+            6.7
+          ],
+          "D": [
+            5.5,
+            5.5
+          ],
+          "E": [
+            9.5,
+            5.5
+          ],
+          "F": [
+            7,
+            9
+          ],
+          "G": [
+            2,
+            0.5
+          ],
+          "H": [
+            4.5,
+            3
+          ],
+          "I": [
+            0.5,
+            2
+          ],
+          "J": [
+            5.5,
+            0.5
+          ],
+          "K": [
+            9.5,
+            0.5
+          ],
+          "L": [
+            7.5,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "G",
+              "H",
+              "I"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-033",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik je prerezan ravno od jednog vrha do nasuprotnog vrha. Odaberi kakve dijelove dobivamo.",
+      "ponudeni": [
+        "dva pravokutna trokuta",
+        "dva pravokutnika",
+        "dva kvadrata",
+        "dva trokuta s tupim kutom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki dio ima tri vrha i jedan pravi kut iz ugla pravokutnika. Zato dobivamo dva pravokutna trokuta.",
+      "savjet": "Svaki dio zadrži jedan cijeli ugao pravokutnika; prisjeti se kakvi su ti uglovi."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-034",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko tupih kutova ima pravokutni trokut.",
+      "ponudeni": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osim pravog kuta, pravokutni trokut ima dva šiljasta kuta, pa tupih kutova nema.",
+      "savjet": "Prisjeti se kakva su dva kuta pravokutnog trokuta osim pravog."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-035",
+      "tezina": "srednje",
+      "pitanje": "Odredi kod kojeg vrha trokut na slici ima pravi kut.",
+      "ponudeni": [
+        "kod vrha A",
+        "kod vrha B",
+        "kod vrha C",
+        "trokut nema pravi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranice AB i AC sastaju se pod pravim kutom kod vrha A, koji je gore desno.",
+      "savjet": "Pogledaj koje se dvije stranice sastaju kao rubovi lista papira.",
+      "slika": {
+        "opis": "Trokut ABC; vrhovi A i B su gore, a vrh C dolje desno.",
+        "tocke": {
+          "A": [
+            9,
+            8
+          ],
+          "B": [
+            1,
+            8
+          ],
+          "C": [
+            9,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-036",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko je pravokutnih trokuta na slici.",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravi kut imaju △ABC (kod vrha A) i △GHI (kod vrha G). Ostala dva trokuta nemaju pravi kut.",
+      "savjet": "Provjeri svaki trokut posebno i potraži kut kao ugao lista papira.",
+      "slika": {
+        "opis": "Četiri trokuta: △ABC, △DEF, △GHI i △JKL.",
+        "tocke": {
+          "A": [
+            4.5,
+            0.5
+          ],
+          "B": [
+            0.5,
+            0.5
+          ],
+          "C": [
+            4.5,
+            4
+          ],
+          "D": [
+            5.5,
+            0.5
+          ],
+          "E": [
+            9.5,
+            0.5
+          ],
+          "F": [
+            7,
+            4
+          ],
+          "G": [
+            2.5,
+            7.5
+          ],
+          "H": [
+            0.5,
+            5.5
+          ],
+          "I": [
+            4.5,
+            5.5
+          ],
+          "J": [
+            6.5,
+            5.5
+          ],
+          "K": [
+            9.5,
+            5.5
+          ],
+          "L": [
+            5.5,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "G",
+              "H",
+              "I"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-037",
+      "tezina": "srednje",
+      "pitanje": "U trokutu na slici pravi kut je označen kvadratićem. Odaberi stranice između kojih je pravi kut.",
+      "ponudeni": [
+        "stranice AB i AC",
+        "stranice AC i BC",
+        "stranice AB i BC",
+        "nijedne dvije stranice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravi kut je kod vrha B, a iz vrha B izlaze stranice AB i BC.",
+      "savjet": "Pravi kut leži između dviju stranica koje izlaze iz vrha s kvadratićem.",
+      "slika": {
+        "opis": "Trokut ABC, kod vrha B nacrtan je mali kvadratić; vrh B je dolje desno.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "B",
+            "pravi": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-038",
+      "tezina": "srednje",
+      "pitanje": "Ljestve su naslonjene na uspravni zid, a donji im kraj stoji na vodoravnom podu. Odaberi gdje je pravi kut u tom trokutu.",
+      "ponudeni": [
+        "između ljestava i poda",
+        "između ljestava i zida",
+        "između zida i poda",
+        "ljestve, zid i pod ne čine trokut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uspravni zid i vodoravni pod čine pravi kut. Ljestve s podom i sa zidom čine šiljaste kutove.",
+      "savjet": "Zamisli kako uspravni zid stoji na podu sobe."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-039",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik ABCD prerezan je dužinom AC. Odaberi kakav je trokut ABC.",
+      "ponudeni": [
+        "pravokutni trokut",
+        "trokut s tupim kutom",
+        "trokut bez pravog kuta",
+        "trokut s dva prava kuta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut kod vrha B je ugao pravokutnika, dakle pravi. Zato je △ABC pravokutni.",
+      "savjet": "Prisjeti se kakvi su kutovi pravokutnika i koji je od njih ostao cijeli.",
+      "slika": {
+        "opis": "Pravokutnik ABCD podijeljen dužinom AC na trokute ABC i ACD.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            8
+          ],
+          "D": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "A",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-040",
+      "tezina": "srednje",
+      "pitanje": "Odaberi vrh kod kojeg nagnuti trokut na slici ima pravi kut.",
+      "ponudeni": [
+        "vrh L",
+        "vrh M",
+        "nijedan vrh",
+        "vrh K"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice KL i KM sastaju se pod pravim kutom, pa je pravi kut kod vrha K, iako je trokut nagnut.",
+      "savjet": "Okreni zamišljeni geotrokut tako da mu rubovi prate stranice uz svaki vrh.",
+      "slika": {
+        "opis": "Nagnuti trokut KLM; vrh K je lijevo, L dolje desno, a M gore.",
+        "tocke": {
+          "K": [
+            1,
+            5.5
+          ],
+          "L": [
+            7,
+            1
+          ],
+          "M": [
+            4,
+            9.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-041",
+      "tezina": "srednje",
+      "pitanje": "Odaberi trokut koji je pravokutni.",
+      "ponudeni": [
+        "trokut s tri šiljasta kuta",
+        "trokut s jednim tupim i dva šiljasta kuta",
+        "trokut s jednim pravim i dva šiljasta kuta",
+        "trokut s dva tupa i jednim šiljastim kutom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutni trokut ima jedan pravi kut, a druga dva kuta su mu šiljasta.",
+      "savjet": "Potraži opis u kojem se spominje kut po kojem je ovaj trokut dobio ime."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-042",
+      "tezina": "srednje",
+      "pitanje": "Mia je pravi kut geotrokuta prislonila uz kut trokuta. Kut trokuta manji je od kuta geotrokuta. Odaberi kakav je kut trokuta.",
+      "ponudeni": [
+        "pravi kut",
+        "tupi kut",
+        "ispruženi kut",
+        "šiljasti kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kut manji od pravog kuta je šiljasti kut.",
+      "savjet": "Razmisli kako se zove kut koji je manji od pravog."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-043",
+      "tezina": "srednje",
+      "pitanje": "Luka je pravi kut geotrokuta prislonio uz kut trokuta i kutovi su se točno poklopili. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Trokut ima tupi kut.",
+        "Trokut nema pravi kut.",
+        "Trokut ima dva prava kuta.",
+        "Trokut je pravokutni."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kut se poklopio s pravim kutom geotrokuta, pa je pravi. Trokut s pravim kutom je pravokutni.",
+      "savjet": "Razmisli što znači da se kut trokuta poklapa s kutom geotrokuta."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-044",
+      "tezina": "srednje",
+      "pitanje": "Na slici su dva trokuta. Odaberi koji je trokut pravokutni i kod kojeg vrha ima pravi kut.",
+      "ponudeni": [
+        "△ABC, kod vrha A",
+        "△ABC, kod vrha C",
+        "△DEF, kod vrha D",
+        "△DEF, kod vrha E"
+      ],
+      "tocan": 2,
+      "objasnjenje": "△DEF ima pravi kut kod vrha D, gore lijevo. △ABC ima tupi kut kod vrha A, pa nije pravokutni.",
+      "savjet": "Provjeri sve kutove obaju trokuta, i one gore i one dolje.",
+      "slika": {
+        "opis": "Dva trokuta: △ABC lijevo i △DEF desno.",
+        "tocke": {
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            4.5,
+            2
+          ],
+          "C": [
+            0.5,
+            6
+          ],
+          "D": [
+            5.5,
+            8
+          ],
+          "E": [
+            9.5,
+            8
+          ],
+          "F": [
+            5.5,
+            2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-045",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko pravokutnih trokuta dobiješ kad kvadrat prerežeš od jednog vrha do nasuprotnog vrha.",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedan rez dijeli kvadrat na dva dijela, a svaki ima pravi kut iz ugla kvadrata. To su dva pravokutna trokuta.",
+      "savjet": "Zamisli jedan rez kroz kvadrat i prebroji dobivene dijelove."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-046",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o trokutu na slici.",
+      "ponudeni": [
+        "Pravi kut je kod vrha A.",
+        "Pravi kut je kod vrha B.",
+        "Pravi kut je kod vrha C.",
+        "Trokut nema pravi kut."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranice AB i AC sastaju se pod pravim kutom kod vrha A, koji je gore lijevo.",
+      "savjet": "Provjeri svaki vrh, i gornje i donje.",
+      "slika": {
+        "opis": "Trokut ABC; vrhovi A i B su gore, a vrh C dolje lijevo.",
+        "tocke": {
+          "A": [
+            1,
+            9
+          ],
+          "B": [
+            9,
+            9
+          ],
+          "C": [
+            1,
+            2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-047",
+      "tezina": "srednje",
+      "pitanje": "Kutovi trokuta na slici označeni su slovima α, β i γ. Odaberi koji je od njih pravi kut.",
+      "ponudeni": [
+        "kut α",
+        "kut β",
+        "kut γ",
+        "nijedan kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut β je između stranica PR i PS, koje se sastaju pod pravim kutom. Kutovi α i γ su šiljasti.",
+      "savjet": "Prisloni zamišljeni geotrokut uz svaki označeni kut, iako je trokut nagnut.",
+      "slika": {
+        "opis": "Nagnuti trokut PRS s kutovima α kod vrha S, β kod vrha P i γ kod vrha R.",
+        "tocke": {
+          "P": [
+            2.5,
+            1.5
+          ],
+          "R": [
+            9,
+            3.5
+          ],
+          "S": [
+            0.3,
+            8.65
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "R",
+              "S"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "S",
+            "oznaka": "α"
+          },
+          {
+            "vrh": "P",
+            "oznaka": "β"
+          },
+          {
+            "vrh": "R",
+            "oznaka": "γ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-048",
+      "tezina": "srednje",
+      "pitanje": "Trokut ima jedan pravi kut i jedan šiljasti kut. Odaberi kakav je njegov treći kut.",
+      "ponudeni": [
+        "pravi kut",
+        "tupi kut",
+        "šiljasti kut",
+        "ispruženi kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trokut s pravim kutom je pravokutni, a on osim pravog ima još dva šiljasta kuta. Zato je i treći kut šiljasti.",
+      "savjet": "Prisjeti se kakvi su kutovi pravokutnog trokuta osim pravog."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-049",
+      "tezina": "srednje",
+      "pitanje": "U trokutu na slici pravi kut je označen kvadratićem. Odaberi vrh kod kojeg je najveći kut trokuta.",
+      "ponudeni": [
+        "vrh A",
+        "vrh B",
+        "vrh C",
+        "svi su kutovi jednaki"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut kod vrha C je pravi, a druga dva su šiljasta, dakle manja od pravog. Zato je najveći kut kod vrha C.",
+      "savjet": "Usporedi pravi kut sa šiljastim kutovima: koji je veći?",
+      "slika": {
+        "opis": "Trokut ABC, kod vrha C nacrtan je mali kvadratić.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            6,
+            9
+          ],
+          "C": [
+            6,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "pravi": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-050",
+      "tezina": "srednje",
+      "pitanje": "Iva je list papira presavila napola, a zatim još jednom tako da se pregib poklopi sam sa sobom. Odaberi kakav je kut dobila.",
+      "ponudeni": [
+        "šiljasti kut",
+        "tupi kut",
+        "ispruženi kut",
+        "pravi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvi pregib je ravna crta, tj. ispruženi kut, a drugo presavijanje dijeli ga na dva jednaka dijela. Tako nastaje pravi kut kojim možemo provjeravati kutove trokuta.",
+      "savjet": "Prvi pregib je ravna crta; drugo presavijanje dijeli je na dva jednaka kuta."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-051",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik ABCD prerezan je dužinom BD na △ABD i △BCD. Odaberi vrhove kod kojih su pravi kutovi tih dvaju trokuta.",
+      "ponudeni": [
+        "A i C",
+        "B i D",
+        "A i B",
+        "C i D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "△ABD ima pravi kut kod vrha A, a △BCD kod vrha C, jer su to uglovi pravokutnika koje rez nije presjekao.",
+      "savjet": "Svaki trokut zadržao je po jedan cijeli ugao pravokutnika.",
+      "slika": {
+        "opis": "Pravokutnik ABCD podijeljen dužinom BD na dva trokuta.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            8
+          ],
+          "D": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-052",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko pravokutnih trokuta ima na slici.",
+      "ponudeni": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravi kut imaju △ABC (kod vrha A), △DEF (kod vrha D) i △JKL (kod vrha J). △GHI ima samo šiljaste kutove.",
+      "savjet": "Provjeri svaki trokut i ne zaboravi one koji su okrenuti drukčije.",
+      "slika": {
+        "opis": "Četiri različito okrenuta trokuta: △ABC, △DEF, △GHI i △JKL.",
+        "tocke": {
+          "A": [
+            2,
+            0.5
+          ],
+          "B": [
+            4.5,
+            3
+          ],
+          "C": [
+            0.5,
+            2
+          ],
+          "D": [
+            5.5,
+            4
+          ],
+          "E": [
+            9.5,
+            4
+          ],
+          "F": [
+            5.5,
+            0.5
+          ],
+          "G": [
+            0.5,
+            5.5
+          ],
+          "H": [
+            4.5,
+            5.5
+          ],
+          "I": [
+            2.5,
+            9
+          ],
+          "J": [
+            9.5,
+            5.5
+          ],
+          "K": [
+            5.5,
+            5.5
+          ],
+          "L": [
+            9.5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "G",
+              "H",
+              "I"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-053",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kako možeš provjeriti je li kut trokuta pravi ako nemaš geotrokut.",
+      "ponudeni": [
+        "izmjeriti mu stranice ravnalom",
+        "prisloniti uz njega ugao lista bilježnice",
+        "prebrojiti vrhove trokuta",
+        "nacrtati kružnicu šestarom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ugao lista bilježnice je pravi kut. Ako se kut trokuta s njim točno poklopi, kut je pravi.",
+      "savjet": "Potraži predmet iz školske torbe koji ima pravi kut."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-054",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o kutu kod vrha A u trokutu na slici.",
+      "ponudeni": [
+        "To je šiljasti kut.",
+        "To je pravi kut.",
+        "To je tupi kut.",
+        "To je ispruženi kut."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut kod vrha A manji je od pravog kuta, pa je šiljasti. Ovaj trokut nema pravi kut.",
+      "savjet": "Zamisli ugao lista papira u vrhu A i usporedi ga s tim kutom.",
+      "slika": {
+        "opis": "Trokut ABC; vrh A je dolje lijevo, a vrh C gore, lijevo od sredine.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            4.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-055",
+      "tezina": "srednje",
+      "pitanje": "Mama je prerezala pravokutni kolač ravno od jednog ugla do nasuprotnog ugla. Odaberi koliko pravih kutova ima svaki komad.",
+      "ponudeni": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki komad zadrži jedan cijeli ugao kolača, a to je pravi kut. Druga dva kuta su šiljasta.",
+      "savjet": "Pogledaj koliko je uglova kolača ostalo cijelih u svakom komadu."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-056",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko pravih kutova ima trokut na slici.",
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kod vrha B je pravi kut, a kutovi kod vrhova A i C su šiljasti. Trokut ima jedan pravi kut.",
+      "savjet": "Provjeri svaki od tri kuta prislanjanjem kuta geotrokuta.",
+      "slika": {
+        "opis": "Dugačak i nizak trokut ABC.",
+        "tocke": {
+          "A": [
+            0.5,
+            2
+          ],
+          "B": [
+            9.5,
+            2
+          ],
+          "C": [
+            9.5,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-057",
+      "tezina": "srednje",
+      "pitanje": "Na ploči su tri trokuta. Prvi ima tupi kut, drugi ima pravi kut, a treći ima tri šiljasta kuta. Odaberi pravokutni trokut.",
+      "ponudeni": [
+        "prvi trokut",
+        "treći trokut",
+        "nijedan od ta tri trokuta",
+        "drugi trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravokutni trokut je onaj koji ima pravi kut, a to je drugi trokut.",
+      "savjet": "Prisjeti se koji kut mora imati pravokutni trokut."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-058",
+      "tezina": "srednje",
+      "pitanje": "Zastavica ima oblik pravokutnog trokuta. Jedna joj je stranica uz uspravni štap, a gornja je stranica vodoravna. Odaberi gdje je pravi kut.",
+      "ponudeni": [
+        "u donjem vrhu uz štap",
+        "u gornjem vrhu uz štap",
+        "u vrhu najdalje od štapa",
+        "zastavica nema pravi kut"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uspravna i vodoravna stranica sastaju se u gornjem vrhu uz štap i ondje čine pravi kut.",
+      "savjet": "Zamisli gdje se sastaju uspravni štap i vodoravna stranica."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-059",
+      "tezina": "srednje",
+      "pitanje": "Trokut ima tri šiljasta kuta. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "To nije pravokutni trokut.",
+        "To je pravokutni trokut.",
+        "Ima jedan tupi kut.",
+        "Ima jedan pravi kut."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravokutni trokut mora imati pravi kut. Trokut s tri šiljasta kuta nema pravi kut, pa nije pravokutni.",
+      "savjet": "Prisjeti se koji kut mora imati pravokutni trokut."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-060",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koji je kut u pravokutnom trokutu najveći.",
+      "ponudeni": [
+        "jedan od šiljastih kutova",
+        "svi su kutovi jednaki",
+        "tupi kut",
+        "pravi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Šiljasti kutovi manji su od pravog, pa je pravi kut najveći kut pravokutnog trokuta.",
+      "savjet": "Usporedi šiljaste kutove s kutom geotrokuta."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-061",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zašto trokut ne može imati dva prava kuta.",
+      "ponudeni": [
+        "Pravi kut je veći od tupog kuta.",
+        "Druge dvije stranice ne bi se sastale u trećem vrhu.",
+        "Svaki trokut ima samo šiljaste kutove.",
+        "Trokut bi tada imao četiri stranice."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ako na oba kraja jedne stranice nacrtamo pravi kut, druge dvije stranice idu uspravno jedna pored druge i nikad se ne sastanu. Zato trokut ima najviše jedan pravi kut.",
+      "savjet": "Nacrtaj dužinu, na oba njezina kraja nacrtaj pravi kut i pogledaj nove krakove."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-062",
+      "tezina": "tesko",
+      "pitanje": "Marta je nacrtala pravokutni trokut, a zatim je papir okrenula naopako. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Trokut sada ima tupi kut.",
+        "Trokut više nema pravi kut.",
+        "Trokut je i dalje pravokutni.",
+        "Pravi kut postao je šiljasti."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Okretanjem papira kutovi trokuta se ne mijenjaju, samo im je drukčiji položaj. Zato je trokut i dalje pravokutni.",
+      "savjet": "Razmisli mijenja li se veličina kuta kad okreneš papir."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-063",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima jedan tupi kut. Odaberi točnu tvrdnju o tom trokutu.",
+      "ponudeni": [
+        "Pravokutni je, jer ima i pravi kut.",
+        "Može imati i jedan pravi kut.",
+        "Ima još jedan tupi kut.",
+        "Nije pravokutni, jer nema pravi kut."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad trokut ima tupi kut, druga dva kuta su mu šiljasta. Pravog kuta nema, pa trokut nije pravokutni.",
+      "savjet": "Zamisli trokut s tupim kutom i pokušaj u njemu nacrtati još i pravi kut."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-064",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ABCD dužinama AC i BD podijeljen je na četiri trokuta. Odaberi gdje ti trokuti imaju pravi kut.",
+      "ponudeni": [
+        "kod vrha S",
+        "kod vrhova A i C",
+        "kod vrhova B i D",
+        "nemaju pravi kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužine AC i BD sijeku se u točki S pod pravim kutom, pa svaki od četiriju trokuta ima pravi kut kod vrha S. Kutovi uz vrhove kvadrata prerezani su napola i šiljasti su.",
+      "savjet": "Razmisli što se dogodilo s uglovima kvadrata kad su ih dužine prerezale.",
+      "slika": {
+        "opis": "Kvadrat ABCD podijeljen dužinama AC i BD na četiri trokuta sa zajedničkim vrhom S.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ],
+          "S": [
+            5,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "S"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "B",
+              "C",
+              "S"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "C",
+              "D",
+              "S"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "A",
+              "S"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-065",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD podijeljen je dužinama AE i BE na tri trokuta. Odaberi koliko je među njima pravokutnih trokuta.",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "tocan": 1,
+      "objasnjenje": "△AED ima pravi kut kod vrha D, a △BCE kod vrha C. Srednji △ABE nema pravi kut jer su uglovi kod vrhova A i B prerezani.",
+      "savjet": "Pogledaj koji su trokuti zadržali cijeli ugao pravokutnika.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; točka E je na stranici CD; nacrtane su dužine AE i BE.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            8
+          ],
+          "D": [
+            1,
+            8
+          ],
+          "E": [
+            4,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "E",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "E"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "B",
+              "C",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-066",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koji od ovih trokuta sigurno nije pravokutni.",
+      "ponudeni": [
+        "pola kvadrata prerezanog od ugla do ugla",
+        "trokut s jednim tupim kutom",
+        "trokut kojem je jedan kut kao ugao lista",
+        "trokut s jednim pravim i dva šiljasta kuta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut s tupim kutom ima još samo dva šiljasta kuta, pa nema pravi kut. Ostala tri trokuta imaju pravi kut.",
+      "savjet": "Za svaki trokut razmisli ima li ili može li imati pravi kut."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-067",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko trokuta na slici ima pravi kut.",
+      "ponudeni": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravi kut ima △DEF kod vrha D i △GHI kod vrha G. △ABC ima tupi kut, a △JKL samo šiljaste kutove.",
+      "savjet": "Provjeri svaki vrh svakog trokuta, bez obzira na to kako je trokut okrenut.",
+      "slika": {
+        "opis": "Četiri različito okrenuta trokuta: △ABC, △DEF, △GHI i △JKL.",
+        "tocke": {
+          "A": [
+            0.5,
+            0.5
+          ],
+          "B": [
+            4.5,
+            0.5
+          ],
+          "C": [
+            2.5,
+            1.7
+          ],
+          "D": [
+            7.5,
+            2.5
+          ],
+          "E": [
+            5.5,
+            0.5
+          ],
+          "F": [
+            9.5,
+            0.5
+          ],
+          "G": [
+            2,
+            5.5
+          ],
+          "H": [
+            4.5,
+            8
+          ],
+          "I": [
+            0.5,
+            7
+          ],
+          "J": [
+            6,
+            5.5
+          ],
+          "K": [
+            9,
+            5.5
+          ],
+          "L": [
+            7.5,
+            9.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "G",
+              "H",
+              "I"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-068",
+      "tezina": "tesko",
+      "pitanje": "Lea je geotrokutom provjerila kut trokuta: kut je veći od pravog kuta geotrokuta. Odaberi točnu tvrdnju o trokutu.",
+      "ponudeni": [
+        "Ima pravi kut i pravokutni je.",
+        "Ima šiljasti kut i pravokutni je.",
+        "Ima tupi kut i pravokutni je.",
+        "Ima tupi kut i nije pravokutni."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kut veći od pravog je tupi. Trokut s tupim kutom nema pravi kut, pa nije pravokutni.",
+      "savjet": "Prvo odredi vrstu tog kuta, a zatim razmisli može li uz njega postojati i pravi kut."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-069",
+      "tezina": "tesko",
+      "pitanje": "Lik ABCD podijeljen je dužinom DE na trokut AED i pravokutnik EBCD. Odaberi vrh kod kojeg trokut AED ima pravi kut.",
+      "ponudeni": [
+        "vrh A",
+        "vrh E",
+        "vrh D",
+        "nijedan vrh"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik EBCD ima pravi kut kod vrha E. Kut trokuta AED kod vrha E s njim čini ispruženi kut, pa je i on pravi.",
+      "savjet": "Pogledaj koji vrh trokut AED dijeli s pravokutnikom EBCD i kakvi su kutovi pravokutnika.",
+      "slika": {
+        "opis": "Lik ABCD podijeljen dužinom DE; lijevo je trokut AED, a desno pravokutnik EBCD.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "E": [
+            4,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            8
+          ],
+          "D": [
+            4,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "E",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-070",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima jedan pravi kut. Odaberi kakav može biti neki drugi kut tog trokuta.",
+      "ponudeni": [
+        "samo šiljasti",
+        "šiljasti ili pravi",
+        "šiljasti ili tupi",
+        "samo tupi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trokut s pravim kutom ne može imati još jedan pravi ni tupi kut, jer se stranice ne bi sastale. Zato su druga dva kuta šiljasta.",
+      "savjet": "Prisjeti se može li trokut imati dva prava kuta ili pravi i tupi kut zajedno."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-071",
+      "tezina": "tesko",
+      "pitanje": "Trokut ABC podijeljen je dužinom BD na dva manja trokuta. Odaberi koliko je ukupno pravokutnih trokuta na slici.",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "tocan": 1,
+      "objasnjenje": "△ABD i △DBC imaju pravi kut kod vrha D. Veliki △ABC ima samo šiljaste kutove, pa nije pravokutni.",
+      "savjet": "Ne zaboravi veliki trokut ABC, a zatim provjeri i dva manja.",
+      "slika": {
+        "opis": "Trokut ABC; dužina BD spaja vrh B s točkom D na stranici AC.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "C": [
+            9,
+            1
+          ],
+          "B": [
+            4,
+            8
+          ],
+          "D": [
+            4,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "D",
+              "B"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "C",
+              "B"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-072",
+      "tezina": "tesko",
+      "pitanje": "Odaberi trokut koji sigurno ima pravi kut.",
+      "ponudeni": [
+        "trokut s jednim tupim kutom",
+        "trokut kojem su sva tri kuta šiljasta",
+        "dio pravokutnika prerezanog od vrha do nasuprotnog vrha",
+        "trokut kojem su dva kuta šiljasta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pri rezanju pravokutnika od vrha do nasuprotnog vrha svaki dio zadrži jedan cijeli ugao pravokutnika, a to je pravi kut.",
+      "savjet": "Za svaki trokut razmisli odakle bi sigurno dobio pravi kut."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-073",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dva slično nagnuta trokuta. Odaberi koji je pravokutni i gdje mu je pravi kut.",
+      "ponudeni": [
+        "△ABC, kod vrha A",
+        "△DEF, kod vrha D",
+        "△ABC, kod vrha B",
+        "△DEF, kod vrha E"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U △ABC stranice AB i AC sastaju se pod pravim kutom kod vrha A. U △DEF kut kod vrha D veći je od pravog, pa je tupi.",
+      "savjet": "Usporedi kutove kod donjih lijevih vrhova obaju trokuta s pravim kutom geotrokuta.",
+      "slika": {
+        "opis": "Dva nagnuta trokuta: △ABC dolje i △DEF gore.",
+        "tocke": {
+          "A": [
+            3,
+            0.8
+          ],
+          "B": [
+            7.5,
+            2.3
+          ],
+          "C": [
+            1.8,
+            4.4
+          ],
+          "D": [
+            3,
+            5.5
+          ],
+          "E": [
+            7.5,
+            7
+          ],
+          "F": [
+            0.54,
+            8.39
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-074",
+      "tezina": "tesko",
+      "pitanje": "Marko kvadratni list papira presavije od ugla do nasuprotnog ugla, a zatim još jednom tako da se dva šiljasta vrha poklope. Odaberi oblik koji dobije.",
+      "ponudeni": [
+        "pravokutnik",
+        "manji pravokutni trokut",
+        "kvadrat",
+        "trokut s tupim kutom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad se šiljasti vrhovi poklope, novi pregib s rubom čini pravi kut. Dobivamo manji pravokutni trokut.",
+      "savjet": "Pokušaj to s listom papira i pogledaj kutove dobivenog lika."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-075",
+      "tezina": "tesko",
+      "pitanje": "Na slici su četiri trokuta. Odaberi jedini trokut koji nema pravi kut.",
+      "ponudeni": [
+        "△ABC",
+        "△DEF",
+        "△GHI",
+        "△JKL"
+      ],
+      "tocan": 2,
+      "objasnjenje": "△ABC, △DEF i △JKL imaju pravi kut, iako su različito okrenuti. △GHI ima samo šiljaste kutove.",
+      "savjet": "Kod svakog trokuta potraži vrh u kojem se stranice sastaju kao rubovi lista papira.",
+      "slika": {
+        "opis": "Četiri različito okrenuta trokuta: △ABC, △DEF, △GHI i △JKL.",
+        "tocke": {
+          "A": [
+            4.5,
+            4
+          ],
+          "B": [
+            0.5,
+            4
+          ],
+          "C": [
+            4.5,
+            0.5
+          ],
+          "D": [
+            7,
+            0.5
+          ],
+          "E": [
+            9.5,
+            3
+          ],
+          "F": [
+            5.5,
+            2
+          ],
+          "G": [
+            1,
+            5.5
+          ],
+          "H": [
+            4,
+            5.5
+          ],
+          "I": [
+            2.5,
+            9.5
+          ],
+          "J": [
+            7.5,
+            7.5
+          ],
+          "K": [
+            5.5,
+            5.5
+          ],
+          "L": [
+            9.5,
+            5.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "G",
+              "H",
+              "I"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-076",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koja tvrdnja o pravokutnom trokutu nije točna.",
+      "ponudeni": [
+        "Ima jedan pravi kut.",
+        "Može imati tupi kut.",
+        "Ima dva šiljasta kuta.",
+        "Ima tri vrha."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutni trokut osim pravog kuta ima samo šiljaste kutove, pa ne može imati tupi kut.",
+      "savjet": "Provjeri svaku tvrdnju: što znaš o kutovima pravokutnog trokuta?"
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-077",
+      "tezina": "tesko",
+      "pitanje": "U pravokutnom trokutu ABC kutovi kod vrhova A i B su šiljasti. Odaberi kod kojeg je vrha pravi kut.",
+      "ponudeni": [
+        "kod vrha A",
+        "kod vrha B",
+        "kod vrha C",
+        "nema pravog kuta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutni trokut ima jedan pravi kut. Kutovi kod vrhova A i B su šiljasti, pa je pravi kut kod vrha C.",
+      "savjet": "Prisjeti se koliko pravih kutova ima pravokutni trokut i koji kutovi to ne mogu biti."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-078",
+      "tezina": "tesko",
+      "pitanje": "Dužina CD dijeli trokut ABC na △ADC i △DBC. Odaberi koliko pravokutnih trokuta ima na slici, računajući i △ABC.",
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Samo veliki △ABC ima pravi kut, kod vrha C. Kutovi kod točke D nisu pravi, pa △ADC i △DBC nisu pravokutni.",
+      "savjet": "Provjeri tri trokuta: veliki △ABC i dva manja.",
+      "slika": {
+        "opis": "Trokut ABC; dužina CD spaja vrh C s točkom D na stranici AB.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            5,
+            5
+          ],
+          "D": [
+            3,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "D",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-079",
+      "tezina": "tesko",
+      "pitanje": "Ana tvrdi: „Svaki trokut koji ima dva šiljasta kuta je pravokutni.“ Odaberi točan odgovor.",
+      "ponudeni": [
+        "U pravu je, svaki takav trokut ima pravi kut.",
+        "Nije u pravu, i trokut s tupim kutom ima dva šiljasta kuta.",
+        "U pravu je, jer je šiljasti kut isto što i pravi.",
+        "Nije u pravu, jer pravokutni trokut nema šiljastih kutova."
+      ],
+      "tocan": 1,
+      "objasnjenje": "I trokut s tupim kutom ima dva šiljasta kuta, a nije pravokutni. Zato Anina tvrdnja nije točna.",
+      "savjet": "Prisjeti se koliko šiljastih kutova imaju trokuti bez pravog kuta."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-080",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ABCD prerezan je dužinom AE. Odaberi točnu tvrdnju o trokutu ABE.",
+      "ponudeni": [
+        "pravokutni je, pravi kut je kod vrha E",
+        "ima tupi kut kod vrha E",
+        "nema pravi kut",
+        "pravokutni je, pravi kut je kod vrha B"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kut kod vrha B je cijeli ugao kvadrata, dakle pravi. Kod vrha A ugao kvadrata je prerezan, pa je taj kut šiljasti.",
+      "savjet": "Pogledaj koji su vrhovi trokuta ABE ujedno vrhovi kvadrata i je li njihov ugao ostao cijeli.",
+      "slika": {
+        "opis": "Kvadrat ABCD; točka E je na stranici BC i nacrtana je dužina AE.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ],
+          "E": [
+            9,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "E"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "A",
+              "E",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-081",
+      "tezina": "tesko",
+      "pitanje": "Pravokutni trokut i trokut s tupim kutom imaju po tri kuta. Odaberi što imaju zajedničko.",
+      "ponudeni": [
+        "oba imaju po jedan pravi kut",
+        "oba imaju po jedan tupi kut",
+        "oba imaju po tri šiljasta kuta",
+        "oba imaju po dva šiljasta kuta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravokutni trokut ima pravi i dva šiljasta kuta, a trokut s tupim kutom tupi i dva šiljasta kuta. Zajedničko im je da imaju dva šiljasta kuta.",
+      "savjet": "Za svaki trokut posebno nabroji kakva su mu sva tri kuta."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-082",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koji trokut na slici ima pravi kut i kod kojeg vrha.",
+      "ponudeni": [
+        "△DEF, kod vrha D",
+        "△ABC, kod vrha A",
+        "△ABC, kod vrha C",
+        "△DEF, kod vrha F"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut kod vrha A je pravi, pa je △ABC pravokutni. Kut kod vrha D veći je od pravog, dakle tupi, pa △DEF nije pravokutni.",
+      "savjet": "Pažljivo usporedi kutove kod donjih lijevih vrhova s pravim kutom geotrokuta.",
+      "slika": {
+        "opis": "Dva trokuta: △ABC dolje i △DEF gore.",
+        "tocke": {
+          "A": [
+            1,
+            0.8
+          ],
+          "B": [
+            7,
+            0.8
+          ],
+          "C": [
+            1,
+            4.3
+          ],
+          "D": [
+            3,
+            5.5
+          ],
+          "E": [
+            9,
+            5.5
+          ],
+          "F": [
+            1.76,
+            9.3
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-083",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ima četiri prava kuta. Prerežemo ga od ugla do nasuprotnog ugla. Odaberi koliko pravih kutova imaju oba dijela zajedno.",
+      "ponudeni": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rez prolazi kroz dva ugla kvadrata i dijeli ih na šiljaste kutove. Cijela ostaju samo dva prava kuta, po jedan u svakom trokutu.",
+      "savjet": "Pogledaj koje je uglove kvadrata rez presjekao, a koji su ostali cijeli."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-084",
+      "tezina": "tesko",
+      "pitanje": "Dužina AD dijeli trokut ABC na dva trokuta. Odaberi sve pravokutne trokute na slici.",
+      "ponudeni": [
+        "△ABD i △ADC",
+        "△ABC i △ABD",
+        "△ABC i △ADC",
+        "samo △ABD"
+      ],
+      "tocan": 1,
+      "objasnjenje": "△ABC i △ABD imaju isti pravi kut kod vrha B. △ADC ima tupi kut kod vrha D, pa nije pravokutni.",
+      "savjet": "Uz dva manja trokuta provjeri i veliki trokut ABC.",
+      "slika": {
+        "opis": "Trokut ABC; točka D je na stranici BC i nacrtana je dužina AD.",
+        "tocke": {
+          "A": [
+            1,
+            8
+          ],
+          "B": [
+            1,
+            1
+          ],
+          "C": [
+            9,
+            1
+          ],
+          "D": [
+            5,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "A",
+              "D",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-085",
+      "tezina": "tesko",
+      "pitanje": "Odaberi lik koji možeš složiti od dva jednaka pravokutna trokuta.",
+      "ponudeni": [
+        "krug",
+        "kocku",
+        "polukrug",
+        "pravokutnik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad dva jednaka pravokutna trokuta spojimo uz najdulju stranicu, dobivamo pravokutnik. Tako smo ih i dobili rezanjem od ugla do ugla.",
+      "savjet": "Sjeti se kako smo rezanjem papira od ugla do ugla dobili dva pravokutna trokuta."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-086",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ABCD stoji na vrhu i prerezan je dužinom AC. Odaberi kod kojih su vrhova pravi kutovi dvaju dobivenih trokuta.",
+      "ponudeni": [
+        "kod vrhova A i C",
+        "kod vrhova B i D",
+        "kod vrhova A i B",
+        "kod vrhova C i D"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rez AC prolazi kroz vrhove A i C i dijeli njihove kutove na šiljaste. Cijeli pravi kutovi kvadrata ostaju kod vrhova B i D.",
+      "savjet": "Prisjeti se kakvi su svi kutovi kvadrata i koje je kutove rez presjekao.",
+      "slika": {
+        "opis": "Kvadrat ABCD okrenut tako da mu je vrh D dolje, a vrh B gore; nacrtana je dužina AC.",
+        "tocke": {
+          "A": [
+            1,
+            5
+          ],
+          "B": [
+            5,
+            9
+          ],
+          "C": [
+            9,
+            5
+          ],
+          "D": [
+            5,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "A",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-087",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koji od ovih trokuta ne može postojati.",
+      "ponudeni": [
+        "trokut s jednim pravim kutom",
+        "trokut s tri šiljasta kuta",
+        "trokut s jednim tupim kutom",
+        "trokut s dva prava kuta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut može imati najviše jedan pravi kut. S dva prava kuta druge dvije stranice ne bi se sastale.",
+      "savjet": "Za svaki trokut pokušaj zamisliti ili nacrtati kako bi izgledao."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-088",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o nagnutom trokutu XYZ na slici.",
+      "ponudeni": [
+        "Pravokutni je, pravi kut je kod vrha Y.",
+        "Nije pravokutni, ima tupi kut kod vrha X.",
+        "Pravokutni je, pravi kut je kod vrha X.",
+        "Nije pravokutni, svi su mu kutovi šiljasti."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice XY i XZ sastaju se pod pravim kutom, iako nijedna nije vodoravna. Zato je △XYZ pravokutni s pravim kutom kod vrha X.",
+      "savjet": "Zamisli da okrećeš papir dok jedna stranica ne bude vodoravna, pa pogledaj kutove.",
+      "slika": {
+        "opis": "Nagnuti trokut XYZ; vrh X je dolje, Y desno, a Z gore lijevo.",
+        "tocke": {
+          "X": [
+            4.5,
+            0.8
+          ],
+          "Y": [
+            9.5,
+            3.8
+          ],
+          "Z": [
+            0.3,
+            7.8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "X",
+              "Y",
+              "Z"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-089",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koji je trokut pravokutni.",
+      "ponudeni": [
+        "trokut kojem se dvije stranice poklapaju s rubovima ugla lista",
+        "trokut kojem je jedan kut veći od pravog",
+        "trokut kojem je svaki kut manji od pravog",
+        "trokut kojem su dva kuta tupa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rubovi u uglu lista čine pravi kut. Ako se dvije stranice trokuta s njima poklapaju, trokut ima pravi kut i pravokutni je.",
+      "savjet": "Prisjeti se kakav kut čine rubovi u uglu lista papira."
+    },
+    {
+      "id": "4-matematika-pravokutni-trokut-090",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ABCD dužinama DE i CE podijeljen je na tri trokuta. Odaberi pravokutne trokute.",
+      "ponudeni": [
+        "△AED i △DEC",
+        "△EBC i △DEC",
+        "samo △DEC",
+        "△AED i △EBC"
+      ],
+      "tocan": 3,
+      "objasnjenje": "△AED ima pravi kut kod vrha A, a △EBC kod vrha B, jer su to cijeli uglovi kvadrata. △DEC nema pravi kut.",
+      "savjet": "Potraži trokute koji su zadržali cijeli ugao kvadrata.",
+      "slika": {
+        "opis": "Kvadrat ABCD; točka E je na stranici AB, nacrtane su dužine DE i CE.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ],
+          "E": [
+            5,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "E",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      }
+    }
+  ]
+}

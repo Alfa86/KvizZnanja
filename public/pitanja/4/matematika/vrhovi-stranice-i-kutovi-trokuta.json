@@ -1,0 +1,2958 @@
+{
+  "lekcijaId": "vrhovi-stranice-i-kutovi-trokuta",
+  "pitanja": [
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko vrhova ima trokut?",
+      "ponudeni": [
+        "6",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trokut ima tri vrha. U svakom vrhu sastaju se dvije stranice.",
+      "savjet": "Prebroji točke u kojima se sastaju stranice trokuta."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-002",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovima označavaju vrhovi trokuta?",
+      "ponudeni": [
+        "velikim tiskanim slovima",
+        "malim tiskanim slovima",
+        "grčkim slovima",
+        "brojevima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrhovi trokuta označavaju se velikim tiskanim slovima, na primjer A, B i C.",
+      "savjet": "Sjeti se kako su napisana slova u zapisu △ABC."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-003",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovima označavaju stranice trokuta?",
+      "ponudeni": [
+        "rimskim brojevima",
+        "velikim tiskanim slovima",
+        "grčkim slovima",
+        "malim tiskanim slovima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice trokuta označavaju se malim tiskanim slovima a, b i c.",
+      "savjet": "Stranica dobiva isto slovo kao vrh nasuprot njoj, samo drukčije napisano."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-004",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovima obično označavaju kutovi trokuta?",
+      "ponudeni": [
+        "malim slovima a, b i c",
+        "grčkim slovima α, β i γ",
+        "velikim slovima A, B i C",
+        "brojevima 1, 2 i 3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kutovi trokuta obično se označavaju grčkim slovima α (alfa), β (beta) i γ (gama).",
+      "savjet": "Za kutove se koriste slova koja ne pripadaju našoj abecedi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točku na slici koja nije vrh trokuta.",
+      "slika": {
+        "opis": "Trokut i četiri označene točke: A, B, C i D.",
+        "tocke": {
+          "A": [
+            1,
+            5
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            8.5,
+            9.5
+          ],
+          "D": [
+            6,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "B",
+        "A",
+        "D",
+        "C"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrhovi trokuta su točke A, B i C. Točka D nalazi se unutar trokuta pa nije njegov vrh.",
+      "savjet": "Vrh je točka u kojoj se sastaju dvije stranice trokuta."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-006",
+      "tezina": "lagano",
+      "pitanje": "Koliko stranica ima trokut?",
+      "ponudeni": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut ima tri stranice. Svaka stranica je dužina koja spaja dva vrha.",
+      "savjet": "Prebroji dužine koje omeđuju trokut."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-007",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o trokutu.",
+      "ponudeni": [
+        "Trokut ima 3 vrha, 3 stranice i 6 kutova.",
+        "Trokut ima 3 vrha, 3 stranice i 3 kuta.",
+        "Trokut ima 3 vrha, 6 stranica i 3 kuta.",
+        "Trokut ima 4 vrha, 3 stranice i 3 kuta."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut ima tri vrha, tri stranice i tri kuta. Zato se i zove trokut.",
+      "savjet": "Ime lika govori koliko kutova ima."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-008",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kraći zapis za „trokut ABC“.",
+      "ponudeni": [
+        "○ABC",
+        "△ABC",
+        "□ABC",
+        "∠ABC"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znak △ znači trokut, pa se trokut ABC kraće zapisuje △ABC. Znak ∠ označava kut.",
+      "savjet": "Znak ispred slova treba izgledati kao lik o kojem je riječ."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-009",
+      "tezina": "lagano",
+      "pitanje": "Odaberi slovo kojim se označava stranica označena upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC: stranica CA označena je s b, stranica AB s c, a stranica BC upitnikom.",
+        "tocke": {
+          "A": [
+            5,
+            9
+          ],
+          "B": [
+            1,
+            1.5
+          ],
+          "C": [
+            9,
+            2.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "b"
+          },
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "c"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "a",
+        "c",
+        "α",
+        "b"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica BC leži nasuprot vrhu A pa se označava malim slovom a.",
+      "savjet": "Pogledaj koji vrh leži nasuprot stranici s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-010",
+      "tezina": "lagano",
+      "pitanje": "Odaberi oznaku kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A označen je upitnikom.",
+        "tocke": {
+          "A": [
+            9,
+            5
+          ],
+          "B": [
+            1,
+            9
+          ],
+          "C": [
+            2,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "γ",
+        "α",
+        "β",
+        "a"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut pri vrhu A označava se grčkim slovom α (alfa).",
+      "savjet": "Kut dobiva grčko slovo koje odgovara slovu njegova vrha."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-011",
+      "tezina": "lagano",
+      "pitanje": "Odaberi grčko slovo kojim se označava kut pri vrhu B.",
+      "ponudeni": [
+        "α",
+        "γ",
+        "β",
+        "b"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut pri vrhu B označava se slovom β (beta), drugim slovom grčke abecede.",
+      "savjet": "Grčka slova za kutove idu istim redom kao slova vrhova."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-012",
+      "tezina": "lagano",
+      "pitanje": "Odaberi slovo kojim se označava stranica nasuprot vrhu C.",
+      "ponudeni": [
+        "c",
+        "γ",
+        "a",
+        "b"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica nasuprot vrhu C označava se malim slovom c. To je stranica AB.",
+      "savjet": "Sjeti se označavaju li se stranice velikim ili malim slovima."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi oznaku stranice označene upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; stranica CA označena je upitnikom.",
+        "tocke": {
+          "A": [
+            8.5,
+            1.5
+          ],
+          "B": [
+            6,
+            9
+          ],
+          "C": [
+            1,
+            3
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "b",
+        "c",
+        "a",
+        "β"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica CA leži nasuprot vrhu B pa se označava slovom b.",
+      "savjet": "Pronađi vrh koji ne dodiruje stranicu s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-014",
+      "tezina": "lagano",
+      "pitanje": "Vrhovi trokuta su točke A, B i C. Odaberi kako se zove taj trokut.",
+      "ponudeni": [
+        "kut ABC",
+        "trokut αβγ",
+        "trokut AB",
+        "trokut ABC"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut se imenuje po svojim vrhovima, pa je to trokut ABC.",
+      "savjet": "Trokut dobiva ime po točkama koje su mu vrhovi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-015",
+      "tezina": "lagano",
+      "pitanje": "Odaberi vrh pri kojem se nalazi kut označen upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; jedan kut trokuta označen je upitnikom.",
+        "tocke": {
+          "A": [
+            4,
+            1
+          ],
+          "B": [
+            9,
+            9
+          ],
+          "C": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "B",
+        "A",
+        "C",
+        "γ"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut označen upitnikom nalazi se pri vrhu C. To je kut γ.",
+      "savjet": "Kut se nalazi u točki u kojoj se sastaju njegovi kraci."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-016",
+      "tezina": "lagano",
+      "pitanje": "Odaberi vrh △ABC pri kojem se nalazi kut α.",
+      "ponudeni": [
+        "B",
+        "A",
+        "C",
+        "α"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut α nalazi se pri vrhu A. Grčko slovo α odgovara našem slovu A.",
+      "savjet": "α je prvo slovo grčke abecede."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-017",
+      "tezina": "lagano",
+      "pitanje": "Odaberi dužinu koja je stranica △ABC.",
+      "slika": {
+        "opis": "Trokut ABC, točka D unutar trokuta i isprekidana dužina AD.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4.5,
+            9
+          ],
+          "D": [
+            5,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "CD",
+        "AD",
+        "AB",
+        "BD"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranica trokuta spaja dva njegova vrha. Dužina AB spaja vrhove A i B.",
+      "savjet": "Stranica trokuta spaja dva vrha tog trokuta."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-018",
+      "tezina": "lagano",
+      "pitanje": "Odaberi vrhove koje spaja stranica b u △ABC.",
+      "ponudeni": [
+        "A, B i C",
+        "A i C",
+        "B i C",
+        "A i B"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranica b leži nasuprot vrhu B, pa spaja preostala dva vrha, A i C.",
+      "savjet": "Stranica b ne dodiruje vrh koji se zove istim slovom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-019",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom označava kut označen upitnikom?",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu B označen je upitnikom.",
+        "tocke": {
+          "A": [
+            9,
+            8.5
+          ],
+          "B": [
+            1,
+            7
+          ],
+          "C": [
+            6,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "B",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "γ",
+        "β",
+        "b",
+        "α"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut pri vrhu B označava se slovom β (beta).",
+      "savjet": "Pogledaj pri kojem se vrhu nalazi kut s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-020",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv točke u kojoj se sastaju dvije stranice trokuta.",
+      "ponudeni": [
+        "krak",
+        "vrh",
+        "kut",
+        "središte"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka u kojoj se sastaju dvije stranice trokuta zove se vrh trokuta.",
+      "savjet": "Trokut ima tri takve točke i one se označavaju velikim slovima."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-021",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv za dužine koje omeđuju trokut.",
+      "ponudeni": [
+        "kutovi",
+        "kraci",
+        "stranice",
+        "vrhovi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužine koje omeđuju trokut zovu se stranice trokuta.",
+      "savjet": "Te se dužine označavaju malim slovima."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-022",
+      "tezina": "lagano",
+      "pitanje": "Odaberi dužinu koja je na slici označena slovom b.",
+      "slika": {
+        "opis": "Trokut ABC sa stranicama označenima slovima a, b i c.",
+        "tocke": {
+          "A": [
+            2,
+            9
+          ],
+          "B": [
+            1,
+            1
+          ],
+          "C": [
+            9,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "a"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "b"
+          },
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "c"
+          }
+        ]
+      },
+      "ponudeni": [
+        "dužina AB",
+        "dužina BC",
+        "točka B",
+        "dužina CA"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slovom b označena je dužina CA. Ona leži nasuprot vrhu B.",
+      "savjet": "Pronađi slovo b na slici i pogledaj koje vrhove spaja ta stranica."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-023",
+      "tezina": "lagano",
+      "pitanje": "Ana je nacrtala trokut i označila sve njegove kutove. Odaberi koliko je oznaka kutova napisala.",
+      "ponudeni": [
+        "4",
+        "6",
+        "3",
+        "2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trokut ima tri kuta, pa je Ana napisala tri oznake: α, β i γ.",
+      "savjet": "Svaki vrh trokuta ima jedan kut."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-024",
+      "tezina": "lagano",
+      "pitanje": "Na slici su označena dva kuta trokuta. Odaberi oznaku kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A označen je s α, kut pri vrhu B s β, a kut pri vrhu C upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4.5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "α"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "β"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "γ",
+        "α",
+        "c",
+        "δ"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut pri vrhu C označava se slovom γ (gama).",
+      "savjet": "Nakon α i β dolazi sljedeće grčko slovo."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-025",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se čita zapis △ABC.",
+      "ponudeni": [
+        "kut ABC",
+        "trokut ABC",
+        "točka ABC",
+        "dužina ABC"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znak △ znači trokut, pa se △ABC čita „trokut ABC“.",
+      "savjet": "Pogledaj kakav je znak napisan ispred slova."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-026",
+      "tezina": "lagano",
+      "pitanje": "Zapis ∠A označava kut pri vrhu A. Odaberi zapis kuta pri vrhu C.",
+      "ponudeni": [
+        "∠C",
+        "∠γ",
+        "△C",
+        "c"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut pri vrhu C zapisuje se ∠C, a može se označiti i slovom γ.",
+      "savjet": "Uz znak za kut piše se ime vrha, i to velikim slovom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-027",
+      "tezina": "lagano",
+      "pitanje": "Odaberi slovo kojim se označava stranica s upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB označena je upitnikom.",
+        "tocke": {
+          "A": [
+            9,
+            5
+          ],
+          "B": [
+            1,
+            9
+          ],
+          "C": [
+            2,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "a",
+        "γ",
+        "c",
+        "b"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranica AB leži nasuprot vrhu C pa se označava slovom c.",
+      "savjet": "Pronađi vrh koji ne leži na stranici s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-028",
+      "tezina": "lagano",
+      "pitanje": "Odaberi vrhove △KLM.",
+      "ponudeni": [
+        "dužine KL, LM i MK",
+        "stranice k, l i m",
+        "točke K, L i M",
+        "kutovi K, L i M"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrhovi trokuta su točke napisane u njegovu imenu: K, L i M.",
+      "savjet": "Vrhovi trokuta označavaju se velikim slovima."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-029",
+      "tezina": "lagano",
+      "pitanje": "Odaberi oznaku kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A označen je s α, kut pri vrhu C s γ, a kut pri vrhu B upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            5
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            8.5,
+            9.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "α"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "?"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "γ"
+          }
+        ]
+      },
+      "ponudeni": [
+        "γ",
+        "β",
+        "α",
+        "b"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut pri vrhu B označava se slovom β (beta).",
+      "savjet": "Pogledaj koje grčko slovo nedostaje."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-030",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko se stranica trokuta sastaje u jednom vrhu.",
+      "ponudeni": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U svakom vrhu trokuta sastaju se dvije stranice. One su kraci kuta pri tom vrhu.",
+      "savjet": "Pogledaj bilo koji vrh trokuta i prebroji stranice koje iz njega izlaze."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-031",
+      "tezina": "srednje",
+      "pitanje": "Odaberi vrh koji leži nasuprot stranici označenoj upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB označena je upitnikom.",
+        "tocke": {
+          "A": [
+            8.5,
+            1.5
+          ],
+          "B": [
+            6,
+            9
+          ],
+          "C": [
+            1,
+            3
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "C",
+        "B",
+        "γ"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranica s upitnikom spaja vrhove A i B. Nasuprot njoj leži vrh C.",
+      "savjet": "Nasuprotni vrh ne dodiruje tu stranicu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-032",
+      "tezina": "srednje",
+      "pitanje": "Odaberi dužinu koja je stranica a u △ABC.",
+      "ponudeni": [
+        "AB",
+        "BC",
+        "CA",
+        "AD"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranica a leži nasuprot vrhu A, pa spaja vrhove B i C. To je dužina BC.",
+      "savjet": "Stranica a ne dodiruje vrh A."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-033",
+      "tezina": "srednje",
+      "pitanje": "Dužina AB stranica je △ABC. Odaberi njezinu oznaku.",
+      "ponudeni": [
+        "ab",
+        "b",
+        "a",
+        "c"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina AB leži nasuprot vrhu C, pa se označava slovom c.",
+      "savjet": "Pronađi vrh trokuta koji ne leži na dužini AB."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-034",
+      "tezina": "srednje",
+      "pitanje": "Odaberi zapis kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu B označen je upitnikom.",
+        "tocke": {
+          "A": [
+            9,
+            8.5
+          ],
+          "B": [
+            1,
+            7
+          ],
+          "C": [
+            6,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "B",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "∠ABC",
+        "∠BCA",
+        "∠BAC",
+        "∠ACB"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut s upitnikom nalazi se pri vrhu B. U zapisu kuta slovo vrha piše se u sredini: ∠ABC.",
+      "savjet": "U zapisu kuta slovo vrha stoji u sredini."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-035",
+      "tezina": "srednje",
+      "pitanje": "Odaberi drugi zapis za kut γ u △ABC.",
+      "ponudeni": [
+        "∠ABC",
+        "∠BAC",
+        "∠CAB",
+        "∠ACB"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kut γ nalazi se pri vrhu C, a u zapisu kuta vrh je u sredini: ∠ACB.",
+      "savjet": "Prvo odredi pri kojem je vrhu kut γ."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-036",
+      "tezina": "srednje",
+      "pitanje": "Odaberi oznaku stranice koja leži nasuprot kutu označenom upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu B označen je upitnikom.",
+        "tocke": {
+          "A": [
+            9,
+            5
+          ],
+          "B": [
+            1,
+            9
+          ],
+          "C": [
+            2,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "B",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "β",
+        "c",
+        "a",
+        "b"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kut s upitnikom nalazi se pri vrhu B. Nasuprot njemu leži stranica CA, koja se označava slovom b.",
+      "savjet": "Pronađi stranicu koja nije krak kuta s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-037",
+      "tezina": "srednje",
+      "pitanje": "Odaberi vrh △ABC u kojem se sastaju stranice a i c.",
+      "ponudeni": [
+        "β",
+        "B",
+        "C",
+        "A"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranica a spaja vrhove B i C, a stranica c vrhove A i B. Zajednički im je vrh B.",
+      "savjet": "Za svaku stranicu odredi koje vrhove spaja."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-038",
+      "tezina": "srednje",
+      "pitanje": "Odaberi zapis koji označava isti trokut kao △ABC.",
+      "ponudeni": [
+        "△BCD",
+        "△BCA",
+        "△ABD",
+        "△ACD"
+      ],
+      "tocan": 1,
+      "objasnjenje": "△BCA ima iste vrhove A, B i C, samo zapisane od vrha B. To je isti trokut.",
+      "savjet": "Usporedi točke koje su vrhovi u svakom zapisu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-039",
+      "tezina": "srednje",
+      "pitanje": "Na slici je jedna stranica pogrešno označena. Odaberi slovo kojim je treba ispravno označiti.",
+      "slika": {
+        "opis": "Trokut ABC; stranica BC označena je s a, stranica CA s c i stranica AB s c.",
+        "tocke": {
+          "A": [
+            1,
+            5
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            8.5,
+            9.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "a"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "c"
+          },
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "c"
+          }
+        ]
+      },
+      "ponudeni": [
+        "c",
+        "a",
+        "β",
+        "b"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranica CA leži nasuprot vrhu B, pa je treba označiti slovom b, a ne c.",
+      "savjet": "Za svaku stranicu provjeri leži li nasuprot vrhu s istim slovom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-040",
+      "tezina": "srednje",
+      "pitanje": "Na slici je △KLM. Odaberi oznaku stranice označene upitnikom.",
+      "slika": {
+        "opis": "Trokut KLM; stranica LM označena je upitnikom.",
+        "tocke": {
+          "K": [
+            1,
+            1
+          ],
+          "L": [
+            9,
+            3
+          ],
+          "M": [
+            3,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "k",
+        "l",
+        "m",
+        "α"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica LM leži nasuprot vrhu K, pa se označava malim slovom k.",
+      "savjet": "I ovdje stranica dobiva malo slovo vrha koji leži nasuprot njoj."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-041",
+      "tezina": "srednje",
+      "pitanje": "Odaberi oznaku stranice △ABC koja leži nasuprot kutu β.",
+      "ponudeni": [
+        "a",
+        "b",
+        "β",
+        "c"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut β nalazi se pri vrhu B, a nasuprot vrhu B leži stranica b.",
+      "savjet": "Prvo odredi pri kojem je vrhu kut β."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-042",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kut koji leži nasuprot stranici označenoj upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; stranica CA označena je upitnikom.",
+        "tocke": {
+          "A": [
+            2,
+            9
+          ],
+          "B": [
+            1,
+            1
+          ],
+          "C": [
+            9,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "γ",
+        "α",
+        "b",
+        "β"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranica s upitnikom spaja vrhove C i A. Nasuprot njoj je vrh B s kutom β.",
+      "savjet": "Pronađi vrh koji ne leži na stranici s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-043",
+      "tezina": "srednje",
+      "pitanje": "Odaberi stranice △ABC koje izlaze iz vrha A.",
+      "ponudeni": [
+        "b i c",
+        "a i b",
+        "samo a",
+        "a i c"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iz vrha A izlaze stranice AB i AC. Njihove oznake su c i b.",
+      "savjet": "Stranica nasuprot vrhu A ne izlazi iz njega."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-044",
+      "tezina": "srednje",
+      "pitanje": "Odaberi stranicu △ABC koja ne prolazi vrhom C.",
+      "ponudeni": [
+        "c",
+        "b",
+        "γ",
+        "a"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrh C leži na stranicama a i b. Stranica c spaja vrhove A i B, pa ne prolazi vrhom C.",
+      "savjet": "Stranica koja ne prolazi nekim vrhom leži nasuprot tom vrhu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-045",
+      "tezina": "srednje",
+      "pitanje": "Odaberi zapis trokuta koji je nacrtan na slici.",
+      "slika": {
+        "opis": "Trokut ABC; točka D leži na stranici AB, točka E na stranici CA, a dužina CD spaja vrh C s točkom D.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4,
+            9
+          ],
+          "D": [
+            6,
+            1.5
+          ],
+          "E": [
+            2.5,
+            5.25
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "D",
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "△ACE",
+        "△ABD",
+        "△DBC",
+        "△BCE"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve tri stranice △DBC nacrtane su na slici. Točke A, B i D leže na istoj dužini, kao i točke A, C i E, pa ne čine trokut.",
+      "savjet": "Za svaki zapis provjeri jesu li nacrtane sve tri stranice."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-046",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o △ABC.",
+      "ponudeni": [
+        "Stranica a spaja vrhove A i B.",
+        "Stranica b spaja vrhove A i B.",
+        "Kut α nalazi se pri vrhu B.",
+        "Stranica a leži nasuprot vrhu A."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranica se označava malim slovom vrha koji leži nasuprot njoj, pa stranica a leži nasuprot vrhu A.",
+      "savjet": "Za svaku tvrdnju sjeti se pravila za označavanje stranica i kutova."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-047",
+      "tezina": "srednje",
+      "pitanje": "Kut označen upitnikom zapiši pomoću triju slova. Odaberi točan zapis.",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A označen je upitnikom.",
+        "tocke": {
+          "A": [
+            4,
+            1
+          ],
+          "B": [
+            9,
+            9
+          ],
+          "C": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "∠ACB",
+        "∠CAB",
+        "∠BCA",
+        "∠ABC"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut s upitnikom nalazi se pri vrhu A, pa je njegov zapis ∠CAB ili ∠BAC.",
+      "savjet": "Slovo vrha piše se između slova ostalih dviju točaka."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-048",
+      "tezina": "srednje",
+      "pitanje": "Odaberi zapis koji označava drukčiji trokut od ostalih.",
+      "ponudeni": [
+        "△CAB",
+        "△BCA",
+        "△ABD",
+        "△ABC"
+      ],
+      "tocan": 2,
+      "objasnjenje": "△ABC, △BCA i △CAB imaju iste vrhove A, B i C. Samo △ABD ima vrh D.",
+      "savjet": "Usporedi slova vrhova u svakom zapisu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-049",
+      "tezina": "srednje",
+      "pitanje": "Na slici je △DEF. Odaberi zapis kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut DEF; kut pri vrhu E označen je upitnikom.",
+        "tocke": {
+          "D": [
+            8,
+            9
+          ],
+          "E": [
+            1,
+            6
+          ],
+          "F": [
+            7,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "E",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "∠EFD",
+        "∠DFE",
+        "∠EDF",
+        "∠DEF"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kut s upitnikom nalazi se pri vrhu E, pa se zapisuje ∠DEF ili ∠FED.",
+      "savjet": "Pronađi vrh kuta i napiši ga u sredinu zapisa."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-050",
+      "tezina": "srednje",
+      "pitanje": "Odaberi oznaku stranice △KLM koja leži nasuprot vrhu L.",
+      "ponudeni": [
+        "l",
+        "α",
+        "k",
+        "m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica nasuprot vrhu L označava se malim slovom l. To je stranica KM.",
+      "savjet": "Pravilo je isto kao u △ABC: stranica dobiva malo slovo nasuprotnog vrha."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-051",
+      "tezina": "srednje",
+      "pitanje": "Na slici je jedan kut pogrešno označen. Odaberi oznaku koju treba napisati umjesto pogrešne.",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu A označen je s α, kut pri vrhu B s β i kut pri vrhu C s β.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4.5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "α"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "β"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "β"
+          }
+        ]
+      },
+      "ponudeni": [
+        "α",
+        "β",
+        "γ",
+        "c"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut pri vrhu C mora se označiti slovom γ, a ne β.",
+      "savjet": "Za svaki vrh provjeri odgovara li grčko slovo slovu vrha."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-052",
+      "tezina": "srednje",
+      "pitanje": "Odaberi oznaku stranice △ABC koja spaja vrhove kutova α i β.",
+      "ponudeni": [
+        "b",
+        "γ",
+        "c",
+        "a"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut α je pri vrhu A, a kut β pri vrhu B. Stranica AB označava se slovom c.",
+      "savjet": "Odredi pri kojim su vrhovima ti kutovi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-053",
+      "tezina": "srednje",
+      "pitanje": "Odaberi dužinu označenu upitnikom i njezinu oznaku.",
+      "slika": {
+        "opis": "Trokut ABC; jedna stranica označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            8
+          ],
+          "B": [
+            3,
+            1
+          ],
+          "C": [
+            9,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "BC, oznaka c",
+        "CA, oznaka b",
+        "AB, oznaka c",
+        "AB, oznaka a"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Upitnik je na dužini AB. Ona leži nasuprot vrhu C, pa se označava slovom c.",
+      "savjet": "Prvo pročitaj krajnje točke dužine, zatim pronađi nasuprotni vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-054",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kut △ABC koji leži između stranica b i c.",
+      "ponudeni": [
+        "a",
+        "γ",
+        "α",
+        "β"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice b i c sastaju se u vrhu A, a kut pri vrhu A je α.",
+      "savjet": "Odredi vrh u kojem se te dvije stranice sastaju."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-055",
+      "tezina": "srednje",
+      "pitanje": "Odaberi stranicu koja je zajednička △ADC i △DBC.",
+      "slika": {
+        "opis": "Trokut ABC; točka D leži na stranici AB i spojena je s vrhom C.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4,
+            9
+          ],
+          "D": [
+            6,
+            1.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ]
+      },
+      "ponudeni": [
+        "CA",
+        "AB",
+        "BC",
+        "CD"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina CD stranica je i △ADC i △DBC. Ona dijeli △ABC na ta dva trokuta.",
+      "savjet": "Zapiši stranice svakog trokuta i usporedi ih."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-056",
+      "tezina": "srednje",
+      "pitanje": "Odaberi oznaku kuta △ABC koji se zapisuje ∠BCA.",
+      "ponudeni": [
+        "β",
+        "γ",
+        "c",
+        "α"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U zapisu ∠BCA srednje slovo je C, pa je to kut pri vrhu C, odnosno γ.",
+      "savjet": "Pogledaj koje slovo stoji u sredini zapisa."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-057",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kut △ABC koji leži nasuprot stranici a.",
+      "ponudeni": [
+        "b",
+        "γ",
+        "β",
+        "α"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranica a leži nasuprot vrhu A, a pri vrhu A je kut α.",
+      "savjet": "Odredi koji vrh leži nasuprot toj stranici."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-058",
+      "tezina": "srednje",
+      "pitanje": "Odaberi trokut kojemu je dužina KL stranica.",
+      "ponudeni": [
+        "△LMN",
+        "△MNP",
+        "△KLM",
+        "△KMN"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužina KL spaja točke K i L, a samo △KLM ima oba ta vrha.",
+      "savjet": "Trokut mora imati oba kraja te dužine kao svoje vrhove."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-059",
+      "tezina": "srednje",
+      "pitanje": "Odaberi stranice između kojih leži kut označen upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; kut pri vrhu C označen je upitnikom.",
+        "tocke": {
+          "A": [
+            8.5,
+            1.5
+          ],
+          "B": [
+            6,
+            9
+          ],
+          "C": [
+            1,
+            3
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "samo c",
+        "a i b",
+        "a i c",
+        "b i c"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut s upitnikom nalazi se pri vrhu C. Njegovi kraci su stranice CB i CA, odnosno a i b.",
+      "savjet": "Kraci kuta trokuta su dvije stranice koje izlaze iz njegova vrha."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-060",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko ukupno vrhova, stranica i kutova ima jedan trokut.",
+      "ponudeni": [
+        "12",
+        "6",
+        "3",
+        "9"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut ima 3 vrha, 3 stranice i 3 kuta, a 3 + 3 + 3 = 9.",
+      "savjet": "Zbroji vrhove, stranice i kutove."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-061",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko je trokuta na slici.",
+      "slika": {
+        "opis": "Trokut ABC; točka D leži na stranici AB i spojena je s vrhom C.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4,
+            9
+          ],
+          "D": [
+            6,
+            1.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ]
+      },
+      "ponudeni": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na slici su △ADC i △DBC, ali i cijeli △ABC. Ukupno su to 3 trokuta.",
+      "savjet": "Ne zaboravi trokut sastavljen od dvaju manjih."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-062",
+      "tezina": "tesko",
+      "pitanje": "Odredi broj trokuta na slici.",
+      "slika": {
+        "opis": "Trokut ABC; točke D i E leže na stranici AB i obje su spojene s vrhom C.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            5,
+            9
+          ],
+          "D": [
+            3.5,
+            1.5
+          ],
+          "E": [
+            6.5,
+            1.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "C",
+            "do": "E"
+          }
+        ]
+      },
+      "ponudeni": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mali trokuti su △ADC, △DEC i △EBC. Od po dva mala sastavljeni su △AEC i △DBC, a tu je i cijeli △ABC, ukupno 6.",
+      "savjet": "Prebroji male trokute, zatim one sastavljene od dvaju i od triju malih."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-063",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ABCD podijeljen je dužinama AC i BD. Odaberi koliko je trokuta na slici.",
+      "slika": {
+        "opis": "Kvadrat ABCD s dužinama AC i BD koje se sijeku u točki S.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ],
+          "S": [
+            5,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "C"
+          },
+          {
+            "od": "B",
+            "do": "D"
+          }
+        ]
+      },
+      "ponudeni": [
+        "8",
+        "10",
+        "4",
+        "6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Četiri mala trokuta imaju vrh S, a još četiri veća trokuta su △ABC, △BCD, △CDA i △DAB. Ukupno ih je 8.",
+      "savjet": "Uz četiri mala trokuta potraži i veće trokute sastavljene od dvaju malih."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-064",
+      "tezina": "tesko",
+      "pitanje": "Prebroji sve trokute na slici. Odaberi točan broj.",
+      "slika": {
+        "opis": "Trokut ABC; točka D leži na stranici AB, točka E na stranici BC, a nacrtane su dužine CD i DE.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            3,
+            9
+          ],
+          "D": [
+            5,
+            1.5
+          ],
+          "E": [
+            6,
+            5.25
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "D",
+            "do": "E"
+          }
+        ]
+      },
+      "ponudeni": [
+        "4",
+        "6",
+        "5",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trokuti su △ABC, △ADC, △DBC, △DBE i △DEC. Ukupno ih je 5.",
+      "savjet": "Traži i male trokute i one sastavljene od više dijelova."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-065",
+      "tezina": "tesko",
+      "pitanje": "Trokut ABC podijeljen je dužinama DE, EF i FD. Odaberi koliko je trokuta na slici.",
+      "slika": {
+        "opis": "Trokut ABC; točka D je na stranici AB, točka E na stranici BC, točka F na stranici CA, a nacrtane su dužine DE, EF i FD.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            5,
+            9
+          ],
+          "D": [
+            5,
+            1
+          ],
+          "E": [
+            7,
+            5
+          ],
+          "F": [
+            3,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E"
+          },
+          {
+            "od": "E",
+            "do": "F"
+          },
+          {
+            "od": "F",
+            "do": "D"
+          }
+        ]
+      },
+      "ponudeni": [
+        "4",
+        "6",
+        "5",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Četiri mala trokuta su △ADF, △DBE, △FEC i △DEF, a peti je cijeli △ABC.",
+      "savjet": "Ne zaboravi ni trokut u sredini ni veliki trokut oko svih."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-066",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko trokuta na slici ima vrh A.",
+      "slika": {
+        "opis": "Trokut ABC; točke D i E leže na stranici AB i obje su spojene s vrhom C.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            5,
+            9
+          ],
+          "D": [
+            3.5,
+            1.5
+          ],
+          "E": [
+            6.5,
+            1.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "C",
+            "do": "E"
+          }
+        ]
+      },
+      "ponudeni": [
+        "6",
+        "3",
+        "4",
+        "2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrh A imaju △ADC, △AEC i △ABC.",
+      "savjet": "Drugi vrh takvog trokuta je C, a treći neka točka na dužini AB."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-067",
+      "tezina": "tesko",
+      "pitanje": "Na slici su označene stranice trokuta, ali ne i vrhovi. Odaberi oznaku kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut bez imena vrhova; stranice su označene slovima a, b i c, a jedan kut upitnikom.",
+        "tocke": {
+          "A": [
+            9,
+            5
+          ],
+          "B": [
+            1,
+            9
+          ],
+          "C": [
+            2,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "a"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "b"
+          },
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "c"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "?"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "α",
+        "a",
+        "β",
+        "γ"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut s upitnikom leži nasuprot stranici a, pa je u vrhu A i označava se s α.",
+      "savjet": "Pogledaj koja stranica leži nasuprot kutu s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-068",
+      "tezina": "tesko",
+      "pitanje": "Na slici su označena dva kuta trokuta. Odaberi oznaku stranice označene upitnikom.",
+      "slika": {
+        "opis": "Trokut bez imena vrhova; dva kuta označena su s α i γ, a stranica između njihovih vrhova upitnikom.",
+        "tocke": {
+          "A": [
+            2,
+            9
+          ],
+          "B": [
+            1,
+            1
+          ],
+          "C": [
+            9,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "α"
+          },
+          {
+            "vrh": "C",
+            "oznaka": "γ"
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "c",
+        "b",
+        "β",
+        "a"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranica s upitnikom spaja vrhove kutova α i γ, odnosno vrhove A i C. To je stranica b.",
+      "savjet": "Pomoću oznaka kutova odredi vrhove na krajevima stranice s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-069",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko kutova △ABC ima stranicu a za krak.",
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranica a spaja vrhove B i C, pa je krak kutova β i γ.",
+      "savjet": "Krak kuta trokuta je stranica koja izlazi iz vrha tog kuta."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-070",
+      "tezina": "tesko",
+      "pitanje": "Odaberi kut △ABC kojemu su kraci stranice a i c.",
+      "ponudeni": [
+        "γ",
+        "β",
+        "α",
+        "b"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice a i c sastaju se u vrhu B, pa su one kraci kuta β.",
+      "savjet": "Odredi vrh koji leži i na jednoj i na drugoj stranici."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-071",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o kutovima i stranicama △ABC.",
+      "ponudeni": [
+        "Kut γ leži između stranica a i c.",
+        "Stranica c spaja vrhove A i C.",
+        "Kut γ leži nasuprot stranici c.",
+        "Kut β leži nasuprot stranici a."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kut γ je pri vrhu C, a nasuprot vrhu C leži stranica c.",
+      "savjet": "Za svaku tvrdnju zamisli △ABC i provjeri je."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-072",
+      "tezina": "tesko",
+      "pitanje": "Odaberi stranicu △KLM koja leži nasuprot vrhu K.",
+      "ponudeni": [
+        "dužina LM",
+        "dužina MK",
+        "točka M",
+        "dužina KL"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nasuprot vrhu K leži stranica koja spaja druga dva vrha, L i M. To je dužina LM, a označava se slovom k.",
+      "savjet": "Stranica nasuprot nekom vrhu ne prolazi kroz taj vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-073",
+      "tezina": "tesko",
+      "pitanje": "Odaberi stranicu koja je zajednička △ADC i △ABC.",
+      "slika": {
+        "opis": "Trokut ABC; točka D leži na stranici AB i spojena je s vrhom C.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4,
+            9
+          ],
+          "D": [
+            6,
+            1.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ]
+      },
+      "ponudeni": [
+        "AD",
+        "CD",
+        "CA",
+        "AB"
+      ],
+      "tocan": 2,
+      "objasnjenje": "△ADC ima stranice AD, DC i CA, a △ABC stranice AB, BC i CA. Zajednička im je stranica CA.",
+      "savjet": "Popiši stranice obaju trokuta pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-074",
+      "tezina": "tesko",
+      "pitanje": "Na slici su označeni stranica a i kut γ. Odaberi oznaku kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut bez imena vrhova; jedna stranica označena je s a, kut na jednom njezinu kraju s γ, a kut na drugom kraju upitnikom.",
+        "tocke": {
+          "A": [
+            9,
+            8.5
+          ],
+          "B": [
+            1,
+            7
+          ],
+          "C": [
+            6,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "a"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "oznaka": "γ"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "?"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "γ",
+        "b",
+        "β",
+        "α"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranica a spaja vrhove B i C. Kut γ je u vrhu C, pa je kut s upitnikom u vrhu B i označava se s β.",
+      "savjet": "Sjeti se koje vrhove spaja stranica a."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-075",
+      "tezina": "tesko",
+      "pitanje": "Na slici je △KLM. Odaberi zapis kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut KLM; kut pri vrhu M označen je upitnikom.",
+        "tocke": {
+          "K": [
+            8,
+            9
+          ],
+          "L": [
+            1,
+            6
+          ],
+          "M": [
+            7,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "M",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "∠KML",
+        "∠LKM",
+        "∠MKL",
+        "∠KLM"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut s upitnikom nalazi se pri vrhu M, pa se zapisuje ∠KML ili ∠LMK.",
+      "savjet": "Pronađi vrh kuta; to slovo stoji u sredini zapisa."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-076",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD podijeljen je dužinama AC i BE. Odaberi koliko je trokuta na slici.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; dužina AC spaja dva suprotna vrha, a točka E na dužini AC spojena je s vrhom B.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            8
+          ],
+          "D": [
+            1,
+            8
+          ],
+          "E": [
+            5,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "C"
+          },
+          {
+            "od": "B",
+            "do": "E"
+          }
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokuti su △ABE, △BCE, △ABC i △ACD. Ukupno ih je 4.",
+      "savjet": "Pogledaj trokute s obje strane dužine AC."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-077",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko trokuta na slici ima stranicu CD.",
+      "slika": {
+        "opis": "Trokut ABC; točke D i E leže na stranici AB i obje su spojene s vrhom C.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            5,
+            9
+          ],
+          "D": [
+            3.5,
+            1.5
+          ],
+          "E": [
+            6.5,
+            1.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "C",
+            "do": "E"
+          }
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranicu CD imaju △ADC, △DEC i △DBC.",
+      "savjet": "Takav trokut ima vrhove C i D te još jednu točku na dužini AB."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-078",
+      "tezina": "tesko",
+      "pitanje": "△ABC i △ABD imaju zajedničku stranicu AB. Odaberi koliko različitih vrhova imaju zajedno.",
+      "ponudeni": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrhovi su A, B, C i D. Vrhovi A i B zajednički su, pa ih brojimo samo jednom.",
+      "savjet": "Zapiši sve vrhove obaju trokuta, a svaki vrh broji samo jednom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-079",
+      "tezina": "tesko",
+      "pitanje": "△ABC i △ACD imaju jednu zajedničku stranicu. Odaberi tu stranicu.",
+      "ponudeni": [
+        "BD",
+        "AB",
+        "AC",
+        "CD"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oba trokuta imaju vrhove A i C, pa im je zajednička stranica AC.",
+      "savjet": "Potraži dva vrha koja se nalaze u oba zapisa."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-080",
+      "tezina": "tesko",
+      "pitanje": "Na slici su označeni kutovi α i β. Odaberi oznaku stranice označene upitnikom.",
+      "slika": {
+        "opis": "Trokut bez imena vrhova; dva kuta označena su s α i β, a jedna stranica upitnikom.",
+        "tocke": {
+          "A": [
+            5,
+            9
+          ],
+          "B": [
+            1,
+            1.5
+          ],
+          "C": [
+            9,
+            2.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "oznaka": "α"
+          },
+          {
+            "vrh": "B",
+            "oznaka": "β"
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "γ",
+        "b",
+        "a",
+        "c"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranica s upitnikom izlazi iz vrha B, ali ne iz vrha A. To je stranica BC, koja se označava slovom a.",
+      "savjet": "Provjeri prolazi li stranica s upitnikom vrhom kuta α."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-081",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zapis koji ne označava kut α u △ABC.",
+      "ponudeni": [
+        "∠ABC",
+        "∠A",
+        "∠CAB",
+        "∠BAC"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kut α je pri vrhu A, pa se zapisuje ∠A, ∠BAC ili ∠CAB. Zapis ∠ABC označava kut pri vrhu B.",
+      "savjet": "U zapisu s tri slova vrh kuta stoji u sredini."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-082",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o stranicama △ABC.",
+      "ponudeni": [
+        "Stranice a i b sastaju se u vrhu C.",
+        "Stranice a i c sastaju se u vrhu C.",
+        "Stranice a i b sastaju se u vrhu A.",
+        "Stranice b i c sastaju se u vrhu B."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica a spaja vrhove B i C, a stranica b vrhove C i A. Zajednički im je vrh C.",
+      "savjet": "Dvije stranice sastaju se u vrhu koji leži na objema."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-083",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko je trokuta na slici.",
+      "slika": {
+        "opis": "Trokut ABC i točka D unutar njega; točka D spojena je s vrhovima A, B i C.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            5,
+            9.5
+          ],
+          "D": [
+            5,
+            4.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "D"
+          },
+          {
+            "od": "B",
+            "do": "D"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "6",
+        "5",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tri mala trokuta su △ABD, △BCD i △CAD, a četvrti je cijeli △ABC.",
+      "savjet": "Ne zaboravi veliki trokut koji obuhvaća sve male."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-084",
+      "tezina": "tesko",
+      "pitanje": "Odaberi stranicu koja je zajednička △ABD i △BCD.",
+      "slika": {
+        "opis": "Trokut ABC i točka D unutar njega; točka D spojena je s vrhovima A, B i C.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            5,
+            9.5
+          ],
+          "D": [
+            5,
+            4.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "D"
+          },
+          {
+            "od": "B",
+            "do": "D"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ]
+      },
+      "ponudeni": [
+        "AB",
+        "BD",
+        "BC",
+        "CD"
+      ],
+      "tocan": 1,
+      "objasnjenje": "△ABD ima stranice AB, BD i DA, a △BCD stranice BC, CD i DB. Zajednička im je stranica BD.",
+      "savjet": "Potraži dva vrha koja imaju oba trokuta."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-085",
+      "tezina": "tesko",
+      "pitanje": "Odaberi kut △DEF koji leži nasuprot stranici DF.",
+      "ponudeni": [
+        "∠DEF",
+        "∠FDE",
+        "∠DFE",
+        "∠EDF"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužina DF ne prolazi vrhom E, pa nasuprot njoj leži kut pri vrhu E, odnosno ∠DEF.",
+      "savjet": "Pronađi vrh trokuta koji ne leži na dužini DF."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-086",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zapis kuta označenog upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; točka D leži na stranici AB i spojena je s vrhom C. Kut pri vrhu C između krakova CA i CD označen je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4,
+            9
+          ],
+          "D": [
+            6,
+            1.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C",
+            "kraci": [
+              "A",
+              "D"
+            ],
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "∠ACB",
+        "∠ACD",
+        "∠ADC",
+        "∠DCB"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kut s upitnikom ima vrh C, a kraci mu idu prema A i prema D. Zato se zapisuje ∠ACD.",
+      "savjet": "Pogledaj prema kojim točkama idu kraci kuta s upitnikom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-087",
+      "tezina": "tesko",
+      "pitanje": "△ABC i △ABD imaju zajedničku stranicu AB. Odaberi koliko različitih stranica imaju zajedno.",
+      "ponudeni": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki trokut ima 3 stranice, ali AB je zajednička, pa je ukupno 3 + 3 − 1 = 5.",
+      "savjet": "Zajedničku stranicu broji samo jednom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-088",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko trokuta na slici ima vrh D.",
+      "slika": {
+        "opis": "Trokut ABC; točka D leži na stranici BC, točka E na stranici CA, a nacrtane su dužine AD i DE.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            6,
+            9
+          ],
+          "D": [
+            7.5,
+            5
+          ],
+          "E": [
+            3.5,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "D"
+          },
+          {
+            "od": "D",
+            "do": "E"
+          }
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "5",
+        "2",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrh D imaju △ABD, △ADC, △ADE i △DCE.",
+      "savjet": "Za svaki trokut provjeri jesu li nacrtane sve tri njegove stranice."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-089",
+      "tezina": "tesko",
+      "pitanje": "Kut α u △ABC leži između stranica b i c. Odaberi između kojih stranica leži kut β.",
+      "ponudeni": [
+        "b i c",
+        "samo b",
+        "a i b",
+        "a i c"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iz vrha B izlaze stranice BC i BA, odnosno a i c.",
+      "savjet": "Stranica nasuprot vrhu B nije krak kuta β."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-trokuta-090",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Stranica a spaja vrhove A i B.",
+        "∠ABC označava kut pri vrhu A.",
+        "△ABC i △BCA označavaju isti trokut.",
+        "△ABC i △ABD označavaju isti trokut."
+      ],
+      "tocan": 2,
+      "objasnjenje": "△ABC i △BCA imaju iste vrhove A, B i C, pa je to isti trokut.",
+      "savjet": "Provjeri svaku tvrdnju pravilima za zapis trokuta, kutova i stranica."
+    }
+  ]
+}

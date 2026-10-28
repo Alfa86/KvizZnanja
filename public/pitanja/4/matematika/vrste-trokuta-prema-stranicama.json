@@ -1,0 +1,3084 @@
+{
+  "lekcijaId": "vrste-trokuta-prema-stranicama",
+  "pitanja": [
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-001",
+      "tezina": "lagano",
+      "pitanje": "Lik ima tri stranice jednake duljine. Odaberi naziv tog lika.",
+      "ponudeni": [
+        "kvadrat",
+        "raznostranični trokut",
+        "jednakostranični trokut",
+        "pravokutnik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik s tri stranice je trokut. Trokut kojemu su sve tri stranice jednake duljine zove se jednakostranični trokut.",
+      "savjet": "Prebroji stranice lika, a zatim se prisjeti kako se zovu trokuti prema duljinama stranica."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv trokuta kojemu su sve tri stranice različitih duljina.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "raznostranični trokut",
+        "jednakostranični trokut",
+        "pravokutnik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut kojemu su sve stranice različitih duljina zove se raznostranični trokut.",
+      "savjet": "Naziv trokuta otkriva kakve su mu stranice: jednake ili različite."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-003",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv trokuta koji ima točno dvije stranice jednake duljine.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "jednakokračni trokut",
+        "kvadrat"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trokut s dvije jednake stranice je jednakokračni trokut. Njegove jednake stranice zovu se krakovi.",
+      "savjet": "Prisjeti se triju vrsta trokuta prema duljinama stranica i usporedi ih s opisom."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-004",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zovu dvije jednake stranice jednakokračnog trokuta.",
+      "ponudeni": [
+        "osnovice",
+        "dijagonale",
+        "vrhovi",
+        "krakovi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvije jednake stranice jednakokračnog trokuta zovu se krakovi, a treća stranica je osnovica.",
+      "savjet": "Pažljivo pročitaj naziv trokuta jer on skriva ime jednakih stranica."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zove stranica jednakokračnog trokuta koja nije krak.",
+      "ponudeni": [
+        "visina",
+        "dijagonala",
+        "osnovica",
+        "polumjer"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jednakokračni trokut ima dva kraka i osnovicu. Osnovica je stranica koja nije krak.",
+      "savjet": "Jednakokračni trokut ima dvije jednake stranice i jednu stranicu s posebnim imenom."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-006",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o △DEF sa slike.",
+      "ponudeni": [
+        "△DEF je raznostranični trokut.",
+        "△DEF ima samo dvije jednake stranice.",
+        "△DEF je jednakostranični trokut.",
+        "△DEF ima jednu stranicu dulju od ostalih."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve tri stranice △DEF duge su 6 cm, pa je to jednakostranični trokut.",
+      "savjet": "Usporedi duljine svih triju stranica trokuta.",
+      "slika": {
+        "opis": "Trokut DEF; uz svaku stranicu piše 6 cm.",
+        "tocke": {
+          "D": [
+            0.8,
+            1.36
+          ],
+          "E": [
+            9.2,
+            1.36
+          ],
+          "F": [
+            5,
+            8.64
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "F",
+            "do": "D",
+            "oznaka": "6 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-007",
+      "tezina": "lagano",
+      "pitanje": "Odredi vrstu △ABC prema duljinama stranica.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "△ABC ima dvije stranice duge 5 cm i treću od 3 cm, pa je jednakokračni.",
+      "savjet": "Pronađi stranice jednake duljine i prebroji ih.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 3 cm, BC = 5 cm, CA = 5 cm.",
+        "tocke": {
+          "A": [
+            2.36,
+            0.8
+          ],
+          "B": [
+            7.64,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "5 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-008",
+      "tezina": "lagano",
+      "pitanje": "Odredi vrstu △KLM prema duljinama stranica.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "ne može se odrediti",
+        "raznostranični trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice △KLM duge su 8 cm, 6 cm i 4 cm. Sve su različite, pa je trokut raznostranični.",
+      "savjet": "Provjeri ima li trokut barem dvije stranice jednake duljine.",
+      "slika": {
+        "opis": "Trokut KLM; KL = 8 cm, LM = 6 cm, MK = 4 cm.",
+        "tocke": {
+          "K": [
+            0.8,
+            3.48
+          ],
+          "L": [
+            9.2,
+            3.48
+          ],
+          "M": [
+            3.69,
+            6.52
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "M",
+            "do": "K",
+            "oznaka": "4 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-009",
+      "tezina": "lagano",
+      "pitanje": "Jednake stranice na crtežu označene su jednakim brojem crtica. Odaberi točnu tvrdnju o △PQR.",
+      "ponudeni": [
+        "Samo dvije stranice △PQR jednake su duljine.",
+        "Sve stranice △PQR različitih su duljina.",
+        "Sve tri stranice △PQR jednake su duljine.",
+        "Stranica PQ dulja je od ostalih dviju."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka stranica △PQR ima jednu crticu, pa su sve tri stranice jednake duljine.",
+      "savjet": "Prebroji crtice na svakoj stranici i usporedi ih.",
+      "slika": {
+        "opis": "Trokut PQR; na svakoj stranici je po jedna crtica.",
+        "tocke": {
+          "P": [
+            9.2,
+            8.64
+          ],
+          "Q": [
+            0.8,
+            8.64
+          ],
+          "R": [
+            5,
+            1.36
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "Q",
+              "R"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P",
+            "do": "Q",
+            "crtice": 1
+          },
+          {
+            "od": "Q",
+            "do": "R",
+            "crtice": 1
+          },
+          {
+            "od": "R",
+            "do": "P",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-010",
+      "tezina": "lagano",
+      "pitanje": "Jednake stranice označene su jednakim brojem crtica. Odredi vrstu △XYZ prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "ne može se odrediti",
+        "jednakokračni trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice XZ i YZ imaju po jednu crticu, pa su jednake, a XY je drukčije duljine. Trokut s dvije jednake stranice je jednakokračni.",
+      "savjet": "Pogledaj koliko stranica ima jednake oznake.",
+      "slika": {
+        "opis": "Trokut XYZ; stranice XZ i YZ imaju po jednu crticu, a XY nema crtica.",
+        "tocke": {
+          "X": [
+            1.6,
+            0.8
+          ],
+          "Y": [
+            8.4,
+            0.8
+          ],
+          "Z": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "X",
+              "Y",
+              "Z"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "Y",
+            "do": "Z",
+            "crtice": 1
+          },
+          {
+            "od": "Z",
+            "do": "X",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-011",
+      "tezina": "lagano",
+      "pitanje": "Stranice s jednakim brojem crtica jednake su duljine. Odredi vrstu △ABC prema stranicama.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka stranica ima drukčiji broj crtica, pa su sve tri stranice različitih duljina. To je raznostranični trokut.",
+      "savjet": "Usporedi broj crtica na svim trima stranicama.",
+      "slika": {
+        "opis": "Trokut ABC; AB ima jednu crticu, BC dvije, a CA tri crtice.",
+        "tocke": {
+          "A": [
+            0.8,
+            2.87
+          ],
+          "B": [
+            9.2,
+            2.87
+          ],
+          "C": [
+            3.87,
+            7.13
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 2
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-012",
+      "tezina": "lagano",
+      "pitanje": "Trokut ima stranice duljina 7 cm, 7 cm i 7 cm. Odaberi točnu tvrdnju o tom trokutu.",
+      "ponudeni": [
+        "Trokut je raznostranični.",
+        "Trokut je jednakostranični.",
+        "Trokut ima samo dvije jednake stranice.",
+        "Trokut ima jednu stranicu dulju od ostalih."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sve tri stranice duge su 7 cm, pa je trokut jednakostranični.",
+      "savjet": "Usporedi sve tri zadane duljine."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-013",
+      "tezina": "lagano",
+      "pitanje": "Trokut ima stranice duljina 4 cm, 4 cm i 6 cm. Odredi vrstu tog trokuta prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "takav trokut ne postoji",
+        "jednakokračni trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvije stranice duge su 4 cm, a treća 6 cm. Trokut s točno dvije jednake stranice je jednakokračni.",
+      "savjet": "Prebroji koliko je stranica jednake duljine."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-014",
+      "tezina": "lagano",
+      "pitanje": "Trokut ima stranice duljina 3 cm, 5 cm i 6 cm. Odredi vrstu tog trokuta prema stranicama.",
+      "ponudeni": [
+        "raznostranični trokut",
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "takav trokut ne postoji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Duljine 3 cm, 5 cm i 6 cm su različite, pa je trokut raznostranični.",
+      "savjet": "Provjeri postoje li među zadanim duljinama dvije jednake."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-015",
+      "tezina": "lagano",
+      "pitanje": "Odaberi duljine stranica jednakostraničnog trokuta.",
+      "ponudeni": [
+        "8 cm, 8 cm i 5 cm",
+        "4 cm, 6 cm i 8 cm",
+        "8 cm, 8 cm i 8 cm",
+        "5 cm, 8 cm i 5 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jednakostranični trokut ima sve tri stranice jednake duljine, kao 8 cm, 8 cm i 8 cm.",
+      "savjet": "Kod takvog trokuta nijedna stranica nije ni dulja ni kraća od ostalih."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-016",
+      "tezina": "lagano",
+      "pitanje": "Odaberi duljine stranica raznostraničnog trokuta.",
+      "ponudeni": [
+        "5 cm, 6 cm i 7 cm",
+        "6 cm, 6 cm i 7 cm",
+        "5 cm, 7 cm i 7 cm",
+        "6 cm, 6 cm i 6 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Raznostranični trokut ima sve stranice različitih duljina, a 5 cm, 6 cm i 7 cm su različite duljine.",
+      "savjet": "Traži odgovor u kojem se nijedna duljina ne ponavlja."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-017",
+      "tezina": "lagano",
+      "pitanje": "Odaberi duljine stranica jednakokračnog trokuta.",
+      "ponudeni": [
+        "5 cm, 5 cm i 8 cm",
+        "4 cm, 5 cm i 8 cm",
+        "5 cm, 6 cm i 8 cm",
+        "3 cm, 5 cm i 7 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jednakokračni trokut ima dvije jednake stranice. Ovdje su to dvije stranice od 5 cm.",
+      "savjet": "Traži odgovor u kojem se neka duljina pojavljuje dvaput."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-018",
+      "tezina": "lagano",
+      "pitanje": "Jednakokračni △ABC ima krakove označene crticama. Odaberi osnovicu tog trokuta.",
+      "ponudeni": [
+        "stranica BC",
+        "stranica AC",
+        "vrh C",
+        "stranica AB"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi AC i BC označeni su crticama. Osnovica je treća stranica, AB.",
+      "savjet": "Prisjeti se: krakovi su dvije jednake stranice, a osnovica je preostala stranica.",
+      "slika": {
+        "opis": "Trokut ABC; stranice AC i BC imaju po jednu crticu.",
+        "tocke": {
+          "A": [
+            1.79,
+            0.8
+          ],
+          "B": [
+            8.21,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-019",
+      "tezina": "lagano",
+      "pitanje": "Jednake stranice △KLM označene su jednakim brojem crtica. Odaberi krakove tog trokuta.",
+      "ponudeni": [
+        "KL i KM",
+        "KM i LM",
+        "sve tri stranice",
+        "KL i LM"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice KL i LM imaju jednake oznake, pa su one krakovi, a KM je osnovica.",
+      "savjet": "Krakovi su dvije stranice jednake duljine; potraži ih po crticama.",
+      "slika": {
+        "opis": "Trokut KLM; stranice KL i LM imaju po dvije crtice, a KM nema crtica.",
+        "tocke": {
+          "K": [
+            9.2,
+            1.79
+          ],
+          "M": [
+            9.2,
+            8.21
+          ],
+          "L": [
+            0.8,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "crtice": 2
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "crtice": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-020",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je jednakokračni △ABC s označenim duljinama stranica. Odaberi duljinu njegove osnovice.",
+      "ponudeni": [
+        "6 cm",
+        "12 cm",
+        "10 cm",
+        "4 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi su dvije jednake stranice od 6 cm, pa je osnovica treća stranica, duga 4 cm.",
+      "savjet": "Najprije pronađi dvije jednake stranice; to su krakovi.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 4 cm, BC = 6 cm, CA = 6 cm.",
+        "tocke": {
+          "A": [
+            2.03,
+            0.8
+          ],
+          "B": [
+            7.97,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "6 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-021",
+      "tezina": "lagano",
+      "pitanje": "Jednake stranice △ABC označene su crticama. Stranica AB duga je 9 cm. Odaberi duljine ostalih dviju stranica.",
+      "ponudeni": [
+        "9 cm i 9 cm",
+        "9 cm i 6 cm",
+        "6 cm i 6 cm",
+        "10 cm i 8 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve tri stranice imaju po jednu crticu, pa su jednake. Zato su i ostale dvije stranice duge 9 cm.",
+      "savjet": "Usporedi crtice na stranici AB s crticama na ostalim stranicama.",
+      "slika": {
+        "opis": "Trokut ABC; na svakoj stranici je po jedna crtica, a uz AB piše 9 cm.",
+        "tocke": {
+          "A": [
+            0.8,
+            1.36
+          ],
+          "B": [
+            9.2,
+            1.36
+          ],
+          "C": [
+            5,
+            8.64
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "9 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-022",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko jednakih stranica ima jednakostranični trokut.",
+      "ponudeni": [
+        "dvije",
+        "tri",
+        "jednu",
+        "četiri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jednakostranični trokut ima sve tri stranice jednake duljine.",
+      "savjet": "Naziv trokuta kaže da su mu stranice jednake; prisjeti se koliko stranica ima trokut."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-023",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko krakova ima jednakokračni trokut.",
+      "ponudeni": [
+        "jedan",
+        "tri",
+        "dva",
+        "četiri"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jednakokračni trokut ima dva kraka jednake duljine i jednu osnovicu.",
+      "savjet": "Krakovi su jednake stranice, a jedna stranica jednakokračnog trokuta je osnovica."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-024",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o △DEF sa slike.",
+      "ponudeni": [
+        "△DEF ima dvije jednake stranice.",
+        "Sve stranice △DEF različitih su duljina.",
+        "△DEF ima tri jednake stranice.",
+        "△DEF ima dva kraka i osnovicu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice △DEF duge su 7 cm, 5 cm i 3 cm. Sve su različite, pa je to raznostranični trokut.",
+      "savjet": "Usporedi duljine napisane uz stranice.",
+      "slika": {
+        "opis": "Trokut DEF; DE = 7 cm, EF = 5 cm, FD = 3 cm.",
+        "tocke": {
+          "D": [
+            0.8,
+            3.89
+          ],
+          "E": [
+            9.2,
+            3.89
+          ],
+          "F": [
+            3.63,
+            6.11
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "F",
+            "do": "D",
+            "oznaka": "3 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-025",
+      "tezina": "lagano",
+      "pitanje": "Odaberi trokut kojemu su sve tri stranice jednake duljine.",
+      "ponudeni": [
+        "3 dm, 3 dm i 4 dm",
+        "3 dm, 3 dm i 3 dm",
+        "2 dm, 3 dm i 4 dm",
+        "3 dm, 4 dm i 4 dm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Samo u trokutu sa stranicama 3 dm, 3 dm i 3 dm sve su tri stranice jednake.",
+      "savjet": "U svakom odgovoru usporedi sve tri duljine, a ne samo prve dvije."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-026",
+      "tezina": "lagano",
+      "pitanje": "Odredi vrstu △RST prema duljinama stranica.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "jednakokračni trokut",
+        "raznostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice ST i TR duge su 35 mm, a RS 50 mm. Trokut s dvije jednake stranice je jednakokračni.",
+      "savjet": "Usporedi duljine stranica i potraži dvije jednake.",
+      "slika": {
+        "opis": "Trokut RST; RS = 50 mm, ST = 35 mm, TR = 35 mm.",
+        "tocke": {
+          "R": [
+            9.2,
+            7.06
+          ],
+          "S": [
+            0.8,
+            7.06
+          ],
+          "T": [
+            5,
+            2.94
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "R",
+              "S",
+              "T"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "R",
+            "do": "S",
+            "oznaka": "50 mm"
+          },
+          {
+            "od": "S",
+            "do": "T",
+            "oznaka": "35 mm"
+          },
+          {
+            "od": "T",
+            "do": "R",
+            "oznaka": "35 mm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-027",
+      "tezina": "lagano",
+      "pitanje": "Sve stranice △ABC označene su istim slovom a. Odaberi točnu tvrdnju o tom trokutu.",
+      "ponudeni": [
+        "△ABC je raznostranični trokut.",
+        "△ABC ima samo dvije jednake stranice.",
+        "△ABC ima jednu stranicu kraću od ostalih.",
+        "△ABC je jednakostranični trokut."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Isto slovo znači jednaku duljinu. Sve tri stranice su jednake, pa je △ABC jednakostranični.",
+      "savjet": "Stranice označene istim slovom imaju jednaku duljinu.",
+      "slika": {
+        "opis": "Trokut ABC; uz svaku stranicu piše slovo a.",
+        "tocke": {
+          "A": [
+            0.8,
+            0.8
+          ],
+          "B": [
+            9.2,
+            3.05
+          ],
+          "C": [
+            3.05,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "a"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "a"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "a"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-028",
+      "tezina": "lagano",
+      "pitanje": "Ana je nacrtala trokut i izmjerila mu stranice: 6 cm, 8 cm i 6 cm. Odredi vrstu Anina trokuta prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "takav trokut ne postoji",
+        "jednakokračni trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ana je izmjerila dvije stranice od 6 cm i jednu od 8 cm. Trokut s dvije jednake stranice je jednakokračni.",
+      "savjet": "Usporedi tri izmjerene duljine i prebroji jednake."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-029",
+      "tezina": "lagano",
+      "pitanje": "Odredi vrstu △MNP prema duljinama stranica.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "raznostranični trokut",
+        "jednakostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice △MNP duge su 9 dm, 7 dm i 5 dm. Nijedne dvije nisu jednake, pa je trokut raznostranični.",
+      "savjet": "Potraži dvije stranice jednake duljine; ako ih nema, sjeti se kako se zove takav trokut.",
+      "slika": {
+        "opis": "Trokut MNP; MN = 9 dm, NP = 7 dm, PM = 5 dm.",
+        "tocke": {
+          "M": [
+            0.8,
+            4.72
+          ],
+          "N": [
+            9.2,
+            2.46
+          ],
+          "P": [
+            4.72,
+            7.54
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "M",
+              "N",
+              "P"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "M",
+            "do": "N",
+            "oznaka": "9 dm"
+          },
+          {
+            "od": "N",
+            "do": "P",
+            "oznaka": "7 dm"
+          },
+          {
+            "od": "P",
+            "do": "M",
+            "oznaka": "5 dm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-030",
+      "tezina": "lagano",
+      "pitanje": "Odaberi tvrdnju koja vrijedi za svaki raznostranični trokut.",
+      "ponudeni": [
+        "Ima dva kraka i osnovicu.",
+        "Sve su mu stranice različitih duljina.",
+        "Sve su mu stranice jednake duljine.",
+        "Ima točno dvije jednake stranice."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Raznostranični trokut nema dvije jednake stranice: sve su mu stranice različitih duljina.",
+      "savjet": "Razmisli što znači dio „razno“ u nazivu tog trokuta."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-031",
+      "tezina": "srednje",
+      "pitanje": "Jednake stranice △ABC označene su crticama. Odredi duljinu stranice označene upitnikom.",
+      "ponudeni": [
+        "4 cm",
+        "10 cm",
+        "5 cm",
+        "7 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice AC i BC imaju po jednu crticu, pa su jednake. Zato je i BC duga 7 cm.",
+      "savjet": "Pronađi stranicu koja ima isti broj crtica kao stranica s upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 4 cm, AC = 7 cm, a uz BC piše upitnik. AC i BC imaju po jednu crticu.",
+        "tocke": {
+          "A": [
+            2.5,
+            0.8
+          ],
+          "B": [
+            7.5,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "7 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-032",
+      "tezina": "srednje",
+      "pitanje": "Jednake stranice △DEF označene su crticama. Odredi duljinu stranice EF.",
+      "ponudeni": [
+        "5 cm",
+        "4 cm",
+        "8 cm",
+        "6 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve tri stranice △DEF imaju jednak broj crtica, pa su jednake. Stranica EF duga je 5 cm kao i DE.",
+      "savjet": "Usporedi broj crtica na stranicama DE i EF.",
+      "slika": {
+        "opis": "Trokut DEF; svaka stranica ima dvije crtice, uz DE piše 5 cm, a uz EF upitnik.",
+        "tocke": {
+          "D": [
+            9.2,
+            8.64
+          ],
+          "E": [
+            0.8,
+            8.64
+          ],
+          "F": [
+            5,
+            1.36
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "5 cm",
+            "crtice": 2
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "?",
+            "crtice": 2
+          },
+          {
+            "od": "F",
+            "do": "D",
+            "crtice": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-033",
+      "tezina": "srednje",
+      "pitanje": "Jednakokračni trokut ima krakove duljine 6 cm i osnovicu duljine 4 cm. Odaberi duljine svih stranica tog trokuta.",
+      "ponudeni": [
+        "6 cm, 6 cm i 4 cm",
+        "6 cm, 4 cm i 4 cm",
+        "6 cm, 6 cm i 6 cm",
+        "4 cm, 4 cm i 4 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jednakokračni trokut ima dva kraka i jednu osnovicu, pa su stranice 6 cm, 6 cm i 4 cm.",
+      "savjet": "Prisjeti se koliko krakova, a koliko osnovica ima takav trokut."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-034",
+      "tezina": "srednje",
+      "pitanje": "Jednakokračni trokut ima osnovicu duljine 5 cm i krak duljine 8 cm. Odaberi duljine svih stranica tog trokuta.",
+      "ponudeni": [
+        "5 cm, 5 cm i 8 cm",
+        "5 cm, 8 cm i 8 cm",
+        "5 cm, 8 cm i 10 cm",
+        "8 cm, 8 cm i 8 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oba su kraka jednaka, pa trokut ima dvije stranice od 8 cm i osnovicu od 5 cm.",
+      "savjet": "Razmisli koja se duljina u takvom trokutu pojavljuje dvaput: krak ili osnovica."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-035",
+      "tezina": "srednje",
+      "pitanje": "Trokut ima stranice duljina 25 mm, 3 cm i 25 mm. Odredi vrstu tog trokuta prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "jednakokračni trokut",
+        "raznostranični trokut",
+        "takav trokut ne postoji"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dvije stranice duge su 25 mm, a treća 3 cm, odnosno 30 mm. Trokut s točno dvije jednake stranice je jednakokračni.",
+      "savjet": "Pretvori sve duljine u milimetre pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-036",
+      "tezina": "srednje",
+      "pitanje": "Odaberi trokut koji je jednakostranični.",
+      "ponudeni": [
+        "5 cm, 50 mm i 6 cm",
+        "50 mm, 5 cm i 5 mm",
+        "50 mm, 5 cm i 50 mm",
+        "4 cm, 50 mm i 5 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "50 mm je isto što i 5 cm, pa su u trokutu 50 mm, 5 cm i 50 mm sve tri stranice jednake.",
+      "savjet": "Izrazi sve duljine u milimetrima pa provjeri jesu li sve tri jednake."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-037",
+      "tezina": "srednje",
+      "pitanje": "Trokut ima stranice duljina 6 dm, 60 cm i 7 dm. Odredi vrstu tog trokuta prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "takav trokut ne postoji",
+        "jednakokračni trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "60 cm je isto što i 6 dm, pa trokut ima dvije jednake stranice i treću od 7 dm. To je jednakokračni trokut.",
+      "savjet": "Pretvori sve duljine u istu mjernu jedinicu pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-038",
+      "tezina": "srednje",
+      "pitanje": "Trokut ima stranice duljina 2 m, 20 dm i 200 cm. Odaberi točnu tvrdnju o tom trokutu.",
+      "ponudeni": [
+        "Trokut je raznostranični.",
+        "Trokut je jednakostranični.",
+        "Trokut ima samo dvije jednake stranice.",
+        "Stranica od 200 cm najdulja je stranica."
+      ],
+      "tocan": 1,
+      "objasnjenje": "2 m = 20 dm = 200 cm, pa su sve tri stranice jednake. Trokut je jednakostranični.",
+      "savjet": "Pretvori sve duljine u centimetre pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-039",
+      "tezina": "srednje",
+      "pitanje": "Trokut ima stranice duljina 3 dm, 25 cm i 400 mm. Odredi vrstu tog trokuta prema stranicama.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "takav trokut ne postoji",
+        "raznostranični trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad sve duljine izrazimo u centimetrima, dobijemo 30 cm, 25 cm i 40 cm. Sve su različite, pa je trokut raznostranični.",
+      "savjet": "Izrazi sve tri duljine u centimetrima."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-040",
+      "tezina": "srednje",
+      "pitanje": "Jednake stranice △XYZ označene su crticama. Odaberi osnovicu tog trokuta.",
+      "ponudeni": [
+        "stranica XY",
+        "stranica XZ",
+        "stranica YZ",
+        "vrh Z"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranice XZ i YZ imaju crtice, pa su to krakovi. Osnovica je XY, iako je na crtežu gore.",
+      "savjet": "Osnovica ne mora biti na dnu crteža; potraži stranicu koja nije krak.",
+      "slika": {
+        "opis": "Trokut XYZ s vrhom Z ispod stranice XY; stranice XZ i YZ imaju po jednu crticu.",
+        "tocke": {
+          "X": [
+            9.2,
+            7.35
+          ],
+          "Y": [
+            0.8,
+            7.35
+          ],
+          "Z": [
+            5,
+            2.65
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "X",
+              "Y",
+              "Z"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "Y",
+            "do": "Z",
+            "crtice": 1
+          },
+          {
+            "od": "Z",
+            "do": "X",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-041",
+      "tezina": "srednje",
+      "pitanje": "Odaberi krakove △PQR sa slike.",
+      "ponudeni": [
+        "PQ i PR",
+        "PQ i QR",
+        "QR i PR",
+        "samo PR"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice PQ i QR jednake su, obje duge 6 cm, pa su to krakovi. PR je osnovica.",
+      "savjet": "Krakovi su dvije stranice jednake duljine.",
+      "slika": {
+        "opis": "Trokut PQR; PQ = 6 cm, QR = 6 cm, PR = 9 cm.",
+        "tocke": {
+          "P": [
+            6.85,
+            0.8
+          ],
+          "R": [
+            6.85,
+            9.2
+          ],
+          "Q": [
+            3.15,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "Q",
+              "R"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P",
+            "do": "Q",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "Q",
+            "do": "R",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "R",
+            "do": "P",
+            "oznaka": "9 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-042",
+      "tezina": "srednje",
+      "pitanje": "Luka ima dva štapića duljine 7 cm. Odaberi duljinu trećeg štapića tako da od njih složi jednakostranični trokut.",
+      "ponudeni": [
+        "5 cm",
+        "9 cm",
+        "10 cm",
+        "7 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jednakostranični trokut ima sve stranice jednake, pa i treći štapić mora biti dug 7 cm.",
+      "savjet": "Razmisli kakve moraju biti sve tri stranice takvog trokuta."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-043",
+      "tezina": "srednje",
+      "pitanje": "Mia ima dva štapića duljine 6 cm. Odaberi duljinu trećeg štapića tako da složi jednakokračni trokut kojemu je osnovica kraća od kraka.",
+      "ponudeni": [
+        "8 cm",
+        "9 cm",
+        "11 cm",
+        "4 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi su dva štapića od 6 cm. Osnovica mora biti kraća od 6 cm, a od ponuđenih duljina to je samo 4 cm.",
+      "savjet": "Dva jednaka štapića bit će krakovi, a treći štapić bit će osnovica."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-044",
+      "tezina": "srednje",
+      "pitanje": "Odredi vrstu △ABC prema duljinama stranica.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "raznostranični trokut",
+        "jednakostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice su duge 6 cm, 5 cm i 4 cm. Sve su različite, pa je trokut raznostranični.",
+      "savjet": "Ne procjenjuj po izgledu, nego usporedi napisane duljine.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 6 cm, BC = 5 cm, CA = 4 cm.",
+        "tocke": {
+          "A": [
+            0.8,
+            2.68
+          ],
+          "B": [
+            9.2,
+            2.68
+          ],
+          "C": [
+            3.95,
+            7.32
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "4 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-045",
+      "tezina": "srednje",
+      "pitanje": "Stranice s jednakim brojem crtica jednake su duljine. Odredi vrstu △DEF prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "jednakokračni trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice EF i FD imaju po dvije crtice, pa su jednake, a DE ima jednu crticu i drukčije je duljine. To je jednakokračni trokut.",
+      "savjet": "Usporedi broj crtica na svakoj stranici.",
+      "slika": {
+        "opis": "Trokut DEF; DE ima jednu crticu, a EF i FD po dvije crtice.",
+        "tocke": {
+          "D": [
+            3.04,
+            0.8
+          ],
+          "E": [
+            8.3,
+            3.84
+          ],
+          "F": [
+            1.7,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E",
+            "crtice": 1
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "crtice": 2
+          },
+          {
+            "od": "F",
+            "do": "D",
+            "crtice": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-046",
+      "tezina": "srednje",
+      "pitanje": "Jednakokračni trokut ima krakove duljine 5 cm. Osnovica je za 2 cm dulja od kraka. Odaberi duljinu osnovice.",
+      "ponudeni": [
+        "3 cm",
+        "5 cm",
+        "9 cm",
+        "7 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Osnovica je za 2 cm dulja od kraka: 5 cm + 2 cm = 7 cm.",
+      "savjet": "Duljini kraka dodaj razliku zadanu u zadatku."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-047",
+      "tezina": "srednje",
+      "pitanje": "Krakovi jednakokračnog △ABC dugi su 9 cm. Osnovica AB za 4 cm je kraća od kraka. Odredi duljinu osnovice.",
+      "ponudeni": [
+        "13 cm",
+        "4 cm",
+        "5 cm",
+        "9 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osnovica je za 4 cm kraća od kraka: 9 cm − 4 cm = 5 cm.",
+      "savjet": "Od duljine kraka oduzmi zadanu razliku.",
+      "slika": {
+        "opis": "Trokut ABC; AC = 9 cm, BC = 9 cm, a uz AB piše upitnik. AC i BC imaju po jednu crticu.",
+        "tocke": {
+          "A": [
+            2.57,
+            0.8
+          ],
+          "B": [
+            7.43,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "9 cm",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "9 cm",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-048",
+      "tezina": "srednje",
+      "pitanje": "Odaberi trokut koji je jednakokračni.",
+      "ponudeni": [
+        "4 cm, 40 mm i 5 cm",
+        "4 cm, 45 mm i 5 cm",
+        "3 cm, 40 mm i 5 cm",
+        "4 cm, 50 mm i 6 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "40 mm je isto što i 4 cm, pa trokut sa stranicama 4 cm, 40 mm i 5 cm ima dvije jednake stranice.",
+      "savjet": "Pretvori sve duljine u milimetre pa potraži dvije jednake."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-049",
+      "tezina": "srednje",
+      "pitanje": "Odaberi trokut koji je raznostranični.",
+      "ponudeni": [
+        "6 cm, 60 mm i 8 cm",
+        "7 cm, 70 mm i 7 cm",
+        "6 cm, 70 mm i 8 cm",
+        "8 cm, 60 mm i 80 mm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad sve izrazimo u milimetrima, dobijemo 60 mm, 70 mm i 80 mm. Sve su različite, pa je taj trokut raznostranični.",
+      "savjet": "Izrazi sve duljine u milimetrima i provjeri ponavlja li se neka."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-050",
+      "tezina": "srednje",
+      "pitanje": "△ABC je jednakokračni s osnovicom AB. Odaberi duljinu stranice BC.",
+      "ponudeni": [
+        "8 cm",
+        "5 cm",
+        "10 cm",
+        "6 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ako je AB osnovica, krakovi su AC i BC, pa je BC jednaka AC i duga 8 cm.",
+      "savjet": "Ako znaš koja je stranica osnovica, znaš i koje su dvije stranice krakovi.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 5 cm, AC = 8 cm, a uz BC piše upitnik.",
+        "tocke": {
+          "A": [
+            2.24,
+            0.8
+          ],
+          "B": [
+            7.76,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-051",
+      "tezina": "srednje",
+      "pitanje": "U jednakokračnom △DEF osnovica DE kraća je od krakova. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Stranice DE i DF jednake su duljine.",
+        "Stranice DE i EF jednake su duljine.",
+        "Stranice DF i EF jednake su duljine.",
+        "Stranica DE je krak."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krakovi su stranice koje nisu osnovica, a to su DF i EF. Krakovi su jednake duljine.",
+      "savjet": "Odredi koje su dvije stranice krakovi ako je DE osnovica."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-052",
+      "tezina": "srednje",
+      "pitanje": "U △KLM stranice KL i KM jednake su duljine, a stranica LM kraća je od njih. Odaberi osnovicu tog trokuta.",
+      "ponudeni": [
+        "stranica KL",
+        "stranica LM",
+        "stranica KM",
+        "vrh K"
+      ],
+      "tocan": 1,
+      "objasnjenje": "KL i KM su jednake stranice, odnosno krakovi. Treća stranica, LM, je osnovica.",
+      "savjet": "Najprije odredi krakove: to su dvije jednake stranice."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-053",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o △ABC sa slike.",
+      "ponudeni": [
+        "△ABC je raznostranični trokut.",
+        "△ABC ima samo dvije jednake stranice.",
+        "△ABC je jednakostranični trokut.",
+        "Stranica od 30 mm najdulja je stranica △ABC."
+      ],
+      "tocan": 2,
+      "objasnjenje": "30 mm je isto što i 3 cm, pa su sve tri stranice jednake. △ABC je jednakostranični.",
+      "savjet": "Pretvori sve duljine u istu mjernu jedinicu pa ih usporedi.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 3 cm, BC = 30 mm, CA = 3 cm.",
+        "tocke": {
+          "A": [
+            0.8,
+            2.47
+          ],
+          "B": [
+            9.2,
+            0.99
+          ],
+          "C": [
+            6.28,
+            9.01
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "30 mm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "3 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-054",
+      "tezina": "srednje",
+      "pitanje": "Odredi vrstu △KLM prema duljinama stranica.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "jednakokračni trokut",
+        "raznostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "40 mm je isto što i 4 cm, pa su stranice KL i LM jednake, a MK je dulja. To je jednakokračni trokut.",
+      "savjet": "Prije usporedbe pretvori sve duljine u istu mjernu jedinicu.",
+      "slika": {
+        "opis": "Trokut KLM; KL = 4 cm, LM = 40 mm, MK = 5 cm.",
+        "tocke": {
+          "K": [
+            8.33,
+            9.2
+          ],
+          "L": [
+            1.67,
+            6.77
+          ],
+          "M": [
+            5.49,
+            0.8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "40 mm"
+          },
+          {
+            "od": "M",
+            "do": "K",
+            "oznaka": "5 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-055",
+      "tezina": "srednje",
+      "pitanje": "Odaberi trokut kojemu je osnovica duga 3 cm.",
+      "ponudeni": [
+        "3 cm, 3 cm i 5 cm",
+        "5 cm, 5 cm i 3 cm",
+        "3 cm, 4 cm i 5 cm",
+        "4 cm, 4 cm i 5 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U trokutu 5 cm, 5 cm i 3 cm krakovi su dvije stranice od 5 cm, a osnovica je treća stranica, duga 3 cm.",
+      "savjet": "Osnovica jednakokračnog trokuta je stranica koja nije krak, a krakovi su jednaki."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-056",
+      "tezina": "srednje",
+      "pitanje": "Odaberi jednakokračni trokut kojemu su krakovi dugi 6 cm.",
+      "ponudeni": [
+        "4 cm, 4 cm i 6 cm",
+        "6 cm, 6 cm i 4 cm",
+        "6 cm, 4 cm i 5 cm",
+        "5 cm, 5 cm i 6 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krakovi su dvije jednake stranice. Samo u trokutu 6 cm, 6 cm i 4 cm obje jednake stranice duge su 6 cm.",
+      "savjet": "Potraži trokut u kojem su obje jednake stranice zadane duljine."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-057",
+      "tezina": "srednje",
+      "pitanje": "Odaberi osnovicu jednakokračnog △ABC sa slike.",
+      "ponudeni": [
+        "stranica AB",
+        "stranica BC",
+        "stranica CA",
+        "stranice AB i CA"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice AB i CA jednake su, duge 4 cm, pa su to krakovi. Osnovica je BC, iako je dulja od krakova.",
+      "savjet": "Osnovica može biti i najdulja stranica; najprije pronađi krakove.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 4 cm, BC = 7 cm, CA = 4 cm.",
+        "tocke": {
+          "B": [
+            0.8,
+            3.84
+          ],
+          "C": [
+            9.2,
+            3.84
+          ],
+          "A": [
+            5,
+            6.16
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "4 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-058",
+      "tezina": "srednje",
+      "pitanje": "Stranice △ABC označene su slovima a, b i c. Zadano je a = 6 cm, b = 8 cm i c = 6 cm. Odaberi krakove tog trokuta.",
+      "ponudeni": [
+        "a i b",
+        "b i c",
+        "samo b",
+        "a i c"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice a i c jednake su, obje duge 6 cm, pa su one krakovi, a b je osnovica.",
+      "savjet": "Krakovi su dvije stranice jednake duljine.",
+      "slika": {
+        "opis": "Trokut ABC; stranica BC označena je s a, CA s b, a AB s c.",
+        "tocke": {
+          "A": [
+            1.81,
+            0.8
+          ],
+          "B": [
+            8.19,
+            3.12
+          ],
+          "C": [
+            5.17,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "a"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "b"
+          },
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "c"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-059",
+      "tezina": "srednje",
+      "pitanje": "Pero je složio trokut od tri štapića. Crveni i plavi štapić jednako su dugi, a zeleni je dulji od njih. Odaberi štapić koji je osnovica.",
+      "ponudeni": [
+        "crveni štapić",
+        "zeleni štapić",
+        "plavi štapić",
+        "crveni i plavi štapić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Crveni i plavi štapić jednake su duljine, pa su oni krakovi. Treći, zeleni štapić je osnovica.",
+      "savjet": "Najprije pronađi dva jednako duga štapića; to su krakovi."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-060",
+      "tezina": "srednje",
+      "pitanje": "Stranice označene istim slovom jednake su duljine. Odredi vrstu △ABC prema stranicama.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranice AC i BC označene su istim slovom b, pa su jednake, a AB je označena slovom c. Trokut je jednakokračni.",
+      "savjet": "Prebroji koliko je stranica označeno istim slovom.",
+      "slika": {
+        "opis": "Trokut ABC; stranice AC i BC označene su slovom b, a stranica AB slovom c.",
+        "tocke": {
+          "A": [
+            9.2,
+            5.05
+          ],
+          "B": [
+            0.8,
+            8.11
+          ],
+          "C": [
+            3.29,
+            1.89
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "b"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "b"
+          },
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "c"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-061",
+      "tezina": "tesko",
+      "pitanje": "Krakovi jednakokračnog △ABC označeni su crticama. Izračunaj zbroj duljina svih stranica tog trokuta.",
+      "ponudeni": [
+        "11 cm",
+        "18 cm",
+        "15 cm",
+        "21 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krakovi su dugi 7 cm, a osnovica 4 cm: 7 cm + 7 cm + 4 cm = 18 cm.",
+      "savjet": "Trokut ima dva jednaka kraka, pa duljinu kraka zbroji dvaput.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 4 cm, AC = 7 cm, a AC i BC imaju po jednu crticu.",
+        "tocke": {
+          "A": [
+            2.5,
+            0.8
+          ],
+          "B": [
+            7.5,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "7 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-062",
+      "tezina": "tesko",
+      "pitanje": "Jednakostranični trokut ima stranicu duljine 5 cm. Izračunaj zbroj duljina svih njegovih stranica.",
+      "ponudeni": [
+        "15 cm",
+        "10 cm",
+        "20 cm",
+        "25 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve tri stranice duge su 5 cm: 5 cm + 5 cm + 5 cm = 15 cm.",
+      "savjet": "Prisjeti se koliko jednakih stranica ima taj trokut pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-063",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 5 cm, 7 cm i x. Odaberi duljinu x tako da trokut bude jednakokračni.",
+      "ponudeni": [
+        "6 cm",
+        "8 cm",
+        "5 cm",
+        "4 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ako je x = 5 cm, trokut ima dvije jednake stranice od 5 cm, pa je jednakokračni.",
+      "savjet": "Treća stranica mora biti jednaka jednoj od dviju zadanih stranica."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-064",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 60 mm, 6 cm i x. Odaberi duljinu x tako da trokut bude jednakostranični.",
+      "ponudeni": [
+        "60 mm",
+        "6 mm",
+        "66 mm",
+        "10 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "60 mm je isto što i 6 cm. Ako je i x = 60 mm, sve su tri stranice jednake.",
+      "savjet": "Najprije provjeri jesu li dvije zadane stranice jednake, pa pazi na mjerne jedinice."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-065",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 4 cm, 6 cm i x. Odaberi duljinu x tako da trokut bude raznostranični.",
+      "ponudeni": [
+        "4 cm",
+        "5 cm",
+        "6 cm",
+        "40 mm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ako je x = 5 cm, sve tri stranice su različite. Za 4 cm, 40 mm ili 6 cm dvije bi stranice bile jednake.",
+      "savjet": "Treća stranica ne smije biti jednaka nijednoj od zadanih stranica."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-066",
+      "tezina": "tesko",
+      "pitanje": "Krakovi △ABC označeni su crticama, a osnovica AB duga je 6 cm. Krak je za 2 cm dulji od osnovice. Odredi duljinu stranice BC.",
+      "ponudeni": [
+        "4 cm",
+        "8 cm",
+        "6 cm",
+        "10 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krak je za 2 cm dulji od osnovice: 6 cm + 2 cm = 8 cm. BC je krak, pa je duga 8 cm.",
+      "savjet": "Provjeri je li BC krak ili osnovica, pa izračunaj njezinu duljinu.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 6 cm, uz BC piše upitnik, a AC i BC imaju po jednu crticu.",
+        "tocke": {
+          "A": [
+            1.6,
+            0.8
+          ],
+          "B": [
+            8.4,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-067",
+      "tezina": "tesko",
+      "pitanje": "Svaki krak jednakokračnog trokuta dvostruko je dulji od osnovice. Osnovica je duga 4 cm. Odaberi duljine svih stranica tog trokuta.",
+      "ponudeni": [
+        "2 cm, 4 cm i 4 cm",
+        "4 cm, 8 cm i 8 cm",
+        "4 cm, 6 cm i 6 cm",
+        "8 cm, 8 cm i 8 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krak je dvostruko dulji od osnovice: 2 · 4 cm = 8 cm. Stranice su 4 cm, 8 cm i 8 cm.",
+      "savjet": "Najprije izračunaj duljinu kraka, a zatim se sjeti koliko krakova ima trokut."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-068",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o vrstama trokuta prema stranicama.",
+      "ponudeni": [
+        "Raznostranični trokut nema krakove ni osnovicu.",
+        "Jednakokračni trokut ima tri kraka.",
+        "Raznostranični trokut ima dvije jednake stranice.",
+        "Osnovica jednakokračnog trokuta mora biti dulja od kraka."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krakovi i osnovica postoje samo u trokutu s dvije jednake stranice. Raznostranični trokut nema jednakih stranica.",
+      "savjet": "Za svaku tvrdnju zamisli trokut o kojem govori i provjeri je li tvrdnja točna."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-069",
+      "tezina": "tesko",
+      "pitanje": "Sve stranice četverokuta ABCD duge su 5 cm, a dužina BD također je duga 5 cm. Odaberi točnu tvrdnju o △ABD.",
+      "ponudeni": [
+        "△ABD je raznostranični trokut.",
+        "△ABD ima samo dvije jednake stranice.",
+        "Stranica BD najdulja je stranica △ABD.",
+        "△ABD je jednakostranični trokut."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice △ABD su AB, AD i BD, a sve su duge 5 cm. Zato je △ABD jednakostranični.",
+      "savjet": "Najprije odredi koje su tri dužine stranice △ABD.",
+      "slika": {
+        "opis": "Četverokut ABCD podijeljen dužinom BD na dva trokuta; uz svaku stranicu i uz BD piše 5 cm.",
+        "tocke": {
+          "A": [
+            0.8,
+            2.58
+          ],
+          "B": [
+            6.4,
+            2.58
+          ],
+          "D": [
+            3.6,
+            7.42
+          ],
+          "C": [
+            9.2,
+            7.42
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "D",
+            "oznaka": "5 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-070",
+      "tezina": "tesko",
+      "pitanje": "Sve stranice četverokuta ABCD duge su 5 cm, a dužina BD duga je 6 cm. Odredi vrstu △BCD prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "jednakokračni trokut",
+        "raznostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice △BCD su BC i CD od 5 cm te BD od 6 cm. Dvije su jednake, pa je trokut jednakokračni.",
+      "savjet": "Napiši duljine triju stranica △BCD pa ih usporedi.",
+      "slika": {
+        "opis": "Četverokut ABCD podijeljen dužinom BD na dva trokuta; stranice četverokuta označene su s 5 cm, a BD sa 6 cm.",
+        "tocke": {
+          "A": [
+            5,
+            0.8
+          ],
+          "B": [
+            1.85,
+            5
+          ],
+          "C": [
+            5,
+            9.2
+          ],
+          "D": [
+            8.15,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "D",
+            "oznaka": "6 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-071",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 5 cm, 5 cm i 8 cm. Marta je najdulju stranicu skratila na 5 cm. Odaberi točnu tvrdnju o novom trokutu.",
+      "ponudeni": [
+        "Novi trokut je raznostranični.",
+        "Novi trokut ima samo dvije jednake stranice.",
+        "Novi trokut je jednakostranični.",
+        "Novi trokut ima jednu stranicu dulju od ostalih."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon skraćivanja sve su tri stranice duge 5 cm, pa je novi trokut jednakostranični.",
+      "savjet": "Napiši duljine stranica novog trokuta pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-072",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 6 cm, 6 cm i 6 cm. Ivan je jednu stranicu produljio na 8 cm. Odredi vrstu novog trokuta prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "takav trokut ne postoji",
+        "jednakokračni trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Novi trokut ima stranice 6 cm, 6 cm i 8 cm. Točno dvije stranice su jednake, pa je jednakokračni.",
+      "savjet": "Napiši duljine sve tri stranice novog trokuta i usporedi ih."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-073",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 4 cm, 5 cm i 7 cm. Najkraću stranicu produljimo za 1 cm. Odredi vrstu novog trokuta prema stranicama.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "jednakokračni trokut",
+        "takav trokut ne postoji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najkraća stranica od 4 cm postaje 5 cm, pa novi trokut ima stranice 5 cm, 5 cm i 7 cm. To je jednakokračni trokut.",
+      "savjet": "Pronađi najkraću stranicu, izračunaj njezinu novu duljinu i usporedi sve stranice."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-074",
+      "tezina": "tesko",
+      "pitanje": "Oba kraka △ABC sa slike skratimo za 2 cm, a osnovica ostane ista. Odaberi točnu tvrdnju o novom trokutu.",
+      "ponudeni": [
+        "Novi trokut je raznostranični.",
+        "Novi trokut ima samo dvije jednake stranice.",
+        "Novi trokut je jednakostranični.",
+        "Osnovica novog trokuta dulja je od krakova."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krakovi postaju 6 cm − 2 cm = 4 cm, kao i osnovica. Sve tri stranice su 4 cm, pa je novi trokut jednakostranični.",
+      "savjet": "Izračunaj nove duljine krakova i usporedi ih s osnovicom.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 4 cm, BC = 6 cm, CA = 6 cm.",
+        "tocke": {
+          "A": [
+            2.03,
+            0.8
+          ],
+          "B": [
+            7.97,
+            0.8
+          ],
+          "C": [
+            5,
+            9.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "6 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-075",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 1 m, 10 dm i 90 cm. Odredi vrstu tog trokuta prema stranicama.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "takav trokut ne postoji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 m = 10 dm = 100 cm, pa su dvije stranice duge 100 cm, a treća 90 cm. Trokut je jednakokračni.",
+      "savjet": "Izrazi sve tri duljine u centimetrima pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-076",
+      "tezina": "tesko",
+      "pitanje": "Odredi vrstu △RST prema duljinama stranica.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "raznostranični trokut",
+        "ne može se odrediti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U centimetrima su stranice 25 cm, 30 cm i 20 cm. Sve su različite, pa je trokut raznostranični.",
+      "savjet": "Pretvori sve duljine u centimetre pa ih usporedi.",
+      "slika": {
+        "opis": "Trokut RST; RS = 25 cm, ST = 3 dm, TR = 200 mm.",
+        "tocke": {
+          "R": [
+            1.12,
+            1.72
+          ],
+          "S": [
+            9.2,
+            3.15
+          ],
+          "T": [
+            0.8,
+            8.28
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "R",
+              "S",
+              "T"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "R",
+            "do": "S",
+            "oznaka": "25 cm"
+          },
+          {
+            "od": "S",
+            "do": "T",
+            "oznaka": "3 dm"
+          },
+          {
+            "od": "T",
+            "do": "R",
+            "oznaka": "200 mm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-077",
+      "tezina": "tesko",
+      "pitanje": "Stranice s jednakim brojem crtica jednake su duljine. Odaberi osnovicu △ABC.",
+      "ponudeni": [
+        "stranica AB",
+        "stranica BC",
+        "stranica CA",
+        "stranice AB i CA"
+      ],
+      "tocan": 1,
+      "objasnjenje": "AB i CA imaju po jednu crticu, pa su jednake i one su krakovi. BC ima dvije crtice, pa je osnovica.",
+      "savjet": "Krakovi imaju jednak broj crtica; osnovica se po crticama razlikuje od njih.",
+      "slika": {
+        "opis": "Trokut ABC; AB i CA imaju po jednu crticu, a BC dvije crtice.",
+        "tocke": {
+          "B": [
+            6.16,
+            1.7
+          ],
+          "C": [
+            9.2,
+            6.96
+          ],
+          "A": [
+            0.8,
+            8.3
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 2
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-078",
+      "tezina": "tesko",
+      "pitanje": "Odaberi osnovicu △ABC sa slike.",
+      "ponudeni": [
+        "stranica AB",
+        "stranica BC",
+        "stranica CA",
+        "stranice AB i BC"
+      ],
+      "tocan": 2,
+      "objasnjenje": "50 mm je isto što i 5 cm, pa su AB i BC krakovi. Osnovica je CA, duga 4 cm.",
+      "savjet": "Pretvori sve duljine u istu mjernu jedinicu i pronađi dva kraka.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 5 cm, BC = 50 mm, CA = 4 cm.",
+        "tocke": {
+          "A": [
+            8.25,
+            2.71
+          ],
+          "B": [
+            2.81,
+            9.2
+          ],
+          "C": [
+            1.75,
+            0.8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "50 mm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "4 cm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-079",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o △KLM sa slike.",
+      "ponudeni": [
+        "△KLM je raznostranični trokut.",
+        "△KLM ima samo dvije jednake stranice.",
+        "△KLM je jednakostranični trokut.",
+        "Stranica od 800 mm najdulja je stranica △KLM."
+      ],
+      "tocan": 2,
+      "objasnjenje": "8 dm = 80 cm = 800 mm, pa su sve tri stranice jednake. △KLM je jednakostranični.",
+      "savjet": "Izrazi sve tri duljine u centimetrima pa ih usporedi.",
+      "slika": {
+        "opis": "Trokut KLM; KL = 8 dm, LM = 80 cm, MK = 800 mm.",
+        "tocke": {
+          "K": [
+            9.2,
+            9.01
+          ],
+          "L": [
+            0.8,
+            7.53
+          ],
+          "M": [
+            6.28,
+            0.99
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "oznaka": "8 dm"
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "80 cm"
+          },
+          {
+            "od": "M",
+            "do": "K",
+            "oznaka": "800 mm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-080",
+      "tezina": "tesko",
+      "pitanje": "Luka je nacrtao trokut sa stranicama 3 cm, 4 cm i 3 cm, a Sara trokut sa stranicama 4 cm, 4 cm i 4 cm. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Oba trokuta su jednakostranična.",
+        "Lukin trokut je jednakokračni, a Sarin jednakostranični.",
+        "Lukin trokut je raznostranični, a Sarin jednakostranični.",
+        "Lukin trokut je jednakostranični, a Sarin jednakokračni."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lukin trokut ima dvije jednake stranice od 3 cm, pa je jednakokračni. Sarin ima sve tri stranice od 4 cm, pa je jednakostranični.",
+      "savjet": "Odredi vrstu svakog trokuta posebno, pa tek onda odaberi tvrdnju."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-081",
+      "tezina": "tesko",
+      "pitanje": "Odaberi jednakokračni trokut kojemu je osnovica za 2 cm kraća od kraka.",
+      "ponudeni": [
+        "6 cm, 6 cm i 8 cm",
+        "8 cm, 8 cm i 6 cm",
+        "8 cm, 8 cm i 10 cm",
+        "6 cm, 8 cm i 10 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U trokutu 8 cm, 8 cm i 6 cm krakovi su 8 cm, a osnovica 6 cm, što je 2 cm manje od kraka.",
+      "savjet": "U svakom odgovoru najprije pronađi krakove i osnovicu, pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-082",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 5 cm, 8 cm i 6 cm. Odaberi kako treba promijeniti jednu stranicu da trokut postane jednakokračni.",
+      "ponudeni": [
+        "Stranicu od 5 cm produljiti na 7 cm.",
+        "Stranicu od 6 cm skratiti na 4 cm.",
+        "Stranicu od 8 cm produljiti na 9 cm.",
+        "Stranicu od 8 cm skratiti na 6 cm."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ako stranicu od 8 cm skratimo na 6 cm, trokut ima stranice 5 cm, 6 cm i 6 cm. Dvije su jednake, pa je jednakokračni.",
+      "savjet": "Za svaki odgovor napiši nove duljine stranica i provjeri jesu li dvije jednake."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-083",
+      "tezina": "tesko",
+      "pitanje": "Jedna stranica trokuta duga je 6 cm, druga je za 2 cm dulja od nje, a treća je jednaka drugoj. Odaberi duljinu osnovice tog trokuta.",
+      "ponudeni": [
+        "6 cm",
+        "8 cm",
+        "2 cm",
+        "10 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranice su 6 cm, 8 cm i 8 cm. Krakovi su dvije stranice od 8 cm, pa je osnovica duga 6 cm.",
+      "savjet": "Najprije izračunaj duljine svih triju stranica pa pronađi krakove."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-084",
+      "tezina": "tesko",
+      "pitanje": "Stranice označene istim slovom jednake su duljine. Odaberi točnu tvrdnju o △KLM.",
+      "ponudeni": [
+        "Stranice označene slovom a su osnovice.",
+        "△KLM je raznostranični trokut.",
+        "Stranica označena slovom b je osnovica.",
+        "△KLM ima tri kraka."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dvije stranice označene slovom a jednake su, pa su krakovi. Stranica b je osnovica.",
+      "savjet": "Najprije pronađi krakove: to su dvije jednake stranice.",
+      "slika": {
+        "opis": "Trokut KLM; stranice KL i LM označene su slovom a, a stranica MK slovom b.",
+        "tocke": {
+          "M": [
+            9.2,
+            2.24
+          ],
+          "K": [
+            9.2,
+            7.76
+          ],
+          "L": [
+            0.8,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "oznaka": "a"
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "a"
+          },
+          {
+            "od": "M",
+            "do": "K",
+            "oznaka": "b"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-085",
+      "tezina": "tesko",
+      "pitanje": "Stranica CA △ABC dulja je od 6 cm. Odredi vrstu △ABC prema stranicama.",
+      "ponudeni": [
+        "jednakokračni trokut",
+        "jednakostranični trokut",
+        "ne može se odrediti",
+        "raznostranični trokut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "CA je dulja od 6 cm, pa nije jednaka ni AB (6 cm) ni BC (5 cm). Sve tri stranice su različite, pa je trokut raznostranični.",
+      "savjet": "Provjeri može li stranica CA biti jednaka nekoj od drugih dviju stranica.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 6 cm, BC = 5 cm, a uz CA piše upitnik.",
+        "tocke": {
+          "A": [
+            0.8,
+            1.64
+          ],
+          "B": [
+            8.86,
+            1.64
+          ],
+          "C": [
+            9.2,
+            8.36
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-086",
+      "tezina": "tesko",
+      "pitanje": "Na slici su △ABC i △BCD. Jednake stranice označene su jednakim brojem crtica. Odredi duljinu stranice BC.",
+      "ponudeni": [
+        "6 cm",
+        "5 cm",
+        "4 cm",
+        "2 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranica BC ima jednu crticu, kao i AB, pa je duga 4 cm kao AB.",
+      "savjet": "Pronađi stranicu koja ima jednak broj crtica kao BC i kojoj znaš duljinu.",
+      "slika": {
+        "opis": "Dva trokuta, ABC i BCD, sa zajedničkom stranicom BC. AB, AC i BC imaju po jednu crticu, a BD i CD po dvije; AB = 4 cm, BD = 6 cm.",
+        "tocke": {
+          "A": [
+            0.8,
+            5
+          ],
+          "B": [
+            3.99,
+            3.16
+          ],
+          "C": [
+            3.99,
+            6.84
+          ],
+          "D": [
+            9.2,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "B",
+              "D",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "D",
+            "oznaka": "6 cm",
+            "crtice": 2
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "crtice": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-087",
+      "tezina": "tesko",
+      "pitanje": "Trokut ima stranice duljina 7 cm, 70 mm i 9 cm. Odaberi osnovicu tog trokuta.",
+      "ponudeni": [
+        "stranica od 9 cm",
+        "stranica od 7 cm",
+        "stranica od 70 mm",
+        "stranice od 7 cm i 70 mm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "70 mm = 7 cm, pa su stranice od 7 cm i 70 mm krakovi. Osnovica je stranica od 9 cm.",
+      "savjet": "Najprije pronađi dvije jednake stranice, pazeći na mjerne jedinice."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-088",
+      "tezina": "tesko",
+      "pitanje": "Odaberi jednakokračni trokut kojemu je osnovica dulja od kraka.",
+      "ponudeni": [
+        "8 cm, 8 cm i 5 cm",
+        "5 cm, 6 cm i 8 cm",
+        "5 cm, 5 cm i 8 cm",
+        "4 cm, 5 cm i 5 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U trokutu 5 cm, 5 cm i 8 cm krakovi su 5 cm, a osnovica 8 cm, što je dulje od kraka.",
+      "savjet": "Krakovi su dvije jednake stranice; usporedi ih s trećom stranicom."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-089",
+      "tezina": "tesko",
+      "pitanje": "Ema tvrdi: „Trokut sa stranicama 6 cm, 6 cm i 9 cm raznostranični je jer mu je jedna stranica dulja od ostalih.“ Odaberi točan odgovor.",
+      "ponudeni": [
+        "Ema je u pravu, trokut je raznostranični.",
+        "Ema nije u pravu, trokut je jednakostranični.",
+        "Ema nije u pravu, trokut je jednakokračni.",
+        "Ema je u pravu jer najdulja stranica određuje vrstu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trokut ima dvije jednake stranice od 6 cm, pa je jednakokračni. Raznostranični trokut ima sve tri stranice različite.",
+      "savjet": "Vrstu trokuta određuje koliko je stranica jednakih, a ne koja je najdulja."
+    },
+    {
+      "id": "4-matematika-vrste-trokuta-prema-stranicama-090",
+      "tezina": "tesko",
+      "pitanje": "Stranice s jednakim brojem crtica jednake su duljine. Odaberi duljine svih stranica △ABC.",
+      "ponudeni": [
+        "5 cm, 3 cm i 3 cm",
+        "5 cm, 5 cm i 3 cm",
+        "3 cm, 3 cm i 3 cm",
+        "5 cm, 5 cm i 5 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "AB i AC imaju po dvije crtice, pa je i AC duga 5 cm. Stranice su 5 cm, 5 cm i 3 cm.",
+      "savjet": "Pronađi stranicu bez napisane duljine i pogledaj s kojom stranicom ima jednak broj crtica.",
+      "slika": {
+        "opis": "Trokut ABC; AB = 5 cm i BC = 3 cm. AB i AC imaju po dvije crtice, a BC jednu.",
+        "tocke": {
+          "B": [
+            7.18,
+            9.2
+          ],
+          "C": [
+            2.44,
+            7.47
+          ],
+          "A": [
+            7.56,
+            0.8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm",
+            "crtice": 2
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 2
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm",
+            "crtice": 1
+          }
+        ]
+      }
+    }
+  ]
+}

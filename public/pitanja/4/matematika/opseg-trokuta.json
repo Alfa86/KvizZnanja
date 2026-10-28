@@ -1,0 +1,2909 @@
+{
+  "lekcijaId": "opseg-trokuta",
+  "pitanja": [
+    {
+      "id": "4-matematika-opseg-trokuta-001",
+      "tezina": "lagano",
+      "pitanje": "Što je opseg trokuta?",
+      "ponudeni": [
+        "zbroj duljina dviju njegovih stranica",
+        "duljina njegove najdulje stranice",
+        "zbroj duljina svih njegovih stranica",
+        "umnožak duljina njegovih stranica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg trokuta je zbroj duljina svih triju stranica, odnosno duljina cijelog ruba trokuta.",
+      "savjet": "Zamisli da hodaš po rubu trokuta dok se ne vratiš na početak."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-002",
+      "tezina": "lagano",
+      "pitanje": "Kojom se formulom računa opseg △ABC sa stranicama a, b i c?",
+      "ponudeni": [
+        "o = a + b + c",
+        "o = a + b",
+        "o = a · b · c",
+        "o = a + b − c"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg je zbroj duljina svih stranica, pa je o = a + b + c.",
+      "savjet": "Prisjeti se što je opseg i koliko stranica ima trokut."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-003",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg trokuta sa stranicama duljina 3 cm, 4 cm i 5 cm.",
+      "ponudeni": [
+        "7 cm",
+        "9 cm",
+        "12 cm",
+        "12 mm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg je zbroj duljina svih stranica: 3 cm + 4 cm + 5 cm = 12 cm.",
+      "savjet": "Zbroji duljine svih triju stranica, a ne samo dviju."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-004",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg △ABC sa slike.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 6 cm, BC 5 cm, a CA 4 cm.",
+        "tocke": {
+          "A": [
+            1,
+            2.8
+          ],
+          "B": [
+            9,
+            2.8
+          ],
+          "C": [
+            4,
+            7.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "4 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "11 cm",
+        "10 cm",
+        "9 cm",
+        "15 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg je zbroj duljina stranica: o = 6 cm + 5 cm + 4 cm = 15 cm.",
+      "savjet": "Zbroji duljine svih stranica koje su označene na slici."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-005",
+      "tezina": "lagano",
+      "pitanje": "Stranice trokuta duge su 7 cm, 8 cm i 9 cm. Izračunaj opseg tog trokuta.",
+      "ponudeni": [
+        "24 cm",
+        "15 cm",
+        "17 cm",
+        "16 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "o = 7 cm + 8 cm + 9 cm = 24 cm.",
+      "savjet": "Opseg trokuta računaš formulom o = a + b + c."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-006",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg △DEF sa slike.",
+      "slika": {
+        "opis": "Trokut DEF; stranica DE duga je 30 mm, EF 25 mm, a FD 20 mm.",
+        "tocke": {
+          "D": [
+            1,
+            2.8
+          ],
+          "E": [
+            9,
+            2.8
+          ],
+          "F": [
+            4,
+            7.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "30 mm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "25 mm"
+          },
+          {
+            "od": "F",
+            "do": "D",
+            "oznaka": "20 mm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "55 mm",
+        "50 mm",
+        "75 cm",
+        "75 mm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 30 mm + 25 mm + 20 mm = 75 mm.",
+      "savjet": "Zbroji sve tri duljine sa slike."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-007",
+      "tezina": "lagano",
+      "pitanje": "Koliko jednakih stranica ima jednakostranični trokut?",
+      "ponudeni": [
+        "dvije",
+        "nijednu",
+        "tri",
+        "jednu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jednakostraničnom trokutu sve su stranice jednako duge, a trokut ima tri stranice.",
+      "savjet": "Razmisli što znači naziv jednakostraničan i koliko stranica ima svaki trokut."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg jednakostraničnog trokuta kojemu je stranica duga 4 cm.",
+      "ponudeni": [
+        "8 cm",
+        "12 cm",
+        "16 cm",
+        "4 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sve su tri stranice duge 4 cm, pa je o = 3 · 4 cm = 12 cm.",
+      "savjet": "Sve stranice jednakostraničnog trokuta jednako su duge."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg jednakostraničnog △ABC sa slike.",
+      "slika": {
+        "opis": "Jednakostranični trokut ABC; stranica AB duga je 5 cm, a sve tri stranice označene su jednakom crticom.",
+        "tocke": {
+          "A": [
+            1,
+            1.54
+          ],
+          "B": [
+            9,
+            1.54
+          ],
+          "C": [
+            5,
+            8.46
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "10 cm",
+        "5 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve su stranice jednake, pa je o = 3 · 5 cm = 15 cm.",
+      "savjet": "Crtice na stranicama pokazuju da su te stranice jednako duge."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-010",
+      "tezina": "lagano",
+      "pitanje": "Jednakokračni trokut ima krakove duge 5 cm i osnovicu dugu 6 cm. Izračunaj njegov opseg.",
+      "ponudeni": [
+        "11 cm",
+        "15 cm",
+        "17 cm",
+        "16 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi su dva, pa je o = 5 cm + 5 cm + 6 cm = 16 cm.",
+      "savjet": "Ne zaboravi da jednakokračni trokut ima dva jednaka kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-011",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg jednakokračnog △KLM sa slike.",
+      "slika": {
+        "opis": "Jednakokračni trokut KLM; osnovica KL duga je 4 cm, krak LM 7 cm, a krak MK označen je istom crticom kao LM.",
+        "tocke": {
+          "K": [
+            2.61,
+            1
+          ],
+          "L": [
+            7.39,
+            1
+          ],
+          "M": [
+            5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "7 cm",
+            "crtice": 1
+          },
+          {
+            "od": "M",
+            "do": "K",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "18 cm",
+        "11 cm",
+        "15 cm",
+        "21 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krakovi LM i MK jednako su dugi, pa je o = 4 cm + 7 cm + 7 cm = 18 cm.",
+      "savjet": "Stranica MK ima istu crticu kao LM, pa je jednako duga."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-012",
+      "tezina": "lagano",
+      "pitanje": "Stranice trokuta duge su 2 dm, 3 dm i 4 dm. Izračunaj opseg trokuta.",
+      "ponudeni": [
+        "5 dm",
+        "7 dm",
+        "9 cm",
+        "9 dm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 2 dm + 3 dm + 4 dm = 9 dm.",
+      "savjet": "Opseg dobiješ kad zbrojiš duljine svih stranica."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-013",
+      "tezina": "lagano",
+      "pitanje": "Park ima oblik trokuta sa stranicama 20 m, 30 m i 40 m. Marko jednom obiđe park. Odredi duljinu puta koji prijeđe.",
+      "ponudeni": [
+        "90 m",
+        "50 m",
+        "70 m",
+        "90 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Put oko parka jednak je opsegu: 20 m + 30 m + 40 m = 90 m.",
+      "savjet": "Kad obiđeš park jednom, prijeđeš put jednak opsegu parka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-014",
+      "tezina": "lagano",
+      "pitanje": "Odredi opseg △PQR sa slike.",
+      "slika": {
+        "opis": "Trokut PQR; stranica PQ duga je 8 cm, QR 6 cm, a RP 7 cm.",
+        "tocke": {
+          "P": [
+            1,
+            2.46
+          ],
+          "Q": [
+            9,
+            2.46
+          ],
+          "R": [
+            5.81,
+            7.54
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "Q",
+              "R"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P",
+            "do": "Q",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "Q",
+            "do": "R",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "R",
+            "do": "P",
+            "oznaka": "7 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "15 cm",
+        "21 cm",
+        "13 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 8 cm + 6 cm + 7 cm = 21 cm.",
+      "savjet": "Zbroji duljine svih triju stranica trokuta PQR."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-015",
+      "tezina": "lagano",
+      "pitanje": "Stranice trokuta izmjerene su u centimetrima. U kojoj se mjernoj jedinici izražava njegov opseg?",
+      "ponudeni": [
+        "u kilogramima",
+        "u litrama",
+        "u minutama",
+        "u centimetrima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg je duljina, pa ga izražavamo u istoj jedinici kao i stranice, u centimetrima.",
+      "savjet": "Opseg je zbroj duljina, pa je i sam duljina."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg △RST sa slike.",
+      "slika": {
+        "opis": "Trokut RST; stranica RS duga je 40 mm, ST 30 mm, a TR 50 mm.",
+        "tocke": {
+          "R": [
+            1,
+            2
+          ],
+          "S": [
+            9,
+            2
+          ],
+          "T": [
+            9,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "R",
+              "S",
+              "T"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "R",
+            "do": "S",
+            "oznaka": "40 mm"
+          },
+          {
+            "od": "S",
+            "do": "T",
+            "oznaka": "30 mm"
+          },
+          {
+            "od": "T",
+            "do": "R",
+            "oznaka": "50 mm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "70 mm",
+        "120 mm",
+        "90 mm",
+        "120 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "o = 40 mm + 30 mm + 50 mm = 120 mm.",
+      "savjet": "Zbroji duljine stranica RS, ST i TR."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg trokuta sa stranicama 10 cm, 12 cm i 15 cm.",
+      "ponudeni": [
+        "22 cm",
+        "27 cm",
+        "25 cm",
+        "37 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 10 cm + 12 cm + 15 cm = 37 cm.",
+      "savjet": "Zbroji prve dvije duljine, a zatim dodaj duljinu treće stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-018",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg jednakostraničnog △EFG sa slike.",
+      "slika": {
+        "opis": "Jednakostranični trokut EFG; stranica EF duga je 3 cm, a sve tri stranice označene su jednakom crticom.",
+        "tocke": {
+          "E": [
+            1,
+            1.54
+          ],
+          "F": [
+            9,
+            1.54
+          ],
+          "G": [
+            5,
+            8.46
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "3 cm",
+            "crtice": 1
+          },
+          {
+            "od": "F",
+            "do": "G",
+            "crtice": 1
+          },
+          {
+            "od": "G",
+            "do": "E",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "9 cm",
+        "6 cm",
+        "3 cm",
+        "12 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve su stranice duge 3 cm, pa je o = 3 cm + 3 cm + 3 cm = 9 cm.",
+      "savjet": "Sve tri stranice ovog trokuta jednako su duge."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-019",
+      "tezina": "lagano",
+      "pitanje": "Livada ima oblik jednakostraničnog trokuta sa stranicom 9 m. Izračunaj opseg livade.",
+      "ponudeni": [
+        "18 m",
+        "81 m",
+        "27 m",
+        "12 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve tri stranice duge su 9 m, pa je o = 3 · 9 m = 27 m.",
+      "savjet": "Livada ima tri jednake stranice, pa zbroji tri jednake duljine."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-020",
+      "tezina": "lagano",
+      "pitanje": "Zastavica ima oblik trokuta sa stranicama 20 cm, 15 cm i 15 cm. Lea je cijelu obrubljuje vrpcom. Odredi koliko joj centimetara vrpce treba.",
+      "ponudeni": [
+        "35 cm",
+        "50 cm",
+        "30 cm",
+        "55 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrpca ide oko cijele zastavice: 20 cm + 15 cm + 15 cm = 50 cm.",
+      "savjet": "Vrpca ide oko cijele zastavice, uz sve tri stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-021",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg △MNP sa slike.",
+      "slika": {
+        "opis": "Trokut MNP; stranica MN duga je 9 cm, NP 5 cm, a PM 6 cm.",
+        "tocke": {
+          "M": [
+            1,
+            3.6
+          ],
+          "N": [
+            9,
+            3.6
+          ],
+          "P": [
+            5.54,
+            6.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "M",
+              "N",
+              "P"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "M",
+            "do": "N",
+            "oznaka": "9 cm"
+          },
+          {
+            "od": "N",
+            "do": "P",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "P",
+            "do": "M",
+            "oznaka": "6 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "15 cm",
+        "20 cm",
+        "11 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 9 cm + 5 cm + 6 cm = 20 cm.",
+      "savjet": "Opseg je zbroj duljina svih stranica trokuta."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-022",
+      "tezina": "lagano",
+      "pitanje": "Opseg trokuta je 12 cm. Što to znači?",
+      "ponudeni": [
+        "zbroj duljina njegovih stranica je 12 cm",
+        "svaka njegova stranica duga je 12 cm",
+        "njegova najdulja stranica duga je 12 cm",
+        "dvije njegove stranice zajedno su duge 12 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg je zbroj duljina svih triju stranica, pa je taj zbroj 12 cm.",
+      "savjet": "Prisjeti se što zbrajaš kad računaš opseg."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-023",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg trokuta sa stranicama 6 dm, 8 dm i 5 dm.",
+      "ponudeni": [
+        "14 dm",
+        "13 dm",
+        "19 cm",
+        "19 dm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 6 dm + 8 dm + 5 dm = 19 dm.",
+      "savjet": "Prvo zbroji dvije stranice, zatim tom zbroju dodaj treću."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-024",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg jednakokračnog △ABC sa slike.",
+      "slika": {
+        "opis": "Jednakokračni trokut ABC; osnovica AB duga je 8 cm, krak BC 5 cm, a krak CA označen je istom crticom kao BC.",
+        "tocke": {
+          "A": [
+            1,
+            3.5
+          ],
+          "B": [
+            9,
+            3.5
+          ],
+          "C": [
+            5,
+            6.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "18 cm",
+        "13 cm",
+        "21 cm",
+        "15 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krakovi BC i CA jednako su dugi, pa je o = 8 cm + 5 cm + 5 cm = 18 cm.",
+      "savjet": "Crtice pokazuju koje su stranice jednako duge."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-025",
+      "tezina": "lagano",
+      "pitanje": "Opseg trokuta je 12 cm. Dvije stranice duge su 3 cm i 4 cm. Odredi duljinu treće stranice.",
+      "ponudeni": [
+        "7 cm",
+        "19 cm",
+        "5 cm",
+        "9 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od opsega oduzmi poznate stranice: 12 cm − 3 cm − 4 cm = 5 cm.",
+      "savjet": "Od opsega oduzmi zbroj duljina poznatih stranica."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg △XYZ sa slike.",
+      "slika": {
+        "opis": "Trokut XYZ; stranica XY duga je 10 cm, YZ 8 cm, a ZX 4 cm.",
+        "tocke": {
+          "X": [
+            1,
+            3.78
+          ],
+          "Y": [
+            9,
+            3.78
+          ],
+          "Z": [
+            3.08,
+            6.22
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "X",
+              "Y",
+              "Z"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "X",
+            "do": "Y",
+            "oznaka": "10 cm"
+          },
+          {
+            "od": "Y",
+            "do": "Z",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "Z",
+            "do": "X",
+            "oznaka": "4 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "22 cm",
+        "18 cm",
+        "14 cm",
+        "12 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "o = 10 cm + 8 cm + 4 cm = 22 cm.",
+      "savjet": "Zbroji duljine stranica XY, YZ i ZX."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-027",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom u formuli označava opseg trokuta?",
+      "ponudeni": [
+        "a",
+        "c",
+        "o",
+        "b"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg označavamo malim slovom o, kao u formuli o = a + b + c.",
+      "savjet": "Prisjeti se formule za računanje opsega trokuta."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-028",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg △PRS sa slike.",
+      "slika": {
+        "opis": "Trokut PRS; stranica PR duga je 50 mm, RS 45 mm, a SP 35 mm.",
+        "tocke": {
+          "P": [
+            1,
+            2.55
+          ],
+          "R": [
+            9,
+            2.55
+          ],
+          "S": [
+            3.72,
+            7.45
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "R",
+              "S"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P",
+            "do": "R",
+            "oznaka": "50 mm"
+          },
+          {
+            "od": "R",
+            "do": "S",
+            "oznaka": "45 mm"
+          },
+          {
+            "od": "S",
+            "do": "P",
+            "oznaka": "35 mm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "95 mm",
+        "80 mm",
+        "130 cm",
+        "130 mm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 50 mm + 45 mm + 35 mm = 130 mm.",
+      "savjet": "Zbroji duljine svih triju stranica sa slike."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-029",
+      "tezina": "lagano",
+      "pitanje": "Vrt ima oblik trokuta sa stranicama 12 m, 9 m i 10 m. Ivan ga želi ograditi. Odredi koliko mu je metara ograde potrebno.",
+      "ponudeni": [
+        "21 m",
+        "31 m",
+        "22 m",
+        "19 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ograda je duga koliko i opseg vrta: 12 m + 9 m + 10 m = 31 m.",
+      "savjet": "Ograda ide oko cijelog vrta, uz sve njegove stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-030",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg △LMN sa slike.",
+      "slika": {
+        "opis": "Trokut LMN; stranica LM duga je 9 cm, MN 6 cm, a NL 4 cm.",
+        "tocke": {
+          "L": [
+            1,
+            4.06
+          ],
+          "M": [
+            9,
+            4.06
+          ],
+          "N": [
+            4.01,
+            5.94
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "L",
+              "M",
+              "N"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "9 cm"
+          },
+          {
+            "od": "M",
+            "do": "N",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "N",
+            "do": "L",
+            "oznaka": "4 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "15 cm",
+        "13 cm",
+        "10 cm",
+        "19 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 9 cm + 6 cm + 4 cm = 19 cm.",
+      "savjet": "Zbroji duljine stranica LM, MN i NL."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-031",
+      "tezina": "srednje",
+      "pitanje": "Opseg trokuta je 24 cm. Dvije njegove stranice duge su 7 cm i 9 cm. Odredi duljinu treće stranice.",
+      "ponudeni": [
+        "16 cm",
+        "8 cm",
+        "15 cm",
+        "40 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od opsega oduzmi poznate stranice: 24 cm − 7 cm − 9 cm = 8 cm.",
+      "savjet": "Zbroji poznate stranice pa taj zbroj oduzmi od opsega."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-032",
+      "tezina": "srednje",
+      "pitanje": "Opseg △ABC je 25 cm. Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 10 cm, CA 7 cm, a stranica BC označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            2.78
+          ],
+          "B": [
+            9,
+            2.78
+          ],
+          "C": [
+            4.4,
+            7.22
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "10 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "7 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "17 cm",
+        "15 cm",
+        "18 cm",
+        "8 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "BC = 25 cm − 10 cm − 7 cm = 8 cm.",
+      "savjet": "Od opsega oduzmi duljine stranica koje su zadane na slici."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-033",
+      "tezina": "srednje",
+      "pitanje": "Opseg jednakostraničnog trokuta je 18 cm. Odredi duljinu njegove stranice.",
+      "ponudeni": [
+        "9 cm",
+        "15 cm",
+        "6 cm",
+        "54 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tri su stranice jednake, pa je stranica 18 cm : 3 = 6 cm.",
+      "savjet": "Opseg je zbroj triju jednakih stranica, pa ga podijeli na jednake dijelove."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-034",
+      "tezina": "srednje",
+      "pitanje": "Stranica jednakostraničnog trokuta duga je 2 dm. Izračunaj opseg tog trokuta u centimetrima.",
+      "ponudeni": [
+        "6 cm",
+        "60 cm",
+        "40 cm",
+        "20 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "2 dm = 20 cm, pa je o = 3 · 20 cm = 60 cm.",
+      "savjet": "Najprije pretvori decimetre u centimetre: 1 dm = 10 cm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-035",
+      "tezina": "srednje",
+      "pitanje": "Opseg jednakokračnog △ABC je 22 cm. Odredi duljinu kraka.",
+      "slika": {
+        "opis": "Jednakokračni trokut ABC; osnovica AB duga je 6 cm, krak BC označen je upitnikom, a krak CA istom crticom kao BC.",
+        "tocke": {
+          "A": [
+            1.76,
+            1
+          ],
+          "B": [
+            8.24,
+            1
+          ],
+          "C": [
+            5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "8 cm",
+        "16 cm",
+        "11 cm",
+        "10 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oba kraka zajedno imaju 22 cm − 6 cm = 16 cm, pa je jedan krak 16 cm : 2 = 8 cm.",
+      "savjet": "Od opsega oduzmi osnovicu, a ostatak podijeli na dva jednaka kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg jednakokračnog trokuta s krakovima od 9 cm i osnovicom od 5 cm.",
+      "ponudeni": [
+        "14 cm",
+        "23 cm",
+        "19 cm",
+        "27 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "o = 9 cm + 9 cm + 5 cm = 23 cm.",
+      "savjet": "Jednakokračni trokut ima dva kraka jednake duljine."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-037",
+      "tezina": "srednje",
+      "pitanje": "Stranice trokuta duge su 4 cm, 30 mm i 50 mm. Izračunaj opseg u milimetrima.",
+      "ponudeni": [
+        "84 mm",
+        "80 mm",
+        "120 mm",
+        "120 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4 cm = 40 mm, pa je o = 40 mm + 30 mm + 50 mm = 120 mm.",
+      "savjet": "Prije zbrajanja sve duljine pretvori u milimetre: 1 cm = 10 mm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg △ABC sa slike u centimetrima.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 1 dm, BC 8 cm, a CA 6 cm.",
+        "tocke": {
+          "A": [
+            1,
+            3.08
+          ],
+          "B": [
+            9,
+            3.08
+          ],
+          "C": [
+            3.88,
+            6.92
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "1 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "6 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "24 cm",
+        "15 cm",
+        "14 cm",
+        "24 dm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 dm = 10 cm, pa je o = 10 cm + 8 cm + 6 cm = 24 cm.",
+      "savjet": "Stranicu zadanu u decimetrima najprije pretvori u centimetre."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-039",
+      "tezina": "srednje",
+      "pitanje": "Vrt ima oblik jednakokračnog trokuta s krakovima od 15 m i osnovicom od 12 m. Petra ga ograđuje žicom. Odredi koliko joj metara žice treba.",
+      "ponudeni": [
+        "27 m",
+        "39 m",
+        "45 m",
+        "42 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Žica ide oko cijelog vrta: 15 m + 15 m + 12 m = 42 m.",
+      "savjet": "Žica ide uz osnovicu i uz oba kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-040",
+      "tezina": "srednje",
+      "pitanje": "Opseg △KLM je 32 cm. Odredi duljinu stranice LM.",
+      "slika": {
+        "opis": "Trokut KLM; stranica KL duga je 12 cm, MK 9 cm, a stranica LM označena je upitnikom.",
+        "tocke": {
+          "K": [
+            1,
+            2.37
+          ],
+          "L": [
+            9,
+            2.37
+          ],
+          "M": [
+            3.89,
+            7.63
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "oznaka": "12 cm"
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "?"
+          },
+          {
+            "od": "M",
+            "do": "K",
+            "oznaka": "9 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "11 cm",
+        "21 cm",
+        "20 cm",
+        "23 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "LM = 32 cm − 12 cm − 9 cm = 11 cm.",
+      "savjet": "Zbroji duljine stranica KL i MK pa taj zbroj oduzmi od opsega."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-041",
+      "tezina": "srednje",
+      "pitanje": "Stranice trokuta duge su 1 m, 80 cm i 70 cm. Izračunaj opseg u centimetrima.",
+      "ponudeni": [
+        "151 cm",
+        "150 cm",
+        "250 cm",
+        "250 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 m = 100 cm, pa je o = 100 cm + 80 cm + 70 cm = 250 cm.",
+      "savjet": "Metar najprije pretvori u centimetre: 1 m = 100 cm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-042",
+      "tezina": "srednje",
+      "pitanje": "Opseg jednakostraničnog trokuta je 27 mm. Odredi duljinu stranice.",
+      "ponudeni": [
+        "24 mm",
+        "9 mm",
+        "81 mm",
+        "3 mm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sve su tri stranice jednake, pa je stranica 27 mm : 3 = 9 mm.",
+      "savjet": "Opseg podijeli na onoliko jednakih dijelova koliko trokut ima stranica."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-043",
+      "tezina": "srednje",
+      "pitanje": "Opseg jednakostraničnog △ABC je 21 cm. Odredi duljinu stranice AB.",
+      "slika": {
+        "opis": "Jednakostranični trokut ABC; sve tri stranice označene su jednakom crticom, a stranica AB upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            1.54
+          ],
+          "B": [
+            9,
+            1.54
+          ],
+          "C": [
+            5,
+            8.46
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "18 cm",
+        "63 cm",
+        "24 cm",
+        "7 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve su tri stranice jednake, pa je AB = 21 cm : 3 = 7 cm.",
+      "savjet": "Sve tri stranice su jednake, pa opseg podijeli s brojem stranica."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-044",
+      "tezina": "srednje",
+      "pitanje": "Park ima oblik trokuta sa stranicama 50 m, 60 m i 70 m. Nina dva puta obiđe park. Odredi koliko metara prijeđe.",
+      "ponudeni": [
+        "180 m",
+        "360 m",
+        "220 m",
+        "260 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opseg parka je 50 m + 60 m + 70 m = 180 m, a dva kruga su 2 · 180 m = 360 m.",
+      "savjet": "Izračunaj opseg parka pa razmisli koliko ga puta Nina obiđe."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-045",
+      "tezina": "srednje",
+      "pitanje": "Opseg jednakokračnog trokuta je 20 cm, a krak je dug 7 cm. Odredi duljinu osnovice.",
+      "ponudeni": [
+        "13 cm",
+        "14 cm",
+        "6 cm",
+        "27 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krakovi zajedno imaju 7 cm + 7 cm = 14 cm, pa je osnovica 20 cm − 14 cm = 6 cm.",
+      "savjet": "Od opsega oduzmi duljine obaju krakova."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-046",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg jednakokračnog △PQR u centimetrima.",
+      "slika": {
+        "opis": "Jednakokračni trokut PQR; osnovica PQ duga je 1 dm, krak QR 8 cm, a krak RP označen je istom crticom kao QR.",
+        "tocke": {
+          "P": [
+            1,
+            2.5
+          ],
+          "Q": [
+            9,
+            2.5
+          ],
+          "R": [
+            5,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "Q",
+              "R"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P",
+            "do": "Q",
+            "oznaka": "1 dm"
+          },
+          {
+            "od": "Q",
+            "do": "R",
+            "oznaka": "8 cm",
+            "crtice": 1
+          },
+          {
+            "od": "R",
+            "do": "P",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "26 cm",
+        "17 cm",
+        "18 cm",
+        "26 dm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 dm = 10 cm, pa je o = 10 cm + 8 cm + 8 cm = 26 cm.",
+      "savjet": "Osnovicu pretvori u centimetre i ne zaboravi drugi krak."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-047",
+      "tezina": "srednje",
+      "pitanje": "Zastavica ima oblik trokuta sa stranicama 3 dm, 25 cm i 25 cm. Toma je obrubljuje vrpcom. Odredi koliko mu centimetara vrpce treba.",
+      "ponudeni": [
+        "53 cm",
+        "55 cm",
+        "80 cm",
+        "50 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "3 dm = 30 cm, pa je potrebno 30 cm + 25 cm + 25 cm = 80 cm vrpce.",
+      "savjet": "Decimetre najprije pretvori u centimetre, a zatim zbroji sve tri stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-048",
+      "tezina": "srednje",
+      "pitanje": "Opseg △ABC je 120 mm. Odredi duljinu stranice CA.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 50 mm, BC 40 mm, a stranica CA označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            3.08
+          ],
+          "B": [
+            9,
+            3.08
+          ],
+          "C": [
+            3.88,
+            6.92
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "50 mm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "40 mm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "90 mm",
+        "70 mm",
+        "80 mm",
+        "30 mm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "CA = 120 mm − 50 mm − 40 mm = 30 mm.",
+      "savjet": "Od opsega oduzmi duljine stranica AB i BC."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-049",
+      "tezina": "srednje",
+      "pitanje": "Prometni znak ima oblik jednakostraničnog trokuta sa stranicom 60 cm. Izračunaj opseg znaka.",
+      "ponudeni": [
+        "120 cm",
+        "240 cm",
+        "180 cm",
+        "180 mm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve su tri stranice duge 60 cm, pa je o = 3 · 60 cm = 180 cm.",
+      "savjet": "Duljinu jedne stranice pomnoži s brojem stranica trokuta."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-050",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg jednakostraničnog △DEF u centimetrima.",
+      "slika": {
+        "opis": "Jednakostranični trokut DEF; stranica DE duga je 40 mm, a sve tri stranice označene su jednakom crticom.",
+        "tocke": {
+          "D": [
+            1,
+            1.54
+          ],
+          "E": [
+            9,
+            1.54
+          ],
+          "F": [
+            5,
+            8.46
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "40 mm",
+            "crtice": 1
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "crtice": 1
+          },
+          {
+            "od": "F",
+            "do": "D",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "120 cm",
+        "12 cm",
+        "8 cm",
+        "16 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "40 mm = 4 cm, pa je o = 3 · 4 cm = 12 cm.",
+      "savjet": "Najprije pretvori milimetre u centimetre: 10 mm = 1 cm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-051",
+      "tezina": "srednje",
+      "pitanje": "Ograda oko trokutastog vrta duga je 40 m. Dvije stranice vrta duge su 12 m i 15 m. Odredi duljinu treće stranice.",
+      "ponudeni": [
+        "27 m",
+        "28 m",
+        "13 m",
+        "25 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ograda je jednaka opsegu, pa je treća stranica 40 m − 12 m − 15 m = 13 m.",
+      "savjet": "Ograda je jednaka opsegu vrta, pa od nje oduzmi poznate stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-052",
+      "tezina": "srednje",
+      "pitanje": "Opseg jednakokračnog △EFG je 26 cm. Odredi duljinu osnovice EF.",
+      "slika": {
+        "opis": "Jednakokračni trokut EFG; osnovica EF označena je upitnikom, krak FG dug je 9 cm, a krak GE označen je istom crticom kao FG.",
+        "tocke": {
+          "E": [
+            1.03,
+            1
+          ],
+          "F": [
+            8.97,
+            1
+          ],
+          "G": [
+            5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "?"
+          },
+          {
+            "od": "F",
+            "do": "G",
+            "oznaka": "9 cm",
+            "crtice": 1
+          },
+          {
+            "od": "G",
+            "do": "E",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "17 cm",
+        "18 cm",
+        "13 cm",
+        "8 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi zajedno imaju 9 cm + 9 cm = 18 cm, pa je osnovica 26 cm − 18 cm = 8 cm.",
+      "savjet": "Krakovi FG i GE jednako su dugi, pa od opsega oduzmi oba kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-053",
+      "tezina": "srednje",
+      "pitanje": "Gredica ima oblik trokuta sa stranicama 2 m, 2 m i 3 m. Izračunaj opseg gredice u centimetrima.",
+      "ponudeni": [
+        "700 cm",
+        "7 cm",
+        "70 cm",
+        "500 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg je 2 m + 2 m + 3 m = 7 m, a 7 m = 700 cm.",
+      "savjet": "Zbroji stranice pa rezultat pretvori u centimetre: 1 m = 100 cm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-054",
+      "tezina": "srednje",
+      "pitanje": "Opseg jednakostraničnog trokuta je 3 dm. Odredi duljinu stranice u centimetrima.",
+      "ponudeni": [
+        "1 cm",
+        "27 cm",
+        "90 cm",
+        "10 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3 dm = 30 cm, a 30 cm : 3 = 10 cm.",
+      "savjet": "Opseg najprije pretvori u centimetre pa ga podijeli na tri jednaka dijela."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-055",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg △RST u milimetrima.",
+      "slika": {
+        "opis": "Trokut RST; stranica RS duga je 7 cm, ST 50 mm, a TR 9 cm.",
+        "tocke": {
+          "R": [
+            1,
+            2.35
+          ],
+          "S": [
+            8.47,
+            2.35
+          ],
+          "T": [
+            9,
+            7.65
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "R",
+              "S",
+              "T"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "R",
+            "do": "S",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "S",
+            "do": "T",
+            "oznaka": "50 mm"
+          },
+          {
+            "od": "T",
+            "do": "R",
+            "oznaka": "9 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "210 mm",
+        "66 mm",
+        "160 mm",
+        "210 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7 cm = 70 mm i 9 cm = 90 mm, pa je o = 70 mm + 50 mm + 90 mm = 210 mm.",
+      "savjet": "Stranice zadane u centimetrima pretvori u milimetre: 1 cm = 10 mm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-056",
+      "tezina": "srednje",
+      "pitanje": "Opseg trokuta je 50 cm. Jedna stranica duga je 20 cm, a druga 18 cm. Odredi duljinu treće stranice.",
+      "ponudeni": [
+        "38 cm",
+        "30 cm",
+        "32 cm",
+        "12 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Treća stranica je 50 cm − 20 cm − 18 cm = 12 cm.",
+      "savjet": "Zbroji dvije poznate stranice pa taj zbroj oduzmi od opsega."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-057",
+      "tezina": "srednje",
+      "pitanje": "Krov kućice za ptice ima oblik jednakokračnog trokuta s krakovima od 14 cm i osnovicom od 20 cm. Izračunaj opseg krova.",
+      "ponudeni": [
+        "34 cm",
+        "54 cm",
+        "48 cm",
+        "42 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 14 cm + 14 cm + 20 cm = 48 cm.",
+      "savjet": "Zbroji osnovicu i oba kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-058",
+      "tezina": "srednje",
+      "pitanje": "Lana jednom obiđe park u obliku trokuta sa slike. Odredi duljinu puta koji prijeđe.",
+      "slika": {
+        "opis": "Park u obliku trokuta ABC; stranica AB duga je 80 m, BC 60 m, a CA 50 m.",
+        "tocke": {
+          "A": [
+            1,
+            3.13
+          ],
+          "B": [
+            9,
+            3.13
+          ],
+          "C": [
+            4.31,
+            6.87
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "80 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "60 m"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "50 m"
+          }
+        ]
+      },
+      "ponudeni": [
+        "140 m",
+        "190 m",
+        "130 m",
+        "110 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Put je jednak opsegu parka: 80 m + 60 m + 50 m = 190 m.",
+      "savjet": "Put oko parka jednak je zbroju duljina svih njegovih stranica."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-059",
+      "tezina": "srednje",
+      "pitanje": "Opseg jednakokračnog trokuta je 30 cm, a osnovica je duga 8 cm. Odredi duljinu kraka.",
+      "ponudeni": [
+        "22 cm",
+        "15 cm",
+        "14 cm",
+        "11 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krakovi zajedno imaju 30 cm − 8 cm = 22 cm, pa je jedan krak 22 cm : 2 = 11 cm.",
+      "savjet": "Od opsega oduzmi osnovicu pa ostatak podijeli na dva jednaka kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-060",
+      "tezina": "srednje",
+      "pitanje": "Opseg △ABC je 4 dm. Odredi duljinu stranice CA u centimetrima.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 15 cm, BC 12 cm, a stranica CA označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            2.34
+          ],
+          "B": [
+            9,
+            2.34
+          ],
+          "C": [
+            5.44,
+            7.66
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "15 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "12 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "27 cm",
+        "13 cm",
+        "25 cm",
+        "28 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4 dm = 40 cm, pa je CA = 40 cm − 15 cm − 12 cm = 13 cm.",
+      "savjet": "Opseg najprije pretvori u centimetre: 1 dm = 10 cm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-061",
+      "tezina": "tesko",
+      "pitanje": "△ABC ima stranice 5 cm, 6 cm i 7 cm, a △DEF stranice 4 cm, 8 cm i 9 cm. Izračunaj razliku opsega △DEF i opsega △ABC.",
+      "ponudeni": [
+        "3 cm",
+        "4 cm",
+        "21 cm",
+        "39 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg △ABC je 18 cm, a opseg △DEF 21 cm, pa je razlika 21 cm − 18 cm = 3 cm.",
+      "savjet": "Izračunaj opseg svakog trokuta pa veći opseg umanji za manji."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-062",
+      "tezina": "tesko",
+      "pitanje": "Mia ima 1 m vrpce. Njome obrubi zastavicu u obliku trokuta sa stranicama 30 cm, 25 cm i 25 cm. Odredi koliko joj centimetara vrpce ostane.",
+      "ponudeni": [
+        "80 cm",
+        "45 cm",
+        "20 cm",
+        "50 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za obrub treba 30 cm + 25 cm + 25 cm = 80 cm, pa od 100 cm ostane 100 cm − 80 cm = 20 cm.",
+      "savjet": "Izračunaj opseg zastavice pa ga oduzmi od duljine vrpce izražene u centimetrima."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-063",
+      "tezina": "tesko",
+      "pitanje": "Jednakostranični trokut ima isti opseg kao jednakokračni trokut s krakovima od 7 cm i osnovicom od 4 cm. Odredi duljinu stranice jednakostraničnog trokuta.",
+      "ponudeni": [
+        "9 cm",
+        "18 cm",
+        "7 cm",
+        "6 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg jednakokračnog trokuta je 7 cm + 7 cm + 4 cm = 18 cm, a 18 cm : 3 = 6 cm.",
+      "savjet": "Izračunaj opseg jednakokračnog trokuta pa ga podijeli na tri jednake stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-064",
+      "tezina": "tesko",
+      "pitanje": "Opseg jednakokračnog △ABC je 4 dm. Odredi duljinu kraka u centimetrima.",
+      "slika": {
+        "opis": "Jednakokračni trokut ABC; osnovica AB duga je 12 cm, krak BC označen je upitnikom, a krak CA istom crticom kao BC.",
+        "tocke": {
+          "A": [
+            1.21,
+            1
+          ],
+          "B": [
+            8.79,
+            1
+          ],
+          "C": [
+            5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "12 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "28 cm",
+        "20 cm",
+        "16 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "4 dm = 40 cm; krakovi zajedno imaju 40 cm − 12 cm = 28 cm, pa je jedan krak 28 cm : 2 = 14 cm.",
+      "savjet": "Opseg pretvori u centimetre, oduzmi osnovicu, a ostatak podijeli na dva kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-065",
+      "tezina": "tesko",
+      "pitanje": "Lovro tri puta optrči igralište u obliku trokuta sa stranicama 40 m, 50 m i 60 m. Odredi koliko metara pretrči.",
+      "ponudeni": [
+        "150 m",
+        "300 m",
+        "270 m",
+        "450 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedan krug je 40 m + 50 m + 60 m = 150 m, a tri kruga su 3 · 150 m = 450 m.",
+      "savjet": "Prvo izračunaj duljinu jednog kruga, a zatim razmisli koliko je krugova."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-066",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj opseg △KLM u centimetrima.",
+      "slika": {
+        "opis": "Trokut KLM; stranica KL duga je 9 cm, LM 60 mm, a MK 50 mm.",
+        "tocke": {
+          "K": [
+            1,
+            3.6
+          ],
+          "L": [
+            9,
+            3.6
+          ],
+          "M": [
+            4.46,
+            6.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "oznaka": "9 cm"
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "60 mm"
+          },
+          {
+            "od": "M",
+            "do": "K",
+            "oznaka": "50 mm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "119 cm",
+        "20 cm",
+        "200 cm",
+        "11 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "60 mm = 6 cm i 50 mm = 5 cm, pa je o = 9 cm + 6 cm + 5 cm = 20 cm.",
+      "savjet": "Milimetre pretvori u centimetre tako da ih podijeliš s 10."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-067",
+      "tezina": "tesko",
+      "pitanje": "Koji od navedenih trokuta ima najveći opseg?",
+      "ponudeni": [
+        "trokut sa stranicama 5 cm, 5 cm i 5 cm",
+        "trokut sa stranicama 4 cm, 4 cm i 6 cm",
+        "trokut sa stranicama 2 cm, 6 cm i 7 cm",
+        "trokut sa stranicama 3 cm, 6 cm i 7 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut sa stranicama 3 cm, 6 cm i 7 cm ima opseg 16 cm, a ostali imaju 15 cm, 14 cm i 15 cm.",
+      "savjet": "Izračunaj opseg svakog trokuta pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-068",
+      "tezina": "tesko",
+      "pitanje": "Opseg trokuta je 3 dm. Dvije stranice duge su 7 cm i 100 mm. Odredi duljinu treće stranice u centimetrima.",
+      "ponudeni": [
+        "23 cm",
+        "13 cm",
+        "20 cm",
+        "17 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3 dm = 30 cm i 100 mm = 10 cm, pa je treća stranica 30 cm − 7 cm − 10 cm = 13 cm.",
+      "savjet": "Sve duljine najprije izrazi u centimetrima."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-069",
+      "tezina": "tesko",
+      "pitanje": "Opseg jednakostraničnog △ABC je 15 cm. Odredi duljinu stranice AB u milimetrima.",
+      "slika": {
+        "opis": "Jednakostranični trokut ABC; sve tri stranice označene su jednakom crticom, a stranica AB upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            1.54
+          ],
+          "B": [
+            9,
+            1.54
+          ],
+          "C": [
+            5,
+            8.46
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "5 mm",
+        "150 mm",
+        "500 mm",
+        "50 mm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranica je 15 cm : 3 = 5 cm, a 5 cm = 50 mm.",
+      "savjet": "Podijeli opseg na tri jednaka dijela pa rezultat pretvori u milimetre."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-070",
+      "tezina": "tesko",
+      "pitanje": "Vrt ima oblik jednakokračnog trokuta s osnovicom od 16 m. Ograda oko vrta duga je 60 m. Odredi duljinu kraka vrta.",
+      "ponudeni": [
+        "44 m",
+        "22 m",
+        "30 m",
+        "28 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krakovi zajedno imaju 60 m − 16 m = 44 m, pa je jedan krak 44 m : 2 = 22 m.",
+      "savjet": "Ograda je jednaka opsegu; od nje oduzmi osnovicu pa ostatak podijeli na dva kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-071",
+      "tezina": "tesko",
+      "pitanje": "Opseg jednakokračnog △ABC je 26 cm. Odredi duljinu osnovice AB.",
+      "slika": {
+        "opis": "Jednakokračni trokut ABC; osnovica AB označena je upitnikom, krak BC dug je 1 dm, a krak CA označen je istom crticom kao BC.",
+        "tocke": {
+          "A": [
+            2.48,
+            1
+          ],
+          "B": [
+            7.52,
+            1
+          ],
+          "C": [
+            5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "1 dm",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "6 cm",
+        "24 cm",
+        "16 cm",
+        "25 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krakovi su dugi 1 dm = 10 cm, pa je osnovica 26 cm − 10 cm − 10 cm = 6 cm.",
+      "savjet": "Krak zadan u decimetrima pretvori u centimetre i ne zaboravi drugi krak."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-072",
+      "tezina": "tesko",
+      "pitanje": "Jednakostranični trokut ima stranicu 8 cm, a jednakokračni trokut krakove od 9 cm i osnovicu od 5 cm. Odredi za koliko se centimetara razlikuju njihovi opsezi.",
+      "ponudeni": [
+        "10 cm",
+        "4 cm",
+        "47 cm",
+        "1 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opsezi su 3 · 8 cm = 24 cm i 9 cm + 9 cm + 5 cm = 23 cm, pa je razlika 24 cm − 23 cm.",
+      "savjet": "Izračunaj oba opsega pa manji oduzmi od većeg."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-073",
+      "tezina": "tesko",
+      "pitanje": "Ema dva puta obiđe park u obliku trokuta sa slike. Odredi koliko metara prijeđe.",
+      "slika": {
+        "opis": "Park u obliku trokuta ABC; stranica AB duga je 50 m, BC 30 m, a CA 40 m.",
+        "tocke": {
+          "A": [
+            1,
+            3.08
+          ],
+          "B": [
+            9,
+            3.08
+          ],
+          "C": [
+            6.12,
+            6.92
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "50 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "30 m"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "40 m"
+          }
+        ]
+      },
+      "ponudeni": [
+        "120 m",
+        "240 m",
+        "160 m",
+        "140 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opseg parka je 50 m + 30 m + 40 m = 120 m, a dva kruga su 2 · 120 m = 240 m.",
+      "savjet": "Izračunaj opseg parka pa ga uzmi onoliko puta koliko krugova Ema napravi."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-074",
+      "tezina": "tesko",
+      "pitanje": "Opseg trokuta je 36 cm. Prva stranica duga je 10 cm, a druga je 4 cm dulja od prve. Odredi duljinu treće stranice.",
+      "ponudeni": [
+        "22 cm",
+        "26 cm",
+        "18 cm",
+        "12 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Druga stranica duga je 10 cm + 4 cm = 14 cm, pa je treća 36 cm − 10 cm − 14 cm = 12 cm.",
+      "savjet": "Najprije izračunaj duljinu druge stranice, a zatim je zajedno s prvom oduzmi od opsega."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-075",
+      "tezina": "tesko",
+      "pitanje": "Opseg △ABC je 250 cm. Odredi duljinu stranice CA.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 1 m, BC 70 cm, a stranica CA označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            2.78
+          ],
+          "B": [
+            9,
+            2.78
+          ],
+          "C": [
+            5.6,
+            7.22
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "1 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "70 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "179 cm",
+        "80 cm",
+        "150 cm",
+        "180 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1 m = 100 cm, pa je CA = 250 cm − 100 cm − 70 cm = 80 cm.",
+      "savjet": "Stranicu zadanu u metrima pretvori u centimetre: 1 m = 100 cm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-076",
+      "tezina": "tesko",
+      "pitanje": "Jednakokračni trokut ima isti opseg kao jednakostranični trokut sa stranicom 8 cm. Osnovica jednakokračnog trokuta duga je 6 cm. Odredi duljinu kraka.",
+      "ponudeni": [
+        "18 cm",
+        "12 cm",
+        "9 cm",
+        "16 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg je 3 · 8 cm = 24 cm; krakovi zajedno imaju 24 cm − 6 cm = 18 cm, pa je jedan krak 18 cm : 2 = 9 cm.",
+      "savjet": "Izračunaj opseg jednakostraničnog trokuta, oduzmi osnovicu, a ostatak podijeli na dva kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-077",
+      "tezina": "tesko",
+      "pitanje": "Opseg △DEF je 5 dm. Odredi duljinu stranice FD u centimetrima.",
+      "slika": {
+        "opis": "Trokut DEF; stranica DE duga je 2 dm, EF 160 mm, a stranica FD označena je upitnikom.",
+        "tocke": {
+          "D": [
+            1,
+            2.78
+          ],
+          "E": [
+            9,
+            2.78
+          ],
+          "F": [
+            4.4,
+            7.22
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "2 dm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "160 mm"
+          },
+          {
+            "od": "F",
+            "do": "D",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "34 cm",
+        "30 cm",
+        "36 cm",
+        "14 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "5 dm = 50 cm, 2 dm = 20 cm i 160 mm = 16 cm, pa je FD = 50 cm − 20 cm − 16 cm = 14 cm.",
+      "savjet": "Sve duljine najprije izrazi u centimetrima, a zatim od opsega oduzmi poznate stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-078",
+      "tezina": "tesko",
+      "pitanje": "Marta obiđe park u obliku trokuta sa stranicama 30 m, 40 m i 50 m, a Ivo park sa stranicama 35 m, 45 m i 55 m. Odredi koliko metara više prijeđe Ivo.",
+      "ponudeni": [
+        "15 m",
+        "135 m",
+        "255 m",
+        "5 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Marta prijeđe 120 m, a Ivo 135 m, pa Ivo prijeđe 135 m − 120 m više.",
+      "savjet": "Izračunaj opseg svakog parka pa manji opseg oduzmi od većeg."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-079",
+      "tezina": "tesko",
+      "pitanje": "Opseg jednakokračnog △PQR je 12 cm. Odredi duljinu osnovice PQ u milimetrima.",
+      "slika": {
+        "opis": "Jednakokračni trokut PQR; osnovica PQ označena je upitnikom, krak QR dug je 45 mm, a krak RP označen je istom crticom kao QR.",
+        "tocke": {
+          "P": [
+            2.17,
+            1
+          ],
+          "Q": [
+            7.83,
+            1
+          ],
+          "R": [
+            5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "Q",
+              "R"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P",
+            "do": "Q",
+            "oznaka": "?"
+          },
+          {
+            "od": "Q",
+            "do": "R",
+            "oznaka": "45 mm",
+            "crtice": 1
+          },
+          {
+            "od": "R",
+            "do": "P",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "75 mm",
+        "90 mm",
+        "30 mm",
+        "3 mm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "12 cm = 120 mm, pa je osnovica 120 mm − 45 mm − 45 mm = 30 mm.",
+      "savjet": "Opseg pretvori u milimetre pa od njega oduzmi oba kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-080",
+      "tezina": "tesko",
+      "pitanje": "Lucija dva puta obiđe vrt u obliku jednakostraničnog trokuta i prijeđe ukupno 36 m. Odredi duljinu stranice vrta.",
+      "ponudeni": [
+        "6 m",
+        "12 m",
+        "18 m",
+        "9 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan krug je 36 m : 2 = 18 m, a stranica je 18 m : 3 = 6 m.",
+      "savjet": "Najprije izračunaj duljinu jednog kruga, a zatim je podijeli na tri jednake stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-081",
+      "tezina": "tesko",
+      "pitanje": "Stranica BC dulja je 3 cm od stranice AB. Izračunaj opseg △ABC.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 8 cm, CA 6 cm, a stranica BC označena je upitnikom.",
+        "tocke": {
+          "A": [
+            2.13,
+            2.49
+          ],
+          "B": [
+            9,
+            2.49
+          ],
+          "C": [
+            1,
+            7.51
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "6 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "17 cm",
+        "25 cm",
+        "22 cm",
+        "14 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "BC = 8 cm + 3 cm = 11 cm, pa je o = 8 cm + 11 cm + 6 cm = 25 cm.",
+      "savjet": "Najprije odredi duljinu stranice BC, a zatim zbroji sve tri stranice."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-082",
+      "tezina": "tesko",
+      "pitanje": "Krak jednakokračnog trokuta dvostruko je dulji od osnovice. Osnovica je duga 4 cm. Izračunaj opseg tog trokuta.",
+      "ponudeni": [
+        "12 cm",
+        "16 cm",
+        "24 cm",
+        "20 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krak je 2 · 4 cm = 8 cm, pa je o = 8 cm + 8 cm + 4 cm = 20 cm.",
+      "savjet": "Najprije izračunaj duljinu kraka, a zatim zbroji oba kraka i osnovicu."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-083",
+      "tezina": "tesko",
+      "pitanje": "Opseg jednakostraničnog △XYZ je 6 m. Odredi duljinu stranice XY u centimetrima.",
+      "slika": {
+        "opis": "Jednakostranični trokut XYZ; sve tri stranice označene su jednakom crticom, a stranica XY upitnikom.",
+        "tocke": {
+          "X": [
+            1,
+            1.54
+          ],
+          "Y": [
+            9,
+            1.54
+          ],
+          "Z": [
+            5,
+            8.46
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "X",
+              "Y",
+              "Z"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "X",
+            "do": "Y",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "Y",
+            "do": "Z",
+            "crtice": 1
+          },
+          {
+            "od": "Z",
+            "do": "X",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "2 cm",
+        "200 cm",
+        "300 cm",
+        "20 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranica je 6 m : 3 = 2 m, a 2 m = 200 cm.",
+      "savjet": "Podijeli opseg na tri jednaka dijela pa rezultat pretvori u centimetre."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-084",
+      "tezina": "tesko",
+      "pitanje": "Koji od navedenih trokuta ima opseg 3 dm?",
+      "ponudeni": [
+        "trokut sa stranicama 3 cm, 3 cm i 3 cm",
+        "trokut sa stranicama 5 cm, 10 cm i 13 cm",
+        "trokut sa stranicama 8 cm, 12 cm i 12 cm",
+        "trokut sa stranicama 6 cm, 10 cm i 14 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3 dm = 30 cm, a samo je 6 cm + 10 cm + 14 cm = 30 cm.",
+      "savjet": "Pretvori 3 dm u centimetre pa izračunaj opseg svakog trokuta."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-085",
+      "tezina": "tesko",
+      "pitanje": "Za obrub zastavice sa slike Karlo je potrošio točno 1 m vrpce. Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Zastavica u obliku jednakokračnog trokuta ABC; osnovica AB duga je 30 cm, krak BC označen je upitnikom, a krak CA istom crticom kao BC.",
+        "tocke": {
+          "A": [
+            1.21,
+            1
+          ],
+          "B": [
+            8.79,
+            1
+          ],
+          "C": [
+            5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "30 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "70 cm",
+        "50 cm",
+        "35 cm",
+        "40 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 m = 100 cm; krakovi zajedno imaju 100 cm − 30 cm = 70 cm, pa je jedan krak 70 cm : 2 = 35 cm.",
+      "savjet": "Vrpcu izrazi u centimetrima, oduzmi osnovicu, a ostatak podijeli na dva jednaka kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-086",
+      "tezina": "tesko",
+      "pitanje": "Ivana ima 50 m ograde. Njome ogradi vrt u obliku trokuta sa stranicama 12 m, 15 m i 18 m. Odredi koliko joj metara ograde ostane.",
+      "ponudeni": [
+        "5 m",
+        "45 m",
+        "23 m",
+        "20 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za vrt treba 12 m + 15 m + 18 m = 45 m ograde, pa ostane 50 m − 45 m.",
+      "savjet": "Izračunaj opseg vrta pa ga oduzmi od duljine ograde."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-087",
+      "tezina": "tesko",
+      "pitanje": "Jednakokračni trokut ima isti opseg kao △DEF sa slike, a osnovica mu je duga 4 cm. Odredi duljinu kraka.",
+      "slika": {
+        "opis": "Jednakostranični trokut DEF; stranica DE duga je 6 cm, a sve tri stranice označene su jednakom crticom.",
+        "tocke": {
+          "D": [
+            1,
+            1.54
+          ],
+          "E": [
+            9,
+            1.54
+          ],
+          "F": [
+            5,
+            8.46
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "6 cm",
+            "crtice": 1
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "crtice": 1
+          },
+          {
+            "od": "F",
+            "do": "D",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "6 cm",
+        "7 cm",
+        "9 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg △DEF je 3 · 6 cm = 18 cm; krakovi zajedno imaju 18 cm − 4 cm = 14 cm, pa je jedan krak 14 cm : 2 = 7 cm.",
+      "savjet": "Izračunaj opseg trokuta sa slike, oduzmi osnovicu, a ostatak podijeli na dva kraka."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-088",
+      "tezina": "tesko",
+      "pitanje": "Stranice trokuta duge su 1 dm, 12 cm i 150 mm. Izračunaj opseg u milimetrima.",
+      "ponudeni": [
+        "163 mm",
+        "370 mm",
+        "270 mm",
+        "370 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1 dm = 100 mm i 12 cm = 120 mm, pa je o = 100 mm + 120 mm + 150 mm = 370 mm.",
+      "savjet": "Sve duljine pretvori u milimetre: 1 cm = 10 mm, a 1 dm = 10 cm."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-089",
+      "tezina": "tesko",
+      "pitanje": "Sara ima 1 m vrpce i njome obrubi trokut sa slike. Odredi koliko joj centimetara vrpce ostane.",
+      "slika": {
+        "opis": "Trokut ABC; stranica AB duga je 4 dm, BC 30 cm, a CA 20 cm.",
+        "tocke": {
+          "A": [
+            1,
+            3.55
+          ],
+          "B": [
+            9,
+            3.55
+          ],
+          "C": [
+            3.75,
+            6.45
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "30 cm"
+          },
+          {
+            "od": "C",
+            "do": "A",
+            "oznaka": "20 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "90 cm",
+        "46 cm",
+        "50 cm",
+        "10 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg je 40 cm + 30 cm + 20 cm = 90 cm, pa ostane 100 cm − 90 cm = 10 cm.",
+      "savjet": "Sve duljine izrazi u centimetrima, izračunaj opseg i oduzmi ga od duljine vrpce."
+    },
+    {
+      "id": "4-matematika-opseg-trokuta-090",
+      "tezina": "tesko",
+      "pitanje": "Dva jednakostranična trokuta imaju stranice 4 cm i 6 cm. Izračunaj zbroj njihovih opsega.",
+      "ponudeni": [
+        "10 cm",
+        "30 cm",
+        "20 cm",
+        "24 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opsezi su 3 · 4 cm = 12 cm i 3 · 6 cm = 18 cm, a zajedno 12 cm + 18 cm = 30 cm.",
+      "savjet": "Izračunaj opseg svakog trokuta posebno pa ih zbroji."
+    }
+  ]
+}
