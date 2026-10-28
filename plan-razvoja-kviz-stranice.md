@@ -312,7 +312,7 @@ Postotak se ne zaokružuje prije usporedbe (npr. 18/30 = 60 % → dovoljan, 19/3
 
 1. Inicijalizirati Nuxt projekt s TypeScriptom, Tailwindom i Pinijom
 2. Napisati `types/index.ts` i `data/kurikulum.json` za prve razrede
-3. Pripremiti pitanja za barem jedan predmet (najmanje 15 po lekciji i težini)
+3. Pripremiti pitanja za barem jedan predmet (najmanje 30 po lekciji i težini)
 4. Izraditi stranice odabira (razred → predmet → opcije)
 5. Izraditi `utils/slucajno.ts`, `useOdabirPitanja`, stranicu kviza i store
 6. Izraditi stranicu rezultata i `useOcjena`
@@ -322,7 +322,8 @@ Postotak se ne zaokružuje prije usporedbe (npr. 18/30 = 60 % → dovoljan, 19/3
 
 - [ ] Moguće je proći cijeli tok od početne do rezultata
 - [ ] Kviz poštuje odabrani broj zadataka, težinu i ravnomjernu raspodjelu po lekcijama
-- [ ] Isti URL uvijek daje isti kviz; osvježavanje stranice ne gubi napredak
+- [ ] Osvježavanje stranice ne mijenja kviz i ne gubi napredak
+- [ ] Pitanja se ne ponavljaju dok učenik ne vidi sva pitanja lekcije i težine (pamti se u `localStorage`, `app/utils/vidjenaPitanja.ts`)
 - [ ] Ocjena se računa ispravno na granicama (testirati `useOcjena` izravno: 0 %, 49,9 %, 50 %, 62,9 %, 63 %, 100 %)
 - [ ] Rezultati prikazuju točan odgovor i objašnjenje za svako pitanje
 - [ ] Savjet se prikazuje na zahtjev, ne utječe na bodove i vidljiv je u pregledu rezultata
@@ -433,7 +434,7 @@ Uočene vrste grešaka bilježiti u `sadrzaj/upute-za-generiranje.md` i prema nj
 ### Kriteriji završetka
 
 - [x] Build pada ako bilo koja datoteka s pitanjima nije ispravna
-- [ ] Svaka objavljena lekcija ima barem 15 pitanja po težini
+- [ ] Svaka objavljena lekcija ima barem 30 pitanja po težini (90 ukupno)
 - [ ] Ručno je pregledano barem 100 pitanja i zabilježene su uočene vrste grešaka
 - [ ] Dodavanje nove lekcije prema uputama traje manje od sat vremena
 - [ ] Aplikacija je javno dostupna na testnoj domeni

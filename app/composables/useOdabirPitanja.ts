@@ -43,14 +43,25 @@ export function promijesajOdgovore(pitanje: Pitanje, slucajno: () => number): Pi
 }
 
 // Ravnomjerno uzima pitanja iz svake lekcije (redom, jedno po jedno); kad lekciji ponestane
-// pitanja, ostatak se popunjava iz ostalih. Isti seed uvijek daje isti kviz.
-export function odaberiPitanja(datoteke: DatotekaLekcije[], tezina: Tezina, broj: number, seed: string): Pitanje[] {
+// pitanja, ostatak se popunjava iz ostalih. Prvo se troše pitanja koja učenik još nije vidio,
+// a već viđena tek kad neviđenih nema dovoljno. Isti seed i ista viđena pitanja daju isti kviz.
+export function odaberiPitanja(
+  datoteke: DatotekaLekcije[],
+  tezina: Tezina,
+  broj: number,
+  seed: string,
+  vidjena: (lekcijaId: string) => Set<string> = () => new Set()
+): Pitanje[] {
   const slucajno = napraviGenerator(seed)
-  const bazeni = datoteke.map(d => promijesaj(aktivnaPitanja(d, tezina), slucajno))
+  const promijesani = datoteke.map(d => ({ pitanja: promijesaj(aktivnaPitanja(d, tezina), slucajno), vidjena: vidjena(d.lekcijaId) }))
+  const nevidjena = promijesani.map(b => b.pitanja.filter(p => !b.vidjena.has(p.id)))
+  const vec = promijesani.map(b => b.pitanja.filter(p => b.vidjena.has(p.id)))
   const odabrana: Pitanje[] = []
-  for (let i = 0; odabrana.length < broj && bazeni.some(b => b.length); i++) {
-    const pitanje = bazeni[i % bazeni.length]!.shift()
-    if (pitanje) odabrana.push(pitanje)
+  for (const bazeni of [nevidjena, vec]) {
+    for (let i = 0; odabrana.length < broj && bazeni.some(b => b.length); i++) {
+      const pitanje = bazeni[i % bazeni.length]!.shift()
+      if (pitanje) odabrana.push(pitanje)
+    }
   }
   return promijesaj(odabrana, slucajno).map(p => promijesajOdgovore(p, slucajno))
 }

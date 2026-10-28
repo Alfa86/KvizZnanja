@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "citanje-i-pisanje-brojeva-do-milijun",
+  "pitanja": [
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-001",
+      "tezina": "lagano",
+      "pitanje": "Napiši znamenkama broj „dvadeset pet tisuća“.",
+      "ponudeni": [
+        "25 000",
+        "2500",
+        "250 000",
+        "20 005"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvadeset pet tisuća znači 25 tisućica, pa iza broja 25 pišemo još tri nule.",
+      "savjet": "Najprije napiši koliko je tisuća, a zatim dopiši tri znamenke za stotice, desetice i jedinice."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se riječima piše broj 1 000 000?",
+      "ponudeni": [
+        "sto tisuća",
+        "deset tisuća",
+        "milijun",
+        "tisuću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 1 000 000 ima jedinicu i šest nula, a čitamo ga milijun.",
+      "savjet": "Prebroji znamenke: to je najmanji broj koji ima sedam znamenaka."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-003",
+      "tezina": "lagano",
+      "pitanje": "Koliko nula ima broj sto tisuća kada ga zapišeš znamenkama?",
+      "ponudeni": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sto tisuća pišemo 100 000, a to je jedinica i pet nula.",
+      "savjet": "Sjeti se da sto ima dvije nule, a tisuća ima tri nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-004",
+      "tezina": "lagano",
+      "pitanje": "Koliko znamenaka ima broj milijun?",
+      "ponudeni": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Milijun se piše 1 000 000, a to je jedinica i šest nula, ukupno sedam znamenaka.",
+      "savjet": "Zapiši milijun znamenkama pa prebroji sve znamenke, i jedinicu i nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-005",
+      "tezina": "lagano",
+      "pitanje": "Napiši znamenkama broj „deset tisuća“.",
+      "ponudeni": [
+        "10 000",
+        "1000",
+        "100 000",
+        "10 100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Deset tisuća je deset tisućica, pa iza broja 10 pišemo tri nule.",
+      "savjet": "Sjeti se koliko nula ima tisuća i koliko je puta deset tisuća veće od nje."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-006",
+      "tezina": "lagano",
+      "pitanje": "Koja je znamenka na mjestu stotica tisuća u broju 386 452?",
+      "ponudeni": [
+        "4",
+        "6",
+        "3",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brojeći zdesna, šesto mjesto su stotice tisuća, a ondje je znamenka 3.",
+      "savjet": "Broji mjesta zdesna: jedinice, desetice, stotice, tisućice, desetice tisuća, stotice tisuća."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je znamenka na mjestu tisućica u broju 52 739?",
+      "ponudeni": [
+        "5",
+        "2",
+        "7",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tisućice su četvrto mjesto zdesna, a u broju 52 739 ondje je znamenka 2.",
+      "savjet": "Tisućice su četvrto mjesto kada brojiš zdesna."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-008",
+      "tezina": "lagano",
+      "pitanje": "Napiši znamenkama broj „sedam tisuća četiristo“.",
+      "ponudeni": [
+        "70 400",
+        "740",
+        "7040",
+        "7400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sedam tisuća četiristo ima 7 tisućica, 4 stotice, 0 desetica i 0 jedinica, pa ga pišemo 7400.",
+      "savjet": "Iza tisućica dolaze stotice, desetice i jedinice, a prazna mjesta popuni nulama."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-009",
+      "tezina": "lagano",
+      "pitanje": "Kako se riječima čita broj 2000?",
+      "ponudeni": [
+        "dvije tisuće",
+        "dva tisuća",
+        "dvije tisuća",
+        "dvadeset tisuća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 2000 ima dvije tisućice, a kažemo dvije tisuće, kao što kažemo dvije knjige.",
+      "savjet": "Sjeti se kako kažeš: dvije knjige, tri knjige, pet knjiga."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-010",
+      "tezina": "lagano",
+      "pitanje": "Koji broj dolazi neposredno nakon broja 99 999?",
+      "ponudeni": [
+        "100 999",
+        "990 000",
+        "100 000",
+        "1 000 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj koji dolazi neposredno nakon 99 999 za 1 je veći od njega, a to je 100 000.",
+      "savjet": "Zamisli brojilo: kad se na mjestu pojavi devetka i dodaš jedan, ondje nastaje nula, a mjesto lijevo raste."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-011",
+      "tezina": "lagano",
+      "pitanje": "Koliko tisućica čini jednu deseticu tisuća?",
+      "ponudeni": [
+        "100",
+        "10",
+        "1000",
+        "20"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Desetica tisuća je 10 000, a to je deset puta po 1000.",
+      "savjet": "Usporedi tisućicu i deseticu tisuća: koliko tisućica trebaš zbrojiti da dobiješ deseticu tisuća?"
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-012",
+      "tezina": "lagano",
+      "pitanje": "Koji je najveći šesteroznamenkasti broj?",
+      "ponudeni": [
+        "100 000",
+        "999 990",
+        "1 000 000",
+        "999 999"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najveći šesteroznamenkasti broj ima na svih šest mjesta najveću znamenku 9.",
+      "savjet": "Najveći broj dobiješ kada na svako mjesto upišeš najveću znamenku."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-013",
+      "tezina": "lagano",
+      "pitanje": "Koji je najmanji šesteroznamenkasti broj?",
+      "ponudeni": [
+        "100 000",
+        "111 111",
+        "99 999",
+        "100 001"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prva znamenka ne smije biti nula pa je najmanja 1, a na ostalih pet mjesta pišemo nule.",
+      "savjet": "Prva znamenka ne smije biti nula, a ostale neka budu što manje."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-014",
+      "tezina": "lagano",
+      "pitanje": "Na kojem se mjestu nalazi znamenka 7 u broju 708 215?",
+      "ponudeni": [
+        "na mjestu desetica tisuća",
+        "na mjestu tisućica",
+        "na mjestu stotica tisuća",
+        "na mjestu stotica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 708 215 je šesteroznamenkast, a prva znamenka slijeva u njemu je na mjestu stotica tisuća.",
+      "savjet": "Prebroji koliko je mjesta od znamenke 7 do kraja broja, računajući i nju."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-015",
+      "tezina": "lagano",
+      "pitanje": "Kako se riječima čita broj 300 000?",
+      "ponudeni": [
+        "trideset tisuća",
+        "tristo tisuća",
+        "tri tisuće",
+        "tristo tisuće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 300 000 ima 300 tisućica, pa ga čitamo tristo tisuća.",
+      "savjet": "Pročitaj dio broja ispred razmaka: on kaže koliko ima tisuća."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-016",
+      "tezina": "lagano",
+      "pitanje": "Koja je dekadska jedinica deset puta veća od deset tisuća?",
+      "ponudeni": [
+        "tisuću",
+        "milijun",
+        "dvadeset tisuća",
+        "sto tisuća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Deset puta 10 000 je 100 000, a taj broj čitamo sto tisuća.",
+      "savjet": "Broj koji je deset puta veći dobiješ kada mu dopišeš jednu nulu."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-017",
+      "tezina": "lagano",
+      "pitanje": "Na brojevnoj crti susjedne crtice razlikuju se za 1000. Koji broj označava prva crtica desno od 24 000?",
+      "ponudeni": [
+        "25 000",
+        "24 100",
+        "34 000",
+        "24 001"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki korak udesno povećava broj za 1000, pa nakon 24 000 dolazi 25 000.",
+      "savjet": "Svaki korak udesno na ovoj crti povećava broj za jednu tisućicu."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-018",
+      "tezina": "lagano",
+      "pitanje": "Napiši znamenkama broj „šezdeset tisuća sedam“.",
+      "ponudeni": [
+        "607",
+        "6007",
+        "60 007",
+        "60 700"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Šezdeset tisuća pišemo 60 000, a sedam jedinica upisujemo na mjesto jedinica: 60 007.",
+      "savjet": "Iza tisuća uvijek pišeš tri znamenke, čak i kada je ostatak broja jednoznamenkast."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-019",
+      "tezina": "lagano",
+      "pitanje": "Broj ima 4 stotice tisuća, 0 desetica tisuća, 2 tisućice, 0 stotica, 0 desetica i 5 jedinica. Koji je to broj?",
+      "ponudeni": [
+        "42 005",
+        "402 005",
+        "402 050",
+        "420 005"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenke redom od stotica tisuća do jedinica su 4, 0, 2, 0, 0 i 5, pa je to broj 402 005.",
+      "savjet": "Znamenke upisuj redom od stotica tisuća do jedinica i ne preskači nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-020",
+      "tezina": "lagano",
+      "pitanje": "Koju vrijednost ima znamenka 5 u broju 25 913?",
+      "ponudeni": [
+        "5",
+        "500",
+        "50 000",
+        "5000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka 5 nalazi se na mjestu tisućica, pa vrijedi 5 tisućica, odnosno 5000.",
+      "savjet": "Odredi na kojem je mjestu ta znamenka, a zatim iza nje dopiši onoliko nula koliko je mjesta desno od nje."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-021",
+      "tezina": "lagano",
+      "pitanje": "Koliko različitih znamenaka koristimo za pisanje svih brojeva?",
+      "ponudeni": [
+        "10",
+        "9",
+        "100",
+        "8"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenke su 0, 1, 2, 3, 4, 5, 6, 7, 8 i 9, a od njih slažemo sve brojeve.",
+      "savjet": "Nabroji sve znamenke od najmanje do najveće i ne zaboravi nulu."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-022",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 70 000 + 3000 + 200 + 10 + 5.",
+      "ponudeni": [
+        "703 215",
+        "732 150",
+        "73 215",
+        "73 251"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj ima 7 desetica tisuća, 3 tisućice, 2 stotice, 1 deseticu i 5 jedinica, a to je 73 215.",
+      "savjet": "Svaki pribrojnik pokazuje jednu znamenku broja; upiši ih redom od najveće dekadske jedinice."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-023",
+      "tezina": "lagano",
+      "pitanje": "Kako se riječima čita broj 12 000?",
+      "ponudeni": [
+        "dvanaest tisuće",
+        "dvanaest tisuća",
+        "dvadeset tisuća",
+        "sto dvadeset tisuća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 12 000 ima 12 tisućica, a uz broj dvanaest kažemo tisuća, kao dvanaest knjiga.",
+      "savjet": "Sjeti se kako kažeš: dvanaest knjiga ili dvanaest jabuka."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-024",
+      "tezina": "lagano",
+      "pitanje": "Koji broj dolazi neposredno prije broja 10 000?",
+      "ponudeni": [
+        "10 001",
+        "9000",
+        "1000",
+        "9999"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj neposredno prije 10 000 za 1 je manji od njega, a to je najveći četveroznamenkasti broj 9999.",
+      "savjet": "Broj koji dolazi neposredno prije za jedan je manji."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-025",
+      "tezina": "lagano",
+      "pitanje": "Koliko desetica tisuća ima broj 90 000?",
+      "ponudeni": [
+        "9",
+        "90",
+        "900",
+        "0"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedna desetica tisuća je 10 000, a 90 000 je devet takvih desetica tisuća.",
+      "savjet": "Jedna desetica tisuća vrijedi 10 000."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-026",
+      "tezina": "lagano",
+      "pitanje": "Napiši znamenkama broj „osamsto tisuća“.",
+      "ponudeni": [
+        "80 000",
+        "8000",
+        "800 000",
+        "800 800"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osamsto tisuća je 800 tisućica, pa iza broja 800 pišemo još tri nule.",
+      "savjet": "Napiši broj koji kaže koliko je tisuća, a iza njega dodaj tri nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-027",
+      "tezina": "lagano",
+      "pitanje": "Kakav je broj 4528 prema broju znamenaka?",
+      "ponudeni": [
+        "troznamenkasti",
+        "četveroznamenkasti",
+        "peteroznamenkasti",
+        "dvoznamenkasti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 4528 zapisan je četirima znamenkama, pa je četveroznamenkasti broj.",
+      "savjet": "Prebroji koliko znamenaka ima broj."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-028",
+      "tezina": "lagano",
+      "pitanje": "Koji od ovih brojeva ima znamenku 8 na mjestu desetica tisuća?",
+      "ponudeni": [
+        "48 120",
+        "14 820",
+        "41 208",
+        "84 120"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U peteroznamenkastom broju prva znamenka slijeva je na mjestu desetica tisuća, a u broju 84 120 to je 8.",
+      "savjet": "Desetice tisuća su peto mjesto kada brojiš zdesna."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-029",
+      "tezina": "lagano",
+      "pitanje": "Broj je prikazan karticama: 3 kartice po 100 000, 2 kartice po 10 000 i 4 kartice po 100. Koji je to broj?",
+      "ponudeni": [
+        "320 400",
+        "3240",
+        "324 000",
+        "302 400"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kartice čine 300 000 + 20 000 + 400, a to je 320 400.",
+      "savjet": "Zbroji vrijednosti svih kartica, a mjesta bez kartica popuni nulama."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-030",
+      "tezina": "lagano",
+      "pitanje": "Napiši znamenkama broj „sto pedeset tisuća“.",
+      "ponudeni": [
+        "105 000",
+        "15 000",
+        "150 000",
+        "100 050"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sto pedeset tisuća je 150 tisućica, pa iza broja 150 pišemo tri nule.",
+      "savjet": "Najprije znamenkama zapiši koliko je tisuća, a zatim dopiši tri nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-031",
+      "tezina": "srednje",
+      "pitanje": "Napiši znamenkama broj „tristo četrdeset pet tisuća dvjesto šest“.",
+      "ponudeni": [
+        "345 260",
+        "345 206",
+        "34 526",
+        "345 026"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tristo četrdeset pet tisuća je 345 000, a dvjesto šest je 206, pa je broj 345 206.",
+      "savjet": "Posebno zapiši dio ispred riječi tisuća, a posebno dio iza nje kao troznamenkasti broj."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-032",
+      "tezina": "srednje",
+      "pitanje": "Napiši znamenkama broj „devedeset tisuća četrdeset“.",
+      "ponudeni": [
+        "90 400",
+        "9040",
+        "900 040",
+        "90 040"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Devedeset tisuća je 90 000, a četrdeset su 4 desetice, pa je broj 90 040.",
+      "savjet": "Iza tisuća dolaze tri mjesta: stotice, desetice i jedinice. Odredi što ide na koje mjesto."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-033",
+      "tezina": "srednje",
+      "pitanje": "Napiši znamenkama broj „sedamsto osam tisuća pedeset“.",
+      "ponudeni": [
+        "708 050",
+        "780 050",
+        "708 500",
+        "78 050"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sedamsto osam tisuća je 708 000, a pedeset je 050 na zadnja tri mjesta, pa je broj 708 050.",
+      "savjet": "Sedamsto osam ima 7 stotica i 8 jedinica, a desetica nema; pazi gdje dolazi nula."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-034",
+      "tezina": "srednje",
+      "pitanje": "Kako se riječima čita broj 207 030?",
+      "ponudeni": [
+        "dvjesto sedamdeset tisuća trideset",
+        "dvjesto sedam tisuća tristo",
+        "dvjesto sedam tisuća trideset",
+        "dvadeset sedam tisuća trideset"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ispred razmaka je 207, što čitamo dvjesto sedam tisuća, a iza razmaka 030, što čitamo trideset.",
+      "savjet": "Broj podijeli razmakom na dva dijela i pročitaj svaki dio kao troznamenkasti broj."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-035",
+      "tezina": "srednje",
+      "pitanje": "Kako se riječima čita broj 51 900?",
+      "ponudeni": [
+        "pedeset jedan tisuća devetsto",
+        "pedeset jedna tisuća devetsto",
+        "pedeset jedna tisuća devedeset",
+        "petsto jedna tisuća devetsto"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 51 900 ima 51 tisućicu i 9 stotica, a kažemo jedna tisuća, kao jedna knjiga.",
+      "savjet": "Pazi kako se riječ tisuća slaže s brojem ispred nje, kao u izrazu jedna knjiga."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-036",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točan rastav broja 406 058 na dekadske jedinice.",
+      "ponudeni": [
+        "400 000 + 60 000 + 500 + 8",
+        "40 000 + 6000 + 50 + 8",
+        "400 000 + 6000 + 500 + 8",
+        "400 000 + 6000 + 50 + 8"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 406 058 ima 4 stotice tisuća, 6 tisućica, 5 desetica i 8 jedinica, pa je 406 058 = 400 000 + 6000 + 50 + 8.",
+      "savjet": "Za svaku znamenku osim nule odredi na kojem je mjestu i koliko vrijedi."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 500 000 + 30 000 + 70 + 2.",
+      "ponudeni": [
+        "530 072",
+        "537 200",
+        "53 072",
+        "530 702"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nema tisućica ni stotica, pa na ta mjesta pišemo nule: 530 072.",
+      "savjet": "Napiši šest mjesta od stotica tisuća do jedinica i na mjesta kojih nema u zbroju upiši nulu."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-038",
+      "tezina": "srednje",
+      "pitanje": "Koju vrijednost ima znamenka 4 u broju 948 103?",
+      "ponudeni": [
+        "4000",
+        "400 000",
+        "40 000",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka 4 je na mjestu desetica tisuća, pa vrijedi 4 desetice tisuća, odnosno 40 000.",
+      "savjet": "Prebroji koliko je mjesta desno od znamenke 4; toliko nula ima njezina vrijednost."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-039",
+      "tezina": "srednje",
+      "pitanje": "Koliko ukupno tisućica ima broj 356 000?",
+      "ponudeni": [
+        "6",
+        "56",
+        "3560",
+        "356"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve znamenke ispred zadnje tri nule pokazuju broj tisućica, pa 356 000 ima 356 tisućica.",
+      "savjet": "Pitanje traži sve tisućice u broju, a ne samo znamenku na mjestu tisućica."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-040",
+      "tezina": "srednje",
+      "pitanje": "Brojevna crta od 0 do 100 000 podijeljena je crticama na 10 jednakih dijelova. Koji broj označava treća crtica desno od nule?",
+      "ponudeni": [
+        "3000",
+        "30 000",
+        "300 000",
+        "300"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedan dio vrijedi 100 000 : 10 = 10 000, pa treća crtica označava 3 · 10 000 = 30 000.",
+      "savjet": "Najprije odredi koliko vrijedi jedan dio: podijeli 100 000 na deset jednakih dijelova."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-041",
+      "tezina": "srednje",
+      "pitanje": "Na brojevnoj crti jedan broj nalazi se točno na pola puta između 400 000 i 500 000. Koji je to broj?",
+      "ponudeni": [
+        "450 000",
+        "405 000",
+        "455 000",
+        "410 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razmak između 400 000 i 500 000 je 100 000, a pola od toga je 50 000, pa je broj 450 000.",
+      "savjet": "Odredi koliki je razmak između zadanih brojeva i uzmi njegovu polovinu."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-042",
+      "tezina": "srednje",
+      "pitanje": "Koji broj dolazi neposredno nakon broja 309 999?",
+      "ponudeni": [
+        "301 000",
+        "309 900",
+        "310 000",
+        "400 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kada broju 309 999 dodamo 1, sve tri devetke na kraju postaju nule, a 309 tisućica postaje 310 tisućica: 310 000.",
+      "savjet": "Dodaj jedan i pazi na prijelaz: svaka devetka postaje nula, a znamenka lijevo od nje raste."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-043",
+      "tezina": "srednje",
+      "pitanje": "Koji broj dolazi neposredno prije broja 500 100?",
+      "ponudeni": [
+        "499 099",
+        "500 101",
+        "500 009",
+        "500 099"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj neposredno prije 500 100 za 1 je manji, a 500 100 − 1 = 500 099.",
+      "savjet": "Oduzmi jedan od zadnja tri mjesta, a tisućice ostavi kakve jesu."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-044",
+      "tezina": "srednje",
+      "pitanje": "Broji po 10 000: 470 000, 480 000, 490 000, … Koji broj slijedi?",
+      "ponudeni": [
+        "491 000",
+        "500 000",
+        "410 000",
+        "590 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kada broju 490 000 dodamo 10 000, 49 desetica tisuća postaje 50 desetica tisuća, a to je 500 000.",
+      "savjet": "Pazi na prijelaz: kada na mjestu desetica tisuća stoji devetka, mijenja se i znamenka lijevo od nje."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-045",
+      "tezina": "srednje",
+      "pitanje": "Broj ima 7 desetica tisuća, 5 tisućica, 0 stotica, 3 desetice i 0 jedinica. Koji je to broj?",
+      "ponudeni": [
+        "75 030",
+        "7530",
+        "75 300",
+        "750 030"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenke redom od desetica tisuća do jedinica su 7, 5, 0, 3 i 0, pa je broj 75 030.",
+      "savjet": "Nacrtaj tablicu mjesnih vrijednosti s pet stupaca i u svaki upiši zadanu znamenku."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-046",
+      "tezina": "srednje",
+      "pitanje": "Koji broj čini 30 tisućica?",
+      "ponudeni": [
+        "3000",
+        "300 000",
+        "30 000",
+        "30 300"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedna tisućica je 1000, a 30 tisućica je 30 · 1000 = 30 000.",
+      "savjet": "Jedna tisućica vrijedi 1000; zamisli trideset takvih."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-047",
+      "tezina": "srednje",
+      "pitanje": "Svaku od znamenaka 3, 0, 7, 5, 1 i 9 upotrijebi točno jednom. Koji je najveći šesteroznamenkasti broj koji tako možeš napisati?",
+      "ponudeni": [
+        "957 310",
+        "975 310",
+        "975 301",
+        "103 579"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najveći broj dobivamo kada znamenke pišemo od najveće prema najmanjoj, pa je to 975 310.",
+      "savjet": "Na mjesto najveće vrijednosti stavi najveću znamenku, a zatim nastavi redom."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-048",
+      "tezina": "srednje",
+      "pitanje": "Napiši znamenkama broj „dvadeset dvije tisuće četiristo“.",
+      "ponudeni": [
+        "2240",
+        "22 040",
+        "220 400",
+        "22 400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvadeset dvije tisuće je 22 000, a četiristo su 4 stotice, pa je broj 22 400.",
+      "savjet": "Iza tisuća napiši troznamenkasti dio: četiristo ima 4 stotice, 0 desetica i 0 jedinica."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-049",
+      "tezina": "srednje",
+      "pitanje": "Kako se riječima čita broj 34 000?",
+      "ponudeni": [
+        "trideset četiri tisuća",
+        "tristo četrdeset tisuća",
+        "trideset četiri tisuće",
+        "trideset četiri tisuću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz broj koji završava riječju četiri kažemo tisuće, kao četiri knjige, pa čitamo trideset četiri tisuće.",
+      "savjet": "Gledaj zadnju riječ ispred riječi tisuća i sjeti se kako kažeš: četiri knjige, pet knjiga."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-050",
+      "tezina": "srednje",
+      "pitanje": "Koliko znamenaka ima broj „dvjesto tisuća pet“ kada ga zapišeš znamenkama?",
+      "ponudeni": [
+        "6",
+        "4",
+        "5",
+        "7"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvjesto tisuća pet pišemo 200 005, a to je šesteroznamenkasti broj.",
+      "savjet": "Zapiši broj znamenkama i ne zaboravi nule na mjestima stotica i desetica."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-051",
+      "tezina": "srednje",
+      "pitanje": "Koji broj ima 9 stotica tisuća, 9 tisućica i 9 jedinica, a ostale su mu znamenke nule?",
+      "ponudeni": [
+        "999",
+        "90 909",
+        "990 009",
+        "909 009"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na mjestima stotica tisuća, tisućica i jedinica je 9, a na ostalim mjestima 0, pa je broj 909 009.",
+      "savjet": "Napiši šest mjesta, upiši devetke na zadana mjesta, a na ostala nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-052",
+      "tezina": "srednje",
+      "pitanje": "U broju 262 615 znamenka 6 pojavljuje se dvaput. Koje su vrijednosti tih dviju šestica?",
+      "ponudeni": [
+        "6000 i 60",
+        "60 000 i 600",
+        "60 000 i 6000",
+        "600 000 i 600"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prva šestica je na mjestu desetica tisuća i vrijedi 60 000, a druga na mjestu stotica i vrijedi 600.",
+      "savjet": "Za svaku šesticu posebno odredi mjesto brojeći zdesna."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-053",
+      "tezina": "srednje",
+      "pitanje": "Grad ima 145 300 stanovnika. Kako se taj broj čita riječima?",
+      "ponudeni": [
+        "sto četrdeset pet tisuća trideset",
+        "sto pedeset četiri tisuće tristo",
+        "sto četrdeset pet tisuća tristo",
+        "četrnaest tisuća tristo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ispred razmaka je 145, što čitamo sto četrdeset pet tisuća, a iza razmaka 300, što čitamo tristo.",
+      "savjet": "Pročitaj posebno dio ispred razmaka i dodaj riječ tisuća, a zatim pročitaj dio iza razmaka."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-054",
+      "tezina": "srednje",
+      "pitanje": "Na utakmici je bilo osamnaest tisuća sedamsto dvadeset gledatelja. Kako se taj broj piše znamenkama?",
+      "ponudeni": [
+        "18 720",
+        "180 720",
+        "18 072",
+        "81 720"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Osamnaest tisuća je 18 000, a sedamsto dvadeset je 720, pa je broj 18 720.",
+      "savjet": "Dio ispred riječi tisuća piše se ispred razmaka, a ostatak kao tri znamenke iza razmaka."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-055",
+      "tezina": "srednje",
+      "pitanje": "Na brojevnoj crti susjedne crtice razlikuju se za 100. Na jednoj crtici piše 56 000. Koji broj označava crtica koja je četiri crtice desno od nje?",
+      "ponudeni": [
+        "56 004",
+        "60 000",
+        "56 040",
+        "56 400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Četiri koraka po 100 iznose 400, pa crtica označava 56 000 + 400 = 56 400.",
+      "savjet": "Svaki korak udesno dodaje jednu stoticu; izbroji koliko je to stotica ukupno."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-056",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 8 · 100 000 + 2 · 1000 + 6 · 10.",
+      "ponudeni": [
+        "820 060",
+        "802 060",
+        "802 600",
+        "800 206"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To je 800 000 + 2000 + 60, a taj broj pišemo 802 060.",
+      "savjet": "Izračunaj svaki umnožak posebno, a zatim ih zbroji pazeći na mjesta znamenaka."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-057",
+      "tezina": "srednje",
+      "pitanje": "Na kojem se mjestu nalazi prva znamenka slijeva u svakom šesteroznamenkastom broju?",
+      "ponudeni": [
+        "na mjestu desetica tisuća",
+        "na mjestu milijuna",
+        "na mjestu stotica tisuća",
+        "na mjestu tisućica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Šest mjesta zdesna su jedinice, desetice, stotice, tisućice, desetice tisuća i stotice tisuća.",
+      "savjet": "Nabroji mjesne vrijednosti zdesna ulijevo dok ne dođeš do šestog mjesta."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-058",
+      "tezina": "srednje",
+      "pitanje": "Koji od ovih brojeva ima znamenku 0 na mjestu tisućica?",
+      "ponudeni": [
+        "340 512",
+        "304 512",
+        "345 012",
+        "34 512"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U broju 340 512 zadnja znamenka ispred razmaka je 0, a to je mjesto tisućica.",
+      "savjet": "Mjesto tisućica je zadnja znamenka ispred razmaka."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-059",
+      "tezina": "srednje",
+      "pitanje": "Koliko nula ima broj „četrdeset tisuća četiristo četiri“ kada ga zapišeš znamenkama?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj se piše 40 404, a nule su na mjestima tisućica i desetica.",
+      "savjet": "Najprije zapiši cijeli broj znamenkama, a tek onda prebroji nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-060",
+      "tezina": "srednje",
+      "pitanje": "Koliko desetica tisuća čini jedan milijun?",
+      "ponudeni": [
+        "10",
+        "1000",
+        "10 000",
+        "100"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Deset desetica tisuća čini 100 000, a deset puta 100 000 je milijun, pa je to 10 · 10 = 100 desetica tisuća.",
+      "savjet": "Izračunaj najprije koliko desetica tisuća čini sto tisuća."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-061",
+      "tezina": "tesko",
+      "pitanje": "Svaku od znamenaka 5, 0, 2, 8, 0 i 6 upotrijebi točno jednom. Koji je najmanji šesteroznamenkasti broj koji tako možeš napisati?",
+      "ponudeni": [
+        "205 068",
+        "250 068",
+        "200 568",
+        "256 800"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na prvo mjesto stavljamo najmanju znamenku koja nije nula, a to je 2, a iza nje ostale redom od najmanje: 200 568.",
+      "savjet": "Broj ne smije početi nulom, ali nule mogu doći odmah iza prve znamenke."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-062",
+      "tezina": "tesko",
+      "pitanje": "Koji broj čini 45 desetica tisuća?",
+      "ponudeni": [
+        "450 000",
+        "45 000",
+        "4500",
+        "405 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedna desetica tisuća je 10 000, pa je 45 desetica tisuća 45 · 10 000 = 450 000.",
+      "savjet": "Jedna desetica tisuća vrijedi 10 000; broju 45 dopiši onoliko nula koliko ih ima 10 000."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-063",
+      "tezina": "tesko",
+      "pitanje": "Koji broj ima 32 tisućice i 15 desetica?",
+      "ponudeni": [
+        "32 015",
+        "3215",
+        "320 150",
+        "32 150"
+      ],
+      "tocan": 3,
+      "objasnjenje": "32 tisućice su 32 000, a 15 desetica je 150, pa je broj 32 000 + 150 = 32 150.",
+      "savjet": "Pretvori posebno tisućice i desetice u brojeve, a zatim ih zbroji."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-064",
+      "tezina": "tesko",
+      "pitanje": "Kako se riječima čita broj jednak zbroju 700 000 + 4000 + 300 + 9?",
+      "ponudeni": [
+        "sedamsto četrdeset tisuća tristo devet",
+        "sedamsto četiri tisuće tristo devet",
+        "sedamsto četiri tisuće tristo devedeset",
+        "sedamdeset četiri tisuće tristo devet"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbroj je 704 309, što čitamo sedamsto četiri tisuće tristo devet.",
+      "savjet": "Najprije zbroji dekadske jedinice i zapiši broj znamenkama, a tek ga onda pročitaj."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-065",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 395 600 + 10 000.",
+      "ponudeni": [
+        "396 600",
+        "495 600",
+        "405 600",
+        "395 700"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dodajemo jednu deseticu tisuća: 39 desetica tisuća postaje 40, pa je rezultat 405 600.",
+      "savjet": "Povećaj znamenku desetica tisuća za jedan i pazi na prijelaz jer je ondje devetka."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-066",
+      "tezina": "tesko",
+      "pitanje": "Brojevna crta od 200 000 do 300 000 podijeljena je na 10 jednakih dijelova. Koji broj označava sedma crtica desno od 200 000?",
+      "ponudeni": [
+        "270 000",
+        "207 000",
+        "700 000",
+        "200 700"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan dio vrijedi 100 000 : 10 = 10 000, pa sedma crtica označava 200 000 + 70 000 = 270 000.",
+      "savjet": "Odredi razmak od 200 000 do 300 000, podijeli ga na deset dijelova i kreni od 200 000."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-067",
+      "tezina": "tesko",
+      "pitanje": "Na brojevnoj crti susjedne crtice razlikuju se za 1000. Koji broj označava crtica koja je tri crtice lijevo od 100 000?",
+      "ponudeni": [
+        "97 000",
+        "99 700",
+        "103 000",
+        "70 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tri koraka ulijevo po 1000 znače da od 100 000 oduzimamo 3000, pa je to 97 000.",
+      "savjet": "Kretanje ulijevo smanjuje broj; svaki korak oduzima jednu tisućicu."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-068",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o broju 480 307 točna?",
+      "ponudeni": [
+        "Znamenka 8 je na mjestu tisućica.",
+        "Broj ima ukupno 48 tisućica.",
+        "Znamenka 7 je na mjestu desetica.",
+        "Znamenka 3 vrijedi 300."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka 3 je na mjestu stotica, pa vrijedi 300; osmica je na mjestu desetica tisuća, a broj ima 480 tisućica.",
+      "savjet": "Upiši broj u tablicu mjesnih vrijednosti i provjeri svaku tvrdnju redom."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-069",
+      "tezina": "tesko",
+      "pitanje": "Koliko ukupno stotica ima broj 52 400?",
+      "ponudeni": [
+        "4",
+        "524",
+        "24",
+        "5240"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sve znamenke ispred zadnje dvije nule pokazuju broj stotica, pa 52 400 ima 524 stotice.",
+      "savjet": "Jedna stotica je 100; razmisli koliko puta broj 100 stane u zadani broj."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-070",
+      "tezina": "tesko",
+      "pitanje": "Kako se riječima čita broj 305 060?",
+      "ponudeni": [
+        "trideset pet tisuća šezdeset",
+        "tristo pedeset tisuća šezdeset",
+        "tristo pet tisuća šest",
+        "tristo pet tisuća šezdeset"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ispred razmaka je 305, što čitamo tristo pet tisuća, a iza razmaka 060, što čitamo šezdeset.",
+      "savjet": "Pazi na nule: nula na nekom mjestu znači da tu dekadsku jedinicu ne izgovaraš."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-071",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točan rastav broja 90 909.",
+      "ponudeni": [
+        "9 · 1000 + 9 · 100 + 9",
+        "9 · 10 000 + 9 · 1000 + 9",
+        "9 · 10 000 + 9 · 100 + 9",
+        "9 · 10 000 + 9 · 10 + 9"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Devetke su na mjestima desetica tisuća, stotica i jedinica, pa je 90 909 = 9 · 10 000 + 9 · 100 + 9.",
+      "savjet": "Za svaku devetku odredi mjesto i pomnoži je dekadskom jedinicom tog mjesta."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-072",
+      "tezina": "tesko",
+      "pitanje": "Ana zamišlja šesteroznamenkasti broj. Na mjestu stotica tisuća i na mjestu jedinica ima znamenku 4, a sve su ostale znamenke 0. Koji je to broj?",
+      "ponudeni": [
+        "40 004",
+        "400 004",
+        "400 040",
+        "404 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prva znamenka šesteroznamenkastog broja je na mjestu stotica tisuća, a zadnja na mjestu jedinica, pa je broj 400 004.",
+      "savjet": "Napiši šest mjesta, upiši četvorke na prvo i zadnje mjesto, a između njih nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-073",
+      "tezina": "tesko",
+      "pitanje": "Broji unatrag po 100 000: 1 000 000, 900 000, 800 000, … Koji je broj peti po redu?",
+      "ponudeni": [
+        "700 000",
+        "500 000",
+        "960 000",
+        "600 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Brojevi redom su 1 000 000, 900 000, 800 000, 700 000 i 600 000, pa je peti broj 600 000.",
+      "savjet": "Milijun je prvi broj u nizu; nastavi niz dok ne dođeš do petog."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-074",
+      "tezina": "tesko",
+      "pitanje": "Koliko ima brojeva između 99 990 i 100 000, ne računajući ta dva broja?",
+      "ponudeni": [
+        "10",
+        "9",
+        "11",
+        "8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To su brojevi od 99 991 do 99 999, a njih je devet.",
+      "savjet": "Napiši prvi i zadnji broj koji je veći od 99 990 i manji od 100 000, pa ih prebroji."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-075",
+      "tezina": "tesko",
+      "pitanje": "Koji je najveći peteroznamenkasti broj kojemu su sve znamenke različite?",
+      "ponudeni": [
+        "98 765",
+        "99 999",
+        "987 654",
+        "90 123"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na prvo mjesto stavljamo 9, a zatim redom najveće znamenke koje još nisu upotrijebljene: 98 765.",
+      "savjet": "Kreni od najveće znamenke i na svako sljedeće mjesto stavi najveću znamenku koja se još nije pojavila."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-076",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 40 + 300 000 + 5 + 8000.",
+      "ponudeni": [
+        "38 045",
+        "308 405",
+        "345 800",
+        "308 045"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad pribrojnike poredamo po veličini, dobivamo 300 000 + 8000 + 40 + 5 = 308 045.",
+      "savjet": "Pribrojnike poredaj od najveće dekadske jedinice prema najmanjoj i pazi na mjesta bez znamenke."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-077",
+      "tezina": "tesko",
+      "pitanje": "Odredi broj koji nedostaje: 270 000 + □ + 50 = 273 050.",
+      "ponudeni": [
+        "300",
+        "3000",
+        "30 000",
+        "3050"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 273 050 ima 3 tisućice koje nisu u zadanim pribrojnicima, pa nedostaje 3000.",
+      "savjet": "Rastavi 273 050 na dekadske jedinice i usporedi s pribrojnicima koje već imaš."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-078",
+      "tezina": "tesko",
+      "pitanje": "U broju 506 213 zamijene mjesta znamenka desetica tisuća i znamenka tisućica. Koji broj nastaje?",
+      "ponudeni": [
+        "506 123",
+        "605 213",
+        "560 213",
+        "506 231"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na mjestu desetica tisuća je 0, a na mjestu tisućica 6; kad zamijene mjesta, nastaje 560 213.",
+      "savjet": "Najprije odredi koje su znamenke na mjestima desetica tisuća i tisućica."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-079",
+      "tezina": "tesko",
+      "pitanje": "Koliko je puta 100 000 veće od 1000?",
+      "ponudeni": [
+        "10",
+        "1000",
+        "100",
+        "99 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 100 000 ima dvije nule više od broja 1000, a svaka nula znači deset puta više, pa je 10 · 10 = 100 puta veće.",
+      "savjet": "Usporedi broj nula: svaka dodatna nula znači deset puta veći broj."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-080",
+      "tezina": "tesko",
+      "pitanje": "Kako se riječima čita broj 401 001?",
+      "ponudeni": [
+        "četiristo jedna tisuća jedan",
+        "četiristo jedan tisuća jedan",
+        "četrdeset jedna tisuća jedan",
+        "četiristo jedna tisuća deset"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ispred razmaka je 401, a uz tisuću kažemo jedna, pa čitamo četiristo jedna tisuća, a zatim jedan.",
+      "savjet": "Pazi kako se jedan slaže s riječju tisuća i gdje su u broju nule."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-081",
+      "tezina": "tesko",
+      "pitanje": "Napiši znamenkama broj „sto jedna tisuća sto jedan“.",
+      "ponudeni": [
+        "110 101",
+        "101 011",
+        "100 101",
+        "101 101"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sto jedna tisuća je 101 000, a sto jedan je 101, pa je broj 101 101.",
+      "savjet": "Zapiši posebno broj tisuća i posebno ostatak broja, svaki kao troznamenkasti broj."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-082",
+      "tezina": "tesko",
+      "pitanje": "Koji broj ima 15 tisućica, 15 stotica i 15 jedinica?",
+      "ponudeni": [
+        "151 515",
+        "16 515",
+        "15 515",
+        "150 515"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To je 15 000 + 1500 + 15 = 16 515, jer 15 stotica čine 1 tisućicu i 5 stotica.",
+      "savjet": "Pretvori svaki dio u broj pa ih zbroji; pazi da 15 stotica nije manje od tisuću."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-083",
+      "tezina": "tesko",
+      "pitanje": "Šesteroznamenkasti broj ima znamenku 2 na mjestu stotica tisuća, a svaka sljedeća znamenka udesno za 1 je veća od prethodne. Koji je to broj?",
+      "ponudeni": [
+        "234 567",
+        "123 456",
+        "765 432",
+        "234 560"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Počinjemo s 2 i svaki put dodajemo 1: 2, 3, 4, 5, 6, 7, pa je broj 234 567.",
+      "savjet": "Prva znamenka slijeva je na mjestu stotica tisuća; od nje nastavi udesno."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-084",
+      "tezina": "tesko",
+      "pitanje": "Brojevna crta od 0 do 1 000 000 podijeljena je na 10 jednakih dijelova, a svaki od njih još na 10 manjih jednakih dijelova. Koliko vrijedi jedan mali dio?",
+      "ponudeni": [
+        "100 000",
+        "1000",
+        "10 000",
+        "100"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan veliki dio je 1 000 000 : 10 = 100 000, a jedan mali dio je 100 000 : 10 = 10 000.",
+      "savjet": "Najprije odredi koliko vrijedi jedan veliki dio, a zatim ga podijeli na deset dijelova."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-085",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 203 000 − 10 000.",
+      "ponudeni": [
+        "202 000",
+        "103 000",
+        "213 000",
+        "193 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 203 000 ima 20 desetica tisuća i 3 tisućice; kad oduzmemo jednu deseticu tisuća, ostaje 193 000.",
+      "savjet": "Oduzimaš jednu deseticu tisuća, a na tom mjestu je nula, pa posudi od stotica tisuća."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-086",
+      "tezina": "tesko",
+      "pitanje": "U broju 444 444 koliko je puta znamenka 4 na mjestu desetica tisuća vrjednija od znamenke 4 na mjestu desetica?",
+      "ponudeni": [
+        "100",
+        "10 000",
+        "1000",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Četvorka na mjestu desetica tisuća vrijedi 40 000, a na mjestu desetica 40, pa je 40 000 tisuću puta veće od 40.",
+      "savjet": "Napiši vrijednosti obiju četvorki i usporedi koliko se nula razlikuju."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-087",
+      "tezina": "tesko",
+      "pitanje": "Na kojim se mjestima nalazi znamenka 9 u broju 900 090?",
+      "ponudeni": [
+        "na mjestu stotica tisuća i na mjestu desetica",
+        "na mjestu desetica tisuća i na mjestu desetica",
+        "na mjestu stotica tisuća i na mjestu stotica",
+        "na mjestu stotica tisuća i na mjestu jedinica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prva devetka je šesta znamenka zdesna, a druga druga znamenka zdesna, pa su na mjestima stotica tisuća i desetica.",
+      "savjet": "Upiši broj u tablicu mjesnih vrijednosti sa šest stupaca i pročitaj nazive stupaca s devetkama."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-088",
+      "tezina": "tesko",
+      "pitanje": "Ema je broj 70 050 riječima zapisala kao „sedam tisuća pedeset“. Kako glasi točan zapis?",
+      "ponudeni": [
+        "sedamdeset tisuća petsto",
+        "sedamdeset tisuća pedeset",
+        "sedamsto tisuća pedeset",
+        "sedamdeset pet tisuća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ispred razmaka je 70, što čitamo sedamdeset tisuća, a iza razmaka 050, što čitamo pedeset.",
+      "savjet": "Pogledaj koliko je znamenaka ispred razmaka i pročitaj ih kao jedan broj."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-089",
+      "tezina": "tesko",
+      "pitanje": "Koliko znamenaka ima broj koji je za 1 manji od milijuna?",
+      "ponudeni": [
+        "5",
+        "7",
+        "8",
+        "6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za 1 manji od milijuna je 999 999, a taj broj ima šest znamenaka.",
+      "savjet": "Napiši milijun znamenkama, oduzmi jedan i prebroji znamenke rezultata."
+    },
+    {
+      "id": "4-matematika-citanje-i-pisanje-brojeva-do-milijun-090",
+      "tezina": "tesko",
+      "pitanje": "Napiši znamenkama broj „devetsto devedeset tisuća devet“.",
+      "ponudeni": [
+        "999 009",
+        "990 090",
+        "990 009",
+        "909 009"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Devetsto devedeset tisuća je 990 000, a devet je 9 jedinica, pa je broj 990 009.",
+      "savjet": "Dio ispred riječi tisuća piše se ispred razmaka, a iza razmaka uvijek dolaze tri znamenke."
+    }
+  ]
+}

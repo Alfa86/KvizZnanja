@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "dekadske-jedinice-i-mjesna-vrijednost",
+  "pitanja": [
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko jedinica ima jedna desetica?",
+      "ponudeni": [
+        "1",
+        "100",
+        "10",
+        "1000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Deset jedinica čini jednu deseticu, zato desetica ima 10 jedinica.",
+      "savjet": "Prebroji jedinice od 1 nadalje dok ne dođeš do prve desetice."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-002",
+      "tezina": "lagano",
+      "pitanje": "Koliko jedinica ima jedna stotica?",
+      "ponudeni": [
+        "100",
+        "10",
+        "1000",
+        "1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedna stotica zapisuje se brojem 100, pa ima 100 jedinica.",
+      "savjet": "Sjeti se kojim se brojem zapisuje jedna stotica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-003",
+      "tezina": "lagano",
+      "pitanje": "Koliko jedinica ima jedna tisućica?",
+      "ponudeni": [
+        "100",
+        "10 000",
+        "10",
+        "1000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedna tisućica zapisuje se brojem 1000, pa ima 1000 jedinica.",
+      "savjet": "Tisućica ima deset stotica, a svaka stotica ima sto jedinica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-004",
+      "tezina": "lagano",
+      "pitanje": "Kojim se brojem zapisuje jedna desetica tisuća?",
+      "ponudeni": [
+        "1000",
+        "10 000",
+        "100 000",
+        "10"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Desetica tisuća je deset tisućica, a to je broj 10 000.",
+      "savjet": "Desetica tisuća deset je puta veća od jedne tisućice."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-005",
+      "tezina": "lagano",
+      "pitanje": "Kojim se brojem zapisuje jedna stotica tisuća?",
+      "ponudeni": [
+        "10 000",
+        "100 000",
+        "1 000 000",
+        "1000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stotica tisuća je deset desetica tisuća, a to je broj 100 000.",
+      "savjet": "Stotica tisuća deset je puta veća od desetice tisuća."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dekadska jedinica 1000?",
+      "ponudeni": [
+        "stotica",
+        "desetica tisuća",
+        "desetica",
+        "tisućica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 1000 je jedna tisućica, a ona ima deset stotica.",
+      "savjet": "Prebroji nule u broju i sjeti se koja dekadska jedinica ima toliko nula."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je dekadska jedinica 10 puta veća od stotice?",
+      "ponudeni": [
+        "tisućica",
+        "desetica",
+        "desetica tisuća",
+        "stotica tisuća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Deset stotica čini jednu tisućicu: 10 · 100 = 1000.",
+      "savjet": "Kad dekadsku jedinicu pomnožiš s 10, dobiješ sljedeću veću dekadsku jedinicu."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-008",
+      "tezina": "lagano",
+      "pitanje": "Koja je najmanja dekadska jedinica?",
+      "ponudeni": [
+        "desetica",
+        "stotica",
+        "jedinica",
+        "tisućica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najmanja dekadska jedinica je jedinica, a sve ostale nastaju od nje množenjem s 10.",
+      "savjet": "Razmisli od koje dekadske jedinice počinješ kad brojiš."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-009",
+      "tezina": "lagano",
+      "pitanje": "Koja je znamenka na mjestu desetica u broju 4527?",
+      "ponudeni": [
+        "5",
+        "7",
+        "4",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 4527 ima 4 tisućice, 5 stotica, 2 desetice i 7 jedinica.",
+      "savjet": "Mjesto desetica je drugo mjesto zdesna."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-010",
+      "tezina": "lagano",
+      "pitanje": "Koja je znamenka na mjestu tisućica u broju 38 614?",
+      "ponudeni": [
+        "3",
+        "8",
+        "6",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 38 614 ima 3 desetice tisuća, 8 tisućica, 6 stotica, 1 deseticu i 4 jedinice.",
+      "savjet": "Brojeći zdesna, mjesto tisućica je četvrto mjesto."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-011",
+      "tezina": "lagano",
+      "pitanje": "Koja je znamenka na mjestu desetica tisuća u broju 72 905?",
+      "ponudeni": [
+        "7",
+        "2",
+        "9",
+        "5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 72 905 ima 7 desetica tisuća, 2 tisućice, 9 stotica, 0 desetica i 5 jedinica.",
+      "savjet": "Mjesto desetica tisuća je peto mjesto zdesna."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-012",
+      "tezina": "lagano",
+      "pitanje": "Na kojem mjestu stoji znamenka 8 u broju 6283?",
+      "ponudeni": [
+        "na mjestu jedinica",
+        "na mjestu stotica",
+        "na mjestu desetica",
+        "na mjestu tisućica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 6283 ima 6 tisućica, 2 stotice, 8 desetica i 3 jedinice.",
+      "savjet": "Kreni od zadnje znamenke zdesna, ona je na mjestu jedinica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-013",
+      "tezina": "lagano",
+      "pitanje": "Na kojem mjestu stoji znamenka 4 u broju 451 360?",
+      "ponudeni": [
+        "na mjestu desetica tisuća",
+        "na mjestu stotica tisuća",
+        "na mjestu tisućica",
+        "na mjestu stotica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 451 360 ima šest znamenaka, pa njegova prva znamenka slijeva stoji na mjestu stotica tisuća.",
+      "savjet": "Prebroji koliko znamenaka ima broj i kreni zdesna od mjesta jedinica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-014",
+      "tezina": "lagano",
+      "pitanje": "Koji broj ima 3 tisućice, 4 stotice, 2 desetice i 5 jedinica?",
+      "ponudeni": [
+        "3245",
+        "5243",
+        "4325",
+        "3425"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenke zapisujemo redom od tisućica do jedinica, pa je to broj 3425.",
+      "savjet": "Zapiši znamenke redom: tisućice, stotice, desetice, jedinice."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-015",
+      "tezina": "lagano",
+      "pitanje": "Koji broj ima 6 stotica, 0 desetica i 9 jedinica?",
+      "ponudeni": [
+        "69",
+        "690",
+        "609",
+        "6009"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na mjesto desetica pišemo 0, pa je to broj 609.",
+      "savjet": "Kad neke dekadske jedinice nema, na njezino mjesto pišeš nulu."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-016",
+      "tezina": "lagano",
+      "pitanje": "Koliko stotica ima jedna tisućica?",
+      "ponudeni": [
+        "10",
+        "100",
+        "1",
+        "1000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tisućica je 1000, a 1000 = 10 · 100, pa tisućica ima 10 stotica.",
+      "savjet": "Broji po sto: sto, dvjesto, tristo… dok ne dođeš do tisuću."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-017",
+      "tezina": "lagano",
+      "pitanje": "Što dobiješ kad spojiš 10 tisućica?",
+      "ponudeni": [
+        "jednu stoticu tisuća",
+        "jednu stoticu",
+        "jednu deseticu",
+        "jednu deseticu tisuća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Deset tisućica je 10 000, a to je jedna desetica tisuća.",
+      "savjet": "Svakih deset jednakih dekadskih jedinica čini jednu sljedeću veću jedinicu."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-018",
+      "tezina": "lagano",
+      "pitanje": "Koliko desetica tisuća ima jedna stotica tisuća?",
+      "ponudeni": [
+        "10",
+        "100",
+        "1000",
+        "1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stotica tisuća je 100 000, a to je 10 desetica tisuća po 10 000.",
+      "savjet": "Broji desetice tisuća jednu po jednu dok ne dođeš do stotice tisuća."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-019",
+      "tezina": "lagano",
+      "pitanje": "Koliko vrijedi znamenka 7 u broju 2754?",
+      "ponudeni": [
+        "7",
+        "70",
+        "700",
+        "7000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka 7 je na mjestu stotica, pa vrijedi 7 stotica, to jest 700.",
+      "savjet": "Najprije odredi na kojem mjestu stoji znamenka 7."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-020",
+      "tezina": "lagano",
+      "pitanje": "Koliko vrijedi znamenka 3 u broju 53 128?",
+      "ponudeni": [
+        "300",
+        "3000",
+        "30 000",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka 3 je na mjestu tisućica, pa vrijedi 3 tisućice, to jest 3000.",
+      "savjet": "Brojeći zdesna, odredi na kojem je mjestu znamenka 3."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-021",
+      "tezina": "lagano",
+      "pitanje": "Koja znamenka u broju 58 274 vrijedi 200?",
+      "ponudeni": [
+        "7",
+        "2",
+        "8",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka 2 je na mjestu stotica, pa vrijedi 2 stotice, to jest 200.",
+      "savjet": "Potraži znamenku koja stoji na mjestu stotica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-022",
+      "tezina": "lagano",
+      "pitanje": "Kako se broj 4385 rastavlja na dekadske jedinice?",
+      "ponudeni": [
+        "4000 + 300 + 8 + 5",
+        "400 + 30 + 8 + 5",
+        "40 000 + 300 + 80 + 5",
+        "4000 + 300 + 80 + 5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 4385 ima 4 tisućice, 3 stotice, 8 desetica i 5 jedinica, pa je 4385 = 4000 + 300 + 80 + 5.",
+      "savjet": "Svaku znamenku zamijeni njezinom mjesnom vrijednošću."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-023",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 20 000 + 5000 + 300 + 10 + 4.",
+      "ponudeni": [
+        "25 314",
+        "25 341",
+        "205 314",
+        "250 314"
+      ],
+      "tocan": 0,
+      "objasnjenje": "To su 2 desetice tisuća, 5 tisućica, 3 stotice, 1 desetica i 4 jedinice, a to je broj 25 314.",
+      "savjet": "Svaki pribrojnik daje jednu znamenku na svojem mjestu."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-024",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih dekadskih jedinica najveća?",
+      "ponudeni": [
+        "desetica tisuća",
+        "tisućica",
+        "stotica tisuća",
+        "stotica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stotica tisuća je 100 000, a to je više od 10 000, 1000 i 100.",
+      "savjet": "Zapiši svaku dekadsku jedinicu brojem i usporedi koliko ima znamenaka."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-025",
+      "tezina": "lagano",
+      "pitanje": "Na kojem je mjestu prva znamenka zdesna u zapisu broja?",
+      "ponudeni": [
+        "na mjestu desetica",
+        "na mjestu stotica",
+        "na mjestu tisućica",
+        "na mjestu jedinica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prva znamenka zdesna pokazuje koliko broj ima jedinica, na primjer 5 u broju 25.",
+      "savjet": "Razmisli što znači znamenka 5 u broju 25."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-026",
+      "tezina": "lagano",
+      "pitanje": "Koliko je jedinica u 4 desetice?",
+      "ponudeni": [
+        "4",
+        "14",
+        "40",
+        "400"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka desetica ima 10 jedinica, pa 4 desetice imaju 40 jedinica.",
+      "savjet": "Jedna desetica ima deset jedinica, a ovdje ih je četiri."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-027",
+      "tezina": "lagano",
+      "pitanje": "Koji broj ima 5 stotica, a na mjestima desetica i jedinica nule?",
+      "ponudeni": [
+        "500",
+        "50",
+        "5000",
+        "105"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedna stotica je 100, pa je 5 stotica broj 500.",
+      "savjet": "Broji po sto: sto, dvjesto, tristo…"
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-028",
+      "tezina": "lagano",
+      "pitanje": "Mateo je u igri skupio 7 desetica tisuća bodova. Koliko je to bodova?",
+      "ponudeni": [
+        "7000",
+        "70 000",
+        "700 000",
+        "70"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedna desetica tisuća je 10 000, pa je 7 desetica tisuća 70 000 bodova.",
+      "savjet": "Sjeti se kojim se brojem zapisuje jedna desetica tisuća."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-029",
+      "tezina": "lagano",
+      "pitanje": "Koja je znamenka na mjestu stotica u broju 8091?",
+      "ponudeni": [
+        "8",
+        "9",
+        "1",
+        "0"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 8091 ima 8 tisućica, 0 stotica, 9 desetica i 1 jedinicu.",
+      "savjet": "Mjesto stotica je treće mjesto zdesna."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-030",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih brojeva dekadska jedinica?",
+      "ponudeni": [
+        "10 000",
+        "5000",
+        "20 000",
+        "11 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dekadske jedinice su 1, 10, 100, 1000, 10 000 i 100 000, pa je od ponuđenih to 10 000.",
+      "savjet": "Dekadska jedinica zapisuje se znamenkom 1 iza koje slijede samo nule."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-031",
+      "tezina": "srednje",
+      "pitanje": "Koliko stotica ima jedna desetica tisuća?",
+      "ponudeni": [
+        "10",
+        "100",
+        "1000",
+        "10 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Desetica tisuća je 10 000, a 10 000 = 100 · 100, pa ima 100 stotica.",
+      "savjet": "Najprije odredi koliko stotica ima tisućica, a zatim koliko tisućica ima desetica tisuća."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-032",
+      "tezina": "srednje",
+      "pitanje": "Koliko desetica ima jedna tisućica?",
+      "ponudeni": [
+        "10",
+        "1000",
+        "1",
+        "100"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tisućica je 1000, a 1000 = 100 · 10, pa ima 100 desetica.",
+      "savjet": "Stotica ima deset desetica, a tisućica ima deset stotica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-033",
+      "tezina": "srednje",
+      "pitanje": "Koliko jedinica ima jedna desetica tisuća?",
+      "ponudeni": [
+        "10 000",
+        "1000",
+        "100 000",
+        "100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Desetica tisuća zapisuje se brojem 10 000, pa ima 10 000 jedinica.",
+      "savjet": "Tisućica ima tisuću jedinica, a desetica tisuća ima deset tisućica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-034",
+      "tezina": "srednje",
+      "pitanje": "Koliko je stotica u 2 tisućice?",
+      "ponudeni": [
+        "2",
+        "200",
+        "20",
+        "2000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedna tisućica ima 10 stotica, pa 2 tisućice imaju 20 stotica.",
+      "savjet": "Najprije se sjeti koliko stotica ima jedna tisućica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-035",
+      "tezina": "srednje",
+      "pitanje": "Kako se broj 70 409 rastavlja na dekadske jedinice?",
+      "ponudeni": [
+        "7000 + 400 + 9",
+        "70 000 + 40 + 9",
+        "70 000 + 400 + 9",
+        "700 000 + 400 + 9"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 70 409 ima 7 desetica tisuća, 4 stotice i 9 jedinica, a tisućica i desetica nema.",
+      "savjet": "Nula u broju znači da te dekadske jedinice nema, pa je ne pišeš u zbroju."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-036",
+      "tezina": "srednje",
+      "pitanje": "Koji broj ima 5 desetica tisuća, 3 tisućice i 8 jedinica?",
+      "ponudeni": [
+        "53 008",
+        "5038",
+        "53 080",
+        "530 008"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stotica i desetica nema, pa na ta mjesta pišemo nule: 53 008.",
+      "savjet": "Zapiši znamenke od desetica tisuća do jedinica i ne zaboravi nule."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-037",
+      "tezina": "srednje",
+      "pitanje": "Koji broj ima 2 stotice tisuća, 6 tisućica i 4 desetice?",
+      "ponudeni": [
+        "260 040",
+        "206 400",
+        "20 640",
+        "206 040"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na mjesta desetica tisuća, stotica i jedinica pišemo nule, pa je to broj 206 040.",
+      "savjet": "Broj koji ima stotice tisuća ima šest znamenaka."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-038",
+      "tezina": "srednje",
+      "pitanje": "Koliko ukupno stotica ima broj 3800?",
+      "ponudeni": [
+        "8",
+        "38",
+        "3",
+        "380"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3800 = 38 · 100, pa broj ima ukupno 38 stotica.",
+      "savjet": "Svaka tisućica ima deset stotica, pa i tisućice pretvori u stotice."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-039",
+      "tezina": "srednje",
+      "pitanje": "Koliko ukupno desetica ima broj 560?",
+      "ponudeni": [
+        "56",
+        "6",
+        "5",
+        "65"
+      ],
+      "tocan": 0,
+      "objasnjenje": "560 = 56 · 10, pa broj ima ukupno 56 desetica.",
+      "savjet": "Razmisli koliko puta broj 10 stane u broj 560."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-040",
+      "tezina": "srednje",
+      "pitanje": "Koliko ukupno tisućica ima broj 47 000?",
+      "ponudeni": [
+        "7",
+        "4",
+        "470",
+        "47"
+      ],
+      "tocan": 3,
+      "objasnjenje": "47 000 = 47 · 1000, pa broj ima ukupno 47 tisućica.",
+      "savjet": "Ne gledaj samo znamenku na mjestu tisućica, nego i desetice tisuća."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-041",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 3 tisućice + 5 desetica i zapiši rezultat brojem.",
+      "ponudeni": [
+        "3500",
+        "3050",
+        "305",
+        "3005"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3 tisućice su 3000, a 5 desetica 50, pa je zbroj 3050.",
+      "savjet": "Svaku dekadsku jedinicu najprije zapiši brojem, a zatim zbroji."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-042",
+      "tezina": "srednje",
+      "pitanje": "U broju 3333 sve su znamenke jednake. Koliko puta više vrijedi trojka na mjestu tisućica od trojke na mjestu stotica?",
+      "ponudeni": [
+        "100 puta",
+        "1000 puta",
+        "10 puta",
+        "jednako vrijede"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trojka na mjestu tisućica vrijedi 3000, a trojka na mjestu stotica 300, a 3000 je 10 puta više od 300.",
+      "savjet": "Zapiši koliko vrijedi svaka od tih dviju trojki pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-043",
+      "tezina": "srednje",
+      "pitanje": "U kojem broju znamenka 4 vrijedi 4000?",
+      "ponudeni": [
+        "43 210",
+        "3421",
+        "12 340",
+        "34 210"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U broju 34 210 znamenka 4 je na mjestu tisućica, pa vrijedi 4 tisućice, to jest 4000.",
+      "savjet": "Odredi kojoj dekadskoj jedinici pripada vrijednost 4000."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-044",
+      "tezina": "srednje",
+      "pitanje": "U kojem broju znamenka 7 vrijedi 70 000?",
+      "ponudeni": [
+        "172 503",
+        "517 203",
+        "751 203",
+        "152 037"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U broju 172 503 znamenka 7 je na mjestu desetica tisuća, pa vrijedi 70 000.",
+      "savjet": "U svakom broju odredi mjesto znamenke 7, brojeći zdesna."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-045",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 6 · 1000 + 2 · 100 + 9 · 1.",
+      "ponudeni": [
+        "629",
+        "6209",
+        "6290",
+        "6029"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To je 6 tisućica, 2 stotice, 0 desetica i 9 jedinica, a to je broj 6209.",
+      "savjet": "Desetica nema, pa na mjesto desetica dolazi nula."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-046",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj koliko je jedinica u 3 stotice i 4 desetice.",
+      "ponudeni": [
+        "34",
+        "304",
+        "340",
+        "3040"
+      ],
+      "tocan": 2,
+      "objasnjenje": "3 stotice su 300 jedinica, a 4 desetice 40 jedinica, što je ukupno 340 jedinica.",
+      "savjet": "Pretvori stotice i desetice u jedinice pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-047",
+      "tezina": "srednje",
+      "pitanje": "Lana ima 3 novčanice od 100 eura, 5 novčanica od 10 eura i 2 kovanice od 1 eura. Izračunaj koliko eura ima Lana.",
+      "ponudeni": [
+        "325 eura",
+        "532 eura",
+        "3052 eura",
+        "352 eura"
+      ],
+      "tocan": 3,
+      "objasnjenje": "To su 3 stotice, 5 desetica i 2 jedinice, pa Lana ima 352 eura.",
+      "savjet": "Novčanice od 100 eura su stotice, a novčanice od 10 eura desetice."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-048",
+      "tezina": "srednje",
+      "pitanje": "U maloj kutiji je 10 olovaka, a u velikoj 10 malih kutija. Ivan ima 3 velike kutije, 4 male kutije i 6 olovaka. Izračunaj koliko olovaka ima Ivan.",
+      "ponudeni": [
+        "346",
+        "364",
+        "643",
+        "3046"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Velika kutija ima 100 olovaka, pa Ivan ima 300 + 40 + 6 = 346 olovaka.",
+      "savjet": "Najprije izračunaj koliko olovaka ima jedna velika kutija."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-049",
+      "tezina": "srednje",
+      "pitanje": "Koji broj ima znamenku 0 na mjestu tisućica?",
+      "ponudeni": [
+        "65 012",
+        "60 512",
+        "65 102",
+        "6512"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 60 512 ima 6 desetica tisuća, 0 tisućica, 5 stotica, 1 deseticu i 2 jedinice.",
+      "savjet": "U svakom broju pronađi četvrtu znamenku brojeći zdesna."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-050",
+      "tezina": "srednje",
+      "pitanje": "Koliko vrijedi znamenka 8 u broju 680 145?",
+      "ponudeni": [
+        "8000",
+        "800 000",
+        "80 000",
+        "800"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka 8 je na mjestu desetica tisuća, pa vrijedi 8 desetica tisuća, to jest 80 000.",
+      "savjet": "Broj ima šest znamenaka, a prva slijeva stoji na mjestu stotica tisuća."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-051",
+      "tezina": "srednje",
+      "pitanje": "U kojem su redu dekadske jedinice poredane od najmanje do najveće?",
+      "ponudeni": [
+        "desetica, stotica, tisućica, desetica tisuća",
+        "desetica, tisućica, stotica, desetica tisuća",
+        "stotica, desetica, tisućica, desetica tisuća",
+        "desetica, stotica, desetica tisuća, tisućica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaka je sljedeća dekadska jedinica 10 puta veća: 10, 100, 1000, 10 000.",
+      "savjet": "Svaka veća dekadska jedinica ima jednu nulu više od prethodne."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-052",
+      "tezina": "srednje",
+      "pitanje": "Koja je dekadska jedinica 100 puta veća od desetice?",
+      "ponudeni": [
+        "stotica",
+        "desetica tisuća",
+        "stotica tisuća",
+        "tisućica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "100 · 10 = 1000, a to je tisućica.",
+      "savjet": "Pomnoži deseticu sa 100 i pogledaj koji broj dobiješ."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-053",
+      "tezina": "srednje",
+      "pitanje": "Koja je dekadska jedinica 10 puta manja od stotice tisuća?",
+      "ponudeni": [
+        "tisućica",
+        "stotica",
+        "desetica tisuća",
+        "desetica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "100 000 : 10 = 10 000, a to je desetica tisuća.",
+      "savjet": "Kad dekadske jedinice poredaš po veličini, 10 puta manja jedinica stoji odmah ispred."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-054",
+      "tezina": "srednje",
+      "pitanje": "Kako se broj 8030 rastavlja na dekadske jedinice?",
+      "ponudeni": [
+        "8 tisućica i 3 stotice",
+        "8 tisućica i 3 desetice",
+        "8 stotica i 3 desetice",
+        "80 stotica i 3 jedinice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 8030 ima 8 tisućica, 0 stotica, 3 desetice i 0 jedinica.",
+      "savjet": "Odredi mjesto svake znamenke koja nije nula."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-055",
+      "tezina": "srednje",
+      "pitanje": "Kako se broj 250 006 rastavlja na dekadske jedinice?",
+      "ponudeni": [
+        "2 stotice tisuća, 5 desetica tisuća i 6 jedinica",
+        "2 stotice tisuća, 5 tisućica i 6 jedinica",
+        "2 desetice tisuća, 5 tisućica i 6 jedinica",
+        "2 stotice tisuća, 5 desetica tisuća i 6 desetica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 250 006 ima 2 stotice tisuća, 5 desetica tisuća i 6 jedinica, a na ostalim su mjestima nule.",
+      "savjet": "Prebroji znamenke broja i kreni od mjesta jedinica zdesna."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-056",
+      "tezina": "srednje",
+      "pitanje": "U kojem je broju na mjestu stotica najveća znamenka?",
+      "ponudeni": [
+        "9123",
+        "1293",
+        "2391",
+        "3912"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U broju 3912 na mjestu stotica je znamenka 9, a u ostalim brojevima 1, 2 i 3.",
+      "savjet": "U svakom broju pogledaj samo treću znamenku zdesna."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-057",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 7 desetica tisuća + 3 stotice + 2 jedinice i zapiši rezultat brojem.",
+      "ponudeni": [
+        "7032",
+        "70 302",
+        "70 032",
+        "703 002"
+      ],
+      "tocan": 1,
+      "objasnjenje": "70 000 + 300 + 2 = 70 302, a na mjestima tisućica i desetica su nule.",
+      "savjet": "Svaku dekadsku jedinicu zapiši brojem, a prazna mjesta popuni nulama."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-058",
+      "tezina": "srednje",
+      "pitanje": "Koliko vrijedi prva znamenka 2 slijeva u broju 24 682?",
+      "ponudeni": [
+        "2",
+        "2000",
+        "20 000",
+        "20"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prva dvojka slijeva stoji na mjestu desetica tisuća, pa vrijedi 20 000.",
+      "savjet": "Odredi na kojem mjestu stoji ta znamenka, brojeći zdesna."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-059",
+      "tezina": "srednje",
+      "pitanje": "Koliko vrijedi znamenka na mjestu stotica u broju 731 458?",
+      "ponudeni": [
+        "4",
+        "40",
+        "4000",
+        "400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na mjestu stotica je znamenka 4, a 4 stotice vrijede 400.",
+      "savjet": "Najprije pronađi znamenku stotica, a zatim odredi njezinu vrijednost."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-060",
+      "tezina": "srednje",
+      "pitanje": "Koji broj ima 1 stoticu tisuća, 1 tisućicu i 1 deseticu?",
+      "ponudeni": [
+        "101 010",
+        "110 010",
+        "101 100",
+        "1110"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na ostala mjesta pišemo nule, pa je to broj 101 010.",
+      "savjet": "Nacrtaj šest mjesta, od stotica tisuća do jedinica, i na svako upiši odgovarajuću znamenku."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-061",
+      "tezina": "tesko",
+      "pitanje": "Koliko ukupno stotica ima broj 45 000?",
+      "ponudeni": [
+        "0",
+        "45",
+        "4500",
+        "450"
+      ],
+      "tocan": 3,
+      "objasnjenje": "45 000 = 450 · 100, pa broj ima ukupno 450 stotica, iako je na mjestu stotica nula.",
+      "savjet": "Pitanje traži sve stotice u broju, a ne samo znamenku na mjestu stotica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-062",
+      "tezina": "tesko",
+      "pitanje": "U broju 6060 dvije znamenke 6 imaju različitu vrijednost. Izračunaj razliku njihovih vrijednosti.",
+      "ponudeni": [
+        "5400",
+        "5940",
+        "594",
+        "0"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prva šestica vrijedi 6000, a druga 60, pa je razlika 6000 − 60 = 5940.",
+      "savjet": "Najprije odredi koliko vrijedi svaka šestica prema mjestu na kojem stoji."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-063",
+      "tezina": "tesko",
+      "pitanje": "Koji broj ima 2 tisućice i 15 stotica?",
+      "ponudeni": [
+        "21 500",
+        "2150",
+        "3500",
+        "2015"
+      ],
+      "tocan": 2,
+      "objasnjenje": "15 stotica je 1500, a 2000 + 1500 = 3500.",
+      "savjet": "Deset stotica čini jednu tisućicu, pa najprije pretvori stotice."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-064",
+      "tezina": "tesko",
+      "pitanje": "Koliko je ukupno desetica u 3 tisućice i 5 desetica?",
+      "ponudeni": [
+        "305",
+        "35",
+        "3050",
+        "350"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedna tisućica ima 100 desetica, pa 3 tisućice imaju 300 desetica, a 300 + 5 = 305 desetica.",
+      "savjet": "Najprije izračunaj koliko desetica ima jedna tisućica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-065",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj broj koji je za 1 tisućicu manji od 50 000.",
+      "ponudeni": [
+        "49 000",
+        "40 000",
+        "49 900",
+        "51 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tisućica je 1000, a 50 000 − 1000 = 49 000.",
+      "savjet": "Jednu deseticu tisuća pretvori u deset tisućica pa jednu tisućicu oduzmi."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-066",
+      "tezina": "tesko",
+      "pitanje": "Koliko desetica ima jedna stotica tisuća?",
+      "ponudeni": [
+        "1000",
+        "100 000",
+        "10 000",
+        "100"
+      ],
+      "tocan": 2,
+      "objasnjenje": "100 000 = 10 000 · 10, pa stotica tisuća ima 10 000 desetica.",
+      "savjet": "Razmisli koliko puta broj 10 stane u broj 100 000."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-067",
+      "tezina": "tesko",
+      "pitanje": "Milijun se zapisuje brojem 1 000 000. Koliko tisućica ima milijun?",
+      "ponudeni": [
+        "100",
+        "1000",
+        "10 000",
+        "100 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1 000 000 = 1000 · 1000, pa milijun ima 1000 tisućica.",
+      "savjet": "Deset tisućica čini deseticu tisuća, a sto tisućica stoticu tisuća; nastavi tako dalje."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-068",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "9 desetica tisuća > 1 stotica tisuća",
+        "9 desetica tisuća = 1 stotica tisuća",
+        "90 tisućica > 1 stotica tisuća",
+        "9 desetica tisuća < 1 stotica tisuća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9 desetica tisuća je 90 000, a 1 stotica tisuća je 100 000, pa je 90 000 < 100 000.",
+      "savjet": "Obje strane svake tvrdnje zapiši brojem pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-069",
+      "tezina": "tesko",
+      "pitanje": "Ana je zamislila broj koji ima 3 stotice tisuća i 7 jedinica, a na svim ostalim mjestima nule. Koji je to broj?",
+      "ponudeni": [
+        "3007",
+        "30 007",
+        "300 007",
+        "300 070"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Između stotica tisuća i jedinica nalaze se četiri nule, pa je to broj 300 007.",
+      "savjet": "Broj koji ima stotice tisuća ima šest znamenaka."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-070",
+      "tezina": "tesko",
+      "pitanje": "Broju 49 500 dodaj 1 tisućicu. Koja je znamenka na mjestu tisućica u dobivenom broju?",
+      "ponudeni": [
+        "0",
+        "9",
+        "5",
+        "1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "49 500 + 1000 = 50 500, pa je na mjestu tisućica znamenka 0.",
+      "savjet": "Pazi na prijelaz: 9 tisućica i još jedna tisućica čine deset tisućica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-071",
+      "tezina": "tesko",
+      "pitanje": "Za koliko se poveća broj 27 358 ako znamenku 7 zamijeniš znamenkom 9?",
+      "ponudeni": [
+        "2",
+        "200",
+        "20 000",
+        "2000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka 7 je na mjestu tisućica, pa broj poraste za 2 tisućice, to jest za 2000 (29 358).",
+      "savjet": "Odredi na kojem je mjestu znamenka 7 i za koliko se ta znamenka povećala."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-072",
+      "tezina": "tesko",
+      "pitanje": "Broju 405 060 dodaj 1 deseticu tisuća. Koji broj dobiješ?",
+      "ponudeni": [
+        "406 060",
+        "415 060",
+        "505 060",
+        "405 160"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Desetica tisuća je 10 000, a 405 060 + 10 000 = 415 060.",
+      "savjet": "Promijeni samo znamenku na mjestu desetica tisuća."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-073",
+      "tezina": "tesko",
+      "pitanje": "Broju 39 900 dodaj 1 stoticu. Koji broj dobiješ?",
+      "ponudeni": [
+        "39 000",
+        "30 000",
+        "40 000",
+        "39 910"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Deset stotica čini tisućicu, a deset tisućica deseticu tisuća, pa je 39 900 + 100 = 40 000.",
+      "savjet": "Kad na nekom mjestu skupiš deset jedinica, jednu prenesi na sljedeće veće mjesto."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-074",
+      "tezina": "tesko",
+      "pitanje": "Odaberi najveći broj koji možeš zapisati znamenkama 3, 0, 8, 5 i 1 ako svaku upotrijebiš jednom.",
+      "ponudeni": [
+        "85 310",
+        "85 301",
+        "81 530",
+        "13 058"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najveće znamenke stavljamo na mjesta najveće vrijednosti, pa je najveći broj 85 310.",
+      "savjet": "Na mjesto desetica tisuća stavi najveću znamenku, a zatim nastavi redom."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-075",
+      "tezina": "tesko",
+      "pitanje": "Koji je najmanji peteroznamenkasti broj sa znamenkom 7 na mjestu stotica?",
+      "ponudeni": [
+        "17 000",
+        "10 070",
+        "70 000",
+        "10 700"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na mjesto desetica tisuća stavljamo 1, na ostala mjesta nule, a na mjesto stotica 7, pa je to 10 700.",
+      "savjet": "Prva znamenka peteroznamenkastog broja ne smije biti 0."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-076",
+      "tezina": "tesko",
+      "pitanje": "Broj ima 6 stotica tisuća. Znamenka desetica tisuća za 2 je manja od znamenke stotica tisuća, a sve su ostale znamenke 0. Koji je to broj?",
+      "ponudeni": [
+        "604 000",
+        "640 000",
+        "64 000",
+        "620 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka desetica tisuća je 6 − 2 = 4, pa je to broj 640 000.",
+      "savjet": "Najprije izračunaj znamenku desetica tisuća."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-077",
+      "tezina": "tesko",
+      "pitanje": "U broju 502 050 koliko puta više vrijedi znamenka 5 na mjestu stotica tisuća od znamenke 5 na mjestu desetica?",
+      "ponudeni": [
+        "1000 puta",
+        "100 puta",
+        "10 000 puta",
+        "100 000 puta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prva petica vrijedi 500 000, a druga 50, a 500 000 = 10 000 · 50.",
+      "savjet": "Zapiši vrijednost svake petice i usporedi koliko nula imaju."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-078",
+      "tezina": "tesko",
+      "pitanje": "Pekara je prodala 23 kutije s po 100 kolačića i još 4 kolačića. Izračunaj koliko je kolačića prodala.",
+      "ponudeni": [
+        "2304",
+        "234",
+        "2340",
+        "23 004"
+      ],
+      "tocan": 0,
+      "objasnjenje": "23 stotice su 2300, a 2300 + 4 = 2304 kolačića.",
+      "savjet": "Svaka kutija je jedna stotica kolačića; zapiši brojem koliko je to stotica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-079",
+      "tezina": "tesko",
+      "pitanje": "Koji zapis ima istu vrijednost kao 8 tisućica?",
+      "ponudeni": [
+        "800 stotica",
+        "8 stotica",
+        "80 desetica",
+        "80 stotica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedna tisućica ima 10 stotica, pa 8 tisućica ima 80 stotica, a to je 8000.",
+      "savjet": "Zapiši 8 tisućica brojem, a zatim tako zapiši i svaki ponuđeni odgovor."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-080",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 4 tisućice + 16 desetica i zapiši rezultat brojem.",
+      "ponudeni": [
+        "4016",
+        "4160",
+        "41 600",
+        "5600"
+      ],
+      "tocan": 1,
+      "objasnjenje": "16 desetica je 160, a 4000 + 160 = 4160.",
+      "savjet": "Najprije pretvori 16 desetica u jedinice."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-081",
+      "tezina": "tesko",
+      "pitanje": "Stadion ima 6 tribina s po 10 000 sjedala i 4 tribine s po 1000 sjedala. Izračunaj koliko sjedala ima stadion.",
+      "ponudeni": [
+        "60 400",
+        "640 000",
+        "64 000",
+        "6400"
+      ],
+      "tocan": 2,
+      "objasnjenje": "To je 6 desetica tisuća i 4 tisućice, pa stadion ima 60 000 + 4000 = 64 000 sjedala.",
+      "savjet": "Svaka velika tribina ima jednu deseticu tisuća sjedala, a svaka mala jednu tisućicu."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-082",
+      "tezina": "tesko",
+      "pitanje": "Koja je dekadska jedinica 1000 puta veća od desetice?",
+      "ponudeni": [
+        "desetica tisuća",
+        "tisućica",
+        "stotica tisuća",
+        "stotica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "10 · 1000 = 10 000, a to je desetica tisuća.",
+      "savjet": "Desetica je broj 10, pa ga pomnoži s tisuću."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-083",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj za koliko je 1 stotica tisuća veća od 1 desetice tisuća.",
+      "ponudeni": [
+        "10 000",
+        "9000",
+        "900 000",
+        "90 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stotica tisuća je 100 000, a desetica tisuća 10 000, pa je razlika 100 000 − 10 000 = 90 000.",
+      "savjet": "Obje dekadske jedinice zapiši brojem pa od veće oduzmi manju."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-084",
+      "tezina": "tesko",
+      "pitanje": "U broju 52 816 zamijeni znamenku desetica tisuća i znamenku jedinica. Koji broj dobiješ?",
+      "ponudeni": [
+        "52 618",
+        "62 815",
+        "25 816",
+        "56 812"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka 5 prelazi na mjesto jedinica, a znamenka 6 na mjesto desetica tisuća, pa dobivamo 62 815.",
+      "savjet": "Najprije odredi koja je znamenka na mjestu desetica tisuća, a koja na mjestu jedinica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-085",
+      "tezina": "tesko",
+      "pitanje": "Koji od ovih zapisa ima najveću vrijednost?",
+      "ponudeni": [
+        "4 stotice tisuća",
+        "399 tisućica",
+        "41 desetica tisuća",
+        "4090 stotica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "41 desetica tisuća je 410 000, a to je više od 400 000, 399 000 i 409 000.",
+      "savjet": "Svaki zapis pretvori u broj pa usporedi dobivene brojeve."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-086",
+      "tezina": "tesko",
+      "pitanje": "U kojem broju znamenka 6 vrijedi najmanje?",
+      "ponudeni": [
+        "12 306",
+        "16 230",
+        "21 063",
+        "60 123"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U broju 12 306 znamenka 6 je na mjestu jedinica, pa vrijedi samo 6.",
+      "savjet": "U svakom broju odredi mjesto znamenke 6."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-087",
+      "tezina": "tesko",
+      "pitanje": "Prva znamenka broja je 1 i stoji na mjestu stotica tisuća. Svaka sljedeća znamenka udesno za 1 je veća od prethodne. Koji je to broj?",
+      "ponudeni": [
+        "12 345",
+        "654 321",
+        "234 567",
+        "123 456"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj sa stoticama tisuća ima šest znamenaka, a one su redom 1, 2, 3, 4, 5 i 6, pa je to 123 456.",
+      "savjet": "Broj ima onoliko znamenaka koliko ima mjesta od stotica tisuća do jedinica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-088",
+      "tezina": "tesko",
+      "pitanje": "Nina kaže da broj 30 300 ima ukupno 303 stotice. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Nina nije u pravu, broj ima 3 stotice.",
+        "Nina nije u pravu, broj ima 30 stotica.",
+        "Nina je u pravu, broj ima 303 stotice.",
+        "Nina nije u pravu, broj ima 3030 stotica."
+      ],
+      "tocan": 2,
+      "objasnjenje": "30 300 = 303 · 100, pa broj ima ukupno 303 stotice.",
+      "savjet": "Izračunaj koliko stotica imaju 3 desetice tisuća, pa dodaj stotice s mjesta stotica."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-089",
+      "tezina": "tesko",
+      "pitanje": "Kojim brojem treba zamijeniti □ da jednakost bude točna? 56 078 = 50 000 + □ + 70 + 8",
+      "ponudeni": [
+        "600",
+        "6000",
+        "60 000",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka 6 je na mjestu tisućica i vrijedi 6000, pa je 56 078 = 50 000 + 6000 + 70 + 8.",
+      "savjet": "Odredi koja dekadska jedinica nedostaje u zbroju."
+    },
+    {
+      "id": "4-matematika-dekadske-jedinice-i-mjesna-vrijednost-090",
+      "tezina": "tesko",
+      "pitanje": "Koji broj ima znamenke čije su mjesne vrijednosti 300 000, 20 000 i 5, a sve su ostale znamenke nule?",
+      "ponudeni": [
+        "320 005",
+        "302 005",
+        "32 005",
+        "320 050"
+      ],
+      "tocan": 0,
+      "objasnjenje": "300 000 + 20 000 + 5 = 320 005, a na mjestima tisućica, stotica i desetica su nule.",
+      "savjet": "Svaka mjesna vrijednost određuje jednu znamenku i njezino mjesto u broju."
+    }
+  ]
+}

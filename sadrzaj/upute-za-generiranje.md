@@ -6,7 +6,7 @@ Pitanja se generiraju izvan aplikacije (u chatu s AI alatom), ručno pregledavaj
 
 1. **Pripremi podatke lekcije.** U `app/data/kurikulum.json` pronađi lekciju i prepiši njezin `id`, `naziv`, `opis` i `kljucniPojmovi`. Ako opis ne odgovara onome što se stvarno uči, prvo ispravi opis.
 2. **Odredi prvi slobodni broj id-a.** Id ima oblik `{razred}-{predmet}-{lekcija}-{broj}`, npr. `4-matematika-pisano-zbrajanje-017`. Ako datoteka već postoji, nastavi od najvećeg postojećeg broja. Id se nikad ne koristi ponovno, ni nakon brisanja pitanja.
-3. **Generiraj jednu težinu odjednom**, u serijama od 10 do 20 pitanja, prema predlošku ispod. Za lekciju je cilj najmanje 15 pitanja po težini, pa su obično potrebne dvije serije po težini.
+3. **Generiraj jednu težinu odjednom**, u serijama od 10 do 30 pitanja, prema predlošku ispod. Za lekciju je cilj najmanje 30 pitanja po težini (90 ukupno), pa je obično potrebno više serija po težini.
 4. **Spremi rezultat** u `public/pitanja/{razred}/{predmet}/{lekcija}.json`. Kod dopune postojeće datoteke kopiraj samo nova pitanja na kraj popisa `pitanja`.
 5. **Pokreni `npm run provjeri`** i ispravi sve greške (✗). Upozorenja (⚠) pročitaj i ispravi ako imaju smisla.
 6. **Pregledaj crteže** na stranici `/pregled` (`npm run dev`), ako ih lekcija ima.
@@ -22,7 +22,7 @@ npm run -s prompt -- 4/matematika/pisano-zbrajanje tesko
 npm run -s prompt -- 4/matematika/pisano-zbrajanje lagano --broj 20 --crtezi
 ```
 
-Ispisuje gotov prompt i sprema ga u `sadrzaj/zadnji-prompt.txt` (ne ide u git), odakle ga je lako kopirati. Sama upisuje sljedeći slobodni id, postojeća pitanja lekcije, granice duljine prema razredu i dodatak za predmet. Odjeljak o crtežima dodaje ako lekcija već ima pitanja s crtežom; za novu geometrijsku lekciju dodaj `--crtezi`. `--broj` je broj pitanja (zadano 15). Ako mijenjaš predložak, mijenjaj blokove u ovoj datoteci; naredba ih čita odavde.
+Ispisuje gotov prompt i sprema ga u `sadrzaj/zadnji-prompt.txt` (ne ide u git), odakle ga je lako kopirati. Sama upisuje sljedeći slobodni id, postojeća pitanja lekcije, granice duljine prema razredu i dodatak za predmet. Odjeljak o crtežima dodaje ako lekcija već ima pitanja s crtežom; za novu geometrijsku lekciju dodaj `--crtezi`. `--broj` je broj pitanja (zadano 30). Ako mijenjaš predložak, mijenjaj blokove u ovoj datoteci; naredba ih čita odavde.
 
 Ručno: kopiraj blok, zamijeni sve `{{…}}` vrijednostima lekcije i pošalji. Odjeljak „Posebno za predmet“ zamijeni odgovarajućim odjeljkom iz [Dodataka po predmetu](#dodaci-po-predmetu), a „Crteži“ ostavi samo ako su lekciji potrebni crteži.
 

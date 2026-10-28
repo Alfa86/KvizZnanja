@@ -32,7 +32,7 @@ function prekini(poruka: string): never {
 
 const { positionals, values } = parseArgs({
   allowPositionals: true,
-  options: { broj: { type: 'string', default: '15' }, crtezi: { type: 'boolean', default: false } }
+  options: { broj: { type: 'string', default: '30' }, crtezi: { type: 'boolean', default: false } }
 })
 const [put, tezina] = positionals as [string?, string?]
 if (!put || !tezina) prekini('Nedostaje lekcija ili težina')

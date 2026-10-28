@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "usporedivanje-prethodnik-i-sljedbenik",
+  "pitanja": [
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi prethodnik broja 500.",
+      "ponudeni": [
+        "499",
+        "501",
+        "400",
+        "490"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prethodnik je broj neposredno ispred zadanog broja i za 1 je manji od njega. 500 − 1 = 499.",
+      "savjet": "Prethodnik dolazi neposredno prije zadanog broja i od njega je manji za 1."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi sljedbenik broja 7999.",
+      "ponudeni": [
+        "7998",
+        "8999",
+        "8000",
+        "9000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sljedbenik je za 1 veći od broja. 7999 + 1 = 8000.",
+      "savjet": "Sljedbenik je za 1 veći od zadanog broja, a pazi na prijelaz u novu tisućicu."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove broj koji je za 1 veći od zadanog broja?",
+      "ponudeni": [
+        "prethodnik",
+        "sljedbenik",
+        "zbroj",
+        "umnožak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sljedbenik je broj koji u nizu brojeva dolazi odmah iza zadanog broja, pa je od njega veći za 1.",
+      "savjet": "Sjeti se kako se zove broj koji u nizu brojeva dolazi odmah iza zadanog broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-004",
+      "tezina": "lagano",
+      "pitanje": "Koja je usporedba točna?",
+      "ponudeni": [
+        "1025 > 1250",
+        "3400 < 3040",
+        "786 > 1002",
+        "5609 > 5596"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Brojevi 5609 i 5596 imaju jednako tisuća, a 6 stotica je više od 5 stotica, pa je 5609 > 5596.",
+      "savjet": "Prvo usporedi koliko znamenaka imaju brojevi, a zatim njihove znamenke redom slijeva."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-005",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj najveći?",
+      "ponudeni": [
+        "45 302",
+        "45 230",
+        "54 023",
+        "45 320"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svi brojevi imaju pet znamenaka. Samo 54 023 ima 5 desetica tisuća, a ostali imaju 4, pa je on najveći.",
+      "savjet": "Svi brojevi imaju jednako znamenaka, pa najprije usporedi znamenke na mjestu desetica tisuća."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-006",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj najmanji?",
+      "ponudeni": [
+        "6099",
+        "6909",
+        "6990",
+        "9066"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 9066 ima 9 tisuća pa je najveći. Od ostalih brojeva sa 6 tisuća najmanje stotica (0) ima 6099, pa je on najmanji.",
+      "savjet": "Brojevi imaju jednako znamenaka, pa ih usporedi znamenku po znamenku slijeva."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-007",
+      "tezina": "lagano",
+      "pitanje": "Odaberi prethodnik broja 3080.",
+      "ponudeni": [
+        "3081",
+        "3070",
+        "3089",
+        "3079"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3080 − 1 = 3079. Prethodnik je broj neposredno ispred zadanog broja.",
+      "savjet": "Prethodnik se dobije kada od broja oduzmeš 1."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-008",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj veći od 70 000?",
+      "ponudeni": [
+        "69 999",
+        "70 100",
+        "7100",
+        "17 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "70 100 je za 100 veći od 70 000. Brojevi 69 999, 7100 i 17 000 manji su od 70 000.",
+      "savjet": "Broj veći od 70 000 mora imati barem pet znamenaka i barem 7 desetica tisuća."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-009",
+      "tezina": "lagano",
+      "pitanje": "Odaberi sljedbenik broja 40 599.",
+      "ponudeni": [
+        "40 600",
+        "40 598",
+        "40 700",
+        "41 600"
+      ],
+      "tocan": 0,
+      "objasnjenje": "40 599 + 1 = 40 600. Devet jedinica i još jedna čine novu deseticu, a 9 desetica i još jedna čine novu stoticu.",
+      "savjet": "Dodaj 1 i pazi na prijelaz preko desetice i stotice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-010",
+      "tezina": "lagano",
+      "pitanje": "Koji se broj nalazi između 2398 i 2402?",
+      "ponudeni": [
+        "2390",
+        "2410",
+        "2400",
+        "2403"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 2398 < 2400 < 2402, pa je 2400 između tih brojeva. Ostali brojevi su manji od 2398 ili veći od 2402.",
+      "savjet": "Traženi broj mora biti veći od prvog i manji od drugog zadanog broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-011",
+      "tezina": "lagano",
+      "pitanje": "Broj 6000 je sljedbenik kojeg broja?",
+      "ponudeni": [
+        "6001",
+        "5999",
+        "5000",
+        "6100"
+      ],
+      "tocan": 1,
+      "objasnjenje": "5999 + 1 = 6000, pa je 6000 sljedbenik broja 5999.",
+      "savjet": "Sljedbenik je za 1 veći od broja kojemu pripada."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-012",
+      "tezina": "lagano",
+      "pitanje": "Što znači zapis 450 < 540?",
+      "ponudeni": [
+        "450 je veći od 540",
+        "450 je jednak 540",
+        "540 je manji od 450",
+        "450 je manji od 540"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znak < čita se „manje je od“. Broj kod šiljastog vrha znaka je manji, pa je 450 manji od 540.",
+      "savjet": "Šiljasti vrh znaka okrenut je prema manjem broju."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi brojeve 8050, 5800, 8500 i 5080 poredane od najmanjeg do najvećeg.",
+      "ponudeni": [
+        "8500, 8050, 5800, 5080",
+        "5800, 5080, 8050, 8500",
+        "5080, 5800, 8050, 8500",
+        "5080, 5800, 8500, 8050"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brojevi s 5 tisuća manji su od brojeva s 8 tisuća. Zatim je 5080 < 5800 i 8050 < 8500 jer imaju manje stotica.",
+      "savjet": "Najprije usporedi tisuće, a kad su jednake, usporedi stotice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-014",
+      "tezina": "lagano",
+      "pitanje": "Odaberi najveći četveroznamenkasti broj.",
+      "ponudeni": [
+        "9999",
+        "9990",
+        "10 000",
+        "9000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najveća znamenka je 9, pa je najveći četveroznamenkasti broj 9999. Njegov sljedbenik 10 000 ima već pet znamenaka.",
+      "savjet": "Najveći broj ima na svakom mjestu najveću moguću znamenku."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-015",
+      "tezina": "lagano",
+      "pitanje": "Između kojih se susjednih desetica nalazi broj 347?",
+      "ponudeni": [
+        "300 i 400",
+        "330 i 340",
+        "350 i 360",
+        "340 i 350"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 347 ima 34 desetice i 7 jedinica, pa vrijedi 340 < 347 < 350.",
+      "savjet": "Pogledaj koliko cijelih desetica ima broj, a jedinice zanemari."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-016",
+      "tezina": "lagano",
+      "pitanje": "Između kojih se susjednih stotica nalazi broj 2650?",
+      "ponudeni": [
+        "2000 i 3000",
+        "2600 i 2700",
+        "2650 i 2750",
+        "2500 i 2600"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 2650 ima 26 cijelih stotica, pa vrijedi 2600 < 2650 < 2700.",
+      "savjet": "Odredi koliko cijelih stotica ima broj, a desetice i jedinice zanemari."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-017",
+      "tezina": "lagano",
+      "pitanje": "Između kojih se susjednih tisućica nalazi broj 18 400?",
+      "ponudeni": [
+        "18 000 i 19 000",
+        "10 000 i 20 000",
+        "18 400 i 19 400",
+        "17 000 i 18 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 18 400 ima 18 cijelih tisuća, pa vrijedi 18 000 < 18 400 < 19 000.",
+      "savjet": "Odredi koliko cijelih tisuća ima broj, a ostale znamenke zanemari."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-018",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj manji od 100 000?",
+      "ponudeni": [
+        "100 001",
+        "1 000 000",
+        "99 999",
+        "100 100"
+      ],
+      "tocan": 2,
+      "objasnjenje": "99 999 je prethodnik broja 100 000, pa je od njega manji. Ostali ponuđeni brojevi veći su od 100 000.",
+      "savjet": "Broj manji od 100 000 ima najviše pet znamenaka."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-019",
+      "tezina": "lagano",
+      "pitanje": "Ana ima 1250 markica, a Marko 1520. Tko ima više markica?",
+      "ponudeni": [
+        "Ana",
+        "Marko",
+        "imaju jednako",
+        "ne može se odrediti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1520 > 1250 jer 5 stotica je više od 2 stotice. Zato Marko ima više markica.",
+      "savjet": "Oba broja imaju jednako tisuća, pa usporedi stotice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-020",
+      "tezina": "lagano",
+      "pitanje": "U kojem su nizu brojevi poredani od najvećeg do najmanjeg?",
+      "ponudeni": [
+        "1990, 9001, 9010, 9100",
+        "9010, 9100, 9001, 1990",
+        "9100, 9001, 9010, 1990",
+        "9100, 9010, 9001, 1990"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Brojevi 9100, 9010 i 9001 imaju 9 tisuća, a usporedbom stotica i desetica dobivamo 9100 > 9010 > 9001. Najmanji je 1990 jer ima samo 1 tisuću.",
+      "savjet": "Najveći broj ima najviše tisuća, a kod jednakih tisuća usporedi stotice, pa desetice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-021",
+      "tezina": "lagano",
+      "pitanje": "Odaberi broj koji je veći od 4500, a manji od 4600.",
+      "ponudeni": [
+        "4480",
+        "4650",
+        "4580",
+        "5400"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 4500 < 4580 < 4600. Broj 4480 je manji od 4500, a 4650 i 5400 veći su od 4600.",
+      "savjet": "Usporedi svaki ponuđeni broj s obje zadane granice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-022",
+      "tezina": "lagano",
+      "pitanje": "Odaberi prethodnik i sljedbenik broja 70 000.",
+      "ponudeni": [
+        "69 999 i 70 001",
+        "69 000 i 71 000",
+        "69 990 i 70 010",
+        "60 999 i 70 001"
+      ],
+      "tocan": 0,
+      "objasnjenje": "70 000 − 1 = 69 999, a 70 000 + 1 = 70 001.",
+      "savjet": "Prethodnik je za 1 manji, a sljedbenik za 1 veći od zadanog broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-023",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu usporedbu.",
+      "ponudeni": [
+        "4040 > 4400",
+        "12 000 = 1200",
+        "607 > 670",
+        "20 000 > 2000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "20 000 ima pet znamenaka, a 2000 četiri, pa je 20 000 veći broj.",
+      "savjet": "Najprije prebroji koliko znamenaka ima svaki broj."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-024",
+      "tezina": "lagano",
+      "pitanje": "Odaberi prethodnik broja 20 000.",
+      "ponudeni": [
+        "20 001",
+        "19 999",
+        "19 000",
+        "19 990"
+      ],
+      "tocan": 1,
+      "objasnjenje": "20 000 − 1 = 19 999. Nule na kraju pretvaraju se u devetke, a 2 desetice tisuća postaju 1.",
+      "savjet": "Od zadanog broja oduzmi 1 i pazi na prijelaz preko tisućice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-025",
+      "tezina": "lagano",
+      "pitanje": "Koji znak znači „veće je od“?",
+      "ponudeni": [
+        ">",
+        "<",
+        "=",
+        "−"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znak > čita se „veće je od“, na primjer 9 > 5. Otvoreni dio znaka okrenut je prema većem broju.",
+      "savjet": "Širi, otvoreni dio znaka okrenut je prema većem broju."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-026",
+      "tezina": "lagano",
+      "pitanje": "Lara je pročitala 312 stranica, Iva 321, a Toma 231. Tko je pročitao najmanje stranica?",
+      "ponudeni": [
+        "Lara",
+        "Iva",
+        "Toma",
+        "svi su pročitali jednako"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 231 ima samo 2 stotice, a 312 i 321 imaju 3 stotice. Zato je Toma pročitao najmanje stranica.",
+      "savjet": "Najprije usporedi stotice u sva tri broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-027",
+      "tezina": "lagano",
+      "pitanje": "Koji broj nedostaje u nizu 5997, 5998, ☐, 6000?",
+      "ponudeni": [
+        "5990",
+        "5999",
+        "6001",
+        "5900"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nakon 5998 dolazi 5999, a njegov sljedbenik je 6000.",
+      "savjet": "Svaki sljedeći broj u nizu veći je za 1 od broja ispred sebe."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-028",
+      "tezina": "lagano",
+      "pitanje": "Odaberi sljedbenik broja 999 999.",
+      "ponudeni": [
+        "999 998",
+        "100 000",
+        "1 000 001",
+        "1 000 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "999 999 + 1 = 1 000 000. Sljedbenik najvećeg šesteroznamenkastog broja je milijun.",
+      "savjet": "Sljedbenik dobiješ kada broju dodaš 1."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-029",
+      "tezina": "lagano",
+      "pitanje": "U kojem je paru prvi broj manji od drugoga?",
+      "ponudeni": [
+        "8020 i 8002",
+        "6700 i 6070",
+        "4199 i 4200",
+        "3333 i 3330"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4199 < 4200 jer 4199 ima 1 stoticu, a 4200 ima 2 stotice. U ostalim parovima prvi je broj veći.",
+      "savjet": "Usporedi znamenke dvaju brojeva redom slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-030",
+      "tezina": "lagano",
+      "pitanje": "Koji se brojevi nalaze između 197 i 201?",
+      "ponudeni": [
+        "198, 199 i 200",
+        "197, 198, 199 i 200",
+        "198, 199, 200 i 201",
+        "199 i 200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Između 197 i 201 nalaze se 198, 199 i 200. Sami brojevi 197 i 201 nisu između, oni su granice.",
+      "savjet": "Kreni od sljedbenika prvog broja i stani prije drugog broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-031",
+      "tezina": "srednje",
+      "pitanje": "Odaberi prethodnik broja 300 000.",
+      "ponudeni": [
+        "300 001",
+        "299 000",
+        "209 999",
+        "299 999"
+      ],
+      "tocan": 3,
+      "objasnjenje": "300 000 − 1 = 299 999. Tri stotice tisuća postaju dvije, a sve nule postaju devetke.",
+      "savjet": "Kada od broja koji završava nulama oduzmeš 1, te se nule pretvaraju u devetke."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-032",
+      "tezina": "srednje",
+      "pitanje": "Odaberi sljedbenik broja 409 999.",
+      "ponudeni": [
+        "409 998",
+        "410 000",
+        "500 000",
+        "419 999"
+      ],
+      "tocan": 1,
+      "objasnjenje": "409 999 + 1 = 410 000. Sve devetke postaju nule, a 0 desetica tisuća postaje 1.",
+      "savjet": "Dodaj 1 i prati prijelaze u višu mjesnu vrijednost."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-033",
+      "tezina": "srednje",
+      "pitanje": "Odaberi brojeve 74 520, 7452, 74 250 i 745 200 poredane od najmanjeg do najvećeg.",
+      "ponudeni": [
+        "7452, 74 250, 74 520, 745 200",
+        "745 200, 74 520, 74 250, 7452",
+        "74 250, 74 520, 7452, 745 200",
+        "7452, 74 520, 74 250, 745 200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7452 ima četiri znamenke pa je najmanji, a 745 200 ima šest pa je najveći. Od peteroznamenkastih je 74 250 manji jer ima 2 stotice.",
+      "savjet": "Brojevi s manje znamenaka su manji, a kod jednakog broja znamenaka uspoređuj slijeva."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-034",
+      "tezina": "srednje",
+      "pitanje": "Koja je usporedba netočna?",
+      "ponudeni": [
+        "56 078 < 56 780",
+        "123 400 > 23 400",
+        "90 009 > 90 090",
+        "70 500 < 75 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "90 009 ima 0 desetica, a 90 090 ima 9 desetica, pa je 90 009 < 90 090. Zato je zapis 90 009 > 90 090 netočan.",
+      "savjet": "U svakoj usporedbi pronađi prvo mjesto na kojem se znamenke razlikuju."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-035",
+      "tezina": "srednje",
+      "pitanje": "Koji je zapis točan?",
+      "ponudeni": [
+        "607 080 > 670 080",
+        "607 080 < 670 080",
+        "607 080 = 670 080",
+        "670 080 < 607 080"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oba broja imaju 6 stotica tisuća, ali 607 080 ima 0 desetica tisuća, a 670 080 ima 7. Zato je 607 080 < 670 080.",
+      "savjet": "Brojevi imaju jednake stotice tisuća, pa usporedi znamenke na mjestu desetica tisuća."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-036",
+      "tezina": "srednje",
+      "pitanje": "Odaberi najveći broj koji možeš napisati znamenkama 3, 0, 8 i 5, ako svaku upotrijebiš jednom.",
+      "ponudeni": [
+        "8503",
+        "3058",
+        "8350",
+        "8530"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenke poredamo od najveće do najmanje: 8, 5, 3, 0. Tako dobivamo 8530.",
+      "savjet": "Na mjesto najveće mjesne vrijednosti stavi najveću znamenku, pa nastavi redom."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-037",
+      "tezina": "srednje",
+      "pitanje": "Odaberi najmanji četveroznamenkasti broj koji možeš napisati znamenkama 7, 0, 2 i 9, ako svaku upotrijebiš jednom.",
+      "ponudeni": [
+        "0279",
+        "2097",
+        "2079",
+        "2709"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na prvo mjesto stavimo najmanju znamenku osim nule, a to je 2. Zatim slijede 0, 7 i 9, pa je broj 2079.",
+      "savjet": "Četveroznamenkasti broj ne može počinjati nulom."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-038",
+      "tezina": "srednje",
+      "pitanje": "Između kojih se susjednih tisućica nalazi broj 263 500?",
+      "ponudeni": [
+        "263 000 i 264 000",
+        "260 000 i 270 000",
+        "262 000 i 263 000",
+        "263 500 i 264 500"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 263 500 ima 263 cijele tisuće, pa vrijedi 263 000 < 263 500 < 264 000.",
+      "savjet": "Odredi koliko cijelih tisuća ima broj."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-039",
+      "tezina": "srednje",
+      "pitanje": "Između kojih se susjednih stotica nalazi broj 49 960?",
+      "ponudeni": [
+        "49 000 i 50 000",
+        "49 960 i 50 060",
+        "49 800 i 49 900",
+        "49 900 i 50 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 49 960 ima 499 cijelih stotica. Prethodna stotica je 49 900, a sljedeća 50 000.",
+      "savjet": "Odredi koliko cijelih stotica ima broj, pa razmisli koja stotica dolazi iza nje."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-040",
+      "tezina": "srednje",
+      "pitanje": "Između kojih se susjednih desetica nalazi broj 5996?",
+      "ponudeni": [
+        "5900 i 6000",
+        "5990 i 6000",
+        "5980 i 5990",
+        "5996 i 6006"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 5996 ima 599 cijelih desetica, pa vrijedi 5990 < 5996 < 6000.",
+      "savjet": "Zanemari jedinice i pronađi najbližu deseticu manju od broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-041",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ponuđenih brojeva nalazi između 99 989 i 100 001?",
+      "ponudeni": [
+        "100 000",
+        "99 899",
+        "100 010",
+        "99 980"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 99 989 < 100 000 < 100 001. Broj 100 010 veći je od 100 001, a 99 899 i 99 980 manji su od 99 989.",
+      "savjet": "Usporedi svaki ponuđeni broj s obje zadane granice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-042",
+      "tezina": "srednje",
+      "pitanje": "Četiri škole skupljale su stari papir. Prva je skupila 2350 kg, druga 2503 kg, treća 2530 kg, a četvrta 2305 kg. Koja je škola skupila najviše papira?",
+      "ponudeni": [
+        "prva škola",
+        "druga škola",
+        "treća škola",
+        "četvrta škola"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najviše stotica (5) imaju 2503 i 2530, a 2530 ima više desetica. Zato je treća škola skupila najviše papira.",
+      "savjet": "Sve mase imaju iste tisuće, pa usporedi stotice, a zatim desetice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-043",
+      "tezina": "srednje",
+      "pitanje": "Sljedbenik nekog broja je 80 100. Odaberi taj broj.",
+      "ponudeni": [
+        "80 101",
+        "80 099",
+        "80 000",
+        "80 090"
+      ],
+      "tocan": 1,
+      "objasnjenje": "80 099 + 1 = 80 100, pa je traženi broj 80 099.",
+      "savjet": "Sljedbenik je za 1 veći od broja, pa razmisli u kojem smjeru trebaš računati."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-044",
+      "tezina": "srednje",
+      "pitanje": "Prethodnik nekog broja je 59 999. Odaberi taj broj.",
+      "ponudeni": [
+        "59 998",
+        "60 001",
+        "59 000",
+        "60 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "59 999 + 1 = 60 000, pa je 59 999 prethodnik broja 60 000.",
+      "savjet": "Zamisli brojevnu crtu: prethodnik stoji neposredno lijevo od svog broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-045",
+      "tezina": "srednje",
+      "pitanje": "Odredi koliko je prirodnih brojeva između 4996 i 5003.",
+      "ponudeni": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Između njih su brojevi 4997, 4998, 4999, 5000, 5001 i 5002, a to je 6 brojeva.",
+      "savjet": "Ispiši redom sve brojeve veće od 4996, a manje od 5003."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-046",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih brojeva na brojevnoj crti nalazi desno od broja 35 000?",
+      "ponudeni": [
+        "35 010",
+        "34 999",
+        "30 500",
+        "3500"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na brojevnoj crti desno su veći brojevi. 35 010 > 35 000, a ostali ponuđeni brojevi manji su od 35 000.",
+      "savjet": "Na brojevnoj crti brojevi rastu slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-047",
+      "tezina": "srednje",
+      "pitanje": "Odaberi brojeve 300 030, 303 000, 300 300 i 330 000 poredane od najvećeg do najmanjeg.",
+      "ponudeni": [
+        "300 030, 300 300, 303 000, 330 000",
+        "303 000, 330 000, 300 300, 300 030",
+        "330 000, 300 300, 303 000, 300 030",
+        "330 000, 303 000, 300 300, 300 030"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svi brojevi imaju 3 stotice tisuća. 330 000 ima 3 desetice tisuća, 303 000 ima 3 tisuće, 300 300 ima 3 stotice, a 300 030 samo 3 desetice.",
+      "savjet": "Usporedi brojeve znamenku po znamenku, počevši od stotica tisuća."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-048",
+      "tezina": "srednje",
+      "pitanje": "Ulaznicu za koncert kupilo je 12 480 ljudi, a za utakmicu 12 840 ljudi. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Za koncert je kupljeno više ulaznica.",
+        "Za utakmicu je kupljeno više ulaznica.",
+        "Za oba je događaja kupljeno jednako ulaznica.",
+        "Za koncert je kupljeno manje od 12 000 ulaznica."
+      ],
+      "tocan": 1,
+      "objasnjenje": "12 840 > 12 480 jer 8 stotica je više od 4 stotice. Za utakmicu je kupljeno više ulaznica.",
+      "savjet": "Brojevi imaju jednake tisuće, pa usporedi stotice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-049",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ponuđenih brojeva najveći?",
+      "ponudeni": [
+        "780 007",
+        "778 000",
+        "708 070",
+        "707 800"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svi brojevi imaju 7 stotica tisuća. Najviše desetica tisuća (8) ima 780 007, pa je on najveći.",
+      "savjet": "Svi brojevi imaju jednake stotice tisuća, pa usporedi znamenke na sljedećem mjestu."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-050",
+      "tezina": "srednje",
+      "pitanje": "Koji broj treba upisati u kvadratić da zapis bude točan: 39 998 < ☐ < 40 000?",
+      "ponudeni": [
+        "40 001",
+        "39 997",
+        "39 999",
+        "39 990"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 39 998 < 39 999 < 40 000. To je jedini prirodni broj između 39 998 i 40 000.",
+      "savjet": "Traženi broj mora biti veći od lijevog i manji od desnog broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-051",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Prethodnik broja 70 000 je 70 001.",
+        "Sljedbenik broja 69 999 je 70 000.",
+        "Sljedbenik broja 70 000 je 69 999.",
+        "Prethodnik broja 69 999 je 70 000."
+      ],
+      "tocan": 1,
+      "objasnjenje": "69 999 + 1 = 70 000, pa je 70 000 sljedbenik broja 69 999. U ostalim tvrdnjama zamijenjeni su prethodnik i sljedbenik.",
+      "savjet": "Prethodnik je za 1 manji, a sljedbenik za 1 veći od zadanog broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-052",
+      "tezina": "srednje",
+      "pitanje": "Lovro je zapisao broj 245 ☐00. Taj je broj veći od 245 600, a manji od 245 800. Koja je znamenka u kvadratiću?",
+      "ponudeni": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Traženi broj je 245 700, jer vrijedi 245 600 < 245 700 < 245 800. U kvadratiću je znamenka 7.",
+      "savjet": "Broj mora imati više stotica od 245 600, a manje stotica od 245 800."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-053",
+      "tezina": "srednje",
+      "pitanje": "Što je broj 18 099 broju 18 100?",
+      "ponudeni": [
+        "sljedbenik",
+        "susjedna tisućica",
+        "prethodnik",
+        "susjedna desetica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "18 099 je za 1 manji od 18 100 i dolazi neposredno ispred njega, pa je njegov prethodnik.",
+      "savjet": "Usporedi brojeve i odredi za koliko se razlikuju."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-054",
+      "tezina": "srednje",
+      "pitanje": "U kinu je u petak bilo 3405 gledatelja, u subotu 3045, a u nedjelju 3450. Odaberi dane poredane od najmanjeg do najvećeg broja gledatelja.",
+      "ponudeni": [
+        "subota, petak, nedjelja",
+        "nedjelja, petak, subota",
+        "petak, subota, nedjelja",
+        "subota, nedjelja, petak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 3045 < 3405 < 3450, pa je poredak subota, petak, nedjelja.",
+      "savjet": "Brojevi imaju iste tisuće, pa usporedi stotice, a zatim desetice."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-055",
+      "tezina": "srednje",
+      "pitanje": "U kojem je nizu svaki sljedeći broj sljedbenik broja ispred sebe?",
+      "ponudeni": [
+        "9998, 9999, 9910",
+        "9998, 9999, 1000",
+        "9998, 10 000, 10 001",
+        "9998, 9999, 10 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9998 + 1 = 9999 i 9999 + 1 = 10 000. U ostalim nizovima neki broj nije za 1 veći od broja ispred sebe.",
+      "savjet": "Svaki sljedeći broj u nizu mora biti za 1 veći od broja ispred sebe."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-056",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ponuđenih brojeva najmanji?",
+      "ponudeni": [
+        "100 010",
+        "99 999",
+        "999 990",
+        "100 001"
+      ],
+      "tocan": 1,
+      "objasnjenje": "99 999 ima pet znamenaka, a ostali brojevi šest, pa je on najmanji.",
+      "savjet": "Prebroji znamenke svakog broja prije nego što usporediš znamenke."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-057",
+      "tezina": "srednje",
+      "pitanje": "Kako se znakom zapisuje rečenica „Broj 72 000 manji je od broja 72 100.“?",
+      "ponudeni": [
+        "72 000 < 72 100",
+        "72 000 > 72 100",
+        "72 100 < 72 000",
+        "72 000 = 72 100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znak < čita se „manje je od“. Manji broj 72 000 piše se kod šiljastog vrha znaka.",
+      "savjet": "Manji broj uvijek stoji kod šiljastog vrha znaka."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-058",
+      "tezina": "srednje",
+      "pitanje": "Četiri sela imaju 4078, 4708, 4870 i 4087 stanovnika. Odaberi koliko stanovnika ima selo koje je drugo po broju stanovnika.",
+      "ponudeni": [
+        "4870",
+        "4087",
+        "4708",
+        "4078"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poredak od najvećeg je 4870 > 4708 > 4087 > 4078, pa je drugi po veličini broj 4708.",
+      "savjet": "Najprije poredaj brojeve od najvećeg do najmanjeg."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-059",
+      "tezina": "srednje",
+      "pitanje": "Koju od ponuđenih znamenaka možeš upisati u kvadratić da vrijedi 3☐ 450 < 32 000?",
+      "ponudeni": [
+        "2",
+        "1",
+        "5",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za znamenku 1 dobivamo 31 450, a to je manje od 32 000. Za 2, 3 i 5 dobivamo brojeve veće od 32 000.",
+      "savjet": "Upiši svaku ponuđenu znamenku i usporedi tisuće dobivenog broja s tisućama broja 32 000."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-060",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ponuđenih brojeva ne nalazi između 50 500 i 55 000?",
+      "ponudeni": [
+        "50 550",
+        "54 999",
+        "51 000",
+        "55 500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "55 500 > 55 000, pa taj broj nije između zadanih brojeva. Ostali ponuđeni brojevi jesu.",
+      "savjet": "Za svaki broj provjeri je li veći od 50 500 i manji od 55 000."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-061",
+      "tezina": "tesko",
+      "pitanje": "Za koliko je sljedbenik nekog broja veći od prethodnika tog istog broja?",
+      "ponudeni": [
+        "za 1",
+        "za 3",
+        "za 2",
+        "za 10"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na primjer, za broj 50 prethodnik je 49, a sljedbenik 51. Sljedbenik je za 2 veći od prethodnika jer se između njih nalazi zadani broj.",
+      "savjet": "Odaberi bilo koji broj, zapiši njegov prethodnik i sljedbenik pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-062",
+      "tezina": "tesko",
+      "pitanje": "Odaberi najveći paran broj koji možeš napisati znamenkama 4, 7, 9 i 1, ako svaku upotrijebiš jednom.",
+      "ponudeni": [
+        "9714",
+        "9741",
+        "9174",
+        "7914"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Paran broj mora završavati sa 4 jer je to jedina parna znamenka. Ostale znamenke poredamo od najveće: 9, 7, 1, pa je broj 9714.",
+      "savjet": "Paran broj završava parnom znamenkom, a ostale znamenke poredaj tako da broj bude što veći."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-063",
+      "tezina": "tesko",
+      "pitanje": "Upotrijebi sve znamenke 0, 0, 1, 3, 5 i 9. Odaberi najmanji šesteroznamenkasti broj koji tako možeš sastaviti.",
+      "ponudeni": [
+        "103 059",
+        "100 395",
+        "130 059",
+        "100 359"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na prvo mjesto stavimo najmanju znamenku osim nule, a to je 1. Iza nje slijede 0, 0, 3, 5 i 9, pa je broj 100 359.",
+      "savjet": "Broj ne smije počinjati nulom, ali nule mogu stajati odmah iza prve znamenke."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-064",
+      "tezina": "tesko",
+      "pitanje": "Odaberi najveću znamenku koju možeš upisati u kvadratić da vrijedi 6☐8 200 < 658 199.",
+      "ponudeni": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za znamenku 5 dobivamo 658 200, a to je veće od 658 199. Za 4 dobivamo 648 200 < 658 199, pa je 4 najveća moguća znamenka.",
+      "savjet": "Najprije provjeri što se dogodi kada u kvadratić upišeš istu znamenku kao u drugom broju."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-065",
+      "tezina": "tesko",
+      "pitanje": "Odredi koliko je prirodnih brojeva između 99 995 i 100 005.",
+      "ponudeni": [
+        "9",
+        "10",
+        "11",
+        "8"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Između njih su 99 996, 99 997, 99 998, 99 999, 100 000, 100 001, 100 002, 100 003 i 100 004, a to je 9 brojeva.",
+      "savjet": "Ispiši redom brojeve od sljedbenika prvog broja do prethodnika drugog broja."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-066",
+      "tezina": "tesko",
+      "pitanje": "Broj se nalazi između 45 000 i 46 000, a njegov sljedbenik završava s tri nule. Odaberi taj broj.",
+      "ponudeni": [
+        "45 001",
+        "46 001",
+        "45 999",
+        "44 999"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sljedbenik broja 45 999 je 46 000, a on završava s tri nule. Broj 45 999 nalazi se između 45 000 i 46 000.",
+      "savjet": "Sljedbenik je za 1 veći, pa razmisli koji broj stoji neposredno ispred broja s tri nule na kraju."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-067",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu brojevi poredani od najmanjeg do najvećeg?",
+      "ponudeni": [
+        "98 999, 89 999, 99 989, 99 899",
+        "89 999, 98 999, 99 899, 99 989",
+        "89 999, 99 899, 98 999, 99 989",
+        "99 989, 99 899, 98 999, 89 999"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najmanji je 89 999 jer ima 8 desetica tisuća. Zatim slijede 98 999, 99 899 i 99 989, što vidimo usporedbom tisuća, stotica i desetica.",
+      "savjet": "Za svaka dva broja pronađi mjesto na kojem se znamenke prvi put razlikuju."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-068",
+      "tezina": "tesko",
+      "pitanje": "Prethodnik zamišljenog broja je 309 999. Odaberi sljedbenik zamišljenog broja.",
+      "ponudeni": [
+        "310 000",
+        "309 998",
+        "300 001",
+        "310 001"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zamišljeni broj je 309 999 + 1 = 310 000. Njegov sljedbenik je 310 000 + 1 = 310 001.",
+      "savjet": "Najprije pronađi zamišljeni broj, a zatim njegov sljedbenik."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-069",
+      "tezina": "tesko",
+      "pitanje": "U oba kvadratića upisana je ista znamenka: 5☐ 300 > 55 3☐0. Koja od ponuđenih znamenaka može biti u kvadratićima?",
+      "ponudeni": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za znamenku 6 dobivamo 56 300 > 55 360, što je točno. Za 5 dobivamo 55 300 < 55 350, a za 3 i 4 lijevi je broj još manji.",
+      "savjet": "Upiši redom svaku ponuđenu znamenku u oba kvadratića i usporedi dobivene brojeve."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-070",
+      "tezina": "tesko",
+      "pitanje": "Od znamenaka 3, 6, 0, 8 i 1 sastavljeni su najveći i najmanji peteroznamenkasti broj, svaka znamenka jednom. Odaberi točan par.",
+      "ponudeni": [
+        "86 310 i 10 368",
+        "86 310 i 01 368",
+        "86 301 i 10 368",
+        "86 310 i 13 068"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najveći broj je 86 310. Najmanji počinje sa 1, a zatim slijede 0, 3, 6 i 8, pa je to 10 368.",
+      "savjet": "Za najveći broj znamenke poredaj od najveće, a za najmanji pazi da broj ne počinje nulom."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-071",
+      "tezina": "tesko",
+      "pitanje": "Između kojih se susjednih desetica nalazi prethodnik broja 50 000?",
+      "ponudeni": [
+        "50 000 i 50 010",
+        "49 900 i 50 000",
+        "49 980 i 49 990",
+        "49 990 i 50 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prethodnik broja 50 000 je 49 999. On ima 4999 cijelih desetica, pa je između 49 990 i 50 000.",
+      "savjet": "Najprije odredi prethodnik, a zatim koliko on ima cijelih desetica."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-072",
+      "tezina": "tesko",
+      "pitanje": "Odaberi sljedbenik sljedbenika broja 199 998.",
+      "ponudeni": [
+        "199 999",
+        "200 000",
+        "200 001",
+        "199 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sljedbenik broja 199 998 je 199 999, a sljedbenik broja 199 999 je 200 000.",
+      "savjet": "Broju dodaj 1, a zatim dobivenom broju opet dodaj 1."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-073",
+      "tezina": "tesko",
+      "pitanje": "Odaberi prethodnik najmanjeg šesteroznamenkastog broja.",
+      "ponudeni": [
+        "99 999",
+        "100 001",
+        "999 999",
+        "9999"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najmanji šesteroznamenkasti broj je 100 000. Njegov prethodnik je 100 000 − 1 = 99 999.",
+      "savjet": "Najprije odredi najmanji šesteroznamenkasti broj, a zatim njegov prethodnik."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-074",
+      "tezina": "tesko",
+      "pitanje": "U igri su Eva, Filip, Goran i Hana osvojili redom 10 101, 10 011, 11 001 i 10 110 bodova. Tko je na trećem mjestu?",
+      "ponudeni": [
+        "Hana",
+        "Filip",
+        "Eva",
+        "Goran"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poredak bodova je 11 001 > 10 110 > 10 101 > 10 011. Treća je Eva s 10 101 bodom.",
+      "savjet": "Poredaj bodove od najvećeg do najmanjeg, uspoređujući znamenku po znamenku."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-075",
+      "tezina": "tesko",
+      "pitanje": "Koji je od ponuđenih brojeva najbliži broju 60 000?",
+      "ponudeni": [
+        "59 990",
+        "60 009",
+        "60 100",
+        "59 900"
+      ],
+      "tocan": 1,
+      "objasnjenje": "60 009 udaljen je od 60 000 samo 9, a 59 990 udaljen je 10. Brojevi 60 100 i 59 900 udaljeni su 100.",
+      "savjet": "Za svaki broj odredi za koliko je udaljen od 60 000, bez obzira na to je li veći ili manji."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-076",
+      "tezina": "tesko",
+      "pitanje": "Luka ima više sličica od Petre, a Petra ima više sličica od Nike. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Nika ima više sličica od Luke.",
+        "Petra ima najviše sličica.",
+        "Luka i Nika imaju jednako sličica.",
+        "Luka ima najviše sličica."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Luka ima više od Petre, a Petra više od Nike, pa je poredak Luka, Petra, Nika. Luka ima najviše sličica.",
+      "savjet": "Poredaj djecu od onoga s najviše do onoga s najmanje sličica."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-077",
+      "tezina": "tesko",
+      "pitanje": "Svaki broj u nizu prethodnik je broja ispred sebe: 300 002, 300 001, ☐, ☐. Odaberi četvrti broj niza.",
+      "ponudeni": [
+        "300 000",
+        "299 000",
+        "299 999",
+        "300 999"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treći broj je 300 001 − 1 = 300 000, a četvrti 300 000 − 1 = 299 999.",
+      "savjet": "Svaki sljedeći broj u nizu za 1 je manji od broja ispred sebe."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-078",
+      "tezina": "tesko",
+      "pitanje": "Odaberi najveći broj manji od 500 000 kojemu su sve znamenke jednake.",
+      "ponudeni": [
+        "444 444",
+        "499 999",
+        "555 555",
+        "44 444"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Šesteroznamenkasti broj manji od 500 000 mora počinjati znamenkom manjom od 5, pa je traženi broj 444 444. Broj 555 555 veći je od 500 000.",
+      "savjet": "Razmisli kojom znamenkom može počinjati šesteroznamenkasti broj manji od 500 000."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-079",
+      "tezina": "tesko",
+      "pitanje": "Odaberi najmanji peteroznamenkasti broj kojemu su sve znamenke različite.",
+      "ponudeni": [
+        "10 000",
+        "12 345",
+        "10 243",
+        "10 234"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prva znamenka je 1 jer broj ne smije počinjati nulom. Zatim slijede najmanje neupotrijebljene znamenke 0, 2, 3 i 4, pa je to 10 234.",
+      "savjet": "Na svako mjesto stavi najmanju znamenku koja još nije upotrijebljena, ali broj ne smije počinjati nulom."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-080",
+      "tezina": "tesko",
+      "pitanje": "Odaberi usporedbu koja je točna.",
+      "ponudeni": [
+        "30 stotina > 3 tisuće",
+        "30 stotina = 3 tisuće",
+        "30 stotina < 3 tisuće",
+        "300 desetica > 3 tisuće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "30 stotina je 30 · 100 = 3000, a 3 tisuće su također 3000, pa su jednaki. I 300 desetica je 3000, pa nije veće od 3 tisuće.",
+      "savjet": "Svaki zapis pretvori u broj pa tek onda usporedi."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-081",
+      "tezina": "tesko",
+      "pitanje": "Dino je htio poredati brojeve od najvećeg do najmanjeg, ali je jedan broj stavio na krivo mjesto: 82 100, 81 200, 80 120, 82 010. Koji je broj na krivom mjestu?",
+      "ponudeni": [
+        "82 010",
+        "81 200",
+        "80 120",
+        "82 100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilan poredak je 82 100 > 82 010 > 81 200 > 80 120. Broj 82 010 trebao bi stajati odmah iza 82 100.",
+      "savjet": "Usporedi svaki broj s brojem ispred sebe, jer bi svaki trebao biti manji od prethodnog."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-082",
+      "tezina": "tesko",
+      "pitanje": "Odaberi najveći broj manji od 70 000 koji završava znamenkom 5.",
+      "ponudeni": [
+        "69 999",
+        "70 005",
+        "69 995",
+        "69 950"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brojevi manji od 70 000 koji završavaju s 5 su 69 995, 69 985, 69 975 i tako dalje. Najveći od njih je 69 995.",
+      "savjet": "Kreni od prethodnika broja 70 000 i traži unatrag prvi broj koji završava s 5."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-083",
+      "tezina": "tesko",
+      "pitanje": "Broj 100 000 je sljedbenik broja koji je zamislila Iva i prethodnik broja koji je zamislio Jan. Koje su brojeve zamislili?",
+      "ponudeni": [
+        "Iva 100 001, Jan 99 999",
+        "Iva 99 999, Jan 100 001",
+        "Iva 99 000, Jan 101 000",
+        "Iva 99 999, Jan 100 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "100 000 je sljedbenik broja 99 999, pa je Iva zamislila 99 999. 100 000 je prethodnik broja 100 001, pa je Jan zamislio 100 001.",
+      "savjet": "Sljedbenik dolazi neposredno iza broja, a prethodnik neposredno ispred njega."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-084",
+      "tezina": "tesko",
+      "pitanje": "Odaberi brojeve 909 090, 990 009, 1 000 000 i 999 900 poredane od najvećeg do najmanjeg.",
+      "ponudeni": [
+        "999 900, 990 009, 909 090, 1 000 000",
+        "1 000 000, 990 009, 999 900, 909 090",
+        "909 090, 990 009, 999 900, 1 000 000",
+        "1 000 000, 999 900, 990 009, 909 090"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Milijun ima sedam znamenaka pa je najveći. Zatim je 999 900 > 990 009 > 909 090, što vidimo usporedbom znamenaka slijeva.",
+      "savjet": "Prvo prebroji znamenke, a zatim usporedi brojeve koji imaju jednako znamenaka."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-085",
+      "tezina": "tesko",
+      "pitanje": "Svi ponuđeni brojevi sastavljeni su od znamenaka 2, 5, 7 i 9. Koji se od njih nalazi između 5800 i 7300?",
+      "ponudeni": [
+        "5792",
+        "7529",
+        "5972",
+        "7925"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 5800 < 5972 < 7300. Broj 5792 manji je od 5800, a 7529 i 7925 veći su od 7300.",
+      "savjet": "Usporedi svaki broj s 5800 i sa 7300, počevši od tisuća i stotica."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-086",
+      "tezina": "tesko",
+      "pitanje": "Mila je zamislila broj veći od 89 997, a manji od 90 001. Prethodnik zamišljenog broja završava znamenkom 9. Odaberi zamišljeni broj.",
+      "ponudeni": [
+        "90 000",
+        "89 999",
+        "89 998",
+        "90 001"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Između 89 997 i 90 001 su 89 998, 89 999 i 90 000. Samo broj 90 000 ima prethodnik koji završava s 9, a to je 89 999.",
+      "savjet": "Ispiši sve brojeve između zadanih i za svaki zapiši njegov prethodnik."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-087",
+      "tezina": "tesko",
+      "pitanje": "Odredi koliko znamenaka 9 ima prethodnik broja 500 000.",
+      "ponudeni": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prethodnik broja 500 000 je 499 999. On ima pet znamenaka 9.",
+      "savjet": "Najprije zapiši prethodnik, a zatim prebroji devetke."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-088",
+      "tezina": "tesko",
+      "pitanje": "Usporedi sljedbenik broja 64 999 i prethodnik broja 65 001. Što vrijedi?",
+      "ponudeni": [
+        "Sljedbenik broja 64 999 je veći.",
+        "Oba su broja jednaka.",
+        "Prethodnik broja 65 001 je veći.",
+        "Razlikuju se za 2."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sljedbenik broja 64 999 je 65 000, a prethodnik broja 65 001 također je 65 000. Brojevi su jednaki.",
+      "savjet": "Odredi oba broja pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-089",
+      "tezina": "tesko",
+      "pitanje": "Šesteroznamenkasti broj ima pet znamenaka 9 i jednu znamenku 8. Odaberi najmanji takav broj.",
+      "ponudeni": [
+        "899 999",
+        "999 998",
+        "989 999",
+        "999 989"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj je najmanji kada je manja znamenka na mjestu najveće vrijednosti, pa je to 899 999.",
+      "savjet": "Razmisli na kojem mjestu manja znamenka najviše smanjuje broj."
+    },
+    {
+      "id": "4-matematika-usporedivanje-prethodnik-i-sljedbenik-090",
+      "tezina": "tesko",
+      "pitanje": "Brojeve 707 077, 770 707, 707 770 i 770 077 poredaj od najmanjeg do najvećeg. Koji je broj na trećem mjestu?",
+      "ponudeni": [
+        "707 770",
+        "770 707",
+        "770 077",
+        "707 077"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poredak je 707 077 < 707 770 < 770 077 < 770 707, pa je na trećem mjestu 770 077.",
+      "savjet": "Poredaj brojeve uspoređujući znamenke slijeva nadesno."
+    }
+  ]
+}

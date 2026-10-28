@@ -4,7 +4,7 @@ import { describe, expect, it } from 'vitest'
 import kurikulum from '../app/data/kurikulum.json'
 import type { Pitanje, RazredIzvor } from '../app/types'
 import { pripremiRazrede } from '../app/utils/kurikulum'
-import { provjeriSadrzaj, type UcitanaDatoteka } from '../app/utils/provjeraSadrzaja'
+import { MINIMUM_PO_TEZINI, provjeriSadrzaj, type UcitanaDatoteka } from '../app/utils/provjeraSadrzaja'
 
 const KORIJEN = join(__dirname, '..', 'public', 'pitanja')
 const razredi = pripremiRazrede(kurikulum.razredi as RazredIzvor[])
@@ -49,7 +49,7 @@ describe('provjeriSadrzaj', () => {
     const r = provjeriSadrzaj(razredi, [datoteka([pitanje('a', { savjet: 'Broji.' }), pitanje('b', { tezina: 'tesko' }), pitanje('c', { skriveno: true })])])
     expect(r.greske).toEqual([])
     expect(r.pokrivenost[0]).toMatchObject({ broj: { lagano: 1, srednje: 0, tesko: 1 }, saSavjetom: 1, ukupno: 2 })
-    expect(r.upozorenja.some(u => u.includes('manje od 15'))).toBe(true)
+    expect(r.upozorenja.some(u => u.includes(`manje od ${MINIMUM_PO_TEZINI}`))).toBe(true)
   })
 
   it('javlja lekciju koja ne postoji i krivi lekcijaId', () => {

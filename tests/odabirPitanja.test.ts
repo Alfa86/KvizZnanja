@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { odaberiPitanja, prebrojiPoTezini, promijesajOdgovore } from '../app/composables/useOdabirPitanja'
 import { napraviGenerator } from '../app/utils/slucajno'
+import { dodajVidjeno } from '../app/utils/vidjenaPitanja'
 import type { DatotekaLekcije, Pitanje, Tezina } from '../app/types'
 
 function pitanje(id: string, tezina: Tezina = 'lagano', skriveno = false): Pitanje {
@@ -85,5 +86,45 @@ describe('prebrojiPoTezini', () => {
     }
     expect(prebrojiPoTezini(datoteka)).toEqual({ lagano: 1, srednje: 0, tesko: 1 })
     expect(prebrojiPoTezini(null)).toEqual({ lagano: 0, srednje: 0, tesko: 0 })
+  })
+})
+
+describe('viđena pitanja', () => {
+  const sviIz = (lekcijaId: string, do_: number) => new Set(Array.from({ length: do_ }, (_, i) => `${lekcijaId}-${i}`))
+
+  it('prvo bira pitanja koja učenik još nije vidio', () => {
+    const vidjena = sviIz('a', 20)
+    const odabrana = odaberiPitanja([lekcija('a', 30)], 'lagano', 10, 's1', () => vidjena)
+    expect(odabrana.every(p => !vidjena.has(p.id))).toBe(true)
+  })
+
+  it('uzima viđena tek kad neviđenih nema dovoljno', () => {
+    const vidjena = sviIz('a', 25)
+    const odabrana = odaberiPitanja([lekcija('a', 30)], 'lagano', 10, 's1', () => vidjena)
+    expect(odabrana.filter(p => !vidjena.has(p.id))).toHaveLength(5)
+  })
+
+  it('neviđena iz druge lekcije imaju prednost pred viđenima', () => {
+    const vidjena: Record<string, Set<string>> = { a: sviIz('a', 28), b: new Set() }
+    const odabrana = odaberiPitanja([lekcija('a', 30), lekcija('b', 30)], 'lagano', 10, 's1', id => vidjena[id]!)
+    expect(odabrana.filter(p => p.id.startsWith('a-'))).toHaveLength(2)
+    expect(odabrana.filter(p => p.id.startsWith('b-'))).toHaveLength(8)
+  })
+
+  it('bez viđenih daje isti kviz kao prije', () => {
+    const datoteke = [lekcija('a', 30), lekcija('b', 30)]
+    expect(odaberiPitanja(datoteke, 'lagano', 20, 'abc', () => new Set())).toEqual(odaberiPitanja(datoteke, 'lagano', 20, 'abc'))
+  })
+})
+
+describe('dodajVidjeno', () => {
+  const aktivni = ['x', 'y', 'z']
+
+  it('dodaje pitanje i izbacuje id-eve koji više nisu aktivni', () => {
+    expect(dodajVidjeno(new Set(['x', 'obrisano']), aktivni, 'y')).toEqual(['x', 'y'])
+  })
+
+  it('kad su viđena sva pitanja, počinje novi krug', () => {
+    expect(dodajVidjeno(new Set(['x', 'y']), aktivni, 'z')).toEqual([])
   })
 })

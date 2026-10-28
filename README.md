@@ -45,7 +45,7 @@ Početna → Razred → Predmet (odabir lekcija, težine i broja zadataka) → K
 
 - **Kurikulum** je u `app/data/kurikulum.json`: razredi → predmeti → cjeline → lekcije, svaka lekcija s opisom i ključnim pojmovima.
 - **Pitanja** su u `public/pitanja/{razred}/{predmet}/{lekcija}.json` i učitavaju se tek kad kviz počne.
-- **Odabir pitanja** (`app/composables/useOdabirPitanja.ts`) ravnomjerno uzima pitanja odabrane težine iz svih odabranih lekcija i miješa pitanja i odgovore generatorom sa seedom. Sve postavke i seed su u URL-u, pa isti URL uvijek daje isti kviz i može se podijeliti.
+- **Odabir pitanja** (`app/composables/useOdabirPitanja.ts`) ravnomjerno uzima pitanja odabrane težine iz svih odabranih lekcija i miješa pitanja i odgovore generatorom sa seedom. Sve postavke i seed su u URL-u. Preglednik pamti koja je pitanja učenik već odgovorio (`app/utils/vidjenaPitanja.ts`, u `localStorage`) i prvo nudi neviđena; kad vidi sva pitanja lekcije, počinje novi krug. Odabrana pitanja spremaju se za sesiju, pa osvježavanje stranice ne mijenja kviz.
 - **Savjet** ne oduzima bodove; na rezultatima se vidi koliko je savjeta korišteno.
 - **Ocjena** se računa iz postotka točnih odgovora (`app/composables/useOcjena.ts`): ispod 50 % nedovoljan, od 50 % dovoljan, od 63 % dobar, od 78 % vrlo dobar, od 90 % odličan.
 - **Geometrijski crteži** opisani su podacima u polju `slika` i iscrtavaju se kao SVG (`app/components/GeometrijskiCrtez.vue`), bez slikovnih datoteka.
@@ -105,7 +105,7 @@ Primjer jednog pitanja:
 }
 ```
 
-- `tezina` je `lagano`, `srednje` ili `tesko`; cilj je barem 15 pitanja po težini za svaku lekciju.
+- `tezina` je `lagano`, `srednje` ili `tesko`; cilj je barem 30 pitanja po težini za svaku lekciju.
 - `id` se nikad ne koristi ponovno. Pitanje se ne briše nego skriva s `"skriveno": true`.
 - Položaj točnog odgovora nije bitan jer se odgovori miješaju pri prikazu.
 
@@ -121,7 +121,7 @@ Primjer jednog pitanja:
 - savjet koji sadrži točan odgovor
 - neispravan crtež (nepostojeće točke, koordinate izvan mreže, kut nacrtan drugačije nego što je označen)
 
-Upozorenja (ne zaustavljaju build) su predug tekst (strože za 1. i 2. razred) i manje od 15 pitanja po težini.
+Upozorenja (ne zaustavljaju build) su predug tekst (strože za 1. i 2. razred) i manje od 30 pitanja po težini.
 
 ## Objava
 

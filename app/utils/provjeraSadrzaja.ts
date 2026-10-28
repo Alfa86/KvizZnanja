@@ -2,7 +2,7 @@ import type { DatotekaLekcije, Pitanje, Razred, Tezina } from '../types'
 import { TEZINE } from './konstante'
 import { provjeriPitanje } from './provjera'
 
-export const MINIMUM_PO_TEZINI = 15
+export const MINIMUM_PO_TEZINI = 30
 
 // Upozorenja za predug tekst; za 1. i 2. razred granice su strože
 const NAJVISE_ZNAKOVA = {

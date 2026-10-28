@@ -1,10 +1,13 @@
 import { defineStore } from 'pinia'
 import type { DatotekaLekcije, Pitanje, PostavkeKviza } from '~/types'
 import { izracunajOcjenu, type Ocjena } from '~/composables/useOcjena'
-import { odaberiPitanja, ucitajLekciju } from '~/composables/useOdabirPitanja'
+import { aktivnaPitanja, odaberiPitanja, ucitajLekciju } from '~/composables/useOdabirPitanja'
 import { kljucPostavki } from '~/utils/postavkeKviza'
+import { dodajVidjeno, procitajVidjena, zapisiVidjena } from '~/utils/vidjenaPitanja'
 
 interface SpremljenoStanje {
+  // Odabrana pitanja se spremaju jer odabir ovisi i o viđenim pitanjima, koja se tijekom kviza mijenjaju
+  pitanja?: Pitanje[]
   odgovori: (number | null)[]
   koristenSavjet: boolean[]
   trenutnoPitanje: number
@@ -38,6 +41,8 @@ export const useKvizStore = defineStore('kviz', {
   state: () => ({
     postavke: null as PostavkeKviza | null,
     pitanja: [] as Pitanje[],
+    // Id-evi aktivnih pitanja odabrane težine po lekciji, za bilježenje viđenih pitanja
+    aktivniPoLekciji: {} as Record<string, string[]>,
     odgovori: [] as (number | null)[],
     koristenSavjet: [] as boolean[],
     trenutnoPitanje: 0,
@@ -59,29 +64,28 @@ export const useKvizStore = defineStore('kviz', {
   },
 
   actions: {
-    // Slaže kviz iz postavki (isti seed = ista pitanja) i vraća spremljeni napredak ako postoji
+    // Slaže kviz iz postavki (prvo neviđena pitanja) ili vraća spremljeni kviz i napredak ako postoji
     async pokreni(postavke: PostavkeKviza) {
       const kljuc = kljucPostavki(postavke)
       if (this.kljuc === kljuc && this.pitanja.length) return
 
-      const datoteke = await Promise.all(
+      const datoteke = (await Promise.all(
         postavke.lekcijeIds.map(id => ucitajLekciju(postavke.razred, postavke.predmetId, id))
-      )
-      const pitanja = odaberiPitanja(
-        datoteke.filter((d): d is DatotekaLekcije => d !== null),
-        postavke.tezina,
-        postavke.brojZadataka,
-        postavke.seed
-      )
+      )).filter((d): d is DatotekaLekcije => d !== null)
+      const { razred, predmetId, tezina } = postavke
+      const spremljeno = procitaj(kljuc)
+      const pitanja = spremljeno?.pitanja?.length
+        ? spremljeno.pitanja
+        : odaberiPitanja(datoteke, tezina, postavke.brojZadataka, postavke.seed, id => procitajVidjena(razred, predmetId, id, tezina))
 
       this.postavke = postavke
       this.pitanja = pitanja
+      this.aktivniPoLekciji = Object.fromEntries(datoteke.map(d => [d.lekcijaId, aktivnaPitanja(d, tezina).map(p => p.id)]))
       this.odgovori = pitanja.map(() => null)
       this.koristenSavjet = pitanja.map(() => false)
       this.trenutnoPitanje = 0
       this.zavrseno = false
 
-      const spremljeno = procitaj(kljuc)
       if (spremljeno && spremljeno.odgovori.length === pitanja.length) {
         this.odgovori = spremljeno.odgovori
         this.koristenSavjet = spremljeno.koristenSavjet
@@ -93,6 +97,7 @@ export const useKvizStore = defineStore('kviz', {
     spremi() {
       if (!this.kljuc) return
       zapisi(this.kljuc, {
+        pitanja: this.pitanja,
         odgovori: this.odgovori,
         koristenSavjet: this.koristenSavjet,
         trenutnoPitanje: this.trenutnoPitanje,
@@ -102,8 +107,18 @@ export const useKvizStore = defineStore('kviz', {
 
     odaberiOdgovor(indeks: number) {
       if (this.zavrseno) return
+      if (this.odgovori[this.trenutnoPitanje] === null) this.zabiljeziVidjeno(this.pitanja[this.trenutnoPitanje]!.id)
       this.odgovori[this.trenutnoPitanje] = indeks
       this.spremi()
+    },
+
+    zabiljeziVidjeno(id: string) {
+      if (!this.postavke) return
+      const { razred, predmetId, tezina } = this.postavke
+      const lekcija = Object.entries(this.aktivniPoLekciji).find(([, idevi]) => idevi.includes(id))
+      if (!lekcija) return
+      const [lekcijaId, aktivni] = lekcija
+      zapisiVidjena(razred, predmetId, lekcijaId, tezina, dodajVidjeno(procitajVidjena(razred, predmetId, lekcijaId, tezina), aktivni, id))
     },
 
     prikaziSavjet() {

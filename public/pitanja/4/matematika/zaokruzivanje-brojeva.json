@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "zaokruzivanje-brojeva",
+  "pitanja": [
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-001",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 47 na desetice.",
+      "ponudeni": [
+        "40",
+        "45",
+        "50",
+        "100"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka jedinica je 7, a to je 5 ili više, pa zaokružujemo na višu deseticu: 47 ≈ 50.",
+      "savjet": "Pogledaj znamenku jedinica i odluči je li manja od 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-002",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 83 na desetice.",
+      "ponudeni": [
+        "80",
+        "85",
+        "90",
+        "100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka jedinica 3 manja je od 5, pa zaokružujemo na nižu deseticu: 83 ≈ 80.",
+      "savjet": "Broj se nalazi između dviju desetica; odluči kojoj je bliži."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-003",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 65 na desetice.",
+      "ponudeni": [
+        "60",
+        "65",
+        "50",
+        "70"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad je znamenka jedinica 5, zaokružujemo na višu deseticu: 65 ≈ 70.",
+      "savjet": "Sjeti se pravila: što radimo kad je znamenka jedinica točno 5?"
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-004",
+      "tezina": "lagano",
+      "pitanje": "Između kojih se dviju desetica nalazi broj 36?",
+      "ponudeni": [
+        "20 i 30",
+        "30 i 40",
+        "35 i 40",
+        "40 i 50"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 36 veći je od 30 i manji od 40, pa se nalazi između desetica 30 i 40.",
+      "savjet": "Pronađi najbližu deseticu manju od broja i najbližu deseticu veću od njega."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-005",
+      "tezina": "lagano",
+      "pitanje": "Kad zaokružujemo broj na desetice, koja znamenka odlučuje hoćemo li zaokružiti na nižu ili višu deseticu?",
+      "ponudeni": [
+        "znamenka desetica",
+        "znamenka stotica",
+        "znamenka jedinica",
+        "prva znamenka broja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pri zaokruživanju na desetice gledamo znamenku jedinica: ako je manja od 5, zaokružujemo na nižu, a inače na višu deseticu.",
+      "savjet": "Razmisli koja se znamenka pretvori u 0 kad broj 47 zaokružiš na 50."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-006",
+      "tezina": "lagano",
+      "pitanje": "Broj 52 zaokružen na desetice je 50. Je li zaokružen na nižu ili na višu deseticu?",
+      "ponudeni": [
+        "na višu deseticu",
+        "na nižu deseticu",
+        "na višu stoticu",
+        "na nižu stoticu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 50 manji je od 52, pa je broj zaokružen na nižu deseticu.",
+      "savjet": "Usporedi 50 i 52: je li zaokruženi broj manji ili veći od početnog?"
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-007",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 140 na stotice.",
+      "ponudeni": [
+        "100",
+        "140",
+        "150",
+        "200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka desetica je 4, a to je manje od 5, pa 140 ≈ 100.",
+      "savjet": "Kad zaokružuješ na stotice, pogledaj znamenku desetica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-008",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 381 na stotice.",
+      "ponudeni": [
+        "300",
+        "380",
+        "390",
+        "400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka desetica je 8, a to je 5 ili više, pa zaokružujemo na višu stoticu: 381 ≈ 400.",
+      "savjet": "Broj je između dviju stotica; znamenka desetica govori kojoj je bliži."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-009",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 250 na stotice.",
+      "ponudeni": [
+        "200",
+        "300",
+        "250",
+        "350"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka desetica je 5, a kod znamenke 5 zaokružujemo na višu stoticu: 250 ≈ 300.",
+      "savjet": "Broj je točno na pola puta između dviju stotica; sjeti se pravila za znamenku 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-010",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 128 na desetice.",
+      "ponudeni": [
+        "120",
+        "125",
+        "100",
+        "130"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka jedinica je 8, pa zaokružujemo na višu deseticu: 128 ≈ 130.",
+      "savjet": "Pronađi desetice između kojih je broj 128 pa pogledaj znamenku jedinica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-011",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 4300 na tisućice.",
+      "ponudeni": [
+        "4000",
+        "5000",
+        "4500",
+        "4300"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka stotica je 3, a to je manje od 5, pa 4300 ≈ 4000.",
+      "savjet": "Kad zaokružuješ na tisućice, pogledaj znamenku stotica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-012",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 6800 na tisućice.",
+      "ponudeni": [
+        "6000",
+        "6900",
+        "7000",
+        "10 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka stotica je 8, pa zaokružujemo na višu tisućicu: 6800 ≈ 7000.",
+      "savjet": "Broj je između dviju tisućica; odluči kojoj je bliži."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-013",
+      "tezina": "lagano",
+      "pitanje": "Kojim znakom zapisujemo „približno jednako“?",
+      "ponudeni": [
+        "=",
+        "<",
+        "≠",
+        "≈"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znak ≈ znači „približno jednako“, na primjer 47 ≈ 50.",
+      "savjet": "Taj znak sliči znaku jednakosti, ali su mu crtice valovite."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-014",
+      "tezina": "lagano",
+      "pitanje": "Kako čitamo zapis 98 ≈ 100?",
+      "ponudeni": [
+        "98 je jednako 100",
+        "98 je približno jednako 100",
+        "98 je manje od 100",
+        "98 je veće od 100"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Valoviti znak ≈ čitamo „približno jednako“, pa je 98 približno jednako 100.",
+      "savjet": "Pogledaj oblik znaka između brojeva i sjeti se što on znači kod zaokruživanja."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-015",
+      "tezina": "lagano",
+      "pitanje": "Koji broj zaokružen na desetice daje 70?",
+      "ponudeni": [
+        "64",
+        "74",
+        "76",
+        "79"
+      ],
+      "tocan": 1,
+      "objasnjenje": "74 ≈ 70 jer je znamenka jedinica 4. Brojevi 76 i 79 zaokružuju se na 80, a 64 na 60.",
+      "savjet": "Zaokruži svaki ponuđeni broj na desetice i usporedi sa 70."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-016",
+      "tezina": "lagano",
+      "pitanje": "Koji se broj pri zaokruživanju na desetice zaokružuje na nižu deseticu?",
+      "ponudeni": [
+        "45",
+        "48",
+        "57",
+        "43"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Samo broj 43 ima znamenku jedinica manju od 5, pa 43 ≈ 40. Ostali se zaokružuju na višu deseticu.",
+      "savjet": "Na nižu deseticu zaokružujemo kad je znamenka jedinica 0, 1, 2, 3 ili 4."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-017",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 95 na desetice.",
+      "ponudeni": [
+        "90",
+        "100",
+        "95",
+        "110"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka jedinica je 5, pa zaokružujemo na višu deseticu. Desetica nakon 90 je 100, pa 95 ≈ 100.",
+      "savjet": "Razmisli koja desetica dolazi odmah nakon 90."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-018",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 709 na desetice.",
+      "ponudeni": [
+        "700",
+        "720",
+        "800",
+        "710"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 709 je između 700 i 710. Znamenka jedinica je 9, pa 709 ≈ 710.",
+      "savjet": "Pazi: znamenka desetica je 0, a odlučuje znamenka jedinica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-019",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 2450 na stotice.",
+      "ponudeni": [
+        "2500",
+        "2400",
+        "2000",
+        "3000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka desetica je 5, pa zaokružujemo na višu stoticu: 2450 ≈ 2500.",
+      "savjet": "Pogledaj znamenku desetica i sjeti se pravila za znamenku 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-020",
+      "tezina": "lagano",
+      "pitanje": "Između kojih se dviju stotica nalazi broj 570?",
+      "ponudeni": [
+        "400 i 500",
+        "570 i 600",
+        "500 i 600",
+        "600 i 700"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 570 veći je od 500 i manji od 600, pa je između stotica 500 i 600.",
+      "savjet": "Stotice su brojevi 100, 200, 300… Pronađi onu ispred i onu iza broja 570."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-021",
+      "tezina": "lagano",
+      "pitanje": "Mia ima 38 sličica. Zaokruži broj sličica na desetice.",
+      "ponudeni": [
+        "40",
+        "30",
+        "35",
+        "50"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka jedinica je 8, pa 38 ≈ 40. Mia ima približno 40 sličica.",
+      "savjet": "Odluči je li 38 bliže nižoj ili višoj desetici."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-022",
+      "tezina": "lagano",
+      "pitanje": "U školi je 412 učenika. Ravnateljica kaže da je u školi približno 400 učenika. Na koju je mjesnu vrijednost zaokružila broj?",
+      "ponudeni": [
+        "na desetice",
+        "na jedinice",
+        "na tisućice",
+        "na stotice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 400 ima dvije nule na kraju i najbliži je stotici broju 412, pa je broj zaokružen na stotice. Na desetice bi bilo 410.",
+      "savjet": "Pogledaj koliko nula ima zaokruženi broj na kraju."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-023",
+      "tezina": "lagano",
+      "pitanje": "Koja je niža desetica broja 58?",
+      "ponudeni": [
+        "50",
+        "55",
+        "60",
+        "40"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 58 je između desetica 50 i 60. Niža od njih je 50.",
+      "savjet": "Niža desetica je najbliža desetica koja je manja od zadanog broja."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-024",
+      "tezina": "lagano",
+      "pitanje": "Koja je viša desetica broja 213?",
+      "ponudeni": [
+        "210",
+        "230",
+        "220",
+        "300"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 213 je između desetica 210 i 220. Viša od njih je 220.",
+      "savjet": "Viša desetica je najbliža desetica koja je veća od zadanog broja."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-025",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 43 000 na desetice tisuća.",
+      "ponudeni": [
+        "50 000",
+        "40 000",
+        "45 000",
+        "30 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka tisućica je 3, a to je manje od 5, pa 43 000 ≈ 40 000.",
+      "savjet": "Kad zaokružuješ na desetice tisuća, pogledaj znamenku tisućica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-026",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 12 400 na tisućice.",
+      "ponudeni": [
+        "13 000",
+        "10 000",
+        "12 500",
+        "12 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka stotica je 4, pa zaokružujemo na nižu tisućicu: 12 400 ≈ 12 000.",
+      "savjet": "Pronađi tisućice između kojih je broj; znamenka stotica odlučuje kojoj je bliži."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-027",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih brojeva već zaokružen na stotice?",
+      "ponudeni": [
+        "4750",
+        "4700",
+        "4705",
+        "4075"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj zaokružen na stotice ima 0 na mjestu desetica i na mjestu jedinica, a to je samo 4700.",
+      "savjet": "Pogledaj koje znamenke mora imati na kraju broj zaokružen na stotice."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-028",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 555 na desetice.",
+      "ponudeni": [
+        "550",
+        "500",
+        "600",
+        "560"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka jedinica je 5, pa zaokružujemo na višu deseticu: 555 ≈ 560.",
+      "savjet": "Gledaj samo znamenku jedinica i sjeti se pravila za znamenku 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-029",
+      "tezina": "lagano",
+      "pitanje": "Luka je broj 73 zaokružio na desetice i dobio 80. Je li to točno?",
+      "ponudeni": [
+        "Ne, točno je 70.",
+        "Da, to je točno.",
+        "Ne, točno je 75.",
+        "Ne, točno je 100."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka jedinica je 3, a to je manje od 5, pa 73 ≈ 70, a ne 80.",
+      "savjet": "Provjeri je li znamenka jedinica broja 73 manja od 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-030",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 8 na desetice.",
+      "ponudeni": [
+        "0",
+        "5",
+        "10",
+        "100"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 8 je između desetica 0 i 10. Znamenka jedinica je 8, pa 8 ≈ 10.",
+      "savjet": "Zamisli brojevnu crtu: je li 8 bliže nuli ili prvoj desetici?"
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-031",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 649 na stotice.",
+      "ponudeni": [
+        "650",
+        "700",
+        "600",
+        "640"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gledamo samo znamenku desetica, a ona je 4, pa 649 ≈ 600. Ne zaokružujemo prvo na desetice.",
+      "savjet": "Pogledaj samo znamenku desetica; znamenka jedinica ovdje ne odlučuje."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-032",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 3999 na stotice.",
+      "ponudeni": [
+        "3900",
+        "4000",
+        "3990",
+        "3000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka desetica je 9, pa zaokružujemo na višu stoticu. Stotica nakon 3900 je 4000, pa 3999 ≈ 4000.",
+      "savjet": "Razmisli koja stotica dolazi odmah nakon 3900."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-033",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 27 586 na tisućice.",
+      "ponudeni": [
+        "27 000",
+        "27 600",
+        "30 000",
+        "28 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka stotica je 5, pa zaokružujemo na višu tisućicu: 27 586 ≈ 28 000.",
+      "savjet": "Pronađi znamenku stotica i odluči zaokružuješ li na nižu ili višu tisućicu."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-034",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 63 248 na stotice.",
+      "ponudeni": [
+        "63 200",
+        "63 300",
+        "63 000",
+        "63 250"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka desetica je 4, pa zaokružujemo na nižu stoticu: 63 248 ≈ 63 200.",
+      "savjet": "Kod zaokruživanja na stotice ostaju nule na mjestu desetica i jedinica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-035",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 85 499 na tisućice.",
+      "ponudeni": [
+        "86 000",
+        "85 500",
+        "85 000",
+        "90 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka stotica je 4, pa zaokružujemo na nižu tisućicu: 85 499 ≈ 85 000. Devetke iza nje ne mijenjaju odluku.",
+      "savjet": "Odluku donosi samo jedna znamenka; pronađi je i ne gledaj ostale."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-036",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 154 700 na desetice tisuća.",
+      "ponudeni": [
+        "160 000",
+        "150 000",
+        "155 000",
+        "200 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka tisućica je 4, pa zaokružujemo na nižu deseticu tisuća: 154 700 ≈ 150 000.",
+      "savjet": "Kod zaokruživanja na desetice tisuća pogledaj znamenku tisućica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-037",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 362 000 na stotice tisuća.",
+      "ponudeni": [
+        "300 000",
+        "360 000",
+        "350 000",
+        "400 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka desetica tisuća je 6, pa zaokružujemo na višu stoticu tisuća: 362 000 ≈ 400 000.",
+      "savjet": "Kod zaokruživanja na stotice tisuća pogledaj znamenku desetica tisuća."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-038",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 9996 na desetice.",
+      "ponudeni": [
+        "10 000",
+        "9990",
+        "9900",
+        "9000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka jedinica je 6, pa zaokružujemo na višu deseticu. Desetica nakon 9990 je 10 000, pa 9996 ≈ 10 000.",
+      "savjet": "Razmisli koja desetica dolazi odmah nakon 9990."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-039",
+      "tezina": "srednje",
+      "pitanje": "Koji broj zaokružen na stotice daje 800?",
+      "ponudeni": [
+        "749",
+        "850",
+        "869",
+        "781"
+      ],
+      "tocan": 3,
+      "objasnjenje": "781 ≈ 800 jer je znamenka desetica 8. Broj 749 zaokružuje se na 700, a 850 i 869 na 900.",
+      "savjet": "Zaokruži svaki ponuđeni broj na stotice pa usporedi rezultat s 800."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-040",
+      "tezina": "srednje",
+      "pitanje": "Koji broj zaokružen na tisućice daje 5000?",
+      "ponudeni": [
+        "4499",
+        "4512",
+        "5500",
+        "5612"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4512 ≈ 5000 jer je znamenka stotica 5. Broj 4499 zaokružuje se na 4000, a 5500 i 5612 na 6000.",
+      "savjet": "Kod svakog broja pogledaj znamenku stotica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-041",
+      "tezina": "srednje",
+      "pitanje": "Knjiga ima 286 stranica. Zaokruži broj stranica na desetice.",
+      "ponudeni": [
+        "290",
+        "280",
+        "300",
+        "200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka jedinica je 6, pa 286 ≈ 290. Knjiga ima približno 290 stranica.",
+      "savjet": "Pronađi desetice između kojih je broj 286."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-042",
+      "tezina": "srednje",
+      "pitanje": "Bicikl košta 1849 eura. Zaokruži cijenu na stotice.",
+      "ponudeni": [
+        "1800 eura",
+        "1850 eura",
+        "1900 eura",
+        "2000 eura"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka desetica je 4, pa 1849 ≈ 1800. Bicikl košta približno 1800 eura.",
+      "savjet": "Kod zaokruživanja na stotice odlučuje znamenka desetica, ne jedinica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-043",
+      "tezina": "srednje",
+      "pitanje": "Koji je zapis točan za zaokruživanje na desetice?",
+      "ponudeni": [
+        "345 ≈ 340",
+        "456 ≈ 450",
+        "234 ≈ 230",
+        "567 ≈ 560"
+      ],
+      "tocan": 2,
+      "objasnjenje": "234 ≈ 230 jer je znamenka jedinica 4. Ostali brojevi imaju znamenku jedinica 5 ili veću, pa se zaokružuju na višu deseticu.",
+      "savjet": "Kod svakog broja pogledaj znamenku jedinica i odluči ide li na nižu ili višu deseticu."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-044",
+      "tezina": "srednje",
+      "pitanje": "Koji je najmanji broj koji zaokružen na desetice daje 60?",
+      "ponudeni": [
+        "50",
+        "55",
+        "56",
+        "60"
+      ],
+      "tocan": 1,
+      "objasnjenje": "55 ≈ 60 jer se kod znamenke 5 zaokružuje na višu deseticu, a 54 ≈ 50. Zato je 55 najmanji takav broj.",
+      "savjet": "Kreni od 60 prema manjim brojevima i provjeri kada se broj počne zaokruživati na 50."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-045",
+      "tezina": "srednje",
+      "pitanje": "Koji je najveći broj koji zaokružen na stotice daje 300?",
+      "ponudeni": [
+        "340",
+        "350",
+        "349",
+        "399"
+      ],
+      "tocan": 2,
+      "objasnjenje": "349 ≈ 300 jer je znamenka desetica 4, a već se 350 zaokružuje na 400. Zato je 349 najveći takav broj.",
+      "savjet": "Pronađi prvi broj iza 300 koji se zaokružuje na 400."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-046",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 805 na desetice, a zatim isti broj 805 na stotice.",
+      "ponudeni": [
+        "800 i 800",
+        "810 i 900",
+        "810 i 800",
+        "800 i 900"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na desetice odlučuje znamenka jedinica 5, pa 805 ≈ 810. Na stotice odlučuje znamenka desetica 0, pa 805 ≈ 800.",
+      "savjet": "Za svako zaokruživanje pogledaj drugu znamenku: prvo jedinice, zatim desetice."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-047",
+      "tezina": "srednje",
+      "pitanje": "Procijeni zbroj 48 + 31 tako da oba pribrojnika zaokružiš na desetice.",
+      "ponudeni": [
+        "79",
+        "70",
+        "90",
+        "80"
+      ],
+      "tocan": 3,
+      "objasnjenje": "48 ≈ 50 i 31 ≈ 30, pa je procjena 50 + 30 = 80.",
+      "savjet": "Najprije zaokruži svaki pribrojnik, a tek onda zbrajaj."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-048",
+      "tezina": "srednje",
+      "pitanje": "Procijeni razliku 712 − 389 tako da oba broja zaokružiš na stotice.",
+      "ponudeni": [
+        "300",
+        "323",
+        "400",
+        "200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "712 ≈ 700 i 389 ≈ 400, pa je procjena 700 − 400 = 300.",
+      "savjet": "Zaokruži umanjenik i umanjitelj na stotice pa oduzmi zaokružene brojeve."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-049",
+      "tezina": "srednje",
+      "pitanje": "Na utakmici je bilo 12 638 gledatelja. U novinama piše da ih je bilo približno 13 000. Na koju je mjesnu vrijednost broj zaokružen?",
+      "ponudeni": [
+        "na stotice",
+        "na tisućice",
+        "na desetice tisuća",
+        "na desetice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zaokruženo na tisućice, 12 638 ≈ 13 000. Na stotice bi bilo 12 600, a na desetice tisuća 10 000.",
+      "savjet": "Zaokruži 12 638 na više načina i usporedi s brojem iz novina."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-050",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 70 550 na tisućice.",
+      "ponudeni": [
+        "70 000",
+        "70 600",
+        "70 500",
+        "71 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka stotica je 5, pa zaokružujemo na višu tisućicu: 70 550 ≈ 71 000.",
+      "savjet": "Pazi: znamenka tisućica je 0, a odluku donosi znamenka stotica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-051",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 498 na desetice.",
+      "ponudeni": [
+        "490",
+        "500",
+        "400",
+        "510"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka jedinica je 8, pa zaokružujemo na višu deseticu. Desetica nakon 490 je 500, pa 498 ≈ 500.",
+      "savjet": "Razmisli koja desetica dolazi odmah nakon 490."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-052",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 31 050 na stotice.",
+      "ponudeni": [
+        "31 000",
+        "31 200",
+        "31 100",
+        "30 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka desetica je 5, pa zaokružujemo na višu stoticu: 31 050 ≈ 31 100.",
+      "savjet": "Znamenka stotica je 0; pronađi stotice između kojih je broj."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-053",
+      "tezina": "srednje",
+      "pitanje": "Broj 7□4 zaokružen na stotice daje 700. Koja znamenka može stajati umjesto □?",
+      "ponudeni": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umjesto □ stoji znamenka desetica. Da bi broj zaokružen na stotice dao 700, ona mora biti manja od 5, pa je to 3 (734 ≈ 700).",
+      "savjet": "Znamenka u kvadratiću je znamenka desetica; kakva mora biti da bi se zaokružilo na nižu stoticu?"
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-054",
+      "tezina": "srednje",
+      "pitanje": "Koji broj zaokružen na desetice daje 1000?",
+      "ponudeni": [
+        "995",
+        "985",
+        "1005",
+        "1050"
+      ],
+      "tocan": 0,
+      "objasnjenje": "995 ≈ 1000 jer je znamenka jedinica 5. Broj 985 zaokružuje se na 990, 1005 na 1010, a 1050 je već desetica.",
+      "savjet": "Zaokruži svaki broj na desetice; pazi na pravilo za znamenku 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-055",
+      "tezina": "srednje",
+      "pitanje": "Koja se dva broja zaokružena na stotice zaokružuju na isti broj?",
+      "ponudeni": [
+        "640 i 690",
+        "650 i 760",
+        "640 i 560",
+        "690 i 750"
+      ],
+      "tocan": 2,
+      "objasnjenje": "640 ≈ 600 i 560 ≈ 600, pa oba daju 600. U ostalim parovima brojevi se zaokružuju na različite stotice.",
+      "savjet": "Zaokruži svaki broj iz para na stotice i usporedi rezultate."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-056",
+      "tezina": "srednje",
+      "pitanje": "Jakov je biciklom prešao 2380 m. Zaokruži duljinu puta na tisućice.",
+      "ponudeni": [
+        "2000 m",
+        "3000 m",
+        "2400 m",
+        "2500 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka stotica je 3, pa zaokružujemo na nižu tisućicu: 2380 m ≈ 2000 m.",
+      "savjet": "Kod zaokruživanja na tisućice pogledaj znamenku stotica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-057",
+      "tezina": "srednje",
+      "pitanje": "Koji broj zaokružen na desetice tisuća daje 60 000?",
+      "ponudeni": [
+        "56 300",
+        "54 900",
+        "65 000",
+        "66 100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "56 300 ≈ 60 000 jer je znamenka tisućica 6. Broj 54 900 zaokružuje se na 50 000, a 65 000 i 66 100 na 70 000.",
+      "savjet": "Kod svakog broja pogledaj znamenku tisućica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-058",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 503 000 na stotice tisuća.",
+      "ponudeni": [
+        "600 000",
+        "510 000",
+        "1 000 000",
+        "500 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka desetica tisuća je 0, pa zaokružujemo na nižu stoticu tisuća: 503 000 ≈ 500 000.",
+      "savjet": "Pronađi znamenku desetica tisuća; ona odlučuje o zaokruživanju."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-059",
+      "tezina": "srednje",
+      "pitanje": "Lana kupuje knjigu za 18 eura i igračku za 29 eura. Procijeni ukupnu cijenu tako da obje cijene zaokružiš na desetice.",
+      "ponudeni": [
+        "47 eura",
+        "50 eura",
+        "40 eura",
+        "60 eura"
+      ],
+      "tocan": 1,
+      "objasnjenje": "18 ≈ 20 i 29 ≈ 30, pa je procjena 20 + 30 = 50 eura.",
+      "savjet": "Zaokruži svaku cijenu na desetice pa zbroji zaokružene cijene."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-060",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 6052 na desetice.",
+      "ponudeni": [
+        "6060",
+        "6050",
+        "6000",
+        "6100"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka jedinica je 2, pa zaokružujemo na nižu deseticu: 6052 ≈ 6050.",
+      "savjet": "Kod zaokruživanja na desetice mijenja se samo kraj broja; pogledaj jedinice."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-061",
+      "tezina": "tesko",
+      "pitanje": "Koji broj zaokružen na desetice daje 250, a zaokružen na stotice daje 300?",
+      "ponudeni": [
+        "246",
+        "249",
+        "254",
+        "244"
+      ],
+      "tocan": 2,
+      "objasnjenje": "254 ≈ 250 na desetice i 254 ≈ 300 na stotice jer je znamenka desetica 5. Brojevi 246 i 249 na stotice daju 200, a 244 na desetice daje 240.",
+      "savjet": "Provjeri oba uvjeta za svaki broj: prvo desetice, zatim stotice."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-062",
+      "tezina": "tesko",
+      "pitanje": "Koliko ima prirodnih brojeva koji zaokruženi na desetice daju 40?",
+      "ponudeni": [
+        "10",
+        "9",
+        "11",
+        "5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na 40 se zaokružuju brojevi od 35 do 44. To je 10 brojeva.",
+      "savjet": "Pronađi najmanji i najveći takav broj pa prebroji sve između njih."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-063",
+      "tezina": "tesko",
+      "pitanje": "Koji je najmanji broj koji zaokružen na stotice daje 5000?",
+      "ponudeni": [
+        "4900",
+        "4500",
+        "4951",
+        "4950"
+      ],
+      "tocan": 3,
+      "objasnjenje": "4950 ≈ 5000 jer je znamenka desetica 5, a 4949 ≈ 4900. Zato je 4950 najmanji takav broj.",
+      "savjet": "Kreni od 5000 unatrag i pronađi gdje se broj počinje zaokruživati na 4900."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-064",
+      "tezina": "tesko",
+      "pitanje": "Koji je najveći broj koji zaokružen na tisućice daje 20 000?",
+      "ponudeni": [
+        "20 499",
+        "20 500",
+        "20 999",
+        "19 500"
+      ],
+      "tocan": 0,
+      "objasnjenje": "20 499 ≈ 20 000 jer je znamenka stotica 4, a već se 20 500 zaokružuje na 21 000. Zato je 20 499 najveći takav broj.",
+      "savjet": "Pronađi prvi broj iza 20 000 koji se zaokružuje na 21 000."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-065",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži broj 99 960 na stotice.",
+      "ponudeni": [
+        "99 900",
+        "99 000",
+        "100 000",
+        "110 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka desetica je 6, pa zaokružujemo na višu stoticu. Stotica nakon 99 900 je 100 000, pa 99 960 ≈ 100 000.",
+      "savjet": "Razmisli koja stotica dolazi odmah nakon 99 900."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-066",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži broj 999 500 na tisućice.",
+      "ponudeni": [
+        "999 000",
+        "990 000",
+        "900 000",
+        "1 000 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka stotica je 5, pa zaokružujemo na višu tisućicu. Tisućica nakon 999 000 je 1 000 000, pa 999 500 ≈ 1 000 000.",
+      "savjet": "Pogledaj znamenku stotica, a zatim razmisli koja tisućica dolazi nakon 999 000."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-067",
+      "tezina": "tesko",
+      "pitanje": "Broj 3□ 862 zaokružen na desetice tisuća daje 40 000. Koja znamenka može stajati umjesto □?",
+      "ponudeni": [
+        "2",
+        "7",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umjesto □ stoji znamenka tisućica. Da bi se broj zaokružio na 40 000, ona mora biti 5 ili veća, pa je to 7 (37 862 ≈ 40 000).",
+      "savjet": "Znamenka u kvadratiću je znamenka tisućica; kakva mora biti za zaokruživanje na višu deseticu tisuća?"
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-068",
+      "tezina": "tesko",
+      "pitanje": "Koji broj daje isti rezultat kad se zaokruži na desetice i kad se zaokruži na stotice?",
+      "ponudeni": [
+        "685",
+        "750",
+        "347",
+        "603"
+      ],
+      "tocan": 3,
+      "objasnjenje": "603 ≈ 600 i na desetice i na stotice. Za 685 dobivamo 690 i 700, za 750 dobivamo 750 i 800, a za 347 dobivamo 350 i 300.",
+      "savjet": "Svaki broj zaokruži dvaput, na desetice i na stotice, pa usporedi."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-069",
+      "tezina": "tesko",
+      "pitanje": "Ema je broj 7449 zaokružila na tisućice u koracima: 7449 ≈ 7450 ≈ 7500 ≈ 8000. Je li to točno?",
+      "ponudeni": [
+        "Da, to je točno.",
+        "Ne, točno je 7000.",
+        "Ne, točno je 7400.",
+        "Ne, točno je 7500."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ne zaokružuje se u koracima. Gledamo samo znamenku stotica, a ona je 4, pa 7449 ≈ 7000.",
+      "savjet": "Kod zaokruživanja na tisućice gledamo samo jednu znamenku izvornog broja."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-070",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži broj 54 950 redom na desetice, na stotice i na tisućice.",
+      "ponudeni": [
+        "54 950, 54 900 i 54 000",
+        "54 950, 55 000 i 55 000",
+        "55 000, 55 000 i 55 000",
+        "54 950, 55 000 i 54 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na desetice broj ostaje 54 950 jer je znamenka jedinica 0. Na stotice i na tisućice dobivamo 55 000 jer su znamenka desetica 5 i znamenka stotica 9.",
+      "savjet": "Za svako zaokruživanje gledaj znamenku izvornog broja odmah desno od mjesta na koje zaokružuješ."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-071",
+      "tezina": "tesko",
+      "pitanje": "Procijeni zbroj 38 270 + 41 860 tako da oba pribrojnika zaokružiš na tisućice.",
+      "ponudeni": [
+        "79 000",
+        "80 130",
+        "80 000",
+        "70 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "38 270 ≈ 38 000 i 41 860 ≈ 42 000, pa je procjena 38 000 + 42 000 = 80 000.",
+      "savjet": "Svaki pribrojnik zaokruži na tisućice; pazi na znamenku stotica kod oba broja."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-072",
+      "tezina": "tesko",
+      "pitanje": "Na izlet idu tri razreda: 27, 23 i 26 učenika. Procijeni ukupan broj učenika tako da sva tri broja zaokružiš na desetice.",
+      "ponudeni": [
+        "80",
+        "76",
+        "70",
+        "90"
+      ],
+      "tocan": 0,
+      "objasnjenje": "27 ≈ 30, 23 ≈ 20 i 26 ≈ 30, pa je procjena 30 + 20 + 30 = 80 učenika.",
+      "savjet": "Pazi: nisu svi brojevi zaokruženi na istu deseticu."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-073",
+      "tezina": "tesko",
+      "pitanje": "Koji broj zaokružen na tisućice daje najveći rezultat?",
+      "ponudeni": [
+        "7499",
+        "6950",
+        "7501",
+        "6501"
+      ],
+      "tocan": 2,
+      "objasnjenje": "7501 ≈ 8000, a 7499, 6950 i 6501 zaokružuju se na 7000. Zato 7501 daje najveći rezultat.",
+      "savjet": "Zaokruži sve brojeve na tisućice; prvo pogledaj znamenku stotica kod svakoga."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-074",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži broj 349 999 na stotice tisuća.",
+      "ponudeni": [
+        "300 000",
+        "350 000",
+        "400 000",
+        "340 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka desetica tisuća je 4, pa zaokružujemo na nižu stoticu tisuća: 349 999 ≈ 300 000.",
+      "savjet": "Odlučuje samo znamenka desetica tisuća, bez obzira na devetke iza nje."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-075",
+      "tezina": "tesko",
+      "pitanje": "Koji broj zaokružen na stotice tisuća daje 1 000 000?",
+      "ponudeni": [
+        "849 000",
+        "949 999",
+        "950 000",
+        "905 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "950 000 ≈ 1 000 000 jer je znamenka desetica tisuća 5. Brojevi 949 999 i 905 000 zaokružuju se na 900 000, a 849 000 na 800 000.",
+      "savjet": "Kod svakog broja pogledaj znamenku desetica tisuća."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-076",
+      "tezina": "tesko",
+      "pitanje": "Grad ima 248 517 stanovnika. Zaokruži broj stanovnika na desetice tisuća.",
+      "ponudeni": [
+        "240 000",
+        "250 000",
+        "248 000",
+        "200 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka tisućica je 8, pa zaokružujemo na višu deseticu tisuća: 248 517 ≈ 250 000.",
+      "savjet": "Pronađi znamenku desetica tisuća, a zatim pogledaj znamenku desno od nje."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-077",
+      "tezina": "tesko",
+      "pitanje": "Knjižnica ima 4963 knjige. Na koje se mjesne vrijednosti taj broj zaokružuje na 5000?",
+      "ponudeni": [
+        "samo na tisućice",
+        "samo na stotice",
+        "na desetice i na stotice",
+        "na stotice i na tisućice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na stotice 4963 ≈ 5000 i na tisućice 4963 ≈ 5000, a na desetice 4963 ≈ 4960.",
+      "savjet": "Zaokruži 4963 na svaku od ponuđenih mjesnih vrijednosti pa usporedi rezultate s 5000."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-078",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži broj 709 845 na tisućice.",
+      "ponudeni": [
+        "709 000",
+        "710 000",
+        "709 800",
+        "700 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka stotica je 8, pa zaokružujemo na višu tisućicu. Tisućica nakon 709 000 je 710 000, pa 709 845 ≈ 710 000.",
+      "savjet": "Razmisli koja tisućica dolazi odmah nakon 709 000."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-079",
+      "tezina": "tesko",
+      "pitanje": "Broj 45 555 zaokružen je na različite mjesne vrijednosti. Koji je zapis pogrešan?",
+      "ponudeni": [
+        "45 555 ≈ 46 000 (na tisućice)",
+        "45 555 ≈ 45 600 (na stotice)",
+        "45 555 ≈ 50 000 (na desetice tisuća)",
+        "45 555 ≈ 45 550 (na desetice)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na desetice je 45 555 ≈ 45 560 jer je znamenka jedinica 5, pa je zapis 45 550 pogrešan. Ostala tri zapisa su točna.",
+      "savjet": "Provjeri svaki zapis; sjeti se što radimo kad je odlučujuća znamenka 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-080",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 1249 + 1249, a zatim dobiveni zbroj zaokruži na stotice.",
+      "ponudeni": [
+        "2400",
+        "2498",
+        "2500",
+        "2000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1249 + 1249 = 2498, a 2498 ≈ 2500 jer je znamenka desetica 9.",
+      "savjet": "Najprije točno zbroji, a tek onda zaokruži zbroj."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-081",
+      "tezina": "tesko",
+      "pitanje": "Koji se broj na desetice zaokružuje na nižu deseticu, a na stotice na višu stoticu?",
+      "ponudeni": [
+        "748",
+        "752",
+        "731",
+        "715"
+      ],
+      "tocan": 1,
+      "objasnjenje": "752 ≈ 750 (niža desetica) i 752 ≈ 800 (viša stotica). Broj 748 ide na višu deseticu, 731 na nižu stoticu, a 715 na višu deseticu.",
+      "savjet": "Za svaki broj odredi smjer zaokruživanja dvaput: prvo za desetice, zatim za stotice."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-082",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži broj 199 999 na desetice.",
+      "ponudeni": [
+        "199 990",
+        "200 000",
+        "199 000",
+        "190 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka jedinica je 9, pa zaokružujemo na višu deseticu. Desetica nakon 199 990 je 200 000, pa 199 999 ≈ 200 000.",
+      "savjet": "Razmisli koja desetica dolazi odmah nakon 199 990."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-083",
+      "tezina": "tesko",
+      "pitanje": "Koncert je u petak posjetilo 1506 ljudi, a u subotu 1496. Zaokruži oba broja na stotice.",
+      "ponudeni": [
+        "petak 1600, subota 1500",
+        "petak 1500, subota 1400",
+        "petak 1510, subota 1500",
+        "petak 1500, subota 1500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "1506 ≈ 1500 jer je znamenka desetica 0, a 1496 ≈ 1500 jer je znamenka desetica 9. Oba broja daju 1500.",
+      "savjet": "Kod oba broja pogledaj znamenku desetica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-084",
+      "tezina": "tesko",
+      "pitanje": "Koja se dva susjedna broja zaokružena na stotice zaokružuju na različite stotice?",
+      "ponudeni": [
+        "349 i 350",
+        "350 i 351",
+        "348 i 349",
+        "399 i 400"
+      ],
+      "tocan": 0,
+      "objasnjenje": "349 ≈ 300, a 350 ≈ 400. U ostalim parovima oba se broja zaokružuju na istu stoticu.",
+      "savjet": "Granica je broj kod kojeg znamenka desetica postaje 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-085",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži broj 4095 na desetice.",
+      "ponudeni": [
+        "4100",
+        "4090",
+        "4000",
+        "4190"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka jedinica je 5, pa zaokružujemo na višu deseticu. Desetica nakon 4090 je 4100, pa 4095 ≈ 4100.",
+      "savjet": "Pronađi desetice između kojih je broj, a zatim primijeni pravilo za znamenku 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-086",
+      "tezina": "tesko",
+      "pitanje": "Koji brojevi zaokruženi na desetice daju redom 30, 30 i 40?",
+      "ponudeni": [
+        "25, 35 i 36",
+        "24, 33 i 38",
+        "26, 34 i 35",
+        "29, 31 i 45"
+      ],
+      "tocan": 2,
+      "objasnjenje": "26 ≈ 30, 34 ≈ 30 i 35 ≈ 40. U ostalim trojkama barem se jedan broj zaokružuje na drugu deseticu.",
+      "savjet": "Zaokruži svaki broj u trojci i pazi na brojeve sa znamenkom jedinica 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-087",
+      "tezina": "tesko",
+      "pitanje": "Koji se broj zaokružen na desetice tisuća zaokružuje na drukčiji broj od ostalih?",
+      "ponudeni": [
+        "75 000",
+        "84 999",
+        "85 000",
+        "76 500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "85 000 ≈ 90 000, a 75 000, 84 999 i 76 500 zaokružuju se na 80 000.",
+      "savjet": "Zaokruži sva četiri broja; odlučuje znamenka tisućica."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-088",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži broj 650 000 na stotice tisuća.",
+      "ponudeni": [
+        "700 000",
+        "600 000",
+        "650 000",
+        "1 000 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka desetica tisuća je 5, pa zaokružujemo na višu stoticu tisuća: 650 000 ≈ 700 000.",
+      "savjet": "Broj je točno na pola puta između dviju stotica tisuća; sjeti se pravila za 5."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-089",
+      "tezina": "tesko",
+      "pitanje": "Jedna staza duga je 1248 m, a druga 1251 m. Zaokruži obje duljine na desetice i izračunaj razliku zaokruženih duljina.",
+      "ponudeni": [
+        "3 m",
+        "10 m",
+        "0 m",
+        "100 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1248 m ≈ 1250 m i 1251 m ≈ 1250 m, pa je razlika zaokruženih duljina 1250 m − 1250 m = 0 m.",
+      "savjet": "Najprije zaokruži obje duljine, a tek onda oduzmi."
+    },
+    {
+      "id": "4-matematika-zaokruzivanje-brojeva-090",
+      "tezina": "tesko",
+      "pitanje": "Koji se broj zaokružen na tisućice zaokružuje na višu tisućicu?",
+      "ponudeni": [
+        "4500",
+        "4499",
+        "4450",
+        "4049"
+      ],
+      "tocan": 0,
+      "objasnjenje": "4500 ≈ 5000 jer je znamenka stotica 5. Ostali brojevi imaju znamenku stotica 4 ili 0, pa se zaokružuju na 4000.",
+      "savjet": "Kod svakog broja pogledaj samo znamenku stotica."
+    }
+  ]
+}
