@@ -13,7 +13,7 @@
       ],
       "tocan": 1,
       "objasnjenje": "Knjige su dodane pa zbrajamo: 3000 + 2000 = 5000.",
-      "savjet": "Riječ „još” znači da trebaš zbrajati."
+      "savjet": "Riječ „još“ znači da trebaš zbrajati."
     },
     {
       "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-002",
@@ -41,7 +41,7 @@
       ],
       "tocan": 0,
       "objasnjenje": "Oduzimamo prodane boce: 72 500 − 38 700 = 33 800.",
-      "savjet": "Riječ „ostalo” znači da trebaš oduzimati."
+      "savjet": "Riječ „ostalo“ znači da trebaš oduzimati."
     },
     {
       "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-004",
@@ -125,7 +125,7 @@
       ],
       "tocan": 3,
       "objasnjenje": "Ukupno su skupili 1250 + 980 + 1475 = 3705 kg. Od toga oduzmeš 3000: 3705 − 3000 = 705 kg.",
-      "savjet": "Pitanje „za koliko više” rješava se oduzimanjem."
+      "savjet": "Pitanje „za koliko više“ rješava se oduzimanjem."
     },
     {
       "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-010",
@@ -140,6 +140,1126 @@
       "tocan": 1,
       "objasnjenje": "Monitor košta 899 − 345 = 554 eura. Zajedno: 899 + 554 = 1453 eura.",
       "savjet": "Prvo izračunaj cijenu monitora, pa je dodaj cijeni računala."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-011",
+      "tezina": "lagano",
+      "pitanje": "U školi je 436 učenika. Na početku godine upisalo se još 58 novih učenika. Izračunaj koliko je sada učenika u školi.",
+      "ponudeni": [
+        "378 učenika",
+        "494 učenika",
+        "484 učenika",
+        "594 učenika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Novi učenici se dodaju pa zbrajamo: 436 + 58 = 494 učenika.",
+      "savjet": "Riječ „još“ govori da se broj učenika povećao."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-012",
+      "tezina": "lagano",
+      "pitanje": "Autobus je na izletu prvi dan prešao 318 km, a drugi dan 274 km. Izračunaj koliko je kilometara prešao u ta dva dana.",
+      "ponudeni": [
+        "44 km",
+        "582 km",
+        "692 km",
+        "592 km"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zbrajamo put iz oba dana: 318 + 274 = 592 km.",
+      "savjet": "Kad tražiš ukupni put, zbroji kilometre iz oba dana i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-013",
+      "tezina": "lagano",
+      "pitanje": "U voćnjaku je bilo 2400 kg jabuka. Prodali su 900 kg jabuka. Izračunaj koliko je kilograma jabuka ostalo.",
+      "ponudeni": [
+        "1500 kg",
+        "3300 kg",
+        "1600 kg",
+        "2300 kg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prodane jabuke oduzimamo: 2400 − 900 = 1500 kg.",
+      "savjet": "Prodane jabuke više nisu u voćnjaku, pa ih oduzmi od početne količine."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-014",
+      "tezina": "lagano",
+      "pitanje": "Obitelj Horvat štedi za ljetovanje. Uštedjeli su 1375 €, a baka im je dala još 250 €. Izračunaj koliko sada imaju novca.",
+      "ponudeni": [
+        "1125 €",
+        "1525 €",
+        "1625 €",
+        "3875 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bakin novac se dodaje: 1375 + 250 = 1625 €.",
+      "savjet": "Potpiši 250 ispod 1375 tako da jedinice budu ispod jedinica."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-015",
+      "tezina": "lagano",
+      "pitanje": "Na stadionu je bilo 12 500 gledatelja. Prije kraja utakmice otišlo je 1200 gledatelja. Izračunaj koliko je gledatelja ostalo na stadionu.",
+      "ponudeni": [
+        "13 700 gledatelja",
+        "11 400 gledatelja",
+        "11 300 gledatelja",
+        "500 gledatelja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gledatelji koji su otišli se oduzimaju: 12 500 − 1200 = 11 300 gledatelja.",
+      "savjet": "Pazi da 1200 oduzmeš od tisućica i stotica, a ne od desetica tisuća."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-016",
+      "tezina": "lagano",
+      "pitanje": "Školska knjižnica je u siječnju posudila 3480 knjiga, a u veljači 2950 knjiga. Izračunaj koliko je knjiga posuđeno u ta dva mjeseca.",
+      "ponudeni": [
+        "6430 knjiga",
+        "530 knjiga",
+        "5430 knjiga",
+        "6330 knjiga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrajamo posudbe iz oba mjeseca: 3480 + 2950 = 6430 knjiga.",
+      "savjet": "Ukupan broj za dva mjeseca dobiješ zbrajanjem; pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-017",
+      "tezina": "lagano",
+      "pitanje": "Od Zagreba do Splita autocestom ima oko 410 km. Obitelj je dosad prešla 165 km. Izračunaj koliko im je kilometara ostalo do Splita.",
+      "ponudeni": [
+        "575 km",
+        "355 km",
+        "255 km",
+        "245 km"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od cijelog puta oduzimamo prijeđeni dio: 410 − 165 = 245 km.",
+      "savjet": "Od cijelog puta oduzmi dio koji je obitelj već prešla."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-018",
+      "tezina": "lagano",
+      "pitanje": "Na farmi je 1260 kokoši. Farmer je kupio još 340 kokoši. Izračunaj koliko je sada kokoši na farmi.",
+      "ponudeni": [
+        "920 kokoši",
+        "1600 kokoši",
+        "1500 kokoši",
+        "4660 kokoši"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kupljene kokoši se dodaju: 1260 + 340 = 1600 kokoši.",
+      "savjet": "Kad zbrajaš desetice 6 i 4, ne zaboravi prijenos u stotice."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-019",
+      "tezina": "lagano",
+      "pitanje": "Grad je imao 86 400 stanovnika. Tijekom godine doselilo se 2700 novih stanovnika. Izračunaj koliko grad sada ima stanovnika.",
+      "ponudeni": [
+        "83 700 stanovnika",
+        "88 100 stanovnika",
+        "113 400 stanovnika",
+        "89 100 stanovnika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Doseljeni stanovnici se dodaju: 86 400 + 2700 = 89 100 stanovnika.",
+      "savjet": "Broj 2700 ima 2 tisućice i 7 stotica; zbroji ih s tisućicama i stoticama."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-020",
+      "tezina": "lagano",
+      "pitanje": "Petra je ove godine na treninzima preplivala 18 500 m, a prošle godine 14 750 m. Izračunaj koliko je metara preplivala u te dvije godine.",
+      "ponudeni": [
+        "3750 m",
+        "33 250 m",
+        "22 250 m",
+        "32 250 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrajamo obje godine: 18 500 + 14 750 = 33 250 m.",
+      "savjet": "Zbroji metre iz obje godine i pazi na prijenos kod stotica i tisućica."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-021",
+      "tezina": "lagano",
+      "pitanje": "Dvorana kina ima 350 mjesta. Na predstavi je zauzeto 278 mjesta. Izračunaj koliko je mjesta ostalo slobodno.",
+      "ponudeni": [
+        "628 mjesta",
+        "128 mjesta",
+        "72 mjesta",
+        "82 mjesta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od svih mjesta oduzimamo zauzeta: 350 − 278 = 72 mjesta.",
+      "savjet": "Slobodna mjesta su ona koja nisu zauzeta, pa oduzimaš."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-022",
+      "tezina": "lagano",
+      "pitanje": "U spremniku je bilo 5000 l vode. Za zalijevanje vrta potrošeno je 1850 l. Izračunaj koliko je litara vode ostalo u spremniku.",
+      "ponudeni": [
+        "3150 l",
+        "6850 l",
+        "3250 l",
+        "4150 l"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Potrošenu vodu oduzimamo: 5000 − 1850 = 3150 l.",
+      "savjet": "Kad oduzimaš od broja s nulama, posuđuješ od tisućica."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-023",
+      "tezina": "lagano",
+      "pitanje": "Planinari su krenuli s visine od 480 m i popeli se na vrh visok 1762 m. Izračunaj koliko su metara visine savladali.",
+      "ponudeni": [
+        "1282 m",
+        "2242 m",
+        "1322 m",
+        "1382 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razliku visina dobijemo oduzimanjem: 1762 − 480 = 1282 m.",
+      "savjet": "Savladana visina je razlika između visine vrha i visine na kojoj su krenuli."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-024",
+      "tezina": "lagano",
+      "pitanje": "Tvornica je u ponedjeljak napravila 24 600 čokolada, a u utorak 31 800 čokolada. Izračunaj koliko je čokolada napravila u ta dva dana.",
+      "ponudeni": [
+        "7200 čokolada",
+        "55 400 čokolada",
+        "56 400 čokolada",
+        "46 400 čokolada"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbrajamo oba dana: 24 600 + 31 800 = 56 400 čokolada.",
+      "savjet": "Zbroji stotice 6 i 8 pa ne zaboravi prijenos u tisućice."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-025",
+      "tezina": "lagano",
+      "pitanje": "Razred je za izlet skupio 1840 €. Za autobus su platili 960 €. Izračunaj koliko im je novca ostalo.",
+      "ponudeni": [
+        "2800 €",
+        "880 €",
+        "1120 €",
+        "980 €"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plaćeni iznos oduzimamo: 1840 − 960 = 880 €.",
+      "savjet": "Od skupljenog novca oduzmi novac koji je plaćen za autobus."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-026",
+      "tezina": "lagano",
+      "pitanje": "Trajekt je ujutro prevezao 1265 putnika, a poslijepodne 1490 putnika. Izračunaj koliko je putnika prevezao toga dana.",
+      "ponudeni": [
+        "225 putnika",
+        "2655 putnika",
+        "3755 putnika",
+        "2755 putnika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zbrajamo putnike iz obje vožnje: 1265 + 1490 = 2755 putnika.",
+      "savjet": "Zbroji putnike s jutarnje i poslijepodnevne vožnje."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-027",
+      "tezina": "lagano",
+      "pitanje": "Na školskom sajmu prodano je 345 kolača i 278 sendviča. Izračunaj koliko je ukupno komada hrane prodano.",
+      "ponudeni": [
+        "67 komada",
+        "623 komada",
+        "513 komada",
+        "523 komada"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrajamo kolače i sendviče: 345 + 278 = 623 komada.",
+      "savjet": "Kod zbrajanja jedinica 5 i 8 dobiješ više od 10, pa prenosiš 1."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-028",
+      "tezina": "lagano",
+      "pitanje": "Dinara je visoka 1831 m, a Sljeme 1033 m. Izračunaj za koliko je metara Dinara viša od Sljemena.",
+      "ponudeni": [
+        "2864 m",
+        "802 m",
+        "898 m",
+        "798 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Razliku dobijemo oduzimanjem: 1831 − 1033 = 798 m.",
+      "savjet": "Pitanje „za koliko je viša“ rješava se oduzimanjem manjeg broja od većeg."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-029",
+      "tezina": "lagano",
+      "pitanje": "Mlin je imao 7500 kg brašna. Pekari su kupili 2800 kg brašna. Izračunaj koliko je kilograma brašna ostalo u mlinu.",
+      "ponudeni": [
+        "4700 kg",
+        "10 300 kg",
+        "5300 kg",
+        "5700 kg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kupljeno brašno oduzimamo: 7500 − 2800 = 4700 kg.",
+      "savjet": "Stotice 5 i 8 ne možeš oduzeti bez posuđivanja jedne tisućice."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-030",
+      "tezina": "lagano",
+      "pitanje": "Ema čita knjigu od 312 stranica. Pročitala je 147 stranica. Izračunaj koliko joj je stranica ostalo do kraja knjige.",
+      "ponudeni": [
+        "459 stranica",
+        "235 stranica",
+        "165 stranica",
+        "175 stranica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od svih stranica oduzimamo pročitane: 312 − 147 = 165 stranica.",
+      "savjet": "Od ukupnog broja stranica oduzmi one koje su već pročitane."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-031",
+      "tezina": "lagano",
+      "pitanje": "Na proljetnoj utrci trčalo je 2350 trkača, a na jesenskoj 3870 trkača. Izračunaj koliko je trkača bilo na obje utrke.",
+      "ponudeni": [
+        "1520 trkača",
+        "5120 trkača",
+        "6220 trkača",
+        "6120 trkača"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbrajamo obje utrke: 2350 + 3870 = 6220 trkača.",
+      "savjet": "Zbroji trkače s obje utrke i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-032",
+      "tezina": "lagano",
+      "pitanje": "Vrtlar je imao 3600 sadnica cvijeća. Posadio je 2750 sadnica. Izračunaj koliko mu je sadnica ostalo.",
+      "ponudeni": [
+        "850 sadnica",
+        "6350 sadnica",
+        "1150 sadnica",
+        "950 sadnica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posađene sadnice oduzimamo: 3600 − 2750 = 850 sadnica.",
+      "savjet": "Posađene sadnice oduzmi od svih sadnica koje je vrtlar imao."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-033",
+      "tezina": "lagano",
+      "pitanje": "Zračna luka imala je u lipnju 412 500 putnika, a u srpnju 586 300 putnika. Izračunaj koliko je putnika imala u ta dva mjeseca.",
+      "ponudeni": [
+        "173 800 putnika",
+        "988 800 putnika",
+        "898 800 putnika",
+        "998 800 putnika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zbrajamo oba mjeseca: 412 500 + 586 300 = 998 800 putnika.",
+      "savjet": "Velike brojeve zbrajaj redom: jedinice, desetice, stotice, pa tisućice."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-034",
+      "tezina": "lagano",
+      "pitanje": "Bicikl košta 389 €, a kaciga 45 €. Izračunaj koliko košta bicikl zajedno s kacigom.",
+      "ponudeni": [
+        "344 €",
+        "434 €",
+        "424 €",
+        "839 €"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrajamo cijene: 389 + 45 = 434 €.",
+      "savjet": "Potpiši 45 ispod 389 tako da jedinice budu ispod jedinica."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-035",
+      "tezina": "lagano",
+      "pitanje": "U bazenu je bilo 250 000 l vode. Za čišćenje je ispušteno 75 000 l. Izračunaj koliko je litara vode ostalo u bazenu.",
+      "ponudeni": [
+        "325 000 l",
+        "225 000 l",
+        "185 000 l",
+        "175 000 l"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ispuštenu vodu oduzimamo: 250 000 − 75 000 = 175 000 l.",
+      "savjet": "Možeš računati u tisućama: od 250 tisuća oduzmi 75 tisuća."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-036",
+      "tezina": "lagano",
+      "pitanje": "Teta Vesna je na tržnici u petak prodala 186 kg krumpira, a u subotu 247 kg. Izračunaj koliko je kilograma krumpira prodala u ta dva dana.",
+      "ponudeni": [
+        "61 kg",
+        "433 kg",
+        "323 kg",
+        "423 kg"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrajamo oba dana: 186 + 247 = 433 kg.",
+      "savjet": "Ono što je prodano u oba dana dobiješ zbrajanjem."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-037",
+      "tezina": "lagano",
+      "pitanje": "Vlak je iz Osijeka krenuo s 486 putnika. Na prvoj stanici izašlo je 129 putnika. Izračunaj koliko je putnika ostalo u vlaku.",
+      "ponudeni": [
+        "615 putnika",
+        "363 putnika",
+        "357 putnika",
+        "367 putnika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Putnici koji su izašli se oduzimaju: 486 − 129 = 357 putnika.",
+      "savjet": "Jedinice 6 i 9 ne možeš oduzeti bez posuđivanja jedne desetice."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-038",
+      "tezina": "lagano",
+      "pitanje": "U muzeju je u subotu bilo 1785 posjetitelja, a u nedjelju 2160 posjetitelja. Izračunaj koliko je posjetitelja bilo u oba dana.",
+      "ponudeni": [
+        "3945 posjetitelja",
+        "375 posjetitelja",
+        "3845 posjetitelja",
+        "4945 posjetitelja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrajamo oba dana: 1785 + 2160 = 3945 posjetitelja.",
+      "savjet": "Zbroji posjetitelje iz subote i nedjelje."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-039",
+      "tezina": "lagano",
+      "pitanje": "Na gradilištu je bilo 9600 cigala. Zidari su ugradili 4850 cigala. Izračunaj koliko je cigala ostalo.",
+      "ponudeni": [
+        "4750 cigala",
+        "14 450 cigala",
+        "5250 cigala",
+        "5750 cigala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ugrađene cigle oduzimamo: 9600 − 4850 = 4750 cigala.",
+      "savjet": "Ugrađene cigle više nisu na hrpi, pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-040",
+      "tezina": "srednje",
+      "pitanje": "Lana je skupila 1250 sličica, a Bruno 870 sličica. Izračunaj za koliko je sličica Lana skupila više od Brune.",
+      "ponudeni": [
+        "2120 sličica",
+        "1620 sličica",
+        "380 sličica",
+        "480 sličica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tražimo razliku, pa oduzimamo: 1250 − 870 = 380 sličica.",
+      "savjet": "Pitanje „za koliko više“ ne traži zbroj, nego razliku."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-041",
+      "tezina": "srednje",
+      "pitanje": "U školi je 248 dječaka i 263 djevojčice. Na izlet je otišlo 196 učenika. Izračunaj koliko je učenika ostalo u školi.",
+      "ponudeni": [
+        "707 učenika",
+        "315 učenika",
+        "67 učenika",
+        "325 učenika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U školi je 248 + 263 = 511 učenika. Ostalo ih je 511 − 196 = 315.",
+      "savjet": "Prvo izračunaj koliko je učenika u školi ukupno."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-042",
+      "tezina": "srednje",
+      "pitanje": "Mama je kupila tenisice za 65 €, trenirku za 48 € i loptu za 19 €. Izračunaj koliko je ukupno platila.",
+      "ponudeni": [
+        "113 €",
+        "122 €",
+        "142 €",
+        "132 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zbrajamo sve tri cijene: 65 + 48 + 19 = 132 €.",
+      "savjet": "Zbroji prve dvije cijene, a zatim dodaj treću."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-043",
+      "tezina": "srednje",
+      "pitanje": "Marin je imao 200 €. Kupio je slušalice za 74 € i knjigu za 39 €. Izračunaj koliko mu je novca ostalo.",
+      "ponudeni": [
+        "126 €",
+        "87 €",
+        "113 €",
+        "97 €"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Potrošio je 74 + 39 = 113 €. Ostalo mu je 200 − 113 = 87 €.",
+      "savjet": "Izračunaj koliko je potrošeno, pa to oduzmi od 200 €."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-044",
+      "tezina": "srednje",
+      "pitanje": "Ribarski brod u utorak je ulovio 1450 kg ribe, a u srijedu 380 kg manje. Izračunaj koliko je kilograma ribe ulovio u srijedu.",
+      "ponudeni": [
+        "1830 kg",
+        "1130 kg",
+        "1170 kg",
+        "1070 kg"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „manje“ znači oduzimanje: 1450 − 380 = 1070 kg.",
+      "savjet": "Razmisli znači li „manje“ da zbrajaš ili oduzimaš."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-045",
+      "tezina": "srednje",
+      "pitanje": "Na farmi je 1280 ovaca i 945 koza. Farmer je prodao 360 ovaca. Izračunaj koliko je ovaca ostalo na farmi.",
+      "ponudeni": [
+        "920 ovaca",
+        "1865 ovaca",
+        "585 ovaca",
+        "1640 ovaca"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Koze nisu važne za ovo pitanje: 1280 − 360 = 920 ovaca.",
+      "savjet": "Pažljivo pročitaj koji su podatci potrebni za pitanje o ovcama."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-046",
+      "tezina": "srednje",
+      "pitanje": "Jedan grad ima 70 800 stanovnika, a drugi 42 600 stanovnika. Izračunaj za koliko stanovnika prvi grad ima više od drugoga.",
+      "ponudeni": [
+        "113 400 stanovnika",
+        "32 200 stanovnika",
+        "28 200 stanovnika",
+        "38 200 stanovnika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Razliku dobijemo oduzimanjem: 70 800 − 42 600 = 28 200 stanovnika.",
+      "savjet": "Usporedi gradove oduzimanjem i pazi na posuđivanje kod tisućica."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-047",
+      "tezina": "srednje",
+      "pitanje": "Tomislav je u ponedjeljak pretrčao 3500 m, u utorak 4250 m, a u srijedu 2800 m. Izračunaj koliko je metara pretrčao u ta tri dana.",
+      "ponudeni": [
+        "7750 m",
+        "9550 m",
+        "10 550 m",
+        "10 450 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbrajamo sva tri dana: 3500 + 4250 + 2800 = 10 550 m.",
+      "savjet": "Zbroji metre iz sva tri dana, ne samo iz prva dva."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-048",
+      "tezina": "srednje",
+      "pitanje": "Kamp ima 860 mjesta za šatore. U srpnju je bilo zauzeto 795 mjesta, a u kolovozu 838 mjesta. Izračunaj koliko je mjesta bilo slobodno u kolovozu.",
+      "ponudeni": [
+        "22 mjesta",
+        "65 mjesta",
+        "43 mjesta",
+        "32 mjesta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za kolovoz ne trebamo podatak o srpnju: 860 − 838 = 22 mjesta.",
+      "savjet": "Odaberi samo podatke koji se odnose na kolovoz."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-049",
+      "tezina": "srednje",
+      "pitanje": "Nika je kupila knjigu za 17 € i bilježnicu za 6 €. Platila je novčanicom od 50 €. Izračunaj koliko je novca dobila natrag.",
+      "ponudeni": [
+        "23 €",
+        "33 €",
+        "37 €",
+        "27 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve zajedno košta 17 + 6 = 23 €. Natrag je dobila 50 − 23 = 27 €.",
+      "savjet": "Prvo zbroji cijene, a zatim zbroj oduzmi od novčanice."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-050",
+      "tezina": "srednje",
+      "pitanje": "U voćnjaku su obrali 2340 kg jabuka i 1585 kg krušaka. Izračunaj za koliko je kilograma jabuka obrano više nego krušaka.",
+      "ponudeni": [
+        "3925 kg",
+        "755 kg",
+        "1245 kg",
+        "855 kg"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razliku dobijemo oduzimanjem: 2340 − 1585 = 755 kg.",
+      "savjet": "Razliku dviju količina dobiješ kad od veće oduzmeš manju."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-051",
+      "tezina": "srednje",
+      "pitanje": "Kino je u petak prodalo 486 ulaznica, a u subotu 159 ulaznica više nego u petak. Izračunaj koliko je ulaznica prodano u subotu.",
+      "ponudeni": [
+        "327 ulaznica",
+        "535 ulaznica",
+        "635 ulaznica",
+        "645 ulaznica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "„Više nego“ znači da zbrajamo: 486 + 159 = 645 ulaznica.",
+      "savjet": "Razmisli koju računsku radnju traže riječi „više nego u petak“."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-052",
+      "tezina": "srednje",
+      "pitanje": "Prazan kamion teži 7800 kg. Kamion s teretom teži 19 450 kg. Izračunaj koliko kilograma teži teret.",
+      "ponudeni": [
+        "27 250 kg",
+        "11 650 kg",
+        "12 450 kg",
+        "12 650 kg"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od mase punog kamiona oduzimamo masu praznog: 19 450 − 7800 = 11 650 kg.",
+      "savjet": "Teret je razlika između punog i praznog kamiona."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-053",
+      "tezina": "srednje",
+      "pitanje": "Na školskom sajmu prodali su kolače za 238 € i sokove za 96 €. Za ukrase su prije sajma potrošili 75 €. Izračunaj koliko im je novca ostalo kad se od zarade oduzme trošak za ukrase.",
+      "ponudeni": [
+        "409 €",
+        "334 €",
+        "259 €",
+        "163 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zaradili su 238 + 96 = 334 €. Bez troška za ukrase ostaje 334 − 75 = 259 €.",
+      "savjet": "Zbroji zaradu od kolača i sokova, pa oduzmi trošak."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-054",
+      "tezina": "srednje",
+      "pitanje": "Kino dvorana ima 312 sjedala. Na prvoj predstavi prodano je 289 ulaznica, a na drugoj 306 ulaznica. Izračunaj koliko je ulaznica prodano na obje predstave.",
+      "ponudeni": [
+        "595 ulaznica",
+        "17 ulaznica",
+        "907 ulaznica",
+        "585 ulaznica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj sjedala nije potreban: 289 + 306 = 595 ulaznica.",
+      "savjet": "Odaberi samo podatke o prodanim ulaznicama."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-055",
+      "tezina": "srednje",
+      "pitanje": "Pčelar je prošle godine dobio 865 kg meda, a ove godine 1120 kg. Izračunaj za koliko je kilograma meda ove godine dobio više.",
+      "ponudeni": [
+        "255 kg",
+        "1985 kg",
+        "355 kg",
+        "265 kg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razliku dobijemo oduzimanjem: 1120 − 865 = 255 kg.",
+      "savjet": "Od veće količine oduzmi manju i pazi na posuđivanje."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-056",
+      "tezina": "srednje",
+      "pitanje": "Obitelj je putovala 312 km do Zadra, a zatim još 156 km do Splita. Natrag su se vratili istim putem. Izračunaj koliko su kilometara prešli ukupno.",
+      "ponudeni": [
+        "468 km",
+        "836 km",
+        "936 km",
+        "624 km"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U jednom smjeru prešli su 312 + 156 = 468 km. Tamo i natrag: 468 + 468 = 936 km.",
+      "savjet": "Ne zaboravi da su isti put prešli i u povratku."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-057",
+      "tezina": "srednje",
+      "pitanje": "Dva razreda skupljaju čepove. Jedan razred skupio je 2860 čepova, a drugi 2175 čepova. Cilj je 6000 čepova. Izračunaj koliko im još čepova nedostaje.",
+      "ponudeni": [
+        "5035 čepova",
+        "965 čepova",
+        "3140 čepova",
+        "1065 čepova"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Skupili su 2860 + 2175 = 5035 čepova. Do cilja nedostaje 6000 − 5035 = 965 čepova.",
+      "savjet": "Prvo izračunaj koliko su čepova skupili zajedno."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-058",
+      "tezina": "srednje",
+      "pitanje": "Ivana želi bicikl koji košta 329 €. Uštedjela je 187 €, a baka joj je dala 95 €. Izračunaj koliko joj novca još nedostaje.",
+      "ponudeni": [
+        "142 €",
+        "282 €",
+        "57 €",
+        "47 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ivana ima 187 + 95 = 282 €. Nedostaje joj 329 − 282 = 47 €.",
+      "savjet": "Zbroji novac koji Ivana ima, pa ga usporedi s cijenom bicikla."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-059",
+      "tezina": "srednje",
+      "pitanje": "Na glazbenom festivalu prvog je dana bilo 12 480 posjetitelja, a drugog dana 15 230. Izračunaj za koliko je posjetitelja drugog dana bilo više.",
+      "ponudeni": [
+        "27 710 posjetitelja",
+        "2750 posjetitelja",
+        "3250 posjetitelja",
+        "3750 posjetitelja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razliku dobijemo oduzimanjem: 15 230 − 12 480 = 2750 posjetitelja.",
+      "savjet": "„Za koliko više“ znači da tražiš razliku dvaju brojeva."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-060",
+      "tezina": "srednje",
+      "pitanje": "Planinarski dom nalazi se na 1050 m visine. Vrh planine je 645 m viši od doma. Izračunaj na kojoj je visini vrh.",
+      "ponudeni": [
+        "405 m",
+        "1595 m",
+        "1685 m",
+        "1695 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrh je viši od doma, pa zbrajamo: 1050 + 645 = 1695 m.",
+      "savjet": "Razmisli je li vrh niže ili više od doma."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-061",
+      "tezina": "srednje",
+      "pitanje": "Na brodu je bilo 1250 putnika. U Splitu je izašlo 487 putnika, a na Hvaru još 296 putnika. Izračunaj koliko je putnika ostalo na brodu.",
+      "ponudeni": [
+        "467 putnika",
+        "763 putnika",
+        "2033 putnika",
+        "567 putnika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nakon Splita: 1250 − 487 = 763. Nakon Hvara: 763 − 296 = 467 putnika.",
+      "savjet": "Oduzmi putnike koji su izašli u Splitu, a zatim one s Hvara."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-062",
+      "tezina": "srednje",
+      "pitanje": "Na školskoj priredbi bilo je 186 roditelja, 342 učenika i 27 učitelja. Izračunaj koliko je ukupno osoba bilo na priredbi.",
+      "ponudeni": [
+        "528 osoba",
+        "545 osoba",
+        "555 osoba",
+        "455 osoba"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbrajamo sve tri skupine: 186 + 342 + 27 = 555 osoba.",
+      "savjet": "Zbroji sve tri skupine, ne samo roditelje i učenike."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-063",
+      "tezina": "srednje",
+      "pitanje": "U spremnik stane 8000 l vode. U njemu je sada 3750 l. Izračunaj koliko još litara treba uliti da spremnik bude pun.",
+      "ponudeni": [
+        "11 750 l",
+        "5750 l",
+        "4250 l",
+        "5250 l"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Do punog spremnika nedostaje 8000 − 3750 = 4250 l.",
+      "savjet": "Razmisli koliko vode nedostaje do punog spremnika."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-064",
+      "tezina": "srednje",
+      "pitanje": "Djed je rođen 1958. godine, a unuka Lucija 2016. godine. Izračunaj koliko je godina djed stariji od Lucije.",
+      "ponudeni": [
+        "58 godina",
+        "48 godina",
+        "68 godina",
+        "158 godina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oduzimamo godine rođenja: 2016 − 1958 = 58 godina.",
+      "savjet": "Od kasnije godine rođenja oduzmi raniju."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-065",
+      "tezina": "srednje",
+      "pitanje": "Parkiralište ima 850 mjesta. Ujutro je bilo zauzeto 375 mjesta, a do podneva je došlo još 290 automobila. Izračunaj koliko je mjesta ostalo slobodno u podne.",
+      "ponudeni": [
+        "475 mjesta",
+        "665 mjesta",
+        "195 mjesta",
+        "185 mjesta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U podne je zauzeto 375 + 290 = 665 mjesta. Slobodno je 850 − 665 = 185 mjesta.",
+      "savjet": "Prvo izračunaj koliko je mjesta zauzeto u podne."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-066",
+      "tezina": "srednje",
+      "pitanje": "Klara i Filip zajedno imaju 760 sličica. Klara ima 385 sličica. Izračunaj koliko sličica ima Filip.",
+      "ponudeni": [
+        "1145 sličica",
+        "375 sličica",
+        "425 sličica",
+        "475 sličica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od zajedničkog broja oduzimamo Klarine sličice: 760 − 385 = 375 sličica.",
+      "savjet": "Ako znaš zbroj i jedan dio, drugi dio dobiješ oduzimanjem."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-067",
+      "tezina": "srednje",
+      "pitanje": "Pekara je jutros ispekla 640 kifli i 385 pereca. Do podneva je prodano 590 kifli. Izračunaj koliko je kifli ostalo.",
+      "ponudeni": [
+        "435 kifli",
+        "205 kifli",
+        "1230 kifli",
+        "50 kifli"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Perece nisu važne za ovo pitanje: 640 − 590 = 50 kifli.",
+      "savjet": "Gledaj samo podatke o kiflama."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-068",
+      "tezina": "tesko",
+      "pitanje": "Dora ima 347 sličica. To je 128 sličica manje nego što ima Jakov. Izračunaj koliko sličica ima Jakov.",
+      "ponudeni": [
+        "219 sličica",
+        "475 sličica",
+        "465 sličica",
+        "485 sličica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dora ima manje, pa Jakov ima više: 347 + 128 = 475 sličica.",
+      "savjet": "Ako Dora ima manje od Jakova, onda Jakov ima više od Dore."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-069",
+      "tezina": "tesko",
+      "pitanje": "Mateo je potrošio 38 € na knjige i 27 € na kino. Ostalo mu je 45 €. Izračunaj koliko je novca imao na početku.",
+      "ponudeni": [
+        "65 €",
+        "56 €",
+        "110 €",
+        "100 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Računamo unatrag i vraćamo potrošeno: 45 + 38 + 27 = 110 €.",
+      "savjet": "Kreni od kraja: ostatku dodaj sve što je potrošeno."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-070",
+      "tezina": "tesko",
+      "pitanje": "Kino je imalo 1200 ulaznica. Ujutro je prodano 785 ulaznica, a poslijepodne 260. Koji račun pokazuje koliko je ulaznica ostalo?",
+      "ponudeni": [
+        "1200 − 785 − 260",
+        "1200 − 785 + 260",
+        "1200 + 785 − 260",
+        "785 + 260 + 1200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obje prodaje oduzimamo od svih ulaznica: 1200 − 785 − 260 = 155 ulaznica.",
+      "savjet": "Prodane ulaznice više nisu u kinu; razmisli koje znakove trebaš."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-071",
+      "tezina": "tesko",
+      "pitanje": "Na jednoj farmi je 2350 kokoši i 1480 pataka. Na drugoj farmi je 4125 kokoši. Izračunaj za koliko je ptica više na drugoj farmi nego na prvoj.",
+      "ponudeni": [
+        "295 ptica",
+        "1775 ptica",
+        "7955 ptica",
+        "395 ptica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na prvoj farmi je 2350 + 1480 = 3830 ptica. Razlika je 4125 − 3830 = 295 ptica.",
+      "savjet": "Prvo izračunaj koliko je ptica na prvoj farmi ukupno."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-072",
+      "tezina": "tesko",
+      "pitanje": "Brod je pristao u Rijeci. Ondje je izašlo 230 putnika, a ušlo 145 putnika. Nakon toga na brodu je bilo 830 putnika. Izračunaj koliko je putnika bilo na brodu prije Rijeke.",
+      "ponudeni": [
+        "745 putnika",
+        "1205 putnika",
+        "915 putnika",
+        "455 putnika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Računamo unatrag: izašle dodajemo, a ušle oduzimamo: 830 + 230 − 145 = 915 putnika.",
+      "savjet": "Računaj unatrag: putnici koji su izašli prije su bili na brodu."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-073",
+      "tezina": "tesko",
+      "pitanje": "Od Osijeka do Zagreba ima 280 km, a od Zagreba do Pule 265 km. Obitelj putuje iz Osijeka u Pulu preko Zagreba i dosad je prešla 397 km. Izračunaj koliko im je kilometara ostalo.",
+      "ponudeni": [
+        "117 km",
+        "148 km",
+        "942 km",
+        "158 km"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Cijeli put je 280 + 265 = 545 km. Ostalo je 545 − 397 = 148 km.",
+      "savjet": "Prvo izračunaj duljinu cijelog puta od Osijeka do Pule."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-074",
+      "tezina": "tesko",
+      "pitanje": "Mia ima 450 €. Bicikl košta 389 €, a kaciga 74 €. Koji račun pokazuje koliko Miji nedostaje za bicikl i kacigu?",
+      "ponudeni": [
+        "450 − 389 − 74",
+        "450 − 389 + 74",
+        "389 + 74 + 450",
+        "389 + 74 − 450"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bicikl i kaciga koštaju 389 + 74 = 463 €, pa Miji nedostaje 463 − 450 = 13 €.",
+      "savjet": "Prvo zbroji cijene, a zatim usporedi zbroj s novcem koji Mia ima."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-075",
+      "tezina": "tesko",
+      "pitanje": "Lucija je u tri tjedna pročitala 128, 145 i 167 stranica. Marko je u istom vremenu pročitao 395 stranica. Izračunaj za koliko je stranica Lucija pročitala više od Marka.",
+      "ponudeni": [
+        "440 stranica",
+        "45 stranica",
+        "835 stranica",
+        "55 stranica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lucija je pročitala 128 + 145 + 167 = 440 stranica. Razlika je 440 − 395 = 45 stranica.",
+      "savjet": "Prvo zbroji Lucijine stranice, a zatim taj zbroj usporedi s Markovim."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-076",
+      "tezina": "tesko",
+      "pitanje": "U školi je 612 učenika. U nižim razredima je 287 učenika. U višim razredima je 168 dječaka. Izračunaj koliko je djevojčica u višim razredima.",
+      "ponudeni": [
+        "325 djevojčica",
+        "444 djevojčice",
+        "167 djevojčica",
+        "157 djevojčica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U višim razredima je 612 − 287 = 325 učenika. Djevojčica je 325 − 168 = 157.",
+      "savjet": "Prvo izračunaj koliko je ukupno učenika u višim razredima."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-077",
+      "tezina": "tesko",
+      "pitanje": "Obitelj je imala 1500 € za ljetovanje. Za smještaj su platili 860 €, za gorivo 185 €, a za ulaznice 96 €. Izračunaj koliko im je novca ostalo.",
+      "ponudeni": [
+        "359 €",
+        "1141 €",
+        "455 €",
+        "369 €"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Potrošili su 860 + 185 + 96 = 1141 €. Ostalo im je 1500 − 1141 = 359 €.",
+      "savjet": "Zbroji sve troškove, pa zbroj oduzmi od novca koji su imali."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-078",
+      "tezina": "tesko",
+      "pitanje": "U jednom gradu živi 236 500 stanovnika. Od toga je 118 750 žena. Izračunaj za koliko je u gradu više žena nego muškaraca.",
+      "ponudeni": [
+        "117 750 osoba",
+        "1250 osoba",
+        "1000 osoba",
+        "355 250 osoba"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Muškaraca je 236 500 − 118 750 = 117 750. Žena je više za 118 750 − 117 750 = 1000.",
+      "savjet": "Prvo izračunaj koliko je u gradu muškaraca."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-079",
+      "tezina": "tesko",
+      "pitanje": "Lovro je imao 75 €. Mama mu je dala 20 €, a zatim je potrošio 48 €. Koji račun pokazuje koliko mu je novca ostalo?",
+      "ponudeni": [
+        "75 − 20 − 48",
+        "75 + 20 + 48",
+        "75 + 20 − 48",
+        "75 − 20 + 48"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mamin novac dodajemo, a potrošeni oduzimamo: 75 + 20 − 48 = 47 €.",
+      "savjet": "Za svaki podatak odluči je li novac dobiven ili potrošen."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-080",
+      "tezina": "tesko",
+      "pitanje": "Prvi vlak prevezao je ujutro 1240, a navečer 965 putnika. Drugi vlak prevezao je ujutro 1085, a navečer 1310 putnika. Izračunaj za koliko je putnika više prevezao drugi vlak.",
+      "ponudeni": [
+        "190 putnika",
+        "4600 putnika",
+        "2395 putnika",
+        "290 putnika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvi vlak: 1240 + 965 = 2205, drugi vlak: 1085 + 1310 = 2395. Razlika je 2395 − 2205 = 190 putnika.",
+      "savjet": "Izračunaj ukupan broj putnika za svaki vlak, pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-081",
+      "tezina": "tesko",
+      "pitanje": "U skladište su ujutro dovezli 2750 kg brašna, a poslijepodne odvezli 1380 kg. Navečer je u skladištu bilo 5000 kg brašna. Izračunaj koliko je brašna bilo u skladištu prije dovoza.",
+      "ponudeni": [
+        "6370 kg",
+        "870 kg",
+        "9130 kg",
+        "3630 kg"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Računamo unatrag: 5000 + 1380 − 2750 = 3630 kg.",
+      "savjet": "Kreni od večeri: odvezeno brašno vrati u skladište, a dovezeno makni."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-082",
+      "tezina": "tesko",
+      "pitanje": "Na kvizu je plava ekipa imala 1450 bodova, a crvena 1275. U zadnjem krugu plava je izgubila 240 bodova, a crvena osvojila 180. Izračunaj za koliko bodova crvena ekipa sada vodi.",
+      "ponudeni": [
+        "175 bodova",
+        "245 bodova",
+        "1455 bodova",
+        "235 bodova"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plava ima 1450 − 240 = 1210, a crvena 1275 + 180 = 1455 bodova. Razlika je 1455 − 1210 = 245 bodova.",
+      "savjet": "Izračunaj nove bodove svake ekipe, pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-083",
+      "tezina": "tesko",
+      "pitanje": "Do planinarskog doma vode dvije staze. Prva ima dva dijela: 2850 m i 1975 m. Druga staza duga je 5300 m. Izračunaj za koliko je metara druga staza duža od prve.",
+      "ponudeni": [
+        "4825 m",
+        "10 125 m",
+        "575 m",
+        "475 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prva staza duga je 2850 + 1975 = 4825 m. Razlika je 5300 − 4825 = 475 m.",
+      "savjet": "Prvo izračunaj duljinu prve staze."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-084",
+      "tezina": "tesko",
+      "pitanje": "Lana ima 1350 sličica, a Petar 890. Koji račun pokazuje koliko sličica Petar treba još dobiti da ima jednako kao Lana?",
+      "ponudeni": [
+        "1350 + 890",
+        "1350 − 890",
+        "890 + 890",
+        "1350 − 890 − 890"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Petru nedostaje razlika: 1350 − 890 = 460 sličica.",
+      "savjet": "Razmisli koliko Petru nedostaje do Laninog broja sličica."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-085",
+      "tezina": "tesko",
+      "pitanje": "Ivan je prošle godine biciklom prešao 1840 km. Ove godine prešao je 375 km manje, a njegova sestra Tea 520 km više od Ivana ove godine. Izračunaj koliko je kilometara ove godine prešla Tea.",
+      "ponudeni": [
+        "2735 km",
+        "945 km",
+        "1985 km",
+        "2360 km"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ivan je ove godine prešao 1840 − 375 = 1465 km, a Tea 1465 + 520 = 1985 km.",
+      "savjet": "Prvo izračunaj koliko je Ivan prešao ove godine."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-086",
+      "tezina": "tesko",
+      "pitanje": "Koji se zadatak rješava računom 4500 − 1750?",
+      "ponudeni": [
+        "U spremniku je 4500 l vode, a potroši se 1750 l. Koliko je ostalo?",
+        "U spremniku je 4500 l vode, a dolije se 1750 l. Koliko je sada?",
+        "Potrošeno je 1750 l vode, a ostalo je 4500 l. Koliko je bilo?",
+        "Prvi dan potrošeno je 1750 l, a drugi 4500 l. Koliko ukupno?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad se voda potroši, oduzimamo: 4500 − 1750 = 2750 l. U ostalim zadacima treba zbrajati.",
+      "savjet": "Za svaki zadatak razmisli povećava li se ili smanjuje količina vode."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-087",
+      "tezina": "tesko",
+      "pitanje": "Majica košta 35 €, a kapa je 18 € jeftinija od majice. Klara je kupila majicu i kapu i platila novčanicom od 100 €. Izračunaj koliko je novca dobila natrag.",
+      "ponudeni": [
+        "48 €",
+        "82 €",
+        "65 €",
+        "47 €"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kapa košta 35 − 18 = 17 €, a oboje 35 + 17 = 52 €. Natrag je dobila 100 − 52 = 48 €.",
+      "savjet": "Prvo izračunaj cijenu kape, a zatim cijenu obje stvari zajedno."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-088",
+      "tezina": "tesko",
+      "pitanje": "Tri sela imaju 1245, 980 i 1630 stanovnika. Grad u blizini ima 12 400 stanovnika. Izračunaj za koliko stanovnika grad ima više nego sva tri sela zajedno.",
+      "ponudeni": [
+        "16 255 stanovnika",
+        "8655 stanovnika",
+        "8545 stanovnika",
+        "3855 stanovnika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sela zajedno imaju 1245 + 980 + 1630 = 3855 stanovnika. Razlika je 12 400 − 3855 = 8545 stanovnika.",
+      "savjet": "Prvo zbroji stanovnike svih triju sela."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-089",
+      "tezina": "tesko",
+      "pitanje": "Zoološki vrt prošle je subote imao 4380 posjetitelja, a ove subote 715 više. U nedjelju je bilo 860 posjetitelja manje nego ove subote. Izračunaj koliko je posjetitelja bilo u nedjelju.",
+      "ponudeni": [
+        "5955 posjetitelja",
+        "4235 posjetitelja",
+        "4525 posjetitelja",
+        "3520 posjetitelja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ove subote bilo je 4380 + 715 = 5095 posjetitelja. U nedjelju: 5095 − 860 = 4235 posjetitelja.",
+      "savjet": "Prvo izračunaj broj posjetitelja ove subote."
+    },
+    {
+      "id": "4-matematika-zbrajanje-i-oduzimanje-zadaci-rijecima-090",
+      "tezina": "tesko",
+      "pitanje": "Za priredbu treba 650 stolica. U dvorani ih ima 385, a iz učionica su donijeli još 198. Izračunaj koliko još stolica treba donijeti.",
+      "ponudeni": [
+        "265 stolica",
+        "452 stolice",
+        "77 stolica",
+        "67 stolica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Već imaju 385 + 198 = 583 stolice. Treba još 650 − 583 = 67 stolica.",
+      "savjet": "Prvo izračunaj koliko stolica već imaju."
     }
   ]
 }

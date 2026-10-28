@@ -154,6 +154,1112 @@
       "tocan": 0,
       "objasnjenje": "Najveći šesteroznamenkasti broj je 999 999, a najmanji 100 000. Razlika je 999 999 − 100 000 = 899 999.",
       "savjet": "Najmanji šesteroznamenkasti broj počinje jedinicom i ima pet nula."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-012",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 5867 − 2345.",
+      "ponudeni": [
+        "3522",
+        "3512",
+        "8212",
+        "3622"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oduzimaš redom: 7 − 5 = 2, 6 − 4 = 2, 8 − 3 = 5 i 5 − 2 = 3. Razlika je 3522.",
+      "savjet": "Potpiši brojeve jedan ispod drugog i kreni od jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-013",
+      "tezina": "lagano",
+      "pitanje": "U zadatku 7425 − 3112 = 4313 koji je broj umanjitelj?",
+      "ponudeni": [
+        "7425",
+        "3112",
+        "4313",
+        "10 537"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umanjitelj je broj koji oduzimamo, a u ovom zadatku to je 3112.",
+      "savjet": "Umanjenik je broj od kojeg oduzimamo, a umanjitelj broj koji oduzimamo."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-014",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove rezultat oduzimanja?",
+      "ponudeni": [
+        "zbroj",
+        "umnožak",
+        "razlika",
+        "umanjenik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rezultat oduzimanja zove se razlika. Rezultat zbrajanja zove se zbroj.",
+      "savjet": "Sjeti se kako se zovu brojevi u zadatku 9 − 4 = 5."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-015",
+      "tezina": "lagano",
+      "pitanje": "Kojim računom provjeravaš je li točno 6845 − 2324 = 4521?",
+      "ponudeni": [
+        "4521 − 2324",
+        "6845 + 2324",
+        "6845 + 4521",
+        "4521 + 2324"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Razlici dodaš umanjitelj: 4521 + 2324 = 6845. Dobiješ umanjenik, pa je oduzimanje točno.",
+      "savjet": "Oduzimanje provjeravaš zbrajanjem: zbroj mora biti jednak umanjeniku."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 48 763 − 25 341.",
+      "ponudeni": [
+        "23 432",
+        "23 422",
+        "74 104",
+        "22 422"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oduzimaš redom od jedinica: 2, 2, 4, 3 i 2. Razlika je 23 422.",
+      "savjet": "Oduzimaj znamenke istih mjesnih vrijednosti, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-017",
+      "tezina": "lagano",
+      "pitanje": "Od kojih znamenaka počinješ pisano oduzimanje?",
+      "ponudeni": [
+        "od desetica",
+        "od stotica",
+        "od jedinica",
+        "od tisućica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pisano oduzimanje počinješ od jedinica, s desne strane, i nastavljaš prema lijevo.",
+      "savjet": "Sjeti se kako počinješ pisano zbrajanje."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-018",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 9654 − 3210.",
+      "ponudeni": [
+        "6434",
+        "12 864",
+        "6544",
+        "6444"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Računaš 4 − 0 = 4, 5 − 1 = 4, 6 − 2 = 4 i 9 − 3 = 6, pa je razlika 6444.",
+      "savjet": "Nijedna znamenka umanjitelja nije veća od znamenke iznad nje, pa ne trebaš posuđivati."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-019",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 5372 − 1248.",
+      "ponudeni": [
+        "4124",
+        "4136",
+        "4134",
+        "4224"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kod jedinica posudiš deseticu: 12 − 8 = 4. Zatim 6 − 4 = 2, 3 − 2 = 1 i 5 − 1 = 4, pa je razlika 4124.",
+      "savjet": "Kad je znamenka gore manja, posudi jednu deseticu i ne zaboravi je oduzeti."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-020",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 36 584 − 12 473.",
+      "ponudeni": [
+        "24 101",
+        "49 057",
+        "24 111",
+        "24 211"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oduzimaš redom: 4 − 3 = 1, 8 − 7 = 1, 5 − 4 = 1, 6 − 2 = 4 i 3 − 1 = 2. Razlika je 24 111.",
+      "savjet": "Potpiši jedinice ispod jedinica i oduzimaj stupac po stupac."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-021",
+      "tezina": "lagano",
+      "pitanje": "Umanjenik je 8000, a razlika 3000. Izračunaj umanjitelj.",
+      "ponudeni": [
+        "11 000",
+        "3000",
+        "4000",
+        "5000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umanjitelj je 5000 jer je 8000 − 5000 = 3000.",
+      "savjet": "Razmisli koji broj treba oduzeti od umanjenika da ostane razlika."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-022",
+      "tezina": "lagano",
+      "pitanje": "Zadatak 6458 − 2135 pišeš pisano. Ispod koje znamenke broja 6458 potpisuješ znamenku 1?",
+      "ponudeni": [
+        "ispod 4",
+        "ispod 6",
+        "ispod 5",
+        "ispod 8"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U broju 2135 znamenka 1 označava stotice, pa je potpisuješ ispod stotica broja 6458, a to je znamenka 4.",
+      "savjet": "Potpisuješ jedinice ispod jedinica, desetice ispod desetica i tako dalje."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-023",
+      "tezina": "lagano",
+      "pitanje": "Znaš da je 9435 − 2214 = 7221. Izračunaj 7221 + 2214.",
+      "ponudeni": [
+        "5007",
+        "9435",
+        "9425",
+        "11 649"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlika i umanjitelj zajedno daju umanjenik, pa je 7221 + 2214 = 9435.",
+      "savjet": "Sjeti se kako se oduzimanje provjerava zbrajanjem."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-024",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 784 596 − 351 324.",
+      "ponudeni": [
+        "433 262",
+        "1 135 920",
+        "432 272",
+        "433 272"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oduzimaš stupac po stupac od jedinica: 2, 7, 2, 3, 3 i 4. Razlika je 433 272.",
+      "savjet": "I kod šesteroznamenkastih brojeva oduzimaš znamenke istih mjesnih vrijednosti."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-025",
+      "tezina": "lagano",
+      "pitanje": "Knjižnica ima 4875 knjiga. Posuđene su 1352 knjige. Izračunaj koliko je knjiga ostalo u knjižnici.",
+      "ponudeni": [
+        "3523",
+        "6227",
+        "3533",
+        "3423"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od svih knjiga oduzmeš posuđene: 4875 − 1352 = 3523.",
+      "savjet": "Kad se nešto uzme, ostatak računaš oduzimanjem."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 8457 − 1000.",
+      "ponudeni": [
+        "8357",
+        "7457",
+        "8447",
+        "8456"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oduzimaš samo jednu tisućicu, pa se mijenja samo znamenka tisućica: 8457 − 1000 = 7457.",
+      "savjet": "Broj 1000 ima samo jednu tisućicu, a ostale su mu znamenke nule."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-027",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 63 925 − 20 300.",
+      "ponudeni": [
+        "84 225",
+        "61 895",
+        "43 625",
+        "43 525"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od 63 925 oduzmeš 2 desetice tisuća i 3 stotice, pa dobiješ 43 625.",
+      "savjet": "Oduzimaj ondje gdje umanjitelj nema nulu, a ostale znamenke prepiši."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-028",
+      "tezina": "lagano",
+      "pitanje": "Umanjenik je 9876, a umanjitelj 4321. Izračunaj razliku.",
+      "ponudeni": [
+        "5555",
+        "14 197",
+        "5545",
+        "5655"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlika je 9876 − 4321 = 5555.",
+      "savjet": "Razliku dobiješ kad od umanjenika oduzmeš umanjitelj."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-029",
+      "tezina": "lagano",
+      "pitanje": "Pri oduzimanju 4253 − 1627 znamenka jedinica umanjenika manja je od znamenke jedinica umanjitelja. Što trebaš napraviti?",
+      "ponudeni": [
+        "oduzeti 3 od 7",
+        "posuditi jednu deseticu",
+        "u razlici napisati 0",
+        "posuditi jednu tisućicu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Posudiš jednu deseticu, pa računaš 13 − 7 = 6, a umjesto 5 desetica ostaju 4.",
+      "savjet": "Kad gore nema dovoljno jedinica, uzmi ih iz susjednog mjesta s lijeve strane."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-030",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 57 386 − 4152.",
+      "ponudeni": [
+        "15 866",
+        "53 334",
+        "53 234",
+        "61 538"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 4152 potpišeš tako da su jedinice ispod jedinica, pa dobiješ 57 386 − 4152 = 53 234.",
+      "savjet": "Umanjitelj ima manje znamenaka, pa ga potpiši zdesna: jedinice ispod jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-031",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 6390 − 2170.",
+      "ponudeni": [
+        "4120",
+        "8560",
+        "4210",
+        "4220"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Računaš 0 − 0 = 0, 9 − 7 = 2, 3 − 1 = 2 i 6 − 2 = 4, pa je razlika 4220.",
+      "savjet": "Kad je u oba broja na istom mjestu nula, i u razlici je na tom mjestu nula."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-032",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 4567 − 4567.",
+      "ponudeni": [
+        "1",
+        "0",
+        "4567",
+        "9134"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad od broja oduzmeš taj isti broj, ne ostane ništa, pa je razlika 0.",
+      "savjet": "Razmisli što ostane kad od nekog broja oduzmeš taj isti broj."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-033",
+      "tezina": "lagano",
+      "pitanje": "U razrednoj kasici bilo je 1580 eura. Za izlet je potrošeno 1250 eura. Izračunaj koliko je novca ostalo.",
+      "ponudeni": [
+        "2830 eura",
+        "320 eura",
+        "330 eura",
+        "430 eura"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od 1580 eura oduzmeš 1250 eura: 1580 − 1250 = 330, pa je ostalo 330 eura.",
+      "savjet": "Od novca koji je bio u kasici oduzmi potrošeni novac."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-034",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 95 870 − 43 520.",
+      "ponudeni": [
+        "52 450",
+        "139 390",
+        "52 340",
+        "52 350"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oduzimaš redom: 0 − 0 = 0, 7 − 2 = 5, 8 − 5 = 3, 5 − 3 = 2 i 9 − 4 = 5. Razlika je 52 350.",
+      "savjet": "Kreni od jedinica i oduzimaj stupac po stupac prema lijevo."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-035",
+      "tezina": "lagano",
+      "pitanje": "U vlaku je bilo 1468 putnika. Na stanici je izašlo 235 putnika. Izračunaj koliko je putnika ostalo u vlaku.",
+      "ponudeni": [
+        "1233",
+        "1703",
+        "1243",
+        "1133"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Računaš 1468 − 235 = 1233, pa je u vlaku ostalo 1233 putnika.",
+      "savjet": "Broj 235 potpiši tako da su jedinice ispod jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 7354 − 2867.",
+      "ponudeni": [
+        "5513",
+        "4597",
+        "4487",
+        "4497"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Posuđuješ tri puta: 14 − 7 = 7, 14 − 6 = 8, 12 − 8 = 4 i 6 − 2 = 4. Razlika je 4487.",
+      "savjet": "Svaki put kad posudiš, znamenku s lijeve strane smanji za jedan."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 8000 − 3456.",
+      "ponudeni": [
+        "5456",
+        "4644",
+        "4554",
+        "4544"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 8000 rastaviš na 7 tisućica, 9 stotica, 9 desetica i 10 jedinica, pa je razlika 4544.",
+      "savjet": "Kad su na mjestima nule, posudi od prve znamenke koja nije nula."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 50 000 − 12 345.",
+      "ponudeni": [
+        "37 655",
+        "42 345",
+        "38 665",
+        "37 665"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 50 000 rastaviš na 4 desetice tisuća, 9 tisućica, 9 stotica, 9 desetica i 10 jedinica, pa dobiješ 37 655.",
+      "savjet": "Posudi od desetica tisuća jer su sve ostale znamenke umanjenika nule."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 30 000 − 4729.",
+      "ponudeni": [
+        "34 729",
+        "25 271",
+        "26 271",
+        "25 281"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Provjera zbrajanjem: 25 271 + 4729 = 30 000, pa je razlika 25 271.",
+      "savjet": "Umanjitelj potpiši zdesna, a nule umanjenika riješi posuđivanjem."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 603 215 − 248 739.",
+      "ponudeni": [
+        "445 524",
+        "355 476",
+        "354 486",
+        "354 476"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Posuđuješ u gotovo svakom stupcu, a provjera 354 476 + 248 739 = 603 215 pokazuje da je razlika točna.",
+      "savjet": "Ne zaboravi smanjiti znamenku od koje posuđuješ, čak i kad je to nula."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-041",
+      "tezina": "srednje",
+      "pitanje": "Razlika je 2735, a umanjitelj 4589. Izračunaj umanjenik.",
+      "ponudeni": [
+        "7324",
+        "1854",
+        "6324",
+        "7314"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umanjenik je zbroj razlike i umanjitelja: 2735 + 4589 = 7324.",
+      "savjet": "Umanjenik dobiješ zbrajanjem, kao kod provjere oduzimanja."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-042",
+      "tezina": "srednje",
+      "pitanje": "Ema je izračunala 6524 − 2781 = 3843. Provjera zbrajanjem pokazuje da je pogriješila. Izračunaj točnu razliku.",
+      "ponudeni": [
+        "3753",
+        "3743",
+        "4263",
+        "3643"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točno je 6524 − 2781 = 3743, jer je 3743 + 2781 = 6524.",
+      "savjet": "Zbroji Emin rezultat i umanjitelj pa usporedi zbroj s umanjenikom."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-043",
+      "tezina": "srednje",
+      "pitanje": "U zadatku 7684 − 2□51 = 5233 nedostaje jedna znamenka. Koja?",
+      "ponudeni": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umanjitelj je 7684 − 5233 = 2451, pa nedostaje znamenka 4.",
+      "savjet": "Umanjitelj dobiješ kad od umanjenika oduzmeš razliku."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-044",
+      "tezina": "srednje",
+      "pitanje": "Koja je razlika najveća?",
+      "ponudeni": [
+        "7500 − 2000",
+        "9000 − 4500",
+        "8000 − 3200",
+        "6000 − 1600"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlike su 5500, 4500, 4800 i 4400, pa je najveća 7500 − 2000 = 5500.",
+      "savjet": "Najveći umanjenik ne mora dati najveću razliku, zato izračunaj svaku."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-045",
+      "tezina": "srednje",
+      "pitanje": "Koja je razlika najmanja?",
+      "ponudeni": [
+        "52 000 − 27 500",
+        "61 000 − 36 800",
+        "48 000 − 23 000",
+        "39 000 − 14 300"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlike su 24 200, 24 500, 25 000 i 24 700, pa je najmanja 61 000 − 36 800 = 24 200.",
+      "savjet": "Izračunaj svaku razliku pa usporedi rezultate, počevši od najveće mjesne vrijednosti."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-046",
+      "tezina": "srednje",
+      "pitanje": "Lovro je u igri skupio 2450 bodova, a Petra 3125 bodova. Izračunaj za koliko je bodova Petra skupila više.",
+      "ponudeni": [
+        "1335",
+        "775",
+        "675",
+        "5575"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od većeg broja bodova oduzmeš manji: 3125 − 2450 = 675.",
+      "savjet": "Za koliko je jedan broj veći od drugog, računaš oduzimanjem."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-047",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 70 405 − 38 167.",
+      "ponudeni": [
+        "48 362",
+        "32 338",
+        "33 238",
+        "32 238"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uz posuđivanje dobiješ 32 238, a provjera 32 238 + 38 167 = 70 405 to potvrđuje.",
+      "savjet": "Na mjestu desetica umanjenik ima nulu, pa jedinice posuđuju preko stotica."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-048",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 900 000 − 345 678.",
+      "ponudeni": [
+        "645 678",
+        "554 322",
+        "555 322",
+        "654 322"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Provjera zbrajanjem: 554 322 + 345 678 = 900 000, pa je razlika 554 322.",
+      "savjet": "Nakon posuđivanja nule umanjenika postaju devetke, a jedinice postaju deset."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-049",
+      "tezina": "srednje",
+      "pitanje": "Koliko puta trebaš posuđivati pri pisanom oduzimanju 6421 − 3856?",
+      "ponudeni": [
+        "2 puta",
+        "1 put",
+        "3 puta",
+        "4 puta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Posuđuješ kod jedinica, desetica i stotica, a kod tisućica ne, pa posuđuješ 3 puta.",
+      "savjet": "Idi stupac po stupac i pazi da je znamenka gore manja za jedan ako je od nje posuđeno."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-050",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 12 006 − 5478.",
+      "ponudeni": [
+        "7528",
+        "6538",
+        "6628",
+        "6528"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Posuđuješ preko nula, a provjera 6528 + 5478 = 12 006 pokazuje da je razlika točna.",
+      "savjet": "Jedinice 6 manje su od 8, a desetice i stotice su nule, pa posudi od tisućica."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-051",
+      "tezina": "srednje",
+      "pitanje": "Na koncertu je bilo 15 240 posjetitelja, od toga 8675 odraslih. Izračunaj koliko je na koncertu bilo djece.",
+      "ponudeni": [
+        "6565",
+        "13 435",
+        "7565",
+        "6575"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od svih posjetitelja oduzmeš odrasle: 15 240 − 8675 = 6565.",
+      "savjet": "Djeca su svi posjetitelji osim odraslih."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-052",
+      "tezina": "srednje",
+      "pitanje": "Umanjenik je 64 500, a razlika 27 380. Izračunaj umanjitelj.",
+      "ponudeni": [
+        "91 880",
+        "37 220",
+        "37 120",
+        "47 120"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umanjitelj dobiješ kad od umanjenika oduzmeš razliku: 64 500 − 27 380 = 37 120.",
+      "savjet": "Umanjitelj i razlika zajedno daju umanjenik."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-053",
+      "tezina": "srednje",
+      "pitanje": "U zadatku 8□12 − 3654 = 4858 nedostaje jedna znamenka. Koja?",
+      "ponudeni": [
+        "4",
+        "6",
+        "2",
+        "5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umanjenik je 4858 + 3654 = 8512, pa nedostaje znamenka 5.",
+      "savjet": "Umanjenik dobiješ zbrajanjem razlike i umanjitelja."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-054",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 5003 − 1897.",
+      "ponudeni": [
+        "3106",
+        "4894",
+        "3206",
+        "3116"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posuđuješ od tisućica jer su stotice i desetice nule. Provjera 3106 + 1897 = 5003 to potvrđuje.",
+      "savjet": "Nakon posuđivanja nule postaju devetke, a tisućice se smanje za jedan."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-055",
+      "tezina": "srednje",
+      "pitanje": "Mia je pri oduzimanju 7231 − 4586 posuđivala, ali nije smanjivala znamenke od kojih je posudila. Izračunaj točan rezultat.",
+      "ponudeni": [
+        "3355",
+        "2645",
+        "2655",
+        "2545"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uz pravilno posuđivanje 7231 − 4586 = 2645, što potvrđuje 2645 + 4586 = 7231.",
+      "savjet": "Kad posudiš deseticu, znamenka desetica u umanjeniku postane za jedan manja."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-056",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 85 316 − 9742.",
+      "ponudeni": [
+        "84 434",
+        "76 574",
+        "75 674",
+        "75 574"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedinice potpišeš ispod jedinica i posuđuješ tri puta, pa je razlika 75 574.",
+      "savjet": "Broj 9742 je četveroznamenkast, zato pazi kako ga potpisuješ."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-057",
+      "tezina": "srednje",
+      "pitanje": "Tena čita knjigu od 1204 stranice. Do kraja joj je ostalo još 387 stranica. Izračunaj koliko je stranica već pročitala.",
+      "ponudeni": [
+        "817",
+        "1591",
+        "1183",
+        "917"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od svih stranica oduzmeš one koje su ostale: 1204 − 387 = 817.",
+      "savjet": "Pročitane i nepročitane stranice zajedno čine cijelu knjigu."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-058",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj broj koji trebaš oduzeti od 9500 da dobiješ 4725.",
+      "ponudeni": [
+        "14 225",
+        "4775",
+        "4875",
+        "5875"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Traženi broj je 9500 − 4725 = 4775, jer je 9500 − 4775 = 4725.",
+      "savjet": "Traženi broj je umanjitelj, a njega dobiješ oduzimanjem razlike od umanjenika."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-059",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu jednakost.",
+      "ponudeni": [
+        "6402 − 2715 = 4313",
+        "6402 − 2715 = 3787",
+        "6402 − 2715 = 3687",
+        "6402 − 2715 = 3697"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točno je 6402 − 2715 = 3687, jer je 3687 + 2715 = 6402.",
+      "savjet": "Provjeri svaku jednakost zbrajanjem razlike i umanjitelja."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-060",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 230 450 − 115 225.",
+      "ponudeni": [
+        "115 225",
+        "125 225",
+        "115 235",
+        "345 675"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kod jedinica posudiš deseticu, 10 − 5 = 5, a kod tisućica tisućicu od desetica tisuća. Razlika je 115 225.",
+      "savjet": "Pazi na nule u umanjeniku: ondje trebaš posuditi."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-061",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 61 000 − 7250.",
+      "ponudeni": [
+        "54 750",
+        "53 750",
+        "66 250",
+        "53 850"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Provjera zbrajanjem: 53 750 + 7250 = 61 000, pa je razlika 53 750.",
+      "savjet": "Najprije potpiši 7250 zdesna, a zatim posuđuj gdje je znamenka gore manja."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-062",
+      "tezina": "tesko",
+      "pitanje": "U zadatku 7□03 − 25□8 = 4935 nedostaju dvije znamenke. Koje su to znamenke, redom slijeva nadesno?",
+      "ponudeni": [
+        "6 i 5",
+        "4 i 6",
+        "5 i 6",
+        "5 i 7"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nedostaju znamenke 5 i 6, jer je 7503 − 2568 = 4935.",
+      "savjet": "Kreni od stupca jedinica i za svaki stupac razmisli je li bilo posuđivanja."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-063",
+      "tezina": "tesko",
+      "pitanje": "Razlika dvaju brojeva je 3478. Umanjenik povećaš za 500, a umanjitelj ostaje isti. Izračunaj novu razliku.",
+      "ponudeni": [
+        "2978",
+        "3478",
+        "4478",
+        "3978"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad je umanjenik veći za 500, i razlika je veća za 500: 3478 + 500 = 3978.",
+      "savjet": "Razmisli što se događa s ostatkom kad imaš više, a oduzimaš jednako."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-064",
+      "tezina": "tesko",
+      "pitanje": "Razlika dvaju brojeva je 5260. Umanjitelj povećaš za 1000, a umanjenik ostaje isti. Izračunaj novu razliku.",
+      "ponudeni": [
+        "6260",
+        "4260",
+        "5260",
+        "5160"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad oduzimaš 1000 više, ostane 1000 manje: 5260 − 1000 = 4260.",
+      "savjet": "Kad od istog broja oduzmeš više, ostane manje."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-065",
+      "tezina": "tesko",
+      "pitanje": "Znaš da je 6420 − 3185 = 3235. Izračunaj 6670 − 3435.",
+      "ponudeni": [
+        "3485",
+        "2985",
+        "3235",
+        "3735"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umanjenik i umanjitelj veći su za 250, pa razlika ostaje ista: 3235.",
+      "savjet": "Usporedi oba umanjenika i oba umanjitelja: za koliko su se povećali?"
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-066",
+      "tezina": "tesko",
+      "pitanje": "U skladištu je bilo 12 500 kg brašna. U ponedjeljak je odvezeno 3750 kg, a u utorak 4280 kg. Izračunaj koliko je brašna ostalo.",
+      "ponudeni": [
+        "8750 kg",
+        "8220 kg",
+        "5470 kg",
+        "4470 kg"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nakon ponedjeljka ostalo je 12 500 − 3750 = 8750 kg, a nakon utorka 8750 − 4280 = 4470 kg.",
+      "savjet": "Oduzmi redom obje količine koje su odvezene."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-067",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj broj koji je za 2748 manji od razlike brojeva 10 000 i 3519.",
+      "ponudeni": [
+        "3733",
+        "6481",
+        "9229",
+        "3833"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlika je 10 000 − 3519 = 6481, a broj za 2748 manji je 6481 − 2748 = 3733.",
+      "savjet": "Najprije izračunaj razliku, a zatim od nje oduzmi 2748."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-068",
+      "tezina": "tesko",
+      "pitanje": "Luka je izračunao 80 302 − 46 175 = 34 137. Koja je znamenka u njegovoj razlici pogrešna?",
+      "ponudeni": [
+        "znamenka jedinica",
+        "znamenka stotica",
+        "znamenka desetica",
+        "znamenka tisućica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točna razlika je 34 127. Luka je u stupcu desetica napisao 3 umjesto 2.",
+      "savjet": "Izračunaj točnu razliku i usporedi je s Lukinom znamenku po znamenku."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-069",
+      "tezina": "tesko",
+      "pitanje": "Koja je od ovih razlika najveća?",
+      "ponudeni": [
+        "7003 − 2998",
+        "9000 − 4960",
+        "5420 − 1385",
+        "6100 − 2050"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Razlike su 4050, 4005, 4040 i 4035, pa je najveća 6100 − 2050 = 4050.",
+      "savjet": "Razlike su vrlo bliske, zato svaku izračunaj točno pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-070",
+      "tezina": "tesko",
+      "pitanje": "Kojim brojem treba zamijeniti □ u 8000 − □ da razlika bude veća od 5000, a manja od 5100?",
+      "ponudeni": [
+        "2950",
+        "3050",
+        "2850",
+        "2900"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 8000 − 2950 = 5050, a taj je broj veći od 5000 i manji od 5100.",
+      "savjet": "Isprobaj svaki ponuđeni broj i provjeri je li razlika između zadanih brojeva."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-071",
+      "tezina": "tesko",
+      "pitanje": "Od najmanjeg peteroznamenkastog broja oduzmi najveći četveroznamenkasti broj. Izračunaj razliku.",
+      "ponudeni": [
+        "0",
+        "1",
+        "9",
+        "10"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najmanji peteroznamenkasti broj je 10 000, a najveći četveroznamenkasti 9999, pa je razlika 10 000 − 9999 = 1.",
+      "savjet": "Najveći četveroznamenkasti broj ima četiri devetke, a najmanji peteroznamenkasti počinje jedinicom."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-072",
+      "tezina": "tesko",
+      "pitanje": "Zbroj umanjenika, umanjitelja i razlike je 18 400. Izračunaj umanjenik.",
+      "ponudeni": [
+        "18 400",
+        "4600",
+        "9400",
+        "9200"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umanjitelj i razlika zajedno daju umanjenik, pa je zbroj dvostruki umanjenik: 9200 + 9200 = 18 400.",
+      "savjet": "Sjeti se da umanjitelj i razlika zajedno daju umanjenik."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-073",
+      "tezina": "tesko",
+      "pitanje": "U zadatku □4 □00 − 17 356 = 26 644 nedostaju dvije znamenke. Koje su to znamenke, redom slijeva nadesno?",
+      "ponudeni": [
+        "4 i 0",
+        "3 i 9",
+        "4 i 1",
+        "3 i 0"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umanjenik je 26 644 + 17 356 = 44 000, pa nedostaju znamenke 4 i 0.",
+      "savjet": "Umanjenik dobiješ zbrajanjem razlike i umanjitelja."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-074",
+      "tezina": "tesko",
+      "pitanje": "Grad ima 125 400 stanovnika, a od toga je 68 950 žena. Izračunaj za koliko je u gradu više žena nego muškaraca.",
+      "ponudeni": [
+        "56 450",
+        "12 500",
+        "13 500",
+        "11 500"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Muškaraca je 125 400 − 68 950 = 56 450, a žena je više za 68 950 − 56 450 = 12 500.",
+      "savjet": "Najprije izračunaj koliko je u gradu muškaraca."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-075",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj broj koji trebaš dodati broju 37 865 da dobiješ 100 000.",
+      "ponudeni": [
+        "63 135",
+        "62 145",
+        "62 135",
+        "72 135"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Traženi broj je 100 000 − 37 865 = 62 135.",
+      "savjet": "Nepoznati pribrojnik dobiješ oduzimanjem."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-076",
+      "tezina": "tesko",
+      "pitanje": "Pri kojem oduzimanju ne trebaš posuđivati ni u jednom stupcu?",
+      "ponudeni": [
+        "7865 − 4532",
+        "7865 − 4572",
+        "7865 − 4938",
+        "7865 − 3876"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zadatku 7865 − 4532 nijedna znamenka umanjenika nije manja od znamenke umanjitelja ispod nje, pa se ne posuđuje.",
+      "savjet": "Usporedi znamenke u svakom stupcu: je li gornja manja od donje?"
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-077",
+      "tezina": "tesko",
+      "pitanje": "Umanjenik je za 3500 veći od umanjitelja. Izračunaj razliku.",
+      "ponudeni": [
+        "7000",
+        "3500",
+        "0",
+        "1750"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlika pokazuje za koliko je umanjenik veći od umanjitelja, pa je razlika 3500.",
+      "savjet": "Isprobaj na primjeru: ako je umanjitelj 1000, koliki je umanjenik?"
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-078",
+      "tezina": "tesko",
+      "pitanje": "Tvornica je proizvela 250 000 olovaka. U Hrvatskoj je prodano 87 645, a u inozemstvu 96 380 olovaka. Izračunaj koliko je olovaka ostalo.",
+      "ponudeni": [
+        "162 355",
+        "66 975",
+        "65 975",
+        "75 975"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon prodaje u Hrvatskoj ostalo je 250 000 − 87 645 = 162 355, a zatim 162 355 − 96 380 = 65 975.",
+      "savjet": "Od ukupnog broja olovaka oduzmi redom obje prodane količine."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-079",
+      "tezina": "tesko",
+      "pitanje": "U zadatku 6□51 − □874 = 2777 nedostaju dvije znamenke. Koje su to znamenke, redom slijeva nadesno?",
+      "ponudeni": [
+        "5 i 3",
+        "6 i 4",
+        "7 i 3",
+        "6 i 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nedostaju znamenke 6 i 3, jer je 6651 − 3874 = 2777.",
+      "savjet": "Kreni od jedinica i prati u kojim se stupcima posuđivalo."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-080",
+      "tezina": "tesko",
+      "pitanje": "Od najvećeg četveroznamenkastog broja s različitim znamenkama oduzmi najmanji četveroznamenkasti broj s različitim znamenkama. Izračunaj razliku.",
+      "ponudeni": [
+        "8863",
+        "8853",
+        "8999",
+        "8876"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najveći takav broj je 9876, a najmanji 1023, pa je razlika 9876 − 1023 = 8853.",
+      "savjet": "Najmanji četveroznamenkasti broj s različitim znamenkama ne smije početi nulom."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-081",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj za koliko je razlika 9000 − 3750 veća od razlike 7000 − 4125.",
+      "ponudeni": [
+        "2475",
+        "8125",
+        "2375",
+        "2385"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prva razlika je 5250, a druga 2875, pa je 5250 − 2875 = 2375.",
+      "savjet": "Najprije izračunaj obje razlike, a zatim oduzmi manju od veće."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-082",
+      "tezina": "tesko",
+      "pitanje": "Koja razlika ima samo tri znamenke?",
+      "ponudeni": [
+        "3000 − 1999",
+        "5104 − 4098",
+        "7000 − 5990",
+        "2005 − 1018"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 2005 − 1018 = 987, a ostale su razlike veće od 1000.",
+      "savjet": "Razlika ima tri znamenke ako je manja od tisuću."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-083",
+      "tezina": "tesko",
+      "pitanje": "Obitelj je uštedjela 15 000 eura. Nakon kupnje automobila ostalo joj je 2685 eura. Izračunaj koliko je automobil stajao.",
+      "ponudeni": [
+        "12 315 eura",
+        "17 685 eura",
+        "13 315 eura",
+        "12 325 eura"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Cijena automobila je 15 000 − 2685 = 12 315 eura.",
+      "savjet": "Od ušteđenog novca oduzmi novac koji je ostao."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-084",
+      "tezina": "tesko",
+      "pitanje": "Razlika dvaju brojeva je 4250, a umanjitelj je 2875. Izračunaj zbroj umanjenika i umanjitelja.",
+      "ponudeni": [
+        "7125",
+        "1375",
+        "10 000",
+        "9000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umanjenik je 4250 + 2875 = 7125, pa je zbroj 7125 + 2875 = 10 000.",
+      "savjet": "Najprije odredi umanjenik zbrajanjem razlike i umanjitelja."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-085",
+      "tezina": "tesko",
+      "pitanje": "Znaš da je 54 321 − 12 345 = 41 976. Izračunaj 54 321 − 12 346.",
+      "ponudeni": [
+        "41 977",
+        "41 976",
+        "41 966",
+        "41 975"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umanjitelj je veći za 1, pa je razlika manja za 1: 41 975.",
+      "savjet": "Razmisli što se dogodi s razlikom kad oduzimaš malo više."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-086",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 700 006 − 298 547.",
+      "ponudeni": [
+        "401 459",
+        "598 541",
+        "411 459",
+        "401 469"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posuđuješ preko svih nula, a provjera 401 459 + 298 547 = 700 006 potvrđuje rezultat.",
+      "savjet": "Nakon posuđivanja nule umanjenika postaju devetke, a sedam stotica tisuća smanji se za jedan."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-087",
+      "tezina": "tesko",
+      "pitanje": "Staza je duga 20 000 m. Ana je prešla 7865 m, a Luka 2350 m više od Ane. Izračunaj koliko je metara Luki ostalo do cilja.",
+      "ponudeni": [
+        "14 485 m",
+        "9785 m",
+        "12 135 m",
+        "9885 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Luka je prešao 7865 + 2350 = 10 215 m, pa mu je ostalo 20 000 − 10 215 = 9785 m.",
+      "savjet": "Najprije izračunaj koliko je metara prešao Luka."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-088",
+      "tezina": "tesko",
+      "pitanje": "Koja je znamenka desetica u razlici 83 452 − 27 619?",
+      "ponudeni": [
+        "4",
+        "6",
+        "8",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kod jedinica se posuđuje jedna desetica, pa kod desetica računaš 4 − 1 = 3. Cijela razlika je 55 833.",
+      "savjet": "Najprije provjeri trebaju li jedinice posuditi deseticu."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-089",
+      "tezina": "tesko",
+      "pitanje": "Koja razlika iznosi 4805?",
+      "ponudeni": [
+        "9020 − 4215",
+        "8100 − 3395",
+        "7310 − 2595",
+        "6000 − 1205"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 9020 − 4215 = 4805, a ostale razlike su 4705, 4715 i 4795.",
+      "savjet": "Izračunaj svaku razliku ili je provjeri zbrajanjem."
+    },
+    {
+      "id": "4-matematika-pisano-oduzimanje-090",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj broj od kojeg trebaš oduzeti 36 708 da dobiješ 48 495.",
+      "ponudeni": [
+        "11 787",
+        "85 203",
+        "84 203",
+        "85 103"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Traženi broj je umanjenik: 48 495 + 36 708 = 85 203.",
+      "savjet": "Umanjenik dobiješ kad zbrojiš razliku i umanjitelj."
     }
   ]
 }

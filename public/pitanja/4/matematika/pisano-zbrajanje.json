@@ -224,6 +224,1042 @@
       "tocan": 1,
       "objasnjenje": "36 999 je za 1 manje od 37 000, pa je i zbroj za 1 manji: 62 000 − 1 = 61 999.",
       "savjet": "Ako se pribrojnik smanji, za toliko se smanji i zbroj."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu brojevi koje zbrajamo?",
+      "ponudeni": [
+        "pribrojnici",
+        "zbrojevi",
+        "umanjenici",
+        "faktori"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brojevi koje zbrajamo zovu se pribrojnici, a rezultat zbrajanja je zbroj.",
+      "savjet": "Sjeti se kako se zove rezultat zbrajanja, a kako brojevi od kojih ga dobivamo."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-018",
+      "tezina": "lagano",
+      "pitanje": "U zadatku 3254 + 1423 = 4677 kako se zove broj 4677?",
+      "ponudeni": [
+        "pribrojnik",
+        "razlika",
+        "umanjenik",
+        "zbroj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rezultat zbrajanja zove se zbroj. Brojevi 3254 i 1423 su pribrojnici.",
+      "savjet": "Broj 4677 je rezultat zbrajanja."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-019",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 2314 + 4352.",
+      "ponudeni": [
+        "6566",
+        "6676",
+        "6666",
+        "7666"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbrajamo stupac po stupac: 4 + 2 = 6, 1 + 5 = 6, 3 + 3 = 6, 2 + 4 = 6. Zbroj je 6666.",
+      "savjet": "Potpiši brojeve jedan ispod drugoga i zbrajaj od jedinica prema tisućicama."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-020",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 31 205 + 42 571.",
+      "ponudeni": [
+        "73 766",
+        "73 776",
+        "72 776",
+        "74 776"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U ovom zadatku nema prijelaza, pa samo zbrojiš znamenke u svakom stupcu. Zbroj je 73 776.",
+      "savjet": "Zbroji jedinice s jedinicama, desetice s deseticama i tako redom."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-021",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 213 402 + 541 375.",
+      "ponudeni": [
+        "754 767",
+        "754 777",
+        "744 777",
+        "755 777"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrajamo stupac po stupac bez prijelaza: 2 + 5 = 7, 0 + 7 = 7, 4 + 3 = 7, 3 + 1 = 7, 1 + 4 = 5, 2 + 5 = 7. Zbroj je 754 777.",
+      "savjet": "Potpiši brojeve tako da su jedinice točno ispod jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-022",
+      "tezina": "lagano",
+      "pitanje": "Kako potpisujemo brojeve za pisano zbrajanje?",
+      "ponudeni": [
+        "jedinice ispod jedinica, desetice ispod desetica",
+        "prvu znamenku ispod prve znamenke",
+        "poravnate po lijevom rubu",
+        "kraći broj na sredinu duljeg broja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pri pisanom zbrajanju potpisujemo znamenke iste mjesne vrijednosti jednu ispod druge: jedinice ispod jedinica, desetice ispod desetica i tako dalje.",
+      "savjet": "Zbrajati smijemo samo znamenke iste mjesne vrijednosti."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-023",
+      "tezina": "lagano",
+      "pitanje": "Od kojeg stupca počinjemo pisano zbrajanje?",
+      "ponudeni": [
+        "od stupca tisućica",
+        "od stupca desetica",
+        "od stupca stotica",
+        "od stupca jedinica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pisano zbrajanje počinjemo s desne strane, od jedinica, jer prijelaz uvijek ide u stupac lijevo.",
+      "savjet": "Razmisli u koji stupac prenosimo desetice kad zbroj u stupcu prijeđe 9."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-024",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 4528 + 1361.",
+      "ponudeni": [
+        "5879",
+        "5989",
+        "5889",
+        "6889"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbrajamo bez prijelaza: 8 + 1 = 9, 2 + 6 = 8, 5 + 3 = 8, 4 + 1 = 5. Zbroj je 5889.",
+      "savjet": "Zbrajaj stupac po stupac, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-025",
+      "tezina": "lagano",
+      "pitanje": "Pri pisanom zbrajanju u stupcu jedinica dobiješ 7 + 5 = 12. Što radiš?",
+      "ponudeni": [
+        "pišem 12 u stupac jedinica",
+        "pišem 1, a 2 prenosim u stupac desetica",
+        "pišem 2, a 1 prenosim u stupac desetica",
+        "pišem 2, a 1 zanemarujem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "12 jedinica je 1 desetica i 2 jedinice. Zato pišemo 2, a 1 deseticu dodajemo u stupac desetica.",
+      "savjet": "Rastavi 12 na desetice i jedinice."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 3627 + 1245.",
+      "ponudeni": [
+        "4862",
+        "4872",
+        "4772",
+        "4972"
+      ],
+      "tocan": 1,
+      "objasnjenje": "7 + 5 = 12, pišemo 2 i prenosimo 1. Zatim 2 + 4 + 1 = 7, 6 + 2 = 8, 3 + 1 = 4. Zbroj je 4872.",
+      "savjet": "U stupcu jedinica ima prijelaza, pa ne zaboravi prenesenu deseticu."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-027",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 52 418 + 31 270.",
+      "ponudeni": [
+        "83 688",
+        "83 678",
+        "84 688",
+        "83 588"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrajamo bez prijelaza: 8 + 0 = 8, 1 + 7 = 8, 4 + 2 = 6, 2 + 1 = 3, 5 + 3 = 8. Zbroj je 83 688.",
+      "savjet": "Potpiši brojeve po mjesnim vrijednostima i zbrajaj od jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-028",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 6000 + 2537.",
+      "ponudeni": [
+        "6537",
+        "8357",
+        "9537",
+        "8537"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 6000 ima samo tisućice, pa se mijenja samo znamenka tisućica: 6 + 2 = 8. Zbroj je 8537.",
+      "savjet": "Jedinice, desetice i stotice prepiši, a tisućice zbroji."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-029",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 40 000 + 5321.",
+      "ponudeni": [
+        "93 210",
+        "46 321",
+        "45 000",
+        "45 321"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 5321 potpisujemo tako da je 5 ispod znamenke tisućica. Zbroj je 45 321.",
+      "savjet": "Pazi da jedinice broja 5321 budu ispod jedinica broja 40 000."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-030",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove zbrajanje u kojem je zbroj znamenaka u nekom stupcu veći od 9?",
+      "ponudeni": [
+        "zbrajanje bez prijelaza",
+        "zbrajanje s ostatkom",
+        "zbrajanje s prijelazom",
+        "zaokruživanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad je zbroj znamenaka u stupcu 10 ili više, jednu jedinicu prenosimo u sljedeći stupac. To je zbrajanje s prijelazom.",
+      "savjet": "Sjeti se što se događa kad u stupcu dobiješ dvoznamenkasti broj."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-031",
+      "tezina": "lagano",
+      "pitanje": "Koji je zadatak zbrajanje bez prijelaza?",
+      "ponudeni": [
+        "2348 + 5426",
+        "2341 + 5426",
+        "2391 + 5426",
+        "2341 + 5486"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U zadatku 2341 + 5426 zbroj znamenaka ni u jednom stupcu nije veći od 9: 1 + 6, 4 + 2, 3 + 4 i 2 + 5.",
+      "savjet": "Za svaki zadatak zbroji znamenke u svakom stupcu i provjeri prelazi li neki zbroj 9."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-032",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 1200 + 2300 + 3400.",
+      "ponudeni": [
+        "6900",
+        "6800",
+        "7900",
+        "6000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojimo stotice: 2 + 3 + 4 = 9, a zatim tisućice: 1 + 2 + 3 = 6. Zbroj je 6900.",
+      "savjet": "Potpiši sva tri broja jedan ispod drugoga pa zbrajaj stupac po stupac."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-033",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 405 120 + 3000.",
+      "ponudeni": [
+        "408 120",
+        "705 120",
+        "435 120",
+        "405 420"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 3000 ima 3 tisućice, pa se mijenja samo znamenka tisućica: 5 + 3 = 8. Zbroj je 408 120.",
+      "savjet": "Odredi na kojem mjestu stoji znamenka 3 u broju 3000."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-034",
+      "tezina": "lagano",
+      "pitanje": "Mia ima 1250 sličica, a Luka 2340 sličica. Koliko sličica imaju zajedno?",
+      "ponudeni": [
+        "3580",
+        "3490",
+        "1090",
+        "3590"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zajedno znači da zbrajamo: 1250 + 2340 = 3590 sličica.",
+      "savjet": "Riječ „zajedno“ znači da broj sličica treba zbrojiti."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-035",
+      "tezina": "lagano",
+      "pitanje": "Kojim računom možeš provjeriti zbroj 2345 + 1234 = 3579?",
+      "ponudeni": [
+        "3579 + 1234",
+        "2345 − 1234",
+        "3579 − 1234",
+        "1234 + 3579"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ako od zbroja oduzmemo jedan pribrojnik, moramo dobiti drugi pribrojnik: 3579 − 1234 = 2345.",
+      "savjet": "Zbrajanje provjeravamo oduzimanjem: od zbroja oduzmi jedan pribrojnik."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-036",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 7008 + 1991.",
+      "ponudeni": [
+        "8899",
+        "8999",
+        "8989",
+        "9999"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nema prijelaza: 8 + 1 = 9, 0 + 9 = 9, 0 + 9 = 9, 7 + 1 = 8. Zbroj je 8999.",
+      "savjet": "Zbrajaj od jedinica i pazi na nule u broju 7008."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-037",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 250 000 + 130 000 + 20 000.",
+      "ponudeni": [
+        "390 000",
+        "400 000",
+        "300 000",
+        "410 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrojimo desetice tisuća: 25 + 13 + 2 = 40 desetica tisuća. Zbroj je 400 000.",
+      "savjet": "Zanemari četiri nule na kraju, zbroji 25, 13 i 2, a onda nule vrati."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-038",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 8235 + 1764.",
+      "ponudeni": [
+        "9999",
+        "9989",
+        "9899",
+        "8999"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U svakom stupcu zbroj znamenaka je 9: 5 + 4, 3 + 6, 2 + 7, 8 + 1. Zbroj je 9999.",
+      "savjet": "Zbrajaj stupac po stupac, od jedinica prema tisućicama."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 4687 + 2548.",
+      "ponudeni": [
+        "6125",
+        "7135",
+        "7225",
+        "7235"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prijelaz je u tri stupca: 7 + 8 = 15, 8 + 4 + 1 = 13, 6 + 5 + 1 = 12, a na kraju 4 + 2 + 1 = 7. Zbroj je 7235.",
+      "savjet": "Kad je zbroj u stupcu veći od 9, prenesenu jedinicu dodaj sljedećem stupcu."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 36 458 + 27 685.",
+      "ponudeni": [
+        "53 033",
+        "63 143",
+        "64 143",
+        "64 133"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U četiri stupca ima prijelaza: 8 + 5 = 13, 5 + 8 + 1 = 14, 4 + 6 + 1 = 11, 6 + 7 + 1 = 14, 3 + 2 + 1 = 6. Zbroj je 64 143.",
+      "savjet": "Nakon svakog prijelaza dodaj 1 sljedećem stupcu lijevo."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-041",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 425 367 + 318 845.",
+      "ponudeni": [
+        "733 102",
+        "743 212",
+        "744 212",
+        "744 112"
+      ],
+      "tocan": 2,
+      "objasnjenje": "7 + 5 = 12, 6 + 4 + 1 = 11, 3 + 8 + 1 = 12, 5 + 8 + 1 = 14, 2 + 1 + 1 = 4, 4 + 3 = 7. Zbroj je 744 212.",
+      "savjet": "Zbrajaj od jedinica i zapisuj prenesene jedinice iznad sljedećeg stupca."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-042",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2645 + 1378 + 3150.",
+      "ponudeni": [
+        "7073",
+        "7173",
+        "7163",
+        "6173"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo 2645 + 1378 = 4023, zatim 4023 + 3150 = 7173.",
+      "savjet": "Zbroji najprije prva dva broja, a zatim dodaj treći."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-043",
+      "tezina": "srednje",
+      "pitanje": "U zadatku 3□52 + 2416 = 5968 nedostaje jedna znamenka. Koja?",
+      "ponudeni": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na mjestu stotica vrijedi □ + 4 = 9, pa je □ = 5. Provjera: 3552 + 2416 = 5968.",
+      "savjet": "Pogledaj stupac stotica: koji broj zbrojen s 4 daje 9?"
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-044",
+      "tezina": "srednje",
+      "pitanje": "Pri pisanom zbrajanju 3462 + 2175 u kojem stupcu zbroj znamenaka prelazi 9?",
+      "ponudeni": [
+        "u stupcu jedinica",
+        "u stupcu stotica",
+        "u stupcu tisućica",
+        "u stupcu desetica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U stupcu desetica je 6 + 7 = 13, što je više od 9. U ostalim stupcima nema prijelaza.",
+      "savjet": "Zbroji znamenke u svakom stupcu posebno, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-045",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 4325 + 612. Pazi na potpisivanje.",
+      "ponudeni": [
+        "10 445",
+        "4927",
+        "4837",
+        "4937"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 612 potpisujemo tako da je 2 ispod 5. Zbroj je 4325 + 612 = 4937.",
+      "savjet": "Jedinice broja 612 moraju biti ispod jedinica broja 4325."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-046",
+      "tezina": "srednje",
+      "pitanje": "U školskoj knjižnici ima 3485 knjiga. Kupljeno je još 1278 knjiga. Koliko knjiga sada ima knjižnica?",
+      "ponudeni": [
+        "4653",
+        "4753",
+        "4763",
+        "2207"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Knjiga je sada više, pa zbrajamo: 3485 + 1278 = 4763.",
+      "savjet": "Knjige su dodane, pa broj knjiga treba zbrojiti i paziti na prijelaz."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-047",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 58 906 + 7385.",
+      "ponudeni": [
+        "55 281",
+        "66 291",
+        "66 281",
+        "132 756"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 7385 potpisujemo ispod 8906. 6 + 5 = 11, 0 + 8 + 1 = 9, 9 + 3 = 12, 8 + 7 + 1 = 16, 5 + 1 = 6. Zbroj je 66 291.",
+      "savjet": "Prvo pravilno potpiši brojeve, jer 7385 ima jednu znamenku manje."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-048",
+      "tezina": "srednje",
+      "pitanje": "Koji je zbroj najveći?",
+      "ponudeni": [
+        "2999 + 2899",
+        "3456 + 2345",
+        "4123 + 1599",
+        "3800 + 2050"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojevi su 5898, 5801, 5722 i 5850. Najveći je 2999 + 2899 = 5898.",
+      "savjet": "Izračunaj svaki zbroj pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-049",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 199 999 + 250 001.",
+      "ponudeni": [
+        "450 000",
+        "449 990",
+        "350 000",
+        "440 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedinice daju 9 + 1 = 10, pa prijelaz ide kroz sve stupce: 199 999 + 250 001 = 450 000.",
+      "savjet": "Kreni od jedinica i pažljivo prati svaki prijelaz."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-050",
+      "tezina": "srednje",
+      "pitanje": "Marko je izračunao 4568 + 2397 = 6865. Što je točno?",
+      "ponudeni": [
+        "Točno je izračunao.",
+        "Netočno je, zbroj je 6855.",
+        "Netočno je, zbroj je 6955.",
+        "Netočno je, zbroj je 6965."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točan zbroj je 4568 + 2397 = 6965. Marko je zaboravio prijelaz iz stupca desetica.",
+      "savjet": "Izračunaj zbroj pisano pa ga usporedi s Markovim."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-051",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 70 450 + 29 550.",
+      "ponudeni": [
+        "99 900",
+        "100 100",
+        "100 000",
+        "90 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "5 + 5 = 10, pa prijelaz ide u svaki sljedeći stupac: 70 450 + 29 550 = 100 000.",
+      "savjet": "U stupcu desetica dobiješ 10, a zatim pazi na prijelaz u svakom stupcu."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-052",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 12 345 + 23 456 + 34 567.",
+      "ponudeni": [
+        "69 368",
+        "70 368",
+        "70 358",
+        "60 368"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo 12 345 + 23 456 = 35 801, zatim 35 801 + 34 567 = 70 368.",
+      "savjet": "Zbroji prva dva broja pa rezultatu dodaj treći broj."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-053",
+      "tezina": "srednje",
+      "pitanje": "Na utakmici je u subotu bilo 12 650 gledatelja, a u nedjelju 9875. Koliko je gledatelja bilo ukupno?",
+      "ponudeni": [
+        "21 525",
+        "22 525",
+        "22 425",
+        "2775"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ukupno znači da zbrajamo: 12 650 + 9875 = 22 525 gledatelja.",
+      "savjet": "Potpiši 9875 ispod 12 650 tako da jedinice budu ispod jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-054",
+      "tezina": "srednje",
+      "pitanje": "U zadatku 4□75 + 3248 = 8023 nedostaje jedna znamenka. Koja?",
+      "ponudeni": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iz stupca desetica prenosi se 1, pa je □ + 2 + 1 = 10, odnosno □ = 7. Provjera: 4775 + 3248 = 8023.",
+      "savjet": "Ne zaboravi prijelaz koji u stupac stotica dolazi iz stupca desetica."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-055",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 909 090 + 90 909.",
+      "ponudeni": [
+        "999 990",
+        "990 999",
+        "989 999",
+        "999 999"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U svakom stupcu je jedna znamenka 9 i jedna 0, pa je svaka znamenka zbroja 9.",
+      "savjet": "Potpiši 90 909 ispod 909 090 tako da jedinice budu jedna ispod druge."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-056",
+      "tezina": "srednje",
+      "pitanje": "Koja je znamenka na mjestu desetica u zbroju 34 516 + 21 357?",
+      "ponudeni": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedinice: 6 + 7 = 13, prenosimo 1. Desetice: 1 + 5 + 1 = 7. Cijeli zbroj je 55 873.",
+      "savjet": "Prvo zbroji jedinice i provjeri ima li prijelaza."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-057",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 3999 + 4001 + 2000.",
+      "ponudeni": [
+        "9000",
+        "11 000",
+        "10 000",
+        "9999"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo 3999 + 4001 = 8000, zatim 8000 + 2000 = 10 000.",
+      "savjet": "Zbroji najprije 3999 i 4001 pa rezultatu dodaj treći broj."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-058",
+      "tezina": "srednje",
+      "pitanje": "Grad ima 145 630 stanovnika, a susjedni grad 87 495. Koliko stanovnika imaju zajedno?",
+      "ponudeni": [
+        "223 125",
+        "233 125",
+        "233 025",
+        "122 025"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zajedno znači da zbrajamo: 145 630 + 87 495 = 233 125 stanovnika.",
+      "savjet": "Potpiši 87 495 tako da su jedinice ispod jedinica i pazi na prijelaze."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-059",
+      "tezina": "srednje",
+      "pitanje": "Koji zadatak ima isti zbroj kao 2457 + 6318?",
+      "ponudeni": [
+        "6318 + 2457",
+        "6318 + 2475",
+        "2457 + 6381",
+        "6381 + 2475"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pribrojnici mogu zamijeniti mjesta, a zbroj ostaje isti. Zato je 6318 + 2457 jednako 2457 + 6318.",
+      "savjet": "Pažljivo usporedi znamenke pribrojnika u svakom zadatku."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-060",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 6789 + 1234.",
+      "ponudeni": [
+        "7913",
+        "8013",
+        "8123",
+        "8023"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9 + 4 = 13, 8 + 3 + 1 = 12, 7 + 2 + 1 = 10, 6 + 1 + 1 = 8. Zbroj je 8023.",
+      "savjet": "Prijelaz je u nekoliko stupaca, pa svaki put dodaj prenesenu jedinicu."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-061",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 248 500 + 51 500.",
+      "ponudeni": [
+        "299 000",
+        "290 000",
+        "200 000",
+        "300 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "5 + 5 = 10 u stupcu stotica, a zatim prijelaz ide sve do stotica tisuća. Zbroj je 300 000.",
+      "savjet": "Počni od stupca stotica i u svakom sljedećem stupcu dodaj prenesenu jedinicu."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-062",
+      "tezina": "srednje",
+      "pitanje": "Zbroji 52 340 i 4517.",
+      "ponudeni": [
+        "97 510",
+        "56 847",
+        "56 857",
+        "57 857"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 4517 potpisujemo tako da je 7 ispod 0. Zbroj je 52 340 + 4517 = 56 857.",
+      "savjet": "Broj 4517 ima znamenku manje, pa ga potpiši od desne strane."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-063",
+      "tezina": "tesko",
+      "pitanje": "U zadatku 4□8□ + 2536 = 7424 nedostaju dvije znamenke. Koje su, redom slijeva?",
+      "ponudeni": [
+        "9 i 8",
+        "8 i 8",
+        "8 i 9",
+        "7 i 8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad od 7424 oduzmemo 2536, dobijemo 4888. Zato su obje znamenke koje nedostaju 8.",
+      "savjet": "Kreni od jedinica: koja znamenka zbrojena sa 6 daje broj koji završava na 4?"
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-064",
+      "tezina": "tesko",
+      "pitanje": "Koji je od ovih šesteroznamenkastih zbrojeva najveći?",
+      "ponudeni": [
+        "248 765 + 351 235",
+        "399 999 + 199 999",
+        "456 789 + 143 210",
+        "305 050 + 294 940"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojevi su 600 000, 599 998, 599 999 i 599 990. Najveći je 248 765 + 351 235 = 600 000.",
+      "savjet": "Svi su zbrojevi blizu istog broja, pa svaki izračunaj točno."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-065",
+      "tezina": "tesko",
+      "pitanje": "Zbroj dvaju brojeva je 8000. Jedan pribrojnik povećamo za 250, a drugi za 750. Koliki je novi zbroj?",
+      "ponudeni": [
+        "9000",
+        "8500",
+        "8250",
+        "8750"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbroj se poveća za 250 + 750 = 1000, pa je novi zbroj 8000 + 1000 = 9000.",
+      "savjet": "Zbroj se poveća za onoliko koliko ukupno povećamo oba pribrojnika."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-066",
+      "tezina": "tesko",
+      "pitanje": "Koliko se puta javlja prijelaz pri pisanom zbrajanju 5678 + 3456?",
+      "ponudeni": [
+        "1 put",
+        "2 puta",
+        "4 puta",
+        "3 puta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "8 + 6 = 14, 7 + 5 + 1 = 13 i 6 + 4 + 1 = 11 imaju prijelaz, a 5 + 3 + 1 = 9 nema. Prijelaz se javlja 3 puta.",
+      "savjet": "Zbroji stupac po stupac i ne zaboravi prenesenu jedinicu kad provjeravaš sljedeći stupac."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-067",
+      "tezina": "tesko",
+      "pitanje": "Petra je zbrojila 3685 + 2457 i dobila 5032. Koju je pogrešku napravila?",
+      "ponudeni": [
+        "Krivo je potpisala brojeve.",
+        "Oduzimala je umjesto zbrajala.",
+        "Nije dodavala prenesene jedinice.",
+        "Pogriješila je samo u stupcu tisućica."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točan zbroj je 6142. Petra je u svakom stupcu zapisala samo jedinice zbroja, a prenesenu jedinicu nije dodala sljedećem stupcu.",
+      "savjet": "Izračunaj točan zbroj pa usporedi znamenke s Petrinim rezultatom."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-068",
+      "tezina": "tesko",
+      "pitanje": "Koja je najveća znamenka koju možeš upisati u □ da zbroj 4□27 + 3561 bude manji od 8300?",
+      "ponudeni": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za □ = 7 zbroj je 4727 + 3561 = 8288, što je manje od 8300. Za □ = 8 zbroj je 8388, što je previše.",
+      "savjet": "Isprobaj znamenke redom i svaki put izračunaj zbroj."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-069",
+      "tezina": "tesko",
+      "pitanje": "Učenici su skupljali papir: 4. a 1275 kg, 4. b 986 kg i 4. c 1439 kg. Koliko su kilograma skupili zajedno?",
+      "ponudeni": [
+        "3600 kg",
+        "3700 kg",
+        "3710 kg",
+        "3800 kg"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo 1275 + 986 = 2261, zatim 2261 + 1439 = 3700. Skupili su 3700 kg papira.",
+      "savjet": "Potpiši sva tri broja po mjesnim vrijednostima; broj 986 ima samo tri znamenke."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-070",
+      "tezina": "tesko",
+      "pitanje": "Koja dva broja treba zbrojiti da se dobije 100 000?",
+      "ponudeni": [
+        "45 678 + 54 322",
+        "45 678 + 55 322",
+        "45 678 + 54 422",
+        "45 678 + 64 322"
+      ],
+      "tocan": 0,
+      "objasnjenje": "45 678 + 54 322 = 100 000. Ostali zbrojevi su 101 000, 100 100 i 110 000.",
+      "savjet": "Prvi pribrojnik je svugdje isti, pa pažljivo usporedi drugi pribrojnik i prijelaze."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-071",
+      "tezina": "tesko",
+      "pitanje": "Koji zadatak ima isti zbroj kao 4999 + 3001?",
+      "ponudeni": [
+        "4999 + 3000",
+        "5000 + 3001",
+        "4990 + 3001",
+        "5000 + 3000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ako jednom pribrojniku dodamo 1, a drugom oduzmemo 1, zbroj se ne mijenja: 4999 + 3001 = 5000 + 3000 = 8000.",
+      "savjet": "Usporedi kako se promijenio svaki pribrojnik u odnosu na zadani zadatak."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-072",
+      "tezina": "tesko",
+      "pitanje": "Zbroj triju brojeva je 50 000. Dva od njih su 18 250 i 21 750. Koji je treći broj?",
+      "ponudeni": [
+        "9000",
+        "11 000",
+        "10 000",
+        "20 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo 18 250 + 21 750 = 40 000. Do 50 000 nedostaje još 10 000.",
+      "savjet": "Zbroji dva poznata broja pa razmisli koliko nedostaje do ukupnog zbroja."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-073",
+      "tezina": "tesko",
+      "pitanje": "Zbroji najveći i najmanji četveroznamenkasti broj s četiri različite znamenke.",
+      "ponudeni": [
+        "10 999",
+        "10 889",
+        "10 899",
+        "9899"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najveći takav broj je 9876, a najmanji 1023. Zbroj je 9876 + 1023 = 10 899.",
+      "savjet": "Najmanji takav broj ne smije počinjati nulom, a znamenke se ne smiju ponavljati."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-074",
+      "tezina": "tesko",
+      "pitanje": "Odredi znamenku □ u zadatku 37 □48 + 25 975 = 63 523.",
+      "ponudeni": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz stupca desetica prenosi se 1, pa je □ + 9 + 1 = 15, odnosno □ = 5. Provjera: 37 548 + 25 975 = 63 523.",
+      "savjet": "Prvo zbroji jedinice i desetice da vidiš što se prenosi u stupac stotica."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-075",
+      "tezina": "tesko",
+      "pitanje": "U kojem zadatku nema nijednog prijelaza?",
+      "ponudeni": [
+        "315 204 + 482 795",
+        "315 204 + 482 796",
+        "315 274 + 482 795",
+        "315 204 + 492 795"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zadatku 315 204 + 482 795 zbroj znamenaka u svakom stupcu je najviše 9, pa nema prijelaza.",
+      "savjet": "U svakom zadatku zbroji znamenke stupac po stupac i potraži zbroj veći od 9."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-076",
+      "tezina": "tesko",
+      "pitanje": "Obitelj je za ljetovanje platila smještaj 1850 €, put 475 € i hranu 1325 €. Koliko su platili ukupno?",
+      "ponudeni": [
+        "3550 €",
+        "3640 €",
+        "2650 €",
+        "3650 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo 1850 + 475 = 2325, zatim 2325 + 1325 = 3650. Ukupno su platili 3650 €.",
+      "savjet": "Potpiši sva tri iznosa po mjesnim vrijednostima i zbrajaj od jedinica."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-077",
+      "tezina": "tesko",
+      "pitanje": "Pribrojnik 3456 povećamo za 100, a pribrojnik 2345 smanjimo za 100. Što se dogodi sa zbrojem?",
+      "ponudeni": [
+        "poveća se za 100",
+        "smanji se za 100",
+        "poveća se za 200",
+        "ostane isti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Koliko smo dodali jednom pribrojniku, toliko smo oduzeli drugom, pa se zbroj ne mijenja. On je i dalje 5801.",
+      "savjet": "Razmisli što se dogodi kad isti broj jednom dodaš, a drugi put oduzmeš."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-078",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj broj koji je za 9999 veći od 45 001.",
+      "ponudeni": [
+        "54 990",
+        "55 010",
+        "55 000",
+        "35 002"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Za 9999 veći“ znači da zbrajamo: 45 001 + 9999 = 55 000.",
+      "savjet": "Broj 9999 je za 1 manji od 10 000; to ti može olakšati računanje."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-079",
+      "tezina": "tesko",
+      "pitanje": "Koliko znamenaka ima zbroj 499 999 + 500 001?",
+      "ponudeni": [
+        "šest",
+        "sedam",
+        "pet",
+        "osam"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbroj je 1 000 000 (milijun), a taj broj ima jednu jedinicu i šest nula, ukupno sedam znamenaka.",
+      "savjet": "Izračunaj zbroj pa prebroji njegove znamenke."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-080",
+      "tezina": "tesko",
+      "pitanje": "Koliki je najveći mogući zbroj dvaju četveroznamenkastih brojeva?",
+      "ponudeni": [
+        "19 998",
+        "19 999",
+        "20 000",
+        "9999"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najveći četveroznamenkasti broj je 9999, pa je najveći zbroj 9999 + 9999 = 19 998.",
+      "savjet": "Odredi najveći četveroznamenkasti broj i zbroji ga sa samim sobom."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-081",
+      "tezina": "tesko",
+      "pitanje": "Mirta ima 12 450 bodova u igri. U prvoj razini dobije 3875, a u drugoj 2680 bodova. Koliko bodova ima na kraju?",
+      "ponudeni": [
+        "19 005",
+        "18 005",
+        "19 015",
+        "19 105"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo 12 450 + 3875 = 16 325, zatim 16 325 + 2680 = 19 005 bodova.",
+      "savjet": "Početnom broju bodova dodaj bodove iz obje razine."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-082",
+      "tezina": "tesko",
+      "pitanje": "U zadatku 2□5 316 + 418 □27 = 693 643 nedostaju dvije znamenke. Koje su, redom slijeva?",
+      "ponudeni": [
+        "8 i 3",
+        "7 i 2",
+        "6 i 3",
+        "7 i 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na mjestu stotica 3 + □ = 6, pa je druga znamenka 3. Na mjestu desetica tisuća □ + 1 + 1 = 9, pa je prva znamenka 7.",
+      "savjet": "Kreni od jedinica i bilježite gdje se javlja prijelaz."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-083",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o zbroju 3478 + 6522 točna?",
+      "ponudeni": [
+        "Zbroj je manji od 9000.",
+        "Zbroj je četveroznamenkast broj.",
+        "Zbroj je peteroznamenkast broj.",
+        "Zbroj je veći od 11 000."
+      ],
+      "tocan": 2,
+      "objasnjenje": "3478 + 6522 = 10 000, a to je najmanji peteroznamenkasti broj.",
+      "savjet": "Izračunaj zbroj pisano pa razmisli koliko znamenaka ima."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-084",
+      "tezina": "tesko",
+      "pitanje": "Koja je znamenka na mjestu stotica tisuća u zbroju 256 300 + 348 900?",
+      "ponudeni": [
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "256 300 + 348 900 = 605 200. Zbog prijelaza iz desetica tisuća na mjestu stotica tisuća je 2 + 3 + 1.",
+      "savjet": "Provjeri prenosi li se nešto iz stupca desetica tisuća."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-085",
+      "tezina": "tesko",
+      "pitanje": "Tin je izračunao 2753 + 4189 = 6942. Koji račun potvrđuje da je zbroj točan?",
+      "ponudeni": [
+        "6942 − 2753 = 4289",
+        "6942 − 4189 = 2753",
+        "6942 + 4189 = 2753",
+        "2753 − 4189 = 6942"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od zbroja oduzmemo jedan pribrojnik i dobijemo drugi: 6942 − 4189 = 2753. Zato je zbroj točan.",
+      "savjet": "Provjera oduzimanjem: od zbroja oduzmi jedan pribrojnik i pažljivo izračunaj."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-086",
+      "tezina": "tesko",
+      "pitanje": "Koji broj treba upisati u □ da jednakost bude točna: 3500 + 2700 = 3000 + □?",
+      "ponudeni": [
+        "3200",
+        "3300",
+        "3100",
+        "2200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lijevo je 3500 + 2700 = 6200. Da bi i desno bilo 6200, u □ ide 3200.",
+      "savjet": "Izračunaj zbroj na lijevoj strani pa razmisli što treba dodati broju 3000."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-087",
+      "tezina": "tesko",
+      "pitanje": "Koji je zbroj najbliži broju 50 000?",
+      "ponudeni": [
+        "25 500 + 24 400",
+        "30 000 + 19 990",
+        "26 000 + 24 010",
+        "24 999 + 25 002"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zbrojevi su 50 001, 49 900, 49 990 i 50 010. Najbliži broju 50 000 je 50 001, za samo 1.",
+      "savjet": "Izračunaj svaki zbroj i odredi za koliko se razlikuje od 50 000."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-088",
+      "tezina": "tesko",
+      "pitanje": "Knjižnica je u siječnju posudila 2486 knjiga, a u veljači 315 više. Koliko je knjiga posudila u ta dva mjeseca ukupno?",
+      "ponudeni": [
+        "2801",
+        "5187",
+        "5287",
+        "5387"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U veljači je posuđeno 2486 + 315 = 2801 knjiga. Ukupno je 2486 + 2801 = 5287 knjiga.",
+      "savjet": "Najprije izračunaj koliko je knjiga posuđeno u veljači."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-089",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 205 400 + 38 650 + 7950.",
+      "ponudeni": [
+        "251 000",
+        "252 100",
+        "252 000",
+        "242 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo 205 400 + 38 650 = 244 050, zatim 244 050 + 7950 = 252 000.",
+      "savjet": "Pazi na potpisivanje: pribrojnici imaju šest, pet i četiri znamenke."
+    },
+    {
+      "id": "4-matematika-pisano-zbrajanje-090",
+      "tezina": "tesko",
+      "pitanje": "Koliko jedinica nedostaje zbroju 45 678 + 54 321 do broja 100 000?",
+      "ponudeni": [
+        "10",
+        "1",
+        "21",
+        "101"
+      ],
+      "tocan": 1,
+      "objasnjenje": "45 678 + 54 321 = 99 999. Do 100 000 nedostaje još 1.",
+      "savjet": "Izračunaj zbroj i usporedi ga sa sto tisuća."
     }
   ]
 }

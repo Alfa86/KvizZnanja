@@ -84,6 +84,1182 @@
       "tocan": 0,
       "objasnjenje": "Desna strana je 1 000 000 − 150 000 = 850 000. Zatim 850 000 − 250 000 = 600 000.",
       "savjet": "Prvo izračunaj desnu stranu, pa traži nepoznati pribrojnik."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu brojevi koje zbrajamo?",
+      "ponudeni": [
+        "pribrojnici",
+        "umanjenici",
+        "zbrojevi",
+        "umanjitelji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brojevi koje zbrajamo zovu se pribrojnici, a rezultat zbrajanja zove se zbroj.",
+      "savjet": "Rezultat zbrajanja zove se zbroj, a brojevi koje zbrajamo imaju drugo ime."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-008",
+      "tezina": "lagano",
+      "pitanje": "U računu 850 − 320 = 530 koji je broj umanjitelj?",
+      "ponudeni": [
+        "850",
+        "530",
+        "320",
+        "1170"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umanjitelj je broj koji oduzimamo, a ovdje od 850 oduzimamo 320.",
+      "savjet": "Umanjitelj je broj koji oduzimaš od umanjenika."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-009",
+      "tezina": "lagano",
+      "pitanje": "U računu 1200 − 450 = 750 koji je broj umanjenik?",
+      "ponudeni": [
+        "450",
+        "750",
+        "1650",
+        "1200"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umanjenik je broj od kojeg oduzimamo, a to je 1200.",
+      "savjet": "Umanjenik je broj od kojeg nešto oduzimaš."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-010",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove rezultat oduzimanja?",
+      "ponudeni": [
+        "zbroj",
+        "razlika",
+        "umanjitelj",
+        "pribrojnik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rezultat oduzimanja zove se razlika.",
+      "savjet": "Rezultat zbrajanja je zbroj, a rezultat oduzimanja ima svoje ime."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-011",
+      "tezina": "lagano",
+      "pitanje": "Kojom računskom operacijom računaš nepoznati pribrojnik?",
+      "ponudeni": [
+        "zbrajanjem",
+        "množenjem",
+        "oduzimanjem",
+        "dijeljenjem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nepoznati pribrojnik dobiješ tako da od zbroja oduzmeš poznati pribrojnik.",
+      "savjet": "Zamisli primjer 3 + □ = 8 i razmisli kako dolaziš do broja u kvadratiću."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-012",
+      "tezina": "lagano",
+      "pitanje": "Kojom računskom operacijom računaš nepoznati umanjenik?",
+      "ponudeni": [
+        "zbrajanjem",
+        "oduzimanjem",
+        "dijeljenjem",
+        "množenjem"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznati umanjenik dobiješ tako da zbrojiš razliku i umanjitelj.",
+      "savjet": "Umanjenik je najveći broj u računu oduzimanja, pa ga dobiješ iz dvaju manjih brojeva."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-013",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj nepoznati pribrojnik: x + 30 = 90.",
+      "ponudeni": [
+        "120",
+        "50",
+        "60",
+        "70"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od zbroja oduzmeš poznati pribrojnik: 90 − 30 = 60.",
+      "savjet": "Od zbroja oduzmi poznati pribrojnik."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj nepoznati umanjenik: a − 40 = 25.",
+      "ponudeni": [
+        "15",
+        "65",
+        "55",
+        "75"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlici dodaš umanjitelj: 25 + 40 = 65.",
+      "savjet": "Umanjenik je jednak zbroju razlike i umanjitelja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj nepoznati umanjitelj: 80 − □ = 35.",
+      "ponudeni": [
+        "45",
+        "115",
+        "55",
+        "35"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od umanjenika oduzmeš razliku: 80 − 35 = 45.",
+      "savjet": "Od umanjenika oduzmi razliku."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-016",
+      "tezina": "lagano",
+      "pitanje": "Odredi broj x: x + 150 = 400.",
+      "ponudeni": [
+        "550",
+        "350",
+        "150",
+        "250"
+      ],
+      "tocan": 3,
+      "objasnjenje": "x = 400 − 150 = 250, a provjera je 250 + 150 = 400.",
+      "savjet": "Nepoznati pribrojnik dobiješ oduzimanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-017",
+      "tezina": "lagano",
+      "pitanje": "Odredi broj a: 500 − a = 200.",
+      "ponudeni": [
+        "700",
+        "300",
+        "200",
+        "350"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Slovo a je umanjitelj, pa računaš 500 − 200 = 300.",
+      "savjet": "Slovo a je umanjitelj, a njega dobiješ kad od umanjenika oduzmeš razliku."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-018",
+      "tezina": "lagano",
+      "pitanje": "Odredi broj y: y − 120 = 300.",
+      "ponudeni": [
+        "180",
+        "400",
+        "420",
+        "320"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Slovo y je umanjenik, pa računaš 300 + 120 = 420.",
+      "savjet": "Slovo y je umanjenik, a njega dobiješ zbrajanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-019",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati pribrojnik: 600 + x = 1000.",
+      "ponudeni": [
+        "1600",
+        "300",
+        "500",
+        "400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "1000 − 600 = 400, a provjera je 600 + 400 = 1000.",
+      "savjet": "Razmisli koliko nedostaje broju 600 do tisuću."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-020",
+      "tezina": "lagano",
+      "pitanje": "Lea tvrdi da je x = 40 rješenje jednakosti x + 35 = 75. Kojim računom to provjeravaš?",
+      "ponudeni": [
+        "40 + 35",
+        "75 + 40",
+        "75 + 35",
+        "40 − 35"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umjesto x uvrstiš 40 i izračunaš 40 + 35 = 75, pa je Lea u pravu.",
+      "savjet": "Uvrsti broj umjesto slova i izračunaj lijevu stranu jednakosti."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-021",
+      "tezina": "lagano",
+      "pitanje": "Što označava slovo x u jednakosti 47 + x = 92?",
+      "ponudeni": [
+        "nepoznati zbroj",
+        "nepoznati umanjenik",
+        "nepoznati umanjitelj",
+        "nepoznati pribrojnik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U zbrajanju su brojevi koje zbrajamo pribrojnici, pa je x nepoznati pribrojnik.",
+      "savjet": "Pogledaj računsku operaciju i mjesto na kojem stoji slovo."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-022",
+      "tezina": "lagano",
+      "pitanje": "Što označava slovo a u jednakosti 70 − a = 25?",
+      "ponudeni": [
+        "nepoznati umanjenik",
+        "nepoznati umanjitelj",
+        "nepoznatu razliku",
+        "nepoznati pribrojnik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Slovo a je broj koji oduzimamo od 70, a to je umanjitelj.",
+      "savjet": "Sjeti se kako se zove broj koji se oduzima od drugog broja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-023",
+      "tezina": "lagano",
+      "pitanje": "Što označava znak □ u jednakosti □ − 18 = 40?",
+      "ponudeni": [
+        "nepoznati umanjitelj",
+        "nepoznati pribrojnik",
+        "nepoznati umanjenik",
+        "nepoznatu razliku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znak □ je broj od kojeg oduzimamo 18, a to je umanjenik.",
+      "savjet": "Prisjeti se kako se zove broj od kojeg oduzimaš."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-024",
+      "tezina": "lagano",
+      "pitanje": "Mia je imala nekoliko naljepnica. Dobila je još 25 i sada ima 60 naljepnica. Odredi koliko je naljepnica imala na početku.",
+      "ponudeni": [
+        "85",
+        "35",
+        "45",
+        "25"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi x + 25 = 60, pa je x = 60 − 25 = 35.",
+      "savjet": "Od broja naljepnica koje Mia sada ima oduzmi one koje je dobila."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-025",
+      "tezina": "lagano",
+      "pitanje": "Luka je imao 90 klikera. Neke je poklonio i ostalo mu je 57 klikera. Odredi koliko je klikera poklonio.",
+      "ponudeni": [
+        "33",
+        "147",
+        "43",
+        "57"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 90 − x = 57, pa je x = 90 − 57 = 33.",
+      "savjet": "Od broja klikera koje je Luka imao oduzmi broj klikera koji su mu ostali."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-026",
+      "tezina": "lagano",
+      "pitanje": "Ana je pročitala 45 stranica knjige i ostalo joj je još 75 stranica. Odredi koliko stranica ima knjiga.",
+      "ponudeni": [
+        "30",
+        "110",
+        "130",
+        "120"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi x − 45 = 75, pa je x = 75 + 45 = 120.",
+      "savjet": "Broj stranica cijele knjige je umanjenik, a njega dobiješ zbrajanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-027",
+      "tezina": "lagano",
+      "pitanje": "Kojim računom izračunaš nepoznati pribrojnik u jednakosti x + 200 = 750?",
+      "ponudeni": [
+        "750 + 200",
+        "750 − 200",
+        "550 + 200",
+        "750 − 20"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od zbroja oduzmeš poznati pribrojnik: 750 − 200 = 550.",
+      "savjet": "Sjeti se da je oduzimanje suprotna računska operacija od zbrajanja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-028",
+      "tezina": "lagano",
+      "pitanje": "Kojim računom izračunaš nepoznati umanjenik u jednakosti x − 300 = 450?",
+      "ponudeni": [
+        "450 − 300",
+        "450 + 300",
+        "750 − 450",
+        "450 + 30"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlici dodaš umanjitelj: 450 + 300 = 750.",
+      "savjet": "Umanjenik je veći od razlike, pa trebaš račun koji daje veći broj."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-029",
+      "tezina": "lagano",
+      "pitanje": "Kojim računom izračunaš nepoznati umanjitelj u jednakosti 800 − x = 350?",
+      "ponudeni": [
+        "800 − 350",
+        "800 + 350",
+        "350 + 450",
+        "350 − 300"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od umanjenika oduzmeš razliku: 800 − 350 = 450.",
+      "savjet": "Razmisli koji broj trebaš oduzeti od umanjenika da dobiješ razliku."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-030",
+      "tezina": "lagano",
+      "pitanje": "Ako je 35 + 25 = 60, koja je jednakost također točna?",
+      "ponudeni": [
+        "35 − 25 = 60",
+        "60 − 35 = 35",
+        "60 − 25 = 35",
+        "60 − 25 = 45"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad od zbroja oduzmeš jedan pribrojnik, dobiješ drugi: 60 − 25 = 35.",
+      "savjet": "Sjeti se veze zbrajanja i oduzimanja: iz zbroja i jednog pribrojnika dobiješ drugi pribrojnik."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-031",
+      "tezina": "lagano",
+      "pitanje": "Ako je 90 − 30 = 60, koja je jednakost također točna?",
+      "ponudeni": [
+        "90 + 30 = 60",
+        "60 − 30 = 90",
+        "60 + 30 = 80",
+        "60 + 30 = 90"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad razlici dodaš umanjitelj, dobiješ umanjenik: 60 + 30 = 90.",
+      "savjet": "Razmisli kako iz razlike i umanjitelja dobiti umanjenik."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-032",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj nepoznati pribrojnik: 1500 + x = 4000.",
+      "ponudeni": [
+        "5500",
+        "3500",
+        "2500",
+        "2000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4000 − 1500 = 2500, jer je 1500 + 2500 = 4000.",
+      "savjet": "Odredi koliko nedostaje broju 1500 do zbroja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-033",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj nepoznati umanjenik: x − 2000 = 3000.",
+      "ponudeni": [
+        "5000",
+        "1000",
+        "6000",
+        "4000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlici dodaš umanjitelj: 3000 + 2000 = 5000.",
+      "savjet": "Nepoznati umanjenik dobiješ zbrajanjem razlike i umanjitelja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-034",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj nepoznati umanjitelj: 7000 − x = 4000.",
+      "ponudeni": [
+        "3000",
+        "11 000",
+        "4000",
+        "2000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od umanjenika oduzmeš razliku: 7000 − 4000 = 3000.",
+      "savjet": "Nepoznati umanjitelj dobiješ oduzimanjem razlike od umanjenika."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-035",
+      "tezina": "lagano",
+      "pitanje": "Provjeri koji je od ponuđenih brojeva rješenje jednakosti □ + 45 = 100.",
+      "ponudeni": [
+        "65",
+        "145",
+        "45",
+        "55"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uvrštavanjem dobiješ 55 + 45 = 100, pa je rješenje 55.",
+      "savjet": "Svaki broj uvrsti umjesto □ i provjeri dobiješ li 100."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-036",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj zbroj u jednakosti 250 + x = 600?",
+      "ponudeni": [
+        "250",
+        "600",
+        "350",
+        "850"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbroj je rezultat zbrajanja, a u ovoj jednakosti to je 600.",
+      "savjet": "Prisjeti se kako se zove rezultat zbrajanja i gdje on stoji."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj nepoznati pribrojnik: x + 2500 = 7300.",
+      "ponudeni": [
+        "4800",
+        "9800",
+        "5800",
+        "4200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7300 − 2500 = 4800, a provjera je 4800 + 2500 = 7300.",
+      "savjet": "Od zbroja oduzmi poznati pribrojnik pa provjeri rješenje zbrajanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj nepoznati umanjenik: a − 3750 = 2480.",
+      "ponudeni": [
+        "1270",
+        "6130",
+        "6230",
+        "5230"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Razlici dodaš umanjitelj: 2480 + 3750 = 6230.",
+      "savjet": "Umanjenik dobiješ kad zbrojiš razliku i umanjitelj."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj nepoznati umanjitelj: 9200 − x = 4650.",
+      "ponudeni": [
+        "13 850",
+        "5450",
+        "4650",
+        "4550"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9200 − 4650 = 4550, a provjera je 9200 − 4550 = 4650.",
+      "savjet": "Od umanjenika oduzmi razliku i pazi na posuđivanje."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-040",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati pribrojnik: 12 400 + □ = 30 000.",
+      "ponudeni": [
+        "42 400",
+        "18 600",
+        "17 600",
+        "27 600"
+      ],
+      "tocan": 2,
+      "objasnjenje": "30 000 − 12 400 = 17 600, jer je 12 400 + 17 600 = 30 000.",
+      "savjet": "Izračunaj koliko nedostaje broju 12 400 do zbroja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-041",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati umanjenik: □ − 15 300 = 24 700.",
+      "ponudeni": [
+        "9400",
+        "40 000",
+        "39 000",
+        "30 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlici dodaš umanjitelj: 24 700 + 15 300 = 40 000.",
+      "savjet": "Zbroji razliku i umanjitelj i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-042",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati umanjitelj: 50 000 − x = 18 250.",
+      "ponudeni": [
+        "31 750",
+        "68 250",
+        "32 750",
+        "31 250"
+      ],
+      "tocan": 0,
+      "objasnjenje": "50 000 − 18 250 = 31 750, a provjera je 50 000 − 31 750 = 18 250.",
+      "savjet": "Umanjitelj dobiješ kad od umanjenika oduzmeš razliku."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-043",
+      "tezina": "srednje",
+      "pitanje": "Ivana štedi za bicikl koji stoji 420 eura. Već je uštedjela 185 eura. Odredi koliko još eura treba uštedjeti.",
+      "ponudeni": [
+        "235 eura",
+        "605 eura",
+        "245 eura",
+        "335 eura"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 185 + x = 420, pa je x = 420 − 185 = 235 eura.",
+      "savjet": "Ušteđeni novac i novac koji nedostaje zajedno čine cijenu bicikla."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-044",
+      "tezina": "srednje",
+      "pitanje": "Iz knjižnice je posuđeno 1340 knjiga i u njoj je ostalo 2860 knjiga. Odredi koliko je knjiga bilo u knjižnici prije posudbe.",
+      "ponudeni": [
+        "4200",
+        "1520",
+        "4100",
+        "3200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi x − 1340 = 2860, pa je x = 2860 + 1340 = 4200.",
+      "savjet": "Broj knjiga prije posudbe je umanjenik, a njega dobiješ zbrajanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-045",
+      "tezina": "srednje",
+      "pitanje": "Pekara je ujutro ispekla 960 kifli. Do podne ih je ostalo 385. Odredi koliko je kifli prodano.",
+      "ponudeni": [
+        "1345",
+        "585",
+        "475",
+        "575"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 960 − x = 385, pa je x = 960 − 385 = 575.",
+      "savjet": "Prodane kifle su umanjitelj: od ispečenih kifli oduzmi one koje su ostale."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-046",
+      "tezina": "srednje",
+      "pitanje": "Rješenje jednakosti x + 3600 = 9000 je 5400. Kojim računom to provjeravaš?",
+      "ponudeni": [
+        "9000 + 3600",
+        "5400 − 3600",
+        "5400 + 3600",
+        "9000 + 5400"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umjesto x uvrstiš 5400: 5400 + 3600 = 9000, pa je rješenje točno.",
+      "savjet": "Uvrsti rješenje umjesto slova i provjeri dobiješ li zadani zbroj."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-047",
+      "tezina": "srednje",
+      "pitanje": "Rješenje jednakosti 8000 − x = 2700 je 5300. Koja jednakost to potvrđuje?",
+      "ponudeni": [
+        "5300 − 2700 = 8000",
+        "8000 − 5300 = 2700",
+        "8000 + 2700 = 5300",
+        "2700 + 8000 = 5300"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad umjesto x uvrstiš 5300, dobiješ 8000 − 5300 = 2700, što je točno.",
+      "savjet": "Rješenje uvrsti na mjesto slova u zadanoj jednakosti."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-048",
+      "tezina": "srednje",
+      "pitanje": "Koja jednakost ima rješenje x = 600?",
+      "ponudeni": [
+        "x + 600 = 1000",
+        "x − 200 = 400",
+        "800 − x = 600",
+        "x + 400 = 1200"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad uvrstiš 600, dobiješ 600 − 200 = 400, što je točno.",
+      "savjet": "Umjesto x uvrsti 600 u svaku jednakost i izračunaj."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-049",
+      "tezina": "srednje",
+      "pitanje": "Koja jednakost ima rješenje a = 2500?",
+      "ponudeni": [
+        "a + 2500 = 4000",
+        "a − 1500 = 4000",
+        "a + 1000 = 4500",
+        "7000 − a = 4500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad uvrstiš 2500, dobiješ 7000 − 2500 = 4500, što je točno.",
+      "savjet": "Uvrsti 2500 umjesto slova a u svaku jednakost pa provjeri."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-050",
+      "tezina": "srednje",
+      "pitanje": "Kako izračunaš nepoznati umanjitelj ako znaš umanjenik i razliku?",
+      "ponudeni": [
+        "zbrojiš umanjenik i razliku",
+        "od umanjenika oduzmeš razliku",
+        "od razlike oduzmeš umanjenik",
+        "razliku pomnožiš s umanjenikom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na primjer, u 10 − □ = 4 umanjitelj je 10 − 4 = 6.",
+      "savjet": "Zamisli primjer 10 − □ = 4 i razmisli kako dolaziš do broja u kvadratiću."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-051",
+      "tezina": "srednje",
+      "pitanje": "Kako izračunaš nepoznati umanjenik ako znaš umanjitelj i razliku?",
+      "ponudeni": [
+        "od razlike oduzmeš umanjitelj",
+        "od umanjitelja oduzmeš razliku",
+        "razliku pomnožiš s umanjiteljem",
+        "zbrojiš razliku i umanjitelj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na primjer, u □ − 3 = 5 umanjenik je 5 + 3 = 8.",
+      "savjet": "Isprobaj na primjeru □ − 3 = 5: koji broj ide u kvadratić i kojim ga računom dobivaš?"
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-052",
+      "tezina": "srednje",
+      "pitanje": "Kako izračunaš nepoznati pribrojnik ako znaš zbroj i drugi pribrojnik?",
+      "ponudeni": [
+        "zbroju dodaš poznati pribrojnik",
+        "od poznatog pribrojnika oduzmeš zbroj",
+        "od zbroja oduzmeš poznati pribrojnik",
+        "zbroj podijeliš s poznatim pribrojnikom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na primjer, u 6 + □ = 10 pribrojnik je 10 − 6 = 4.",
+      "savjet": "Isprobaj na primjeru 6 + □ = 10: koji broj ide u kvadratić i kojim ga računom dobivaš?"
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-053",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj nepoznati pribrojnik: 245 600 + x = 500 000.",
+      "ponudeni": [
+        "745 600",
+        "255 400",
+        "254 400",
+        "354 400"
+      ],
+      "tocan": 2,
+      "objasnjenje": "500 000 − 245 600 = 254 400, a provjera je 245 600 + 254 400 = 500 000.",
+      "savjet": "Od zbroja oduzmi poznati pribrojnik i pazi na posuđivanje preko nula."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-054",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj nepoznati umanjenik: y − 125 000 = 375 000.",
+      "ponudeni": [
+        "500 000",
+        "250 000",
+        "400 000",
+        "490 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlici dodaš umanjitelj: 375 000 + 125 000 = 500 000.",
+      "savjet": "Razlici dodaj umanjitelj i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-055",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj nepoznati umanjitelj: 700 000 − b = 263 500.",
+      "ponudeni": [
+        "963 500",
+        "446 500",
+        "436 500",
+        "536 500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "700 000 − 263 500 = 436 500, a provjera je 700 000 − 436 500 = 263 500.",
+      "savjet": "Od umanjenika oduzmi razliku pa rješenje provjeri oduzimanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-056",
+      "tezina": "srednje",
+      "pitanje": "Obitelj Horvat putuje 640 km. Do sada je prešla 275 km. Odredi koliko joj je kilometara ostalo do cilja.",
+      "ponudeni": [
+        "915 km",
+        "365 km",
+        "375 km",
+        "465 km"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 275 + x = 640, pa je x = 640 − 275 = 365 km.",
+      "savjet": "Prijeđeni i preostali put zajedno čine cijeli put."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-057",
+      "tezina": "srednje",
+      "pitanje": "Petra je zamislila broj i od njega oduzela 1450. Dobila je 3550. Odredi koji je broj zamislila.",
+      "ponudeni": [
+        "2100",
+        "4000",
+        "4900",
+        "5000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi x − 1450 = 3550, pa je x = 3550 + 1450 = 5000.",
+      "savjet": "Zamišljeni broj je umanjenik, a njega dobiješ zbrajanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-058",
+      "tezina": "srednje",
+      "pitanje": "Školska dvorana ima 1200 mjesta. Na priredbi je ostalo 375 praznih mjesta. Odredi koliko je mjesta bilo zauzeto.",
+      "ponudeni": [
+        "1575",
+        "925",
+        "835",
+        "825"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 1200 − x = 375, pa je x = 1200 − 375 = 825.",
+      "savjet": "Od ukupnog broja mjesta oduzmi prazna mjesta."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-059",
+      "tezina": "srednje",
+      "pitanje": "Ema je rješavala jednakost x + 4500 = 9000 i dobila x = 13 500. Koju je pogrešku napravila?",
+      "ponudeni": [
+        "oduzela je umjesto da zbroji",
+        "zbrojila je umjesto da oduzme",
+        "zaboravila je prijenos",
+        "pogrešno je prepisala zbroj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ema je zbrojila 9000 + 4500, a nepoznati pribrojnik dobiva se oduzimanjem: 9000 − 4500 = 4500.",
+      "savjet": "Provjeri kojim se računom iz brojeva 9000 i 4500 dobiva Emin rezultat."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-060",
+      "tezina": "srednje",
+      "pitanje": "Odredi broj koji treba upisati u □: 3850 + □ = 5000.",
+      "ponudeni": [
+        "1150",
+        "1250",
+        "8850",
+        "2150"
+      ],
+      "tocan": 0,
+      "objasnjenje": "5000 − 3850 = 1150, a provjera je 3850 + 1150 = 5000.",
+      "savjet": "Izračunaj koliko nedostaje broju 3850 do 5000."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-061",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je jednakosti nepoznati broj najveći?",
+      "ponudeni": [
+        "x + 300 = 900",
+        "900 − x = 200",
+        "x − 300 = 900",
+        "400 + x = 900"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U jednakosti x − 300 = 900 je x = 1200, a u ostalima je x manji od 900.",
+      "savjet": "Izračunaj x u svakoj jednakosti pa usporedi dobivene brojeve."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-062",
+      "tezina": "srednje",
+      "pitanje": "Odredi umanjitelj ako je umanjenik 8400, a razlika 3900.",
+      "ponudeni": [
+        "12 300",
+        "4600",
+        "3900",
+        "4500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "8400 − 3900 = 4500, a provjera je 8400 − 4500 = 3900.",
+      "savjet": "Zapiši jednakost 8400 − x = 3900 pa od umanjenika oduzmi razliku."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-063",
+      "tezina": "srednje",
+      "pitanje": "Odredi umanjenik ako je razlika 2750, a umanjitelj 4250.",
+      "ponudeni": [
+        "7000",
+        "1500",
+        "6000",
+        "7100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2750 + 4250 = 7000, a provjera je 7000 − 4250 = 2750.",
+      "savjet": "Zapiši jednakost x − 4250 = 2750 pa odredi x."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-064",
+      "tezina": "srednje",
+      "pitanje": "Sara je imala 136 sličica. Kupila je još nekoliko i sada ima 210 sličica. Odredi koliko je sličica kupila.",
+      "ponudeni": [
+        "346",
+        "74",
+        "84",
+        "64"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 136 + x = 210, pa je x = 210 − 136 = 74.",
+      "savjet": "Od broja sličica koje Sara sada ima oduzmi broj sličica koje je imala."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-065",
+      "tezina": "tesko",
+      "pitanje": "Usporedi x iz jednakosti x + 3750 = 9000 i y iz jednakosti 9000 − y = 3750. Što vrijedi?",
+      "ponudeni": [
+        "x je veći od y",
+        "y je veći od x",
+        "x i y su jednaki",
+        "ne može se odrediti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U obje jednakosti računaš 9000 − 3750 = 5250, pa su x i y jednaki.",
+      "savjet": "Odredi kojom računskom operacijom dobivaš x, a kojom y."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-066",
+      "tezina": "tesko",
+      "pitanje": "Ako je x + 1500 = 4000, izračunaj x + 2500.",
+      "ponudeni": [
+        "5000",
+        "2500",
+        "6500",
+        "4000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "x = 4000 − 1500 = 2500, pa je x + 2500 = 5000.",
+      "savjet": "Najprije odredi x pa ga uvrsti u novi račun."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-067",
+      "tezina": "tesko",
+      "pitanje": "Ako je 900 − x = 400, izračunaj 1200 − x.",
+      "ponudeni": [
+        "500",
+        "700",
+        "1600",
+        "800"
+      ],
+      "tocan": 1,
+      "objasnjenje": "x = 900 − 400 = 500, pa je 1200 − 500 = 700.",
+      "savjet": "Najprije odredi umanjitelj x pa ga oduzmi od 1200."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-068",
+      "tezina": "tesko",
+      "pitanje": "U autobusu je bilo nekoliko putnika. Na stanici je izašlo 12 putnika, a ušlo 7. Sada je u autobusu 40 putnika. Odredi koliko je putnika bilo na početku.",
+      "ponudeni": [
+        "35",
+        "59",
+        "21",
+        "45"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prije ulaska bilo je 40 − 7 = 33 putnika, a prije izlaska 33 + 12 = 45 putnika.",
+      "savjet": "Kreni od kraja: poništi ulazak putnika pa poništi izlazak."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-069",
+      "tezina": "tesko",
+      "pitanje": "Ako je x + 1200 = 5000 i y − 1200 = 5000, odredi za koliko je y veći od x.",
+      "ponudeni": [
+        "2400",
+        "1200",
+        "0",
+        "10 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "x = 3800 i y = 6200, a 6200 − 3800 = 2400.",
+      "savjet": "Odredi x oduzimanjem, a y zbrajanjem, pa izračunaj njihovu razliku."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-070",
+      "tezina": "tesko",
+      "pitanje": "Ako je □ + 2750 = 6000 i △ − 2750 = 6000, izračunaj □ + △.",
+      "ponudeni": [
+        "6000",
+        "9500",
+        "14 750",
+        "12 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "□ = 3250 i △ = 8750, pa je □ + △ = 12 000.",
+      "savjet": "Najprije odredi svaki nepoznati broj posebno pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-071",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati umanjenik: □ − 186 459 = 413 541.",
+      "ponudeni": [
+        "227 082",
+        "600 000",
+        "599 000",
+        "590 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlici dodaš umanjitelj: 413 541 + 186 459 = 600 000.",
+      "savjet": "Razlici dodaj umanjitelj i pažljivo prenosi desetice, stotice i tisućice."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-072",
+      "tezina": "tesko",
+      "pitanje": "Odredi koji broj trebaš dodati broju 286 750 da dobiješ 1 000 000.",
+      "ponudeni": [
+        "723 250",
+        "813 250",
+        "713 250",
+        "714 250"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 286 750 + x = 1 000 000, pa je x = 1 000 000 − 286 750 = 713 250.",
+      "savjet": "Zapiši jednakost s nepoznatim pribrojnikom i pazi na posuđivanje preko nula."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-073",
+      "tezina": "tesko",
+      "pitanje": "Odredi koji broj trebaš oduzeti od 500 000 da dobiješ 234 567.",
+      "ponudeni": [
+        "275 433",
+        "734 567",
+        "266 433",
+        "265 433"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 500 000 − x = 234 567, pa je x = 500 000 − 234 567 = 265 433.",
+      "savjet": "Traženi broj je umanjitelj, a rješenje provjeri oduzimanjem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-074",
+      "tezina": "tesko",
+      "pitanje": "Knjižnica je imala 5280 knjiga. Kupila je nove knjige, a zatim je 640 starih knjiga poklonila školi. Sada ima 5900 knjiga. Odredi koliko je novih knjiga kupila.",
+      "ponudeni": [
+        "620",
+        "1260",
+        "1900",
+        "1160"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prije poklanjanja bilo je 5900 + 640 = 6540 knjiga, a 6540 − 5280 = 1260.",
+      "savjet": "Kreni od kraja: najprije vrati poklonjene knjige pa usporedi s početnim brojem."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-075",
+      "tezina": "tesko",
+      "pitanje": "Na parkiralištu je bilo 340 automobila. Neki su otišli, a zatim je došlo 85 novih. Sada je na parkiralištu 300 automobila. Odredi koliko je automobila otišlo.",
+      "ponudeni": [
+        "40",
+        "45",
+        "125",
+        "215"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prije dolaska novih bilo je 300 − 85 = 215 automobila, a 340 − 215 = 125.",
+      "savjet": "Najprije odredi koliko je automobila bilo prije nego što su došli novi."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-076",
+      "tezina": "tesko",
+      "pitanje": "Zbroj triju brojeva je 10 000. Prvi je 3250, a drugi 4180. Odredi treći broj.",
+      "ponudeni": [
+        "17 430",
+        "2670",
+        "3570",
+        "2570"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3250 + 4180 = 7430, a 10 000 − 7430 = 2570.",
+      "savjet": "Zbroji dva poznata pribrojnika pa taj zbroj oduzmi od ukupnog zbroja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-077",
+      "tezina": "tesko",
+      "pitanje": "Nika je za jednakost 6000 − x = 2400 dobila x = 8400. Što pokazuje provjera?",
+      "ponudeni": [
+        "Rješenje je točno jer je 8400 − 6000 = 2400.",
+        "Rješenje je netočno, a točno je x = 3600.",
+        "Rješenje je netočno, a točno je x = 4600.",
+        "Rješenje je netočno, a točno je x = 2400."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od 6000 ne možeš oduzeti 8400, pa je rješenje netočno. Umanjitelj je 6000 − 2400 = 3600.",
+      "savjet": "Uvrsti Nikin broj umjesto x u zadanu jednakost i izračunaj."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-078",
+      "tezina": "tesko",
+      "pitanje": "Koja jednakost nema isto rješenje kao ostale tri?",
+      "ponudeni": [
+        "x + 450 = 1000",
+        "1000 − x = 450",
+        "x − 450 = 1000",
+        "450 + x = 1000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U jednakosti x − 450 = 1000 je x = 1450, a u ostalima je x = 550.",
+      "savjet": "Riješi svaku jednakost pa usporedi rješenja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-079",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati umanjenik: x − 99 999 = 900 001.",
+      "ponudeni": [
+        "800 002",
+        "1 000 000",
+        "999 999",
+        "900 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlici dodaš umanjitelj: 900 001 + 99 999 = 1 000 000.",
+      "savjet": "Razlici dodaj umanjitelj; pomaže ako primijetiš da je 99 999 za jedan manje od 100 000."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-080",
+      "tezina": "tesko",
+      "pitanje": "Kutija s jabukama ima masu 9 kg. Prazna kutija ima masu 750 g. Odredi masu jabuka.",
+      "ponudeni": [
+        "9750 g",
+        "8750 g",
+        "8250 g",
+        "8350 g"
+      ],
+      "tocan": 2,
+      "objasnjenje": "9 kg = 9000 g, a 9000 g − 750 g = 8250 g.",
+      "savjet": "Najprije pretvori kilograme u grame pa od ukupne mase oduzmi masu kutije."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-081",
+      "tezina": "tesko",
+      "pitanje": "Tin ima 1250 naljepnica manje od Mate. Tin ima 3400 naljepnica. Koja jednakost opisuje zadatak ako je x broj Matinih naljepnica?",
+      "ponudeni": [
+        "x + 1250 = 3400",
+        "1250 − x = 3400",
+        "3400 − x = 1250",
+        "x − 1250 = 3400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad od Matinih naljepnica oduzmeš 1250, dobiješ Tinove, pa je x − 1250 = 3400.",
+      "savjet": "Mate ima više naljepnica od Tina, pa razmisli koji je broj umanjenik."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-082",
+      "tezina": "tesko",
+      "pitanje": "Kad od nekog broja oduzmeš 4500, dobiješ isto kao kad zbrojiš 3500 i 2000. Odredi taj broj.",
+      "ponudeni": [
+        "1000",
+        "8000",
+        "9500",
+        "10 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3500 + 2000 = 5500, a iz x − 4500 = 5500 slijedi x = 5500 + 4500 = 10 000.",
+      "savjet": "Najprije izračunaj zbroj pa odredi nepoznati umanjenik."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-083",
+      "tezina": "tesko",
+      "pitanje": "Grad je 2025. godine proslavio 750 godina od osnutka. Odredi godinu osnutka grada.",
+      "ponudeni": [
+        "1275",
+        "1375",
+        "2775",
+        "1225"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi x + 750 = 2025, pa je x = 2025 − 750 = 1275.",
+      "savjet": "Godina osnutka uvećana za broj godina postojanja daje 2025. godinu."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-084",
+      "tezina": "tesko",
+      "pitanje": "Razlika dvaju brojeva je 1800, a umanjitelj je 2700. Odredi za koliko je umanjenik veći od razlike.",
+      "ponudeni": [
+        "900",
+        "1800",
+        "2700",
+        "4500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umanjenik je 1800 + 2700 = 4500, a 4500 − 1800 = 2700, što je upravo umanjitelj.",
+      "savjet": "Najprije izračunaj umanjenik pa ga usporedi s razlikom."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-085",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati umanjitelj: 1 000 000 − x = 1.",
+      "ponudeni": [
+        "999 999",
+        "999 990",
+        "999 000",
+        "900 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 000 000 − 1 = 999 999, a provjera je 1 000 000 − 999 999 = 1.",
+      "savjet": "Od umanjenika oduzmi razliku i pazi na posuđivanje preko svih nula."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-086",
+      "tezina": "tesko",
+      "pitanje": "Odredi x: x − 2500 − 1500 = 6000.",
+      "ponudeni": [
+        "10 000",
+        "2000",
+        "7000",
+        "9000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "x = 6000 + 1500 + 2500 = 10 000, a provjera je 10 000 − 2500 − 1500 = 6000.",
+      "savjet": "Oba oduzeta broja vrati tako da ih dodaš razlici."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-087",
+      "tezina": "tesko",
+      "pitanje": "Odredi a: 3600 + a + 1400 = 9000.",
+      "ponudeni": [
+        "5000",
+        "4000",
+        "14 000",
+        "3000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3600 + 1400 = 5000, a 9000 − 5000 = 4000.",
+      "savjet": "Najprije zbroji poznate pribrojnike pa taj zbroj oduzmi od ukupnog zbroja."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-088",
+      "tezina": "tesko",
+      "pitanje": "Ako se u jednakosti 3200 + x = 8000 zbroj poveća za 500, a poznati pribrojnik ostane isti, kako se promijeni x?",
+      "ponudeni": [
+        "smanji se za 500",
+        "ne promijeni se",
+        "poveća se za 1000",
+        "poveća se za 500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prije je x = 4800, a nakon promjene x = 8500 − 3200 = 5300, što je 500 više.",
+      "savjet": "Izračunaj x prije i poslije promjene pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-089",
+      "tezina": "tesko",
+      "pitanje": "Ako se u jednakosti 9000 − x = 4000 umanjenik poveća za 1000, a razlika ostane ista, kako se promijeni x?",
+      "ponudeni": [
+        "smanji se za 1000",
+        "poveća se za 1000",
+        "ne promijeni se",
+        "poveća se za 2000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prije je x = 5000, a nakon promjene x = 10 000 − 4000 = 6000, što je 1000 više.",
+      "savjet": "Izračunaj umanjitelj prije i poslije promjene pa usporedi rezultate."
+    },
+    {
+      "id": "4-matematika-nepoznati-pribrojnik-umanjenik-i-umanjitelj-090",
+      "tezina": "tesko",
+      "pitanje": "Klara je imala 50 eura. Kupila je knjigu i bilježnicu od 4 eura, a ostalo joj je 28 eura. Odredi cijenu knjige.",
+      "ponudeni": [
+        "18 eura",
+        "22 eura",
+        "26 eura",
+        "82 eura"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Klara je potrošila 50 − 28 = 22 eura, a knjiga stoji 22 − 4 = 18 eura.",
+      "savjet": "Najprije odredi koliko je Klara ukupno potrošila."
     }
   ]
 }
