@@ -188,7 +188,7 @@ U razvojnom načinu (`npm run dev`) stranica `/pregled` prikazuje sva pitanja le
 
 ### Cjeline i izvori kurikuluma
 
-Izvedbeni planovi po predmetu nalaze se u `app/kurikulum/{razred}/{Predmet}/*_poglavlja.{txt,csv}` (jedan redak = jedan nastavni sat, stupac `table` u csv-u je tjedan). U istoj mapi `grupiranje.json` grupira sate u cjeline i lekcije za odabir u kvizu; polje `izvori` čuva brojeve redaka. Lekcije su pojmovne (ne vežu se uz pojedinu pjesmu ili jedinicu udžbenika) jer škole koriste različite udžbenike. Iz `grupiranje.json` prenose se cjeline i lekcije (bez `izvori`) u `app/data/kurikulum.json`.
+Izvedbeni planovi po predmetu preuzimaju se s [i-nastava](https://i-nastava.gov.hr/) (Ministarstvo znanosti, obrazovanja i mladih) i nalaze se u `app/kurikulum/{razred}/{Predmet}/*_poglavlja.{txt,csv}` (jedan redak = jedan nastavni sat, stupac `table` u csv-u je tjedan). U istoj mapi `grupiranje.json` grupira sate u cjeline i lekcije za odabir u kvizu; polje `izvori` čuva brojeve redaka. Lekcije su pojmovne (ne vežu se uz pojedinu pjesmu ili jedinicu udžbenika) jer škole koriste različite udžbenike. Iz `grupiranje.json` prenose se cjeline i lekcije (bez `izvori`) u `app/data/kurikulum.json`.
 
 Broj pitanja po lekciji i težini daje ruta `/pitanja/indeks.json` (pri statičkom buildu prerenderirana). Predmet ili razred bez ijednoga pitanja prikazuje se kao „uskoro“, a sitemap i llms.txt navode samo lekcije koje imaju pitanja.
 

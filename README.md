@@ -138,4 +138,4 @@ Sadržaj mape `.output/public/` objavljuje se na bilo kojem statičnom hostingu 
 
 ## Izvori gradiva
 
-Lekcije su složene prema javno dostupnim kurikulumima i izvedbenim planovima Ministarstva znanosti, obrazovanja i mladih. Lekcije su pojmovne i ne vežu se uz određeni udžbenik ni čitanku, jer škole koriste različite.
+Izvor kurikuluma i izvedbenih planova za sve razrede i predmete je [i-nastava](https://i-nastava.gov.hr/), javno dostupna platforma Ministarstva znanosti, obrazovanja i mladih. Planovi preuzeti odande nalaze se u `app/kurikulum/{razred}/{Predmet}/`, a iz njih su složene cjeline i lekcije u `app/data/kurikulum.json`. Lekcije su pojmovne i ne vežu se uz određeni udžbenik ni čitanku, jer škole koriste različite.
