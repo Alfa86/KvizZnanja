@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "mnozenje-dvoznamenkastim-brojem",
+  "pitanja": [
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove rezultat množenja?",
+      "ponudeni": [
+        "umnožak",
+        "zbroj",
+        "razlika",
+        "količnik"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rezultat množenja zove se umnožak. U zapisu 12 · 3 = 36 broj 36 je umnožak.",
+      "savjet": "Naziv rezultata množenja nastao je od glagola množiti."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu brojevi koje množimo?",
+      "ponudeni": [
+        "pribrojnici",
+        "umanjenici",
+        "djelitelji",
+        "faktori"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Brojevi koje množimo zovu se faktori. U zapisu 6 · 7 = 42 brojevi 6 i 7 su faktori.",
+      "savjet": "Sjeti se kako se zovu brojevi lijevo od znaka jednakosti u zapisu množenja."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-003",
+      "tezina": "lagano",
+      "pitanje": "Kojom znamenkom drugog faktora počinjemo pisano množenje 34 · 25?",
+      "ponudeni": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pisano množenje počinje jedinicama, pa 34 najprije množimo s 5. Zatim množimo s 2 desetice.",
+      "savjet": "Pisano množenje počinje od najmanje mjesne vrijednosti, kao i pisano zbrajanje."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-004",
+      "tezina": "lagano",
+      "pitanje": "Kako potpisujemo drugi djelomični umnožak pri pisanom množenju dvoznamenkastim brojem?",
+      "ponudeni": [
+        "točno ispod prvog djelomičnog umnoška",
+        "pomaknut jedno mjesto ulijevo",
+        "pomaknut jedno mjesto udesno",
+        "pomaknut dva mjesta ulijevo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Drugi djelomični umnožak dobivamo množenjem deseticama, pa ga počinjemo pisati ispod desetica. Zato je pomaknut jedno mjesto ulijevo.",
+      "savjet": "Razmisli koju mjesnu vrijednost ima znamenka kojom množiš drugi put."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-005",
+      "tezina": "lagano",
+      "pitanje": "Što radimo s djelomičnim umnošcima na kraju pisanog množenja?",
+      "ponudeni": [
+        "pomnožimo ih",
+        "zbrojimo ih",
+        "oduzmemo ih",
+        "usporedimo ih"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomične umnoške zbrojimo i tako dobijemo umnožak. Na primjer, za 23 · 14 računamo 92 + 230 = 322.",
+      "savjet": "Svaki djelomični umnožak je samo dio konačnog rezultata."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-006",
+      "tezina": "lagano",
+      "pitanje": "Koliko djelomičnih umnožaka nastaje pri pisanom množenju 56 · 34?",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Drugi faktor 34 ima dvije znamenke, pa nastaju dva djelomična umnoška: 56 · 4 i 56 · 30.",
+      "savjet": "Prebroji znamenke drugog faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-007",
+      "tezina": "lagano",
+      "pitanje": "Drugi djelomični umnožak nastaje množenjem prvog faktora kojom znamenkom drugog faktora?",
+      "ponudeni": [
+        "znamenkom jedinica",
+        "znamenkom stotica",
+        "zbrojem njegovih znamenaka",
+        "znamenkom desetica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvi djelomični umnožak nastaje množenjem jedinicama, a drugi množenjem deseticama drugog faktora.",
+      "savjet": "Prisjeti se kojom znamenkom počinje pisano množenje i koja dolazi nakon nje."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 12 · 13.",
+      "ponudeni": [
+        "48",
+        "256",
+        "156",
+        "36"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 12 · 3 = 36 i 12 · 10 = 120. Njihov zbroj je 36 + 120 = 156.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 21 · 14.",
+      "ponudeni": [
+        "105",
+        "304",
+        "294",
+        "84"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 21 · 4 = 84 i 21 · 10 = 210. Njihov zbroj je 84 + 210 = 294.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-010",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 32 · 12.",
+      "ponudeni": [
+        "96",
+        "384",
+        "374",
+        "64"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomični umnošci su 32 · 2 = 64 i 32 · 10 = 320. Njihov zbroj je 64 + 320 = 384.",
+      "savjet": "Ne zaboravi pribrojiti prenesene znamenke pri svakom množenju."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-011",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 24 · 15.",
+      "ponudeni": [
+        "360",
+        "340",
+        "144",
+        "460"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djelomični umnošci su 24 · 5 = 120 i 24 · 10 = 240. Njihov zbroj je 120 + 240 = 360.",
+      "savjet": "Procijeni rezultat zaokruživanjem faktora pa provjeri je li tvoj rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-012",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 43 · 21.",
+      "ponudeni": [
+        "129",
+        "913",
+        "43",
+        "903"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 43 · 1 = 43 i 43 · 20 = 860. Njihov zbroj je 43 + 860 = 903.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-013",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 25 · 16.",
+      "ponudeni": [
+        "370",
+        "175",
+        "390",
+        "400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 25 · 6 = 150 i 25 · 10 = 250. Njihov zbroj je 150 + 250 = 400.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 18 · 23.",
+      "ponudeni": [
+        "294",
+        "90",
+        "414",
+        "514"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 18 · 3 = 54 i 18 · 20 = 360. Njihov zbroj je 54 + 360 = 414.",
+      "savjet": "Ne zaboravi pribrojiti prenesene znamenke pri svakom množenju."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 36 · 22.",
+      "ponudeni": [
+        "682",
+        "792",
+        "144",
+        "802"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomični umnošci su 36 · 2 = 72 i 36 · 20 = 720. Njihov zbroj je 72 + 720 = 792.",
+      "savjet": "Procijeni rezultat zaokruživanjem faktora pa provjeri je li tvoj rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 41 · 25.",
+      "ponudeni": [
+        "1025",
+        "287",
+        "1015",
+        "205"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djelomični umnošci su 41 · 5 = 205 i 41 · 20 = 820. Njihov zbroj je 205 + 820 = 1025.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 17 · 34.",
+      "ponudeni": [
+        "578",
+        "358",
+        "119",
+        "678"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djelomični umnošci su 17 · 4 = 68 i 17 · 30 = 510. Njihov zbroj je 68 + 510 = 578.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-018",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 52 · 13.",
+      "ponudeni": [
+        "208",
+        "686",
+        "156",
+        "676"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 52 · 3 = 156 i 52 · 10 = 520. Njihov zbroj je 156 + 520 = 676.",
+      "savjet": "Ne zaboravi pribrojiti prenesene znamenke pri svakom množenju."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-019",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 27 · 31.",
+      "ponudeni": [
+        "637",
+        "108",
+        "837",
+        "827"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 27 · 1 = 27 i 27 · 30 = 810. Njihov zbroj je 27 + 810 = 837.",
+      "savjet": "Procijeni rezultat zaokruživanjem faktora pa provjeri je li tvoj rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-020",
+      "tezina": "lagano",
+      "pitanje": "Pri pisanom množenju 42 · 23 koliki je prvi djelomični umnožak?",
+      "ponudeni": [
+        "84",
+        "126",
+        "840",
+        "966"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi djelomični umnožak dobijemo množenjem jedinicama drugog faktora: 42 · 3 = 126.",
+      "savjet": "Prvi djelomični umnožak nastaje množenjem jedinicama drugog faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-021",
+      "tezina": "lagano",
+      "pitanje": "Pri pisanom množenju 31 · 24 koliko vrijedi drugi djelomični umnožak?",
+      "ponudeni": [
+        "124",
+        "620",
+        "6200",
+        "744"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Drugi djelomični umnožak nastaje množenjem s 2 desetice: 31 · 20 = 620. Zato ga potpisujemo jedno mjesto ulijevo.",
+      "savjet": "Drugi djelomični umnožak nastaje množenjem deseticama drugog faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-022",
+      "tezina": "lagano",
+      "pitanje": "Koji su djelomični umnošci pri pisanom množenju 23 · 14?",
+      "ponudeni": [
+        "92 i 230",
+        "92 i 2300",
+        "82 i 230",
+        "69 i 230"
+      ],
+      "tocan": 0,
+      "objasnjenje": "23 · 4 = 92 i 23 · 10 = 230. Njihov zbroj 322 je umnožak.",
+      "savjet": "Pomnoži 23 najprije jedinicama, a zatim deseticama broja 14."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-023",
+      "tezina": "lagano",
+      "pitanje": "Djelomični umnošci pri množenju 26 · 13 su 78 i 260. Izračunaj umnožak.",
+      "ponudeni": [
+        "104",
+        "328",
+        "348",
+        "338"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zbrojimo djelomične umnoške: 78 + 260 = 338. Zato je 26 · 13 = 338.",
+      "savjet": "Zbroji djelomične umnoške pazeći na mjesne vrijednosti."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-024",
+      "tezina": "lagano",
+      "pitanje": "Kojom znamenkom završava umnožak 47 · 23?",
+      "ponudeni": [
+        "3",
+        "7",
+        "1",
+        "2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka jedinica umnoška ovisi samo o jedinicama faktora: 7 · 3 = 21, pa umnožak završava s 1 (47 · 23 = 1081).",
+      "savjet": "Pomnoži samo znamenke jedinica obaju faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-025",
+      "tezina": "lagano",
+      "pitanje": "Procijeni pa odaberi: koji je od ponuđenih brojeva umnožak 19 · 21?",
+      "ponudeni": [
+        "39",
+        "3999",
+        "399",
+        "199"
+      ],
+      "tocan": 2,
+      "objasnjenje": "19 · 21 je približno 20 · 20 = 400. Točno je 19 · 21 = 399.",
+      "savjet": "Zaokruži oba faktora na desetice i pomnoži."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-026",
+      "tezina": "lagano",
+      "pitanje": "U razredu je 24 učenika i svaki ima 12 bojica. Koliko bojica imaju svi učenici zajedno?",
+      "ponudeni": [
+        "72",
+        "288",
+        "278",
+        "48"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Računamo 24 · 12 = 48 + 240 = 288. Svi učenici zajedno imaju 288 bojica.",
+      "savjet": "Broj učenika pomnoži brojem bojica koje ima svaki učenik."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-027",
+      "tezina": "lagano",
+      "pitanje": "U jednoj kutiji je 15 jaja. Koliko je jaja u 13 kutija?",
+      "ponudeni": [
+        "195",
+        "60",
+        "185",
+        "45"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Računamo 15 · 13 = 45 + 150 = 195. U 13 kutija je 195 jaja.",
+      "savjet": "Broj jaja u jednoj kutiji pomnoži brojem kutija."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-028",
+      "tezina": "lagano",
+      "pitanje": "Mia svaki dan pročita 16 stranica knjige. Koliko stranica pročita za 21 dan?",
+      "ponudeni": [
+        "48",
+        "326",
+        "346",
+        "336"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Računamo 16 · 21 = 16 + 320 = 336. Mia za 21 dan pročita 336 stranica.",
+      "savjet": "Broj stranica koje Mia pročita u jednom danu pomnoži brojem dana."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-029",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 30 · 20.",
+      "ponudeni": [
+        "60",
+        "6000",
+        "50",
+        "600"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3 · 2 = 6, a zatim dopišemo dvije nule jer oba faktora imaju po jednu nulu. Zato je 30 · 20 = 600.",
+      "savjet": "Pomnoži 3 · 2 pa razmisli koliko nula treba dopisati."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-030",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 40 · 12.",
+      "ponudeni": [
+        "48",
+        "4800",
+        "480",
+        "52"
+      ],
+      "tocan": 2,
+      "objasnjenje": "40 · 12 je 12 puta 4 desetice, a to je 48 desetica. Zato je 40 · 12 = 480.",
+      "savjet": "Izračunaj 4 · 12 pa rezultat pretvori iz desetica u jedinice."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-031",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 124 · 23.",
+      "ponudeni": [
+        "2842",
+        "2852",
+        "620",
+        "2952"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomični umnošci su 124 · 3 = 372 i 124 · 20 = 2480. Njihov zbroj je 372 + 2480 = 2852.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-032",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 214 · 36.",
+      "ponudeni": [
+        "7704",
+        "7584",
+        "1926",
+        "6704"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djelomični umnošci su 214 · 6 = 1284 i 214 · 30 = 6420. Njihov zbroj je 1284 + 6420 = 7704.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-033",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 315 · 42.",
+      "ponudeni": [
+        "13 230",
+        "13 020",
+        "1890",
+        "13 220"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djelomični umnošci su 315 · 2 = 630 i 315 · 40 = 12 600. Njihov zbroj je 630 + 12 600 = 13 230.",
+      "savjet": "Ne zaboravi pribrojiti prenesene znamenke pri svakom množenju."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-034",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 207 · 34.",
+      "ponudeni": [
+        "6818",
+        "1449",
+        "7138",
+        "7038"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 207 · 4 = 828 i 207 · 30 = 6210. Njihov zbroj je 828 + 6210 = 7038.",
+      "savjet": "Procijeni rezultat zaokruživanjem faktora pa provjeri je li tvoj rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-035",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 456 · 27.",
+      "ponudeni": [
+        "10 872",
+        "4104",
+        "12 312",
+        "11 312"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 456 · 7 = 3192 i 456 · 20 = 9120. Njihov zbroj je 3192 + 9120 = 12 312.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 382 · 15.",
+      "ponudeni": [
+        "5320",
+        "5730",
+        "2292",
+        "5720"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomični umnošci su 382 · 5 = 1910 i 382 · 10 = 3820. Njihov zbroj je 1910 + 3820 = 5730.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 518 · 46.",
+      "ponudeni": [
+        "23 488",
+        "23 828",
+        "5180",
+        "23 928"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomični umnošci su 518 · 6 = 3108 i 518 · 40 = 20 720. Njihov zbroj je 3108 + 20 720 = 23 828.",
+      "savjet": "Ne zaboravi pribrojiti prenesene znamenke pri svakom množenju."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 1203 · 24.",
+      "ponudeni": [
+        "28 872",
+        "28 862",
+        "7218",
+        "27 872"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djelomični umnošci su 1203 · 4 = 4812 i 1203 · 20 = 24 060. Njihov zbroj je 4812 + 24 060 = 28 872.",
+      "savjet": "Procijeni rezultat zaokruživanjem faktora pa provjeri je li tvoj rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2145 · 32.",
+      "ponudeni": [
+        "67 530",
+        "10 725",
+        "68 630",
+        "68 640"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 2145 · 2 = 4290 i 2145 · 30 = 64 350. Njihov zbroj je 4290 + 64 350 = 68 640.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 609 · 58.",
+      "ponudeni": [
+        "34 852",
+        "7917",
+        "35 322",
+        "35 422"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 609 · 8 = 4872 i 609 · 50 = 30 450. Njihov zbroj je 4872 + 30 450 = 35 322.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-041",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 734 · 19.",
+      "ponudeni": [
+        "13 716",
+        "7340",
+        "13 946",
+        "12 946"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 734 · 9 = 6606 i 734 · 10 = 7340. Njihov zbroj je 6606 + 7340 = 13 946.",
+      "savjet": "Ne zaboravi pribrojiti prenesene znamenke pri svakom množenju."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-042",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 1436 · 25.",
+      "ponudeni": [
+        "33 670",
+        "35 900",
+        "10 052",
+        "35 890"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomični umnošci su 1436 · 5 = 7180 i 1436 · 20 = 28 720. Njihov zbroj je 7180 + 28 720 = 35 900.",
+      "savjet": "Procijeni rezultat zaokruživanjem faktora pa provjeri je li tvoj rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-043",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2364 · 40.",
+      "ponudeni": [
+        "94 560",
+        "82 460",
+        "9456",
+        "94 660"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2364 · 4 = 9456, pa je 2364 · 40 = 94 560 (dopišemo nulu).",
+      "savjet": "Pomnoži 2364 s 4 pa dopiši nulu jer množiš deseticama."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-044",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 1507 · 63.",
+      "ponudeni": [
+        "63 521",
+        "13 563",
+        "95 041",
+        "94 941"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 1507 · 3 = 4521 i 1507 · 60 = 90 420. Njihov zbroj je 4521 + 90 420 = 94 941.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-045",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 3125 · 32.",
+      "ponudeni": [
+        "99 890",
+        "15 625",
+        "99 000",
+        "100 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 3125 · 2 = 6250 i 3125 · 30 = 93 750. Njihov zbroj je 6250 + 93 750 = 100 000.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-046",
+      "tezina": "srednje",
+      "pitanje": "Pri pisanom množenju 352 · 47 koliki je prvi djelomični umnožak?",
+      "ponudeni": [
+        "1408",
+        "2154",
+        "2464",
+        "16 544"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvi djelomični umnožak dobijemo množenjem jedinicama drugog faktora: 352 · 7 = 2464.",
+      "savjet": "Prvi djelomični umnožak nastaje množenjem jedinicama drugog faktora, uz prijenos."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-047",
+      "tezina": "srednje",
+      "pitanje": "Pri pisanom množenju 418 · 53 koliko vrijedi drugi djelomični umnožak?",
+      "ponudeni": [
+        "1254",
+        "20 900",
+        "209 000",
+        "22 154"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Drugi djelomični umnožak nastaje množenjem s 5 desetica: 418 · 50 = 20 900.",
+      "savjet": "Drugi djelomični umnožak nastaje množenjem deseticama drugog faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-048",
+      "tezina": "srednje",
+      "pitanje": "Koji su djelomični umnošci pri pisanom množenju 243 · 36?",
+      "ponudeni": [
+        "1458 i 7290",
+        "1458 i 72 900",
+        "1248 i 7290",
+        "1458 i 6290"
+      ],
+      "tocan": 0,
+      "objasnjenje": "243 · 6 = 1458 i 243 · 30 = 7290. Njihov zbroj 1458 + 7290 = 8748 je umnožak.",
+      "savjet": "Pomnoži 243 najprije jedinicama, a zatim deseticama broja 36, pazeći na prijenos."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-049",
+      "tezina": "srednje",
+      "pitanje": "Djelomični umnošci pri množenju 326 · 45 su 1630 i 13 040. Izračunaj umnožak.",
+      "ponudeni": [
+        "14 670",
+        "2934",
+        "14 570",
+        "15 670"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojimo djelomične umnoške: 1630 + 13 040 = 14 670. Zato je 326 · 45 = 14 670.",
+      "savjet": "Zbroji djelomične umnoške potpisane po mjesnim vrijednostima."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-050",
+      "tezina": "srednje",
+      "pitanje": "Kojom znamenkom završava umnožak 2468 · 37?",
+      "ponudeni": [
+        "8",
+        "7",
+        "4",
+        "6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka jedinica umnoška ovisi samo o jedinicama faktora: 8 · 7 = 56, pa umnožak završava sa 6.",
+      "savjet": "Pomnoži samo znamenke jedinica obaju faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-051",
+      "tezina": "srednje",
+      "pitanje": "Procijeni pa odaberi: koji je od ponuđenih brojeva umnožak 498 · 21?",
+      "ponudeni": [
+        "1494",
+        "104 580",
+        "10 458",
+        "1045"
+      ],
+      "tocan": 2,
+      "objasnjenje": "498 · 21 je približno 500 · 20 = 10 000, pa umnožak mora biti blizu 10 000. Točno je 498 · 21 = 10 458.",
+      "savjet": "Zaokruži 498 na stotice, a 21 na desetice, pa pomnoži."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-052",
+      "tezina": "srednje",
+      "pitanje": "Škola ima 18 razreda, a u svakom razredu je 26 učenika. Koliko učenika ima škola?",
+      "ponudeni": [
+        "328",
+        "468",
+        "144",
+        "458"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Računamo 18 · 26 = 108 + 360 = 468. Škola ima 468 učenika.",
+      "savjet": "Broj razreda pomnoži brojem učenika u jednom razredu."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-053",
+      "tezina": "srednje",
+      "pitanje": "U jednoj kutiji su 144 olovke. Koliko je olovaka u 25 takvih kutija?",
+      "ponudeni": [
+        "3380",
+        "3600",
+        "1008",
+        "3700"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Računamo 144 · 25 = 720 + 2880 = 3600. U 25 kutija je 3600 olovaka.",
+      "savjet": "Broj olovaka u jednoj kutiji pomnoži brojem kutija."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-054",
+      "tezina": "srednje",
+      "pitanje": "Kamion svaki dan prijeđe 385 km. Koliko kilometara prijeđe za 16 dana?",
+      "ponudeni": [
+        "6160",
+        "5730",
+        "2695",
+        "5160"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Računamo 385 · 16 = 2310 + 3850 = 6160. Kamion za 16 dana prijeđe 6160 km.",
+      "savjet": "Put koji kamion prijeđe u jednom danu pomnoži brojem dana."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-055",
+      "tezina": "srednje",
+      "pitanje": "Jedna knjiga ima 248 stranica. Koliko stranica ima 35 takvih knjiga?",
+      "ponudeni": [
+        "7240",
+        "1984",
+        "8670",
+        "8680"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Računamo 248 · 35 = 1240 + 7440 = 8680. 35 knjiga ima 8680 stranica.",
+      "savjet": "Broj stranica jedne knjige pomnoži brojem knjiga."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-056",
+      "tezina": "srednje",
+      "pitanje": "Pekara svaki dan ispeče 1250 kifli. Koliko kifli ispeče za 28 dana?",
+      "ponudeni": [
+        "32 600",
+        "12 500",
+        "35 000",
+        "35 100"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Računamo 1250 · 28 = 10 000 + 25 000 = 35 000. Pekara za 28 dana ispeče 35 000 kifli.",
+      "savjet": "Broj kifli ispečenih u jednom danu pomnoži brojem dana."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-057",
+      "tezina": "srednje",
+      "pitanje": "Zašto drugi djelomični umnožak potpisujemo jedno mjesto ulijevo?",
+      "ponudeni": [
+        "jer je manji od prvog",
+        "jer množimo jedinicama",
+        "jer množimo deseticama",
+        "jer ga oduzimamo od prvog"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Drugom znamenkom drugog faktora množimo desetice, pa i rezultat predstavlja desetice. Zato ga počinjemo pisati ispod desetica.",
+      "savjet": "Sjeti se koju mjesnu vrijednost ima lijeva znamenka dvoznamenkastog broja."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-058",
+      "tezina": "srednje",
+      "pitanje": "Kojim izrazom možemo izračunati 125 · 34?",
+      "ponudeni": [
+        "125 · 4 + 125 · 3",
+        "125 · 4 + 125 · 30",
+        "125 · 4 · 30",
+        "125 · 30 + 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 34 rastavimo na 30 + 4, pa je 125 · 34 = 125 · 4 + 125 · 30. To su upravo djelomični umnošci.",
+      "savjet": "Rastavi broj 34 na desetice i jedinice."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-059",
+      "tezina": "srednje",
+      "pitanje": "Koji od ponuđenih umnožaka iznosi 4800?",
+      "ponudeni": [
+        "120 · 40",
+        "160 · 20",
+        "150 · 30",
+        "240 · 25"
+      ],
+      "tocan": 0,
+      "objasnjenje": "12 · 4 = 48, a dopisujemo dvije nule, pa je 120 · 40 = 4800.",
+      "savjet": "Pomnoži brojeve bez nula pa dopiši onoliko nula koliko ih faktori imaju zajedno."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-060",
+      "tezina": "srednje",
+      "pitanje": "Škola je kupila 36 paketa bilježnica, a u svakom paketu je 125 bilježnica. Koliko je bilježnica kupila?",
+      "ponudeni": [
+        "4270",
+        "1125",
+        "3500",
+        "4500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Računamo 125 · 36 = 750 + 3750 = 4500. Škola je kupila 4500 bilježnica.",
+      "savjet": "Broj bilježnica u jednom paketu pomnoži brojem paketa."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-061",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 12 345 · 24.",
+      "ponudeni": [
+        "295 060",
+        "74 070",
+        "296 270",
+        "296 280"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 12 345 · 4 = 49 380 i 12 345 · 20 = 246 900. Njihov zbroj je 49 380 + 246 900 = 296 280.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-062",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 23 456 · 37.",
+      "ponudeni": [
+        "834 432",
+        "234 560",
+        "867 872",
+        "867 972"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 23 456 · 7 = 164 192 i 23 456 · 30 = 703 680. Njihov zbroj je 164 192 + 703 680 = 867 872.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-063",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 4087 · 56.",
+      "ponudeni": [
+        "224 132",
+        "228 872",
+        "44 957",
+        "227 872"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomični umnošci su 4087 · 6 = 24 522 i 4087 · 50 = 204 350. Njihov zbroj je 24 522 + 204 350 = 228 872.",
+      "savjet": "Ne zaboravi pribrojiti prenesene znamenke pri svakom množenju."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-064",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 30 125 · 28.",
+      "ponudeni": [
+        "843 500",
+        "843 260",
+        "301 250",
+        "843 490"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djelomični umnošci su 30 125 · 8 = 241 000 i 30 125 · 20 = 602 500. Njihov zbroj je 241 000 + 602 500 = 843 500.",
+      "savjet": "Procijeni rezultat zaokruživanjem faktora pa provjeri je li tvoj rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-065",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 9876 · 54.",
+      "ponudeni": [
+        "533 304",
+        "486 784",
+        "88 884",
+        "533 404"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djelomični umnošci su 9876 · 4 = 39 504 i 9876 · 50 = 493 800. Njihov zbroj je 39 504 + 493 800 = 533 304.",
+      "savjet": "Pomnoži prvo jedinicama, zatim deseticama drugog faktora, pa zbroji djelomične umnoške."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-066",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 15 207 · 43.",
+      "ponudeni": [
+        "443 681",
+        "106 449",
+        "652 901",
+        "653 901"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 15 207 · 3 = 45 621 i 15 207 · 40 = 608 280. Njihov zbroj je 45 621 + 608 280 = 653 901.",
+      "savjet": "Drugi djelomični umnožak potpiši jedno mjesto ulijevo, ispod desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-067",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 6789 · 89.",
+      "ponudeni": [
+        "540 741",
+        "115 413",
+        "604 221",
+        "604 211"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djelomični umnošci su 6789 · 9 = 61 101 i 6789 · 80 = 543 120. Njihov zbroj je 61 101 + 543 120 = 604 221.",
+      "savjet": "Ne zaboravi pribrojiti prenesene znamenke pri svakom množenju."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-068",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 40 506 · 19.",
+      "ponudeni": [
+        "765 564",
+        "769 614",
+        "405 060",
+        "769 714"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelomični umnošci su 40 506 · 9 = 364 554 i 40 506 · 10 = 405 060. Njihov zbroj je 364 554 + 405 060 = 769 614.",
+      "savjet": "Procijeni rezultat zaokruživanjem faktora pa provjeri je li tvoj rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-069",
+      "tezina": "tesko",
+      "pitanje": "U zapisu 4□ · 23 = 1012 skrivena je jedna znamenka. Koja znamenka stoji umjesto □?",
+      "ponudeni": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Provjerom dobivamo 44 · 23 = 132 + 880 = 1012, pa nedostaje znamenka 4.",
+      "savjet": "Umnožak završava s 2: koja znamenka pomnožena s 3 daje broj koji završava s 2?"
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-070",
+      "tezina": "tesko",
+      "pitanje": "U zapisu 126 · □4 = 4284 skrivena je jedna znamenka. Koja znamenka stoji umjesto □?",
+      "ponudeni": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Provjerom dobivamo 126 · 34 = 504 + 3780 = 4284, pa nedostaje znamenka 3.",
+      "savjet": "Procijeni: 126 je oko 100, pa razmisli koliko desetica treba drugi faktor da umnožak bude oko 4300."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-071",
+      "tezina": "tesko",
+      "pitanje": "U zapisu 347 · 26 = 9□22 skrivena je jedna znamenka. Koja znamenka stoji umjesto □?",
+      "ponudeni": [
+        "1",
+        "8",
+        "9",
+        "0"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelomični umnošci su 347 · 6 = 2082 i 347 · 20 = 6940, a 2082 + 6940 = 9022. Nedostaje znamenka 0.",
+      "savjet": "Izračunaj oba djelomična umnoška i zbroji ih."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-072",
+      "tezina": "tesko",
+      "pitanje": "U zapisu 2□5 · 32 = 7520 skrivena je jedna znamenka. Koja znamenka stoji umjesto □?",
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Provjerom dobivamo 235 · 32 = 470 + 7050 = 7520, pa nedostaje znamenka 3.",
+      "savjet": "Procijeni: 32 je oko 30, pa razmisli koji broj puta 30 daje oko 7500."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-073",
+      "tezina": "tesko",
+      "pitanje": "U zapisu 1□08 · 45 = 72 360 skrivena je jedna znamenka. Koja znamenka stoji umjesto □?",
+      "ponudeni": [
+        "5",
+        "7",
+        "6",
+        "0"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Provjerom dobivamo 1608 · 45 = 8040 + 64 320 = 72 360, pa nedostaje znamenka 6.",
+      "savjet": "Znaš da je 1000 · 45 = 45 000, a svaka dodatna stotica povećava umnožak za 4500."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-074",
+      "tezina": "tesko",
+      "pitanje": "U zapisu 523 · 4□ = 24 058 skrivena je jedna znamenka. Koja znamenka stoji umjesto □?",
+      "ponudeni": [
+        "4",
+        "6",
+        "9",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Provjerom dobivamo 523 · 46 = 3138 + 20 920 = 24 058, pa nedostaje znamenka 6.",
+      "savjet": "Umnožak završava s 8: koja znamenka pomnožena s 3 daje broj koji završava s 8?"
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-075",
+      "tezina": "tesko",
+      "pitanje": "U zapisu 38 · 2□ = 988 skrivena je jedna znamenka. Koja znamenka stoji umjesto □?",
+      "ponudeni": [
+        "6",
+        "1",
+        "4",
+        "8"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Provjerom dobivamo 38 · 26 = 228 + 760 = 988, pa nedostaje znamenka 6.",
+      "savjet": "Umnožak završava s 8, pa potraži znamenke koje pomnožene s 8 to daju i provjeri ih."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-076",
+      "tezina": "tesko",
+      "pitanje": "U pisanom množenju 215 · 37 prvi djelomični umnožak je 1□05. Koja znamenka nedostaje?",
+      "ponudeni": [
+        "4",
+        "0",
+        "6",
+        "5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvi djelomični umnožak je 215 · 7 = 1505, pa nedostaje znamenka 5.",
+      "savjet": "Prvi djelomični umnožak nastaje množenjem jedinicama drugog faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-077",
+      "tezina": "tesko",
+      "pitanje": "Luka je pri množenju 312 · 24 dobio djelomične umnoške 1248 i 624, zbrojio ih i dobio 1872. Koju je pogrešku napravio?",
+      "ponudeni": [
+        "Zaboravio je prijenos pri množenju.",
+        "Pogrešno je pomnožio jedinicama.",
+        "Pogrešno je zbrojio djelomične umnoške.",
+        "Drugi djelomični umnožak nije pomaknuo ulijevo."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Drugi djelomični umnožak vrijedi 312 · 20 = 6240, pa ga treba pomaknuti jedno mjesto ulijevo. Točno je 1248 + 6240 = 7488.",
+      "savjet": "Provjeri svaki korak: oba množenja, potpisivanje i zbrajanje."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-078",
+      "tezina": "tesko",
+      "pitanje": "Ana je izračunala 156 · 34 i dobila 5204. Odaberi točan rezultat.",
+      "ponudeni": [
+        "5204",
+        "1092",
+        "5304",
+        "5314"
+      ],
+      "tocan": 2,
+      "objasnjenje": "156 · 4 = 624 i 156 · 30 = 4680, a 624 + 4680 = 5304. Ana je pogriješila pri zbrajanju djelomičnih umnožaka.",
+      "savjet": "Izračunaj oba djelomična umnoška pa ih pažljivo zbroji."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-079",
+      "tezina": "tesko",
+      "pitanje": "Koji je od ponuđenih umnožaka najveći?",
+      "ponudeni": [
+        "48 · 52",
+        "50 · 50",
+        "49 · 51",
+        "47 · 53"
+      ],
+      "tocan": 1,
+      "objasnjenje": "50 · 50 = 2500, 49 · 51 = 2499, 48 · 52 = 2496 i 47 · 53 = 2491. Najveći je 50 · 50.",
+      "savjet": "Izračunaj sve umnoške i usporedi ih."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-080",
+      "tezina": "tesko",
+      "pitanje": "Koji od ponuđenih umnožaka iznosi 10 000?",
+      "ponudeni": [
+        "125 · 80",
+        "250 · 50",
+        "160 · 25",
+        "320 · 25"
+      ],
+      "tocan": 0,
+      "objasnjenje": "125 · 8 = 1000, a dopisujemo jednu nulu, pa je 125 · 80 = 10 000.",
+      "savjet": "Pomnoži brojeve bez nula pa dopiši nule koje imaju faktori."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-081",
+      "tezina": "tesko",
+      "pitanje": "Procijeni pa odaberi: koji je od ponuđenih brojeva umnožak 4987 · 31?",
+      "ponudeni": [
+        "154 597",
+        "15 459",
+        "254 597",
+        "104 597"
+      ],
+      "tocan": 0,
+      "objasnjenje": "4987 · 31 je približno 5000 · 30 = 150 000. Najbliži tome je 154 597, a to je točan umnožak.",
+      "savjet": "Zaokruži 4987 na tisućice, a 31 na desetice, pa pomnoži."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-082",
+      "tezina": "tesko",
+      "pitanje": "Pri pisanom množenju 12 064 · 57 koliko vrijedi drugi djelomični umnožak?",
+      "ponudeni": [
+        "84 448",
+        "687 648",
+        "602 200",
+        "603 200"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Drugi djelomični umnožak nastaje množenjem s 5 desetica: 12 064 · 50 = 603 200.",
+      "savjet": "Drugi djelomični umnožak nastaje množenjem deseticama drugog faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-083",
+      "tezina": "tesko",
+      "pitanje": "U školi je 12 razreda s po 24 učenika i 9 razreda s po 26 učenika. Koliko učenika ima škola?",
+      "ponudeni": [
+        "504",
+        "546",
+        "522",
+        "532"
+      ],
+      "tocan": 2,
+      "objasnjenje": "12 · 24 = 288 i 9 · 26 = 234, a 288 + 234 = 522. Škola ima 522 učenika.",
+      "savjet": "Izračunaj posebno broj učenika u svakoj skupini razreda pa zbroji."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-084",
+      "tezina": "tesko",
+      "pitanje": "Vlak svaki dan prijeđe 465 km. Koliko kilometara prijeđe za 4 tjedna?",
+      "ponudeni": [
+        "1860",
+        "13 020",
+        "3255",
+        "12 920"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4 tjedna imaju 4 · 7 = 28 dana, a 465 · 28 = 3720 + 9300 = 13 020. Vlak prijeđe 13 020 km.",
+      "savjet": "Najprije izračunaj koliko dana imaju 4 tjedna."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-085",
+      "tezina": "tesko",
+      "pitanje": "Kino ima 24 reda s po 18 sjedala. Na predstavu je došlo 375 gledatelja. Koliko je sjedala ostalo prazno?",
+      "ponudeni": [
+        "432",
+        "57",
+        "67",
+        "47"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kino ima 24 · 18 = 432 sjedala, a 432 − 375 = 57. Prazno je ostalo 57 sjedala.",
+      "savjet": "Najprije izračunaj koliko sjedala ima kino."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-086",
+      "tezina": "tesko",
+      "pitanje": "Tvornica svaki dan napuni 1250 boca soka. Koliko boca napuni za 3 tjedna?",
+      "ponudeni": [
+        "26 250",
+        "3750",
+        "8750",
+        "25 250"
+      ],
+      "tocan": 0,
+      "objasnjenje": "3 tjedna imaju 3 · 7 = 21 dan, a 1250 · 21 = 1250 + 25 000 = 26 250. Tvornica napuni 26 250 boca.",
+      "savjet": "Najprije izračunaj koliko dana imaju 3 tjedna."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-087",
+      "tezina": "tesko",
+      "pitanje": "Ivan svaki mjesec uštedi 35 €. Koliko će uštedjeti za 2 godine?",
+      "ponudeni": [
+        "70 €",
+        "420 €",
+        "740 €",
+        "840 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 godine imaju 2 · 12 = 24 mjeseca, a 35 · 24 = 140 + 700 = 840. Ivan će uštedjeti 840 €.",
+      "savjet": "Najprije izračunaj koliko mjeseci imaju 2 godine."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-088",
+      "tezina": "tesko",
+      "pitanje": "U skladištu je 48 kutija s po 125 jabuka. Prodano je 2750 jabuka. Koliko je jabuka ostalo?",
+      "ponudeni": [
+        "6000",
+        "3350",
+        "3250",
+        "4250"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U skladištu je bilo 48 · 125 = 6000 jabuka, a 6000 − 2750 = 3250. Ostalo je 3250 jabuka.",
+      "savjet": "Najprije izračunaj koliko je jabuka bilo u svim kutijama."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-089",
+      "tezina": "tesko",
+      "pitanje": "Bicikl stoji 189 €, a kaciga 25 €. Škola kupuje 15 bicikala i 12 kaciga. Koliko plaća ukupno?",
+      "ponudeni": [
+        "2835 €",
+        "3035 €",
+        "3135 €",
+        "3235 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "15 · 189 = 2835 i 12 · 25 = 300, a 2835 + 300 = 3135. Škola plaća 3135 €.",
+      "savjet": "Posebno izračunaj cijenu bicikala i cijenu kaciga pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-mnozenje-dvoznamenkastim-brojem-090",
+      "tezina": "tesko",
+      "pitanje": "Sara ima 18 albuma s po 36 sličica, a Tin 24 albuma s po 25 sličica. Koliko sličica Sara ima više od Tina?",
+      "ponudeni": [
+        "1248",
+        "48",
+        "58",
+        "38"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sara ima 18 · 36 = 648, a Tin 24 · 25 = 600 sličica. Razlika je 648 − 600 = 48.",
+      "savjet": "Izračunaj koliko sličica ima svako dijete pa usporedi."
+    }
+  ]
+}

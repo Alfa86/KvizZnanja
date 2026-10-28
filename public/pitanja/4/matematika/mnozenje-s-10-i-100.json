@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "mnozenje-s-10-i-100",
+  "pitanja": [
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-001",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 7 · 10.",
+      "ponudeni": [
+        "7",
+        "70",
+        "700",
+        "17"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad broj množimo s 10, dopišemo mu jednu nulu. Zato je 7 · 10 = 70.",
+      "savjet": "Kad množiš s 10, broju dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-002",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 8 · 100.",
+      "ponudeni": [
+        "80",
+        "8000",
+        "800",
+        "108"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad broj množimo sa 100, dopišemo mu dvije nule. Zato je 8 · 100 = 800.",
+      "savjet": "Kad množiš sa 100, broju dopiši onoliko nula koliko ih ima broj sto."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-003",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 34 · 10.",
+      "ponudeni": [
+        "340",
+        "3400",
+        "44",
+        "304"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broju 34 dopišemo jednu nulu i dobijemo 340.",
+      "savjet": "Množenje s 10 znači dopisati jednu nulu na kraj broja."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-004",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 56 · 100.",
+      "ponudeni": [
+        "560",
+        "5600",
+        "56 000",
+        "156"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broju 56 dopišemo dvije nule i dobijemo 5600.",
+      "savjet": "Prebroji koliko nula ima broj sto i toliko ih dopiši broju 56."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-005",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 10 · 9.",
+      "ponudeni": [
+        "19",
+        "900",
+        "9",
+        "90"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Faktori mogu zamijeniti mjesta, pa je 10 · 9 = 9 · 10 = 90.",
+      "savjet": "Svejedno je množiš li 10 · 9 ili 9 · 10, a broju 9 dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-006",
+      "tezina": "lagano",
+      "pitanje": "Koliko nula dopisujemo broju kada ga množimo sa 100?",
+      "ponudeni": [
+        "jednu nulu",
+        "dvije nule",
+        "tri nule",
+        "nijednu nulu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj sto ima dvije nule, pa broju pri množenju sa 100 dopisujemo dvije nule, npr. 4 · 100 = 400.",
+      "savjet": "Prebroji koliko nula ima broj sto."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-007",
+      "tezina": "lagano",
+      "pitanje": "Koliko nula dopisujemo broju kada ga množimo s 10?",
+      "ponudeni": [
+        "jednu nulu",
+        "dvije nule",
+        "tri nule",
+        "četiri nule"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj deset ima jednu nulu, pa broju pri množenju s 10 dopisujemo jednu nulu, npr. 6 · 10 = 60.",
+      "savjet": "Prebroji koliko nula ima broj deset."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 125 · 10.",
+      "ponudeni": [
+        "135",
+        "12 500",
+        "1250",
+        "1205"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broju 125 dopišemo jednu nulu na kraj i dobijemo 1250.",
+      "savjet": "Nulu dopiši na kraj broja, ne u sredinu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 47 · 100.",
+      "ponudeni": [
+        "470",
+        "47 000",
+        "147",
+        "4700"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broju 47 dopišemo dvije nule i dobijemo 4700.",
+      "savjet": "Kod množenja sa 100 broju dopisuješ dvije nule."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-010",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 60 · 10.",
+      "ponudeni": [
+        "60",
+        "6000",
+        "600",
+        "70"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broju 60 dopišemo jednu nulu i dobijemo 600.",
+      "savjet": "I broju koji već završava nulom dopiši još jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-011",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 90 · 100.",
+      "ponudeni": [
+        "900",
+        "9000",
+        "90 000",
+        "190"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broju 90 dopišemo dvije nule i dobijemo 9000.",
+      "savjet": "Broj 90 već ima jednu nulu, a množenjem sa 100 dobiva još dvije."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-012",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj 10 puta veći od broja 45?",
+      "ponudeni": [
+        "55",
+        "4500",
+        "405",
+        "450"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 10 puta veći dobijemo množenjem s 10: 45 · 10 = 450.",
+      "savjet": "Broj 10 puta veći dobiješ množenjem, a ne zbrajanjem."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-013",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj 100 puta veći od broja 6?",
+      "ponudeni": [
+        "60",
+        "106",
+        "600",
+        "6000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 100 puta veći dobijemo množenjem sa 100: 6 · 100 = 600.",
+      "savjet": "Broj 100 puta veći dobiješ množenjem sa 100."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 2 · 30.",
+      "ponudeni": [
+        "6",
+        "32",
+        "60",
+        "600"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo 2 · 3 = 6 i dopišemo jednu nulu, pa je 2 · 30 = 60.",
+      "savjet": "Pomnoži 2 · 3, a zatim rezultatu dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 4 · 200.",
+      "ponudeni": [
+        "800",
+        "80",
+        "8000",
+        "204"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomnožimo 4 · 2 = 8 i dopišemo dvije nule, pa je 4 · 200 = 800.",
+      "savjet": "Pomnoži 4 · 2, a zatim dopiši obje nule iz broja 200."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 5 · 30.",
+      "ponudeni": [
+        "35",
+        "150",
+        "1500",
+        "15"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomnožimo 5 · 3 = 15 i dopišemo jednu nulu, pa je 5 · 30 = 150.",
+      "savjet": "Pomnoži 5 · 3, a zatim dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 3 · 300.",
+      "ponudeni": [
+        "90",
+        "9000",
+        "303",
+        "900"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 3 · 3 = 9 i dopišemo dvije nule, pa je 3 · 300 = 900.",
+      "savjet": "Pomnoži 3 · 3, a zatim dopiši dvije nule."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-018",
+      "tezina": "lagano",
+      "pitanje": "Koliko centimetara ima 1 m?",
+      "ponudeni": [
+        "10 cm",
+        "100 cm",
+        "1000 cm",
+        "1 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Metar ima 10 decimetara, a svaki decimetar 10 centimetara, pa 1 m ima 100 cm.",
+      "savjet": "Prisjeti se koliko decimetara ima metar i koliko centimetara ima decimetar."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-019",
+      "tezina": "lagano",
+      "pitanje": "Koliko centi ima 1 €?",
+      "ponudeni": [
+        "10 centi",
+        "1000 centi",
+        "100 centi",
+        "50 centi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan euro ima sto centi, to jest 1 € = 100 centi.",
+      "savjet": "Cent je stoti dio eura."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-020",
+      "tezina": "lagano",
+      "pitanje": "Koliko centimetara ima 1 dm?",
+      "ponudeni": [
+        "10 cm",
+        "100 cm",
+        "1 cm",
+        "1000 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Decimetar je deset puta dulji od centimetra, pa 1 dm ima 10 cm.",
+      "savjet": "Pogledaj na ravnalu koliko centimetara stane u jedan decimetar."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-021",
+      "tezina": "lagano",
+      "pitanje": "Koliko centimetara ima 8 m?",
+      "ponudeni": [
+        "800 cm",
+        "80 cm",
+        "8000 cm",
+        "108 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki metar ima 100 cm, pa 8 m ima 8 · 100 = 800 cm.",
+      "savjet": "Broj metara pomnoži s brojem centimetara u jednom metru."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-022",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 10 · 10.",
+      "ponudeni": [
+        "20",
+        "100",
+        "1000",
+        "110"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broju 10 dopišemo jednu nulu i dobijemo 100.",
+      "savjet": "Ne zbrajaj, nego broju deset dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-023",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 100 · 23.",
+      "ponudeni": [
+        "230",
+        "23 000",
+        "123",
+        "2300"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Faktori mogu zamijeniti mjesta, pa broju 23 dopišemo dvije nule i dobijemo 2300.",
+      "savjet": "Zamijeni mjesta faktorima i broju 23 dopiši nule iz broja sto."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-024",
+      "tezina": "lagano",
+      "pitanje": "Kojim brojem treba pomnožiti 6 da dobiješ 60?",
+      "ponudeni": [
+        "10",
+        "100",
+        "6",
+        "1000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broju 6 dopisana je jedna nula, a to se događa kad ga množimo s 10.",
+      "savjet": "Usporedi brojeve 6 i 60 i prebroji koliko je nula dopisano."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-025",
+      "tezina": "lagano",
+      "pitanje": "Kojim brojem treba pomnožiti 9 da dobiješ 900?",
+      "ponudeni": [
+        "10",
+        "90",
+        "100",
+        "1000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broju 9 dopisane su dvije nule, a to se događa kad ga množimo sa 100.",
+      "savjet": "Prebroji koliko je nula dopisano broju 9."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 70 · 10.",
+      "ponudeni": [
+        "70",
+        "7000",
+        "80",
+        "700"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broju 70 dopišemo jednu nulu i dobijemo 700.",
+      "savjet": "Broju 70 dopiši još jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-027",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 412 · 10.",
+      "ponudeni": [
+        "4120",
+        "41 200",
+        "422",
+        "4102"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broju 412 dopišemo jednu nulu na kraj i dobijemo 4120.",
+      "savjet": "Nulu dopiši na kraj broja, iza znamenke jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-028",
+      "tezina": "lagano",
+      "pitanje": "Ana ima 9 kutija olovaka. U svakoj je kutiji 10 olovaka. Koliko olovaka ima Ana?",
+      "ponudeni": [
+        "19",
+        "90",
+        "900",
+        "99"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svaka kutija ima jednako olovaka, pa množimo: 9 · 10 = 90.",
+      "savjet": "Kutije imaju jednak broj olovaka, zato množi, a ne zbrajaj."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-029",
+      "tezina": "lagano",
+      "pitanje": "U jednom paketu ima 100 listova papira. Koliko je listova u 5 takvih paketa?",
+      "ponudeni": [
+        "105",
+        "50",
+        "500",
+        "5000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo broj paketa s brojem listova: 5 · 100 = 500.",
+      "savjet": "Broj paketa pomnoži s brojem listova u jednom paketu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-030",
+      "tezina": "lagano",
+      "pitanje": "Koji umnožak iznosi 400?",
+      "ponudeni": [
+        "4 · 10",
+        "40 · 100",
+        "4 · 1000",
+        "4 · 100"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 400 dobijemo kad broju 4 dopišemo dvije nule, a to je 4 · 100.",
+      "savjet": "Prebroji koliko nula ima broj 400 na kraju."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-031",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 23 · 30.",
+      "ponudeni": [
+        "69",
+        "690",
+        "6900",
+        "53"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomnožimo 23 · 3 = 69 i dopišemo jednu nulu, pa je 23 · 30 = 690.",
+      "savjet": "Pomnoži 23 · 3, a zatim rezultatu dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-032",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 400 · 6.",
+      "ponudeni": [
+        "240",
+        "24 000",
+        "2400",
+        "406"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo 4 · 6 = 24 i dopišemo dvije nule, pa je 400 · 6 = 2400.",
+      "savjet": "Pomnoži 4 · 6, a zatim dopiši obje nule iz broja 400."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-033",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 12 · 40.",
+      "ponudeni": [
+        "52",
+        "4800",
+        "48",
+        "480"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 12 · 4 = 48 i dopišemo jednu nulu, pa je 12 · 40 = 480.",
+      "savjet": "Pomnoži 12 · 4, a zatim dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-034",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 31 · 200.",
+      "ponudeni": [
+        "6200",
+        "620",
+        "62 000",
+        "231"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomnožimo 31 · 2 = 62 i dopišemo dvije nule, pa je 31 · 200 = 6200.",
+      "savjet": "Pomnoži 31 · 2, a zatim dopiši dvije nule."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-035",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 15 · 20.",
+      "ponudeni": [
+        "35",
+        "300",
+        "3000",
+        "30"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomnožimo 15 · 2 = 30 i dopišemo jednu nulu, pa je 15 · 20 = 300.",
+      "savjet": "Pomnoži 15 · 2, a zatim rezultatu dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 25 · 40.",
+      "ponudeni": [
+        "100",
+        "10 000",
+        "1000",
+        "65"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo 25 · 4 = 100 i dopišemo jednu nulu, pa je 25 · 40 = 1000.",
+      "savjet": "Pomnoži 25 · 4, a zatim ne zaboravi dopisati nulu iz broja 40."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 50 · 60.",
+      "ponudeni": [
+        "300",
+        "30 000",
+        "110",
+        "3000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 5 · 6 = 30 i dopišemo obje nule iz faktora, pa je 50 · 60 = 3000.",
+      "savjet": "Pomnoži 5 · 6, a zatim dopiši nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 7 · 800.",
+      "ponudeni": [
+        "560",
+        "5600",
+        "56 000",
+        "807"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomnožimo 7 · 8 = 56 i dopišemo dvije nule, pa je 7 · 800 = 5600.",
+      "savjet": "Pomnoži 7 · 8, a zatim dopiši dvije nule."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 213 · 30.",
+      "ponudeni": [
+        "6390",
+        "639",
+        "63 900",
+        "243"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomnožimo 213 · 3 = 639 i dopišemo jednu nulu, pa je 213 · 30 = 6390.",
+      "savjet": "Pomnoži 213 · 3, a zatim dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 44 · 200.",
+      "ponudeni": [
+        "880",
+        "88 000",
+        "244",
+        "8800"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 44 · 2 = 88 i dopišemo dvije nule, pa je 44 · 200 = 8800.",
+      "savjet": "Pomnoži 44 · 2, a zatim dopiši dvije nule."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-041",
+      "tezina": "srednje",
+      "pitanje": "Koliko centimetara ima 14 m?",
+      "ponudeni": [
+        "140 cm",
+        "14 000 cm",
+        "1400 cm",
+        "114 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan metar ima 100 cm, pa je 14 m = 14 · 100 cm = 1400 cm.",
+      "savjet": "Sjeti se koliko centimetara ima jedan metar i pomnoži."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-042",
+      "tezina": "srednje",
+      "pitanje": "Koliko centi ima 25 €?",
+      "ponudeni": [
+        "250 centi",
+        "2500 centi",
+        "25 000 centi",
+        "125 centi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedan euro ima 100 centi, pa je 25 € = 25 · 100 centi = 2500 centi.",
+      "savjet": "Sjeti se koliko centi ima jedan euro i pomnoži."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-043",
+      "tezina": "srednje",
+      "pitanje": "Koliko centimetara ima 37 dm?",
+      "ponudeni": [
+        "370 cm",
+        "3700 cm",
+        "47 cm",
+        "37 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan decimetar ima 10 cm, pa je 37 dm = 37 · 10 cm = 370 cm.",
+      "savjet": "Sjeti se koliko centimetara ima jedan decimetar i pomnoži."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-044",
+      "tezina": "srednje",
+      "pitanje": "Kojim brojem treba pomnožiti 52 da dobiješ 5200?",
+      "ponudeni": [
+        "10",
+        "100",
+        "1000",
+        "50"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broju 52 dopisane su dvije nule, a to se događa kad ga množimo sa 100.",
+      "savjet": "Usporedi brojeve 52 i 5200 i prebroji koliko je nula dopisano."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-045",
+      "tezina": "srednje",
+      "pitanje": "Kojim brojem treba pomnožiti 8 da dobiješ 240?",
+      "ponudeni": [
+        "30",
+        "20",
+        "300",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamo da je 8 · 3 = 24, pa je 8 · 30 = 240.",
+      "savjet": "Sjeti se koji broj pomnožen s 8 daje 24, a zatim pazi na nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-046",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 6 · 90.",
+      "ponudeni": [
+        "54",
+        "5400",
+        "96",
+        "540"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 6 · 9 = 54 i dopišemo jednu nulu, pa je 6 · 90 = 540.",
+      "savjet": "Pomnoži 6 · 9, a zatim dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-047",
+      "tezina": "srednje",
+      "pitanje": "Koji umnožak iznosi 3600?",
+      "ponudeni": [
+        "9 · 40",
+        "9 · 400",
+        "90 · 400",
+        "36 · 10"
+      ],
+      "tocan": 1,
+      "objasnjenje": "9 · 4 = 36, a broj 400 ima dvije nule, pa je 9 · 400 = 3600.",
+      "savjet": "Broj 3600 ima dvije nule na kraju, pa traži umnožak s ukupno toliko nula."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-048",
+      "tezina": "srednje",
+      "pitanje": "Ulaznica za kino stoji 7 €. U kino ide 20 učenika. Koliko eura stoje sve ulaznice?",
+      "ponudeni": [
+        "27 €",
+        "1400 €",
+        "140 €",
+        "14 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Cijenu jedne ulaznice pomnožimo s brojem učenika: 20 · 7 = 140, pa ulaznice stoje 140 €.",
+      "savjet": "Pomnoži broj učenika s cijenom jedne ulaznice."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-049",
+      "tezina": "srednje",
+      "pitanje": "Leon svaki dan pročita 30 stranica knjige. Koliko stranica pročita za 12 dana?",
+      "ponudeni": [
+        "360",
+        "42",
+        "3600",
+        "36"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki dan čita jednako stranica, pa množimo: 12 · 30 = 360.",
+      "savjet": "Pomnoži 12 · 3, a zatim dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-050",
+      "tezina": "srednje",
+      "pitanje": "U jednoj kutiji ima 100 bombona. Koliko je bombona u 24 takve kutije?",
+      "ponudeni": [
+        "124",
+        "240",
+        "2400",
+        "24 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množimo broj kutija s brojem bombona: 24 · 100 = 2400.",
+      "savjet": "Broj kutija pomnoži s brojem bombona u jednoj kutiji."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-051",
+      "tezina": "srednje",
+      "pitanje": "U vrtu je 8 redova, a u svakom je redu 60 sadnica salate. Koliko je sadnica ukupno?",
+      "ponudeni": [
+        "68",
+        "480",
+        "4800",
+        "48"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomnožimo 8 · 6 = 48 i dopišemo nulu, pa je 8 · 60 = 480 sadnica.",
+      "savjet": "Pomnoži broj redova s brojem sadnica u jednom redu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-052",
+      "tezina": "srednje",
+      "pitanje": "Ulaznica za zabavni park stoji 40 €. Koliko eura stoji 9 ulaznica?",
+      "ponudeni": [
+        "49 €",
+        "3600 €",
+        "36 €",
+        "360 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 9 · 4 = 36 i dopišemo nulu, pa 9 ulaznica stoji 360 €.",
+      "savjet": "Pomnoži 9 · 4, a zatim dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-053",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 120 · 40.",
+      "ponudeni": [
+        "4800",
+        "480",
+        "48 000",
+        "160"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomnožimo 12 · 4 = 48 i dopišemo dvije nule, po jednu iz svakog faktora, pa je 120 · 40 = 4800.",
+      "savjet": "Pomnoži 12 · 4, a zatim dopiši nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-054",
+      "tezina": "srednje",
+      "pitanje": "Kojim brojem treba pomnožiti 300 da dobiješ 2100?",
+      "ponudeni": [
+        "70",
+        "700",
+        "7",
+        "30"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamo da je 3 · 7 = 21, pa je 300 · 7 = 2100.",
+      "savjet": "Sjeti se koji broj pomnožen s 3 daje 21, pa usporedi broj nula."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-055",
+      "tezina": "srednje",
+      "pitanje": "Koji umnožak ima najveći rezultat?",
+      "ponudeni": [
+        "40 · 30",
+        "40 · 300",
+        "4 · 300",
+        "400 · 3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svi umnošci počinju s 4 · 3 = 12, a 40 · 300 ima najviše nula, pa je 40 · 300 = 12 000 najveći.",
+      "savjet": "U svakom umnošku prebroji koliko nula ukupno imaju oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-056",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 9 · 50.",
+      "ponudeni": [
+        "4500",
+        "59",
+        "450",
+        "45"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo 9 · 5 = 45 i dopišemo jednu nulu, pa je 9 · 50 = 450.",
+      "savjet": "Pomnoži 9 · 5, a zatim dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-057",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 506 · 10.",
+      "ponudeni": [
+        "516",
+        "50 600",
+        "5006",
+        "5060"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broju 506 dopišemo jednu nulu na kraj i dobijemo 5060.",
+      "savjet": "Nula u sredini broja ostaje na svom mjestu, a novu nulu dopiši na kraj."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-058",
+      "tezina": "srednje",
+      "pitanje": "Koliko centi ima 9 €?",
+      "ponudeni": [
+        "90 centi",
+        "9000 centi",
+        "900 centi",
+        "109 centi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan euro ima 100 centi, pa je 9 € = 9 · 100 centi = 900 centi.",
+      "savjet": "Broj eura pomnoži s brojem centi u jednom euru."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-059",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 70 · 30.",
+      "ponudeni": [
+        "210",
+        "21 000",
+        "100",
+        "2100"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 7 · 3 = 21 i dopišemo obje nule, pa je 70 · 30 = 2100.",
+      "savjet": "Pomnoži 7 · 3, a zatim dopiši nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-060",
+      "tezina": "srednje",
+      "pitanje": "Autobus u jednom satu prijeđe 70 km. Koliko kilometara prijeđe za 4 sata?",
+      "ponudeni": [
+        "280 km",
+        "74 km",
+        "2800 km",
+        "28 km"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomnožimo 4 · 7 = 28 i dopišemo nulu, pa autobus prijeđe 280 km.",
+      "savjet": "Pomnoži broj sati s brojem kilometara prijeđenih u jednom satu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-061",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 40 · 300.",
+      "ponudeni": [
+        "1200",
+        "120 000",
+        "12 000",
+        "340"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo 4 · 3 = 12 i dopišemo sve tri nule iz faktora, pa je 40 · 300 = 12 000.",
+      "savjet": "Pomnoži 4 · 3, a zatim prebroji sve nule u oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-062",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 250 · 40.",
+      "ponudeni": [
+        "10 000",
+        "1000",
+        "100 000",
+        "290"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomnožimo 25 · 4 = 100 i dopišemo još dvije nule iz faktora, pa je 250 · 40 = 10 000.",
+      "savjet": "Pomnoži 25 · 4, a zatim dopiši nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-063",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 600 · 50.",
+      "ponudeni": [
+        "3000",
+        "30 000",
+        "300 000",
+        "650"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomnožimo 6 · 5 = 30 i dopišemo tri nule iz faktora, pa je 600 · 50 = 30 000.",
+      "savjet": "Pazi: umnožak 6 · 5 već završava nulom, a zatim dopiši sve nule iz faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-064",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 120 · 300.",
+      "ponudeni": [
+        "3600",
+        "360 000",
+        "420",
+        "36 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 12 · 3 = 36 i dopišemo tri nule iz faktora, pa je 120 · 300 = 36 000.",
+      "savjet": "Pomnoži 12 · 3, a zatim prebroji sve nule na kraju oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-065",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 230 · 40.",
+      "ponudeni": [
+        "920",
+        "92 000",
+        "9200",
+        "270"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo 23 · 4 = 92 i dopišemo dvije nule, pa je 230 · 40 = 9200.",
+      "savjet": "Pomnoži 23 · 4, a zatim dopiši nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-066",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 1250 · 20.",
+      "ponudeni": [
+        "25 000",
+        "2500",
+        "250 000",
+        "1270"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomnožimo 125 · 2 = 250 i dopišemo dvije nule, pa je 1250 · 20 = 25 000.",
+      "savjet": "Pomnoži 125 · 2, a zatim dopiši nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-067",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 800 · 700.",
+      "ponudeni": [
+        "5600",
+        "56 000",
+        "560 000",
+        "1500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo 8 · 7 = 56 i dopišemo četiri nule, pa je 800 · 700 = 560 000.",
+      "savjet": "Pomnoži 8 · 7, a zatim dopiši sve nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-068",
+      "tezina": "tesko",
+      "pitanje": "Kojim brojem treba pomnožiti 40 da dobiješ 8000?",
+      "ponudeni": [
+        "20",
+        "200",
+        "2000",
+        "2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamo da je 4 · 2 = 8. Broj 8000 ima tri nule, a 40 samo jednu, pa je 40 · 200 = 8000.",
+      "savjet": "Sjeti se koliko je puta 4 sadržano u 8, a zatim usporedi broj nula."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-069",
+      "tezina": "tesko",
+      "pitanje": "Kojim brojem treba pomnožiti 70 da dobiješ 35 000?",
+      "ponudeni": [
+        "50",
+        "5000",
+        "5",
+        "500"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamo da je 7 · 5 = 35. Broj 35 000 ima tri nule, a 70 jednu, pa je 70 · 500 = 35 000.",
+      "savjet": "Sjeti se koji broj pomnožen sa 7 daje 35, a zatim usporedi broj nula."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-070",
+      "tezina": "tesko",
+      "pitanje": "Koji umnožak iznosi 24 000?",
+      "ponudeni": [
+        "60 · 40",
+        "6 · 400",
+        "600 · 400",
+        "600 · 40"
+      ],
+      "tocan": 3,
+      "objasnjenje": "6 · 4 = 24, a 600 · 40 ima ukupno tri nule, pa je 600 · 40 = 24 000.",
+      "savjet": "Broj 24 000 ima tri nule, pa traži umnožak čiji faktori imaju ukupno toliko nula."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-071",
+      "tezina": "tesko",
+      "pitanje": "Koji umnožak ima rezultat različit od ostalih?",
+      "ponudeni": [
+        "30 · 200",
+        "300 · 20",
+        "30 · 20",
+        "3 · 2000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tri umnoška iznose 6000, a 30 · 20 = 600, jer ima samo dvije nule.",
+      "savjet": "U svakom umnošku prebroji koliko nula ukupno imaju faktori."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-072",
+      "tezina": "tesko",
+      "pitanje": "Na izlet ide 25 učenika. Za svakog učenika prijevoz stoji 30 €, a ulaznica 10 €. Koliko eura plate svi učenici zajedno?",
+      "ponudeni": [
+        "750 €",
+        "760 €",
+        "1000 €",
+        "10 000 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan učenik plati 30 + 10 = 40 €, pa svi plate 25 · 40 = 1000 €.",
+      "savjet": "Prvo izračunaj koliko plati jedan učenik, a zatim pomnoži s brojem učenika."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-073",
+      "tezina": "tesko",
+      "pitanje": "Kino dvorana ima 30 redova s po 20 sjedala. Prodano je 450 ulaznica. Koliko je sjedala ostalo prazno?",
+      "ponudeni": [
+        "150",
+        "600",
+        "1050",
+        "50"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvorana ima 30 · 20 = 600 sjedala. Prazno je ostalo 600 − 450 = 150 sjedala.",
+      "savjet": "Prvo izračunaj koliko sjedala ima dvorana, a zatim oduzmi prodane ulaznice."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-074",
+      "tezina": "tesko",
+      "pitanje": "Koliko centimetara ima 5 m 3 dm?",
+      "ponudeni": [
+        "503 cm",
+        "530 cm",
+        "53 cm",
+        "5300 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "5 m = 500 cm i 3 dm = 30 cm, pa je 5 m 3 dm = 500 + 30 = 530 cm.",
+      "savjet": "Posebno pretvori metre i decimetre u centimetre, a zatim zbroji."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-075",
+      "tezina": "tesko",
+      "pitanje": "Eva u novčaniku ima 7 € i 40 centi. Koliko je to centi?",
+      "ponudeni": [
+        "74 centi",
+        "7400 centi",
+        "47 centi",
+        "740 centi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "7 € = 700 centi, a 700 + 40 = 740 centi.",
+      "savjet": "Pretvori eure u cente, a zatim dodaj preostale cente."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-076",
+      "tezina": "tesko",
+      "pitanje": "Vrpca je duga 12 m. Koliko je to decimetara?",
+      "ponudeni": [
+        "12 dm",
+        "120 dm",
+        "1200 dm",
+        "22 dm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedan metar ima 10 dm, pa je 12 m = 12 · 10 dm = 120 dm.",
+      "savjet": "Sjeti se koliko decimetara ima jedan metar."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-077",
+      "tezina": "tesko",
+      "pitanje": "Ograda je složena od 40 dasaka postavljenih jedna do druge. Svaka je daska široka 20 cm. Koliko je metara duga ograda?",
+      "ponudeni": [
+        "8 m",
+        "80 m",
+        "800 m",
+        "60 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ograda je duga 40 · 20 = 800 cm. Budući da je 100 cm = 1 m, to je 8 m.",
+      "savjet": "Izračunaj duljinu u centimetrima, a zatim je pretvori u metre."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-078",
+      "tezina": "tesko",
+      "pitanje": "Koliko nula ima na kraju umnoška 50 · 40?",
+      "ponudeni": [
+        "jednu nulu",
+        "dvije nule",
+        "tri nule",
+        "četiri nule"
+      ],
+      "tocan": 2,
+      "objasnjenje": "50 · 40 = 2000, jer je 5 · 4 = 20 i tome dopišemo još dvije nule. Zato umnožak ima tri nule.",
+      "savjet": "Prvo pomnoži 5 · 4 i pogledaj završava li već taj umnožak nulom."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-079",
+      "tezina": "tesko",
+      "pitanje": "Koji broj nedostaje u jednakosti 60 · ___ = 42 000?",
+      "ponudeni": [
+        "70",
+        "700",
+        "7000",
+        "7"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamo da je 6 · 7 = 42. Broj 42 000 ima tri nule, a 60 jednu, pa je 60 · 700 = 42 000.",
+      "savjet": "Sjeti se koji broj pomnožen sa 6 daje 42, a zatim usporedi broj nula."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-080",
+      "tezina": "tesko",
+      "pitanje": "Pekara svaki dan ispeče 300 kruhova. Koliko kruhova ispeče za 30 dana?",
+      "ponudeni": [
+        "900",
+        "90 000",
+        "330",
+        "9000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pomnožimo 3 · 3 = 9 i dopišemo tri nule, pa je 300 · 30 = 9000 kruhova.",
+      "savjet": "Pomnoži 3 · 3, a zatim dopiši nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-081",
+      "tezina": "tesko",
+      "pitanje": "Ivan je kupio 3 majice po 20 € i 2 hlače po 30 €. Koliko je eura platio ukupno?",
+      "ponudeni": [
+        "50 €",
+        "120 €",
+        "1200 €",
+        "100 €"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Majice stoje 3 · 20 = 60 €, a hlače 2 · 30 = 60 €. Ukupno je platio 60 + 60 = 120 €.",
+      "savjet": "Posebno izračunaj cijenu majica i cijenu hlača, a zatim ih zbroji."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-082",
+      "tezina": "tesko",
+      "pitanje": "Vlak ima 12 vagona. U svakom je vagonu 80 sjedala. Koliko putnika može sjediti u vlaku?",
+      "ponudeni": [
+        "92",
+        "9600",
+        "960",
+        "96"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomnožimo 12 · 8 = 96 i dopišemo nulu, pa u vlaku može sjediti 960 putnika.",
+      "savjet": "Pomnoži 12 · 8, a zatim dopiši jednu nulu."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-083",
+      "tezina": "tesko",
+      "pitanje": "Na farmi pakiraju jaja u kutije po 30 jaja. Koliko jaja stane u 250 kutija?",
+      "ponudeni": [
+        "7500",
+        "750",
+        "75 000",
+        "280"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomnožimo 25 · 3 = 75 i dopišemo dvije nule, pa je 250 · 30 = 7500 jaja.",
+      "savjet": "Pomnoži 25 · 3, a zatim dopiši nule iz oba faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-084",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 450 · 200.",
+      "ponudeni": [
+        "9000",
+        "900 000",
+        "90 000",
+        "650"
+      ],
+      "tocan": 2,
+      "objasnjenje": "45 · 2 = 90, a tome dopišemo tri nule iz faktora, pa je 450 · 200 = 90 000.",
+      "savjet": "Pomnoži 45 · 2, pa dopiši nule iz faktora; pazi jer taj umnožak već završava nulom."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-085",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 500 · 600.",
+      "ponudeni": [
+        "3000",
+        "30 000",
+        "1100",
+        "300 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "5 · 6 = 30, a tome dopišemo četiri nule iz faktora, pa je 500 · 600 = 300 000.",
+      "savjet": "Pomnoži 5 · 6, a zatim dopiši sve četiri nule iz faktora."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-086",
+      "tezina": "tesko",
+      "pitanje": "Koji umnožak ima isti rezultat kao 80 · 20?",
+      "ponudeni": [
+        "8 · 20",
+        "40 · 40",
+        "160 · 100",
+        "800 · 20"
+      ],
+      "tocan": 1,
+      "objasnjenje": "80 · 20 = 1600, a i 40 · 40 = 1600, jer je 4 · 4 = 16 i dopišemo dvije nule.",
+      "savjet": "Prvo izračunaj 80 · 20, a zatim izračunaj svaki ponuđeni umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-087",
+      "tezina": "tesko",
+      "pitanje": "Na štandu je 5 kutija sa po 100 jabuka i 6 vreća sa po 20 jabuka. Koliko je jabuka ukupno?",
+      "ponudeni": [
+        "520",
+        "1100",
+        "6200",
+        "620"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U kutijama je 5 · 100 = 500 jabuka, a u vrećama 6 · 20 = 120. Ukupno je 500 + 120 = 620 jabuka.",
+      "savjet": "Posebno izračunaj jabuke u kutijama i u vrećama, a zatim ih zbroji."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-088",
+      "tezina": "tesko",
+      "pitanje": "Koja je jednakost točna?",
+      "ponudeni": [
+        "6 m = 600 cm",
+        "6 m = 60 cm",
+        "6 dm = 600 cm",
+        "6 € = 60 centi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan metar ima 100 cm, pa je 6 m = 600 cm. Točno bi bilo i 6 dm = 60 cm te 6 € = 600 centi.",
+      "savjet": "Sjeti se koliko centimetara ima metar, koliko decimetar i koliko centi ima euro."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-089",
+      "tezina": "tesko",
+      "pitanje": "Paketić naljepnica stoji 40 centi. Koliko paketića možeš kupiti za 20 €?",
+      "ponudeni": [
+        "50",
+        "5",
+        "500",
+        "20"
+      ],
+      "tocan": 0,
+      "objasnjenje": "20 € = 2000 centi, a 40 · 50 = 2000, pa možeš kupiti 50 paketića.",
+      "savjet": "Pretvori eure u cente, a zatim traži broj koji pomnožen s 40 daje toliko centi."
+    },
+    {
+      "id": "4-matematika-mnozenje-s-10-i-100-090",
+      "tezina": "tesko",
+      "pitanje": "Koji je broj 100 puta veći od broja 3070?",
+      "ponudeni": [
+        "30 700",
+        "3170",
+        "30 070",
+        "307 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 100 puta veći dobijemo množenjem sa 100: broju 3070 dopišemo dvije nule i dobijemo 307 000.",
+      "savjet": "Nula u sredini broja ostaje na mjestu, a nove nule dopiši na kraj."
+    }
+  ]
+}

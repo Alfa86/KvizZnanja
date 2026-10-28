@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "svojstva-racunskih-operacija",
+  "pitanja": [
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi izraz koji ima isti umnožak kao 6 · 9.",
+      "ponudeni": [
+        "9 · 6",
+        "6 + 9",
+        "6 · 6",
+        "9 · 9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Faktori smiju zamijeniti mjesta, a umnožak se ne mijenja. Zato je 6 · 9 = 9 · 6 = 54.",
+      "savjet": "Sjeti se što se događa s umnoškom kad faktori zamijene mjesta."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-002",
+      "tezina": "lagano",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti 7 · 8 = 8 · 7?",
+      "ponudeni": [
+        "združivanje faktora",
+        "zamjena mjesta faktora",
+        "rastavljanje broja",
+        "zamjena mjesta pribrojnika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brojevi 7 i 8 su faktori i samo su zamijenili mjesta. To je zamjena mjesta faktora.",
+      "savjet": "Odredi jesu li brojevi zbrojeni ili pomnoženi i što se s njima dogodilo."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-003",
+      "tezina": "lagano",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti 15 + 32 = 32 + 15?",
+      "ponudeni": [
+        "združivanje pribrojnika",
+        "rastavljanje broja",
+        "zamjena mjesta pribrojnika",
+        "zamjena mjesta faktora"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brojevi 15 i 32 su pribrojnici i zamijenili su mjesta. Zbroj je isti, 47.",
+      "savjet": "Odredi jesu li brojevi zbrojeni ili pomnoženi i što se s njima dogodilo."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-004",
+      "tezina": "lagano",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 25 + 48.",
+      "ponudeni": [
+        "48 − 25",
+        "25 · 48",
+        "52 + 84",
+        "48 + 25"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pribrojnici smiju zamijeniti mjesta, a zbroj ostaje isti. I 25 + 48 i 48 + 25 iznose 73.",
+      "savjet": "Pribrojnici smiju zamijeniti mjesta, ali računska operacija mora ostati ista."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu jednakost za umnožak 5 · 7.",
+      "ponudeni": [
+        "5 · 7 = 5 + 7",
+        "5 · 7 = 57",
+        "5 · 7 = 7 · 5",
+        "5 · 7 = 7 · 7"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad faktori zamijene mjesta, umnožak se ne mijenja. Obje strane iznose 35.",
+      "savjet": "Izračunaj obje strane svake jednakosti i usporedi rezultate."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-006",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj na lakši način: 25 · 9 · 4.",
+      "ponudeni": [
+        "225",
+        "900",
+        "9000",
+        "3600"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Združi 25 · 4 = 100, a zatim izračunaj 100 · 9 = 900.",
+      "savjet": "Prvo pomnoži 25 i 4, a zatim taj umnožak pomnoži s 9."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-007",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj na lakši način: 2 · 37 · 5.",
+      "ponudeni": [
+        "74",
+        "3700",
+        "185",
+        "370"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Združi 2 · 5 = 10, a zatim izračunaj 37 · 10 = 370.",
+      "savjet": "Potraži dva faktora čiji je umnožak 10."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj na lakši način: 46 + 27 + 4.",
+      "ponudeni": [
+        "77",
+        "87",
+        "67",
+        "73"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo zbroji 46 + 4 = 50, a zatim 50 + 27 = 77.",
+      "savjet": "Prvo zbroji pribrojnike koji zajedno daju okrugli broj."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-009",
+      "tezina": "lagano",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti (4 · 5) · 3 = 4 · (5 · 3)?",
+      "ponudeni": [
+        "zamjena mjesta faktora",
+        "rastavljanje broja",
+        "združivanje pribrojnika",
+        "združivanje faktora"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Faktori su ostali istim redom, a promijenile su se samo zagrade. To je združivanje faktora.",
+      "savjet": "Pogledaj što se promijenilo: redoslijed brojeva ili položaj zagrada."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-010",
+      "tezina": "lagano",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti 6 · 34 = 6 · 30 + 6 · 4?",
+      "ponudeni": [
+        "rastavljanje broja",
+        "združivanje faktora",
+        "zamjena mjesta faktora",
+        "zamjena mjesta pribrojnika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 34 rastavljen je na 30 + 4 i svaki je dio pomnožen sa 6. To je rastavljanje broja.",
+      "savjet": "Pogledaj što se dogodilo s brojem 34 na desnoj strani."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-011",
+      "tezina": "lagano",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 8 · 23.",
+      "ponudeni": [
+        "8 · 20 + 3",
+        "8 · 2 + 8 · 3",
+        "8 · 20 + 8 · 3",
+        "8 + 20 · 3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 23 rastavi na 20 + 3 i oba dijela pomnoži s 8: 160 + 24 = 184.",
+      "savjet": "Rastavi 23 na desetice i jedinice pa razmisli što sve treba pomnožiti s 8."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-012",
+      "tezina": "lagano",
+      "pitanje": "Što se događa s umnoškom kad faktori zamijene mjesta?",
+      "ponudeni": [
+        "Umnožak se poveća.",
+        "Umnožak se ne mijenja.",
+        "Umnožak se smanji.",
+        "Umnožak postane dvostruko veći."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Faktori smiju zamijeniti mjesta, a umnožak ostaje isti. Na primjer, 3 · 5 = 5 · 3 = 15.",
+      "savjet": "Izračunaj 3 · 5 i 5 · 3 pa usporedi rezultate."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 3 · 4 · 5.",
+      "ponudeni": [
+        "3 + 4 + 5",
+        "34 · 5",
+        "5 · 4 · 3",
+        "3 · 45"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Faktori smiju zamijeniti mjesta, a umnožak ostaje isti. Oba izraza iznose 60.",
+      "savjet": "Faktori smiju mijenjati mjesta, ali se ne smiju spajati u nove brojeve."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj na lakši način: 4 · 17 · 25.",
+      "ponudeni": [
+        "170",
+        "425",
+        "17 000",
+        "1700"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Združi 4 · 25 = 100, a zatim izračunaj 17 · 100 = 1700.",
+      "savjet": "Potraži dva faktora čiji je umnožak 100."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj na lakši način: 38 + 59 + 62.",
+      "ponudeni": [
+        "159",
+        "169",
+        "149",
+        "97"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo zbroji 38 + 62 = 100, a zatim 100 + 59 = 159.",
+      "savjet": "Potraži dva pribrojnika koji zajedno daju 100."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-016",
+      "tezina": "lagano",
+      "pitanje": "Odaberi izraz kojim možeš lakše izračunati 5 · 18 · 2.",
+      "ponudeni": [
+        "18 · 7",
+        "18 + 10",
+        "18 · 10",
+        "5 · 20"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Faktori 5 i 2 daju 5 · 2 = 10, pa je 5 · 18 · 2 = 18 · 10 = 180.",
+      "savjet": "Pomnoži prvo faktore koji zajedno daju okrugli broj."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj na lakši način: 7 · 20 · 5.",
+      "ponudeni": [
+        "140",
+        "700",
+        "7000",
+        "1400"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Združi 20 · 5 = 100, a zatim izračunaj 7 · 100 = 700.",
+      "savjet": "Prvo pomnoži 20 i 5."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-018",
+      "tezina": "lagano",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti 9 · 4 · 25 = 9 · 100?",
+      "ponudeni": [
+        "rastavljanje broja",
+        "združivanje faktora",
+        "zamjena mjesta pribrojnika",
+        "združivanje pribrojnika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Faktori 4 i 25 najprije su pomnoženi zajedno, 4 · 25 = 100. To je združivanje faktora.",
+      "savjet": "Pogledaj koji su faktori najprije pomnoženi zajedno."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-019",
+      "tezina": "lagano",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti 120 + 37 + 80 = 120 + 80 + 37?",
+      "ponudeni": [
+        "zamjena mjesta faktora",
+        "rastavljanje broja",
+        "združivanje faktora",
+        "zamjena mjesta pribrojnika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pribrojnici 37 i 80 zamijenili su mjesta, a zbroj je ostao isti, 237.",
+      "savjet": "Usporedi redoslijed brojeva na lijevoj i desnoj strani jednakosti."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-020",
+      "tezina": "lagano",
+      "pitanje": "Koja je jednakost za zbroj 34 + 18 točna?",
+      "ponudeni": [
+        "34 + 18 = 18 + 34",
+        "34 + 18 = 34 − 18",
+        "34 + 18 = 43 + 81",
+        "34 + 18 = 18 · 34"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pribrojnici smiju zamijeniti mjesta, a zbroj ostaje isti. Obje strane iznose 52.",
+      "savjet": "Izračunaj obje strane svake jednakosti i provjeri jesu li jednake."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-021",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj na lakši način: 5 · 47 · 2.",
+      "ponudeni": [
+        "235",
+        "94",
+        "470",
+        "4700"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Združi 5 · 2 = 10, a zatim izračunaj 47 · 10 = 470.",
+      "savjet": "Zamijeni mjesta faktora tako da 5 i 2 budu jedan do drugoga."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-022",
+      "tezina": "lagano",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 4 · 26.",
+      "ponudeni": [
+        "4 · 20 + 6",
+        "4 · 2 + 4 · 6",
+        "4 · 20 · 6",
+        "4 · 20 + 4 · 6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 26 rastavi na 20 + 6 i oba dijela pomnoži s 4: 80 + 24 = 104.",
+      "savjet": "Rastavi 26 na desetice i jedinice pa razmisli što sve treba pomnožiti s 4."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-023",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove svojstvo kod kojeg zagradama biramo koje ćemo brojeve prve izračunati, a rezultat se ne mijenja?",
+      "ponudeni": [
+        "združivanje",
+        "rastavljanje",
+        "zamjena mjesta",
+        "zaokruživanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad brojeve grupiramo zagradama, to je združivanje. Na primjer, (4 · 5) · 3 = 4 · (5 · 3).",
+      "savjet": "Usporedi (2 · 5) · 7 i 2 · (5 · 7): što se mijenja, a što ostaje isto?"
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-024",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove svojstvo kod kojeg broj 36 zapišemo kao 30 + 6 da bismo lakše množili?",
+      "ponudeni": [
+        "združivanje faktora",
+        "rastavljanje broja",
+        "zamjena mjesta faktora",
+        "zaokruživanje broja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 36 razdijelili smo na dva dijela, 30 i 6. To je rastavljanje broja.",
+      "savjet": "Pogledaj što se dogodilo s brojem 36: je li premješten ili razdijeljen na dijelove."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-025",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj na lakši način: 63 + 18 + 37.",
+      "ponudeni": [
+        "108",
+        "128",
+        "81",
+        "118"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo zbroji 63 + 37 = 100, a zatim 100 + 18 = 118.",
+      "savjet": "Potraži dva pribrojnika kojima jedinice zajedno daju 10."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-026",
+      "tezina": "lagano",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 2 · 9 · 50.",
+      "ponudeni": [
+        "9 · 100",
+        "9 · 52",
+        "9 + 100",
+        "2 · 950"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Faktori 2 i 50 daju 2 · 50 = 100, pa je 2 · 9 · 50 = 9 · 100 = 900.",
+      "savjet": "Združi faktore koji zajedno daju okrugli broj."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-027",
+      "tezina": "lagano",
+      "pitanje": "Umnožak 6 · 15 računa se rastavljanjem broja 15. Odaberi točan zapis.",
+      "ponudeni": [
+        "6 · 15 = 6 · 10 + 5",
+        "6 · 15 = 6 · 1 + 6 · 5",
+        "6 · 15 = 6 · 10 + 6 · 5",
+        "6 · 15 = 6 + 10 · 5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 15 rastavimo na 10 + 5 i oba dijela pomnožimo sa 6: 60 + 30 = 90.",
+      "savjet": "Izračunaj obje strane svake jednakosti i usporedi ih."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-028",
+      "tezina": "lagano",
+      "pitanje": "U 3 vrećice nalazi se po 4 paketa, a u svakom paketu je 25 kuglica. Izračunaj koliko je ukupno kuglica.",
+      "ponudeni": [
+        "75",
+        "100",
+        "300",
+        "32"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba izračunati 3 · 4 · 25. Združi 4 · 25 = 100, pa je 3 · 100 = 300 kuglica.",
+      "savjet": "Prvo izračunaj koliko je kuglica u jednoj vrećici."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-029",
+      "tezina": "lagano",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti 8 · 99 = 8 · 100 − 8?",
+      "ponudeni": [
+        "združivanje faktora",
+        "zamjena mjesta faktora",
+        "zamjena mjesta pribrojnika",
+        "rastavljanje broja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 99 zapisan je kao 100 − 1 i oba su dijela pomnožena s 8. To je rastavljanje broja.",
+      "savjet": "Pogledaj kako je na desnoj strani zapisan broj 99."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-030",
+      "tezina": "lagano",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 24 + 39 + 16.",
+      "ponudeni": [
+        "20 + 39 + 16",
+        "24 + 16 + 39",
+        "24 + 16 + 93",
+        "42 + 39 + 16"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pribrojnici 39 i 16 samo su zamijenili mjesta, pa je zbroj isti, 79.",
+      "savjet": "Pribrojnici smiju zamijeniti mjesta, ali se sami brojevi ne smiju mijenjati."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-031",
+      "tezina": "srednje",
+      "pitanje": "Rastavljanjem broja 48 izračunaj 7 · 48.",
+      "ponudeni": [
+        "288",
+        "336",
+        "84",
+        "326"
+      ],
+      "tocan": 1,
+      "objasnjenje": "7 · 48 = 7 · 40 + 7 · 8 = 280 + 56 = 336.",
+      "savjet": "Zapiši 48 kao zbroj desetica i jedinica pa svaki dio pomnoži sa 7."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-032",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 9 · 99.",
+      "ponudeni": [
+        "900",
+        "909",
+        "891",
+        "990"
+      ],
+      "tocan": 2,
+      "objasnjenje": "9 · 99 = 9 · 100 − 9 = 900 − 9 = 891.",
+      "savjet": "Broj 99 je za 1 manji od 100."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-033",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 13 · 25.",
+      "ponudeni": [
+        "325",
+        "253",
+        "265",
+        "350"
+      ],
+      "tocan": 0,
+      "objasnjenje": "13 · 25 = 10 · 25 + 3 · 25 = 250 + 75 = 325.",
+      "savjet": "Rastavi 13 na 10 + 3 pa svaki dio pomnoži s 25."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-034",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 50 · 13 · 2.",
+      "ponudeni": [
+        "130",
+        "650",
+        "13 000",
+        "1300"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Združi 50 · 2 = 100, a zatim izračunaj 13 · 100 = 1300.",
+      "savjet": "Potraži dva faktora čiji je umnožak 100."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-035",
+      "tezina": "srednje",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 6 · 98.",
+      "ponudeni": [
+        "6 · 100 − 2",
+        "6 · 100 + 6 · 2",
+        "6 · 100 − 6 · 2",
+        "6 · 90 + 8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 98 je 100 − 2, pa sa 6 treba pomnožiti i 100 i 2: 600 − 12 = 588.",
+      "savjet": "Zapiši 98 kao razliku pa razmisli što sve treba pomnožiti sa 6."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 125 · 7 · 8.",
+      "ponudeni": [
+        "7000",
+        "875",
+        "56 000",
+        "700"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Združi 125 · 8 = 1000, a zatim izračunaj 7 · 1000 = 7000.",
+      "savjet": "Sjeti se koliko je 125 · 8."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-037",
+      "tezina": "srednje",
+      "pitanje": "Kojim je redoslijedom najlakše izračunati 386 + 245 + 14?",
+      "ponudeni": [
+        "245 + 386 + 14",
+        "386 + 14 + 245",
+        "14 + 245 + 386",
+        "386 + 245 + 14"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbroj 386 + 14 = 400 je okrugli broj, pa je dalje lako: 400 + 245 = 645.",
+      "savjet": "Potraži dva pribrojnika čiji je zbroj okrugli broj i računaj ih prve."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 175 + 268 + 25.",
+      "ponudeni": [
+        "458",
+        "443",
+        "568",
+        "468"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo zbroji 175 + 25 = 200, a zatim 200 + 268 = 468.",
+      "savjet": "Potraži dva pribrojnika čiji je zbroj okrugla stotica."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 4 · 7 · 25 · 3.",
+      "ponudeni": [
+        "210",
+        "525",
+        "2100",
+        "21 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Združi 4 · 25 = 100 i 7 · 3 = 21, pa je 100 · 21 = 2100.",
+      "savjet": "Združi 4 i 25, a zatim 7 i 3."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-040",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kako se točno računa 7 · 99 na lakši način.",
+      "ponudeni": [
+        "7 · 99 = 7 · 100 − 1",
+        "7 · 99 = 7 · 100 + 7",
+        "7 · 99 = 7 · 90 + 9",
+        "7 · 99 = 7 · 100 − 7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "99 je 100 − 1, pa je 7 · 99 = 7 · 100 − 7 · 1 = 700 − 7 = 693.",
+      "savjet": "Sjeti se da je 99 za 1 manji od 100 i pazi što sve množiš sa 7."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-041",
+      "tezina": "srednje",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti 12 · 15 = 10 · 15 + 2 · 15?",
+      "ponudeni": [
+        "rastavljanje broja",
+        "zamjena mjesta faktora",
+        "združivanje faktora",
+        "združivanje pribrojnika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 12 rastavljen je na 10 + 2 i oba su dijela pomnožena s 15. To je rastavljanje broja.",
+      "savjet": "Pogledaj što se dogodilo s brojem 12."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-042",
+      "tezina": "srednje",
+      "pitanje": "Lovro je 8 · 25 · 4 izračunao kao 8 · 100. Koje je svojstvo koristio?",
+      "ponudeni": [
+        "rastavljanje broja",
+        "zamjena mjesta pribrojnika",
+        "združivanje faktora",
+        "združivanje pribrojnika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lovro je najprije pomnožio faktore 25 i 4 i dobio 100. To je združivanje faktora.",
+      "savjet": "Pogledaj koja su dva faktora pomnožena prva."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-043",
+      "tezina": "srednje",
+      "pitanje": "Ema kupuje 6 bilježnica, a svaka stoji 99 centi. Izračunaj na lakši način koliko centi Ema plaća.",
+      "ponudeni": [
+        "600",
+        "594",
+        "606",
+        "540"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6 · 99 = 6 · 100 − 6 = 600 − 6 = 594 centa.",
+      "savjet": "Cijena od 99 centi je za 1 cent manja od 100 centi."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-044",
+      "tezina": "srednje",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao (17 · 5) · 2.",
+      "ponudeni": [
+        "17 + (5 · 2)",
+        "(17 · 5) + 2",
+        "17 · (5 + 2)",
+        "17 · (5 · 2)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kod združivanja faktora mijenjaju se samo zagrade. Oba izraza iznose 170.",
+      "savjet": "Kad združuješ faktore, smiješ pomaknuti zagrade, ali računska operacija ostaje ista."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-045",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 6 · 52.",
+      "ponudeni": [
+        "302",
+        "42",
+        "312",
+        "322"
+      ],
+      "tocan": 2,
+      "objasnjenje": "6 · 52 = 6 · 50 + 6 · 2 = 300 + 12 = 312.",
+      "savjet": "Rastavi 52 na desetice i jedinice pa svaki dio pomnoži sa 6."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-046",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 4 · 199.",
+      "ponudeni": [
+        "800",
+        "799",
+        "804",
+        "796"
+      ],
+      "tocan": 3,
+      "objasnjenje": "4 · 199 = 4 · 200 − 4 = 800 − 4 = 796.",
+      "savjet": "Broj 199 je za 1 manji od 200."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-047",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 14 · 5 · 20.",
+      "ponudeni": [
+        "140",
+        "1400",
+        "14 000",
+        "700"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Združi 5 · 20 = 100, a zatim izračunaj 14 · 100 = 1400.",
+      "savjet": "Prvo pomnoži 5 i 20."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-048",
+      "tezina": "srednje",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 11 · 34.",
+      "ponudeni": [
+        "10 · 34 + 1",
+        "10 · 34 + 34",
+        "11 · 30 + 4",
+        "10 · 34 · 1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 11 je 10 + 1, pa je 11 · 34 = 10 · 34 + 1 · 34 = 340 + 34 = 374.",
+      "savjet": "Rastavi 11 na 10 + 1 i pazi da oba dijela pomnožiš s 34."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-049",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 297 + 158 + 3.",
+      "ponudeni": [
+        "448",
+        "558",
+        "458",
+        "455"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo zbroji 297 + 3 = 300, a zatim 300 + 158 = 458.",
+      "savjet": "Razmisli koliko broju 297 nedostaje do okrugle stotice."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-050",
+      "tezina": "srednje",
+      "pitanje": "U knjižnici je 8 polica. Na svakoj polici je 5 kutija, a u svakoj kutiji 20 slikovnica. Izračunaj na lakši način koliko je slikovnica ukupno.",
+      "ponudeni": [
+        "800",
+        "160",
+        "8000",
+        "400"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Treba izračunati 8 · 5 · 20. Združi 5 · 20 = 100, pa je 8 · 100 = 800 slikovnica.",
+      "savjet": "Prvo izračunaj koliko je slikovnica na jednoj polici."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-051",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu jednakost sa zagradama.",
+      "ponudeni": [
+        "(6 · 5) · 4 = 6 · (5 · 4)",
+        "(6 · 5) · 4 = 6 + (5 · 4)",
+        "(6 · 5) · 4 = 6 · (5 + 4)",
+        "(6 · 5) · 4 = (6 + 5) · 4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kod združivanja faktora mijenjaju se samo zagrade. Obje strane iznose 120.",
+      "savjet": "Izračunaj obje strane svake jednakosti, a zagrade računaj prve."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-052",
+      "tezina": "srednje",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 4 · 37 · 25.",
+      "ponudeni": [
+        "37 · 29",
+        "37 · 10",
+        "37 + 100",
+        "37 · 100"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Faktori 4 i 25 daju 4 · 25 = 100, pa je 4 · 37 · 25 = 37 · 100 = 3700.",
+      "savjet": "Potraži dva faktora čiji je umnožak okrugli broj."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-053",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 25 · 16.",
+      "ponudeni": [
+        "256",
+        "400",
+        "350",
+        "4000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "16 = 10 + 6, pa je 25 · 16 = 25 · 10 + 25 · 6 = 250 + 150 = 400.",
+      "savjet": "Rastavi 16 na desetice i jedinice pa svaki dio pomnoži s 25."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-054",
+      "tezina": "srednje",
+      "pitanje": "Koje je svojstvo korišteno u jednakosti (18 + 7) + 3 = 18 + (7 + 3)?",
+      "ponudeni": [
+        "zamjena mjesta pribrojnika",
+        "združivanje pribrojnika",
+        "rastavljanje broja",
+        "združivanje faktora"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pribrojnici su ostali istim redom, a promijenile su se samo zagrade. To je združivanje pribrojnika.",
+      "savjet": "Usporedi redoslijed brojeva i položaj zagrada na obje strane jednakosti."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-055",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 3 · 102.",
+      "ponudeni": [
+        "302",
+        "3006",
+        "306",
+        "312"
+      ],
+      "tocan": 2,
+      "objasnjenje": "3 · 102 = 3 · 100 + 3 · 2 = 300 + 6 = 306.",
+      "savjet": "Rastavi 102 na stotice i jedinice pa svaki dio pomnoži s 3."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-056",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj na lakši način: 5 · 68 · 20.",
+      "ponudeni": [
+        "6800",
+        "680",
+        "68 000",
+        "1360"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Združi 5 · 20 = 100, a zatim izračunaj 68 · 100 = 6800.",
+      "savjet": "Potraži dva faktora čiji je umnožak 100."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-057",
+      "tezina": "srednje",
+      "pitanje": "Iva svaki dan pročita 25 stranica. Izračunaj koliko stranica pročita za 12 dana.",
+      "ponudeni": [
+        "252",
+        "275",
+        "325",
+        "300"
+      ],
+      "tocan": 3,
+      "objasnjenje": "12 · 25 = 10 · 25 + 2 · 25 = 250 + 50 = 300 stranica.",
+      "savjet": "Rastavi 12 dana na 10 dana i 2 dana."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-058",
+      "tezina": "srednje",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 9 · 47.",
+      "ponudeni": [
+        "9 · 50 − 3",
+        "9 · 40 + 7",
+        "9 · 50 + 9 · 3",
+        "9 · 50 − 9 · 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 47 je 50 − 3, pa je 9 · 47 = 9 · 50 − 9 · 3 = 450 − 27 = 423.",
+      "savjet": "Zapiši 47 kao razliku pa razmisli što sve treba pomnožiti s 9."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-059",
+      "tezina": "srednje",
+      "pitanje": "Ivan računa 4 · 28 kao 4 · 30 − 4 · 2. Koje svojstvo koristi?",
+      "ponudeni": [
+        "rastavljanje broja",
+        "združivanje faktora",
+        "zamjena mjesta faktora",
+        "zamjena mjesta pribrojnika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ivan je broj 28 zapisao kao 30 − 2 i oba dijela pomnožio s 4. To je rastavljanje broja.",
+      "savjet": "Pogledaj kako je Ivan zapisao broj 28."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-060",
+      "tezina": "srednje",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 8 · 6 · 125.",
+      "ponudeni": [
+        "6 · 133",
+        "6 · 100",
+        "6 · 1000",
+        "6 + 1000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Faktori 8 i 125 daju 8 · 125 = 1000, pa je 8 · 6 · 125 = 6 · 1000 = 6000.",
+      "savjet": "Zamijeni mjesta faktora tako da 8 i 125 budu jedan do drugoga."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-061",
+      "tezina": "tesko",
+      "pitanje": "Mia zna da je 24 · 15 = 360. Izračunaj 15 · 24 + 15.",
+      "ponudeni": [
+        "360",
+        "375",
+        "384",
+        "3600"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zamjenom mjesta faktora 15 · 24 = 360, a kad dodaš još jednom 15, dobiješ 375.",
+      "savjet": "Faktori 15 i 24 smiju zamijeniti mjesta, a umnožak ostaje isti."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-062",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 99 · 25.",
+      "ponudeni": [
+        "2500",
+        "2499",
+        "2475",
+        "2525"
+      ],
+      "tocan": 2,
+      "objasnjenje": "99 · 25 = 100 · 25 − 1 · 25 = 2500 − 25 = 2475.",
+      "savjet": "Broj 99 je za 1 manji od 100, pa razmisli koliko puta po 25 treba oduzeti."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-063",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 8 · 25 · 125 · 4.",
+      "ponudeni": [
+        "100 000",
+        "10 000",
+        "1 000 000",
+        "20 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Združi 8 · 125 = 1000 i 25 · 4 = 100, pa je 1000 · 100 = 100 000.",
+      "savjet": "Napravi dva para faktora čiji su umnošci okrugli brojevi."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-064",
+      "tezina": "tesko",
+      "pitanje": "Toma tvrdi da je 6 · 49 = 6 · 50 − 1. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Toma je u pravu.",
+        "Toma griješi, treba dodati 1.",
+        "Toma griješi, treba oduzeti 6.",
+        "Toma griješi, treba dodati 6."
+      ],
+      "tocan": 2,
+      "objasnjenje": "6 · 49 = 6 · 50 − 6 · 1 = 300 − 6 = 294, a Tomin račun daje 299.",
+      "savjet": "Izračunaj 6 · 49 i 6 · 50 pa usporedi rezultate."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-065",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 37 · 4 + 37 · 6.",
+      "ponudeni": [
+        "148",
+        "370",
+        "3700",
+        "222"
+      ],
+      "tocan": 1,
+      "objasnjenje": "37 se množi s 4 i sa 6, a to je ukupno 10 puta: 37 · 10 = 370.",
+      "savjet": "Oba umnoška imaju isti faktor 37, pa zbroji brojeve s kojima se on množi."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-066",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 56 · 9 + 56.",
+      "ponudeni": [
+        "504",
+        "5600",
+        "616",
+        "560"
+      ],
+      "tocan": 3,
+      "objasnjenje": "56 · 9 + 56 = 56 · 9 + 56 · 1 = 56 · 10 = 560.",
+      "savjet": "Broj 56 možeš zapisati kao 56 · 1."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-067",
+      "tezina": "tesko",
+      "pitanje": "U kutiji su 4 reda po 6 jaja. Trgovina ima 25 takvih kutija. Izračunaj na lakši način koliko je jaja u trgovini.",
+      "ponudeni": [
+        "150",
+        "240",
+        "600",
+        "6000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba izračunati 4 · 6 · 25. Združi 4 · 25 = 100, pa je 6 · 100 = 600 jaja.",
+      "savjet": "Potraži dva faktora čiji je umnožak 100."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-068",
+      "tezina": "tesko",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 48 · 25, a lakše se računa.",
+      "ponudeni": [
+        "12 · 100",
+        "40 · 25 + 8",
+        "50 · 25 − 2",
+        "48 · 100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "48 = 12 · 4, pa je 48 · 25 = 12 · 4 · 25 = 12 · 100 = 1200.",
+      "savjet": "Broj 48 zapiši kao umnožak dvaju brojeva od kojih je jedan 4."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-069",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 1997 + 2468 + 3.",
+      "ponudeni": [
+        "4465",
+        "4468",
+        "4568",
+        "4478"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo zbroji 1997 + 3 = 2000, a zatim 2000 + 2468 = 4468.",
+      "savjet": "Potraži dva pribrojnika koji zajedno daju okrugli broj."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-070",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 25 · 44.",
+      "ponudeni": [
+        "1004",
+        "1010",
+        "1100",
+        "1000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "25 · 44 = 25 · 40 + 25 · 4 = 1000 + 100 = 1100.",
+      "savjet": "Rastavi 44 na 40 + 4 i svaki dio pomnoži s 25."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-071",
+      "tezina": "tesko",
+      "pitanje": "Petra treba izračunati 7 · 101. Odaberi postupak kojim dobiva točan rezultat.",
+      "ponudeni": [
+        "7 · 100 + 1",
+        "7 · 10 + 7 · 1",
+        "7 · 100 − 7",
+        "7 · 100 + 7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "101 = 100 + 1, pa je 7 · 101 = 7 · 100 + 7 · 1 = 700 + 7 = 707.",
+      "savjet": "Rastavi 101 na stotice i jedinice i pazi da oba dijela pomnožiš sa 7."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-072",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 50 · 36 · 2 · 5.",
+      "ponudeni": [
+        "1800",
+        "18 000",
+        "180 000",
+        "3600"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Združi 50 · 2 = 100 i 36 · 5 = 180, pa je 100 · 180 = 18 000.",
+      "savjet": "Najprije združi 50 i 2, a zatim pomnoži preostala dva faktora."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-073",
+      "tezina": "tesko",
+      "pitanje": "Koja su dva svojstva korištena u računu 25 · 9 · 4 = 9 · 25 · 4 = 9 · 100?",
+      "ponudeni": [
+        "rastavljanje i združivanje",
+        "zamjena mjesta pribrojnika i rastavljanje",
+        "zamjena mjesta faktora i združivanje",
+        "rastavljanje i zamjena mjesta faktora"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U prvom koraku faktori 25 i 9 zamijenili su mjesta, a u drugom su združeni faktori 25 i 4.",
+      "savjet": "Promotri zasebno prvi i drugi korak računa."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-074",
+      "tezina": "tesko",
+      "pitanje": "Leon je 6 · 45 izračunao kao 6 · 40 + 5 i dobio 245. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Leon je točno izračunao.",
+        "Pogriješio je, točno je 270.",
+        "Pogriješio je, točno je 250.",
+        "Pogriješio je, točno je 275."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sa 6 treba pomnožiti i 40 i 5: 6 · 40 + 6 · 5 = 240 + 30 = 270.",
+      "savjet": "Kod rastavljanja broja svaki dio treba pomnožiti sa 6."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-075",
+      "tezina": "tesko",
+      "pitanje": "U dvorani je 16 redova, a u svakom je redu 25 stolica. Izračunaj na lakši način koliko je stolica u dvorani.",
+      "ponudeni": [
+        "256",
+        "375",
+        "400",
+        "4000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "16 · 25 = 10 · 25 + 6 · 25 = 250 + 150 = 400 stolica.",
+      "savjet": "Rastavi 16 na 10 + 6 pa svaki dio pomnoži s 25."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-076",
+      "tezina": "tesko",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 15 · 8 + 15 · 2.",
+      "ponudeni": [
+        "15 · 16",
+        "15 · 10",
+        "30 · 10",
+        "15 · 82"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 15 množi se s 8 i s 2, ukupno 10 puta, pa je izraz jednak 15 · 10 = 150.",
+      "savjet": "U oba umnoška je isti faktor 15, pa razmisli koliko ga puta ukupno uzimaš."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-077",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 9 · 999.",
+      "ponudeni": [
+        "8991",
+        "9000",
+        "8999",
+        "9009"
+      ],
+      "tocan": 0,
+      "objasnjenje": "9 · 999 = 9 · 1000 − 9 = 9000 − 9 = 8991.",
+      "savjet": "Broj 999 je za 1 manji od 1000."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-078",
+      "tezina": "tesko",
+      "pitanje": "Na izlet idu 4 autobusa sa po 48 putnika, a karta stoji 25 eura. Izračunaj na lakši način koliko eura stoje sve karte.",
+      "ponudeni": [
+        "1200",
+        "480",
+        "48 000",
+        "4800"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Treba izračunati 4 · 48 · 25. Združi 4 · 25 = 100, pa je 48 · 100 = 4800 eura.",
+      "savjet": "Potraži dva faktora čiji je umnožak 100."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-079",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točan zapis umnoška 12 · 25 pomoću broja 100.",
+      "ponudeni": [
+        "12 · 25 = 12 · 100",
+        "12 · 25 = 10 · 25 + 2",
+        "12 · 25 = 4 · 100",
+        "12 · 25 = 3 · 100"
+      ],
+      "tocan": 3,
+      "objasnjenje": "12 = 3 · 4, pa je 12 · 25 = 3 · 4 · 25 = 3 · 100 = 300.",
+      "savjet": "Broj 12 zapiši kao umnožak dvaju brojeva od kojih je jedan 4."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-080",
+      "tezina": "tesko",
+      "pitanje": "Lucija je zapisala 38 · 6 = 6 · 38 = 6 · 40 − 6 · 2. Koja je svojstva koristila?",
+      "ponudeni": [
+        "zamjenu mjesta faktora i rastavljanje",
+        "združivanje i rastavljanje",
+        "zamjenu mjesta pribrojnika i združivanje",
+        "združivanje i zamjenu mjesta faktora"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije su faktori 38 i 6 zamijenili mjesta, a zatim je broj 38 rastavljen na 40 − 2.",
+      "savjet": "Promotri zasebno prvi i drugi korak računa."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-081",
+      "tezina": "tesko",
+      "pitanje": "Odaberi izraz koji ima istu vrijednost kao 99 + 99 + 99 + 99 + 99.",
+      "ponudeni": [
+        "5 · 100 − 1",
+        "5 · 99 + 5",
+        "5 · 100 + 5",
+        "5 · 100 − 5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zbroj je 5 · 99, a 99 = 100 − 1, pa je 5 · 99 = 5 · 100 − 5 = 495.",
+      "savjet": "Zbroj jednakih pribrojnika zapiši kao umnožak pa rastavi broj 99."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-082",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 125 · 32.",
+      "ponudeni": [
+        "3752",
+        "4000",
+        "3750",
+        "40 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "32 = 8 · 4, pa je 125 · 32 = 125 · 8 · 4 = 1000 · 4 = 4000.",
+      "savjet": "Broj 32 zapiši kao umnožak broja 8 i još jednog broja."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-083",
+      "tezina": "tesko",
+      "pitanje": "Odaberi način na koji je najlakše izračunati 46 + 37 + 54 + 63.",
+      "ponudeni": [
+        "(46 + 37) + (54 + 63)",
+        "(46 + 63) + (37 + 54)",
+        "46 + (37 + 54) + 63",
+        "(46 + 54) + (37 + 63)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "46 + 54 = 100 i 37 + 63 = 100, a 100 + 100 = 200 lako se računa napamet.",
+      "savjet": "Spoji u parove pribrojnike kojima jedinice zajedno daju 10."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-084",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 35 · 4 · 25 · 2.",
+      "ponudeni": [
+        "3500",
+        "700",
+        "7000",
+        "70 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Združi 4 · 25 = 100 i 35 · 2 = 70, pa je 70 · 100 = 7000.",
+      "savjet": "Združi 4 i 25, a zatim 35 i 2."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-085",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 24 · 13 − 24 · 3.",
+      "ponudeni": [
+        "240",
+        "312",
+        "72",
+        "2400"
+      ],
+      "tocan": 0,
+      "objasnjenje": "24 se uzima 13 puta, a zatim se oduzme 3 puta, pa ostaje 24 · 10 = 240.",
+      "savjet": "U oba umnoška je isti faktor 24, pa razmisli koliko ga puta ukupno ostaje."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-086",
+      "tezina": "tesko",
+      "pitanje": "Na sajmu je u ponedjeljak prodano 168 kolača, u utorak 245, a u srijedu 32. Izračunaj na lakši način koliko je kolača prodano.",
+      "ponudeni": [
+        "435",
+        "545",
+        "413",
+        "445"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo zbroji 168 + 32 = 200, a zatim 200 + 245 = 445 kolača.",
+      "savjet": "Potraži dva pribrojnika čiji je zbroj okrugla stotica."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-087",
+      "tezina": "tesko",
+      "pitanje": "Zna se da je 8 · 26 = 208. Odaberi umnožak koji je za 8 veći od 208.",
+      "ponudeni": [
+        "8 · 27",
+        "9 · 26",
+        "8 · 34",
+        "16 · 26"
+      ],
+      "tocan": 0,
+      "objasnjenje": "8 · 27 = 8 · 26 + 8 · 1 = 208 + 8 = 216.",
+      "savjet": "Razmisli kako se mijenja umnožak kad jedan faktor povećaš za 1."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-088",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je jednakosti korišteno združivanje faktora?",
+      "ponudeni": [
+        "3 · 45 = 3 · 40 + 3 · 5",
+        "(3 · 4) · 5 = 3 · (4 · 5)",
+        "3 · 4 = 4 · 3",
+        "(3 + 4) + 5 = 3 + (4 + 5)"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U toj se jednakosti množe isti faktori, a mijenjaju se samo zagrade. To je združivanje faktora.",
+      "savjet": "Pazi i na zagrade i na to je li riječ o množenju ili zbrajanju."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-089",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj na lakši način: 11 · 45.",
+      "ponudeni": [
+        "495",
+        "451",
+        "450",
+        "540"
+      ],
+      "tocan": 0,
+      "objasnjenje": "11 · 45 = 10 · 45 + 1 · 45 = 450 + 45 = 495.",
+      "savjet": "Rastavi 11 na 10 + 1 pa svaki dio pomnoži s 45."
+    },
+    {
+      "id": "4-matematika-svojstva-racunskih-operacija-090",
+      "tezina": "tesko",
+      "pitanje": "Kino ima 9 dvorana, a u svakoj je 199 sjedala. Izračunaj na lakši način koliko je sjedala ukupno.",
+      "ponudeni": [
+        "1791",
+        "1800",
+        "1799",
+        "1809"
+      ],
+      "tocan": 0,
+      "objasnjenje": "9 · 199 = 9 · 200 − 9 = 1800 − 9 = 1791 sjedalo.",
+      "savjet": "Broj 199 je za 1 manji od 200."
+    }
+  ]
+}

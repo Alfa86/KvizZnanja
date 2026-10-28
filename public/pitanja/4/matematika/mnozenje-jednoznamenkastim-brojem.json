@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "mnozenje-jednoznamenkastim-brojem",
+  "pitanja": [
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu brojevi koje međusobno množimo?",
+      "ponudeni": [
+        "faktori",
+        "umnošci",
+        "pribrojnici",
+        "djelitelji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brojeve koje množimo zovemo faktorima, a rezultat množenja zovemo umnožak.",
+      "savjet": "Sjeti se naziva dijelova jednakosti 4 · 5 = 20."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove rezultat množenja?",
+      "ponudeni": [
+        "zbroj",
+        "količnik",
+        "umnožak",
+        "faktor"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rezultat množenja zove se umnožak. Brojevi koje množimo su faktori.",
+      "savjet": "Naziv rezultata množenja povezan je s riječju „množiti“."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-003",
+      "tezina": "lagano",
+      "pitanje": "U jednakosti 234 · 2 = 468 broj 468 je:",
+      "ponudeni": [
+        "faktor",
+        "umnožak",
+        "prijenos",
+        "zbroj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 468 dobili smo množenjem brojeva 234 i 2, pa je on umnožak.",
+      "savjet": "Odredi koji je broj u jednakosti rezultat množenja."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-004",
+      "tezina": "lagano",
+      "pitanje": "Što je prijenos u pisanom množenju?",
+      "ponudeni": [
+        "znamenka koju oduzimamo od sljedećeg umnoška",
+        "broj kojim množimo sve znamenke",
+        "prva znamenka prvog faktora",
+        "desetice umnoška koje dodajemo sljedećem umnošku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad je umnožak znamenke veći od 9, jedinice pišemo, a desetice pamtimo i dodajemo sljedećem umnošku. To je prijenos.",
+      "savjet": "Sjeti se što radiš kad je umnožak jedinica veći od 9."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-005",
+      "tezina": "lagano",
+      "pitanje": "Kod pisanog množenja najprije množimo:",
+      "ponudeni": [
+        "desetice",
+        "stotice",
+        "najveću znamenku",
+        "jedinice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pisano množenje počinjemo od jedinica i idemo prema većim mjesnim vrijednostima, isto kao kod pisanog zbrajanja.",
+      "savjet": "Sjeti se s koje strane broja počinješ pisano zbrajanje."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-006",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 23 · 3.",
+      "ponudeni": [
+        "96",
+        "69",
+        "79",
+        "92"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3 · 3 = 9, pišemo 9; 2 · 3 = 6. Zato je 23 · 3 = 69.",
+      "savjet": "Pomnoži svaku znamenku broja 23 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-007",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 42 · 2.",
+      "ponudeni": [
+        "84",
+        "48",
+        "94",
+        "126"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2 · 2 = 4, pišemo 4; 4 · 2 = 8. Zato je 42 · 2 = 84.",
+      "savjet": "Pomnoži svaku znamenku broja 42 s 2, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 31 · 3.",
+      "ponudeni": [
+        "39",
+        "103",
+        "93",
+        "124"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 · 3 = 3, pišemo 3; 3 · 3 = 9. Zato je 31 · 3 = 93.",
+      "savjet": "Pomnoži svaku znamenku broja 31 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 213 · 3.",
+      "ponudeni": [
+        "693",
+        "649",
+        "639",
+        "852"
+      ],
+      "tocan": 2,
+      "objasnjenje": "3 · 3 = 9, pišemo 9; 1 · 3 = 3, pišemo 3; 2 · 3 = 6. Zato je 213 · 3 = 639.",
+      "savjet": "Pomnoži svaku znamenku broja 213 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-010",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 121 · 4.",
+      "ponudeni": [
+        "484",
+        "448",
+        "494",
+        "605"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 · 4 = 4, pišemo 4; 2 · 4 = 8, pišemo 8; 1 · 4 = 4. Zato je 121 · 4 = 484.",
+      "savjet": "Pomnoži svaku znamenku broja 121 s 4, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-011",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 302 · 3.",
+      "ponudeni": [
+        "96",
+        "960",
+        "305",
+        "906"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 · 3 = 6, pišemo 6; 0 · 3 = 0, pišemo 0; 3 · 3 = 9. Zato je 302 · 3 = 906.",
+      "savjet": "Pomnoži svaku znamenku broja 302 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-012",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 1012 · 4.",
+      "ponudeni": [
+        "4480",
+        "4048",
+        "1016",
+        "4084"
+      ],
+      "tocan": 1,
+      "objasnjenje": "2 · 4 = 8, pišemo 8; 1 · 4 = 4, pišemo 4; 0 · 4 = 0, pišemo 0; 1 · 4 = 4. Zato je 1012 · 4 = 4048.",
+      "savjet": "Pomnoži svaku znamenku broja 1012 s 4, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-013",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 2131 · 2.",
+      "ponudeni": [
+        "4226",
+        "4262",
+        "4272",
+        "6393"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1 · 2 = 2, pišemo 2; 3 · 2 = 6, pišemo 6; 1 · 2 = 2, pišemo 2; 2 · 2 = 4. Zato je 2131 · 2 = 4262.",
+      "savjet": "Pomnoži svaku znamenku broja 2131 s 2, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 16 · 3.",
+      "ponudeni": [
+        "38",
+        "318",
+        "19",
+        "48"
+      ],
+      "tocan": 3,
+      "objasnjenje": "6 · 3 = 18, pišemo 8 i prenosimo 1; 1 · 3 + 1 = 4. Zato je 16 · 3 = 48.",
+      "savjet": "Počni od jedinica: 6 · 3, pa pomnoži redom ostale znamenke."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 25 · 3.",
+      "ponudeni": [
+        "65",
+        "95",
+        "75",
+        "57"
+      ],
+      "tocan": 2,
+      "objasnjenje": "5 · 3 = 15, pišemo 5 i prenosimo 1; 2 · 3 + 1 = 7. Zato je 25 · 3 = 75.",
+      "savjet": "Pomnoži svaku znamenku broja 25 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 18 · 4.",
+      "ponudeni": [
+        "72",
+        "42",
+        "412",
+        "22"
+      ],
+      "tocan": 0,
+      "objasnjenje": "8 · 4 = 32, pišemo 2 i prenosimo 3; 1 · 4 + 3 = 7. Zato je 18 · 4 = 72.",
+      "savjet": "Množi od jedinica prema većim mjesnim vrijednostima i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 132 · 3.",
+      "ponudeni": [
+        "369",
+        "135",
+        "396",
+        "496"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2 · 3 = 6, pišemo 6; 3 · 3 = 9, pišemo 9; 1 · 3 = 3. Zato je 132 · 3 = 396.",
+      "savjet": "Pomnoži svaku znamenku broja 132 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-018",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 214 · 2.",
+      "ponudeni": [
+        "216",
+        "482",
+        "824",
+        "428"
+      ],
+      "tocan": 3,
+      "objasnjenje": "4 · 2 = 8, pišemo 8; 1 · 2 = 2, pišemo 2; 2 · 2 = 4. Zato je 214 · 2 = 428.",
+      "savjet": "Pomnoži svaku znamenku broja 214 s 2, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-019",
+      "tezina": "lagano",
+      "pitanje": "Koji umnožak ima jednaku vrijednost kao 6 · 43?",
+      "ponudeni": [
+        "43 · 6",
+        "43 + 6",
+        "6 · 34",
+        "63 · 4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Faktori smiju zamijeniti mjesta, a umnožak ostaje isti. Zato je 6 · 43 = 43 · 6.",
+      "savjet": "Sjeti se što se događa s umnoškom kad faktori zamijene mjesta."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-020",
+      "tezina": "lagano",
+      "pitanje": "Koji umnožak je jednak zbroju 23 + 23 + 23 + 23?",
+      "ponudeni": [
+        "23 + 4",
+        "23 · 4",
+        "23 · 3",
+        "32 · 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 23 zbrojen je četiri puta, a to kraće zapisujemo kao umnožak 23 · 4.",
+      "savjet": "Prebroji koliko je puta zbrojen isti broj."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-021",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 586 · 1.",
+      "ponudeni": [
+        "586",
+        "587",
+        "5861",
+        "1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad broj pomnožimo s 1, dobijemo isti taj broj. Zato je 586 · 1 = 586.",
+      "savjet": "Sjeti se što se događa s brojem kad ga uzmeš samo jednom."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-022",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 743 · 0.",
+      "ponudeni": [
+        "743",
+        "0",
+        "7430",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad je jedan faktor nula, umnožak je uvijek nula. Zato je 743 · 0 = 0.",
+      "savjet": "Zamisli da broj uzimaš nijednom."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-023",
+      "tezina": "lagano",
+      "pitanje": "U jednoj kutiji je 12 olovaka. Koliko je olovaka u 4 takve kutije?",
+      "ponudeni": [
+        "16 olovaka",
+        "36 olovaka",
+        "60 olovaka",
+        "48 olovaka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Treba izračunati 12 · 4 = 48, pa je odgovor 48 olovaka.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-024",
+      "tezina": "lagano",
+      "pitanje": "Ulaznica za zoološki vrt stoji 13 €. Koliko eura treba platiti za 3 ulaznice?",
+      "ponudeni": [
+        "16 €",
+        "26 €",
+        "39 €",
+        "52 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba izračunati 13 · 3 = 39, pa je odgovor 39 €.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-025",
+      "tezina": "lagano",
+      "pitanje": "Tjedan ima 7 dana. Koliko dana ima 12 tjedana?",
+      "ponudeni": [
+        "74 dana",
+        "84 dana",
+        "19 dana",
+        "77 dana"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Treba izračunati 12 · 7 = 84, pa je odgovor 84 dana.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-026",
+      "tezina": "lagano",
+      "pitanje": "U jednom redu kina je 21 sjedalo. Koliko je sjedala u 3 reda?",
+      "ponudeni": [
+        "63 sjedala",
+        "24 sjedala",
+        "42 sjedala",
+        "84 sjedala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Treba izračunati 21 · 3 = 63, pa je odgovor 63 sjedala.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-027",
+      "tezina": "lagano",
+      "pitanje": "U pisanom množenju 34 · 2 najprije računamo:",
+      "ponudeni": [
+        "3 · 2",
+        "34 + 2",
+        "4 · 2",
+        "4 + 2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pisano množenje počinjemo jedinicama, pa najprije jedinice 4 množimo s 2.",
+      "savjet": "Sjeti se koju mjesnu vrijednost množiš prvu."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-028",
+      "tezina": "lagano",
+      "pitanje": "Koliki je prijenos nakon množenja jedinica u zadatku 27 · 3?",
+      "ponudeni": [
+        "1",
+        "21",
+        "7",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedinice daju 7 · 3 = 21. Pišemo 1, a 2 desetice prenosimo.",
+      "savjet": "Pomnoži jedinice pa pogledaj znamenku desetica tog umnoška."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-029",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 1103 · 3.",
+      "ponudeni": [
+        "3303",
+        "3390",
+        "1106",
+        "3309"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3 · 3 = 9, pišemo 9; 0 · 3 = 0, pišemo 0; 1 · 3 = 3, pišemo 3; 1 · 3 = 3. Zato je 1103 · 3 = 3309.",
+      "savjet": "Pomnoži svaku znamenku broja 1103 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-030",
+      "tezina": "lagano",
+      "pitanje": "Koji broj treba upisati u □ da vrijedi □ · 2 = 46?",
+      "ponudeni": [
+        "44",
+        "48",
+        "23",
+        "92"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 23 · 2 = 46, pa u □ treba upisati 23.",
+      "savjet": "Potraži broj koji pomnožen s 2 daje 46, a provjeri ga množenjem."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-031",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 347 · 6.",
+      "ponudeni": [
+        "1842",
+        "2082",
+        "4282",
+        "2028"
+      ],
+      "tocan": 1,
+      "objasnjenje": "7 · 6 = 42, pišemo 2 i prenosimo 4; 4 · 6 + 4 = 28, pišemo 8 i prenosimo 2; 3 · 6 + 2 = 20. Zato je 347 · 6 = 2082.",
+      "savjet": "Prvo izračunaj 7 · 6, a prijenos dodaj tek nakon sljedećeg množenja."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-032",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 258 · 4.",
+      "ponudeni": [
+        "1032",
+        "802",
+        "2022",
+        "1023"
+      ],
+      "tocan": 0,
+      "objasnjenje": "8 · 4 = 32, pišemo 2 i prenosimo 3; 5 · 4 + 3 = 23, pišemo 3 i prenosimo 2; 2 · 4 + 2 = 10. Zato je 258 · 4 = 1032.",
+      "savjet": "Počni od jedinica: 8 · 4, pa pomnoži redom ostale znamenke."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-033",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 469 · 3.",
+      "ponudeni": [
+        "1407",
+        "1287",
+        "1847",
+        "1470"
+      ],
+      "tocan": 0,
+      "objasnjenje": "9 · 3 = 27, pišemo 7 i prenosimo 2; 6 · 3 + 2 = 20, pišemo 0 i prenosimo 2; 4 · 3 + 2 = 14. Zato je 469 · 3 = 1407.",
+      "savjet": "Pomnoži svaku znamenku broja 469 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-034",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 735 · 8.",
+      "ponudeni": [
+        "5640",
+        "9660",
+        "5880",
+        "5808"
+      ],
+      "tocan": 2,
+      "objasnjenje": "5 · 8 = 40, pišemo 0 i prenosimo 4; 3 · 8 + 4 = 28, pišemo 8 i prenosimo 2; 7 · 8 + 2 = 58. Zato je 735 · 8 = 5880.",
+      "savjet": "Množi od jedinica prema većim mjesnim vrijednostima i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-035",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 609 · 7.",
+      "ponudeni": [
+        "4203",
+        "4263",
+        "7023",
+        "4236"
+      ],
+      "tocan": 1,
+      "objasnjenje": "9 · 7 = 63, pišemo 3 i prenosimo 6; 0 · 7 + 6 = 6, pišemo 6; 6 · 7 = 42. Zato je 609 · 7 = 4263.",
+      "savjet": "Prvo izračunaj 9 · 7, a prijenos dodaj tek nakon sljedećeg množenja."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 1234 · 5.",
+      "ponudeni": [
+        "5050",
+        "15 050",
+        "6107",
+        "6170"
+      ],
+      "tocan": 3,
+      "objasnjenje": "4 · 5 = 20, pišemo 0 i prenosimo 2; 3 · 5 + 2 = 17, pišemo 7 i prenosimo 1; 2 · 5 + 1 = 11, pišemo 1 i prenosimo 1; 1 · 5 + 1 = 6. Zato je 1234 · 5 = 6170.",
+      "savjet": "Počni od jedinica: 4 · 5, pa pomnoži redom ostale znamenke."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2708 · 3.",
+      "ponudeni": [
+        "6104",
+        "12 164",
+        "8142",
+        "8124"
+      ],
+      "tocan": 3,
+      "objasnjenje": "8 · 3 = 24, pišemo 4 i prenosimo 2; 0 · 3 + 2 = 2, pišemo 2; 7 · 3 = 21, pišemo 1 i prenosimo 2; 2 · 3 + 2 = 8. Zato je 2708 · 3 = 8124.",
+      "savjet": "Pomnoži svaku znamenku broja 2708 s 3, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 4156 · 6.",
+      "ponudeni": [
+        "24 606",
+        "24 936",
+        "42 086",
+        "24 963"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6 · 6 = 36, pišemo 6 i prenosimo 3; 5 · 6 + 3 = 33, pišemo 3 i prenosimo 3; 1 · 6 + 3 = 9, pišemo 9; 4 · 6 = 24. Zato je 4156 · 6 = 24 936.",
+      "savjet": "Množi od jedinica prema većim mjesnim vrijednostima i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 3087 · 9.",
+      "ponudeni": [
+        "27 783",
+        "27 023",
+        "117 863",
+        "27 738"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7 · 9 = 63, pišemo 3 i prenosimo 6; 8 · 9 + 6 = 78, pišemo 8 i prenosimo 7; 0 · 9 + 7 = 7, pišemo 7; 3 · 9 = 27. Zato je 3087 · 9 = 27 783.",
+      "savjet": "Prvo izračunaj 7 · 9, a prijenos dodaj tek nakon sljedećeg množenja."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 12 345 · 4.",
+      "ponudeni": [
+        "48 260",
+        "86 040",
+        "49 380",
+        "49 308"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množimo redom od jedinica i svakom umnošku dodajemo prijenos. Zato je 12 345 · 4 = 49 380.",
+      "savjet": "Počni od jedinica: 5 · 4, pa pomnoži redom ostale znamenke."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-041",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 86 · 7.",
+      "ponudeni": [
+        "562",
+        "842",
+        "602",
+        "620"
+      ],
+      "tocan": 2,
+      "objasnjenje": "6 · 7 = 42, pišemo 2 i prenosimo 4; 8 · 7 + 4 = 60. Zato je 86 · 7 = 602.",
+      "savjet": "Pomnoži svaku znamenku broja 86 sa 7, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-042",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 95 · 9.",
+      "ponudeni": [
+        "855",
+        "815",
+        "1175",
+        "865"
+      ],
+      "tocan": 0,
+      "objasnjenje": "5 · 9 = 45, pišemo 5 i prenosimo 4; 9 · 9 + 4 = 85. Zato je 95 · 9 = 855.",
+      "savjet": "Množi od jedinica prema većim mjesnim vrijednostima i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-043",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 508 · 6.",
+      "ponudeni": [
+        "3008",
+        "4248",
+        "3084",
+        "3048"
+      ],
+      "tocan": 3,
+      "objasnjenje": "8 · 6 = 48, pišemo 8 i prenosimo 4; 0 · 6 + 4 = 4, pišemo 4; 5 · 6 = 30. Zato je 508 · 6 = 3048.",
+      "savjet": "Prvo izračunaj 8 · 6, a prijenos dodaj tek nakon sljedećeg množenja."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-044",
+      "tezina": "srednje",
+      "pitanje": "U jednoj vrećici je 125 bombona. Koliko je bombona u 8 vrećica?",
+      "ponudeni": [
+        "860 bombona",
+        "1000 bombona",
+        "4080 bombona",
+        "1010 bombona"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Treba izračunati 125 · 8 = 1000, pa je odgovor 1000 bombona.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-045",
+      "tezina": "srednje",
+      "pitanje": "Autobus svaki dan prijeđe 236 km. Koliko kilometara prijeđe za 5 dana?",
+      "ponudeni": [
+        "1050 km",
+        "1180 km",
+        "2500 km",
+        "1108 km"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Treba izračunati 236 · 5 = 1180, pa je odgovor 1180 km.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-046",
+      "tezina": "srednje",
+      "pitanje": "Razred kupuje 9 ulaznica za koncert. Jedna ulaznica stoji 27 €. Koliko eura plaća razred?",
+      "ponudeni": [
+        "183 €",
+        "723 €",
+        "234 €",
+        "243 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Treba izračunati 27 · 9 = 243, pa je odgovor 243 €.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-047",
+      "tezina": "srednje",
+      "pitanje": "Vreća brašna ima masu 25 kg. Kolika je masa 7 takvih vreća?",
+      "ponudeni": [
+        "145 kg",
+        "355 kg",
+        "175 kg",
+        "157 kg"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba izračunati 25 · 7 = 175, pa je odgovor 175 kg.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-048",
+      "tezina": "srednje",
+      "pitanje": "U jednu bačvu stane 145 l vode. Koliko litara vode stane u 6 takvih bačava?",
+      "ponudeni": [
+        "870 l",
+        "640 l",
+        "3020 l",
+        "807 l"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Treba izračunati 145 · 6 = 870, pa je odgovor 870 l.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-049",
+      "tezina": "srednje",
+      "pitanje": "U svakom redu dvorane su 34 sjedala. Koliko je sjedala u 9 redova?",
+      "ponudeni": [
+        "276 sjedala",
+        "546 sjedala",
+        "306 sjedala",
+        "360 sjedala"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba izračunati 34 · 9 = 306, pa je odgovor 306 sjedala.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-050",
+      "tezina": "srednje",
+      "pitanje": "Tjedan ima 7 dana. Koliko dana ima 52 tjedna?",
+      "ponudeni": [
+        "354 dana",
+        "424 dana",
+        "346 dana",
+        "364 dana"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Treba izračunati 52 · 7 = 364, pa je odgovor 364 dana.",
+      "savjet": "Pomnoži broj tjedana s brojem dana u jednom tjednu."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-051",
+      "tezina": "srednje",
+      "pitanje": "Koji broj treba upisati u □ da vrijedi □ · 7 = 2135?",
+      "ponudeni": [
+        "305",
+        "35",
+        "315",
+        "350"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Provjerom množenjem dobivamo 305 · 7 = 2135, pa je nepoznati faktor 305.",
+      "savjet": "Pomnoži svaki ponuđeni broj sa 7 i usporedi umnožak s brojem 2135."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-052",
+      "tezina": "srednje",
+      "pitanje": "Koji broj treba upisati u □ da vrijedi □ · 4 = 856?",
+      "ponudeni": [
+        "204",
+        "214",
+        "224",
+        "3424"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati faktor je 214 jer je 214 · 4 = 856.",
+      "savjet": "Nepoznati faktor provjeri množenjem: koji broj pomnožen s 4 daje 856?"
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-053",
+      "tezina": "srednje",
+      "pitanje": "Koji broj treba upisati u □ da vrijedi 6 · □ = 1824?",
+      "ponudeni": [
+        "304",
+        "34",
+        "340",
+        "314"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 6 · 304 = 1824, pa je nepoznati faktor 304.",
+      "savjet": "Pomnoži ponuđene brojeve sa 6 i pazi na nulu na mjestu desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-054",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj umnožak brojeva 406 i 5.",
+      "ponudeni": [
+        "2003",
+        "2030",
+        "411",
+        "2300"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6 · 5 = 30, pišemo 0 i prenosimo 3; 0 · 5 + 3 = 3; 4 · 5 = 20. Zato je 406 · 5 = 2030.",
+      "savjet": "Umnožak znači da brojeve množiš, a ne zbrajaš; pazi na nulu u prvom faktoru."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-055",
+      "tezina": "srednje",
+      "pitanje": "Faktori su 1208 i 8. Koliki je umnožak?",
+      "ponudeni": [
+        "9604",
+        "1216",
+        "9624",
+        "9664"
+      ],
+      "tocan": 3,
+      "objasnjenje": "8 · 8 = 64, pišemo 4 i prenosimo 6; 0 · 8 + 6 = 6; 2 · 8 = 16, pišemo 6 i prenosimo 1; 1 · 8 + 1 = 9. Zato je umnožak 9664.",
+      "savjet": "Pomnoži faktore pisano, počevši od jedinica, i ne preskoči prijenos kod nule."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-056",
+      "tezina": "srednje",
+      "pitanje": "Koliki je prijenos nakon množenja desetica u zadatku 375 · 4?",
+      "ponudeni": [
+        "2",
+        "30",
+        "3",
+        "28"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedinice: 5 · 4 = 20, pišemo 0 i prenosimo 2. Desetice: 7 · 4 + 2 = 30, pišemo 0 i prenosimo 3.",
+      "savjet": "Najprije pomnoži jedinice i zapamti prijenos, a zatim pomnoži desetice i dodaj ga."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-057",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ovih umnožaka najveći?",
+      "ponudeni": [
+        "312 · 3",
+        "189 · 5",
+        "214 · 4",
+        "125 · 7"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umnošci su 936, 856, 945 i 875, a najveći je 189 · 5 = 945.",
+      "savjet": "Izračunaj svaki umnožak pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-058",
+      "tezina": "srednje",
+      "pitanje": "Luka svaki dan pročita 38 stranica knjige. Koliko stranica pročita za 7 dana?",
+      "ponudeni": [
+        "266 stranica",
+        "216 stranica",
+        "566 stranica",
+        "276 stranica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Treba izračunati 38 · 7 = 266, pa je odgovor 266 stranica.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-059",
+      "tezina": "srednje",
+      "pitanje": "Majica stoji 16 €. Koliko eura stoji 6 takvih majica?",
+      "ponudeni": [
+        "66 €",
+        "22 €",
+        "96 €",
+        "916 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba izračunati 16 · 6 = 96, pa je odgovor 96 €.",
+      "savjet": "Odredi koji broj se ponavlja i koliko puta pa napiši umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-060",
+      "tezina": "srednje",
+      "pitanje": "Mia je izračunala 46 · 3 = 128. Koju je pogrešku napravila?",
+      "ponudeni": [
+        "Zbrojila je umjesto da pomnoži.",
+        "Pogrešno je pomnožila jedinice.",
+        "Prijenos je dodala prije množenja.",
+        "Zaboravila je dodati prijenos."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točno je 46 · 3 = 138: 6 · 3 = 18, pišemo 8 i prenosimo 1, pa je 4 · 3 + 1 = 13. Mia nije dodala prijenos 1.",
+      "savjet": "Izračunaj zadatak pisano i usporedi znamenku po znamenku."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-061",
+      "tezina": "tesko",
+      "pitanje": "Koja znamenka nedostaje u zadatku 4□7 · 3 = 1341?",
+      "ponudeni": [
+        "3",
+        "5",
+        "7",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Provjerom dobivamo 447 · 3 = 1341, pa nedostaje znamenka 4.",
+      "savjet": "Jedinice daju 7 · 3 = 21; razmisli koja znamenka desetica s prijenosom daje odgovarajuću znamenku desetica umnoška."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-062",
+      "tezina": "tesko",
+      "pitanje": "Koja znamenka nedostaje u zadatku 2□8 · 6 = 1608?",
+      "ponudeni": [
+        "5",
+        "7",
+        "6",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 268 · 6 = 1608, pa nedostaje znamenka 6.",
+      "savjet": "Pomnoži jedinice i zapamti prijenos, pa traži znamenku desetica koja daje nulu na mjestu desetica umnoška."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-063",
+      "tezina": "tesko",
+      "pitanje": "Koja znamenka nedostaje u zadatku 5□3 · 4 = 2292?",
+      "ponudeni": [
+        "6",
+        "7",
+        "8",
+        "2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 573 · 4 = 2292, pa nedostaje znamenka 7.",
+      "savjet": "Jedinice daju 3 · 4 = 12; potraži znamenku desetica koja s prijenosom daje devetku na mjestu desetica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-064",
+      "tezina": "tesko",
+      "pitanje": "Koja znamenka nedostaje u umnošku 36 · 7 = 2□2?",
+      "ponudeni": [
+        "5",
+        "1",
+        "4",
+        "6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 36 · 7 = 252: 6 · 7 = 42, pišemo 2 i prenosimo 4, a 3 · 7 + 4 = 25.",
+      "savjet": "Pomnoži zadatak pisano i ne zaboravi prijenos nakon jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-065",
+      "tezina": "tesko",
+      "pitanje": "Koja znamenka nedostaje u zadatku 158 · □ = 1264?",
+      "ponudeni": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 158 · 8 = 1264, pa je nepoznati faktor 8.",
+      "savjet": "Procijeni: 158 je blizu 150, a 1264 je blizu 1200."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-066",
+      "tezina": "tesko",
+      "pitanje": "Koja znamenka nedostaje u zadatku 1□05 · 9 = 11 745?",
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 1305 · 9 = 11 745, pa nedostaje znamenka 3.",
+      "savjet": "Jedinice i desetice daju 45, pa potraži znamenku stotica koja s prijenosom daje 7 na mjestu stotica umnoška."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-067",
+      "tezina": "tesko",
+      "pitanje": "U zadatku 3□ · 9 = □06 nedostaju dvije znamenke. Koje su to znamenke (prvo u faktoru, zatim u umnošku)?",
+      "ponudeni": [
+        "6 i 3",
+        "4 i 3",
+        "4 i 2",
+        "3 i 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedinice umnoška su 6, a to daje samo 4 · 9 = 36. Zato je 34 · 9 = 306.",
+      "savjet": "Potraži znamenku koja pomnožena s 9 daje broj s jedinicama 6."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-068",
+      "tezina": "tesko",
+      "pitanje": "Kojim jednoznamenkastim brojem treba pomnožiti 1245 da bi umnožak bio 8715?",
+      "ponudeni": [
+        "6",
+        "8",
+        "9",
+        "7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 1245 · 7 = 8715, pa je traženi broj 7.",
+      "savjet": "Jedinice prvog faktora su 5, a umnoška također 5; procijeni koliko puta 1245 stane u 8715."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-069",
+      "tezina": "tesko",
+      "pitanje": "Koji broj treba upisati u □ da vrijedi □ · 8 = 10 000?",
+      "ponudeni": [
+        "125",
+        "1205",
+        "12 500",
+        "1250"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 1250 · 8 = 10 000, pa je nepoznati faktor 1250.",
+      "savjet": "Sjeti se da je 125 · 8 = 1000, pa razmisli koliko puta veći treba biti faktor."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-070",
+      "tezina": "tesko",
+      "pitanje": "Lea kupi 3 slagalice po 18 € i 4 knjige po 12 €. Koliko eura plati?",
+      "ponudeni": [
+        "112 €",
+        "102 €",
+        "92 €",
+        "37 €"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Slagalice stoje 3 · 18 = 54 €, a knjige 4 · 12 = 48 €. Ukupno je 54 + 48 = 102 €.",
+      "savjet": "Posebno izračunaj cijenu slagalica i cijenu knjiga pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-071",
+      "tezina": "tesko",
+      "pitanje": "U kutiji A je 6 redova po 24 čokoladice, a u kutiji B 8 redova po 17 čokoladica. Koliko je čokoladica više u kutiji A?",
+      "ponudeni": [
+        "8 čokoladica",
+        "2 čokoladice",
+        "18 čokoladica",
+        "280 čokoladica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U kutiji A je 6 · 24 = 144, a u kutiji B 8 · 17 = 136 čokoladica. Razlika je 144 − 136 = 8.",
+      "savjet": "Izračunaj koliko je čokoladica u svakoj kutiji pa oduzmi manji broj od većeg."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-072",
+      "tezina": "tesko",
+      "pitanje": "Obitelj ima 500 €. Kupi 7 ulaznica po 64 €. Koliko eura ostane obitelji?",
+      "ponudeni": [
+        "72 €",
+        "448 €",
+        "52 €",
+        "62 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ulaznice stoje 64 · 7 = 448 €. Ostaje 500 − 448 = 52 €.",
+      "savjet": "Prvo izračunaj koliko stoje sve ulaznice, a zatim to oduzmi od 500 €."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-073",
+      "tezina": "tesko",
+      "pitanje": "Ako svaka godina ima 365 dana, koliko dana imaju 3 godine?",
+      "ponudeni": [
+        "985 dana",
+        "1515 dana",
+        "1095 dana",
+        "1059 dana"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba izračunati 365 · 3 = 1095, pa je odgovor 1095 dana.",
+      "savjet": "Pomnoži broj dana u jednoj godini s brojem godina i pazi na prijenose."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-074",
+      "tezina": "tesko",
+      "pitanje": "Dan ima 24 h. Koliko sati imaju 2 tjedna?",
+      "ponudeni": [
+        "336 h",
+        "168 h",
+        "48 h",
+        "326 h"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan tjedan ima 24 · 7 = 168 h, a dva tjedna 168 · 2 = 336 h.",
+      "savjet": "Najprije izračunaj koliko sati ima jedan tjedan od 7 dana."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-075",
+      "tezina": "tesko",
+      "pitanje": "Kamion u jednoj vožnji preveze 2450 kg robe. Koliko kilograma robe preveze u 8 vožnji?",
+      "ponudeni": [
+        "16 200 kg",
+        "64 400 kg",
+        "19 610 kg",
+        "19 600 kg"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Treba izračunati 2450 · 8 = 19 600, pa je odgovor 19 600 kg.",
+      "savjet": "Pomnoži masu robe u jednoj vožnji s brojem vožnji, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-076",
+      "tezina": "tesko",
+      "pitanje": "Umnožak brojeva 1234 i 6 je 7404. Koliki je umnožak brojeva 1234 i 7?",
+      "ponudeni": [
+        "7410",
+        "8638",
+        "7405",
+        "8628"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 1234 uzet sedam puta je za jedan 1234 veći od šest puta: 7404 + 1234 = 8638.",
+      "savjet": "Razmisli koliko je 1234 · 7 veće od 1234 · 6."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-077",
+      "tezina": "tesko",
+      "pitanje": "Koja je zadnja znamenka umnoška 4567 · 8?",
+      "ponudeni": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zadnja znamenka ovisi samo o jedinicama: 7 · 8 = 56, pa umnožak završava sa 6.",
+      "savjet": "Razmisli koje znamenke određuju jedinice umnoška."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-078",
+      "tezina": "tesko",
+      "pitanje": "Koliko znamenaka ima umnožak 2345 · 5?",
+      "ponudeni": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 2345 · 5 = 11 725, a taj broj ima pet znamenaka.",
+      "savjet": "Zaokruži prvi faktor na tisućice i procijeni koliki je umnožak."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-079",
+      "tezina": "tesko",
+      "pitanje": "Koji broj treba upisati u □ da vrijedi □ · 9 = 54 252?",
+      "ponudeni": [
+        "628",
+        "6280",
+        "6028",
+        "6208"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 6028 · 9 = 54 252, pa je nepoznati faktor 6028.",
+      "savjet": "Ponuđene brojeve pomnoži s 9 i usporedi s umnoškom; pazi gdje je nula."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-080",
+      "tezina": "tesko",
+      "pitanje": "Osam jednakih sanduka ima ukupnu masu 1000 kg. Kolika je masa jednog sanduka?",
+      "ponudeni": [
+        "125 kg",
+        "120 kg",
+        "150 kg",
+        "8000 kg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 125 · 8 = 1000, pa jedan sanduk ima masu 125 kg.",
+      "savjet": "Provjeri množenjem: koji broj pomnožen s 8 daje 1000?"
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-081",
+      "tezina": "tesko",
+      "pitanje": "Koji umnožak iznosi 4232?",
+      "ponudeni": [
+        "528 · 8",
+        "592 · 8",
+        "529 · 8",
+        "530 · 8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 529 · 8 = 4232. Ostali umnošci su 4224, 4736 i 4240.",
+      "savjet": "Pomnoži svaki par faktora pisano i usporedi rezultat."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-082",
+      "tezina": "tesko",
+      "pitanje": "Koja znamenka nedostaje u umnošku 1207 · 6 = 7□42?",
+      "ponudeni": [
+        "1",
+        "4",
+        "0",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "7 · 6 = 42, pišemo 2 i prenosimo 4; 0 · 6 + 4 = 4; 2 · 6 = 12. Zato je 1207 · 6 = 7242.",
+      "savjet": "Pomnoži pisano od jedinica pa pogledaj koja znamenka dolazi na mjesto stotica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-083",
+      "tezina": "tesko",
+      "pitanje": "Petra je izračunala 278 · 4 = 1082. Koju je pogrešku napravila?",
+      "ponudeni": [
+        "Deseticama nije dodala prijenos od jedinica.",
+        "Pogrešno je pomnožila jedinice.",
+        "Zbrojila je umjesto da pomnoži.",
+        "Stoticama nije dodala prijenos od desetica."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točno je 278 · 4 = 1112. Petra je 7 · 4 = 28 zapisala bez prijenosa 3 koji je došao od jedinica.",
+      "savjet": "Izračunaj zadatak pisano i usporedi svoj rezultat s Petrinim znamenku po znamenku."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-084",
+      "tezina": "tesko",
+      "pitanje": "Umnožak dvaju brojeva je 2760. Jedan faktor je 8. Koji je drugi faktor?",
+      "ponudeni": [
+        "354",
+        "345",
+        "22 080",
+        "335"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 345 · 8 = 2760, pa je drugi faktor 345.",
+      "savjet": "Nepoznati faktor provjeri množenjem s 8."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-085",
+      "tezina": "tesko",
+      "pitanje": "Za koliko je 389 · 7 manje od 400 · 7?",
+      "ponudeni": [
+        "77",
+        "11",
+        "7",
+        "70"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 389 je za 11 manji od 400, a uzet je 7 puta, pa je umnožak manji za 11 · 7 = 77.",
+      "savjet": "Usporedi 389 i 400 pa razmisli koliko se puta ta razlika ponavlja."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-086",
+      "tezina": "tesko",
+      "pitanje": "Na izlet idu 4 autobusa s po 52 sjedala. Putuje 197 učenika. Koliko je slobodnih sjedala?",
+      "ponudeni": [
+        "3 sjedala",
+        "11 sjedala",
+        "13 sjedala",
+        "208 sjedala"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U autobusima je 52 · 4 = 208 sjedala. Slobodno ostaje 208 − 197 = 11 sjedala.",
+      "savjet": "Najprije izračunaj koliko sjedala imaju svi autobusi zajedno."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-087",
+      "tezina": "tesko",
+      "pitanje": "Trgovina svaki dan osim nedjelje proda 135 l mlijeka. Koliko litara mlijeka proda u jednom tjednu?",
+      "ponudeni": [
+        "945 l",
+        "141 l",
+        "610 l",
+        "810 l"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trgovina radi 6 dana u tjednu, pa proda 135 · 6 = 810 l mlijeka.",
+      "savjet": "Prvo prebroji koliko dana u tjednu trgovina radi."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-088",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 108 475 · 9.",
+      "ponudeni": [
+        "902 635",
+        "976 257",
+        "976 275",
+        "976 285"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množimo redom od jedinica i svakom umnošku dodajemo prijenos. Zato je 108 475 · 9 = 976 275.",
+      "savjet": "Počni od jedinica: 5 · 9, pa pomnoži redom ostale znamenke."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-089",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 70 806 · 8.",
+      "ponudeni": [
+        "560 408",
+        "566 448",
+        "566 484",
+        "566 458"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Množimo redom od jedinica i svakom umnošku dodajemo prijenos. Zato je 70 806 · 8 = 566 448.",
+      "savjet": "Pomnoži svaku znamenku broja 70 806 s 8, počevši od jedinica."
+    },
+    {
+      "id": "4-matematika-mnozenje-jednoznamenkastim-brojem-090",
+      "tezina": "tesko",
+      "pitanje": "Koji je najveći jednoznamenkasti broj koji možeš upisati u □ da umnožak 125 · □ bude manji od 1000?",
+      "ponudeni": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 125 · 7 = 875, a 125 · 8 = 1000 više nije manje od 1000. Zato je najveći takav broj 7.",
+      "savjet": "Kreni od umnoška 125 · 4 = 500 pa dodaji po 125."
+    }
+  ]
+}
