@@ -1,0 +1,3296 @@
+{
+  "lekcijaId": "srediste-polumjer-i-promjer",
+  "pitanja": [
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove crta koja omeđuje krug?",
+      "ponudeni": [
+        "promjer",
+        "kružnica",
+        "polumjer",
+        "središte"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kružnica je zatvorena crta koja omeđuje krug. Krug čine kružnica i sve točke unutar nje.",
+      "savjet": "Sjeti se razlike između same crte i dijela ravnine koji ta crta zatvara."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-002",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je kružnica. Kako se zove točka S?",
+      "slika": {
+        "opis": "Kružnica s točkom S u sredini i točkom A na kružnici.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.06,
+            7.57
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A"
+        ]
+      },
+      "ponudeni": [
+        "polumjer kružnice",
+        "promjer kružnice",
+        "vrh kružnice",
+        "središte kružnice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka S je središte kružnice jer je jednako udaljena od svih točaka kružnice.",
+      "savjet": "Pogledaj gdje se točka S nalazi u odnosu na sve točke kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-003",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom obično označava polumjer kružnice?",
+      "ponudeni": [
+        "r",
+        "d",
+        "S",
+        "k"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Polumjer se označava slovom r, prema latinskoj riječi radius.",
+      "savjet": "Sjeti se kako se slovima zapisuje veza promjera i polumjera."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-004",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom obično označava promjer kružnice?",
+      "ponudeni": [
+        "r",
+        "S",
+        "d",
+        "p"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Promjer se označava slovom d, prema riječi dijametar.",
+      "savjet": "Oznaka promjera dolazi od riječi dijametar, kako se još naziva promjer."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-005",
+      "tezina": "lagano",
+      "pitanje": "Kojim priborom crtamo kružnicu?",
+      "ponudeni": [
+        "kutomjerom",
+        "ravnalom",
+        "šestarom",
+        "gumicom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kružnicu crtamo šestarom. Igla stoji u središtu, a olovka opisuje kružnicu.",
+      "savjet": "Taj pribor ima dva kraka: na jednom je igla, a na drugom olovka."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dužina SA na crtežu?",
+      "slika": {
+        "opis": "Kružnica sa središtem S i nacrtanom dužinom SA.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.46,
+            7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A"
+        ]
+      },
+      "ponudeni": [
+        "polumjer",
+        "promjer",
+        "središte",
+        "kružnica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužina SA spaja središte S s točkom A na kružnici, pa je to polumjer.",
+      "savjet": "Pogledaj gdje su krajevi dužine: jedan je u točki S, a drugi na kružnici."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dužina AB na crtežu?",
+      "slika": {
+        "opis": "Kružnica sa središtem S i nacrtanom dužinom AB.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.24,
+            6.37
+          ],
+          "B": [
+            8.76,
+            3.63
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B"
+        ]
+      },
+      "ponudeni": [
+        "polumjer",
+        "središte",
+        "kružnica",
+        "promjer"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina AB prolazi središtem S, a krajevi su joj na kružnici, pa je to promjer.",
+      "savjet": "Provjeri prolazi li dužina kroz točku S i gdje su joj krajevi."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-008",
+      "tezina": "lagano",
+      "pitanje": "Što je prikazano na crtežu?",
+      "slika": {
+        "opis": "Okrugli lik s točkom S u sredini; obojena je i njegova unutrašnjost.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "kružnica",
+        "krug",
+        "polumjer",
+        "promjer"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obojen je cijeli dio ravnine unutar kružnice zajedno s kružnicom, a to je krug.",
+      "savjet": "Pogledaj je li obojena samo crta ili i cijela unutrašnjost lika."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-009",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je nacrtana samo okrugla crta oko točke S. Kako se zove ta crta?",
+      "slika": {
+        "opis": "Okrugla crta sa središtem S; unutrašnjost nije obojena.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "krug",
+        "kružnica",
+        "središte",
+        "promjer"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zatvorena crta čije su sve točke jednako udaljene od središta S zove se kružnica. Unutrašnjost nije obojena, pa to nije krug.",
+      "savjet": "Krug uključuje i dio ravnine unutar crte, a ovdje je nacrtana samo crta."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-010",
+      "tezina": "lagano",
+      "pitanje": "Koliko puta je promjer kružnice dulji od njezina polumjera?",
+      "ponudeni": [
+        "3 puta",
+        "4 puta",
+        "5 puta",
+        "2 puta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Promjer se sastoji od dvaju polumjera, pa je 2 puta dulji od polumjera.",
+      "savjet": "Zamisli put od kružnice preko središta do suprotne strane kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-011",
+      "tezina": "lagano",
+      "pitanje": "Polumjer SC kružnice dug je 4 cm. Odredi duljinu promjera AB.",
+      "slika": {
+        "opis": "Kružnica sa središtem S, promjerom AB i polumjerom SC duljine 4 cm.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1,
+            5
+          ],
+          "B": [
+            9,
+            5
+          ],
+          "C": [
+            6.37,
+            8.76
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "4 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "8 cm",
+        "2 cm",
+        "4 cm",
+        "6 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Promjer je dvostruko dulji od polumjera: 2 · 4 cm = 8 cm.",
+      "savjet": "Promjer AB sastoji se od dvaju polumjera, AS i SB."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-012",
+      "tezina": "lagano",
+      "pitanje": "Promjer AB kružnice dug je 10 cm. Odredi duljinu polumjera SC.",
+      "slika": {
+        "opis": "Kružnica sa središtem S, promjerom AB duljine 10 cm i polumjerom SC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            3,
+            8.46
+          ],
+          "B": [
+            7,
+            1.54
+          ],
+          "C": [
+            8.76,
+            6.37
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "10 cm"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "20 cm",
+        "10 cm",
+        "5 cm",
+        "8 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polumjer je upola kraći od promjera: 10 cm : 2 = 5 cm.",
+      "savjet": "Promjer se sastoji od dvaju jednakih polumjera, pa ga podijeli na dva jednaka dijela."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-013",
+      "tezina": "lagano",
+      "pitanje": "Koja je tvrdnja o središtu kružnice točna?",
+      "ponudeni": [
+        "Leži na kružnici.",
+        "Leži izvan kružnice.",
+        "Jednako je udaljeno od svih točaka kružnice.",
+        "Bliže je gornjem dijelu kružnice."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve točke kružnice jednako su udaljene od središta. Ta udaljenost je polumjer.",
+      "savjet": "Sjeti se kako šestar crta kružnicu oko točke u koju je zabodena igla."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-014",
+      "tezina": "lagano",
+      "pitanje": "Koliko se polumjera može nacrtati u jednoj kružnici?",
+      "ponudeni": [
+        "beskonačno mnogo",
+        "samo jedan",
+        "točno dva",
+        "točno četiri"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kružnica ima beskonačno mnogo točaka, a do svake od njih iz središta možemo nacrtati polumjer.",
+      "savjet": "Polumjer možeš nacrtati od središta do bilo koje točke kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-015",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu su nacrtane dužine SA, SB i SC. Što vrijedi za njihove duljine?",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točkama A, B i C na kružnici; nacrtane su dužine SA, SB i SC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            5,
+            9
+          ],
+          "B": [
+            1.54,
+            3
+          ],
+          "C": [
+            8.46,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A"
+          },
+          {
+            "od": "S",
+            "do": "B"
+          },
+          {
+            "od": "S",
+            "do": "C"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "Dužina SA je najdulja.",
+        "Dužina SC je najkraća.",
+        "Sve su različite duljine.",
+        "Sve su jednako duge."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve tri dužine su polumjeri iste kružnice, a svi polumjeri jedne kružnice jednako su dugi.",
+      "savjet": "Sve tri dužine spajaju središte s točkom na kružnici."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-016",
+      "tezina": "lagano",
+      "pitanje": "Točke A i B leže na kružnici sa središtem S. Dužina SA duga je 4 cm. Odredi duljinu dužine SB.",
+      "slika": {
+        "opis": "Kružnica sa središtem S; dužina SA duga je 4 cm, a duljina dužine SB nije zadana.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.76,
+            6.37
+          ],
+          "B": [
+            1.54,
+            7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "S",
+            "do": "B",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B"
+        ]
+      },
+      "ponudeni": [
+        "8 cm",
+        "4 cm",
+        "2 cm",
+        "6 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "SA i SB su polumjeri iste kružnice, a svi su polumjeri jednako dugi, pa je SB = 4 cm.",
+      "savjet": "Usporedi gdje su krajevi dužine SA, a gdje krajevi dužine SB."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-017",
+      "tezina": "lagano",
+      "pitanje": "Kad crtaš kružnicu šestarom, razmak između igle i vrha olovke jednak je…",
+      "ponudeni": [
+        "promjeru",
+        "polumjeru",
+        "središtu",
+        "kružnici"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Otvor šestara jednak je udaljenosti središta od točaka kružnice, a to je polumjer.",
+      "savjet": "Igla stoji u središtu, a olovka crta točke kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-018",
+      "tezina": "lagano",
+      "pitanje": "Gdje se zabada igla šestara kad crtaš kružnicu?",
+      "ponudeni": [
+        "na kružnicu",
+        "izvan kružnice",
+        "na kraj promjera",
+        "u središte kružnice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Igla šestara zabada se u središte, a olovka na drugom kraku crta kružnicu.",
+      "savjet": "Igla ostaje na mjestu dok olovka kruži oko nje."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-019",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dužina koja spaja središte kružnice i neku točku kružnice?",
+      "ponudeni": [
+        "polumjer",
+        "promjer",
+        "središte",
+        "kružnica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Polumjer je dužina od središta do točke na kružnici.",
+      "savjet": "Ta je dužina upola kraća od dužine koja kroz središte spaja dvije točke kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-020",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dužina koja prolazi središtem kružnice, a oba su joj kraja na kružnici?",
+      "ponudeni": [
+        "polumjer",
+        "središte",
+        "promjer",
+        "kružnica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Promjer prolazi kroz središte i spaja dvije točke kružnice. Dug je kao dva polumjera.",
+      "savjet": "Ta dužina dijeli krug na dva jednaka dijela."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-021",
+      "tezina": "lagano",
+      "pitanje": "Krug čine kružnica i…",
+      "ponudeni": [
+        "samo njezino središte",
+        "samo njezini promjeri",
+        "sve točke unutar nje",
+        "sve točke izvan nje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krug je dio ravnine omeđen kružnicom. Čine ga kružnica i sve točke unutar nje.",
+      "savjet": "Zamisli obojen okrugli lik i razmisli što je sve na njemu obojeno."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-022",
+      "tezina": "lagano",
+      "pitanje": "Koja točka na crtežu leži na kružnici?",
+      "slika": {
+        "opis": "Kružnica sa središtem S i istaknutim točkama A, T i B.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.46,
+            7
+          ],
+          "T": [
+            6,
+            4
+          ],
+          "B": [
+            9.5,
+            1.5
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "T",
+          "B"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "S",
+        "T",
+        "B"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka A leži na crti kružnice. Točke S i T su unutar kružnice, a točka B je izvan nje.",
+      "savjet": "Točka kružnice leži točno na nacrtanoj crti."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-023",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je kotač bicikla sa žbicama koje idu od sredine kotača do ruba. Na što podsjeća jedna žbica?",
+      "slika": {
+        "opis": "Kotač nacrtan kao kružnica sa središtem S i osam žbica od središta do ruba.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "P1": [
+            8.7,
+            6.53
+          ],
+          "P2": [
+            6.53,
+            8.7
+          ],
+          "P3": [
+            3.47,
+            8.7
+          ],
+          "P4": [
+            1.3,
+            6.53
+          ],
+          "P5": [
+            1.3,
+            3.47
+          ],
+          "P6": [
+            3.47,
+            1.3
+          ],
+          "P7": [
+            6.53,
+            1.3
+          ],
+          "P8": [
+            8.7,
+            3.47
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "P1"
+          },
+          {
+            "od": "S",
+            "do": "P2"
+          },
+          {
+            "od": "S",
+            "do": "P3"
+          },
+          {
+            "od": "S",
+            "do": "P4"
+          },
+          {
+            "od": "S",
+            "do": "P5"
+          },
+          {
+            "od": "S",
+            "do": "P6"
+          },
+          {
+            "od": "S",
+            "do": "P7"
+          },
+          {
+            "od": "S",
+            "do": "P8"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6",
+          "P7",
+          "P8"
+        ]
+      },
+      "ponudeni": [
+        "na promjer",
+        "na kružnicu",
+        "na središte",
+        "na polumjer"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Žbica ide od središta kotača do ruba, kao polumjer od središta do kružnice.",
+      "savjet": "Pogledaj gdje žbica počinje, a gdje završava."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-024",
+      "tezina": "lagano",
+      "pitanje": "Rub okruglog sata je kružnica. Kako se zove točka u sredini sata u kojoj su pričvršćene kazaljke?",
+      "ponudeni": [
+        "polumjer",
+        "središte",
+        "promjer",
+        "krug"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kazaljke su pričvršćene u središtu sata, koje je jednako udaljeno od svih točaka ruba.",
+      "savjet": "Sve točke ruba sata jednako su udaljene od te točke."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-025",
+      "tezina": "lagano",
+      "pitanje": "Polumjer kružnice je 5 cm. Odredi promjer te kružnice.",
+      "ponudeni": [
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Promjer je dvostruko dulji od polumjera: 2 · 5 cm = 10 cm.",
+      "savjet": "Promjer je sastavljen od dvaju polumjera."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-026",
+      "tezina": "lagano",
+      "pitanje": "Promjer kružnice je 6 cm. Odredi polumjer te kružnice.",
+      "ponudeni": [
+        "12 cm",
+        "6 cm",
+        "4 cm",
+        "3 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Polumjer je upola kraći od promjera: 6 cm : 2 = 3 cm.",
+      "savjet": "Polumjer je dio promjera od središta do kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-027",
+      "tezina": "lagano",
+      "pitanje": "Koliko središta ima jedna kružnica?",
+      "ponudeni": [
+        "jedno",
+        "dva",
+        "četiri",
+        "beskonačno mnogo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kružnica ima jedno središte. Sve su njezine točke jednako udaljene upravo od te točke.",
+      "savjet": "Sjeti se koliko puta zabadaš iglu šestara dok crtaš jednu kružnicu."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-028",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je nacrtan polumjer SA. Gdje leži točka A?",
+      "slika": {
+        "opis": "Kružnica sa središtem S i dužinom SA.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            3.63,
+            8.76
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A"
+        ]
+      },
+      "ponudeni": [
+        "u središtu kružnice",
+        "izvan kružnice",
+        "na kružnici",
+        "unutar kruga, ali ne na kružnici"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polumjer spaja središte s točkom na kružnici, pa točka A leži na kružnici.",
+      "savjet": "Sjeti se koje dvije točke spaja polumjer."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-029",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je krug sa središtem S. Koja točka ne pripada tom krugu?",
+      "slika": {
+        "opis": "Obojeni krug sa središtem S te istaknute točke A, T i B.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7,
+            8.46
+          ],
+          "T": [
+            3.5,
+            4
+          ],
+          "B": [
+            9.2,
+            1.3
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "T",
+          "B"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "T",
+        "B",
+        "S"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka B leži izvan kružnice, pa ne pripada krugu. Točke A, T i S pripadaju krugu.",
+      "savjet": "Krugu pripadaju točke kružnice i sve točke unutar nje."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-030",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu su nacrtani polumjer SA i promjer BC iste kružnice. Koja je od tih dužina dulja?",
+      "slika": {
+        "opis": "Kružnica sa središtem S, dužinom SA i dužinom BC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            5.69,
+            8.94
+          ],
+          "B": [
+            1.24,
+            3.63
+          ],
+          "C": [
+            8.76,
+            6.37
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "promjer BC",
+        "polumjer SA",
+        "jednako su duge",
+        "ne može se odrediti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Promjer je dvostruko dulji od polumjera, pa je BC dulja od SA.",
+      "savjet": "Usporedi koliko se polumjera može smjestiti jedan uz drugi na promjer."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-031",
+      "tezina": "srednje",
+      "pitanje": "Koja je od nacrtanih dužina polumjer kružnice?",
+      "slika": {
+        "opis": "Kružnica sa središtem S, točke A, B i C na kružnici, točka D unutar kružnice te dužine AB, SC, CD i SD.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1,
+            5
+          ],
+          "B": [
+            9,
+            5
+          ],
+          "C": [
+            6.37,
+            8.76
+          ],
+          "D": [
+            6.5,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "S",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "S",
+            "do": "D"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "AB",
+        "CD",
+        "SD",
+        "SC"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina SC spaja središte S s točkom C na kružnici. Točka D nije na kružnici, a AB je promjer.",
+      "savjet": "Polumjer ima jedan kraj u središtu, a drugi točno na kružnici."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-032",
+      "tezina": "srednje",
+      "pitanje": "Koja je od nacrtanih dužina promjer kružnice?",
+      "slika": {
+        "opis": "Kružnica sa središtem S, točke E, F, G i H na kružnici, točke K i L unutar kružnice te dužine EF, GH, KL i SG.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "E": [
+            2.17,
+            7.83
+          ],
+          "F": [
+            7.83,
+            2.17
+          ],
+          "G": [
+            1.24,
+            3.63
+          ],
+          "H": [
+            5.69,
+            1.06
+          ],
+          "K": [
+            6.41,
+            6.41
+          ],
+          "L": [
+            3.59,
+            3.59
+          ]
+        },
+        "duzine": [
+          {
+            "od": "E",
+            "do": "F"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "K",
+            "do": "L"
+          },
+          {
+            "od": "S",
+            "do": "G"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "E",
+          "F",
+          "G",
+          "H",
+          "K",
+          "L"
+        ]
+      },
+      "ponudeni": [
+        "GH",
+        "EF",
+        "KL",
+        "SG"
+      ],
+      "tocan": 1,
+      "objasnjenje": "EF prolazi kroz središte S, a krajevi su joj na kružnici. KL prolazi kroz S, ali joj krajevi nisu na kružnici.",
+      "savjet": "Promjer prolazi središtem i oba kraja ima na kružnici."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-033",
+      "tezina": "srednje",
+      "pitanje": "Promjer kružnice je 14 cm. Odredi polumjer te kružnice.",
+      "ponudeni": [
+        "28 cm",
+        "7 cm",
+        "14 cm",
+        "12 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polumjer je upola kraći od promjera: 14 cm : 2 = 7 cm.",
+      "savjet": "Promjer podijeli na dva jednaka dijela."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-034",
+      "tezina": "srednje",
+      "pitanje": "Polumjer kružnice je 9 cm. Odredi promjer te kružnice.",
+      "ponudeni": [
+        "9 cm",
+        "16 cm",
+        "11 cm",
+        "18 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Promjer je dvostruko dulji od polumjera: 2 · 9 cm = 18 cm.",
+      "savjet": "Promjer je dug kao dva polumjera zajedno."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-035",
+      "tezina": "srednje",
+      "pitanje": "Tanjur ima oblik kruga promjera 24 cm. Odredi polumjer tanjura.",
+      "ponudeni": [
+        "12 cm",
+        "48 cm",
+        "24 cm",
+        "14 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Polumjer je upola kraći od promjera: 24 cm : 2 = 12 cm.",
+      "savjet": "Polumjer je udaljenost od središta tanjura do njegova ruba."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-036",
+      "tezina": "srednje",
+      "pitanje": "Kotač Ivanova bicikla ima polumjer 30 cm. Odredi promjer kotača.",
+      "ponudeni": [
+        "15 cm",
+        "30 cm",
+        "60 cm",
+        "90 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Promjer je dvostruko dulji od polumjera: 2 · 30 cm = 60 cm.",
+      "savjet": "Promjer kotača ide od ruba preko središta do suprotnog ruba."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-037",
+      "tezina": "srednje",
+      "pitanje": "Kovanica ima promjer 22 mm. Odredi njezin polumjer.",
+      "ponudeni": [
+        "44 mm",
+        "22 mm",
+        "11 mm",
+        "12 mm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polumjer je upola kraći od promjera: 22 mm : 2 = 11 mm.",
+      "savjet": "Polumjer je udaljenost od središta kovanice do njezina ruba."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-038",
+      "tezina": "srednje",
+      "pitanje": "Marta želi šestarom nacrtati kružnicu promjera 8 cm. Odredi koliko treba otvoriti šestar.",
+      "ponudeni": [
+        "4 cm",
+        "8 cm",
+        "16 cm",
+        "2 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Otvor šestara jednak je polumjeru: 8 cm : 2 = 4 cm.",
+      "savjet": "Otvor šestara jednak je udaljenosti od središta do kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-039",
+      "tezina": "srednje",
+      "pitanje": "Luka je otvorio šestar 6 cm i nacrtao kružnicu. Odredi promjer te kružnice.",
+      "ponudeni": [
+        "6 cm",
+        "3 cm",
+        "18 cm",
+        "12 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Otvor šestara je polumjer, 6 cm. Promjer je 2 · 6 cm = 12 cm.",
+      "savjet": "Otvor šestara jednak je polumjeru nacrtane kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-040",
+      "tezina": "srednje",
+      "pitanje": "Promjer AB dug je 12 cm. Odredi duljinu dužine SC.",
+      "slika": {
+        "opis": "Kružnica sa središtem S, dužinom AB duljine 12 cm i dužinom SC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.54,
+            7
+          ],
+          "B": [
+            8.46,
+            3
+          ],
+          "C": [
+            8.06,
+            7.57
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "12 cm"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "12 cm",
+        "6 cm",
+        "24 cm",
+        "3 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "SC je polumjer jer spaja središte i točku kružnice. Polumjer je 12 cm : 2 = 6 cm.",
+      "savjet": "Pogledaj gdje su krajevi dužine SC."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-041",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Svaki polumjer ima oba kraja na kružnici.",
+        "Svaki promjer prolazi središtem kružnice.",
+        "Promjer je upola kraći od polumjera.",
+        "Središte kružnice leži na kružnici."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Promjer je dužina koja prolazi središtem i ima krajeve na kružnici. Polumjer ima jedan kraj u središtu.",
+      "savjet": "Za svaku tvrdnju zamisli kružnicu i u mislima nacrtaj taj dio."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-042",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je kružnica sa središtem S i točka T. Čemu pripada točka T?",
+      "slika": {
+        "opis": "Kružnica sa središtem S i istaknutom točkom T.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "T": [
+            6.2,
+            3.8
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T"
+        ]
+      },
+      "ponudeni": [
+        "samo kružnici",
+        "i krugu i kružnici",
+        "ni krugu ni kružnici",
+        "samo krugu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka T je unutar kružnice, ali ne na crti. Zato pripada krugu, ali ne i kružnici.",
+      "savjet": "Kružnica je samo crta, a krug je i sve što ta crta omeđuje."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-043",
+      "tezina": "srednje",
+      "pitanje": "Točka A leži na kružnici. Čemu pripada točka A?",
+      "ponudeni": [
+        "i krugu i kružnici",
+        "samo kružnici",
+        "samo krugu",
+        "ni krugu ni kružnici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kružnica je dio kruga, pa svaka točka kružnice pripada i krugu.",
+      "savjet": "Sjeti se da krug uključuje i crtu koja ga omeđuje."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-044",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je krug. Koja istaknuta točka pripada krugu, ali ne pripada kružnici koja ga omeđuje?",
+      "slika": {
+        "opis": "Obojeni krug i istaknute točke A, B, C i T.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "T": [
+            4,
+            4.2
+          ],
+          "A": [
+            7.57,
+            8.06
+          ],
+          "C": [
+            2.43,
+            1.94
+          ],
+          "B": [
+            9.3,
+            1.2
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "T"
+        ],
+        "skrivenaImena": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "T",
+        "C"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka T je unutar kruga, ali nije na kružnici. A i C leže na kružnici, a B je izvan kruga.",
+      "savjet": "Točke na rubnoj crti pripadaju i kružnici, a točke izvan ruba ne pripadaju krugu."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-045",
+      "tezina": "srednje",
+      "pitanje": "U kružnici je nacrtano šest polumjera. Polumjer SA dug je 7 cm. Izračunaj zbroj duljina svih šest polumjera.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i šest polumjera SA, SB, SC, SD, SE i SF; SA je dug 7 cm.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            9,
+            5
+          ],
+          "B": [
+            7,
+            8.46
+          ],
+          "C": [
+            3,
+            8.46
+          ],
+          "D": [
+            1,
+            5
+          ],
+          "E": [
+            3,
+            1.54
+          ],
+          "F": [
+            7,
+            1.54
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "S",
+            "do": "B"
+          },
+          {
+            "od": "S",
+            "do": "C"
+          },
+          {
+            "od": "S",
+            "do": "D"
+          },
+          {
+            "od": "S",
+            "do": "E"
+          },
+          {
+            "od": "S",
+            "do": "F"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "84 cm",
+        "21 cm",
+        "42 cm",
+        "13 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaki polumjer dug je 7 cm, pa je zbroj 6 · 7 cm = 42 cm.",
+      "savjet": "Svi polumjeri iste kružnice jednako su dugi."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-046",
+      "tezina": "srednje",
+      "pitanje": "Dužine SA i SB polumjeri su iste kružnice i leže na istom pravcu. SA je duga 7 cm. Odredi duljinu dužine AB.",
+      "slika": {
+        "opis": "Kružnica sa središtem S; točke A i B leže na kružnici sa suprotnih strana točke S, a SA je duga 7 cm.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.24,
+            3.63
+          ],
+          "B": [
+            8.76,
+            6.37
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "S",
+            "do": "B"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B"
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "7 cm",
+        "21 cm",
+        "12 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "SA i SB zajedno čine promjer AB, pa je AB = 7 cm + 7 cm = 14 cm.",
+      "savjet": "Pogledaj čine li SA i SB zajedno jednu dužinu kroz središte."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-047",
+      "tezina": "srednje",
+      "pitanje": "Pizza ima promjer 32 cm. Mia je napravila rez od središta do ruba pizze. Odredi duljinu toga reza.",
+      "slika": {
+        "opis": "Pizza nacrtana kao krug sa središtem S, promjerom AB duljine 32 cm i rezom SC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.24,
+            6.37
+          ],
+          "B": [
+            8.76,
+            3.63
+          ],
+          "C": [
+            7,
+            8.46
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "32 cm"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "64 cm",
+        "32 cm",
+        "8 cm",
+        "16 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rez od središta do ruba je polumjer pizze: 32 cm : 2 = 16 cm.",
+      "savjet": "Rez od središta do ruba odgovara polumjeru pizze."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-048",
+      "tezina": "srednje",
+      "pitanje": "Okrugli stol ima polumjer 50 cm. Odredi promjer stola.",
+      "ponudeni": [
+        "25 cm",
+        "100 cm",
+        "50 cm",
+        "150 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Promjer je dvostruko dulji od polumjera: 2 · 50 cm = 100 cm.",
+      "savjet": "Promjer stola sastoji se od dvaju polumjera."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-049",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je promjer AB. Kako se zove dio promjera od točke S do točke B?",
+      "slika": {
+        "opis": "Kružnica sa središtem S i dužinom AB; dio od S do B označen je upitnikom.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.06,
+            4.31
+          ],
+          "B": [
+            8.94,
+            5.69
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "S"
+          },
+          {
+            "od": "S",
+            "do": "B",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B"
+        ]
+      },
+      "ponudeni": [
+        "promjer",
+        "polumjer",
+        "središte",
+        "kružnica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužina SB spaja središte S s točkom B na kružnici, pa je to polumjer.",
+      "savjet": "Pogledaj gdje su krajevi dužine SB."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-050",
+      "tezina": "srednje",
+      "pitanje": "Kružnica k₁ ima polumjer 5 cm, a kružnica k₂ promjer 8 cm. Koja je kružnica veća?",
+      "ponudeni": [
+        "kružnica k₂",
+        "jednako su velike",
+        "ne može se odrediti",
+        "kružnica k₁"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Promjer kružnice k₁ je 2 · 5 cm = 10 cm, a to je više od 8 cm. Zato je k₁ veća.",
+      "savjet": "Prije usporedbe izrazi obje veličine na isti način, kao polumjere ili kao promjere."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-051",
+      "tezina": "srednje",
+      "pitanje": "Ana je nacrtala kružnicu polumjera 4 cm. Odredi udaljenost bilo koje točke te kružnice od njezina središta.",
+      "ponudeni": [
+        "4 cm",
+        "8 cm",
+        "2 cm",
+        "6 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve točke kružnice udaljene su od središta za duljinu polumjera, a to je 4 cm.",
+      "savjet": "Sjeti se što je polumjer i gdje su mu krajevi."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-052",
+      "tezina": "srednje",
+      "pitanje": "Promjer kružnice je 40 mm. Odredi polumjer te kružnice.",
+      "ponudeni": [
+        "80 mm",
+        "40 mm",
+        "20 mm",
+        "10 mm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polumjer je upola kraći od promjera: 40 mm : 2 = 20 mm.",
+      "savjet": "Polumjer je pola promjera."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-053",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je polumjer SA označen s r, a promjer BC s d. Ako je r = 3 cm, izračunaj r + d.",
+      "slika": {
+        "opis": "Kružnica sa središtem S, polumjerom SA označenim s r i promjerom BC označenim s d.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            4.31,
+            8.94
+          ],
+          "B": [
+            1.54,
+            3
+          ],
+          "C": [
+            8.46,
+            7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "r"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "d"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "6 cm",
+        "12 cm",
+        "9 cm",
+        "15 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Promjer je d = 2 · 3 cm = 6 cm, pa je r + d = 3 cm + 6 cm = 9 cm.",
+      "savjet": "Najprije odredi duljinu promjera pa zbroji."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-054",
+      "tezina": "srednje",
+      "pitanje": "Polumjer kružnice je 6 cm. Izračunaj zbroj duljina dvaju njezinih promjera.",
+      "ponudeni": [
+        "24 cm",
+        "12 cm",
+        "48 cm",
+        "18 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan promjer dug je 2 · 6 cm = 12 cm, a dva promjera 12 cm + 12 cm = 24 cm.",
+      "savjet": "Najprije odredi duljinu jednog promjera."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-055",
+      "tezina": "srednje",
+      "pitanje": "Velika kazaljka okruglog sata duga je točno kao polumjer sata, 11 cm. Odredi promjer sata.",
+      "slika": {
+        "opis": "Sat nacrtan kao kružnica sa središtem S i kazaljkom SA duljine 11 cm.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            5,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "11 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "11 cm",
+        "33 cm",
+        "13 cm",
+        "22 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Promjer je dvostruko dulji od polumjera: 2 · 11 cm = 22 cm.",
+      "savjet": "Promjer sata čine dva polumjera na istom pravcu."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-056",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je promjer AB označen s d, a polumjer SC s r. Koja je jednakost točna?",
+      "slika": {
+        "opis": "Kružnica sa središtem S, promjerom AB označenim s d i polumjerom SC označenim s r.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.06,
+            5.69
+          ],
+          "B": [
+            8.94,
+            4.31
+          ],
+          "C": [
+            5.69,
+            8.94
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "d"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "r"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "r = 2 · d",
+        "d = 2 · r",
+        "d = r",
+        "d = r : 2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Promjer je dvostruko dulji od polumjera, pa je d = 2 · r.",
+      "savjet": "Promjer AB sastoji se od dužina AS i SB."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-057",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja o polumjeru i promjeru iste kružnice točna?",
+      "ponudeni": [
+        "Polumjer je dvostruko dulji od promjera.",
+        "Polumjer je upola kraći od promjera.",
+        "Polumjer i promjer jednako su dugi.",
+        "Promjer je tri puta dulji od polumjera."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Promjer je dug kao dva polumjera, pa je polumjer upola kraći od promjera.",
+      "savjet": "Zamisli kako dva polumjera na istom pravcu čine jednu dužinu."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-058",
+      "tezina": "srednje",
+      "pitanje": "Okrugla torta ima promjer 28 cm. Ema je od središta do ruba torte složila red jagoda. Odredi duljinu toga reda.",
+      "slika": {
+        "opis": "Torta nacrtana kao krug sa središtem S, promjerom AB duljine 28 cm i redom jagoda SC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.54,
+            3
+          ],
+          "B": [
+            8.46,
+            7
+          ],
+          "C": [
+            3.63,
+            8.76
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "28 cm"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "56 cm",
+        "28 cm",
+        "12 cm",
+        "14 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Red jagoda je polumjer torte: 28 cm : 2 = 14 cm.",
+      "savjet": "Red jagoda ide od središta do ruba torte."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-059",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu su nacrtana tri promjera iste kružnice. Što vrijedi za sve promjere jedne kružnice?",
+      "slika": {
+        "opis": "Kružnica s tri nacrtane dužine AB, CD i EF čiji su krajevi na kružnici.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.76,
+            6.37
+          ],
+          "B": [
+            1.24,
+            3.63
+          ],
+          "C": [
+            5.69,
+            8.94
+          ],
+          "D": [
+            4.31,
+            1.06
+          ],
+          "E": [
+            1.94,
+            7.57
+          ],
+          "F": [
+            8.06,
+            2.43
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "E",
+            "do": "F"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "skrivenaImena": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "Svi prolaze središtem kružnice.",
+        "Svi su različite duljine.",
+        "Svi su upola kraći od polumjera.",
+        "Svi imaju jedan kraj u središtu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki promjer prolazi središtem i ima oba kraja na kružnici. Svi promjeri iste kružnice jednako su dugi.",
+      "savjet": "Pogledaj gdje se nacrtane dužine sijeku i gdje su im krajevi."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-060",
+      "tezina": "srednje",
+      "pitanje": "Lijeva kružnica ima polumjer 3 cm, a desna promjer 6 cm. Što vrijedi za te dvije kružnice?",
+      "slika": {
+        "opis": "Dvije kružnice: u lijevoj je označen polumjer SA od 3 cm, a u desnoj promjer BC od 6 cm.",
+        "tocke": {
+          "S": [
+            2.5,
+            5
+          ],
+          "A": [
+            3.6,
+            6.91
+          ],
+          "T": [
+            7.5,
+            5
+          ],
+          "B": [
+            5.3,
+            5
+          ],
+          "C": [
+            9.7,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "6 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2.2
+          },
+          {
+            "sredite": "T",
+            "polumjer": 2.2
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T"
+        ]
+      },
+      "ponudeni": [
+        "Lijeva je veća.",
+        "Desna je veća.",
+        "Jednako su velike.",
+        "Desna je dvostruko veća."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Promjer lijeve kružnice je 2 · 3 cm = 6 cm, kao i promjer desne. Zato su jednako velike.",
+      "savjet": "Izračunaj promjer lijeve kružnice pa ga usporedi s promjerom desne."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-061",
+      "tezina": "tesko",
+      "pitanje": "Promjer kružnice je 1 dm. Odredi polumjer te kružnice u centimetrima.",
+      "ponudeni": [
+        "20 cm",
+        "10 cm",
+        "5 cm",
+        "50 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 dm = 10 cm, a polumjer je 10 cm : 2 = 5 cm.",
+      "savjet": "Najprije pretvori decimetre u centimetre."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-062",
+      "tezina": "tesko",
+      "pitanje": "Polumjer kružnice je 25 mm. Odredi promjer te kružnice u centimetrima.",
+      "ponudeni": [
+        "5 cm",
+        "50 cm",
+        "25 cm",
+        "10 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Promjer je 2 · 25 mm = 50 mm, a 50 mm = 5 cm.",
+      "savjet": "Izračunaj promjer u milimetrima, a zatim ga pretvori u centimetre."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-063",
+      "tezina": "tesko",
+      "pitanje": "Okrugli stol ima promjer 1 m. Odredi polumjer stola u centimetrima.",
+      "slika": {
+        "opis": "Stol nacrtan kao krug sa središtem S, promjerom AB duljine 1 m i polumjerom SC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1,
+            5
+          ],
+          "B": [
+            9,
+            5
+          ],
+          "C": [
+            3,
+            8.46
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "1 m"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "200 cm",
+        "100 cm",
+        "5 cm",
+        "50 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "1 m = 100 cm, pa je polumjer 100 cm : 2 = 50 cm.",
+      "savjet": "Sjeti se koliko centimetara ima jedan metar."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-064",
+      "tezina": "tesko",
+      "pitanje": "Kotač ima polumjer 35 cm. Odredi promjer kotača u decimetrima.",
+      "ponudeni": [
+        "70 dm",
+        "7 dm",
+        "35 dm",
+        "3 dm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Promjer je 2 · 35 cm = 70 cm, a 70 cm = 7 dm.",
+      "savjet": "Izračunaj promjer u centimetrima pa ga pretvori u decimetre."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-065",
+      "tezina": "tesko",
+      "pitanje": "Dvije jednake kružnice sa središtima S i T dodiruju se u točki A. Polumjer svake je 3 cm. Odredi duljinu dužine ST.",
+      "slika": {
+        "opis": "Dvije jednake kružnice sa središtima S i T dodiruju se u točki A; polumjer SB lijeve kružnice dug je 3 cm.",
+        "tocke": {
+          "S": [
+            2.5,
+            5
+          ],
+          "T": [
+            7.5,
+            5
+          ],
+          "A": [
+            5,
+            5
+          ],
+          "B": [
+            2.5,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "B",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "S",
+            "do": "T",
+            "oznaka": "?",
+            "isprekidana": true
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2.5
+          },
+          {
+            "sredite": "T",
+            "polumjer": 2.5
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T",
+          "A"
+        ]
+      },
+      "ponudeni": [
+        "3 cm",
+        "6 cm",
+        "12 cm",
+        "9 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "ST se sastoji od polumjera SA i polumjera AT: 3 cm + 3 cm = 6 cm.",
+      "savjet": "Dužina ST prolazi kroz točku A, u kojoj se kružnice dodiruju."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-066",
+      "tezina": "tesko",
+      "pitanje": "Tri jednake kovanice promjera 2 cm poredane su u red tako da se dodiruju. Odredi duljinu toga reda.",
+      "ponudeni": [
+        "3 cm",
+        "12 cm",
+        "4 cm",
+        "6 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Red je dug kao tri promjera: 3 · 2 cm = 6 cm.",
+      "savjet": "Duljinu reda čine promjeri svih kovanica zajedno."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-067",
+      "tezina": "tesko",
+      "pitanje": "Na stolu su u nizu četiri jednaka okrugla tanjurića polumjera 5 cm, jedan uz drugi. Odredi duljinu niza.",
+      "ponudeni": [
+        "40 cm",
+        "20 cm",
+        "10 cm",
+        "80 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Promjer tanjurića je 2 · 5 cm = 10 cm, a niz je dug 4 · 10 cm = 40 cm.",
+      "savjet": "Najprije odredi promjer jednog tanjurića."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-068",
+      "tezina": "tesko",
+      "pitanje": "Dvije kružnice imaju isto središte S. Manja ima polumjer 3 cm, a veća promjer 10 cm. Odredi duljinu dužine AB.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S. Polumjer SA manje kružnice dug je 3 cm, promjer CD veće kružnice dug je 10 cm, a točka B na većoj kružnici leži na produžetku dužine SA.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7.4,
+            5
+          ],
+          "B": [
+            9,
+            5
+          ],
+          "C": [
+            2.17,
+            7.83
+          ],
+          "D": [
+            7.83,
+            2.17
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "oznaka": "10 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2.4
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "7 cm",
+        "5 cm",
+        "2 cm",
+        "4 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polumjer veće kružnice je 10 cm : 2 = 5 cm, pa je AB = 5 cm − 3 cm = 2 cm.",
+      "savjet": "Najprije odredi polumjer veće kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-069",
+      "tezina": "tesko",
+      "pitanje": "Polumjer veće kružnice tri je puta dulji od polumjera manje kružnice. Promjer manje kružnice je 4 cm. Odredi promjer veće kružnice.",
+      "ponudeni": [
+        "6 cm",
+        "24 cm",
+        "12 cm",
+        "7 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polumjer manje kružnice je 2 cm, a veće 3 · 2 cm = 6 cm. Promjer veće je 2 · 6 cm = 12 cm.",
+      "savjet": "Najprije odredi polumjer manje kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-070",
+      "tezina": "tesko",
+      "pitanje": "U kvadrat sa stranicom 8 cm nacrtana je kružnica koja dodiruje sve četiri stranice. Odredi polumjer kružnice.",
+      "slika": {
+        "opis": "Kvadrat ABCD sa stranicom AB od 8 cm i kružnica sa središtem S koja dodiruje sve stranice; dužina ST ide od S do dodirne točke T na AB.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ],
+          "S": [
+            5,
+            5
+          ],
+          "T": [
+            5,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "S",
+            "do": "T",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "4 cm",
+        "8 cm",
+        "16 cm",
+        "2 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Promjer kružnice jednako je dug kao stranica kvadrata, 8 cm, pa je polumjer 8 cm : 2 = 4 cm.",
+      "savjet": "Usporedi promjer kružnice sa stranicom kvadrata."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-071",
+      "tezina": "tesko",
+      "pitanje": "U pravokutnik su nacrtane dvije jednake kružnice polumjera 3 cm. Kružnice se dodiruju međusobno i dodiruju stranice pravokutnika. Odredi duljinu dulje stranice pravokutnika.",
+      "slika": {
+        "opis": "Pravokutnik ABCD u kojem su dvije jednake kružnice sa središtima S i T; polumjer SE dug je 3 cm, a duljina stranice AB nije zadana.",
+        "tocke": {
+          "A": [
+            0.5,
+            2.75
+          ],
+          "B": [
+            9.5,
+            2.75
+          ],
+          "C": [
+            9.5,
+            7.25
+          ],
+          "D": [
+            0.5,
+            7.25
+          ],
+          "S": [
+            2.75,
+            5
+          ],
+          "T": [
+            7.25,
+            5
+          ],
+          "E": [
+            2.75,
+            7.25
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          },
+          {
+            "od": "S",
+            "do": "E",
+            "oznaka": "3 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2.25
+          },
+          {
+            "sredite": "T",
+            "polumjer": 2.25
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T"
+        ],
+        "skrivenaImena": [
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "6 cm",
+        "9 cm",
+        "24 cm",
+        "12 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Promjer kružnice je 2 · 3 cm = 6 cm. Dulja stranica dugačka je kao dva promjera: 6 cm + 6 cm = 12 cm.",
+      "savjet": "Pogledaj koliko promjera stane uz dulju stranicu pravokutnika."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-072",
+      "tezina": "tesko",
+      "pitanje": "Gumb ima promjer 2 cm. Odredi polumjer gumba u milimetrima.",
+      "ponudeni": [
+        "1 mm",
+        "10 mm",
+        "40 mm",
+        "20 mm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "2 cm = 20 mm, a polumjer je 20 mm : 2 = 10 mm.",
+      "savjet": "Pretvori promjer u milimetre, a zatim odredi polumjer."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-073",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima polumjer 5 cm. Točka T udaljena je 4 cm od središta. Što vrijedi za točku T?",
+      "ponudeni": [
+        "pripada i krugu i kružnici",
+        "pripada krugu, ali ne i kružnici",
+        "ne pripada ni krugu ni kružnici",
+        "pripada kružnici, ali ne i krugu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka T bliža je središtu od točaka kružnice (4 cm < 5 cm), pa je unutar kruga, ali nije na kružnici.",
+      "savjet": "Usporedi udaljenost točke od središta s polumjerom."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-074",
+      "tezina": "tesko",
+      "pitanje": "Promjer kružnice je 12 cm. Točka A udaljena je 6 cm od središta. Što vrijedi za točku A?",
+      "ponudeni": [
+        "pripada krugu, ali ne i kružnici",
+        "ne pripada ni krugu ni kružnici",
+        "pripada kružnici, ali ne i krugu",
+        "pripada i krugu i kružnici"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Polumjer je 12 cm : 2 = 6 cm, pa A leži na kružnici. Točke kružnice pripadaju i krugu.",
+      "savjet": "Odredi polumjer pa ga usporedi s udaljenošću točke A od središta."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-075",
+      "tezina": "tesko",
+      "pitanje": "Promjer AB dug je 2 dm. Odredi duljinu dužine SC u centimetrima.",
+      "slika": {
+        "opis": "Kružnica sa središtem S, dužinom AB duljine 2 dm i dužinom SC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.24,
+            6.37
+          ],
+          "B": [
+            8.76,
+            3.63
+          ],
+          "C": [
+            6.37,
+            8.76
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "2 dm"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "10 cm",
+        "20 cm",
+        "40 cm",
+        "1 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2 dm = 20 cm. SC je polumjer, pa je duga 20 cm : 2 = 10 cm.",
+      "savjet": "Pretvori decimetre u centimetre i pogledaj gdje su krajevi dužine SC."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-076",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu je krug. Koliko istaknutih točaka pripada tom krugu?",
+      "slika": {
+        "opis": "Obojeni krug i šest istaknutih točaka A, B, C, D, E i F.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            5,
+            9
+          ],
+          "B": [
+            1.24,
+            3.63
+          ],
+          "C": [
+            8.46,
+            3
+          ],
+          "D": [
+            6.2,
+            6.3
+          ],
+          "E": [
+            0.8,
+            0.8
+          ],
+          "F": [
+            9.3,
+            9
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "skrivenaImena": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "1",
+        "4",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krugu pripadaju točke A, B i C na kružnici te točka D unutar nje, ukupno 4 točke. Točke E i F su izvan kruga.",
+      "savjet": "Krugu pripadaju točke unutar njega i točke na kružnici koja ga omeđuje."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-077",
+      "tezina": "tesko",
+      "pitanje": "Polumjer SA kružnice dug je 15 mm. Odredi duljinu promjera BC u centimetrima.",
+      "slika": {
+        "opis": "Kružnica sa središtem S, polumjerom SA duljine 15 mm i promjerom BC.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7.57,
+            8.06
+          ],
+          "B": [
+            1,
+            5
+          ],
+          "C": [
+            9,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "15 mm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "30 cm",
+        "15 cm",
+        "3 cm",
+        "6 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "BC = 2 · 15 mm = 30 mm, a 30 mm = 3 cm.",
+      "savjet": "Izračunaj promjer u milimetrima pa ga pretvori u centimetre."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-078",
+      "tezina": "tesko",
+      "pitanje": "Kotač kolica ima promjer 6 dm. Odredi polumjer kotača u centimetrima.",
+      "ponudeni": [
+        "30 cm",
+        "3 cm",
+        "60 cm",
+        "120 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Polumjer je 6 dm : 2 = 3 dm, a 3 dm = 30 cm.",
+      "savjet": "Odredi polumjer, a zatim ga pretvori u centimetre."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-079",
+      "tezina": "tesko",
+      "pitanje": "Ivan je otvorio šestar 4 cm. Želi nacrtati kružnicu promjera 1 dm. Odredi za koliko centimetara treba povećati otvor šestara.",
+      "ponudeni": [
+        "6 cm",
+        "5 cm",
+        "2 cm",
+        "1 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "1 dm = 10 cm, pa je potreban polumjer 5 cm. Otvor treba povećati s 4 cm na 5 cm, dakle za 1 cm.",
+      "savjet": "Odredi koliki otvor šestara treba za kružnicu toga promjera."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-080",
+      "tezina": "tesko",
+      "pitanje": "Jedna pizza ima promjer 30 cm, a druga polumjer 16 cm. Odredi za koliko centimetara je promjer veće pizze dulji od promjera manje.",
+      "slika": {
+        "opis": "Dvije pizze nacrtane kao krugovi: lijeva s promjerom AB od 30 cm, desna s polumjerom TC od 16 cm.",
+        "tocke": {
+          "S": [
+            2.3,
+            5
+          ],
+          "A": [
+            0.2,
+            5
+          ],
+          "B": [
+            4.4,
+            5
+          ],
+          "T": [
+            7.6,
+            5
+          ],
+          "C": [
+            7.6,
+            7.24
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "30 cm"
+          },
+          {
+            "od": "T",
+            "do": "C",
+            "oznaka": "16 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2.1,
+            "ispuna": true
+          },
+          {
+            "sredite": "T",
+            "polumjer": 2.24,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T"
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "2 cm",
+        "1 cm",
+        "16 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Druga pizza ima promjer 2 · 16 cm = 32 cm. Razlika je 32 cm − 30 cm = 2 cm.",
+      "savjet": "Najprije izračunaj promjer druge pizze."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-081",
+      "tezina": "tesko",
+      "pitanje": "Dvije kružnice imaju isto središte. Polumjer manje je 3 cm, a polumjer veće 5 cm. Odredi razliku njihovih promjera.",
+      "ponudeni": [
+        "2 cm",
+        "4 cm",
+        "8 cm",
+        "16 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Promjeri su 2 · 5 cm = 10 cm i 2 · 3 cm = 6 cm, a razlika je 10 cm − 6 cm = 4 cm.",
+      "savjet": "Odredi oba promjera pa oduzmi manji od većega."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-082",
+      "tezina": "tesko",
+      "pitanje": "Tri jednake kružnice poredane su u niz tako da se dodiruju. Ukupna duljina niza je 18 cm. Odredi polumjer jedne kružnice.",
+      "slika": {
+        "opis": "Tri jednake kružnice u nizu koje se dodiruju; ispod njih je dužina duljine 18 cm, a polumjer desne kružnice označen je upitnikom.",
+        "tocke": {
+          "K": [
+            2,
+            5
+          ],
+          "L": [
+            5,
+            5
+          ],
+          "M": [
+            8,
+            5
+          ],
+          "P": [
+            0.5,
+            2.8
+          ],
+          "Q": [
+            9.5,
+            2.8
+          ],
+          "N": [
+            8,
+            6.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P",
+            "do": "Q",
+            "oznaka": "18 cm",
+            "isprekidana": true
+          },
+          {
+            "od": "M",
+            "do": "N",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "K",
+            "polumjer": 1.5
+          },
+          {
+            "sredite": "L",
+            "polumjer": 1.5
+          },
+          {
+            "sredite": "M",
+            "polumjer": 1.5
+          }
+        ],
+        "istaknuteTocke": [
+          "K",
+          "L",
+          "M"
+        ],
+        "skrivenaImena": [
+          "K",
+          "L",
+          "M",
+          "N",
+          "P",
+          "Q"
+        ]
+      },
+      "ponudeni": [
+        "6 cm",
+        "9 cm",
+        "2 cm",
+        "3 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Promjer jedne kružnice je 18 cm : 3 = 6 cm, a polumjer 6 cm : 2 = 3 cm.",
+      "savjet": "Najprije odredi promjer jedne kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-083",
+      "tezina": "tesko",
+      "pitanje": "Okrugli sat ima promjer 4 dm. Mala kazaljka SA za 5 cm kraća je od polumjera sata. Odredi duljinu male kazaljke.",
+      "slika": {
+        "opis": "Sat nacrtan kao kružnica sa središtem S, promjerom BC duljine 4 dm i malom kazaljkom SA.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            6.5,
+            7.6
+          ],
+          "B": [
+            1,
+            5
+          ],
+          "C": [
+            9,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 dm"
+          },
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S"
+        ]
+      },
+      "ponudeni": [
+        "15 cm",
+        "35 cm",
+        "25 cm",
+        "10 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "4 dm = 40 cm, pa je polumjer sata 20 cm. Kazaljka je duga 20 cm − 5 cm = 15 cm.",
+      "savjet": "Pretvori promjer u centimetre i odredi polumjer sata."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-084",
+      "tezina": "tesko",
+      "pitanje": "Bakin okrugli pladanj ima promjer 3 dm. Odredi polumjer pladnja u centimetrima.",
+      "ponudeni": [
+        "60 cm",
+        "30 cm",
+        "15 cm",
+        "150 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "3 dm = 30 cm, a polumjer je 30 cm : 2 = 15 cm.",
+      "savjet": "Najprije pretvori promjer u centimetre."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-085",
+      "tezina": "tesko",
+      "pitanje": "Polumjer lijeve kružnice jednak je promjeru desne kružnice, a promjer desne kružnice je 6 cm. Odredi promjer lijeve kružnice.",
+      "slika": {
+        "opis": "Lijeva veća kružnica sa središtem S i promjerom CD te desna manja kružnica sa središtem T i promjerom AB duljine 6 cm.",
+        "tocke": {
+          "S": [
+            3.2,
+            5
+          ],
+          "C": [
+            3.2,
+            8
+          ],
+          "D": [
+            3.2,
+            2
+          ],
+          "T": [
+            8.2,
+            5
+          ],
+          "A": [
+            6.7,
+            5
+          ],
+          "B": [
+            9.7,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D",
+            "oznaka": "?"
+          },
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 3
+          },
+          {
+            "sredite": "T",
+            "polumjer": 1.5
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T"
+        ]
+      },
+      "ponudeni": [
+        "3 cm",
+        "6 cm",
+        "12 cm",
+        "24 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polumjer lijeve kružnice je 6 cm, pa je njezin promjer 2 · 6 cm = 12 cm.",
+      "savjet": "Najprije odredi polumjer lijeve kružnice."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-086",
+      "tezina": "tesko",
+      "pitanje": "Lucija je otvorila šestar 7 cm i nacrtala kružnicu. Zatim je nacrtala njezin promjer. Odredi duljinu promjera u milimetrima.",
+      "ponudeni": [
+        "140 mm",
+        "70 mm",
+        "14 mm",
+        "1 400 mm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Promjer je 2 · 7 cm = 14 cm, a 14 cm = 140 mm.",
+      "savjet": "Najprije odredi promjer u centimetrima, a zatim ga pretvori u milimetre."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-087",
+      "tezina": "tesko",
+      "pitanje": "U kvadrat sa stranicom 20 cm nacrtane su četiri jednake kružnice. Kružnice se dodiruju međusobno i dodiruju stranice kvadrata. Odredi polumjer jedne kružnice.",
+      "slika": {
+        "opis": "Kvadrat ABCD sa stranicom AB od 20 cm u kojem su četiri jednake kružnice; polumjer KT jedne kružnice označen je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ],
+          "K": [
+            3,
+            3
+          ],
+          "L": [
+            7,
+            3
+          ],
+          "M": [
+            3,
+            7
+          ],
+          "N": [
+            7,
+            7
+          ],
+          "T": [
+            3,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "20 cm"
+          },
+          {
+            "od": "K",
+            "do": "T",
+            "oznaka": "?"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "K",
+            "polumjer": 2
+          },
+          {
+            "sredite": "L",
+            "polumjer": 2
+          },
+          {
+            "sredite": "M",
+            "polumjer": 2
+          },
+          {
+            "sredite": "N",
+            "polumjer": 2
+          }
+        ],
+        "istaknuteTocke": [
+          "K"
+        ],
+        "skrivenaImena": [
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      "ponudeni": [
+        "10 cm",
+        "20 cm",
+        "4 cm",
+        "5 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uz stranicu stanu dva promjera, pa je promjer 20 cm : 2 = 10 cm, a polumjer 10 cm : 2 = 5 cm.",
+      "savjet": "Pogledaj koliko promjera stane uz jednu stranicu kvadrata."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-088",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima promjer 18 cm. Točka T udaljena je 1 dm od njezina središta. Što vrijedi za točku T?",
+      "ponudeni": [
+        "pripada krugu, ali ne i kružnici",
+        "ne pripada ni krugu ni kružnici",
+        "pripada i krugu i kružnici",
+        "pripada kružnici, ali ne i krugu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polumjer je 18 cm : 2 = 9 cm, a T je udaljena 10 cm od središta. Zato je izvan kružnice i ne pripada krugu.",
+      "savjet": "Odredi polumjer i pretvori decimetre u centimetre, pa usporedi."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-089",
+      "tezina": "tesko",
+      "pitanje": "Ana je nacrtala kružnicu polumjera 4 cm, a Borna kružnicu promjera 1 dm. Odredi za koliko centimetara je promjer Bornine kružnice dulji od promjera Anine.",
+      "slika": {
+        "opis": "Lijevo Anina kružnica sa središtem S i polumjerom SA od 4 cm, desno Bornina kružnica sa središtem T i promjerom BC od 1 dm.",
+        "tocke": {
+          "S": [
+            2.1,
+            5
+          ],
+          "A": [
+            2.1,
+            6.8
+          ],
+          "T": [
+            7.2,
+            5
+          ],
+          "B": [
+            4.95,
+            5
+          ],
+          "C": [
+            9.45,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "1 dm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 1.8
+          },
+          {
+            "sredite": "T",
+            "polumjer": 2.25
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T"
+        ]
+      },
+      "ponudeni": [
+        "6 cm",
+        "2 cm",
+        "1 cm",
+        "8 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Anin promjer je 2 · 4 cm = 8 cm, a Bornin 1 dm = 10 cm. Razlika je 10 cm − 8 cm = 2 cm.",
+      "savjet": "Izrazi oba promjera u centimetrima."
+    },
+    {
+      "id": "4-matematika-srediste-polumjer-i-promjer-090",
+      "tezina": "tesko",
+      "pitanje": "Kovanice promjera 2 cm slažu se u red, jedna uz drugu, na traku dugu 1 dm. Odredi koliko kovanica stane na traku.",
+      "ponudeni": [
+        "10 kovanica",
+        "20 kovanica",
+        "2 kovanice",
+        "5 kovanica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "1 dm = 10 cm, a 10 cm : 2 cm = 5, pa na traku stane 5 kovanica.",
+      "savjet": "Pretvori duljinu trake u centimetre."
+    }
+  ]
+}

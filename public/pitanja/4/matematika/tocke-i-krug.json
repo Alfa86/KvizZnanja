@@ -1,0 +1,3179 @@
+{
+  "lekcijaId": "tocke-i-krug",
+  "pitanja": [
+    {
+      "id": "4-matematika-tocke-i-krug-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kada točka leži na kružnici sa središtem S i polumjerom r.",
+      "ponudeni": [
+        "kada je njezina udaljenost od S manja od r",
+        "kada je njezina udaljenost od S jednaka r",
+        "kada je njezina udaljenost od S veća od r",
+        "kada je njezina udaljenost od S jednaka nuli"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sve točke kružnice udaljene su od središta točno za polumjer. Zato točka leži na kružnici kada je njezina udaljenost od S jednaka r.",
+      "savjet": "Prisjeti se: sve točke kružnice jednako su udaljene od središta."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kada se točka nalazi izvan kruga sa središtem S i polumjerom r.",
+      "ponudeni": [
+        "kada je njezina udaljenost od S veća od r",
+        "kada je njezina udaljenost od S manja od r",
+        "kada je njezina udaljenost od S jednaka r",
+        "kada je njezina udaljenost od S jednaka nuli"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka izvan kruga dalje je od središta nego kružnica. Zato je njezina udaljenost od S veća od polumjera r.",
+      "savjet": "Zamisli točku koja je od središta dalje nego rub kruga."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-003",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kada se točka nalazi unutar kruga sa središtem S i polumjerom r, a ne na kružnici.",
+      "ponudeni": [
+        "kada je njezina udaljenost od S veća od r",
+        "kada je njezina udaljenost od S jednaka r",
+        "kada je njezina udaljenost od S dvostruko veća od r",
+        "kada je njezina udaljenost od S manja od r"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka unutar kruga bliža je središtu od kružnice. Zato je njezina udaljenost od S manja od polumjera r.",
+      "savjet": "Zamisli točku koja leži između središta i crte kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-004",
+      "tezina": "lagano",
+      "pitanje": "Kružnica ima središte S i polumjer r = 5 cm. Za točku A vrijedi |SA| = 5 cm. Odaberi gdje se nalazi točka A.",
+      "ponudeni": [
+        "unutar kruga, a ne na kružnici",
+        "izvan kruga",
+        "na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Udaljenost |SA| jednaka je polumjeru (5 cm = 5 cm). Zato točka A leži na kružnici.",
+      "savjet": "Usporedi duljinu |SA| s polumjerom r."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-005",
+      "tezina": "lagano",
+      "pitanje": "Kružnica ima središte S i polumjer r = 6 cm. Za točku B vrijedi |SB| = 2 cm. Odaberi gdje se nalazi točka B.",
+      "ponudeni": [
+        "na kružnici",
+        "izvan kruga",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Udaljenost |SB| = 2 cm manja je od polumjera 6 cm. Zato je točka B unutar kruga, a ne na kružnici.",
+      "savjet": "Usporedi duljinu |SB| s polumjerom r."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-006",
+      "tezina": "lagano",
+      "pitanje": "Kružnica ima središte S i polumjer r = 4 cm. Za točku C vrijedi |SC| = 7 cm. Odaberi gdje se nalazi točka C.",
+      "ponudeni": [
+        "na kružnici",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga",
+        "izvan kruga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Udaljenost |SC| = 7 cm veća je od polumjera 4 cm. Zato je točka C izvan kruga.",
+      "savjet": "Provjeri je li |SC| veća, manja ili jednaka polumjeru."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-007",
+      "tezina": "lagano",
+      "pitanje": "Kružnica ima središte S i polumjer r = 3 cm. Zadano je: |SA| = 1 cm, |SB| = 3 cm, |SC| = 5 cm, |SD| = 4 cm. Odaberi točku koja leži na kružnici.",
+      "ponudeni": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na kružnici leže točke koje su od središta udaljene točno za polumjer. Samo je |SB| = 3 cm jednaka polumjeru.",
+      "savjet": "Potraži udaljenost koja je jednaka polumjeru."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-008",
+      "tezina": "lagano",
+      "pitanje": "Kružnica ima središte S i polumjer r = 5 cm. Zadano je: |SK| = 2 cm, |SL| = 4 cm, |SM| = 5 cm, |SN| = 8 cm. Odaberi točku koja se nalazi izvan kruga.",
+      "ponudeni": [
+        "K",
+        "N",
+        "L",
+        "M"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izvan kruga su točke čija je udaljenost od središta veća od polumjera. Samo je |SN| = 8 cm veća od 5 cm.",
+      "savjet": "Potraži udaljenost koja je veća od polumjera."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-009",
+      "tezina": "lagano",
+      "pitanje": "Kružnica ima središte S i polumjer r = 7 dm. Zadano je: |SE| = 7 dm, |SF| = 9 dm, |SG| = 3 dm, |SH| = 10 dm. Odaberi točku koja se nalazi unutar kruga, a ne na kružnici.",
+      "ponudeni": [
+        "E",
+        "G",
+        "F",
+        "H"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Unutar kruga, a ne na kružnici, su točke bliže središtu od polumjera. Samo je |SG| = 3 dm manja od 7 dm.",
+      "savjet": "Potraži udaljenost koja je manja od polumjera."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-010",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o središtu S kruga.",
+      "ponudeni": [
+        "pripada krugu, ali ne leži na kružnici",
+        "leži na kružnici",
+        "nalazi se izvan kruga",
+        "ne pripada ni krugu ni kružnici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Središte je unutar kruga, a od kružnice je udaljeno za cijeli polumjer. Zato pripada krugu, ali ne leži na kružnici.",
+      "savjet": "Prisjeti se kolika je udaljenost središta od svake točke kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-011",
+      "tezina": "lagano",
+      "pitanje": "Točka T leži na kružnici. Odaberi točnu tvrdnju o točki T.",
+      "ponudeni": [
+        "ne pripada krugu",
+        "nalazi se izvan kruga",
+        "ona je središte kružnice",
+        "pripada i krugu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krug čine kružnica i sve točke unutar nje. Zato točka koja leži na kružnici pripada i krugu.",
+      "savjet": "Prisjeti se od čega se sastoji krug."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-012",
+      "tezina": "lagano",
+      "pitanje": "Odaberi udaljenost od središta S koju ima svaka točka kružnice polumjera r = 7 cm.",
+      "ponudeni": [
+        "14 cm",
+        "3 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka točka kružnice udaljena je od središta točno za polumjer, dakle 7 cm.",
+      "savjet": "Prisjeti se što je polumjer kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi riječ koja nedostaje: „Sve točke kružnice jednako su udaljene od ___.“",
+      "ponudeni": [
+        "promjera",
+        "polumjera",
+        "središta",
+        "kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve točke kružnice jednako su udaljene od njezina središta. Ta udaljenost je polumjer.",
+      "savjet": "Prisjeti se točke koja se nalazi u sredini kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-014",
+      "tezina": "lagano",
+      "pitanje": "Pas Rex vezan je uz stup uzicom dugom 3 m. Odaberi koliko se najviše Rex može udaljiti od stupa.",
+      "ponudeni": [
+        "6 m",
+        "1 m",
+        "4 m",
+        "3 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rex se kreće unutar kruga oko stupa čiji je polumjer jednak duljini uzice. Najdalje može doći 3 m od stupa.",
+      "savjet": "Zamisli krug oko stupa čiji je polumjer duljina uzice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-015",
+      "tezina": "lagano",
+      "pitanje": "Kružnica ima središte S i polumjer r = 8 mm. Za točku P vrijedi |SP| = 10 mm. Odaberi gdje se nalazi točka P.",
+      "ponudeni": [
+        "izvan kruga",
+        "na kružnici",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Udaljenost |SP| = 10 mm veća je od polumjera 8 mm. Zato je točka P izvan kruga.",
+      "savjet": "Usporedi |SP| s polumjerom."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-016",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi točku koja leži na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7,
+            8.46
+          ],
+          "B": [
+            2.65,
+            4.14
+          ],
+          "C": [
+            9.21,
+            1.46
+          ],
+          "D": [
+            4.49,
+            6.41
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka A nalazi se točno na crti kružnice. Točke B i D su unutar kruga, a točka C izvan njega.",
+      "savjet": "Potraži točku koja se nalazi točno na crti kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-017",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi točku koja se nalazi izvan kruga.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke K, L, M i N.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "K": [
+            9.5,
+            7.6
+          ],
+          "L": [
+            1.54,
+            7
+          ],
+          "M": [
+            5,
+            3
+          ],
+          "N": [
+            4.57,
+            7.46
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      "ponudeni": [
+        "L",
+        "K",
+        "M",
+        "N"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka K dalje je od središta nego crta kružnice, zato je izvan kruga. L leži na kružnici, a M i N su unutar kruga.",
+      "savjet": "Potraži točku koja je s vanjske strane kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-018",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi točku koja se nalazi unutar kruga, a ne na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke E, F, G i H.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "E": [
+            6.88,
+            5.68
+          ],
+          "F": [
+            1.11,
+            8.89
+          ],
+          "G": [
+            2.17,
+            2.17
+          ],
+          "H": [
+            7.8,
+            0.15
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka E bliža je središtu S od crte kružnice, zato je unutar kruga. G leži na kružnici, a F i H su izvan kruga.",
+      "savjet": "Potraži točku koja je između središta i crte kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-019",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi gdje se nalazi točka A.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B i C.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.96,
+            8.96
+          ],
+          "B": [
+            1,
+            5
+          ],
+          "C": [
+            5.51,
+            3.59
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "na kružnici",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga",
+        "izvan kruga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka A dalje je od središta S nego crta kružnice, zato je izvan kruga.",
+      "savjet": "Pogledaj je li točka A bliže središtu ili dalje od njega nego crta kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-020",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi gdje se nalazi točka P.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke P, R i T.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "P": [
+            3,
+            8.46
+          ],
+          "R": [
+            7,
+            5
+          ],
+          "T": [
+            1.18,
+            1.18
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "P",
+          "R",
+          "T"
+        ]
+      },
+      "ponudeni": [
+        "unutar kruga, a ne na kružnici",
+        "izvan kruga",
+        "na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka P nalazi se točno na crti kružnice, dakle leži na kružnici.",
+      "savjet": "Pogledaj je li točka P bliže središtu, dalje od njega ili jednako daleko kao crta kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-021",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi gdje se nalazi točka T.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke T, M i N.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "T": [
+            4.32,
+            3.12
+          ],
+          "M": [
+            8.46,
+            7
+          ],
+          "N": [
+            1.04,
+            8.96
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T",
+          "M",
+          "N"
+        ]
+      },
+      "ponudeni": [
+        "na kružnici",
+        "izvan kruga",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka T bliža je središtu S od crte kružnice. Zato je unutar kruga, a ne na kružnici.",
+      "savjet": "Usporedi udaljenost točke T od središta s udaljenošću crte kružnice od središta."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-022",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odredi broj točaka koje leže na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C, D i E.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.94,
+            5.69
+          ],
+          "B": [
+            2.43,
+            8.06
+          ],
+          "C": [
+            3.75,
+            2.83
+          ],
+          "D": [
+            8.96,
+            1.04
+          ],
+          "E": [
+            5.75,
+            6.3
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na kružnici leže točke A i B. Točke C i E su unutar kruga, a D je izvan kruga.",
+      "savjet": "Prebroji samo točke koje se nalaze točno na crti kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-023",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odredi broj točaka koje se nalaze izvan kruga.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C, D i E.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.89,
+            8.89
+          ],
+          "B": [
+            1.18,
+            8.82
+          ],
+          "C": [
+            1.04,
+            1.04
+          ],
+          "D": [
+            7,
+            1.54
+          ],
+          "E": [
+            6.5,
+            5
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izvan kruga su točke A, B i C. Točka D leži na kružnici, a E je unutar kruga.",
+      "savjet": "Prebroji točke koje su s vanjske strane kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-024",
+      "tezina": "lagano",
+      "pitanje": "Na slici je krug sa središtem S. Odaberi točku koja ne pripada krugu.",
+      "slika": {
+        "opis": "Krug sa središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7.6,
+            6.5
+          ],
+          "B": [
+            1.24,
+            6.37
+          ],
+          "C": [
+            4.66,
+            4.06
+          ],
+          "D": [
+            9.29,
+            1.4
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krugu pripadaju točke na kružnici i unutar nje. Točka D je izvan kruga, pa mu ne pripada.",
+      "savjet": "Krugu pripadaju i točke na njegovu rubu."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-025",
+      "tezina": "lagano",
+      "pitanje": "Na slici je krug sa središtem S. Odaberi točku koja pripada krugu.",
+      "slika": {
+        "opis": "Krug sa središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.18,
+            8.18
+          ],
+          "B": [
+            1.82,
+            8.18
+          ],
+          "C": [
+            1.89,
+            1.89
+          ],
+          "D": [
+            6.3,
+            4.25
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 3,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka D nalazi se unutar kruga, pa mu pripada. Točke A, B i C su izvan kruga.",
+      "savjet": "Potraži točku koja je na obojenom dijelu ili na njegovu rubu."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-026",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi točku koja leži na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke K, L, M i N.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "K": [
+            6.41,
+            5.51
+          ],
+          "L": [
+            3.97,
+            7.82
+          ],
+          "M": [
+            0.68,
+            3.43
+          ],
+          "N": [
+            7.15,
+            1.28
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 3
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      "ponudeni": [
+        "L",
+        "K",
+        "M",
+        "N"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka L nalazi se točno na crti kružnice. K je unutar kruga, a M i N su izvan njega.",
+      "savjet": "Potraži točku koja je od središta udaljena točno koliko i crta kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-027",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi točku čija je udaljenost od S jednaka polumjeru kružnice.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke E, F, G i H.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "E": [
+            6.06,
+            6.06
+          ],
+          "F": [
+            1.11,
+            8.89
+          ],
+          "G": [
+            2.65,
+            4.14
+          ],
+          "H": [
+            6.37,
+            1.24
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točke kružnice udaljene su od središta točno za polumjer. Na kružnici leži točka H.",
+      "savjet": "Polumjer je udaljenost od središta do bilo koje točke kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-028",
+      "tezina": "lagano",
+      "pitanje": "Na slici je krug sa središtem S. Odaberi gdje se nalazi točka B.",
+      "slika": {
+        "opis": "Krug sa središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            6.88,
+            5.68
+          ],
+          "B": [
+            1.54,
+            7
+          ],
+          "C": [
+            7.75,
+            0.24
+          ],
+          "D": [
+            7.75,
+            9.76
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "unutar kruga, a ne na kružnici",
+        "izvan kruga",
+        "na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka B nalazi se točno na rubu kruga, odnosno na kružnici.",
+      "savjet": "Pogledaj nalazi li se točka B na obojenom dijelu, na njegovu rubu ili izvan njega."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-029",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi točku koja se nalazi izvan kruga.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke E, F, G i H.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "E": [
+            6,
+            5
+          ],
+          "F": [
+            6.5,
+            7.6
+          ],
+          "G": [
+            3,
+            5
+          ],
+          "H": [
+            3.46,
+            0.77
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 3
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "E",
+        "F",
+        "H",
+        "G"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka H dalje je od središta nego crta kružnice, pa je izvan kruga. E i G su unutar kruga, a F leži na kružnici.",
+      "savjet": "Potraži točku koja je dalje od središta nego crta kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-030",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kružnica sa središtem S. Od točaka A, B, C, D i E odredi broj točaka koje su unutar kruga, a ne na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C, D i E.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7,
+            5
+          ],
+          "B": [
+            3.75,
+            7.17
+          ],
+          "C": [
+            3.5,
+            2.4
+          ],
+          "D": [
+            7,
+            8.46
+          ],
+          "E": [
+            1,
+            5
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Unutar kruga, a ne na kružnici, su točke A, B i C. Točke D i E leže na kružnici.",
+      "savjet": "Ne računaj točke koje leže točno na crti kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-031",
+      "tezina": "srednje",
+      "pitanje": "Kružnica ima središte S i polumjer r = 5 cm. Zadano je: |SA| = 3 cm, |SB| = 5 cm, |SC| = 6 cm, |SD| = 5 cm, |SE| = 2 cm. Odredi broj točaka koje leže na kružnici.",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na kružnici leže točke čija je udaljenost od S jednaka polumjeru 5 cm, a to su B i D.",
+      "savjet": "Pronađi udaljenosti koje su jednake polumjeru."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-032",
+      "tezina": "srednje",
+      "pitanje": "Kružnica ima središte S i polumjer r = 6 dm. Zadano je: |SK| = 8 dm, |SL| = 6 dm, |SM| = 1 dm, |SN| = 9 dm, |SP| = 4 dm. Odredi broj točaka koje se nalaze izvan kruga.",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izvan kruga su točke udaljene od S više od 6 dm, a to su K i N.",
+      "savjet": "Pronađi udaljenosti koje su veće od polumjera."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-033",
+      "tezina": "srednje",
+      "pitanje": "Točka B nalazi se izvan kruga sa središtem S i polumjerom r = 5 cm. Odaberi moguću duljinu |SB|.",
+      "ponudeni": [
+        "5 cm",
+        "7 cm",
+        "3 cm",
+        "4 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka izvan kruga udaljena je od središta više od polumjera. Od ponuđenih je samo 7 cm više od 5 cm.",
+      "savjet": "Udaljenost točke izvan kruga od središta veća je od polumjera."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-034",
+      "tezina": "srednje",
+      "pitanje": "Točka C nalazi se unutar kruga sa središtem S i polumjerom r = 9 cm, a ne na kružnici. Odaberi moguću duljinu |SC|.",
+      "ponudeni": [
+        "6 cm",
+        "9 cm",
+        "11 cm",
+        "10 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Takva točka bliža je središtu od kružnice, pa je |SC| manja od 9 cm. Od ponuđenih to vrijedi samo za 6 cm.",
+      "savjet": "Usporedi svaku ponuđenu duljinu s polumjerom."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-035",
+      "tezina": "srednje",
+      "pitanje": "Točka A leži na kružnici sa središtem S, a vrijedi |SA| = 6 cm. Odredi polumjer kružnice.",
+      "ponudeni": [
+        "12 cm",
+        "3 cm",
+        "7 cm",
+        "6 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Udaljenost svake točke kružnice od središta jednaka je polumjeru. Zato je r = 6 cm.",
+      "savjet": "Prisjeti se kolika je udaljenost točke kružnice od središta."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-036",
+      "tezina": "srednje",
+      "pitanje": "Za točku D vrijedi |SD| = 4 cm. Točka D nalazi se unutar kruga sa središtem S, a ne na kružnici. Odaberi mogući polumjer kruga.",
+      "ponudeni": [
+        "4 cm",
+        "3 cm",
+        "6 cm",
+        "2 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka je unutar kruga ako je bliža središtu od kružnice. Polumjer zato mora biti veći od 4 cm, a to je samo 6 cm.",
+      "savjet": "Razmisli treba li polumjer biti veći ili manji od |SD|."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-037",
+      "tezina": "srednje",
+      "pitanje": "Za točku E vrijedi |SE| = 8 m. Točka E nalazi se izvan kruga sa središtem S. Odaberi mogući polumjer kruga.",
+      "ponudeni": [
+        "8 m",
+        "9 m",
+        "5 m",
+        "12 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka je izvan kruga ako je dalje od središta nego kružnica. Polumjer zato mora biti manji od 8 m, a to je samo 5 m.",
+      "savjet": "Razmisli treba li polumjer biti veći ili manji od |SE|."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-038",
+      "tezina": "srednje",
+      "pitanje": "Kružnica ima središte S i polumjer r = 4 cm. Zadano je: |SA| = 6 cm, |SB| = 4 cm, |SC| = 2 cm, |SD| = 7 cm. Odaberi točke koje ne pripadaju krugu.",
+      "ponudeni": [
+        "B i C",
+        "A i B",
+        "C i D",
+        "A i D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krugu ne pripadaju točke udaljene od S više od 4 cm, a to su A (6 cm) i D (7 cm). Točka B leži na kružnici, pa pripada krugu.",
+      "savjet": "Krugu pripadaju i točke koje leže na kružnici."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-039",
+      "tezina": "srednje",
+      "pitanje": "Kružnica ima središte S i polumjer r = 5 dm. Zadano je: |SK| = 5 dm, |SL| = 8 dm, |SM| = 3 dm, |SN| = 6 dm. Odaberi točke koje pripadaju krugu.",
+      "ponudeni": [
+        "K i M",
+        "L i N",
+        "K i L",
+        "M i N"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krugu pripadaju točke udaljene od S najviše 5 dm: K leži na kružnici, a M je unutar kruga.",
+      "savjet": "Točka pripada krugu ako je unutar njega ili na kružnici."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-040",
+      "tezina": "srednje",
+      "pitanje": "Prskalica zalijeva krug polumjera 4 m oko sebe. Ruža je od prskalice udaljena 3 m, a lala 6 m. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Prskalica zalijeva lalu, ali ne ružu.",
+        "Prskalica zalijeva ružu, ali ne lalu.",
+        "Prskalica zalijeva i ružu i lalu.",
+        "Prskalica ne zalijeva ni ružu ni lalu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ruža je od prskalice udaljena manje od 4 m, pa je unutar zalivenog kruga. Lala je udaljena više od 4 m, pa je izvan njega.",
+      "savjet": "Usporedi udaljenost svake biljke s polumjerom zalivenog kruga."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-041",
+      "tezina": "srednje",
+      "pitanje": "Svjetlo svjetionika vidi se do 800 m daleko. Brod Galeb udaljen je od svjetionika 900 m. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Galeb je unutar kruga u kojem se svjetlo vidi.",
+        "Galeb je izvan kruga u kojem se svjetlo vidi.",
+        "Galeb je točno na rubu tog kruga.",
+        "Galeb je u središtu tog kruga."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svjetlo se vidi u krugu polumjera 800 m oko svjetionika. Galeb je udaljen 900 m, što je više od 800 m, pa je izvan tog kruga.",
+      "savjet": "Svjetionik je središte kruga, a polumjer je najveća udaljenost do koje se svjetlo vidi."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-042",
+      "tezina": "srednje",
+      "pitanje": "Pas Medo vezan je uz stup uzicom dugom 5 m. Zdjela s vodom udaljena je od stupa 4 m, a kost 7 m. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Medo može doći do zdjele, ali ne do kosti.",
+        "Medo može doći do kosti, ali ne do zdjele.",
+        "Medo može doći i do zdjele i do kosti.",
+        "Medo ne može doći ni do zdjele ni do kosti."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Medo se kreće unutar kruga polumjera 5 m oko stupa. Zdjela je na 4 m, pa je unutar tog kruga, a kost je na 7 m, izvan njega.",
+      "savjet": "Duljina uzice je polumjer kruga unutar kojeg se pas može kretati."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-043",
+      "tezina": "srednje",
+      "pitanje": "Kružnica ima središte S i polumjer r = 7 cm. Zadano je: |SA| = 7 cm, |SB| = 2 cm, |SC| = 9 cm, |SD| = 6 cm, |SE| = 10 cm. Odredi broj točaka koje pripadaju krugu.",
+      "ponudeni": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krugu pripadaju točka A, koja leži na kružnici, te točke B i D, koje su unutar kruga. C i E su izvan kruga.",
+      "savjet": "Ne zaboravi da krugu pripadaju i točke na kružnici."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-044",
+      "tezina": "srednje",
+      "pitanje": "Kružnica ima središte S i polumjer r = 6 cm. Točka F udaljena je od središta 2 cm manje od polumjera. Odaberi gdje se nalazi točka F.",
+      "ponudeni": [
+        "na kružnici",
+        "izvan kruga",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka F udaljena je od S 6 cm − 2 cm = 4 cm. To je manje od polumjera, pa je F unutar kruga, a ne na kružnici.",
+      "savjet": "Izračunaj udaljenost točke F od središta pa je usporedi s polumjerom."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-045",
+      "tezina": "srednje",
+      "pitanje": "Kružnica ima središte S i polumjer r = 4 cm. Točka G udaljena je od središta 3 cm više od polumjera. Odaberi gdje se nalazi točka G.",
+      "ponudeni": [
+        "na kružnici",
+        "unutar kruga, a ne na kružnici",
+        "izvan kruga",
+        "u središtu kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka G udaljena je od S 4 cm + 3 cm = 7 cm. To je više od polumjera, pa je G izvan kruga.",
+      "savjet": "Izračunaj udaljenost točke G od središta pa je usporedi s polumjerom."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-046",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kružnica polumjera r = 4 cm. Od točaka A, B, C, D i E odredi broj točaka koje leže na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i polumjerom 4 cm te točke A, B, C, D i E.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.46,
+            7
+          ],
+          "B": [
+            1.24,
+            3.63
+          ],
+          "C": [
+            4.57,
+            7.46
+          ],
+          "D": [
+            7.75,
+            0.24
+          ],
+          "E": [
+            4.13,
+            5.5
+          ],
+          "R": [
+            3.63,
+            1.24
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "R",
+            "oznaka": "4 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "skrivenaImena": [
+          "R"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na kružnici leže točke A i B jer su od S udaljene točno 4 cm. C i E su unutar kruga, a D je izvan njega.",
+      "savjet": "Na kružnici su točke udaljene od središta točno koliko i polumjer."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-047",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kružnica sa središtem S. Odredi broj točaka koje se nalaze izvan kruga.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C, D i E.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7.97,
+            7.97
+          ],
+          "B": [
+            1.89,
+            8.11
+          ],
+          "C": [
+            2.18,
+            3.97
+          ],
+          "D": [
+            5,
+            3.5
+          ],
+          "E": [
+            9.23,
+            3.46
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 3
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izvan kruga su točke A, B i E. Točka C leži na kružnici, a D je unutar kruga.",
+      "savjet": "Točka na kružnici nije izvan kruga, zato je ne broji."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-048",
+      "tezina": "srednje",
+      "pitanje": "Na slici je krug sa središtem S. Od točaka A, B, C, D, E i F odredi broj točaka koje pripadaju krugu.",
+      "slika": {
+        "opis": "Krug sa središtem S i točke A, B, C, D, E i F.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            9,
+            5
+          ],
+          "B": [
+            6,
+            6.73
+          ],
+          "C": [
+            2.25,
+            9.76
+          ],
+          "D": [
+            2,
+            5
+          ],
+          "E": [
+            3,
+            1.54
+          ],
+          "F": [
+            7.65,
+            0.41
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krugu pripadaju točke unutar kruga (B i D) i točke na kružnici (A i E), ukupno četiri točke.",
+      "savjet": "Točke na rubu kruga također pripadaju krugu."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-049",
+      "tezina": "srednje",
+      "pitanje": "Na slici je krug sa središtem S. Odaberi točke koje ne pripadaju krugu.",
+      "slika": {
+        "opis": "Krug sa središtem S i točke K, L, M i N.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "K": [
+            9.42,
+            8.1
+          ],
+          "L": [
+            2.18,
+            6.03
+          ],
+          "M": [
+            3.63,
+            1.24
+          ],
+          "N": [
+            3.19,
+            9.98
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      "ponudeni": [
+        "L i M",
+        "K i N",
+        "K i M",
+        "L i N"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točke K i N su izvan kruga, pa mu ne pripadaju. L je unutar kruga, a M na kružnici, pa obje pripadaju krugu.",
+      "savjet": "Točke na rubu kruga pripadaju krugu."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-050",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kružnica polumjera r = 4 cm te točke A i B. Odaberi gdje se nalazi točka B.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i polumjerom 4 cm. Dužina SA duga je 3 cm, a dužina SB 5 cm.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            6.5,
+            7.6
+          ],
+          "B": [
+            0.3,
+            6.71
+          ],
+          "R": [
+            7,
+            1.54
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "R",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "S",
+            "do": "B",
+            "oznaka": "5 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "R"
+        ]
+      },
+      "ponudeni": [
+        "izvan kruga",
+        "na kružnici",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka B udaljena je od S 5 cm, a to je više od polumjera 4 cm. Zato je B izvan kruga.",
+      "savjet": "Usporedi duljinu |SB| s polumjerom."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-051",
+      "tezina": "srednje",
+      "pitanje": "Pas je vezan uz stup S uzicom dugom 4 m. Obojeni krug na slici pokazuje kamo pas može doći. Odaberi predmet do kojeg pas ne može doći.",
+      "slika": {
+        "opis": "Krug sa središtem u stupu S i predmeti L, K, Z i P.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "L": [
+            6.73,
+            6
+          ],
+          "K": [
+            3.7,
+            5.75
+          ],
+          "Z": [
+            4.48,
+            2.05
+          ],
+          "P": [
+            9.76,
+            2.25
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "L",
+          "K",
+          "Z",
+          "P"
+        ]
+      },
+      "ponudeni": [
+        "lopta L",
+        "kost K",
+        "zdjela Z",
+        "papuča P"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Papuča P nalazi se izvan kruga, dalje od 4 m od stupa, pa pas do nje ne može doći.",
+      "savjet": "Pas može doći samo do predmeta unutar kruga ili na njegovu rubu."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-052",
+      "tezina": "srednje",
+      "pitanje": "Prskalica S zalijeva krug omeđen kružnicom na slici. Odaberi biljku koja se nalazi točno na rubu zalivenog kruga.",
+      "slika": {
+        "opis": "Kružnica sa središtem u prskalici S i biljke R, T, L i M.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "R": [
+            6.77,
+            6.77
+          ],
+          "T": [
+            1.54,
+            7
+          ],
+          "L": [
+            2.25,
+            0.24
+          ],
+          "M": [
+            7.6,
+            3.5
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "R",
+          "T",
+          "L",
+          "M"
+        ]
+      },
+      "ponudeni": [
+        "ruža R",
+        "ljiljan L",
+        "tulipan T",
+        "mak M"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tulipan T nalazi se točno na kružnici, dakle na rubu zalivenog kruga.",
+      "savjet": "Rub zalivenog kruga je kružnica."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-053",
+      "tezina": "srednje",
+      "pitanje": "Svjetlo svjetionika S vidi se samo unutar obojenog kruga na slici. Točke A, B, C, D i E su brodovi. Odredi broj brodova s kojih se svjetlo ne vidi.",
+      "slika": {
+        "opis": "Krug sa središtem u svjetioniku S i brodovi A, B, C, D i E.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            6.88,
+            5.68
+          ],
+          "B": [
+            4.48,
+            7.95
+          ],
+          "C": [
+            3.59,
+            4.49
+          ],
+          "D": [
+            8.96,
+            8.96
+          ],
+          "E": [
+            7.7,
+            0.32
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izvan obojenog kruga su brodovi D i E, pa se s njih svjetlo ne vidi.",
+      "savjet": "Svjetlo se ne vidi s brodova koji su izvan kruga."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-054",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi točku koja pripada krugu, ali ne leži na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.46,
+            7
+          ],
+          "B": [
+            1.54,
+            7
+          ],
+          "C": [
+            4.57,
+            2.54
+          ],
+          "D": [
+            9.76,
+            2.25
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "D",
+        "C"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točke A i B leže na kružnici, D je izvan kruga, a C je unutar kruga i ne leži na kružnici.",
+      "savjet": "Točka mora biti unutar kruga, ali ne smije biti na crti kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-055",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kružnica sa središtem S. Odaberi točku koja je od središta S udaljena više od polumjera.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7,
+            5
+          ],
+          "B": [
+            5,
+            8.9
+          ],
+          "C": [
+            2.18,
+            3.97
+          ],
+          "D": [
+            5.9,
+            3.44
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 3
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka B dalje je od S nego crta kružnice, pa je njezina udaljenost od S veća od polumjera.",
+      "savjet": "Polumjer je udaljenost od S do crte kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-056",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kružnica polumjera r = 4 cm. Odaberi duljinu |SA|.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B i C.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            2.17,
+            7.83
+          ],
+          "B": [
+            6.88,
+            5.68
+          ],
+          "C": [
+            8.89,
+            1.11
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "8 cm",
+        "4 cm",
+        "2 cm",
+        "6 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka A leži na kružnici, pa je od središta udaljena točno za polumjer, 4 cm.",
+      "savjet": "Pogledaj gdje se nalazi točka A u odnosu na kružnicu."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-057",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kružnica sa središtem S. Od točaka A, B, C, D, E i F odredi broj točaka koje su unutar kruga, a ne na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C, D, E i F.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            6.5,
+            5
+          ],
+          "B": [
+            5.86,
+            7.35
+          ],
+          "C": [
+            2.7,
+            6.93
+          ],
+          "D": [
+            1.24,
+            3.63
+          ],
+          "E": [
+            1.46,
+            0.79
+          ],
+          "F": [
+            8.06,
+            2.43
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Unutar kruga, a ne na kružnici, su A, B i C. D i F leže na kružnici, a E je izvan kruga.",
+      "savjet": "Ne broji točke koje leže na crti kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-058",
+      "tezina": "srednje",
+      "pitanje": "Na slici je krug sa središtem S. Odaberi gdje se nalazi točka E.",
+      "slika": {
+        "opis": "Krug sa središtem S i točke A, B, C i E.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "E": [
+            8.89,
+            8.89
+          ],
+          "A": [
+            3.27,
+            6
+          ],
+          "B": [
+            1.54,
+            3
+          ],
+          "C": [
+            6.5,
+            2.4
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4,
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "E",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "izvan kruga",
+        "na kružnici",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka E nalazi se izvan obojenog kruga, dalje od središta nego kružnica.",
+      "savjet": "Pogledaj nalazi li se točka E na obojenom dijelu, na njegovu rubu ili dalje od njega."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-059",
+      "tezina": "srednje",
+      "pitanje": "Na slici točka A leži na kružnici sa središtem S, a uz dužinu SA napisana je njezina duljina. Odaberi polumjer kružnice.",
+      "slika": {
+        "opis": "Kružnica sa središtem S, dužina SA duga 4 cm te točke B i C.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            8.46,
+            7
+          ],
+          "B": [
+            3.12,
+            4.32
+          ],
+          "C": [
+            2.35,
+            9.59
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "4 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "8 cm",
+        "2 cm",
+        "5 cm",
+        "4 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina SA spaja središte s točkom kružnice, pa je njezina duljina polumjer. Polumjer je 4 cm.",
+      "savjet": "Prisjeti se kako se zove dužina od središta do točke kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-060",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kružnica polumjera r = 4 cm. Odaberi točku koja je od središta S udaljena 2 cm.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            4.31,
+            8.94
+          ],
+          "B": [
+            8.96,
+            8.96
+          ],
+          "C": [
+            3.12,
+            4.32
+          ],
+          "D": [
+            5.69,
+            1.06
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka udaljena 2 cm od S bliža je središtu od kružnice. Jedina takva točka na slici je C.",
+      "savjet": "Udaljenost 2 cm manja je od polumjera, pa razmisli gdje se nalazi takva točka."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-061",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 3 dm. Za točku A vrijedi |SA| = 25 cm. Odaberi gdje se nalazi točka A.",
+      "ponudeni": [
+        "na kružnici",
+        "izvan kruga",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polumjer je 3 dm = 30 cm. Kako je 25 cm manje od 30 cm, točka A je unutar kruga, a ne na kružnici.",
+      "savjet": "Prije usporedbe izrazi obje duljine u istoj mjernoj jedinici."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-062",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 5 cm. Za točku B vrijedi |SB| = 50 mm. Odaberi gdje se nalazi točka B.",
+      "ponudeni": [
+        "unutar kruga, a ne na kružnici",
+        "izvan kruga",
+        "u središtu kruga",
+        "na kružnici"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 5 cm = 50 mm, pa je |SB| jednaka polumjeru i točka B leži na kružnici.",
+      "savjet": "Pretvori centimetre u milimetre pa usporedi duljine."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-063",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 2 m. Za točku C vrijedi |SC| = 25 dm. Odaberi gdje se nalazi točka C.",
+      "ponudeni": [
+        "izvan kruga",
+        "na kružnici",
+        "unutar kruga, a ne na kružnici",
+        "u središtu kruga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Polumjer je 2 m = 20 dm. Kako je 25 dm više od 20 dm, točka C je izvan kruga.",
+      "savjet": "Prisjeti se koliko decimetara ima 1 m."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-064",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 4 cm. Zadano je: |SA| = 40 mm, |SB| = 3 cm, |SC| = 45 mm, |SD| = 38 mm, |SE| = 5 cm. Odredi broj točaka koje pripadaju krugu.",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polumjer je 4 cm = 40 mm. Krugu pripadaju A (40 mm), B (30 mm) i D (38 mm), a C i E su dalje od 40 mm.",
+      "savjet": "Izrazi sve duljine u milimetrima pa ih usporedi s polumjerom."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-065",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 1 m. Zadano je: |SK| = 100 cm, |SL| = 10 cm, |SM| = 11 dm, |SN| = 90 cm. Odaberi točku koja leži na kružnici.",
+      "ponudeni": [
+        "L",
+        "K",
+        "M",
+        "N"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 1 m = 100 cm, pa je |SK| jednaka polumjeru. Zato točka K leži na kružnici.",
+      "savjet": "Prisjeti se koliko centimetara ima jedan metar."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-066",
+      "tezina": "tesko",
+      "pitanje": "Dvije kružnice imaju isto središte S. Manja ima polumjer r₁ = 2 cm, a veća r₂ = 5 cm. Za točku A vrijedi |SA| = 3 cm. Odaberi gdje se nalazi točka A.",
+      "ponudeni": [
+        "između dviju kružnica",
+        "unutar manjeg kruga, a ne na manjoj kružnici",
+        "na većoj kružnici",
+        "izvan obaju krugova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Udaljenost 3 cm veća je od 2 cm i manja od 5 cm. Zato je točka A između dviju kružnica.",
+      "savjet": "Usporedi |SA| s oba polumjera."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-067",
+      "tezina": "tesko",
+      "pitanje": "Dvije kružnice imaju isto središte S, a polumjeri su im r₁ = 3 cm i r₂ = 6 cm. Za točku B vrijedi |SB| = 6 cm. Odaberi gdje se nalazi točka B.",
+      "ponudeni": [
+        "između dviju kružnica",
+        "izvan obaju krugova",
+        "na manjoj kružnici",
+        "na većoj kružnici"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Udaljenost |SB| jednaka je polumjeru veće kružnice, pa točka B leži na većoj kružnici.",
+      "savjet": "Provjeri je li |SB| jednaka nekom od polumjera."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-068",
+      "tezina": "tesko",
+      "pitanje": "Dvije kružnice imaju isto središte S, a polumjeri su im r₁ = 4 dm i r₂ = 7 dm. Za točku C vrijedi |SC| = 9 dm. Odaberi gdje se nalazi točka C.",
+      "ponudeni": [
+        "između dviju kružnica",
+        "na većoj kružnici",
+        "izvan obaju krugova",
+        "unutar manjeg kruga, a ne na manjoj kružnici"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Udaljenost 9 dm veća je od oba polumjera, pa je točka C izvan obaju krugova.",
+      "savjet": "Usporedi |SC| s većim polumjerom."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-069",
+      "tezina": "tesko",
+      "pitanje": "Dvije kružnice imaju isto središte S, a polumjeri su im r₁ = 3 cm i r₂ = 7 cm. Točka A nalazi se između tih dviju kružnica. Odaberi moguću duljinu |SA|.",
+      "ponudeni": [
+        "3 cm",
+        "7 cm",
+        "5 cm",
+        "9 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka između kružnica udaljena je od S više od 3 cm, a manje od 7 cm. Od ponuđenih to vrijedi samo za 5 cm.",
+      "savjet": "Duljina |SA| mora biti veća od manjeg polumjera, a manja od većeg."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-070",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 6 cm. Odaberi duljinu |SD| za koju točka D leži na kružnici.",
+      "ponudeni": [
+        "6 mm",
+        "600 mm",
+        "16 mm",
+        "60 mm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 6 cm = 60 mm. Točka D leži na kružnici ako je |SD| = 60 mm.",
+      "savjet": "Prisjeti se koliko milimetara ima 1 cm."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-071",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 5 cm. Za točku A vrijedi |SA| = 9 cm. Točka A pomiče se ravno prema središtu S. Odredi koliko se mora pomaknuti da bi ležala na kružnici.",
+      "ponudeni": [
+        "4 cm",
+        "5 cm",
+        "9 cm",
+        "14 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka A treba doći na udaljenost 5 cm od S. Zato se mora pomaknuti 9 cm − 5 cm = 4 cm.",
+      "savjet": "Točka na kružnici udaljena je od središta točno za polumjer."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-072",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 6 cm. Za točku B vrijedi |SB| = 9 cm. Odredi za koliko treba povećati polumjer da bi točka B ležala na kružnici.",
+      "ponudeni": [
+        "9 cm",
+        "3 cm",
+        "15 cm",
+        "6 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Novi polumjer mora biti jednak |SB| = 9 cm. Polumjer treba povećati za 9 cm − 6 cm = 3 cm.",
+      "savjet": "Razmisli koliki mora biti polumjer kružnice na kojoj leži točka B."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-073",
+      "tezina": "tesko",
+      "pitanje": "Svjetlo malog svjetionika vidi se do 600 m daleko. Brod Delfin udaljen je od svjetionika 450 m, brod Galeb 650 m, a brod Orka 800 m. Odaberi brodove s kojih se svjetlo vidi.",
+      "ponudeni": [
+        "s Delfina i Galeba",
+        "samo s Delfina",
+        "samo s Orke",
+        "s Galeba i Orke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svjetlo se vidi unutar kruga polumjera 600 m oko svjetionika. Samo je Delfin bliže od 600 m, a Galeb i Orka su dalje.",
+      "savjet": "Usporedi udaljenost svakog broda s polumjerom kruga u kojem se svjetlo vidi."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-074",
+      "tezina": "tesko",
+      "pitanje": "Pas Fido vezan je uz stup uzicom dugom 3 m. Kost je od stupa udaljena 25 dm, lopta 320 cm, a zdjela 4 m. Odaberi do čega Fido može doći.",
+      "ponudeni": [
+        "samo do kosti",
+        "do kosti i lopte",
+        "samo do zdjele",
+        "do lopte i zdjele"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uzica je duga 3 m = 30 dm = 300 cm. Kost je na 25 dm, dakle bliže od 30 dm, a lopta (320 cm) i zdjela (4 m) su dalje od 3 m.",
+      "savjet": "Izrazi sve udaljenosti u istoj mjernoj jedinici."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-075",
+      "tezina": "tesko",
+      "pitanje": "Kružnica ima središte S i polumjer r = 4 cm. Točka A je unutar kruga, a ne na kružnici, i različita je od S. Duljina |SA| cijeli je broj centimetara (1 cm, 2 cm, …). Odredi broj mogućih duljina |SA|.",
+      "ponudeni": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Duljina |SA| mora biti veća od 0 cm i manja od 4 cm. Moguće su 1 cm, 2 cm i 3 cm, dakle tri duljine.",
+      "savjet": "Ispiši redom sve cijele duljine manje od polumjera."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-076",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Odaberi točku koja se nalazi između tih dviju kružnica.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            5.87,
+            5.5
+          ],
+          "B": [
+            3.5,
+            7.6
+          ],
+          "C": [
+            1.54,
+            3
+          ],
+          "D": [
+            7.75,
+            0.24
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "C",
+        "B",
+        "D"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka B je izvan manje kružnice, a unutar veće, dakle između njih. A je unutar manjeg kruga, C leži na većoj kružnici, a D je izvan obaju krugova.",
+      "savjet": "Traži točku koja je dalje od S nego manja kružnica, ali bliže nego veća."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-077",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Odaberi točku koja leži na manjoj kružnici.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke E, F, G i H.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "E": [
+            7,
+            5
+          ],
+          "F": [
+            5,
+            8
+          ],
+          "G": [
+            1,
+            5
+          ],
+          "H": [
+            4.66,
+            4.06
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "F",
+        "G",
+        "E",
+        "H"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka E nalazi se točno na manjoj kružnici. F je između kružnica, G leži na većoj kružnici, a H je unutar manjeg kruga.",
+      "savjet": "Pogledaj samo crtu manje kružnice."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-078",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Odredi broj točaka koje se nalaze između tih dviju kružnica.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke A, B, C, D, E i F.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7.82,
+            6.03
+          ],
+          "B": [
+            4.48,
+            7.95
+          ],
+          "C": [
+            2.18,
+            3.97
+          ],
+          "D": [
+            4.13,
+            5.5
+          ],
+          "E": [
+            5.69,
+            1.06
+          ],
+          "F": [
+            8.96,
+            1.04
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Između kružnica su točke A, B i C. D je unutar manjeg kruga, E leži na većoj kružnici, a F je izvan obaju krugova.",
+      "savjet": "Točka koja leži na kružnici nije između kružnica."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-079",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Odaberi gdje se nalazi točka K.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke K, L, M i N.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "K": [
+            7,
+            8.46
+          ],
+          "L": [
+            2,
+            5
+          ],
+          "M": [
+            5.5,
+            4.13
+          ],
+          "N": [
+            2.25,
+            0.24
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      "ponudeni": [
+        "na većoj kružnici",
+        "između dviju kružnica",
+        "izvan obaju krugova",
+        "na manjoj kružnici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka K nalazi se točno na crti veće kružnice.",
+      "savjet": "Pogledaj na kojoj se crti ili između kojih crta nalazi točka K."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-080",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Od točaka A, B, C, D, E i F odredi broj točaka koje pripadaju većem krugu, a ne pripadaju manjem krugu.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke A, B, C, D, E i F.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7,
+            5
+          ],
+          "B": [
+            6.5,
+            7.6
+          ],
+          "C": [
+            1.54,
+            7
+          ],
+          "D": [
+            3.5,
+            2.4
+          ],
+          "E": [
+            8.96,
+            1.04
+          ],
+          "F": [
+            4.83,
+            5.98
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Takve su točke B i D, koje su između kružnica, te C, koja leži na većoj kružnici. A leži na manjoj kružnici, pa pripada manjem krugu.",
+      "savjet": "Točka koja leži na kružnici pripada i krugu koji ta kružnica omeđuje."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-081",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kružnica polumjera r = 4 cm. Odaberi točnu tvrdnju o točkama A i B.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i polumjerom 4 cm. Dužina SA duga je 30 mm, a dužina SB 50 mm.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            6.5,
+            7.6
+          ],
+          "B": [
+            7.5,
+            0.67
+          ],
+          "R": [
+            1.24,
+            3.63
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "R",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "30 mm"
+          },
+          {
+            "od": "S",
+            "do": "B",
+            "oznaka": "50 mm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "R"
+        ]
+      },
+      "ponudeni": [
+        "A je izvan kruga, a B unutar kruga.",
+        "A je unutar kruga, a B izvan kruga.",
+        "Obje točke leže na kružnici.",
+        "Obje točke su izvan kruga."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 30 mm = 3 cm, što je manje od 4 cm, i 50 mm = 5 cm, što je više od 4 cm. Zato je A unutar kruga, a B izvan njega.",
+      "savjet": "Izrazi duljine |SA| i |SB| u centimetrima."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-082",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kružnica polumjera r = 4 dm. Odaberi točku koja leži na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i polumjerom 4 dm, točke A, B, C i D. Dužina SA duga je 25 cm, dužina SB 40 cm, a dužina SC 6 dm.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            2.83,
+            6.25
+          ],
+          "B": [
+            5,
+            1
+          ],
+          "C": [
+            9.24,
+            9.24
+          ],
+          "D": [
+            6.3,
+            4.25
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "25 cm"
+          },
+          {
+            "od": "S",
+            "do": "B",
+            "oznaka": "40 cm"
+          },
+          {
+            "od": "S",
+            "do": "C",
+            "oznaka": "6 dm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 4 dm = 40 cm, pa je |SB| jednaka polumjeru. Zato točka B leži na kružnici.",
+      "savjet": "Pretvori decimetre u centimetre pa usporedi duljine."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-083",
+      "tezina": "tesko",
+      "pitanje": "Prskalica S zalijeva manji krug polumjera 2 m ili, kad jače radi, veći krug polumjera 4 m (slika). Odredi broj biljaka koje se zalijevaju samo kad prskalica jače radi.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem u prskalici S i biljke A, B, C, D, E i F.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            5.87,
+            5.5
+          ],
+          "B": [
+            5,
+            8
+          ],
+          "C": [
+            2.18,
+            6.03
+          ],
+          "D": [
+            3.07,
+            2.7
+          ],
+          "E": [
+            7.75,
+            0.24
+          ],
+          "F": [
+            4.06,
+            4.66
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Samo kad prskalica jače radi, zalijevaju se biljke između dviju kružnica: B, C i D.",
+      "savjet": "Traži biljke koje su izvan manjeg kruga, ali unutar većeg."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-084",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kružnica polumjera r = 3 cm. Odredi za koliko treba povećati polumjer da bi točka A ležala na kružnici.",
+      "slika": {
+        "opis": "Kružnica sa središtem S, točke A, B i C te dužina SA duga 5 cm.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            9.33,
+            7.5
+          ],
+          "B": [
+            3.59,
+            4.49
+          ],
+          "C": [
+            3.5,
+            7.6
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "A",
+            "oznaka": "5 cm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 3
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "5 cm",
+        "8 cm",
+        "2 cm",
+        "3 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Da bi A ležala na kružnici, polumjer mora biti 5 cm. Treba ga povećati za 5 cm − 3 cm = 2 cm.",
+      "savjet": "Polumjer kružnice na kojoj leži točka jednak je udaljenosti te točke od središta."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-085",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa središtem S, polumjera r₁ = 2 cm i r₂ = 4 cm. Duljina |SB| cijeli je broj centimetara. Odaberi duljinu |SB|.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke A, B i C.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "B": [
+            6.5,
+            7.6
+          ],
+          "A": [
+            4.06,
+            4.66
+          ],
+          "C": [
+            7.75,
+            0.24
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "B",
+          "A",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "1 cm",
+        "5 cm",
+        "3 cm",
+        "6 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka B je između dviju kružnica, pa je |SB| veća od 2 cm, a manja od 4 cm. Jedini takav cijeli broj centimetara je 3 cm.",
+      "savjet": "Pogledaj između kojih se kružnica nalazi točka B."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-086",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Odaberi točku koja pripada većem krugu, ali ne pripada manjem krugu.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            5.5,
+            4.13
+          ],
+          "B": [
+            6,
+            6.73
+          ],
+          "C": [
+            2,
+            5
+          ],
+          "D": [
+            8.96,
+            8.96
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "D",
+        "C"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka C je između kružnica, pa pripada samo većem krugu. B leži na manjoj kružnici, pa pripada i manjem krugu.",
+      "savjet": "Točka koja leži na kružnici pripada krugu koji ta kružnica omeđuje."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-087",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Odredi broj točaka koje leže na jednoj od tih dviju kružnica.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke A, B, C, D, E i F.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7,
+            5
+          ],
+          "B": [
+            4,
+            6.73
+          ],
+          "C": [
+            3,
+            1.54
+          ],
+          "D": [
+            6.5,
+            7.6
+          ],
+          "E": [
+            5.5,
+            4.13
+          ],
+          "F": [
+            0.24,
+            7.75
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na manjoj kružnici leže A i B, a na većoj C. Ukupno su to tri točke.",
+      "savjet": "Prebroji točke na manjoj kružnici, pa dodaj one na većoj."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-088",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kružnica polumjera r = 40 mm. Odaberi točku koja je od središta S udaljena točno 4 cm.",
+      "slika": {
+        "opis": "Kružnica sa središtem S i polumjerom 40 mm te točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            1.24,
+            3.63
+          ],
+          "B": [
+            6.25,
+            2.83
+          ],
+          "C": [
+            8.96,
+            8.96
+          ],
+          "D": [
+            0.24,
+            7.75
+          ],
+          "R": [
+            5,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "S",
+            "do": "R",
+            "oznaka": "40 mm"
+          }
+        ],
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "R"
+        ]
+      },
+      "ponudeni": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 4 cm = 40 mm, a to je polumjer. Točka A leži na kružnici, pa je od S udaljena točno 4 cm.",
+      "savjet": "Pretvori centimetre u milimetre."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-089",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Odaberi gdje se nalazi točka D.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke A, B, C i D.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "D": [
+            2.4,
+            3.5
+          ],
+          "A": [
+            6.73,
+            6
+          ],
+          "B": [
+            3,
+            8.46
+          ],
+          "C": [
+            7.75,
+            0.24
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "D",
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "na manjoj kružnici",
+        "između dviju kružnica",
+        "unutar manjeg kruga, a ne na manjoj kružnici",
+        "izvan obaju krugova"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka D dalje je od S nego manja kružnica, ali bliže nego veća, pa je između dviju kružnica.",
+      "savjet": "Usporedi položaj točke D s objema kružnicama."
+    },
+    {
+      "id": "4-matematika-tocke-i-krug-090",
+      "tezina": "tesko",
+      "pitanje": "Na slici su dvije kružnice sa zajedničkim središtem S. Odaberi točke koje ne pripadaju nijednom od dvaju krugova.",
+      "slika": {
+        "opis": "Dvije kružnice sa zajedničkim središtem S i točke A, B, C, D, E i F.",
+        "tocke": {
+          "S": [
+            5,
+            5
+          ],
+          "A": [
+            7.6,
+            6.5
+          ],
+          "B": [
+            4.83,
+            5.98
+          ],
+          "C": [
+            8.96,
+            8.96
+          ],
+          "D": [
+            1.24,
+            3.63
+          ],
+          "E": [
+            6,
+            3.27
+          ],
+          "F": [
+            2.25,
+            0.24
+          ]
+        },
+        "kruznice": [
+          {
+            "sredite": "S",
+            "polumjer": 2
+          },
+          {
+            "sredite": "S",
+            "polumjer": 4
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "C i F",
+        "A i C",
+        "D i F",
+        "B i E"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točke C i F su izvan veće kružnice, pa ne pripadaju nijednom krugu. D leži na većoj kružnici, pa pripada većem krugu.",
+      "savjet": "Točke na kružnici pripadaju krugu koji ta kružnica omeđuje."
+    }
+  ]
+}

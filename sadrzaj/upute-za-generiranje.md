@@ -135,6 +135,7 @@ Pitanje kojem treba slika dobiva polje "slika" s crtežem opisanim podacima:
 - "opis" je obavezan i kratko opisuje sliku za učenike koji je ne vide.
 - Svaka točka koja se koristi u poligonima, dužinama, kutovima i kružnicama mora biti navedena u "tocke".
 - Kut s brojčanom oznakom nacrtaj u stvarnoj veličini (odstupanje najviše 5°), a pravi kut točno 90°. Izračunaj koordinate prije ispisa.
+- Kružnica je samo crta; krug (ispunjeni dio ravnine) crta se s "kruznice": [{ "sredite": "S", "polumjer": 3, "ispuna": true }].
 - "duzine" služe za oznake stranica (a, 5 cm, x, ?), "crtice" (1, 2 ili 3) označavaju jednake dužine, "isprekidana": true crta isprekidanu dužinu.
 - Imena točaka ispisuju se uz lik; točke čije ime ne treba prikazati navedi u "skrivenaImena": ["D"].
 - Za vanjski kut zadaj krake: { "vrh": "B", "kraci": ["C", "D"], "oznaka": "β'" }.

@@ -64,6 +64,7 @@ export interface PoligonCrteza {
 export interface KruznicaCrteza {
   sredite: string
   polumjer: number
+  ispuna?: boolean        // krug (ispunjen) umjesto same kružnice
 }
 
 export interface Crtez {

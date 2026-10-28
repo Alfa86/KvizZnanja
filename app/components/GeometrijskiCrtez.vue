@@ -57,7 +57,7 @@ const poligoni = computed(() => (props.crtez.poligoni ?? []).map(p => ({
 
 const kruznice = computed(() => (props.crtez.kruznice ?? []).map((k) => {
   const s = tocka(k.sredite)
-  return { cx: sx(s), cy: sy(s), r: k.polumjer * J }
+  return { cx: sx(s), cy: sy(s), r: k.polumjer * J, ispuna: k.ispuna ?? false }
 }))
 
 interface Oznaka { x: number, y: number, tekst: string, jeTocka: boolean }
@@ -170,7 +170,7 @@ const jeVarijabla = (tekst: string) => /^\d*[a-zα-ω]$/.test(tekst)
       stroke-linejoin="round"
     />
 
-    <circle v-for="(k, i) in kruznice" :key="`k${i}`" v-bind="k" fill="none" stroke="#1e293b" :stroke-width="3 * m" />
+    <circle v-for="(k, i) in kruznice" :key="`k${i}`" :cx="k.cx" :cy="k.cy" :r="k.r" :fill="k.ispuna ? '#e0e7ff' : 'none'" stroke="#1e293b" :stroke-width="3 * m" />
 
     <g v-for="(d, i) in duzine" :key="`d${i}`" stroke="#1e293b">
       <line
