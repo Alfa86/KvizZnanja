@@ -1,0 +1,3159 @@
+{
+  "lekcijaId": "opseg-pravokutnika-i-kvadrata",
+  "pitanja": [
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-001",
+      "tezina": "lagano",
+      "pitanje": "Što je opseg pravokutnika?",
+      "ponudeni": [
+        "zbroj duljina svih njegovih stranica",
+        "umnožak duljina dviju njegovih stranica",
+        "zbroj duljina dviju susjednih stranica",
+        "duljina njegove najdulje stranice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg je zbroj duljina svih stranica lika. Pravokutnik ima četiri stranice, pa zbrajamo sve četiri.",
+      "savjet": "Zamisli da mrav jednom obiđe cijeli rub lika: put koji prijeđe jednak je opsegu."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi formulu za opseg kvadrata kojemu je stranica duga a.",
+      "ponudeni": [
+        "o = a · a",
+        "o = 4 · a",
+        "o = 2 · a",
+        "o = a + 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat ima četiri jednako duge stranice, pa je njegov opseg o = 4 · a.",
+      "savjet": "Kvadrat ima četiri stranice i sve su jednako duge."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-003",
+      "tezina": "lagano",
+      "pitanje": "Odaberi formulu za opseg pravokutnika sa stranicama a i b.",
+      "ponudeni": [
+        "o = a + b",
+        "o = a · b",
+        "o = 2 · a + 2 · b",
+        "o = 2 · a + b"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutnik ima dvije stranice duljine a i dvije stranice duljine b, pa je o = 2 · a + 2 · b.",
+      "savjet": "Pravokutnik ima četiri stranice, a nasuprotne su stranice jednako duge."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-004",
+      "tezina": "lagano",
+      "pitanje": "Koliko stranica treba zbrojiti da se dobije opseg pravokutnika?",
+      "ponudeni": [
+        "dvije",
+        "tri",
+        "šest",
+        "četiri"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg je zbroj duljina svih stranica, a pravokutnik ima četiri stranice.",
+      "savjet": "Prebroji koliko stranica ima pravokutnik."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-005",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg pravokutnika ABCD sa slike.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 6 cm, a stranica BC 4 cm.",
+        "tocke": {
+          "A": [
+            1,
+            2.33
+          ],
+          "B": [
+            9,
+            2.33
+          ],
+          "C": [
+            9,
+            7.67
+          ],
+          "D": [
+            1,
+            7.67
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "10 cm",
+        "24 cm",
+        "20 cm",
+        "16 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 2 · 6 cm + 2 · 4 cm = 12 cm + 8 cm = 20 cm.",
+      "savjet": "Pravokutnik ima dvije stranice duge kao AB i dvije stranice duge kao BC."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-006",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg kvadrata ABCD sa slike.",
+      "slika": {
+        "opis": "Kvadrat ABCD; stranica AB duga je 5 cm, a crtice pokazuju da su sve stranice jednake.",
+        "tocke": {
+          "A": [
+            1.5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            1.5
+          ],
+          "C": [
+            8.5,
+            8.5
+          ],
+          "D": [
+            1.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "20 cm",
+        "10 cm",
+        "25 cm",
+        "15 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat ima četiri jednake stranice: o = 4 · 5 cm = 20 cm.",
+      "savjet": "Sve četiri stranice kvadrata jednako su duge."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-007",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg kvadrata kojemu je stranica duga 3 cm.",
+      "ponudeni": [
+        "9 cm",
+        "6 cm",
+        "7 cm",
+        "12 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 4 · 3 cm = 12 cm.",
+      "savjet": "Duljinu stranice kvadrata uzmi onoliko puta koliko kvadrat ima stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg pravokutnika sa stranicama duljine 5 cm i 2 cm.",
+      "ponudeni": [
+        "7 cm",
+        "14 cm",
+        "10 cm",
+        "12 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "o = 2 · 5 cm + 2 · 2 cm = 10 cm + 4 cm = 14 cm.",
+      "savjet": "Pravokutnik ima po dvije jednako duge nasuprotne stranice; zbroji sve četiri."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg pravokutnika EFGH sa slike.",
+      "slika": {
+        "opis": "Pravokutnik EFGH sa stranicama EF = 8 dm, FG = 3 dm, GH = 8 dm i HE = 3 dm.",
+        "tocke": {
+          "E": [
+            1,
+            3.5
+          ],
+          "F": [
+            9,
+            3.5
+          ],
+          "G": [
+            9,
+            6.5
+          ],
+          "H": [
+            1,
+            6.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "8 dm"
+          },
+          {
+            "od": "F",
+            "do": "G",
+            "oznaka": "3 dm"
+          },
+          {
+            "od": "G",
+            "do": "H",
+            "oznaka": "8 dm"
+          },
+          {
+            "od": "H",
+            "do": "E",
+            "oznaka": "3 dm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "11 dm",
+        "24 dm",
+        "19 dm",
+        "22 dm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 8 dm + 3 dm + 8 dm + 3 dm = 22 dm.",
+      "savjet": "Zbroji duljine svih četiriju stranica označenih na slici."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-010",
+      "tezina": "lagano",
+      "pitanje": "Pravokutnik ima stranice duge 7 m i 4 m. Odaberi izraz kojim se računa njegov opseg.",
+      "ponudeni": [
+        "7 m + 4 m",
+        "7 m · 4 m",
+        "2 · 7 m + 2 · 4 m",
+        "4 · 7 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutnik ima dvije stranice od 7 m i dvije od 4 m, pa je o = 2 · 7 m + 2 · 4 m = 22 m.",
+      "savjet": "Sjeti se da pravokutnik ima dva para jednako dugih stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-011",
+      "tezina": "lagano",
+      "pitanje": "Kvadrat ima stranicu dugu 6 dm. Odaberi izraz kojim se računa njegov opseg.",
+      "ponudeni": [
+        "6 dm · 6 dm",
+        "4 · 6 dm",
+        "2 · 6 dm",
+        "6 dm + 6 dm + 6 dm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat ima četiri stranice od 6 dm, pa je o = 4 · 6 dm = 24 dm.",
+      "savjet": "Prebroji koliko jednako dugih stranica ima kvadrat."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-012",
+      "tezina": "lagano",
+      "pitanje": "Koliko jednako dugih stranica ima kvadrat?",
+      "ponudeni": [
+        "četiri",
+        "dvije",
+        "tri",
+        "pet"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat ima četiri stranice i sve su jednako duge. Zato je njegov opseg o = 4 · a.",
+      "savjet": "Sjeti se kako izgleda kvadrat i usporedi duljine njegovih stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-013",
+      "tezina": "lagano",
+      "pitanje": "U pravokutniku ABCD stranica AB duga je 9 cm. Koja je stranica tog pravokutnika također duga 9 cm?",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 9 cm.",
+        "tocke": {
+          "A": [
+            1,
+            3.22
+          ],
+          "B": [
+            9,
+            3.22
+          ],
+          "C": [
+            9,
+            6.78
+          ],
+          "D": [
+            1,
+            6.78
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "9 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "stranica BC",
+        "stranica CD",
+        "stranica DA",
+        "dužina AC"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U pravokutniku su nasuprotne stranice jednako duge. Stranici AB nasuprot je stranica CD.",
+      "savjet": "Sjeti se koje su stranice pravokutnika jednako duge."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-014",
+      "tezina": "lagano",
+      "pitanje": "Odredi opseg pravokutnika KLMN sa slike.",
+      "slika": {
+        "opis": "Pravokutnik KLMN; stranica KL duga je 10 cm, a stranica LM 5 cm.",
+        "tocke": {
+          "K": [
+            1,
+            3
+          ],
+          "L": [
+            9,
+            3
+          ],
+          "M": [
+            9,
+            7
+          ],
+          "N": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M",
+              "N"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "K",
+            "do": "L",
+            "oznaka": "10 cm"
+          },
+          {
+            "od": "L",
+            "do": "M",
+            "oznaka": "5 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "15 cm",
+        "50 cm",
+        "25 cm",
+        "30 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 2 · 10 cm + 2 · 5 cm = 20 cm + 10 cm = 30 cm.",
+      "savjet": "Duljinu svake označene stranice pomnoži s 2, pa zbroji dobivene brojeve."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg kvadrata PRST sa slike.",
+      "slika": {
+        "opis": "Kvadrat PRST; stranica PR duga je 7 m, a crtice pokazuju da su sve stranice jednake.",
+        "tocke": {
+          "P": [
+            1.5,
+            1.5
+          ],
+          "R": [
+            8.5,
+            1.5
+          ],
+          "S": [
+            8.5,
+            8.5
+          ],
+          "T": [
+            1.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "P",
+              "R",
+              "S",
+              "T"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P",
+            "do": "R",
+            "oznaka": "7 m",
+            "crtice": 1
+          },
+          {
+            "od": "R",
+            "do": "S",
+            "crtice": 1
+          },
+          {
+            "od": "S",
+            "do": "T",
+            "crtice": 1
+          },
+          {
+            "od": "T",
+            "do": "P",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "28 m",
+        "49 m",
+        "14 m",
+        "21 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "o = 4 · 7 m = 28 m.",
+      "savjet": "Kvadrat ima četiri jednako duge stranice, a na slici je označena jedna."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg pravokutnika kojemu su stranice duge 6 cm, 2 cm, 6 cm i 2 cm.",
+      "ponudeni": [
+        "8 cm",
+        "12 cm",
+        "16 cm",
+        "14 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 6 cm + 2 cm + 6 cm + 2 cm = 16 cm.",
+      "savjet": "Opseg je zbroj duljina svih stranica, zato zbroji sva četiri broja."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-017",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom označava opseg u formulama?",
+      "ponudeni": [
+        "a",
+        "o",
+        "b",
+        "P"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opseg označavamo slovom o, a slova a i b označavaju duljine stranica.",
+      "savjet": "Sjeti se kojim slovom počinje riječ opseg."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-018",
+      "tezina": "lagano",
+      "pitanje": "Što označava slovo a u formuli o = 4 · a?",
+      "ponudeni": [
+        "duljinu stranice kvadrata",
+        "opseg kvadrata",
+        "broj stranica kvadrata",
+        "površinu kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Slovo a označava duljinu stranice kvadrata, a slovo o njegov opseg.",
+      "savjet": "Razmisli što se množi s 4 da se dobije opseg kvadrata."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-019",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg pravokutnika sa slike.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 9 cm, a stranica DA 5 cm.",
+        "tocke": {
+          "A": [
+            1,
+            2.78
+          ],
+          "B": [
+            9,
+            2.78
+          ],
+          "C": [
+            9,
+            7.22
+          ],
+          "D": [
+            1,
+            7.22
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "9 cm"
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "oznaka": "5 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "45 cm",
+        "23 cm",
+        "28 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 2 · 9 cm + 2 · 5 cm = 18 cm + 10 cm = 28 cm.",
+      "savjet": "Na slici su označene samo dvije stranice; sjeti se da su nasuprotne stranice jednako duge."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-020",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg kvadrata sa stranicom 10 cm.",
+      "ponudeni": [
+        "20 cm",
+        "100 cm",
+        "40 cm",
+        "14 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 4 · 10 cm = 40 cm.",
+      "savjet": "Sve četiri stranice kvadrata jednako su duge, pa duljinu jedne pomnoži s brojem stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-021",
+      "tezina": "lagano",
+      "pitanje": "Pravokutnik sa slike ima stranice 8 m i 2 m. Izračunaj njegov opseg.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 8 m, a stranica BC 2 m.",
+        "tocke": {
+          "A": [
+            1,
+            4
+          ],
+          "B": [
+            9,
+            4
+          ],
+          "C": [
+            9,
+            6
+          ],
+          "D": [
+            1,
+            6
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "2 m"
+          }
+        ]
+      },
+      "ponudeni": [
+        "10 m",
+        "16 m",
+        "20 m",
+        "18 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 2 · 8 m + 2 · 2 m = 16 m + 4 m = 20 m.",
+      "savjet": "Pazi da zbrojiš sve četiri stranice, a ne samo dvije."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-022",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg kvadrata kojemu je stranica duga 9 mm.",
+      "ponudeni": [
+        "81 mm",
+        "18 mm",
+        "27 mm",
+        "36 mm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 4 · 9 mm = 36 mm.",
+      "savjet": "Kvadrat ima četiri stranice iste duljine."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-023",
+      "tezina": "lagano",
+      "pitanje": "Kojim se izrazom može izračunati opseg pravokutnika sa slike?",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB označena je slovom a, a stranica BC slovom b.",
+        "tocke": {
+          "A": [
+            1,
+            2.75
+          ],
+          "B": [
+            9,
+            2.75
+          ],
+          "C": [
+            9,
+            7.25
+          ],
+          "D": [
+            1,
+            7.25
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "a"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "b"
+          }
+        ]
+      },
+      "ponudeni": [
+        "a + b + a + b",
+        "a + b",
+        "a + a + b",
+        "a · b + a · b"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravokutnik ima dvije stranice duljine a i dvije duljine b, pa je opseg a + b + a + b.",
+      "savjet": "Obiđi rub pravokutnika i zapiši duljinu svake stranice kojom prolaziš."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-024",
+      "tezina": "lagano",
+      "pitanje": "Kojim se izrazom može izračunati opseg kvadrata sa slike?",
+      "slika": {
+        "opis": "Kvadrat ABCD; stranica AB označena je slovom a, a crtice pokazuju da su sve stranice jednake.",
+        "tocke": {
+          "A": [
+            1.5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            1.5
+          ],
+          "C": [
+            8.5,
+            8.5
+          ],
+          "D": [
+            1.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "a",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "a · a",
+        "a + a + a + a",
+        "a + a",
+        "a + 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat ima četiri stranice duljine a, pa je opseg a + a + a + a = 4 · a.",
+      "savjet": "Crtice na slici pokazuju da su sve stranice kvadrata jednako duge."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-025",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg pravokutnika koji je dug 12 cm i širok 3 cm.",
+      "ponudeni": [
+        "15 cm",
+        "36 cm",
+        "27 cm",
+        "30 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 2 · 12 cm + 2 · 3 cm = 24 cm + 6 cm = 30 cm.",
+      "savjet": "Pravokutnik ima dvije duljine i dvije širine; zbroji ih sve."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj opseg kvadrata EFGH sa slike.",
+      "slika": {
+        "opis": "Kvadrat EFGH; stranica EF duga je 8 dm, a crtice pokazuju da su sve stranice jednake.",
+        "tocke": {
+          "E": [
+            1.5,
+            1.5
+          ],
+          "F": [
+            8.5,
+            1.5
+          ],
+          "G": [
+            8.5,
+            8.5
+          ],
+          "H": [
+            1.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "8 dm",
+            "crtice": 1
+          },
+          {
+            "od": "F",
+            "do": "G",
+            "crtice": 1
+          },
+          {
+            "od": "G",
+            "do": "H",
+            "crtice": 1
+          },
+          {
+            "od": "H",
+            "do": "E",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "64 dm",
+        "32 dm",
+        "16 dm",
+        "24 dm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "o = 4 · 8 dm = 32 dm.",
+      "savjet": "Duljinu jedne stranice kvadrata uzmi onoliko puta koliko kvadrat ima stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-027",
+      "tezina": "lagano",
+      "pitanje": "Svaka stranica kvadratnog stola duga je 1 m. Izračunaj opseg stola.",
+      "ponudeni": [
+        "1 m",
+        "2 m",
+        "4 m",
+        "3 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stol ima četiri stranice od 1 m, pa je o = 4 · 1 m = 4 m.",
+      "savjet": "Zamisli da obilaziš rub stola i brojiš metre."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-028",
+      "tezina": "lagano",
+      "pitanje": "Odredi opseg pravokutnika ABCD na slici.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 4 cm, a stranica BC 3 cm.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            8
+          ],
+          "D": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "7 cm",
+        "12 cm",
+        "11 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "o = 2 · 4 cm + 2 · 3 cm = 8 cm + 6 cm = 14 cm.",
+      "savjet": "Nasuprotne stranice pravokutnika jednako su duge, pa svaku označenu duljinu uzmi dvaput."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-029",
+      "tezina": "lagano",
+      "pitanje": "Školsko igralište oblika pravokutnika prikazano je na slici. Izračunaj opseg igrališta.",
+      "slika": {
+        "opis": "Igralište oblika pravokutnika ABCD; stranica AB duga je 10 m, a stranica BC 6 m.",
+        "tocke": {
+          "A": [
+            1,
+            2.6
+          ],
+          "B": [
+            9,
+            2.6
+          ],
+          "C": [
+            9,
+            7.4
+          ],
+          "D": [
+            1,
+            7.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "10 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "6 m"
+          }
+        ]
+      },
+      "ponudeni": [
+        "32 m",
+        "16 m",
+        "60 m",
+        "26 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "o = 2 · 10 m + 2 · 6 m = 20 m + 12 m = 32 m.",
+      "savjet": "Igralište ima dvije dulje i dvije kraće stranice."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-030",
+      "tezina": "lagano",
+      "pitanje": "U kojoj se mjernoj jedinici može izraziti opseg pravokutnika?",
+      "ponudeni": [
+        "u kilogramima",
+        "u litrama",
+        "u centimetrima",
+        "u satima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg je duljina, a duljine mjerimo u milimetrima, centimetrima, decimetrima i metrima.",
+      "savjet": "Opseg je duljina ruba lika; sjeti se kojim jedinicama mjerimo duljinu."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-031",
+      "tezina": "srednje",
+      "pitanje": "Opseg kvadrata je 24 cm. Odredi duljinu njegove stranice.",
+      "ponudeni": [
+        "12 cm",
+        "6 cm",
+        "20 cm",
+        "96 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sve četiri stranice kvadrata jednake su, pa je a = 24 cm : 4 = 6 cm.",
+      "savjet": "Opseg kvadrata zbroj je četiriju jednakih stranica; podijeli ga na jednake dijelove."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-032",
+      "tezina": "srednje",
+      "pitanje": "Opseg pravokutnika je 30 cm, a jedna mu je stranica duga 10 cm. Odredi duljinu druge stranice.",
+      "ponudeni": [
+        "20 cm",
+        "15 cm",
+        "3 cm",
+        "5 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvije stranice od 10 cm zajedno imaju 20 cm. Za druge dvije stranice ostaje 30 cm − 20 cm = 10 cm, pa je druga stranica 5 cm.",
+      "savjet": "Od opsega oduzmi obje poznate stranice, pa ostatak podijeli na dvije jednake stranice."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-033",
+      "tezina": "srednje",
+      "pitanje": "Lana želi ograditi vrt oblika pravokutnika prikazan na slici. Izračunaj koliko je metara ograde potrebno za cijeli rub vrta.",
+      "slika": {
+        "opis": "Vrt oblika pravokutnika ABCD; stranica AB duga je 12 m, a stranica BC 7 m.",
+        "tocke": {
+          "A": [
+            1,
+            2.67
+          ],
+          "B": [
+            9,
+            2.67
+          ],
+          "C": [
+            9,
+            7.33
+          ],
+          "D": [
+            1,
+            7.33
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "12 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "7 m"
+          }
+        ]
+      },
+      "ponudeni": [
+        "38 m",
+        "19 m",
+        "84 m",
+        "31 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ograda ide uz cijeli rub, pa računamo opseg: o = 2 · 12 m + 2 · 7 m = 24 m + 14 m = 38 m.",
+      "savjet": "Ograda prolazi uz sve četiri stranice vrta."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-034",
+      "tezina": "srednje",
+      "pitanje": "Slika oblika kvadrata ima stranicu dugu 25 cm. Izračunaj koliko je centimetara letvice potrebno za okvir oko cijele slike.",
+      "ponudeni": [
+        "50 cm",
+        "100 cm",
+        "625 cm",
+        "75 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Okvir ide oko cijele slike, pa je potrebno o = 4 · 25 cm = 100 cm letvice.",
+      "savjet": "Duljina okvira jednaka je opsegu slike."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-035",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg pravokutnika ABCD sa slike u centimetrima.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 2 dm, a stranica BC 8 cm.",
+        "tocke": {
+          "A": [
+            1,
+            3.4
+          ],
+          "B": [
+            9,
+            3.4
+          ],
+          "C": [
+            9,
+            6.6
+          ],
+          "D": [
+            1,
+            6.6
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "2 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "8 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "20 cm",
+        "28 cm",
+        "56 cm",
+        "48 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2 dm = 20 cm, pa je o = 2 · 20 cm + 2 · 8 cm = 40 cm + 16 cm = 56 cm.",
+      "savjet": "Prije računanja izrazi obje stranice u istoj mjernoj jedinici."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-036",
+      "tezina": "srednje",
+      "pitanje": "Dvorište oblika kvadrata prikazano je na slici. Izračunaj opseg dvorišta.",
+      "slika": {
+        "opis": "Dvorište oblika kvadrata ABCD; stranica AB duga je 15 m, a crtice pokazuju da su sve stranice jednake.",
+        "tocke": {
+          "A": [
+            1.5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            1.5
+          ],
+          "C": [
+            8.5,
+            8.5
+          ],
+          "D": [
+            1.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "15 m",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "30 m",
+        "225 m",
+        "45 m",
+        "60 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 4 · 15 m = 60 m.",
+      "savjet": "Sve stranice kvadratnog dvorišta jednako su duge."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-037",
+      "tezina": "srednje",
+      "pitanje": "Opseg kvadrata ABCD sa slike je 36 dm. Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Kvadrat ABCD; stranica AB označena je upitnikom, a crtice pokazuju da su sve stranice jednake.",
+        "tocke": {
+          "A": [
+            1.5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            1.5
+          ],
+          "C": [
+            8.5,
+            8.5
+          ],
+          "D": [
+            1.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "18 dm",
+        "32 dm",
+        "9 dm",
+        "12 dm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadrat ima četiri jednake stranice, pa je a = 36 dm : 4 = 9 dm.",
+      "savjet": "Opseg kvadrata podijeli na onoliko jednakih dijelova koliko kvadrat ima stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-038",
+      "tezina": "srednje",
+      "pitanje": "Opseg pravokutnika ABCD sa slike je 40 cm. Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 14 cm, a stranica BC označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            3.29
+          ],
+          "B": [
+            9,
+            3.29
+          ],
+          "C": [
+            9,
+            6.71
+          ],
+          "D": [
+            1,
+            6.71
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "14 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "6 cm",
+        "26 cm",
+        "12 cm",
+        "20 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvije stranice od 14 cm imaju zajedno 28 cm. Ostaje 40 cm − 28 cm = 12 cm za dvije jednake stranice, pa je tražena stranica 12 cm : 2 = 6 cm.",
+      "savjet": "Od opsega oduzmi obje dulje stranice, pa ostatak podijeli s 2."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-039",
+      "tezina": "srednje",
+      "pitanje": "Kvadrat ima stranicu 5 cm, a pravokutnik stranice 6 cm i 4 cm. Odaberi točnu tvrdnju o njihovim opsezima.",
+      "ponudeni": [
+        "Kvadrat ima veći opseg.",
+        "Pravokutnik ima veći opseg.",
+        "Opseg kvadrata dvostruko je veći.",
+        "Opsezi su jednaki."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg kvadrata je 4 · 5 cm = 20 cm, a opseg pravokutnika 2 · 6 cm + 2 · 4 cm = 20 cm. Opsezi su jednaki.",
+      "savjet": "Izračunaj opseg svakog lika, pa usporedi dobivene brojeve."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-040",
+      "tezina": "srednje",
+      "pitanje": "Marko je jednom optrčao igralište prikazano na slici. Izračunaj koliko je metara pretrčao.",
+      "slika": {
+        "opis": "Igralište oblika pravokutnika ABCD; stranica AB duga je 50 m, a stranica BC 30 m.",
+        "tocke": {
+          "A": [
+            1,
+            2.6
+          ],
+          "B": [
+            9,
+            2.6
+          ],
+          "C": [
+            9,
+            7.4
+          ],
+          "D": [
+            1,
+            7.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "50 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "30 m"
+          }
+        ]
+      },
+      "ponudeni": [
+        "80 m",
+        "160 m",
+        "130 m",
+        "110 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Marko je pretrčao cijeli rub igrališta: o = 2 · 50 m + 2 · 30 m = 100 m + 60 m = 160 m.",
+      "savjet": "Put oko cijelog igrališta jednak je zbroju duljina svih njegovih stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-041",
+      "tezina": "srednje",
+      "pitanje": "Poklopac kutije ima oblik kvadrata sa stranicom 12 cm. Izračunaj koliko je centimetara vrpce potrebno da se zalijepi uz cijeli rub poklopca.",
+      "ponudeni": [
+        "24 cm",
+        "144 cm",
+        "36 cm",
+        "48 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrpca ide uz sve četiri stranice: o = 4 · 12 cm = 48 cm.",
+      "savjet": "Duljina vrpce jednaka je opsegu poklopca."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-042",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg pravokutnika sa stranicama 3 dm i 5 cm. Rezultat izrazi u centimetrima.",
+      "ponudeni": [
+        "16 cm",
+        "35 cm",
+        "70 cm",
+        "65 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "3 dm = 30 cm, pa je o = 2 · 30 cm + 2 · 5 cm = 60 cm + 10 cm = 70 cm.",
+      "savjet": "Najprije pretvori decimetre u centimetre: 1 dm = 10 cm."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-043",
+      "tezina": "srednje",
+      "pitanje": "Opseg kvadrata je 48 m. Odredi duljinu njegove stranice.",
+      "ponudeni": [
+        "24 m",
+        "12 m",
+        "44 m",
+        "16 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "a = 48 m : 4 = 12 m, jer kvadrat ima četiri jednake stranice.",
+      "savjet": "Kvadrat ima četiri jednake stranice, pa opseg podijeli na četiri jednaka dijela."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-044",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg pravokutnika ABCD sa slike.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 40 mm, a stranica BC 25 mm.",
+        "tocke": {
+          "A": [
+            1,
+            2.5
+          ],
+          "B": [
+            9,
+            2.5
+          ],
+          "C": [
+            9,
+            7.5
+          ],
+          "D": [
+            1,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "40 mm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "25 mm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "130 mm",
+        "65 mm",
+        "105 mm",
+        "90 mm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "o = 2 · 40 mm + 2 · 25 mm = 80 mm + 50 mm = 130 mm.",
+      "savjet": "Zbroji dvije dulje i dvije kraće stranice pravokutnika."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-045",
+      "tezina": "srednje",
+      "pitanje": "Okvir slike oblika pravokutnika napravljen je od 26 dm letvice. Okvir je dug 8 dm. Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Okvir oblika pravokutnika ABCD; stranica AB duga je 8 dm, a stranica BC označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            2.5
+          ],
+          "B": [
+            9,
+            2.5
+          ],
+          "C": [
+            9,
+            7.5
+          ],
+          "D": [
+            1,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "18 dm",
+        "5 dm",
+        "10 dm",
+        "13 dm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dvije stranice od 8 dm imaju 16 dm, pa za druge dvije ostaje 26 dm − 16 dm = 10 dm. Tražena stranica je 10 dm : 2 = 5 dm.",
+      "savjet": "Letvica ide oko cijelog okvira, pa je njezina duljina opseg okvira."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-046",
+      "tezina": "srednje",
+      "pitanje": "Ana od žice duge 20 cm savija kvadrat i pritom iskoristi cijelu žicu. Odredi duljinu stranice tog kvadrata.",
+      "ponudeni": [
+        "10 cm",
+        "16 cm",
+        "80 cm",
+        "5 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Žica čini opseg kvadrata, pa je a = 20 cm : 4 = 5 cm.",
+      "savjet": "Duljina žice jednaka je opsegu kvadrata."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-047",
+      "tezina": "srednje",
+      "pitanje": "Kvadrat ima stranicu 7 cm, a pravokutnik stranice 9 cm i 4 cm. Koji lik ima veći opseg i za koliko?",
+      "ponudeni": [
+        "kvadrat, za 2 cm",
+        "pravokutnik, za 2 cm",
+        "kvadrat, za 1 cm",
+        "pravokutnik, za 3 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg kvadrata je 4 · 7 cm = 28 cm, a pravokutnika 2 · 9 cm + 2 · 4 cm = 26 cm. Kvadrat ima opseg veći za 2 cm.",
+      "savjet": "Izračunaj oba opsega, pa veći opseg umanji za manji."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-048",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg pravokutnika ABCD sa slike i izrazi ga u centimetrima.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 12 dm, a stranica BC 5 dm.",
+        "tocke": {
+          "A": [
+            1,
+            3.33
+          ],
+          "B": [
+            9,
+            3.33
+          ],
+          "C": [
+            9,
+            6.67
+          ],
+          "D": [
+            1,
+            6.67
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "12 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 dm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "34 cm",
+        "170 cm",
+        "340 cm",
+        "290 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 2 · 12 dm + 2 · 5 dm = 34 dm, a 34 dm = 340 cm.",
+      "savjet": "Izračunaj opseg u decimetrima, pa ga pretvori: 1 dm = 10 cm."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-049",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg kvadrata sa stranicom 2 m. Rezultat izrazi u decimetrima.",
+      "ponudeni": [
+        "8 dm",
+        "80 dm",
+        "40 dm",
+        "60 dm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "o = 4 · 2 m = 8 m, a 8 m = 80 dm.",
+      "savjet": "Izračunaj opseg u metrima, pa ga pretvori u decimetre: 1 m = 10 dm."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-050",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg kvadrata ABCD sa slike.",
+      "slika": {
+        "opis": "Kvadrat ABCD; stranica AB duga je 11 cm, a crtice pokazuju da su sve stranice jednake.",
+        "tocke": {
+          "A": [
+            1.5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            1.5
+          ],
+          "C": [
+            8.5,
+            8.5
+          ],
+          "D": [
+            1.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "11 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "44 cm",
+        "22 cm",
+        "121 cm",
+        "33 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "o = 4 · 11 cm = 44 cm.",
+      "savjet": "Crtice pokazuju da su sve četiri stranice kvadrata jednako duge."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-051",
+      "tezina": "srednje",
+      "pitanje": "Petra je uz cijeli rub gredice oblika pravokutnika posadila cvijeće. Gredica je duga 8 m i široka 3 m. Izračunaj duljinu ruba gredice.",
+      "ponudeni": [
+        "11 m",
+        "24 m",
+        "19 m",
+        "22 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Duljina ruba je opseg gredice: o = 2 · 8 m + 2 · 3 m = 16 m + 6 m = 22 m.",
+      "savjet": "Rub gredice čine sve četiri njezine stranice."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-052",
+      "tezina": "srednje",
+      "pitanje": "Opseg pravokutnika ABCD sa slike je 30 dm. Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB označena je upitnikom, a stranica BC duga je 4 dm.",
+        "tocke": {
+          "A": [
+            1,
+            3.55
+          ],
+          "B": [
+            9,
+            3.55
+          ],
+          "C": [
+            9,
+            6.45
+          ],
+          "D": [
+            1,
+            6.45
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 dm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "26 dm",
+        "22 dm",
+        "11 dm",
+        "15 dm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dvije stranice od 4 dm imaju 8 dm. Ostaje 30 dm − 8 dm = 22 dm za dvije jednake stranice, pa je tražena stranica 22 dm : 2 = 11 dm.",
+      "savjet": "Od opsega oduzmi obje kraće stranice, pa ostatak podijeli s 2."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-053",
+      "tezina": "srednje",
+      "pitanje": "Opseg kvadrata je 1 m. Odredi duljinu njegove stranice u centimetrima.",
+      "ponudeni": [
+        "50 cm",
+        "96 cm",
+        "25 cm",
+        "400 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 m = 100 cm, pa je a = 100 cm : 4 = 25 cm.",
+      "savjet": "Najprije pretvori metar u centimetre, pa opseg podijeli na četiri jednake stranice."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-054",
+      "tezina": "srednje",
+      "pitanje": "Okvir slike oblika pravokutnika ima stranice 30 cm i 20 cm. Izračunaj koliko je centimetara ukrasne trake potrebno za cijeli rub okvira.",
+      "ponudeni": [
+        "50 cm",
+        "600 cm",
+        "80 cm",
+        "100 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "o = 2 · 30 cm + 2 · 20 cm = 60 cm + 40 cm = 100 cm.",
+      "savjet": "Traka ide uz sve četiri stranice okvira."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-055",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik ABCD sa slike ima opseg 22 cm. Izračunaj zbroj duljina stranica AB i BC.",
+      "slika": {
+        "opis": "Pravokutnik ABCD bez oznaka duljina stranica.",
+        "tocke": {
+          "A": [
+            1,
+            2.71
+          ],
+          "B": [
+            9,
+            2.71
+          ],
+          "C": [
+            9,
+            7.29
+          ],
+          "D": [
+            1,
+            7.29
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": []
+      },
+      "ponudeni": [
+        "11 cm",
+        "22 cm",
+        "44 cm",
+        "20 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg čine dvije stranice duge kao AB i dvije duge kao BC, pa je AB + BC polovina opsega: 22 cm : 2 = 11 cm.",
+      "savjet": "Sjeti se da je stranica CD jednako duga kao AB, a stranica DA kao BC."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-056",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg kvadrata sa stranicom 30 mm. Rezultat izrazi u centimetrima.",
+      "ponudeni": [
+        "120 cm",
+        "12 cm",
+        "6 cm",
+        "9 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "o = 4 · 30 mm = 120 mm, a 120 mm = 12 cm.",
+      "savjet": "Izračunaj opseg u milimetrima, pa ga pretvori: 10 mm = 1 cm."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-057",
+      "tezina": "srednje",
+      "pitanje": "Luka je kvadratno dvorište ogradio s 60 m ograde. Odredi duljinu jedne stranice dvorišta.",
+      "ponudeni": [
+        "30 m",
+        "56 m",
+        "20 m",
+        "15 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ograda ide oko cijelog dvorišta, pa je opseg 60 m, a stranica a = 60 m : 4 = 15 m.",
+      "savjet": "Duljina ograde jednaka je opsegu kvadratnog dvorišta."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-058",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik ima stranice 10 cm i 2 cm, a kvadrat stranicu 5 cm. Odaberi točnu tvrdnju o njihovim opsezima.",
+      "ponudeni": [
+        "Kvadrat ima veći opseg.",
+        "Pravokutnik ima veći opseg.",
+        "Opsezi su jednaki.",
+        "Kvadrat ima dvostruko veći opseg."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opseg pravokutnika je 2 · 10 cm + 2 · 2 cm = 24 cm, a kvadrata 4 · 5 cm = 20 cm, pa pravokutnik ima veći opseg.",
+      "savjet": "Izračunaj opseg svakog lika posebno, pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-059",
+      "tezina": "srednje",
+      "pitanje": "Mia je uz cijeli rub kvadratnog poklopca kutije sa stranicom 20 cm zalijepila vrpcu. Izračunaj koliko je vrpce zalijepila i izrazi rezultat u decimetrima.",
+      "ponudeni": [
+        "80 dm",
+        "4 dm",
+        "8 dm",
+        "40 dm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 4 · 20 cm = 80 cm, a 80 cm = 8 dm.",
+      "savjet": "Izračunaj opseg u centimetrima, pa ga pretvori: 10 cm = 1 dm."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-060",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj opseg pravokutnika ABCD sa slike u centimetrima.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 1 m, a stranica BC 30 cm.",
+        "tocke": {
+          "A": [
+            1,
+            3.8
+          ],
+          "B": [
+            9,
+            3.8
+          ],
+          "C": [
+            9,
+            6.2
+          ],
+          "D": [
+            1,
+            6.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "1 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "30 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "260 cm",
+        "62 cm",
+        "130 cm",
+        "230 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 m = 100 cm, pa je o = 2 · 100 cm + 2 · 30 cm = 200 cm + 60 cm = 260 cm.",
+      "savjet": "Pazi na mjerne jedinice: jedna je stranica u metrima, a druga u centimetrima."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-061",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD na slici dug je 9 cm, a širok je 3 cm manje. Izračunaj njegov opseg.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 9 cm, a stranica BC nije označena.",
+        "tocke": {
+          "A": [
+            1,
+            2.33
+          ],
+          "B": [
+            9,
+            2.33
+          ],
+          "C": [
+            9,
+            7.67
+          ],
+          "D": [
+            1,
+            7.67
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "9 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "30 cm",
+        "24 cm",
+        "15 cm",
+        "54 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Širina je 9 cm − 3 cm = 6 cm, pa je o = 2 · 9 cm + 2 · 6 cm = 18 cm + 12 cm = 30 cm.",
+      "savjet": "Najprije odredi širinu pravokutnika, pa tek onda računaj opseg."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-062",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat i pravokutnik imaju jednake opsege. Pravokutnik ima stranice 7 cm i 5 cm. Odredi duljinu stranice kvadrata.",
+      "ponudeni": [
+        "12 cm",
+        "24 cm",
+        "6 cm",
+        "8 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg pravokutnika je 2 · 7 cm + 2 · 5 cm = 24 cm. Stranica kvadrata je 24 cm : 4 = 6 cm.",
+      "savjet": "Najprije izračunaj opseg pravokutnika, a zatim ga podijeli na četiri jednake stranice kvadrata."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-063",
+      "tezina": "tesko",
+      "pitanje": "Dva jednaka kvadrata sa stranicom 4 cm složena su jedan do drugoga kao na slici. Izračunaj opseg novog lika ACDF.",
+      "slika": {
+        "opis": "Kvadrati ABEF i BCDE sa stranicom 4 cm leže jedan uz drugoga i dijele stranicu BE.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            5,
+            3
+          ],
+          "C": [
+            9,
+            3
+          ],
+          "D": [
+            9,
+            7
+          ],
+          "E": [
+            5,
+            7
+          ],
+          "F": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "E",
+            "crtice": 1
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "crtice": 1
+          },
+          {
+            "od": "F",
+            "do": "A",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "E",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "32 cm",
+        "24 cm",
+        "16 cm",
+        "20 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik ACDF je pravokutnik sa stranicama 8 cm i 4 cm, pa je o = 2 · 8 cm + 2 · 4 cm = 24 cm. Zajednička stranica BE nije na rubu lika.",
+      "savjet": "Opseg čini samo vanjski rub lika; stranica koju kvadrati dijele nije dio ruba."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-064",
+      "tezina": "tesko",
+      "pitanje": "Opseg pravokutnika je 2 m, a jedna mu je stranica duga 60 cm. Odredi duljinu druge stranice.",
+      "ponudeni": [
+        "140 cm",
+        "80 cm",
+        "100 cm",
+        "40 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 m = 200 cm. Dvije stranice od 60 cm imaju 120 cm, pa za druge dvije ostaje 80 cm; druga stranica je 40 cm.",
+      "savjet": "Opseg najprije izrazi u centimetrima."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-065",
+      "tezina": "tesko",
+      "pitanje": "Lik ABCDEF na slici složen je od dvaju pravokutnika. Izračunaj opseg tog lika.",
+      "slika": {
+        "opis": "Lik ABCDEF složen od dvaju pravokutnika: AB = 8 cm, BC = 4 cm, EF = 3 cm i FA = 8 cm; stranice CD i DE nisu označene.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            5
+          ],
+          "D": [
+            4,
+            5
+          ],
+          "E": [
+            4,
+            9
+          ],
+          "F": [
+            1,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "F",
+            "do": "A",
+            "oznaka": "8 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "32 cm",
+        "23 cm",
+        "38 cm",
+        "28 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Neoznačene stranice su CD = 8 cm − 3 cm = 5 cm i DE = 8 cm − 4 cm = 4 cm. Opseg je 8 cm + 4 cm + 5 cm + 4 cm + 3 cm + 8 cm = 32 cm.",
+      "savjet": "Prvo odredi duljine stranica CD i DE pomoću duljina AB, BC, EF i FA."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-066",
+      "tezina": "tesko",
+      "pitanje": "Ruža je ogradila livadu oblika pravokutnika. Dvije susjedne stranice livade zajedno su duge 35 m. Izračunaj duljinu cijele ograde.",
+      "ponudeni": [
+        "35 m",
+        "70 m",
+        "140 m",
+        "105 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nasuprotne stranice pravokutnika jednako su duge, pa dvije susjedne stranice čine pola ruba. Cijela ograda duga je 2 · 35 m = 70 m.",
+      "savjet": "Sjeti se da pravokutnik ima dva para jednako dugih nasuprotnih stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-067",
+      "tezina": "tesko",
+      "pitanje": "Ema je triput optrčala igralište oblika pravokutnika dugo 40 m i široko 20 m. Izračunaj koliko je metara ukupno pretrčala.",
+      "ponudeni": [
+        "120 m",
+        "180 m",
+        "360 m",
+        "300 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan krug je o = 2 · 40 m + 2 · 20 m = 120 m, a tri kruga 3 · 120 m = 360 m.",
+      "savjet": "Najprije izračunaj koliko je dug jedan krug oko igrališta."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-068",
+      "tezina": "tesko",
+      "pitanje": "Vrt oblika kvadrata ima stranicu 9 m. Ograda se postavlja uz cijeli rub vrta, osim na ulazu širokom 1 m. Izračunaj koliko je metara ograde potrebno.",
+      "ponudeni": [
+        "36 m",
+        "37 m",
+        "80 m",
+        "35 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg vrta je 4 · 9 m = 36 m. Bez ulaza treba 36 m − 1 m = 35 m ograde.",
+      "savjet": "Izračunaj opseg vrta, pa razmisli što treba učiniti s ulazom."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-069",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ima opseg 36 cm. Njegova je duljina dvostruko veća od širine. Odredi širinu pravokutnika.",
+      "ponudeni": [
+        "12 cm",
+        "9 cm",
+        "6 cm",
+        "18 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg čine dvije duljine i dvije širine, a svaka duljina vrijedi kao dvije širine, pa opseg čini šest širina: 36 cm : 6 = 6 cm.",
+      "savjet": "Zamijeni svaku duljinu s dvije širine, pa prebroji koliko širina čini opseg."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-070",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ima stranicu 8 cm. Pravokutnik ima isti opseg kao kvadrat, a jedna mu je stranica duga 10 cm. Odredi duljinu druge stranice pravokutnika.",
+      "ponudeni": [
+        "6 cm",
+        "22 cm",
+        "12 cm",
+        "2 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Opseg kvadrata je 4 · 8 cm = 32 cm. Za pravokutnik vrijedi 32 cm − 2 · 10 cm = 12 cm, a 12 cm : 2 = 6 cm.",
+      "savjet": "Najprije izračunaj opseg kvadrata; to je ujedno opseg pravokutnika."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-071",
+      "tezina": "tesko",
+      "pitanje": "Gredica ABCDEF na slici složena je od dvaju pravokutnika. Izračunaj koliko je decimetara obruba potrebno za cijeli rub gredice.",
+      "slika": {
+        "opis": "Gredica ABCDEF složena od dvaju pravokutnika: AB = 8 dm, BC = 3 dm, EF = 4 dm i FA = 6 dm; stranice CD i DE nisu označene.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            4
+          ],
+          "D": [
+            5,
+            4
+          ],
+          "E": [
+            5,
+            7
+          ],
+          "F": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 dm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "4 dm"
+          },
+          {
+            "od": "F",
+            "do": "A",
+            "oznaka": "6 dm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "21 dm",
+        "34 dm",
+        "25 dm",
+        "28 dm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Neoznačene stranice su CD = 8 dm − 4 dm = 4 dm i DE = 6 dm − 3 dm = 3 dm. Opseg je 8 dm + 3 dm + 4 dm + 3 dm + 4 dm + 6 dm = 28 dm.",
+      "savjet": "Duljine neoznačenih stranica izračunaj iz označenih, pa zbroji svih šest stranica."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-072",
+      "tezina": "tesko",
+      "pitanje": "Stranica kvadrata duga je 3 cm. Stranicu produljimo tako da bude dvostruko dulja. Izračunaj opseg novog kvadrata.",
+      "ponudeni": [
+        "12 cm",
+        "24 cm",
+        "36 cm",
+        "18 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nova stranica je 2 · 3 cm = 6 cm, pa je opseg novog kvadrata 4 · 6 cm = 24 cm.",
+      "savjet": "Najprije odredi duljinu stranice novog kvadrata."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-073",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj opseg pravokutnika sa stranicama 1 m i 5 dm. Rezultat izrazi u centimetrima.",
+      "ponudeni": [
+        "150 cm",
+        "30 cm",
+        "250 cm",
+        "300 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "1 m = 100 cm i 5 dm = 50 cm, pa je o = 2 · 100 cm + 2 · 50 cm = 300 cm.",
+      "savjet": "Obje stranice najprije izrazi u centimetrima."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-074",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik A ima stranice 9 cm i 3 cm, a pravokutnik B stranice 6 cm i 5 cm. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Pravokutnik B ima opseg veći za 2 cm.",
+        "Pravokutnik B ima opseg veći za 3 cm.",
+        "Pravokutnik A ima opseg veći za 2 cm.",
+        "Pravokutnici imaju jednake opsege."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opseg pravokutnika A je 2 · 9 cm + 2 · 3 cm = 24 cm, a pravokutnika B 2 · 6 cm + 2 · 5 cm = 22 cm. Opseg pravokutnika A veći je za 2 cm.",
+      "savjet": "Izračunaj opseg svakog pravokutnika posebno, pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-075",
+      "tezina": "tesko",
+      "pitanje": "Opseg kvadrata je 2 dm. Odredi duljinu njegove stranice u milimetrima.",
+      "ponudeni": [
+        "5 mm",
+        "50 mm",
+        "20 mm",
+        "100 mm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "2 dm = 200 mm, pa je a = 200 mm : 4 = 50 mm.",
+      "savjet": "Opseg najprije izrazi u milimetrima: 1 dm = 100 mm."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-076",
+      "tezina": "tesko",
+      "pitanje": "Stranica AB pravokutnika ABCD na slici triput je dulja od stranice DA. Izračunaj opseg pravokutnika.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica DA duga je 4 cm, a stranica AB nije označena.",
+        "tocke": {
+          "A": [
+            1,
+            3.67
+          ],
+          "B": [
+            9,
+            3.67
+          ],
+          "C": [
+            9,
+            6.33
+          ],
+          "D": [
+            1,
+            6.33
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "D",
+            "do": "A",
+            "oznaka": "4 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "32 cm",
+        "16 cm",
+        "28 cm",
+        "48 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "AB = 3 · 4 cm = 12 cm, pa je o = 2 · 12 cm + 2 · 4 cm = 24 cm + 8 cm = 32 cm.",
+      "savjet": "Najprije izračunaj duljinu stranice AB."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-077",
+      "tezina": "tesko",
+      "pitanje": "Dva jednaka pravokutnika sa stranicama 5 cm i 2 cm složena su duljim stranicama jedan uz drugi kao na slici. Izračunaj opseg lika ABCD.",
+      "slika": {
+        "opis": "Pravokutnici ABEF i FECD, svaki sa stranicama 5 cm i 2 cm, leže jedan iznad drugoga i dijele stranicu FE.",
+        "tocke": {
+          "A": [
+            1,
+            1.8
+          ],
+          "B": [
+            9,
+            1.8
+          ],
+          "E": [
+            9,
+            5
+          ],
+          "F": [
+            1,
+            5
+          ],
+          "C": [
+            9,
+            8.2
+          ],
+          "D": [
+            1,
+            8.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "F",
+              "E",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "E",
+            "oznaka": "2 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "28 cm",
+        "18 cm",
+        "14 cm",
+        "20 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik ABCD je pravokutnik sa stranicama 5 cm i 2 cm + 2 cm = 4 cm, pa je o = 2 · 5 cm + 2 · 4 cm = 18 cm.",
+      "savjet": "Odredi duljine stranica lika ABCD; zajednička stranica dvaju pravokutnika nije dio njegova ruba."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-078",
+      "tezina": "tesko",
+      "pitanje": "Lea ima vrpcu dugu 1 m. Njome je obrubila rub kvadratnog poklopca sa stranicom 15 cm. Izračunaj koliko joj je vrpce ostalo.",
+      "ponudeni": [
+        "60 cm",
+        "85 cm",
+        "55 cm",
+        "40 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za rub poklopca treba 4 · 15 cm = 60 cm vrpce. Ostalo je 100 cm − 60 cm = 40 cm.",
+      "savjet": "Izračunaj opseg poklopca, a duljinu vrpce izrazi u centimetrima."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-079",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat i pravokutnik imaju jednak opseg od 40 cm. Pravokutnik je dug 12 cm. Odredi za koliko je stranica kvadrata dulja od širine pravokutnika.",
+      "ponudeni": [
+        "2 cm",
+        "4 cm",
+        "8 cm",
+        "10 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica kvadrata je 40 cm : 4 = 10 cm, a širina pravokutnika (40 cm − 24 cm) : 2 = 8 cm. Razlika je 10 cm − 8 cm = 2 cm.",
+      "savjet": "Izračunaj posebno stranicu kvadrata i širinu pravokutnika, pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-080",
+      "tezina": "tesko",
+      "pitanje": "Uz cijeli rub terase oblika pravokutnika, duge 6 m i široke 4 m, postavljaju se rubne pločice. Za svaki metar ruba potrebno je 5 pločica. Odredi koliko je pločica potrebno.",
+      "ponudeni": [
+        "50 pločica",
+        "120 pločica",
+        "100 pločica",
+        "80 pločica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rub terase dug je o = 2 · 6 m + 2 · 4 m = 20 m. Potrebno je 20 · 5 = 100 pločica.",
+      "savjet": "Najprije izračunaj koliko je metara dug rub terase."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-081",
+      "tezina": "tesko",
+      "pitanje": "Opseg pravokutnika ABCD sa slike je 5 dm. Odredi duljinu stranice označene upitnikom u centimetrima.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 15 cm, a stranica BC označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            2.33
+          ],
+          "B": [
+            9,
+            2.33
+          ],
+          "C": [
+            9,
+            7.67
+          ],
+          "D": [
+            1,
+            7.67
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "15 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "35 cm",
+        "10 cm",
+        "20 cm",
+        "25 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "5 dm = 50 cm. Dvije stranice od 15 cm imaju 30 cm, ostaje 20 cm, pa je tražena stranica 20 cm : 2 = 10 cm.",
+      "savjet": "Opseg najprije izrazi u centimetrima, pa od njega oduzmi obje poznate stranice."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-082",
+      "tezina": "tesko",
+      "pitanje": "Teo trči oko igrališta oblika kvadrata sa stranicom 50 m. Želi pretrčati ukupno 1 km. Odredi koliko puta mora optrčati igralište.",
+      "ponudeni": [
+        "5 puta",
+        "20 puta",
+        "10 puta",
+        "4 puta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan krug je 4 · 50 m = 200 m, a 1 km = 1000 m. Teo mora optrčati igralište 1000 m : 200 m = 5 puta.",
+      "savjet": "Najprije izračunaj koliko je dug jedan krug, a 1 km pretvori u metre."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-083",
+      "tezina": "tesko",
+      "pitanje": "Lik ABCDEF na slici složen je od kvadrata AGEF i pravokutnika GBCD. Izračunaj opseg cijelog lika ABCDEF.",
+      "slika": {
+        "opis": "Kvadrat AGEF sa stranicom 4 m i pravokutnik GBCD sa stranicama GB = 4 m i BC = 2 m leže jedan uz drugoga.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "G": [
+            5,
+            3
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            9,
+            5
+          ],
+          "D": [
+            5,
+            5
+          ],
+          "E": [
+            5,
+            7
+          ],
+          "F": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "G",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "G",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "F",
+            "do": "A",
+            "oznaka": "4 m",
+            "crtice": 1
+          },
+          {
+            "od": "A",
+            "do": "G",
+            "crtice": 1
+          },
+          {
+            "od": "G",
+            "do": "E",
+            "crtice": 1
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "crtice": 1
+          },
+          {
+            "od": "G",
+            "do": "B",
+            "oznaka": "4 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "2 m"
+          }
+        ]
+      },
+      "ponudeni": [
+        "28 m",
+        "26 m",
+        "20 m",
+        "24 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rub lika čine AB = 8 m, BC = 2 m, CD = 4 m, DE = 2 m, EF = 4 m i FA = 4 m, pa je opseg 24 m. Dužina GD zajednička je kvadratu i pravokutniku i ne ubraja se u opseg.",
+      "savjet": "U opseg ulaze samo stranice na vanjskom rubu lika, a ne zajednički dio kvadrata i pravokutnika."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-084",
+      "tezina": "tesko",
+      "pitanje": "Opseg pravokutnika je 24 cm. Jedna mu je stranica za 2 cm dulja od druge. Odredi duljinu kraće stranice.",
+      "ponudeni": [
+        "6 cm",
+        "7 cm",
+        "5 cm",
+        "10 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dvije susjedne stranice zajedno imaju 24 cm : 2 = 12 cm. Kraća je 5 cm, a dulja 7 cm, jer je 5 cm + 7 cm = 12 cm.",
+      "savjet": "Zbroj dviju susjednih stranica pravokutnika jednak je polovini opsega."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-085",
+      "tezina": "tesko",
+      "pitanje": "Stranica kvadrata duga je 35 cm. Izračunaj opseg kvadrata i izrazi ga u decimetrima.",
+      "ponudeni": [
+        "140 dm",
+        "7 dm",
+        "14 dm",
+        "12 dm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "o = 4 · 35 cm = 140 cm, a 140 cm = 14 dm.",
+      "savjet": "Izračunaj opseg u centimetrima, pa ga pretvori u decimetre: 10 cm = 1 dm."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-086",
+      "tezina": "tesko",
+      "pitanje": "Žica duga 48 cm savijena je u pravokutnik ABCD prikazan na slici. Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB duga je 15 cm, a stranica BC označena je upitnikom.",
+        "tocke": {
+          "A": [
+            1,
+            2.6
+          ],
+          "B": [
+            9,
+            2.6
+          ],
+          "C": [
+            9,
+            7.4
+          ],
+          "D": [
+            1,
+            7.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "15 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ]
+      },
+      "ponudeni": [
+        "33 cm",
+        "18 cm",
+        "12 cm",
+        "9 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvije stranice od 15 cm imaju 30 cm. Ostaje 48 cm − 30 cm = 18 cm, pa je tražena stranica 18 cm : 2 = 9 cm.",
+      "savjet": "Duljina žice jednaka je opsegu pravokutnika."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-087",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD na slici dužinom EF podijeljen je na dva jednaka kvadrata. Izračunaj opseg kvadrata AEFD.",
+      "slika": {
+        "opis": "Pravokutnik ABCD sa stranicama AB = 10 cm i BC = 5 cm, podijeljen dužinom EF na kvadrate AEFD i EBCF.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "E": [
+            5,
+            3
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "F": [
+            5,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "E",
+              "F",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "B",
+              "C",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "10 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          }
+        ]
+      },
+      "ponudeni": [
+        "20 cm",
+        "30 cm",
+        "15 cm",
+        "25 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica kvadrata je 10 cm : 2 = 5 cm, pa je opseg kvadrata 4 · 5 cm = 20 cm.",
+      "savjet": "Pomoću označenih duljina odredi koliko je duga stranica jednog kvadrata."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-088",
+      "tezina": "tesko",
+      "pitanje": "Za okvir slike oblika kvadrata sa stranicom 45 cm kupljena je letvica duga 2 m. Izračunaj koliko će letvice ostati nakon izrade okvira.",
+      "ponudeni": [
+        "180 cm",
+        "20 cm",
+        "110 cm",
+        "155 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za okvir treba 4 · 45 cm = 180 cm letvice, a 2 m = 200 cm. Ostat će 200 cm − 180 cm = 20 cm.",
+      "savjet": "Izračunaj opseg slike, a duljinu letvice izrazi u centimetrima."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-089",
+      "tezina": "tesko",
+      "pitanje": "Kvadratni vrt ograđen je s 36 m ograde. Pravokutni vrt jednako je širok kao kvadratni, a dvostruko je dulji. Izračunaj opseg pravokutnog vrta.",
+      "ponudeni": [
+        "72 m",
+        "45 m",
+        "27 m",
+        "54 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranica kvadratnog vrta je 36 m : 4 = 9 m. Pravokutni vrt ima stranice 18 m i 9 m, pa je o = 2 · 18 m + 2 · 9 m = 54 m.",
+      "savjet": "Najprije odredi duljinu stranice kvadratnog vrta."
+    },
+    {
+      "id": "4-matematika-opseg-pravokutnika-i-kvadrata-090",
+      "tezina": "tesko",
+      "pitanje": "Na slici su pravokutnik ABCD i kvadrat EFGH. Koji lik ima veći opseg i za koliko?",
+      "slika": {
+        "opis": "Pravokutnik ABCD sa stranicama AB = 7 cm i BC = 2 cm te kvadrat EFGH sa stranicom EF = 4 cm.",
+        "tocke": {
+          "A": [
+            1.15,
+            1
+          ],
+          "B": [
+            8.85,
+            1
+          ],
+          "C": [
+            8.85,
+            3.2
+          ],
+          "D": [
+            1.15,
+            3.2
+          ],
+          "E": [
+            1.15,
+            4.3
+          ],
+          "F": [
+            5.55,
+            4.3
+          ],
+          "G": [
+            5.55,
+            8.7
+          ],
+          "H": [
+            1.15,
+            8.7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "2 cm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "4 cm",
+            "crtice": 1
+          },
+          {
+            "od": "F",
+            "do": "G",
+            "crtice": 1
+          },
+          {
+            "od": "G",
+            "do": "H",
+            "crtice": 1
+          },
+          {
+            "od": "H",
+            "do": "E",
+            "crtice": 1
+          }
+        ]
+      },
+      "ponudeni": [
+        "kvadrat, za 2 cm",
+        "pravokutnik, za 2 cm",
+        "pravokutnik, za 3 cm",
+        "kvadrat, za 1 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opseg pravokutnika je 2 · 7 cm + 2 · 2 cm = 18 cm, a kvadrata 4 · 4 cm = 16 cm. Pravokutnik ima opseg veći za 2 cm.",
+      "savjet": "Izračunaj opseg svakog lika, pa veći opseg umanji za manji."
+    }
+  ]
+}

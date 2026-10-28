@@ -1,0 +1,4019 @@
+{
+  "lekcijaId": "vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata",
+  "pitanja": [
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko vrhova ima pravokutnik.",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutnik ima četiri vrha. Označavamo ih velikim slovima A, B, C i D.",
+      "savjet": "Prebroji točke u kojima se sastaju dvije stranice pravokutnika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko pravih kutova ima kvadrat.",
+      "ponudeni": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat ima četiri vrha i u svakom je vrhu pravi kut, pa ima četiri prava kuta.",
+      "savjet": "Sjeti se kakav je kut u svakom vrhu kvadrata."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-003",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakvi su kutovi pravokutnika.",
+      "ponudeni": [
+        "šiljasti",
+        "tupi",
+        "ispruženi",
+        "pravi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svi kutovi pravokutnika su pravi. Takav je kut i u uglu lista papira.",
+      "savjet": "Zamisli ugao lista papira ili školske ploče."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-004",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o stranicama kvadrata.",
+      "ponudeni": [
+        "Samo su dvije stranice jednake duljine.",
+        "Sve četiri stranice jednake su duljine.",
+        "Sve su stranice različitih duljina.",
+        "Samo su tri stranice jednake duljine."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat ima sve četiri stranice jednake duljine. Zato se duljina njegove stranice označava jednim slovom.",
+      "savjet": "Zamisli da ravnalom mjeriš stranice jednog polja na šahovskoj ploči."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o stranicama pravokutnika.",
+      "ponudeni": [
+        "Nasuprotne stranice jednake su duljine.",
+        "Susjedne stranice jednake su, a nasuprotne različite.",
+        "Sve su stranice različitih duljina.",
+        "Samo je jedna stranica dulja od ostalih."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U pravokutniku su nasuprotne stranice jednake duljine: AB i CD te BC i DA.",
+      "savjet": "Pogledaj stranice pravokutnika koje nemaju zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-006",
+      "tezina": "lagano",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi stranicu koja je nasuprotna stranici AB.",
+      "ponudeni": [
+        "BC",
+        "AC",
+        "CD",
+        "DA"
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica CD nasuprotna je stranici AB jer s njom nema zajednički vrh.",
+      "savjet": "Nasuprotna stranica ne dodiruje stranicu AB ni u jednom vrhu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-007",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točku na slici koja nije vrh pravokutnika.",
+      "ponudeni": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Pravokutnik i pet označenih točaka: A, B, C, D i E.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            7.5
+          ],
+          "D": [
+            1,
+            7.5
+          ],
+          "E": [
+            5,
+            2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "istaknuteTocke": [
+          "E"
+        ]
+      },
+      "objasnjenje": "Točka E leži na stranici AB, ali nije vrh. Vrhovi su točke u kojima se sastaju dvije stranice.",
+      "savjet": "Vrh je točka u kojoj se sastaju dvije stranice lika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-008",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se označavaju vrhovi pravokutnika.",
+      "ponudeni": [
+        "malim tiskanim slovima",
+        "velikim tiskanim slovima",
+        "grčkim slovima",
+        "rimskim brojevima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrhovi pravokutnika označavaju se velikim tiskanim slovima, na primjer A, B, C i D.",
+      "savjet": "Sjeti se kako je zapisano ime pravokutnika ABCD."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-009",
+      "tezina": "lagano",
+      "pitanje": "Odaberi slova kojima se obično označavaju duljine stranica pravokutnika.",
+      "ponudeni": [
+        "α i β",
+        "A, B, C i D",
+        "a i b",
+        "x, y, z i w"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Duljine stranica pravokutnika označavaju se malim slovima a i b jer su mu nasuprotne stranice jednake.",
+      "savjet": "Pravokutnik ima samo dvije različite duljine stranica, pa su potrebne dvije oznake."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-010",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se obično označava duljina stranice kvadrata.",
+      "ponudeni": [
+        "a",
+        "a i b",
+        "a, b, c i d",
+        "α"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve su stranice kvadrata jednake, pa se njihova duljina označava jednim slovom a.",
+      "savjet": "Kvadratu su sve stranice jednako duge, pa je dovoljna jedna oznaka."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-011",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kvadrat ABCD. Odaberi duljinu stranice BC.",
+      "ponudeni": [
+        "12 cm",
+        "3 cm",
+        "24 cm",
+        "6 cm"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Kvadrat ABCD; stranica AB duga je 6 cm.",
+        "tocke": {
+          "A": [
+            2,
+            1.5
+          ],
+          "B": [
+            8.5,
+            1.5
+          ],
+          "C": [
+            8.5,
+            8
+          ],
+          "D": [
+            2,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Kvadrat ima sve stranice jednake, pa je i stranica BC duga 6 cm.",
+      "savjet": "Sjeti se što vrijedi za duljine svih stranica kvadrata."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-012",
+      "tezina": "lagano",
+      "pitanje": "Odaberi predmet koji najčešće ima oblik kvadrata.",
+      "ponudeni": [
+        "novčanica",
+        "polje na šahovskoj ploči",
+        "vrata sobe",
+        "kotač bicikla"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polja na šahovskoj ploči imaju sve stranice jednake i sve kutove prave, pa su kvadrati.",
+      "savjet": "Traži predmet kojemu su sve četiri stranice jednako duge."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi predmet koji ima oblik pravokutnika, a nije kvadrat.",
+      "ponudeni": [
+        "kotač bicikla",
+        "polje na šahovskoj ploči",
+        "vrata sobe",
+        "trokutasti prometni znak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrata sobe imaju dvije dulje i dvije kraće stranice te sve kutove prave.",
+      "savjet": "Traži predmet s pravim kutovima kojemu su dvije stranice dulje od druge dvije."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-014",
+      "tezina": "lagano",
+      "pitanje": "Na slici su četiri četverokuta. Odaberi onaj koji je kvadrat.",
+      "ponudeni": [
+        "ABCD",
+        "EFGH",
+        "IJKL",
+        "MNOP"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Četiri četverokuta: ABCD, EFGH, IJKL i MNOP.",
+        "tocke": {
+          "A": [
+            0.8,
+            5.5
+          ],
+          "B": [
+            4.3,
+            5.5
+          ],
+          "C": [
+            4.3,
+            9
+          ],
+          "D": [
+            0.8,
+            9
+          ],
+          "E": [
+            5.5,
+            6.5
+          ],
+          "F": [
+            9.5,
+            6.5
+          ],
+          "G": [
+            9.5,
+            8.5
+          ],
+          "H": [
+            5.5,
+            8.5
+          ],
+          "I": [
+            0.3,
+            0.8
+          ],
+          "J": [
+            3.3,
+            0.8
+          ],
+          "K": [
+            5.1,
+            3.2
+          ],
+          "L": [
+            2.1,
+            3.2
+          ],
+          "M": [
+            5.8,
+            0.8
+          ],
+          "N": [
+            8.8,
+            0.8
+          ],
+          "O": [
+            9.8,
+            3.8
+          ],
+          "P": [
+            6.8,
+            3.8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "I",
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "M",
+              "N",
+              "O",
+              "P"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "objasnjenje": "Četverokut ABCD ima sve stranice jednake i sve kutove prave, pa je kvadrat.",
+      "savjet": "Traži lik kojemu su i sve stranice jednake i svi kutovi pravi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-015",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zove točka u kojoj se sastaju dvije susjedne stranice pravokutnika.",
+      "ponudeni": [
+        "kut",
+        "središte",
+        "stranica",
+        "vrh"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka u kojoj se sastaju dvije susjedne stranice zove se vrh. Pravokutnik ima četiri vrha.",
+      "savjet": "Takve su točke u pravokutniku ABCD označene slovima A, B, C i D."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-016",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zovu dužine koje omeđuju pravokutnik.",
+      "ponudeni": [
+        "stranice",
+        "vrhovi",
+        "kutovi",
+        "polumjeri"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravokutnik je omeđen četirima dužinama koje se zovu stranice: AB, BC, CD i DA.",
+      "savjet": "Sjeti se kako zovemo dužine AB, BC, CD i DA u pravokutniku ABCD."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-017",
+      "tezina": "lagano",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi stranicu koja je susjedna stranici AB.",
+      "ponudeni": [
+        "CD",
+        "BC",
+        "AC",
+        "BD"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Uspravni pravokutnik ABCD; vrhovi A i B su dolje.",
+        "tocke": {
+          "A": [
+            3,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            7,
+            9
+          ],
+          "D": [
+            3,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranice AB i BC imaju zajednički vrh B, pa su susjedne.",
+      "savjet": "Susjedne stranice imaju zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-018",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se zove lik na slici.",
+      "ponudeni": [
+        "trokut",
+        "peterokut",
+        "kvadrat",
+        "šesterokut"
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Zakrenuti četverokut ABCD s oznakama na stranicama i kutovima.",
+        "tocke": {
+          "A": [
+            3,
+            0.5
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            6.5,
+            9
+          ],
+          "D": [
+            0.5,
+            6.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Lik ima četiri jednake stranice i četiri prava kuta, pa je kvadrat i kad je zakrenut.",
+      "savjet": "Prebroji stranice i pogledaj oznake na stranicama i kutovima."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-019",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv lika nacrtanog na slici.",
+      "ponudeni": [
+        "pravokutnik",
+        "kvadrat",
+        "trokut",
+        "peterokut"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Zakrenuti četverokut ABCD s oznakama na stranicama i kutovima.",
+        "tocke": {
+          "A": [
+            1.5,
+            1
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            7.8,
+            7.5
+          ],
+          "D": [
+            0.3,
+            5.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 2
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 2
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Lik ima sve kutove prave i po dvije jednake nasuprotne stranice, a susjedne su mu različite, pa je pravokutnik.",
+      "savjet": "Pogledaj oznake: koje su stranice jednake i kakvi su kutovi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-020",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv za stranice pravokutnika koje nemaju zajednički vrh.",
+      "ponudeni": [
+        "susjedne stranice",
+        "nasuprotne stranice",
+        "zajedničke stranice",
+        "kratke stranice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice bez zajedničkog vrha, poput AB i CD, zovu se nasuprotne stranice.",
+      "savjet": "Pomisli na stranice AB i CD u pravokutniku ABCD."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-021",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv za dvije stranice pravokutnika koje imaju zajednički vrh.",
+      "ponudeni": [
+        "nasuprotne stranice",
+        "jednake stranice",
+        "duge stranice",
+        "susjedne stranice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice sa zajedničkim vrhom, poput AB i BC, zovu se susjedne stranice.",
+      "savjet": "Pomisli na stranice AB i BC koje se sastaju u vrhu B."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-022",
+      "tezina": "lagano",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi kakav je njegov kut kod vrha C.",
+      "ponudeni": [
+        "šiljasti",
+        "tupi",
+        "pravi",
+        "ispruženi"
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD s označenim kutom kod vrha C.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            9,
+            4.5
+          ],
+          "C": [
+            7.25,
+            8
+          ],
+          "D": [
+            0.25,
+            4.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "C"
+          }
+        ]
+      },
+      "objasnjenje": "Svi kutovi pravokutnika su pravi, pa je i kut kod vrha C pravi, iako je lik zakrenut.",
+      "savjet": "Sjeti se kakvi su kutovi u svim vrhovima pravokutnika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-023",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko parova nasuprotnih stranica ima pravokutnik.",
+      "ponudeni": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravokutnik ima dva para nasuprotnih stranica: AB i CD te BC i DA.",
+      "savjet": "Spari svaku stranicu s onom koja s njom nema zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-024",
+      "tezina": "lagano",
+      "pitanje": "Odaberi gdje u učionici možeš vidjeti pravi kut.",
+      "ponudeni": [
+        "na okruglome satu",
+        "u uglu školske ploče",
+        "na vrhu zašiljene olovke",
+        "na lopti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Školska ploča ima oblik pravokutnika, a svi su kutovi pravokutnika pravi.",
+      "savjet": "Traži predmet oblika pravokutnika pa pogledaj njegove uglove."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-025",
+      "tezina": "lagano",
+      "pitanje": "Odaberi lik kojemu su sve stranice jednake duljine i svi kutovi pravi.",
+      "ponudeni": [
+        "jednakostranični trokut",
+        "krug",
+        "šesterokut",
+        "kvadrat"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadrat ima četiri jednake stranice i četiri prava kuta.",
+      "savjet": "Traži lik koji ima i jednake stranice i prave kutove u svim vrhovima."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-026",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kvadrat ABCD. Odaberi oznaku duljine stranice CD.",
+      "ponudeni": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Zakrenuti kvadrat ABCD; stranica AB označena je slovom a.",
+        "tocke": {
+          "A": [
+            2,
+            0.5
+          ],
+          "B": [
+            8.5,
+            2
+          ],
+          "C": [
+            7,
+            8.5
+          ],
+          "D": [
+            0.5,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "a"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Sve su stranice kvadrata jednake, pa i stranica CD ima istu oznaku duljine kao stranica AB.",
+      "savjet": "Sjeti se koliko različitih duljina stranica ima kvadrat."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-027",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o kutovima kvadrata i pravokutnika.",
+      "ponudeni": [
+        "Samo kvadrat ima prave kutove.",
+        "Samo pravokutnik ima prave kutove.",
+        "Oba lika imaju sve kutove prave.",
+        "Nijedan od tih likova nema pravi kut."
+      ],
+      "tocan": 2,
+      "objasnjenje": "I kvadrat i pravokutnik imaju sva četiri kuta prava.",
+      "savjet": "Zamisli ugao lista papira i ugao polja na šahovskoj ploči."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-028",
+      "tezina": "lagano",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi vrh u kojemu se sastaju stranice BC i CD.",
+      "ponudeni": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1,
+            2.5
+          ],
+          "B": [
+            9,
+            2.5
+          ],
+          "C": [
+            9,
+            7.5
+          ],
+          "D": [
+            1,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranice BC i CD imaju zajednički vrh C.",
+      "savjet": "Pronađi slovo koje se nalazi u imenima obiju stranica."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-029",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko se stranica kvadrata sastaje u svakom vrhu kvadrata.",
+      "ponudeni": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U svakom vrhu kvadrata sastaju se dvije susjedne stranice, na primjer u vrhu B stranice AB i BC.",
+      "savjet": "Pogledaj vrh B i stranice čija imena sadrže slovo B."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-030",
+      "tezina": "lagano",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi stranicu koja je jednake duljine kao stranica BC.",
+      "ponudeni": [
+        "DA",
+        "AB",
+        "CD",
+        "AC"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD.",
+        "tocke": {
+          "A": [
+            1,
+            4
+          ],
+          "B": [
+            8,
+            2
+          ],
+          "C": [
+            9.2,
+            6.2
+          ],
+          "D": [
+            2.2,
+            8.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranice BC i DA nasuprotne su, a nasuprotne stranice pravokutnika jednake su duljine.",
+      "savjet": "Pronađi stranicu koja s BC nema zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-031",
+      "tezina": "srednje",
+      "pitanje": "Odaberi ispravno ime pravokutnika na slici.",
+      "ponudeni": [
+        "KLMN",
+        "KMLN",
+        "KLNM",
+        "KNLM"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Pravokutnik s vrhovima K, L, M i N.",
+        "tocke": {
+          "K": [
+            1,
+            1.5
+          ],
+          "L": [
+            9,
+            1.5
+          ],
+          "M": [
+            9,
+            6.5
+          ],
+          "N": [
+            1,
+            6.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M",
+              "N"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "K",
+            "pravi": true
+          },
+          {
+            "vrh": "L",
+            "pravi": true
+          },
+          {
+            "vrh": "M",
+            "pravi": true
+          },
+          {
+            "vrh": "N",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Vrhovi se u imenu nižu redom kako idu oko lika: K, L, M, N.",
+      "savjet": "Kreni od jednog vrha i obiđi lik po stranicama, bez preskakanja vrhova."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-032",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik se zove ABCD. Odaberi još jedno ispravno ime za isti pravokutnik.",
+      "ponudeni": [
+        "ACBD",
+        "ABDC",
+        "BCDA",
+        "BDCA"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U imenu BCDA vrhovi idu istim redom oko lika, samo je početak u vrhu B.",
+      "savjet": "Ime može početi bilo kojim vrhom, ali susjedna slova moraju biti susjedni vrhovi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-033",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi stranicu koja je nasuprotna stranici DA.",
+      "ponudeni": [
+        "AB",
+        "CD",
+        "AC",
+        "BC"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD.",
+        "tocke": {
+          "A": [
+            1.5,
+            1
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            7.8,
+            7.5
+          ],
+          "D": [
+            0.3,
+            5.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica BC nema zajednički vrh sa stranicom DA, pa joj je nasuprotna.",
+      "savjet": "Nasuprotne stranice nemaju zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-034",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi duljinu stranice CD.",
+      "ponudeni": [
+        "4 cm",
+        "7 cm",
+        "11 cm",
+        "3 cm"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD; AB je duga 7 cm, a BC 4 cm.",
+        "tocke": {
+          "A": [
+            1.5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            3.5
+          ],
+          "C": [
+            7.3,
+            7.7
+          ],
+          "D": [
+            0.3,
+            5.7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 cm"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica CD nasuprotna je stranici AB, pa je jednako duga, 7 cm.",
+      "savjet": "Pronađi stranicu nasuprotnu stranici CD i pogledaj njezinu duljinu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-035",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi duljinu stranice DA.",
+      "ponudeni": [
+        "3 cm",
+        "6 cm",
+        "9 cm",
+        "12 cm"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD; AB je duga 6 cm, a BC 3 cm.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            9,
+            4.5
+          ],
+          "C": [
+            7.25,
+            8
+          ],
+          "D": [
+            0.25,
+            4.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica DA nasuprotna je stranici BC, pa je i ona duga 3 cm.",
+      "savjet": "Nasuprotne stranice pravokutnika jednake su duljine."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-036",
+      "tezina": "srednje",
+      "pitanje": "Stranica AB pravokutnika ABCD duga je 5 cm, a stranica BC 3 cm. Odaberi duljine stranica CD i DA.",
+      "ponudeni": [
+        "CD = 3 cm, DA = 5 cm",
+        "CD = 5 cm, DA = 5 cm",
+        "CD = 5 cm, DA = 3 cm",
+        "CD = 3 cm, DA = 3 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "CD je nasuprotna stranici AB, a DA stranici BC, pa je CD = 5 cm i DA = 3 cm.",
+      "savjet": "Za svaku traženu stranicu pronađi stranicu koja joj je nasuprotna."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-037",
+      "tezina": "srednje",
+      "pitanje": "Kvadrat ima jednu stranicu dugu 8 cm. Odaberi duljine ostalih triju stranica.",
+      "ponudeni": [
+        "4 cm, 8 cm i 4 cm",
+        "8 cm, 8 cm i 16 cm",
+        "4 cm, 4 cm i 4 cm",
+        "8 cm, 8 cm i 8 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve su stranice kvadrata jednake, pa su i ostale tri duge po 8 cm.",
+      "savjet": "Sjeti se što vrijedi za stranice kvadrata."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-038",
+      "tezina": "srednje",
+      "pitanje": "Na slici su četiri četverokuta. Odaberi onaj koji je pravokutnik.",
+      "ponudeni": [
+        "EFGH",
+        "IJKL",
+        "ABCD",
+        "MNOP"
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Četiri četverokuta: ABCD, EFGH, IJKL i MNOP.",
+        "tocke": {
+          "A": [
+            0.8,
+            5.5
+          ],
+          "B": [
+            4.4,
+            6.7
+          ],
+          "C": [
+            3.7,
+            8.8
+          ],
+          "D": [
+            0.1,
+            7.6
+          ],
+          "E": [
+            5.5,
+            5.8
+          ],
+          "F": [
+            8.5,
+            5.8
+          ],
+          "G": [
+            9.5,
+            8.8
+          ],
+          "H": [
+            6.5,
+            8.8
+          ],
+          "I": [
+            0.5,
+            1
+          ],
+          "J": [
+            4.5,
+            1
+          ],
+          "K": [
+            3.5,
+            4
+          ],
+          "L": [
+            1.5,
+            4
+          ],
+          "M": [
+            5.5,
+            1
+          ],
+          "N": [
+            9.5,
+            1
+          ],
+          "O": [
+            7.5,
+            4
+          ],
+          "P": [
+            5.5,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "I",
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "M",
+              "N",
+              "O",
+              "P"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "objasnjenje": "Samo četverokut ABCD ima sva četiri kuta prava, pa je on pravokutnik.",
+      "savjet": "Provjeri u kojem su četverokutu pravi kutovi u sva četiri vrha."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-039",
+      "tezina": "srednje",
+      "pitanje": "Na slici su četiri četverokuta, a jedan od njih je zakrenuti kvadrat. Odaberi taj kvadrat.",
+      "ponudeni": [
+        "ABCD",
+        "EFGH",
+        "IJKL",
+        "MNOP"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Četiri četverokuta: ABCD, EFGH, IJKL i MNOP.",
+        "tocke": {
+          "A": [
+            0.3,
+            5.8
+          ],
+          "B": [
+            2.8,
+            5.8
+          ],
+          "C": [
+            4.3,
+            7.8
+          ],
+          "D": [
+            1.8,
+            7.8
+          ],
+          "E": [
+            6.5,
+            5.5
+          ],
+          "F": [
+            9.3,
+            6.5
+          ],
+          "G": [
+            8.3,
+            9.3
+          ],
+          "H": [
+            5.5,
+            8.3
+          ],
+          "I": [
+            0.5,
+            1
+          ],
+          "J": [
+            4.5,
+            1
+          ],
+          "K": [
+            4.5,
+            3.5
+          ],
+          "L": [
+            0.5,
+            3.5
+          ],
+          "M": [
+            5.5,
+            1
+          ],
+          "N": [
+            8.5,
+            1
+          ],
+          "O": [
+            9.5,
+            4
+          ],
+          "P": [
+            6.5,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "I",
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "M",
+              "N",
+              "O",
+              "P"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "objasnjenje": "Četverokut EFGH ima sve stranice jednake i sve kutove prave, iako je zakrenut.",
+      "savjet": "Lik mora imati i jednake stranice i prave kutove, bez obzira na to kako je okrenut."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-040",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi parove stranica koje su jednake duljine.",
+      "ponudeni": [
+        "AB i BC te CD i DA",
+        "AB i DA te BC i CD",
+        "AB i CD te AC i BD",
+        "AB i CD te BC i DA"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "U pravokutniku su nasuprotne stranice jednake: AB i CD te BC i DA.",
+      "savjet": "Jednake su one stranice koje nemaju zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-041",
+      "tezina": "srednje",
+      "pitanje": "U kvadratu ABCD stranica AB duga je 6 cm. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Stranica CD duga je 6 cm.",
+        "Stranica BC duga je 3 cm.",
+        "Stranica CD duga je 12 cm.",
+        "Stranica DA duga je 24 cm."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat ima sve stranice jednake, pa je i stranica CD duga 6 cm.",
+      "savjet": "Sjeti se kakve su duljine stranica kvadrata."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-042",
+      "tezina": "srednje",
+      "pitanje": "Četverokut ABCD na slici ima sve stranice jednake duljine. Odaberi zašto on nije kvadrat.",
+      "ponudeni": [
+        "Ima previše vrhova.",
+        "Stranice mu nisu jednake.",
+        "Kutovi mu nisu pravi.",
+        "Nema nasuprotnih stranica."
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Četverokut ABCD kojemu su sve četiri stranice označene jednakim crticama.",
+        "tocke": {
+          "A": [
+            0.5,
+            2
+          ],
+          "B": [
+            6,
+            2
+          ],
+          "C": [
+            9.3,
+            6.4
+          ],
+          "D": [
+            3.8,
+            6.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ]
+      },
+      "objasnjenje": "Kvadrat mora imati sve kutove prave, a kutovi ovog četverokuta nisu pravi.",
+      "savjet": "Osim jednakih stranica, kvadrat mora imati još jedno svojstvo."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-043",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko pravih kutova ima četverokut ABCD na slici.",
+      "ponudeni": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Četverokut ABCD kojemu je stranica AB dulja od stranice CD.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            6,
+            8
+          ],
+          "D": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "objasnjenje": "Pravi su samo kutovi kod vrhova A i D. Kutovi kod vrhova B i C nisu pravi.",
+      "savjet": "Pogledaj svaki vrh redom i usporedi kut s uglom lista papira."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-044",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi stranice kojima je vrh B zajednički.",
+      "ponudeni": [
+        "BC i CD",
+        "AB i CD",
+        "DA i AB",
+        "AB i BC"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            0.5,
+            2
+          ],
+          "B": [
+            9.5,
+            2
+          ],
+          "C": [
+            9.5,
+            8
+          ],
+          "D": [
+            0.5,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Vrh B je kraj stranice AB i stranice BC, pa im je zajednički.",
+      "savjet": "Vrh B mora biti kraj obiju stranica, pa slovo B treba biti u oba imena."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-045",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi stranicu koja je susjedna stranici CD i nasuprotna stranici BC.",
+      "ponudeni": [
+        "DA",
+        "AB",
+        "AC",
+        "BD"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD.",
+        "tocke": {
+          "A": [
+            0.5,
+            5
+          ],
+          "B": [
+            7.5,
+            1.5
+          ],
+          "C": [
+            9.25,
+            5
+          ],
+          "D": [
+            2.25,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica DA ima zajednički vrh D sa stranicom CD, a sa stranicom BC nema zajednički vrh.",
+      "savjet": "Prvo pronađi stranicu nasuprotnu stranici BC, a zatim provjeri dodiruje li stranicu CD."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-046",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadrat ABCD. Odaberi točnu tvrdnju o njegovim stranicama.",
+      "ponudeni": [
+        "AB = CD i BC = DA, ali AB ≠ BC",
+        "AB = BC i CD = DA, ali AB ≠ CD",
+        "AB = BC = CD = DA",
+        "Jednake su samo AB i CD."
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Zakrenuti kvadrat ABCD.",
+        "tocke": {
+          "A": [
+            0.5,
+            3
+          ],
+          "B": [
+            6,
+            1
+          ],
+          "C": [
+            8,
+            6.5
+          ],
+          "D": [
+            2.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Kvadrat ima sve četiri stranice jednake, pa je AB = BC = CD = DA.",
+      "savjet": "Prisjeti se kakve su duljine svih stranica kvadrata."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-047",
+      "tezina": "srednje",
+      "pitanje": "Lana je nacrtala pravokutnik kojemu je jedna stranica duga 6 cm, a njoj susjedna 4 cm. Odaberi duljine preostalih dviju stranica.",
+      "ponudeni": [
+        "6 cm i 6 cm",
+        "6 cm i 4 cm",
+        "4 cm i 4 cm",
+        "2 cm i 10 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svaka preostala stranica nasuprotna je jednoj od zadanih, pa su duge 6 cm i 4 cm.",
+      "savjet": "Za svaku stranicu koja nedostaje pronađi njoj nasuprotnu stranicu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-048",
+      "tezina": "srednje",
+      "pitanje": "Marko izrezuje kvadrat od papira. Jedna mu je stranica duga 9 cm. Odaberi duljinu njoj susjedne stranice.",
+      "ponudeni": [
+        "18 cm",
+        "3 cm",
+        "36 cm",
+        "9 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadrat ima sve stranice jednake, pa je i susjedna stranica duga 9 cm.",
+      "savjet": "Razmisli po čemu se kvadrat razlikuje od pravokutnika kojemu su susjedne stranice različite."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-049",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi stranice koje su duge 8 cm.",
+      "ponudeni": [
+        "BC i DA",
+        "AB i CD",
+        "BC i CD",
+        "AB i DA"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Uspravni pravokutnik ABCD; AB je duga 4 cm, a BC 8 cm.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            6.5,
+            9
+          ],
+          "D": [
+            2.5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "8 cm"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica BC duga je 8 cm, a njoj nasuprotna stranica DA jednako je duga.",
+      "savjet": "Pronađi označenu stranicu od 8 cm i stranicu koja joj je nasuprotna."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-050",
+      "tezina": "srednje",
+      "pitanje": "Odaberi ime koje nije ispravno za pravokutnik ABCD.",
+      "ponudeni": [
+        "DCBA",
+        "ACBD",
+        "CDAB",
+        "BADC"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U imenu ACBD slova A i C stoje jedno do drugoga, a A i C nisu susjedni vrhovi.",
+      "savjet": "U ispravnom imenu svaka dva susjedna slova moraju biti susjedni vrhovi lika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-051",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadrat ABCD. Odaberi stranice koje su susjedne stranici AB.",
+      "ponudeni": [
+        "BC i CD",
+        "CD i DA",
+        "BC i DA",
+        "AC i BD"
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Zakrenuti kvadrat ABCD.",
+        "tocke": {
+          "A": [
+            2.5,
+            0.5
+          ],
+          "B": [
+            8.5,
+            2.5
+          ],
+          "C": [
+            6.5,
+            8.5
+          ],
+          "D": [
+            0.5,
+            6.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica BC ima sa stranicom AB zajednički vrh B, a stranica DA zajednički vrh A.",
+      "savjet": "Susjedna stranica ima sa stranicom AB jedan zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-052",
+      "tezina": "srednje",
+      "pitanje": "Na slici su dva lika. Odaberi točnu tvrdnju o njima.",
+      "ponudeni": [
+        "Oba lika imaju četiri prava kuta.",
+        "Samo lik ABCD ima prave kutove.",
+        "Oba lika imaju sve stranice jednake.",
+        "Lik EFGH ima sve stranice jednake."
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Dva četverokuta: ABCD lijevo i EFGH desno.",
+        "tocke": {
+          "A": [
+            0.5,
+            3
+          ],
+          "B": [
+            4.5,
+            3
+          ],
+          "C": [
+            4.5,
+            7
+          ],
+          "D": [
+            0.5,
+            7
+          ],
+          "E": [
+            5.5,
+            1.5
+          ],
+          "F": [
+            9,
+            1.5
+          ],
+          "G": [
+            9,
+            8.5
+          ],
+          "H": [
+            5.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "objasnjenje": "ABCD je kvadrat, a EFGH pravokutnik. Oba lika imaju sva četiri kuta prava.",
+      "savjet": "Pogledaj kutove u vrhovima, a zatim usporedi duljine stranica svakog lika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-053",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik ABCD ima stranicu AB dugu 7 cm i stranicu BC dugu 3 cm. Odaberi stranicu koja je također duga 3 cm.",
+      "ponudeni": [
+        "AB",
+        "CD",
+        "AC",
+        "DA"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranica DA nasuprotna je stranici BC, pa je i ona duga 3 cm.",
+      "savjet": "Sjeti se koje su stranice pravokutnika jednake duljine."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-054",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi oznaku duljine stranice BC.",
+      "ponudeni": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Pravokutnik ABCD; stranica AB označena je slovom a, a stranica DA slovom b.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "a"
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "oznaka": "b"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica BC nasuprotna je stranici DA, pa ima istu oznaku duljine b.",
+      "savjet": "Pronađi stranicu koja s BC nema zajednički vrh i pogledaj njezinu oznaku."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-055",
+      "tezina": "srednje",
+      "pitanje": "Prozor ima oblik pravokutnika. Jedna mu je stranica duga 120 cm, a susjedna 80 cm. Odaberi duljinu stranice nasuprotne onoj od 80 cm.",
+      "ponudeni": [
+        "80 cm",
+        "120 cm",
+        "40 cm",
+        "200 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nasuprotne stranice pravokutnika jednake su, pa je i ta stranica duga 80 cm.",
+      "savjet": "Sjeti se kakve su nasuprotne stranice pravokutnika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-056",
+      "tezina": "srednje",
+      "pitanje": "Na slici su četiri četverokuta. Odaberi onaj koji ima sve stranice jednake, ali nije kvadrat.",
+      "ponudeni": [
+        "ABCD",
+        "IJKL",
+        "MNOP",
+        "EFGH"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Četiri četverokuta: ABCD, EFGH, IJKL i MNOP.",
+        "tocke": {
+          "A": [
+            1,
+            5.8
+          ],
+          "B": [
+            4,
+            5.8
+          ],
+          "C": [
+            4,
+            8.8
+          ],
+          "D": [
+            1,
+            8.8
+          ],
+          "E": [
+            5.5,
+            5.8
+          ],
+          "F": [
+            8,
+            5.8
+          ],
+          "G": [
+            9.5,
+            7.8
+          ],
+          "H": [
+            7,
+            7.8
+          ],
+          "I": [
+            0.5,
+            1
+          ],
+          "J": [
+            4.5,
+            1
+          ],
+          "K": [
+            4.5,
+            3.5
+          ],
+          "L": [
+            0.5,
+            3.5
+          ],
+          "M": [
+            5.5,
+            1
+          ],
+          "N": [
+            9.5,
+            1
+          ],
+          "O": [
+            7.5,
+            4
+          ],
+          "P": [
+            5.5,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "I",
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "M",
+              "N",
+              "O",
+              "P"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "crtice": 2
+          },
+          {
+            "od": "F",
+            "do": "G",
+            "crtice": 2
+          },
+          {
+            "od": "G",
+            "do": "H",
+            "crtice": 2
+          },
+          {
+            "od": "H",
+            "do": "E",
+            "crtice": 2
+          }
+        ]
+      },
+      "objasnjenje": "Četverokut EFGH ima sve stranice jednake, ali kutovi mu nisu pravi, pa nije kvadrat.",
+      "savjet": "Prvo pronađi likove s jednakim stranicama, a zatim pogledaj njihove kutove."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-057",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi stranice kojima je duljina a.",
+      "ponudeni": [
+        "AB i BC",
+        "BC i DA",
+        "AB i CD",
+        "AB i DA"
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD; stranica AB označena je slovom a, a stranica BC slovom b.",
+        "tocke": {
+          "A": [
+            1.5,
+            1
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            7.8,
+            7.5
+          ],
+          "D": [
+            0.3,
+            5.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "a"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "b"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica AB ima duljinu a, a njoj nasuprotna stranica CD jednako je duga.",
+      "savjet": "Pronađi stranicu označenu s a i njoj nasuprotnu stranicu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-058",
+      "tezina": "srednje",
+      "pitanje": "Odaberi vrhove koji su susjedni vrhu A u pravokutniku ABCD.",
+      "ponudeni": [
+        "B i C",
+        "B i D",
+        "C i D",
+        "samo C"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrh A spojen je stranicom AB s vrhom B i stranicom DA s vrhom D.",
+      "savjet": "Susjedni su oni vrhovi koje s vrhom A spaja jedna stranica."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-059",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi vrh koji ne pripada ni stranici AB ni stranici BC.",
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Uspravni pravokutnik ABCD; vrhovi A i B su dolje.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            6.5,
+            9
+          ],
+          "D": [
+            2,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica AB ima vrhove A i B, a stranica BC vrhove B i C, pa ostaje vrh D.",
+      "savjet": "Ispiši vrhove obiju stranica i pogledaj koji vrh nije među njima."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-060",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadrat ABCD. Odaberi stranicu koja sa stranicom BC ima zajednički vrh C.",
+      "ponudeni": [
+        "CD",
+        "AB",
+        "DA",
+        "AC"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Kvadrat ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1.5,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            8.5
+          ],
+          "D": [
+            1.5,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranice BC i CD susjedne su i sastaju se u vrhu C.",
+      "savjet": "Traži stranicu kvadrata čije ime sadrži slovo C, a nije BC."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-061",
+      "tezina": "tesko",
+      "pitanje": "Četverokut ima sve kutove prave i dvije susjedne stranice jednake duljine. Odaberi točnu tvrdnju o njegovim stranicama.",
+      "ponudeni": [
+        "Samo su mu dvije stranice jednake.",
+        "Ima tri jednake stranice.",
+        "Sve su mu četiri stranice jednake.",
+        "Nasuprotne stranice nisu mu jednake."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad su svi kutovi pravi, nasuprotne su stranice jednake, a kad su jednake i susjedne, onda su jednake sve četiri. To je kvadrat.",
+      "savjet": "Kreni od toga da su u takvom liku nasuprotne stranice jednake."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-062",
+      "tezina": "tesko",
+      "pitanje": "Na slici su četiri lika. Odaberi lik koji ima nasuprotne stranice jednake duljine, ali nije pravokutnik.",
+      "ponudeni": [
+        "ABCD",
+        "EFGH",
+        "IJK",
+        "MNOP"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Četiri lika: ABCD, EFGH, IJK i MNOP.",
+        "tocke": {
+          "A": [
+            0.8,
+            5.5
+          ],
+          "B": [
+            4.4,
+            6.7
+          ],
+          "C": [
+            3.7,
+            8.8
+          ],
+          "D": [
+            0.1,
+            7.6
+          ],
+          "E": [
+            5.3,
+            6
+          ],
+          "F": [
+            8.5,
+            6
+          ],
+          "G": [
+            9.8,
+            8.6
+          ],
+          "H": [
+            6.6,
+            8.6
+          ],
+          "I": [
+            0.5,
+            1
+          ],
+          "J": [
+            4.5,
+            1
+          ],
+          "K": [
+            2,
+            4
+          ],
+          "M": [
+            5.5,
+            1
+          ],
+          "N": [
+            9.5,
+            1
+          ],
+          "O": [
+            7.5,
+            4
+          ],
+          "P": [
+            5.5,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "I",
+              "J",
+              "K"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "M",
+              "N",
+              "O",
+              "P"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "objasnjenje": "Četverokut EFGH ima jednake nasuprotne stranice, ali kutovi mu nisu pravi, pa nije pravokutnik.",
+      "savjet": "Za svaki lik provjeri dvije stvari: jesu li nasuprotne stranice jednake i jesu li kutovi pravi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-063",
+      "tezina": "tesko",
+      "pitanje": "Vrhovi pravokutnika na slici označeni su neuobičajenim redom. Odaberi ispravno ime tog pravokutnika.",
+      "ponudeni": [
+        "KMLN",
+        "KLMN",
+        "KMNL",
+        "KLNM"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Pravokutnik s vrhovima K i M dolje te L i N gore.",
+        "tocke": {
+          "K": [
+            1,
+            1.5
+          ],
+          "M": [
+            9,
+            1.5
+          ],
+          "L": [
+            9,
+            6.5
+          ],
+          "N": [
+            1,
+            6.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "M",
+              "L",
+              "N"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "K",
+            "pravi": true
+          },
+          {
+            "vrh": "M",
+            "pravi": true
+          },
+          {
+            "vrh": "L",
+            "pravi": true
+          },
+          {
+            "vrh": "N",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Obiđemo li lik od vrha K, nailazimo redom na vrhove M, L i N, pa je ime KMLN.",
+      "savjet": "Ne slijedi abecedu, nego obiđi lik po stranicama od vrha K."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-064",
+      "tezina": "tesko",
+      "pitanje": "Ivan je vrhove pravokutnika označio redom A, C, B, D, idući oko lika. Odaberi stranice tog pravokutnika.",
+      "ponudeni": [
+        "AB, BC, CD i DA",
+        "AB, BD, DC i CA",
+        "AC, BD, AD i CD",
+        "AC, CB, BD i DA"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice spajaju vrhove koji su u nizu A, C, B, D jedan do drugoga, a zadnji se vrh spaja s prvim.",
+      "savjet": "Stranicu čine dva vrha koji su u Ivanovu nizu jedan do drugoga, uključujući zadnji i prvi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-065",
+      "tezina": "tesko",
+      "pitanje": "U pravokutniku ABCD na slici stranica AB dulja je od stranice BC. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Stranica DA dulja je od stranice AB.",
+        "Stranica CD kraća je od stranice BC.",
+        "Stranica CD dulja je od stranice DA.",
+        "Stranice CD i DA jednake su duljine."
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD.",
+        "tocke": {
+          "A": [
+            0.5,
+            4
+          ],
+          "B": [
+            8,
+            2
+          ],
+          "C": [
+            9.2,
+            6.5
+          ],
+          "D": [
+            1.7,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica CD jednaka je stranici AB, a DA stranici BC, pa je CD dulja od DA.",
+      "savjet": "Zamijeni svaku stranicu iz tvrdnje njoj nasuprotnom stranicom."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-066",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD podijeljen je dužinom EF na dva jednaka kvadrata. Stranica AB duga je 8 cm. Odaberi duljinu stranice BC.",
+      "ponudeni": [
+        "8 cm",
+        "4 cm",
+        "2 cm",
+        "16 cm"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Pravokutnik ABCD podijeljen dužinom EF; AB je duga 8 cm, a duljina BC nije poznata.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ],
+          "E": [
+            5,
+            3
+          ],
+          "F": [
+            5,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          },
+          {
+            "od": "E",
+            "do": "F"
+          }
+        ]
+      },
+      "objasnjenje": "Stranica AB sastoji se od dviju stranica kvadrata, pa je stranica kvadrata 4 cm. BC je stranica desnog kvadrata, pa je i ona 4 cm.",
+      "savjet": "Stranica AB sastoji se od stranica dvaju jednakih kvadrata."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-067",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD ima stranicu AB dugu 6 cm. Stranica BC upola je kraća od nje. Odaberi duljinu stranice DA.",
+      "ponudeni": [
+        "3 cm",
+        "6 cm",
+        "12 cm",
+        "9 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "BC je polovina od 6 cm, dakle 3 cm, a DA je nasuprotna stranici BC, pa je i ona 3 cm.",
+      "savjet": "Najprije izračunaj duljinu stranice BC, a onda pronađi njoj nasuprotnu stranicu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-068",
+      "tezina": "tesko",
+      "pitanje": "Dva jednaka kvadrata ABCD i BEFC postavljena su jedan uz drugi. Odaberi lik koji je pravokutnik, a nije kvadrat.",
+      "ponudeni": [
+        "ABCD",
+        "BEFC",
+        "ABFD",
+        "AEFD"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Dva jednaka kvadrata ABCD i BEFC sa zajedničkom stranicom BC.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            5,
+            3
+          ],
+          "E": [
+            9,
+            3
+          ],
+          "F": [
+            9,
+            7
+          ],
+          "C": [
+            5,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "B",
+              "E",
+              "F",
+              "C"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "objasnjenje": "Zajedno dva kvadrata čine lik AEFD koji ima sve kutove prave, dulju stranicu AE i kraću stranicu EF.",
+      "savjet": "Pogledaj lik koji čine oba kvadrata zajedno."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-069",
+      "tezina": "tesko",
+      "pitanje": "Odaberi tvrdnju koja vrijedi i za kvadrat i za pravokutnik.",
+      "ponudeni": [
+        "Sve su im stranice jednake duljine.",
+        "Nasuprotne su im stranice jednake duljine.",
+        "Susjedne su im stranice različite duljine.",
+        "Imaju samo dva prava kuta."
+      ],
+      "tocan": 1,
+      "objasnjenje": "I kvadrat i pravokutnik imaju jednake nasuprotne stranice, a kvadrat ima jednake i susjedne.",
+      "savjet": "Provjeri svaku tvrdnju posebno za kvadrat i posebno za pravokutnik."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-070",
+      "tezina": "tesko",
+      "pitanje": "Odaberi svojstvo koje ima kvadrat, a nema pravokutnik kojemu su susjedne stranice različite.",
+      "ponudeni": [
+        "Svi su mu kutovi pravi.",
+        "Nasuprotne su mu stranice jednake.",
+        "Sve su mu stranice jednake.",
+        "Ima četiri vrha."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Samo kvadrat ima sve četiri stranice jednake. Prave kutove, jednake nasuprotne stranice i četiri vrha imaju oba lika.",
+      "savjet": "Za svako svojstvo provjeri vrijedi li i za pravokutnik."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-071",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B i C tri su vrha pravokutnika ABCD. Odaberi točku koja može biti njegov vrh D.",
+      "ponudeni": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Dužine AB i BC koje zatvaraju pravi kut te točke E, F, G i H.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            8,
+            2
+          ],
+          "C": [
+            8,
+            7
+          ],
+          "E": [
+            3,
+            7
+          ],
+          "F": [
+            1,
+            7
+          ],
+          "G": [
+            1,
+            9.5
+          ],
+          "H": [
+            6,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "B",
+            "kraci": [
+              "A",
+              "C"
+            ],
+            "pravi": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "objasnjenje": "Točka F nalazi se točno iznad vrha A, na istoj visini kao C, pa lik ABCF ima sve kutove prave.",
+      "savjet": "Stranica CD mora biti nasuprotna stranici AB, a stranica DA nasuprotna stranici BC."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-072",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B i C tri su vrha kvadrata ABCD. Odaberi točku koja može biti njegov vrh D.",
+      "ponudeni": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Dvije jednake dužine AB i BC koje zatvaraju pravi kut te točke E, F, G i H.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            7.5,
+            3
+          ],
+          "C": [
+            5.5,
+            8
+          ],
+          "E": [
+            0.5,
+            6
+          ],
+          "F": [
+            2.5,
+            8
+          ],
+          "G": [
+            0.5,
+            8.5
+          ],
+          "H": [
+            3.5,
+            6
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "B",
+            "kraci": [
+              "A",
+              "C"
+            ],
+            "pravi": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "objasnjenje": "Od vrha A treba se pomaknuti jednako daleko i u istom smjeru kao od B do C, i tako se dolazi do točke E.",
+      "savjet": "Stranica DA mora biti jednako duga kao BC i nasuprotna joj."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-073",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ABCD i pravokutnik EFGH imaju jednako duge stranice AB i EF. Stranica FG dvostruko je dulja od EF. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Stranica FG jednaka je stranici BC.",
+        "Stranica HE jednaka je stranici CD.",
+        "Stranica GH dvostruko je dulja od stranice DA.",
+        "Stranica GH jednaka je stranici AB."
+      ],
+      "tocan": 3,
+      "objasnjenje": "GH je nasuprotna stranici EF, pa je jednaka EF, a EF je jednaka AB.",
+      "savjet": "Odredi kojim su stranicama nasuprotne stranice GH i HE."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-074",
+      "tezina": "tesko",
+      "pitanje": "U pravokutniku KLMN odaberi stranicu koja je nasuprotna stranici LM.",
+      "ponudeni": [
+        "KL",
+        "MN",
+        "NK",
+        "KM"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice pravokutnika KLMN su KL, LM, MN i NK, a stranica NK nema zajednički vrh sa stranicom LM.",
+      "savjet": "Najprije ispiši sve četiri stranice redom kako idu oko lika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-075",
+      "tezina": "tesko",
+      "pitanje": "U kvadratu PRST odaberi stranice koje su susjedne stranici ST.",
+      "ponudeni": [
+        "RS i TP",
+        "PR i TP",
+        "PR i RS",
+        "PS i RT"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica RS ima sa stranicom ST zajednički vrh S, a stranica TP zajednički vrh T.",
+      "savjet": "Susjedna stranica mora imati vrh S ili vrh T, a ime joj čine dva susjedna slova."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-076",
+      "tezina": "tesko",
+      "pitanje": "Vrhovi pravokutnika ABCD na slici označeni su u smjeru kazaljke na satu. Odaberi stranicu nasuprotnu stranici BC.",
+      "ponudeni": [
+        "AB",
+        "CD",
+        "AC",
+        "DA"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B gore te C i D dolje.",
+        "tocke": {
+          "A": [
+            1,
+            8
+          ],
+          "B": [
+            9,
+            8
+          ],
+          "C": [
+            9,
+            3
+          ],
+          "D": [
+            1,
+            3
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica DA nema zajednički vrh sa stranicom BC, pa joj je nasuprotna, bez obzira na smjer označavanja.",
+      "savjet": "Pogledaj na slici koja stranica ne dodiruje stranicu BC."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-077",
+      "tezina": "tesko",
+      "pitanje": "Na slici je pravokutnik ABCD. Odaberi tvrdnju koja vrijedi za njega i za svaki drugi pravokutnik ABCD.",
+      "ponudeni": [
+        "AB = BC i CD = DA",
+        "AB = CD i BC = DA",
+        "AB = DA i BC = CD",
+        "AC = AB i BD = BC"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Uspravni pravokutnik ABCD; vrhovi A i B su dolje.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            7.5,
+            1
+          ],
+          "C": [
+            7.5,
+            9
+          ],
+          "D": [
+            2.5,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Nasuprotne stranice pravokutnika jednake su: AB = CD i BC = DA.",
+      "savjet": "Upari stranice koje nemaju zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-078",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD podijeljen je dužinom EF na dva pravokutnika. Odaberi ispravno ime jednog od njih.",
+      "ponudeni": [
+        "AEDF",
+        "AFED",
+        "AEFD",
+        "EBFC"
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Pravokutnik ABCD podijeljen dužinom EF na dva manja pravokutnika.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ],
+          "E": [
+            3,
+            3
+          ],
+          "F": [
+            3,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "E",
+            "do": "F"
+          }
+        ]
+      },
+      "objasnjenje": "Obiđemo li lijevi pravokutnik, idemo redom od A do E, zatim do F i do D.",
+      "savjet": "U imenu lika susjedna slova moraju biti krajevi jedne stranice tog lika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-079",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko parova susjednih stranica ima pravokutnik.",
+      "ponudeni": [
+        "2",
+        "6",
+        "8",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U svakom od četiri vrha sastaje se jedan par susjednih stranica: AB i BC, BC i CD, CD i DA te DA i AB.",
+      "savjet": "Svaki par susjednih stranica sastaje se u jednom vrhu."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-080",
+      "tezina": "tesko",
+      "pitanje": "Stranica AB pravokutnika ABCD duga je 9 cm, a stranica DA za 3 cm je kraća. Odaberi duljinu stranice BC.",
+      "ponudeni": [
+        "6 cm",
+        "9 cm",
+        "3 cm",
+        "12 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "DA je duga 9 cm − 3 cm = 6 cm, a BC je nasuprotna stranici DA, pa je i ona 6 cm.",
+      "savjet": "Izračunaj duljinu stranice DA i pronađi stranicu koja joj je nasuprotna."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-081",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ABCD i pravokutnik DCEF imaju zajedničku stranicu DC. Odaberi duljinu stranice EF.",
+      "ponudeni": [
+        "2 cm",
+        "4 cm",
+        "6 cm",
+        "8 cm"
+      ],
+      "tocan": 1,
+      "slika": {
+        "opis": "Kvadrat ABCD i iznad njega pravokutnik DCEF; AB je duga 4 cm, a CE 2 cm.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            6,
+            1
+          ],
+          "C": [
+            6,
+            6
+          ],
+          "D": [
+            1,
+            6
+          ],
+          "E": [
+            6,
+            8.5
+          ],
+          "F": [
+            1,
+            8.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "D",
+              "C",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "C",
+            "do": "E",
+            "oznaka": "2 cm"
+          }
+        ]
+      },
+      "objasnjenje": "EF je nasuprotna stranici DC, a DC je stranica kvadrata jednako duga kao AB, 4 cm.",
+      "savjet": "Pronađi stranicu nasuprotnu stranici EF i sjeti se da je ona ujedno stranica kvadrata."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-082",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko stranica ima lik koji nastaje kad se dva jednaka kvadrata spoje cijelom stranicom.",
+      "ponudeni": [
+        "8",
+        "6",
+        "4",
+        "7"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Spojena stranica više nije rub lika, a nastali lik je pravokutnik s četiri stranice.",
+      "savjet": "Nacrtaj dva jednaka kvadrata jedan do drugoga i obiđi rub novog lika."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-083",
+      "tezina": "tesko",
+      "pitanje": "Ema tvrdi: „Svaki četverokut koji ima četiri jednake stranice jest kvadrat.“ Odaberi točan odgovor.",
+      "ponudeni": [
+        "Ema nije u pravu jer i kutovi moraju biti pravi.",
+        "Ema je u pravu jer kvadrat ima četiri jednake stranice.",
+        "Ema nije u pravu jer kvadrat ima samo dvije jednake stranice.",
+        "Ema je u pravu jer svaki četverokut ima prave kutove."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Četverokut može imati četiri jednake stranice, a kutove koji nisu pravi. Kvadrat mora imati i prave kutove.",
+      "savjet": "Zamisli kvadrat koji pritisneš u jednom vrhu tako da mu se kutovi promijene, a stranice ostanu iste."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-084",
+      "tezina": "tesko",
+      "pitanje": "Luka tvrdi: „Četverokut kojemu su svi kutovi pravi ima jednake nasuprotne stranice.“ Odaberi točan odgovor.",
+      "ponudeni": [
+        "Luka nije u pravu jer nasuprotne stranice mogu biti različite.",
+        "Luka je u pravu jer je takav četverokut pravokutnik ili kvadrat.",
+        "Luka nije u pravu jer takav četverokut ne postoji.",
+        "Luka je u pravu, ali samo ako su sve stranice različite."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Četverokut sa sva četiri prava kuta jest pravokutnik ili kvadrat, a oba imaju jednake nasuprotne stranice.",
+      "savjet": "Sjeti se kako se zovu četverokuti kojima su svi kutovi pravi."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-085",
+      "tezina": "tesko",
+      "pitanje": "Na slici je pravokutnik KLMN. Odaberi stranicu koja je jednake duljine kao stranica KL.",
+      "ponudeni": [
+        "MN",
+        "LM",
+        "NK",
+        "KM"
+      ],
+      "tocan": 0,
+      "slika": {
+        "opis": "Pravokutnik KLMN; vrh K je gore lijevo, a L dolje lijevo.",
+        "tocke": {
+          "K": [
+            1,
+            8
+          ],
+          "L": [
+            1,
+            3
+          ],
+          "M": [
+            9,
+            3
+          ],
+          "N": [
+            9,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "K",
+              "L",
+              "M",
+              "N"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "K",
+            "pravi": true
+          },
+          {
+            "vrh": "L",
+            "pravi": true
+          },
+          {
+            "vrh": "M",
+            "pravi": true
+          },
+          {
+            "vrh": "N",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranica MN nasuprotna je stranici KL, a nasuprotne stranice pravokutnika jednake su.",
+      "savjet": "Pronađi stranicu koja s KL nema zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-086",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ABCD ima stranice AB = 6 cm i BC = 4 cm. Odaberi stranicu koja je za 2 cm kraća od stranice CD.",
+      "ponudeni": [
+        "AB",
+        "CD",
+        "AC",
+        "DA"
+      ],
+      "tocan": 3,
+      "objasnjenje": "CD je duga 6 cm, a DA je kao BC duga 4 cm, što je za 2 cm manje.",
+      "savjet": "Najprije odredi duljinu stranice CD, a zatim i ostalih stranica."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-087",
+      "tezina": "tesko",
+      "pitanje": "Vrhovi pravokutnika ABCD na slici označeni su u smjeru kazaljke na satu. Odaberi stranicu koja je jednako duga kao stranica CD.",
+      "ponudeni": [
+        "BC",
+        "DA",
+        "AB",
+        "AC"
+      ],
+      "tocan": 2,
+      "slika": {
+        "opis": "Zakrenuti pravokutnik ABCD.",
+        "tocke": {
+          "A": [
+            0.25,
+            4.5
+          ],
+          "B": [
+            7.25,
+            8
+          ],
+          "C": [
+            9,
+            4.5
+          ],
+          "D": [
+            2,
+            1
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "objasnjenje": "Stranice AB i CD nasuprotne su, a nasuprotne stranice pravokutnika jednako su duge.",
+      "savjet": "Na slici potraži stranicu koja ne dodiruje stranicu CD."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-088",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko stranica kvadrata ABCD, osim same stranice AB, ima jednaku duljinu kao AB.",
+      "ponudeni": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat ima četiri jednake stranice, pa su osim AB jednako duge još BC, CD i DA.",
+      "savjet": "Sjeti se koliko ukupno stranica ima kvadrat i koje su od njih jednake."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-089",
+      "tezina": "tesko",
+      "pitanje": "Pravokutniku ABCD susjedne stranice nisu jednake. Odaberi koliko njegovih stranica, osim same stranice AB, ima jednaku duljinu kao AB.",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jednako duga kao AB samo je nasuprotna stranica CD, a BC i DA su druge duljine.",
+      "savjet": "Sjeti se koje su stranice pravokutnika jednake."
+    },
+    {
+      "id": "4-matematika-vrhovi-stranice-i-kutovi-pravokutnika-i-kvadrata-090",
+      "tezina": "tesko",
+      "pitanje": "Na slici su četiri četverokuta. Odaberi onaj kojemu su i sve stranice jednake i svi kutovi pravi.",
+      "ponudeni": [
+        "ABCD",
+        "EFGH",
+        "MNOP",
+        "IJKL"
+      ],
+      "tocan": 3,
+      "slika": {
+        "opis": "Četiri četverokuta: ABCD, EFGH, IJKL i MNOP.",
+        "tocke": {
+          "A": [
+            0.3,
+            6
+          ],
+          "B": [
+            2.6,
+            6
+          ],
+          "C": [
+            3.98,
+            7.84
+          ],
+          "D": [
+            1.68,
+            7.84
+          ],
+          "E": [
+            5.9,
+            5.5
+          ],
+          "F": [
+            9.5,
+            6.7
+          ],
+          "G": [
+            8.8,
+            8.8
+          ],
+          "H": [
+            5.2,
+            7.6
+          ],
+          "I": [
+            1.5,
+            0.5
+          ],
+          "J": [
+            4.3,
+            1.5
+          ],
+          "K": [
+            3.3,
+            4.3
+          ],
+          "L": [
+            0.5,
+            3.3
+          ],
+          "M": [
+            5.5,
+            1
+          ],
+          "N": [
+            8.5,
+            1
+          ],
+          "O": [
+            9.5,
+            4
+          ],
+          "P": [
+            6.5,
+            4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "I",
+              "J",
+              "K",
+              "L"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "M",
+              "N",
+              "O",
+              "P"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "objasnjenje": "Četverokut IJKL ima sve stranice jednake i sve kutove prave, pa je kvadrat iako je zakrenut.",
+      "savjet": "Za svaki lik provjeri oba svojstva: jesu li stranice jednake i jesu li kutovi pravi."
+    }
+  ]
+}
