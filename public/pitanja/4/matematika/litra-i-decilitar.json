@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "litra-i-decilitar",
+  "pitanja": [
+    {
+      "id": "4-matematika-litra-i-decilitar-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi mjernu jedinicu za volumen tekućine.",
+      "ponudeni": [
+        "cm",
+        "kg",
+        "l",
+        "h"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Litra (l) je jedinica za volumen tekućine. Centimetar je jedinica za duljinu, kilogram za masu, a sat za vrijeme.",
+      "savjet": "Sjeti se koja se oznaka nalazi na boci vode ili na tetrapaku mlijeka."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kraticu za decilitar.",
+      "ponudeni": [
+        "dl",
+        "dm",
+        "l",
+        "km"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Decilitar se kraće piše dl. Kratica dm označava decimetar, a km kilometar.",
+      "savjet": "Kratica počinje kao kod decimetra, ali završava slovom koje označava litru."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-003",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se čita kratica „l“.",
+      "ponudeni": [
+        "decilitar",
+        "litra",
+        "metar",
+        "kilogram"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kratica l čita se litra. To je jedinica za volumen tekućine.",
+      "savjet": "Ta se jedinica često vidi na bocama vode i soka."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-004",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko decilitara ima 1 l.",
+      "ponudeni": [
+        "100 dl",
+        "1 dl",
+        "5 dl",
+        "10 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedna litra ima deset decilitara, pa je 1 l = 10 dl.",
+      "savjet": "Decilitar je deseti dio litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi što mjerimo litrom.",
+      "ponudeni": [
+        "volumen soka u boci",
+        "masu vreće krumpira",
+        "duljinu školske klupe",
+        "trajanje školskog sata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Litrom mjerimo volumen tekućine, na primjer koliko soka stane u bocu.",
+      "savjet": "Litru vidiš napisanu na tetrapaku mlijeka."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-006",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točan zapis.",
+      "ponudeni": [
+        "1 l < 1 dl",
+        "1 l = 1 dl",
+        "1 l > 1 dl",
+        "1 l = 100 dl"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Litra je veća od decilitra jer jedna litra ima 10 decilitara.",
+      "savjet": "Sjeti se koliko decilitara stane u jednu litru."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-007",
+      "tezina": "lagano",
+      "pitanje": "Odaberi posudu u koju stane oko 2 dl soka.",
+      "ponudeni": [
+        "kada",
+        "kanta",
+        "bačva",
+        "čaša"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U čašu stane oko 2 dl soka. U kadu, kantu i bačvu stane mnogo litara.",
+      "savjet": "Zamisli iz čega piješ sok za doručkom."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-008",
+      "tezina": "lagano",
+      "pitanje": "Odaberi posudu u koju stane oko 10 l vode.",
+      "ponudeni": [
+        "žlica",
+        "kanta",
+        "čaša",
+        "šalica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U kantu stane oko 10 l vode. U žlicu, čašu i šalicu stane mnogo manje od jedne litre.",
+      "savjet": "Potraži posudu kojom se nosi voda za pranje poda."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-009",
+      "tezina": "lagano",
+      "pitanje": "Procijeni koliko vode stane u kadu.",
+      "ponudeni": [
+        "2 dl",
+        "2 l",
+        "20 l",
+        "200 l"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U kadu stane oko 200 l vode. Količina od 20 l stala bi u dvije kante, a to je premalo za kadu.",
+      "savjet": "Zamisli koliko bi kanti od 10 l trebalo da se kada napuni."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-010",
+      "tezina": "lagano",
+      "pitanje": "Procijeni koliko soka stane u čašu.",
+      "ponudeni": [
+        "2 dl",
+        "2 l",
+        "10 l",
+        "100 l"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U čašu stane oko 2 dl soka. Količina od 2 l je cijela velika boca, a to je previše za jednu čašu.",
+      "savjet": "Sjeti se da u čašu stane manje od jedne litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-011",
+      "tezina": "lagano",
+      "pitanje": "Odaberi jedinicu kojom ćeš izraziti koliko čaja stane u šalicu.",
+      "ponudeni": [
+        "dm",
+        "kg",
+        "dl",
+        "min"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U šalicu stane manje od jedne litre, pa njezin volumen izražavamo u decilitrima (dl).",
+      "savjet": "Tražiš jedinicu za volumen tekućine koja je manja od litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-012",
+      "tezina": "lagano",
+      "pitanje": "Odaberi jedinicu kojom ćeš izraziti koliko vode stane u bačvu.",
+      "ponudeni": [
+        "m",
+        "l",
+        "kg",
+        "h"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U bačvu stane mnogo vode, pa njezin volumen izražavamo u litrama (l).",
+      "savjet": "Volumen tekućine mjerimo drugim jedinicama nego duljinu, masu i vrijeme."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu jednakost.",
+      "ponudeni": [
+        "100 dl = 1 l",
+        "10 dl = 1 l",
+        "1 dl = 10 l",
+        "10 dl = 10 l"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Deset decilitara čini jednu litru, pa je 10 dl = 1 l.",
+      "savjet": "Litra je veća jedinica, pa u nju stane više decilitara."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-014",
+      "tezina": "lagano",
+      "pitanje": "Ana ima 1 l soka i ulijeva ga u male čaše od 1 dl. Odaberi koliko čaša napuni.",
+      "ponudeni": [
+        "1",
+        "5",
+        "100",
+        "10"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedna litra ima 10 decilitara, pa Ana napuni 10 čaša od 1 dl.",
+      "savjet": "Sjeti se koliko decilitara ima jedna litra."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-015",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv za količinu tekućine koja stane u posudu.",
+      "ponudeni": [
+        "volumen",
+        "duljina",
+        "masa",
+        "opseg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Količinu tekućine koja stane u posudu zovemo volumen ili obujam. Mjerimo ga litrama i decilitrima.",
+      "savjet": "Ta se veličina mjeri litrama i decilitrima."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-016",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako se čita kratica „dl“.",
+      "ponudeni": [
+        "decimetar",
+        "dekagram",
+        "decilitar",
+        "litra"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kratica dl čita se decilitar. Decimetar se piše dm, a dekagram dag.",
+      "savjet": "Drugo slovo kratice podsjeća na jedinicu za volumen tekućine."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-017",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kraticu za litru.",
+      "ponudeni": [
+        "dl",
+        "m",
+        "l",
+        "kg"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Litra se kraće piše malim slovom l. Kratica dl označava decilitar.",
+      "savjet": "Kratica za litru ima samo jedno slovo."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-018",
+      "tezina": "lagano",
+      "pitanje": "Odaberi količinu koja je veća od 1 l.",
+      "ponudeni": [
+        "5 dl",
+        "2 l",
+        "9 dl",
+        "1 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Količina od 2 l veća je od 1 l. Ostale količine manje su od 10 dl, a to je 1 l.",
+      "savjet": "Sjeti se da 1 l ima 10 dl pa usporedi."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-019",
+      "tezina": "lagano",
+      "pitanje": "Odaberi količinu koja je manja od 1 l.",
+      "ponudeni": [
+        "3 l",
+        "10 dl",
+        "2 l",
+        "4 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Količina od 4 dl manja je od 1 l jer 1 l ima 10 dl. Količina od 10 dl jednaka je 1 l.",
+      "savjet": "Pretvori litru u decilitre pa usporedi brojeve."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-020",
+      "tezina": "lagano",
+      "pitanje": "Odaberi posudu u koju stane najviše vode.",
+      "ponudeni": [
+        "kada",
+        "kanta",
+        "čaša",
+        "šalica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U kadu stane oko 200 l vode, a to je više nego u kantu, čašu ili šalicu.",
+      "savjet": "Zamisli koja je od tih posuda najveća."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-021",
+      "tezina": "lagano",
+      "pitanje": "Odaberi posudu u koju stane najmanje tekućine.",
+      "ponudeni": [
+        "žlica",
+        "čaša",
+        "boca",
+        "kanta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U žlicu stane vrlo malo tekućine, mnogo manje od jednog decilitra.",
+      "savjet": "Zamisli koja je od tih posuda najmanja."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-022",
+      "tezina": "lagano",
+      "pitanje": "Odaberi što od navedenog mjerimo u litrama.",
+      "ponudeni": [
+        "visinu ormara",
+        "masu lubenice",
+        "duljinu puta",
+        "vodu u akvariju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U litrama mjerimo volumen tekućine, na primjer vode u akvariju.",
+      "savjet": "Litrom mjerimo koliko tekućine stane u neku posudu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-023",
+      "tezina": "lagano",
+      "pitanje": "Odaberi riječ koja dovršava rečenicu: „Jedna litra ima deset …“",
+      "ponudeni": [
+        "metara",
+        "decilitara",
+        "kilograma",
+        "centimetara"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedna litra ima deset decilitara, jer je 1 l = 10 dl.",
+      "savjet": "Potraži jedinicu za volumen tekućine koja je manja od litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-024",
+      "tezina": "lagano",
+      "pitanje": "Mama je kupila 3 boce soka, a u svakoj je 1 l. Odaberi koliko je litara soka kupila.",
+      "ponudeni": [
+        "3 dl",
+        "1 l",
+        "3 l",
+        "30 l"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tri boce po 1 l zajedno imaju 3 l soka.",
+      "savjet": "Zbroji litre iz svih boca."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-025",
+      "tezina": "lagano",
+      "pitanje": "U posudi su 4 dl mlijeka. Ivan doda još 3 dl. Odaberi koliko je sada mlijeka u posudi.",
+      "ponudeni": [
+        "7 l",
+        "1 dl",
+        "12 dl",
+        "7 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad zbrojiš 4 dl i 3 dl, dobiješ 7 dl.",
+      "savjet": "Kad se mlijeko dolije, količine se zbrajaju."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 5 dl + 5 dl.",
+      "ponudeni": [
+        "55 dl",
+        "10 l",
+        "10 dl",
+        "1 dl"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbroj 5 dl i 5 dl je 10 dl, a to je isto što i 1 l.",
+      "savjet": "Zbroji brojeve, a jedinicu ostavi istu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-027",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 8 l − 3 l.",
+      "ponudeni": [
+        "5 l",
+        "5 dl",
+        "11 l",
+        "3 l"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad od 8 l oduzmeš 3 l, ostaje 5 l.",
+      "savjet": "Oduzmi brojeve, a jedinica ostaje litra."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-028",
+      "tezina": "lagano",
+      "pitanje": "Odaberi posudu u koju stane više od 1 l.",
+      "ponudeni": [
+        "čaša",
+        "kanta",
+        "šalica",
+        "žlica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U kantu stane oko 10 l, a to je više od 1 l. U čašu, šalicu i žlicu stane manje od litre.",
+      "savjet": "Zamisli posudu kojom se nosi voda za zalijevanje vrta."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-029",
+      "tezina": "lagano",
+      "pitanje": "Odaberi posudu u koju stane manje od 1 l.",
+      "ponudeni": [
+        "kada",
+        "šalica",
+        "kanta",
+        "bačva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U šalicu stane oko 2 dl, a to je manje od 1 l. U kadu, kantu i bačvu stane više litara.",
+      "savjet": "Potraži posudu iz koje piješ čaj."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-030",
+      "tezina": "lagano",
+      "pitanje": "Odaberi jedinicu koja je 10 puta manja od litre.",
+      "ponudeni": [
+        "decimetar",
+        "metar",
+        "decilitar",
+        "kilogram"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Decilitar je 10 puta manji od litre, jer je 1 l = 10 dl.",
+      "savjet": "Riječ deci govori da se cjelina dijeli na deset jednakih dijelova."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-031",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 3 l u decilitre.",
+      "ponudeni": [
+        "3 dl",
+        "300 dl",
+        "30 dl",
+        "13 dl"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka litra ima 10 dl, pa 3 l ima 3 · 10 = 30 dl.",
+      "savjet": "Svaku litru zamijeni s deset decilitara."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-032",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 40 dl u litre.",
+      "ponudeni": [
+        "40 l",
+        "4 l",
+        "400 l",
+        "3 l"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svakih 10 dl čini 1 l, a 40 dl ima četiri puta po 10 dl, pa je to 4 l.",
+      "savjet": "Izbroji koliko puta 10 dl stane u 40 dl."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-033",
+      "tezina": "srednje",
+      "pitanje": "Usporedi 3 l i 25 dl. Odaberi točan zapis.",
+      "ponudeni": [
+        "3 l < 25 dl",
+        "3 l > 25 dl",
+        "3 l = 25 dl",
+        "3 l = 3 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3 l je 30 dl, a 30 dl je više od 25 dl, pa je 3 l > 25 dl.",
+      "savjet": "Prije usporedbe pretvori litre u decilitre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-034",
+      "tezina": "srednje",
+      "pitanje": "Usporedi 1 l i 8 dl. Odaberi točan zapis.",
+      "ponudeni": [
+        "1 l > 8 dl",
+        "1 l < 8 dl",
+        "1 l = 8 dl",
+        "1 l = 80 dl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 l je 10 dl, a 10 dl je više od 8 dl.",
+      "savjet": "Sjeti se koliko decilitara ima jedna litra."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-035",
+      "tezina": "srednje",
+      "pitanje": "Usporedi 6 l i 60 dl. Odaberi točan zapis.",
+      "ponudeni": [
+        "6 l < 60 dl",
+        "6 l > 60 dl",
+        "6 l = 60 dl",
+        "6 l = 600 dl"
+      ],
+      "tocan": 2,
+      "objasnjenje": "6 l je 6 · 10 = 60 dl, pa su količine jednake.",
+      "savjet": "Pretvori litre u decilitre pa usporedi brojeve."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-036",
+      "tezina": "srednje",
+      "pitanje": "Odaberi količine poredane od najmanje do najveće.",
+      "ponudeni": [
+        "1 l, 5 dl, 2 l, 12 dl",
+        "12 dl, 5 dl, 2 l, 1 l",
+        "5 dl, 12 dl, 1 l, 2 l",
+        "5 dl, 1 l, 12 dl, 2 l"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad sve pretvoriš u decilitre, dobiješ 5 dl, 10 dl, 12 dl i 20 dl, pa je redoslijed 5 dl, 1 l, 12 dl, 2 l.",
+      "savjet": "Pretvori sve količine u decilitre pa ih poredaj."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-037",
+      "tezina": "srednje",
+      "pitanje": "Odaberi količine poredane od najveće do najmanje.",
+      "ponudeni": [
+        "25 dl, 3 l, 9 dl, 2 l",
+        "9 dl, 2 l, 25 dl, 3 l",
+        "3 l, 25 dl, 2 l, 9 dl",
+        "3 l, 2 l, 25 dl, 9 dl"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U decilitrima su to 30 dl, 25 dl, 20 dl i 9 dl, pa je redoslijed 3 l, 25 dl, 2 l, 9 dl.",
+      "savjet": "Zapiši sve količine u decilitrima i počni od najveće."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-038",
+      "tezina": "srednje",
+      "pitanje": "Odaberi najveću količinu.",
+      "ponudeni": [
+        "18 dl",
+        "2 l",
+        "15 dl",
+        "1 l"
+      ],
+      "tocan": 1,
+      "objasnjenje": "2 l je 20 dl, a to je više od 18 dl, 15 dl i 10 dl.",
+      "savjet": "Pretvori litre u decilitre pa usporedi."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-039",
+      "tezina": "srednje",
+      "pitanje": "Odaberi najmanju količinu.",
+      "ponudeni": [
+        "1 l",
+        "11 dl",
+        "2 l",
+        "9 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9 dl manje je od 1 l jer 1 l ima 10 dl. Količine 11 dl i 2 l veće su od 1 l.",
+      "savjet": "Sjeti se da 1 l ima 10 dl pa sve usporedi u decilitrima."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-040",
+      "tezina": "srednje",
+      "pitanje": "Odaberi količinu jednaku 5 l.",
+      "ponudeni": [
+        "50 dl",
+        "5 dl",
+        "500 dl",
+        "15 dl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaka litra ima 10 dl, pa je 5 l = 50 dl.",
+      "savjet": "Pomnoži broj litara s brojem decilitara u jednoj litri."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-041",
+      "tezina": "srednje",
+      "pitanje": "Odaberi količinu jednaku 70 dl.",
+      "ponudeni": [
+        "7 l",
+        "70 l",
+        "7 dl",
+        "700 l"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svakih 10 dl čini 1 l, pa je 70 dl = 7 l.",
+      "savjet": "Podijeli broj decilitara s brojem decilitara u jednoj litri."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-042",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 2 l 5 dl u decilitre.",
+      "ponudeni": [
+        "7 dl",
+        "205 dl",
+        "250 dl",
+        "25 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 l je 20 dl, a 20 dl i 5 dl zajedno čine 25 dl.",
+      "savjet": "Najprije pretvori litre u decilitre, a zatim dodaj preostale decilitre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-043",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 34 dl u litre i decilitre.",
+      "ponudeni": [
+        "34 l",
+        "3 l 4 dl",
+        "30 l 4 dl",
+        "4 l 3 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U 34 dl stane tri puta po 10 dl i ostaju 4 dl, pa je 34 dl = 3 l 4 dl.",
+      "savjet": "Izdvoji koliko puta po 10 dl ima u 34 dl."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-044",
+      "tezina": "srednje",
+      "pitanje": "Procijeni koliko vode stane u kantu za zalijevanje cvijeća.",
+      "ponudeni": [
+        "1 dl",
+        "1 l",
+        "10 l",
+        "100 l"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U kantu za zalijevanje stane oko 10 l vode. Jedna litra stane u bocu, a 100 l u veliku bačvu.",
+      "savjet": "Zamisli koliko bi velikih boca vode trebalo da se kanta napuni."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-045",
+      "tezina": "srednje",
+      "pitanje": "Procijeni koliko vode stane u veliki lonac za juhu.",
+      "ponudeni": [
+        "5 dl",
+        "50 l",
+        "5 l",
+        "500 l"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U veliki lonac stane oko 5 l vode. Količina od 50 l stala bi tek u pet kanti.",
+      "savjet": "Usporedi lonac s bocom od jedne litre i s kantom za vodu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-046",
+      "tezina": "srednje",
+      "pitanje": "Procijeni koliko vode stane u veliku plastičnu bocu iz trgovine.",
+      "ponudeni": [
+        "2 l",
+        "2 dl",
+        "20 l",
+        "200 l"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U veliku bocu vode iz trgovine stane oko 2 l. Količina od 2 dl stane u čašu.",
+      "savjet": "Velika boca je veća od čaše, ali mnogo manja od kante."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-047",
+      "tezina": "srednje",
+      "pitanje": "Odaberi najprikladniju jedinicu za količinu soka u jednoj čaši.",
+      "ponudeni": [
+        "l",
+        "m",
+        "kg",
+        "dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U čašu stane manje od 1 l, pa količinu soka u čaši izražavamo u decilitrima.",
+      "savjet": "Čaša je mnogo manja od boce od jedne litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-048",
+      "tezina": "srednje",
+      "pitanje": "Odaberi najprikladniju jedinicu za količinu vode u kadi.",
+      "ponudeni": [
+        "dl",
+        "l",
+        "cm",
+        "kg"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U kadu stane mnogo vode, oko 200 l, pa je litra prikladnija jedinica od decilitra.",
+      "savjet": "Za velike količine tekućine biraj veću jedinicu za volumen."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-049",
+      "tezina": "srednje",
+      "pitanje": "Odaberi rečenicu u kojoj je mjerna jedinica pravilno odabrana.",
+      "ponudeni": [
+        "U čašu stane 2 l soka.",
+        "U čašu stane 2 dl soka.",
+        "U kadu stane 2 dl vode.",
+        "U žlicu stane 2 l vode."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U čašu stane oko 2 dl soka. U kadu stane mnogo više, a u žlicu mnogo manje vode.",
+      "savjet": "Zamisli svaku posudu i količinu koja je napisana uz nju."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-050",
+      "tezina": "srednje",
+      "pitanje": "Lana je iz boce od 1 l natočila 3 dl soka. Odaberi koliko je soka ostalo u boci.",
+      "ponudeni": [
+        "13 dl",
+        "2 dl",
+        "7 dl",
+        "7 l"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 l je 10 dl, a 10 dl − 3 dl = 7 dl.",
+      "savjet": "Pretvori litru u decilitre pa oduzmi ono što je natočeno."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-051",
+      "tezina": "srednje",
+      "pitanje": "Marko je popio 2 čaše mlijeka, a u svakoj je bilo 2 dl. Odaberi koliko je mlijeka popio.",
+      "ponudeni": [
+        "4 dl",
+        "4 l",
+        "22 dl",
+        "2 dl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvije čaše po 2 dl zajedno imaju 4 dl mlijeka.",
+      "savjet": "Zbroji količine iz obje čaše."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-052",
+      "tezina": "srednje",
+      "pitanje": "U kanti su 2 l vode. Petra doda još 5 dl. Odaberi koliko je sada vode u kanti.",
+      "ponudeni": [
+        "7 dl",
+        "7 l",
+        "25 l",
+        "2 l 5 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad se 2 l doda još 5 dl, dobije se 2 l 5 dl, a to je 25 dl.",
+      "savjet": "Litre i decilitre ne zbrajaj kao da su iste jedinice."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-053",
+      "tezina": "srednje",
+      "pitanje": "U boci od 1 l ima 6 dl vode. Odaberi koliko još vode treba uliti da boca bude puna.",
+      "ponudeni": [
+        "6 dl",
+        "4 dl",
+        "16 dl",
+        "5 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Puna boca ima 1 l, a to je 10 dl. Do 10 dl nedostaju 4 dl.",
+      "savjet": "Pretvori 1 l u decilitre pa izračunaj koliko nedostaje do pune boce."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-054",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 3 dl + 7 dl i rezultat zapiši u litrama.",
+      "ponudeni": [
+        "10 l",
+        "4 l",
+        "37 l",
+        "1 l"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3 dl + 7 dl = 10 dl, a 10 dl je 1 l.",
+      "savjet": "Najprije zbroji decilitre, a zatim ih pretvori u litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-055",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2 l + 10 dl.",
+      "ponudeni": [
+        "12 l",
+        "12 dl",
+        "3 l",
+        "21 dl"
+      ],
+      "tocan": 2,
+      "objasnjenje": "10 dl je 1 l, pa je 2 l + 1 l = 3 l.",
+      "savjet": "Prije zbrajanja zapiši obje količine u istoj jedinici."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-056",
+      "tezina": "srednje",
+      "pitanje": "Odaberi količinu koja je veća od 1 l, a manja od 2 l.",
+      "ponudeni": [
+        "15 dl",
+        "9 dl",
+        "25 dl",
+        "3 l"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 l je 10 dl, a 2 l je 20 dl. Između njih je 15 dl.",
+      "savjet": "Pretvori 1 l i 2 l u decilitre pa potraži broj između njih."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-057",
+      "tezina": "srednje",
+      "pitanje": "Odaberi količinu koja je dvostruko veća od 5 dl.",
+      "ponudeni": [
+        "10 l",
+        "7 dl",
+        "50 dl",
+        "1 l"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvostruko od 5 dl je 10 dl, a to je 1 l.",
+      "savjet": "Udvostruči decilitre pa ih pretvori u litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-058",
+      "tezina": "srednje",
+      "pitanje": "Odaberi posudu čiji je volumen prikladno izraziti u decilitrima.",
+      "ponudeni": [
+        "kada",
+        "šalica",
+        "bačva",
+        "kanta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U šalicu stane manje od 1 l, pa njezin volumen izražavamo u decilitrima.",
+      "savjet": "Decilitar je mala jedinica, pa potraži malu posudu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-059",
+      "tezina": "srednje",
+      "pitanje": "Odaberi posudu čiji je volumen prikladno izraziti u litrama.",
+      "ponudeni": [
+        "kanta",
+        "čaša",
+        "žlica",
+        "šalica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U kantu stane oko 10 l, pa njezin volumen izražavamo u litrama.",
+      "savjet": "Litra je veća jedinica, pa potraži veću posudu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-060",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko čaša od 2 dl možeš napuniti iz boce od 1 l.",
+      "ponudeni": [
+        "2",
+        "10",
+        "5",
+        "20"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 l je 10 dl, a 10 dl : 2 dl = 5, pa se napuni 5 čaša.",
+      "savjet": "Pretvori litru u decilitre pa izračunaj koliko puta 2 dl stane u nju."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-061",
+      "tezina": "tesko",
+      "pitanje": "Usporedi 2 l 3 dl i 32 dl. Odaberi točan zapis.",
+      "ponudeni": [
+        "2 l 3 dl > 32 dl",
+        "2 l 3 dl = 32 dl",
+        "2 l 3 dl = 230 dl",
+        "2 l 3 dl < 32 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 l 3 dl je 23 dl, a 23 dl je manje od 32 dl.",
+      "savjet": "Pretvori 2 l 3 dl u decilitre pa usporedi."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-062",
+      "tezina": "tesko",
+      "pitanje": "Odaberi niz u kojem su litre i decilitri poredani od najmanje do najveće količine.",
+      "ponudeni": [
+        "15 dl, 1 l 2 dl, 2 l 1 dl, 2 l",
+        "1 l 2 dl, 15 dl, 2 l, 2 l 1 dl",
+        "2 l, 1 l 2 dl, 15 dl, 2 l 1 dl",
+        "1 l 2 dl, 2 l, 15 dl, 2 l 1 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U decilitrima su to 12 dl, 15 dl, 20 dl i 21 dl, pa je redoslijed 1 l 2 dl, 15 dl, 2 l, 2 l 1 dl.",
+      "savjet": "Zapiši svaku količinu u decilitrima pa ih poredaj."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-063",
+      "tezina": "tesko",
+      "pitanje": "Tri su količine jednake, a jedna je različita. Odaberi različitu količinu.",
+      "ponudeni": [
+        "4 l",
+        "40 dl",
+        "4 dl",
+        "2 l + 20 dl"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Količine 4 l, 40 dl i 2 l + 20 dl jednake su 40 dl, a 4 dl je mnogo manje.",
+      "savjet": "Zapiši sve količine u decilitrima."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-064",
+      "tezina": "tesko",
+      "pitanje": "Mia je napunila 6 čaša po 2 dl i vrč je ostao prazan. Odaberi koliko je soka bilo u vrču.",
+      "ponudeni": [
+        "1 l 2 dl",
+        "8 dl",
+        "12 l",
+        "1 l 6 dl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Šest čaša po 2 dl ima 12 dl, a 12 dl je 1 l 2 dl.",
+      "savjet": "Izračunaj koliko decilitara ima u svim čašama, pa izdvoji cijelu litru."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-065",
+      "tezina": "tesko",
+      "pitanje": "Luka za kuhanje treba 3 l vode, a ima samo posudu od 5 dl. Odaberi koliko puta mora napuniti tu posudu.",
+      "ponudeni": [
+        "3",
+        "6",
+        "15",
+        "8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3 l je 30 dl, a 30 dl : 5 dl = 6, pa posudu treba napuniti 6 puta.",
+      "savjet": "Pretvori litre u decilitre pa izračunaj koliko puta 5 dl stane u tu količinu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-066",
+      "tezina": "tesko",
+      "pitanje": "U velikoj boci su 2 l soka. Odaberi koliko čaša od 2 dl možeš napuniti.",
+      "ponudeni": [
+        "1",
+        "4",
+        "20",
+        "10"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 l je 20 dl, a 20 dl : 2 dl = 10, pa se napuni 10 čaša.",
+      "savjet": "Pretvori litre u decilitre pa izračunaj koliko puta 2 dl stane u tu količinu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-067",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "U kantu od 10 l stane više vode nego u 20 čaša od 2 dl.",
+        "U bocu od 2 l stane više vode nego u 15 čaša od 2 dl.",
+        "U vrč od 1 l stane više vode nego u 6 čaša od 2 dl.",
+        "U lonac od 3 l stane više vode nego u 20 čaša od 2 dl."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kanta od 10 l ima 100 dl, a 20 čaša po 2 dl ima samo 40 dl.",
+      "savjet": "Za svaku tvrdnju izračunaj koliko decilitara ima u čašama i u posudi."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-068",
+      "tezina": "tesko",
+      "pitanje": "Ema ima 1 l 5 dl soka, a Toni ima 13 dl. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Toni ima 2 dl više.",
+        "Imaju jednako soka.",
+        "Ema ima 2 dl više.",
+        "Ema ima 8 dl više."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ema ima 15 dl, a Toni 13 dl, pa Ema ima 2 dl više.",
+      "savjet": "Pretvori Eminu količinu u decilitre pa usporedi."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-069",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko vode treba doliti u posudu s 2 l 6 dl da u njoj budu 3 l.",
+      "ponudeni": [
+        "4 dl",
+        "6 dl",
+        "14 dl",
+        "1 dl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2 l 6 dl je 26 dl, a 3 l je 30 dl. Razlika je 30 dl − 26 dl = 4 dl.",
+      "savjet": "Zapiši obje količine u decilitrima pa izračunaj koliko nedostaje."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-070",
+      "tezina": "tesko",
+      "pitanje": "U kantu od 10 l Ivo je ulio 4 l vode, a zatim još 30 dl. Odaberi koliko još vode stane u kantu.",
+      "ponudeni": [
+        "6 l",
+        "3 l",
+        "7 l",
+        "3 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "30 dl je 3 l, pa je u kanti 4 l + 3 l = 7 l. Do 10 l stane još 3 l.",
+      "savjet": "Najprije pretvori 30 dl u litre, a zatim izračunaj koliko je vode u kanti."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-071",
+      "tezina": "tesko",
+      "pitanje": "Odaberi par jednakih količina.",
+      "ponudeni": [
+        "2 l 5 dl i 7 dl",
+        "2 l 5 dl i 205 dl",
+        "2 l 5 dl i 25 l",
+        "2 l 5 dl i 25 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 l je 20 dl, pa je 2 l 5 dl = 25 dl.",
+      "savjet": "Pretvori 2 l 5 dl u decilitre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-072",
+      "tezina": "tesko",
+      "pitanje": "Odaberi posudu u koju stane 10 puta više tekućine nego u čašu od 2 dl.",
+      "ponudeni": [
+        "vrč od 1 l",
+        "šalica od 3 dl",
+        "boca od 2 l",
+        "kanta od 10 l"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Deset puta po 2 dl je 20 dl, a to je 2 l.",
+      "savjet": "Izračunaj koliko je 10 puta po 2 dl pa to pretvori u litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-073",
+      "tezina": "tesko",
+      "pitanje": "Četvero djece jednako je podijelilo 2 l soka. Odaberi koliko je soka dobilo svako dijete.",
+      "ponudeni": [
+        "5 l",
+        "2 dl",
+        "5 dl",
+        "8 dl"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2 l je 20 dl, a 20 dl : 4 = 5 dl.",
+      "savjet": "Pretvori litre u decilitre pa podijeli na četiri jednaka dijela."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-074",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko čaša vode od 2 dl treba izliti u kantu od 10 l da bude puna.",
+      "ponudeni": [
+        "50",
+        "5",
+        "500",
+        "20"
+      ],
+      "tocan": 0,
+      "objasnjenje": "10 l je 100 dl, a 100 dl : 2 dl = 50, pa treba izliti 50 čaša.",
+      "savjet": "Pretvori 10 l u decilitre pa izračunaj koliko puta 2 dl stane u tu količinu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-075",
+      "tezina": "tesko",
+      "pitanje": "Odaberi količinu koja je za 3 dl manja od 2 l.",
+      "ponudeni": [
+        "2 l 3 dl",
+        "1 l 7 dl",
+        "1 l 3 dl",
+        "17 l"
+      ],
+      "tocan": 1,
+      "objasnjenje": "2 l je 20 dl, a 20 dl − 3 dl = 17 dl, odnosno 1 l 7 dl.",
+      "savjet": "Pretvori 2 l u decilitre pa oduzmi."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-076",
+      "tezina": "tesko",
+      "pitanje": "Odaberi količinu koja je veća od 2 l 4 dl, a manja od 3 l.",
+      "ponudeni": [
+        "21 dl",
+        "32 dl",
+        "2 l 4 dl",
+        "27 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 l 4 dl je 24 dl, a 3 l je 30 dl. Između njih je 27 dl.",
+      "savjet": "Zapiši obje granice u decilitrima pa potraži broj između njih."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-077",
+      "tezina": "tesko",
+      "pitanje": "Odaberi niz u kojem su litre i decilitri poredani od najveće do najmanje količine.",
+      "ponudeni": [
+        "29 dl, 3 l 1 dl, 2 l, 2 l 5 dl",
+        "2 l, 2 l 5 dl, 29 dl, 3 l 1 dl",
+        "3 l 1 dl, 2 l 5 dl, 29 dl, 2 l",
+        "3 l 1 dl, 29 dl, 2 l 5 dl, 2 l"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U decilitrima su to 31 dl, 29 dl, 25 dl i 20 dl, pa je to redoslijed od najveće do najmanje.",
+      "savjet": "Zapiši svaku količinu u decilitrima pa kreni od najveće."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-078",
+      "tezina": "tesko",
+      "pitanje": "Odaberi broj koji nedostaje: 6 l 4 dl = ? dl.",
+      "ponudeni": [
+        "604",
+        "46",
+        "64",
+        "10"
+      ],
+      "tocan": 2,
+      "objasnjenje": "6 l je 60 dl, a 60 dl + 4 dl = 64 dl.",
+      "savjet": "Litre pretvori u decilitre pa dodaj preostale decilitre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-079",
+      "tezina": "tesko",
+      "pitanje": "Nina svaki dan popije 5 dl mlijeka. Odaberi koliko mlijeka popije u 4 dana.",
+      "ponudeni": [
+        "2 l",
+        "20 l",
+        "9 dl",
+        "2 dl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "4 · 5 dl = 20 dl, a 20 dl je 2 l.",
+      "savjet": "Pomnoži dnevnu količinu s brojem dana pa decilitre pretvori u litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-080",
+      "tezina": "tesko",
+      "pitanje": "Odaberi količinu koja je 10 puta veća od 4 dl.",
+      "ponudeni": [
+        "40 l",
+        "4 l",
+        "14 dl",
+        "44 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "10 · 4 dl = 40 dl, a 40 dl je 4 l.",
+      "savjet": "Pomnoži decilitre pa rezultat pretvori u litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-081",
+      "tezina": "tesko",
+      "pitanje": "U posudi je bilo 2 l vode. Dino je ulio još 5 dl, a zatim izlio 1 l. Odaberi koliko je vode sada u posudi.",
+      "ponudeni": [
+        "3 l 5 dl",
+        "1 l 5 dl",
+        "2 l 5 dl",
+        "6 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "2 l + 5 dl = 2 l 5 dl, a kad se izlije 1 l, ostaje 1 l 5 dl.",
+      "savjet": "Prati redom što se događa: najprije dodaj, a zatim oduzmi."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-082",
+      "tezina": "tesko",
+      "pitanje": "Na stolu su dvije boce po 1 l vode i tri čaše po 2 dl vode. Odaberi koliko je to ukupno vode.",
+      "ponudeni": [
+        "2 l 6 dl",
+        "5 l",
+        "2 l 3 dl",
+        "8 dl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Boce imaju 2 l, a čaše 3 · 2 dl = 6 dl, pa je ukupno 2 l 6 dl.",
+      "savjet": "Posebno izračunaj vodu u bocama i u čašama pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-083",
+      "tezina": "tesko",
+      "pitanje": "Dora je zapisala: „U kadu stane 150 dl vode.“ Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Točno, jer je 150 dl isto što i 150 l.",
+        "Netočno, jer je 150 dl više od 200 l.",
+        "Netočno, jer je 150 dl samo 15 l, a to je premalo.",
+        "Točno, jer je 150 dl isto što i 1500 l."
+      ],
+      "tocan": 2,
+      "objasnjenje": "150 dl je samo 15 l, a u kadu stane oko 150 do 200 l, pa je Dora trebala napisati litre.",
+      "savjet": "Pretvori 150 dl u litre pa zamisli koliko je to vode za kadu."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-084",
+      "tezina": "tesko",
+      "pitanje": "Jakov tvrdi da u šalicu stane 2 l čaja. Odaberi u čemu je najvjerojatnije pogriješio.",
+      "ponudeni": [
+        "Trebao je napisati 20 l.",
+        "Napisao je dl umjesto l.",
+        "Trebao je napisati 200 l.",
+        "Napisao je l umjesto dl."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U šalicu stane oko 2 dl čaja, pa je Jakov trebao napisati dl, a ne l.",
+      "savjet": "Zamisli koliko je zapravo velika šalica u usporedbi s velikom bocom."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-085",
+      "tezina": "tesko",
+      "pitanje": "Odaberi razliku između 3 l i 25 dl.",
+      "ponudeni": [
+        "5 dl",
+        "22 dl",
+        "5 l",
+        "15 dl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "3 l je 30 dl, a 30 dl − 25 dl = 5 dl.",
+      "savjet": "Zapiši obje količine u decilitrima pa oduzmi manju od veće."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-086",
+      "tezina": "tesko",
+      "pitanje": "Kanta ima 10 l. Odaberi koliko puta treba napuniti bocu od 2 l da se kanta napuni.",
+      "ponudeni": [
+        "20",
+        "8",
+        "12",
+        "5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "10 l : 2 l = 5, pa bocu treba napuniti i izliti u kantu 5 puta.",
+      "savjet": "Izračunaj koliko puta 2 l stane u 10 l."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-087",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zbroj koji iznosi točno 1 l.",
+      "ponudeni": [
+        "5 dl + 4 dl",
+        "4 dl + 6 dl",
+        "8 dl + 3 dl",
+        "1 l + 1 dl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4 dl + 6 dl = 10 dl, a 10 dl je točno 1 l.",
+      "savjet": "Izračunaj svaki zbroj u decilitrima i usporedi ga s 10 dl."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-088",
+      "tezina": "tesko",
+      "pitanje": "Odaberi razliku koja iznosi točno 5 dl.",
+      "ponudeni": [
+        "1 l − 4 dl",
+        "2 l − 5 dl",
+        "1 l − 5 dl",
+        "5 l − 1 l"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 l je 10 dl, a 10 dl − 5 dl = 5 dl.",
+      "savjet": "Litre pretvori u decilitre pa izračunaj svaku razliku."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-089",
+      "tezina": "tesko",
+      "pitanje": "Odaberi količinu koja je 5 puta veća od 2 dl.",
+      "ponudeni": [
+        "7 dl",
+        "3 dl",
+        "1 l",
+        "10 l"
+      ],
+      "tocan": 2,
+      "objasnjenje": "5 · 2 dl = 10 dl, a 10 dl je 1 l.",
+      "savjet": "Pomnoži pa decilitre pretvori u litre."
+    },
+    {
+      "id": "4-matematika-litra-i-decilitar-090",
+      "tezina": "tesko",
+      "pitanje": "Iz pune boce soka od 1 l natočene su 3 čaše po 3 dl. Odaberi koliko je soka ostalo u boci.",
+      "ponudeni": [
+        "9 dl",
+        "7 dl",
+        "4 dl",
+        "1 dl"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tri čaše po 3 dl imaju 9 dl, a 10 dl − 9 dl = 1 dl.",
+      "savjet": "Pretvori litru u decilitre i izračunaj koliko je soka natočeno."
+    }
+  ]
+}
