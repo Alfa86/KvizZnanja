@@ -28,6 +28,1238 @@
       "tocan": 1,
       "objasnjenje": "398 750 je blizu 400 000, a 301 480 blizu 300 000. Procjena: 400 000 + 300 000 = 700 000.",
       "savjet": "Zaokruži oba broja na stotice tisuća pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-003",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na desetice pa procijeni zbroj 48 + 31.",
+      "ponudeni": [
+        "≈ 80",
+        "≈ 70",
+        "≈ 90",
+        "≈ 100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "48 se zaokružuje na 50, a 31 na 30. Procjena: 50 + 30 = 80.",
+      "savjet": "Broj s jedinicama 5, 6, 7, 8 ili 9 zaokružuješ na veću deseticu, a ostale na manju."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-004",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na stotice pa procijeni zbroj 386 + 211.",
+      "ponudeni": [
+        "≈ 500",
+        "≈ 600",
+        "≈ 700",
+        "≈ 800"
+      ],
+      "tocan": 1,
+      "objasnjenje": "386 se zaokružuje na 400, a 211 na 200. Procjena: 400 + 200 = 600.",
+      "savjet": "Pogledaj znamenku desetica: ako je 5 ili veća, zaokružuješ na veću stoticu."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-005",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na desetice pa procijeni razliku 92 − 39.",
+      "ponudeni": [
+        "≈ 60",
+        "≈ 40",
+        "≈ 50",
+        "≈ 130"
+      ],
+      "tocan": 2,
+      "objasnjenje": "92 se zaokružuje na 90, a 39 na 40. Procjena: 90 − 40 = 50.",
+      "savjet": "Najprije zaokruži svaki broj na najbližu deseticu, a onda oduzmi."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-006",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na tisućice pa procijeni zbroj 3912 + 2097.",
+      "ponudeni": [
+        "≈ 5000",
+        "≈ 7000",
+        "≈ 8000",
+        "≈ 6000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "3912 se zaokružuje na 4000, a 2097 na 2000. Procjena: 4000 + 2000 = 6000.",
+      "savjet": "Pogledaj znamenku stotica: ako je 5 ili veća, zaokružuješ na veću tisućicu."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-007",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 4683 na stotice.",
+      "ponudeni": [
+        "4600",
+        "4700",
+        "4680",
+        "5000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenka desetica je 8, a to je više od 5, pa se 4683 zaokružuje na veću stoticu, 4700.",
+      "savjet": "Pri zaokruživanju na stotice gledaš znamenku desetica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-008",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 27 450 na tisućice.",
+      "ponudeni": [
+        "28 000",
+        "27 500",
+        "30 000",
+        "27 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znamenka stotica je 4, a to je manje od 5, pa se 27 450 zaokružuje na manju tisućicu, 27 000.",
+      "savjet": "Pri zaokruživanju na tisućice gledaš samo znamenku stotica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-009",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži 38 na desetice pa procijeni umnožak 38 · 5.",
+      "ponudeni": [
+        "≈ 200",
+        "≈ 150",
+        "≈ 20",
+        "≈ 2000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "38 se zaokružuje na 40. Procjena: 40 · 5 = 200.",
+      "savjet": "Zaokruži 38 na najbližu deseticu pa tu deseticu pomnoži s 5."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-010",
+      "tezina": "lagano",
+      "pitanje": "Mia je zbrojila 302 + 497. Odaberi rezultat koji je razuman.",
+      "ponudeni": [
+        "79",
+        "7990",
+        "799",
+        "2990"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Procjena je 300 + 500 = 800, a tome je blizu samo 799. Točno je 302 + 497 = 799.",
+      "savjet": "Zaokruži oba broja na stotice i pogledaj koji je rezultat blizu procjene."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-011",
+      "tezina": "lagano",
+      "pitanje": "Procijeni količnik 8010 : 2.",
+      "ponudeni": [
+        "≈ 4000",
+        "≈ 400",
+        "≈ 40 000",
+        "≈ 16 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "8010 je blizu 8000, a 8000 : 2 = 4000. Točan količnik 4005 vrlo je blizu toj procjeni.",
+      "savjet": "Zaokruži djeljenik na tisućice pa podijeli s 2."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-012",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na stotice pa procijeni razliku 812 − 395.",
+      "ponudeni": [
+        "≈ 500",
+        "≈ 400",
+        "≈ 300",
+        "≈ 1200"
+      ],
+      "tocan": 1,
+      "objasnjenje": "812 se zaokružuje na 800, a 395 na 400. Procjena: 800 − 400 = 400.",
+      "savjet": "Kod broja 395 pogledaj znamenku desetica i odluči na koju stoticu ga zaokružuješ."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-013",
+      "tezina": "lagano",
+      "pitanje": "Ivan kupuje loptu za 19 € i majicu za 31 €. Zaokruži cijene na desetice pa procijeni koliko će platiti.",
+      "ponudeni": [
+        "≈ 40 €",
+        "≈ 60 €",
+        "≈ 70 €",
+        "≈ 50 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "19 € je približno 20 €, a 31 € približno 30 €. Procjena: 20 € + 30 € = 50 €.",
+      "savjet": "Svaku cijenu zaokruži na najbližu deseticu pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-014",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na desetice pa procijeni zbroj 63 + 28.",
+      "ponudeni": [
+        "≈ 90",
+        "≈ 80",
+        "≈ 100",
+        "≈ 70"
+      ],
+      "tocan": 0,
+      "objasnjenje": "63 se zaokružuje na 60, a 28 na 30. Procjena: 60 + 30 = 90.",
+      "savjet": "Pogledaj znamenku jedinica svakog broja: 3 zaokružuješ prema dolje, a 8 prema gore."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-015",
+      "tezina": "lagano",
+      "pitanje": "Leon je riješio četiri zadatka. Koji je rezultat sigurno pogrešan?",
+      "ponudeni": [
+        "205 + 198 = 403",
+        "510 − 290 = 220",
+        "400 + 395 = 79",
+        "99 + 101 = 200"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbroj 400 + 395 mora biti blizu 800, a ne 79. Točno je 400 + 395 = 795.",
+      "savjet": "Za svaki zadatak napravi brzu procjenu i usporedi je s napisanim rezultatom."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-016",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži 52 na desetice pa procijeni umnožak 52 · 3.",
+      "ponudeni": [
+        "≈ 180",
+        "≈ 150",
+        "≈ 15",
+        "≈ 1500"
+      ],
+      "tocan": 1,
+      "objasnjenje": "52 se zaokružuje na 50. Procjena: 50 · 3 = 150.",
+      "savjet": "Zaokruži 52 na najbližu deseticu pa je pomnoži s 3."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-017",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži 79 na desetice pa procijeni količnik 79 : 4.",
+      "ponudeni": [
+        "≈ 2",
+        "≈ 200",
+        "≈ 30",
+        "≈ 20"
+      ],
+      "tocan": 3,
+      "objasnjenje": "79 se zaokružuje na 80. Procjena: 80 : 4 = 20.",
+      "savjet": "Zaokruži djeljenik na najbližu deseticu pa podijeli s 4."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-018",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 952 na stotice.",
+      "ponudeni": [
+        "1000",
+        "900",
+        "950",
+        "960"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka desetica je 5, pa se 952 zaokružuje na veću stoticu. Stotica nakon 900 je 1000.",
+      "savjet": "Pri zaokruživanju na stotice gledaš znamenku desetica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-019",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na tisućice pa procijeni razliku 7980 − 2010.",
+      "ponudeni": [
+        "≈ 5000",
+        "≈ 10 000",
+        "≈ 6000",
+        "≈ 7000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "7980 se zaokružuje na 8000, a 2010 na 2000. Procjena: 8000 − 2000 = 6000.",
+      "savjet": "Zaokruži svaki broj na najbližu tisućicu, a onda oduzmi."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-020",
+      "tezina": "lagano",
+      "pitanje": "Petra je izračunala 198 · 3. Odaberi rezultat koji je razuman.",
+      "ponudeni": [
+        "5940",
+        "594",
+        "59",
+        "194"
+      ],
+      "tocan": 1,
+      "objasnjenje": "198 je blizu 200, a 200 · 3 = 600. Tome je blizu samo 594, što je i točan umnožak.",
+      "savjet": "Zaokruži 198 na stotice i pomnoži s 3 pa usporedi s ponuđenim rezultatima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-021",
+      "tezina": "lagano",
+      "pitanje": "Na izlet idu 4 autobusa, a u svakom je 49 putnika. Procijeni koliko je otprilike putnika.",
+      "ponudeni": [
+        "≈ 50",
+        "≈ 2000",
+        "≈ 20",
+        "≈ 200"
+      ],
+      "tocan": 3,
+      "objasnjenje": "49 je blizu 50, a 4 · 50 = 200. Točno ima 4 · 49 = 196 putnika.",
+      "savjet": "Zaokruži broj putnika u jednom autobusu na desetice pa pomnoži s brojem autobusa."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-022",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na stotice pa procijeni zbroj 1290 + 2810.",
+      "ponudeni": [
+        "≈ 4100",
+        "≈ 4000",
+        "≈ 3900",
+        "≈ 4200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1290 se zaokružuje na 1300, a 2810 na 2800. Procjena: 1300 + 2800 = 4100.",
+      "savjet": "Pri zaokruživanju na stotice gledaš znamenku desetica svakog broja."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-023",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 64 809 na desetice tisuća.",
+      "ponudeni": [
+        "65 000",
+        "70 000",
+        "60 000",
+        "64 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znamenka tisućica je 4, a to je manje od 5, pa se 64 809 zaokružuje na manju deseticu tisuća, 60 000.",
+      "savjet": "Pri zaokruživanju na desetice tisuća gledaš znamenku tisućica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-024",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na desetice pa procijeni razliku 71 − 18.",
+      "ponudeni": [
+        "≈ 60",
+        "≈ 90",
+        "≈ 40",
+        "≈ 50"
+      ],
+      "tocan": 3,
+      "objasnjenje": "71 se zaokružuje na 70, a 18 na 20. Procjena: 70 − 20 = 50.",
+      "savjet": "Zaokruži oba broja na najbližu deseticu pa oduzmi manji od većeg."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-025",
+      "tezina": "lagano",
+      "pitanje": "Sara ima 20 €. Želi kupiti knjigu za 8 € i bojice za 4 €. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Nema dovoljno, nedostaje joj oko 10 €.",
+        "Ima dovoljno i ostat će joj novca.",
+        "Nema dovoljno, nedostaje joj oko 2 €.",
+        "Ima točno onoliko novca koliko treba."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Knjiga i bojice stoje 8 € + 4 € = 12 €, a to je manje od 20 €. Sari će ostati 8 €.",
+      "savjet": "Zbroji obje cijene i usporedi zbroj s novcem koji Sara ima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-026",
+      "tezina": "lagano",
+      "pitanje": "Djed jednako dijeli 297 € na troje unučadi. Procijeni koliko će otprilike dobiti svako unuče.",
+      "ponudeni": [
+        "≈ 100 €",
+        "≈ 10 €",
+        "≈ 1000 €",
+        "≈ 300 €"
+      ],
+      "tocan": 0,
+      "objasnjenje": "297 € je blizu 300 €, a 300 : 3 = 100. Točno svako unuče dobiva 297 : 3 = 99 €.",
+      "savjet": "Zaokruži iznos na stotice pa ga podijeli s 3."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-027",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži oba broja na stotice pa procijeni zbroj 745 + 128.",
+      "ponudeni": [
+        "≈ 900",
+        "≈ 700",
+        "≈ 800",
+        "≈ 870"
+      ],
+      "tocan": 2,
+      "objasnjenje": "745 se zaokružuje na 700, a 128 na 100. Procjena: 700 + 100 = 800.",
+      "savjet": "Kod broja 745 pogledaj samo znamenku desetica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-028",
+      "tezina": "lagano",
+      "pitanje": "Ena je riješila četiri zadatka. Koji je rezultat sigurno pogrešan?",
+      "ponudeni": [
+        "60 · 5 = 300",
+        "802 − 398 = 404",
+        "250 + 249 = 499",
+        "41 · 9 = 3690"
+      ],
+      "tocan": 3,
+      "objasnjenje": "41 · 9 mora biti blizu 40 · 9 = 360, a ne 3690. Točno je 41 · 9 = 369.",
+      "savjet": "Za svaki zadatak napravi brzu procjenu i provjeri je li rezultat iste veličine."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-029",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži sve brojeve na desetice pa procijeni zbroj 29 + 42 + 18.",
+      "ponudeni": [
+        "≈ 80",
+        "≈ 90",
+        "≈ 100",
+        "≈ 70"
+      ],
+      "tocan": 1,
+      "objasnjenje": "29 je približno 30, 42 približno 40, a 18 približno 20. Procjena: 30 + 40 + 20 = 90.",
+      "savjet": "Svaki od tri broja zaokruži na najbližu deseticu pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-030",
+      "tezina": "lagano",
+      "pitanje": "Zaokruži broj 8549 na tisućice.",
+      "ponudeni": [
+        "9000",
+        "8000",
+        "8500",
+        "8600"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka stotica je 5, pa se 8549 zaokružuje na veću tisućicu, 9000.",
+      "savjet": "Pri zaokruživanju na tisućice gledaš samo znamenku stotica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-031",
+      "tezina": "lagano",
+      "pitanje": "Tin je izračunao 1000 − 297. Odaberi rezultat koji je razuman.",
+      "ponudeni": [
+        "7030",
+        "70",
+        "703",
+        "203"
+      ],
+      "tocan": 2,
+      "objasnjenje": "297 je blizu 300, a 1000 − 300 = 700. Tome je blizu samo 703, što je i točna razlika.",
+      "savjet": "Zaokruži 297 na stotice, oduzmi od 1000 i usporedi s ponuđenim rezultatima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-032",
+      "tezina": "lagano",
+      "pitanje": "Škola je kupila klupe za 4120 € i ploče za 1870 €. Zaokruži iznose na tisućice pa procijeni ukupni trošak.",
+      "ponudeni": [
+        "≈ 5000 €",
+        "≈ 7000 €",
+        "≈ 5900 €",
+        "≈ 6000 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "4120 € se zaokružuje na 4000 €, a 1870 € na 2000 €. Procjena: 4000 € + 2000 € = 6000 €.",
+      "savjet": "Svaki iznos zaokruži na najbližu tisućicu pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-033",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži oba broja na stotice pa procijeni zbroj 4372 + 2841.",
+      "ponudeni": [
+        "≈ 7000",
+        "≈ 7200",
+        "≈ 7300",
+        "≈ 6200"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4372 se zaokružuje na 4400, a 2841 na 2800. Procjena: 4400 + 2800 = 7200.",
+      "savjet": "Pri zaokruživanju na stotice gledaš znamenku desetica, a ne tisućica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-034",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži oba broja na tisućice pa procijeni zbroj 23 680 + 14 290.",
+      "ponudeni": [
+        "≈ 37 000",
+        "≈ 39 000",
+        "≈ 40 000",
+        "≈ 38 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "23 680 se zaokružuje na 24 000, a 14 290 na 14 000. Procjena: 24 000 + 14 000 = 38 000.",
+      "savjet": "Kod svakog broja pogledaj znamenku stotica i odluči zaokružuješ li prema gore ili prema dolje."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-035",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži oba broja na tisućice pa procijeni razliku 52 310 − 18 760.",
+      "ponudeni": [
+        "≈ 33 000",
+        "≈ 34 000",
+        "≈ 35 000",
+        "≈ 70 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "52 310 se zaokružuje na 52 000, a 18 760 na 19 000. Procjena: 52 000 − 19 000 = 33 000.",
+      "savjet": "Pazi kako zaokružuješ 18 760: pogledaj znamenku stotica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-036",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži 487 na stotice pa procijeni umnožak 487 · 6.",
+      "ponudeni": [
+        "≈ 2400",
+        "≈ 300",
+        "≈ 3000",
+        "≈ 30 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "487 se zaokružuje na 500. Procjena: 500 · 6 = 3000.",
+      "savjet": "Zaokruži 487 na najbližu stoticu pa broj stotica pomnoži sa 6."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-037",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži 1795 na stotice pa procijeni količnik 1795 : 6.",
+      "ponudeni": [
+        "≈ 30",
+        "≈ 300",
+        "≈ 3000",
+        "≈ 200"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1795 se zaokružuje na 1800. Procjena: 1800 : 6 = 300.",
+      "savjet": "Kad zaokružiš djeljenik, razmisli koliko je 18 stotica podijeljeno sa 6."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-038",
+      "tezina": "srednje",
+      "pitanje": "Karlo je riješio četiri zadatka. Koji je rezultat sigurno pogrešan?",
+      "ponudeni": [
+        "3020 + 1990 = 5010",
+        "6000 − 2980 = 3020",
+        "302 · 3 = 906",
+        "4980 + 3010 = 799"
+      ],
+      "tocan": 3,
+      "objasnjenje": "4980 + 3010 mora biti blizu 5000 + 3000 = 8000, a ne 799. Točno je 7990.",
+      "savjet": "Zaokruži brojeve u svakom zadatku i provjeri ima li rezultat otprilike toliko znamenaka koliko treba."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-039",
+      "tezina": "srednje",
+      "pitanje": "Procijeni umnožak 198 · 5.",
+      "ponudeni": [
+        "≈ 1000",
+        "≈ 100",
+        "≈ 10 000",
+        "≈ 200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "198 je blizu 200, a 200 · 5 = 1000. Točan umnožak 990 vrlo je blizu toj procjeni.",
+      "savjet": "Zaokruži 198 na najbližu stoticu pa pomnoži s 5."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-040",
+      "tezina": "srednje",
+      "pitanje": "Marta kupuje tenisice za 48 €, trenirku za 33 € i kapu za 12 €. Zaokruži cijene na desetice pa procijeni koliko će platiti.",
+      "ponudeni": [
+        "≈ 80 €",
+        "≈ 100 €",
+        "≈ 90 €",
+        "≈ 70 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Cijene se zaokružuju na 50 €, 30 € i 10 €. Procjena: 50 € + 30 € + 10 € = 90 €.",
+      "savjet": "Svaku od tri cijene zaokruži na najbližu deseticu pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-041",
+      "tezina": "srednje",
+      "pitanje": "Ivo ima 50 €. Želi kupiti slagalicu za 29 € i loptu za 32 €. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Ima dovoljno, ostat će mu oko 10 €.",
+        "Nema dovoljno, nedostaje mu oko 10 €.",
+        "Ima dovoljno, ostat će mu oko 20 €.",
+        "Nema dovoljno, nedostaje mu oko 30 €."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Procjena je 30 € + 30 € = 60 €, a to je više od 50 €. Točno je 29 € + 32 € = 61 €, pa Ivi nedostaje 11 €.",
+      "savjet": "Zaokruži cijene na desetice, zbroji ih i usporedi s novcem koji Ivo ima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-042",
+      "tezina": "srednje",
+      "pitanje": "Nina je izračunala 2075 · 4. Odaberi rezultat koji je razuman.",
+      "ponudeni": [
+        "830",
+        "83 000",
+        "2300",
+        "8300"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2075 je blizu 2000, a 2000 · 4 = 8000. Tome je blizu samo 8300, što je i točan umnožak.",
+      "savjet": "Zaokruži 2075 na tisućice, pomnoži s 4 i usporedi s ponuđenim rezultatima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-043",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži oba broja na desetice tisuća pa procijeni zbroj 46 200 + 31 900.",
+      "ponudeni": [
+        "≈ 80 000",
+        "≈ 70 000",
+        "≈ 78 000",
+        "≈ 90 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "46 200 se zaokružuje na 50 000, a 31 900 na 30 000. Procjena: 50 000 + 30 000 = 80 000.",
+      "savjet": "Pri zaokruživanju na desetice tisuća gledaš znamenku tisućica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-044",
+      "tezina": "srednje",
+      "pitanje": "Na utakmici je bilo 2985 navijača domaće i 1020 navijača gostujuće momčadi. Procijeni koliko je ukupno navijača.",
+      "ponudeni": [
+        "≈ 400",
+        "≈ 40 000",
+        "≈ 4000",
+        "≈ 1000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2985 je blizu 3000, a 1020 blizu 1000, pa je ukupno približno 3000 + 1000 = 4000 navijača. Točno ih je 4005.",
+      "savjet": "Oba broja zaokruži na tisućice pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-045",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži oba broja na stotice pa procijeni razliku 6230 − 1870.",
+      "ponudeni": [
+        "≈ 4400",
+        "≈ 4300",
+        "≈ 4000",
+        "≈ 8100"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6230 se zaokružuje na 6200, a 1870 na 1900. Procjena: 6200 − 1900 = 4300.",
+      "savjet": "Zaokruži oba broja na najbližu stoticu pa oduzmi."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-046",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži oba broja na desetice pa procijeni umnožak 31 · 19.",
+      "ponudeni": [
+        "≈ 300",
+        "≈ 6000",
+        "≈ 500",
+        "≈ 600"
+      ],
+      "tocan": 3,
+      "objasnjenje": "31 se zaokružuje na 30, a 19 na 20. Procjena: 30 · 20 = 600.",
+      "savjet": "Zaokruži oba faktora na desetice pa pomnoži 3 desetice s 2 desetice."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-047",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži broj 349 501 na desetice tisuća.",
+      "ponudeni": [
+        "350 000",
+        "340 000",
+        "349 000",
+        "300 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znamenka tisućica je 9, pa se 349 501 zaokružuje na veću deseticu tisuća, 350 000.",
+      "savjet": "Pri zaokruživanju na desetice tisuća gledaš samo znamenku tisućica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-048",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži 2390 na stotice pa procijeni količnik 2390 : 8.",
+      "ponudeni": [
+        "≈ 30",
+        "≈ 240",
+        "≈ 300",
+        "≈ 3000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2390 se zaokružuje na 2400. Procjena: 2400 : 8 = 300.",
+      "savjet": "Kad zaokružiš djeljenik, razmisli koliko je 24 stotice podijeljeno s 8."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-049",
+      "tezina": "srednje",
+      "pitanje": "Lucija je izračunala četiri razlike. Koji je rezultat sigurno pogrešan?",
+      "ponudeni": [
+        "7002 − 2998 = 4004",
+        "50 000 − 19 000 = 3100",
+        "8100 − 4050 = 4050",
+        "900 − 451 = 449"
+      ],
+      "tocan": 1,
+      "objasnjenje": "50 000 − 19 000 mora biti blizu 50 000 − 20 000 = 30 000, a ne 3100. Točno je 31 000.",
+      "savjet": "Za svaku razliku napravi brzu procjenu i usporedi je s napisanim rezultatom."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-050",
+      "tezina": "srednje",
+      "pitanje": "U kino-dvorani je 19 redova s po 21 sjedalom. Procijeni koliko otprilike ima sjedala.",
+      "ponudeni": [
+        "≈ 40",
+        "≈ 4000",
+        "≈ 100",
+        "≈ 400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "19 je blizu 20, a 21 blizu 20, pa je procjena 20 · 20 = 400. Točno ima 19 · 21 = 399 sjedala.",
+      "savjet": "Oba broja zaokruži na desetice pa ih pomnoži."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-051",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži sve brojeve na stotice pa procijeni zbroj 312 + 489 + 205.",
+      "ponudeni": [
+        "≈ 1000",
+        "≈ 900",
+        "≈ 1100",
+        "≈ 1200"
+      ],
+      "tocan": 0,
+      "objasnjenje": "312 je približno 300, 489 približno 500, a 205 približno 200. Procjena: 300 + 500 + 200 = 1000.",
+      "savjet": "Svaki od tri broja zaokruži na najbližu stoticu pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-052",
+      "tezina": "srednje",
+      "pitanje": "Obitelj je uštedjela 2870 € za ljetovanje i potrošila 1930 €. Zaokruži iznose na stotice pa procijeni koliko je novca ostalo.",
+      "ponudeni": [
+        "≈ 900 €",
+        "≈ 1100 €",
+        "≈ 1000 €",
+        "≈ 4800 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2870 € se zaokružuje na 2900 €, a 1930 € na 1900 €. Procjena: 2900 € − 1900 € = 1000 €.",
+      "savjet": "Zaokruži oba iznosa na najbližu stoticu pa oduzmi potrošeno od ušteđenog."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-053",
+      "tezina": "srednje",
+      "pitanje": "Fran je izračunao 3248 : 4. Odaberi rezultat koji je razuman.",
+      "ponudeni": [
+        "8120",
+        "812",
+        "81",
+        "212"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3248 je blizu 3200, a 3200 : 4 = 800. Tome je blizu samo 812, što je i točan količnik.",
+      "savjet": "Zaokruži djeljenik na stotice, podijeli s 4 i usporedi s ponuđenim rezultatima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-054",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži oba broja na tisućice pa procijeni zbroj 128 450 + 61 730.",
+      "ponudeni": [
+        "≈ 189 000",
+        "≈ 180 000",
+        "≈ 200 000",
+        "≈ 190 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "128 450 se zaokružuje na 128 000, a 61 730 na 62 000. Procjena: 128 000 + 62 000 = 190 000.",
+      "savjet": "Kod svakog broja pogledaj znamenku stotica i odluči zaokružuješ li prema gore ili prema dolje."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-055",
+      "tezina": "srednje",
+      "pitanje": "Na izlet ide 27 učenika, a ulaznica stoji 9 €. Zaokruži broj učenika na desetice pa procijeni koliko stoje sve ulaznice.",
+      "ponudeni": [
+        "≈ 270 €",
+        "≈ 180 €",
+        "≈ 2700 €",
+        "≈ 300 €"
+      ],
+      "tocan": 0,
+      "objasnjenje": "27 se zaokružuje na 30. Procjena: 30 · 9 € = 270 €.",
+      "savjet": "Zaokruži samo broj učenika, a cijenu ulaznice ostavi kakva jest."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-056",
+      "tezina": "srednje",
+      "pitanje": "Procijeni količnik 4890 : 7.",
+      "ponudeni": [
+        "≈ 70",
+        "≈ 7000",
+        "≈ 700",
+        "≈ 200"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4890 je blizu 4900, a 4900 : 7 = 700. Točan količnik je malo manji od 700.",
+      "savjet": "Zaokruži djeljenik na broj stotica koji se lako dijeli sa 7."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-057",
+      "tezina": "srednje",
+      "pitanje": "Ema ima 200 €. Želi kupiti tablet za 149 € i futrolu za 21 €. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Nema dovoljno, nedostaje joj oko 30 €.",
+        "Ima dovoljno, ostat će joj oko 30 €.",
+        "Ima dovoljno, ostat će joj oko 100 €.",
+        "Nema dovoljno, nedostaje joj oko 70 €."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Procjena je 150 € + 20 € = 170 €, a to je manje od 200 €. Točno je 149 € + 21 € = 170 €, pa Emi ostaje 30 €.",
+      "savjet": "Zaokruži cijene, zbroji ih i usporedi s novcem koji Ema ima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-058",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži oba broja na desetice tisuća pa procijeni razliku 81 400 − 28 700.",
+      "ponudeni": [
+        "≈ 60 000",
+        "≈ 40 000",
+        "≈ 110 000",
+        "≈ 50 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "81 400 se zaokružuje na 80 000, a 28 700 na 30 000. Procjena: 80 000 − 30 000 = 50 000.",
+      "savjet": "Pri zaokruživanju na desetice tisuća gledaš znamenku tisućica."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-059",
+      "tezina": "srednje",
+      "pitanje": "Odaberi zbroj koji je približno jednak 1000.",
+      "ponudeni": [
+        "498 + 503",
+        "98 + 103",
+        "4980 + 5030",
+        "198 + 103"
+      ],
+      "tocan": 0,
+      "objasnjenje": "498 je blizu 500, a 503 blizu 500, pa je zbroj blizu 1000. Točno je 498 + 503 = 1001.",
+      "savjet": "Zaokruži pribrojnike u svakom zbroju na stotice pa procijeni zbroj."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-060",
+      "tezina": "srednje",
+      "pitanje": "Zaokruži 312 na stotice pa procijeni umnožak 312 · 7.",
+      "ponudeni": [
+        "≈ 2800",
+        "≈ 210",
+        "≈ 2100",
+        "≈ 21 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "312 se zaokružuje na 300. Procjena: 300 · 7 = 2100.",
+      "savjet": "Zaokruži 312 na najbližu stoticu pa broj stotica pomnoži sa 7."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-061",
+      "tezina": "srednje",
+      "pitanje": "Dora je izračunala četiri umnoška. Koji je rezultat sigurno pogrešan?",
+      "ponudeni": [
+        "25 · 4 = 100",
+        "103 · 5 = 515",
+        "99 · 3 = 297",
+        "51 · 6 = 3060"
+      ],
+      "tocan": 3,
+      "objasnjenje": "51 · 6 mora biti blizu 50 · 6 = 300, a ne 3060. Točno je 51 · 6 = 306.",
+      "savjet": "Za svaki umnožak napravi brzu procjenu i usporedi je s napisanim rezultatom."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-062",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži oba broja na stotice tisuća pa procijeni zbroj 348 900 + 271 300.",
+      "ponudeni": [
+        "≈ 500 000",
+        "≈ 700 000",
+        "≈ 600 000",
+        "≈ 620 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "348 900 se zaokružuje na 300 000, a 271 300 na 300 000. Procjena: 300 000 + 300 000 = 600 000.",
+      "savjet": "Pri zaokruživanju na stotice tisuća gledaš samo znamenku desetica tisuća."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-063",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži oba broja na desetice tisuća pa procijeni razliku 503 800 − 187 400.",
+      "ponudeni": [
+        "≈ 310 000",
+        "≈ 320 000",
+        "≈ 300 000",
+        "≈ 410 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "503 800 se zaokružuje na 500 000, a 187 400 na 190 000. Procjena: 500 000 − 190 000 = 310 000.",
+      "savjet": "Kod svakog broja pogledaj znamenku tisućica i pazi na prijelaz preko stotice tisuća."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-064",
+      "tezina": "tesko",
+      "pitanje": "Procijeni zbroj 49 870 + 30 150 + 19 960.",
+      "ponudeni": [
+        "≈ 10 000",
+        "≈ 100 000",
+        "≈ 1 000 000",
+        "≈ 30 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brojevi su blizu 50 000, 30 000 i 20 000, pa je zbroj približno 100 000. Točno je 99 980.",
+      "savjet": "Svaki pribrojnik zaokruži na desetice tisuća pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-065",
+      "tezina": "tesko",
+      "pitanje": "Rea je procijenila zbroj ovako: 649 + 749 ≈ 600 + 700 = 1300. Je li točan zbroj veći ili manji od 1300 i zašto?",
+      "ponudeni": [
+        "Manji, jer je oba broja zaokružila na veće.",
+        "Jednak, jer je procjena isto što i rezultat.",
+        "Manji, jer je zbroj manji od svake procjene.",
+        "Veći, jer je oba broja zaokružila na manje."
+      ],
+      "tocan": 3,
+      "objasnjenje": "649 je zaokružen na manji broj 600, a 749 na manji broj 700, pa je točan zbroj veći. Točno je 649 + 749 = 1398.",
+      "savjet": "Usporedi svaki broj s brojem na koji je zaokružen: je li zaokružen na veći ili na manji broj?"
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-066",
+      "tezina": "tesko",
+      "pitanje": "Matej je riješio četiri zadatka. Koji je rezultat sigurno pogrešan?",
+      "ponudeni": [
+        "125 000 + 375 000 = 500 000",
+        "600 000 − 199 000 = 401 000",
+        "8000 · 30 = 24 000",
+        "4 · 25 100 = 100 400"
+      ],
+      "tocan": 2,
+      "objasnjenje": "8000 · 30 je 8000 · 3 · 10, a to je 240 000, a ne 24 000. Ostali rezultati su točni.",
+      "savjet": "Kod množenja deseticom pazi koliko nula mora imati rezultat."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-067",
+      "tezina": "tesko",
+      "pitanje": "Škola ima 5000 € za opremu. Želi kupiti 4 računala po 1380 € i pisač za 390 €. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Ima dovoljno, ostat će oko 1000 €.",
+        "Nema dovoljno, nedostaje oko 1000 €.",
+        "Ima dovoljno, ostat će oko 3000 €.",
+        "Nema dovoljno, nedostaje oko 100 €."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Računala stoje otprilike 4 · 1400 € = 5600 €, pa novca nema dovoljno ni bez pisača. Točno je 4 · 1380 € + 390 € = 5910 €, pa nedostaje 910 €.",
+      "savjet": "Ne zaboravi da se kupuju četiri računala, a ne jedno."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-068",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži oba broja na desetice pa procijeni umnožak 48 · 62.",
+      "ponudeni": [
+        "≈ 2400",
+        "≈ 300",
+        "≈ 3600",
+        "≈ 3000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "48 se zaokružuje na 50, a 62 na 60. Procjena: 50 · 60 = 3000.",
+      "savjet": "Zaokruži oba faktora na desetice, pomnoži broj desetica i dopiši dvije nule."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-069",
+      "tezina": "tesko",
+      "pitanje": "Ante je izračunao 6 · 19 850. Odaberi rezultat koji je razuman.",
+      "ponudeni": [
+        "119 100",
+        "11 910",
+        "19 100",
+        "39 100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "19 850 je blizu 20 000, a 6 · 20 000 = 120 000. Tome je blizu samo 119 100, što je i točan umnožak.",
+      "savjet": "Zaokruži 19 850 na desetice tisuća, pomnoži sa 6 i usporedi s ponuđenim rezultatima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-070",
+      "tezina": "tesko",
+      "pitanje": "Odaberi račun čiji je rezultat približno 50 000.",
+      "ponudeni": [
+        "9800 − 4900",
+        "2490 + 2510",
+        "4980 · 10",
+        "9950 : 5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4980 je blizu 5000, a 5000 · 10 = 50 000. Ostali rezultati su otprilike 5000 ili 2000.",
+      "savjet": "Za svaki račun napravi brzu procjenu i pazi na broj nula u rezultatu."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-071",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži djeljenik na tisućice pa procijeni količnik 35 820 : 6.",
+      "ponudeni": [
+        "≈ 600",
+        "≈ 6000",
+        "≈ 5000",
+        "≈ 60 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "35 820 se zaokružuje na 36 000. Procjena: 36 000 : 6 = 6000.",
+      "savjet": "Kad zaokružiš djeljenik, razmisli koliko je 36 tisućica podijeljeno sa 6."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-072",
+      "tezina": "tesko",
+      "pitanje": "Stadion ima 48 sektora, a u svakom je 1020 sjedala. Procijeni koliko otprilike ljudi može sjediti na stadionu.",
+      "ponudeni": [
+        "≈ 5000",
+        "≈ 500 000",
+        "≈ 10 000",
+        "≈ 50 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "48 je blizu 50, a 1020 blizu 1000, pa je procjena 50 · 1000 = 50 000. Točno je 48 · 1020 = 48 960.",
+      "savjet": "Broj sektora zaokruži na desetice, a broj sjedala na tisućice pa ih pomnoži."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-073",
+      "tezina": "tesko",
+      "pitanje": "Za koji je zbroj procjena 7000 ako oba pribrojnika zaokružiš na tisućice?",
+      "ponudeni": [
+        "3480 + 3520",
+        "3520 + 3580",
+        "2490 + 4480",
+        "3400 + 4510"
+      ],
+      "tocan": 0,
+      "objasnjenje": "3480 se zaokružuje na 3000, a 3520 na 4000, pa je procjena 3000 + 4000 = 7000. Ostale procjene su 8000, 6000 i 8000.",
+      "savjet": "Svaki pribrojnik zaokruži prema znamenki stotica pa zbroji zaokružene brojeve."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-074",
+      "tezina": "tesko",
+      "pitanje": "Ivana je izračunala četiri količnika. Koji je rezultat sigurno pogrešan?",
+      "ponudeni": [
+        "6300 : 7 = 900",
+        "4808 : 4 = 1202",
+        "2412 : 6 = 42",
+        "5400 : 9 = 600"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2412 : 6 mora biti blizu 2400 : 6 = 400, a ne 42. Točno je 2412 : 6 = 402.",
+      "savjet": "Za svaki količnik napravi brzu procjenu i provjeri ima li rezultat dovoljno znamenaka."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-075",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži oba broja na stotice tisuća pa procijeni razliku 912 350 − 386 470.",
+      "ponudeni": [
+        "≈ 600 000",
+        "≈ 500 000",
+        "≈ 400 000",
+        "≈ 520 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "912 350 se zaokružuje na 900 000, a 386 470 na 400 000. Procjena: 900 000 − 400 000 = 500 000.",
+      "savjet": "Pri zaokruživanju na stotice tisuća gledaš samo znamenku desetica tisuća."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-076",
+      "tezina": "tesko",
+      "pitanje": "Tea je procijenila umnožak ovako: 251 · 4 ≈ 300 · 4 = 1200. Je li točan umnožak veći ili manji od 1200 i zašto?",
+      "ponudeni": [
+        "Veći, jer je 251 zaokružila na manji broj.",
+        "Veći, jer je umnožak veći od svake procjene.",
+        "Jednak, jer je procjena isto što i rezultat.",
+        "Manji, jer je 251 zaokružila na veći broj."
+      ],
+      "tocan": 3,
+      "objasnjenje": "251 je zaokružen na veći broj 300, pa je i procjena veća od točnog umnoška. Točno je 251 · 4 = 1004.",
+      "savjet": "Usporedi 251 s brojem na koji je zaokružen: je li taj broj veći ili manji?"
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-077",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica ima 400 € za ulaznice. Treba kupiti 29 ulaznica po 11 €. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Ima dovoljno, ostat će joj oko 80 €.",
+        "Nema dovoljno, nedostaje joj oko 80 €.",
+        "Ima dovoljno, ostat će joj oko 300 €.",
+        "Nema dovoljno, nedostaje joj oko 20 €."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Procjena je 30 · 11 € = 330 €, a to je manje od 400 €. Točno je 29 · 11 € = 319 €, pa ostaje 81 €.",
+      "savjet": "Broj ulaznica zaokruži na desetice, pomnoži s cijenom i usporedi s 400 €."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-078",
+      "tezina": "tesko",
+      "pitanje": "Procijeni rezultat 4 · 2490 + 1010.",
+      "ponudeni": [
+        "≈ 1100",
+        "≈ 110 000",
+        "≈ 11 000",
+        "≈ 3500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4 · 2500 = 10 000, a tome se doda oko 1000, pa je procjena 11 000. Točno je 10 970.",
+      "savjet": "Najprije procijeni umnožak, a tek onda dodaj drugi broj."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-079",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži sve brojeve na desetice tisuća pa procijeni zbroj 36 800 + 41 200 + 23 900.",
+      "ponudeni": [
+        "≈ 90 000",
+        "≈ 100 000",
+        "≈ 110 000",
+        "≈ 120 000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brojevi se zaokružuju na 40 000, 40 000 i 20 000. Procjena: 40 000 + 40 000 + 20 000 = 100 000.",
+      "savjet": "Kod svakog broja pogledaj znamenku tisućica i pazi na broj 36 800."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-080",
+      "tezina": "tesko",
+      "pitanje": "Marin je izračunao 7245 : 5. Odaberi rezultat koji je razuman.",
+      "ponudeni": [
+        "14 490",
+        "144",
+        "449",
+        "1449"
+      ],
+      "tocan": 3,
+      "objasnjenje": "7245 je blizu 7000, a 7000 : 5 = 1400. Tome je blizu samo 1449, što je i točan količnik.",
+      "savjet": "Zaokruži djeljenik na tisućice, podijeli s 5 i usporedi s ponuđenim rezultatima."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-081",
+      "tezina": "tesko",
+      "pitanje": "Grad je za park potrošio 47 600 € na klupe i 28 300 € na rasvjetu. Zaokruži iznose na tisućice pa procijeni koliko je više potrošeno na klupe.",
+      "ponudeni": [
+        "≈ 20 000 €",
+        "≈ 19 000 €",
+        "≈ 76 000 €",
+        "≈ 21 000 €"
+      ],
+      "tocan": 0,
+      "objasnjenje": "47 600 € se zaokružuje na 48 000 €, a 28 300 € na 28 000 €. Procjena: 48 000 € − 28 000 € = 20 000 €.",
+      "savjet": "Za pitanje „koliko više“ oduzimaš manji iznos od većeg."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-082",
+      "tezina": "tesko",
+      "pitanje": "Procjenom odredi između kojih brojeva je količnik 2730 : 7.",
+      "ponudeni": [
+        "između 30 i 40",
+        "između 3000 i 4000",
+        "između 300 i 400",
+        "između 200 i 300"
+      ],
+      "tocan": 2,
+      "objasnjenje": "7 · 300 = 2100 i 7 · 400 = 2800, a 2730 je između njih, pa je količnik između 300 i 400. Točno je 2730 : 7 = 390.",
+      "savjet": "Pomnoži 7 s okruglim stoticama i pogledaj između kojih je umnožaka broj 2730."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-083",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži oba broja na desetice pa procijeni umnožak 23 · 68.",
+      "ponudeni": [
+        "≈ 1200",
+        "≈ 1400",
+        "≈ 1800",
+        "≈ 140"
+      ],
+      "tocan": 1,
+      "objasnjenje": "23 se zaokružuje na 20, a 68 na 70. Procjena: 20 · 70 = 1400.",
+      "savjet": "Zaokruži oba faktora na desetice, pomnoži broj desetica i dopiši dvije nule."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-084",
+      "tezina": "tesko",
+      "pitanje": "Filip je riješio četiri zadatka. Koji je rezultat sigurno pogrešan?",
+      "ponudeni": [
+        "700 000 − 250 000 = 450 000",
+        "98 000 + 2000 = 100 000",
+        "3 · 120 000 = 360 000",
+        "502 000 − 98 000 = 40 400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "502 000 − 98 000 mora biti blizu 500 000 − 100 000 = 400 000, a ne 40 400. Točno je 404 000.",
+      "savjet": "Za svaki zadatak napravi brzu procjenu i usporedi broj znamenaka u rezultatu."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-085",
+      "tezina": "tesko",
+      "pitanje": "Muzej je u tri dana posjetilo 1980, 2030 i 1995 ljudi. Procijeni koliko je ljudi ukupno posjetilo muzej.",
+      "ponudeni": [
+        "≈ 6000",
+        "≈ 600",
+        "≈ 60 000",
+        "≈ 2000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki je broj blizu 2000, pa je ukupno približno 3 · 2000 = 6000 ljudi. Točno ih je 6005.",
+      "savjet": "Zaokruži sva tri broja na tisućice pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-086",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži djeljenik na stotice pa procijeni količnik 4185 : 7.",
+      "ponudeni": [
+        "≈ 60",
+        "≈ 500",
+        "≈ 600",
+        "≈ 6000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4185 se zaokružuje na 4200. Procjena: 4200 : 7 = 600.",
+      "savjet": "Kad zaokružiš djeljenik, razmisli koliko je 42 stotice podijeljeno sa 7."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-087",
+      "tezina": "tesko",
+      "pitanje": "Koja je procjena razlike 6120 − 2980 najbliža točnom rezultatu?",
+      "ponudeni": [
+        "6000 − 3000 = 3000",
+        "6100 − 3000 = 3100",
+        "7000 − 3000 = 4000",
+        "6000 − 2000 = 4000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točna razlika je 3140, a 3100 joj je najbliže. Brojevi zaokruženi na stotice daju bolju procjenu nego brojevi zaokruženi na tisućice.",
+      "savjet": "Izračunaj točnu razliku pa pogledaj koja je procjena od nje najmanje udaljena."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-088",
+      "tezina": "tesko",
+      "pitanje": "Zaokruži 189 600 na stotice tisuća pa procijeni umnožak 189 600 · 4.",
+      "ponudeni": [
+        "≈ 400 000",
+        "≈ 80 000",
+        "≈ 600 000",
+        "≈ 800 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "189 600 se zaokružuje na 200 000. Procjena: 200 000 · 4 = 800 000.",
+      "savjet": "Pri zaokruživanju na stotice tisuća gledaš znamenku desetica tisuća."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-089",
+      "tezina": "tesko",
+      "pitanje": "Kamp-kućica stoji 24 900 €. Obitelj je prošle godine uštedjela 9870 €, a ove 12 150 €. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Nemaju dovoljno, nedostaje im oko 3000 €.",
+        "Imaju dovoljno, ostat će im oko 3000 €.",
+        "Nemaju dovoljno, nedostaje im oko 13 000 €.",
+        "Imaju dovoljno, ostat će im oko 300 €."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ušteđeno je otprilike 10 000 € + 12 000 € = 22 000 €, a to je manje od 25 000 €. Točno nedostaje 24 900 € − 22 020 € = 2880 €.",
+      "savjet": "Zbroji obje uštede pa usporedi zbroj s cijenom kamp-kućice."
+    },
+    {
+      "id": "4-matematika-procjena-rezultata-090",
+      "tezina": "tesko",
+      "pitanje": "U jednom gradu živi 215 400 stanovnika, a u drugom 98 700. Zaokruži oba broja na desetice tisuća pa procijeni razliku.",
+      "ponudeni": [
+        "≈ 110 000",
+        "≈ 130 000",
+        "≈ 120 000",
+        "≈ 310 000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "215 400 se zaokružuje na 220 000, a 98 700 na 100 000. Procjena: 220 000 − 100 000 = 120 000.",
+      "savjet": "Pri zaokruživanju na desetice tisuća gledaš znamenku tisućica, a 98 700 je blizu stotice tisuća."
     }
   ]
 }

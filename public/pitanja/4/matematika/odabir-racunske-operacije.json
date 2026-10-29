@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "odabir-racunske-operacije",
+  "pitanja": [
+    {
+      "id": "4-matematika-odabir-racunske-operacije-001",
+      "tezina": "lagano",
+      "pitanje": "Lana ima 348 sličica, a Marko ima 129 sličica manje od nje. Odaberi račun kojim saznaješ koliko sličica ima Marko.",
+      "ponudeni": [
+        "348 + 129",
+        "348 − 129",
+        "348 : 129",
+        "129 + 129"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Marko ima manje sličica, pa od Lanina broja oduzimamo 129: 348 − 129 = 219.",
+      "savjet": "Riječ „manje“ govori da Marko ima manji broj sličica od Lane."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-002",
+      "tezina": "lagano",
+      "pitanje": "U knjižnici je bilo 256 knjiga. Donirano je još 175 knjiga. Odaberi račun kojim saznaješ koliko je sada knjiga u knjižnici.",
+      "ponudeni": [
+        "256 − 175",
+        "256 · 175",
+        "256 + 175",
+        "175 + 175"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Knjigama koje su već bile dodajemo nove, pa zbrajamo: 256 + 175 = 431.",
+      "savjet": "Razmisli: kad se knjigama dodaju nove, je li ih sada više ili manje?"
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-003",
+      "tezina": "lagano",
+      "pitanje": "Mia slaže jaja u kutije, po 6 jaja u svaku od 8 kutija. Odaberi račun kojim saznaješ koliko je jaja složila.",
+      "ponudeni": [
+        "8 + 6",
+        "8 − 6",
+        "48 : 6",
+        "8 · 6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Isti broj jaja (6) ponavlja se 8 puta, pa množimo: 8 · 6 = 48.",
+      "savjet": "Kad se isti broj ponavlja više puta, zbrajanje možeš zapisati kraće."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-004",
+      "tezina": "lagano",
+      "pitanje": "Učiteljica jednako dijeli 72 bombona na 9 učenika. Odaberi račun kojim saznaješ koliko bombona dobiva svaki učenik.",
+      "ponudeni": [
+        "72 : 9",
+        "72 − 9",
+        "72 · 9",
+        "72 + 9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad nešto dijelimo na jednake dijelove, dijelimo: 72 : 9 = 8.",
+      "savjet": "Riječi „jednako dijeli“ znače da svaki učenik dobiva isti broj bombona."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-005",
+      "tezina": "lagano",
+      "pitanje": "Ivan ima 45 €, a Petra ima 3 puta više novca. Odaberi računsku operaciju kojom saznaješ koliko novca ima Petra.",
+      "ponudeni": [
+        "zbrajanje",
+        "množenje",
+        "oduzimanje",
+        "dijeljenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„3 puta više“ znači da 45 € uzimamo 3 puta, pa množimo: 45 · 3 = 135 €.",
+      "savjet": "Pazi na razliku između „za 3 više“ i „3 puta više“."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-006",
+      "tezina": "lagano",
+      "pitanje": "Ema je pročitala 96 stranica, a Luka 24 stranice. Odaberi račun kojim saznaješ koliko je puta Ema pročitala više stranica od Luke.",
+      "ponudeni": [
+        "96 − 24",
+        "96 + 24",
+        "96 : 24",
+        "96 · 24"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Koliko je puta jedan broj veći od drugoga saznajemo dijeljenjem: 96 : 24 = 4.",
+      "savjet": "Pitanje „koliko puta više“ nije isto što i pitanje „za koliko više“."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-007",
+      "tezina": "lagano",
+      "pitanje": "Na izletu je 135 učenika. U autobus ih je ušlo 87. Odaberi račun kojim saznaješ koliko učenika još nije ušlo u autobus.",
+      "ponudeni": [
+        "135 + 87",
+        "135 · 87",
+        "135 : 87",
+        "135 − 87"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od ukupnog broja učenika oduzimamo one koji su ušli: 135 − 87 = 48.",
+      "savjet": "Od svih učenika neki su već ušli u autobus; razmisli koliko ih je ostalo vani."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-008",
+      "tezina": "lagano",
+      "pitanje": "Sara ima 520 €. To je 140 € više nego što ima njezin brat. Odaberi račun kojim saznaješ koliko eura ima brat.",
+      "ponudeni": [
+        "520 − 140",
+        "520 + 140",
+        "520 · 140",
+        "140 + 140"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sara ima više novca od brata, pa brat ima 140 € manje: 520 − 140 = 380 €.",
+      "savjet": "Razmisli tko ima više novca, Sara ili njezin brat."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-009",
+      "tezina": "lagano",
+      "pitanje": "U voćnjaku je 7 redova stabala, a u svakom redu 12 stabala. Odaberi računsku operaciju kojom saznaješ koliko je stabala u voćnjaku.",
+      "ponudeni": [
+        "zbrajanje",
+        "oduzimanje",
+        "množenje",
+        "dijeljenje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U svakom od 7 redova jednak je broj stabala, pa množimo: 7 · 12 = 84.",
+      "savjet": "Svaki red ima jednako mnogo stabala."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-010",
+      "tezina": "lagano",
+      "pitanje": "Za 4 jednake ulaznice za kino plaćeno je 28 €. Odaberi račun kojim saznaješ koliko stoji jedna ulaznica.",
+      "ponudeni": [
+        "28 · 4",
+        "28 − 4",
+        "28 + 4",
+        "28 : 4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ukupnu cijenu dijelimo na 4 jednaka dijela: 28 : 4 = 7 €.",
+      "savjet": "Jedna ulaznica stoji manje od svih četiriju zajedno."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-011",
+      "tezina": "lagano",
+      "pitanje": "Tomislav je u ponedjeljak prešao biciklom 18 km, a u utorak 27 km. Odaberi račun kojim saznaješ koliko je kilometara prešao u ta dva dana.",
+      "ponudeni": [
+        "18 + 27",
+        "27 − 18",
+        "18 · 2",
+        "27 + 27"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ukupan put dobivamo zbrajanjem puta iz oba dana: 18 + 27 = 45 km.",
+      "savjet": "Traži se ukupan put u oba dana zajedno."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-012",
+      "tezina": "lagano",
+      "pitanje": "Nina ima 64 bojice, a Dora ima 4 puta manje bojica. Odaberi račun kojim saznaješ koliko bojica ima Dora.",
+      "ponudeni": [
+        "64 − 4",
+        "64 : 4",
+        "64 · 4",
+        "64 + 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„4 puta manje“ znači da 64 dijelimo na 4 jednaka dijela: 64 : 4 = 16.",
+      "savjet": "Pazi na razliku između „za 4 manje“ i „4 puta manje“."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-013",
+      "tezina": "lagano",
+      "pitanje": "Luka je imao 250 €. Kupio je slušalice od 85 €. Odaberi računsku operaciju kojom saznaješ koliko mu je novca ostalo.",
+      "ponudeni": [
+        "oduzimanje",
+        "zbrajanje",
+        "množenje",
+        "dijeljenje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad potrošimo dio novca, od početnog iznosa oduzimamo: 250 − 85 = 165 €.",
+      "savjet": "Nakon kupnje Luka ima manje novca nego prije."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-014",
+      "tezina": "lagano",
+      "pitanje": "U kinu je 15 redova sjedala, a u svakom redu 20 sjedala. Odaberi račun kojim saznaješ koliko je sjedala u kinu.",
+      "ponudeni": [
+        "15 + 20",
+        "20 − 15",
+        "15 · 20",
+        "20 + 20"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U kinu je 15 redova po 20 sjedala, pa množimo: 15 · 20 = 300.",
+      "savjet": "Svaki red ima jednak broj sjedala."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-015",
+      "tezina": "lagano",
+      "pitanje": "Marta ima 312 markica, a Filip 198 markica. Odaberi račun kojim saznaješ za koliko Marta ima više markica od Filipa.",
+      "ponudeni": [
+        "312 + 198",
+        "312 : 198",
+        "198 + 198",
+        "312 − 198"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za koliko je jedan broj veći od drugoga saznajemo oduzimanjem: 312 − 198 = 114.",
+      "savjet": "Razmisli koliko markica Filipu nedostaje da ih ima kao Marta."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-016",
+      "tezina": "lagano",
+      "pitanje": "Pekar je ispekao 96 kifli i složio ih u vrećice po 8 kifli. Odaberi računsku operaciju kojom saznaješ koliko je vrećica napunio.",
+      "ponudeni": [
+        "množenje",
+        "zbrajanje",
+        "oduzimanje",
+        "dijeljenje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kifle raspoređujemo po 8 u vrećicu, pa dijelimo: 96 : 8 = 12 vrećica.",
+      "savjet": "Razmisli koliko se puta 8 kifli nalazi u 96 kifli."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-017",
+      "tezina": "lagano",
+      "pitanje": "Jedan sladoled stoji 2 €. Ana kupuje 9 sladoleda za cijelu obitelj. Odaberi račun kojim saznaješ koliko će platiti.",
+      "ponudeni": [
+        "9 · 2",
+        "9 + 2",
+        "9 − 2",
+        "9 : 2"
+      ],
+      "tocan": 0,
+      "objasnjenje": "9 sladoleda po 2 € plaća se množenjem: 9 · 2 = 18 €.",
+      "savjet": "Svaki sladoled stoji jednako, a kupuje ih se 9."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-018",
+      "tezina": "lagano",
+      "pitanje": "Rijeka je od Zagreba udaljena 160 km, a Split 410 km. Odaberi račun kojim saznaješ za koliko je kilometara Split udaljeniji od Zagreba nego Rijeka.",
+      "ponudeni": [
+        "410 + 160",
+        "410 − 160",
+        "410 : 160",
+        "160 + 160"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Udaljenosti uspoređujemo oduzimanjem: 410 − 160 = 250 km.",
+      "savjet": "Usporedi dvije udaljenosti: za koliko je jedna veća od druge?"
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-019",
+      "tezina": "lagano",
+      "pitanje": "Iva ima 3 kutije bojica. U svakoj kutiji su 24 bojice. Odaberi račun kojim saznaješ koliko bojica Iva ima.",
+      "ponudeni": [
+        "24 + 3",
+        "24 : 3",
+        "3 · 24",
+        "24 − 3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iva ima 3 kutije po 24 bojice, pa množimo: 3 · 24 = 72.",
+      "savjet": "U svakoj kutiji je jednak broj bojica."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-020",
+      "tezina": "lagano",
+      "pitanje": "Hrvoje je imao 140 €, a sestra mu je dala još 35 €. Odaberi računsku operaciju kojom saznaješ koliko novca Hrvoje sada ima.",
+      "ponudeni": [
+        "oduzimanje",
+        "zbrajanje",
+        "dijeljenje",
+        "množenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Novcu koji je imao dodajemo dobiveni novac: 140 + 35 = 175 €.",
+      "savjet": "Je li Hrvoje novac dobio ili ga je potrošio?"
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-021",
+      "tezina": "lagano",
+      "pitanje": "U spremniku je bilo 600 l vode. Za zalijevanje vrta potrošeno je 245 l. Odaberi račun kojim saznaješ koliko je litara vode ostalo.",
+      "ponudeni": [
+        "600 + 245",
+        "245 + 245",
+        "600 − 45",
+        "600 − 245"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od količine vode u spremniku oduzimamo potrošenu vodu: 600 − 245 = 355 l.",
+      "savjet": "Dio vode je potrošen, a ostatak je još u spremniku."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-022",
+      "tezina": "lagano",
+      "pitanje": "Mateo ima 8 godina. Njegov djed je 9 puta stariji od njega. Odaberi račun kojim saznaješ koliko godina ima djed.",
+      "ponudeni": [
+        "8 · 9",
+        "8 + 9",
+        "9 − 8",
+        "8 + 8 + 9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "„9 puta stariji“ znači 9 puta više godina: 8 · 9 = 72.",
+      "savjet": "Pazi: „9 puta stariji“ nije isto što i „9 godina stariji“."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-023",
+      "tezina": "lagano",
+      "pitanje": "Na polici su 84 knjige raspoređene u 4 jednaka reda. Odaberi račun kojim saznaješ koliko je knjiga u jednom redu.",
+      "ponudeni": [
+        "84 · 4",
+        "84 : 4",
+        "84 − 4",
+        "84 + 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "84 knjige dijelimo na 4 jednaka reda: 84 : 4 = 21.",
+      "savjet": "Svaki red ima jednak broj knjiga, a zajedno ih je 84."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-024",
+      "tezina": "lagano",
+      "pitanje": "Anja je ubrala 56 jabuka, a Josip 19 jabuka manje od nje. Odaberi računsku operaciju kojom saznaješ koliko je jabuka ubrao Josip.",
+      "ponudeni": [
+        "zbrajanje",
+        "dijeljenje",
+        "oduzimanje",
+        "množenje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Josip je ubrao manje jabuka, pa od 56 oduzimamo 19: 56 − 19 = 37.",
+      "savjet": "Razmisli tko je ubrao više jabuka."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-025",
+      "tezina": "lagano",
+      "pitanje": "Kilogram mandarina stoji 2 €. Lea je za mandarine platila 14 €. Odaberi račun kojim saznaješ koliko je kilograma mandarina kupila.",
+      "ponudeni": [
+        "14 · 2",
+        "14 + 2",
+        "14 − 2",
+        "14 : 2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tražimo koliko puta 2 € stane u 14 €, pa dijelimo: 14 : 2 = 7 kg.",
+      "savjet": "Svaki kilogram stoji 2 €; koliko takvih kilograma zajedno stoji 14 €?"
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-026",
+      "tezina": "lagano",
+      "pitanje": "Zrinka ima 235 €. To je 65 € manje nego što ima njezina sestra. Odaberi račun kojim saznaješ koliko novca ima sestra.",
+      "ponudeni": [
+        "235 + 65",
+        "235 − 65",
+        "235 − 65 − 65",
+        "65 + 65"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zrinka ima manje novca od sestre, pa sestra ima 65 € više: 235 + 65 = 300 €.",
+      "savjet": "Razmisli tko ima više novca, Zrinka ili njezina sestra."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-027",
+      "tezina": "lagano",
+      "pitanje": "U razredu su 24 učenika. Učiteljica ih dijeli u skupine po 4 učenika. Odaberi račun kojim saznaješ koliko će biti skupina.",
+      "ponudeni": [
+        "24 · 4",
+        "24 : 4",
+        "24 − 4",
+        "24 + 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tražimo koliko se puta 4 učenika nalazi u 24 učenika: 24 : 4 = 6 skupina.",
+      "savjet": "Svaka skupina ima jednak broj učenika."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-028",
+      "tezina": "lagano",
+      "pitanje": "Teta Vesna je u ponedjeljak prodala 125 kg krumpira, a u utorak 98 kg. Odaberi račun kojim saznaješ koliko je kilograma prodala u oba dana.",
+      "ponudeni": [
+        "125 − 98",
+        "125 · 2",
+        "125 + 98",
+        "98 + 98"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Količine prodane u oba dana zbrajamo: 125 + 98 = 223 kg.",
+      "savjet": "Traži se ukupna količina prodana u oba dana."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-029",
+      "tezina": "lagano",
+      "pitanje": "Darko ima 120 sličica, a Tea 3 puta manje. Odaberi računsku operaciju kojom saznaješ koliko sličica ima Tea.",
+      "ponudeni": [
+        "oduzimanje",
+        "množenje",
+        "zbrajanje",
+        "dijeljenje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "„3 puta manje“ znači da 120 dijelimo na 3 jednaka dijela: 120 : 3 = 40.",
+      "savjet": "Pazi: „3 puta manje“ nije isto što i „za 3 manje“."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-030",
+      "tezina": "lagano",
+      "pitanje": "Ante svaki dan pretrči 3 km. Odaberi račun kojim saznaješ koliko kilometara pretrči u 7 dana.",
+      "ponudeni": [
+        "7 · 3",
+        "7 + 3",
+        "7 − 3",
+        "3 + 3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki od 7 dana pretrči jednako, 3 km, pa množimo: 7 · 3 = 21 km.",
+      "savjet": "Isti put ponavlja se svaki dan."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-031",
+      "tezina": "srednje",
+      "pitanje": "Petra je kupila 3 bilježnice po 4 € i jednu kutiju bojica od 5 €. Odaberi račun kojim saznaješ koliko je platila.",
+      "ponudeni": [
+        "3 · 4 + 5",
+        "(3 + 4) · 5",
+        "3 + 4 + 5",
+        "3 · (4 + 5)"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bilježnice stoje 3 · 4 = 12 €, a s bojicama je to 12 + 5 = 17 €.",
+      "savjet": "Najprije izračunaj koliko stoje sve bilježnice."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-032",
+      "tezina": "srednje",
+      "pitanje": "U školskoj knjižnici bilo je 450 knjiga. Posuđeno je 128 knjiga, a vraćeno 75. Odaberi račun kojim saznaješ koliko je sada knjiga u knjižnici.",
+      "ponudeni": [
+        "450 − 128 − 75",
+        "450 − 128 + 75",
+        "450 + 128 − 75",
+        "450 + 128 + 75"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Posuđene knjige oduzimamo, a vraćene dodajemo: 450 − 128 + 75 = 397.",
+      "savjet": "Razmisli koje knjige odlaze iz knjižnice, a koje se u nju vraćaju."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-033",
+      "tezina": "srednje",
+      "pitanje": "Baka je imala 50 jaja. Dva su se jaja razbila, a ostala je složila u kutije po 6. Odaberi račun kojim saznaješ koliko je kutija napunila.",
+      "ponudeni": [
+        "50 − 2 · 6",
+        "(50 + 2) : 6",
+        "(50 − 2) : 6",
+        "50 : 2 − 6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najprije oduzimamo razbijena jaja (50 − 2 = 48), a zatim dijelimo po 6: 48 : 6 = 8 kutija.",
+      "savjet": "Prvo odredi koliko je cijelih jaja ostalo za slaganje."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-034",
+      "tezina": "srednje",
+      "pitanje": "Ulaznica za zoološki vrt stoji 12 € za odrasle i 7 € za djecu. Odaberi račun kojim saznaješ koliko plaćaju 2 odrasle osobe i 3 djece.",
+      "ponudeni": [
+        "(12 + 7) · 5",
+        "12 · 3 + 7 · 2",
+        "12 + 7 · 5",
+        "2 · 12 + 3 · 7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Odrasli plaćaju 2 · 12 = 24 €, djeca 3 · 7 = 21 €, a ukupno 24 + 21 = 45 €.",
+      "savjet": "Posebno izračunaj cijenu za odrasle, a posebno za djecu."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-035",
+      "tezina": "srednje",
+      "pitanje": "Marin je imao 200 €. Kupio je 4 jednake majice po 15 €. Odaberi račun kojim saznaješ koliko mu je novca ostalo.",
+      "ponudeni": [
+        "200 − 4 · 15",
+        "(200 − 4) · 15",
+        "200 − 4 − 15",
+        "200 − 15"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Majice stoje 4 · 15 = 60 €, pa Marinu ostaje 200 − 60 = 140 €.",
+      "savjet": "Najprije izračunaj koliko stoje sve majice zajedno."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-036",
+      "tezina": "srednje",
+      "pitanje": "U voćnjaku su 4 reda po 9 krušaka i 5 redova po 8 jabuka. Odaberi račun kojim saznaješ koliko je stabala u voćnjaku.",
+      "ponudeni": [
+        "4 + 9 + 5 + 8",
+        "4 · 9 + 5 · 8",
+        "(4 + 5) · (9 + 8)",
+        "4 · 9 · 5 · 8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krušaka je 4 · 9 = 36, jabuka 5 · 8 = 40, a ukupno 36 + 40 = 76 stabala.",
+      "savjet": "Zasebno izračunaj broj krušaka i broj jabuka."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-037",
+      "tezina": "srednje",
+      "pitanje": "Lucija, Jakov i Mila zajedno su kupili pizzu za 18 € i sok za 6 €. Iznos su jednako podijelili na troje djece. Odaberi račun kojim saznaješ koliko plaća svatko od njih.",
+      "ponudeni": [
+        "18 + 6 : 3",
+        "18 : 3 + 6",
+        "(18 + 6) : 3",
+        "(18 + 6) · 3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ukupno su platili 18 + 6 = 24 €, a podijeljeno na troje to je 24 : 3 = 8 €.",
+      "savjet": "Prvo izračunaj ukupan iznos, a onda ga podijeli."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-038",
+      "tezina": "srednje",
+      "pitanje": "Autobus je krenuo s 38 putnika. Na prvoj stanici izašlo je 12 putnika, a ušlo 9. Odaberi račun kojim saznaješ koliko je putnika sada u autobusu.",
+      "ponudeni": [
+        "38 + 12 − 9",
+        "38 − 12 − 9",
+        "38 + 12 + 9",
+        "38 − 12 + 9"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Putnici koji izlaze smanjuju broj putnika, a oni koji ulaze povećavaju ga: 38 − 12 + 9 = 35.",
+      "savjet": "Razmisli koji putnici odlaze iz autobusa, a koji dolaze u njega."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-039",
+      "tezina": "srednje",
+      "pitanje": "Nikola ima 25 €, a njegova sestra 3 puta više. Odaberi račun kojim saznaješ koliko novca imaju zajedno.",
+      "ponudeni": [
+        "25 + 25 · 3",
+        "25 · 3",
+        "25 + 3",
+        "(25 + 3) · 3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sestra ima 25 · 3 = 75 €, pa zajedno imaju 25 + 75 = 100 €.",
+      "savjet": "Pazi: traži se koliko imaju oboje zajedno, a ne samo sestra."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-040",
+      "tezina": "srednje",
+      "pitanje": "Vrtlarica je posadila 96 sadnica rajčice u 8 jednakih redova. Zatim je u svaki red dodala još 3 sadnice. Odaberi račun kojim saznaješ koliko je sadnica sada u jednom redu.",
+      "ponudeni": [
+        "96 : 8 · 3",
+        "96 : 8 + 3",
+        "96 : (8 + 3)",
+        "96 + 3 : 8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U jednom redu bilo je 96 : 8 = 12 sadnica, a s dodanima ih je 12 + 3 = 15.",
+      "savjet": "Najprije izračunaj koliko je sadnica bilo u jednom redu."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-041",
+      "tezina": "srednje",
+      "pitanje": "Lorena je 6 tjedana štedjela po 15 € tjedno, a onda je potrošila 34 € na knjigu. Odaberi račun kojim saznaješ koliko joj je novca ostalo.",
+      "ponudeni": [
+        "34 − 15 − 6",
+        "15 · 6 + 34",
+        "15 · 6 − 34",
+        "15 · 34 − 6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lorena je uštedjela 15 · 6 = 90 €, a nakon kupnje ostalo joj je 90 − 34 = 56 €.",
+      "savjet": "Prvo izračunaj koliko je novca ukupno uštedjela."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-042",
+      "tezina": "srednje",
+      "pitanje": "U kutiji su 24 keksa. Tin je kupio 5 kutija i sve kekse jednako podijelio među 6 djece. Odaberi račun kojim saznaješ koliko keksa dobiva svako dijete.",
+      "ponudeni": [
+        "24 · 5 · 6",
+        "24 : 6 + 5",
+        "24 + 5 : 6",
+        "24 · 5 : 6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svih keksa je 24 · 5 = 120, a svako dijete dobiva 120 : 6 = 20 keksa.",
+      "savjet": "Najprije izračunaj koliko je keksa u svim kutijama."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-043",
+      "tezina": "srednje",
+      "pitanje": "Marija ima 5 paketa po 12 salveta i daje susjedi 8 salveta. Odaberi računske operacije kojima, ovim redom, saznaješ koliko joj je salveta ostalo.",
+      "ponudeni": [
+        "množenje pa oduzimanje",
+        "oduzimanje pa množenje",
+        "dijeljenje pa oduzimanje",
+        "množenje pa zbrajanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije množimo da dobijemo sve salvete (5 · 12 = 60), a zatim oduzimamo darovane: 60 − 8 = 52.",
+      "savjet": "Prvo izračunaj koliko je salveta u svim paketima."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-044",
+      "tezina": "srednje",
+      "pitanje": "Biciklistička staza duga je 12 km. Ivana ju je prošla 3 puta u subotu i 2 puta u nedjelju. Odaberi račun kojim saznaješ koliko je kilometara prešla.",
+      "ponudeni": [
+        "12 + 3 + 2",
+        "(3 + 2) · 12",
+        "12 · 3 + 2",
+        "12 · 3 · 2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ivana je stazu prošla 3 + 2 = 5 puta, pa je prešla 5 · 12 = 60 km.",
+      "savjet": "Izračunaj koliko je puta ukupno prošla stazu."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-045",
+      "tezina": "srednje",
+      "pitanje": "Na farmi je 136 kokoši i 4 puta manje pataka. Odaberi račun kojim saznaješ koliko je kokoši i pataka zajedno.",
+      "ponudeni": [
+        "136 + 136 · 4",
+        "136 − 136 : 4",
+        "136 + 136 : 4",
+        "136 + 4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pataka je 136 : 4 = 34, a kokoši i pataka zajedno 136 + 34 = 170.",
+      "savjet": "Najprije izračunaj koliko je pataka na farmi."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-046",
+      "tezina": "srednje",
+      "pitanje": "Obitelj Horvat putuje 450 km. Prvi dan prešli su 180 km, a drugi dan 150 km. Odaberi račun kojim saznaješ koliko im je kilometara ostalo do cilja.",
+      "ponudeni": [
+        "450 − 180 + 150",
+        "180 + 150",
+        "450 + 180 − 150",
+        "450 − (180 + 150)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U dva dana prešli su 180 + 150 = 330 km, pa im je ostalo 450 − 330 = 120 km.",
+      "savjet": "Najprije izračunaj koliko su kilometara prešli u oba dana."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-047",
+      "tezina": "srednje",
+      "pitanje": "Učenici 4. a razreda skupili su 156 kg starog papira, a učenici 4. b razreda 38 kg više. Odaberi račun kojim saznaješ koliko su papira skupila oba razreda.",
+      "ponudeni": [
+        "156 + 156 + 38",
+        "156 + 38",
+        "156 + 156 − 38",
+        "156 · 38"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razred 4. b skupio je 156 + 38 = 194 kg, pa oba razreda zajedno 156 + 194 = 350 kg.",
+      "savjet": "Prvo izračunaj koliko je papira skupio 4. b razred."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-048",
+      "tezina": "srednje",
+      "pitanje": "Za priredbu je kupljeno 7 paketa soka, u svakom po 6 boca. Popijeno je 38 boca. Odaberi račun kojim saznaješ koliko je boca ostalo.",
+      "ponudeni": [
+        "7 · 6 + 38",
+        "7 · 6 − 38",
+        "7 + 6 + 38",
+        "38 − 7 − 6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Boca je bilo 7 · 6 = 42, a ostalo ih je 42 − 38 = 4.",
+      "savjet": "Najprije izračunaj koliko je boca bilo u svim paketima."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-049",
+      "tezina": "srednje",
+      "pitanje": "Lovro ima 60 sličica. Bratu je dao 15 sličica, a ostale je jednako podijelio među 3 prijatelja. Odaberi račun kojim saznaješ koliko sličica dobiva svaki prijatelj.",
+      "ponudeni": [
+        "60 − 15 : 3",
+        "60 : 3 − 15",
+        "(60 − 15) : 3",
+        "(60 + 15) : 3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon darivanja brata ostalo je 60 − 15 = 45 sličica, a svaki prijatelj dobiva 45 : 3 = 15.",
+      "savjet": "Prvo izračunaj koliko je sličica ostalo nakon darivanja brata."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-050",
+      "tezina": "srednje",
+      "pitanje": "Kilogram jabuka stoji 2 €, a kilogram banana 3 €. Odaberi račun kojim saznaješ koliko stoji 5 kg jabuka i 4 kg banana.",
+      "ponudeni": [
+        "(2 + 3) · (5 + 4)",
+        "2 · 4 + 3 · 5",
+        "5 + 4 + 2 + 3",
+        "5 · 2 + 4 · 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jabuke stoje 5 · 2 = 10 €, banane 4 · 3 = 12 €, a ukupno 10 + 12 = 22 €.",
+      "savjet": "Pazi koju cijenu množiš s kojom količinom."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-051",
+      "tezina": "srednje",
+      "pitanje": "Na parkiralištu je 9 redova po 12 mjesta. Zauzeto je 75 mjesta. Odaberi račun kojim saznaješ koliko je mjesta slobodno.",
+      "ponudeni": [
+        "9 · 12 − 75",
+        "9 · 12 + 75",
+        "75 − 12 − 9",
+        "(75 − 12) : 9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na parkiralištu je 9 · 12 = 108 mjesta, a slobodnih je 108 − 75 = 33.",
+      "savjet": "Najprije izračunaj koliko mjesta ima na cijelom parkiralištu."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-052",
+      "tezina": "srednje",
+      "pitanje": "Ana ima 85 €, a Borna 47 € manje od nje. Odaberi račun kojim saznaješ koliko novca imaju zajedno.",
+      "ponudeni": [
+        "85 + 47",
+        "85 + 85 − 47",
+        "85 − 47",
+        "85 + 85 + 47"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Borna ima 85 − 47 = 38 €, pa zajedno imaju 85 + 38 = 123 €.",
+      "savjet": "Prvo izračunaj koliko novca ima Borna."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-053",
+      "tezina": "srednje",
+      "pitanje": "Na izlet je krenulo 8 skupina po 6 učenika i 5 odraslih pratitelja. Odaberi račun kojim saznaješ koliko je osoba krenulo na izlet.",
+      "ponudeni": [
+        "(8 + 5) · 6",
+        "8 + 6 + 5",
+        "8 · 6 + 5",
+        "8 · (6 + 5)"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Učenika je 8 · 6 = 48, a s pratiteljima 48 + 5 = 53 osobe.",
+      "savjet": "Najprije izračunaj koliko je učenika."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-054",
+      "tezina": "srednje",
+      "pitanje": "Knjiga ima 200 stranica. Tea je 5 dana čitala po 24 stranice. Odaberi račun kojim saznaješ koliko joj je stranica ostalo do kraja knjige.",
+      "ponudeni": [
+        "200 − 24 − 5",
+        "(200 − 24) · 5",
+        "24 · 5 + 200",
+        "200 − 24 · 5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tea je pročitala 24 · 5 = 120 stranica, pa joj je ostalo 200 − 120 = 80 stranica.",
+      "savjet": "Prvo izračunaj koliko je stranica već pročitala."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-055",
+      "tezina": "srednje",
+      "pitanje": "Kutija s 12 olovaka stoji 6 €. Škola je kupila 15 kutija i platila sa 100 €. Odaberi račun kojim saznaješ koliko je novca škola dobila natrag.",
+      "ponudeni": [
+        "100 − 15 · 6",
+        "15 · 12 − 100",
+        "100 − 12 · 6",
+        "100 − 15 − 6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "15 kutija stoji 15 · 6 = 90 €, pa je škola natrag dobila 100 − 90 = 10 €. Broj olovaka u kutiji ovdje nije potreban.",
+      "savjet": "Razmisli koji su podatci potrebni za cijenu kutija, a koji nisu."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-056",
+      "tezina": "srednje",
+      "pitanje": "Pekara je dobila 480 kg brašna u ponedjeljak i 320 kg u utorak. Sve je brašno spremljeno u vreće po 40 kg. Odaberi račun kojim saznaješ koliko je vreća.",
+      "ponudeni": [
+        "480 + 320 : 40",
+        "(480 + 320) : 40",
+        "(480 − 320) : 40",
+        "480 : 40 + 320"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brašna je ukupno 480 + 320 = 800 kg, a vreća je 800 : 40 = 20.",
+      "savjet": "Najprije izračunaj koliko je brašna ukupno."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-057",
+      "tezina": "srednje",
+      "pitanje": "Rok ima 35 sličica, a Klara 4 puta više od njega. Odaberi račun kojim saznaješ za koliko Klara ima više sličica od Roka.",
+      "ponudeni": [
+        "35 · 4",
+        "35 + 4",
+        "35 · 4 − 35",
+        "35 · 4 + 35"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Klara ima 35 · 4 = 140 sličica, što je 140 − 35 = 105 sličica više od Roka.",
+      "savjet": "Prvo izračunaj koliko sličica ima Klara, a zatim usporedi."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-058",
+      "tezina": "srednje",
+      "pitanje": "Tvornica je napravila 2500 čokolada i spakirala ih u kutije po 25. Prodano je 60 kutija. Odaberi račun kojim saznaješ koliko je kutija ostalo.",
+      "ponudeni": [
+        "2500 − 60 : 25",
+        "2500 : 25 + 60",
+        "(2500 − 60) : 25",
+        "2500 : 25 − 60"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kutija je bilo 2500 : 25 = 100, a ostalo ih je 100 − 60 = 40.",
+      "savjet": "Najprije izračunaj koliko je kutija napunjeno."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-059",
+      "tezina": "srednje",
+      "pitanje": "Sanja ima 3 vrećice po 15 klikera, a Toni 2 vrećice po 20 klikera. Odaberi račun kojim saznaješ za koliko Sanja ima više klikera od Tonija.",
+      "ponudeni": [
+        "3 · 15 − 2 · 20",
+        "3 · 15 + 2 · 20",
+        "15 · 20 − 3 · 2",
+        "3 · 20 − 2 · 15"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sanja ima 3 · 15 = 45, a Toni 2 · 20 = 40 klikera, pa Sanja ima 45 − 40 = 5 klikera više.",
+      "savjet": "Najprije izračunaj koliko klikera ima svatko od njih."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-060",
+      "tezina": "srednje",
+      "pitanje": "U dvorani je 240 stolica složenih u redove po 20 stolica. Uklonjena su 3 reda. Odaberi račun kojim saznaješ koliko je redova ostalo.",
+      "ponudeni": [
+        "240 − 3 : 20",
+        "240 : 20 − 3",
+        "240 : (20 − 3)",
+        "(240 − 3) : 20"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Redova je bilo 240 : 20 = 12, a nakon uklanjanja ostalo ih je 12 − 3 = 9.",
+      "savjet": "Prvo izračunaj koliko je redova bilo na početku."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-061",
+      "tezina": "tesko",
+      "pitanje": "Leon je kupio 4 bilježnice po 3 € i 4 olovke po 2 €. Odaberi račun kojim NE možeš izračunati koliko je Leon platio.",
+      "ponudeni": [
+        "4 · 3 + 4 · 2",
+        "(3 + 2) · 4",
+        "4 · 3 + 2",
+        "3 + 3 + 3 + 3 + 2 + 2 + 2 + 2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U računu 4 · 3 + 2 plaćena je samo jedna olovka, a kupljene su 4. Ostali računi daju točan iznos od 20 €.",
+      "savjet": "Za svaki račun provjeri jesu li uračunate sve bilježnice i sve olovke."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-062",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zadatak koji se rješava računom (120 − 36) : 4.",
+      "ponudeni": [
+        "Od 120 € potrošeno je 36 €, a ostatak je jednako podijeljen na 4 djece.",
+        "Od 120 € potrošeno je 36 €, a zatim još 4 €.",
+        "Četvero djece ima po 120 €, a jedno je dijete potrošilo 36 €.",
+        "Svako od četvero djece dobilo je 120 €, a zatim još 36 €."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije od 120 € oduzimamo potrošenih 36 €, a zatim ostatak dijelimo na 4 jednaka dijela.",
+      "savjet": "Pročitaj račun redom: što se računa u zagradi, a što nakon nje?"
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-063",
+      "tezina": "tesko",
+      "pitanje": "Kino ima 3 dvorane. U svakoj dvorani je 12 redova po 15 sjedala. Prodano je 450 ulaznica. Odaberi račun kojim saznaješ koliko je sjedala ostalo prazno.",
+      "ponudeni": [
+        "450 − 12 · 15",
+        "3 · 12 · 15 − 450",
+        "3 · 12 · 15 + 450",
+        "3 · 450 − 12 · 15"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U kinu je 3 · 12 · 15 = 540 sjedala, a prazno ih je 540 − 450 = 90.",
+      "savjet": "Najprije izračunaj koliko sjedala ima u jednoj dvorani, a onda u svim dvoranama."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-064",
+      "tezina": "tesko",
+      "pitanje": "Ema ima 45 €, a Dino 15 € više od nje. Odaberi račun kojim NE možeš izračunati koliko novca imaju zajedno.",
+      "ponudeni": [
+        "45 + 45 + 15",
+        "45 · 2 + 15",
+        "45 + (45 + 15)",
+        "45 + 15 · 2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Račun 45 + 15 · 2 ne uračunava dobro Emin i Dinov novac. Ostali računi daju točan iznos od 105 €.",
+      "savjet": "Najprije izračunaj koliko novca ima Dino, a zatim provjeri svaki račun."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-065",
+      "tezina": "tesko",
+      "pitanje": "Dvije odrasle osobe i troje djece idu na bazen. Ulaznica za odrasle stoji 8 €, a za djecu 5 €. Plaćaju sa 50 €. Odaberi račun kojim saznaješ koliko će im vratiti.",
+      "ponudeni": [
+        "50 − (2 · 8 + 3 · 5)",
+        "50 − 2 · 8 + 3 · 5",
+        "50 − (8 + 5) · 3",
+        "50 − 2 · 5 − 3 · 8"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ulaznice stoje 2 · 8 + 3 · 5 = 31 €, pa će im vratiti 50 − 31 = 19 €.",
+      "savjet": "Najprije izračunaj cijenu svih ulaznica, a tek onda ostatak novca."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-066",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zadatak koji se rješava računom 6 · 25 + 40.",
+      "ponudeni": [
+        "6 učenika ima po 25 sličica, a od toga 40 poklone. Koliko im je ostalo?",
+        "6 učenika ima po 25 sličica, a razred dobije još 40. Koliko ih je ukupno?",
+        "Svaki od 6 učenika ima 25 sličica i dobije još 40. Koliko ih imaju svi?",
+        "6 učenika ima po 40 sličica, a od toga 25 poklone. Koliko im je ostalo?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umnožak 6 · 25 daje sličice svih učenika, a zatim dodajemo 40 sličica koje razred dobije.",
+      "savjet": "Razmisli što u priči znači umnožak 6 · 25, a što dodavanje broja 40."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-067",
+      "tezina": "tesko",
+      "pitanje": "U kombi stane 9 putnika. Na izlet ide 68 učenika i 4 odrasle osobe. Odaberi račun kojim saznaješ koliko je kombija potrebno.",
+      "ponudeni": [
+        "68 : 9 + 4",
+        "(68 + 4) · 9",
+        "(68 + 4) : 9",
+        "(68 − 4) : 9"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Putnika je ukupno 68 + 4 = 72, pa je potrebno 72 : 9 = 8 kombija.",
+      "savjet": "I odrasle osobe trebaju mjesto u kombiju."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-068",
+      "tezina": "tesko",
+      "pitanje": "U 5 kutija je po 12 jaja. Ukupno se razbilo 7 jaja. Odaberi račun kojim NE možeš izračunati koliko je cijelih jaja ostalo.",
+      "ponudeni": [
+        "5 · 12 − 7",
+        "12 · 5 − 7",
+        "12 + 12 + 12 + 12 + 12 − 7",
+        "5 · (12 − 7)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Račun 5 · (12 − 7) oduzima 7 jaja iz svake kutije, a razbilo se samo 7 jaja ukupno. Ostali računi daju 53 jaja.",
+      "savjet": "Provjeri u svakom računu koliko se jaja ukupno oduzima."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-069",
+      "tezina": "tesko",
+      "pitanje": "Marta štedi 12 € tjedno, a Ivan 8 € tjedno. Odaberi račun kojim saznaješ za koliko će Marta nakon 6 tjedana imati više novca od Ivana.",
+      "ponudeni": [
+        "(12 − 8) · 6",
+        "12 · 6 + 8 · 6",
+        "12 − 8 + 6",
+        "12 · 6 − 8"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki tjedan Marta uštedi 12 − 8 = 4 € više, pa za 6 tjedana 4 · 6 = 24 € više.",
+      "savjet": "Razmisli za koliko eura Marta svaki tjedan uštedi više od Ivana."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-070",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zadatak koji se rješava računom 500 − 3 · 120.",
+      "ponudeni": [
+        "Ana ima 500 €. Kupila je igračku od 120 €. Koliko joj je ostalo?",
+        "Ana ima 500 €. Kupila je 3 igračke po 120 €. Koliko joj je ostalo?",
+        "Ana je 3 puta dobila po 500 €. Potrošila je 120 €. Koliko joj je ostalo?",
+        "Ana ima 500 € i 3 puta dobije po 120 €. Koliko novca sada ima?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umnožak 3 · 120 je cijena triju igračaka, a oduzimanjem od 500 € saznajemo koliko je Ani ostalo.",
+      "savjet": "Razmisli što bi u priči moglo značiti 3 · 120, a što oduzimanje od 500."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-071",
+      "tezina": "tesko",
+      "pitanje": "Voćar je kupio 8 sanduka po 15 kg jabuka. Prodao je 96 kg, a ostatak spakirao u vrećice po 3 kg. Odaberi račun kojim saznaješ koliko je vrećica napunio.",
+      "ponudeni": [
+        "8 · 15 − 96 : 3",
+        "(8 · 15 + 96) : 3",
+        "(8 · 15 − 96) : 3",
+        "(96 − 15) : 3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jabuka je bilo 8 · 15 = 120 kg, ostalo je 120 − 96 = 24 kg, a to je 24 : 3 = 8 vrećica.",
+      "savjet": "Riješi zadatak u tri koraka: koliko je jabuka bilo, koliko je ostalo i koliko je vrećica."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-072",
+      "tezina": "tesko",
+      "pitanje": "Na polici je 6 redova po 25 knjiga. Iz svakog reda posuđeno je 5 knjiga. Odaberi račun kojim NE možeš izračunati koliko je knjiga ostalo.",
+      "ponudeni": [
+        "6 · 25 − 6 · 5",
+        "(25 − 5) · 6",
+        "20 + 20 + 20 + 20 + 20 + 20",
+        "6 · 25 − 5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Račun 6 · 25 − 5 oduzima samo 5 knjiga, a posuđeno je po 5 knjiga iz svakog od 6 redova. Ostali računi daju 120 knjiga.",
+      "savjet": "Provjeri koliko je knjiga ukupno posuđeno iz svih redova."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-073",
+      "tezina": "tesko",
+      "pitanje": "Mljekara svaki dan proizvede 1250 l mlijeka i puni ga u boce od 5 l. Odaberi račun kojim saznaješ koliko boca napuni u 4 dana.",
+      "ponudeni": [
+        "(1250 : 5) · 4",
+        "1250 : (5 · 4)",
+        "1250 · 5 · 4",
+        "1250 : 5 + 4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U jednom danu mljekara napuni 1250 : 5 = 250 boca, a u 4 dana 250 · 4 = 1000 boca.",
+      "savjet": "Najprije izračunaj koliko boca napuni u jednom danu."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-074",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zadatak koji se rješava računom (35 + 45) : 4.",
+      "ponudeni": [
+        "Lea je u ponedjeljak potrošila 35 €, a u utorak 45 €. Koliko ukupno?",
+        "35 € i 45 € jednako se podijele na četvero djece. Koliko dobije svako dijete?",
+        "Svako od četvero djece ima 35 € i 45 €. Koliko imaju sva djeca zajedno?",
+        "Četvero djece ima po 35 €, a dobiju još 45 €. Koliko novca imaju ukupno?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U zagradi zbrajamo sav novac (35 + 45 = 80 €), a dijeljenjem s 4 dobivamo dio za svako dijete.",
+      "savjet": "U računu se najprije zbraja, a zatim dijeli; u kojoj se priči to događa?"
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-075",
+      "tezina": "tesko",
+      "pitanje": "Petar ima 48 sličica, a Iva 3 puta više. Iva je dala 30 sličica prijateljici. Odaberi račun kojim saznaješ koliko sličica Iva sada ima.",
+      "ponudeni": [
+        "48 · 3 + 30",
+        "48 + 3 − 30",
+        "48 · 3 − 30",
+        "(48 − 30) · 3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iva je imala 48 · 3 = 144 sličice, a nakon darivanja 144 − 30 = 114 sličica.",
+      "savjet": "Najprije izračunaj koliko je sličica Iva imala na početku."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-076",
+      "tezina": "tesko",
+      "pitanje": "Sok stoji 2 €, a sendvič 4 €. Svako od 5 djece kupi jedan sok i jedan sendvič. Odaberi račun kojim NE možeš izračunati koliko su platili svi.",
+      "ponudeni": [
+        "(2 + 4) · 5",
+        "5 · 2 + 5 · 4",
+        "6 + 6 + 6 + 6 + 6",
+        "2 + 4 · 5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U računu 2 + 4 · 5 sok je plaćen samo jednom, a kupilo ga je petero djece. Ostali računi daju 30 €.",
+      "savjet": "Provjeri je li u svakom računu plaćeno 5 sokova i 5 sendviča."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-077",
+      "tezina": "tesko",
+      "pitanje": "Maja treba biciklom prijeći 150 km. Svaki dan prijeđe 35 km. Odaberi račun kojim saznaješ koliko joj je kilometara ostalo nakon 4 dana.",
+      "ponudeni": [
+        "150 − 4 · 35",
+        "150 − 35 − 4",
+        "(150 − 35) · 4",
+        "4 · 35 + 150"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U 4 dana Maja prijeđe 4 · 35 = 140 km, pa joj ostaje 150 − 140 = 10 km.",
+      "savjet": "Najprije izračunaj koliko kilometara prijeđe u 4 dana."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-078",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zadatak koji se rješava računom 72 : 8 − 3.",
+      "ponudeni": [
+        "Lea ima 72 sličice, a Rok 8 puta manje. Rok dobije još 3. Koliko sada ima?",
+        "Lea ima 72 sličice, a Rok 8 puta manje. Rok pokloni 3. Koliko mu je ostalo?",
+        "Lea ima 72 sličice, a Rok 8 manje. Rok pokloni 3. Koliko mu je ostalo?",
+        "Lea ima 72 sličice, a Rok 8 puta više. Rok pokloni 3. Koliko mu je ostalo?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Količnik 72 : 8 je broj Rokovih sličica, a 3 oduzimamo jer ih je Rok poklonio.",
+      "savjet": "Razmisli što u priči znači dijeljenje s 8, a što oduzimanje broja 3."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-079",
+      "tezina": "tesko",
+      "pitanje": "Tvornica dnevno napravi 12 500 čokolada. Pakira ih u kutije po 25 čokolada, a kutije u kartone po 20 kutija. Odaberi račun kojim saznaješ koliko kartona napuni.",
+      "ponudeni": [
+        "(12 500 : 25) · 20",
+        "12 500 − 25 − 20",
+        "(12 500 : 25) : 20",
+        "12 500 : (25 + 20)"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tvornica napuni 12 500 : 25 = 500 kutija, a od njih 500 : 20 = 25 kartona.",
+      "savjet": "Najprije izračunaj koliko kutija napuni, a zatim koliko kartona."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-080",
+      "tezina": "tesko",
+      "pitanje": "U vlaku je bilo 90 putnika. Na prvoj stanici izašlo je 25 putnika, a na drugoj 15. Odaberi račun kojim NE možeš izračunati koliko je putnika ostalo.",
+      "ponudeni": [
+        "90 − 25 − 15",
+        "90 − (25 + 15)",
+        "90 − 15 − 25",
+        "90 − (25 − 15)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U računu 90 − (25 − 15) oduzima se samo 10 putnika, a izašlo ih je 40. Ostali računi daju 50 putnika.",
+      "savjet": "Provjeri u svakom računu koliko je putnika ukupno oduzeto."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-081",
+      "tezina": "tesko",
+      "pitanje": "U razredu je 26 učenika. Za izlet svaki učenik plaća 15 € za autobus i 8 € za ulaznicu. Odaberi račun kojim saznaješ koliko novca skupi cijeli razred.",
+      "ponudeni": [
+        "(15 + 8) · 26",
+        "15 + 8 · 26",
+        "26 · 15 + 8",
+        "(26 + 15) · 8"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan učenik plaća 15 + 8 = 23 €, a cijeli razred 23 · 26 = 598 €.",
+      "savjet": "Izračunaj najprije koliko plaća jedan učenik."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-082",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zadatak koji se rješava računom 4 · 15 − 3 · 12.",
+      "ponudeni": [
+        "Ana ima 4 vrećice po 15 klikera, a Ivo 3 po 12. Koliko imaju zajedno?",
+        "Ana ima 4 vrećice po 15 klikera, a Ivo 3 po 12. Za koliko Ana ima više?",
+        "Ana ima 4 vrećice po 15 klikera. Dala je 3 klikera i još 12. Koliko ih ima?",
+        "Ana ima 4 vrećice po 12 klikera, a Ivo 3 po 15. Za koliko Ana ima više?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umnožak 4 · 15 je broj Aninih, a 3 · 12 broj Ivinih klikera; oduzimanjem saznajemo za koliko Ana ima više.",
+      "savjet": "Odredi što u priči znači svaki umnožak, a što oduzimanje."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-083",
+      "tezina": "tesko",
+      "pitanje": "U bačvi je bilo 200 l vode. Svaki dan za zalijevanje uzme se 15 l. Nakon 6 dana kiša je u bačvu donijela 40 l. Odaberi račun kojim saznaješ koliko je sada vode u bačvi.",
+      "ponudeni": [
+        "200 − 15 + 6 + 40",
+        "200 − 6 · 15 − 40",
+        "200 − 6 · 15 + 40",
+        "(200 − 15) · 6 + 40"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za 6 dana uzeto je 6 · 15 = 90 l, ostalo je 200 − 90 = 110 l, a s kišnicom 110 + 40 = 150 l.",
+      "savjet": "Izračunaj koliko je vode uzeto, a zatim razmisli što kiša čini s količinom vode."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-084",
+      "tezina": "tesko",
+      "pitanje": "Ana ima 120 €, a Borna 3 puta manje. Odaberi račun kojim NE možeš izračunati koliko novca imaju zajedno.",
+      "ponudeni": [
+        "120 + 120 : 3",
+        "120 : 3 + 120",
+        "120 + 40",
+        "120 + 120 · 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Borna ima 3 puta manje, dakle 120 : 3 = 40 €, a ne 120 · 3 = 360 €. Ostali računi daju 160 €.",
+      "savjet": "Najprije izračunaj koliko novca ima Borna."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-085",
+      "tezina": "tesko",
+      "pitanje": "Pekarnica svaki dan potroši 18 kg brašna. Brašno kupuje u vrećama po 6 kg. Odaberi račun kojim saznaješ koliko joj vreća treba za 5 dana.",
+      "ponudeni": [
+        "(18 · 5) : 6",
+        "18 : 6 + 5",
+        "18 · 6 · 5",
+        "(18 + 5) · 6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za 5 dana treba 18 · 5 = 90 kg brašna, a to je 90 : 6 = 15 vreća.",
+      "savjet": "Izračunaj najprije koliko je brašna potrebno za svih 5 dana."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-086",
+      "tezina": "tesko",
+      "pitanje": "Knjižnica ima 12 600 knjiga u 9 jednakih ormara. U svaki ormar dodano je još 150 knjiga. Odaberi račun kojim saznaješ koliko je sada knjiga u jednom ormaru.",
+      "ponudeni": [
+        "(12 600 + 150) : 9",
+        "12 600 : 9 + 150",
+        "12 600 : (9 + 150)",
+        "12 600 + 150 : 9"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U jednom ormaru bilo je 12 600 : 9 = 1400 knjiga, a sada ih je 1400 + 150 = 1550.",
+      "savjet": "Pazi: dodane knjige odnose se na svaki ormar posebno."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-087",
+      "tezina": "tesko",
+      "pitanje": "U kutiji su 3 reda po 8 čokoladica. Ivan je kupio 5 takvih kutija. Odaberi račun kojim NE možeš izračunati koliko čokoladica ima.",
+      "ponudeni": [
+        "3 · 8 · 5",
+        "5 · 24",
+        "3 · 8 + 5",
+        "(3 · 5) · 8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U računu 3 · 8 + 5 kutije se zbrajaju umjesto da se množe. Ostali računi daju 120 čokoladica.",
+      "savjet": "Izračunaj koliko je čokoladica u jednoj kutiji, a zatim provjeri svaki račun."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-088",
+      "tezina": "tesko",
+      "pitanje": "Ana i Luka zajedno imaju 96 €. Luka ima 18 € više od Ane. Odaberi račun kojim saznaješ koliko novca ima Ana.",
+      "ponudeni": [
+        "96 : 2 − 18",
+        "96 : 2 + 18",
+        "(96 + 18) : 2",
+        "(96 − 18) : 2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad od 96 € oduzmemo 18 € koje Luka ima više, ostatak od 78 € dijeli se na dva jednaka dijela: 78 : 2 = 39 €.",
+      "savjet": "Zamisli da Luka odvoji 18 € viška; tada bi njih dvoje imali jednako."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-089",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zadatak koji se rješava računom 8 · (12 + 5).",
+      "ponudeni": [
+        "U 8 kutija je po 12 crvenih i 5 plavih kuglica. Koliko je kuglica ukupno?",
+        "U 8 kutija je po 12 kuglica, a izvan kutija još 5. Koliko je kuglica ukupno?",
+        "U 8 kutija je po 12 kuglica, a iz svake se izvadi 5. Koliko ih je ostalo?",
+        "Ima 8 crvenih, 12 plavih i 5 zelenih kuglica. Koliko je kuglica ukupno?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U svakoj od 8 kutija ima 12 + 5 = 17 kuglica, pa ih je ukupno 8 · 17 = 136.",
+      "savjet": "Razmisli na što se u priči odnosi zbroj u zagradi, a na što množenje s 8."
+    },
+    {
+      "id": "4-matematika-odabir-racunske-operacije-090",
+      "tezina": "tesko",
+      "pitanje": "Martina ima 250 €, a bicikl stoji 430 €. Svaki tjedan uštedi još 20 €. Odaberi račun kojim saznaješ nakon koliko tjedana može kupiti bicikl.",
+      "ponudeni": [
+        "430 − 250 : 20",
+        "(430 − 250) : 20",
+        "(430 + 250) : 20",
+        "(430 − 250) · 20"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Martini nedostaje 430 − 250 = 180 €, a uz 20 € tjedno to je 180 : 20 = 9 tjedana.",
+      "savjet": "Najprije izračunaj koliko novca Martini nedostaje."
+    }
+  ]
+}

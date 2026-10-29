@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "problemski-zadaci",
+  "pitanja": [
+    {
+      "id": "4-matematika-problemski-zadaci-001",
+      "tezina": "lagano",
+      "pitanje": "Odredi sljedeći broj u nizu 3, 7, 11, 15, …",
+      "ponudeni": [
+        "19",
+        "18",
+        "20",
+        "21"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki je sljedeći broj za 4 veći od prethodnog, pa slijedi 15 + 4 = 19.",
+      "savjet": "Odredi za koliko je svaki broj u nizu veći od prethodnog."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-002",
+      "tezina": "lagano",
+      "pitanje": "Odredi sljedeći broj u nizu 2, 4, 8, 16, …",
+      "ponudeni": [
+        "24",
+        "32",
+        "20",
+        "30"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svaki je broj dvostruko veći od prethodnog, pa slijedi 16 · 2 = 32.",
+      "savjet": "Usporedi svaki broj s prethodnim: dodaje li se uvijek isti broj ili se množi?"
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-003",
+      "tezina": "lagano",
+      "pitanje": "Odredi sljedeći broj u nizu 50, 45, 40, 35, …",
+      "ponudeni": [
+        "25",
+        "34",
+        "30",
+        "20"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaki je sljedeći broj za 5 manji od prethodnog, pa slijedi 35 − 5 = 30.",
+      "savjet": "Pogledaj za koliko se broj smanjuje u svakom koraku."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-004",
+      "tezina": "lagano",
+      "pitanje": "Mia ima 2 majice i 3 hlače. Odredi na koliko različitih načina može odjenuti jednu majicu i jedne hlače.",
+      "ponudeni": [
+        "5 načina",
+        "3 načina",
+        "8 načina",
+        "6 načina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uz svaku od 2 majice mogu ići bilo koje od 3 hlače, pa je 2 · 3 = 6 načina.",
+      "savjet": "Nabroji sustavno: uz prvu majicu redom stavi svake hlače, a zatim isto učini s drugom majicom."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-005",
+      "tezina": "lagano",
+      "pitanje": "Iva ima 12 sličica. Luka ima 3 puta više sličica od Ive. Odredi koliko sličica ima Luka.",
+      "ponudeni": [
+        "15 sličica",
+        "4 sličice",
+        "36 sličica",
+        "24 sličice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tri puta više znači tri puta po 12, a 3 · 12 = 36 sličica.",
+      "savjet": "Nacrtaj Ivine sličice kao jedan dio, a Lukine kao tri takva dijela."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-006",
+      "tezina": "lagano",
+      "pitanje": "Petra je zamislila broj, dodala mu 15 i dobila 40. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "25",
+        "55",
+        "35",
+        "15"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Radimo unatrag: od 40 oduzmemo 15 i dobijemo 40 − 15 = 25.",
+      "savjet": "Kreni od kraja: koja je računska operacija suprotna zbrajanju?"
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-007",
+      "tezina": "lagano",
+      "pitanje": "Marko je zamislio broj i pomnožio ga sa 6. Dobio je 42. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "36",
+        "48",
+        "252",
+        "7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Radimo unatrag: 42 : 6 = 7. Provjera: 7 · 6 = 42.",
+      "savjet": "Kreni od kraja i učini suprotnu računsku operaciju od množenja."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-008",
+      "tezina": "lagano",
+      "pitanje": "U ravnom redu stoji 5 stupova. Razmak između svaka dva susjedna stupa je 2 m. Odredi udaljenost od prvog do zadnjeg stupa.",
+      "ponudeni": [
+        "10 m",
+        "8 m",
+        "6 m",
+        "7 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Između 5 stupova u redu su 4 razmaka, pa je udaljenost 4 · 2 m = 8 m.",
+      "savjet": "Nacrtaj stupove i prebroji razmake između njih."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-009",
+      "tezina": "lagano",
+      "pitanje": "Nina je u ravnom redu posadila 6 stabala. Između svaka dva susjedna stabla postavila je jednu klupu. Odredi broj klupa.",
+      "ponudeni": [
+        "5 klupa",
+        "6 klupa",
+        "7 klupa",
+        "4 klupe"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Između 6 stabala u redu ima 5 razmaka, a u svakom je jedna klupa, dakle 5 klupa.",
+      "savjet": "Nacrtaj stabla u redu i označi mjesta između njih."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-010",
+      "tezina": "lagano",
+      "pitanje": "Odredi koliko dvoznamenkastih brojeva možeš napisati znamenkama 3, 5 i 7 ako se znamenke u broju ne smiju ponavljati.",
+      "ponudeni": [
+        "9",
+        "6",
+        "3",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To su brojevi 35, 37, 53, 57, 73 i 75, dakle 6 brojeva.",
+      "savjet": "Popiši brojeve redom: prvo one koji počinju prvom znamenkom, zatim drugom, pa trećom."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-011",
+      "tezina": "lagano",
+      "pitanje": "Zbroj dvaju brojeva je 10, a jedan je broj za 2 veći od drugoga. Odredi veći broj.",
+      "ponudeni": [
+        "5",
+        "8",
+        "6",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "To su brojevi 4 i 6 jer je 4 + 6 = 10 i 6 − 4 = 2. Veći je broj 6.",
+      "savjet": "Pokušaj s parovima brojeva čiji je zbroj 10 i provjeri njihovu razliku."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-012",
+      "tezina": "lagano",
+      "pitanje": "Ivan ima 9 godina, a sestra je 4 godine starija od njega. Odredi koliko godina ima sestra.",
+      "ponudeni": [
+        "5 godina",
+        "36 godina",
+        "14 godina",
+        "13 godina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Starija za 4 godine znači da dodajemo: 9 + 4 = 13 godina.",
+      "savjet": "Razmisli treba li Ivanovim godinama dodati ili od njih oduzeti razliku."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-013",
+      "tezina": "lagano",
+      "pitanje": "Troje djece podijelilo je 270 sličica na jednake dijelove. Odredi koliko je sličica dobilo svako dijete.",
+      "ponudeni": [
+        "900 sličica",
+        "9 sličica",
+        "90 sličica",
+        "267 sličica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sličice dijelimo na 3 jednaka dijela: 270 : 3 = 90 sličica.",
+      "savjet": "Nacrtaj tri jednaka dijela i podijeli ukupan broj sličica na njih."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-014",
+      "tezina": "lagano",
+      "pitanje": "Ana je viša od Ivana, a Ivan je viši od Tee. Marko je niži od Tee. Tko je od njih najniži?",
+      "ponudeni": [
+        "Marko",
+        "Ivan",
+        "Tea",
+        "Ana"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od najvišeg prema najnižem poredak je Ana, Ivan, Tea, Marko, pa je Marko najniži.",
+      "savjet": "Poredaj djecu u niz od najvišeg prema najnižem."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-015",
+      "tezina": "lagano",
+      "pitanje": "Likovi se ponavljaju ovim redom: krug, kvadrat, trokut, krug, kvadrat, trokut, … Koji je lik 10. u nizu?",
+      "ponudeni": [
+        "kvadrat",
+        "trokut",
+        "pravokutnik",
+        "krug"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Skupina od 3 lika ponavlja se 3 puta do 9. mjesta, pa je 10. lik opet prvi u skupini, krug.",
+      "savjet": "Uoči koliko likova ima skupina koja se ponavlja i broji po skupinama."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-016",
+      "tezina": "lagano",
+      "pitanje": "Lea je potrošila 18 € i ostalo joj je 27 €. Odredi koliko je eura imala na početku.",
+      "ponudeni": [
+        "9 €",
+        "45 €",
+        "35 €",
+        "44 €"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Radimo unatrag: potrošeni novac vratimo ostatku, 27 € + 18 € = 45 €.",
+      "savjet": "Kreni od kraja: potrošeni novac vrati onome što je ostalo."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-017",
+      "tezina": "lagano",
+      "pitanje": "Odredi broj koji nedostaje u nizu 12, 24, 36, __, 60.",
+      "ponudeni": [
+        "48",
+        "42",
+        "46",
+        "50"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki je broj za 12 veći od prethodnog: 36 + 12 = 48, a 48 + 12 = 60.",
+      "savjet": "Odredi za koliko raste svaki sljedeći broj u nizu."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-018",
+      "tezina": "lagano",
+      "pitanje": "U slastičarnici biraš jedan od 4 okusa sladoleda i jedan od 2 preljeva. Odredi na koliko različitih načina možeš odabrati sladoled s preljevom.",
+      "ponudeni": [
+        "6 načina",
+        "8 načina",
+        "4 načina",
+        "2 načina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uz svaki od 4 okusa mogu ići 2 preljeva, pa je 4 · 2 = 8 načina.",
+      "savjet": "Nabroji sustavno: uz svaki okus redom napiši svaki preljev."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-019",
+      "tezina": "lagano",
+      "pitanje": "Na dvorištu su 4 kokoši i 2 zeca. Odredi koliko ukupno nogu imaju te životinje.",
+      "ponudeni": [
+        "12 nogu",
+        "24 noge",
+        "16 nogu",
+        "6 nogu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kokoši imaju 4 · 2 = 8 nogu, a zečevi 2 · 4 = 8 nogu, ukupno 16 nogu.",
+      "savjet": "Nacrtaj životinje: kokoš ima 2 noge, a zec 4 noge."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-020",
+      "tezina": "lagano",
+      "pitanje": "Za izlet je prijavljeno 96 učenika. U svaki kombi stane 8 učenika. Odredi koliko je kombija potrebno da se svi prevezu.",
+      "ponudeni": [
+        "13 kombija",
+        "11 kombija",
+        "88 kombija",
+        "12 kombija"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Učenike dijelimo u skupine po 8: 96 : 8 = 12 kombija.",
+      "savjet": "Razmisli koliko puta broj 8 stane u ukupan broj učenika."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-021",
+      "tezina": "lagano",
+      "pitanje": "Tvornica je u ponedjeljak proizvela 125 000 čokolada, a u utorak 87 500 čokolada. Odredi koliko je čokolada proizvela u ta dva dana.",
+      "ponudeni": [
+        "202 500",
+        "37 500",
+        "212 500",
+        "211 500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zbrajamo: 125 000 + 87 500 = 212 500 čokolada.",
+      "savjet": "Zbroji količine iz oba dana i pazi na prijelaz preko desetice."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-022",
+      "tezina": "lagano",
+      "pitanje": "Jedan grad ima 248 000 stanovnika, a drugi 175 500. Odredi za koliko stanovnika prvi grad ima više od drugoga.",
+      "ponudeni": [
+        "72 500",
+        "82 500",
+        "423 500",
+        "73 500"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za koliko više saznajemo oduzimanjem: 248 000 − 175 500 = 72 500.",
+      "savjet": "Pitanje „za koliko više“ rješava se oduzimanjem manjeg broja od većeg."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-023",
+      "tezina": "lagano",
+      "pitanje": "Koje pravilo vrijedi za niz 5, 10, 20, 40, 80?",
+      "ponudeni": [
+        "Svaki je broj za 5 veći od prethodnog.",
+        "Svaki je broj za 10 veći od prethodnog.",
+        "Svaki je broj za 20 veći od prethodnog.",
+        "Svaki je broj dvostruko veći od prethodnog."
+      ],
+      "tocan": 3,
+      "objasnjenje": "5 · 2 = 10, 10 · 2 = 20, 20 · 2 = 40 i 40 · 2 = 80, pa se svaki broj udvostručuje.",
+      "savjet": "Provjeri pravilo na svim parovima susjednih brojeva, a ne samo na prvom paru."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-024",
+      "tezina": "lagano",
+      "pitanje": "Mama ima 36 godina, a Ena 9 godina. Odredi koliko je puta mama starija od Ene.",
+      "ponudeni": [
+        "3 puta",
+        "4 puta",
+        "5 puta",
+        "6 puta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Koliko puta saznajemo dijeljenjem: 36 : 9 = 4, pa je mama 4 puta starija.",
+      "savjet": "Pitanje „koliko puta“ rješava se dijeljenjem."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-025",
+      "tezina": "lagano",
+      "pitanje": "Zamišljeni broj veći je od 20, a manji od 30. Djeljiv je i s 3 i s 4. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "24",
+        "28",
+        "21",
+        "27"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Između 20 i 30 s 3 su djeljivi 21, 24 i 27, a s 4 su djeljivi 24 i 28. Oba uvjeta ispunjava samo 24.",
+      "savjet": "Pokušaj redom s brojevima od 21 do 29 i za svaki provjeri oba uvjeta."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-026",
+      "tezina": "lagano",
+      "pitanje": "Ravni konop razrezan je na 4 dijela. Odredi koliko je rezova napravljeno.",
+      "ponudeni": [
+        "4 reza",
+        "3 reza",
+        "5 rezova",
+        "2 reza"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi rez daje 2 dijela, a svaki sljedeći rez dodaje još jedan dio, pa za 4 dijela trebaju 3 reza.",
+      "savjet": "Nacrtaj konop podijeljen na dijelove i prebroji crte između dijelova."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-027",
+      "tezina": "lagano",
+      "pitanje": "Kino-dvorana ima 24 reda, a u svakom redu je 18 sjedala. Odredi ukupan broj sjedala.",
+      "ponudeni": [
+        "42",
+        "342",
+        "432",
+        "422"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jednake redove zbrajamo množenjem: 24 · 18 = 432 sjedala.",
+      "savjet": "Pomnoži broj redova s brojem sjedala u jednom redu."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-028",
+      "tezina": "lagano",
+      "pitanje": "Odredi sljedeći broj u nizu 1000, 500, 250, …",
+      "ponudeni": [
+        "200",
+        "150",
+        "100",
+        "125"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svaki je broj dvostruko manji od prethodnog, pa slijedi 250 : 2 = 125.",
+      "savjet": "Usporedi susjedne brojeve: koliko je puta sljedeći broj manji od prethodnog?"
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-029",
+      "tezina": "lagano",
+      "pitanje": "U utrci je Toni stigao prije Maje, a Maja prije Lane. Dino je stigao posljednji. Tko je stigao treći?",
+      "ponudeni": [
+        "Toni",
+        "Maja",
+        "Lana",
+        "Dino"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poredak je Toni, Maja, Lana, Dino, pa je Lana stigla treća.",
+      "savjet": "Napiši imena redom kojim su djeca stizala na cilj."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-030",
+      "tezina": "lagano",
+      "pitanje": "Matej je zamislio broj i podijelio ga s 5. Dobio je 120. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "600",
+        "24",
+        "125",
+        "115"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Radimo unatrag: 120 · 5 = 600. Provjera: 600 : 5 = 120.",
+      "savjet": "Dijeljenje se provjerava množenjem, pa iskoristi to i kreni od kraja."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-031",
+      "tezina": "srednje",
+      "pitanje": "Uz ravnu stazu dugu 30 m postavljeni su stupovi svaka 3 m. Stup stoji i na početku i na kraju staze. Odredi broj stupova.",
+      "ponudeni": [
+        "10 stupova",
+        "9 stupova",
+        "12 stupova",
+        "11 stupova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Staza ima 30 : 3 = 10 razmaka, a stupova je jedan više od razmaka, dakle 11.",
+      "savjet": "Nacrtaj kratku stazu sa stupovima i usporedi broj stupova s brojem razmaka."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-032",
+      "tezina": "srednje",
+      "pitanje": "Ana je zamislila broj, pomnožila ga s 3, a zatim dodala 4. Dobila je 25. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "71",
+        "7",
+        "21",
+        "8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Unatrag: 25 − 4 = 21, a zatim 21 : 3 = 7. Provjera: 7 · 3 + 4 = 25.",
+      "savjet": "Kreni od kraja: prvo poništi zadnji korak, a zatim prvi."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-033",
+      "tezina": "srednje",
+      "pitanje": "Ivan ima 9 godina, a sestra je 4 godine starija od njega. Odredi koliko će godina sestra imati za 3 godine.",
+      "ponudeni": [
+        "16 godina",
+        "13 godina",
+        "12 godina",
+        "10 godina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sestra sada ima 9 + 4 = 13 godina, a za 3 godine imat će 13 + 3 = 16 godina.",
+      "savjet": "Prvo odredi koliko godina sestra ima sada, a zatim gledaj u budućnost."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-034",
+      "tezina": "srednje",
+      "pitanje": "Zbroj dvaju brojeva je 30, a razlika im je 6. Odredi manji broj.",
+      "ponudeni": [
+        "18",
+        "12",
+        "24",
+        "15"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To su brojevi 12 i 18 jer je 12 + 18 = 30 i 18 − 12 = 6. Manji je broj 12.",
+      "savjet": "Pokušaj s parovima brojeva čiji je zbroj 30 i provjeri njihovu razliku."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-035",
+      "tezina": "srednje",
+      "pitanje": "Na farmi su kokoši i zečevi, ukupno 5 životinja. Zajedno imaju 14 nogu. Odredi broj zečeva.",
+      "ponudeni": [
+        "3 zeca",
+        "1 zec",
+        "2 zeca",
+        "4 zeca"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tri kokoši i dva zeca imaju 3 · 2 + 2 · 4 = 6 + 8 = 14 nogu, dakle zečeva su 2.",
+      "savjet": "Pokušaj: zamisli da su sve životinje kokoši, pa prebroji koliko nogu nedostaje."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-036",
+      "tezina": "srednje",
+      "pitanje": "Odredi koliko troznamenkastih brojeva možeš napisati znamenkama 2, 4 i 6 ako se svaka znamenka u broju pojavljuje točno jednom.",
+      "ponudeni": [
+        "3",
+        "9",
+        "27",
+        "6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "To su brojevi 246, 264, 426, 462, 624 i 642, dakle 6 brojeva.",
+      "savjet": "Popiši brojeve redom prema znamenki stotica i ne preskoči nijednu mogućnost."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-037",
+      "tezina": "srednje",
+      "pitanje": "Odredi koliko dvoznamenkastih brojeva možeš napisati znamenkama 1, 2 i 3 ako se znamenke u broju smiju ponavljati.",
+      "ponudeni": [
+        "6",
+        "3",
+        "9",
+        "12"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za desetice postoje 3 mogućnosti i za jedinice 3 mogućnosti, pa je 3 · 3 = 9 brojeva (11, 12, 13, 21, …, 33).",
+      "savjet": "Napiši tablicu: znamenka desetica u retku, znamenka jedinica u stupcu."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-038",
+      "tezina": "srednje",
+      "pitanje": "Četvero djece se pozdravilo tako da se svako dijete rukovalo sa svakim drugim djetetom točno jednom. Odredi broj rukovanja.",
+      "ponudeni": [
+        "6 rukovanja",
+        "12 rukovanja",
+        "4 rukovanja",
+        "8 rukovanja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se dijete rukuje s 3 djece, drugo s još 2, treće s još 1, pa je 3 + 2 + 1 = 6 rukovanja.",
+      "savjet": "Nabroji parove sustavno: prvo dijete sa svima, zatim drugo s onima koji su ostali."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-039",
+      "tezina": "srednje",
+      "pitanje": "Tin ima 50 €. Kupio je 3 knjige, a svaka je stajala 12 €. Odredi koliko mu je novca ostalo.",
+      "ponudeni": [
+        "38 €",
+        "36 €",
+        "16 €",
+        "14 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Knjige su stajale 3 · 12 € = 36 €, a ostalo je 50 € − 36 € = 14 €.",
+      "savjet": "Prvo izračunaj koliko su stajale sve knjige zajedno."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-040",
+      "tezina": "srednje",
+      "pitanje": "Mara i Dino imaju zajedno 40 klikera. Dino ima 3 puta više klikera od Mare. Odredi koliko klikera ima Mara.",
+      "ponudeni": [
+        "30 klikera",
+        "10 klikera",
+        "13 klikera",
+        "20 klikera"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Marini su klikeri 1 dio, a Dinovi 3 dijela, ukupno 4 dijela. Jedan dio je 40 : 4 = 10 klikera.",
+      "savjet": "Nacrtaj Marine klikere kao jedan dio, a Dinove kao tri takva dijela."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-041",
+      "tezina": "srednje",
+      "pitanje": "Odredi sljedeći broj u nizu 1, 2, 4, 7, 11, 16, …",
+      "ponudeni": [
+        "22",
+        "21",
+        "20",
+        "23"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dodaje se redom 1, 2, 3, 4, 5, pa sada treba dodati 6: 16 + 6 = 22.",
+      "savjet": "Zapiši razlike između susjednih brojeva i potraži pravilo u njima."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-042",
+      "tezina": "srednje",
+      "pitanje": "Odredi sljedeći broj u nizu 2, 5, 4, 7, 6, 9, …",
+      "ponudeni": [
+        "12",
+        "8",
+        "11",
+        "10"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Naizmjence se dodaje 3 i oduzima 1. Nakon 9 slijedi oduzimanje: 9 − 1 = 8.",
+      "savjet": "Pogledaj kako se mijenja svaki broj: možda se izmjenjuju dva različita koraka."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-043",
+      "tezina": "srednje",
+      "pitanje": "Koje pravilo vrijedi za niz 1, 3, 7, 15, 31?",
+      "ponudeni": [
+        "Prethodnom broju dodaj 2.",
+        "Prethodni broj pomnoži s 3.",
+        "Prethodni broj pomnoži s 2 i dodaj 1.",
+        "Prethodnom broju dodaj 4."
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 · 2 + 1 = 3, 3 · 2 + 1 = 7, 7 · 2 + 1 = 15 i 15 · 2 + 1 = 31.",
+      "savjet": "Svako pravilo provjeri na svim susjednim parovima, a ne samo na prvom."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-044",
+      "tezina": "srednje",
+      "pitanje": "Sara je potrošila polovinu svog novca, a zatim još 5 €. Ostalo joj je 12 €. Odredi koliko je novca Sara imala na početku.",
+      "ponudeni": [
+        "29 €",
+        "17 €",
+        "24 €",
+        "34 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Unatrag: 12 € + 5 € = 17 € bila je polovina novca, pa je imala 17 € · 2 = 34 €.",
+      "savjet": "Kreni od kraja i poništavaj korake obrnutim redom."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-045",
+      "tezina": "srednje",
+      "pitanje": "Knjižnica je imala 12 500 knjiga. Kupila je još 3750 knjiga, a zatim je 1250 starih knjiga otpisala. Odredi koliko knjiga sada ima.",
+      "ponudeni": [
+        "17 500 knjiga",
+        "16 250 knjiga",
+        "15 000 knjiga",
+        "13 750 knjiga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "12 500 + 3750 = 16 250, a zatim 16 250 − 1250 = 15 000 knjiga.",
+      "savjet": "Kupljene knjige dodaj, a otpisane oduzmi."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-046",
+      "tezina": "srednje",
+      "pitanje": "U 6 kutija nalazi se po 24 bojice. Sve su bojice jednako raspoređene u 8 pernica. Odredi broj bojica u jednoj pernici.",
+      "ponudeni": [
+        "18 bojica",
+        "144 bojice",
+        "16 bojica",
+        "20 bojica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ukupno je 6 · 24 = 144 bojice, a u jednoj pernici je 144 : 8 = 18 bojica.",
+      "savjet": "Prvo odredi koliko je bojica ukupno, a zatim ih podijeli."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-047",
+      "tezina": "srednje",
+      "pitanje": "Lovro ima 8 godina, a tata je 4 puta stariji od njega. Odredi koliko će godina tata imati kad Lovro bude imao 15 godina.",
+      "ponudeni": [
+        "60 godina",
+        "32 godine",
+        "47 godina",
+        "39 godina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tata sada ima 8 · 4 = 32 godine. Lovro će imati 15 godina za 7 godina, pa će tata imati 32 + 7 = 39 godina.",
+      "savjet": "Odredi tatine godine danas i za koliko će godina Lovro imati zadane godine."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-048",
+      "tezina": "srednje",
+      "pitanje": "Toma, Karlo, Nika i Rea stoje u redu. Toma je prvi. Nika nije zadnja. Rea stoji odmah iza Karla. Tko je zadnji u redu?",
+      "ponudeni": [
+        "Nika",
+        "Rea",
+        "Karlo",
+        "Toma"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Karlo i Rea stoje na 2. i 3. ili na 3. i 4. mjestu. U prvom slučaju Nika bi bila zadnja, pa je poredak Toma, Nika, Karlo, Rea.",
+      "savjet": "Pokušaj s mogućim poretcima i odbaci one koji ne ispunjavaju sve uvjete."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-049",
+      "tezina": "srednje",
+      "pitanje": "Zbroj triju uzastopnih prirodnih brojeva je 45. Odredi najveći od tih brojeva.",
+      "ponudeni": [
+        "16",
+        "15",
+        "14",
+        "17"
+      ],
+      "tocan": 0,
+      "objasnjenje": "To su brojevi 14, 15 i 16 jer je 14 + 15 + 16 = 45. Najveći je 16.",
+      "savjet": "Pokušaj: srednji broj je trećina zbroja, a susjedi su za 1 manji i za 1 veći."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-050",
+      "tezina": "srednje",
+      "pitanje": "Od šibica se slažu kvadrati u jednom redu tako da susjedni kvadrati dijele stranicu. Za 1 kvadrat trebaju 4 šibice, a za 2 kvadrata 7 šibica. Odredi broj šibica za 5 kvadrata.",
+      "ponudeni": [
+        "20 šibica",
+        "16 šibica",
+        "19 šibica",
+        "15 šibica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi kvadrat traži 4 šibice, a svaki sljedeći još 3, pa je 4 + 4 · 3 = 16 šibica.",
+      "savjet": "Nacrtaj tri kvadrata u redu i uoči koliko šibica dodaje svaki novi kvadrat."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-051",
+      "tezina": "srednje",
+      "pitanje": "Vlak ima 3 vagona s po 64 putnika. Na stanici je izašlo 37 putnika. Odredi koliko je putnika ostalo u vlaku.",
+      "ponudeni": [
+        "165 putnika",
+        "229 putnika",
+        "155 putnika",
+        "145 putnika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U vlaku je bilo 3 · 64 = 192 putnika, a ostalo ih je 192 − 37 = 155.",
+      "savjet": "Prvo izračunaj koliko je putnika bilo u svim vagonima."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-052",
+      "tezina": "srednje",
+      "pitanje": "Za doručak biraš jedan napitak (mlijeko ili čaj), jedno pecivo (kroasan ili kiflu) i jedno voće (jabuku ili bananu). Odredi broj različitih doručaka.",
+      "ponudeni": [
+        "6 doručaka",
+        "3 doručka",
+        "12 doručaka",
+        "8 doručaka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Napitak i pecivo daju 2 · 2 = 4 para, a uz svaki par idu 2 voća: 4 · 2 = 8 doručaka.",
+      "savjet": "Nacrtaj stablo mogućnosti: napitak se grana na peciva, a svako pecivo na voće."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-053",
+      "tezina": "srednje",
+      "pitanje": "Ema je u ponedjeljak pročitala 25 stranica knjige, a u utorak dvostruko više. Do kraja knjige ostalo joj je 30 stranica. Odredi broj stranica knjige.",
+      "ponudeni": [
+        "80 stranica",
+        "75 stranica",
+        "105 stranica",
+        "135 stranica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U utorak je pročitala 25 · 2 = 50 stranica, pa knjiga ima 25 + 50 + 30 = 105 stranica.",
+      "savjet": "Nacrtaj knjigu kao traku podijeljenu na pročitane i nepročitane dijelove."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-054",
+      "tezina": "srednje",
+      "pitanje": "Odredi 10. broj u nizu 4, 7, 10, 13, …",
+      "ponudeni": [
+        "31",
+        "34",
+        "30",
+        "28"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od 1. do 10. broja broj 3 dodaje se 9 puta: 4 + 9 · 3 = 31.",
+      "savjet": "Uoči koliko puta treba dodati isti broj da od prvog dođeš do desetog broja."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-055",
+      "tezina": "srednje",
+      "pitanje": "Kamp je u lipnju imao 18 450 gostiju, a u srpnju dvostruko više. Odredi broj gostiju u ta dva mjeseca zajedno.",
+      "ponudeni": [
+        "36 900 gostiju",
+        "54 350 gostiju",
+        "37 350 gostiju",
+        "55 350 gostiju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U srpnju je bilo 18 450 · 2 = 36 900 gostiju, a zajedno 18 450 + 36 900 = 55 350.",
+      "savjet": "Prvo izračunaj broj gostiju u srpnju, a zatim zbroji oba mjeseca."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-056",
+      "tezina": "srednje",
+      "pitanje": "Zbroj znamenaka dvoznamenkastog broja je 9, a znamenka desetica za 5 je veća od znamenke jedinica. Odredi taj broj.",
+      "ponudeni": [
+        "27",
+        "72",
+        "63",
+        "81"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znamenke 7 i 2 daju zbroj 9 i razliku 5, a desetica je veća, pa je broj 72.",
+      "savjet": "Popiši parove znamenaka sa zbrojem 9 i potraži onaj s razlikom 5."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-057",
+      "tezina": "srednje",
+      "pitanje": "Tri jednake bilježnice i jedna olovka zajedno koštaju 11 €. Olovka košta 2 €. Odredi cijenu jedne bilježnice.",
+      "ponudeni": [
+        "3 €",
+        "9 €",
+        "4 €",
+        "5 €"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bilježnice koštaju 11 € − 2 € = 9 €, a jedna 9 € : 3 = 3 €.",
+      "savjet": "Prvo oduzmi cijenu olovke, a zatim ostatak podijeli na bilježnice."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-058",
+      "tezina": "srednje",
+      "pitanje": "Prije 3 godine Nina je imala 7 godina. Odredi koliko će godina Nina imati za 5 godina.",
+      "ponudeni": [
+        "12 godina",
+        "15 godina",
+        "10 godina",
+        "9 godina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sada Nina ima 7 + 3 = 10 godina, a za 5 godina imat će 10 + 5 = 15 godina.",
+      "savjet": "Prvo odredi koliko godina Nina ima danas."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-059",
+      "tezina": "srednje",
+      "pitanje": "Put od Ivine kuće do škole dug je 1200 m. Iva je prešla trećinu puta, a zatim još 300 m. Odredi koliko joj je metara ostalo do škole.",
+      "ponudeni": [
+        "800 m",
+        "900 m",
+        "500 m",
+        "700 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trećina puta je 1200 : 3 = 400 m. Prešla je 400 + 300 = 700 m, a ostalo je 1200 − 700 = 500 m.",
+      "savjet": "Nacrtaj put kao dužinu podijeljenu na tri jednaka dijela i označi prijeđeni dio."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-060",
+      "tezina": "srednje",
+      "pitanje": "U 4 kamiona jednako je raspoređeno 24 000 boca. U svakom su kamionu boce složene u 20 jednakih sanduka. Odredi broj boca u jednom sanduku.",
+      "ponudeni": [
+        "600 boca",
+        "3000 boca",
+        "1200 boca",
+        "300 boca"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U jednom je kamionu 24 000 : 4 = 6000 boca, a u jednom sanduku 6000 : 20 = 300 boca.",
+      "savjet": "Prvo odredi koliko je boca u jednom kamionu."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-061",
+      "tezina": "tesko",
+      "pitanje": "Uz ravnu stazu dugu 60 m postavljeni su stupovi svakih 5 m. Stup stoji i na početku i na kraju staze. Odredi broj stupova.",
+      "ponudeni": [
+        "12 stupova",
+        "11 stupova",
+        "13 stupova",
+        "14 stupova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Staza ima 60 : 5 = 12 razmaka, a stupova je jedan više nego razmaka, dakle 13.",
+      "savjet": "Nacrtaj kraću stazu sa stupovima i usporedi broj stupova s brojem razmaka."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-062",
+      "tezina": "tesko",
+      "pitanje": "Oko okrugle livade postavljena su 24 stupa. Razmak između svaka dva susjedna stupa je 3 m. Odredi duljinu ograde oko livade.",
+      "ponudeni": [
+        "72 m",
+        "69 m",
+        "75 m",
+        "27 m"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zatvorenom krugu razmaka ima jednako kao stupova, dakle 24, pa je ograda duga 24 · 3 m = 72 m.",
+      "savjet": "Nacrtaj krug sa samo 4 stupa i prebroji razmake: je li ih jednako ili jedan manje?"
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-063",
+      "tezina": "tesko",
+      "pitanje": "Kvadratni vrt ima stranicu 12 m. Oko vrta su postavljeni stupovi svaka 3 m, a u svakom vrhu kvadrata stoji stup. Odredi ukupan broj stupova.",
+      "ponudeni": [
+        "20 stupova",
+        "17 stupova",
+        "15 stupova",
+        "16 stupova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opseg vrta je 4 · 12 m = 48 m, a oko zatvorenog lika stupova je koliko i razmaka: 48 : 3 = 16.",
+      "savjet": "Pazi da stup u vrhu ne brojiš dvaput, jer pripada dvjema stranicama."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-064",
+      "tezina": "tesko",
+      "pitanje": "S obje strane ulice duge 100 m posađena su stabla svakih 10 m, uključujući početak i kraj ulice. Odredi ukupan broj stabala.",
+      "ponudeni": [
+        "20 stabala",
+        "22 stabla",
+        "11 stabala",
+        "21 stablo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na jednoj strani je 100 : 10 + 1 = 11 stabala, a na obje strane 2 · 11 = 22 stabla.",
+      "savjet": "Prvo odredi broj stabala na jednoj strani ulice, a zatim misli na drugu stranu."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-065",
+      "tezina": "tesko",
+      "pitanje": "Jedan rez trupca traje 4 min. Odredi koliko minuta treba da se trupac razreže na 6 dijelova.",
+      "ponudeni": [
+        "20 min",
+        "24 min",
+        "28 min",
+        "16 min"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za 6 dijelova potrebno je 5 rezova, a to traje 5 · 4 min = 20 min.",
+      "savjet": "Nacrtaj trupac i prebroji koliko rezova treba za zadani broj dijelova."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-066",
+      "tezina": "tesko",
+      "pitanje": "Lucija se stubama s 1. na 3. kat popne za 40 s. Odredi za koliko se sekundi istim tempom popne s 1. na 6. kat.",
+      "ponudeni": [
+        "120 s",
+        "100 s",
+        "80 s",
+        "60 s"
+      ],
+      "tocan": 1,
+      "objasnjenje": "S 1. na 3. kat su 2 stubišta, pa jedno traje 20 s. S 1. na 6. kat je 5 stubišta: 5 · 20 s = 100 s.",
+      "savjet": "Nacrtaj katove jedan iznad drugoga i prebroji stubišta između njih."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-067",
+      "tezina": "tesko",
+      "pitanje": "Puž je na dnu zida visokog 10 m. Svakog dana popne se 3 m, a svake noći sklizne 2 m. Kojeg će dana puž prvi put doći na vrh zida?",
+      "ponudeni": [
+        "10. dana",
+        "7. dana",
+        "8. dana",
+        "9. dana"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon 7 dana i 7 noći puž je na 7 m. Osmog dana popne se 3 m i dođe do 10 m, na vrh.",
+      "savjet": "Nacrtaj zid i prati puža dan po dan; pazi da na vrhu više ne sklizne."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-068",
+      "tezina": "tesko",
+      "pitanje": "Toma je zamislio broj. Pomnožio ga je s 4, od umnoška oduzeo 6, a razliku podijelio s 2. Dobio je 21. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "9",
+        "13",
+        "15",
+        "12"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Unatrag: 21 · 2 = 42, 42 + 6 = 48, 48 : 4 = 12. Provjera: 12 · 4 − 6 = 42, 42 : 2 = 21.",
+      "savjet": "Kreni od kraja i svaki korak poništi suprotnom operacijom, obrnutim redom."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-069",
+      "tezina": "tesko",
+      "pitanje": "Klara je polovinu novca potrošila na knjigu, zatim 8 € na užinu, a onda polovinu ostatka na kino. Ostalo joj je 6 €. Odredi koliko je novca imala.",
+      "ponudeni": [
+        "28 €",
+        "36 €",
+        "40 €",
+        "22 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Unatrag: prije kina imala je 6 € · 2 = 12 €, prije užine 12 € + 8 € = 20 €, a na početku 20 € · 2 = 40 €.",
+      "savjet": "Kreni od kraja: poništi kino, zatim užinu, pa knjigu."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-070",
+      "tezina": "tesko",
+      "pitanje": "Zbroj dvaju brojeva je 150, a razlika im je 34. Odredi veći broj.",
+      "ponudeni": [
+        "92",
+        "58",
+        "184",
+        "116"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bez razlike ostaje 150 − 34 = 116, što su dva jednaka manja broja: 116 : 2 = 58. Veći je 58 + 34 = 92.",
+      "savjet": "Nacrtaj dvije trake: duža je kraća traka plus razlika. Prvo ukloni razliku iz zbroja."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-071",
+      "tezina": "tesko",
+      "pitanje": "Ivan i Petra zajedno imaju 86 €. Petra ima 14 € više od Ivana. Odredi koliko eura ima Ivan.",
+      "ponudeni": [
+        "50 €",
+        "72 €",
+        "43 €",
+        "36 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bez Petrinih 14 € više ostaje 86 € − 14 € = 72 €, a to su dva jednaka dijela: 72 € : 2 = 36 €.",
+      "savjet": "Nacrtaj dvije trake: Petrina je jednaka Ivanovoj i još malo dulja."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-072",
+      "tezina": "tesko",
+      "pitanje": "Mama i kći zajedno imaju 48 godina. Mama je 26 godina starija od kćeri. Odredi koliko godina ima kći.",
+      "ponudeni": [
+        "37 godina",
+        "11 godina",
+        "22 godine",
+        "13 godina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "48 − 26 = 22 su dvostruke godine kćeri, pa kći ima 22 : 2 = 11 godina, a mama 37.",
+      "savjet": "Od zbroja godina najprije oduzmi razliku, pa ostatak podijeli na dva jednaka dijela."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-073",
+      "tezina": "tesko",
+      "pitanje": "U dvorištu su kokoši i zečevi. Ukupno imaju 10 glava i 32 noge. Odredi broj kokoši.",
+      "ponudeni": [
+        "4 kokoši",
+        "6 kokoši",
+        "8 kokoši",
+        "5 kokoši"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Četiri kokoši i šest zečeva imaju 10 glava i 4 · 2 + 6 · 4 = 8 + 24 = 32 noge.",
+      "savjet": "Pokušaj s nekim brojem kokoši, prebroji noge pa popravljaj procjenu."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-074",
+      "tezina": "tesko",
+      "pitanje": "U parku je ukupno 9 bicikala i tricikala. Zajedno imaju 22 kotača. Odredi broj tricikala.",
+      "ponudeni": [
+        "5 tricikala",
+        "4 tricikla",
+        "3 tricikla",
+        "6 tricikala"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pet bicikala i četiri tricikla imaju 5 · 2 + 4 · 3 = 10 + 12 = 22 kotača.",
+      "savjet": "Zamisli da su sva vozila bicikli, prebroji kotače i razmisli koliko ih nedostaje."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-075",
+      "tezina": "tesko",
+      "pitanje": "Zbroj dvaju brojeva je 96, a jedan je broj 3 puta veći od drugoga. Odredi veći broj.",
+      "ponudeni": [
+        "24",
+        "32",
+        "72",
+        "64"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Manji je broj 1 dio, a veći 3 dijela, ukupno 4 dijela. Dio je 96 : 4 = 24, a veći broj 3 · 24 = 72.",
+      "savjet": "Nacrtaj manji broj kao jednu traku, a veći kao tri takve trake."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-076",
+      "tezina": "tesko",
+      "pitanje": "Tata je 4 puta stariji od sina i 27 godina stariji od njega. Odredi koliko godina ima sin.",
+      "ponudeni": [
+        "36 godina",
+        "27 godina",
+        "12 godina",
+        "9 godina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sin je 1 dio, a tata 4 dijela, pa je razlika 3 dijela. Jedan dio je 27 : 3 = 9 godina.",
+      "savjet": "Nacrtaj sinove godine kao jednu traku, a tatine kao četiri takve trake."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-077",
+      "tezina": "tesko",
+      "pitanje": "Ana ima 6 godina, a mama 30 godina. Odredi za koliko će godina mama biti 3 puta starija od Ane.",
+      "ponudeni": [
+        "za 4 godine",
+        "za 8 godina",
+        "za 6 godina",
+        "za 12 godina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za 6 godina Ana će imati 12, a mama 36 godina, a 36 = 3 · 12.",
+      "savjet": "Pokušaj redom: dodaj objema jednak broj godina i provjeri je li mama 3 puta starija."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-078",
+      "tezina": "tesko",
+      "pitanje": "Odredi koliko troznamenkastih brojeva možeš napisati znamenkama 0, 1 i 2 ako se svaka znamenka u broju pojavljuje točno jednom.",
+      "ponudeni": [
+        "4",
+        "6",
+        "3",
+        "9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "To su 102, 120, 201 i 210. Broj ne može počinjati nulom, pa ih je 4.",
+      "savjet": "Popiši sve mogućnosti i razmisli smije li troznamenkasti broj počinjati nulom."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-079",
+      "tezina": "tesko",
+      "pitanje": "Odredi na koliko načina možeš platiti točno 10 € kovanicama od 1 € i 2 €. Smiješ koristiti i samo jednu vrstu kovanica.",
+      "ponudeni": [
+        "5 načina",
+        "10 načina",
+        "4 načina",
+        "6 načina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kovanica od 2 € može biti 0, 1, 2, 3, 4 ili 5, a ostatak se plati kovanicama od 1 €. To je 6 načina.",
+      "savjet": "Popiši sustavno: kreni bez kovanica od 2 €, pa dodaj po jednu dok možeš."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-080",
+      "tezina": "tesko",
+      "pitanje": "Odredi sljedeći broj u nizu 1, 1, 2, 3, 5, 8, 13, …",
+      "ponudeni": [
+        "18",
+        "21",
+        "20",
+        "26"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svaki je broj zbroj dvaju prethodnih, pa slijedi 8 + 13 = 21.",
+      "savjet": "Usporedi svaki broj s dvama brojevima ispred njega."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-081",
+      "tezina": "tesko",
+      "pitanje": "Odredi 50. broj u nizu 5, 9, 13, 17, …",
+      "ponudeni": [
+        "201",
+        "205",
+        "200",
+        "197"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od 1. do 50. broja broj 4 dodaje se 49 puta: 5 + 49 · 4 = 5 + 196 = 201.",
+      "savjet": "Uoči koliko je koraka od prvog do traženog broja; to je jedan manje od njegova mjesta."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-082",
+      "tezina": "tesko",
+      "pitanje": "Riječ KVIZ piše se bez razmaka više puta zaredom: KVIZKVIZKVIZ… Koje je slovo na 102. mjestu?",
+      "ponudeni": [
+        "K",
+        "V",
+        "I",
+        "Z"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Skupina od 4 slova do 100. mjesta ponovi se 25 puta, pa je 101. slovo K, a 102. slovo V.",
+      "savjet": "Uoči koliko slova ima skupina koja se ponavlja i gdje završava zadnja cijela skupina."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-083",
+      "tezina": "tesko",
+      "pitanje": "Danas je ponedjeljak. Koji će dan u tjednu biti za 100 dana?",
+      "ponudeni": [
+        "utorak",
+        "četvrtak",
+        "srijeda",
+        "ponedjeljak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "100 dana je 14 tjedana i još 2 dana (14 · 7 = 98). Za 98 dana opet je ponedjeljak, a 2 dana kasnije srijeda.",
+      "savjet": "Razmisli koliko cijelih tjedana stane u zadani broj dana i koliko dana preostaje."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-084",
+      "tezina": "tesko",
+      "pitanje": "Lea, Dino, Maks i Iva trčali su utrku. Lea nije pobijedila. Dino je stigao odmah iza Lee. Maks je stigao posljednji. Tko je pobijedio?",
+      "ponudeni": [
+        "Lea",
+        "Dino",
+        "Maks",
+        "Iva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Maks je 4. Lea nije 1., a Dino je odmah iza nje, pa su Lea 2. i Dino 3. Prva je Iva.",
+      "savjet": "Nacrtaj četiri mjesta na cilju i popunjavaj ih redom od najsigurnijeg podatka."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-085",
+      "tezina": "tesko",
+      "pitanje": "Troje djece zajedno ima 30 godina. Svako je dijete 2 godine starije od sljedećeg mlađeg. Odredi koliko godina ima najstarije dijete.",
+      "ponudeni": [
+        "10 godina",
+        "14 godina",
+        "12 godina",
+        "11 godina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djeca imaju 8, 10 i 12 godina jer je 8 + 10 + 12 = 30, a razlike su po 2 godine.",
+      "savjet": "Pokušaj: srednje dijete ima trećinu zbroja, a ostala dvoje su za razliku mlađe i starije."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-086",
+      "tezina": "tesko",
+      "pitanje": "Ujutro je u skladište dovezeno 3000 kg brašna, a tijekom dana prodano je 4750 kg. Navečer je ostalo 2500 kg. Odredi koliko je brašna bilo prije dovoza.",
+      "ponudeni": [
+        "4250 kg",
+        "10 250 kg",
+        "750 kg",
+        "7250 kg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Unatrag: 2500 kg + 4750 kg = 7250 kg bilo je nakon dovoza, a prije dovoza 7250 kg − 3000 kg = 4250 kg.",
+      "savjet": "Kreni od kraja: prodano vrati, a dovezeno oduzmi."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-087",
+      "tezina": "tesko",
+      "pitanje": "Prvi dan ubrana je polovina jabuka sa stabla, drugi dan polovina preostalih, a treći dan 10 jabuka. Na stablu je ostalo 5 jabuka. Odredi broj jabuka na početku.",
+      "ponudeni": [
+        "30 jabuka",
+        "45 jabuka",
+        "40 jabuka",
+        "60 jabuka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Unatrag: prije trećeg dana 5 + 10 = 15, prije drugog 15 · 2 = 30, a na početku 30 · 2 = 60 jabuka.",
+      "savjet": "Kreni od kraja i poništavaj dan po dan, od trećeg prema prvom."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-088",
+      "tezina": "tesko",
+      "pitanje": "Tri jednake bilježnice i dvije jednake olovke koštaju 13 €. Bilježnica je 1 € skuplja od olovke. Odredi cijenu jedne bilježnice.",
+      "ponudeni": [
+        "2 €",
+        "3 €",
+        "4 €",
+        "5 €"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ako olovka košta 2 €, bilježnica košta 3 €, a 3 · 3 € + 2 · 2 € = 9 € + 4 € = 13 €.",
+      "savjet": "Pokušaj s nekom cijenom olovke, izračunaj ukupnu cijenu i popravljaj procjenu."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-089",
+      "tezina": "tesko",
+      "pitanje": "Lana, Ivo i Sara imaju zajedno 120 sličica. Ivo ima 2 puta više sličica od Lane, a Sara 3 puta više od Lane. Odredi koliko sličica ima Sara.",
+      "ponudeni": [
+        "60 sličica",
+        "40 sličica",
+        "20 sličica",
+        "30 sličica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lana ima 1 dio, Ivo 2, a Sara 3 dijela, ukupno 6 dijelova. Dio je 120 : 6 = 20, a Sara ima 3 · 20 = 60.",
+      "savjet": "Nacrtaj Lanine sličice kao jednu traku, a Ivine i Sarine kao više takvih traka."
+    },
+    {
+      "id": "4-matematika-problemski-zadaci-090",
+      "tezina": "tesko",
+      "pitanje": "Ograda ima 8 stupova u ravnom redu, a od prvog do zadnjeg stupa duga je 42 m. Razmaci među susjednim stupovima su jednaki. Odredi jedan razmak.",
+      "ponudeni": [
+        "7 m",
+        "6 m",
+        "5 m",
+        "4 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Između 8 stupova u redu ima 7 razmaka, pa je jedan razmak 42 m : 7 = 6 m.",
+      "savjet": "Nacrtaj stupove i prebroji razmake među njima prije dijeljenja."
+    }
+  ]
+}

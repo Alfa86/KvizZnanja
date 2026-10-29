@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "redoslijed-racunskih-operacija",
+  "pitanja": [
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-001",
+      "tezina": "lagano",
+      "pitanje": "Koju računsku operaciju izvodiš prvu u izrazu 8 + 4 · 5?",
+      "ponudeni": [
+        "zbrajanje",
+        "množenje",
+        "oduzimanje",
+        "dijeljenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Množenje se izvodi prije zbrajanja, pa se prvo računa 4 · 5 = 20, a zatim 8 + 20 = 28.",
+      "savjet": "Sjeti se koje računske operacije imaju prednost kad u izrazu nema zagrada."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-002",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 24 + 6 · 5.",
+      "ponudeni": [
+        "54",
+        "150",
+        "59",
+        "35"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se množi: 6 · 5 = 30. Zatim se zbraja: 24 + 30 = 54.",
+      "savjet": "Prije zbrajanja izračunaj umnožak."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-003",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 20 − 12 : 4.",
+      "ponudeni": [
+        "2",
+        "23",
+        "17",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo se dijeli: 12 : 4 = 3. Zatim se oduzima: 20 − 3 = 17.",
+      "savjet": "Dijeljenje ima prednost pred oduzimanjem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-004",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj (7 + 3) · 6.",
+      "ponudeni": [
+        "25",
+        "16",
+        "42",
+        "60"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se računa u zagradi: 7 + 3 = 10. Zatim 10 · 6 = 60.",
+      "savjet": "Najprije izračunaj ono što je u zagradi."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-005",
+      "tezina": "lagano",
+      "pitanje": "Što se prvo računa u izrazu sa zagradama?",
+      "ponudeni": [
+        "prva operacija slijeva",
+        "množenje izvan zagrade",
+        "računska operacija u zagradi",
+        "zadnja operacija zdesna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zagrade pokazuju što se računa najprije. Tek nakon zagrade računa se ostatak izraza prema redoslijedu računskih operacija.",
+      "savjet": "Razmisli čemu služe zagrade u izrazu."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-006",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 9 · 4 − 6.",
+      "ponudeni": [
+        "30",
+        "42",
+        "7",
+        "36"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se množi: 9 · 4 = 36. Zatim se oduzima: 36 − 6 = 30.",
+      "savjet": "Množenje se izvodi prije oduzimanja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-007",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 50 − 5 · 6.",
+      "ponudeni": [
+        "270",
+        "39",
+        "80",
+        "20"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se množi: 5 · 6 = 30. Zatim se oduzima: 50 − 30 = 20.",
+      "savjet": "Odredi koja se operacija izvodi prije oduzimanja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 36 : 4 + 5.",
+      "ponudeni": [
+        "4",
+        "14",
+        "9",
+        "41"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo se dijeli: 36 : 4 = 9. Zatim se zbraja: 9 + 5 = 14.",
+      "savjet": "Dijeljenje se izvodi prije zbrajanja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 45 : (4 + 5).",
+      "ponudeni": [
+        "14",
+        "9",
+        "50",
+        "5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se računa u zagradi: 4 + 5 = 9. Zatim 45 : 9 = 5.",
+      "savjet": "Najprije izračunaj zbroj u zagradi."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-010",
+      "tezina": "lagano",
+      "pitanje": "Koju računsku operaciju izvodiš prvu u izrazu (15 − 7) · 3?",
+      "ponudeni": [
+        "oduzimanje",
+        "množenje",
+        "zbrajanje",
+        "dijeljenje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oduzimanje je u zagradi, pa se računa prvo: 15 − 7 = 8. Zatim 8 · 3 = 24.",
+      "savjet": "Sjeti se što ima prednost čak i pred množenjem i dijeljenjem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-011",
+      "tezina": "lagano",
+      "pitanje": "Koju računsku operaciju izvodiš prvu u izrazu 18 − 12 : 3?",
+      "ponudeni": [
+        "oduzimanje",
+        "zbrajanje",
+        "dijeljenje",
+        "množenje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dijeljenje se izvodi prije oduzimanja: 12 : 3 = 4, a zatim 18 − 4 = 14.",
+      "savjet": "U izrazu nema zagrada, pa razmisli koje operacije imaju prednost."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-012",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 7 + 8 · 2.",
+      "ponudeni": [
+        "30",
+        "23",
+        "17",
+        "56"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo se množi: 8 · 2 = 16. Zatim se zbraja: 7 + 16 = 23.",
+      "savjet": "Prije zbrajanja izračunaj umnožak."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-013",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj (6 + 9) · 2.",
+      "ponudeni": [
+        "24",
+        "17",
+        "15",
+        "30"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se računa u zagradi: 6 + 9 = 15. Zatim 15 · 2 = 30.",
+      "savjet": "Zagrada se računa prije množenja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 40 − 10 − 5.",
+      "ponudeni": [
+        "25",
+        "35",
+        "45",
+        "55"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oduzimanje se izvodi slijeva nadesno: 40 − 10 = 30, a zatim 30 − 5 = 25.",
+      "savjet": "Kad su u izrazu samo zbrajanje i oduzimanje, računaj redom slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 48 : 6 : 2.",
+      "ponudeni": [
+        "16",
+        "12",
+        "4",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dijeli se slijeva nadesno: 48 : 6 = 8, a zatim 8 : 2 = 4.",
+      "savjet": "Dva dijeljenja zaredom računaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-016",
+      "tezina": "lagano",
+      "pitanje": "U kojem se izrazu prvo zbraja?",
+      "ponudeni": [
+        "5 + 4 · 3",
+        "(5 + 4) · 3",
+        "5 · 4 + 3",
+        "20 − 5 + 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U izrazu (5 + 4) · 3 zbrajanje je u zagradi, pa se izvodi prvo. U ostalim izrazima prvo se množi ili oduzima.",
+      "savjet": "Potraži izraz u kojem zbrajanje ima prednost pred ostalim operacijama."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 6 · 5 + 4 · 2.",
+      "ponudeni": [
+        "38",
+        "68",
+        "108",
+        "34"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se izračunaju oba umnoška: 6 · 5 = 30 i 4 · 2 = 8. Zatim 30 + 8 = 38.",
+      "savjet": "Najprije izračunaj oba umnoška, a zatim ih zbroji."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-018",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 100 − 40 : 5.",
+      "ponudeni": [
+        "12",
+        "8",
+        "108",
+        "92"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se dijeli: 40 : 5 = 8. Zatim se oduzima: 100 − 8 = 92.",
+      "savjet": "Dijeljenje ima prednost pred oduzimanjem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-019",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj (100 − 30) : 5.",
+      "ponudeni": [
+        "94",
+        "14",
+        "20",
+        "70"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo se računa u zagradi: 100 − 30 = 70. Zatim 70 : 5 = 14.",
+      "savjet": "Prvo izračunaj razliku u zagradi."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-020",
+      "tezina": "lagano",
+      "pitanje": "Kojim redom računaš u izrazu bez zagrada?",
+      "ponudeni": [
+        "prvo zbrajanje i oduzimanje, zatim množenje i dijeljenje",
+        "sve operacije redom slijeva nadesno",
+        "prvo množenje i dijeljenje, zatim zbrajanje i oduzimanje",
+        "prvo oduzimanje, zatim sve ostale operacije"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množenje i dijeljenje imaju prednost. Zbrajanje i oduzimanje izvode se nakon njih.",
+      "savjet": "Sjeti se koje operacije imaju prednost kad nema zagrada."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-021",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 3 · (9 − 4).",
+      "ponudeni": [
+        "15",
+        "23",
+        "8",
+        "5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se računa u zagradi: 9 − 4 = 5. Zatim 3 · 5 = 15.",
+      "savjet": "Prvo izračunaj razliku u zagradi, a zatim množi."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-022",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 12 + 18 : 3.",
+      "ponudeni": [
+        "10",
+        "33",
+        "6",
+        "18"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se dijeli: 18 : 3 = 6. Zatim se zbraja: 12 + 6 = 18.",
+      "savjet": "Prije zbrajanja izračunaj količnik."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-023",
+      "tezina": "lagano",
+      "pitanje": "Koju računsku operaciju izvodiš prvu u izrazu 30 − 6 + 4?",
+      "ponudeni": [
+        "zbrajanje",
+        "oduzimanje",
+        "množenje",
+        "dijeljenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrajanje i oduzimanje izvode se slijeva nadesno, pa je prvo 30 − 6 = 24, a zatim 24 + 4 = 28.",
+      "savjet": "Kad u izrazu nema zagrada, množenja ni dijeljenja, računaj redom slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-024",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 30 − (6 + 4).",
+      "ponudeni": [
+        "28",
+        "24",
+        "20",
+        "40"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo se računa u zagradi: 6 + 4 = 10. Zatim 30 − 10 = 20.",
+      "savjet": "Prvo izračunaj zbroj u zagradi, a zatim oduzmi."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-025",
+      "tezina": "lagano",
+      "pitanje": "Koji izraz ima vrijednost 20?",
+      "ponudeni": [
+        "(2 + 3) · 4",
+        "2 + 3 · 4",
+        "2 · 3 + 4",
+        "2 + 3 + 4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U izrazu (2 + 3) · 4 prvo se zbraja u zagradi, pa je 5 · 4 = 20. Izraz 2 + 3 · 4 ima vrijednost 14.",
+      "savjet": "Izračunaj svaki izraz pazeći na zagrade i na prednost množenja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 8 · 6 : 4.",
+      "ponudeni": [
+        "48",
+        "32",
+        "18",
+        "12"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Množenje i dijeljenje izvode se slijeva nadesno: 8 · 6 = 48, a zatim 48 : 4 = 12.",
+      "savjet": "Množenje i dijeljenje imaju jednaku prednost, pa računaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-027",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 5 + 5 · 5.",
+      "ponudeni": [
+        "50",
+        "30",
+        "15",
+        "125"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo se množi: 5 · 5 = 25. Zatim se zbraja: 5 + 25 = 30.",
+      "savjet": "Prije zbrajanja izračunaj umnožak."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-028",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 60 : 3 · 2.",
+      "ponudeni": [
+        "10",
+        "20",
+        "40",
+        "120"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dijeljenje i množenje računaju se slijeva nadesno: 60 : 3 = 20, a zatim 20 · 2 = 40.",
+      "savjet": "Množenje nema prednost pred dijeljenjem, pa računaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-029",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 9 + 6 − 4 · 2.",
+      "ponudeni": [
+        "7",
+        "22",
+        "13",
+        "11"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se množi: 4 · 2 = 8. Zatim slijeva nadesno: 9 + 6 = 15 i 15 − 8 = 7.",
+      "savjet": "Najprije izračunaj umnožak, a zatim zbrajaj i oduzimaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-030",
+      "tezina": "lagano",
+      "pitanje": "U kojem se izrazu prvo dijeli?",
+      "ponudeni": [
+        "(20 − 8) : 4",
+        "20 − 8 + 4",
+        "20 · 8 : 4",
+        "20 − 8 : 4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U izrazu 20 − 8 : 4 nema zagrada, pa se dijeljenje izvodi prije oduzimanja. U izrazu (20 − 8) : 4 prvo se oduzima u zagradi.",
+      "savjet": "Provjeri ima li u izrazu zagrada i koje operacije imaju prednost."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-031",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 45 − 5 · (3 + 4).",
+      "ponudeni": [
+        "280",
+        "34",
+        "10",
+        "38"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo zagrada: 3 + 4 = 7. Zatim množenje: 5 · 7 = 35. Na kraju 45 − 35 = 10.",
+      "savjet": "Redom: zagrada, zatim množenje, a na kraju oduzimanje."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-032",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 8 · 7 − 6 · 4.",
+      "ponudeni": [
+        "32",
+        "200",
+        "80",
+        "50"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se izračunaju oba umnoška: 8 · 7 = 56 i 6 · 4 = 24. Zatim 56 − 24 = 32.",
+      "savjet": "Izračunaj oba umnoška prije oduzimanja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-033",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 72 : 8 + 64 : 8.",
+      "ponudeni": [
+        "73",
+        "1",
+        "16",
+        "17"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se izračunaju oba količnika: 72 : 8 = 9 i 64 : 8 = 8. Zatim 9 + 8 = 17.",
+      "savjet": "Izračunaj oba količnika prije zbrajanja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-034",
+      "tezina": "srednje",
+      "pitanje": "Gdje treba staviti zagrade u izrazu 4 + 8 · 3 − 2 da bi njegova vrijednost bila 34?",
+      "ponudeni": [
+        "4 + 8 · (3 − 2)",
+        "(4 + 8) · 3 − 2",
+        "(4 + 8 · 3) − 2",
+        "(4 + 8) · (3 − 2)"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U izrazu (4 + 8) · 3 − 2 prvo je 4 + 8 = 12, zatim 12 · 3 = 36, a na kraju 36 − 2 = 34.",
+      "savjet": "Izračunaj vrijednost svakog ponuđenog izraza i usporedi je sa zadanim brojem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-035",
+      "tezina": "srednje",
+      "pitanje": "Ana ima 3 vrećice s po 6 bombona i još 4 bombona. Kojim izrazom računaš koliko bombona ima Ana?",
+      "ponudeni": [
+        "3 · 6 + 4",
+        "3 · (6 + 4)",
+        "(3 + 6) · 4",
+        "3 + 6 · 4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tri vrećice po 6 bombona su 3 · 6 = 18 bombona, a s još 4 bombona to je 3 · 6 + 4 = 22.",
+      "savjet": "Prvo razmisli koliko je bombona u vrećicama, a zatim dodaj ostale."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-036",
+      "tezina": "srednje",
+      "pitanje": "Usporedi vrijednosti izraza 20 − 8 + 2 i 20 − (8 + 2).",
+      "ponudeni": [
+        "drugi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 10",
+        "prvi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 14"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvi izraz računa se slijeva nadesno: 20 − 8 + 2 = 14. U drugom se prvo zbraja u zagradi: 20 − (8 + 2) = 10.",
+      "savjet": "Prvi izraz računaj slijeva nadesno, a u drugom najprije izračunaj zagradu."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj (36 − 6) : 6 + 4.",
+      "ponudeni": [
+        "39",
+        "9",
+        "3",
+        "34"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo zagrada: 36 − 6 = 30. Zatim dijeljenje: 30 : 6 = 5. Na kraju 5 + 4 = 9.",
+      "savjet": "Redom: zagrada, zatim dijeljenje, a na kraju zbrajanje."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 6 · (12 − 4) : 2.",
+      "ponudeni": [
+        "70",
+        "60",
+        "48",
+        "24"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo zagrada: 12 − 4 = 8. Zatim slijeva nadesno: 6 · 8 = 48 i 48 : 2 = 24.",
+      "savjet": "Nakon zagrade množenje i dijeljenje računaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-039",
+      "tezina": "srednje",
+      "pitanje": "Gdje treba staviti zagrade u izrazu 5 · 6 − 2 + 3 da bi njegova vrijednost bila 23?",
+      "ponudeni": [
+        "5 · 6 − (2 + 3)",
+        "(5 · 6 − 2) + 3",
+        "5 · (6 − 2) + 3",
+        "5 · (6 − 2 + 3)"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U izrazu 5 · (6 − 2) + 3 prvo je 6 − 2 = 4, zatim 5 · 4 = 20, a na kraju 20 + 3 = 23.",
+      "savjet": "Izračunaj vrijednost svakog ponuđenog izraza i usporedi je sa zadanim brojem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-040",
+      "tezina": "srednje",
+      "pitanje": "Luka je kupio 4 bilježnice po 7 eura i platio s 50 eura. Kojim izrazom računaš koliko je eura dobio natrag?",
+      "ponudeni": [
+        "50 − 4 · 7",
+        "(50 − 4) · 7",
+        "50 − 4 + 7",
+        "50 − (4 + 7)"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bilježnice stoje 4 · 7 = 28 eura, a to se oduzima od 50 eura: 50 − 4 · 7 = 22.",
+      "savjet": "Prvo razmisli koliko stoje sve bilježnice, a zatim što se oduzima od čega."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-041",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 90 − 30 : 3 · 2.",
+      "ponudeni": [
+        "40",
+        "85",
+        "20",
+        "70"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se dijeli i množi slijeva nadesno: 30 : 3 = 10 i 10 · 2 = 20. Zatim 90 − 20 = 70.",
+      "savjet": "Dijeljenje i množenje imaju prednost pred oduzimanjem i računaju se slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-042",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj (9 + 11) · (8 − 3).",
+      "ponudeni": [
+        "94",
+        "100",
+        "160",
+        "25"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo se računaju obje zagrade: 9 + 11 = 20 i 8 − 3 = 5. Zatim 20 · 5 = 100.",
+      "savjet": "Izračunaj obje zagrade, a zatim pomnoži dobivene brojeve."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-043",
+      "tezina": "srednje",
+      "pitanje": "Usporedi vrijednosti izraza 4 · 5 + 5 i 4 · (5 + 5).",
+      "ponudeni": [
+        "prvi izraz ima veću vrijednost",
+        "drugi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 25",
+        "oba izraza imaju vrijednost 40"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U prvom izrazu prvo se množi: 4 · 5 + 5 = 25. U drugom se prvo zbraja u zagradi: 4 · (5 + 5) = 40.",
+      "savjet": "U prvom izrazu množenje ima prednost, a u drugom zagrada."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-044",
+      "tezina": "srednje",
+      "pitanje": "Koji izraz ima vrijednost 12?",
+      "ponudeni": [
+        "18 − 6 : 2",
+        "(18 − 6) : 2",
+        "18 : 6 · 4",
+        "18 : (6 : 2)"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U izrazu 18 : 6 · 4 računa se slijeva nadesno: 18 : 6 = 3, a 3 · 4 = 12.",
+      "savjet": "Izračunaj svaki izraz i pazi na zagrade i na redoslijed slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-045",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 120 : (4 + 2) − 5.",
+      "ponudeni": [
+        "15",
+        "27",
+        "120",
+        "20"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo zagrada: 4 + 2 = 6. Zatim dijeljenje: 120 : 6 = 20. Na kraju 20 − 5 = 15.",
+      "savjet": "Redom: zagrada, zatim dijeljenje, a na kraju oduzimanje."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-046",
+      "tezina": "srednje",
+      "pitanje": "Mia je pročitala 25 stranica, a zatim još 3 dana po 15 stranica. Kojim izrazom računaš koliko je ukupno stranica pročitala?",
+      "ponudeni": [
+        "(25 + 3) · 15",
+        "25 · 3 + 15",
+        "25 + 3 + 15",
+        "25 + 3 · 15"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U 3 dana po 15 stranica Mia je pročitala 3 · 15 = 45 stranica, pa je ukupno 25 + 3 · 15 = 70.",
+      "savjet": "Razmisli što treba pomnožiti, a što samo dodati."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-047",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 7 · 8 − 7 · 6.",
+      "ponudeni": [
+        "294",
+        "14",
+        "98",
+        "2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo se izračunaju oba umnoška: 7 · 8 = 56 i 7 · 6 = 42. Zatim 56 − 42 = 14.",
+      "savjet": "Izračunaj oba umnoška prije oduzimanja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-048",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 100 − (25 + 35) : 4.",
+      "ponudeni": [
+        "85",
+        "10",
+        "15",
+        "40"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo zagrada: 25 + 35 = 60. Zatim dijeljenje: 60 : 4 = 15. Na kraju 100 − 15 = 85.",
+      "savjet": "Nakon zagrade dijeljenje ima prednost pred oduzimanjem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-049",
+      "tezina": "srednje",
+      "pitanje": "Gdje treba staviti zagrade u izrazu 2 · 3 + 4 · 5 da bi njegova vrijednost bila 70?",
+      "ponudeni": [
+        "(2 · 3 + 4) · 5",
+        "2 · (3 + 4 · 5)",
+        "2 · (3 + 4) · 5",
+        "(2 · 3) + 4 · 5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U izrazu 2 · (3 + 4) · 5 prvo je 3 + 4 = 7, zatim 2 · 7 = 14, a na kraju 14 · 5 = 70.",
+      "savjet": "Izračunaj vrijednost svakog ponuđenog izraza i usporedi je sa zadanim brojem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-050",
+      "tezina": "srednje",
+      "pitanje": "Koju računsku operaciju izvodiš posljednju u izrazu 40 − (12 + 8) : 4?",
+      "ponudeni": [
+        "zbrajanje",
+        "dijeljenje",
+        "množenje",
+        "oduzimanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo se zbraja u zagradi: 12 + 8 = 20. Zatim se dijeli: 20 : 4 = 5. Posljednje je oduzimanje: 40 − 5 = 35.",
+      "savjet": "Poredaj sve operacije prema pravilima redoslijeda i pogledaj koja ostaje za kraj."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-051",
+      "tezina": "srednje",
+      "pitanje": "Usporedi vrijednosti izraza 36 : 6 : 2 i 36 : (6 : 2).",
+      "ponudeni": [
+        "prvi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 3",
+        "drugi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 12"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvi izraz računa se slijeva nadesno: 36 : 6 : 2 = 3. U drugom se prvo dijeli u zagradi: 36 : (6 : 2) = 12.",
+      "savjet": "Prvi izraz računaj slijeva nadesno, a u drugom najprije izračunaj zagradu."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-052",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 15 + 5 · 4 − 10.",
+      "ponudeni": [
+        "70",
+        "25",
+        "45",
+        "20"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo se množi: 5 · 4 = 20. Zatim slijeva nadesno: 15 + 20 = 35 i 35 − 10 = 25.",
+      "savjet": "Najprije izračunaj umnožak, a zatim zbrajaj i oduzimaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-053",
+      "tezina": "srednje",
+      "pitanje": "Ivan ima 30 sličica. Dobio je još 18 sličica i sve podijelio na 6 jednakih hrpica. Kojim izrazom računaš koliko je sličica u jednoj hrpici?",
+      "ponudeni": [
+        "(30 + 18) : 6",
+        "30 + 18 : 6",
+        "30 : 6 + 18",
+        "30 + (18 : 6)"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na hrpice se dijele sve sličice, pa ih prvo treba zbrojiti: (30 + 18) : 6 = 8.",
+      "savjet": "Razmisli dijele li se samo nove sličice ili sve sličice zajedno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-054",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 81 : 9 · (5 − 2).",
+      "ponudeni": [
+        "43",
+        "3",
+        "45",
+        "27"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo zagrada: 5 − 2 = 3. Zatim slijeva nadesno: 81 : 9 = 9 i 9 · 3 = 27.",
+      "savjet": "Nakon zagrade dijeljenje i množenje računaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-055",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 64 − 8 · 5 + 6.",
+      "ponudeni": [
+        "30",
+        "286",
+        "18",
+        "110"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se množi: 8 · 5 = 40. Zatim slijeva nadesno: 64 − 40 = 24 i 24 + 6 = 30.",
+      "savjet": "Nakon množenja oduzimanje i zbrajanje računaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-056",
+      "tezina": "srednje",
+      "pitanje": "Koji izraz odgovara zadatku: „Zbroj brojeva 7 i 5 pomnoži s 3.“?",
+      "ponudeni": [
+        "7 + 5 · 3",
+        "(7 + 5) · 3",
+        "7 · 3 + 5",
+        "7 + (5 · 3)"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo treba izračunati zbroj, pa on mora biti u zagradi: (7 + 5) · 3 = 36.",
+      "savjet": "Razmisli što se računa prvo i kako to označiti u izrazu."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-057",
+      "tezina": "srednje",
+      "pitanje": "Koji izraz odgovara zadatku: „Od broja 50 oduzmi umnožak brojeva 6 i 4.“?",
+      "ponudeni": [
+        "(50 − 6) · 4",
+        "50 − 6 + 4",
+        "(50 − 4) · 6",
+        "50 − 6 · 4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umnožak se računa prije oduzimanja i bez zagrada, pa je izraz 50 − 6 · 4 = 26.",
+      "savjet": "Sjeti se izvodi li se množenje prije oduzimanja i bez zagrada."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-058",
+      "tezina": "srednje",
+      "pitanje": "Gdje treba staviti zagrade u izrazu 40 − 15 − 5 + 10 da bi njegova vrijednost bila 20?",
+      "ponudeni": [
+        "40 − (15 − 5) + 10",
+        "40 − 15 − (5 + 10)",
+        "40 − (15 − 5 + 10)",
+        "(40 − 15) − 5 + 10"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U izrazu 40 − (15 − 5 + 10) prvo je 15 − 5 + 10 = 20, a zatim 40 − 20 = 20.",
+      "savjet": "Izračunaj vrijednost svakog ponuđenog izraza i usporedi je sa zadanim brojem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-059",
+      "tezina": "srednje",
+      "pitanje": "Usporedi vrijednosti izraza 50 − 20 : 5 i (50 − 20) : 5.",
+      "ponudeni": [
+        "drugi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 6",
+        "oba izraza imaju vrijednost 46",
+        "prvi izraz ima veću vrijednost"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U prvom izrazu prvo se dijeli: 50 − 20 : 5 = 46. U drugom se prvo oduzima u zagradi: (50 − 20) : 5 = 6.",
+      "savjet": "U prvom izrazu dijeljenje ima prednost, a u drugom zagrada."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-060",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj (14 + 7) : 7 + 3 · 4.",
+      "ponudeni": [
+        "15",
+        "27",
+        "24",
+        "12"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo zagrada: 14 + 7 = 21. Zatim 21 : 7 = 3 i 3 · 4 = 12. Na kraju 3 + 12 = 15.",
+      "savjet": "Nakon zagrade izračunaj količnik i umnožak, a tek onda zbrajaj."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-061",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 250 − 4 · (35 + 15) : 5.",
+      "ponudeni": [
+        "113",
+        "2460",
+        "98",
+        "210"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo zagrada: 35 + 15 = 50. Zatim slijeva nadesno: 4 · 50 = 200 i 200 : 5 = 40. Na kraju 250 − 40 = 210.",
+      "savjet": "Redom: zagrada, zatim množenje i dijeljenje slijeva nadesno, a na kraju oduzimanje."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-062",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 1200 : (20 + 40) · 3.",
+      "ponudeni": [
+        "180",
+        "60",
+        "20",
+        "3600"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo zagrada: 20 + 40 = 60. Zatim slijeva nadesno: 1200 : 60 = 20 i 20 · 3 = 60.",
+      "savjet": "Nakon zagrade dijeljenje i množenje računaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-063",
+      "tezina": "tesko",
+      "pitanje": "Petra je kupila 3 majice po 12 eura i 2 kape po 8 eura. Platila je sa 100 eura. Kojim izrazom računaš koliko je eura dobila natrag?",
+      "ponudeni": [
+        "100 − (3 · 12 + 2 · 8)",
+        "100 − 3 · 12 + 2 · 8",
+        "(100 − 3) · 12 + 2 · 8",
+        "100 − (3 + 2) · (12 + 8)"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od 100 eura oduzima se cijena svih majica i kapa zajedno: 100 − (3 · 12 + 2 · 8) = 100 − 52 = 48.",
+      "savjet": "Razmisli što se sve oduzima od novca kojim je Petra platila."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-064",
+      "tezina": "tesko",
+      "pitanje": "Gdje treba staviti zagrade u izrazu 48 : 4 + 2 · 2 da bi njegova vrijednost bila 6?",
+      "ponudeni": [
+        "48 : (4 + 2) · 2",
+        "(48 : 4 + 2) · 2",
+        "48 : (4 + 2 · 2)",
+        "48 : 4 + (2 · 2)"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U zagradi se prvo množi: 4 + 2 · 2 = 8. Zatim 48 : 8 = 6.",
+      "savjet": "I unutar zagrade množenje ima prednost pred zbrajanjem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-065",
+      "tezina": "tesko",
+      "pitanje": "Koju računsku operaciju izvodiš treću u izrazu 60 − 4 · 5 + 30 : 6?",
+      "ponudeni": [
+        "množenje",
+        "oduzimanje",
+        "dijeljenje",
+        "zbrajanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo je 4 · 5 = 20, zatim 30 : 6 = 5. Treće je oduzimanje 60 − 20 = 40, a posljednje zbrajanje 40 + 5 = 45.",
+      "savjet": "Poredaj sve četiri operacije prema pravilima redoslijeda računskih operacija."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-066",
+      "tezina": "tesko",
+      "pitanje": "Usporedi vrijednosti izraza 12 · 6 : 3 i 12 · (6 : 3).",
+      "ponudeni": [
+        "prvi izraz ima veću vrijednost",
+        "drugi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 8",
+        "oba izraza imaju vrijednost 24"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvi izraz: 12 · 6 = 72 i 72 : 3 = 24. Drugi izraz: 6 : 3 = 2 i 12 · 2 = 24. Vrijednosti su jednake.",
+      "savjet": "Izračunaj oba izraza do kraja prije nego što odlučiš."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-067",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 5000 − 1000 : 4 · 2.",
+      "ponudeni": [
+        "2000",
+        "4875",
+        "4500",
+        "500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo se dijeli i množi slijeva nadesno: 1000 : 4 = 250 i 250 · 2 = 500. Zatim 5000 − 500 = 4500.",
+      "savjet": "Dijeljenje i množenje imaju prednost pred oduzimanjem i računaju se slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-068",
+      "tezina": "tesko",
+      "pitanje": "U školi je 6 razreda s po 24 učenika. Na izlet su otišli svi osim 18 učenika. Kojim izrazom računaš koliko je učenika otišlo na izlet?",
+      "ponudeni": [
+        "6 · 24 − 18",
+        "6 · (24 − 18)",
+        "6 + 24 − 18",
+        "6 + 24 · 18"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U školi je ukupno 6 · 24 = 144 učenika, a kad se oduzme 18, dobije se 6 · 24 − 18 = 126.",
+      "savjet": "Razmisli nedostaje li 18 učenika iz svakog razreda ili ukupno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-069",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj (125 + 75) · 4 − 600 : 3.",
+      "ponudeni": [
+        "225",
+        "600",
+        "1000",
+        "200"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo zagrada: 125 + 75 = 200. Zatim 200 · 4 = 800 i 600 : 3 = 200. Na kraju 800 − 200 = 600.",
+      "savjet": "Nakon zagrade izračunaj umnožak i količnik, a tek onda oduzimaj."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-070",
+      "tezina": "tesko",
+      "pitanje": "Koji izraz ima vrijednost 100?",
+      "ponudeni": [
+        "4 · 30 − 5",
+        "(4 + 30) · 5",
+        "4 + 30 · 5 − 5",
+        "4 · (30 − 5)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U izrazu 4 · (30 − 5) prvo je 30 − 5 = 25, a zatim 4 · 25 = 100.",
+      "savjet": "Izračunaj svaki izraz pazeći na zagrade i na prednost množenja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-071",
+      "tezina": "tesko",
+      "pitanje": "Gdje treba staviti zagrade u izrazu 90 − 30 : 3 + 3 da bi njegova vrijednost bila 85?",
+      "ponudeni": [
+        "90 − 30 : (3 + 3)",
+        "(90 − 30) : 3 + 3",
+        "(90 − 30) : (3 + 3)",
+        "90 − (30 : 3 + 3)"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U izrazu 90 − 30 : (3 + 3) prvo je 3 + 3 = 6, zatim 30 : 6 = 5, a na kraju 90 − 5 = 85.",
+      "savjet": "Izračunaj vrijednost svakog ponuđenog izraza i usporedi je sa zadanim brojem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-072",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 12 000 : (8 − 5) − 3000.",
+      "ponudeni": [
+        "4000",
+        "9000",
+        "1000",
+        "1500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo zagrada: 8 − 5 = 3. Zatim dijeljenje: 12 000 : 3 = 4000. Na kraju 4000 − 3000 = 1000.",
+      "savjet": "Redom: zagrada, zatim dijeljenje, a na kraju oduzimanje."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-073",
+      "tezina": "tesko",
+      "pitanje": "Marko je imao 200 eura. Kupio je 5 knjiga po 18 eura, a zatim je od bake dobio 30 eura. Kojim izrazom računaš koliko eura sada ima?",
+      "ponudeni": [
+        "200 − (5 · 18 + 30)",
+        "(200 − 5) · 18 + 30",
+        "200 − 18 + 5 · 30",
+        "200 − 5 · 18 + 30"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Knjige stoje 5 · 18 = 90 eura, što se oduzima, a 30 eura od bake se dodaje: 200 − 5 · 18 + 30 = 140.",
+      "savjet": "Razmisli što se oduzima, a što dodaje novcu koji je Marko imao."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-074",
+      "tezina": "tesko",
+      "pitanje": "Usporedi vrijednosti izraza 64 : 8 · 2 i 64 : (8 · 2).",
+      "ponudeni": [
+        "oba izraza imaju vrijednost 4",
+        "prvi izraz ima veću vrijednost",
+        "drugi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 16"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi izraz računa se slijeva nadesno: 64 : 8 · 2 = 16. U drugom se prvo množi u zagradi: 64 : (8 · 2) = 4.",
+      "savjet": "Bez zagrada dijeljenje i množenje računaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-075",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 7 · (48 − 39) + 63 : 9.",
+      "ponudeni": [
+        "70",
+        "304",
+        "14",
+        "126"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo zagrada: 48 − 39 = 9. Zatim 7 · 9 = 63 i 63 : 9 = 7. Na kraju 63 + 7 = 70.",
+      "savjet": "Nakon zagrade izračunaj umnožak i količnik, a tek onda zbrajaj."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-076",
+      "tezina": "tesko",
+      "pitanje": "Koji izraz ima najveću vrijednost?",
+      "ponudeni": [
+        "10 + 5 · 4 − 2",
+        "10 + 5 · (4 − 2)",
+        "(10 + 5) · 4 − 2",
+        "(10 + 5 · 4) − 2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijednost izraza (10 + 5) · 4 − 2 je 15 · 4 − 2 = 58. Ostali izrazi imaju vrijednosti 28, 20 i 28.",
+      "savjet": "Izračunaj vrijednost svakog izraza pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-077",
+      "tezina": "tesko",
+      "pitanje": "Koji izraz ima najmanju vrijednost?",
+      "ponudeni": [
+        "36 : 6 + 3",
+        "36 − 6 : 3",
+        "(36 − 6) : 3",
+        "36 : (6 + 3)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijednost izraza 36 : (6 + 3) je 36 : 9 = 4. Ostali izrazi imaju vrijednosti 9, 34 i 10.",
+      "savjet": "Izračunaj vrijednost svakog izraza pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-078",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 1000 − (250 + 150) : 8 · 5.",
+      "ponudeni": [
+        "990",
+        "375",
+        "750",
+        "250"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo zagrada: 250 + 150 = 400. Zatim slijeva nadesno: 400 : 8 = 50 i 50 · 5 = 250. Na kraju 1000 − 250 = 750.",
+      "savjet": "Nakon zagrade dijeljenje i množenje računaj slijeva nadesno, a tek onda oduzimaj."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-079",
+      "tezina": "tesko",
+      "pitanje": "Za izlet je skupljeno 360 eura. Prijevoz košta 120 eura, a ostatak se dijeli jednako na 8 ulaznica. Kojim izrazom računaš cijenu jedne ulaznice?",
+      "ponudeni": [
+        "(360 − 120) : 8",
+        "360 − 120 : 8",
+        "(360 + 120) : 8",
+        "360 : 8 + 120"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na ulaznice se dijeli samo ono što ostane nakon plaćanja prijevoza: (360 − 120) : 8 = 30.",
+      "savjet": "Razmisli što treba izračunati prije dijeljenja i kako to označiti u izrazu."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-080",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 45 + 15 · 6 − 81 : 9.",
+      "ponudeni": [
+        "31",
+        "144",
+        "54",
+        "126"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo 15 · 6 = 90 i 81 : 9 = 9. Zatim slijeva nadesno: 45 + 90 = 135 i 135 − 9 = 126.",
+      "savjet": "Najprije izračunaj umnožak i količnik, a zatim zbrajaj i oduzimaj slijeva nadesno."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-081",
+      "tezina": "tesko",
+      "pitanje": "Gdje treba staviti zagrade u izrazu 8 · 6 − 2 · 3 da bi njegova vrijednost bila najveća?",
+      "ponudeni": [
+        "8 · (6 − 2) · 3",
+        "8 · (6 − 2 · 3)",
+        "(8 · 6) − 2 · 3",
+        "(8 · 6 − 2) · 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izraz (8 · 6 − 2) · 3 ima vrijednost 46 · 3 = 138. Ostali izrazi imaju vrijednosti 96, 0 i 42.",
+      "savjet": "Izračunaj vrijednost svakog ponuđenog izraza pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-082",
+      "tezina": "tesko",
+      "pitanje": "Usporedi vrijednosti izraza 5000 − 2000 − 1000 i 5000 − (2000 − 1000).",
+      "ponudeni": [
+        "prvi izraz ima veću vrijednost",
+        "oba izraza imaju vrijednost 2000",
+        "oba izraza imaju vrijednost 4000",
+        "drugi izraz ima veću vrijednost"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvi izraz računa se slijeva nadesno: 5000 − 2000 − 1000 = 2000. U drugom se od 5000 oduzima samo razlika u zagradi, pa je 5000 − (2000 − 1000) = 4000.",
+      "savjet": "Razmisli koliko se ukupno oduzima od 5000 u svakom izrazu."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-083",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj (600 − 150 · 2) : 5.",
+      "ponudeni": [
+        "180",
+        "60",
+        "90",
+        "300"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U zagradi se prvo množi: 150 · 2 = 300, pa je 600 − 300 = 300. Zatim 300 : 5 = 60.",
+      "savjet": "I unutar zagrade množenje ima prednost pred oduzimanjem."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-084",
+      "tezina": "tesko",
+      "pitanje": "Koji zadatak odgovara izrazu (15 + 9) · 3?",
+      "ponudeni": [
+        "Broju 15 dodaj umnožak brojeva 9 i 3.",
+        "Umnožak brojeva 15 i 3 uvećaj za 9.",
+        "Zbroj brojeva 15 i 9 pomnoži s 3.",
+        "Zbroju brojeva 15 i 9 dodaj 3."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zagrada pokazuje da se prvo zbrajaju 15 i 9, a zatim se taj zbroj množi s 3.",
+      "savjet": "Pogledaj što je u zagradi i što se radi s rezultatom zagrade."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-085",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 3 · (20 − 4 · 5) + 18 : 6.",
+      "ponudeni": [
+        "243",
+        "43",
+        "0",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U zagradi se prvo množi: 20 − 4 · 5 = 20 − 20 = 0. Zatim 3 · 0 = 0 i 18 : 6 = 3. Na kraju 0 + 3 = 3.",
+      "savjet": "I unutar zagrade množenje ima prednost; pazi što se dobije kad se množi s nulom."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-086",
+      "tezina": "tesko",
+      "pitanje": "Gdje treba staviti zagrade u izrazu 100 − 60 : 4 + 6 da bi njegova vrijednost bila 4?",
+      "ponudeni": [
+        "(100 − 60) : 4 + 6",
+        "(100 − 60) : (4 + 6)",
+        "100 − 60 : (4 + 6)",
+        "100 − (60 : 4 + 6)"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U izrazu (100 − 60) : (4 + 6) prvo se računaju zagrade: 40 i 10. Zatim 40 : 10 = 4.",
+      "savjet": "Mogu ti zatrebati i dvije zagrade; izračunaj vrijednost svakog ponuđenog izraza."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-087",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 2400 : 6 − 2400 : 8.",
+      "ponudeni": [
+        "100",
+        "700",
+        "1200",
+        "300"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvo se izračunaju oba količnika: 2400 : 6 = 400 i 2400 : 8 = 300. Zatim 400 − 300 = 100.",
+      "savjet": "Izračunaj oba količnika prije oduzimanja."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-088",
+      "tezina": "tesko",
+      "pitanje": "Tri prijateljice skupile su 45, 35 i 20 boca za recikliranje. Sve su boce složile u kutije po 10. Kojim izrazom računaš broj kutija?",
+      "ponudeni": [
+        "45 + 35 + 20 : 10",
+        "(45 + 35 + 20) · 10",
+        "(45 + 35 + 20) : 10",
+        "45 + 35 + 20 · 10"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na kutije se dijele sve boce, pa ih prvo treba zbrojiti: (45 + 35 + 20) : 10 = 10.",
+      "savjet": "Razmisli što treba izračunati prije dijeljenja i kako to označiti u izrazu."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-089",
+      "tezina": "tesko",
+      "pitanje": "Koji izraz ima istu vrijednost kao 8 · (7 + 3)?",
+      "ponudeni": [
+        "8 · 7 + 8 · 3",
+        "8 · 7 + 3",
+        "8 + 7 · 3",
+        "8 · 7 · 3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izraz 8 · (7 + 3) ima vrijednost 80, a isto toliko je i 8 · 7 + 8 · 3 = 56 + 24 = 80.",
+      "savjet": "Izračunaj zadani izraz, a zatim i svaki ponuđeni."
+    },
+    {
+      "id": "4-matematika-redoslijed-racunskih-operacija-090",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 50 · (40 − 38) + 500 : (10 − 5).",
+      "ponudeni": [
+        "2007",
+        "200",
+        "100",
+        "120"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvo obje zagrade: 40 − 38 = 2 i 10 − 5 = 5. Zatim 50 · 2 = 100 i 500 : 5 = 100. Na kraju 100 + 100 = 200.",
+      "savjet": "Izračunaj obje zagrade, zatim umnožak i količnik, a na kraju zbroji."
+    }
+  ]
+}
