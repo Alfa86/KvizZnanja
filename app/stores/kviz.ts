@@ -54,6 +54,7 @@ export const useKvizStore = defineStore('kviz', {
     brojTocnih: s => s.pitanja.reduce((n, p, i) => n + (s.odgovori[i] === p.tocan ? 1 : 0), 0),
     brojSavjeta: s => s.koristenSavjet.filter(Boolean).length,
     brojOdgovorenih: s => s.odgovori.filter(o => o !== null).length,
+    jeOdgovoreno: s => (indeks: number) => s.odgovori[indeks] != null,
     postotak(): number {
       return this.pitanja.length ? (this.brojTocnih / this.pitanja.length) * 100 : 0
     },
@@ -127,8 +128,9 @@ export const useKvizStore = defineStore('kviz', {
       this.spremi()
     },
 
+    // Pitanje se ne može preskočiti: dalje se ide tek nakon odgovora
     dalje() {
-      if (this.trenutnoPitanje < this.pitanja.length - 1) {
+      if (this.jeOdgovoreno(this.trenutnoPitanje) && this.trenutnoPitanje < this.pitanja.length - 1) {
         this.trenutnoPitanje++
         this.spremi()
       }

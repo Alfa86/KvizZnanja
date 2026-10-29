@@ -5,13 +5,11 @@ const route = useRoute()
 const store = useKvizStore()
 
 const stanje = ref<'ucitavanje' | 'spremno' | 'greska'>('ucitavanje')
-const potvrdaZavrsetka = ref(false)
 
 useSeo({ naslov: 'Kviz | Kviz znanja', opis: OPIS_STRANICE, indeksiraj: false })
 
 async function pripremi() {
   stanje.value = 'ucitavanje'
-  potvrdaZavrsetka.value = false
   const postavke = parsirajPostavke(route.query, razredi)
   if (!postavke) return navigateTo('/', { replace: true })
 
@@ -50,13 +48,11 @@ function izadi() {
 
 const pitanje = computed(() => store.pitanja[store.trenutnoPitanje])
 const jeZadnje = computed(() => store.trenutnoPitanje === store.pitanja.length - 1)
-const neodgovoreno = computed(() => store.pitanja.length - store.brojOdgovorenih)
+// Na sljedeće pitanje (ili kraj kviza) ide se tek kad je trenutno pitanje odgovoreno
+const odgovoreno = computed(() => store.jeOdgovoreno(store.trenutnoPitanje))
 
 function zavrsi() {
-  if (neodgovoreno.value > 0 && !potvrdaZavrsetka.value) {
-    potvrdaZavrsetka.value = true
-    return
-  }
+  if (!odgovoreno.value) return
   store.zavrsi()
   return navigateTo({ path: '/rezultati', query: route.query })
 }
@@ -114,30 +110,22 @@ function zavrsi() {
         @otvori="store.prikaziSavjet"
       />
 
-      <div v-if="potvrdaZavrsetka" class="kartica bg-amber-50 ring-amber-300" role="alert">
-        <p class="mb-4 font-semibold">
-          Još {{ neodgovoreno }} {{ oblikUzBroj(neodgovoreno, ['pitanje nema', 'pitanja nemaju', 'pitanja nemaju']) }}
-          odgovor. Želiš li ipak završiti?
-        </p>
-        <div class="flex flex-wrap gap-3">
-          <button type="button" class="gumb-glavni" @click="zavrsi">Da, završi kviz</button>
-          <button type="button" class="gumb-sporedni" @click="potvrdaZavrsetka = false">Nastavi rješavati</button>
-        </div>
-      </div>
-
       <div class="flex justify-between gap-3">
         <button type="button" class="gumb-sporedni flex-1 sm:flex-none" :disabled="store.trenutnoPitanje === 0" @click="store.natrag">
           <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 6l-6 6 6 6" /></svg>
           Natrag
         </button>
-        <button v-if="!jeZadnje" type="button" class="gumb-glavni flex-1 sm:flex-none" @click="store.dalje">
+        <button v-if="!jeZadnje" type="button" class="gumb-glavni flex-1 sm:flex-none" :disabled="!odgovoreno" aria-describedby="uputa-odgovor" @click="store.dalje">
           Dalje
           <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6" /></svg>
         </button>
-        <button v-else-if="!potvrdaZavrsetka" type="button" class="gumb-glavni flex-1 sm:flex-none" @click="zavrsi">
+        <button v-else type="button" class="gumb-glavni flex-1 sm:flex-none" :disabled="!odgovoreno" aria-describedby="uputa-odgovor" @click="zavrsi">
           Završi kviz <span aria-hidden="true">🏁</span>
         </button>
       </div>
+      <p v-if="!odgovoreno" id="uputa-odgovor" class="-mt-2 text-center text-sm text-slate-600 sm:text-right">
+        Odaberi odgovor pa idi dalje.
+      </p>
 
       <ProzorIzlaska
         ref="prozorIzlaska"
