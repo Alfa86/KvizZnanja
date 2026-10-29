@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "provjera-dijeljenja-mnozenjem",
+  "pitanja": [
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi množenje kojim provjeravaš dijeljenje 56 : 7 = 8.",
+      "ponudeni": [
+        "8 · 7",
+        "56 · 7",
+        "56 · 8",
+        "8 + 7"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Količnik 8 pomnožiš djeliteljem 7 i dobiješ djeljenik 56. Zato je provjera 8 · 7.",
+      "savjet": "Pri provjeri dijeljenja množiš količnik i djelitelj."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-002",
+      "tezina": "lagano",
+      "pitanje": "Dovrši rečenicu: dijeljenje bez ostatka provjeravamo tako da…",
+      "ponudeni": [
+        "djeljenik pomnožimo djeliteljem",
+        "količnik zbrojimo s djeliteljem",
+        "količnik pomnožimo djeliteljem",
+        "djelitelj oduzmemo od djeljenika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad količnik pomnožimo djeliteljem, moramo dobiti djeljenik. Tada je dijeljenje točno.",
+      "savjet": "Sjeti se da su množenje i dijeljenje suprotne računske operacije."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-003",
+      "tezina": "lagano",
+      "pitanje": "Provjeri dijeljenje 72 : 9 = 8. Odaberi točnu provjeru.",
+      "ponudeni": [
+        "8 · 9 = 81",
+        "8 · 9 = 72",
+        "9 · 9 = 72",
+        "8 · 8 = 72"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Količnik 8 pomnožen djeliteljem 9 daje djeljenik 72, pa je dijeljenje točno.",
+      "savjet": "Pomnoži količnik djeliteljem i usporedi rezultat s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-004",
+      "tezina": "lagano",
+      "pitanje": "Iz jednakosti 7 · 34 = 238 slijedi i jedno dijeljenje. Odaberi točno dijeljenje.",
+      "ponudeni": [
+        "238 : 34 = 8",
+        "238 : 7 = 36",
+        "34 : 7 = 238",
+        "238 : 7 = 34"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ako je 7 · 34 = 238, onda umnožak 238 podijeljen jednim faktorom daje drugi faktor: 238 : 7 = 34.",
+      "savjet": "Umnožak podijeljen jednim faktorom daje drugi faktor."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-005",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: □ : 4 = 12.",
+      "ponudeni": [
+        "3",
+        "16",
+        "8",
+        "48"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati djeljenik je 12 · 4 = 48. Provjera: 48 : 4 = 12.",
+      "savjet": "Nepoznati djeljenik dobiješ kad količnik pomnožiš djeliteljem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-006",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: 63 : □ = 9.",
+      "ponudeni": [
+        "567",
+        "7",
+        "54",
+        "72"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati djelitelj je 63 : 9 = 7, jer je 9 · 7 = 63.",
+      "savjet": "Nepoznati djelitelj dobiješ kad djeljenik podijeliš količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-007",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: □ · 6 = 54.",
+      "ponudeni": [
+        "9",
+        "48",
+        "60",
+        "324"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznati faktor je 54 : 6 = 9. Provjera: 9 · 6 = 54.",
+      "savjet": "Nepoznati faktor dobiješ kad umnožak podijeliš poznatim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-008",
+      "tezina": "lagano",
+      "pitanje": "Provjeri dijeljenje 84 : 4 = 21 množenjem. Odaberi točan račun.",
+      "ponudeni": [
+        "21 · 4 = 88",
+        "84 · 4 = 21",
+        "21 · 4 = 84",
+        "21 · 8 = 84"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Količnik 21 pomnožen djeliteljem 4 daje 84, a to je djeljenik.",
+      "savjet": "Pomnoži količnik djeliteljem pa pazi na desetice i jedinice."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-009",
+      "tezina": "lagano",
+      "pitanje": "Odaberi račun kojim provjeravaš dijeljenje 17 : 5 = 3, ostatak 2.",
+      "ponudeni": [
+        "3 · 5 − 2",
+        "3 · 5 + 2",
+        "3 · 5",
+        "3 · 2 + 5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kod dijeljenja s ostatkom količnik pomnožiš djeliteljem i dodaš ostatak: 3 · 5 + 2 = 17.",
+      "savjet": "Ne zaboravi ostatak: on se na kraju pribraja umnošku."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-010",
+      "tezina": "lagano",
+      "pitanje": "Odaberi pravilo za provjeru dijeljenja s ostatkom.",
+      "ponudeni": [
+        "količnik · djelitelj − ostatak = djeljenik",
+        "djeljenik · djelitelj + ostatak = količnik",
+        "količnik · ostatak + djelitelj = djeljenik",
+        "količnik · djelitelj + ostatak = djeljenik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umnožak količnika i djelitelja manji je od djeljenika upravo za ostatak, pa ostatak dodajemo.",
+      "savjet": "Sjeti se da je ostatak dio djeljenika koji nije razdijeljen."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-011",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: □ : 3 = 23.",
+      "ponudeni": [
+        "26",
+        "66",
+        "69",
+        "96"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nepoznati djeljenik je 23 · 3 = 69. Provjera: 69 : 3 = 23.",
+      "savjet": "Količnik pomnoži djeliteljem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-012",
+      "tezina": "lagano",
+      "pitanje": "Provjeri je li dijeljenje 96 : 8 = 12 točno. Odaberi točan zaključak.",
+      "ponudeni": [
+        "Točno je, jer je 12 · 8 = 96.",
+        "Netočno je, jer je 12 · 8 = 86.",
+        "Netočno je, točno je 96 : 8 = 11.",
+        "Točno je, jer je 12 + 8 = 96."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Količnik 12 pomnožen djeliteljem 8 daje 96, a to je djeljenik. Dijeljenje je točno.",
+      "savjet": "Pomnoži količnik djeliteljem i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-013",
+      "tezina": "lagano",
+      "pitanje": "Provjeri množenjem i odaberi točno riješeno dijeljenje.",
+      "ponudeni": [
+        "54 : 6 = 9",
+        "45 : 5 = 8",
+        "42 : 7 = 7",
+        "64 : 8 = 9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točno je 54 : 6 = 9, jer je 9 · 6 = 54. U ostalima umnožak količnika i djelitelja nije jednak djeljeniku.",
+      "savjet": "Svaki količnik pomnoži djeliteljem i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-014",
+      "tezina": "lagano",
+      "pitanje": "Iz jednakosti 9 · 7 = 63 slijede dva dijeljenja. Odaberi par u kojem su oba točna.",
+      "ponudeni": [
+        "63 : 9 = 7 i 9 : 7 = 63",
+        "63 : 7 = 8 i 63 : 9 = 7",
+        "63 : 9 = 7 i 63 : 7 = 9",
+        "63 : 9 = 6 i 63 : 7 = 9"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umnožak 63 podijeljen jednim faktorom daje drugi faktor, pa su točni 63 : 9 = 7 i 63 : 7 = 9.",
+      "savjet": "Umnožak dijeliš jednim pa drugim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-015",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: □ : 6 = 15.",
+      "ponudeni": [
+        "21",
+        "90",
+        "9",
+        "80"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati djeljenik je 15 · 6 = 90. Provjera: 90 : 6 = 15.",
+      "savjet": "Nepoznati djeljenik dobiješ množenjem količnika i djelitelja."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-016",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: 48 : □ = 6.",
+      "ponudeni": [
+        "42",
+        "288",
+        "54",
+        "8"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati djelitelj je 48 : 6 = 8, jer je 6 · 8 = 48.",
+      "savjet": "Djeljenik podijeli količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-017",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: 7 · □ = 56.",
+      "ponudeni": [
+        "49",
+        "63",
+        "392",
+        "8"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati faktor je 56 : 7 = 8, jer je 7 · 8 = 56.",
+      "savjet": "Umnožak podijeli poznatim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-018",
+      "tezina": "lagano",
+      "pitanje": "Provjeri dijeljenje 29 : 4 = 7, ostatak 1. Odaberi točnu provjeru.",
+      "ponudeni": [
+        "7 · 4 = 29",
+        "7 · 4 + 1 = 29",
+        "7 · 4 + 1 = 28",
+        "7 · 1 + 4 = 29"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Količnik 7 pomnožen djeliteljem 4 daje 28, a kad dodaš ostatak 1, dobiješ djeljenik 29.",
+      "savjet": "Kod dijeljenja s ostatkom umnošku količnika i djelitelja dodaješ ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-019",
+      "tezina": "lagano",
+      "pitanje": "Mia je 40 bombona podijelila petorici prijatelja, svakomu po 8. Odaberi račun kojim to provjeravaš.",
+      "ponudeni": [
+        "8 · 5",
+        "40 · 5",
+        "40 · 8",
+        "8 + 5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ako svaki od 5 prijatelja ima po 8 bombona, ukupno je 8 · 5 = 40 bombona.",
+      "savjet": "Pomnoži koliko je dobio svaki prijatelj s brojem prijatelja."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-020",
+      "tezina": "lagano",
+      "pitanje": "Provjeri množenjem i odaberi netočno riješeno dijeljenje.",
+      "ponudeni": [
+        "36 : 4 = 9",
+        "56 : 8 = 7",
+        "72 : 8 = 8",
+        "35 : 5 = 7"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Netočno je 72 : 8 = 8, jer je 8 · 8 = 64, a ne 72. Točno je 72 : 8 = 9.",
+      "savjet": "Za svako dijeljenje pomnoži količnik djeliteljem i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-021",
+      "tezina": "lagano",
+      "pitanje": "Odredi djeljenik ako je količnik 9, a djelitelj 8.",
+      "ponudeni": [
+        "17",
+        "72",
+        "1",
+        "81"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djeljenik je količnik pomnožen djeliteljem: 9 · 8 = 72.",
+      "savjet": "Djeljenik dobiješ množenjem količnika i djelitelja."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-022",
+      "tezina": "lagano",
+      "pitanje": "Odredi djelitelj ako je djeljenik 35, a količnik 5.",
+      "ponudeni": [
+        "175",
+        "40",
+        "30",
+        "7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djelitelj je 35 : 5 = 7, jer je 5 · 7 = 35.",
+      "savjet": "Djelitelj dobiješ kad djeljenik podijeliš količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-023",
+      "tezina": "lagano",
+      "pitanje": "Odaberi račun kojim provjeravaš dijeljenje 23 : 3 = 7, ostatak 2.",
+      "ponudeni": [
+        "7 · 3 − 2",
+        "7 · 2 + 3",
+        "7 · 3 + 2",
+        "23 · 3 + 2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Količnik 7 pomnožiš djeliteljem 3 i dodaš ostatak 2, pa je 21 + 2 = 23.",
+      "savjet": "Pomnoži količnik djeliteljem pa dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-024",
+      "tezina": "lagano",
+      "pitanje": "Ivan je izračunao 81 : 9 = 8. Provjeri množenjem i odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Netočno je, jer je 8 · 9 = 72.",
+        "Točno je, jer je 8 · 9 = 81.",
+        "Netočno je, jer je 8 · 9 = 63.",
+        "Točno je, jer je 8 + 9 = 81."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umnožak 8 · 9 iznosi 72, a ne 81, pa je dijeljenje netočno. Točno je 81 : 9 = 9.",
+      "savjet": "Pomnoži količnik djeliteljem i usporedi rezultat s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-025",
+      "tezina": "lagano",
+      "pitanje": "Provjeri dijeljenje 50 : 6 = 8, ostatak 2. Odaberi broj koji dobiješ provjerom.",
+      "ponudeni": [
+        "50",
+        "48",
+        "52",
+        "14"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Provjera je 8 · 6 + 2 = 48 + 2 = 50. Dobiveni broj jednak je djeljeniku, pa je dijeljenje točno.",
+      "savjet": "Pomnoži količnik djeliteljem pa dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-026",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: □ : 2 = 34.",
+      "ponudeni": [
+        "36",
+        "32",
+        "68",
+        "17"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nepoznati djeljenik je 34 · 2 = 68. Provjera: 68 : 2 = 34.",
+      "savjet": "Količnik pomnoži djeliteljem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-027",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: 81 : □ = 3.",
+      "ponudeni": [
+        "243",
+        "27",
+        "78",
+        "84"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati djelitelj je 81 : 3 = 27, jer je 3 · 27 = 81.",
+      "savjet": "Djeljenik podijeli količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-028",
+      "tezina": "lagano",
+      "pitanje": "Odredi nepoznati broj: □ · 5 = 75.",
+      "ponudeni": [
+        "70",
+        "375",
+        "80",
+        "15"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati faktor je 75 : 5 = 15, jer je 15 · 5 = 75.",
+      "savjet": "Umnožak podijeli poznatim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-029",
+      "tezina": "lagano",
+      "pitanje": "Pri provjeri dijeljenja bez ostatka količnik pomnožiš djeliteljem. Koji broj time dobiješ?",
+      "ponudeni": [
+        "djelitelj",
+        "količnik",
+        "ostatak",
+        "djeljenik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umnožak količnika i djelitelja jednak je djeljeniku. Ako ga dobiješ, dijeljenje je točno.",
+      "savjet": "Sjeti se kako se zovu brojevi u dijeljenju 12 : 3 = 4."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-030",
+      "tezina": "lagano",
+      "pitanje": "Iz jednakosti 4 · 25 = 100 odaberi točno dijeljenje.",
+      "ponudeni": [
+        "100 : 25 = 5",
+        "100 : 4 = 25",
+        "100 : 4 = 20",
+        "25 : 4 = 100"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umnožak 100 podijeljen faktorom 4 daje drugi faktor 25.",
+      "savjet": "Umnožak podijeljen jednim faktorom daje drugi faktor."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-031",
+      "tezina": "srednje",
+      "pitanje": "Odaberi račun kojim provjeravaš dijeljenje 875 : 7 = 125.",
+      "ponudeni": [
+        "125 · 7",
+        "875 · 7",
+        "125 · 875",
+        "125 + 7"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Količnik 125 pomnožiš djeliteljem 7 i dobiješ djeljenik 875.",
+      "savjet": "U provjeri dijeljenja množiš količnik i djelitelj."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-032",
+      "tezina": "srednje",
+      "pitanje": "Provjeri dijeljenje 432 : 6 = 72 i odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Netočno je, jer je 72 · 6 = 422.",
+        "Netočno je, jer je 72 · 6 = 442.",
+        "Točno je, jer je 72 · 6 = 432.",
+        "Točno je, jer je 72 + 6 = 432."
+      ],
+      "tocan": 2,
+      "objasnjenje": "72 · 6 = 420 + 12 = 432, a to je djeljenik. Dijeljenje je točno.",
+      "savjet": "Pomnoži posebno desetice, a posebno jedinice količnika djeliteljem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-033",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: □ : 7 = 125.",
+      "ponudeni": [
+        "132",
+        "875",
+        "845",
+        "785"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati djeljenik je 125 · 7 = 875. Provjera: 875 : 7 = 125.",
+      "savjet": "Nepoznati djeljenik dobiješ kad količnik pomnožiš djeliteljem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-034",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: 936 : □ = 39.",
+      "ponudeni": [
+        "897",
+        "975",
+        "34",
+        "24"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati djelitelj je 936 : 39 = 24. Provjera: 39 · 24 = 936.",
+      "savjet": "Nepoznati djelitelj dobiješ kad djeljenik podijeliš količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-035",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: □ · 8 = 744.",
+      "ponudeni": [
+        "736",
+        "5952",
+        "93",
+        "83"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nepoznati faktor je 744 : 8 = 93. Provjera: 93 · 8 = 744.",
+      "savjet": "Nepoznati faktor dobiješ kad umnožak podijeliš poznatim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-036",
+      "tezina": "srednje",
+      "pitanje": "Provjeri dijeljenje 159 : 4 = 39, ostatak 3. Odaberi točnu provjeru.",
+      "ponudeni": [
+        "39 · 4 + 3 = 159",
+        "39 · 4 = 159",
+        "39 · 4 + 3 = 162",
+        "39 · 3 + 4 = 159"
+      ],
+      "tocan": 0,
+      "objasnjenje": "39 · 4 = 156, a kad dodaš ostatak 3, dobiješ djeljenik 159.",
+      "savjet": "Umnošku količnika i djelitelja dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-037",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točno riješeno dijeljenje. Pomozi si provjerom množenjem.",
+      "ponudeni": [
+        "252 : 4 = 63",
+        "345 : 5 = 67",
+        "456 : 6 = 74",
+        "632 : 8 = 78"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točno je 252 : 4 = 63, jer je 63 · 4 = 252. U ostalima umnožak nije jednak djeljeniku.",
+      "savjet": "Svaki količnik pomnoži djeliteljem i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-038",
+      "tezina": "srednje",
+      "pitanje": "Iz jednakosti 8 · 57 = 456 slijede dva dijeljenja. Odaberi par u kojem su oba točna.",
+      "ponudeni": [
+        "456 : 8 = 57 i 57 : 8 = 456",
+        "456 : 8 = 58 i 456 : 57 = 8",
+        "456 : 8 = 57 i 456 : 57 = 8",
+        "456 : 57 = 8 i 456 : 8 = 56"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umnožak 456 podijeljen jednim faktorom daje drugi faktor: 456 : 8 = 57 i 456 : 57 = 8.",
+      "savjet": "Umnožak dijeliš jednim, a zatim drugim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-039",
+      "tezina": "srednje",
+      "pitanje": "Sara je izračunala 384 : 6 = 66. Provjeri množenjem i odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Točno je, jer je 66 · 6 = 384.",
+        "Netočno je, jer je 66 · 6 = 396.",
+        "Netočno je, točno je 384 : 6 = 65.",
+        "Točno je, jer je 66 + 6 = 384."
+      ],
+      "tocan": 1,
+      "objasnjenje": "66 · 6 = 396, a to nije djeljenik 384, pa je dijeljenje netočno. Točno je 384 : 6 = 64.",
+      "savjet": "Pomnoži količnik djeliteljem i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-040",
+      "tezina": "srednje",
+      "pitanje": "Dijeljenje 247 : 5 = 49, ostatak 2 provjeri množenjem. Odaberi točan račun.",
+      "ponudeni": [
+        "49 · 5 − 2",
+        "49 · 2 + 5",
+        "49 · 5 + 2 + 2",
+        "49 · 5 + 2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Količnik 49 pomnožiš djeliteljem 5 i dodaš ostatak 2, pa je 245 + 2 = 247.",
+      "savjet": "Ostatak dodaješ samo jednom, nakon množenja."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-041",
+      "tezina": "srednje",
+      "pitanje": "Odredi djeljenik ako je djelitelj 9, a količnik 86.",
+      "ponudeni": [
+        "95",
+        "764",
+        "684",
+        "774"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djeljenik je 86 · 9 = 774. Provjera: 774 : 9 = 86.",
+      "savjet": "Djeljenik dobiješ kad količnik pomnožiš djeliteljem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-042",
+      "tezina": "srednje",
+      "pitanje": "Odredi djelitelj ako je djeljenik 567, a količnik 81.",
+      "ponudeni": [
+        "486",
+        "7",
+        "648",
+        "9"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelitelj je 567 : 81 = 7, jer je 81 · 7 = 567.",
+      "savjet": "Djelitelj dobiješ kad djeljenik podijeliš količnikom; pokušaj množiti 81 malim brojevima."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-043",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: □ : 8 = 64.",
+      "ponudeni": [
+        "512",
+        "72",
+        "56",
+        "482"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznati djeljenik je 64 · 8 = 512. Provjera: 512 : 8 = 64.",
+      "savjet": "Količnik pomnoži djeliteljem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-044",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: 645 : □ = 5.",
+      "ponudeni": [
+        "640",
+        "3225",
+        "129",
+        "125"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nepoznati djelitelj je 645 : 5 = 129. Provjera: 5 · 129 = 645.",
+      "savjet": "Djeljenik podijeli količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-045",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: 9 · □ = 657.",
+      "ponudeni": [
+        "648",
+        "73",
+        "5913",
+        "83"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati faktor je 657 : 9 = 73. Provjera: 9 · 73 = 657.",
+      "savjet": "Umnožak podijeli poznatim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-046",
+      "tezina": "srednje",
+      "pitanje": "Luka je 96 sličica zalijepio u album, po 8 na svaku stranicu, i popunio 12 stranica. Odaberi račun kojim to provjeravaš.",
+      "ponudeni": [
+        "96 · 8",
+        "96 · 12",
+        "12 + 8",
+        "12 · 8"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na 12 stranica po 8 sličica stane 12 · 8 = 96 sličica, pa je račun točan.",
+      "savjet": "Pomnoži broj stranica s brojem sličica na jednoj stranici."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-047",
+      "tezina": "srednje",
+      "pitanje": "Provjeri dijeljenje 218 : 3 = 72, ostatak 2. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Netočno je, jer je 72 · 3 + 2 = 220.",
+        "Netočno je, jer ostatak mora biti 0.",
+        "Točno je, jer je 72 · 3 + 2 = 218.",
+        "Točno je, jer je 72 · 2 + 3 = 218."
+      ],
+      "tocan": 2,
+      "objasnjenje": "72 · 3 = 216, a kad dodaš ostatak 2, dobiješ 218. Dijeljenje je točno.",
+      "savjet": "Umnošku količnika i djelitelja dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-048",
+      "tezina": "srednje",
+      "pitanje": "Provjeri množenjem i odaberi točno riješeno dijeljenje s ostatkom.",
+      "ponudeni": [
+        "139 : 6 = 23, ostatak 1",
+        "139 : 6 = 22, ostatak 5",
+        "139 : 6 = 23, ostatak 3",
+        "139 : 6 = 24, ostatak 1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "23 · 6 = 138, a 138 + 1 = 139. Zato je 139 : 6 = 23, ostatak 1.",
+      "savjet": "Za svaki rezultat izračunaj količnik · djelitelj + ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-049",
+      "tezina": "srednje",
+      "pitanje": "Iz jednakosti 4 · 125 = 500 odaberi točno dijeljenje.",
+      "ponudeni": [
+        "500 : 125 = 4",
+        "500 : 4 = 120",
+        "500 : 125 = 5",
+        "125 : 4 = 500"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umnožak 500 podijeljen faktorom 125 daje drugi faktor 4.",
+      "savjet": "Umnožak podijeljen jednim faktorom daje drugi faktor."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-050",
+      "tezina": "srednje",
+      "pitanje": "Dijeljenje 409 : 7 daje količnik 58 i ostatak. Provjera glasi 58 · 7 + □ = 409. Odredi ostatak.",
+      "ponudeni": [
+        "6",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "58 · 7 = 406, a do 409 nedostaju 3. Ostatak je 3.",
+      "savjet": "Izračunaj umnožak količnika i djelitelja pa ga usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-051",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: □ : 6 = 108.",
+      "ponudeni": [
+        "114",
+        "648",
+        "102",
+        "608"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati djeljenik je 108 · 6 = 648. Provjera: 648 : 6 = 108.",
+      "savjet": "Nepoznati djeljenik dobiješ množenjem količnika i djelitelja."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-052",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: 728 : □ = 8.",
+      "ponudeni": [
+        "720",
+        "5824",
+        "81",
+        "91"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati djelitelj je 728 : 8 = 91. Provjera: 8 · 91 = 728.",
+      "savjet": "Djeljenik podijeli količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-053",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: □ · 4 = 316.",
+      "ponudeni": [
+        "312",
+        "1264",
+        "89",
+        "79"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati faktor je 316 : 4 = 79. Provjera: 79 · 4 = 316.",
+      "savjet": "Umnožak podijeli poznatim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-054",
+      "tezina": "srednje",
+      "pitanje": "Ema je izračunala 531 : 9 = 69. Provjeri množenjem i odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Točno je, jer je 69 · 9 = 531.",
+        "Netočno je, jer je 69 · 9 = 621.",
+        "Netočno je, točno je 531 : 9 = 61.",
+        "Točno je, jer je 69 + 9 = 531."
+      ],
+      "tocan": 1,
+      "objasnjenje": "69 · 9 = 621, što nije djeljenik 531. Točno je 531 : 9 = 59.",
+      "savjet": "Pomnoži količnik djeliteljem i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-055",
+      "tezina": "srednje",
+      "pitanje": "Na izletu je 168 učenika raspoređeno u 7 skupina po 24 učenika. Odaberi točnu provjeru.",
+      "ponudeni": [
+        "24 · 7 = 168",
+        "24 · 7 = 148",
+        "24 · 8 = 168",
+        "24 + 7 = 168"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7 skupina po 24 učenika je 24 · 7 = 168 učenika, pa je raspored točan.",
+      "savjet": "Pomnoži broj učenika u skupini s brojem skupina."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-056",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu provjeru dijeljenja 85 : 12 = 7, ostatak 1.",
+      "ponudeni": [
+        "7 · 12 − 1 = 85",
+        "7 · 1 + 12 = 85",
+        "7 · 12 + 1 = 85",
+        "7 · 12 + 1 + 1 = 85"
+      ],
+      "tocan": 2,
+      "objasnjenje": "7 · 12 = 84, a 84 + 1 = 85, što je djeljenik.",
+      "savjet": "Količnik pomnoži djeliteljem i ostatak dodaj samo jednom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-057",
+      "tezina": "srednje",
+      "pitanje": "Odredi djeljenik ako je djelitelj 4, a količnik 213.",
+      "ponudeni": [
+        "217",
+        "852",
+        "842",
+        "209"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djeljenik je 213 · 4 = 852. Provjera: 852 : 4 = 213.",
+      "savjet": "Pomnoži količnik djeliteljem i pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-058",
+      "tezina": "srednje",
+      "pitanje": "Iz jednakosti 7 · 86 = 602 odaberi točno dijeljenje.",
+      "ponudeni": [
+        "602 : 86 = 6",
+        "602 : 7 = 76",
+        "86 : 7 = 602",
+        "602 : 7 = 86"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umnožak 602 podijeljen faktorom 7 daje drugi faktor 86.",
+      "savjet": "Umnožak podijeljen jednim faktorom daje drugi faktor."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-059",
+      "tezina": "srednje",
+      "pitanje": "Provjera nekog dijeljenja glasi 46 · 9 + 5. Odredi djeljenik.",
+      "ponudeni": [
+        "414",
+        "424",
+        "419",
+        "409"
+      ],
+      "tocan": 2,
+      "objasnjenje": "46 · 9 = 414, a 414 + 5 = 419. Djeljenik je 419.",
+      "savjet": "Najprije pomnoži, a zatim dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-060",
+      "tezina": "srednje",
+      "pitanje": "Odredi nepoznati broj: 852 : □ = 6.",
+      "ponudeni": [
+        "142",
+        "846",
+        "5112",
+        "152"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznati djelitelj je 852 : 6 = 142. Provjera: 6 · 142 = 852.",
+      "savjet": "Djeljenik podijeli količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-061",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: □ : 9 = 45, ostatak 4.",
+      "ponudeni": [
+        "409",
+        "405",
+        "401",
+        "413"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djeljenik je 45 · 9 + 4 = 405 + 4 = 409.",
+      "savjet": "Količnik pomnoži djeliteljem pa dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-062",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: □ : 7 = 138, ostatak 5.",
+      "ponudeni": [
+        "966",
+        "961",
+        "971",
+        "976"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djeljenik je 138 · 7 + 5 = 966 + 5 = 971.",
+      "savjet": "Najprije pomnoži količnik djeliteljem, a zatim dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-063",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: 1248 : □ = 52.",
+      "ponudeni": [
+        "1196",
+        "24",
+        "1300",
+        "26"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati djelitelj je 1248 : 52 = 24. Provjera: 52 · 24 = 1248.",
+      "savjet": "Djeljenik podijeli količnikom ili potraži broj kojim treba pomnožiti 52."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-064",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: □ · 36 = 2484.",
+      "ponudeni": [
+        "2448",
+        "79",
+        "96",
+        "69"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati faktor je 2484 : 36 = 69. Provjera: 69 · 36 = 2484.",
+      "savjet": "Umnožak podijeli poznatim faktorom; procijeni da je rezultat blizu 70."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-065",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: □ : 24 = 315.",
+      "ponudeni": [
+        "339",
+        "7550",
+        "6300",
+        "7560"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati djeljenik je 315 · 24 = 6300 + 1260 = 7560.",
+      "savjet": "Pomnoži količnik djeliteljem, posebno deseticama, a posebno jedinicama."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-066",
+      "tezina": "tesko",
+      "pitanje": "Marko je izračunao 2345 : 8 = 293, ostatak 1. Provjeri i odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Netočno je, jer je 293 · 8 + 1 = 2335.",
+        "Točno je, jer je 293 · 8 + 1 = 2345.",
+        "Netočno je, točno je 2345 : 8 = 292, ostatak 1.",
+        "Točno je, jer je 293 · 1 + 8 = 2345."
+      ],
+      "tocan": 1,
+      "objasnjenje": "293 · 8 = 2344, a 2344 + 1 = 2345, što je djeljenik. Dijeljenje je točno.",
+      "savjet": "Umnošku količnika i djelitelja dodaj ostatak i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-067",
+      "tezina": "tesko",
+      "pitanje": "Samo je jedno dijeljenje točno riješeno. Pronađi ga provjerom množenjem.",
+      "ponudeni": [
+        "3456 : 6 = 576",
+        "4235 : 7 = 615",
+        "2968 : 8 = 373",
+        "5112 : 9 = 578"
+      ],
+      "tocan": 0,
+      "objasnjenje": "576 · 6 = 3456, pa je to dijeljenje točno. U ostalima umnožak količnika i djelitelja nije jednak djeljeniku.",
+      "savjet": "Svaki količnik pomnoži djeliteljem; pazi na prijenos."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-068",
+      "tezina": "tesko",
+      "pitanje": "Petra je dobila 1000 : 7 = 143, ostatak 1. Provjerom pronađi pogrešku i odaberi točan rezultat.",
+      "ponudeni": [
+        "143, ostatak 1",
+        "142, ostatak 4",
+        "142, ostatak 6",
+        "142, ostatak 1"
+      ],
+      "tocan": 2,
+      "objasnjenje": "143 · 7 + 1 = 1002, pa je Petrin rezultat netočan. Točno je 142 · 7 + 6 = 994 + 6 = 1000.",
+      "savjet": "Za svaki rezultat izračunaj količnik · djelitelj + ostatak i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-069",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: □ : 12 = 84, ostatak 7.",
+      "ponudeni": [
+        "1008",
+        "1015",
+        "1001",
+        "103"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djeljenik je 84 · 12 + 7 = 1008 + 7 = 1015.",
+      "savjet": "Količnik pomnoži djeliteljem pa dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-070",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: 3600 : □ = 45.",
+      "ponudeni": [
+        "3555",
+        "8",
+        "800",
+        "80"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati djelitelj je 3600 : 45 = 80. Provjera: 45 · 80 = 3600.",
+      "savjet": "Potraži broj kojim treba pomnožiti 45 da dobiješ djeljenik."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-071",
+      "tezina": "tesko",
+      "pitanje": "Knjižničarka je složila knjige na 9 polica, po 64 na svaku, i ostalo joj je još 5 knjiga. Odredi koliko je knjiga imala.",
+      "ponudeni": [
+        "576",
+        "571",
+        "581",
+        "586"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na policama je 64 · 9 = 576 knjiga, a s preostalih 5 ukupno je 581 knjiga.",
+      "savjet": "Pomnoži broj polica s brojem knjiga na jednoj polici pa dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-072",
+      "tezina": "tesko",
+      "pitanje": "Nina je zamislila broj, podijelila ga brojem 6 i dobila 157. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "942",
+        "163",
+        "151",
+        "932"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zamišljeni broj je 157 · 6 = 942. Provjera: 942 : 6 = 157.",
+      "savjet": "Vrati se unatrag: dijeljenje poništiš množenjem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-073",
+      "tezina": "tesko",
+      "pitanje": "Bruno je zamislio broj i pomnožio ga brojem 8. Dobio je 1096. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "137",
+        "1088",
+        "8768",
+        "127"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zamišljeni broj je 1096 : 8 = 137. Provjera: 137 · 8 = 1096.",
+      "savjet": "Vrati se unatrag: množenje poništiš dijeljenjem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-074",
+      "tezina": "tesko",
+      "pitanje": "Zadano je 23 · 46 = 1058. Odaberi točnu jednakost.",
+      "ponudeni": [
+        "1058 : 23 = 64",
+        "46 : 23 = 1058",
+        "1058 : 46 = 23",
+        "1058 : 46 = 32"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umnožak 1058 podijeljen faktorom 46 daje drugi faktor 23.",
+      "savjet": "Umnožak podijeljen jednim faktorom daje drugi faktor; pazi na redoslijed znamenki."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-075",
+      "tezina": "tesko",
+      "pitanje": "Odaberi dijeljenje čija je provjera 125 · 8 + 3 = 1003.",
+      "ponudeni": [
+        "1000 : 8 = 125, ostatak 3",
+        "1003 : 8 = 125, ostatak 3",
+        "1003 : 8 = 125",
+        "1006 : 8 = 125, ostatak 3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Količnik je 125, djelitelj 8, ostatak 3, a djeljenik je rezultat provjere 1003.",
+      "savjet": "U provjeri je prvi broj količnik, drugi djelitelj, a pribrojnik ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-076",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: □ : 5 = 1206, ostatak 3.",
+      "ponudeni": [
+        "6030",
+        "6027",
+        "6036",
+        "6033"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djeljenik je 1206 · 5 + 3 = 6030 + 3 = 6033.",
+      "savjet": "Ostatak dodaj samo jednom, nakon što pomnožiš količnik djeliteljem."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-077",
+      "tezina": "tesko",
+      "pitanje": "Matej je izračunao 4560 : 6 = 76. Provjeri množenjem i odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Točno je, jer je 76 · 6 = 4560.",
+        "Netočno je, točno je 4560 : 6 = 706.",
+        "Netočno je, točno je 4560 : 6 = 670.",
+        "Netočno je, točno je 4560 : 6 = 760."
+      ],
+      "tocan": 3,
+      "objasnjenje": "76 · 6 = 456, a ne 4560, pa je Matej izgubio nulu. Točno je 4560 : 6 = 760, jer je 760 · 6 = 4560.",
+      "savjet": "Pomnoži svaki ponuđeni količnik djeliteljem i usporedi s djeljenikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-078",
+      "tezina": "tesko",
+      "pitanje": "Odredi broj koji pri dijeljenju brojem 9 daje količnik 108 i ostatak 7.",
+      "ponudeni": [
+        "972",
+        "979",
+        "965",
+        "124"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Traženi broj je 108 · 9 + 7 = 972 + 7 = 979.",
+      "savjet": "Primijeni pravilo: količnik · djelitelj + ostatak = djeljenik."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-079",
+      "tezina": "tesko",
+      "pitanje": "Za izlet je 27 učenika platilo ukupno 2160 eura, svaki jednako. Odredi nepoznati broj u jednakosti 27 · □ = 2160.",
+      "ponudeni": [
+        "80",
+        "2133",
+        "8",
+        "90"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznati faktor je 2160 : 27 = 80, jer je 27 · 80 = 2160. Svaki je učenik platio 80 eura.",
+      "savjet": "Umnožak podijeli poznatim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-080",
+      "tezina": "tesko",
+      "pitanje": "Provjeri dijeljenje 7385 : 9 = 820, ostatak 5 i odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Netočno je, jer je 820 · 9 + 5 = 7375.",
+        "Netočno je, točno je 7385 : 9 = 82, ostatak 5.",
+        "Točno je, jer je 820 · 9 + 5 = 7385.",
+        "Točno je, jer je 820 · 5 + 9 = 7385."
+      ],
+      "tocan": 2,
+      "objasnjenje": "820 · 9 = 7380, a 7380 + 5 = 7385, što je djeljenik. Dijeljenje je točno.",
+      "savjet": "Umnošku količnika i djelitelja dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-081",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: 6 · □ = 4302.",
+      "ponudeni": [
+        "4296",
+        "717",
+        "771",
+        "707"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznati faktor je 4302 : 6 = 717. Provjera: 6 · 717 = 4302.",
+      "savjet": "Umnožak podijeli poznatim faktorom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-082",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: □ : 15 = 64.",
+      "ponudeni": [
+        "79",
+        "49",
+        "860",
+        "960"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati djeljenik je 64 · 15 = 640 + 320 = 960.",
+      "savjet": "Pomnoži količnik djeliteljem: posebno s 10, posebno s 5."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-083",
+      "tezina": "tesko",
+      "pitanje": "Na priredbi je sjedilo 18 redova po 24 učenika, a 7 učenika je stajalo. Odredi koliko je učenika bilo na priredbi.",
+      "ponudeni": [
+        "432",
+        "425",
+        "439",
+        "446"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sjedilo je 24 · 18 = 432 učenika, a sa 7 koji su stajali ukupno je 439 učenika.",
+      "savjet": "Pomnoži broj redova s brojem učenika u redu pa dodaj one koji su stajali."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-084",
+      "tezina": "tesko",
+      "pitanje": "Odaberi jednakost kojom provjeravaš dijeljenje 1512 : 36 = 42.",
+      "ponudeni": [
+        "42 · 36 = 1512",
+        "1512 · 36 = 42",
+        "42 · 36 = 1521",
+        "42 + 36 = 1512"
+      ],
+      "tocan": 0,
+      "objasnjenje": "42 · 36 = 1260 + 252 = 1512, a to je djeljenik.",
+      "savjet": "Količnik pomnoži djeliteljem i pazi na redoslijed znamenki."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-085",
+      "tezina": "tesko",
+      "pitanje": "Provjerom množenjem odaberi točan rezultat dijeljenja 1925 : 8.",
+      "ponudeni": [
+        "240, ostatak 5",
+        "24, ostatak 5",
+        "240, ostatak 3",
+        "241, ostatak 5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "240 · 8 = 1920, a 1920 + 5 = 1925. Zato je 1925 : 8 = 240, ostatak 5.",
+      "savjet": "Za svaki rezultat izračunaj količnik · djelitelj + ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-086",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: 9504 : □ = 8.",
+      "ponudeni": [
+        "9496",
+        "76 032",
+        "1188",
+        "1088"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nepoznati djelitelj je 9504 : 8 = 1188. Provjera: 8 · 1188 = 9504.",
+      "savjet": "Djeljenik podijeli količnikom."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-087",
+      "tezina": "tesko",
+      "pitanje": "Za dijeljenje 538 : □ = 134, ostatak 2 provjera glasi 134 · □ + 2 = 538. Odredi djelitelj.",
+      "ponudeni": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "538 − 2 = 536, a 536 : 134 = 4. Provjera: 134 · 4 + 2 = 538.",
+      "savjet": "Od djeljenika najprije oduzmi ostatak."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-088",
+      "tezina": "tesko",
+      "pitanje": "Provjeri množenjem i odaberi točnu jednakost.",
+      "ponudeni": [
+        "4005 : 9 = 45",
+        "4005 : 9 = 444, ostatak 8",
+        "4005 : 9 = 455",
+        "4005 : 9 = 445"
+      ],
+      "tocan": 3,
+      "objasnjenje": "445 · 9 = 4005, pa je 4005 : 9 = 445 bez ostatka.",
+      "savjet": "Za svaki rezultat izračunaj količnik · djelitelj, a ako ima ostatka, dodaj ga."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-089",
+      "tezina": "tesko",
+      "pitanje": "Odredi nepoznati broj: □ : 25 = 1240.",
+      "ponudeni": [
+        "1265",
+        "3100",
+        "30 000",
+        "31 000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznati djeljenik je 1240 · 25 = 31 000. Provjera: 31 000 : 25 = 1240.",
+      "savjet": "Količnik pomnoži djeliteljem; 25 je četvrtina od 100."
+    },
+    {
+      "id": "4-matematika-provjera-dijeljenja-mnozenjem-090",
+      "tezina": "tesko",
+      "pitanje": "Maja je zamislila broj, podijelila ga brojem 7 i dobila 216, ostatak 3. Odredi zamišljeni broj.",
+      "ponudeni": [
+        "1512",
+        "1515",
+        "1509",
+        "1518"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zamišljeni broj je 216 · 7 + 3 = 1512 + 3 = 1515.",
+      "savjet": "Vrati se unatrag: pomnoži količnik djeliteljem pa dodaj ostatak."
+    }
+  ]
+}

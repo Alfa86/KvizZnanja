@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "dijeljenje-jednoznamenkastim-brojem",
+  "pitanja": [
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove broj koji dijelimo?",
+      "ponudeni": [
+        "djelitelj",
+        "djeljenik",
+        "količnik",
+        "ostatak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj koji dijelimo zove se djeljenik, a broj kojim dijelimo zove se djelitelj.",
+      "savjet": "Sjeti se naziva brojeva u jednakosti 12 : 3 = 4."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-002",
+      "tezina": "lagano",
+      "pitanje": "U jednakosti 84 : 4 = 21 kako se zove broj 4?",
+      "ponudeni": [
+        "djeljenik",
+        "količnik",
+        "djelitelj",
+        "umnožak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj kojim dijelimo zove se djelitelj. U ovom računu dijelimo s 4.",
+      "savjet": "Razmisli dijelimo li broj 4 ili dijelimo brojem 4."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove rezultat dijeljenja?",
+      "ponudeni": [
+        "umnožak",
+        "razlika",
+        "djelitelj",
+        "količnik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rezultat dijeljenja zove se količnik. Na primjer, u 20 : 5 = 4 količnik je 4.",
+      "savjet": "Rezultat zbrajanja je zbroj, a množenja umnožak. Sjeti se naziva za dijeljenje."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-004",
+      "tezina": "lagano",
+      "pitanje": "Pri dijeljenju 17 s 5 dobijemo 3 i preostane 2. Kako se zove broj 2?",
+      "ponudeni": [
+        "ostatak",
+        "količnik",
+        "djelitelj",
+        "djeljenik"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 5 stane u 17 tri puta (15), a 2 preostaje. Taj broj zove se ostatak.",
+      "savjet": "Razmisli što je s brojem koji preostane kad 5 više ne stane."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-005",
+      "tezina": "lagano",
+      "pitanje": "Koji broj može biti ostatak pri dijeljenju sa 6?",
+      "ponudeni": [
+        "7",
+        "9",
+        "4",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ostatak je uvijek manji od djelitelja. Od ponuđenih brojeva samo je 4 manji od 6.",
+      "savjet": "Usporedi svaki broj s djeliteljem 6."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-006",
+      "tezina": "lagano",
+      "pitanje": "Koji je najveći mogući ostatak pri dijeljenju s 8?",
+      "ponudeni": [
+        "8",
+        "7",
+        "9",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ostatak mora biti manji od djelitelja 8, pa je najveći mogući ostatak 7.",
+      "savjet": "Ostatak mora biti manji od broja kojim dijeliš."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-007",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 693 : 3.",
+      "ponudeni": [
+        "213",
+        "231",
+        "331",
+        "233"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6 : 3 = 2, 9 : 3 = 3 i 3 : 3 = 1, pa je 693 : 3 = 231.",
+      "savjet": "Dijeli redom stotice, desetice i jedinice s 3."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 488 : 4.",
+      "ponudeni": [
+        "122",
+        "112",
+        "222",
+        "124"
+      ],
+      "tocan": 0,
+      "objasnjenje": "4 : 4 = 1, 8 : 4 = 2 i 8 : 4 = 2, pa je količnik 122.",
+      "savjet": "Podijeli s 4 svaku znamenku, počevši od stotica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 846 : 2.",
+      "ponudeni": [
+        "432",
+        "413",
+        "323",
+        "423"
+      ],
+      "tocan": 3,
+      "objasnjenje": "8 : 2 = 4, 4 : 2 = 2 i 6 : 2 = 3, pa je 846 : 2 = 423.",
+      "savjet": "Kreni od stotica: koliko je 8 : 2?"
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-010",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 555 : 5.",
+      "ponudeni": [
+        "11",
+        "101",
+        "111",
+        "1011"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka znamenka 5 podijeljena s 5 daje 1, pa je količnik 111.",
+      "savjet": "Dijeli redom stotice, desetice i jedinice s 5."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-011",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 960 : 3.",
+      "ponudeni": [
+        "320",
+        "32",
+        "302",
+        "330"
+      ],
+      "tocan": 0,
+      "objasnjenje": "9 : 3 = 3, 6 : 3 = 2 i 0 : 3 = 0, pa je 960 : 3 = 320.",
+      "savjet": "Ne zaboravi podijeliti i jedinice: koliko je 0 : 3?"
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-012",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 800 : 4.",
+      "ponudeni": [
+        "20",
+        "2000",
+        "200",
+        "210"
+      ],
+      "tocan": 2,
+      "objasnjenje": "8 stotica podijeljeno s 4 daje 2 stotice, a to je 200.",
+      "savjet": "Razmisli koliko je 8 stotica podijeljeno s 4."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-013",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 642 : 2.",
+      "ponudeni": [
+        "312",
+        "321",
+        "320",
+        "221"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6 : 2 = 3, 4 : 2 = 2 i 2 : 2 = 1, pa je količnik 321.",
+      "savjet": "Podijeli s 2 redom stotice, desetice i jedinice."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 909 : 3.",
+      "ponudeni": [
+        "33",
+        "330",
+        "313",
+        "303"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9 : 3 = 3, 0 : 3 = 0 i 9 : 3 = 3, pa je 909 : 3 = 303.",
+      "savjet": "Pazi na desetice: koliko je 0 : 3?"
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-015",
+      "tezina": "lagano",
+      "pitanje": "U jednakosti 936 : 3 = 312 koji je broj količnik?",
+      "ponudeni": [
+        "936",
+        "3",
+        "312",
+        "933"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Količnik je rezultat dijeljenja. Ovdje je to 312.",
+      "savjet": "Količnik je broj koji dobiješ kao rezultat dijeljenja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-016",
+      "tezina": "lagano",
+      "pitanje": "Kojim računom možeš provjeriti je li 84 : 4 = 21 točno?",
+      "ponudeni": [
+        "84 · 4 = 336",
+        "21 · 4 = 84",
+        "84 − 4 = 80",
+        "21 + 4 = 25"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dijeljenje provjeravamo množenjem: količnik pomnožimo s djeliteljem i trebamo dobiti djeljenik.",
+      "savjet": "Dijeljenje i množenje su suprotne računske operacije."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 47 : 6.",
+      "ponudeni": [
+        "7",
+        "7, ostatak 5",
+        "6, ostatak 11",
+        "7, ostatak 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6 · 7 = 42, a 47 − 42 = 5. Zato je 47 : 6 = 7, ostatak 5.",
+      "savjet": "Koji je najveći broj iz tablice množenja sa 6 koji nije veći od 47?"
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-018",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 85 : 4.",
+      "ponudeni": [
+        "21",
+        "20, ostatak 5",
+        "21, ostatak 3",
+        "21, ostatak 1"
+      ],
+      "tocan": 3,
+      "objasnjenje": "8 : 4 = 2, a 5 : 4 = 1 i ostane 1. Zato je 85 : 4 = 21, ostatak 1.",
+      "savjet": "Podijeli desetice pa jedinice s 4 i pogledaj ostaje li nešto."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-019",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 369 : 3.",
+      "ponudeni": [
+        "132",
+        "123",
+        "113",
+        "223"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3 : 3 = 1, 6 : 3 = 2 i 9 : 3 = 3, pa je količnik 123.",
+      "savjet": "Dijeli redom stotice, desetice i jedinice s 3."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-020",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 505 : 5.",
+      "ponudeni": [
+        "11",
+        "110",
+        "101",
+        "105"
+      ],
+      "tocan": 2,
+      "objasnjenje": "5 : 5 = 1, 0 : 5 = 0 i 5 : 5 = 1, pa je 505 : 5 = 101.",
+      "savjet": "Pazi kako dijeliš znamenku 0 na mjestu desetica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-021",
+      "tezina": "lagano",
+      "pitanje": "Što vrijedi za ostatak pri dijeljenju?",
+      "ponudeni": [
+        "manji je od djelitelja",
+        "veći je od djelitelja",
+        "jednak je djelitelju",
+        "veći je od djeljenika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ostatak je uvijek manji od djelitelja. Kad bi bio jednak ili veći, djelitelj bi stao još jednom.",
+      "savjet": "Razmisli može li pri dijeljenju 17 : 5 ostati 7."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-022",
+      "tezina": "lagano",
+      "pitanje": "Kojom računskom operacijom provjeravamo dijeljenje?",
+      "ponudeni": [
+        "zbrajanjem",
+        "oduzimanjem",
+        "množenjem",
+        "dijeljenjem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dijeljenje provjeravamo množenjem: količnik · djelitelj = djeljenik.",
+      "savjet": "Sjeti se koja je računska operacija suprotna dijeljenju."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-023",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 248 : 8.",
+      "ponudeni": [
+        "301",
+        "13",
+        "32",
+        "31"
+      ],
+      "tocan": 3,
+      "objasnjenje": "8 ne stane u 2, pa dijelimo 24 : 8 = 3, a zatim 8 : 8 = 1. Količnik je 31.",
+      "savjet": "Znamenka 2 manja je od 8, pa započni s brojem 24."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-024",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 357 : 7.",
+      "ponudeni": [
+        "51",
+        "501",
+        "15",
+        "52"
+      ],
+      "tocan": 0,
+      "objasnjenje": "35 : 7 = 5 i 7 : 7 = 1, pa je 357 : 7 = 51.",
+      "savjet": "Broj 3 manji je od 7, pa najprije podijeli 35 sa 7."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-025",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 540 : 9.",
+      "ponudeni": [
+        "6",
+        "60",
+        "600",
+        "61"
+      ],
+      "tocan": 1,
+      "objasnjenje": "54 : 9 = 6, a 0 : 9 = 0, pa je 540 : 9 = 60.",
+      "savjet": "Najprije podijeli 54 s 9, a zatim pazi na jedinice."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 426 : 2.",
+      "ponudeni": [
+        "212",
+        "231",
+        "213",
+        "203"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4 : 2 = 2, 2 : 2 = 1 i 6 : 2 = 3, pa je količnik 213.",
+      "savjet": "Podijeli s 2 svaku znamenku, počevši od stotica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-027",
+      "tezina": "lagano",
+      "pitanje": "Ana ima 96 bombona i dijeli ih jednako na 3 prijatelja. Koliko bombona dobije svaki prijatelj?",
+      "ponudeni": [
+        "31",
+        "288",
+        "32",
+        "93"
+      ],
+      "tocan": 2,
+      "objasnjenje": "96 : 3 = 32 jer je 32 · 3 = 96.",
+      "savjet": "Podijeli 9 desetica i 6 jedinica na 3 jednaka dijela."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-028",
+      "tezina": "lagano",
+      "pitanje": "Luka 84 sličice stavlja jednako u 4 omotnice. Koliko sličica stavi u svaku omotnicu?",
+      "ponudeni": [
+        "21",
+        "12",
+        "336",
+        "80"
+      ],
+      "tocan": 0,
+      "objasnjenje": "84 : 4 = 21 jer je 21 · 4 = 84.",
+      "savjet": "Podijeli broj sličica s brojem omotnica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-029",
+      "tezina": "lagano",
+      "pitanje": "Znaš da je 63 : 7 = 9. Izračunaj 630 : 7.",
+      "ponudeni": [
+        "9",
+        "900",
+        "91",
+        "90"
+      ],
+      "tocan": 3,
+      "objasnjenje": "630 je deset puta veći broj od 63, pa je i količnik deset puta veći: 90.",
+      "savjet": "Usporedi brojeve 63 i 630."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-030",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj ostatak pri dijeljenju 29 : 4.",
+      "ponudeni": [
+        "3",
+        "1",
+        "7",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4 · 7 = 28, a 29 − 28 = 1, pa je ostatak 1.",
+      "savjet": "Nađi koliko puta 4 stane u 29, a zatim oduzmi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-031",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 864 : 4.",
+      "ponudeni": [
+        "206",
+        "216",
+        "261",
+        "226"
+      ],
+      "tocan": 1,
+      "objasnjenje": "8 : 4 = 2; 6 : 4 = 1, ostatak 2; 24 : 4 = 6. Zato je 864 : 4 = 216.",
+      "savjet": "Kad 6 desetica podijeliš s 4, ostatak spoji s jedinicama."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-032",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 824 : 4.",
+      "ponudeni": [
+        "26",
+        "216",
+        "206",
+        "260"
+      ],
+      "tocan": 2,
+      "objasnjenje": "8 : 4 = 2; 2 desetice ne mogu se podijeliti s 4, pa u količnik pišemo 0; 24 : 4 = 6. Količnik je 206.",
+      "savjet": "Pazi što pišeš u količnik kad 4 ne stane u znamenku desetica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-033",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 912 : 3.",
+      "ponudeni": [
+        "34",
+        "314",
+        "340",
+        "304"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9 : 3 = 3; 1 : 3 = 0, ostatak 1; 12 : 3 = 4. Zato je 912 : 3 = 304.",
+      "savjet": "Kad 3 ne stane u 1 deseticu, i to mjesto treba popuniti u količniku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-034",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 735 : 5.",
+      "ponudeni": [
+        "147",
+        "145",
+        "157",
+        "137"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7 : 5 = 1, ostatak 2; 23 : 5 = 4, ostatak 3; 35 : 5 = 7. Količnik je 147.",
+      "savjet": "Ostatak nakon dijeljenja stotica spoji sa sljedećom znamenkom."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-035",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 672 : 6.",
+      "ponudeni": [
+        "102",
+        "122",
+        "112",
+        "111"
+      ],
+      "tocan": 2,
+      "objasnjenje": "6 : 6 = 1; 7 : 6 = 1, ostatak 1; 12 : 6 = 2. Zato je 672 : 6 = 112.",
+      "savjet": "Nakon dijeljenja desetica ne zaboravi ostatak spojiti s jedinicama."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 252 : 7.",
+      "ponudeni": [
+        "35",
+        "306",
+        "36",
+        "46"
+      ],
+      "tocan": 2,
+      "objasnjenje": "25 : 7 = 3, ostatak 4; 42 : 7 = 6. Zato je 252 : 7 = 36.",
+      "savjet": "Broj 2 manji je od 7, pa započni dijeliti s brojem 25."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 432 : 8.",
+      "ponudeni": [
+        "54",
+        "504",
+        "53",
+        "64"
+      ],
+      "tocan": 0,
+      "objasnjenje": "43 : 8 = 5, ostatak 3; 32 : 8 = 4. Količnik je 54.",
+      "savjet": "Koliko puta 8 stane u 43? Ostatak spoji s jedinicama."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 954 : 9.",
+      "ponudeni": [
+        "16",
+        "106",
+        "160",
+        "116"
+      ],
+      "tocan": 1,
+      "objasnjenje": "9 : 9 = 1; 5 : 9 = 0, ostatak 5; 54 : 9 = 6. Zato je 954 : 9 = 106.",
+      "savjet": "Broj 9 ne stane u 5 desetica; pazi što tada pišeš u količnik."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 545 : 5.",
+      "ponudeni": [
+        "19",
+        "190",
+        "108",
+        "109"
+      ],
+      "tocan": 3,
+      "objasnjenje": "5 : 5 = 1; 4 : 5 = 0, ostatak 4; 45 : 5 = 9. Količnik je 109.",
+      "savjet": "Provjeri stane li 5 u znamenku desetica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 485 : 4.",
+      "ponudeni": [
+        "121",
+        "121, ostatak 1",
+        "120, ostatak 5",
+        "122, ostatak 3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4 : 4 = 1, 8 : 4 = 2, 5 : 4 = 1, ostatak 1. Provjera: 121 · 4 + 1 = 485.",
+      "savjet": "Nakon dijeljenja jedinica provjeri je li nešto preostalo."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-041",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 763 : 6.",
+      "ponudeni": [
+        "127, ostatak 1",
+        "127",
+        "126, ostatak 7",
+        "127, ostatak 5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7 : 6 = 1, ostatak 1; 16 : 6 = 2, ostatak 4; 43 : 6 = 7, ostatak 1. Zato je 763 : 6 = 127, ostatak 1.",
+      "savjet": "Na kraju provjeri: količnik · 6 + ostatak mora dati 763."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-042",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 538 : 7.",
+      "ponudeni": [
+        "76",
+        "706, ostatak 6",
+        "76, ostatak 6",
+        "75, ostatak 13"
+      ],
+      "tocan": 2,
+      "objasnjenje": "53 : 7 = 7, ostatak 4; 48 : 7 = 6, ostatak 6. Zato je 538 : 7 = 76, ostatak 6.",
+      "savjet": "Ostatak mora biti manji od 7."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-043",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 619 : 3.",
+      "ponudeni": [
+        "26, ostatak 1",
+        "206",
+        "205, ostatak 4",
+        "206, ostatak 1"
+      ],
+      "tocan": 3,
+      "objasnjenje": "6 : 3 = 2; 1 : 3 = 0, ostatak 1; 19 : 3 = 6, ostatak 1. Zato je 619 : 3 = 206, ostatak 1.",
+      "savjet": "Kad 3 ne stane u znamenku desetica, i to se mjesto bilježi u količniku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-044",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj ostatak pri dijeljenju 350 : 8.",
+      "ponudeni": [
+        "3",
+        "6",
+        "4",
+        "43"
+      ],
+      "tocan": 1,
+      "objasnjenje": "350 : 8 = 43, ostatak 6, jer je 43 · 8 = 344, a 350 − 344 = 6.",
+      "savjet": "Podijeli pisano i pogledaj što ostane nakon zadnjeg oduzimanja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-045",
+      "tezina": "srednje",
+      "pitanje": "U školi je 168 učenika raspoređeno jednako u 7 razreda. Koliko je učenika u jednom razredu?",
+      "ponudeni": [
+        "23",
+        "24",
+        "1176",
+        "26"
+      ],
+      "tocan": 1,
+      "objasnjenje": "168 : 7 = 24 jer je 24 · 7 = 168.",
+      "savjet": "Broj 1 manji je od 7, pa započni dijeljenjem 16 : 7."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-046",
+      "tezina": "srednje",
+      "pitanje": "Lana slaže 144 jaja u kutije po 6 jaja. Koliko kutija napuni?",
+      "ponudeni": [
+        "22",
+        "34",
+        "864",
+        "24"
+      ],
+      "tocan": 3,
+      "objasnjenje": "144 : 6 = 24 jer je 24 · 6 = 144.",
+      "savjet": "Podijeli ukupan broj jaja s brojem jaja u jednoj kutiji."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-047",
+      "tezina": "srednje",
+      "pitanje": "Petra ima 100 kuglica i slaže ih u vrećice po 7. Koliko punih vrećica dobije i koliko kuglica ostane?",
+      "ponudeni": [
+        "14 vrećica, ostanu 2 kuglice",
+        "13 vrećica, ostane 9 kuglica",
+        "15 vrećica, ostanu 2 kuglice",
+        "14 vrećica, ostane 5 kuglica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "100 : 7 = 14, ostatak 2, jer je 14 · 7 = 98, a 100 − 98 = 2.",
+      "savjet": "Nađi koliko puta 7 stane u 100, a zatim izračunaj što preostane."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-048",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj djeljenik ako je djelitelj 4, a količnik 23.",
+      "ponudeni": [
+        "27",
+        "92",
+        "19",
+        "82"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djeljenik dobijemo kad količnik pomnožimo s djeliteljem: 23 · 4 = 92.",
+      "savjet": "Sjeti se kako se dijeljenje provjerava množenjem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-049",
+      "tezina": "srednje",
+      "pitanje": "Provjera nekog dijeljenja glasi 45 · 6 + 3 = 273. Koje je to dijeljenje?",
+      "ponudeni": [
+        "270 : 6",
+        "273 : 3",
+        "273 : 6",
+        "45 : 6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djeljenik je 273, djelitelj 6, količnik 45, a ostatak 3: 273 : 6 = 45, ostatak 3.",
+      "savjet": "U provjeri se količnik množi s djeliteljem i dodaje se ostatak, a dobije se djeljenik."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-050",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 816 : 8.",
+      "ponudeni": [
+        "102",
+        "12",
+        "120",
+        "112"
+      ],
+      "tocan": 0,
+      "objasnjenje": "8 : 8 = 1; 1 : 8 = 0, ostatak 1; 16 : 8 = 2. Zato je 816 : 8 = 102.",
+      "savjet": "Provjeri stane li 8 u znamenku desetica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-051",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 780 : 6.",
+      "ponudeni": [
+        "13",
+        "103",
+        "130",
+        "131"
+      ],
+      "tocan": 2,
+      "objasnjenje": "7 : 6 = 1, ostatak 1; 18 : 6 = 3; 0 : 6 = 0. Količnik je 130.",
+      "savjet": "Ne zaboravi podijeliti i znamenku jedinica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-052",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 900 : 4.",
+      "ponudeni": [
+        "205",
+        "252",
+        "25",
+        "225"
+      ],
+      "tocan": 3,
+      "objasnjenje": "9 : 4 = 2, ostatak 1; 10 : 4 = 2, ostatak 2; 20 : 4 = 5. Zato je 900 : 4 = 225.",
+      "savjet": "Ostatke prenosi i spajaj sa sljedećom znamenkom, i onda kad je ona 0."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-053",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 711 : 9.",
+      "ponudeni": [
+        "709",
+        "79",
+        "78",
+        "89"
+      ],
+      "tocan": 1,
+      "objasnjenje": "71 : 9 = 7, ostatak 8; 81 : 9 = 9. Zato je 711 : 9 = 79.",
+      "savjet": "Broj 7 manji je od 9, pa započni s brojem 71."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-054",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 600 : 8.",
+      "ponudeni": [
+        "705",
+        "70",
+        "75",
+        "750"
+      ],
+      "tocan": 2,
+      "objasnjenje": "60 : 8 = 7, ostatak 4; 40 : 8 = 5. Količnik je 75.",
+      "savjet": "Broj 6 manji je od 8, pa započni s brojem 60."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-055",
+      "tezina": "srednje",
+      "pitanje": "U jedan kombi stane 8 učenika. Koliko je najmanje kombija potrebno da se 50 učenika poveze odjednom?",
+      "ponudeni": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "50 : 8 = 6, ostatak 2. Šest kombija preveze 48 učenika, a za preostala 2 učenika treba još jedan kombi, pa je potrebno 7 kombija.",
+      "savjet": "Razmisli što je s učenicima koji ostanu kad se napune puni kombiji."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-056",
+      "tezina": "srednje",
+      "pitanje": "Za 6 jednakih ulaznica plaćeno je 132 eura. Koliko košta jedna ulaznica?",
+      "ponudeni": [
+        "22 eura",
+        "21 euro",
+        "792 eura",
+        "23 eura"
+      ],
+      "tocan": 0,
+      "objasnjenje": "132 : 6 = 22 jer je 22 · 6 = 132.",
+      "savjet": "Ukupnu cijenu podijeli s brojem ulaznica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-057",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj koji je broj 5 puta manji od 435.",
+      "ponudeni": [
+        "2175",
+        "807",
+        "87",
+        "88"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 5 puta manji dobijemo dijeljenjem: 435 : 5 = 87.",
+      "savjet": "„5 puta manji“ znači da broj trebaš podijeliti s 5."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-058",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 256 : 4.",
+      "ponudeni": [
+        "604",
+        "61",
+        "54",
+        "64"
+      ],
+      "tocan": 3,
+      "objasnjenje": "25 : 4 = 6, ostatak 1; 16 : 4 = 4. Zato je 256 : 4 = 64.",
+      "savjet": "Broj 2 manji je od 4, pa započni s brojem 25."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-059",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 403 : 5.",
+      "ponudeni": [
+        "8, ostatak 3",
+        "80, ostatak 3",
+        "80",
+        "79, ostatak 8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "40 : 5 = 8; 3 : 5 = 0, ostatak 3. Zato je 403 : 5 = 80, ostatak 3.",
+      "savjet": "Kad 5 ne stane u znamenku jedinica, i to mjesto popuni u količniku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-060",
+      "tezina": "srednje",
+      "pitanje": "Koji od ovih brojeva ne može biti ostatak pri dijeljenju sa 7?",
+      "ponudeni": [
+        "2",
+        "5",
+        "6",
+        "7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ostatak mora biti manji od djelitelja 7, pa 7 ne može biti ostatak.",
+      "savjet": "Usporedi svaki ponuđeni broj s djeliteljem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-061",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 5432 : 4.",
+      "ponudeni": [
+        "1348",
+        "1358",
+        "1258",
+        "1385"
+      ],
+      "tocan": 1,
+      "objasnjenje": "5 : 4 = 1, ostatak 1; 14 : 4 = 3, ostatak 2; 23 : 4 = 5, ostatak 3; 32 : 4 = 8. Količnik je 1358.",
+      "savjet": "Svaki ostatak spoji sa sljedećom znamenkom djeljenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-062",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 7245 : 7.",
+      "ponudeni": [
+        "135",
+        "1305",
+        "1053",
+        "1035"
+      ],
+      "tocan": 3,
+      "objasnjenje": "7 : 7 = 1; 2 : 7 = 0, ostatak 2; 24 : 7 = 3, ostatak 3; 35 : 7 = 5. Zato je 7245 : 7 = 1035.",
+      "savjet": "Pazi na stotice: stane li 7 u znamenku 2?"
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-063",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 36 048 : 6.",
+      "ponudeni": [
+        "608",
+        "6008",
+        "68",
+        "6080"
+      ],
+      "tocan": 1,
+      "objasnjenje": "36 : 6 = 6; 0 : 6 = 0; 4 : 6 = 0, ostatak 4; 48 : 6 = 8. Količnik je 6008.",
+      "savjet": "Kreni od 36 tisućica i pazi na svaku sljedeću znamenku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-064",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 81 270 : 9.",
+      "ponudeni": [
+        "9030",
+        "903",
+        "930",
+        "9300"
+      ],
+      "tocan": 0,
+      "objasnjenje": "81 : 9 = 9; 2 : 9 = 0, ostatak 2; 27 : 9 = 3; 0 : 9 = 0. Količnik je 9030.",
+      "savjet": "Kad 9 ne stane u znamenku, u količnik upiši nulu i nastavi dalje."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-065",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 4823 : 5.",
+      "ponudeni": [
+        "964",
+        "963, ostatak 8",
+        "946, ostatak 3",
+        "964, ostatak 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "48 : 5 = 9, ostatak 3; 32 : 5 = 6, ostatak 2; 23 : 5 = 4, ostatak 3. Zato je 4823 : 5 = 964, ostatak 3.",
+      "savjet": "Broj 4 manji je od 5, pa započni s brojem 48."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-066",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 125 000 : 5.",
+      "ponudeni": [
+        "2500",
+        "25 000",
+        "250 000",
+        "20 500"
+      ],
+      "tocan": 1,
+      "objasnjenje": "125 : 5 = 25, a tri nule ostaju, pa je 125 000 : 5 = 25 000.",
+      "savjet": "Najprije izračunaj 125 : 5, a zatim pazi na nule."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-067",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 600 006 : 6.",
+      "ponudeni": [
+        "10 001",
+        "1001",
+        "100 001",
+        "101"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prva i zadnja znamenka daju 1, a za svaku od četiri nule između njih u količnik pišemo 0. Zato je 600 006 : 6 = 100 001.",
+      "savjet": "Djeljenik ima šest znamenaka i svaka daje jednu znamenku količnika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-068",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 9876 : 8.",
+      "ponudeni": [
+        "1234",
+        "1235, ostatak 4",
+        "1234, ostatak 4",
+        "1233, ostatak 12"
+      ],
+      "tocan": 2,
+      "objasnjenje": "9 : 8 = 1, ostatak 1; 18 : 8 = 2, ostatak 2; 27 : 8 = 3, ostatak 3; 36 : 8 = 4, ostatak 4. Zato je 9876 : 8 = 1234, ostatak 4.",
+      "savjet": "Na kraju provjeri: količnik · 8 + ostatak mora dati 9876."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-069",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 50 400 : 8.",
+      "ponudeni": [
+        "6300",
+        "630",
+        "6030",
+        "6003"
+      ],
+      "tocan": 0,
+      "objasnjenje": "50 : 8 = 6, ostatak 2; 24 : 8 = 3; 0 : 8 = 0; 0 : 8 = 0. Količnik je 6300.",
+      "savjet": "Broj 5 manji je od 8, pa započni s brojem 50 i ne preskači nule."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-070",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj djeljenik ako je djelitelj 6, količnik 125, a ostatak 4.",
+      "ponudeni": [
+        "750",
+        "754",
+        "746",
+        "756"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djeljenik = količnik · djelitelj + ostatak, tj. 125 · 6 + 4 = 754.",
+      "savjet": "Sjeti se kako se provjerava dijeljenje s ostatkom."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-071",
+      "tezina": "tesko",
+      "pitanje": "U jedan kombi stane 8 putnika. Na izlet ide 150 osoba. Koliko je najmanje kombija potrebno da sve osobe putuju odjednom?",
+      "ponudeni": [
+        "18",
+        "20",
+        "17",
+        "19"
+      ],
+      "tocan": 3,
+      "objasnjenje": "150 : 8 = 18, ostatak 6. U 18 kombija stane 144 osobe, a za preostalih 6 osoba treba još jedan kombi, ukupno 19.",
+      "savjet": "Razmisli gdje će sjesti osobe koje ostanu kad se napune puni kombiji."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-072",
+      "tezina": "tesko",
+      "pitanje": "Tvornica ima 1000 olovaka i pakira ih u kutije po 6 olovaka. Koliko punih kutija napuni?",
+      "ponudeni": [
+        "166",
+        "167",
+        "160",
+        "176"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1000 : 6 = 166, ostatak 4. Napuni se 166 kutija, a 4 olovke ostaju.",
+      "savjet": "Pitanje traži samo pune kutije, pa ostatak ne čini novu punu kutiju."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-073",
+      "tezina": "tesko",
+      "pitanje": "Knjižničarka slaže 250 knjiga na police, na svaku po 9 knjiga. Koliko knjiga ostane za posljednju, nepunu policu?",
+      "ponudeni": [
+        "2",
+        "27",
+        "7",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "250 : 9 = 27, ostatak 7, jer je 27 · 9 = 243, a 250 − 243 = 7.",
+      "savjet": "Traži se ostatak pri dijeljenju broja knjiga s 9."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-074",
+      "tezina": "tesko",
+      "pitanje": "Koji od ovih brojeva pri dijeljenju s 4 daje ostatak 3?",
+      "ponudeni": [
+        "126",
+        "124",
+        "127",
+        "125"
+      ],
+      "tocan": 2,
+      "objasnjenje": "127 : 4 = 31, ostatak 3, jer je 31 · 4 = 124, a 127 − 124 = 3.",
+      "savjet": "Podijeli svaki broj s 4 i pogledaj koliko ostaje."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-075",
+      "tezina": "tesko",
+      "pitanje": "Koji je najmanji broj koji treba dodati broju 538 da zbroj bude djeljiv sa 7?",
+      "ponudeni": [
+        "6",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "538 : 7 = 76, ostatak 6. Do broja 539 = 77 · 7 nedostaje još 1.",
+      "savjet": "Najprije izračunaj ostatak pri dijeljenju 538 sa 7."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-076",
+      "tezina": "tesko",
+      "pitanje": "Koji od ovih računa ima najveći količnik?",
+      "ponudeni": [
+        "848 : 4",
+        "855 : 5",
+        "906 : 3",
+        "966 : 6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "848 : 4 = 212, 855 : 5 = 171, 906 : 3 = 302 i 966 : 6 = 161. Najveći količnik je 302.",
+      "savjet": "Izračunaj svaki količnik pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-077",
+      "tezina": "tesko",
+      "pitanje": "Ivan ima 3 kutije s po 128 bombona. Sve bombone dijeli jednako na 8 prijatelja. Koliko bombona dobije svaki prijatelj?",
+      "ponudeni": [
+        "16",
+        "48",
+        "47",
+        "38"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ukupno je 3 · 128 = 384 bombona, a 384 : 8 = 48.",
+      "savjet": "Najprije izračunaj koliko je bombona ukupno."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-078",
+      "tezina": "tesko",
+      "pitanje": "Znaš da je 756 : 7 = 108. Izračunaj 763 : 7.",
+      "ponudeni": [
+        "108",
+        "115",
+        "110",
+        "109"
+      ],
+      "tocan": 3,
+      "objasnjenje": "763 je za 7 veći od 756, pa je količnik za 1 veći: 109.",
+      "savjet": "Usporedi brojeve 756 i 763."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-079",
+      "tezina": "tesko",
+      "pitanje": "Za 8 jednakih bicikala škola je platila 2000 eura. Koliko eura košta jedan bicikl?",
+      "ponudeni": [
+        "250",
+        "25",
+        "205",
+        "2500"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2000 : 8 = 250 jer je 250 · 8 = 2000.",
+      "savjet": "Broj 2 manji je od 8, pa započni s brojem 20 i ne preskači nule."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-080",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica dijeli 345 listova papira jednako na 6 skupina, a listove koji ostanu sprema u ormar. Koliko listova dobije svaka skupina i koliko ih spremi?",
+      "ponudeni": [
+        "56 listova, spremi 9",
+        "57 listova, spremi 6",
+        "57 listova, spremi 3",
+        "55 listova, spremi 15"
+      ],
+      "tocan": 2,
+      "objasnjenje": "345 : 6 = 57, ostatak 3, jer je 57 · 6 = 342, a 345 − 342 = 3.",
+      "savjet": "Podijeli 345 sa 6 i pogledaj ostatak."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-081",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 2814 : 7.",
+      "ponudeni": [
+        "42",
+        "420",
+        "412",
+        "402"
+      ],
+      "tocan": 3,
+      "objasnjenje": "28 : 7 = 4; 1 : 7 = 0, ostatak 1; 14 : 7 = 2. Zato je 2814 : 7 = 402.",
+      "savjet": "Broj 2 manji je od 7, pa započni s brojem 28."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-082",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 3627 : 9.",
+      "ponudeni": [
+        "403",
+        "43",
+        "430",
+        "413"
+      ],
+      "tocan": 0,
+      "objasnjenje": "36 : 9 = 4; 2 : 9 = 0, ostatak 2; 27 : 9 = 3. Zato je 3627 : 9 = 403.",
+      "savjet": "Pazi kad 9 ne stane u znamenku desetica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-083",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 45 216 : 3.",
+      "ponudeni": [
+        "1572",
+        "15 702",
+        "15 072",
+        "15 172"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4 : 3 = 1, ostatak 1; 15 : 3 = 5; 2 : 3 = 0, ostatak 2; 21 : 3 = 7; 6 : 3 = 2. Količnik je 15 072.",
+      "savjet": "Dijeli znamenku po znamenku i pazi kad 3 ne stane u znamenku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-084",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 70 014 : 7.",
+      "ponudeni": [
+        "1002",
+        "10 002",
+        "10 020",
+        "10 200"
+      ],
+      "tocan": 1,
+      "objasnjenje": "7 : 7 = 1; 0 : 7 = 0; 0 : 7 = 0; 1 : 7 = 0, ostatak 1; 14 : 7 = 2. Zato je 70 014 : 7 = 10 002.",
+      "savjet": "Za svaku znamenku u koju 7 ne stane u količnik napiši 0."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-085",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 999 999 : 9.",
+      "ponudeni": [
+        "11 111",
+        "111 011",
+        "101 111",
+        "111 111"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svaka znamenka 9 podijeljena s 9 daje 1, a djeljenik ima šest znamenaka. Zato je količnik 111 111.",
+      "savjet": "Koliko je 9 : 9 i koliko znamenaka ima djeljenik?"
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-086",
+      "tezina": "tesko",
+      "pitanje": "Knjiga ima 245 stranica. Lea svaki dan pročita 7 stranica. Za koliko dana pročita cijelu knjigu?",
+      "ponudeni": [
+        "35",
+        "36",
+        "34",
+        "305"
+      ],
+      "tocan": 0,
+      "objasnjenje": "245 : 7 = 35 bez ostatka, pa Lea knjigu pročita za točno 35 dana.",
+      "savjet": "Podijeli broj stranica s brojem stranica koje Lea pročita u jednom danu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-087",
+      "tezina": "tesko",
+      "pitanje": "Mia ima zbirku od 300 zadataka i svaki dan riješi 8 zadataka. Posljednjeg dana riješi samo zadatke koji su preostali. Za koliko dana riješi sve zadatke?",
+      "ponudeni": [
+        "37",
+        "36",
+        "38",
+        "40"
+      ],
+      "tocan": 2,
+      "objasnjenje": "300 : 8 = 37, ostatak 4. Nakon 37 dana preostanu 4 zadatka, pa joj treba još jedan dan, ukupno 38.",
+      "savjet": "Razmisli što Mia radi sa zadacima koji ostanu nakon punih dana."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-088",
+      "tezina": "tesko",
+      "pitanje": "Broj 249 pri dijeljenju s 5 daje ostatak 4. Koliki ostatak daje broj 250 pri dijeljenju s 5?",
+      "ponudeni": [
+        "5",
+        "1",
+        "4",
+        "0"
+      ],
+      "tocan": 3,
+      "objasnjenje": "250 je za 1 veći od 249, pa 5 u njega stane točno 50 puta: 250 : 5 = 50, ostatak 0.",
+      "savjet": "Sjeti se kojom znamenkom završavaju brojevi djeljivi s 5."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-089",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj djelitelj ako je djeljenik 945, a količnik 135.",
+      "ponudeni": [
+        "5",
+        "7",
+        "9",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelitelj je broj kojim treba pomnožiti količnik da se dobije djeljenik: 135 · 7 = 945.",
+      "savjet": "Razmisli kojim brojem treba pomnožiti 135 da dobiješ 945."
+    },
+    {
+      "id": "4-matematika-dijeljenje-jednoznamenkastim-brojem-090",
+      "tezina": "tesko",
+      "pitanje": "Nina je izračunala 832 : 4 = 28. Koju je pogrešku napravila?",
+      "ponudeni": [
+        "U količniku je izostavila nulu.",
+        "Pogrešno je oduzela.",
+        "Zanemarila je ostatak.",
+        "Podijelila je s krivim brojem."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točno je 832 : 4 = 208. Kad 4 ne stane u 3 desetice, u količnik treba napisati 0, a Nina ju je izostavila.",
+      "savjet": "Izračunaj 832 : 4 pisano pa usporedi rezultat s Nininim."
+    }
+  ]
+}

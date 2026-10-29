@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "dijeljenje-dvoznamenkastim-brojem",
+  "pitanja": [
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-001",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 96 : 12.",
+      "ponudeni": [
+        "8",
+        "9",
+        "7",
+        "6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "96 : 12 = 8 jer je 8 · 12 = 96.",
+      "savjet": "Koliko puta broj 12 stane u 96? Pomnoži 12 redom s brojevima manjim od 10."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-002",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 252 : 21.",
+      "ponudeni": [
+        "12",
+        "11",
+        "13",
+        "120"
+      ],
+      "tocan": 0,
+      "objasnjenje": "252 : 21 = 12 jer je 12 · 21 = 252.",
+      "savjet": "Najprije podijeli 25 desetica s 21, a zatim spusti jedinice."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-003",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 84 : 14.",
+      "ponudeni": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "84 : 14 = 6 jer je 6 · 14 = 84.",
+      "savjet": "Potraži broj koji pomnožen s 14 daje 84."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-004",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 143 : 13.",
+      "ponudeni": [
+        "10",
+        "11",
+        "12",
+        "101"
+      ],
+      "tocan": 1,
+      "objasnjenje": "143 : 13 = 11 jer je 11 · 13 = 143.",
+      "savjet": "Prvo podijeli 14 desetica s 13, ostatak pridruži jedinicama."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-005",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 90 : 18.",
+      "ponudeni": [
+        "5",
+        "4",
+        "6",
+        "9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "90 : 18 = 5 jer je 5 · 18 = 90.",
+      "savjet": "Pomnoži 18 redom s 2, 3, 4… dok ne dobiješ 90."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove broj kojim dijelimo?",
+      "ponudeni": [
+        "djelitelj",
+        "djeljenik",
+        "količnik",
+        "ostatak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj kojim dijelimo zove se djelitelj. U 84 : 12 = 7 djelitelj je 12.",
+      "savjet": "Ta riječ dolazi od glagola dijeliti i označava onoga koji dijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove rezultat dijeljenja?",
+      "ponudeni": [
+        "umnožak",
+        "količnik",
+        "djeljenik",
+        "razlika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rezultat dijeljenja zove se količnik. U 96 : 12 = 8 količnik je 8.",
+      "savjet": "Umnožak je rezultat množenja, a razlika rezultat oduzimanja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-008",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj djelitelj u računu 468 : 36 = 13?",
+      "ponudeni": [
+        "468",
+        "36",
+        "13",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djelitelj je broj kojim dijelimo, a to je broj iza znaka dijeljenja.",
+      "savjet": "Prisjeti se kojim se redom u računu pišu djeljenik, djelitelj i količnik."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 200 : 25.",
+      "ponudeni": [
+        "8",
+        "7",
+        "9",
+        "80"
+      ],
+      "tocan": 0,
+      "objasnjenje": "200 : 25 = 8 jer je 8 · 25 = 200.",
+      "savjet": "Sjeti se koliko puta 25 stane u 100, pa razmisli o 200."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-010",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 50 : 12.",
+      "ponudeni": [
+        "4",
+        "4, ostatak 2",
+        "3, ostatak 14",
+        "5, ostatak 2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4 · 12 = 48, a 50 − 48 = 2, što je manje od 12. Zato je 50 : 12 = 4, ostatak 2.",
+      "savjet": "Nađi najveći višekratnik broja 12 koji nije veći od 50, pa izračunaj koliko nedostaje."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-011",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 77 : 11.",
+      "ponudeni": [
+        "6",
+        "7",
+        "8",
+        "70"
+      ],
+      "tocan": 1,
+      "objasnjenje": "77 : 11 = 7 jer je 7 · 11 = 77.",
+      "savjet": "Prisjeti se tablice množenja broja 11."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-012",
+      "tezina": "lagano",
+      "pitanje": "Koliki je ostatak kad 65 podijeliš s 15?",
+      "ponudeni": [
+        "4",
+        "5",
+        "20",
+        "10"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4 · 15 = 60, a 65 − 60 = 5. Ostatak 5 manji je od djelitelja 15.",
+      "savjet": "Nađi koliko puta 15 stane u 65, pa od 65 oduzmi taj umnožak."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-013",
+      "tezina": "lagano",
+      "pitanje": "Koliki je najveći mogući ostatak pri dijeljenju s 16?",
+      "ponudeni": [
+        "16",
+        "15",
+        "9",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ostatak mora biti manji od djelitelja, pa je najveći mogući ostatak za 1 manji od 16.",
+      "savjet": "Prisjeti se kakav mora biti ostatak u odnosu na djelitelj."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 120 : 24.",
+      "ponudeni": [
+        "4",
+        "5",
+        "6",
+        "50"
+      ],
+      "tocan": 1,
+      "objasnjenje": "120 : 24 = 5 jer je 5 · 24 = 120.",
+      "savjet": "Pomnoži 24 s brojevima manjim od 10 i nađi umnožak 120."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 156 : 12.",
+      "ponudeni": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "tocan": 1,
+      "objasnjenje": "156 : 12 = 13 jer je 13 · 12 = 156.",
+      "savjet": "Podijeli 15 desetica s 12, a ostatak pridruži jedinicama."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 264 : 22.",
+      "ponudeni": [
+        "11",
+        "13",
+        "12",
+        "132"
+      ],
+      "tocan": 2,
+      "objasnjenje": "264 : 22 = 12 jer je 12 · 22 = 264.",
+      "savjet": "Dijeli s cijelim brojem 22, a ne samo s jednom njegovom znamenkom."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 99 : 33.",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "33"
+      ],
+      "tocan": 1,
+      "objasnjenje": "99 : 33 = 3 jer je 3 · 33 = 99.",
+      "savjet": "Zbrajaj 33 + 33 + … dok ne dobiješ 99."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-018",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 92 : 23.",
+      "ponudeni": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "92 : 23 = 4 jer je 4 · 23 = 92.",
+      "savjet": "Pomnoži 23 s nekoliko jednoznamenkastih brojeva i usporedi umnoške s 92."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-019",
+      "tezina": "lagano",
+      "pitanje": "Lana ima 48 jaja i slaže ih u kutije po 12 jaja. Koliko kutija napuni?",
+      "ponudeni": [
+        "3",
+        "5",
+        "4",
+        "36"
+      ],
+      "tocan": 2,
+      "objasnjenje": "48 : 12 = 4 jer je 4 · 12 = 48. Lana napuni 4 kutije.",
+      "savjet": "Ukupan broj jaja podijeli s brojem jaja u jednoj kutiji."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-020",
+      "tezina": "lagano",
+      "pitanje": "U školskom natjecanju sudjeluje 72 učenika. Podijeljeni su u ekipe po 24 učenika. Koliko je ekipa?",
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "48"
+      ],
+      "tocan": 2,
+      "objasnjenje": "72 : 24 = 3 jer je 3 · 24 = 72. Ima 3 ekipe.",
+      "savjet": "Broj učenika podijeli s brojem učenika u jednoj ekipi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-021",
+      "tezina": "lagano",
+      "pitanje": "Ivan ima 91 sličicu i u album lijepi po 13 sličica na stranicu. Koliko stranica popuni?",
+      "ponudeni": [
+        "6",
+        "7",
+        "8",
+        "78"
+      ],
+      "tocan": 1,
+      "objasnjenje": "91 : 13 = 7 jer je 7 · 13 = 91. Ivan popuni 7 stranica.",
+      "savjet": "Podijeli broj sličica s brojem sličica na jednoj stranici."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-022",
+      "tezina": "lagano",
+      "pitanje": "Kojim računom možeš provjeriti da je 84 : 12 = 7?",
+      "ponudeni": [
+        "84 − 12 = 7",
+        "84 · 7 = 12",
+        "7 · 12 = 84",
+        "12 + 7 = 84"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dijeljenje provjeravamo množenjem: količnik pomnožimo s djeliteljem i moramo dobiti djeljenik.",
+      "savjet": "Dijeljenje i množenje su suprotne računske operacije."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-023",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 135 : 15.",
+      "ponudeni": [
+        "8",
+        "10",
+        "9",
+        "7"
+      ],
+      "tocan": 2,
+      "objasnjenje": "135 : 15 = 9 jer je 9 · 15 = 135.",
+      "savjet": "Broj 13 manji je od 15, pa je prvi djelomični djeljenik cijeli broj 135."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-024",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 68 : 17.",
+      "ponudeni": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "68 : 17 = 4 jer je 4 · 17 = 68.",
+      "savjet": "Potraži broj koji pomnožen sa 17 daje 68."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-025",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 70 : 16.",
+      "ponudeni": [
+        "4",
+        "3, ostatak 22",
+        "4, ostatak 6",
+        "5, ostatak 6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4 · 16 = 64, a 70 − 64 = 6, što je manje od 16. Zato je 70 : 16 = 4, ostatak 6.",
+      "savjet": "Nađi najveći višekratnik broja 16 koji nije veći od 70. Ostatak mora biti manji od 16."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-026",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 145 : 12.",
+      "ponudeni": [
+        "12",
+        "11, ostatak 13",
+        "12, ostatak 1",
+        "13, ostatak 1"
+      ],
+      "tocan": 2,
+      "objasnjenje": "12 · 12 = 144, a 145 − 144 = 1, što je manje od 12. Zato je 145 : 12 = 12, ostatak 1.",
+      "savjet": "Podijeli 14 desetica s 12, a ostatak pridruži jedinicama. Pazi da ostatak bude manji od 12."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-027",
+      "tezina": "lagano",
+      "pitanje": "Djelitelj je 15, a količnik 6. Koji je djeljenik?",
+      "ponudeni": [
+        "21",
+        "80",
+        "90",
+        "105"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djeljenik dobivamo množenjem količnika i djelitelja: 6 · 15 = 90.",
+      "savjet": "Djeljenik dobiješ kad količnik pomnožiš s djeliteljem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-028",
+      "tezina": "lagano",
+      "pitanje": "Koji je prvi djelomični djeljenik pri pisanom dijeljenju 156 : 12?",
+      "ponudeni": [
+        "1",
+        "156",
+        "56",
+        "15"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 1 manji je od 12, pa uzimamo dvije znamenke: 15. Broj 12 stane u 15 jedanput.",
+      "savjet": "Uzmi toliko znamenaka djeljenika s lijeve strane da broj bude veći od djelitelja ili jednak njemu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-029",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 180 : 30.",
+      "ponudeni": [
+        "5",
+        "7",
+        "6",
+        "60"
+      ],
+      "tocan": 2,
+      "objasnjenje": "180 : 30 = 6 jer je 6 · 30 = 180.",
+      "savjet": "Broj 30 su 3 desetice, a 180 je 18 desetica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-030",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove broj koji dijelimo?",
+      "ponudeni": [
+        "djelitelj",
+        "količnik",
+        "djeljenik",
+        "umnožak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj koji dijelimo zove se djeljenik. U 96 : 12 = 8 djeljenik je 96.",
+      "savjet": "To je broj koji stoji ispred znaka dijeljenja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-031",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 936 : 24.",
+      "ponudeni": [
+        "38",
+        "40",
+        "309",
+        "39"
+      ],
+      "tocan": 3,
+      "objasnjenje": "936 : 24 = 39 jer je 39 · 24 = 936.",
+      "savjet": "Prvi djelomični djeljenik je 93. Procijeni koliko puta 24 stane u 93."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-032",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 672 : 32.",
+      "ponudeni": [
+        "20",
+        "22",
+        "201",
+        "21"
+      ],
+      "tocan": 3,
+      "objasnjenje": "672 : 32 = 21 jer je 21 · 32 = 672.",
+      "savjet": "Podijeli 67 s 32, a zatim spusti znamenku 2."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-033",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 864 : 27.",
+      "ponudeni": [
+        "31",
+        "33",
+        "32",
+        "42"
+      ],
+      "tocan": 2,
+      "objasnjenje": "864 : 27 = 32 jer je 32 · 27 = 864.",
+      "savjet": "Prvi djelomični djeljenik je 86. Koliko puta 27 stane u 86?"
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-034",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 798 : 38.",
+      "ponudeni": [
+        "20",
+        "22",
+        "12",
+        "21"
+      ],
+      "tocan": 3,
+      "objasnjenje": "798 : 38 = 21 jer je 21 · 38 = 798.",
+      "savjet": "Podijeli 79 s 38, a zatim spusti jedinice 8."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-035",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 645 : 15.",
+      "ponudeni": [
+        "42",
+        "44",
+        "34",
+        "43"
+      ],
+      "tocan": 3,
+      "objasnjenje": "645 : 15 = 43 jer je 43 · 15 = 645.",
+      "savjet": "Prvi djelomični djeljenik je 64. Koliko puta 15 stane u 64?"
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 912 : 48.",
+      "ponudeni": [
+        "18",
+        "20",
+        "228",
+        "19"
+      ],
+      "tocan": 3,
+      "objasnjenje": "912 : 48 = 19 jer je 19 · 48 = 912.",
+      "savjet": "Broj 9 manji je od 48, pa započni s 91."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 742 : 35.",
+      "ponudeni": [
+        "21",
+        "20, ostatak 42",
+        "22, ostatak 7",
+        "21, ostatak 7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "21 · 35 = 735, a 742 − 735 = 7, što je manje od 35. Zato je 742 : 35 = 21, ostatak 7.",
+      "savjet": "Podijeli 74 s 35, spusti 2 i provjeri je li ostatak manji od 35."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 500 : 23.",
+      "ponudeni": [
+        "21, ostatak 7",
+        "20, ostatak 40",
+        "22, ostatak 17",
+        "21, ostatak 17"
+      ],
+      "tocan": 3,
+      "objasnjenje": "21 · 23 = 483, a 500 − 483 = 17, što je manje od 23. Zato je 500 : 23 = 21, ostatak 17.",
+      "savjet": "Podijeli 50 s 23, spusti 0 i pažljivo oduzmi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 830 : 41.",
+      "ponudeni": [
+        "2, ostatak 10",
+        "20",
+        "21, ostatak 10",
+        "20, ostatak 10"
+      ],
+      "tocan": 3,
+      "objasnjenje": "20 · 41 = 820, a 830 − 820 = 10, što je manje od 41. Zato je 830 : 41 = 20, ostatak 10.",
+      "savjet": "Kad djelomični djeljenik bude manji od 41, u količnik upiši nulu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 618 : 15.",
+      "ponudeni": [
+        "41, ostatak 3",
+        "41",
+        "40, ostatak 18",
+        "42, ostatak 3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "41 · 15 = 615, a 618 − 615 = 3, što je manje od 15. Zato je 618 : 15 = 41, ostatak 3.",
+      "savjet": "Podijeli 61 s 15, spusti 8 i provjeri je li ostatak manji od 15."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-041",
+      "tezina": "srednje",
+      "pitanje": "Koji je prvi djelomični djeljenik pri pisanom dijeljenju 936 : 24?",
+      "ponudeni": [
+        "9",
+        "936",
+        "36",
+        "93"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 9 manji je od 24, a 93 je veći, pa je prvi djelomični djeljenik 93.",
+      "savjet": "Uzimaj znamenke djeljenika slijeva dok ne dobiješ broj veći od djelitelja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-042",
+      "tezina": "srednje",
+      "pitanje": "Koji je prvi djelomični djeljenik pri pisanom dijeljenju 245 : 35?",
+      "ponudeni": [
+        "2",
+        "24",
+        "45",
+        "245"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I 2 i 24 manji su od 35, pa moramo uzeti sve tri znamenke: 245.",
+      "savjet": "Usporedi s djeliteljem najprije prvu znamenku, zatim prve dvije znamenke djeljenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-043",
+      "tezina": "srednje",
+      "pitanje": "Koliko znamenaka ima količnik 768 : 32?",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvi djelomični djeljenik je 76, a nakon njega ostaje još jedna znamenka. Zato količnik ima dvije znamenke (768 : 32 = 24).",
+      "savjet": "Odredi prvi djelomični djeljenik i prebroji koliko znamenaka djeljenika ostaje iza njega."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-044",
+      "tezina": "srednje",
+      "pitanje": "Koliko znamenaka ima količnik 1872 : 24?",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 18 manji je od 24, pa je prvi djelomični djeljenik 187. Iza njega ostaje jedna znamenka, pa količnik ima dvije znamenke (1872 : 24 = 78).",
+      "savjet": "Prvo odredi prvi djelomični djeljenik. Svaka znamenka iza njega daje još jednu znamenku količnika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-045",
+      "tezina": "srednje",
+      "pitanje": "Koliko znamenaka ima količnik 4536 : 12?",
+      "ponudeni": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvi djelomični djeljenik je 45, a iza njega ostaju dvije znamenke. Zato količnik ima tri znamenke (4536 : 12 = 378).",
+      "savjet": "Prvo odredi prvi djelomični djeljenik. Svaka znamenka iza njega daje još jednu znamenku količnika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-046",
+      "tezina": "srednje",
+      "pitanje": "Koja je prva znamenka količnika pri pisanom dijeljenju 936 : 24?",
+      "ponudeni": [
+        "3",
+        "2",
+        "4",
+        "9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prvi djelomični djeljenik je 93. Broj 24 stane u 93 triput jer je 3 · 24 = 72, a 4 · 24 = 96 je previše.",
+      "savjet": "Odredi prvi djelomični djeljenik i procijeni koliko puta 24 stane u njega."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-047",
+      "tezina": "srednje",
+      "pitanje": "Pri pisanom dijeljenju 1428 : 34 prvi djelomični djeljenik je 142. Koja je prva znamenka količnika?",
+      "ponudeni": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 34 stane u 142 četiri puta jer je 4 · 34 = 136, a 5 · 34 = 170 je previše.",
+      "savjet": "Pomnoži 34 s nekoliko jednoznamenkastih brojeva i usporedi umnoške sa 142."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-048",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 1428 : 34.",
+      "ponudeni": [
+        "42",
+        "41",
+        "43",
+        "402"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1428 : 34 = 42 jer je 42 · 34 = 1428.",
+      "savjet": "Prvi djelomični djeljenik je 142. Nakon prve znamenke količnika spusti 8."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-049",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2520 : 12.",
+      "ponudeni": [
+        "210",
+        "21",
+        "201",
+        "220"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2520 : 12 = 210 jer je 210 · 12 = 2520.",
+      "savjet": "Ne zaboravi: svaka spuštena znamenka daje jednu znamenku količnika, pa i nula."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-050",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 1365 : 13.",
+      "ponudeni": [
+        "105",
+        "15",
+        "150",
+        "106"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1365 : 13 = 105 jer je 105 · 13 = 1365.",
+      "savjet": "Kad nakon spuštanja znamenke dobiješ broj manji od 13, u količnik upiši nulu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-051",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2448 : 24.",
+      "ponudeni": [
+        "102",
+        "12",
+        "120",
+        "112"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2448 : 24 = 102 jer je 102 · 24 = 2448.",
+      "savjet": "Pazi na nulu u količniku kad je djelomični djeljenik manji od 24."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-052",
+      "tezina": "srednje",
+      "pitanje": "Na izlet ide 312 učenika. Učitelji ih dijele u ekipe po 24 učenika. Koliko je ekipa?",
+      "ponudeni": [
+        "12",
+        "13",
+        "14",
+        "130"
+      ],
+      "tocan": 1,
+      "objasnjenje": "312 : 24 = 13 jer je 13 · 24 = 312. Bit će 13 ekipa.",
+      "savjet": "Ukupan broj učenika podijeli s brojem učenika u jednoj ekipi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-053",
+      "tezina": "srednje",
+      "pitanje": "Na farmi su skupili 540 jaja i slažu ih u kutije po 12 jaja. Koliko kutija napune?",
+      "ponudeni": [
+        "45",
+        "44",
+        "54",
+        "450"
+      ],
+      "tocan": 0,
+      "objasnjenje": "540 : 12 = 45 jer je 45 · 12 = 540. Napune 45 kutija.",
+      "savjet": "Broj jaja podijeli s brojem jaja u jednoj kutiji."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-054",
+      "tezina": "srednje",
+      "pitanje": "Biciklisti su u 14 dana prešli 868 km, svaki dan jednako. Koliko su kilometara prešli svaki dan?",
+      "ponudeni": [
+        "62 km",
+        "61 km",
+        "52 km",
+        "72 km"
+      ],
+      "tocan": 0,
+      "objasnjenje": "868 : 14 = 62 jer je 62 · 14 = 868. Svaki dan su prešli 62 km.",
+      "savjet": "Ukupan put podijeli s brojem dana."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-055",
+      "tezina": "srednje",
+      "pitanje": "Lucija ima 200 bombona i stavlja ih u vrećice po 15 bombona. Koliko bombona ostane izvan punih vrećica?",
+      "ponudeni": [
+        "13",
+        "5",
+        "20",
+        "0"
+      ],
+      "tocan": 1,
+      "objasnjenje": "13 · 15 = 195, a 200 − 195 = 5. Lucija napuni 13 vrećica i ostane joj 5 bombona.",
+      "savjet": "Podijeli 200 s 15; ono što ostane izvan punih vrećica je ostatak."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-056",
+      "tezina": "srednje",
+      "pitanje": "U kinodvorani je 450 sjedala u redovima po 18 sjedala. Koliko je redova?",
+      "ponudeni": [
+        "24",
+        "25",
+        "26",
+        "35"
+      ],
+      "tocan": 1,
+      "objasnjenje": "450 : 18 = 25 jer je 25 · 18 = 450. U dvorani je 25 redova.",
+      "savjet": "Broj sjedala podijeli s brojem sjedala u jednom redu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-057",
+      "tezina": "srednje",
+      "pitanje": "Koji od ovih brojeva može biti ostatak pri dijeljenju s 25?",
+      "ponudeni": [
+        "24",
+        "25",
+        "30",
+        "52"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ostatak mora biti manji od djelitelja 25. Od ponuđenih brojeva samo je 24 manji od 25.",
+      "savjet": "Usporedi svaki ponuđeni broj s djeliteljem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-058",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 1000 : 40.",
+      "ponudeni": [
+        "250",
+        "25",
+        "24",
+        "20"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1000 : 40 = 25 jer je 25 · 40 = 1000.",
+      "savjet": "Broj 40 su 4 desetice, a 1000 je 100 desetica."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-059",
+      "tezina": "srednje",
+      "pitanje": "Djelitelj je 23, količnik 17, a ostatak 5. Koji je djeljenik?",
+      "ponudeni": [
+        "391",
+        "396",
+        "386",
+        "45"
+      ],
+      "tocan": 1,
+      "objasnjenje": "17 · 23 = 391, a 391 + 5 = 396. Djeljenik je 396.",
+      "savjet": "Pomnoži količnik i djelitelj, a zatim tom umnošku dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-060",
+      "tezina": "srednje",
+      "pitanje": "Pri dijeljenju 1872 : 24 prva znamenka količnika je 7, a ostatak je 187 − 168 = 19. Kad spustiš 2, koja je sljedeća znamenka količnika?",
+      "ponudeni": [
+        "7",
+        "8",
+        "9",
+        "0"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Spuštanjem dvojke dobivamo 192. Broj 24 stane u 192 osam puta jer je 8 · 24 = 192.",
+      "savjet": "Iza ostatka 19 napiši spuštenu znamenku i procijeni koliko puta 24 stane u dobiveni broj."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-061",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 8736 : 24.",
+      "ponudeni": [
+        "354",
+        "364",
+        "374",
+        "3604"
+      ],
+      "tocan": 1,
+      "objasnjenje": "8736 : 24 = 364 jer je 364 · 24 = 8736.",
+      "savjet": "Prvi djelomični djeljenik je 87. Nakon svakog oduzimanja spusti sljedeću znamenku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-062",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 7560 : 36.",
+      "ponudeni": [
+        "21",
+        "210",
+        "201",
+        "2100"
+      ],
+      "tocan": 1,
+      "objasnjenje": "7560 : 36 = 210 jer je 210 · 36 = 7560.",
+      "savjet": "Prebroji koliko znamenaka djeljenika ostaje iza prvog djelomičnog djeljenika; toliko još znamenaka ima količnik."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-063",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 6045 : 15.",
+      "ponudeni": [
+        "43",
+        "403",
+        "430",
+        "413"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6045 : 15 = 403 jer je 403 · 15 = 6045.",
+      "savjet": "Kad spuštena znamenka daje broj manji od 15, u količnik upiši nulu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-064",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 9999 : 33.",
+      "ponudeni": [
+        "33",
+        "330",
+        "303",
+        "3003"
+      ],
+      "tocan": 2,
+      "objasnjenje": "9999 : 33 = 303 jer je 303 · 33 = 9999.",
+      "savjet": "Prvi djelomični djeljenik je 99. Pazi na znamenku koja daje broj manji od 33."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-065",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 5000 : 48.",
+      "ponudeni": [
+        "104",
+        "104, ostatak 8",
+        "103, ostatak 56",
+        "14, ostatak 8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "104 · 48 = 4992, a 5000 − 4992 = 8, što je manje od 48. Zato je 5000 : 48 = 104, ostatak 8.",
+      "savjet": "Kad djelomični djeljenik bude manji od 48, u količnik upiši nulu. Ostatak mora biti manji od 48."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-066",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 12 345 : 15.",
+      "ponudeni": [
+        "822",
+        "823",
+        "824",
+        "8023"
+      ],
+      "tocan": 1,
+      "objasnjenje": "12 345 : 15 = 823 jer je 823 · 15 = 12 345.",
+      "savjet": "Prvi djelomični djeljenik je 123. Nakon toga spuštaš još dvije znamenke."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-067",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 25 000 : 25.",
+      "ponudeni": [
+        "100",
+        "10 000",
+        "1000",
+        "1001"
+      ],
+      "tocan": 2,
+      "objasnjenje": "25 000 : 25 = 1000 jer je 1000 · 25 = 25 000.",
+      "savjet": "Broj 25 stane u 25 točno jedanput, a svaka sljedeća spuštena nula daje jednu znamenku količnika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-068",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 40 800 : 34.",
+      "ponudeni": [
+        "120",
+        "12 000",
+        "1200",
+        "1020"
+      ],
+      "tocan": 2,
+      "objasnjenje": "40 800 : 34 = 1200 jer je 1200 · 34 = 40 800.",
+      "savjet": "Prvi djelomični djeljenik je 40. Prebroji koliko znamenaka ostaje iza njega."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-069",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 31 416 : 22.",
+      "ponudeni": [
+        "1418",
+        "1428",
+        "1438",
+        "1328"
+      ],
+      "tocan": 1,
+      "objasnjenje": "31 416 : 22 = 1428 jer je 1428 · 22 = 31 416.",
+      "savjet": "Prvi djelomični djeljenik je 31. Dijeli pažljivo znamenku po znamenku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-070",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 50 000 : 64.",
+      "ponudeni": [
+        "781",
+        "780, ostatak 80",
+        "781, ostatak 16",
+        "78, ostatak 16"
+      ],
+      "tocan": 2,
+      "objasnjenje": "781 · 64 = 49 984, a 50 000 − 49 984 = 16, što je manje od 64. Zato je 50 000 : 64 = 781, ostatak 16.",
+      "savjet": "Broj 50 manji je od 64, pa je prvi djelomični djeljenik 500. Ostatak mora biti manji od 64."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-071",
+      "tezina": "tesko",
+      "pitanje": "Koliko znamenaka ima količnik 23 456 : 47?",
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brojevi 2 i 23 manji su od 47, pa je prvi djelomični djeljenik 234. Iza njega ostaju dvije znamenke, pa količnik ima tri znamenke.",
+      "savjet": "Odredi prvi djelomični djeljenik i prebroji znamenke djeljenika koje ostaju iza njega."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-072",
+      "tezina": "tesko",
+      "pitanje": "Koliko znamenaka ima količnik 98 765 : 43?",
+      "ponudeni": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvi djelomični djeljenik je 98, a iza njega ostaju tri znamenke. Zato količnik ima četiri znamenke.",
+      "savjet": "Odredi prvi djelomični djeljenik i prebroji znamenke djeljenika koje ostaju iza njega."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-073",
+      "tezina": "tesko",
+      "pitanje": "Koji je prvi djelomični djeljenik pri pisanom dijeljenju 30 726 : 54?",
+      "ponudeni": [
+        "30",
+        "3072",
+        "307",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brojevi 3 i 30 manji su od 54, a 307 je veći, pa je prvi djelomični djeljenik 307.",
+      "savjet": "Uzimaj znamenke djeljenika slijeva dok ne dobiješ broj veći od djelitelja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-074",
+      "tezina": "tesko",
+      "pitanje": "Koja je druga znamenka količnika pri pisanom dijeljenju 4284 : 21?",
+      "ponudeni": [
+        "1",
+        "2",
+        "0",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "42 : 21 = 2, ostatak 0. Spuštena osmica daje 8, a 21 u 8 stane nula puta, pa je druga znamenka 0 (4284 : 21 = 204).",
+      "savjet": "Nakon prve znamenke količnika spusti sljedeću znamenku i provjeri je li dobiveni broj manji od 21."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-075",
+      "tezina": "tesko",
+      "pitanje": "U školi ima 456 učenika četvrtih i 384 učenika trećih razreda. Svi zajedno podijeljeni su u ekipe po 24 učenika. Koliko je ekipa?",
+      "ponudeni": [
+        "34",
+        "36",
+        "35",
+        "19"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ukupno je 456 + 384 = 840 učenika, a 840 : 24 = 35. Bit će 35 ekipa.",
+      "savjet": "Najprije izračunaj koliko je učenika ukupno."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-076",
+      "tezina": "tesko",
+      "pitanje": "Na farmi su skupili 1560 jaja. Njih 24 se razbilo, a ostala su složena u kutije po 12 jaja. Koliko je kutija napunjeno?",
+      "ponudeni": [
+        "130",
+        "126",
+        "138",
+        "128"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ostalo je 1560 − 24 = 1536 jaja, a 1536 : 12 = 128. Napunjeno je 128 kutija.",
+      "savjet": "Najprije oduzmi razbijena jaja, a tek onda dijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-077",
+      "tezina": "tesko",
+      "pitanje": "Obitelj je u 3 tjedna biciklom prešla 1134 km, svaki dan jednako. Koliko su kilometara prešli svaki dan?",
+      "ponudeni": [
+        "378 km",
+        "162 km",
+        "54 km",
+        "44 km"
+      ],
+      "tocan": 2,
+      "objasnjenje": "3 tjedna imaju 21 dan, a 1134 : 21 = 54. Svaki dan su prešli 54 km.",
+      "savjet": "Najprije izračunaj koliko dana imaju 3 tjedna."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-078",
+      "tezina": "tesko",
+      "pitanje": "Na izlet ide 1000 učenika. U jedan autobus stane 48 učenika. Koliko je najmanje autobusa potrebno?",
+      "ponudeni": [
+        "20",
+        "22",
+        "21",
+        "2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1000 : 48 = 20, ostatak 40. U 20 autobusa ne stanu svi, pa za preostalih 40 učenika treba još jedan autobus.",
+      "savjet": "Razmisli što učiniti s učenicima koji ostanu kad se napune puni autobusi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-079",
+      "tezina": "tesko",
+      "pitanje": "Djelitelj je 37, količnik 205, a ostatak 19. Koji je djeljenik?",
+      "ponudeni": [
+        "7585",
+        "7566",
+        "7614",
+        "7604"
+      ],
+      "tocan": 3,
+      "objasnjenje": "205 · 37 = 7585, a 7585 + 19 = 7604. Djeljenik je 7604.",
+      "savjet": "Pomnoži količnik i djelitelj, a zatim tom umnošku dodaj ostatak."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-080",
+      "tezina": "tesko",
+      "pitanje": "Koji broj treba podijeliti s 25 da bi se dobio količnik 360 bez ostatka?",
+      "ponudeni": [
+        "900",
+        "385",
+        "90 000",
+        "9000"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Traženi broj je 360 · 25 = 9000. Provjera: 9000 : 25 = 360.",
+      "savjet": "Dijeljenje provjeravamo množenjem: količnik pomnožimo s djeliteljem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-081",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 7896 : 24.",
+      "ponudeni": [
+        "328",
+        "339",
+        "329",
+        "3209"
+      ],
+      "tocan": 2,
+      "objasnjenje": "7896 : 24 = 329 jer je 329 · 24 = 7896.",
+      "savjet": "Prvi djelomični djeljenik je 78. Nakon svakog oduzimanja provjeri je li ostatak manji od 24."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-082",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 10 395 : 45.",
+      "ponudeni": [
+        "221",
+        "241",
+        "2301",
+        "231"
+      ],
+      "tocan": 3,
+      "objasnjenje": "10 395 : 45 = 231 jer je 231 · 45 = 10 395.",
+      "savjet": "Brojevi 1 i 10 manji su od 45, pa je prvi djelomični djeljenik 103."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-083",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 61 200 : 72.",
+      "ponudeni": [
+        "85",
+        "805",
+        "8500",
+        "850"
+      ],
+      "tocan": 3,
+      "objasnjenje": "61 200 : 72 = 850 jer je 850 · 72 = 61 200.",
+      "savjet": "Prvi djelomični djeljenik je 612. Iza njega ostaju dvije znamenke."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-084",
+      "tezina": "tesko",
+      "pitanje": "Koje dijeljenje ima najveći količnik?",
+      "ponudeni": [
+        "2592 : 72",
+        "1755 : 45",
+        "1184 : 37",
+        "1302 : 31"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Količnici su 2592 : 72 = 36, 1755 : 45 = 39, 1302 : 31 = 42 i 1184 : 37 = 32. Najveći je 42.",
+      "savjet": "Izračunaj svaki količnik pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-085",
+      "tezina": "tesko",
+      "pitanje": "Koja je zadnja znamenka količnika pri pisanom dijeljenju 15 750 : 25?",
+      "ponudeni": [
+        "3",
+        "5",
+        "6",
+        "0"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvi djelomični djeljenik je 157, a 15 750 : 25 = 630. Zadnja spuštena znamenka daje broj manji od 25, pa je zadnja znamenka količnika 0.",
+      "savjet": "Podijeli do kraja i pazi što se događa kad djelomični djeljenik bude manji od 25."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-086",
+      "tezina": "tesko",
+      "pitanje": "Vlak je prešao 1260 km za 18 sati, a autobus 960 km za 16 sati. Oba su vozila jednoliko. Koliko je kilometara vlak prelazio više u 1 sat?",
+      "ponudeni": [
+        "300 km",
+        "20 km",
+        "70 km",
+        "10 km"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vlak je prelazio 1260 : 18 = 70 km na sat, a autobus 960 : 16 = 60 km na sat. Razlika je 70 − 60 = 10 km.",
+      "savjet": "Najprije izračunaj koliko je svako vozilo prelazilo u jednom satu, a zatim usporedi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-087",
+      "tezina": "tesko",
+      "pitanje": "Za izlet 28 učenika ukupno plaća 1652 eura, svatko jednako. Koliko eura plaća svaki učenik?",
+      "ponudeni": [
+        "58 eura",
+        "69 eura",
+        "590 eura",
+        "59 eura"
+      ],
+      "tocan": 3,
+      "objasnjenje": "1652 : 28 = 59 jer je 59 · 28 = 1652. Svaki učenik plaća 59 eura.",
+      "savjet": "Ukupan iznos podijeli s brojem učenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-088",
+      "tezina": "tesko",
+      "pitanje": "Knjižnica ima 2340 knjiga. Na jednu policu stane 45 knjiga, a jedan ormar ima 4 police. Koliko je ormara potrebno za sve knjige?",
+      "ponudeni": [
+        "13",
+        "52",
+        "14",
+        "9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2340 : 45 = 52 police, a 52 : 4 = 13 ormara.",
+      "savjet": "Najprije izračunaj koliko je polica potrebno."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-089",
+      "tezina": "tesko",
+      "pitanje": "Slastičar je ispekao 1000 kolača i pakira ih u kutije po 36 kolača. Koliko kolača ostane izvan punih kutija?",
+      "ponudeni": [
+        "27",
+        "64",
+        "8",
+        "28"
+      ],
+      "tocan": 3,
+      "objasnjenje": "27 · 36 = 972, a 1000 − 972 = 28. Napuni 27 kutija i ostane 28 kolača.",
+      "savjet": "Traži se ostatak, a on mora biti manji od 36."
+    },
+    {
+      "id": "4-matematika-dijeljenje-dvoznamenkastim-brojem-090",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 100 000 : 32.",
+      "ponudeni": [
+        "3120",
+        "312",
+        "31 250",
+        "3125"
+      ],
+      "tocan": 3,
+      "objasnjenje": "100 000 : 32 = 3125 jer je 3125 · 32 = 100 000.",
+      "savjet": "Broj 10 manji je od 32, pa je prvi djelomični djeljenik 100. Prebroji koliko znamenaka ostaje iza njega."
+    }
+  ]
+}

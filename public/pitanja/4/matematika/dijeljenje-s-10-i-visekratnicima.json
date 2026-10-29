@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "dijeljenje-s-10-i-visekratnicima",
+  "pitanja": [
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-001",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 80 : 10.",
+      "ponudeni": [
+        "8",
+        "800",
+        "70",
+        "18"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad broj koji završava nulom dijelimo s 10, izostavimo mu jednu nulu na kraju. Zato je 80 : 10 = 8.",
+      "savjet": "Kad dijeliš s 10, broju na kraju izostavi jednu nulu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-002",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 350 : 10.",
+      "ponudeni": [
+        "3500",
+        "340",
+        "35",
+        "305"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broju 350 izostavimo nulu na kraju i dobijemo 35. Provjera: 35 · 10 = 350.",
+      "savjet": "Dijeljenje s 10 poništava množenje s 10: izostavi jednu nulu s kraja broja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-003",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 600 : 100.",
+      "ponudeni": [
+        "60",
+        "6",
+        "500",
+        "6000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad dijelimo sa 100, izostavimo dvije nule na kraju broja. Zato je 600 : 100 = 6.",
+      "savjet": "Broj 100 ima dvije nule, pa toliko nula izostavi i s kraja djeljenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-004",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 4700 : 100.",
+      "ponudeni": [
+        "470",
+        "4600",
+        "407",
+        "47"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broju 4700 izostavimo dvije nule s kraja i dobijemo 47. Provjera: 47 · 100 = 4700.",
+      "savjet": "Pri dijeljenju sa 100 izostavi dvije nule s kraja djeljenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-005",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 2000 : 10.",
+      "ponudeni": [
+        "200",
+        "20",
+        "2",
+        "20 000"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dijelimo s 10, pa izostavljamo samo jednu nulu: 2000 : 10 = 200.",
+      "savjet": "Pazi koliko nula ima djelitelj i toliko ih izostavi s kraja djeljenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-006",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 90 : 30.",
+      "ponudeni": [
+        "30",
+        "60",
+        "3",
+        "9"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izostavimo po jednu nulu u oba broja: 90 : 30 = 9 : 3 = 3.",
+      "savjet": "Izostavi po jednu nulu s kraja djeljenika i djelitelja pa podijeli jednoznamenkaste brojeve."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-007",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 80 : 20.",
+      "ponudeni": [
+        "40",
+        "2",
+        "60",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "80 : 20 = 8 : 2 = 4, jer je 4 · 20 = 80.",
+      "savjet": "Izostavi po jednu nulu u oba broja pa se sjeti tablice množenja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 120 : 40.",
+      "ponudeni": [
+        "3",
+        "30",
+        "80",
+        "300"
+      ],
+      "tocan": 0,
+      "objasnjenje": "120 : 40 = 12 : 4 = 3, jer je 3 · 40 = 120.",
+      "savjet": "Izostavi nulu u oba broja i podijeli 12 s 4."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-009",
+      "tezina": "lagano",
+      "pitanje": "Što činimo kad broj koji završava nulom dijelimo s 10?",
+      "ponudeni": [
+        "Na kraju mu dopišemo jednu nulu.",
+        "Na kraju mu izostavimo jednu nulu.",
+        "Na kraju mu izostavimo dvije nule.",
+        "Na kraju mu dopišemo dvije nule."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dijeljenje s 10 suprotno je množenju s 10. Zato broju izostavimo jednu nulu, npr. 70 : 10 = 7.",
+      "savjet": "Sjeti se da dijeljenje poništava množenje istim brojem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-010",
+      "tezina": "lagano",
+      "pitanje": "Što činimo kad broj koji završava s dvije nule dijelimo sa 100?",
+      "ponudeni": [
+        "Na kraju mu izostavimo dvije nule.",
+        "Na kraju mu izostavimo jednu nulu.",
+        "Na kraju mu dopišemo dvije nule.",
+        "Na kraju mu izostavimo tri nule."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 100 ima dvije nule, pa ih toliko izostavimo, npr. 800 : 100 = 8.",
+      "savjet": "Prebroji koliko nula ima broj 100."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-011",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih brojeva višekratnik broja 10?",
+      "ponudeni": [
+        "75",
+        "17",
+        "70",
+        "107"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Višekratnici broja 10 završavaju nulom, kao 70 = 7 · 10.",
+      "savjet": "Višekratnike broja 10 dobivamo množenjem s 10, pa pogledaj zadnju znamenku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-012",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 500 : 10.",
+      "ponudeni": [
+        "5",
+        "5000",
+        "490",
+        "50"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broju 500 izostavimo jednu nulu i dobijemo 50.",
+      "savjet": "Djelitelj 10 ima jednu nulu, pa jednu nulu izostavi i s kraja djeljenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-013",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 3000 : 100.",
+      "ponudeni": [
+        "300",
+        "30",
+        "3",
+        "2900"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pri dijeljenju sa 100 izostavljamo dvije nule: 3000 : 100 = 30.",
+      "savjet": "Prebroji nule u djelitelju i toliko ih izostavi s kraja djeljenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-014",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 150 : 30.",
+      "ponudeni": [
+        "50",
+        "120",
+        "5",
+        "15"
+      ],
+      "tocan": 2,
+      "objasnjenje": "150 : 30 = 15 : 3 = 5, jer je 5 · 30 = 150.",
+      "savjet": "Izostavi po jednu nulu u oba broja pa podijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 240 : 60.",
+      "ponudeni": [
+        "40",
+        "4",
+        "180",
+        "400"
+      ],
+      "tocan": 1,
+      "objasnjenje": "240 : 60 = 24 : 6 = 4, jer je 4 · 60 = 240.",
+      "savjet": "Izostavi po jednu nulu pa se sjeti koliko je puta 6 sadržano u 24."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 630 : 10.",
+      "ponudeni": [
+        "63",
+        "6300",
+        "603",
+        "620"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broju 630 izostavimo nulu na kraju i dobijemo 63.",
+      "savjet": "Kod dijeljenja s 10 izostavi nulu s kraja broja, a ne iz sredine."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 800 : 200.",
+      "ponudeni": [
+        "40",
+        "600",
+        "400",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "800 : 200 = 8 : 2 = 4, jer je 4 · 200 = 800.",
+      "savjet": "Izostavi po dvije nule u oba broja pa podijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-018",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 900 : 300.",
+      "ponudeni": [
+        "3",
+        "30",
+        "600",
+        "300"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izostavimo po dvije nule u oba broja: 900 : 300 = 9 : 3 = 3.",
+      "savjet": "Djelitelj ima dvije nule, pa ih izostavi i u djeljeniku i u djelitelju."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-019",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 1200 : 100.",
+      "ponudeni": [
+        "120",
+        "1100",
+        "12",
+        "102"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broju 1200 izostavimo dvije nule s kraja i dobijemo 12.",
+      "savjet": "Sjeti se da dijeljenje sa 100 poništava množenje sa 100."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-020",
+      "tezina": "lagano",
+      "pitanje": "Marko ima 70 € u novčanicama od 10 €. Koliko novčanica ima Marko?",
+      "ponudeni": [
+        "70",
+        "7",
+        "60",
+        "700"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Treba izračunati 70 : 10 = 7, pa Marko ima 7 novčanica.",
+      "savjet": "Ukupan iznos podijeli s vrijednošću jedne novčanice."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-021",
+      "tezina": "lagano",
+      "pitanje": "Koliko je metara 400 cm?",
+      "ponudeni": [
+        "40 m",
+        "400 m",
+        "4000 m",
+        "4 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedan metar ima 100 cm, a 400 : 100 = 4. Zato je 400 cm = 4 m.",
+      "savjet": "Sjeti se koliko centimetara ima jedan metar pa podijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-022",
+      "tezina": "lagano",
+      "pitanje": "Koliko je centimetara 60 mm?",
+      "ponudeni": [
+        "6 cm",
+        "60 cm",
+        "600 cm",
+        "50 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan centimetar ima 10 mm, a 60 : 10 = 6. Zato je 60 mm = 6 cm.",
+      "savjet": "Sjeti se koliko milimetara ima jedan centimetar."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-023",
+      "tezina": "lagano",
+      "pitanje": "Koliko je metara 30 dm?",
+      "ponudeni": [
+        "30 m",
+        "3 m",
+        "300 m",
+        "20 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedan metar ima 10 dm, a 30 : 10 = 3. Zato je 30 dm = 3 m.",
+      "savjet": "Sjeti se koliko decimetara ima jedan metar."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-024",
+      "tezina": "lagano",
+      "pitanje": "Koliko je eura 500 centi?",
+      "ponudeni": [
+        "50 €",
+        "500 €",
+        "5 €",
+        "4 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan euro ima 100 centi, a 500 : 100 = 5. Zato je 500 centi = 5 €.",
+      "savjet": "Sjeti se koliko centi ima jedan euro."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-025",
+      "tezina": "lagano",
+      "pitanje": "Učiteljica je 90 bombona podijelila jednako na 10 učenika. Koliko bombona dobije svaki učenik?",
+      "ponudeni": [
+        "80",
+        "900",
+        "100",
+        "9"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Računamo 90 : 10 = 9, pa svaki učenik dobije 9 bombona.",
+      "savjet": "Kad nešto dijeliš jednako, ukupan broj podijeli s brojem učenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-026",
+      "tezina": "lagano",
+      "pitanje": "Koji broj treba podijeliti s 10 da bi se dobilo 8?",
+      "ponudeni": [
+        "800",
+        "80",
+        "18",
+        "70"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Traženi broj je 8 · 10 = 80. Provjera: 80 : 10 = 8.",
+      "savjet": "Dijeljenje provjeravaš množenjem: pomnoži količnik s djeliteljem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-027",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 40 : 10.",
+      "ponudeni": [
+        "4",
+        "400",
+        "30",
+        "14"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broju 40 izostavimo nulu i dobijemo 4. Provjera: 4 · 10 = 40.",
+      "savjet": "Razmisli koji broj pomnožen s 10 daje 40."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-028",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 700 : 100.",
+      "ponudeni": [
+        "70",
+        "600",
+        "7000",
+        "7"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izostavimo dvije nule s kraja broja 700 i dobijemo 7.",
+      "savjet": "Broj 100 ima dvije nule, pa toliko nula izostavi s kraja broja 700."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-029",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 60 : 20.",
+      "ponudeni": [
+        "30",
+        "3",
+        "40",
+        "300"
+      ],
+      "tocan": 1,
+      "objasnjenje": "60 : 20 = 6 : 2 = 3, jer je 3 · 20 = 60.",
+      "savjet": "Izostavi nulu u oba broja pa podijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-030",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj 250 : 50.",
+      "ponudeni": [
+        "50",
+        "200",
+        "5",
+        "500"
+      ],
+      "tocan": 2,
+      "objasnjenje": "250 : 50 = 25 : 5 = 5, jer je 5 · 50 = 250.",
+      "savjet": "Izostavi po jednu nulu u djeljeniku i djelitelju pa podijeli dobivene brojeve."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-031",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 840 : 20.",
+      "ponudeni": [
+        "420",
+        "42",
+        "84",
+        "820"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izostavimo po jednu nulu: 840 : 20 = 84 : 2 = 42.",
+      "savjet": "Izostavi nulu u djeljeniku i djelitelju pa podijeli s 2."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-032",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 3600 : 40.",
+      "ponudeni": [
+        "9",
+        "900",
+        "90",
+        "3560"
+      ],
+      "tocan": 2,
+      "objasnjenje": "3600 : 40 = 360 : 4 = 90. Provjera: 90 · 40 = 3600.",
+      "savjet": "Izostavi po jednu nulu u oba broja pa podijeli 360 s 4."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-033",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 960 : 30.",
+      "ponudeni": [
+        "32",
+        "320",
+        "96",
+        "930"
+      ],
+      "tocan": 0,
+      "objasnjenje": "960 : 30 = 96 : 3 = 32, jer je 32 · 3 = 96.",
+      "savjet": "Izostavi po jednu nulu pa podijeli dvoznamenkasti broj s 3."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-034",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2800 : 70.",
+      "ponudeni": [
+        "400",
+        "4",
+        "280",
+        "40"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2800 : 70 = 280 : 7 = 40. Provjera: 40 · 70 = 2800.",
+      "savjet": "Izostavi nulu u oba broja, a zatim se sjeti koliko je 28 : 7."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-035",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 4500 : 90.",
+      "ponudeni": [
+        "5",
+        "50",
+        "500",
+        "450"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4500 : 90 = 450 : 9 = 50. Provjera: 50 · 90 = 4500.",
+      "savjet": "Izostavi po jednu nulu pa podijeli 450 s 9."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 7200 : 80.",
+      "ponudeni": [
+        "900",
+        "720",
+        "90",
+        "9"
+      ],
+      "tocan": 2,
+      "objasnjenje": "7200 : 80 = 720 : 8 = 90. Provjera: 90 · 80 = 7200.",
+      "savjet": "Izostavi po jednu nulu pa se sjeti tablice množenja broja 8."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-037",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 5400 : 600.",
+      "ponudeni": [
+        "9",
+        "90",
+        "54",
+        "900"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izostavimo po dvije nule: 5400 : 600 = 54 : 6 = 9.",
+      "savjet": "Djelitelj ima dvije nule, pa izostavi dvije nule i u djeljeniku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-038",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 6400 : 200.",
+      "ponudeni": [
+        "320",
+        "64",
+        "3200",
+        "32"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izostavimo po dvije nule: 6400 : 200 = 64 : 2 = 32.",
+      "savjet": "Izostavi po dvije nule u oba broja pa podijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 1500 : 30.",
+      "ponudeni": [
+        "500",
+        "50",
+        "5",
+        "150"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1500 : 30 = 150 : 3 = 50. Provjera: 50 · 30 = 1500.",
+      "savjet": "Izostavi po jednu nulu, a zatim podijeli 150 s 3."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 840 : 40.",
+      "ponudeni": [
+        "210",
+        "84",
+        "800",
+        "21"
+      ],
+      "tocan": 3,
+      "objasnjenje": "840 : 40 = 84 : 4 = 21, jer je 21 · 4 = 84.",
+      "savjet": "Izostavi nulu u oba broja pa podijeli 84 s 4."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-041",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 12 000 : 100.",
+      "ponudeni": [
+        "120",
+        "12",
+        "1200",
+        "11 900"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pri dijeljenju sa 100 izostavljamo dvije nule: 12 000 : 100 = 120.",
+      "savjet": "S kraja djeljenika izostavi onoliko nula koliko ih ima djelitelj."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-042",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 45 000 : 10.",
+      "ponudeni": [
+        "450",
+        "4500",
+        "450 000",
+        "44 990"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broju 45 000 izostavimo jednu nulu i dobijemo 4500.",
+      "savjet": "Djelitelj 10 ima samo jednu nulu, pa izostavi samo jednu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-043",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 9300 : 30.",
+      "ponudeni": [
+        "31",
+        "3100",
+        "310",
+        "93"
+      ],
+      "tocan": 2,
+      "objasnjenje": "9300 : 30 = 930 : 3 = 310. Provjera: 310 · 30 = 9300.",
+      "savjet": "Izostavi po jednu nulu pa podijeli 930 s 3, znamenku po znamenku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-044",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 2400 : 30.",
+      "ponudeni": [
+        "8",
+        "800",
+        "2370",
+        "80"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2400 : 30 = 240 : 3 = 80. Provjera: 80 · 30 = 2400.",
+      "savjet": "Izostavi po jednu nulu u oba broja pa podijeli 240 s 3."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-045",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 5600 : 700.",
+      "ponudeni": [
+        "8",
+        "80",
+        "56",
+        "800"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izostavimo po dvije nule: 5600 : 700 = 56 : 7 = 8.",
+      "savjet": "Izostavi po dvije nule pa se sjeti tablice množenja broja 7."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-046",
+      "tezina": "srednje",
+      "pitanje": "Kojim se dijeljenjem dobije količnik 7?",
+      "ponudeni": [
+        "490 : 7",
+        "4900 : 70",
+        "490 : 70",
+        "4900 : 7"
+      ],
+      "tocan": 2,
+      "objasnjenje": "490 : 70 = 49 : 7 = 7. Ostala dijeljenja daju 70 ili 700.",
+      "savjet": "Izračunaj svako dijeljenje tako da izostaviš jednak broj nula u djeljeniku i djelitelju."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-047",
+      "tezina": "srednje",
+      "pitanje": "Kojim se dijeljenjem dobije količnik 30?",
+      "ponudeni": [
+        "90 : 30",
+        "900 : 30",
+        "9000 : 3",
+        "900 : 300"
+      ],
+      "tocan": 1,
+      "objasnjenje": "900 : 30 = 90 : 3 = 30. Ostala dijeljenja daju 3 ili 3000.",
+      "savjet": "Izračunaj svako dijeljenje i usporedi količnik sa zadanim brojem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-048",
+      "tezina": "srednje",
+      "pitanje": "Koliko je metara 2500 cm?",
+      "ponudeni": [
+        "250 m",
+        "205 m",
+        "25 000 m",
+        "25 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedan metar ima 100 cm, a 2500 : 100 = 25. Zato je 2500 cm = 25 m.",
+      "savjet": "Centimetre u metre pretvaraš dijeljenjem sa 100."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-049",
+      "tezina": "srednje",
+      "pitanje": "Koliko je eura 3000 centi?",
+      "ponudeni": [
+        "300 €",
+        "3 €",
+        "3000 €",
+        "30 €"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedan euro ima 100 centi, a 3000 : 100 = 30. Zato je 3000 centi = 30 €.",
+      "savjet": "Cente u eure pretvaraš dijeljenjem sa 100."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-050",
+      "tezina": "srednje",
+      "pitanje": "Koliko je metara 700 dm?",
+      "ponudeni": [
+        "7 m",
+        "70 m",
+        "700 m",
+        "7000 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedan metar ima 10 dm, a 700 : 10 = 70. Zato je 700 dm = 70 m.",
+      "savjet": "Sjeti se koliko decimetara čini jedan metar."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-051",
+      "tezina": "srednje",
+      "pitanje": "Farmer ima 360 jaja i slaže ih u kutije po 20 jaja. Koliko kutija napuni?",
+      "ponudeni": [
+        "180",
+        "36",
+        "18",
+        "340"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Računamo 360 : 20 = 36 : 2 = 18, pa farmer napuni 18 kutija.",
+      "savjet": "Ukupan broj jaja podijeli s brojem jaja u jednoj kutiji."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-052",
+      "tezina": "srednje",
+      "pitanje": "Lana ima 480 sličica i stavlja ih u omotnice po 40 sličica. Koliko omotnica napuni?",
+      "ponudeni": [
+        "12",
+        "120",
+        "48",
+        "440"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Računamo 480 : 40 = 48 : 4 = 12, pa Lana napuni 12 omotnica.",
+      "savjet": "Broj sličica podijeli s brojem sličica u jednoj omotnici."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-053",
+      "tezina": "srednje",
+      "pitanje": "Za izlet je 30 učenika uplatilo ukupno 900 €, svatko jednak iznos. Koliko je eura uplatio svaki učenik?",
+      "ponudeni": [
+        "300 €",
+        "3 €",
+        "30 €",
+        "870 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Računamo 900 : 30 = 90 : 3 = 30, pa je svaki učenik uplatio 30 €.",
+      "savjet": "Ukupan iznos podijeli s brojem učenika."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-054",
+      "tezina": "srednje",
+      "pitanje": "Koliko je centimetara 900 mm?",
+      "ponudeni": [
+        "9 cm",
+        "900 cm",
+        "9000 cm",
+        "90 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedan centimetar ima 10 mm, a 900 : 10 = 90. Zato je 900 mm = 90 cm.",
+      "savjet": "Milimetre u centimetre pretvaraš dijeljenjem s 10."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-055",
+      "tezina": "srednje",
+      "pitanje": "Koji broj podijeljen s 30 daje 20?",
+      "ponudeni": [
+        "60",
+        "600",
+        "6000",
+        "50"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Traženi broj je 20 · 30 = 600. Provjera: 600 : 30 = 60 : 3 = 20.",
+      "savjet": "Djeljenik dobiješ kad pomnožiš količnik i djelitelj."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-056",
+      "tezina": "srednje",
+      "pitanje": "Kojim brojem treba podijeliti 4800 da bi se dobilo 60?",
+      "ponudeni": [
+        "8",
+        "800",
+        "80",
+        "4740"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4800 : 80 = 480 : 8 = 60, pa je traženi broj 80.",
+      "savjet": "Razmisli koji broj pomnožen sa 60 daje 4800."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-057",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 3500 : 500.",
+      "ponudeni": [
+        "7",
+        "70",
+        "700",
+        "35"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izostavimo po dvije nule: 3500 : 500 = 35 : 5 = 7.",
+      "savjet": "Izostavi po dvije nule u djeljeniku i djelitelju pa podijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-058",
+      "tezina": "srednje",
+      "pitanje": "Kojem je dijeljenju jednako 840 : 20?",
+      "ponudeni": [
+        "840 : 2",
+        "8400 : 2",
+        "84 : 2",
+        "84 : 20"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad djeljeniku i djelitelju izostavimo po jednu nulu, količnik se ne mijenja: 840 : 20 = 84 : 2 = 42.",
+      "savjet": "Količnik se ne mijenja ako djeljeniku i djelitelju izostaviš jednak broj nula."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-059",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj 270 : 90.",
+      "ponudeni": [
+        "30",
+        "180",
+        "300",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "270 : 90 = 27 : 9 = 3, jer je 3 · 90 = 270.",
+      "savjet": "Izostavi nulu u oba broja pa se sjeti tablice množenja broja 9."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-060",
+      "tezina": "srednje",
+      "pitanje": "U dvorani je 640 stolica složenih u redove po 20 stolica. Koliko je redova?",
+      "ponudeni": [
+        "32",
+        "320",
+        "64",
+        "620"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Računamo 640 : 20 = 64 : 2 = 32, pa su u dvorani 32 reda.",
+      "savjet": "Ukupan broj stolica podijeli s brojem stolica u jednom redu."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-061",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 48 000 : 600.",
+      "ponudeni": [
+        "8",
+        "80",
+        "800",
+        "8000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izostavimo po dvije nule: 48 000 : 600 = 480 : 6 = 80.",
+      "savjet": "Djeljeniku i djelitelju izostavi jednak broj nula pa podijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-062",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 72 000 : 800.",
+      "ponudeni": [
+        "900",
+        "9",
+        "90",
+        "71 200"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izostavimo po dvije nule: 72 000 : 800 = 720 : 8 = 90.",
+      "savjet": "Izostavi po dvije nule u oba broja, a zatim podijeli troznamenkasti broj s 8."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-063",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 560 000 : 700.",
+      "ponudeni": [
+        "8000",
+        "80",
+        "8",
+        "800"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izostavimo po dvije nule: 560 000 : 700 = 5600 : 7 = 800.",
+      "savjet": "Izostavi po dvije nule pa pazi koliko je nula ostalo u djeljeniku."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-064",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 360 000 : 400.",
+      "ponudeni": [
+        "900",
+        "90",
+        "9000",
+        "9"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izostavimo po dvije nule: 360 000 : 400 = 3600 : 4 = 900.",
+      "savjet": "Nakon izostavljanja nula podijeli 36 s 4 i dopiši nule koje su preostale."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-065",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 1 000 000 : 100.",
+      "ponudeni": [
+        "1000",
+        "10 000",
+        "100 000",
+        "100"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Broj 1 000 000 ima šest nula. Kad izostavimo dvije, ostaju četiri, pa je količnik 10 000.",
+      "savjet": "Prebroji nule u djeljeniku pa izostavi onoliko koliko ih ima djelitelj."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-066",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 245 000 : 50.",
+      "ponudeni": [
+        "49",
+        "490",
+        "49 000",
+        "4900"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izostavimo po jednu nulu: 245 000 : 50 = 24 500 : 5 = 4900.",
+      "savjet": "Izostavi po jednu nulu pa podijeli 24 500 s 5."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-067",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 81 000 : 300.",
+      "ponudeni": [
+        "270",
+        "27",
+        "2700",
+        "24 300"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izostavimo po dvije nule: 81 000 : 300 = 810 : 3 = 270.",
+      "savjet": "Izostavi po dvije nule pa podijeli 810 s 3."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-068",
+      "tezina": "tesko",
+      "pitanje": "Tvornica pakira 12 000 olovaka u kutije po 40 olovaka. Koliko kutija napuni?",
+      "ponudeni": [
+        "30",
+        "3000",
+        "300",
+        "11 960"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Računamo 12 000 : 40 = 1200 : 4 = 300, pa tvornica napuni 300 kutija.",
+      "savjet": "Broj olovaka podijeli s brojem olovaka u kutiji i pažljivo izostavi nule."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-069",
+      "tezina": "tesko",
+      "pitanje": "Ema ima 3 novčanice od 100 € i 2 novčanice od 50 €. Koliko poklona po 20 € može kupiti tim novcem?",
+      "ponudeni": [
+        "2",
+        "15",
+        "200",
+        "20"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ema ima 300 € + 100 € = 400 €, a 400 : 20 = 40 : 2 = 20. Može kupiti 20 poklona.",
+      "savjet": "Najprije izračunaj koliko eura Ema ima ukupno, a zatim podijeli cijenom poklona."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-070",
+      "tezina": "tesko",
+      "pitanje": "U kasici je 7000 centi. Koliko se knjiga po 10 € može kupiti tim novcem?",
+      "ponudeni": [
+        "70",
+        "7",
+        "700",
+        "17"
+      ],
+      "tocan": 1,
+      "objasnjenje": "7000 centi je 70 €, jer je 7000 : 100 = 70. Zatim 70 : 10 = 7, pa se može kupiti 7 knjiga.",
+      "savjet": "Najprije pretvori cente u eure, a zatim podijeli cijenom jedne knjige."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-071",
+      "tezina": "tesko",
+      "pitanje": "Vrpcu dugu 12 m treba izrezati na komade od 40 cm. Koliko će se komada dobiti?",
+      "ponudeni": [
+        "300",
+        "48",
+        "30",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrpca je duga 12 m = 1200 cm, a 1200 : 40 = 120 : 4 = 30 komada.",
+      "savjet": "Najprije pretvori metre u centimetre, a tek onda dijeli."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-072",
+      "tezina": "tesko",
+      "pitanje": "Staza duga 4800 dm podijeljena je na dijelove od 60 m. Koliko je dijelova?",
+      "ponudeni": [
+        "8",
+        "80",
+        "800",
+        "48"
+      ],
+      "tocan": 0,
+      "objasnjenje": "4800 dm = 480 m, jer je 4800 : 10 = 480. Zatim 480 : 60 = 48 : 6 = 8 dijelova.",
+      "savjet": "Najprije izrazi duljinu staze u metrima."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-073",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 470 : 20 i odredi ostatak.",
+      "ponudeni": [
+        "23, ostatak 1",
+        "24, ostatak 10",
+        "23, ostatak 10",
+        "22, ostatak 30"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 23 · 20 = 460 i 470 − 460 = 10, pa je količnik 23, a ostatak 10. Ostatak je manji od djelitelja.",
+      "savjet": "Ostatak mora biti manji od djelitelja, a rezultat provjeri množenjem i zbrajanjem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-074",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 3500 : 300 i odredi ostatak.",
+      "ponudeni": [
+        "11, ostatak 2",
+        "11, ostatak 200",
+        "12, ostatak 100",
+        "10, ostatak 500"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 11 · 300 = 3300 i 3500 − 3300 = 200, pa je 3500 : 300 = 11, ostatak 200.",
+      "savjet": "Pazi da ostatak bude manji od djelitelja i da mu ne izostaviš nule."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-075",
+      "tezina": "tesko",
+      "pitanje": "Marija ima 250 kuglica i pakira ih u vrećice po 30 kuglica. Koliko vrećica može napuniti do vrha?",
+      "ponudeni": [
+        "9",
+        "80",
+        "8",
+        "25"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 8 · 30 = 240, a za 9 punih vrećica trebalo bi 270 kuglica. Zato Marija napuni 8 vrećica, a 10 kuglica ostane.",
+      "savjet": "Nađi najveći broj koji pomnožen s 30 ne prelazi 250."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-076",
+      "tezina": "tesko",
+      "pitanje": "Ivan ima 530 kartica i slaže ih u hrpe po 60 kartica. Koliko kartica ostane izvan hrpa?",
+      "ponudeni": [
+        "50",
+        "5",
+        "8",
+        "10"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 8 · 60 = 480 i 530 − 480 = 50. Ivan složi 8 hrpa, a 50 kartica ostane.",
+      "savjet": "Najprije odredi koliko punih hrpa Ivan može složiti, a zatim izračunaj ostatak."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-077",
+      "tezina": "tesko",
+      "pitanje": "Koje dijeljenje ima najveći količnik?",
+      "ponudeni": [
+        "4800 : 600",
+        "48 000 : 800",
+        "36 000 : 900",
+        "4800 : 60"
+      ],
+      "tocan": 3,
+      "objasnjenje": "4800 : 60 = 80, a ostali količnici su 8, 60 i 40. Najveći je 80.",
+      "savjet": "Izračunaj svaki količnik tako da izostaviš jednak broj nula u oba broja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-078",
+      "tezina": "tesko",
+      "pitanje": "Koje dijeljenje ima količnik 50?",
+      "ponudeni": [
+        "3500 : 700",
+        "35 000 : 700",
+        "35 000 : 70",
+        "350 : 70"
+      ],
+      "tocan": 1,
+      "objasnjenje": "35 000 : 700 = 350 : 7 = 50. Ostala dijeljenja daju 5 ili 500.",
+      "savjet": "Izostavi jednak broj nula u djeljeniku i djelitelju pa usporedi rezultate."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-079",
+      "tezina": "tesko",
+      "pitanje": "Kojim brojem treba podijeliti 63 000 da bi se dobilo 90?",
+      "ponudeni": [
+        "7",
+        "70",
+        "700",
+        "7000"
+      ],
+      "tocan": 2,
+      "objasnjenje": "63 000 : 700 = 630 : 7 = 90. Provjera: 90 · 700 = 63 000.",
+      "savjet": "Razmisli koji broj pomnožen s 90 daje 63 000."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-080",
+      "tezina": "tesko",
+      "pitanje": "Koji broj podijeljen s 400 daje 250?",
+      "ponudeni": [
+        "10 000",
+        "100 000",
+        "1 000 000",
+        "1000"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Traženi broj je 250 · 400 = 100 000. Provjera: 100 000 : 400 = 1000 : 4 = 250.",
+      "savjet": "Pomnoži količnik s djeliteljem: najprije pomnoži brojeve bez nula, a zatim dopiši sve nule."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-081",
+      "tezina": "tesko",
+      "pitanje": "Na izlet ide 270 učenika i 30 učitelja. Koliko je autobusa sa 60 mjesta potrebno ako su svi autobusi puni?",
+      "ponudeni": [
+        "4",
+        "10",
+        "50",
+        "5"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na izlet ide 270 + 30 = 300 osoba, a 300 : 60 = 30 : 6 = 5 autobusa.",
+      "savjet": "Najprije zbroji sve osobe koje idu na izlet."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-082",
+      "tezina": "tesko",
+      "pitanje": "Knjižnica je dobila 2400 knjiga i slaže ih na police po 80 knjiga. Svaki ormar ima 5 polica. Koliko je ormara potrebno?",
+      "ponudeni": [
+        "30",
+        "6",
+        "3",
+        "60"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Potrebno je 2400 : 80 = 30 polica, a 30 : 5 = 6 ormara.",
+      "savjet": "Najprije izračunaj koliko je polica potrebno, a zatim koliko je ormara."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-083",
+      "tezina": "tesko",
+      "pitanje": "Za izlet je 20 učenika uplatilo ukupno 1800 €, svatko jednak iznos. Ulaznica u muzej stoji 40 €. Koliko eura od uplate svakog učenika ostaje za ostale troškove?",
+      "ponudeni": [
+        "90 €",
+        "130 €",
+        "50 €",
+        "5 €"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaki učenik uplatio je 1800 : 20 = 90 €, a nakon ulaznice ostaje 90 € − 40 € = 50 €.",
+      "savjet": "Najprije izračunaj koliko je eura uplatio jedan učenik."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-084",
+      "tezina": "tesko",
+      "pitanje": "Koliko je decimetara 9000 mm?",
+      "ponudeni": [
+        "900 dm",
+        "9 dm",
+        "90 dm",
+        "9000 dm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan decimetar ima 100 mm, a 9000 : 100 = 90. Zato je 9000 mm = 90 dm.",
+      "savjet": "Sjeti se koliko milimetara ima jedan decimetar."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-085",
+      "tezina": "tesko",
+      "pitanje": "Koji je broj 100 puta manji od 360 000?",
+      "ponudeni": [
+        "36 000",
+        "360",
+        "36",
+        "3600"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj 100 puta manji dobijemo dijeljenjem sa 100: 360 000 : 100 = 3600.",
+      "savjet": "Sto puta manji broj dobiješ dijeljenjem, a ne oduzimanjem."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-086",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj (4800 : 60) : 20.",
+      "ponudeni": [
+        "4",
+        "40",
+        "8",
+        "400"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije računamo u zagradi: 4800 : 60 = 80, a zatim 80 : 20 = 4.",
+      "savjet": "Najprije izračunaj dijeljenje u zagradi."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-087",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj 640 : 80 + 360 : 40.",
+      "ponudeni": [
+        "17",
+        "72",
+        "170",
+        "1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dijeljenje ima prednost pred zbrajanjem: 640 : 80 = 8 i 360 : 40 = 9, a 8 + 9 = 17.",
+      "savjet": "Najprije izračunaj oba dijeljenja, a zatim zbroji rezultate."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-088",
+      "tezina": "tesko",
+      "pitanje": "Koje je dijeljenje točno izračunano?",
+      "ponudeni": [
+        "5600 : 80 = 700",
+        "5600 : 800 = 70",
+        "560 : 80 = 70",
+        "5600 : 80 = 70"
+      ],
+      "tocan": 3,
+      "objasnjenje": "5600 : 80 = 560 : 8 = 70. Provjera: 70 · 80 = 5600.",
+      "savjet": "Svaki rezultat provjeri množenjem količnika i djelitelja."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-089",
+      "tezina": "tesko",
+      "pitanje": "Pekar je ispekao 1500 kolača i složio ih u kutije po 30 kolača. Prodao je 20 kutija. Koliko mu je kutija ostalo?",
+      "ponudeni": [
+        "30",
+        "50",
+        "70",
+        "20"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pekar je napunio 1500 : 30 = 50 kutija, pa mu je ostalo 50 − 20 = 30 kutija.",
+      "savjet": "Najprije izračunaj koliko je kutija pekar napunio."
+    },
+    {
+      "id": "4-matematika-dijeljenje-s-10-i-visekratnicima-090",
+      "tezina": "tesko",
+      "pitanje": "Ana je zamislila broj, podijelila ga s 50 i dobila 120. Koji je broj Ana zamislila?",
+      "ponudeni": [
+        "6000",
+        "600",
+        "60 000",
+        "70"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zamišljeni broj je 120 · 50 = 6000. Provjera: 6000 : 50 = 600 : 5 = 120.",
+      "savjet": "Dijeljenje poništiš množenjem: pomnoži dobiveni broj s djeliteljem."
+    }
+  ]
+}
