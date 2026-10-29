@@ -20,6 +20,7 @@ watch(() => props.pitanje, () => nextTick(() => naslov.value?.focus()))
       <span class="sr-only">Pitanje {{ redniBroj }}: </span>{{ pitanje.pitanje }}
     </h2>
     <SlikaPitanja v-if="pitanje.slika" :slika="pitanje.slika" />
+    <PrikazPodataka v-if="pitanje.podaci" :podaci="pitanje.podaci" />
     <div class="flex flex-col gap-3" role="group" aria-label="Ponuđeni odgovori">
       <button
         v-for="(odgovor, i) in pitanje.ponudeni"

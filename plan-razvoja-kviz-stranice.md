@@ -177,6 +177,8 @@ Pitanje može imati crtež opisan podacima, koji komponenta `GeometrijskiCrtez.v
 | `kruznice` | Kružnica sa središtem u zadanoj točki; uz `"ispuna": true` crta se krug (ispunjen) |
 | `mreza` | `true` crta kvadratnu mrežu jediničnih kvadrata (za mjerenje površine) |
 
+Za lekcije o podacima pitanje može imati polje `podaci` (komponenta `PrikazPodataka.vue`): `{ "vrsta": "tablica" | "stupcasti" | "slikovni", "naslov", "oznake": [...], "vrijednosti": [...], "nazivOznaka"?, "nazivVrijednosti"?, "korak"?, "simbol"?, "vrijednostSimbola"? }`. Vrijednosti su cijeli brojevi; u stupčastom su višekratnici koraka osi, a u slikovnom višekratnici vrijednosti simbola, kako bi se točno očitale. Provjeru radi `app/utils/podaci.ts`.
+
 Brojčano označen kut mora biti i nacrtan približno te veličine (odstupanje do 5°), a kut označen kao pravi mora biti nacrtan kao 90°. Za slike koje se ne mogu opisati crtežom koristi se datoteka: `"slika": { "datoteka": "/slike/6/matematika/kocka.svg", "opis": "…" }`.
 
 Oznake u tekstu pišu se Unicode znakovima: α β γ δ, °, ∠ABC, △ABC, ⊥, ∥, cm², √, ·.

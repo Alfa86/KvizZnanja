@@ -87,11 +87,25 @@ export interface SlikaDatoteka {
 
 export type Slika = Crtez | SlikaDatoteka
 
+// Podaci za čitanje iz tablice ili dijagrama: kategorije i njihove vrijednosti
+export interface PrikazPodataka {
+  vrsta: 'tablica' | 'stupcasti' | 'slikovni'
+  naslov: string              // naslov prikaza, ujedno opis za čitače zaslona
+  oznake: string[]            // kategorije, npr. dani ili boje
+  vrijednosti: number[]       // cijeli brojevi, isto ih je koliko i oznaka
+  nazivOznaka?: string        // zaglavlje stupca s kategorijama (tablica)
+  nazivVrijednosti?: string   // zaglavlje vrijednosti ili natpis osi (npr. „Broj učenika“)
+  korak?: number              // stupčasti: razmak crta na osi; vrijednosti moraju biti njegovi višekratnici
+  simbol?: string             // slikovni: znak koji se ponavlja (npr. ⭐)
+  vrijednostSimbola?: number  // slikovni: koliko vrijedi jedan znak
+}
+
 export interface Pitanje {
   id: string
   tezina: Tezina
   pitanje: string
   slika?: Slika
+  podaci?: PrikazPodataka  // tablica ili dijagram s podacima (lekcije o podacima)
   ponudeni: string[]      // uvijek 4 odgovora
   tocan: number           // indeks 0–3
   objasnjenje: string

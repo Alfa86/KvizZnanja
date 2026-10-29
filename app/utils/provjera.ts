@@ -1,6 +1,7 @@
 import type { Pitanje } from '../types'
 import { TEZINE } from './konstante'
 import { jeDatoteka, provjeriCrtez } from './crtez'
+import { provjeriPodatke } from './podaci'
 
 const ZABRANJENI_ODGOVORI = /^(sve navedeno|ništa od navedenog|i a i b)\.?$/i
 
@@ -45,6 +46,8 @@ export function provjeriPitanje(p: Pitanje): string[] {
       greske.push(...provjeriCrtez(p.slika).map(g => `Crtež: ${g}`))
     }
   }
+
+  if (p.podaci) greske.push(...provjeriPodatke(p.podaci).map(g => `Podaci: ${g}`))
 
   return greske
 }

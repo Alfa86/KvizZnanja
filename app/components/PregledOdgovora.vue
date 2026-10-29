@@ -25,6 +25,7 @@ const tocno = computed(() => props.odgovor === props.pitanje.tocan)
     </div>
 
     <SlikaPitanja v-if="pitanje.slika" :slika="pitanje.slika" />
+    <PrikazPodataka v-if="pitanje.podaci" :podaci="pitanje.podaci" />
 
     <dl class="space-y-1 text-base">
       <div v-if="!tocno" class="flex flex-wrap gap-x-2">

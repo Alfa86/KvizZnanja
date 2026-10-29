@@ -93,6 +93,7 @@ const brojSGreskama = computed(() => pitanja.value.filter(p => p.greske.length).
           <p class="mb-1 text-sm text-slate-600"><code>{{ p.id }}</code> · {{ p.tezina }}<template v-if="p.skriveno"> · skriveno</template></p>
           <p class="text-lg font-bold">{{ p.pitanje }}</p>
           <SlikaPitanja v-if="p.slika" :slika="p.slika" />
+          <PrikazPodataka v-if="p.podaci" :podaci="p.podaci" />
           <ol class="my-3 flex flex-col gap-1">
             <li
               v-for="(o, i) in p.ponudeni"
