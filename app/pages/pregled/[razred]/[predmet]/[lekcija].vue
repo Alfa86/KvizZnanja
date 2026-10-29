@@ -17,6 +17,20 @@ const datoteka = ref<DatotekaLekcije | null>(null)
 const greskaUcitavanja = ref('')
 const filtar = ref<Tezina | 'sve'>('sve')
 const samoGreske = ref(false)
+const prikaz = ref<'sva' | 'nepregledana' | 'ai' | 'oznacena'>('sva')
+const { oznake, postavi, nalazi, izvozNapomena } = useRecenzija()
+const kopirano = ref(false)
+
+async function kopirajNapomene() {
+  try {
+    await navigator.clipboard.writeText(izvozNapomena())
+    kopirano.value = true
+    setTimeout(() => (kopirano.value = false), 2000)
+  }
+  catch {
+    // kopiranje nije dopušteno (npr. stranica nije u fokusu)
+  }
+}
 
 useHead({ title: `Pregled: ${lekcija.naziv}` })
 
@@ -46,8 +60,14 @@ const greskeDatoteke = computed(() => {
 const brojPoTezini = computed(() => prebrojiPoTezini(datoteka.value))
 const prikazana = computed(() => pitanja.value.filter(p =>
   (filtar.value === 'sve' || p.tezina === filtar.value) && (!samoGreske.value || p.greske.length)
+  && (prikaz.value === 'sva'
+    || (prikaz.value === 'nepregledana' && !oznake.value[p.id])
+    || (prikaz.value === 'ai' && nalazi(p.id).length)
+    || (prikaz.value === 'oznacena' && oznake.value[p.id]?.stanje === 'oznaceno'))
 ))
 const brojSGreskama = computed(() => pitanja.value.filter(p => p.greske.length).length)
+const brojPregledanih = computed(() => pitanja.value.filter(p => oznake.value[p.id]).length)
+const brojSNalazima = computed(() => pitanja.value.filter(p => nalazi(p.id).length).length)
 </script>
 
 <template>
@@ -66,6 +86,8 @@ const brojSGreskama = computed(() => pitanja.value.filter(p => p.greske.length).
         <span :class="brojSGreskama ? 'font-bold text-red-700' : 'text-green-800'">
           {{ brojSGreskama ? `Pitanja s greškama: ${brojSGreskama}` : 'Bez grešaka' }}
         </span>
+        <span>Pregledano: <strong>{{ brojPregledanih }} / {{ pitanja.length }}</strong></span>
+        <span v-if="brojSNalazima" class="text-amber-900">AI nalazi: <strong>{{ brojSNalazima }}</strong></span>
         <button type="button" class="gumb-sporedni ml-auto" @click="ucitaj">Osvježi</button>
       </div>
 
@@ -81,6 +103,15 @@ const brojSGreskama = computed(() => pitanja.value.filter(p => p.greske.length).
         <label class="flex min-h-12 items-center gap-2 px-2">
           <input v-model="samoGreske" type="checkbox" class="size-5 accent-indigo-700"> Samo pitanja s greškama
         </label>
+        <select v-model="prikaz" class="min-h-12 rounded-xl border-2 border-slate-200 bg-white px-3" aria-label="Pregled">
+          <option value="sva">Sva pitanja</option>
+          <option value="nepregledana">Nepregledana</option>
+          <option value="ai">S nalazom AI recenzije</option>
+          <option value="oznacena">Označena za ispravak</option>
+        </select>
+        <button type="button" class="gumb-tekstualni ml-auto" @click="kopirajNapomene">
+          {{ kopirano ? 'Kopirano ✓' : 'Kopiraj moje napomene' }}
+        </button>
       </div>
 
       <ol class="flex flex-col gap-4">
@@ -110,6 +141,46 @@ const brojSGreskama = computed(() => pitanja.value.filter(p => p.greske.length).
           <ul v-if="p.greske.length" class="mt-3 list-disc rounded-xl bg-red-50 py-2 pl-8 text-base text-red-800">
             <li v-for="g in p.greske" :key="g">{{ g }}</li>
           </ul>
+
+          <ul v-if="nalazi(p.id).length" class="mt-3 flex flex-col gap-2">
+            <li
+              v-for="(n, i) in nalazi(p.id)"
+              :key="i"
+              class="rounded-xl px-3 py-2 text-base"
+              :class="n.razina === 'greska' ? 'bg-red-50 text-red-900' : 'bg-amber-50 text-amber-900'"
+            >
+              <strong>AI {{ n.razina === 'greska' ? 'greška' : 'sumnja' }} ({{ n.kategorija }}):</strong> {{ n.opis }}
+              <span class="block text-sm">Prijedlog: {{ n.prijedlog }}</span>
+            </li>
+          </ul>
+
+          <div class="mt-3 flex flex-wrap items-center gap-2 border-t border-slate-200 pt-3">
+            <button
+              type="button"
+              class="min-h-11 rounded-xl border-2 px-3 font-semibold"
+              :class="oznake[p.id]?.stanje === 'u-redu' ? 'border-green-700 bg-green-100 text-green-900' : 'border-slate-200 text-slate-700'"
+              @click="postavi(p.id, oznake[p.id]?.stanje === 'u-redu' ? null : { stanje: 'u-redu' })"
+            >
+              ✓ U redu
+            </button>
+            <button
+              type="button"
+              class="min-h-11 rounded-xl border-2 px-3 font-semibold"
+              :class="oznake[p.id]?.stanje === 'oznaceno' ? 'border-red-700 bg-red-100 text-red-900' : 'border-slate-200 text-slate-700'"
+              @click="postavi(p.id, oznake[p.id]?.stanje === 'oznaceno' ? null : { stanje: 'oznaceno', napomena: '' })"
+            >
+              ⚑ Označi za ispravak
+            </button>
+            <input
+              v-if="oznake[p.id]?.stanje === 'oznaceno'"
+              :value="oznake[p.id]?.napomena"
+              type="text"
+              class="min-h-11 min-w-60 flex-1 rounded-xl border-2 border-slate-200 px-3"
+              placeholder="Što treba ispraviti?"
+              aria-label="Napomena za ispravak"
+              @change="postavi(p.id, { stanje: 'oznaceno', napomena: ($event.target as HTMLInputElement).value })"
+            >
+          </div>
         </li>
       </ol>
     </template>
