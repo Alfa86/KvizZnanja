@@ -30,6 +30,9 @@ const dijagram = computed(() => {
   return { crte, stupci, dno: y(0) }
 })
 
+// Brojevi od pet i više znamenaka pišu se s razmakom (12 345), kao u pitanjima
+const broj = (n: number) => (n >= 10000 ? String(n).replace(/\B(?=(\d{3})+$)/g, ' ') : String(n))
+
 const simboli = (v: number) => props.podaci.simbol!.repeat(v / props.podaci.vrijednostSimbola!)
 </script>
 
@@ -47,7 +50,7 @@ const simboli = (v: number) => props.podaci.simbol!.repeat(v / props.podaci.vrij
       <tbody>
         <tr v-for="(o, i) in podaci.oznake" :key="o">
           <td class="border border-slate-300 px-4 py-1.5">{{ o }}</td>
-          <td class="border border-slate-300 px-4 py-1.5 text-right tabular-nums">{{ podaci.vrijednosti[i] }}</td>
+          <td class="border border-slate-300 px-4 py-1.5 text-right tabular-nums">{{ broj(podaci.vrijednosti[i]!) }}</td>
         </tr>
       </tbody>
     </table>
@@ -61,7 +64,7 @@ const simboli = (v: number) => props.podaci.simbol!.repeat(v / props.podaci.vrij
     >
       <g v-for="c in dijagram.crte" :key="c.vrijednost">
         <line :x1="LIJEVO" :x2="SIRINA - 8" :y1="c.y" :y2="c.y" stroke="#cbd5e1" stroke-width="1" />
-        <text :x="LIJEVO - 6" :y="c.y" text-anchor="end" dominant-baseline="central" font-size="12" fill="#334155">{{ c.vrijednost }}</text>
+        <text :x="LIJEVO - 6" :y="c.y" text-anchor="end" dominant-baseline="central" font-size="12" fill="#334155">{{ broj(c.vrijednost) }}</text>
       </g>
       <g v-for="s in dijagram.stupci" :key="s.oznaka">
         <rect :x="s.x" :y="s.y" :width="s.sirina" :height="s.visina" fill="#6366f1" rx="2" />

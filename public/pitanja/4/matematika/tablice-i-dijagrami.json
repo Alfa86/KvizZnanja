@@ -308,6 +308,1913 @@
       "tocan": 3,
       "objasnjenje": "Crvena ima 11, plava 8, a žuta 14 glasova. Pobjednica je žuta, posljednja plava: 14 − 8 = 6.",
       "savjet": "Prvo prebroji crtice za svaku boju, pa pronađi najveći i najmanji broj."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-023",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj tablicu. Koliko je sladoleda prodano u srijedu?",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Prodani sladoledi",
+        "oznake": [
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak",
+          "petak"
+        ],
+        "vrijednosti": [
+          24,
+          31,
+          18,
+          27,
+          35
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj sladoleda"
+      },
+      "ponudeni": [
+        "27",
+        "31",
+        "18",
+        "24"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U retku za srijedu piše 18. Toliko je sladoleda prodano u srijedu.",
+      "savjet": "Pronađi redak u kojem piše srijeda i pročitaj broj pokraj njega."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-024",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj stupčasti dijagram. Koji je sport izabralo najviše učenika?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Omiljeni sport",
+        "oznake": [
+          "nogomet",
+          "košarka",
+          "rukomet",
+          "odbojka",
+          "plivanje"
+        ],
+        "vrijednosti": [
+          12,
+          8,
+          6,
+          10,
+          4
+        ],
+        "nazivOznaka": "Sport",
+        "nazivVrijednosti": "Broj učenika",
+        "korak": 2
+      },
+      "ponudeni": [
+        "nogomet",
+        "odbojka",
+        "košarka",
+        "plivanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stupac za nogomet je najviši, doseže do 12. Zato je nogomet izabralo najviše učenika.",
+      "savjet": "Najviše učenika prikazuje najviši stupac."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-025",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj slikovni dijagram. Koliko je knjiga pročitala Cvita?",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Pročitane knjige",
+        "oznake": [
+          "Ana",
+          "Borna",
+          "Cvita",
+          "Dino"
+        ],
+        "vrijednosti": [
+          8,
+          6,
+          10,
+          4
+        ],
+        "nazivOznaka": "Učenik",
+        "nazivVrijednosti": "Broj knjiga",
+        "simbol": "⭐",
+        "vrijednostSimbola": 2
+      },
+      "ponudeni": [
+        "5",
+        "8",
+        "12",
+        "10"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Cvita ima 5 zvjezdica, a svaka zvjezdica znači 2 knjige: 5 · 2 = 10.",
+      "savjet": "Prebroji zvjezdice u Cvitinu retku i pogledaj koliko vrijedi jedna zvjezdica."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-026",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj stupčasti dijagram. Kojeg je dana knjižnicu posjetilo najmanje ljudi?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Posjetitelji knjižnice",
+        "oznake": [
+          "pon.",
+          "uto.",
+          "sri.",
+          "čet.",
+          "pet."
+        ],
+        "vrijednosti": [
+          15,
+          25,
+          10,
+          30,
+          20
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj posjetitelja",
+        "korak": 5
+      },
+      "ponudeni": [
+        "ponedjeljak",
+        "srijeda",
+        "petak",
+        "četvrtak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stupac za srijedu je najniži, doseže samo do 10. Tog je dana bilo najmanje posjetitelja.",
+      "savjet": "Najmanji broj prikazuje najniži stupac."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-027",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je u parku bilo više golubova nego vrabaca.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Ptice u parku",
+        "oznake": [
+          "golub",
+          "vrabac",
+          "kos",
+          "sjenica"
+        ],
+        "vrijednosti": [
+          14,
+          9,
+          5,
+          7
+        ],
+        "nazivOznaka": "Ptica",
+        "nazivVrijednosti": "Broj ptica"
+      },
+      "ponudeni": [
+        "23",
+        "5",
+        "14",
+        "7"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Golubova je 14, a vrabaca 9. Razlika je 14 − 9 = 5.",
+      "savjet": "Pročitaj broj golubova i broj vrabaca pa manji broj oduzmi od većega."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-028",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj slikovni dijagram. Koliko je limenki prikupio 4. b?",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Prikupljene limenke",
+        "oznake": [
+          "4. a",
+          "4. b",
+          "4. c",
+          "4. d"
+        ],
+        "vrijednosti": [
+          15,
+          25,
+          10,
+          20
+        ],
+        "nazivOznaka": "Razred",
+        "nazivVrijednosti": "Broj limenki",
+        "simbol": "🥫",
+        "vrijednostSimbola": 5
+      },
+      "ponudeni": [
+        "5",
+        "20",
+        "30",
+        "25"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U retku 4. b nalazi se 5 limenki, a svaka znači 5 limenki: 5 · 5 = 25.",
+      "savjet": "Pogledaj legendu: jedan znak ne znači jednu limenku."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-029",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj tablicu. Koji razred ima najviše učenika?",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Učenici četvrtih razreda",
+        "oznake": [
+          "4. a",
+          "4. b",
+          "4. c"
+        ],
+        "vrijednosti": [
+          24,
+          22,
+          26
+        ],
+        "nazivOznaka": "Razred",
+        "nazivVrijednosti": "Broj učenika"
+      },
+      "ponudeni": [
+        "4. c",
+        "4. a",
+        "4. b",
+        "svi imaju jednako"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najveći broj u tablici je 26, a to je 4. c.",
+      "savjet": "Usporedi sva tri broja i pronađi najveći."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-030",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj stupčasti dijagram. U kojem je mjesecu bilo 16 sunčanih dana?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Sunčani dani",
+        "oznake": [
+          "ožujak",
+          "travanj",
+          "svibanj",
+          "lipanj"
+        ],
+        "vrijednosti": [
+          12,
+          16,
+          20,
+          24
+        ],
+        "nazivOznaka": "Mjesec",
+        "nazivVrijednosti": "Broj dana",
+        "korak": 4
+      },
+      "ponudeni": [
+        "ožujak",
+        "svibanj",
+        "travanj",
+        "lipanj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stupac za travanj doseže do crte na kojoj piše 16.",
+      "savjet": "Na okomitoj osi pronađi broj 16 i potraži stupac koji doseže točno do te crte."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-031",
+      "tezina": "lagano",
+      "pitanje": "Pri prebrojavanju petu crticu crtaš preko prve četiri. Koji broj prikazuje zapis ||||| ||||| ||||| |||?",
+      "ponudeni": [
+        "15",
+        "13",
+        "21",
+        "18"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tri skupine po 5 crtica daju 15, i još 3 crtice: 15 + 3 = 18.",
+      "savjet": "Svaka puna skupina vrijedi 5. Zbroji skupine pa dodaj crtice koje su ostale."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-032",
+      "tezina": "lagano",
+      "pitanje": "Kojim se zapisom crticama prikazuje broj 12?",
+      "ponudeni": [
+        "||||| ||||| |",
+        "||||| |||||",
+        "||||| ||||| ||",
+        "||||| ||||| |||"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dvije skupine po 5 crtica i još 2 crtice: 5 + 5 + 2 = 12.",
+      "savjet": "Prebroji crtice u svakom zapisu, svaka puna skupina vrijedi 5."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-033",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj slikovni dijagram. Koliko učenika ima ribicu?",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Ljubimci učenika",
+        "oznake": [
+          "pas",
+          "mačka",
+          "ribica",
+          "papiga"
+        ],
+        "vrijednosti": [
+          12,
+          8,
+          4,
+          2
+        ],
+        "nazivOznaka": "Ljubimac",
+        "nazivVrijednosti": "Broj učenika",
+        "simbol": "🙂",
+        "vrijednostSimbola": 2
+      },
+      "ponudeni": [
+        "2",
+        "4",
+        "8",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kod ribice su 2 znaka, a svaki znači 2 učenika: 2 · 2 = 4.",
+      "savjet": "Prebroji znakove u retku za ribicu i pomnoži s vrijednošću jednog znaka."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-034",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je ukupno kilograma papira skupljeno.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Skupljeni papir",
+        "oznake": [
+          "ponedjeljak",
+          "utorak",
+          "srijeda"
+        ],
+        "vrijednosti": [
+          14,
+          9,
+          11
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Masa papira (kg)"
+      },
+      "ponudeni": [
+        "34 kg",
+        "33 kg",
+        "25 kg",
+        "23 kg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojimo sve dane: 14 + 9 + 11 = 34. Skupljeno je 34 kg papira.",
+      "savjet": "Zbroji sve brojeve iz tablice."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-035",
+      "tezina": "lagano",
+      "pitanje": "Na kružnom prikazu polovina kruga je plava, a druga polovina crvena. Što to znači?",
+      "ponudeni": [
+        "plavih i crvenih ima jednako",
+        "plavih ima dvostruko više",
+        "crvenih ima više nego plavih",
+        "plavih ima manje nego crvenih"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvije polovine kruga jednako su velike, zato plavih i crvenih ima jednako mnogo.",
+      "savjet": "Usporedi veličine dijelova kruga."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-036",
+      "tezina": "lagano",
+      "pitanje": "U anketi o omiljenom voću sudjelovalo je 20 učenika. Na kružnom prikazu jabuka zauzima polovinu kruga. Koliko je učenika izabralo jabuku?",
+      "ponudeni": [
+        "20",
+        "10",
+        "5",
+        "2"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polovina od 20 je 10, jer je 20 : 2 = 10.",
+      "savjet": "Cijeli krug su svi učenici. Polovinu dobiješ dijeljenjem s 2."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-037",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj stupčasti dijagram. Koliko je posađeno lipa?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Posađena stabla",
+        "oznake": [
+          "hrast",
+          "bor",
+          "lipa",
+          "bukva"
+        ],
+        "vrijednosti": [
+          6,
+          9,
+          3,
+          7
+        ],
+        "nazivOznaka": "Stablo",
+        "nazivVrijednosti": "Broj stabala"
+      },
+      "ponudeni": [
+        "6",
+        "7",
+        "9",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stupac za lipu doseže do broja 3.",
+      "savjet": "Pronađi stupac za lipu i pogledaj do koje crte na osi doseže."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-038",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj tablicu. Koja je biljka najniža?",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Visina biljaka",
+        "oznake": [
+          "grah",
+          "suncokret",
+          "rajčica",
+          "paprika"
+        ],
+        "vrijednosti": [
+          18,
+          35,
+          27,
+          22
+        ],
+        "nazivOznaka": "Biljka",
+        "nazivVrijednosti": "Visina (cm)"
+      },
+      "ponudeni": [
+        "paprika",
+        "rajčica",
+        "grah",
+        "suncokret"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najmanji broj u tablici je 18, a to je visina graha.",
+      "savjet": "Najniža biljka ima najmanji broj centimetara."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-039",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj slikovni dijagram. Koliko je karata prodano u subotu?",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Prodane karte za predstavu",
+        "oznake": [
+          "petak",
+          "subota",
+          "nedjelja"
+        ],
+        "vrijednosti": [
+          40,
+          80,
+          60
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj karata",
+        "simbol": "🎟️",
+        "vrijednostSimbola": 10
+      },
+      "ponudeni": [
+        "8",
+        "60",
+        "80",
+        "70"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Subota ima 8 znakova, a svaki znači 10 karata: 8 · 10 = 80.",
+      "savjet": "Jedan znak vrijedi 10 karata. Prebroji znakove za subotu."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-040",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj stupčasti dijagram. Tko je pročitao 35 stranica?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Pročitane stranice",
+        "oznake": [
+          "Ema",
+          "Fran",
+          "Gita",
+          "Hrvoje"
+        ],
+        "vrijednosti": [
+          40,
+          25,
+          35,
+          30
+        ],
+        "nazivOznaka": "Učenik",
+        "nazivVrijednosti": "Broj stranica",
+        "korak": 5
+      },
+      "ponudeni": [
+        "Gita",
+        "Hrvoje",
+        "Ema",
+        "Fran"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gitin stupac doseže točno do 35.",
+      "savjet": "Crte na osi su po 5. Pronađi stupac koji završava između 30 i 40."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-041",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je učenika manje u šahu nego u zboru.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Izvannastavne aktivnosti",
+        "oznake": [
+          "zbor",
+          "ples",
+          "šah",
+          "robotika"
+        ],
+        "vrijednosti": [
+          14,
+          11,
+          8,
+          12
+        ],
+        "nazivOznaka": "Aktivnost",
+        "nazivVrijednosti": "Broj učenika"
+      },
+      "ponudeni": [
+        "22",
+        "4",
+        "3",
+        "6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U zboru je 14, a u šahu 8 učenika: 14 − 8 = 6.",
+      "savjet": "Pronađi brojeve za zbor i šah pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-042",
+      "tezina": "lagano",
+      "pitanje": "Koji prikaz podatke prikazuje stupcima različitih visina?",
+      "ponudeni": [
+        "slikovni dijagram",
+        "stupčasti dijagram",
+        "tablica",
+        "kružni prikaz"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stupčasti dijagram ima stupce, a što je stupac viši, podatak je veći.",
+      "savjet": "Sjeti se kako se zove svaki prikaz i što se na njemu crta."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-043",
+      "tezina": "lagano",
+      "pitanje": "Na slikovnom dijagramu jedan znak znači 10 učenika. Koliko znakova treba nacrtati za 40 učenika?",
+      "ponudeni": [
+        "40",
+        "4",
+        "14",
+        "30"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svaki znak je 10 učenika, a 40 : 10 = 4. Treba nacrtati 4 znaka.",
+      "savjet": "Razmisli koliko puta 10 stane u 40."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-044",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj stupčasti dijagram. Koliko je glasova dobila planina?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Glasovi za izlet",
+        "oznake": [
+          "more",
+          "planina",
+          "zoo",
+          "muzej"
+        ],
+        "vrijednosti": [
+          18,
+          12,
+          16,
+          6
+        ],
+        "nazivOznaka": "Odredište",
+        "nazivVrijednosti": "Broj glasova",
+        "korak": 2
+      },
+      "ponudeni": [
+        "16",
+        "18",
+        "14",
+        "12"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stupac za planinu doseže do crte na kojoj piše 12.",
+      "savjet": "Crte na osi idu po 2. Prati vrh stupca za planinu do osi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-045",
+      "tezina": "lagano",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je kilometara više biciklom prešla Lana nego Mato.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Vožnja biciklom",
+        "oznake": [
+          "Ivo",
+          "Lana",
+          "Mato"
+        ],
+        "vrijednosti": [
+          12,
+          15,
+          9
+        ],
+        "nazivOznaka": "Ime",
+        "nazivVrijednosti": "Prijeđeno (km)"
+      },
+      "ponudeni": [
+        "6 km",
+        "24 km",
+        "3 km",
+        "9 km"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lana je prešla 15 km, a Mato 9 km: 15 − 9 = 6.",
+      "savjet": "Od Laninog broja kilometara oduzmi Matin."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-046",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj stupčasti dijagram. Izračunaj koliko je sladoleda prodano u ponedjeljak i utorak zajedno.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Prodani sladoledi",
+        "oznake": [
+          "pon.",
+          "uto.",
+          "sri.",
+          "čet.",
+          "pet."
+        ],
+        "vrijednosti": [
+          20,
+          35,
+          25,
+          40,
+          30
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj sladoleda",
+        "korak": 5
+      },
+      "ponudeni": [
+        "45",
+        "60",
+        "55",
+        "15"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U ponedjeljak je prodano 20, a u utorak 35 sladoleda: 20 + 35 = 55.",
+      "savjet": "Pročitaj vrijednosti za ta dva dana pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-047",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj slikovni dijagram. Izračunaj koliko je zvjezdica više dobila Kata nego Lovro.",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Zvjezdice za zadaće",
+        "oznake": [
+          "Iva",
+          "Jan",
+          "Kata",
+          "Lovro"
+        ],
+        "vrijednosti": [
+          14,
+          10,
+          16,
+          8
+        ],
+        "nazivOznaka": "Učenik",
+        "nazivVrijednosti": "Broj zvjezdica",
+        "simbol": "⭐",
+        "vrijednostSimbola": 2
+      },
+      "ponudeni": [
+        "4",
+        "24",
+        "6",
+        "8"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kata ima 8 znakova, to je 16 zvjezdica, a Lovro 4 znaka, to je 8 zvjezdica: 16 − 8 = 8.",
+      "savjet": "Svaki znak vrijedi 2. Izračunaj oba broja pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-048",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je posjetitelja muzej imao tijekom vikenda.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Posjetitelji muzeja",
+        "oznake": [
+          "subota",
+          "nedjelja",
+          "ponedjeljak",
+          "utorak"
+        ],
+        "vrijednosti": [
+          125,
+          160,
+          45,
+          70
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj posjetitelja"
+      },
+      "ponudeni": [
+        "35",
+        "230",
+        "285",
+        "400"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vikend su subota i nedjelja: 125 + 160 = 285.",
+      "savjet": "Sjeti se koji su dani vikend pa zbroji samo njih."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-049",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj stupčasti dijagram. Izračunaj koliko su riba ulovili svi zajedno.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Ulovljene ribe",
+        "oznake": [
+          "Marko",
+          "Nina",
+          "Oto",
+          "Pia"
+        ],
+        "vrijednosti": [
+          6,
+          9,
+          4,
+          7
+        ],
+        "nazivOznaka": "Ime",
+        "nazivVrijednosti": "Broj riba"
+      },
+      "ponudeni": [
+        "25",
+        "26",
+        "9",
+        "27"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrojimo sve stupce: 6 + 9 + 4 + 7 = 26.",
+      "savjet": "Pročitaj visinu svakog stupca i zbroji sve brojeve."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-050",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj slikovni dijagram. Izračunaj koliko je kilograma jabuka prodano u utorak i srijedu zajedno.",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Prodane jabuke",
+        "oznake": [
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak"
+        ],
+        "vrijednosti": [
+          30,
+          45,
+          20,
+          35
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Masa (kg)",
+        "simbol": "🍎",
+        "vrijednostSimbola": 5
+      },
+      "ponudeni": [
+        "65 kg",
+        "13 kg",
+        "75 kg",
+        "80 kg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Utorak ima 9 jabuka, to je 45 kg, a srijeda 4 jabuke, to je 20 kg: 45 + 20 = 65.",
+      "savjet": "Jedna jabuka na dijagramu znači 5 kg. Izračunaj oba dana pa zbroji."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-051",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj tablicu. Kojeg je dana bilo 3 °C toplije nego u ponedjeljak?",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Temperatura u podne",
+        "oznake": [
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak",
+          "petak"
+        ],
+        "vrijednosti": [
+          14,
+          17,
+          12,
+          19,
+          15
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Temperatura (°C)"
+      },
+      "ponudeni": [
+        "utorak",
+        "petak",
+        "četvrtak",
+        "srijeda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U ponedjeljak je bilo 14 °C, a 14 + 3 = 17. Toliko je bilo u utorak.",
+      "savjet": "Temperaturi u ponedjeljak dodaj 3 i potraži taj broj u tablici."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-052",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj stupčasti dijagram. Izračunaj koliko je ukupno učenika u školskom zboru.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Učenici u školskom zboru",
+        "oznake": [
+          "1. razred",
+          "2. razred",
+          "3. razred",
+          "4. razred"
+        ],
+        "vrijednosti": [
+          8,
+          12,
+          10,
+          14
+        ],
+        "nazivOznaka": "Razred",
+        "nazivVrijednosti": "Broj učenika",
+        "korak": 2
+      },
+      "ponudeni": [
+        "42",
+        "44",
+        "34",
+        "14"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zbrojimo sve razrede: 8 + 12 + 10 + 14 = 44.",
+      "savjet": "Pročitaj broj učenika za svaki razred pa ih sve zbroji."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-053",
+      "tezina": "srednje",
+      "pitanje": "Mia je bilježila vrijeme: ponedjeljak sunčano, utorak kišno, srijeda sunčano, četvrtak oblačno, petak sunčano. Koja tablica točno prikazuje te podatke?",
+      "ponudeni": [
+        "sunčano 2, kišno 2, oblačno 1",
+        "sunčano 3, kišno 2, oblačno 0",
+        "sunčano 1, kišno 3, oblačno 1",
+        "sunčano 3, kišno 1, oblačno 1"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunčano je bilo u ponedjeljak, srijedu i petak, kišno samo u utorak, a oblačno samo u četvrtak.",
+      "savjet": "Za svaku vrstu vremena prebroji koliko se puta pojavljuje."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-054",
+      "tezina": "srednje",
+      "pitanje": "Ocjene iz diktata bile su: 5, 4, 5, 3, 4, 5, 2, 4, 5. Koja tablica točno prikazuje koliko je puta dobivena koja ocjena?",
+      "ponudeni": [
+        "petica 3, četvorka 3, trojka 1, dvojka 2",
+        "petica 4, četvorka 2, trojka 2, dvojka 1",
+        "petica 4, četvorka 3, trojka 1, dvojka 1",
+        "petica 5, četvorka 2, trojka 1, dvojka 1"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Petica se pojavljuje 4 puta, četvorka 3 puta, a trojka i dvojka po jedanput. Ukupno je to 9 ocjena.",
+      "savjet": "Prebroji svaku ocjenu posebno i provjeri da zbroj bude jednak broju svih ocjena."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-055",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj slikovni dijagram. U kojem je mjesecu prodano dvostruko više bicikala nego u travnju?",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Prodani bicikli",
+        "oznake": [
+          "travanj",
+          "svibanj",
+          "lipanj",
+          "srpanj"
+        ],
+        "vrijednosti": [
+          30,
+          60,
+          90,
+          50
+        ],
+        "nazivOznaka": "Mjesec",
+        "nazivVrijednosti": "Broj bicikala",
+        "simbol": "🚲",
+        "vrijednostSimbola": 10
+      },
+      "ponudeni": [
+        "lipanj",
+        "srpanj",
+        "svibanj",
+        "travanj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U travnju je prodano 30 bicikala, a 2 · 30 = 60. Toliko je prodano u svibnju.",
+      "savjet": "Dvostruko više znači dva puta više. Udvostruči broj za travanj."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-056",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj stupčasti dijagram. Izračunaj za koliko je centimetara Duje skočio dalje od Ane.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Skok u dalj",
+        "oznake": [
+          "Ana",
+          "Bruno",
+          "Cvita",
+          "Duje"
+        ],
+        "vrijednosti": [
+          250,
+          300,
+          200,
+          350
+        ],
+        "nazivOznaka": "Ime",
+        "nazivVrijednosti": "Duljina skoka (cm)",
+        "korak": 50
+      },
+      "ponudeni": [
+        "100 cm",
+        "50 cm",
+        "150 cm",
+        "600 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Duje je skočio 350 cm, a Ana 250 cm: 350 − 250 = 100.",
+      "savjet": "Crte na osi idu po 50. Pročitaj oba skoka pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-057",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je ulaznica više prodano za najgledaniji film nego za najmanje gledani.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Prodane ulaznice za kino",
+        "oznake": [
+          "crtani",
+          "pustolovni",
+          "obiteljski",
+          "glazbeni"
+        ],
+        "vrijednosti": [
+          48,
+          63,
+          39,
+          55
+        ],
+        "nazivOznaka": "Film",
+        "nazivVrijednosti": "Broj ulaznica"
+      },
+      "ponudeni": [
+        "15",
+        "102",
+        "8",
+        "24"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najviše ulaznica ima pustolovni film (63), a najmanje obiteljski (39): 63 − 39 = 24.",
+      "savjet": "Pronađi najveći i najmanji broj u tablici pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-058",
+      "tezina": "srednje",
+      "pitanje": "Glasanje za predsjednika razreda: Lea ||||| ||||| ||, Matej ||||| |||, Nora ||||| |||||. Izračunaj koliko je ukupno učenika glasalo.",
+      "ponudeni": [
+        "29",
+        "30",
+        "31",
+        "26"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lea ima 12, Matej 8, a Nora 10 glasova: 12 + 8 + 10 = 30.",
+      "savjet": "Prebroji crtice za svako ime, a zatim zbroji sva tri broja."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-059",
+      "tezina": "srednje",
+      "pitanje": "Kružni prikaz prikazuje 40 učenika. Četvrtina kruga je žuta. Koliko učenika prikazuje žuti dio?",
+      "ponudeni": [
+        "4",
+        "10",
+        "20",
+        "30"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Četvrtinu dobijemo dijeljenjem s 4: 40 : 4 = 10.",
+      "savjet": "Cijeli krug su svi učenici, a četvrtina je jedan od četiri jednaka dijela."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-060",
+      "tezina": "srednje",
+      "pitanje": "Kružni prikaz podijeljen je na četiri jednaka dijela. Dva su dijela plava, jedan zelen i jedan crven. Koji je dio kruga plav?",
+      "ponudeni": [
+        "četvrtina",
+        "trećina",
+        "cijeli krug",
+        "polovina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dva od četiri jednaka dijela čine polovinu kruga.",
+      "savjet": "Razmisli koliko je dva od četiri jednaka dijela."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-061",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj stupčasti dijagram. Izračunaj koliko je kolača u ponedjeljak prodano manje nego u nedjelju.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Prodani kolači",
+        "oznake": [
+          "sub.",
+          "ned.",
+          "pon.",
+          "uto."
+        ],
+        "vrijednosti": [
+          50,
+          80,
+          20,
+          40
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj kolača",
+        "korak": 10
+      },
+      "ponudeni": [
+        "60",
+        "100",
+        "40",
+        "20"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U nedjelju je prodano 80, a u ponedjeljak 20 kolača: 80 − 20 = 60.",
+      "savjet": "Pročitaj oba stupca i manji broj oduzmi od većega."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-062",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj slikovni dijagram. Koja su dva razreda zajedno posadila 18 stabala?",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Posađena stabla",
+        "oznake": [
+          "4. a",
+          "4. b",
+          "4. c",
+          "4. d"
+        ],
+        "vrijednosti": [
+          10,
+          6,
+          14,
+          8
+        ],
+        "nazivOznaka": "Razred",
+        "nazivVrijednosti": "Broj stabala",
+        "simbol": "🌳",
+        "vrijednostSimbola": 2
+      },
+      "ponudeni": [
+        "4. b i 4. c",
+        "4. a i 4. b",
+        "4. a i 4. d",
+        "4. c i 4. d"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4. a posadio je 10, a 4. d 8 stabala: 10 + 8 = 18.",
+      "savjet": "Izračunaj koliko je stabala posadio svaki razred pa provjeri zbrojeve parova."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-063",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je koraka više napravila Petra nego Rok.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Koraci u jednom danu",
+        "oznake": [
+          "Ivan",
+          "Petra",
+          "Rok"
+        ],
+        "vrijednosti": [
+          8500,
+          9200,
+          7800
+        ],
+        "nazivOznaka": "Ime",
+        "nazivVrijednosti": "Broj koraka"
+      },
+      "ponudeni": [
+        "700",
+        "1 600",
+        "17 000",
+        "1 400"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Petra je napravila 9 200, a Rok 7 800 koraka: 9 200 − 7 800 = 1 400.",
+      "savjet": "Od Petrinog broja koraka oduzmi Rokov."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-064",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj stupčasti dijagram. Koliko je dana na bazen došlo više od 30 posjetitelja?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Posjetitelji bazena",
+        "oznake": [
+          "pon.",
+          "uto.",
+          "sri.",
+          "čet.",
+          "pet."
+        ],
+        "vrijednosti": [
+          25,
+          40,
+          35,
+          20,
+          45
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj posjetitelja",
+        "korak": 5
+      },
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Više od 30 posjetitelja bilo je u utorak (40), srijedu (35) i petak (45), dakle 3 dana.",
+      "savjet": "Pronađi crtu za 30 i prebroji stupce koji su viši od nje."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-065",
+      "tezina": "srednje",
+      "pitanje": "Na slikovnom dijagramu jedna cijela jabuka znači 4 jabuke. Izračunaj koliko jabuka prikazuje red s 5 cijelih jabuka i jednom polovinom jabuke.",
+      "ponudeni": [
+        "20",
+        "22",
+        "24",
+        "10"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pet cijelih jabuka je 5 · 4 = 20, a polovina jabuke je 2. Ukupno je 22.",
+      "savjet": "Polovina znaka vrijedi upola manje od cijelog znaka."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-066",
+      "tezina": "srednje",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je učenika ukupno sudjelovalo u anketi.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Omiljeni ljubimac",
+        "oznake": [
+          "pas",
+          "mačka",
+          "ribica",
+          "hrčak"
+        ],
+        "vrijednosti": [
+          11,
+          9,
+          4,
+          6
+        ],
+        "nazivOznaka": "Ljubimac",
+        "nazivVrijednosti": "Broj učenika"
+      },
+      "ponudeni": [
+        "30",
+        "29",
+        "26",
+        "20"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbrojimo sve redove: 11 + 9 + 4 + 6 = 30.",
+      "savjet": "Svaki učenik izabrao je jednog ljubimca, zato zbroji sve brojeve."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-067",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj stupčasti dijagram. Izračunaj koliko je sokova u ponedjeljak i utorak zajedno prodano više nego u četvrtak.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Prodani sokovi",
+        "oznake": [
+          "pon.",
+          "uto.",
+          "sri.",
+          "čet.",
+          "pet."
+        ],
+        "vrijednosti": [
+          30,
+          45,
+          15,
+          50,
+          40
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj sokova",
+        "korak": 5
+      },
+      "ponudeni": [
+        "25",
+        "75",
+        "20",
+        "35"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ponedjeljak i utorak zajedno: 30 + 45 = 75. Zatim 75 − 50 = 25.",
+      "savjet": "Prvo zbroji dva dana, a onda od zbroja oduzmi četvrtak."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-068",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj tablicu. Izračunaj za koliko je više učenika izabralo psa i mačku zajedno nego ribicu i hrčka zajedno.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Ljubimci učenika 4. b",
+        "oznake": [
+          "pas",
+          "mačka",
+          "ribica",
+          "hrčak"
+        ],
+        "vrijednosti": [
+          12,
+          9,
+          5,
+          6
+        ],
+        "nazivOznaka": "Ljubimac",
+        "nazivVrijednosti": "Broj učenika"
+      },
+      "ponudeni": [
+        "32",
+        "10",
+        "21",
+        "7"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pas i mačka: 12 + 9 = 21. Ribica i hrčak: 5 + 6 = 11. Razlika je 21 − 11 = 10.",
+      "savjet": "Izračunaj dva zbroja pa manji oduzmi od većega."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-069",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj stupčasti dijagram. Koja je tvrdnja o dijagramu točna?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Ime razrednog ljubimca",
+        "oznake": [
+          "Mrvica",
+          "Fleki",
+          "Bubi",
+          "Žućko"
+        ],
+        "vrijednosti": [
+          14,
+          8,
+          12,
+          6
+        ],
+        "nazivOznaka": "Ime",
+        "nazivVrijednosti": "Broj glasova",
+        "korak": 2
+      },
+      "ponudeni": [
+        "Fleki ima dvostruko više glasova od Žućka.",
+        "Bubi ima 4 glasa manje od Mrvice.",
+        "Ukupno je glasalo 38 učenika.",
+        "Mrvica i Žućko zajedno imaju 20 glasova."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mrvica ima 14, a Žućko 6 glasova: 14 + 6 = 20. Ostale tvrdnje ne odgovaraju dijagramu.",
+      "savjet": "Svaku tvrdnju provjeri računom s brojevima s dijagrama."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-070",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj slikovni dijagram. Izračunaj koliko još bodova treba timu C da dostigne tim B.",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Skupljeni bodovi",
+        "oznake": [
+          "tim A",
+          "tim B",
+          "tim C",
+          "tim D"
+        ],
+        "vrijednosti": [
+          35,
+          50,
+          20,
+          40
+        ],
+        "nazivOznaka": "Tim",
+        "nazivVrijednosti": "Broj bodova",
+        "simbol": "⭐",
+        "vrijednostSimbola": 5
+      },
+      "ponudeni": [
+        "6",
+        "20",
+        "30",
+        "70"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tim B ima 10 zvjezdica, to je 50 bodova, a tim C 4 zvjezdice, to je 20 bodova: 50 − 20 = 30.",
+      "savjet": "Izračunaj bodove obaju timova pomoću legende, a zatim ih oduzmi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-071",
+      "tezina": "tesko",
+      "pitanje": "Učenici su naveli omiljeno godišnje doba: ljeto, zima, ljeto, proljeće, jesen, ljeto, zima, proljeće, ljeto, zima. Koja tablica odgovara tim podacima?",
+      "ponudeni": [
+        "ljeto 4, zima 2, proljeće 3, jesen 1",
+        "ljeto 3, zima 3, proljeće 2, jesen 2",
+        "ljeto 4, zima 3, proljeće 2, jesen 1",
+        "ljeto 5, zima 3, proljeće 1, jesen 1"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljeto se pojavljuje 4 puta, zima 3 puta, proljeće 2 puta, a jesen jedanput. Zajedno je to 10 odgovora.",
+      "savjet": "Precrtaj odgovor kad ga prebrojiš i na kraju provjeri je li zbroj jednak broju svih odgovora."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-072",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj stupčasti dijagram. Izračunaj koliko je posjetitelja više bilo tijekom subote i nedjelje zajedno nego u petak.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Posjetitelji sajma",
+        "oznake": [
+          "petak",
+          "subota",
+          "nedjelja"
+        ],
+        "vrijednosti": [
+          150,
+          300,
+          250
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj posjetitelja"
+      },
+      "ponudeni": [
+        "400",
+        "550",
+        "250",
+        "100"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Subota i nedjelja: 300 + 250 = 550. Zatim 550 − 150 = 400.",
+      "savjet": "Prvo zbroji dva dana vikenda, a zatim oduzmi broj za petak."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-073",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj slikovni dijagram. Koja dva dana zajedno imaju jednako posuđenih knjiga kao ponedjeljak?",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Posuđene knjige",
+        "oznake": [
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak",
+          "petak"
+        ],
+        "vrijednosti": [
+          12,
+          8,
+          6,
+          10,
+          4
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj knjiga",
+        "simbol": "📚",
+        "vrijednostSimbola": 2
+      },
+      "ponudeni": [
+        "srijeda i petak",
+        "utorak i srijeda",
+        "srijeda i četvrtak",
+        "utorak i petak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U ponedjeljak je posuđeno 12 knjiga. Utorak (8) i petak (4) zajedno daju 8 + 4 = 12.",
+      "savjet": "Izračunaj broj knjiga za svaki dan pa traži dva broja koja zajedno daju ponedjeljak."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-074",
+      "tezina": "tesko",
+      "pitanje": "Prodani kolači: čokoladni ||||| ||||| |||, voćni ||||| ||, sirni ||||| ||||. Izračunaj koliko je manje prodano čokoladnih kolača nego voćnih i sirnih zajedno.",
+      "ponudeni": [
+        "29",
+        "3",
+        "6",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čokoladnih je 13, voćnih 7, a sirnih 9. Voćni i sirni zajedno: 7 + 9 = 16, a 16 − 13 = 3.",
+      "savjet": "Prebroji crtice za svaku vrstu, zbroji voćne i sirne pa usporedi s čokoladnima."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-075",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj stupčasti dijagram. Koja je tvrdnja o kišnim danima točna?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Kišni dani",
+        "oznake": [
+          "siječanj",
+          "veljača",
+          "ožujak",
+          "travanj",
+          "svibanj"
+        ],
+        "vrijednosti": [
+          8,
+          6,
+          10,
+          12,
+          4
+        ],
+        "nazivOznaka": "Mjesec",
+        "nazivVrijednosti": "Broj dana",
+        "korak": 2
+      },
+      "ponudeni": [
+        "U ožujku je bilo dvostruko više kišnih dana nego u svibnju.",
+        "U travnju je bilo dvostruko više kišnih dana nego u veljači.",
+        "Siječanj i svibanj zajedno imaju više kišnih dana od travnja.",
+        "Najmanje kišnih dana bilo je u veljači."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U travnju je bilo 12, a u veljači 6 kišnih dana, a 12 = 2 · 6. Ostale tvrdnje ne vrijede.",
+      "savjet": "Pročitaj vrijednost svakog stupca i svaku tvrdnju provjeri računom."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-076",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko je knjiga posuđeno ukupno, bez stripova.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Posuđene knjige",
+        "oznake": [
+          "bajke",
+          "stripovi",
+          "enciklopedije",
+          "romani"
+        ],
+        "vrijednosti": [
+          28,
+          35,
+          12,
+          25
+        ],
+        "nazivOznaka": "Vrsta knjige",
+        "nazivVrijednosti": "Broj knjiga"
+      },
+      "ponudeni": [
+        "100",
+        "35",
+        "55",
+        "65"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bez stripova zbrajamo bajke, enciklopedije i romane: 28 + 12 + 25 = 65.",
+      "savjet": "Zbroji sve vrste knjiga osim stripova."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-077",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj slikovni dijagram. Izračunaj za koliko je više posjetitelja bilo u utorak i četvrtak zajedno nego u srijedu.",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Posjetitelji zoološkog vrta",
+        "oznake": [
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak"
+        ],
+        "vrijednosti": [
+          70,
+          50,
+          90,
+          60
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj posjetitelja",
+        "simbol": "🙂",
+        "vrijednostSimbola": 10
+      },
+      "ponudeni": [
+        "20",
+        "2",
+        "110",
+        "40"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Utorak i četvrtak: 50 + 60 = 110. U srijedu je bilo 90, a 110 − 90 = 20.",
+      "savjet": "Jedan znak vrijedi 10. Zbroji utorak i četvrtak pa oduzmi srijedu."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-078",
+      "tezina": "tesko",
+      "pitanje": "U anketi je sudjelovalo 24 učenika. Na kružnom prikazu polovina kruga je nogomet, četvrtina košarka, a četvrtina rukomet. Koliko učenika voli nogomet ili rukomet?",
+      "ponudeni": [
+        "12",
+        "6",
+        "18",
+        "20"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polovina od 24 je 12, a četvrtina je 6. Zajedno: 12 + 6 = 18.",
+      "savjet": "Izračunaj polovinu i četvrtinu od 24 pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-079",
+      "tezina": "tesko",
+      "pitanje": "U anketi je sudjelovalo 32 učenika. Na kružnom prikazu ljeto zauzima polovinu, a zima četvrtinu kruga. Ostatak je jednako podijeljen između proljeća i jeseni. Koliko je učenika izabralo jesen?",
+      "ponudeni": [
+        "8",
+        "16",
+        "2",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ljeto je 16, zima 8 učenika. Ostaje 32 − 16 − 8 = 8, a pola od toga je 4.",
+      "savjet": "Izračunaj ljeto i zimu, oduzmi ih od svih učenika i ostatak podijeli na dva jednaka dijela."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-080",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj stupčasti dijagram. Izračunaj koliko je ukupno karata prodano u danima kad je prodano više od 50 karata.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Prodane karte za kino",
+        "oznake": [
+          "pet.",
+          "sub.",
+          "ned.",
+          "pon."
+        ],
+        "vrijednosti": [
+          60,
+          100,
+          80,
+          20
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj karata",
+        "korak": 20
+      },
+      "ponudeni": [
+        "260",
+        "180",
+        "240",
+        "160"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Više od 50 karata prodano je u petak, subotu i nedjelju: 60 + 100 + 80 = 240.",
+      "savjet": "Prvo pronađi stupce koji su viši od 50, a zatim zbroji samo njih."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-081",
+      "tezina": "tesko",
+      "pitanje": "Lara želi u četiri dana pročitati 60 stranica. Pogledaj tablicu i izračunaj koliko joj još stranica nedostaje.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Larine pročitane stranice",
+        "oznake": [
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak"
+        ],
+        "vrijednosti": [
+          12,
+          15,
+          9,
+          18
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj stranica"
+      },
+      "ponudeni": [
+        "54",
+        "6",
+        "4",
+        "16"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lara je pročitala 12 + 15 + 9 + 18 = 54 stranice. Do 60 nedostaje 60 − 54 = 6.",
+      "savjet": "Zbroji sve pročitane stranice pa zbroj oduzmi od 60."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-082",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj stupčasti dijagram. Kad bi još 10 učenika izabralo graničar, koja bi igra imala najviše glasova?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Omiljena igra",
+        "oznake": [
+          "skrivača",
+          "lovice",
+          "graničar",
+          "školica"
+        ],
+        "vrijednosti": [
+          14,
+          18,
+          10,
+          8
+        ],
+        "nazivOznaka": "Igra",
+        "nazivVrijednosti": "Broj glasova",
+        "korak": 2
+      },
+      "ponudeni": [
+        "graničar",
+        "lovice",
+        "skrivača",
+        "školica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Graničar bi imao 10 + 10 = 20 glasova, a to je više od 18 za lovice.",
+      "savjet": "Odgovarajućem stupcu dodaj 10 glasova i ponovno usporedi visine svih stupaca."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-083",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj slikovni dijagram. Izračunaj za koliko su golova Ena i Sara zajedno postigle više od Marka i Tonija zajedno.",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Postignuti golovi",
+        "oznake": [
+          "Marko",
+          "Ena",
+          "Toni",
+          "Sara"
+        ],
+        "vrijednosti": [
+          10,
+          14,
+          8,
+          12
+        ],
+        "nazivOznaka": "Ime",
+        "nazivVrijednosti": "Broj golova",
+        "simbol": "⚽",
+        "vrijednostSimbola": 2
+      },
+      "ponudeni": [
+        "8",
+        "4",
+        "26",
+        "18"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ena i Sara: 14 + 12 = 26. Marko i Toni: 10 + 8 = 18. Razlika je 26 − 18 = 8.",
+      "savjet": "Svaka lopta vrijedi 2 gola. Izračunaj oba zbroja pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-084",
+      "tezina": "tesko",
+      "pitanje": "Na stupčastom dijagramu crte na osi idu po 5. Stupac za petak doseže do 7. crte, a stupac za subotu 3 crte niže. Koliko prikazuje stupac za subotu?",
+      "ponudeni": [
+        "4",
+        "20",
+        "15",
+        "30"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Subota doseže do 7 − 3 = 4. crte. Svaka crta je 5, pa je to 4 · 5 = 20.",
+      "savjet": "Prvo odredi do koje crte doseže subota, a zatim izračunaj koliko ta crta vrijedi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-085",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj stupčasti dijagram. Koja tvrdnja o prodanim pizzama NIJE točna?",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Prodane pizze",
+        "oznake": [
+          "pon.",
+          "uto.",
+          "sri.",
+          "čet.",
+          "pet."
+        ],
+        "vrijednosti": [
+          12,
+          18,
+          10,
+          16,
+          20
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Broj pizza",
+        "korak": 2
+      },
+      "ponudeni": [
+        "U petak je prodano dvostruko više pizza nego u srijedu.",
+        "Utorak i srijeda zajedno imaju više pizza od petka.",
+        "U četvrtak su prodane 4 pizze više nego u ponedjeljak.",
+        "U ponedjeljak je prodano najmanje pizza."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najmanje pizza prodano je u srijedu (10), a ne u ponedjeljak (12). Ostale tri tvrdnje su točne.",
+      "savjet": "Svaku tvrdnju provjeri brojevima s dijagrama i pronađi onu koja ne vrijedi."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-086",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj tablicu. Izračunaj koliko učenika u školu ne dolazi autobusom.",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Dolazak u školu",
+        "oznake": [
+          "autobus",
+          "pješice",
+          "bicikl",
+          "automobil"
+        ],
+        "vrijednosti": [
+          45,
+          30,
+          15,
+          10
+        ],
+        "nazivOznaka": "Način dolaska",
+        "nazivVrijednosti": "Broj učenika"
+      },
+      "ponudeni": [
+        "45",
+        "25",
+        "55",
+        "65"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bez autobusa zbrajamo ostale: 30 + 15 + 10 = 55.",
+      "savjet": "Zbroji sve načine dolaska osim autobusa."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-087",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj slikovni dijagram. Tko je prodao jednako kolača koliko Mia i Ela zajedno?",
+      "podaci": {
+        "vrsta": "slikovni",
+        "naslov": "Prodani kolači",
+        "oznake": [
+          "Mia",
+          "Noa",
+          "Ela",
+          "Leon"
+        ],
+        "vrijednosti": [
+          20,
+          35,
+          15,
+          30
+        ],
+        "nazivOznaka": "Ime",
+        "nazivVrijednosti": "Broj kolača",
+        "simbol": "🍪",
+        "vrijednostSimbola": 5
+      },
+      "ponudeni": [
+        "Leon",
+        "Mia",
+        "Noa",
+        "nitko od njih"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mia je prodala 20, a Ela 15 kolača: 20 + 15 = 35. Toliko je prodao Noa.",
+      "savjet": "Izračunaj zbroj za Miu i Elu pa potraži red s tim brojem."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-088",
+      "tezina": "tesko",
+      "pitanje": "Ivan prebrojava glasove crticama i do sada je nacrtao ||||| ||||| |||. Koliko još crtica treba nacrtati da prikaže 20 glasova?",
+      "ponudeni": [
+        "7",
+        "3",
+        "33",
+        "8"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nacrtano je 5 + 5 + 3 = 13 crtica. Do 20 nedostaje 20 − 13 = 7.",
+      "savjet": "Prvo prebroji nacrtane crtice, a zatim izračunaj koliko nedostaje do 20."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-089",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj tablicu. Koliko je dana snijeg bio viši od 20 cm, a niži od 40 cm?",
+      "podaci": {
+        "vrsta": "tablica",
+        "naslov": "Visina snijega",
+        "oznake": [
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak",
+          "petak",
+          "subota"
+        ],
+        "vrijednosti": [
+          15,
+          25,
+          40,
+          35,
+          20,
+          30
+        ],
+        "nazivOznaka": "Dan",
+        "nazivVrijednosti": "Visina (cm)"
+      },
+      "ponudeni": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Između 20 cm i 40 cm su utorak (25), četvrtak (35) i subota (30). Petak i srijeda se ne računaju.",
+      "savjet": "Brojevi 20 i 40 nisu uključeni jer snijeg mora biti viši od 20 i niži od 40."
+    },
+    {
+      "id": "4-matematika-tablice-i-dijagrami-090",
+      "tezina": "tesko",
+      "pitanje": "Pogledaj stupčasti dijagram. Razredi 4. a i 4. b natječu se zajedno protiv 4. c i 4. d. Izračunaj za koliko je kilograma pobjednički par skupio više.",
+      "podaci": {
+        "vrsta": "stupcasti",
+        "naslov": "Skupljeni papir",
+        "oznake": [
+          "4. a",
+          "4. b",
+          "4. c",
+          "4. d"
+        ],
+        "vrijednosti": [
+          25,
+          40,
+          35,
+          20
+        ],
+        "nazivOznaka": "Razred",
+        "nazivVrijednosti": "Masa papira (kg)",
+        "korak": 5
+      },
+      "ponudeni": [
+        "5 kg",
+        "10 kg",
+        "120 kg",
+        "15 kg"
+      ],
+      "tocan": 1,
+      "objasnjenje": "4. a i 4. b: 25 + 40 = 65 kg. 4. c i 4. d: 35 + 20 = 55 kg. Razlika je 65 − 55 = 10.",
+      "savjet": "Zbroji svaki par razreda pa manji zbroj oduzmi od većega."
     }
   ]
 }
