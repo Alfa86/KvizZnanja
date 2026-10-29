@@ -1,0 +1,5198 @@
+{
+  "lekcijaId": "vrhovi-bridovi-i-strane",
+  "pitanja": [
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv geometrijskog tijela na slici.",
+      "slika": {
+        "opis": "Geometrijsko tijelo nacrtano u prostoru; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "kvadar",
+        "kvadrat",
+        "kocka",
+        "valjak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve strane ovog tijela su jednaki kvadrati, a takvo se tijelo zove kocka.",
+      "savjet": "Pogledaj jesu li sve strane tijela jednaki kvadrati ili su neke od njih pravokutnici."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv geometrijskog tijela na slici.",
+      "slika": {
+        "opis": "Geometrijsko tijelo nacrtano u prostoru; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "kocka",
+        "pravokutnik",
+        "valjak",
+        "kvadar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strane ovog tijela su pravokutnici i bridovi mu nisu svi jednako dugi, pa je to kvadar.",
+      "savjet": "Usporedi duljinu, širinu i visinu tijela: jesu li jednake?"
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-003",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kocka. Prebroji sve njezine vrhove, i one koji se ne vide.",
+      "slika": {
+        "opis": "Kocka; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "7",
+        "6",
+        "12",
+        "8"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka ima 4 vrha dolje i 4 vrha gore, ukupno 8 vrhova.",
+      "savjet": "Prebroji vrhove donje strane, a zatim vrhove gornje strane."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-004",
+      "tezina": "lagano",
+      "pitanje": "Odaberi broj bridova kocke.",
+      "ponudeni": [
+        "8",
+        "12",
+        "6",
+        "10"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kocka ima 4 brida dolje, 4 brida gore i 4 brida sa strane, ukupno 12 bridova.",
+      "savjet": "Brid je dužina u kojoj se sastaju dvije strane; prebroji ih dolje, gore i sa strane."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi koliko strana kocke ima oblik kvadrata.",
+      "ponudeni": [
+        "6",
+        "4",
+        "2",
+        "1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve strane kocke su sukladni kvadrati, a kocka ima 6 strana.",
+      "savjet": "Sjeti se kakve su strane kocke i koliko ih ima."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-006",
+      "tezina": "lagano",
+      "pitanje": "Odaberi geometrijsko tijelo koje ima 8 vrhova, 12 bridova i 6 strana.",
+      "ponudeni": [
+        "valjak",
+        "stožac",
+        "piramida",
+        "kvadar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadar ima 8 vrhova, 12 bridova i 6 strana.",
+      "savjet": "Zamisli kutiju za cipele i prebroji njezine vrhove, bridove i strane."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-007",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu rečenicu o kvadru.",
+      "ponudeni": [
+        "Kvadar ima 8 strana i 12 bridova.",
+        "Kvadar ima 6 strana i 8 bridova.",
+        "Kvadar ima 12 strana i 6 bridova.",
+        "Kvadar ima 6 strana i 12 bridova."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadar ima 6 strana, 12 bridova i 8 vrhova.",
+      "savjet": "Strane su ravni dijelovi tijela, a bridovi su dužine u kojima se sastaju dvije strane."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-008",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kvadar. Prebroji sve njegove strane, i one koje se ne vide.",
+      "slika": {
+        "opis": "Kvadar; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "6",
+        "4",
+        "8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadar ima donju i gornju, prednju i stražnju te lijevu i desnu stranu, ukupno 6 strana.",
+      "savjet": "Prebroji strane u parovima: dolje i gore, sprijeda i straga, lijevo i desno."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-009",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi naziv za točku A.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "brid",
+        "strana",
+        "vrh",
+        "središte"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U točki A sastaju se tri brida kocke, a takvu točku zovemo vrh.",
+      "savjet": "Pogledaj koliko se dužina sastaje u točki A i sjeti se kako se zove takva točka tijela."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-010",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi naziv dijela kocke koji je označen upitnikom.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; upitnik stoji uz dužinu od A do B, a nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "vrh",
+        "strana",
+        "brid",
+        "kut"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužina AB je mjesto gdje se sastaju dvije strane kocke, a to je brid.",
+      "savjet": "Upitnik stoji uz dužinu između vrhova A i B; sjeti se kako se takva dužina na tijelu zove."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-011",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakve su strane kocke.",
+      "ponudeni": [
+        "sukladni trokuti",
+        "sukladni kvadrati",
+        "sukladni krugovi",
+        "različiti pravokutnici"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kocka ima 6 strana i sve su jednaki, odnosno sukladni kvadrati.",
+      "savjet": "Zamisli kockicu za igru i pogledaj oblik svake njezine strane."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-012",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kakve su strane kvadra.",
+      "ponudeni": [
+        "trokuti",
+        "pravokutnici",
+        "krugovi",
+        "kružnice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strane kvadra su pravokutnici, a nasuprotne strane su jednake.",
+      "savjet": "Zamisli kutiju za cipele i pogledaj oblik njezinih strana."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi predmet koji ima oblik kocke.",
+      "ponudeni": [
+        "kutija za cipele",
+        "lopta",
+        "kockica za igru",
+        "limenka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve strane kockice za igru su jednaki kvadrati, pa ona ima oblik kocke.",
+      "savjet": "Potraži predmet kojemu su svi bridovi jednako dugi."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-014",
+      "tezina": "lagano",
+      "pitanje": "Odaberi predmet koji ima oblik kvadra.",
+      "ponudeni": [
+        "lopta",
+        "limenka",
+        "cigla",
+        "kornet za sladoled"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Cigla ima 6 strana oblika pravokutnika, 8 vrhova i 12 bridova, pa ima oblik kvadra.",
+      "savjet": "Potraži predmet koji ima ravne strane oblika pravokutnika."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-015",
+      "tezina": "lagano",
+      "pitanje": "Odaberi predmet iz sobe koji ima oblik kvadra.",
+      "ponudeni": [
+        "lopta",
+        "ormar",
+        "naranča",
+        "čaša"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ormar ima 6 pravokutnih strana, 8 vrhova i 12 bridova, kao kvadar.",
+      "savjet": "Kvadar ima ravne strane i bridove, a okrugli predmeti nemaju bridove."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-016",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kocka. Prebroji bridove nacrtane isprekidanom crtom.",
+      "slika": {
+        "opis": "Kocka; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Isprekidano su nacrtana 3 brida koja se ne vide jer su iza kocke.",
+      "savjet": "Isprekidane crte izlaze iz vrha koji se ne vidi; prebroji ih."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-017",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kvadar. Prebroji sve njegove vrhove.",
+      "slika": {
+        "opis": "Kvadar; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            8.3,
+            2.4
+          ],
+          "D": [
+            4.3,
+            2.4
+          ],
+          "E": [
+            2.5,
+            7.5
+          ],
+          "F": [
+            6.5,
+            7.5
+          ],
+          "G": [
+            8.3,
+            8.9
+          ],
+          "H": [
+            4.3,
+            8.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "8",
+        "7",
+        "6",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadar ima 4 vrha na donjoj i 4 vrha na gornjoj strani, ukupno 8 vrhova.",
+      "savjet": "Ne zaboravi vrh iz kojeg izlaze isprekidane crte."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-018",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu rečenicu o kocki i kvadru.",
+      "ponudeni": [
+        "Kocka i kvadar imaju jednak broj vrhova.",
+        "Kocka ima više vrhova od kvadra.",
+        "Kvadar ima više vrhova od kocke.",
+        "Kocka ima 6 vrhova, a kvadar 8."
+      ],
+      "tocan": 0,
+      "objasnjenje": "I kocka i kvadar imaju po 8 vrhova.",
+      "savjet": "Prebroji vrhove kocke, a zatim vrhove kvadra."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-019",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi vrh koji se nalazi točno iznad vrha B.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "C",
+        "G",
+        "E",
+        "F"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrh F je na gornjoj strani, točno iznad vrha B, a spaja ih brid BF.",
+      "savjet": "Kreni od vrha B uspravnim bridom prema gore."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-020",
+      "tezina": "lagano",
+      "pitanje": "Odaberi naziv za dužinu u kojoj se sastaju dvije strane kocke.",
+      "ponudeni": [
+        "brid",
+        "vrh",
+        "strana",
+        "kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvije susjedne strane kocke sastaju se u dužini koju zovemo brid.",
+      "savjet": "Prijeđi prstom po rubu kutije gdje se dodiruju dvije strane i sjeti se naziva tog ruba."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-021",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi vrh koji se ne vidi, pa iz njega izlaze isprekidane crte.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "D",
+        "C",
+        "H"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrh D je iza kocke, dolje lijevo, pa su bridovi iz njega nacrtani isprekidano.",
+      "savjet": "Potraži vrh iz kojeg izlaze tri isprekidane crte."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-022",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o bridovima kocke.",
+      "ponudeni": [
+        "Svi bridovi kocke jednako su dugi.",
+        "Kocka ima tri različite duljine bridova.",
+        "Kocka ima 8 bridova.",
+        "Kocka ima 6 bridova."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Strane kocke su sukladni kvadrati, pa su svi njezini bridovi jednako dugi.",
+      "savjet": "Sjeti se kakve su strane kocke i što to znači za njihove stranice."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-023",
+      "tezina": "lagano",
+      "pitanje": "Odaberi tijelo kojemu su sve strane sukladni kvadrati.",
+      "ponudeni": [
+        "piramida",
+        "valjak",
+        "kugla",
+        "kocka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka ima 6 strana i sve su sukladni kvadrati.",
+      "savjet": "Potraži tijelo kojemu su svi bridovi jednako dugi."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-024",
+      "tezina": "lagano",
+      "pitanje": "Odredi broj strana kockice za igru.",
+      "ponudeni": [
+        "6",
+        "5",
+        "8",
+        "12"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kockica za igru ima oblik kocke, pa ima 6 strana, na kojima su brojevi od 1 do 6.",
+      "savjet": "Sjeti se koliko različitih brojeva ima na kockici za igru."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-025",
+      "tezina": "lagano",
+      "pitanje": "Mia je na svaki vrh kutije za cipele zalijepila po jednu naljepnicu. Odredi koliko je naljepnica zalijepila.",
+      "ponudeni": [
+        "6",
+        "8",
+        "12",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kutija za cipele ima oblik kvadra, a kvadar ima 8 vrhova.",
+      "savjet": "Prebroji vrhove na dnu kutije, a zatim na poklopcu."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-026",
+      "tezina": "lagano",
+      "pitanje": "Luka je od slamki napravio model kocke. Svaka slamka je jedan brid. Odredi koliko je slamki upotrijebio.",
+      "ponudeni": [
+        "8",
+        "6",
+        "12",
+        "24"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kocka ima 12 bridova, pa je za model potrebno 12 slamki.",
+      "savjet": "Prebroji bridove donje strane, gornje strane i one koji ih spajaju."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-027",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kvadar. Prebroji sve njegove bridove, i one nacrtane isprekidano.",
+      "slika": {
+        "opis": "Kvadar; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            8.3,
+            2.4
+          ],
+          "D": [
+            4.3,
+            2.4
+          ],
+          "E": [
+            2.5,
+            7.5
+          ],
+          "F": [
+            6.5,
+            7.5
+          ],
+          "G": [
+            8.3,
+            8.9
+          ],
+          "H": [
+            4.3,
+            8.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "9",
+        "8",
+        "6",
+        "12"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadar ima 9 bridova koji se vide i 3 koji se ne vide, ukupno 12 bridova.",
+      "savjet": "Prebroji pune crte, zatim isprekidane, pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-028",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi oblik njezine strane ABFE.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "kvadrat",
+        "trokut",
+        "krug",
+        "kvadar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve strane kocke su kvadrati, pa je i strana ABFE kvadrat.",
+      "savjet": "Pogledaj koliko vrhova ima ta strana i jesu li joj sve stranice jednako duge."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-029",
+      "tezina": "lagano",
+      "pitanje": "Odaberi dio kocke kojim ona dodiruje stol kad leži na njemu.",
+      "ponudeni": [
+        "strana",
+        "vrh",
+        "brid",
+        "kut"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kocka leži na stolu cijelom jednom stranom, a ta strana je kvadrat.",
+      "savjet": "Kocka na stolu dodiruje stol ravnim dijelom svoje površine."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-030",
+      "tezina": "lagano",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi kojim je slovima označena njegova donja strana.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            8.3,
+            2.4
+          ],
+          "D": [
+            4.3,
+            2.4
+          ],
+          "E": [
+            2.5,
+            7.5
+          ],
+          "F": [
+            6.5,
+            7.5
+          ],
+          "G": [
+            8.3,
+            8.9
+          ],
+          "H": [
+            4.3,
+            8.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "EFGH",
+        "ABFE",
+        "ABCD",
+        "BCGF"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrhovi A, B, C i D leže dolje, pa je ABCD donja strana kvadra.",
+      "savjet": "Donja strana je ona na kojoj kvadar stoji; potraži četiri vrha koji su dolje."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-031",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi dužinu koja je brid kvadra.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "AC",
+        "BC",
+        "EG",
+        "BH"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužina BC spaja dva susjedna vrha donje strane i leži na rubu kvadra, pa je brid.",
+      "savjet": "Brid je rub tijela u kojem se sastaju dvije strane; dužina ne smije prolaziti preko strane ni kroz tijelo."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-032",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi bridove koji izlaze iz vrha B.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "AB, BC i BD",
+        "AB, BC i BF",
+        "AB, BF i BE",
+        "BC, BF i BG"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz vrha B izlaze tri brida: AB, BC i BF.",
+      "savjet": "Kreni od vrha B i prati rubove kocke: ulijevo, prema natrag i prema gore."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-033",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odredi koliko se bridova sastaje u vrhu G.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U vrhu G sastaju se bridovi CG, FG i GH, dakle tri brida.",
+      "savjet": "Prebroji dužine koje izlaze iz vrha G."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-034",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odredi koliko se strana kocke sastaje u bridu BF.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U bridu BF sastaju se strana ABFE i strana BCGF.",
+      "savjet": "Potraži strane kojima pripadaju i vrh B i vrh F."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-035",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odredi koliko se strana kvadra sastaje u vrhu F.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U vrhu F sastaju se strane ABFE, BCGF i EFGH.",
+      "savjet": "Potraži sve strane u čijem se nazivu nalazi slovo F."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-036",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi stranu kvadra nasuprotnu strani ABCD.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "ABFE",
+        "EFGH",
+        "BCGF",
+        "ADHE"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strana ABCD je donja, a nasuprot njoj je gornja strana EFGH.",
+      "savjet": "Nasuprotne strane nemaju nijedan zajednički vrh."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-037",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi stranu kvadra nasuprotnu strani ABFE.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            8.3,
+            2.4
+          ],
+          "D": [
+            4.3,
+            2.4
+          ],
+          "E": [
+            2.5,
+            7.5
+          ],
+          "F": [
+            6.5,
+            7.5
+          ],
+          "G": [
+            8.3,
+            8.9
+          ],
+          "H": [
+            4.3,
+            8.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "EFGH",
+        "BCGF",
+        "ABCD",
+        "DCGH"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strana ABFE je prednja, a nasuprot njoj je stražnja strana DCGH.",
+      "savjet": "Nasuprotna strana je s druge strane kvadra i nema zajedničkih vrhova sa stranom ABFE."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-038",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi brid koji je zajednički stranama ABCD i BCGF.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "AB",
+        "CG",
+        "BF",
+        "BC"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrhovi B i C pripadaju objema stranama, pa im je zajednički brid BC.",
+      "savjet": "Potraži dva slova koja se nalaze u nazivima obiju strana."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-039",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi vrh koji pripada stranama ABFE, BCGF i EFGH.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "F",
+        "B",
+        "G",
+        "E"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Slovo F jedino se nalazi u nazivima sve tri strane.",
+      "savjet": "Potraži slovo koje se pojavljuje u nazivu svake od tih triju strana."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-040",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj za koliko kvadar ima više bridova nego strana.",
+      "ponudeni": [
+        "4",
+        "18",
+        "6",
+        "2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadar ima 12 bridova i 6 strana, a 12 − 6 = 6.",
+      "savjet": "Prvo se prisjeti broja bridova i broja strana kvadra, a zatim oduzmi."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-041",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj koliko ukupno vrhova imaju jedna kocka i jedan kvadar zajedno.",
+      "ponudeni": [
+        "8",
+        "16",
+        "12",
+        "24"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kocka ima 8 vrhova i kvadar ima 8 vrhova, a 8 + 8 = 16.",
+      "savjet": "Prisjeti se broja vrhova svakog tijela, pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-042",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o stranama kvadra.",
+      "ponudeni": [
+        "Strane kvadra su trokuti.",
+        "Kvadar ima 8 strana.",
+        "Kvadar ima 4 strane.",
+        "Nasuprotne strane kvadra su jednake."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadar ima 6 strana oblika pravokutnika, a svake dvije nasuprotne strane su jednake.",
+      "savjet": "Zamisli kutiju za cipele: usporedi dno i poklopac, pa prednju i stražnju stranu."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-043",
+      "tezina": "srednje",
+      "pitanje": "Kvadar je dug 5 cm, širok 3 cm i visok 2 cm. Odredi koliko je njegovih bridova dugo 5 cm.",
+      "ponudeni": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadar ima po 4 brida duljine, širine i visine, pa su 4 brida duga 5 cm.",
+      "savjet": "Zamisli kvadar i potraži sve bridove koji idu u istom smjeru kao najdulji brid."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-044",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi brid koji je jednako dug kao brid AB.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "BC",
+        "HG",
+        "AE",
+        "BF"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brid HG nalazi se gore straga i ide u istom smjeru kao AB, pa su jednako dugi.",
+      "savjet": "Kod kvadra su jednako dugi bridovi koji idu u istom smjeru."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-045",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odredi duljinu brida CG.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; brid AB označen je duljinom 5 cm, a nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "5 cm",
+        "10 cm",
+        "6 cm",
+        "3 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svi bridovi kocke jednako su dugi, pa je i brid CG dug 5 cm.",
+      "savjet": "Sjeti se kakvi su bridovi kocke po duljini."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-046",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odredi duljinu brida HG.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; brid AB dug je 6 cm, brid BC 2 cm, a brid BF 3 cm. Nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "F",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "2 cm"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "2 cm",
+        "6 cm",
+        "3 cm",
+        "11 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brid HG ide u istom smjeru kao brid AB, pa je dug 6 cm.",
+      "savjet": "Potraži označeni brid koji ide u istom smjeru kao brid HG."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-047",
+      "tezina": "srednje",
+      "pitanje": "Odaberi tvrdnju koja vrijedi i za kocku i za kvadar.",
+      "ponudeni": [
+        "Sve strane su im kvadrati.",
+        "Svi bridovi su im jednako dugi.",
+        "Imaju po 6 vrhova.",
+        "Imaju po 12 bridova."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka i kvadar imaju po 12 bridova, 8 vrhova i 6 strana.",
+      "savjet": "Usporedi broj vrhova, bridova i strana kocke i kvadra."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-048",
+      "tezina": "srednje",
+      "pitanje": "Kvadar je dug 5 cm, širok 3 cm i visok 2 cm. Odaberi svojstvo koje ima kocka, a taj kvadar nema.",
+      "ponudeni": [
+        "Ima 8 vrhova.",
+        "Ima 6 strana.",
+        "Ima 12 bridova.",
+        "Svi bridovi su jednako dugi."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bridovi kocke su jednako dugi, a taj kvadar ima bridove od 5 cm, 3 cm i 2 cm.",
+      "savjet": "Usporedi duljine bridova tog kvadra s bridovima kocke."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-049",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi stranu kocke kojoj pripada brid FG.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "EFGH",
+        "ABCD",
+        "ADHE",
+        "ABFE"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrhovi F i G nalaze se na strani EFGH, pa brid FG pripada toj strani (a i strani BCGF).",
+      "savjet": "Potraži stranu u čijem se nazivu nalaze oba slova F i G."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-050",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi brid koji je na slici nacrtan isprekidano.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            8.3,
+            2.4
+          ],
+          "D": [
+            4.3,
+            2.4
+          ],
+          "E": [
+            2.5,
+            7.5
+          ],
+          "F": [
+            6.5,
+            7.5
+          ],
+          "G": [
+            8.3,
+            8.9
+          ],
+          "H": [
+            4.3,
+            8.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "AD",
+        "AB",
+        "BC",
+        "EH"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brid AD izlazi iz vrha D koji se ne vidi, pa je nacrtan isprekidano.",
+      "savjet": "Isprekidano se crtaju bridovi koji se ne vide jer su iza tijela."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-051",
+      "tezina": "srednje",
+      "pitanje": "Ema je kutiju oblika kvadra položila na stol. Odredi koliko strana kutije ne dodiruje stol.",
+      "ponudeni": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kutija ima 6 strana, a stol dodiruje samo jedna, pa ih 5 ne dodiruje stol.",
+      "savjet": "Od ukupnog broja strana oduzmi strane koje leže na stolu."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-052",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko vrhova ima jedna strana kocke.",
+      "ponudeni": [
+        "3",
+        "6",
+        "4",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka strana kocke je kvadrat, a kvadrat ima 4 vrha.",
+      "savjet": "Sjeti se kakvog je oblika strana kocke."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-053",
+      "tezina": "srednje",
+      "pitanje": "Odredi koliko bridova kvadra ne pripada njegovoj donjoj strani.",
+      "ponudeni": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Donja strana ima 4 brida, a kvadar ima 12 bridova, pa 12 − 4 = 8 bridova ne pripada donjoj strani.",
+      "savjet": "Od ukupnog broja bridova kvadra oduzmi bridove donje strane."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-054",
+      "tezina": "srednje",
+      "pitanje": "Sara je na kocki obojila jednu stranu crveno, a njoj nasuprotnu stranu plavo. Odredi koliko je strana ostalo neobojeno.",
+      "ponudeni": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kocka ima 6 strana, obojene su 2, pa je 6 − 2 = 4 strane ostalo neobojeno.",
+      "savjet": "Od ukupnog broja strana kocke oduzmi obojene strane."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-055",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odredi koliko strana kocke ima zajednički brid sa stranom ABCD.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strana ABCD ima zajednički brid sa stranama ABFE, BCGF, DCGH i ADHE, a s gornjom stranom EFGH nema.",
+      "savjet": "Svaki brid donje strane pripada još jednoj strani; nasuprotna strana nema s njom zajednički brid."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-056",
+      "tezina": "srednje",
+      "pitanje": "Odaberi rečenicu koja točno opisuje brid kocke.",
+      "ponudeni": [
+        "Brid je dužina u kojoj se sastaju dvije strane.",
+        "Brid je točka u kojoj se sastaju tri strane.",
+        "Brid je ravni dio površine kocke.",
+        "Brid je dužina koja spaja nasuprotne vrhove strane."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brid je dužina na rubu kocke u kojoj se dodiruju dvije njezine strane.",
+      "savjet": "Prijeđi prstom po rubu kutije i razmisli što se ondje susreće."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-057",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kocka. Prebroji bridove koji se vide, odnosno nacrtani su punom crtom.",
+      "slika": {
+        "opis": "Kocka; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "12",
+        "3",
+        "8",
+        "9"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka ima 12 bridova, a 3 se ne vide, pa je punom crtom nacrtano 9 bridova.",
+      "savjet": "Možeš prebrojiti pune crte ili od svih bridova oduzeti isprekidane."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-058",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar. Odredi koliko se njegovih strana vidi na crtežu.",
+      "slika": {
+        "opis": "Kvadar; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "6",
+        "2",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na crtežu se vide prednja, gornja i desna strana, a ostale strane su skrivene.",
+      "savjet": "Strana se ne vidi ako joj je barem jedan brid nacrtan isprekidano."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-059",
+      "tezina": "srednje",
+      "pitanje": "Na slici je kvadar. Prebroji vrhove kvadra koji se na slici vide.",
+      "slika": {
+        "opis": "Kvadar; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            8.3,
+            2.4
+          ],
+          "D": [
+            4.3,
+            2.4
+          ],
+          "E": [
+            2.5,
+            7.5
+          ],
+          "F": [
+            6.5,
+            7.5
+          ],
+          "G": [
+            8.3,
+            8.9
+          ],
+          "H": [
+            4.3,
+            8.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "7",
+        "8",
+        "6",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadar ima 8 vrhova, a na crtežu se ne vidi samo jedan, onaj iz kojeg izlaze isprekidani bridovi.",
+      "savjet": "Pronađi vrh koji je skriven iza kvadra pa ga oduzmi od ukupnog broja vrhova."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-060",
+      "tezina": "srednje",
+      "pitanje": "Odaberi koliko parova nasuprotnih strana ima kocka.",
+      "ponudeni": [
+        "3",
+        "6",
+        "2",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kocka ima 6 strana, a svaka ima jednu nasuprotnu, pa čine 3 para.",
+      "savjet": "Svaka strana ima točno jednu nasuprotnu stranu; podijeli sve strane u parove."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-061",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj zbroj duljina svih bridova kocke kojoj je brid dug 3 cm.",
+      "ponudeni": [
+        "24 cm",
+        "18 cm",
+        "12 cm",
+        "36 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka ima 12 jednakih bridova, pa je zbroj 12 · 3 cm = 36 cm.",
+      "savjet": "Prisjeti se koliko bridova ima kocka i pomnoži taj broj s duljinom brida."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-062",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj zbroj duljina svih bridova kocke na slici.",
+      "slika": {
+        "opis": "Kocka kojoj je jedan brid označen duljinom 5 cm; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "40 cm",
+        "30 cm",
+        "45 cm",
+        "60 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka ima 12 bridova po 5 cm, pa je zbroj 12 · 5 cm = 60 cm.",
+      "savjet": "Ne zaboravi bridove koji se ne vide, jer i oni pripadaju kocki."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-063",
+      "tezina": "tesko",
+      "pitanje": "Petra je od žice napravila model kocke s bridom 4 cm. Izračunaj koliko je žice potrošila.",
+      "ponudeni": [
+        "32 cm",
+        "48 cm",
+        "24 cm",
+        "36 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Model ima 12 bridova po 4 cm, a 12 · 4 cm = 48 cm.",
+      "savjet": "Svaki brid modela je jedan komad žice; prebroji bridove kocke."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-064",
+      "tezina": "tesko",
+      "pitanje": "Zbroj duljina svih bridova kocke je 24 cm. Odredi duljinu jednog brida.",
+      "ponudeni": [
+        "3 cm",
+        "4 cm",
+        "2 cm",
+        "12 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kocka ima 12 jednakih bridova, a 24 cm : 12 = 2 cm.",
+      "savjet": "Zbroj podijeli s brojem bridova kocke."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-065",
+      "tezina": "tesko",
+      "pitanje": "Kvadar je dug 5 cm, širok 3 cm i visok 2 cm. Izračunaj zbroj duljina svih njegovih bridova.",
+      "ponudeni": [
+        "10 cm",
+        "20 cm",
+        "40 cm",
+        "60 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadar ima po 4 brida od 5 cm, 3 cm i 2 cm: 4 · 5 + 4 · 3 + 4 · 2 = 40, dakle 40 cm.",
+      "savjet": "Svaku od triju duljina kvadar ima na četiri brida."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-066",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj zbroj duljina svih bridova kvadra na slici.",
+      "slika": {
+        "opis": "Kvadar s označenim bridovima duljina 6 cm, 4 cm i 3 cm; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "F",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "13 cm",
+        "26 cm",
+        "52 cm",
+        "39 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadar ima po 4 brida od 6 cm, 4 cm i 3 cm: 4 · 6 + 4 · 4 + 4 · 3 = 52, dakle 52 cm.",
+      "savjet": "Svaki od označenih bridova ima još tri jednako duga brida."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-067",
+      "tezina": "tesko",
+      "pitanje": "Ana je od jednakih kockica složila kvadar: 3 kockice u duljinu, 2 u širinu i 2 u visinu. Odredi koliko je kockica upotrijebila.",
+      "ponudeni": [
+        "7",
+        "6",
+        "10",
+        "12"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U jednom sloju je 3 · 2 = 6 kockica, a dva sloja imaju 2 · 6 = 12 kockica.",
+      "savjet": "Prvo izračunaj koliko je kockica u jednom sloju, a zatim koliko je slojeva."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-068",
+      "tezina": "tesko",
+      "pitanje": "Ivan je od jednakih kockica složio veću kocku kojoj je svaki brid dug 2 kockice. Odredi koliko je kockica upotrijebio.",
+      "ponudeni": [
+        "4",
+        "8",
+        "6",
+        "12"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svaki sloj ima 2 · 2 = 4 kockice, a dva sloja imaju 8 kockica.",
+      "savjet": "Izračunaj koliko je kockica u jednom sloju, pa koliko ima slojeva."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-069",
+      "tezina": "tesko",
+      "pitanje": "Lana je složila kvadar od kockica. U donjem sloju su 4 reda po 3 kockice, a kvadar ima 2 takva sloja. Odredi koliko kockica ima kvadar.",
+      "ponudeni": [
+        "12",
+        "9",
+        "24",
+        "14"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan sloj ima 4 · 3 = 12 kockica, a dva sloja 2 · 12 = 24 kockice.",
+      "savjet": "Pomnoži broj redova i broj kockica u redu, a zatim uzmi u obzir broj slojeva."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-070",
+      "tezina": "tesko",
+      "pitanje": "Toma je složio kvadar od 12 kockica u 2 jednaka sloja. Izračunaj koliko kockica treba dodati da kvadar ima 3 takva sloja.",
+      "ponudeni": [
+        "12",
+        "4",
+        "3",
+        "6"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedan sloj ima 12 : 2 = 6 kockica, pa za treći sloj treba dodati 6 kockica.",
+      "savjet": "Prvo izračunaj koliko kockica ima jedan sloj."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-071",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi stranu kvadra koja ima zajednički brid sa stranom ABCD.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "EFGH",
+        "ACGE",
+        "BDHF",
+        "BCGF"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strane ABCD i BCGF imaju zajednički brid BC.",
+      "savjet": "Provjeri je li ponuđeno stvarno strana kvadra i ima li sa stranom ABCD dva zajednička susjedna vrha."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-072",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odredi koliko bridova kocke izlazi iz vrha A ili iz vrha B, ako brid AB brojiš samo jednom.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iz vrha A izlaze AB, AD i AE, a iz vrha B još BC i BF, pa je ukupno 5 bridova.",
+      "savjet": "Iz svakog vrha kocke izlaze tri brida, ali jedan od njih spaja upravo A i B."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-073",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi stranu kocke koja nema nijedan zajednički vrh sa stranom ADHE.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "BCGF",
+        "ABFE",
+        "DCGH",
+        "EFGH"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Strana BCGF je nasuprotna strani ADHE, pa nemaju zajedničkih vrhova.",
+      "savjet": "Potraži stranu u čijem nazivu nema nijednog slova iz naziva ADHE."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-074",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi vrh koji ne pripada ni strani ABCD ni strani ABFE.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "C",
+        "E",
+        "G",
+        "F"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Strana ABCD ima vrhove A, B, C i D, a strana ABFE vrhove A, B, F i E, pa vrh G ne pripada nijednoj od njih.",
+      "savjet": "Napiši sve vrhove obiju strana i potraži slovo kojega među njima nema."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-075",
+      "tezina": "tesko",
+      "pitanje": "Mislav je napravio model kocke: svaki brid je slamka, a svaki vrh kuglica plastelina. Izračunaj koliko je ukupno slamki i kuglica upotrijebio.",
+      "ponudeni": [
+        "18",
+        "14",
+        "26",
+        "20"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka ima 12 bridova i 8 vrhova, a 12 + 8 = 20.",
+      "savjet": "Zbroji broj bridova i broj vrhova kocke."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-076",
+      "tezina": "tesko",
+      "pitanje": "Izračunaj zbroj broja vrhova, broja bridova i broja strana kvadra.",
+      "ponudeni": [
+        "24",
+        "26",
+        "20",
+        "18"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadar ima 8 vrhova, 12 bridova i 6 strana, a 8 + 12 + 6 = 26.",
+      "savjet": "Prisjeti se triju brojeva za kvadar i zbroji ih."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-077",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odredi duljinu brida EH.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; brid AB dug je 5 cm, brid BC 3 cm, a brid BF 4 cm. Nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm"
+          },
+          {
+            "od": "B",
+            "do": "F",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "5 cm",
+        "3 cm",
+        "4 cm",
+        "12 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brid EH ide u istom smjeru kao brid BC, od prednje prema stražnjoj strani, pa je dug 3 cm.",
+      "savjet": "Potraži označeni brid koji ide u istom smjeru kao brid EH."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-078",
+      "tezina": "tesko",
+      "pitanje": "Kutija oblika kvadra duga je 8 cm, a široka i visoka po 3 cm. Odaberi kakve su njezine strane.",
+      "ponudeni": [
+        "šest jednakih kvadrata",
+        "šest jednakih pravokutnika",
+        "četiri kvadrata i dva jednaka pravokutnika",
+        "dva kvadrata i četiri jednaka pravokutnika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvije strane imaju stranice 3 cm i 3 cm, pa su kvadrati, a četiri strane imaju stranice 8 cm i 3 cm.",
+      "savjet": "Za svaki par nasuprotnih strana odredi duljine njihovih stranica."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-079",
+      "tezina": "tesko",
+      "pitanje": "Kutija oblika kvadra duga je 6 cm, široka 4 cm i visoka 2 cm. Odaberi duljine stranica njezine najveće strane.",
+      "ponudeni": [
+        "6 cm i 2 cm",
+        "6 cm i 4 cm",
+        "4 cm i 2 cm",
+        "6 cm i 6 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najveća je strana kojoj su stranice dva najdulja brida, 6 cm i 4 cm.",
+      "savjet": "Stranice svake strane kvadra jednake su dvama njegovim bridovima različitih smjerova."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-080",
+      "tezina": "tesko",
+      "pitanje": "Mrav hoda po bridovima kocke ABCDEFGH od vrha A do vrha G. Odredi najmanji broj bridova po kojima mora proći.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na primjer, put A → B → C → G prolazi preko 3 brida, a kraći put ne postoji jer mrav mora proći u duljinu, širinu i visinu.",
+      "savjet": "Mrav se mora pomaknuti i u duljinu, i u širinu, i u visinu."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-081",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi tri strane kvadra koje se sastaju u vrhu C.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            5.5
+          ],
+          "F": [
+            8,
+            5.5
+          ],
+          "G": [
+            9.8,
+            6.9
+          ],
+          "H": [
+            2.8,
+            6.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "ABCD, BCGF i EFGH",
+        "ABCD, BCGF i DCGH",
+        "BCGF, DCGH i ADHE",
+        "ABCD, ABFE i BCGF"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Slovo C nalazi se u nazivima strana ABCD, BCGF i DCGH.",
+      "savjet": "Potraži strane u čijem se nazivu nalazi slovo C."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-082",
+      "tezina": "tesko",
+      "pitanje": "Ormar oblika kvadra stoji na podu. Odredi koliko njegovih bridova ide uspravno, od poda prema gore.",
+      "ponudeni": [
+        "4",
+        "8",
+        "2",
+        "12"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uspravni bridovi spajaju vrhove donje i gornje strane, a ima ih 4.",
+      "savjet": "Svaki vrh na podu spojen je jednim bridom s vrhom iznad sebe."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-083",
+      "tezina": "tesko",
+      "pitanje": "Kocki na slici svaki je brid dug 4 cm. Izračunaj zbroj duljina bridova nacrtanih isprekidano.",
+      "slika": {
+        "opis": "Kocka kojoj je jedan brid označen duljinom 4 cm; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "12 cm",
+        "4 cm",
+        "36 cm",
+        "48 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Isprekidano su nacrtana 3 brida po 4 cm, a 3 · 4 cm = 12 cm.",
+      "savjet": "Prebroji isprekidane bridove i pomnoži njihov broj s duljinom brida."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-084",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kvadar. Izračunaj za koliko je više bridova nacrtano punom crtom nego isprekidanom.",
+      "slika": {
+        "opis": "Kvadar; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            8.3,
+            2.4
+          ],
+          "D": [
+            4.3,
+            2.4
+          ],
+          "E": [
+            2.5,
+            7.5
+          ],
+          "F": [
+            6.5,
+            7.5
+          ],
+          "G": [
+            8.3,
+            8.9
+          ],
+          "H": [
+            4.3,
+            8.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "6",
+        "3",
+        "9",
+        "12"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Punom crtom nacrtano je 9 bridova, a isprekidanom 3, pa je razlika 9 − 3 = 6.",
+      "savjet": "Prebroji pune i isprekidane crte, pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-085",
+      "tezina": "tesko",
+      "pitanje": "Kocka ima brid dug 3 cm. Kvadar je dug 4 cm, širok 3 cm i visok 2 cm. Odaberi točnu tvrdnju o zbroju duljina njihovih bridova.",
+      "ponudeni": [
+        "Veći je zbroj kod kocke.",
+        "Veći je zbroj kod kvadra.",
+        "Zbrojevi su jednaki.",
+        "Zbroj kod kocke dvostruko je veći."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kod kocke je 12 · 3 cm = 36 cm, a kod kvadra 4 · 4 + 4 · 3 + 4 · 2 = 36, dakle također 36 cm.",
+      "savjet": "Izračunaj zbroj za kocku, zatim za kvadar, pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-086",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kocka ABCDEFGH. Odaberi brid koji je usporedan s bridom AB i pripada strani EFGH.",
+      "slika": {
+        "opis": "Kocka ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            8.8,
+            2.4
+          ],
+          "D": [
+            2.8,
+            2.4
+          ],
+          "E": [
+            1,
+            7
+          ],
+          "F": [
+            7,
+            7
+          ],
+          "G": [
+            8.8,
+            8.4
+          ],
+          "H": [
+            2.8,
+            8.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "HG",
+        "DC",
+        "FG",
+        "EH"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brid HG ide u istom smjeru kao AB i nalazi se na gornjoj strani EFGH.",
+      "savjet": "Usporedni bridovi idu u istom smjeru; zatim provjeri pripada li brid gornjoj strani."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-087",
+      "tezina": "tesko",
+      "pitanje": "Na slici je kvadar ABCDEFGH. Odaberi dužinu koja nije brid kvadra.",
+      "slika": {
+        "opis": "Kvadar ABCDEFGH; nevidljivi bridovi nacrtani su isprekidano.",
+        "tocke": {
+          "A": [
+            2.5,
+            1
+          ],
+          "B": [
+            6.5,
+            1
+          ],
+          "C": [
+            8.3,
+            2.4
+          ],
+          "D": [
+            4.3,
+            2.4
+          ],
+          "E": [
+            2.5,
+            7.5
+          ],
+          "F": [
+            6.5,
+            7.5
+          ],
+          "G": [
+            8.3,
+            8.9
+          ],
+          "H": [
+            4.3,
+            8.9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "F",
+              "E"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "G"
+          },
+          {
+            "od": "F",
+            "do": "G"
+          },
+          {
+            "od": "G",
+            "do": "H"
+          },
+          {
+            "od": "E",
+            "do": "H"
+          },
+          {
+            "od": "A",
+            "do": "D",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "C",
+            "isprekidana": true
+          },
+          {
+            "od": "D",
+            "do": "H",
+            "isprekidana": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "AD",
+        "AC",
+        "GH",
+        "CG"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužina AC spaja nasuprotne vrhove donje strane i prolazi preko nje, pa nije brid.",
+      "savjet": "Brid spaja dva vrha uz sam rub tijela; provjeri svaku dužinu na slici."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-088",
+      "tezina": "tesko",
+      "pitanje": "Pero ima 20 slamki. Za model kocke svaki brid je jedna slamka. Odredi koliko će mu slamki ostati kad napravi jedan model.",
+      "ponudeni": [
+        "8",
+        "12",
+        "14",
+        "2"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za model kocke treba 12 slamki, a 20 − 12 = 8.",
+      "savjet": "Od broja slamki oduzmi broj bridova kocke."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-089",
+      "tezina": "tesko",
+      "pitanje": "Lea ima 30 kuglica plastelina. Za model kocke treba po jedna kuglica na svakom vrhu. Odredi koliko najviše cijelih modela može napraviti.",
+      "ponudeni": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za jedan model treba 8 kuglica; 3 · 8 = 24, a za četiri modela trebalo bi 32 kuglice, pa može napraviti 3 modela.",
+      "savjet": "Prisjeti se broja vrhova kocke i provjeri koliko puta taj broj stane u 30."
+    },
+    {
+      "id": "4-matematika-vrhovi-bridovi-i-strane-090",
+      "tezina": "tesko",
+      "pitanje": "Dvije jednake kocke s bridom 2 cm spojene su stranom uz stranu pa čine kvadar. Odaberi duljinu, širinu i visinu tog kvadra.",
+      "ponudeni": [
+        "4 cm, 2 cm i 2 cm",
+        "4 cm, 4 cm i 2 cm",
+        "2 cm, 2 cm i 2 cm",
+        "4 cm, 4 cm i 4 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kocke stoje jedna uz drugu, pa je duljina 2 cm + 2 cm = 4 cm, a širina i visina ostaju po 2 cm.",
+      "savjet": "Zamisli dvije kockice za igru jednu uz drugu i razmisli koja se mjera promijeni."
+    }
+  ]
+}
