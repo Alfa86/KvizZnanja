@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "mjerne-jedinice-za-povrsinu",
+  "pitanja": [
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-001",
+      "tezina": "lagano",
+      "pitanje": "Odaberi mjernu jedinicu za površinu.",
+      "ponudeni": [
+        "m",
+        "dm",
+        "cm²",
+        "km"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oznaka cm² čita se kvadratni centimetar i to je jedinica za površinu. Ostale ponuđene oznake jedinice su za duljinu.",
+      "savjet": "Sjeti se kako se zove površina kvadrata kojemu je stranica duga 1 cm."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-002",
+      "tezina": "lagano",
+      "pitanje": "Odaberi mjernu jedinicu za duljinu.",
+      "ponudeni": [
+        "dm²",
+        "m²",
+        "cm²",
+        "dm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Decimetar (dm) je jedinica za duljinu. Oznake s malim brojem ² jedinice su za površinu.",
+      "savjet": "Duljinom mjerimo koliko je nešto dugo, a ne koliko mjesta zauzima ploha."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se čita oznaka m²?",
+      "ponudeni": [
+        "metar",
+        "kvadratni metar",
+        "kvadratni decimetar",
+        "metar na dva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oznaka m² čita se kvadratni metar. To je površina kvadrata kojemu je stranica duga 1 m.",
+      "savjet": "Mali broj 2 uz oznaku jedinice govori da je riječ o površini kvadrata."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-004",
+      "tezina": "lagano",
+      "pitanje": "Odaberi oznaku za kvadratni decimetar.",
+      "ponudeni": [
+        "dm²",
+        "dm",
+        "cm²",
+        "m²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadratni decimetar zapisujemo oznakom dm². Oznaka dm bez malog broja 2 znači decimetar, jedinicu za duljinu.",
+      "savjet": "Oznaka jedinice za površinu sastoji se od oznake jedinice za duljinu i malog broja 2."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-005",
+      "tezina": "lagano",
+      "pitanje": "Odaberi duljinu stranice kvadrata čija je površina 1 cm².",
+      "ponudeni": [
+        "1 dm",
+        "1 m",
+        "10 cm",
+        "1 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadratni centimetar (1 cm²) je površina kvadrata sa stranicom duljine 1 cm.",
+      "savjet": "Naziv jedinice govori kolika je stranica tog kvadrata."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-006",
+      "tezina": "lagano",
+      "pitanje": "Odaberi duljinu stranice kvadrata čija je površina 1 m².",
+      "ponudeni": [
+        "1 dm",
+        "1 cm",
+        "1 m",
+        "10 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadratni metar je površina kvadrata kojemu je stranica duga 1 m.",
+      "savjet": "Naziv kvadratni metar govori kojom je duljinom zadana stranica kvadrata."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-007",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 1 dm² u cm².",
+      "ponudeni": [
+        "10 cm²",
+        "100 cm²",
+        "1000 cm²",
+        "1 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat stranice 1 dm ima 10 redova po 10 kvadratića od 1 cm², a to je 100 cm².",
+      "savjet": "Kvadrat od 1 dm² ima stranicu 10 cm, pa ga podijeli na redove malih kvadratića i prebroji ih."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-008",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 1 m² u dm².",
+      "ponudeni": [
+        "10 dm²",
+        "1000 dm²",
+        "100 dm²",
+        "10 000 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadrat stranice 1 m ima 10 redova po 10 kvadratića od 1 dm², što je ukupno 100 dm².",
+      "savjet": "Stranica kvadrata od 1 m² duga je 10 dm, pa razmisli koliko kvadratića od 1 dm² stane u njega."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-009",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 1 m² u cm².",
+      "ponudeni": [
+        "100 cm²",
+        "1000 cm²",
+        "100 000 cm²",
+        "10 000 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 1 m² = 100 dm², a svaki dm² ima 100 cm², pa je 1 m² = 10 000 cm².",
+      "savjet": "Najprije pretvori 1 m² u dm², a zatim svaki dm² u cm²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-010",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 3 dm² u cm².",
+      "ponudeni": [
+        "30 cm²",
+        "3000 cm²",
+        "3 cm²",
+        "300 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedan dm² ima 100 cm², pa 3 dm² ima 3 · 100 = 300 cm².",
+      "savjet": "Svaki kvadratni decimetar ima jednako mnogo kvadratnih centimetara, pa pomnoži."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-011",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 5 m² u dm².",
+      "ponudeni": [
+        "50 dm²",
+        "5000 dm²",
+        "500 dm²",
+        "5 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan m² ima 100 dm², pa 5 m² ima 5 · 100 = 500 dm².",
+      "savjet": "Broj kvadratnih metara pomnoži s brojem kvadratnih decimetara u jednom kvadratnom metru."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-012",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 400 cm² u dm².",
+      "ponudeni": [
+        "40 dm²",
+        "4 dm²",
+        "400 dm²",
+        "4000 dm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svakih 100 cm² čini 1 dm², pa je 400 cm² = 4 dm².",
+      "savjet": "Svakih sto kvadratnih centimetara čini jedan kvadratni decimetar."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-013",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 200 dm² u m².",
+      "ponudeni": [
+        "20 m²",
+        "200 m²",
+        "2000 m²",
+        "2 m²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svakih 100 dm² čini 1 m², pa je 200 dm² = 2 m².",
+      "savjet": "Grupiraj kvadratne decimetre po sto, jer toliko ih stane u jedan kvadratni metar."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-014",
+      "tezina": "lagano",
+      "pitanje": "Odaberi jedinicu kojom ćeš izraziti površinu poštanske marke.",
+      "ponudeni": [
+        "m²",
+        "cm²",
+        "cm",
+        "m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Marka je mala ploha, pa njezinu površinu izražavamo u kvadratnim centimetrima (cm²).",
+      "savjet": "Usporedi veličinu marke s kvadratom stranice 1 cm i s kvadratom stranice 1 m."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-015",
+      "tezina": "lagano",
+      "pitanje": "Odaberi jedinicu kojom ćeš izraziti površinu poda u učionici.",
+      "ponudeni": [
+        "cm²",
+        "m",
+        "m²",
+        "dm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pod učionice je velika ploha, pa njegovu površinu izražavamo u kvadratnim metrima (m²).",
+      "savjet": "Zamisli koliko bi kvadrata sa stranicom duljine jednog koraka stalo na pod učionice."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-016",
+      "tezina": "lagano",
+      "pitanje": "Ana je izmjerila površinu svog stola. Odaberi zapis koji može biti ta površina.",
+      "ponudeni": [
+        "60 dm",
+        "60 cm",
+        "60 m",
+        "60 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Površina se zapisuje jedinicom za površinu, a od ponuđenih je to samo dm². Ostale su jedinice za duljinu.",
+      "savjet": "Sjeti se da površinu mjerimo kvadratima, pa to mora pokazivati i oznaka jedinice."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-017",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 2 m² u cm².",
+      "ponudeni": [
+        "20 000 cm²",
+        "2000 cm²",
+        "200 cm²",
+        "200 000 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan m² ima 10 000 cm², pa 2 m² ima 20 000 cm².",
+      "savjet": "Sjeti se koliko kvadratnih centimetara ima jedan kvadratni metar, pa pomnoži."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-018",
+      "tezina": "lagano",
+      "pitanje": "Odaberi najveću jedinicu za površinu.",
+      "ponudeni": [
+        "dm²",
+        "cm²",
+        "m²",
+        "km"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najveća od ponuđenih jedinica za površinu je m², jer je to površina kvadrata stranice 1 m. Oznaka km je jedinica za duljinu.",
+      "savjet": "Usporedi kvadrate sa stranicom 1 cm, 1 dm i 1 m."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-019",
+      "tezina": "lagano",
+      "pitanje": "Odaberi najmanju jedinicu za površinu.",
+      "ponudeni": [
+        "m²",
+        "dm²",
+        "mm",
+        "cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najmanja od ponuđenih jedinica za površinu je cm², površina kvadrata stranice 1 cm. Oznaka mm je jedinica za duljinu.",
+      "savjet": "Zamisli kvadrate sa stranicama 1 cm, 1 dm i 1 m pa odaberi onaj koji zauzima najmanje mjesta."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-020",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 7 dm² u cm².",
+      "ponudeni": [
+        "70 cm²",
+        "7000 cm²",
+        "700 cm²",
+        "7 cm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan dm² ima 100 cm², pa 7 dm² ima 7 · 100 = 700 cm².",
+      "savjet": "Jedan kvadratni decimetar ima sto kvadratnih centimetara."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-021",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 900 cm² u dm².",
+      "ponudeni": [
+        "90 dm²",
+        "9 dm²",
+        "900 dm²",
+        "9000 dm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svakih 100 cm² čini 1 dm², pa je 900 cm² = 9 dm².",
+      "savjet": "Podijeli broj kvadratnih centimetara sa sto."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-022",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 600 dm² u m².",
+      "ponudeni": [
+        "60 m²",
+        "600 m²",
+        "6000 m²",
+        "6 m²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svakih 100 dm² čini 1 m², pa je 600 dm² = 6 m².",
+      "savjet": "Svakih sto kvadratnih decimetara čini jedan kvadratni metar."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-023",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 8 m² u dm².",
+      "ponudeni": [
+        "80 dm²",
+        "800 dm²",
+        "8000 dm²",
+        "80 000 dm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedan m² ima 100 dm², pa 8 m² ima 8 · 100 = 800 dm².",
+      "savjet": "Jedan kvadratni metar ima sto kvadratnih decimetara."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-024",
+      "tezina": "lagano",
+      "pitanje": "Odaberi jedinicu kojom ćeš izraziti duljinu olovke.",
+      "ponudeni": [
+        "cm²",
+        "dm²",
+        "cm",
+        "m²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Olovku mjerimo duž crte, pa njezinu duljinu izražavamo u centimetrima (cm). Ostale ponuđene oznake jedinice su za površinu.",
+      "savjet": "Duljinu olovke mjerimo ravnalom, duž jedne crte."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-025",
+      "tezina": "lagano",
+      "pitanje": "Kvadrat ima stranicu duljine 1 dm. Odaberi njegovu površinu.",
+      "ponudeni": [
+        "1 dm",
+        "1 dm²",
+        "10 dm²",
+        "1 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat sa stranicom duljine 1 dm ima površinu 1 dm², to je jedan kvadratni decimetar.",
+      "savjet": "Sjeti se kako je određen kvadratni decimetar."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-026",
+      "tezina": "lagano",
+      "pitanje": "Kvadrat ima stranicu duljine 1 cm. Odaberi njegovu površinu.",
+      "ponudeni": [
+        "1 cm²",
+        "1 cm",
+        "4 cm",
+        "10 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat sa stranicom duljine 1 cm ima površinu 1 cm². Zapis 4 cm bio bi njegov opseg.",
+      "savjet": "Opseg mjerimo jedinicama za duljinu, a površinu kvadratima; razmisli koliko kvadratića stane u taj kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-027",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 10 dm² u cm².",
+      "ponudeni": [
+        "100 cm²",
+        "10 000 cm²",
+        "1000 cm²",
+        "10 cm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaki dm² ima 100 cm², pa 10 dm² ima 10 · 100 = 1000 cm².",
+      "savjet": "Svaki od tih kvadratnih decimetara ima sto kvadratnih centimetara."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-028",
+      "tezina": "lagano",
+      "pitanje": "Pretvori 10 000 cm² u m².",
+      "ponudeni": [
+        "1 m²",
+        "10 m²",
+        "100 m²",
+        "1000 m²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 10 000 cm² = 100 dm² = 1 m².",
+      "savjet": "Najprije izrazi kvadratne centimetre u dm², a zatim dm² u m²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-029",
+      "tezina": "lagano",
+      "pitanje": "Odaberi jedinicu kojom ćeš izraziti udaljenost između dvaju gradova.",
+      "ponudeni": [
+        "km",
+        "m²",
+        "dm²",
+        "cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Udaljenost je duljina, a za velike udaljenosti koristimo kilometar (km). Ostale su ponuđene jedinice za površinu.",
+      "savjet": "Udaljenost je duljina puta, a za duge putove koristimo veliku jedinicu."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-030",
+      "tezina": "lagano",
+      "pitanje": "Odaberi jedinicu kojom ćeš izraziti površinu igrališta.",
+      "ponudeni": [
+        "cm²",
+        "m²",
+        "dm",
+        "cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Igralište je velika ploha, pa njegovu površinu izražavamo u kvadratnim metrima (m²).",
+      "savjet": "Igralište je velika ploha, a njezinu površinu mjerimo velikim kvadratima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-031",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 2 m² 35 dm² u dm².",
+      "ponudeni": [
+        "2035 dm²",
+        "235 dm²",
+        "2350 dm²",
+        "37 dm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 2 m² = 200 dm², a 200 dm² + 35 dm² = 235 dm².",
+      "savjet": "Najprije pretvori kvadratne metre u dm², a zatim dodaj preostale kvadratne decimetre."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-032",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 4 dm² 12 cm² u cm².",
+      "ponudeni": [
+        "412 cm²",
+        "4012 cm²",
+        "52 cm²",
+        "16 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 4 dm² = 400 cm², a 400 cm² + 12 cm² = 412 cm².",
+      "savjet": "Pretvori kvadratne decimetre u cm², pa dodaj preostale kvadratne centimetre."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-033",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 3 m² 5 dm² u dm².",
+      "ponudeni": [
+        "35 dm²",
+        "350 dm²",
+        "305 dm²",
+        "3005 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 3 m² = 300 dm², a 300 dm² + 5 dm² = 305 dm².",
+      "savjet": "Pazi da 5 dm² zauzima mjesto jedinica, a ne desetica."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-034",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 708 dm² u m² i dm².",
+      "ponudeni": [
+        "7 m² 8 dm²",
+        "70 m² 8 dm²",
+        "7 m² 80 dm²",
+        "70 m² 80 dm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U 708 dm² ima 7 punih stotina, a to je 7 m², i ostaje još 8 dm².",
+      "savjet": "Odvoji pune stotine kvadratnih decimetara, jer svaka stotina čini jedan kvadratni metar."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-035",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 1250 cm² u dm² i cm².",
+      "ponudeni": [
+        "1 dm² 250 cm²",
+        "125 dm²",
+        "120 dm² 50 cm²",
+        "12 dm² 50 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U 1250 cm² ima 12 punih stotina, a to je 12 dm², i ostaje još 50 cm².",
+      "savjet": "Svakih sto kvadratnih centimetara čini jedan dm², pa izdvoji pune stotine."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-036",
+      "tezina": "srednje",
+      "pitanje": "Odaberi najveću površinu.",
+      "ponudeni": [
+        "5 m²",
+        "450 dm²",
+        "4900 cm²",
+        "40 000 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U cm² to su redom 50 000, 45 000, 4900 i 40 000, pa je najveća površina 5 m².",
+      "savjet": "Prije uspoređivanja izrazi sve površine u istoj jedinici."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-037",
+      "tezina": "srednje",
+      "pitanje": "Odaberi najmanju površinu.",
+      "ponudeni": [
+        "3 dm²",
+        "250 cm²",
+        "1 m²",
+        "90 dm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U cm² to su redom 300, 250, 10 000 i 9000, pa je najmanja površina 250 cm².",
+      "savjet": "Pretvori sve površine u kvadratne centimetre pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-038",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu jednakost.",
+      "ponudeni": [
+        "1 m² = 100 cm²",
+        "1 dm² = 10 cm²",
+        "1 m² = 100 dm²",
+        "1 dm² = 1000 cm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kvadrat stranice 1 m ima 10 redova po 10 kvadratića od 1 dm², pa je 1 m² = 100 dm².",
+      "savjet": "Kvadrat stranice 1 m podijeli na kvadratiće stranice 1 dm i prebroji ih."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-039",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "4 m² > 500 dm²",
+        "300 cm² = 3 dm²",
+        "2 dm² < 150 cm²",
+        "6 m² = 60 dm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 3 dm² = 300 cm², pa je jednakost 300 cm² = 3 dm² točna.",
+      "savjet": "Svaku tvrdnju provjeri tako da obje strane izraziš u istoj jedinici."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-040",
+      "tezina": "srednje",
+      "pitanje": "Zbroji 3 m² i 40 dm². Rezultat izrazi u dm².",
+      "ponudeni": [
+        "43 dm²",
+        "70 dm²",
+        "340 dm²",
+        "3040 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 3 m² = 300 dm², pa je 300 dm² + 40 dm² = 340 dm².",
+      "savjet": "Najprije izrazi 3 m² u kvadratnim decimetrima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-041",
+      "tezina": "srednje",
+      "pitanje": "Zbroji 5 dm² i 20 cm². Rezultat izrazi u cm².",
+      "ponudeni": [
+        "25 cm²",
+        "70 cm²",
+        "502 cm²",
+        "520 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 5 dm² = 500 cm², pa je 500 cm² + 20 cm² = 520 cm².",
+      "savjet": "Pretvori 5 dm² u kvadratne centimetre pa zbroji."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-042",
+      "tezina": "srednje",
+      "pitanje": "Pod sobe ima površinu 12 m². Izrazi tu površinu u dm².",
+      "ponudeni": [
+        "12 000 dm²",
+        "120 dm²",
+        "1020 dm²",
+        "1200 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jedan m² ima 100 dm², pa 12 m² ima 12 · 100 = 1200 dm².",
+      "savjet": "Pomnoži broj kvadratnih metara s brojem kvadratnih decimetara u jednom kvadratnom metru."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-043",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 3000 cm² u dm².",
+      "ponudeni": [
+        "300 dm²",
+        "3 dm²",
+        "30 dm²",
+        "30 000 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svakih 100 cm² čini 1 dm², pa je 3000 cm² = 30 dm².",
+      "savjet": "Podijeli sa sto, jer toliko kvadratnih centimetara ima u jednom dm²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-044",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 50 000 cm² u m².",
+      "ponudeni": [
+        "500 m²",
+        "5000 m²",
+        "5 m²",
+        "50 m²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan m² ima 10 000 cm², a 50 000 cm² je pet puta više, dakle 5 m².",
+      "savjet": "Sjeti se koliko kvadratnih centimetara ima u jednom kvadratnom metru."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-045",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 4 m² 20 dm² u cm².",
+      "ponudeni": [
+        "4200 cm²",
+        "42 000 cm²",
+        "40 020 cm²",
+        "420 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 4 m² 20 dm² = 420 dm², a 420 dm² = 420 · 100 cm² = 42 000 cm².",
+      "savjet": "Najprije izrazi sve u dm², a zatim dm² pretvori u cm²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-046",
+      "tezina": "srednje",
+      "pitanje": "Odaberi površinu koja je jednaka 6 dm².",
+      "ponudeni": [
+        "60 cm²",
+        "6000 cm²",
+        "600 cm²",
+        "6 m²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan dm² ima 100 cm², pa je 6 dm² = 600 cm².",
+      "savjet": "Svaki kvadratni decimetar zamijeni sa sto kvadratnih centimetara."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-047",
+      "tezina": "srednje",
+      "pitanje": "Odaberi površinu koja je jednaka 7 m².",
+      "ponudeni": [
+        "700 dm²",
+        "70 dm²",
+        "7000 cm²",
+        "700 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedan m² ima 100 dm², pa je 7 m² = 700 dm².",
+      "savjet": "Sjeti se koliko kvadratnih decimetara ima jedan kvadratni metar."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-048",
+      "tezina": "srednje",
+      "pitanje": "Ivana je zapisala četiri mjere. Odaberi mjeru koja opisuje površinu.",
+      "ponudeni": [
+        "25 dm",
+        "25 m",
+        "25 km",
+        "25 m²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Samo m² je jedinica za površinu. Oznake dm, m i km jedinice su za duljinu.",
+      "savjet": "Razmisli koja oznaka pokazuje da se mjeri kvadratima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-049",
+      "tezina": "srednje",
+      "pitanje": "Mia je obojila 2 dm² papira crvenom i 50 cm² plavom bojom. Izračunaj ukupnu obojenu površinu u cm².",
+      "ponudeni": [
+        "52 cm²",
+        "250 cm²",
+        "70 cm²",
+        "2050 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 2 dm² = 200 cm², pa je 200 cm² + 50 cm² = 250 cm².",
+      "savjet": "Obje površine izrazi u kvadratnim centimetrima pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-050",
+      "tezina": "srednje",
+      "pitanje": "Dvorište ima 80 m², a vrt 2000 dm². Izračunaj njihovu ukupnu površinu u m².",
+      "ponudeni": [
+        "2080 m²",
+        "280 m²",
+        "100 m²",
+        "82 m²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 2000 dm² = 20 m², pa je 80 m² + 20 m² = 100 m².",
+      "savjet": "Površinu vrta najprije izrazi u kvadratnim metrima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-051",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 1 m² 1 dm² u cm².",
+      "ponudeni": [
+        "10 100 cm²",
+        "10 001 cm²",
+        "1100 cm²",
+        "101 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 1 m² = 10 000 cm² i 1 dm² = 100 cm², pa je zbroj 10 100 cm².",
+      "savjet": "Pretvori posebno kvadratne metre, a posebno kvadratne decimetre u cm², pa zbroji."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-052",
+      "tezina": "srednje",
+      "pitanje": "Usporedi 5 dm² i 450 cm². Odaberi točan zapis.",
+      "ponudeni": [
+        "5 dm² < 450 cm²",
+        "5 dm² > 450 cm²",
+        "5 dm² = 450 cm²",
+        "5 dm² = 45 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 5 dm² = 500 cm², a 500 cm² je više od 450 cm².",
+      "savjet": "Lijevu stranu izrazi u kvadratnim centimetrima pa usporedi."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-053",
+      "tezina": "srednje",
+      "pitanje": "Usporedi 3 m² i 3000 dm². Odaberi točan zapis.",
+      "ponudeni": [
+        "3 m² > 3000 dm²",
+        "3 m² = 3000 dm²",
+        "3 m² < 3000 dm²",
+        "3 m² = 30 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 3 m² = 300 dm², a 300 dm² je manje od 3000 dm².",
+      "savjet": "Kvadratne metre pretvori u kvadratne decimetre pa usporedi brojeve."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-054",
+      "tezina": "srednje",
+      "pitanje": "Odaberi kako su površine 1 m², 50 dm² i 900 cm² poredane od najmanje prema najvećoj.",
+      "ponudeni": [
+        "900 cm², 50 dm², 1 m²",
+        "50 dm², 900 cm², 1 m²",
+        "1 m², 900 cm², 50 dm²",
+        "900 cm², 1 m², 50 dm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U cm² to su 10 000, 5000 i 900, pa je redoslijed od najmanje: 900 cm², 50 dm², 1 m².",
+      "savjet": "Izrazi sve tri površine u kvadratnim centimetrima pa ih poredaj."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-055",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 40 000 cm² u dm².",
+      "ponudeni": [
+        "4 dm²",
+        "40 dm²",
+        "4000 dm²",
+        "400 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svakih 100 cm² čini 1 dm², pa je 40 000 cm² = 400 dm².",
+      "savjet": "Svakih sto kvadratnih centimetara čini jedan kvadratni decimetar."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-056",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 6 dm² 8 cm² u cm².",
+      "ponudeni": [
+        "68 cm²",
+        "608 cm²",
+        "680 cm²",
+        "6008 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 6 dm² = 600 cm², a 600 cm² + 8 cm² = 608 cm².",
+      "savjet": "Pazi da 8 cm² zauzima mjesto jedinica, a ne desetica."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-057",
+      "tezina": "srednje",
+      "pitanje": "Kvadratna pločica ima površinu 1 dm². Izračunaj koliko je takvih pločica potrebno za pod od 3 m².",
+      "ponudeni": [
+        "30 pločica",
+        "3000 pločica",
+        "300 pločica",
+        "3 pločice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 3 m² = 300 dm², a svaka pločica pokriva 1 dm², pa treba 300 pločica.",
+      "savjet": "Izrazi površinu poda u kvadratnim decimetrima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-058",
+      "tezina": "srednje",
+      "pitanje": "Odaberi površinu veću od 1 m².",
+      "ponudeni": [
+        "90 dm²",
+        "9000 cm²",
+        "120 dm²",
+        "99 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 1 m² = 100 dm², a samo je 120 dm² više od toga.",
+      "savjet": "Sjeti se koliko dm² i koliko cm² ima jedan kvadratni metar."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-059",
+      "tezina": "srednje",
+      "pitanje": "Odaberi površinu manju od 1 dm².",
+      "ponudeni": [
+        "99 cm²",
+        "110 cm²",
+        "1 m²",
+        "200 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 1 dm² = 100 cm², a samo je 99 cm² manje od toga.",
+      "savjet": "Usporedi svaku površinu s brojem kvadratnih centimetara u jednom dm²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-060",
+      "tezina": "srednje",
+      "pitanje": "Lana je izmjerila duljinu stola, a Petar njegovu površinu. Odaberi zapis koji je mogao napisati Petar.",
+      "ponudeni": [
+        "120 cm",
+        "12 dm",
+        "1 m",
+        "80 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Površina se izražava jedinicom za površinu, a od ponuđenih je to samo dm². Ostali zapisi su duljine.",
+      "savjet": "Razmisli kojom vrstom jedinica mjerimo veličinu plohe."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-061",
+      "tezina": "tesko",
+      "pitanje": "Pod hodnika ima 6 m². Pločice pokrivaju 450 dm², a ostatak je tepih. Izračunaj površinu tepiha u dm².",
+      "ponudeni": [
+        "150 dm²",
+        "550 dm²",
+        "1050 dm²",
+        "444 dm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 6 m² = 600 dm², a 600 dm² − 450 dm² = 150 dm².",
+      "savjet": "Izrazi površinu hodnika u dm² pa oduzmi dio pod pločicama."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-062",
+      "tezina": "tesko",
+      "pitanje": "Mama ima 2 m² tkanine. Za stolnjak treba 1 m² 40 dm². Izračunaj koliko tkanine ostaje.",
+      "ponudeni": [
+        "6 dm²",
+        "1 m² 60 dm²",
+        "60 dm²",
+        "140 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 2 m² = 200 dm² i 1 m² 40 dm² = 140 dm², pa ostaje 200 dm² − 140 dm² = 60 dm².",
+      "savjet": "Obje površine najprije izrazi u kvadratnim decimetrima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-063",
+      "tezina": "tesko",
+      "pitanje": "Odaberi površinu koja je jednaka 3050 cm².",
+      "ponudeni": [
+        "3 m² 50 cm²",
+        "30 dm² 50 cm²",
+        "3 dm² 50 cm²",
+        "305 dm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 30 dm² = 3000 cm², a 3000 cm² + 50 cm² = 3050 cm².",
+      "savjet": "Izdvoji koliko punih stotina kvadratnih centimetara ima taj broj."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-064",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat stranice 1 m prekriven je kvadratićima stranice 1 dm. Odaberi koliko je kvadratića u jednom redu i koliko ih je ukupno.",
+      "ponudeni": [
+        "10 u redu, 100 ukupno",
+        "100 u redu, 100 ukupno",
+        "10 u redu, 10 ukupno",
+        "10 u redu, 1000 ukupno"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica od 1 m duga je 10 dm, pa je u redu 10 kvadratića, a 10 redova po 10 daje 100 kvadratića.",
+      "savjet": "Izrazi duljinu stranice 1 m u decimetrima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-065",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat stranice 1 dm podijeljen je na kvadratiće od 1 cm². Ema je obojila 3 cijela reda. Izračunaj obojenu površinu.",
+      "ponudeni": [
+        "3 cm²",
+        "30 cm²",
+        "300 cm²",
+        "13 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U jednom redu je 10 kvadratića od 1 cm², pa 3 reda imaju 3 · 10 = 30 cm².",
+      "savjet": "Odredi koliko kvadratića ima u jednom redu."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-066",
+      "tezina": "tesko",
+      "pitanje": "Odaberi zapis u kojemu je preračunavanje točno.",
+      "ponudeni": [
+        "2 m² = 2000 dm²",
+        "50 dm² = 500 cm²",
+        "3 dm² 4 cm² = 304 cm²",
+        "1 m² 1 dm² = 11 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 3 dm² = 300 cm², pa je 3 dm² 4 cm² = 304 cm². U ostalim zapisima pogrešno je preračunato.",
+      "savjet": "Svaku jednakost provjeri tako da obje strane izraziš u cm²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-067",
+      "tezina": "tesko",
+      "pitanje": "Površina sobe je 15 ___. Odaberi jedinicu koja nedostaje.",
+      "ponudeni": [
+        "cm²",
+        "dm²",
+        "m²",
+        "m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Soba je velika ploha, pa je 15 m² prikladna površina. 15 dm² bila bi površina manja od jednog m².",
+      "savjet": "Procijeni duljinu i širinu sobe pa razmisli koja je jedinica za površinu primjerena."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-068",
+      "tezina": "tesko",
+      "pitanje": "Površina zaslona mobitela je 80 ___. Odaberi jedinicu koja nedostaje.",
+      "ponudeni": [
+        "cm²",
+        "m²",
+        "dm²",
+        "cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zaslon mobitela stane na dlan, pa je 80 cm² prikladna površina. 80 dm² bilo bi gotovo 1 m².",
+      "savjet": "Usporedi veličinu zaslona s kvadratom stranice 1 cm i s kvadratom stranice 1 dm."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-069",
+      "tezina": "tesko",
+      "pitanje": "Površina školske ploče je 4 ___. Odaberi jedinicu koja nedostaje.",
+      "ponudeni": [
+        "cm²",
+        "dm²",
+        "m",
+        "m²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Školska ploča je velika ploha, pa je 4 m² prikladna površina. Oznaka m je jedinica za duljinu.",
+      "savjet": "Zamisli koliko bi kvadrata stranice 1 dm, a koliko kvadrata stranice 1 m stalo na ploču."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-070",
+      "tezina": "tesko",
+      "pitanje": "Tin ima list papira od 6 dm². Iz njega izreže 150 cm². Izračunaj koliko papira ostaje.",
+      "ponudeni": [
+        "144 cm²",
+        "450 cm²",
+        "5 dm² 50 cm²",
+        "45 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 6 dm² = 600 cm², a 600 cm² − 150 cm² = 450 cm².",
+      "savjet": "Površinu cijelog lista izrazi u kvadratnim centimetrima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-071",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko je puta 1 m² veći od 1 dm².",
+      "ponudeni": [
+        "10 puta",
+        "100 puta",
+        "1000 puta",
+        "10 000 puta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U 1 m² stane 10 redova po 10 kvadrata od 1 dm², dakle 100 kvadrata, pa je 1 m² 100 puta veći.",
+      "savjet": "Prebroji koliko kvadrata stranice 1 dm stane u jedan red kvadrata stranice 1 m, a zatim koliko je redova."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-072",
+      "tezina": "tesko",
+      "pitanje": "Odaberi koliko je puta 1 m² veći od 1 cm².",
+      "ponudeni": [
+        "10 000 puta",
+        "100 puta",
+        "1000 puta",
+        "1 000 000 puta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 1 m² = 10 000 cm², pa je 1 m² 10 000 puta veći od 1 cm².",
+      "savjet": "Pretvori 1 m² u kvadratne centimetre."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-073",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ima površinu 1 dm². Odaberi duljinu njegove stranice u centimetrima.",
+      "ponudeni": [
+        "100 cm",
+        "10 cm",
+        "1 cm",
+        "25 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat površine 1 dm² ima stranicu 1 dm, a 1 dm = 10 cm.",
+      "savjet": "Sjeti se kolika je stranica kvadrata površine 1 dm², a zatim tu duljinu izrazi u cm."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-074",
+      "tezina": "tesko",
+      "pitanje": "Zbroji 35 dm² i 65 dm². Rezultat izrazi u m².",
+      "ponudeni": [
+        "100 m²",
+        "10 m²",
+        "1 m²",
+        "1000 m²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 35 dm² + 65 dm² = 100 dm², a 100 dm² = 1 m².",
+      "savjet": "Najprije zbroji kvadratne decimetre, a zatim ih pretvori u kvadratne metre."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-075",
+      "tezina": "tesko",
+      "pitanje": "Zbroji 75 cm², 25 cm² i 2 dm². Rezultat izrazi u dm².",
+      "ponudeni": [
+        "102 dm²",
+        "30 dm²",
+        "300 dm²",
+        "3 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 75 cm² + 25 cm² = 100 cm² = 1 dm², a 1 dm² + 2 dm² = 3 dm².",
+      "savjet": "Najprije zbroji kvadratne centimetre i pretvori ih u dm²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-076",
+      "tezina": "tesko",
+      "pitanje": "Ploha od 1 m² podijeljena je na 4 jednaka dijela. Izrazi površinu jednog dijela u dm².",
+      "ponudeni": [
+        "25 dm²",
+        "4 dm²",
+        "250 dm²",
+        "400 dm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 1 m² = 100 dm², a 100 : 4 = 25, pa jedan dio ima 25 dm².",
+      "savjet": "Izrazi 1 m² u kvadratnim decimetrima pa podijeli na jednake dijelove."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-077",
+      "tezina": "tesko",
+      "pitanje": "Odaberi površinu koja je veća od 1 dm², a manja od 1 m².",
+      "ponudeni": [
+        "50 cm²",
+        "5 m²",
+        "80 dm²",
+        "150 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 1 dm² = 100 cm² i 1 m² = 100 dm², a 80 dm² je između tih površina.",
+      "savjet": "Pretvori obje granice i sve ponuđene površine u kvadratne centimetre."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-078",
+      "tezina": "tesko",
+      "pitanje": "Odaberi kako su površine 2 m², 150 dm² i 21 000 cm² poredane od najveće prema najmanjoj.",
+      "ponudeni": [
+        "2 m², 150 dm², 21 000 cm²",
+        "21 000 cm², 2 m², 150 dm²",
+        "21 000 cm², 150 dm², 2 m²",
+        "150 dm², 2 m², 21 000 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U cm² to su 20 000, 15 000 i 21 000, pa je redoslijed od najveće: 21 000 cm², 2 m², 150 dm².",
+      "savjet": "Izrazi sve tri površine u kvadratnim centimetrima pa ih poredaj."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-079",
+      "tezina": "tesko",
+      "pitanje": "Vrt ima 9 m². Na 3 m² rastu jagode, na 250 dm² mrkva, a ostalo je trava. Izračunaj površinu pod travom u dm².",
+      "ponudeni": [
+        "650 dm²",
+        "600 dm²",
+        "350 dm²",
+        "50 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrt ima 900 dm², jagode 300 dm², a mrkva 250 dm², pa je trava na 900 − 300 − 250 = 350 dm².",
+      "savjet": "Izrazi sve površine u kvadratnim decimetrima pa od cijelog vrta oduzmi jagode i mrkvu."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-080",
+      "tezina": "tesko",
+      "pitanje": "Kvadratna pločica ima površinu 1 dm². Izračunaj koliko je takvih pločica potrebno za zid od 2 m² 50 dm².",
+      "ponudeni": [
+        "2050 pločica",
+        "25 pločica",
+        "205 pločica",
+        "250 pločica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 2 m² 50 dm² = 250 dm², a svaka pločica pokriva 1 dm², pa treba 250 pločica.",
+      "savjet": "Izrazi površinu zida samo u kvadratnim decimetrima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-081",
+      "tezina": "tesko",
+      "pitanje": "Odaberi tvrdnju u kojoj je usporedba površina točna.",
+      "ponudeni": [
+        "9 dm² > 1 m²",
+        "1 m² < 9999 cm²",
+        "5 dm² 5 cm² > 550 cm²",
+        "20 000 cm² = 2 m²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 1 m² = 10 000 cm², pa je 2 m² = 20 000 cm². Ostale tvrdnje nisu točne.",
+      "savjet": "Svaku stranu izrazi u kvadratnim centimetrima prije uspoređivanja."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-082",
+      "tezina": "tesko",
+      "pitanje": "Ana kaže da je 1 m² = 100 cm², jer je 1 m = 100 cm. Odaberi točan odgovor.",
+      "ponudeni": [
+        "Ana je u pravu.",
+        "Nije u pravu, 1 m² = 1000 cm².",
+        "Nije u pravu, 1 m² = 10 000 cm².",
+        "Nije u pravu, 1 m² = 10 dm²."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U kvadratu stranice 1 m ima 100 redova po 100 kvadratića od 1 cm², pa je 1 m² = 10 000 cm².",
+      "savjet": "Zamisli kvadrat stranice 1 m: u jednom redu je 100 kvadratića od 1 cm², a koliko je takvih redova?"
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-083",
+      "tezina": "tesko",
+      "pitanje": "Luka je obojio 45 dm² zida, a Sara 4500 cm². Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Luka je obojio više.",
+        "Sara je obojila više.",
+        "Obojili su jednako.",
+        "Sara je obojila 100 puta više."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedi 45 dm² = 45 · 100 cm² = 4500 cm², pa su obojili jednako.",
+      "savjet": "Izrazi površinu koju je obojio Luka u kvadratnim centimetrima."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-084",
+      "tezina": "tesko",
+      "pitanje": "Pretvori 3 m² 300 cm² u dm².",
+      "ponudeni": [
+        "303 dm²",
+        "330 dm²",
+        "3300 dm²",
+        "600 dm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrijedi 3 m² = 300 dm² i 300 cm² = 3 dm², pa je ukupno 303 dm².",
+      "savjet": "Pretvori posebno kvadratne metre, a posebno kvadratne centimetre u dm², pa zbroji."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-085",
+      "tezina": "tesko",
+      "pitanje": "Učionica ima površinu 60 m². Izrazi tu površinu u cm².",
+      "ponudeni": [
+        "600 cm²",
+        "6000 cm²",
+        "600 000 cm²",
+        "60 000 cm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan m² ima 10 000 cm², pa 60 m² ima 60 · 10 000 = 600 000 cm².",
+      "savjet": "Pomnoži broj kvadratnih metara s brojem kvadratnih centimetara u jednom m²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-086",
+      "tezina": "tesko",
+      "pitanje": "Tri su površine jednake, a jedna je različita. Odaberi različitu površinu.",
+      "ponudeni": [
+        "5 m²",
+        "500 dm²",
+        "50 000 cm²",
+        "5000 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijedi 5 m² = 500 dm² = 50 000 cm², a 5000 dm² je 50 m².",
+      "savjet": "Izrazi sve površine u istoj jedinici."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-087",
+      "tezina": "tesko",
+      "pitanje": "Odaberi površinu koja nije jednaka ostalim trima.",
+      "ponudeni": [
+        "206 dm²",
+        "260 dm²",
+        "2 m² 6 dm²",
+        "20 600 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijedi 2 m² 6 dm² = 206 dm² = 20 600 cm², a 260 dm² je više.",
+      "savjet": "Pazi gdje stoji znamenka 6 kada površine pretvaraš u dm²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-088",
+      "tezina": "tesko",
+      "pitanje": "Papir za omatanje ima površinu 1 m². Marko iz njega izreže 4 komada po 20 dm². Izračunaj koliko papira ostane.",
+      "ponudeni": [
+        "96 dm²",
+        "80 dm²",
+        "76 dm²",
+        "20 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Četiri komada imaju 4 · 20 = 80 dm², a 1 m² = 100 dm², pa ostaje 100 − 80 = 20 dm².",
+      "savjet": "Izračunaj koliko dm² imaju svi komadi zajedno pa to oduzmi od cijelog papira."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-089",
+      "tezina": "tesko",
+      "pitanje": "Na stolu su 4 lista papira, svaki površine 5 dm². Izrazi njihovu ukupnu površinu u cm².",
+      "ponudeni": [
+        "200 cm²",
+        "2000 cm²",
+        "20 cm²",
+        "20 000 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Četiri lista imaju 4 · 5 = 20 dm², a 20 dm² = 20 · 100 cm² = 2000 cm².",
+      "savjet": "Najprije izračunaj ukupnu površinu u dm²."
+    },
+    {
+      "id": "4-matematika-mjerne-jedinice-za-povrsinu-090",
+      "tezina": "tesko",
+      "pitanje": "Odaberi par u kojemu je jedna jedinica za duljinu, a druga za površinu.",
+      "ponudeni": [
+        "km i m²",
+        "cm i dm",
+        "m² i cm²",
+        "m i km"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kilometar (km) je jedinica za duljinu, a kvadratni metar (m²) jedinica za površinu.",
+      "savjet": "Jedinice za površinu imaju mali broj 2 uz oznaku."
+    }
+  ]
+}

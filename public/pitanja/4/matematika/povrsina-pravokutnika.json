@@ -1,0 +1,3448 @@
+{
+  "lekcijaId": "povrsina-pravokutnika",
+  "pitanja": [
+    {
+      "id": "4-matematika-povrsina-pravokutnika-001",
+      "tezina": "lagano",
+      "pitanje": "Koja formula služi za računanje površine pravokutnika sa stranicama duljina a i b?",
+      "ponudeni": [
+        "P = 2 · a + 2 · b",
+        "P = a + b",
+        "P = a · a",
+        "P = a · b"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Površinu pravokutnika računamo tako da pomnožimo duljine njegovih dviju susjednih stranica: P = a · b.",
+      "savjet": "Sjeti se koliko jediničnih kvadrata stane u jedan red i koliko je takvih redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-002",
+      "tezina": "lagano",
+      "pitanje": "Koja formula služi za računanje površine kvadrata sa stranicom duljine a?",
+      "ponudeni": [
+        "P = a · a",
+        "P = 4 · a",
+        "P = a + a",
+        "P = a + a + a + a"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat ima sve stranice jednake, pa mu površinu računamo kao P = a · a.",
+      "savjet": "Kvadrat je prekriven s a redova, a u svakom je redu a jediničnih kvadrata."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-003",
+      "tezina": "lagano",
+      "pitanje": "Odaberi mjernu jedinicu za površinu.",
+      "ponudeni": [
+        "cm",
+        "cm²",
+        "dm",
+        "m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Površinu mjerimo kvadratnim jedinicama, npr. cm² (kvadratni centimetar), a cm, dm i m su jedinice za duljinu.",
+      "savjet": "Površina se mjeri jediničnim kvadratima."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-004",
+      "tezina": "lagano",
+      "pitanje": "Što je 1 cm² (jedan kvadratni centimetar)?",
+      "ponudeni": [
+        "Površina kvadrata sa stranicom 1 cm",
+        "Opseg kvadrata sa stranicom 1 cm",
+        "Duljina dužine od 1 cm",
+        "Površina kvadrata sa stranicom 10 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 cm² je površina jediničnog kvadrata čija je stranica duga 1 cm.",
+      "savjet": "Sjeti se kako izgleda jedinični kvadrat kojim mjerimo površinu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-005",
+      "tezina": "lagano",
+      "pitanje": "Na slici je pravokutnik u kvadratnoj mreži. Svaki kvadratić ima površinu 1 cm². Odredi površinu pravokutnika.",
+      "slika": {
+        "opis": "Pravokutnik u kvadratnoj mreži, 4 kvadratića u duljinu i 3 u širinu",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            5,
+            1
+          ],
+          "C": [
+            5,
+            4
+          ],
+          "D": [
+            1,
+            4
+          ],
+          "E": [
+            0,
+            0
+          ],
+          "F": [
+            6,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 cm²",
+        "12 cm²",
+        "7 cm²",
+        "12 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik prekriva 3 reda po 4 kvadratića, a to je 4 · 3 = 12 kvadratića, tj. 12 cm².",
+      "savjet": "Prebroji kvadratiće u jednom redu, pa pomnoži s brojem redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-006",
+      "tezina": "lagano",
+      "pitanje": "Na slici je pravokutnik u mreži jediničnih kvadrata. Odredi koliko jediničnih kvadrata prekriva pravokutnik.",
+      "slika": {
+        "opis": "Pravokutnik u kvadratnoj mreži, 5 kvadratića u duljinu i 2 u širinu",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            6,
+            1
+          ],
+          "C": [
+            6,
+            3
+          ],
+          "D": [
+            1,
+            3
+          ],
+          "E": [
+            0,
+            0
+          ],
+          "F": [
+            7,
+            4
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "7",
+        "10",
+        "14",
+        "12"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U svakom od 2 reda je 5 kvadrata, pa je ukupno 5 · 2 = 10 jediničnih kvadrata.",
+      "savjet": "Umjesto da brojiš jedan po jedan, pomnoži broj kvadrata u redu s brojem redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-007",
+      "tezina": "lagano",
+      "pitanje": "Svaki kvadratić mreže na slici ima površinu 1 cm². Odredi površinu pravokutnika na slici.",
+      "slika": {
+        "opis": "Pravokutnik u kvadratnoj mreži, 7 kvadratića u duljinu i 4 u širinu",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            8,
+            5
+          ],
+          "D": [
+            1,
+            5
+          ],
+          "E": [
+            0,
+            0
+          ],
+          "F": [
+            9,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "22 cm²",
+        "11 cm²",
+        "28 cm²",
+        "28 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutnik ima 4 reda po 7 kvadratića: 7 · 4 = 28, pa je površina 28 cm².",
+      "savjet": "Prebroji koliko je kvadratića u jednom redu i koliko je redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-008",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu pravokutnika sa stranicama duljina 5 cm i 3 cm.",
+      "ponudeni": [
+        "15 cm²",
+        "16 cm²",
+        "8 cm²",
+        "15 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "P = a · b = 5 · 3 = 15, pa je površina 15 cm².",
+      "savjet": "Primijeni formulu P = a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-009",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu kvadrata sa stranicom duljine 3 cm.",
+      "ponudeni": [
+        "12 cm²",
+        "6 cm²",
+        "9 cm",
+        "9 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "P = a · a = 3 · 3 = 9, pa je površina 9 cm².",
+      "savjet": "Za kvadrat primijeni formulu P = a · a."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-010",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu kvadrata na slici.",
+      "slika": {
+        "opis": "Kvadrat sa stranicom 5 cm",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 cm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "20 cm²",
+        "25 cm²",
+        "10 cm²",
+        "25 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat ima sve stranice duge 5 cm, pa je P = 5 · 5 = 25 cm².",
+      "savjet": "Sve stranice kvadrata jednake su duljine, pa duljinu stranice pomnoži samu sa sobom."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-011",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu pravokutnika na slici.",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 7 cm i 2 cm",
+        "tocke": {
+          "A": [
+            1,
+            3.86
+          ],
+          "B": [
+            9,
+            3.86
+          ],
+          "C": [
+            9,
+            6.14
+          ],
+          "D": [
+            1,
+            6.14
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "2 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "14 cm²",
+        "18 cm²",
+        "9 cm²",
+        "14 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "P = a · b = 7 · 2 = 14, pa je površina 14 cm².",
+      "savjet": "Pomnoži duljine dviju susjednih stranica pravokutnika."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-012",
+      "tezina": "lagano",
+      "pitanje": "Pravokutnik je prekriven jediničnim kvadratima: 4 su reda, a u svakom je redu 6 kvadrata. Odredi koliko je jediničnih kvadrata ukupno.",
+      "ponudeni": [
+        "10",
+        "20",
+        "24",
+        "28"
+      ],
+      "tocan": 2,
+      "objasnjenje": "4 reda po 6 kvadrata daje 4 · 6 = 24 jedinična kvadrata.",
+      "savjet": "Broj kvadrata u jednom redu pomnoži s brojem redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-013",
+      "tezina": "lagano",
+      "pitanje": "Površina nekog pravokutnika je 20 cm². Što to znači?",
+      "ponudeni": [
+        "Zbroj duljina svih stranica iznosi 20 cm.",
+        "Jedna stranica pravokutnika duga je 20 cm.",
+        "Pravokutnik se može prekriti s 20 kvadrata od 1 cm².",
+        "Dvije susjedne stranice zajedno su duge 20 cm."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Površina pokazuje koliko jediničnih kvadrata od 1 cm² stane u lik bez preklapanja.",
+      "savjet": "Sjeti se kojom jedinicom mjerimo površinu i što ona predstavlja."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-014",
+      "tezina": "lagano",
+      "pitanje": "Što izračunamo kad pomnožimo duljine dviju susjednih stranica pravokutnika?",
+      "ponudeni": [
+        "Površinu pravokutnika",
+        "Opseg pravokutnika",
+        "Broj vrhova pravokutnika",
+        "Duljinu kraće stranice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umnožak duljina dviju susjednih stranica daje površinu pravokutnika: P = a · b.",
+      "savjet": "Sjeti se formule u kojoj se pojavljuje umnožak a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-015",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu pravokutnika sa stranicama duljina 8 cm i 4 cm.",
+      "ponudeni": [
+        "24 cm²",
+        "12 cm²",
+        "32 cm",
+        "32 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "P = 8 · 4 = 32, pa je površina 32 cm².",
+      "savjet": "Primijeni formulu P = a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-016",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu kvadrata sa stranicom duljine 6 cm.",
+      "ponudeni": [
+        "24 cm²",
+        "12 cm²",
+        "36 cm",
+        "36 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "P = a · a = 6 · 6 = 36, pa je površina 36 cm².",
+      "savjet": "Za kvadrat primijeni formulu P = a · a."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-017",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu pravokutnika prikazanog na slici.",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 9 m i 3 m",
+        "tocke": {
+          "A": [
+            1,
+            3.67
+          ],
+          "B": [
+            9,
+            3.67
+          ],
+          "C": [
+            9,
+            6.33
+          ],
+          "D": [
+            1,
+            6.33
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "9 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 m"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "24 m²",
+        "12 m²",
+        "27 cm²",
+        "27 m²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "P = 9 · 3 = 27, a stranice su u metrima, pa je površina 27 m².",
+      "savjet": "Pomnoži duljine stranica i pazi na mjernu jedinicu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-018",
+      "tezina": "lagano",
+      "pitanje": "Pravokutnik ima stranice duljina 10 cm i 6 cm. Izračunaj njegovu površinu.",
+      "ponudeni": [
+        "32 cm²",
+        "16 cm²",
+        "60 cm",
+        "60 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "P = 10 · 6 = 60, pa je površina 60 cm².",
+      "savjet": "Površinu pravokutnika računamo formulom P = a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-019",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu kvadrata prikazanog na slici.",
+      "slika": {
+        "opis": "Kvadrat sa stranicom 8 dm",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 dm",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "32 dm²",
+        "16 dm²",
+        "64 dm²",
+        "64 dm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "P = 8 · 8 = 64, pa je površina 64 dm².",
+      "savjet": "Kvadrat ima sve stranice jednake, pa primijeni formulu P = a · a."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-020",
+      "tezina": "lagano",
+      "pitanje": "Svaki kvadratić mreže ima površinu 1 cm². Odredi površinu kvadrata na slici.",
+      "slika": {
+        "opis": "Kvadrat u kvadratnoj mreži, 3 kvadratića u duljinu i 3 u širinu",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            4,
+            1
+          ],
+          "C": [
+            4,
+            4
+          ],
+          "D": [
+            1,
+            4
+          ],
+          "E": [
+            0,
+            0
+          ],
+          "F": [
+            5,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 cm²",
+        "9 cm²",
+        "6 cm²",
+        "3 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kvadrat prekriva 3 reda po 3 kvadratića: 3 · 3 = 9, tj. 9 cm².",
+      "savjet": "Prebroji kvadratiće u jednom redu i broj redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-021",
+      "tezina": "lagano",
+      "pitanje": "Odaberi duljine stranica pravokutnika čija je površina 12 cm².",
+      "ponudeni": [
+        "8 cm i 4 cm",
+        "10 cm i 2 cm",
+        "4 cm i 2 cm",
+        "4 cm i 3 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "4 · 3 = 12, pa pravokutnik sa stranicama 4 cm i 3 cm ima površinu 12 cm².",
+      "savjet": "Za svaki par pomnoži duljine stranica i usporedi umnožak sa zadanom površinom."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-022",
+      "tezina": "lagano",
+      "pitanje": "Odredi broj jediničnih kvadrata koji prekrivaju pravokutnik na slici.",
+      "slika": {
+        "opis": "Pravokutnik u kvadratnoj mreži, 8 kvadratića u duljinu i 2 u širinu",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            3
+          ],
+          "D": [
+            1,
+            3
+          ],
+          "E": [
+            0,
+            0
+          ],
+          "F": [
+            10,
+            4
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "20",
+        "16",
+        "10",
+        "18"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik ima 2 reda po 8 kvadrata: 8 · 2 = 16 jediničnih kvadrata.",
+      "savjet": "Pomnoži broj kvadrata u jednom redu s brojem redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-023",
+      "tezina": "lagano",
+      "pitanje": "Ivana crta pravokutnik sa stranicama duljina 6 cm i 2 cm. Izračunaj površinu tog pravokutnika.",
+      "ponudeni": [
+        "16 cm²",
+        "8 cm²",
+        "12 cm²",
+        "12 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "P = 6 · 2 = 12, pa je površina 12 cm².",
+      "savjet": "Pomnoži duljine dviju susjednih stranica."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-024",
+      "tezina": "lagano",
+      "pitanje": "Odaberi mjernu jedinicu u kojoj je najprikladnije izraziti površinu poda u sobi.",
+      "ponudeni": [
+        "cm²",
+        "m",
+        "m²",
+        "dm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pod sobe je velik, pa njegovu površinu izražavamo u kvadratnim metrima (m²).",
+      "savjet": "Razmisli je li riječ o duljini ili površini i koliko je pod velik."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-025",
+      "tezina": "lagano",
+      "pitanje": "Izračunaj površinu kvadrata sa stranicom duljine 10 cm.",
+      "ponudeni": [
+        "100 cm²",
+        "40 cm²",
+        "20 cm²",
+        "100 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "P = 10 · 10 = 100, pa je površina 100 cm².",
+      "savjet": "Za kvadrat primijeni formulu P = a · a."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-026",
+      "tezina": "lagano",
+      "pitanje": "Stranice pravokutnika označene su na slici. Izračunaj njegovu površinu.",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 6 cm i 5 cm",
+        "tocke": {
+          "A": [
+            1,
+            1.67
+          ],
+          "B": [
+            9,
+            1.67
+          ],
+          "C": [
+            9,
+            8.33
+          ],
+          "D": [
+            1,
+            8.33
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "22 cm²",
+        "30 cm²",
+        "11 cm²",
+        "30 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "P = 6 · 5 = 30, pa je površina 30 cm².",
+      "savjet": "Površinu pravokutnika računamo formulom P = a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-027",
+      "tezina": "lagano",
+      "pitanje": "Pravokutnik je dug 9 cm i širok 2 cm. Izračunaj njegovu površinu.",
+      "ponudeni": [
+        "18 cm²",
+        "22 cm²",
+        "11 cm²",
+        "18 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "P = 9 · 2 = 18, pa je površina 18 cm².",
+      "savjet": "Pomnoži duljinu i širinu pravokutnika."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-028",
+      "tezina": "lagano",
+      "pitanje": "Kvadrat ima stranicu duljine 7 cm. Izračunaj njegovu površinu.",
+      "ponudeni": [
+        "49 cm²",
+        "28 cm²",
+        "14 cm²",
+        "49 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "P = 7 · 7 = 49, pa je površina 49 cm².",
+      "savjet": "Duljinu stranice kvadrata pomnoži samu sa sobom."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-029",
+      "tezina": "lagano",
+      "pitanje": "Pravokutnik na slici nacrtan je u mreži kvadratića od 1 cm². Odredi njegovu površinu.",
+      "slika": {
+        "opis": "Pravokutnik u kvadratnoj mreži, 8 kvadratića u duljinu i 3 u širinu",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            4
+          ],
+          "D": [
+            1,
+            4
+          ],
+          "E": [
+            0,
+            0
+          ],
+          "F": [
+            10,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "22 cm²",
+        "11 cm²",
+        "24 cm²",
+        "24 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutnik ima 3 reda po 8 kvadratića: 8 · 3 = 24, pa je površina 24 cm².",
+      "savjet": "Prebroji kvadratiće u jednom redu i broj redova pa ih pomnoži."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-030",
+      "tezina": "lagano",
+      "pitanje": "Matej je pravokutnik prekrio jediničnim kvadratima od 1 cm² i dobio 5 redova po 3 kvadrata. Odredi površinu pravokutnika.",
+      "ponudeni": [
+        "8 cm²",
+        "15 cm²",
+        "16 cm²",
+        "15 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "5 redova po 3 kvadrata je 5 · 3 = 15 kvadrata od 1 cm², dakle 15 cm².",
+      "savjet": "Svaki jedinični kvadrat ima 1 cm², pa odredi koliko ih je ukupno."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-031",
+      "tezina": "srednje",
+      "pitanje": "Površina pravokutnika na slici je 24 cm². Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Pravokutnik s jednom stranicom 6 cm i drugom stranicom označenom upitnikom",
+        "tocke": {
+          "A": [
+            1,
+            2.33
+          ],
+          "B": [
+            9,
+            2.33
+          ],
+          "C": [
+            9,
+            7.67
+          ],
+          "D": [
+            1,
+            7.67
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "18 cm",
+        "4 cm",
+        "12 cm",
+        "4 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz P = a · b slijedi da je druga stranica 24 : 6 = 4 cm.",
+      "savjet": "Razmisli koji broj treba pomnožiti sa 6 da dobiješ površinu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-032",
+      "tezina": "srednje",
+      "pitanje": "Kvadrat ima površinu 36 cm². Odredi duljinu njegove stranice.",
+      "ponudeni": [
+        "9 cm",
+        "6 cm",
+        "18 cm",
+        "12 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "6 · 6 = 36, pa je stranica kvadrata duga 6 cm.",
+      "savjet": "Traži broj koji pomnožen sam sa sobom daje površinu kvadrata."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-033",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik na slici ima površinu 40 cm². Odredi duljinu stranice označene upitnikom.",
+      "slika": {
+        "opis": "Pravokutnik s jednom stranicom 8 cm i drugom stranicom označenom upitnikom",
+        "tocke": {
+          "A": [
+            1,
+            2.5
+          ],
+          "B": [
+            9,
+            2.5
+          ],
+          "C": [
+            9,
+            7.5
+          ],
+          "D": [
+            1,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "32 cm",
+        "5 cm",
+        "12 cm",
+        "10 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "40 : 8 = 5, pa je tražena stranica duga 5 cm.",
+      "savjet": "Površinu podijeli s duljinom poznate stranice."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-034",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik A ima stranice duljina 6 cm i 4 cm, a pravokutnik B stranice duljina 8 cm i 3 cm. Odaberi točnu tvrdnju o njihovim površinama.",
+      "ponudeni": [
+        "Površine su jednake.",
+        "Pravokutnik A ima veću površinu.",
+        "Pravokutnik B ima veću površinu.",
+        "Površina pravokutnika B dvostruko je veća."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oba pravokutnika imaju površinu 24 cm² jer je 6 · 4 = 24 i 8 · 3 = 24.",
+      "savjet": "Izračunaj površinu svakog pravokutnika pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-035",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 1 dm² u kvadratne centimetre.",
+      "ponudeni": [
+        "10 cm²",
+        "1000 cm²",
+        "100 cm²",
+        "40 cm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 dm² je kvadrat sa stranicom 10 cm, pa je 1 dm² = 10 · 10 = 100 cm².",
+      "savjet": "Zamisli kvadrat sa stranicom 1 dm i izrazi njegovu stranicu u centimetrima."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-036",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj površinu pravokutnika na slici u cm².",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 2 dm i 5 cm",
+        "tocke": {
+          "A": [
+            1,
+            4
+          ],
+          "B": [
+            9,
+            4
+          ],
+          "C": [
+            9,
+            6
+          ],
+          "D": [
+            1,
+            6
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "2 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "100 cm²",
+        "10 cm²",
+        "50 cm²",
+        "25 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije pretvori: 2 dm = 20 cm. Zatim je P = 20 · 5 = 100 cm².",
+      "savjet": "Prije množenja izrazi obje stranice u istoj mjernoj jedinici."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-037",
+      "tezina": "srednje",
+      "pitanje": "Pod sobe ima oblik pravokutnika kao na slici. Izračunaj površinu poda.",
+      "slika": {
+        "opis": "Pod oblika pravokutnika sa stranicama 5 m i 4 m",
+        "tocke": {
+          "A": [
+            1,
+            1.8
+          ],
+          "B": [
+            9,
+            1.8
+          ],
+          "C": [
+            9,
+            8.2
+          ],
+          "D": [
+            1,
+            8.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 m"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "18 m²",
+        "9 m²",
+        "20 m²",
+        "20 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "P = 5 · 4 = 20, pa pod ima površinu 20 m².",
+      "savjet": "Pod je pravokutnik, pa primijeni formulu P = a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-038",
+      "tezina": "srednje",
+      "pitanje": "Gredica ima oblik kvadrata sa stranicom duljine 9 m. Izračunaj površinu gredice.",
+      "ponudeni": [
+        "36 m²",
+        "81 m²",
+        "18 m²",
+        "81 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "P = 9 · 9 = 81, pa gredica ima površinu 81 m².",
+      "savjet": "Gredica je kvadrat, pa primijeni formulu P = a · a."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-039",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj površinu pravokutnika sa slike.",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 12 cm i 5 cm",
+        "tocke": {
+          "A": [
+            1,
+            3.33
+          ],
+          "B": [
+            9,
+            3.33
+          ],
+          "C": [
+            9,
+            6.67
+          ],
+          "D": [
+            1,
+            6.67
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "12 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "60 cm²",
+        "34 cm²",
+        "17 cm²",
+        "60 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "P = 12 · 5 = 60, pa je površina 60 cm².",
+      "savjet": "Pomnoži duljine dviju susjednih stranica."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-040",
+      "tezina": "srednje",
+      "pitanje": "Površina pravokutnika je 56 cm², a jedna stranica duga je 7 cm. Odredi duljinu druge stranice.",
+      "ponudeni": [
+        "49 cm",
+        "21 cm",
+        "8 cm",
+        "63 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "56 : 7 = 8 jer je 7 · 8 = 56, pa je druga stranica duga 8 cm.",
+      "savjet": "Površinu podijeli s duljinom poznate stranice."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-041",
+      "tezina": "srednje",
+      "pitanje": "Kvadrat ima površinu 64 m². Odredi duljinu njegove stranice.",
+      "ponudeni": [
+        "16 m",
+        "32 m",
+        "8 m",
+        "8 m²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "8 · 8 = 64, pa je stranica kvadrata duga 8 m.",
+      "savjet": "Traži broj koji pomnožen sam sa sobom daje 64."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-042",
+      "tezina": "srednje",
+      "pitanje": "Na slici su dva pravokutnika u kvadratnoj mreži. Odredi koji pravokutnik ima veću površinu.",
+      "slika": {
+        "opis": "Dva pravokutnika u kvadratnoj mreži: lijevi 5 kvadratića u duljinu i 3 u visinu, desni 2 kvadratića u širinu i 7 u visinu",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            6,
+            1
+          ],
+          "C": [
+            6,
+            4
+          ],
+          "D": [
+            1,
+            4
+          ],
+          "E": [
+            7,
+            1
+          ],
+          "F": [
+            9,
+            1
+          ],
+          "G": [
+            9,
+            8
+          ],
+          "H": [
+            7,
+            8
+          ],
+          "I": [
+            0,
+            0
+          ],
+          "J": [
+            10,
+            9
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Desni pravokutnik",
+        "Oba imaju jednaku površinu",
+        "Desni ima dvostruko veću površinu",
+        "Lijevi pravokutnik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lijevi pravokutnik prekriva 5 · 3 = 15 kvadratića, a desni 2 · 7 = 14, pa lijevi ima veću površinu.",
+      "savjet": "Za svaki pravokutnik pomnoži broj kvadratića u redu s brojem redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-043",
+      "tezina": "srednje",
+      "pitanje": "Ana ima list papira oblika pravokutnika sa stranicama duljina 30 cm i 20 cm. Izračunaj površinu lista.",
+      "ponudeni": [
+        "100 cm²",
+        "600 cm²",
+        "50 cm²",
+        "600 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "P = 30 · 20 = 600, pa list ima površinu 600 cm².",
+      "savjet": "Pri množenju desetica najprije pomnoži znamenke bez nula, a zatim dopiši nule."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-044",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik ima površinu 36 cm², a jednu stranicu duljine 4 cm. Odredi duljinu druge stranice.",
+      "ponudeni": [
+        "9 cm",
+        "32 cm",
+        "14 cm",
+        "6 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "36 : 4 = 9 jer je 4 · 9 = 36, pa je druga stranica duga 9 cm.",
+      "savjet": "Razmisli koji broj pomnožen s 4 daje površinu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-045",
+      "tezina": "srednje",
+      "pitanje": "Kvadrat na slici ima površinu 49 cm². Odredi duljinu njegove stranice.",
+      "slika": {
+        "opis": "Kvadrat kojemu je stranica označena upitnikom",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "?",
+            "crtice": 1
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "14 cm",
+        "49 cm",
+        "7 cm²",
+        "7 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "7 · 7 = 49, pa je stranica kvadrata duga 7 cm.",
+      "savjet": "Traži broj koji pomnožen sam sa sobom daje površinu kvadrata."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-046",
+      "tezina": "srednje",
+      "pitanje": "Odaberi duljine stranica pravokutnika koji ima veću površinu od kvadrata sa stranicom 5 cm.",
+      "ponudeni": [
+        "8 cm i 3 cm",
+        "10 cm i 2 cm",
+        "6 cm i 4 cm",
+        "7 cm i 4 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadrat ima površinu 5 · 5 = 25 cm², a pravokutnik sa stranicama 7 cm i 4 cm ima 7 · 4 = 28 cm², što je više.",
+      "savjet": "Izračunaj površinu kvadrata, a zatim površinu svakog ponuđenog pravokutnika."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-047",
+      "tezina": "srednje",
+      "pitanje": "Pretvori 1 m² u kvadratne decimetre.",
+      "ponudeni": [
+        "100 dm²",
+        "10 dm²",
+        "1000 dm²",
+        "40 dm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "1 m = 10 dm, pa je 1 m² = 10 · 10 = 100 dm².",
+      "savjet": "Zamisli kvadrat sa stranicom 1 m i izrazi njegovu stranicu u decimetrima."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-048",
+      "tezina": "srednje",
+      "pitanje": "Zid ima oblik pravokutnika širine 7 m i visine 3 m. Izračunaj površinu zida koju treba obojiti.",
+      "ponudeni": [
+        "20 m²",
+        "10 m²",
+        "21 m",
+        "21 m²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "P = 7 · 3 = 21, pa zid ima površinu 21 m².",
+      "savjet": "Zid je pravokutnik, pa pomnoži njegovu širinu i visinu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-049",
+      "tezina": "srednje",
+      "pitanje": "Duljine stranica pravokutnika zapisane su na slici. Izračunaj njegovu površinu.",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 15 dm i 4 dm",
+        "tocke": {
+          "A": [
+            1,
+            3.93
+          ],
+          "B": [
+            9,
+            3.93
+          ],
+          "C": [
+            9,
+            6.07
+          ],
+          "D": [
+            1,
+            6.07
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "15 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 dm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "38 dm²",
+        "19 dm²",
+        "60 dm",
+        "60 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "P = 15 · 4 = 60, pa je površina 60 dm².",
+      "savjet": "Pomnoži duljine stranica i pazi na mjernu jedinicu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-050",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik ima stranice duljina 25 m i 4 m. Izračunaj njegovu površinu.",
+      "ponudeni": [
+        "58 m²",
+        "100 m²",
+        "29 m²",
+        "100 m"
+      ],
+      "tocan": 1,
+      "objasnjenje": "P = 25 · 4 = 100, pa je površina 100 m².",
+      "savjet": "Pomnoži duljine stranica; sjeti se da su četiri puta po 25 isto što i 25 + 25 + 25 + 25."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-051",
+      "tezina": "srednje",
+      "pitanje": "Površina kvadrata je 100 cm². Odredi duljinu njegove stranice.",
+      "ponudeni": [
+        "25 cm",
+        "10 cm",
+        "50 cm",
+        "10 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "10 · 10 = 100, pa je stranica kvadrata duga 10 cm.",
+      "savjet": "Traži broj koji pomnožen sam sa sobom daje 100."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-052",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik na slici ima površinu 54 cm². Odredi koliko je duga stranica označena upitnikom.",
+      "slika": {
+        "opis": "Pravokutnik s jednom stranicom 9 cm i drugom stranicom označenom upitnikom",
+        "tocke": {
+          "A": [
+            1,
+            2.33
+          ],
+          "B": [
+            9,
+            2.33
+          ],
+          "C": [
+            9,
+            7.67
+          ],
+          "D": [
+            1,
+            7.67
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "9 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "?"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "6 cm",
+        "45 cm",
+        "18 cm",
+        "63 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "54 : 9 = 6 jer je 9 · 6 = 54, pa je tražena stranica duga 6 cm.",
+      "savjet": "Površinu podijeli s duljinom poznate stranice."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-053",
+      "tezina": "srednje",
+      "pitanje": "Pravokutni tepih dug je 6 m i širok 2 m. Izračunaj površinu tepiha.",
+      "ponudeni": [
+        "16 m²",
+        "8 m²",
+        "12 m²",
+        "12 m"
+      ],
+      "tocan": 2,
+      "objasnjenje": "P = 6 · 2 = 12, pa tepih ima površinu 12 m².",
+      "savjet": "Primijeni formulu P = a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-054",
+      "tezina": "srednje",
+      "pitanje": "Petra ima gredicu oblika kvadrata sa stranicom 4 m, a Luka pravokutnu gredicu sa stranicama 5 m i 3 m. Odredi čija gredica ima veću površinu.",
+      "ponudeni": [
+        "Petrina gredica",
+        "Lukina gredica",
+        "Gredice imaju jednaku površinu",
+        "Gredice se ne mogu usporediti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Petrina gredica ima 4 · 4 = 16 m², a Lukina 5 · 3 = 15 m², pa je Petrina veća.",
+      "savjet": "Izračunaj površinu svake gredice, a ne zbroj duljina njihovih stranica."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-055",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj površinu pravokutnika na slici u dm².",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 1 m i 3 dm",
+        "tocke": {
+          "A": [
+            1,
+            3.8
+          ],
+          "B": [
+            9,
+            3.8
+          ],
+          "C": [
+            9,
+            6.2
+          ],
+          "D": [
+            1,
+            6.2
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "1 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 dm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "3 dm²",
+        "26 dm²",
+        "30 dm²",
+        "13 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 m = 10 dm, pa je P = 10 · 3 = 30 dm².",
+      "savjet": "Najprije izrazi obje stranice u decimetrima."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-056",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj površinu pravokutnika sa stranicama duljina 12 cm i 7 cm.",
+      "ponudeni": [
+        "38 cm²",
+        "84 cm²",
+        "19 cm²",
+        "84 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "P = 12 · 7 = 84, pa je površina 84 cm².",
+      "savjet": "Primijeni formulu P = a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-057",
+      "tezina": "srednje",
+      "pitanje": "Na slici je pravokutnik sa stranicama a = 11 cm i b = 4 cm. Izračunaj njegovu površinu.",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama a i b",
+        "tocke": {
+          "A": [
+            1,
+            3.55
+          ],
+          "B": [
+            9,
+            3.55
+          ],
+          "C": [
+            9,
+            6.45
+          ],
+          "D": [
+            1,
+            6.45
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "a"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "b"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "44 cm²",
+        "30 cm²",
+        "15 cm²",
+        "44 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "P = a · b = 11 · 4 = 44, pa je površina 44 cm².",
+      "savjet": "Uvrsti duljine stranica u formulu P = a · b."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-058",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik ima površinu 45 m², a jedna mu je stranica duga 5 m. Odredi duljinu druge stranice.",
+      "ponudeni": [
+        "40 m",
+        "50 m",
+        "9 m²",
+        "9 m"
+      ],
+      "tocan": 3,
+      "objasnjenje": "45 : 5 = 9 jer je 5 · 9 = 45, pa je druga stranica duga 9 m.",
+      "savjet": "Površinu podijeli s duljinom poznate stranice."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-059",
+      "tezina": "srednje",
+      "pitanje": "Kvadratna pločica ima stranicu duljine 2 dm. Izračunaj njezinu površinu u cm².",
+      "ponudeni": [
+        "4 cm²",
+        "40 cm²",
+        "400 cm²",
+        "80 cm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2 dm = 20 cm, pa je P = 20 · 20 = 400 cm².",
+      "savjet": "Najprije pretvori duljinu stranice u centimetre."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-060",
+      "tezina": "srednje",
+      "pitanje": "Izračunaj površinu pravokutnika sa slike u cm².",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 2 dm i 8 cm",
+        "tocke": {
+          "A": [
+            1,
+            3.4
+          ],
+          "B": [
+            9,
+            3.4
+          ],
+          "C": [
+            9,
+            6.6
+          ],
+          "D": [
+            1,
+            6.6
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "2 dm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "8 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "16 cm²",
+        "56 cm²",
+        "28 cm²",
+        "160 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "2 dm = 20 cm, pa je P = 20 · 8 = 160 cm².",
+      "savjet": "Prije množenja izrazi obje stranice u centimetrima."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-061",
+      "tezina": "tesko",
+      "pitanje": "Na slici su pravokutnik sa stranicama 7 cm i 3 cm i kvadrat sa stranicom 5 cm. Odaberi točnu tvrdnju.",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 7 cm i 3 cm i kvadrat sa stranicom 5 cm",
+        "tocke": {
+          "A": [
+            1,
+            3.46
+          ],
+          "B": [
+            5.31,
+            3.46
+          ],
+          "C": [
+            5.31,
+            5.31
+          ],
+          "D": [
+            1,
+            5.31
+          ],
+          "E": [
+            5.92,
+            3.46
+          ],
+          "F": [
+            9,
+            3.46
+          ],
+          "G": [
+            9,
+            6.54
+          ],
+          "H": [
+            5.92,
+            6.54
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "7 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "5 cm",
+            "crtice": 1
+          },
+          {
+            "od": "F",
+            "do": "G",
+            "crtice": 1
+          },
+          {
+            "od": "G",
+            "do": "H",
+            "crtice": 1
+          },
+          {
+            "od": "H",
+            "do": "E",
+            "crtice": 1
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "Imaju jednak opseg i jednaku površinu.",
+        "Imaju jednak opseg, a kvadrat ima veću površinu.",
+        "Imaju jednak opseg, a pravokutnik ima veću površinu.",
+        "Kvadrat ima veći opseg i veću površinu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oba lika imaju opseg 20 cm, ali pravokutnik ima površinu 21 cm², a kvadrat 25 cm².",
+      "savjet": "Za svaki lik posebno izračunaj i opseg i površinu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-062",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ima stranice duljina 9 cm i 4 cm. Odredi duljinu stranice kvadrata koji ima jednaku površinu kao taj pravokutnik.",
+      "ponudeni": [
+        "13 cm",
+        "6 cm",
+        "18 cm",
+        "36 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik ima površinu 9 · 4 = 36 cm², a kvadrat s tom površinom ima stranicu 6 cm jer je 6 · 6 = 36.",
+      "savjet": "Najprije izračunaj površinu pravokutnika, a zatim traži broj koji pomnožen sam sa sobom daje tu površinu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-063",
+      "tezina": "tesko",
+      "pitanje": "Lik na slici sastavljen je od dva pravokutnika. Izračunaj njegovu površinu.",
+      "slika": {
+        "opis": "Lik u obliku slova L: donja stranica 8 cm, desna 3 cm, gornja 4 cm, lijeva 6 cm",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            5
+          ],
+          "D": [
+            5,
+            5
+          ],
+          "E": [
+            5,
+            8
+          ],
+          "F": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "F",
+            "do": "A",
+            "oznaka": "6 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "28 cm²",
+        "36 cm²",
+        "48 cm²",
+        "21 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik se dijeli na pravokutnik sa stranicama 8 cm i 3 cm (24 cm²) i pravokutnik sa stranicama 4 cm i 3 cm (12 cm²), pa je ukupno 24 + 12 = 36 cm².",
+      "savjet": "Podijeli lik na dva pravokutnika, izračunaj površinu svakoga i zbroji ih."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-064",
+      "tezina": "tesko",
+      "pitanje": "Dva pravokutnika imaju jednaku površinu 24 cm². Prvi ima stranice duljina 6 cm i 4 cm, a drugi jednu stranicu duljine 8 cm. Odaberi točnu tvrdnju o njihovim opsezima.",
+      "ponudeni": [
+        "Drugi pravokutnik ima veći opseg.",
+        "Prvi pravokutnik ima veći opseg.",
+        "Opsezi su jednaki.",
+        "Opseg drugog dvostruko je veći."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Druga stranica drugog pravokutnika je 24 : 8 = 3 cm, pa mu je opseg 22 cm, a opseg prvog je 20 cm.",
+      "savjet": "Najprije odredi drugu stranicu drugog pravokutnika, a zatim izračunaj oba opsega."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-065",
+      "tezina": "tesko",
+      "pitanje": "Pod kupaonice prikazan je na slici. Za 1 m² poda potrebno je 25 pločica. Izračunaj koliko je pločica potrebno za cijeli pod.",
+      "slika": {
+        "opis": "Pod oblika pravokutnika sa stranicama 3 m i 2 m",
+        "tocke": {
+          "A": [
+            1,
+            2.33
+          ],
+          "B": [
+            9,
+            2.33
+          ],
+          "C": [
+            9,
+            7.67
+          ],
+          "D": [
+            1,
+            7.67
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "3 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "2 m"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "125 pločica",
+        "250 pločica",
+        "150 pločica",
+        "31 pločica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pod ima površinu 3 · 2 = 6 m², pa treba 6 · 25 = 150 pločica.",
+      "savjet": "Najprije izračunaj površinu poda u m², a zatim je pomnoži s brojem pločica za 1 m²."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-066",
+      "tezina": "tesko",
+      "pitanje": "Zid na slici dug je 5 m i visok 3 m, a na njemu je prozor površine 2 m². Izračunaj površinu zida koju treba obojiti.",
+      "slika": {
+        "opis": "Zid oblika pravokutnika sa stranicama 5 m i 3 m s manjim pravokutnim prozorom",
+        "tocke": {
+          "A": [
+            1,
+            2.6
+          ],
+          "B": [
+            9,
+            2.6
+          ],
+          "C": [
+            9,
+            7.4
+          ],
+          "D": [
+            1,
+            7.4
+          ],
+          "E": [
+            3.4,
+            4.2
+          ],
+          "F": [
+            6.6,
+            4.2
+          ],
+          "G": [
+            6.6,
+            5.8
+          ],
+          "H": [
+            3.4,
+            5.8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": false
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 m"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "13 m²",
+        "15 m²",
+        "17 m²",
+        "14 m²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Cijeli zid ima 5 · 3 = 15 m², a bez prozora ostaje 15 − 2 = 13 m².",
+      "savjet": "Izračunaj površinu cijelog zida pa razmisli što učiniti s površinom prozora."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-067",
+      "tezina": "tesko",
+      "pitanje": "Odaberi najveću površinu.",
+      "ponudeni": [
+        "450 cm²",
+        "480 cm²",
+        "4 dm²",
+        "5 dm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "5 dm² = 500 cm², a to je više od 480 cm², 450 cm² i 4 dm² = 400 cm².",
+      "savjet": "Sve površine najprije izrazi u istoj mjernoj jedinici; 1 dm² = 100 cm²."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-068",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ima opseg 20 cm. Izračunaj njegovu površinu.",
+      "ponudeni": [
+        "25 cm²",
+        "20 cm²",
+        "400 cm²",
+        "10 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stranica kvadrata je 20 : 4 = 5 cm, pa je površina 5 · 5 = 25 cm².",
+      "savjet": "Iz opsega najprije odredi duljinu jedne stranice kvadrata."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-069",
+      "tezina": "tesko",
+      "pitanje": "Iz kuta pravokutnog kartona sa stranicama 10 cm i 6 cm izrezan je pravokutnik sa stranicama 4 cm i 2 cm, kao na slici. Izračunaj površinu ostatka kartona.",
+      "slika": {
+        "opis": "Pravokutni karton 10 cm i 6 cm kojemu je u gornjem desnom kutu izrezan pravokutnik 4 cm i 2 cm",
+        "tocke": {
+          "A": [
+            1,
+            2.6
+          ],
+          "B": [
+            9,
+            2.6
+          ],
+          "C": [
+            9,
+            5.8
+          ],
+          "D": [
+            5.8,
+            5.8
+          ],
+          "E": [
+            5.8,
+            7.4
+          ],
+          "F": [
+            1,
+            7.4
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "10 cm"
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "2 cm"
+          },
+          {
+            "od": "F",
+            "do": "A",
+            "oznaka": "6 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "68 cm²",
+        "52 cm²",
+        "60 cm²",
+        "32 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Karton je imao 10 · 6 = 60 cm², izrezano je 4 · 2 = 8 cm², pa ostaje 60 − 8 = 52 cm².",
+      "savjet": "Od površine cijelog kartona oduzmi površinu izrezanog dijela."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-070",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ima površinu 48 cm², a jedna mu je stranica duga 8 cm. Izračunaj opseg tog pravokutnika.",
+      "ponudeni": [
+        "14 cm",
+        "22 cm",
+        "40 cm",
+        "28 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Druga stranica je 48 : 8 = 6 cm, pa je opseg 8 + 6 + 8 + 6 = 28 cm.",
+      "savjet": "Najprije iz površine odredi drugu stranicu, a zatim zbroji duljine svih stranica."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-071",
+      "tezina": "tesko",
+      "pitanje": "Pravokutniku sa stranicama 6 cm i 3 cm udvostručimo duljinu svake stranice. Odaberi točnu tvrdnju o površini novog pravokutnika.",
+      "ponudeni": [
+        "Površina je 2 puta veća.",
+        "Površina je veća za 9 cm².",
+        "Površina ostaje ista.",
+        "Površina je 4 puta veća."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stari pravokutnik ima 6 · 3 = 18 cm², a novi 12 · 6 = 72 cm², što je 4 puta više.",
+      "savjet": "Izračunaj površinu starog i novog pravokutnika pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-072",
+      "tezina": "tesko",
+      "pitanje": "Svaki kvadratić mreže ima površinu 1 cm². Odredi površinu lika na slici.",
+      "slika": {
+        "opis": "Lik u obliku slova L u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            7,
+            1
+          ],
+          "C": [
+            7,
+            4
+          ],
+          "D": [
+            4,
+            4
+          ],
+          "E": [
+            4,
+            7
+          ],
+          "F": [
+            1,
+            7
+          ],
+          "G": [
+            0,
+            0
+          ],
+          "H": [
+            8,
+            8
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "36 cm²",
+        "27 cm²",
+        "24 cm²",
+        "18 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Donji dio lika ima 6 · 3 = 18 kvadratića, a gornji 3 · 3 = 9, pa lik ima 18 + 9 = 27 kvadratića, tj. 27 cm².",
+      "savjet": "Podijeli lik na dva dijela i prebroji kvadratiće u svakome."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-073",
+      "tezina": "tesko",
+      "pitanje": "Soba ima pod oblika kvadrata sa stranicom 5 m. Na podu je tepih sa stranicama 3 m i 2 m, kao na slici. Izračunaj površinu poda koja nije pokrivena tepihom.",
+      "slika": {
+        "opis": "Kvadratni pod sa stranicom 5 m i na njemu pravokutni tepih sa stranicama 3 m i 2 m",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            9
+          ],
+          "D": [
+            1,
+            9
+          ],
+          "E": [
+            2.6,
+            3.4
+          ],
+          "F": [
+            7.4,
+            3.4
+          ],
+          "G": [
+            7.4,
+            6.6
+          ],
+          "H": [
+            2.6,
+            6.6
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "5 m",
+            "crtice": 1
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "3 m"
+          },
+          {
+            "od": "F",
+            "do": "G",
+            "oznaka": "2 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "crtice": 1
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "crtice": 1
+          },
+          {
+            "od": "D",
+            "do": "A",
+            "crtice": 1
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "31 m²",
+        "19 m²",
+        "15 m²",
+        "6 m²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pod ima 5 · 5 = 25 m², a tepih 3 · 2 = 6 m², pa je nepokriveno 25 − 6 = 19 m².",
+      "savjet": "Od površine cijelog poda oduzmi površinu tepiha."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-074",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat sa stranicom 6 cm i pravokutnik imaju jednaku površinu. Jedna stranica pravokutnika duga je 4 cm. Odredi duljinu druge stranice pravokutnika.",
+      "ponudeni": [
+        "9 cm",
+        "8 cm",
+        "32 cm",
+        "9 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat ima površinu 6 · 6 = 36 cm², pa je druga stranica pravokutnika 36 : 4 = 9 cm.",
+      "savjet": "Najprije izračunaj površinu kvadrata."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-075",
+      "tezina": "tesko",
+      "pitanje": "Stolnjak oblika pravokutnika dug je 2 m i širok 15 dm. Izračunaj njegovu površinu u dm².",
+      "ponudeni": [
+        "300 dm²",
+        "30 dm²",
+        "70 dm²",
+        "35 dm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "2 m = 20 dm, pa je P = 20 · 15 = 300 dm².",
+      "savjet": "Obje duljine najprije izrazi u decimetrima."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-076",
+      "tezina": "tesko",
+      "pitanje": "Odaberi duljine stranica pravokutnika koji ima površinu 36 cm² i opseg 30 cm.",
+      "ponudeni": [
+        "9 cm i 4 cm",
+        "12 cm i 3 cm",
+        "18 cm i 2 cm",
+        "10 cm i 5 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "12 · 3 = 36, a opseg je 12 + 3 + 12 + 3 = 30 cm.",
+      "savjet": "Za svaki par izračunaj i površinu i opseg."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-077",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat ima površinu 49 cm². Izračunaj njegov opseg.",
+      "ponudeni": [
+        "14 cm",
+        "196 cm",
+        "28 cm",
+        "7 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranica je 7 cm jer je 7 · 7 = 49, pa je opseg 4 · 7 = 28 cm.",
+      "savjet": "Najprije iz površine odredi duljinu stranice kvadrata."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-078",
+      "tezina": "tesko",
+      "pitanje": "Lik na slici sastavljen je od dva pravokutnika. Izračunaj površinu lika.",
+      "slika": {
+        "opis": "Lik od dva pravokutnika: donji sa stranicama 10 cm i 3 cm, a na njegovoj sredini gornji sa stranicama 4 cm i 3 cm",
+        "tocke": {
+          "A": [
+            1,
+            2.6
+          ],
+          "B": [
+            9,
+            2.6
+          ],
+          "C": [
+            9,
+            5
+          ],
+          "D": [
+            6.6,
+            5
+          ],
+          "E": [
+            6.6,
+            7.4
+          ],
+          "F": [
+            3.4,
+            7.4
+          ],
+          "G": [
+            3.4,
+            5
+          ],
+          "H": [
+            1,
+            5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "10 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "4 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "60 cm²",
+        "42 cm²",
+        "32 cm²",
+        "46 cm²"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Donji pravokutnik ima 10 · 3 = 30 cm², a gornji 4 · 3 = 12 cm², pa lik ima 30 + 12 = 42 cm².",
+      "savjet": "Izračunaj posebno površinu donjeg i gornjeg dijela pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-079",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat sa stranicom 8 cm podijeljen je na 4 jednaka manja kvadrata. Izračunaj površinu jednog manjeg kvadrata.",
+      "ponudeni": [
+        "32 cm²",
+        "8 cm²",
+        "4 cm²",
+        "16 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Veliki kvadrat ima 8 · 8 = 64 cm², pa jedan od četiri jednaka dijela ima 64 : 4 = 16 cm².",
+      "savjet": "Izračunaj površinu velikog kvadrata pa razmisli koliki je njezin dio jedan manji kvadrat."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-080",
+      "tezina": "tesko",
+      "pitanje": "Zid sobe dug je 4 m i visok 3 m. Jedna kanta boje dovoljna je za 6 m² zida. Odredi koliko je kanti boje potrebno za dva takva zida.",
+      "ponudeni": [
+        "2 kante",
+        "8 kanti",
+        "4 kante",
+        "12 kanti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan zid ima 4 · 3 = 12 m², dva zida 24 m², a 24 : 6 = 4, pa su potrebne 4 kante.",
+      "savjet": "Izračunaj površinu jednog zida, zatim oba zida, pa podijeli sa 6."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-081",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik ima stranice duljina 25 cm i 4 dm. Izračunaj njegovu površinu u dm².",
+      "ponudeni": [
+        "10 dm²",
+        "100 dm²",
+        "1000 dm²",
+        "13 dm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "4 dm = 40 cm, pa je P = 25 · 40 = 1000 cm², a to je 10 dm² jer je 1 dm² = 100 cm².",
+      "savjet": "Obje stranice izrazi u centimetrima, izračunaj površinu, a zatim je pretvori u dm²."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-082",
+      "tezina": "tesko",
+      "pitanje": "Pod oblika pravokutnika dug je 2 m i širok 1 m. Treba ga prekriti kvadratnim pločicama sa stranicom 2 dm. Odredi koliko je pločica potrebno.",
+      "ponudeni": [
+        "50 pločica",
+        "200 pločica",
+        "100 pločica",
+        "25 pločica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U duljinu stane 20 : 2 = 10 pločica, a u širinu 10 : 2 = 5 pločica, pa treba 10 · 5 = 50 pločica.",
+      "savjet": "Izrazi duljine u decimetrima i odredi koliko pločica stane u jedan red, a koliko je redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-083",
+      "tezina": "tesko",
+      "pitanje": "Oba lika na slici imaju jednak opseg. Svaki kvadratić mreže ima površinu 1 cm². Odaberi točnu tvrdnju o njihovim površinama.",
+      "slika": {
+        "opis": "Dva lika u kvadratnoj mreži: lijevi 2 kvadratića u širinu i 6 u visinu, desni 4 kvadratića u širinu i 4 u visinu",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            3,
+            1
+          ],
+          "C": [
+            3,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ],
+          "E": [
+            5,
+            1
+          ],
+          "F": [
+            9,
+            1
+          ],
+          "G": [
+            9,
+            5
+          ],
+          "H": [
+            5,
+            5
+          ],
+          "I": [
+            0,
+            0
+          ],
+          "J": [
+            10,
+            8
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Oba lika imaju 16 cm².",
+        "Lijevi lik ima 16 cm², a desni 12 cm².",
+        "Lijevi lik ima 12 cm², a desni 16 cm².",
+        "Oba lika imaju 12 cm²."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lijevi lik prekriva 2 · 6 = 12 kvadratića, a desni 4 · 4 = 16 kvadratića, iako oba imaju opseg 16 cm.",
+      "savjet": "Za svaki lik pomnoži broj kvadratića u redu s brojem redova."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-084",
+      "tezina": "tesko",
+      "pitanje": "Pravokutniku na slici duljinu smanjimo za 2 cm, a širina ostane ista. Odredi za koliko se smanji njegova površina.",
+      "slika": {
+        "opis": "Pravokutnik sa stranicama 8 cm i 5 cm",
+        "tocke": {
+          "A": [
+            1,
+            2.5
+          ],
+          "B": [
+            9,
+            2.5
+          ],
+          "C": [
+            9,
+            7.5
+          ],
+          "D": [
+            1,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "2 cm²",
+        "4 cm²",
+        "16 cm²",
+        "10 cm²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prije je površina bila 8 · 5 = 40 cm², a poslije 6 · 5 = 30 cm², pa se smanjila za 10 cm².",
+      "savjet": "Izračunaj površinu prije i poslije promjene pa ih oduzmi."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-085",
+      "tezina": "tesko",
+      "pitanje": "Vrt ima oblik lika na slici. Izračunaj površinu vrta.",
+      "slika": {
+        "opis": "Vrt u obliku slova L: donja stranica 8 m, desna 3 m, gornja 3 m, lijeva 6 m",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            5
+          ],
+          "D": [
+            4,
+            5
+          ],
+          "E": [
+            4,
+            8
+          ],
+          "F": [
+            1,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "8 m"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 m"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "3 m"
+          },
+          {
+            "od": "F",
+            "do": "A",
+            "oznaka": "6 m"
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "48 m²",
+        "28 m²",
+        "33 m²",
+        "20 m²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrt se dijeli na donji dio 8 · 3 = 24 m² i gornji dio 3 · 3 = 9 m², pa je ukupno 33 m².",
+      "savjet": "Podijeli lik na dva dijela kojima znaš izračunati površinu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-086",
+      "tezina": "tesko",
+      "pitanje": "Prozor ima 6 jednakih kvadratnih stakala sa stranicom 3 dm. Izračunaj ukupnu površinu stakla.",
+      "ponudeni": [
+        "18 dm²",
+        "72 dm²",
+        "54 dm²",
+        "9 dm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedno staklo ima 3 · 3 = 9 dm², a 6 stakala 6 · 9 = 54 dm².",
+      "savjet": "Izračunaj površinu jednog stakla pa je pomnoži s brojem stakala."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-087",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik A ima stranice duljina 9 cm i 2 cm, a pravokutnik B stranice duljina 6 cm i 3 cm. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Imaju jednaku površinu i jednak opseg.",
+        "A ima veću površinu i veći opseg.",
+        "Imaju jednaku površinu, a B ima veći opseg.",
+        "Imaju jednaku površinu, a A ima veći opseg."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oba imaju površinu 18 cm², ali opseg pravokutnika A je 22 cm, a pravokutnika B 18 cm.",
+      "savjet": "Za svaki pravokutnik izračunaj i površinu i opseg."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-088",
+      "tezina": "tesko",
+      "pitanje": "Livada oblika pravokutnika duga je 20 m i široka 15 m. Na polovini livade posijana je trava. Izračunaj površinu dijela livade s travom.",
+      "ponudeni": [
+        "300 m²",
+        "35 m²",
+        "75 m²",
+        "150 m²"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Cijela livada ima 20 · 15 = 300 m², a polovina je 300 : 2 = 150 m².",
+      "savjet": "Izračunaj površinu cijele livade pa odredi njezinu polovinu."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-089",
+      "tezina": "tesko",
+      "pitanje": "Kvadrat sa stranicom 3 cm i pravokutnik sa stranicama 6 cm i 2 cm spojeni su bez preklapanja u lik na slici. Izračunaj površinu tog lika.",
+      "slika": {
+        "opis": "Lik sastavljen od pravokutnika 6 cm i 2 cm i kvadrata sa stranicom 3 cm postavljenog na njegov lijevi dio",
+        "tocke": {
+          "A": [
+            1,
+            1.67
+          ],
+          "B": [
+            9,
+            1.67
+          ],
+          "C": [
+            9,
+            4.33
+          ],
+          "D": [
+            5,
+            4.33
+          ],
+          "E": [
+            5,
+            8.33
+          ],
+          "F": [
+            1,
+            8.33
+          ],
+          "G": [
+            1,
+            4.33
+          ],
+          "H": [
+            5,
+            4.33
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "6 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "2 cm"
+          },
+          {
+            "od": "D",
+            "do": "E",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "E",
+            "do": "F",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "G",
+            "do": "H",
+            "isprekidana": true
+          }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "ponudeni": [
+        "21 cm²",
+        "28 cm²",
+        "11 cm²",
+        "18 cm²"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat ima 3 · 3 = 9 cm², pravokutnik 6 · 2 = 12 cm², pa lik ima 9 + 12 = 21 cm².",
+      "savjet": "Izračunaj površinu svakog dijela pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-povrsina-pravokutnika-090",
+      "tezina": "tesko",
+      "pitanje": "Lik na slici nacrtan je u mreži kvadratića od 1 cm². Odredi površinu lika.",
+      "slika": {
+        "opis": "Lik u obliku obrnutog slova T u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            9,
+            1
+          ],
+          "C": [
+            9,
+            3
+          ],
+          "D": [
+            6,
+            3
+          ],
+          "E": [
+            6,
+            7
+          ],
+          "F": [
+            4,
+            7
+          ],
+          "G": [
+            4,
+            3
+          ],
+          "H": [
+            1,
+            3
+          ],
+          "I": [
+            0,
+            0
+          ],
+          "J": [
+            10,
+            8
+          ]
+        },
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "48 cm²",
+        "28 cm²",
+        "24 cm²",
+        "16 cm²"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Donji dio ima 8 · 2 = 16 kvadratića, a gornji 2 · 4 = 8 kvadratića, pa lik ima 24 cm².",
+      "savjet": "Podijeli lik na dva pravokutna dijela i prebroji kvadratiće u svakome."
+    }
+  ]
+}

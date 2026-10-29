@@ -175,6 +175,7 @@ Pitanje može imati crtež opisan podacima, koji komponenta `GeometrijskiCrtez.v
 | `duzine` | Dužine s oznakom (a, 5 cm, x, ?), isprekidane i/ili s crticama jednakosti |
 | `kutovi` | Luk s oznakom ili kvadratić za pravi kut; kraci se uzimaju iz poligona ili se zadaju s `"kraci": ["C", "D"]` (npr. za vanjski kut) |
 | `kruznice` | Kružnica sa središtem u zadanoj točki; uz `"ispuna": true` crta se krug (ispunjen) |
+| `mreza` | `true` crta kvadratnu mrežu jediničnih kvadrata (za mjerenje površine) |
 
 Brojčano označen kut mora biti i nacrtan približno te veličine (odstupanje do 5°), a kut označen kao pravi mora biti nacrtan kao 90°. Za slike koje se ne mogu opisati crtežom koristi se datoteka: `"slika": { "datoteka": "/slike/6/matematika/kocka.svg", "opis": "…" }`.
 

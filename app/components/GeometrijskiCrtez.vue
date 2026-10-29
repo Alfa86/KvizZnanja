@@ -47,6 +47,18 @@ const viewBox = computed(() => {
   return `${o.minX * J} ${-o.maxY * J} ${o.sirina * J} ${o.visina * J}`
 })
 
+// Kvadratna mreža (jedinični kvadrati) preko područja koje zauzimaju točke crteža
+const mreza = computed(() => {
+  if (!props.crtez.mreza) return []
+  const xs = Object.values(props.crtez.tocke).map(t => t[0])
+  const ys = Object.values(props.crtez.tocke).map(t => t[1])
+  const [x0, x1, y0, y1] = [Math.floor(Math.min(...xs)), Math.ceil(Math.max(...xs)), Math.floor(Math.min(...ys)), Math.ceil(Math.max(...ys))]
+  const crte = []
+  for (let x = x0; x <= x1; x++) crte.push({ x1: sx(v(x, y0)), y1: sy(v(x, y0)), x2: sx(v(x, y1)), y2: sy(v(x, y1)) })
+  for (let y = y0; y <= y1; y++) crte.push({ x1: sx(v(x0, y)), y1: sy(v(x0, y)), x2: sx(v(x1, y)), y2: sy(v(x1, y)) })
+  return crte
+})
+
 // Visoki crteži se umanjuju da stanu u visinu okvira, pa im se tekst i crte podebljavaju
 const m = computed(() => Math.max(1, okvir.value.visina / 8))
 
@@ -136,10 +148,25 @@ const kutovi = computed(() => (props.crtez.kutovi ?? []).flatMap((kut) => {
 
 const istaknuteTocke = computed(() => (props.crtez.istaknuteTocke ?? []).map(tocka).map(t => ({ cx: sx(t), cy: sy(t) })))
 
+// U kvadratnoj mreži točka koju ne koristi nijedan lik ni dužina služi kao oznaka lika i piše se točno na svom mjestu
+const oznakeLikova = computed(() => {
+  const c = props.crtez
+  if (!c.mreza) return new Set<string>()
+  const koristene = new Set([
+    ...(c.poligoni ?? []).flatMap(p => p.vrhovi),
+    ...(c.duzine ?? []).flatMap(d => [d.od, d.do]),
+    ...(c.kutovi ?? []).flatMap(k => [k.vrh, ...(k.kraci ?? [])]),
+    ...(c.kruznice ?? []).map(k => k.sredite),
+    ...(c.istaknuteTocke ?? [])
+  ])
+  return new Set(Object.keys(c.tocke).filter(ime => !koristene.has(ime)))
+})
+
 const oznake = computed<Oznaka[]>(() => {
   const skrivena = new Set(props.crtez.skrivenaImena ?? [])
   const imenaTocaka = Object.keys(props.crtez.tocke).filter(ime => !skrivena.has(ime)).map((ime) => {
     const t = tocka(ime)
+    if (oznakeLikova.value.has(ime)) return { x: sx(t), y: sy(t), tekst: ime, jeTocka: true }
     let smjer = jedinicni(razlika(t, teziste.value))
     if (!duljina(smjer)) smjer = jedinicni(v(1, 1))
     const polozaj = zbroj(t, puta(smjer, 0.5))
@@ -171,6 +198,8 @@ const jeVarijabla = (tekst: string) => /^\d*[a-zα-ω]$/.test(tekst)
     />
 
     <circle v-for="(k, i) in kruznice" :key="`k${i}`" :cx="k.cx" :cy="k.cy" :r="k.r" :fill="k.ispuna ? '#e0e7ff' : 'none'" stroke="#1e293b" :stroke-width="3 * m" />
+
+    <line v-for="(c, i) in mreza" :key="`m${i}`" v-bind="c" stroke="#94a3b8" :stroke-width="1.2 * m" />
 
     <g v-for="(d, i) in duzine" :key="`d${i}`" stroke="#1e293b">
       <line

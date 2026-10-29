@@ -1,0 +1,7102 @@
+{
+  "lekcijaId": "mjerenje-povrsine-kvadratnom-mrezom",
+  "pitanja": [
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-001",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu pravokutnika u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Pravokutnik u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            2
+          ],
+          "v2": [
+            6,
+            2
+          ],
+          "v3": [
+            6,
+            4
+          ],
+          "v4": [
+            2,
+            4
+          ],
+          "M1": [
+            1,
+            1
+          ],
+          "M2": [
+            7,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "10 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik ima 2 reda po 4 jedinična kvadrata, ukupno 8 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće unutar pravokutnika, a ne crte ni rubove."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-002",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu kvadrata u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Kvadrat u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            3,
+            3
+          ],
+          "v2": [
+            6,
+            3
+          ],
+          "v3": [
+            6,
+            6
+          ],
+          "v4": [
+            3,
+            6
+          ],
+          "M1": [
+            2,
+            2
+          ],
+          "M2": [
+            7,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "9 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadrat ima 3 reda po 3 jedinična kvadrata, ukupno 9 jediničnih kvadrata.",
+      "savjet": "Prebroji sve kvadratiće unutar lika, i one u sredini."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-003",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu obojenog pravokutnika.",
+      "slika": {
+        "opis": "Uski pravokutnik u jednom redu kvadratne mreže",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            4
+          ],
+          "v2": [
+            6,
+            4
+          ],
+          "v3": [
+            6,
+            5
+          ],
+          "v4": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            3
+          ],
+          "M2": [
+            7,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "5 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "4 jedinična kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravokutnik je jedan red od 5 jediničnih kvadrata pa je njegova površina 5 jediničnih kvadrata.",
+      "savjet": "Površina je broj jediničnih kvadrata koje lik zauzima."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-004",
+      "tezina": "lagano",
+      "pitanje": "Prebroji jedinične kvadrate i odredi površinu pravokutnika.",
+      "slika": {
+        "opis": "Uspravni pravokutnik u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            3,
+            2
+          ],
+          "v2": [
+            5,
+            2
+          ],
+          "v3": [
+            5,
+            5
+          ],
+          "v4": [
+            3,
+            5
+          ],
+          "M1": [
+            2,
+            1
+          ],
+          "M2": [
+            6,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "10 jediničnih kvadrata",
+        "5 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "8 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutnik ima 3 reda po 2 jedinična kvadrata, ukupno 6 jediničnih kvadrata.",
+      "savjet": "Kreni od donjeg reda i broji kvadratiće red po red."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-005",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu lika u obliku slova L.",
+      "slika": {
+        "opis": "Lik u obliku slova L u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            5,
+            2
+          ],
+          "v4": [
+            2,
+            2
+          ],
+          "v5": [
+            2,
+            5
+          ],
+          "v6": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "8 jediničnih kvadrata",
+        "16 jediničnih kvadrata",
+        "7 jediničnih kvadrata",
+        "6 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Donji red ima 4 jedinična kvadrata, a iznad njega su još 3. Ukupno je 7 jediničnih kvadrata.",
+      "savjet": "Kvadratić u kutu broji samo jednom."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-006",
+      "tezina": "lagano",
+      "pitanje": "Odaberi što je površina lika.",
+      "ponudeni": [
+        "veličina dijela ravnine koji lik zauzima",
+        "duljina crte koja omeđuje lik",
+        "broj vrhova koje lik ima",
+        "duljina najdulje stranice lika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Površina govori koliko dijela ravnine lik zauzima. Duljina crte koja omeđuje lik je opseg.",
+      "savjet": "Sjeti se razlike između ruba lika i unutrašnjosti lika."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-007",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kojom jedinicom mjerimo površinu lika u kvadratnoj mreži.",
+      "ponudeni": [
+        "jediničnom dužinom",
+        "jediničnim krugom",
+        "jednim vrhom mreže",
+        "jediničnim kvadratom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Površinu u kvadratnoj mreži mjerimo jediničnim kvadratom, jednim kvadratićem mreže.",
+      "savjet": "Površina je dio ravnine, pa je i jedinica za površinu dio ravnine."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-008",
+      "tezina": "lagano",
+      "pitanje": "Odaberi kako određujemo površinu lika u kvadratnoj mreži.",
+      "ponudeni": [
+        "prebrojimo crte mreže unutar lika",
+        "prebrojimo jedinične kvadrate unutar lika",
+        "prebrojimo vrhove lika",
+        "prebrojimo kvadratiće samo uz rub lika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Površinu lika u mreži određujemo tako da prebrojimo sve jedinične kvadrate koje lik zauzima.",
+      "savjet": "Sjeti se što zauzima dio ravnine: crta, točka ili kvadratić."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-009",
+      "tezina": "lagano",
+      "pitanje": "Dva lika zauzimaju jednako mnogo jediničnih kvadrata. Odaberi tvrdnju koja je sigurno točna.",
+      "ponudeni": [
+        "Likovi imaju jednake površine.",
+        "Likovi imaju jednak oblik.",
+        "Likovi su oba pravokutnici.",
+        "Veću površinu ima viši lik."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Površina je broj jediničnih kvadrata koje lik zauzima. Isti broj kvadrata znači jednake površine, a oblik može biti različit.",
+      "savjet": "Razmisli što je površina, a što oblik lika."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-010",
+      "tezina": "lagano",
+      "pitanje": "Lik A zauzima 9 jediničnih kvadrata, a lik B 12 jediničnih kvadrata. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Lik A ima veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Lik B ima veću površinu.",
+        "Lik A ima dvostruko veću površinu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik B zauzima više jediničnih kvadrata (12 > 9), pa ima veću površinu.",
+      "savjet": "Usporedi brojeve jediničnih kvadrata koje likovi zauzimaju."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-011",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu pravokutnika.",
+      "slika": {
+        "opis": "Dugi pravokutnik u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            3
+          ],
+          "v2": [
+            8,
+            3
+          ],
+          "v3": [
+            8,
+            5
+          ],
+          "v4": [
+            2,
+            5
+          ],
+          "M1": [
+            1,
+            2
+          ],
+          "M2": [
+            9,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "16 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "14 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik ima 2 reda po 6 jediničnih kvadrata, ukupno 12 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće u jednom redu, a zatim koliko je takvih redova."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-012",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu pravokutnika u kvadratnoj mreži prebrojavanjem.",
+      "slika": {
+        "opis": "Pravokutnik od nekoliko redova u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            2
+          ],
+          "v2": [
+            7,
+            2
+          ],
+          "v3": [
+            7,
+            5
+          ],
+          "v4": [
+            2,
+            5
+          ],
+          "M1": [
+            1,
+            1
+          ],
+          "M2": [
+            8,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "16 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "15 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravokutnik ima 3 reda po 5 jediničnih kvadrata, ukupno 15 jediničnih kvadrata.",
+      "savjet": "Pazi da prebrojiš i srednji red kvadratića."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-013",
+      "tezina": "lagano",
+      "pitanje": "Odaberi lik koji ima najveću površinu.",
+      "slika": {
+        "opis": "Tri pravokutnika A, B i C u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            3,
+            1
+          ],
+          "a3": [
+            3,
+            3
+          ],
+          "a4": [
+            1,
+            3
+          ],
+          "b1": [
+            4,
+            1
+          ],
+          "b2": [
+            7,
+            1
+          ],
+          "b3": [
+            7,
+            3
+          ],
+          "b4": [
+            4,
+            3
+          ],
+          "c1": [
+            8,
+            1
+          ],
+          "c2": [
+            9,
+            1
+          ],
+          "c3": [
+            9,
+            4
+          ],
+          "c4": [
+            8,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            5
+          ],
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            5.5,
+            2
+          ],
+          "C": [
+            8.5,
+            2.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A",
+        "lik B",
+        "lik C",
+        "svi likovi imaju jednaku površinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik A ima 4, lik B 6, a lik C 3 jedinična kvadrata. Najveću površinu ima lik B.",
+      "savjet": "Prebroji jedinične kvadrate u svakom liku pa usporedi brojeve."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-014",
+      "tezina": "lagano",
+      "pitanje": "Odaberi lik koji ima najmanju površinu.",
+      "slika": {
+        "opis": "Tri pravokutnika A, B i C u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            3,
+            1
+          ],
+          "a3": [
+            3,
+            4
+          ],
+          "a4": [
+            1,
+            4
+          ],
+          "b1": [
+            4,
+            1
+          ],
+          "b2": [
+            6,
+            1
+          ],
+          "b3": [
+            6,
+            3
+          ],
+          "b4": [
+            4,
+            3
+          ],
+          "c1": [
+            7,
+            1
+          ],
+          "c2": [
+            8,
+            1
+          ],
+          "c3": [
+            8,
+            6
+          ],
+          "c4": [
+            7,
+            6
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            9,
+            7
+          ],
+          "A": [
+            2,
+            2.5
+          ],
+          "B": [
+            5,
+            2
+          ],
+          "C": [
+            7.5,
+            3.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A",
+        "lik C",
+        "svi likovi imaju jednaku površinu",
+        "lik B"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik A ima 6, lik B 4, a lik C 5 jediničnih kvadrata. Najmanju površinu ima lik B.",
+      "savjet": "Visina lika nije važna, važan je broj kvadratića koje zauzima."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-015",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu lika u obliku križa.",
+      "slika": {
+        "opis": "Lik u obliku križa u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            1
+          ],
+          "v2": [
+            3,
+            1
+          ],
+          "v3": [
+            3,
+            2
+          ],
+          "v4": [
+            4,
+            2
+          ],
+          "v5": [
+            4,
+            3
+          ],
+          "v6": [
+            3,
+            3
+          ],
+          "v7": [
+            3,
+            4
+          ],
+          "v8": [
+            2,
+            4
+          ],
+          "v9": [
+            2,
+            3
+          ],
+          "v10": [
+            1,
+            3
+          ],
+          "v11": [
+            1,
+            2
+          ],
+          "v12": [
+            2,
+            2
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            5,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "v9",
+          "v10",
+          "v11",
+          "v12",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8",
+              "v9",
+              "v10",
+              "v11",
+              "v12"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "5 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "4 jedinična kvadrata",
+        "9 jediničnih kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Križ čine jedan kvadrat u sredini i četiri kvadrata oko njega, ukupno 5 jediničnih kvadrata.",
+      "savjet": "Ne zaboravi kvadratić u sredini križa."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-016",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu lika u obliku slova T.",
+      "slika": {
+        "opis": "Lik u obliku slova T u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            3,
+            1
+          ],
+          "v2": [
+            4,
+            1
+          ],
+          "v3": [
+            4,
+            4
+          ],
+          "v4": [
+            6,
+            4
+          ],
+          "v5": [
+            6,
+            5
+          ],
+          "v6": [
+            1,
+            5
+          ],
+          "v7": [
+            1,
+            4
+          ],
+          "v8": [
+            3,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            7,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "9 jediničnih kvadrata",
+        "7 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "18 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gornji dio ima 5 jediničnih kvadrata, a donji 3. Ukupno je 8 jediničnih kvadrata.",
+      "savjet": "Lik podijeli na gornji i donji dio pa prebroji kvadratiće u svakom dijelu."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-017",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu lika u obliku stepenica.",
+      "slika": {
+        "opis": "Lik u obliku stepenica u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            4,
+            1
+          ],
+          "v3": [
+            4,
+            2
+          ],
+          "v4": [
+            3,
+            2
+          ],
+          "v5": [
+            3,
+            3
+          ],
+          "v6": [
+            2,
+            3
+          ],
+          "v7": [
+            2,
+            4
+          ],
+          "v8": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            5,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "9 jediničnih kvadrata",
+        "5 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "12 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Redovi imaju 3, 2 i 1 jedinični kvadrat, ukupno 6 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće u svakom redu stepenica pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-018",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu kvadrata prebrojavanjem jediničnih kvadrata.",
+      "slika": {
+        "opis": "Kvadrat u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            2
+          ],
+          "v2": [
+            6,
+            2
+          ],
+          "v3": [
+            6,
+            6
+          ],
+          "v4": [
+            2,
+            6
+          ],
+          "M1": [
+            1,
+            1
+          ],
+          "M2": [
+            7,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "16 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "20 jediničnih kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kvadrat ima 4 reda po 4 jedinična kvadrata, ukupno 16 jediničnih kvadrata.",
+      "savjet": "Prebroji i kvadratiće u unutrašnjosti, ne samo one uz rub."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-019",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu uskog pravokutnika.",
+      "slika": {
+        "opis": "Uski pravokutnik u jednom redu kvadratne mreže",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            3
+          ],
+          "v2": [
+            8,
+            3
+          ],
+          "v3": [
+            8,
+            4
+          ],
+          "v4": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            2
+          ],
+          "M2": [
+            9,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "16 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "7 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravokutnik je jedan red od 7 jediničnih kvadrata, pa mu je površina 7 jediničnih kvadrata.",
+      "savjet": "Broji kvadratiće, a ne crte između njih."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-020",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu lika u jediničnim kvadratima.",
+      "slika": {
+        "opis": "Lik u obliku slova U u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            4,
+            1
+          ],
+          "v3": [
+            4,
+            4
+          ],
+          "v4": [
+            3,
+            4
+          ],
+          "v5": [
+            3,
+            2
+          ],
+          "v6": [
+            2,
+            2
+          ],
+          "v7": [
+            2,
+            4
+          ],
+          "v8": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            5,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "9",
+        "7",
+        "6",
+        "8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik ima 3 kvadrata u donjem redu i po 2 kvadrata u dva stupca iznad, ukupno 7 jediničnih kvadrata.",
+      "savjet": "Prazni kvadratići u udubljenju ne pripadaju liku."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-021",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o površinama likova A i B.",
+      "slika": {
+        "opis": "Dugi uski lik A i uspravni pravokutnik B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            5
+          ],
+          "a2": [
+            7,
+            5
+          ],
+          "a3": [
+            7,
+            6
+          ],
+          "a4": [
+            1,
+            6
+          ],
+          "b1": [
+            3,
+            1
+          ],
+          "b2": [
+            5,
+            1
+          ],
+          "b3": [
+            5,
+            4
+          ],
+          "b4": [
+            3,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            7
+          ],
+          "A": [
+            3.5,
+            5.5
+          ],
+          "B": [
+            4,
+            2.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Likovi imaju jednake površine.",
+        "Lik A ima veću površinu.",
+        "Lik B ima veću površinu.",
+        "Lik A ima dvostruko veću površinu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lik A i lik B zauzimaju po 6 jediničnih kvadrata, pa imaju jednake površine iako su različitog oblika.",
+      "savjet": "Prebroji kvadratiće u svakom liku, oblik nije važan."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-022",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu uspravnog pravokutnika.",
+      "slika": {
+        "opis": "Uspravni pravokutnik u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            3,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            5,
+            6
+          ],
+          "v4": [
+            3,
+            6
+          ],
+          "M1": [
+            2,
+            0
+          ],
+          "M2": [
+            6,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 jediničnih kvadrata",
+        "7 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "8 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutnik ima 5 redova po 2 jedinična kvadrata, ukupno 10 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće red po red, od dna prema vrhu."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-023",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu obojenog lika.",
+      "slika": {
+        "opis": "Lik sastavljen od dva pravokutnika u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            3,
+            1
+          ],
+          "v3": [
+            3,
+            3
+          ],
+          "v4": [
+            5,
+            3
+          ],
+          "v5": [
+            5,
+            5
+          ],
+          "v6": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "16 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "11 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Donji dio ima 2 reda po 2 kvadrata, a gornji 2 reda po 4 kvadrata. Ukupno je 4 + 8 = 12 jediničnih kvadrata.",
+      "savjet": "Lik podijeli na dva pravokutnika i prebroji kvadratiće u svakom."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-024",
+      "tezina": "lagano",
+      "pitanje": "Odaberi lik koji ima površinu 5 jediničnih kvadrata.",
+      "slika": {
+        "opis": "Četiri pravokutnika A, B, C i D u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            6
+          ],
+          "a2": [
+            3,
+            6
+          ],
+          "a3": [
+            3,
+            9
+          ],
+          "a4": [
+            1,
+            9
+          ],
+          "b1": [
+            5,
+            6
+          ],
+          "b2": [
+            7,
+            6
+          ],
+          "b3": [
+            7,
+            8
+          ],
+          "b4": [
+            5,
+            8
+          ],
+          "c1": [
+            1,
+            1
+          ],
+          "c2": [
+            5,
+            1
+          ],
+          "c3": [
+            5,
+            3
+          ],
+          "c4": [
+            1,
+            3
+          ],
+          "d1": [
+            8,
+            1
+          ],
+          "d2": [
+            9,
+            1
+          ],
+          "d3": [
+            9,
+            6
+          ],
+          "d4": [
+            8,
+            6
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            2,
+            7.5
+          ],
+          "B": [
+            6,
+            7
+          ],
+          "C": [
+            3,
+            2
+          ],
+          "D": [
+            8.5,
+            3.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "d1",
+          "d2",
+          "d3",
+          "d4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "d1",
+              "d2",
+              "d3",
+              "d4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A",
+        "lik B",
+        "lik C",
+        "lik D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik D zauzima 5 jediničnih kvadrata. Lik A ima 6, lik B 4, a lik C 8 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće u svakom liku i traži zadani broj."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-025",
+      "tezina": "lagano",
+      "pitanje": "Marko je u mreži obojio 6 jediničnih kvadrata, a Ana 8 jediničnih kvadrata. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Markov lik ima veću površinu.",
+        "Anin lik ima veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Markov lik ima dvostruko veću površinu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ana je obojila više jediničnih kvadrata, pa njezin lik ima veću površinu.",
+      "savjet": "Veću površinu ima lik koji zauzima više jediničnih kvadrata."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-026",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu dugog pravokutnika.",
+      "slika": {
+        "opis": "Dugi pravokutnik od dva reda u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            2
+          ],
+          "v2": [
+            9,
+            2
+          ],
+          "v3": [
+            9,
+            4
+          ],
+          "v4": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            1
+          ],
+          "M2": [
+            10,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "20 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "14 jediničnih kvadrata",
+        "16 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravokutnik ima 2 reda po 8 jediničnih kvadrata, ukupno 16 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće u donjem redu, pa u gornjem redu."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-027",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu tvrdnju o površinama kvadrata A i pravokutnika B.",
+      "slika": {
+        "opis": "Kvadrat A i visoki pravokutnik B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            4,
+            1
+          ],
+          "a3": [
+            4,
+            4
+          ],
+          "a4": [
+            1,
+            4
+          ],
+          "b1": [
+            5,
+            1
+          ],
+          "b2": [
+            7,
+            1
+          ],
+          "b3": [
+            7,
+            5
+          ],
+          "b4": [
+            5,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            6
+          ],
+          "A": [
+            2.5,
+            2.5
+          ],
+          "B": [
+            6,
+            3
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Lik A ima veću površinu.",
+        "Lik B ima veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Lik B ima dvostruko veću površinu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lik A zauzima 9, a lik B 8 jediničnih kvadrata. Veću površinu ima lik A.",
+      "savjet": "Viši lik ne mora imati veću površinu, prebroji kvadratiće."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-028",
+      "tezina": "lagano",
+      "pitanje": "Pravokutnik u mreži ima 2 reda, a u svakom redu 3 jedinična kvadrata. Odaberi njegovu površinu.",
+      "ponudeni": [
+        "5 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "9 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dva reda po 3 jedinična kvadrata čine 3 + 3 = 6 jediničnih kvadrata.",
+      "savjet": "Zbroji kvadratiće iz svih redova."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-029",
+      "tezina": "lagano",
+      "pitanje": "Odredi površinu lika u obliku slova S.",
+      "slika": {
+        "opis": "Lik od dva pomaknuta reda kvadratića u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            3,
+            1
+          ],
+          "v2": [
+            7,
+            1
+          ],
+          "v3": [
+            7,
+            2
+          ],
+          "v4": [
+            5,
+            2
+          ],
+          "v5": [
+            5,
+            3
+          ],
+          "v6": [
+            1,
+            3
+          ],
+          "v7": [
+            1,
+            2
+          ],
+          "v8": [
+            3,
+            2
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            4
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "6 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "7 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gornji red ima 4 i donji red 4 jedinična kvadrata, ukupno 8 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće u svakom redu posebno pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-030",
+      "tezina": "lagano",
+      "pitanje": "Odaberi lik koji ima najmanju površinu.",
+      "slika": {
+        "opis": "Četiri pravokutnika A, B, C i D u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            6
+          ],
+          "a2": [
+            4,
+            6
+          ],
+          "a3": [
+            4,
+            8
+          ],
+          "a4": [
+            1,
+            8
+          ],
+          "b1": [
+            6,
+            6
+          ],
+          "b2": [
+            8,
+            6
+          ],
+          "b3": [
+            8,
+            8
+          ],
+          "b4": [
+            6,
+            8
+          ],
+          "c1": [
+            1,
+            1
+          ],
+          "c2": [
+            4,
+            1
+          ],
+          "c3": [
+            4,
+            2
+          ],
+          "c4": [
+            1,
+            2
+          ],
+          "d1": [
+            6,
+            1
+          ],
+          "d2": [
+            7,
+            1
+          ],
+          "d3": [
+            7,
+            5
+          ],
+          "d4": [
+            6,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            9,
+            9
+          ],
+          "A": [
+            2.5,
+            7
+          ],
+          "B": [
+            7,
+            7
+          ],
+          "C": [
+            2.5,
+            1.5
+          ],
+          "D": [
+            6.5,
+            3
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "d1",
+          "d2",
+          "d3",
+          "d4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "d1",
+              "d2",
+              "d3",
+              "d4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik C",
+        "lik A",
+        "lik B",
+        "lik D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lik A ima 6, lik B 4, lik C 3, a lik D 5 jediničnih kvadrata. Najmanju površinu ima lik C.",
+      "savjet": "Dug lik ne mora imati veliku površinu, prebroji kvadratiće."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-031",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu velikog lika u obliku slova L.",
+      "slika": {
+        "opis": "Veliki lik u obliku slova L u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            7,
+            1
+          ],
+          "v3": [
+            7,
+            3
+          ],
+          "v4": [
+            3,
+            3
+          ],
+          "v5": [
+            3,
+            7
+          ],
+          "v6": [
+            1,
+            7
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            8
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "24 jedinična kvadrata",
+        "18 jediničnih kvadrata",
+        "16 jediničnih kvadrata",
+        "20 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Donji dio ima 2 reda po 6 kvadrata (12), a stup iznad 4 reda po 2 kvadrata (8). Ukupno je 20 jediničnih kvadrata.",
+      "savjet": "Podijeli lik na dva pravokutnika i prebroji kvadratiće u svakom."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-032",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu pravokutnika u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Veliki pravokutnik u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            2
+          ],
+          "v2": [
+            8,
+            2
+          ],
+          "v3": [
+            8,
+            6
+          ],
+          "v4": [
+            2,
+            6
+          ],
+          "M1": [
+            1,
+            1
+          ],
+          "M2": [
+            9,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "20 jediničnih kvadrata",
+        "24 jedinična kvadrata",
+        "18 jediničnih kvadrata",
+        "10 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik ima 4 reda po 6 jediničnih kvadrata, ukupno 24 jedinična kvadrata.",
+      "savjet": "Prebroji koliko je kvadratića u jednom redu i koliko ima redova."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-033",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u obliku slova U.",
+      "slika": {
+        "opis": "Široki lik u obliku slova U u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            6,
+            1
+          ],
+          "v3": [
+            6,
+            5
+          ],
+          "v4": [
+            5,
+            5
+          ],
+          "v5": [
+            5,
+            2
+          ],
+          "v6": [
+            2,
+            2
+          ],
+          "v7": [
+            2,
+            5
+          ],
+          "v8": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            7,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "11 jediničnih kvadrata",
+        "20 jediničnih kvadrata",
+        "9 jediničnih kvadrata",
+        "13 jediničnih kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Donji red ima 5 kvadrata, a svaki od dva stupca još po 3. Ukupno je 5 + 3 + 3 = 11 jediničnih kvadrata.",
+      "savjet": "Prazni dio u sredini ne pripada liku."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-034",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u obliku velikog križa.",
+      "slika": {
+        "opis": "Veliki lik u obliku križa u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            3,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            5,
+            3
+          ],
+          "v4": [
+            7,
+            3
+          ],
+          "v5": [
+            7,
+            5
+          ],
+          "v6": [
+            5,
+            5
+          ],
+          "v7": [
+            5,
+            7
+          ],
+          "v8": [
+            3,
+            7
+          ],
+          "v9": [
+            3,
+            5
+          ],
+          "v10": [
+            1,
+            5
+          ],
+          "v11": [
+            1,
+            3
+          ],
+          "v12": [
+            3,
+            3
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            8
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "v9",
+          "v10",
+          "v11",
+          "v12",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8",
+              "v9",
+              "v10",
+              "v11",
+              "v12"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "36 jediničnih kvadrata",
+        "16 jediničnih kvadrata",
+        "20 jediničnih kvadrata",
+        "24 jedinična kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srednji uspravni dio ima 12 kvadrata, a lijevi i desni krak po 4. Ukupno je 20 jediničnih kvadrata.",
+      "savjet": "Podijeli križ na srednji stup i dva bočna kraka."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-035",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu tvrdnju o površinama likova A i B.",
+      "slika": {
+        "opis": "Pravokutnik A i lik B nepravilnog oblika u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            5,
+            1
+          ],
+          "a3": [
+            5,
+            4
+          ],
+          "a4": [
+            1,
+            4
+          ],
+          "b1": [
+            6,
+            1
+          ],
+          "b2": [
+            9,
+            1
+          ],
+          "b3": [
+            9,
+            3
+          ],
+          "b4": [
+            8,
+            3
+          ],
+          "b5": [
+            8,
+            6
+          ],
+          "b6": [
+            6,
+            6
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            7
+          ],
+          "A": [
+            3,
+            2.5
+          ],
+          "B": [
+            7,
+            4.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "b5",
+          "b6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4",
+              "b5",
+              "b6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Lik A ima veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Lik B ima veću površinu.",
+        "Lik B ima 2 jedinična kvadrata više."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik A ima 3 reda po 4 kvadrata, a lik B 10 + 2 kvadrata. Oba lika zauzimaju 12 jediničnih kvadrata.",
+      "savjet": "Likovi različitog oblika mogu zauzimati jednako mnogo kvadratića."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-036",
+      "tezina": "srednje",
+      "pitanje": "Odredi za koliko je površina lika B veća od površine lika A.",
+      "slika": {
+        "opis": "Kvadrat A i pravokutnik B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            4,
+            1
+          ],
+          "a3": [
+            4,
+            4
+          ],
+          "a4": [
+            1,
+            4
+          ],
+          "b1": [
+            5,
+            1
+          ],
+          "b2": [
+            9,
+            1
+          ],
+          "b3": [
+            9,
+            4
+          ],
+          "b4": [
+            5,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            5
+          ],
+          "A": [
+            2.5,
+            2.5
+          ],
+          "B": [
+            7,
+            2.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "1 jedinični kvadrat",
+        "12 jediničnih kvadrata",
+        "21 jedinični kvadrat",
+        "3 jedinična kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik A ima 9, a lik B 12 jediničnih kvadrata. Razlika je 12 − 9 = 3 jedinična kvadrata.",
+      "savjet": "Najprije odredi površinu svakog lika, a zatim oduzmi manju od veće."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-037",
+      "tezina": "srednje",
+      "pitanje": "Odaberi lik koji ima najveću površinu.",
+      "slika": {
+        "opis": "Tri lika A, B i C u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            6
+          ],
+          "a2": [
+            5,
+            6
+          ],
+          "a3": [
+            5,
+            9
+          ],
+          "a4": [
+            1,
+            9
+          ],
+          "b1": [
+            1,
+            1
+          ],
+          "b2": [
+            6,
+            1
+          ],
+          "b3": [
+            6,
+            3
+          ],
+          "b4": [
+            2,
+            3
+          ],
+          "b5": [
+            2,
+            4
+          ],
+          "b6": [
+            1,
+            4
+          ],
+          "c1": [
+            8,
+            1
+          ],
+          "c2": [
+            10,
+            1
+          ],
+          "c3": [
+            10,
+            8
+          ],
+          "c4": [
+            8,
+            8
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            3,
+            7.5
+          ],
+          "B": [
+            3.5,
+            2
+          ],
+          "C": [
+            9,
+            4.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "b5",
+          "b6",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4",
+              "b5",
+              "b6"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A",
+        "lik C",
+        "lik B",
+        "svi likovi imaju jednaku površinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik A ima 12, lik B 11, a lik C 14 jediničnih kvadrata. Najveću površinu ima lik C.",
+      "savjet": "Ne procjenjuj od oka, prebroji kvadratiće u svakom liku."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-038",
+      "tezina": "srednje",
+      "pitanje": "Odaberi lik koji ima jednaku površinu kao lik A.",
+      "slika": {
+        "opis": "Pet pravokutnika A, B, C, D i E u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            7
+          ],
+          "a2": [
+            4,
+            7
+          ],
+          "a3": [
+            4,
+            9
+          ],
+          "a4": [
+            1,
+            9
+          ],
+          "b1": [
+            1,
+            4
+          ],
+          "b2": [
+            7,
+            4
+          ],
+          "b3": [
+            7,
+            5
+          ],
+          "b4": [
+            1,
+            5
+          ],
+          "c1": [
+            6,
+            7
+          ],
+          "c2": [
+            8,
+            7
+          ],
+          "c3": [
+            8,
+            9
+          ],
+          "c4": [
+            6,
+            9
+          ],
+          "d1": [
+            1,
+            1
+          ],
+          "d2": [
+            6,
+            1
+          ],
+          "d3": [
+            6,
+            2
+          ],
+          "d4": [
+            1,
+            2
+          ],
+          "e1": [
+            8,
+            1
+          ],
+          "e2": [
+            9,
+            1
+          ],
+          "e3": [
+            9,
+            4
+          ],
+          "e4": [
+            8,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            2.5,
+            8
+          ],
+          "B": [
+            3.5,
+            4.5
+          ],
+          "C": [
+            7,
+            8
+          ],
+          "D": [
+            3,
+            1.5
+          ],
+          "E": [
+            8.5,
+            2.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "d1",
+          "d2",
+          "d3",
+          "d4",
+          "e1",
+          "e2",
+          "e3",
+          "e4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "d1",
+              "d2",
+              "d3",
+              "d4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "e1",
+              "e2",
+              "e3",
+              "e4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik C",
+        "lik D",
+        "lik E",
+        "lik B"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik A i lik B zauzimaju po 6 jediničnih kvadrata. Lik C ima 4, lik D 5, a lik E 3 jedinična kvadrata.",
+      "savjet": "Najprije prebroji kvadratiće lika A, a zatim kvadratiće ostalih likova."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-039",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u obliku velikih stepenica.",
+      "slika": {
+        "opis": "Lik u obliku stepenica s četiri reda u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            5,
+            2
+          ],
+          "v4": [
+            4,
+            2
+          ],
+          "v5": [
+            4,
+            3
+          ],
+          "v6": [
+            3,
+            3
+          ],
+          "v7": [
+            3,
+            4
+          ],
+          "v8": [
+            2,
+            4
+          ],
+          "v9": [
+            2,
+            5
+          ],
+          "v10": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "v9",
+          "v10",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8",
+              "v9",
+              "v10"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "10 jediničnih kvadrata",
+        "16 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "9 jediničnih kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Redovi imaju 4, 3, 2 i 1 kvadrat, ukupno 10 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće u svakom redu stepenica i zbroji ih."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-040",
+      "tezina": "srednje",
+      "pitanje": "Pravokutnik u kvadratnoj mreži ima 4 reda, a u svakom redu je 6 jediničnih kvadrata. Odaberi njegovu površinu.",
+      "ponudeni": [
+        "10 jediničnih kvadrata",
+        "20 jediničnih kvadrata",
+        "24 jedinična kvadrata",
+        "18 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Četiri reda po 6 kvadrata čine 6 + 6 + 6 + 6 = 24 jedinična kvadrata.",
+      "savjet": "Zbroji kvadratiće iz svih redova."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-041",
+      "tezina": "srednje",
+      "pitanje": "Odredi koliko najmanje jediničnih kvadrata treba dodati liku da postane pravokutnik.",
+      "slika": {
+        "opis": "Lik u obliku slova L u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            5,
+            2
+          ],
+          "v4": [
+            3,
+            2
+          ],
+          "v5": [
+            3,
+            4
+          ],
+          "v6": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "8 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "4 jedinična kvadrata",
+        "3 jedinična kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik zauzima 8 kvadrata, a najmanji pravokutnik oko njega ima 3 reda po 4 kvadrata, to jest 12. Treba dodati 12 − 8 = 4 jedinična kvadrata.",
+      "savjet": "Zamisli najmanji pravokutnik u koji stane cijeli lik i prebroji prazna mjesta u njemu."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-042",
+      "tezina": "srednje",
+      "pitanje": "Odredi za koliko se razlikuju površine likova A i B.",
+      "slika": {
+        "opis": "Pravokutnik A i kvadrat B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            6,
+            1
+          ],
+          "a3": [
+            6,
+            3
+          ],
+          "a4": [
+            1,
+            3
+          ],
+          "b1": [
+            7,
+            1
+          ],
+          "b2": [
+            10,
+            1
+          ],
+          "b3": [
+            10,
+            4
+          ],
+          "b4": [
+            7,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            5
+          ],
+          "A": [
+            3.5,
+            2
+          ],
+          "B": [
+            8.5,
+            2.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "1 jedinični kvadrat",
+        "2 jedinična kvadrata",
+        "19 jediničnih kvadrata",
+        "3 jedinična kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lik A ima 10, a lik B 9 jediničnih kvadrata. Razlika je 1 jedinični kvadrat.",
+      "savjet": "Prebroji kvadratiće u oba lika i oduzmi manji broj od većeg."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-043",
+      "tezina": "srednje",
+      "pitanje": "Odaberi dva lika koji imaju jednaku površinu.",
+      "slika": {
+        "opis": "Četiri lika A, B, C i D u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            5
+          ],
+          "a2": [
+            3,
+            5
+          ],
+          "a3": [
+            3,
+            9
+          ],
+          "a4": [
+            1,
+            9
+          ],
+          "b1": [
+            5,
+            6
+          ],
+          "b2": [
+            8,
+            6
+          ],
+          "b3": [
+            8,
+            9
+          ],
+          "b4": [
+            5,
+            9
+          ],
+          "c1": [
+            1,
+            1
+          ],
+          "c2": [
+            4,
+            1
+          ],
+          "c3": [
+            4,
+            3
+          ],
+          "c4": [
+            3,
+            3
+          ],
+          "c5": [
+            3,
+            4
+          ],
+          "c6": [
+            1,
+            4
+          ],
+          "d1": [
+            6,
+            1
+          ],
+          "d2": [
+            9,
+            1
+          ],
+          "d3": [
+            9,
+            3
+          ],
+          "d4": [
+            7,
+            3
+          ],
+          "d5": [
+            7,
+            4
+          ],
+          "d6": [
+            6,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            2,
+            7
+          ],
+          "B": [
+            6.5,
+            7.5
+          ],
+          "C": [
+            2,
+            2
+          ],
+          "D": [
+            7.5,
+            2
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "c5",
+          "c6",
+          "d1",
+          "d2",
+          "d3",
+          "d4",
+          "d5",
+          "d6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4",
+              "c5",
+              "c6"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "d1",
+              "d2",
+              "d3",
+              "d4",
+              "d5",
+              "d6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A i lik B",
+        "lik B i lik D",
+        "lik C i lik D",
+        "lik A i lik C"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik A i lik C zauzimaju po 8 jediničnih kvadrata. Lik B ima 9, a lik D 7 jediničnih kvadrata.",
+      "savjet": "Odredi površinu svakog lika pa potraži dva jednaka broja."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-044",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u jediničnim kvadratima.",
+      "slika": {
+        "opis": "Lik u obliku slova E u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            6,
+            1
+          ],
+          "v3": [
+            6,
+            2
+          ],
+          "v4": [
+            2,
+            2
+          ],
+          "v5": [
+            2,
+            3
+          ],
+          "v6": [
+            5,
+            3
+          ],
+          "v7": [
+            5,
+            4
+          ],
+          "v8": [
+            2,
+            4
+          ],
+          "v9": [
+            2,
+            5
+          ],
+          "v10": [
+            6,
+            5
+          ],
+          "v11": [
+            6,
+            6
+          ],
+          "v12": [
+            1,
+            6
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            7,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "v9",
+          "v10",
+          "v11",
+          "v12",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8",
+              "v9",
+              "v10",
+              "v11",
+              "v12"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "25",
+        "16",
+        "14",
+        "15"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lijevi stup ima 5 kvadrata, a tri kraka 4, 3 i 4 kvadrata. Ukupno je 16 jediničnih kvadrata.",
+      "savjet": "Lik podijeli na stup i krakove pa prebroji kvadratiće u svakom dijelu."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-045",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u obliku slova H.",
+      "slika": {
+        "opis": "Lik u obliku slova H u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            3,
+            1
+          ],
+          "v3": [
+            3,
+            3
+          ],
+          "v4": [
+            5,
+            3
+          ],
+          "v5": [
+            5,
+            1
+          ],
+          "v6": [
+            7,
+            1
+          ],
+          "v7": [
+            7,
+            6
+          ],
+          "v8": [
+            5,
+            6
+          ],
+          "v9": [
+            5,
+            4
+          ],
+          "v10": [
+            3,
+            4
+          ],
+          "v11": [
+            3,
+            6
+          ],
+          "v12": [
+            1,
+            6
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "v9",
+          "v10",
+          "v11",
+          "v12",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8",
+              "v9",
+              "v10",
+              "v11",
+              "v12"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "22 jedinična kvadrata",
+        "30 jediničnih kvadrata",
+        "20 jediničnih kvadrata",
+        "24 jedinična kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki stup ima 5 redova po 2 kvadrata (10), a spojnica 2 kvadrata. Ukupno je 10 + 10 + 2 = 22 jedinična kvadrata.",
+      "savjet": "Lik podijeli na dva stupa i dio koji ih spaja."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-046",
+      "tezina": "srednje",
+      "pitanje": "Odaberi lik s najvećom površinom.",
+      "slika": {
+        "opis": "Tri lika A, B i C u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            6
+          ],
+          "a2": [
+            6,
+            6
+          ],
+          "a3": [
+            6,
+            8
+          ],
+          "a4": [
+            1,
+            8
+          ],
+          "b1": [
+            8,
+            5
+          ],
+          "b2": [
+            10,
+            5
+          ],
+          "b3": [
+            10,
+            9
+          ],
+          "b4": [
+            8,
+            9
+          ],
+          "c1": [
+            1,
+            1
+          ],
+          "c2": [
+            5,
+            1
+          ],
+          "c3": [
+            5,
+            3
+          ],
+          "c4": [
+            4,
+            3
+          ],
+          "c5": [
+            4,
+            4
+          ],
+          "c6": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            3.5,
+            7
+          ],
+          "B": [
+            9,
+            7
+          ],
+          "C": [
+            2.5,
+            2
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "c5",
+          "c6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4",
+              "c5",
+              "c6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A",
+        "lik B",
+        "lik C",
+        "svi likovi imaju jednaku površinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik A ima 10, lik B 8, a lik C 8 + 3 = 11 jediničnih kvadrata. Najveću površinu ima lik C.",
+      "savjet": "Prebroji kvadratiće u svakom liku, a složeni lik podijeli na dijelove."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-047",
+      "tezina": "srednje",
+      "pitanje": "Ivan je nacrtao pravokutnik od 3 reda po 4 jedinična kvadrata, a Lea pravokutnik od 2 reda po 6 jediničnih kvadrata. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Ivanov lik ima veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Lein lik ima veću površinu.",
+        "Lein lik ima 2 jedinična kvadrata više."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ivanov pravokutnik ima 4 + 4 + 4 = 12, a Lein 6 + 6 = 12 jediničnih kvadrata, pa su površine jednake.",
+      "savjet": "Izračunaj koliko jediničnih kvadrata ima svaki pravokutnik."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-048",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u obliku piramide.",
+      "slika": {
+        "opis": "Lik u obliku piramide od tri reda u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            6,
+            1
+          ],
+          "v3": [
+            6,
+            2
+          ],
+          "v4": [
+            5,
+            2
+          ],
+          "v5": [
+            5,
+            3
+          ],
+          "v6": [
+            4,
+            3
+          ],
+          "v7": [
+            4,
+            4
+          ],
+          "v8": [
+            3,
+            4
+          ],
+          "v9": [
+            3,
+            3
+          ],
+          "v10": [
+            2,
+            3
+          ],
+          "v11": [
+            2,
+            2
+          ],
+          "v12": [
+            1,
+            2
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            7,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "v9",
+          "v10",
+          "v11",
+          "v12",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8",
+              "v9",
+              "v10",
+              "v11",
+              "v12"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "15 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "9 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Redovi imaju 5, 3 i 1 jedinični kvadrat, ukupno 9 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće u svakom redu, od najduljeg do najkraćeg."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-049",
+      "tezina": "srednje",
+      "pitanje": "Odaberi lik koji ima površinu 12 jediničnih kvadrata.",
+      "slika": {
+        "opis": "Četiri lika A, B, C i D u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            7
+          ],
+          "a2": [
+            6,
+            7
+          ],
+          "a3": [
+            6,
+            9
+          ],
+          "a4": [
+            1,
+            9
+          ],
+          "b1": [
+            8,
+            4
+          ],
+          "b2": [
+            10,
+            4
+          ],
+          "b3": [
+            10,
+            9
+          ],
+          "b4": [
+            7,
+            9
+          ],
+          "b5": [
+            7,
+            8
+          ],
+          "b6": [
+            8,
+            8
+          ],
+          "c1": [
+            1,
+            1
+          ],
+          "c2": [
+            4,
+            1
+          ],
+          "c3": [
+            4,
+            5
+          ],
+          "c4": [
+            1,
+            5
+          ],
+          "d1": [
+            6,
+            1
+          ],
+          "d2": [
+            10,
+            1
+          ],
+          "d3": [
+            10,
+            3
+          ],
+          "d4": [
+            6,
+            3
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            3.5,
+            8
+          ],
+          "B": [
+            9,
+            6.5
+          ],
+          "C": [
+            2.5,
+            3
+          ],
+          "D": [
+            8,
+            2
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "b5",
+          "b6",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "d1",
+          "d2",
+          "d3",
+          "d4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4",
+              "b5",
+              "b6"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "d1",
+              "d2",
+              "d3",
+              "d4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A",
+        "lik C",
+        "lik B",
+        "lik D"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik C ima 3 stupca po 4 kvadrata, to jest 12 jediničnih kvadrata. Lik A ima 10, lik B 11, a lik D 8.",
+      "savjet": "Prebroji kvadratiće u svakom liku i traži zadani broj."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-050",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Nepravilan lik sastavljen od pravokutnika u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            1
+          ],
+          "v2": [
+            6,
+            1
+          ],
+          "v3": [
+            6,
+            3
+          ],
+          "v4": [
+            8,
+            3
+          ],
+          "v5": [
+            8,
+            6
+          ],
+          "v6": [
+            4,
+            6
+          ],
+          "v7": [
+            4,
+            5
+          ],
+          "v8": [
+            2,
+            5
+          ],
+          "M1": [
+            1,
+            0
+          ],
+          "M2": [
+            9,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "22 jedinična kvadrata",
+        "20 jediničnih kvadrata",
+        "18 jediničnih kvadrata",
+        "24 jedinična kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Redovi odozdo imaju 4, 4, 6, 6 i 4 kvadrata. Ukupno je 24 jedinična kvadrata.",
+      "savjet": "Broji red po red i zapiši koliko je kvadratića u svakom redu."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-051",
+      "tezina": "srednje",
+      "pitanje": "Odredi za koliko je površina lika A manja od površine lika B.",
+      "slika": {
+        "opis": "Križ A i kvadrat B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            2,
+            1
+          ],
+          "a2": [
+            3,
+            1
+          ],
+          "a3": [
+            3,
+            2
+          ],
+          "a4": [
+            4,
+            2
+          ],
+          "a5": [
+            4,
+            3
+          ],
+          "a6": [
+            3,
+            3
+          ],
+          "a7": [
+            3,
+            4
+          ],
+          "a8": [
+            2,
+            4
+          ],
+          "a9": [
+            2,
+            3
+          ],
+          "a10": [
+            1,
+            3
+          ],
+          "a11": [
+            1,
+            2
+          ],
+          "a12": [
+            2,
+            2
+          ],
+          "b1": [
+            6,
+            1
+          ],
+          "b2": [
+            9,
+            1
+          ],
+          "b3": [
+            9,
+            4
+          ],
+          "b4": [
+            6,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            5
+          ],
+          "A": [
+            2.5,
+            2.5
+          ],
+          "B": [
+            7.5,
+            2.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "a5",
+          "a6",
+          "a7",
+          "a8",
+          "a9",
+          "a10",
+          "a11",
+          "a12",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4",
+              "a5",
+              "a6",
+              "a7",
+              "a8",
+              "a9",
+              "a10",
+              "a11",
+              "a12"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "4 jedinična kvadrata",
+        "5 jediničnih kvadrata",
+        "14 jediničnih kvadrata",
+        "3 jedinična kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Križ A zauzima 5, a kvadrat B 9 jediničnih kvadrata. Razlika je 9 − 5 = 4 jedinična kvadrata.",
+      "savjet": "Likovi su jednako široki i visoki, ali prebroji koliko kvadratića svaki stvarno zauzima."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-052",
+      "tezina": "srednje",
+      "pitanje": "Lik A ima površinu 15 jediničnih kvadrata, lik B 3 jedinična kvadrata manje od lika A, a lik C 2 jedinična kvadrata više od lika B. Odaberi lik s najvećom površinom.",
+      "ponudeni": [
+        "lik B",
+        "lik C",
+        "lik A",
+        "svi likovi imaju jednaku površinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik B ima 15 − 3 = 12, a lik C 12 + 2 = 14 jediničnih kvadrata. Najveću površinu ima lik A.",
+      "savjet": "Izračunaj redom površinu lika B, a zatim lika C."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-053",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u obliku velikog slova T.",
+      "slika": {
+        "opis": "Veliki lik u obliku slova T u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            3,
+            1
+          ],
+          "v2": [
+            6,
+            1
+          ],
+          "v3": [
+            6,
+            5
+          ],
+          "v4": [
+            8,
+            5
+          ],
+          "v5": [
+            8,
+            7
+          ],
+          "v6": [
+            1,
+            7
+          ],
+          "v7": [
+            1,
+            5
+          ],
+          "v8": [
+            3,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            9,
+            8
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "23 jedinična kvadrata",
+        "19 jediničnih kvadrata",
+        "26 jediničnih kvadrata",
+        "28 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gornji dio ima 2 reda po 7 kvadrata (14), a stup 4 reda po 3 kvadrata (12). Ukupno je 26 jediničnih kvadrata.",
+      "savjet": "Lik podijeli na gornju gredu i stup pa prebroji kvadratiće."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-054",
+      "tezina": "srednje",
+      "pitanje": "Lik je sastavljen od dva pravokutnika koji se ne preklapaju. Prvi zauzima 9, a drugi 7 jediničnih kvadrata. Odaberi površinu lika.",
+      "ponudeni": [
+        "16 jediničnih kvadrata",
+        "2 jedinična kvadrata",
+        "18 jediničnih kvadrata",
+        "14 jediničnih kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Površina cijelog lika jednaka je zbroju površina dijelova: 9 + 7 = 16 jediničnih kvadrata.",
+      "savjet": "Razmisli kako dobiti površinu lika kad znaš površine njegovih dijelova."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-055",
+      "tezina": "srednje",
+      "pitanje": "Odaberi lik s najmanjom površinom.",
+      "slika": {
+        "opis": "Tri lika A, B i C u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            3,
+            1
+          ],
+          "a3": [
+            3,
+            6
+          ],
+          "a4": [
+            1,
+            6
+          ],
+          "b1": [
+            5,
+            1
+          ],
+          "b2": [
+            8,
+            1
+          ],
+          "b3": [
+            8,
+            4
+          ],
+          "b4": [
+            5,
+            4
+          ],
+          "c1": [
+            5,
+            6
+          ],
+          "c2": [
+            10,
+            6
+          ],
+          "c3": [
+            10,
+            8
+          ],
+          "c4": [
+            6,
+            8
+          ],
+          "c5": [
+            6,
+            9
+          ],
+          "c6": [
+            5,
+            9
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            2,
+            3.5
+          ],
+          "B": [
+            6.5,
+            2.5
+          ],
+          "C": [
+            7.5,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "c5",
+          "c6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4",
+              "c5",
+              "c6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A",
+        "lik C",
+        "svi likovi imaju jednaku površinu",
+        "lik B"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik A ima 10, lik B 9, a lik C 11 jediničnih kvadrata. Najmanju površinu ima lik B.",
+      "savjet": "Površine su bliske, zato pažljivo prebroji kvadratiće u svakom liku."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-056",
+      "tezina": "srednje",
+      "pitanje": "Dva lika imaju jednaku površinu. Odaberi tvrdnju koja je sigurno točna.",
+      "ponudeni": [
+        "Oba lika imaju jednak oblik.",
+        "Oba lika zauzimaju jednako mnogo jediničnih kvadrata.",
+        "Oba lika imaju jednako duge stranice.",
+        "Oba lika su pravokutnici."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jednaka površina znači da likovi zauzimaju jednako mnogo jediničnih kvadrata. Oblik i stranice mogu biti različiti.",
+      "savjet": "Sjeti se kako mjerimo površinu u kvadratnoj mreži."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-057",
+      "tezina": "srednje",
+      "pitanje": "Odredi koliko jediničnih kvadrata treba dodati liku A da bi imao jednaku površinu kao lik B.",
+      "slika": {
+        "opis": "Pravokutnik A i lik B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            4,
+            1
+          ],
+          "a3": [
+            4,
+            3
+          ],
+          "a4": [
+            1,
+            3
+          ],
+          "b1": [
+            6,
+            1
+          ],
+          "b2": [
+            9,
+            1
+          ],
+          "b3": [
+            9,
+            3
+          ],
+          "b4": [
+            8,
+            3
+          ],
+          "b5": [
+            8,
+            5
+          ],
+          "b6": [
+            6,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            6
+          ],
+          "A": [
+            2.5,
+            2
+          ],
+          "B": [
+            7,
+            3.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "b5",
+          "b6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4",
+              "b5",
+              "b6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "4 jedinična kvadrata",
+        "6 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "3 jedinična kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lik A ima 6, a lik B 6 + 4 = 10 jediničnih kvadrata. Liku A treba dodati 10 − 6 = 4 jedinična kvadrata.",
+      "savjet": "Odredi površinu oba lika pa izračunaj koliko liku A nedostaje."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-058",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu pravokutnika u jediničnim kvadratima.",
+      "slika": {
+        "opis": "Široki pravokutnik u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            2
+          ],
+          "v2": [
+            8,
+            2
+          ],
+          "v3": [
+            8,
+            5
+          ],
+          "v4": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            1
+          ],
+          "M2": [
+            9,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "20 jediničnih kvadrata",
+        "14 jediničnih kvadrata",
+        "21 jedinični kvadrat",
+        "10 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravokutnik ima 3 reda po 7 jediničnih kvadrata, ukupno 21 jedinični kvadrat.",
+      "savjet": "Prebroji kvadratiće u jednom redu, a zatim zbroji sve redove."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-059",
+      "tezina": "srednje",
+      "pitanje": "Odredi površinu lika u obliku širokih stepenica.",
+      "slika": {
+        "opis": "Lik u obliku širokih stepenica u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            7,
+            1
+          ],
+          "v3": [
+            7,
+            2
+          ],
+          "v4": [
+            5,
+            2
+          ],
+          "v5": [
+            5,
+            3
+          ],
+          "v6": [
+            3,
+            3
+          ],
+          "v7": [
+            3,
+            4
+          ],
+          "v8": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "18 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "11 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Redovi odozdo imaju 6, 4 i 2 jedinična kvadrata, ukupno 12 jediničnih kvadrata.",
+      "savjet": "Prebroji kvadratiće u svakom redu stepenica."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-060",
+      "tezina": "srednje",
+      "pitanje": "Mia je obojila 4 reda po 5 jediničnih kvadrata, a Tin 3 reda po 7 jediničnih kvadrata. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Mijin lik ima za 1 jedinični kvadrat veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Tinov lik ima za 3 jedinična kvadrata veću površinu.",
+        "Tinov lik ima za 1 jedinični kvadrat veću površinu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mijin lik ima 20, a Tinov 21 jedinični kvadrat. Tinov lik ima veću površinu za 1 jedinični kvadrat.",
+      "savjet": "Izračunaj površinu svakog lika zbrajanjem kvadratića u redovima."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-061",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu trokuta. Dvije polovine jediničnog kvadrata zajedno čine jedan jedinični kvadrat.",
+      "slika": {
+        "opis": "Pravokutni trokut u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "10 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "16 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut zauzima 6 cijelih kvadrata i 4 polovine. Četiri polovine čine 2 cijela kvadrata, pa je površina 8 jediničnih kvadrata.",
+      "savjet": "Posebno prebroji cijele kvadratiće, a posebno polovine."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-062",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu velikog trokuta u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Veliki pravokutni trokut u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            7,
+            1
+          ],
+          "v3": [
+            1,
+            7
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            8
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "21 jedinični kvadrat",
+        "15 jediničnih kvadrata",
+        "36 jediničnih kvadrata",
+        "18 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut ima 15 cijelih kvadrata i 6 polovina. Šest polovina čini 3 cijela kvadrata, ukupno 18 jediničnih kvadrata.",
+      "savjet": "Dvije polovine kvadratića zajedno čine jedan cijeli jedinični kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-063",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu lika u obliku kućice.",
+      "slika": {
+        "opis": "Lik u obliku kućice s krovom u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            5,
+            4
+          ],
+          "v4": [
+            3,
+            6
+          ],
+          "v5": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            7
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "16 jediničnih kvadrata",
+        "14 jediničnih kvadrata",
+        "18 jediničnih kvadrata",
+        "20 jediničnih kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zidovi imaju 12 kvadrata, a krov 2 cijela kvadrata i 4 polovine, to jest 4 kvadrata. Ukupno je 16 jediničnih kvadrata.",
+      "savjet": "Krov ima i polovine kvadratića, a dvije polovine čine jedan kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-064",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu paralelograma u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Paralelogram s kosim stranicama u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            7,
+            3
+          ],
+          "v4": [
+            3,
+            3
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            4
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "10 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "12 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Paralelogram ima 6 cijelih kvadrata i 4 polovine, a 4 polovine čine 2 kvadrata. Površina je 8 jediničnih kvadrata.",
+      "savjet": "Kosi rubovi režu kvadratiće na pola, a polovine treba spojiti u cijele kvadrate."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-065",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o likovima A i B.",
+      "slika": {
+        "opis": "Dugi uski pravokutnik A i kvadrat B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            7,
+            1
+          ],
+          "a3": [
+            7,
+            2
+          ],
+          "a4": [
+            1,
+            2
+          ],
+          "b1": [
+            2,
+            4
+          ],
+          "b2": [
+            5,
+            4
+          ],
+          "b3": [
+            5,
+            7
+          ],
+          "b4": [
+            2,
+            7
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            8
+          ],
+          "A": [
+            3.5,
+            1.5
+          ],
+          "B": [
+            3.5,
+            5.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Lik A ima veći opseg i veću površinu.",
+        "Lik B ima veći opseg i veću površinu.",
+        "Lik A ima veći opseg, ali manju površinu.",
+        "Likovi imaju jednake površine."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik A ima površinu 6, a lik B 9 jediničnih kvadrata. Opseg lika A je 14, a lika B 12 jediničnih dužina.",
+      "savjet": "Površinu odredi brojem kvadratića, a opseg obilaskom ruba lika."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-066",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o pravokutnicima A i B.",
+      "slika": {
+        "opis": "Pravokutnici A i B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            5
+          ],
+          "a2": [
+            5,
+            5
+          ],
+          "a3": [
+            5,
+            8
+          ],
+          "a4": [
+            1,
+            8
+          ],
+          "b1": [
+            1,
+            1
+          ],
+          "b2": [
+            7,
+            1
+          ],
+          "b3": [
+            7,
+            3
+          ],
+          "b4": [
+            1,
+            3
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            9
+          ],
+          "A": [
+            3,
+            6.5
+          ],
+          "B": [
+            4,
+            2
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Imaju jednaku površinu, a lik B ima veći opseg.",
+        "Lik B ima veću površinu i veći opseg.",
+        "Imaju jednaku površinu i jednak opseg.",
+        "Lik A ima veću površinu, a opsezi su jednaki."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oba lika zauzimaju 12 jediničnih kvadrata. Opseg lika A je 14, a lika B 16 jediničnih dužina.",
+      "savjet": "Prebroji kvadratiće za površinu, a za opseg zbroji duljine svih stranica."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-067",
+      "tezina": "tesko",
+      "pitanje": "Lik zauzima 10 cijelih jediničnih kvadrata i 6 polovina jediničnog kvadrata. Odredi površinu lika.",
+      "ponudeni": [
+        "16 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "13 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Šest polovina čini 3 cijela kvadrata, pa je površina 10 + 3 = 13 jediničnih kvadrata.",
+      "savjet": "Dvije polovine zajedno čine jedan jedinični kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-068",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu trokuta u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Jednakokračan trokut s vodoravnom osnovicom u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            1
+          ],
+          "v2": [
+            8,
+            1
+          ],
+          "v3": [
+            5,
+            4
+          ],
+          "M1": [
+            1,
+            0
+          ],
+          "M2": [
+            9,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 jediničnih kvadrata",
+        "9 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "18 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut ima 6 cijelih kvadrata i 6 polovina. Šest polovina čini 3 kvadrata, ukupno 9 jediničnih kvadrata.",
+      "savjet": "Posebno prebroji cijele kvadratiće i polovine."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-069",
+      "tezina": "tesko",
+      "pitanje": "Odaberi lik koji ima najveću površinu.",
+      "slika": {
+        "opis": "Trokut A, kvadrat B i paralelogram C u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            5
+          ],
+          "a2": [
+            5,
+            5
+          ],
+          "a3": [
+            1,
+            9
+          ],
+          "b1": [
+            6,
+            6
+          ],
+          "b2": [
+            9,
+            6
+          ],
+          "b3": [
+            9,
+            9
+          ],
+          "b4": [
+            6,
+            9
+          ],
+          "c1": [
+            1,
+            1
+          ],
+          "c2": [
+            4,
+            1
+          ],
+          "c3": [
+            6,
+            3
+          ],
+          "c4": [
+            3,
+            3
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            2,
+            6.5
+          ],
+          "B": [
+            7.5,
+            7.5
+          ],
+          "C": [
+            3.5,
+            2
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik B",
+        "lik A",
+        "lik C",
+        "svi likovi imaju jednaku površinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trokut A ima 8, kvadrat B 9, a paralelogram C 6 jediničnih kvadrata. Najveću površinu ima lik B.",
+      "savjet": "Kod likova s kosim rubovima spoji po dvije polovine kvadratića u jedan kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-070",
+      "tezina": "tesko",
+      "pitanje": "Lik A i lik B imaju jednak opseg. Odaberi točnu tvrdnju o njihovim površinama.",
+      "slika": {
+        "opis": "Uski pravokutnik A i kvadrat B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            6,
+            1
+          ],
+          "a3": [
+            6,
+            2
+          ],
+          "a4": [
+            1,
+            2
+          ],
+          "b1": [
+            2,
+            3
+          ],
+          "b2": [
+            5,
+            3
+          ],
+          "b3": [
+            5,
+            6
+          ],
+          "b4": [
+            2,
+            6
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            7,
+            7
+          ],
+          "A": [
+            3.5,
+            1.5
+          ],
+          "B": [
+            3.5,
+            4.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Lik A ima za 4 jedinična kvadrata veću površinu.",
+        "Lik B ima za 3 jedinična kvadrata veću površinu.",
+        "Lik B ima za 4 jedinična kvadrata veću površinu.",
+        "Likovi imaju jednake površine."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oba lika imaju opseg 12 jediničnih dužina, ali lik A zauzima 5, a lik B 9 jediničnih kvadrata. Razlika je 4 jedinična kvadrata.",
+      "savjet": "Jednak opseg ne znači jednaku površinu, prebroji kvadratiće."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-071",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik od 3 reda po 4 jedinična kvadrata prerezan je dijagonalom na dva jednaka trokuta. Odredi površinu jednog trokuta.",
+      "ponudeni": [
+        "12 jediničnih kvadrata",
+        "6 jediničnih kvadrata",
+        "9 jediničnih kvadrata",
+        "3 jedinična kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravokutnik ima 12 jediničnih kvadrata, a dva jednaka trokuta dijele ga na pola. Svaki trokut ima 6 jediničnih kvadrata.",
+      "savjet": "Najprije odredi površinu cijelog pravokutnika."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-072",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu lika kojemu je odrezan jedan kut.",
+      "slika": {
+        "opis": "Pravokutnik s odrezanim kutom u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            6,
+            1
+          ],
+          "v3": [
+            6,
+            2
+          ],
+          "v4": [
+            4,
+            4
+          ],
+          "v5": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            7,
+            5
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "15 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "14 jediničnih kvadrata",
+        "13 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravokutnik bi imao 15 kvadrata. Odrezan je 1 cijeli kvadrat i 2 polovine, to jest 2 kvadrata, pa ostaje 13 jediničnih kvadrata.",
+      "savjet": "Zamisli cijeli pravokutnik pa oduzmi dio koji nedostaje."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-073",
+      "tezina": "tesko",
+      "pitanje": "Odaberi točnu tvrdnju o površinama trokuta A i pravokutnika B.",
+      "slika": {
+        "opis": "Trokut A i pravokutnik B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            5,
+            1
+          ],
+          "a3": [
+            1,
+            5
+          ],
+          "b1": [
+            7,
+            1
+          ],
+          "b2": [
+            9,
+            1
+          ],
+          "b3": [
+            9,
+            5
+          ],
+          "b4": [
+            7,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            6
+          ],
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            8,
+            3
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Lik A ima veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Lik B ima veću površinu.",
+        "Lik A ima dvostruko veću površinu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trokut A ima 6 cijelih kvadrata i 4 polovine, to jest 8 kvadrata. Pravokutnik B ima također 8 jediničnih kvadrata.",
+      "savjet": "Kod trokuta spoji po dvije polovine kvadratića u jedan cijeli kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-074",
+      "tezina": "tesko",
+      "pitanje": "Lea je iz kvadrata od 4 reda po 4 jedinična kvadrata izrezala jedan jedinični kvadrat u kutu. Na slici je lik koji je ostao. Odaberi točnu tvrdnju.",
+      "slika": {
+        "opis": "Kvadrat bez jednog kutnog kvadratića u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            5,
+            1
+          ],
+          "v3": [
+            5,
+            4
+          ],
+          "v4": [
+            4,
+            4
+          ],
+          "v5": [
+            4,
+            5
+          ],
+          "v6": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "Površina i opseg su se smanjili.",
+        "Površina se smanjila, a opseg se povećao.",
+        "Površina je ostala ista, a opseg se smanjio.",
+        "Površina se smanjila, a opseg je ostao isti."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik sada zauzima 15 umjesto 16 jediničnih kvadrata. Opseg je i dalje 16 jediničnih dužina jer su dvije stranice izrezanog kvadrata zamijenile dvije koje su nestale.",
+      "savjet": "Usporedi broj kvadratića prije i poslije, a zatim obiđi rub lika."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-075",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu trapeza u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Trapez s kosim stranicama u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            9,
+            1
+          ],
+          "v3": [
+            7,
+            3
+          ],
+          "v4": [
+            3,
+            3
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            4
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 jediničnih kvadrata",
+        "14 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "16 jediničnih kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trapez ima 10 cijelih kvadrata i 4 polovine, a 4 polovine čine 2 kvadrata. Površina je 12 jediničnih kvadrata.",
+      "savjet": "Kosi rubovi presijecaju kvadratiće na pola, spoji po dvije polovine."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-076",
+      "tezina": "tesko",
+      "pitanje": "Jakov je složio lik od 8 jediničnih kvadrata, a Sara lik od 18 polovina jediničnog kvadrata. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Jakovljev lik ima veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Sarin lik ima veću površinu.",
+        "Sarin lik ima dvostruko veću površinu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osamnaest polovina čini 9 jediničnih kvadrata, a 9 je više od 8. Sarin lik ima veću površinu.",
+      "savjet": "Odredi koliko cijelih kvadrata čine sve Sarine polovine."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-077",
+      "tezina": "tesko",
+      "pitanje": "Odaberi lik koji ima najveću površinu.",
+      "slika": {
+        "opis": "Paralelogram A, trokut B i lik C u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            6
+          ],
+          "a2": [
+            4,
+            6
+          ],
+          "a3": [
+            6,
+            8
+          ],
+          "a4": [
+            3,
+            8
+          ],
+          "b1": [
+            6,
+            1
+          ],
+          "b2": [
+            10,
+            1
+          ],
+          "b3": [
+            10,
+            5
+          ],
+          "c1": [
+            1,
+            1
+          ],
+          "c2": [
+            4,
+            1
+          ],
+          "c3": [
+            4,
+            3
+          ],
+          "c4": [
+            2,
+            3
+          ],
+          "c5": [
+            2,
+            4
+          ],
+          "c6": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            9
+          ],
+          "A": [
+            3.5,
+            7
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            2,
+            2
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "c5",
+          "c6",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4",
+              "c5",
+              "c6"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik A",
+        "lik C",
+        "lik B",
+        "svi likovi imaju jednaku površinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Paralelogram A ima 6, trokut B 8, a lik C 7 jediničnih kvadrata. Najveću površinu ima lik B.",
+      "savjet": "Kod kosih rubova spoji po dvije polovine kvadratića u jedan cijeli kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-078",
+      "tezina": "tesko",
+      "pitanje": "Odaberi lik koji ima veći opseg, a manju površinu od lika A.",
+      "slika": {
+        "opis": "Pet pravokutnika A, B, C, D i E u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            7
+          ],
+          "a2": [
+            4,
+            7
+          ],
+          "a3": [
+            4,
+            10
+          ],
+          "a4": [
+            1,
+            10
+          ],
+          "b1": [
+            6,
+            7
+          ],
+          "b2": [
+            10,
+            7
+          ],
+          "b3": [
+            10,
+            9
+          ],
+          "b4": [
+            6,
+            9
+          ],
+          "c1": [
+            1,
+            4
+          ],
+          "c2": [
+            7,
+            4
+          ],
+          "c3": [
+            7,
+            5
+          ],
+          "c4": [
+            1,
+            5
+          ],
+          "d1": [
+            1,
+            1
+          ],
+          "d2": [
+            6,
+            1
+          ],
+          "d3": [
+            6,
+            3
+          ],
+          "d4": [
+            1,
+            3
+          ],
+          "e1": [
+            8,
+            1
+          ],
+          "e2": [
+            10,
+            1
+          ],
+          "e3": [
+            10,
+            4
+          ],
+          "e4": [
+            8,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            2.5,
+            8.5
+          ],
+          "B": [
+            8,
+            8
+          ],
+          "C": [
+            3.5,
+            4.5
+          ],
+          "D": [
+            3.5,
+            2
+          ],
+          "E": [
+            9,
+            2.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "d1",
+          "d2",
+          "d3",
+          "d4",
+          "e1",
+          "e2",
+          "e3",
+          "e4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "d1",
+              "d2",
+              "d3",
+              "d4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "e1",
+              "e2",
+              "e3",
+              "e4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik C",
+        "lik B",
+        "lik D",
+        "lik E"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lik A ima površinu 9 i opseg 12. Lik C ima manju površinu (6) i veći opseg (14).",
+      "savjet": "Za svaki lik prebroji kvadratiće i obiđi rub, pa usporedi s likom A."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-079",
+      "tezina": "tesko",
+      "pitanje": "Opseg jednog lika veći je od opsega drugog lika. Odaberi tvrdnju koja je sigurno točna.",
+      "ponudeni": [
+        "Lik s većim opsegom ima i veću površinu.",
+        "Likovi imaju jednake površine.",
+        "Lik s većim opsegom ima manju površinu.",
+        "Samo iz opsega ne znamo koji lik ima veću površinu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik s većim opsegom može imati i veću i manju površinu, pa površine treba izmjeriti.",
+      "savjet": "Sjeti se dugog uskog pravokutnika i kvadrata koji imaju jednak opseg."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-080",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu lika u obliku strelice.",
+      "slika": {
+        "opis": "Lik u obliku strelice u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            2
+          ],
+          "v2": [
+            5,
+            2
+          ],
+          "v3": [
+            5,
+            1
+          ],
+          "v4": [
+            7,
+            3
+          ],
+          "v5": [
+            5,
+            5
+          ],
+          "v6": [
+            5,
+            4
+          ],
+          "v7": [
+            1,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "14 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "10 jediničnih kvadrata",
+        "16 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ravni dio strelice ima 8 kvadrata, a vrh 2 cijela kvadrata i 4 polovine, to jest 4 kvadrata. Ukupno je 12 jediničnih kvadrata.",
+      "savjet": "Podijeli strelicu na ravni dio i vrh, a polovine spoji u cijele kvadrate."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-081",
+      "tezina": "tesko",
+      "pitanje": "Odaberi lik koji ima jednaku površinu kao pravokutnik A.",
+      "slika": {
+        "opis": "Pet likova A, B, C, D i E u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            7
+          ],
+          "a2": [
+            3,
+            7
+          ],
+          "a3": [
+            3,
+            10
+          ],
+          "a4": [
+            1,
+            10
+          ],
+          "b1": [
+            5,
+            6
+          ],
+          "b2": [
+            9,
+            6
+          ],
+          "b3": [
+            5,
+            10
+          ],
+          "c1": [
+            1,
+            1
+          ],
+          "c2": [
+            4,
+            1
+          ],
+          "c3": [
+            6,
+            3
+          ],
+          "c4": [
+            3,
+            3
+          ],
+          "d1": [
+            8,
+            1
+          ],
+          "d2": [
+            10,
+            1
+          ],
+          "d3": [
+            10,
+            5
+          ],
+          "d4": [
+            9,
+            5
+          ],
+          "d5": [
+            9,
+            2
+          ],
+          "d6": [
+            8,
+            2
+          ],
+          "e1": [
+            1,
+            4
+          ],
+          "e2": [
+            6,
+            4
+          ],
+          "e3": [
+            6,
+            5
+          ],
+          "e4": [
+            1,
+            5
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            10
+          ],
+          "A": [
+            2,
+            8.5
+          ],
+          "B": [
+            6,
+            7
+          ],
+          "C": [
+            3.5,
+            2
+          ],
+          "D": [
+            9.5,
+            3
+          ],
+          "E": [
+            3.5,
+            4.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b1",
+          "b2",
+          "b3",
+          "c1",
+          "c2",
+          "c3",
+          "c4",
+          "d1",
+          "d2",
+          "d3",
+          "d4",
+          "d5",
+          "d6",
+          "e1",
+          "e2",
+          "e3",
+          "e4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3",
+              "a4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "c1",
+              "c2",
+              "c3",
+              "c4"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "d1",
+              "d2",
+              "d3",
+              "d4",
+              "d5",
+              "d6"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "e1",
+              "e2",
+              "e3",
+              "e4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "lik C",
+        "lik B",
+        "lik D",
+        "lik E"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravokutnik A ima 6 jediničnih kvadrata. Paralelogram C ima 4 cijela kvadrata i 4 polovine, to jest također 6.",
+      "savjet": "Kod likova s kosim rubovima spoji po dvije polovine kvadratića u jedan kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-082",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu lika kojemu su odrezana sva četiri kuta.",
+      "slika": {
+        "opis": "Kvadrat s odrezanim kutovima u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            1
+          ],
+          "v2": [
+            4,
+            1
+          ],
+          "v3": [
+            5,
+            2
+          ],
+          "v4": [
+            5,
+            4
+          ],
+          "v5": [
+            4,
+            5
+          ],
+          "v6": [
+            2,
+            5
+          ],
+          "v7": [
+            1,
+            4
+          ],
+          "v8": [
+            1,
+            2
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "v6",
+          "v7",
+          "v8",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5",
+              "v6",
+              "v7",
+              "v8"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 jediničnih kvadrata",
+        "16 jediničnih kvadrata",
+        "14 jediničnih kvadrata",
+        "10 jediničnih kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik ima 12 cijelih kvadrata i 4 polovine, a 4 polovine čine 2 kvadrata. Površina je 14 jediničnih kvadrata.",
+      "savjet": "U svakom kutu ostala je polovina kvadratića."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-083",
+      "tezina": "tesko",
+      "pitanje": "Lik A zauzima 12 jediničnih kvadrata, lik B 9 cijelih kvadrata i 4 polovine, a lik C 10 cijelih kvadrata i 2 polovine. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Lik B ima najveću površinu.",
+        "Likovi B i C imaju jednake površine.",
+        "Likovi A i C imaju jednake površine.",
+        "Lik C ima najveću površinu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik B ima 9 + 2 = 11, a lik C 10 + 1 = 11 jediničnih kvadrata. Likovi B i C imaju jednake površine.",
+      "savjet": "Za svaki lik pretvori polovine u cijele kvadrate pa usporedi."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-084",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu trokuta u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Pravokutni trokut s dugom vodoravnom stranicom u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            1,
+            1
+          ],
+          "v2": [
+            7,
+            1
+          ],
+          "v3": [
+            7,
+            3
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            8,
+            4
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 jediničnih kvadrata",
+        "7 jediničnih kvadrata",
+        "5 jediničnih kvadrata",
+        "6 jediničnih kvadrata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut je polovina pravokutnika od 2 reda po 6 kvadrata, to jest od 12 kvadrata. Površina trokuta je 6 jediničnih kvadrata.",
+      "savjet": "Zamisli pravokutnik koji dijagonala dijeli na dva jednaka trokuta."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-085",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu lika u obliku romba.",
+      "slika": {
+        "opis": "Romb s vrhovima na crtama mreže u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            3,
+            1
+          ],
+          "v2": [
+            5,
+            3
+          ],
+          "v3": [
+            3,
+            5
+          ],
+          "v4": [
+            1,
+            3
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            6,
+            6
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "12 jediničnih kvadrata",
+        "8 jediničnih kvadrata",
+        "4 jedinična kvadrata",
+        "16 jediničnih kvadrata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Romb ima 4 cijela kvadrata i 8 polovina, a 8 polovina čini 4 kvadrata. Površina je 8 jediničnih kvadrata.",
+      "savjet": "Posebno prebroji cijele kvadratiće i polovine, pa spoji polovine."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-086",
+      "tezina": "tesko",
+      "pitanje": "Odredi za koliko je površina kvadrata B veća od površine trokuta A.",
+      "slika": {
+        "opis": "Trokut A i kvadrat B u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "a1": [
+            1,
+            1
+          ],
+          "a2": [
+            5,
+            1
+          ],
+          "a3": [
+            1,
+            5
+          ],
+          "b1": [
+            7,
+            1
+          ],
+          "b2": [
+            10,
+            1
+          ],
+          "b3": [
+            10,
+            4
+          ],
+          "b4": [
+            7,
+            4
+          ],
+          "M1": [
+            0,
+            0
+          ],
+          "M2": [
+            10,
+            6
+          ],
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            8.5,
+            2.5
+          ]
+        },
+        "skrivenaImena": [
+          "a1",
+          "a2",
+          "a3",
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "a1",
+              "a2",
+              "a3"
+            ],
+            "ispuna": true
+          },
+          {
+            "vrhovi": [
+              "b1",
+              "b2",
+              "b3",
+              "b4"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "3 jedinična kvadrata",
+        "2 jedinična kvadrata",
+        "5 jediničnih kvadrata",
+        "1 jedinični kvadrat"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trokut A ima 6 cijelih kvadrata i 4 polovine, to jest 8. Kvadrat B ima 9, pa je razlika 1 jedinični kvadrat.",
+      "savjet": "Najprije odredi površinu trokuta spajanjem polovina u cijele kvadrate."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-087",
+      "tezina": "tesko",
+      "pitanje": "Ema je složila lik od 6 jednakih trokuta. Svaki trokut je polovina jediničnog kvadrata. Odredi površinu tog lika.",
+      "ponudeni": [
+        "3 jedinična kvadrata",
+        "6 jediničnih kvadrata",
+        "12 jediničnih kvadrata",
+        "2 jedinična kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvije polovine čine jedan jedinični kvadrat, pa 6 polovina čini 3 jedinična kvadrata.",
+      "savjet": "Razmisli koliko trokuta treba za jedan cijeli jedinični kvadrat."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-088",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik od 2 reda po 6 jediničnih kvadrata rastavljen je i složen u pravokutnik od 3 reda po 4 jedinična kvadrata. Odaberi točnu tvrdnju.",
+      "ponudeni": [
+        "Površina i opseg su ostali isti.",
+        "Površina se smanjila, a opseg je ostao isti.",
+        "Površina je ostala ista, a opseg se smanjio.",
+        "Površina je ostala ista, a opseg se povećao."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oba pravokutnika imaju 12 jediničnih kvadrata. Opseg prvoga je 16, a drugoga 14 jediničnih dužina, pa se opseg smanjio.",
+      "savjet": "Isti kvadratići su samo drukčije složeni; usporedi rubove oba pravokutnika."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-089",
+      "tezina": "tesko",
+      "pitanje": "Odredi površinu velike kućice u kvadratnoj mreži.",
+      "slika": {
+        "opis": "Velika kućica s krovom u kvadratnoj mreži",
+        "mreza": true,
+        "tocke": {
+          "v1": [
+            2,
+            1
+          ],
+          "v2": [
+            8,
+            1
+          ],
+          "v3": [
+            8,
+            5
+          ],
+          "v4": [
+            5,
+            8
+          ],
+          "v5": [
+            2,
+            5
+          ],
+          "M1": [
+            1,
+            0
+          ],
+          "M2": [
+            9,
+            9
+          ]
+        },
+        "skrivenaImena": [
+          "v1",
+          "v2",
+          "v3",
+          "v4",
+          "v5",
+          "M1",
+          "M2"
+        ],
+        "poligoni": [
+          {
+            "vrhovi": [
+              "v1",
+              "v2",
+              "v3",
+              "v4",
+              "v5"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "30 jediničnih kvadrata",
+        "36 jediničnih kvadrata",
+        "33 jedinična kvadrata",
+        "24 jedinična kvadrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zidovi imaju 24 kvadrata, a krov 6 cijelih kvadrata i 6 polovina, to jest 9 kvadrata. Ukupno je 33 jedinična kvadrata.",
+      "savjet": "Odvojeno prebroji zidove i krov, a polovine na krovu spoji u cijele kvadrate."
+    },
+    {
+      "id": "4-matematika-mjerenje-povrsine-kvadratnom-mrezom-090",
+      "tezina": "tesko",
+      "pitanje": "Pravokutnik od 4 reda po 5 jediničnih kvadrata podijeljen je na dva lika jednakih površina. Odredi površinu jednog lika.",
+      "ponudeni": [
+        "10 jediničnih kvadrata",
+        "20 jediničnih kvadrata",
+        "9 jediničnih kvadrata",
+        "5 jediničnih kvadrata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravokutnik ima 20 jediničnih kvadrata, a dva jednaka dijela imaju po 10 jediničnih kvadrata.",
+      "savjet": "Najprije odredi površinu cijelog pravokutnika."
+    }
+  ]
+}

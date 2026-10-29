@@ -76,6 +76,7 @@ export interface Crtez {
   kruznice?: KruznicaCrteza[]
   istaknuteTocke?: string[]   // crtaju se kao točkice
   skrivenaImena?: string[]    // točke čije se ime ne ispisuje
+  mreza?: boolean             // kvadratna mreža s jediničnim kvadratima ispod oznaka
 }
 
 // Za slike koje se ne mogu opisati crtežom (npr. kocka); datoteka je u public/slike/
