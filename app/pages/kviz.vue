@@ -110,6 +110,8 @@ function zavrsi() {
         @otvori="store.prikaziSavjet"
       />
 
+      <PrijaviGresku :pitanje="pitanje" class="self-start" />
+
       <div class="flex justify-between gap-3">
         <button type="button" class="gumb-sporedni flex-1 sm:flex-none" :disabled="store.trenutnoPitanje === 0" @click="store.natrag">
           <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 6l-6 6 6 6" /></svg>

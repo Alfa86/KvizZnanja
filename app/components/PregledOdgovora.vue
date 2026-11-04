@@ -45,5 +45,7 @@ const tocno = computed(() => props.odgovor === props.pitanje.tocan)
     <p v-if="koristenSavjet" class="mt-2 text-sm text-amber-900">
       <span aria-hidden="true">💡</span> Koristio se savjet
     </p>
+
+    <PrijaviGresku :pitanje="pitanje" class="mt-3" />
   </li>
 </template>
