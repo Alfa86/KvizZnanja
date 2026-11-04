@@ -13,3 +13,6 @@ dist
 
 # Prompt koji složi npm run prompt
 sadrzaj/zadnji-prompt.txt
+
+# Prijave grešaka u pitanjima s gumba „Prijavi grešku“ (samo dev)
+sadrzaj/ispravci.json
