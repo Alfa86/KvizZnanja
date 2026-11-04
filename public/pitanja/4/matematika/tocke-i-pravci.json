@@ -1,0 +1,4477 @@
+{
+  "lekcijaId": "tocke-i-pravci",
+  "pitanja": [
+    {
+      "id": "4-matematika-tocke-i-pravci-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko pravaca prolazi jednom točkom?",
+      "ponudeni": [
+        "točno jedan",
+        "točno dva",
+        "beskonačno mnogo",
+        "nijedan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kroz jednu točku možemo nacrtati pravce u svim smjerovima. Zato kroz nju prolazi beskonačno mnogo pravaca.",
+      "savjet": "Zamisli točku na papiru i ravnalo koje okrećeš oko nje."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-002",
+      "tezina": "lagano",
+      "pitanje": "Koliko pravaca prolazi dvjema različitim točkama A i B?",
+      "ponudeni": [
+        "dva",
+        "točno jedan",
+        "beskonačno mnogo",
+        "nijedan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kroz dvije različite točke prolazi točno jedan pravac. Kad ih spojiš ravnalom, uvijek dobiješ isti pravac.",
+      "savjet": "Zamisli da ravnalom spajaš točke A i B. Na koliko ih načina možeš spojiti?"
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove točka u kojoj se sijeku dva pravca?",
+      "ponudeni": [
+        "središte",
+        "početna točka",
+        "krajnja točka",
+        "sjecište"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka u kojoj se sijeku dva pravca zove se sjecište. Ta točka pripada objema pravcima.",
+      "savjet": "Ta točka leži na oba pravca. Prisjeti se njezina naziva iz 3. razreda."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-004",
+      "tezina": "lagano",
+      "pitanje": "Koliko zajedničkih točaka imaju dva pravca koji se sijeku?",
+      "ponudeni": [
+        "jednu",
+        "dvije",
+        "nijednu",
+        "beskonačno mnogo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dva pravca koji se sijeku imaju točno jednu zajedničku točku. To je njihovo sjecište.",
+      "savjet": "Nacrtaj dva pravca koji se križaju i pogledaj gdje se susreću."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-005",
+      "tezina": "lagano",
+      "pitanje": "Točka T leži na pravcu p. Odaberi rečenicu kojom to kažemo.",
+      "ponudeni": [
+        "Pravac p pripada točki T.",
+        "Točka T pripada pravcu p.",
+        "Točka T siječe pravac p.",
+        "Točka T je kraj pravca p."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za točku koja leži na pravcu kažemo da pripada tom pravcu. Zato kažemo: točka T pripada pravcu p.",
+      "savjet": "Razmisli što je dio čega: točka pravca ili pravac točke."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-006",
+      "tezina": "lagano",
+      "pitanje": "Točka K ne leži na pravcu m. Odaberi rečenicu kojom to kažemo.",
+      "ponudeni": [
+        "Točka K pripada pravcu m.",
+        "Pravac m ne pripada točki K.",
+        "Točka K ne pripada pravcu m.",
+        "Točka K i pravac m se sijeku."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ako točka ne leži na pravcu, kažemo da ne pripada tom pravcu. Zato kažemo: točka K ne pripada pravcu m.",
+      "savjet": "Prisjeti se kako kažemo kad točka leži na pravcu, pa to izreci za točku koja nije na njemu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-007",
+      "tezina": "lagano",
+      "pitanje": "Pravci p i q sijeku se u točki S. Kojim pravcima pripada točka S?",
+      "ponudeni": [
+        "i pravcu p i pravcu q",
+        "samo pravcu p",
+        "samo pravcu q",
+        "ni pravcu p ni pravcu q"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sjecište je zajednička točka dvaju pravaca. Zato točka S pripada i pravcu p i pravcu q.",
+      "savjet": "Prisjeti se što znači da se dva pravca sijeku u nekoj točki."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-008",
+      "tezina": "lagano",
+      "pitanje": "Koja istaknuta točka pripada pravcu p?",
+      "slika": {
+        "opis": "Pravac p i četiri istaknute točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            2,
+            6
+          ],
+          "B": [
+            5,
+            4
+          ],
+          "C": [
+            7,
+            2
+          ],
+          "D": [
+            3.5,
+            0.5
+          ],
+          "P1": [
+            0,
+            1
+          ],
+          "P2": [
+            10,
+            7
+          ],
+          "Z": [
+            6.5,
+            0.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka B leži na pravcu p, pa pripada pravcu p. Točke A, C i D su izvan pravca.",
+      "savjet": "Pogledaj koja točka leži točno na crti pravca p."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-009",
+      "tezina": "lagano",
+      "pitanje": "Koja istaknuta točka ne pripada pravcu p?",
+      "slika": {
+        "opis": "Pravac p i četiri istaknute točke E, F, G i H.",
+        "tocke": {
+          "E": [
+            3.93,
+            5.64
+          ],
+          "F": [
+            5,
+            5
+          ],
+          "G": [
+            6.5,
+            7
+          ],
+          "H": [
+            6.07,
+            4.36
+          ],
+          "P1": [
+            0,
+            8
+          ],
+          "P2": [
+            10,
+            2
+          ],
+          "Z": [
+            5,
+            8
+          ],
+          "Y": [
+            10,
+            8
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točke E, F i H leže na pravcu p. Točka G je izvan pravca, pa ne pripada pravcu p.",
+      "savjet": "Za svaku točku provjeri leži li na crti pravca p."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-010",
+      "tezina": "lagano",
+      "pitanje": "Koja istaknuta točka pripada dužini AB?",
+      "slika": {
+        "opis": "Dužina AB i istaknute točke C, D, E i F.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            7,
+            6
+          ],
+          "C": [
+            3.22,
+            4.11
+          ],
+          "D": [
+            9,
+            3.5
+          ],
+          "E": [
+            4,
+            7
+          ],
+          "F": [
+            6,
+            2.5
+          ],
+          "Z": [
+            1,
+            0.5
+          ],
+          "Y": [
+            1,
+            2.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "skrivenaImena": [
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka C leži na dužini AB, između točaka A i B. Ostale točke nisu na dužini.",
+      "savjet": "Pogledaj koja točka leži na crti između točaka A i B."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-011",
+      "tezina": "lagano",
+      "pitanje": "Koja istaknuta točka pripada polupravcu a?",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O i istaknute točke K, L, M i N.",
+        "tocke": {
+          "O": [
+            3,
+            3
+          ],
+          "K": [
+            1,
+            2
+          ],
+          "L": [
+            4.5,
+            7
+          ],
+          "M": [
+            7,
+            5
+          ],
+          "N": [
+            8,
+            2
+          ],
+          "A1": [
+            10,
+            6.5
+          ],
+          "Z": [
+            10,
+            2
+          ],
+          "Y": [
+            10,
+            2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "K",
+          "L",
+          "M",
+          "N"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka M leži na polupravcu a. Točka K je s druge strane početne točke O, gdje polupravca nema, pa mu ne pripada.",
+      "savjet": "Polupravac počinje u točki O i ide samo u jednom smjeru. Pogledaj koja je točka na njemu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-012",
+      "tezina": "lagano",
+      "pitanje": "Koja istaknuta točka pripada i pravcu p i pravcu q?",
+      "slika": {
+        "opis": "Pravci p i q se sijeku. Istaknute su točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            4,
+            4.4
+          ],
+          "B": [
+            5.76,
+            4.24
+          ],
+          "C": [
+            5,
+            8
+          ],
+          "D": [
+            5,
+            5
+          ],
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            8
+          ],
+          "Q1": [
+            1,
+            9
+          ],
+          "Q2": [
+            9,
+            1
+          ],
+          "Z": [
+            5,
+            0
+          ],
+          "Y": [
+            4,
+            0
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka D je sjecište pravaca p i q, pa pripada objema pravcima. Točka A je samo na pravcu p, a točka B samo na pravcu q.",
+      "savjet": "Potraži točku u kojoj se pravci p i q križaju."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-013",
+      "tezina": "lagano",
+      "pitanje": "Koliko sjecišta imaju pravci p i q na crtežu?",
+      "slika": {
+        "opis": "Dva pravca, p i q.",
+        "tocke": {
+          "P1": [
+            0,
+            3
+          ],
+          "P2": [
+            10,
+            6
+          ],
+          "Q1": [
+            2,
+            10
+          ],
+          "Q2": [
+            7,
+            0
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2"
+        ]
+      },
+      "ponudeni": [
+        "jedno",
+        "dva",
+        "nijedno",
+        "četiri"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravci p i q se sijeku u jednoj točki. Dva pravca koji se sijeku imaju točno jedno sjecište.",
+      "savjet": "Prati oba pravca i prebroji mjesta na kojima se križaju."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-014",
+      "tezina": "lagano",
+      "pitanje": "Koliko je pravaca na crtežu nacrtano kroz točku T?",
+      "slika": {
+        "opis": "Pravci p, q i r i istaknuta točka T.",
+        "tocke": {
+          "T": [
+            5,
+            5
+          ],
+          "P1": [
+            0,
+            4
+          ],
+          "P2": [
+            10,
+            6
+          ],
+          "Q1": [
+            2,
+            0.5
+          ],
+          "Q2": [
+            8,
+            9.5
+          ],
+          "R1": [
+            2.6,
+            10
+          ],
+          "R2": [
+            7.4,
+            0
+          ],
+          "Z": [
+            0,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "T"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "dva",
+        "tri",
+        "četiri",
+        "šest"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kroz točku T prolaze tri pravca: p, q i r. Kroz jednu točku može proći i mnogo više pravaca.",
+      "savjet": "Prati svaki pravac i provjeri prolazi li točkom T."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-015",
+      "tezina": "lagano",
+      "pitanje": "Kojem pravcu pripada točka T?",
+      "slika": {
+        "opis": "Pravci p i q se sijeku. Istaknuta je točka T.",
+        "tocke": {
+          "T": [
+            6.61,
+            3.36
+          ],
+          "P1": [
+            0,
+            6
+          ],
+          "P2": [
+            10,
+            2
+          ],
+          "Q1": [
+            2,
+            0
+          ],
+          "Q2": [
+            6,
+            10
+          ],
+          "Z": [
+            10,
+            10
+          ],
+          "Y": [
+            10,
+            10
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "T"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "samo pravcu q",
+        "i pravcu p i pravcu q",
+        "samo pravcu p",
+        "ni pravcu p ni pravcu q"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka T leži na pravcu p, a na pravcu q ne leži. Zato pripada samo pravcu p.",
+      "savjet": "Za svaki pravac posebno provjeri leži li točka T na njemu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-016",
+      "tezina": "lagano",
+      "pitanje": "Pripadaju li krajnje točke A i B dužini AB?",
+      "ponudeni": [
+        "Da, obje pripadaju dužini AB.",
+        "Ne, nijedna ne pripada dužini AB.",
+        "Dužini pripada samo točka A.",
+        "Dužini pripada samo točka B."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužinu AB čine krajnje točke A i B i sve točke između njih. Zato obje krajnje točke pripadaju dužini.",
+      "savjet": "Prisjeti se gdje dužina AB počinje i gdje završava."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-017",
+      "tezina": "lagano",
+      "pitanje": "Polupravac a počinje u točki O. Odaberi točnu rečenicu.",
+      "ponudeni": [
+        "Točka O ne pripada polupravcu a.",
+        "Točka O pripada polupravcu a.",
+        "Polupravac a pripada točki O.",
+        "Točka O je sjecište polupravca a."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Početna točka je dio polupravca. Zato točka O pripada polupravcu a.",
+      "savjet": "Razmisli je li točka u kojoj polupravac počinje dio tog polupravca."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-018",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu rečenicu za crtež.",
+      "slika": {
+        "opis": "Pravac p i istaknute točke S i T.",
+        "tocke": {
+          "S": [
+            4,
+            7
+          ],
+          "T": [
+            6,
+            4.4
+          ],
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            6
+          ],
+          "Z": [
+            2,
+            7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "S",
+          "T"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "Točka S pripada pravcu p.",
+        "Točka T ne pripada pravcu p.",
+        "Točka T pripada pravcu p.",
+        "Točke S i T pripadaju pravcu p."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka T leži na pravcu p, pa mu pripada. Točka S je izvan pravca p.",
+      "savjet": "Za obje točke provjeri leže li na crti pravca p."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-019",
+      "tezina": "lagano",
+      "pitanje": "Odaberi točnu rečenicu za crtež.",
+      "slika": {
+        "opis": "Dužina MN i istaknuta točka P.",
+        "tocke": {
+          "M": [
+            1,
+            2
+          ],
+          "N": [
+            8,
+            5
+          ],
+          "P": [
+            4,
+            6
+          ]
+        },
+        "duzine": [
+          {
+            "od": "M",
+            "do": "N"
+          }
+        ],
+        "istaknuteTocke": [
+          "M",
+          "N",
+          "P"
+        ]
+      },
+      "ponudeni": [
+        "Točka P pripada dužini MN.",
+        "Točka M ne pripada dužini MN.",
+        "Točka P je krajnja točka dužine MN.",
+        "Točka P ne pripada dužini MN."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka P ne leži na dužini MN, pa joj ne pripada. Krajnja točka M pripada dužini MN.",
+      "savjet": "Pogledaj leži li točka P na crti između točaka M i N."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-020",
+      "tezina": "lagano",
+      "pitanje": "Koja istaknuta točka ne pripada polupravcu b?",
+      "slika": {
+        "opis": "Polupravac b s početnom točkom O i istaknute točke A, B i C.",
+        "tocke": {
+          "O": [
+            1,
+            2
+          ],
+          "A": [
+            6,
+            2.5
+          ],
+          "B": [
+            4.62,
+            4.42
+          ],
+          "C": [
+            7,
+            6
+          ],
+          "B1": [
+            10,
+            8
+          ],
+          "Z": [
+            9.5,
+            2
+          ],
+          "Y": [
+            9.5,
+            2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "B1",
+            "oznaka": "b",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "A",
+          "B",
+          "C"
+        ],
+        "skrivenaImena": [
+          "B1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "O"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točke B i C leže na polupravcu b, a pripada mu i početna točka O. Točka A je izvan polupravca.",
+      "savjet": "Ne zaboravi da i početna točka pripada polupravcu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-021",
+      "tezina": "lagano",
+      "pitanje": "Pravci p i q imaju točno jednu zajedničku točku. Odaberi točnu rečenicu.",
+      "ponudeni": [
+        "Pravci p i q se sijeku.",
+        "Pravci p i q se ne sijeku.",
+        "Pravci p i q imaju dva sjecišta.",
+        "Pravac p pripada pravcu q."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dva pravca koji imaju jednu zajedničku točku sijeku se u toj točki. Ta točka je njihovo sjecište.",
+      "savjet": "Prisjeti se kako zovemo pravce koji se križaju u jednoj točki."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-022",
+      "tezina": "lagano",
+      "pitanje": "Pravac p prolazi točkama A i B. Koliko još drugih pravaca prolazi i točkom A i točkom B?",
+      "ponudeni": [
+        "jedan",
+        "dva",
+        "beskonačno mnogo",
+        "nijedan"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kroz dvije točke prolazi točno jedan pravac. To je pravac p, pa drugog takvog pravca nema.",
+      "savjet": "Prisjeti se koliko pravaca prolazi dvjema različitim točkama."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-023",
+      "tezina": "lagano",
+      "pitanje": "Kroz točku T nacrtan je pravac p. Koliko još drugih pravaca možeš nacrtati kroz točku T?",
+      "slika": {
+        "opis": "Pravac p prolazi istaknutom točkom T.",
+        "tocke": {
+          "T": [
+            5,
+            5
+          ],
+          "P1": [
+            0,
+            3
+          ],
+          "P2": [
+            10,
+            7
+          ],
+          "Z": [
+            1.5,
+            7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "T"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "nijedan",
+        "jedan",
+        "dva",
+        "beskonačno mnogo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kroz jednu točku prolazi beskonačno mnogo pravaca. Osim pravca p, kroz točku T možeš nacrtati još beskonačno mnogo pravaca.",
+      "savjet": "Zamisli da ravnalo okrećeš oko točke T u svim smjerovima."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-024",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih rečenica točna?",
+      "ponudeni": [
+        "Kroz jednu točku prolazi samo jedan pravac.",
+        "Kroz dvije različite točke prolazi točno jedan pravac.",
+        "Dva pravca koji se sijeku imaju dva sjecišta.",
+        "Početna točka ne pripada polupravcu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kroz dvije različite točke prolazi točno jedan pravac. Kroz jednu točku prolazi beskonačno mnogo pravaca.",
+      "savjet": "Za svaku rečenicu zamisli crtež i provjeri vrijedi li."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-025",
+      "tezina": "lagano",
+      "pitanje": "Koje dvije istaknute točke pripadaju pravcu p?",
+      "slika": {
+        "opis": "Pravac p i četiri istaknute točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            1.5,
+            2
+          ],
+          "B": [
+            4.43,
+            4.35
+          ],
+          "C": [
+            6,
+            6.5
+          ],
+          "D": [
+            5.35,
+            3.78
+          ],
+          "P1": [
+            0,
+            7
+          ],
+          "P2": [
+            10,
+            1
+          ],
+          "Z": [
+            6,
+            1
+          ],
+          "Y": [
+            0,
+            1
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "A i C",
+        "B i D",
+        "A i B",
+        "C i D"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na pravcu p leže točke B i D, pa one pripadaju pravcu p. Točke A i C su izvan pravca.",
+      "savjet": "Za svaku točku provjeri leži li na crti pravca p."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-026",
+      "tezina": "lagano",
+      "pitanje": "U kojoj točki pravac p siječe dužinu AB?",
+      "slika": {
+        "opis": "Dužina AB, pravac p i istaknute točke C, D, E i F.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            6
+          ],
+          "C": [
+            5.55,
+            2.89
+          ],
+          "D": [
+            6.66,
+            4.83
+          ],
+          "E": [
+            5,
+            4
+          ],
+          "F": [
+            2,
+            5.5
+          ],
+          "P1": [
+            2,
+            10
+          ],
+          "P2": [
+            7,
+            0
+          ],
+          "Z": [
+            9,
+            10
+          ],
+          "Y": [
+            9,
+            10
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka E leži i na pravcu p i na dužini AB, pa pravac p siječe dužinu AB u točki E.",
+      "savjet": "Potraži točku koja leži i na pravcu p i na dužini AB."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-027",
+      "tezina": "lagano",
+      "pitanje": "Točka A pripada pravcu p. Kojom još rečenicom to možemo reći?",
+      "ponudeni": [
+        "Pravac p ne prolazi točkom A.",
+        "Točka A leži izvan pravca p.",
+        "Pravac p završava u točki A.",
+        "Pravac p prolazi točkom A."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ako točka A pripada pravcu p, onda pravac p prolazi točkom A. Obje rečenice kažu isto.",
+      "savjet": "Zamisli točku A na pravcu p i opiši je drugim riječima."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-028",
+      "tezina": "lagano",
+      "pitanje": "Koja istaknuta točka pripada i pravcu p i polupravcu a?",
+      "slika": {
+        "opis": "Pravac p i polupravac a s početnom točkom O. Istaknute su točke K, L, M i O.",
+        "tocke": {
+          "K": [
+            5,
+            5
+          ],
+          "L": [
+            6.34,
+            4.47
+          ],
+          "M": [
+            5.83,
+            6.66
+          ],
+          "O": [
+            3,
+            1
+          ],
+          "P1": [
+            0,
+            7
+          ],
+          "P2": [
+            10,
+            3
+          ],
+          "A1": [
+            7.5,
+            10
+          ],
+          "Z": [
+            9.5,
+            5
+          ],
+          "Y": [
+            10,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "K",
+          "L",
+          "M",
+          "O"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "K",
+        "L",
+        "M",
+        "O"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka K leži i na pravcu p i na polupravcu a. Točka L je samo na pravcu p, a točke M i O samo na polupravcu a.",
+      "savjet": "Potraži točku u kojoj se pravac p i polupravac a križaju."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-029",
+      "tezina": "lagano",
+      "pitanje": "Koja istaknuta točka pripada i dužini AB i dužini CD?",
+      "slika": {
+        "opis": "Dužine AB i CD se sijeku. Istaknute su krajnje točke dužina te točke F i T.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            9,
+            7
+          ],
+          "C": [
+            3,
+            9
+          ],
+          "D": [
+            7,
+            1
+          ],
+          "F": [
+            8,
+            3
+          ],
+          "T": [
+            5,
+            5
+          ],
+          "Z": [
+            1,
+            4
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "F",
+          "T"
+        ],
+        "skrivenaImena": [
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "C",
+        "F",
+        "T"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka T leži na obje dužine, jer se u njoj dužine AB i CD sijeku. Točka A pripada samo dužini AB, a točka C samo dužini CD.",
+      "savjet": "Potraži točku u kojoj se dužine križaju."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-030",
+      "tezina": "lagano",
+      "pitanje": "Kojim pravcima pripada točka T?",
+      "slika": {
+        "opis": "Pravci p, q i r i istaknuta točka T.",
+        "tocke": {
+          "T": [
+            6,
+            4
+          ],
+          "P1": [
+            0,
+            1
+          ],
+          "P2": [
+            10,
+            6
+          ],
+          "Q1": [
+            1,
+            9
+          ],
+          "Q2": [
+            9,
+            1
+          ],
+          "R1": [
+            2,
+            0
+          ],
+          "R2": [
+            4,
+            10
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "T"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "pravcima p i r",
+        "pravcima p i q",
+        "pravcima q i r",
+        "samo pravcu r"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka T je sjecište pravaca p i q, pa pripada objema. Pravac r ne prolazi točkom T.",
+      "savjet": "Za svaki pravac posebno provjeri prolazi li točkom T."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-031",
+      "tezina": "srednje",
+      "pitanje": "Koja istaknuta točka pripada dužini AB?",
+      "slika": {
+        "opis": "Dužina AB i istaknute točke C, D, E i F.",
+        "tocke": {
+          "A": [
+            3,
+            3
+          ],
+          "B": [
+            7,
+            5
+          ],
+          "C": [
+            9,
+            6
+          ],
+          "D": [
+            5,
+            4
+          ],
+          "E": [
+            6,
+            7
+          ],
+          "F": [
+            1,
+            2
+          ],
+          "Z": [
+            1,
+            2.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "skrivenaImena": [
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka D leži između točaka A i B, pa pripada dužini AB. Točke C i F leže na produžetku dužine, a ne na njoj.",
+      "savjet": "Dužina AB završava u točkama A i B. Pazi na točke koje su iza tih krajeva."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-032",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu rečenicu za crtež.",
+      "slika": {
+        "opis": "Dužina AB i istaknute točke C i E.",
+        "tocke": {
+          "A": [
+            1,
+            6
+          ],
+          "B": [
+            6,
+            3.5
+          ],
+          "C": [
+            3,
+            5
+          ],
+          "E": [
+            9,
+            2
+          ],
+          "Z": [
+            0.5,
+            2
+          ],
+          "Y": [
+            1,
+            2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "skrivenaImena": [
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "Točka E pripada dužini AB.",
+        "Točka C ne pripada dužini AB.",
+        "Točka E ne pripada dužini AB.",
+        "Točka A ne pripada dužini AB."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka E leži iza krajnje točke B, pa ne pripada dužini AB. Točka C i krajnja točka A pripadaju dužini.",
+      "savjet": "Dužina ima dvije krajnje točke i ne nastavlja se dalje od njih."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-033",
+      "tezina": "srednje",
+      "pitanje": "Koja istaknuta točka ne pripada polupravcu a?",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O i istaknute točke K, L i M.",
+        "tocke": {
+          "O": [
+            3,
+            3
+          ],
+          "K": [
+            5.22,
+            4.11
+          ],
+          "L": [
+            7,
+            5
+          ],
+          "M": [
+            1,
+            2
+          ],
+          "A1": [
+            10,
+            6.5
+          ],
+          "Z": [
+            10,
+            1
+          ],
+          "Y": [
+            10,
+            2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "K",
+          "L",
+          "M"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "K",
+        "L",
+        "M",
+        "O"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka M je s druge strane početne točke O, a polupravac a ide samo u drugom smjeru. Zato M ne pripada polupravcu a.",
+      "savjet": "Polupravac se od početne točke nastavlja samo na jednu stranu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-034",
+      "tezina": "srednje",
+      "pitanje": "Koje istaknute točke pripadaju polupravcu a?",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O i istaknute točke K, L i M.",
+        "tocke": {
+          "O": [
+            6,
+            3
+          ],
+          "K": [
+            3,
+            6
+          ],
+          "L": [
+            8,
+            1
+          ],
+          "M": [
+            7,
+            6
+          ],
+          "A1": [
+            0,
+            9
+          ],
+          "Z": [
+            8,
+            9
+          ],
+          "Y": [
+            0,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "K",
+          "L",
+          "M"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "samo K",
+        "O i K",
+        "K i L",
+        "O, K i L"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polupravcu a pripadaju početna točka O i točka K. Točka L je s druge strane točke O, a točka M je izvan polupravca.",
+      "savjet": "Sjeti se da i početna točka pripada polupravcu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-035",
+      "tezina": "srednje",
+      "pitanje": "Koliko istaknutih točaka pripada pravcu p?",
+      "slika": {
+        "opis": "Pravac p i pet istaknutih točaka A, B, C, D i E.",
+        "tocke": {
+          "A": [
+            1,
+            6
+          ],
+          "B": [
+            3.67,
+            3.94
+          ],
+          "C": [
+            6,
+            2.5
+          ],
+          "D": [
+            5,
+            5
+          ],
+          "E": [
+            5.94,
+            5.75
+          ],
+          "P1": [
+            0,
+            1
+          ],
+          "P2": [
+            10,
+            9
+          ],
+          "Z": [
+            0,
+            9
+          ],
+          "Y": [
+            0,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na pravcu p leže točke B, D i E, dakle tri točke. Točke A i C su izvan pravca.",
+      "savjet": "Za svaku točku posebno provjeri leži li na pravcu p, pa prebroji."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-036",
+      "tezina": "srednje",
+      "pitanje": "Koliko sjecišta imaju pravci p, q i r na crtežu?",
+      "slika": {
+        "opis": "Tri pravca: p, q i r.",
+        "tocke": {
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            4
+          ],
+          "Q1": [
+            1,
+            10
+          ],
+          "Q2": [
+            7,
+            0
+          ],
+          "R1": [
+            2,
+            0
+          ],
+          "R2": [
+            9,
+            10
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka dva pravca sijeku se u drugoj točki: p i q, p i r te q i r. Zato na crtežu ima tri sjecišta.",
+      "savjet": "Uzmi redom svaki par pravaca i potraži gdje se sijeku."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-037",
+      "tezina": "srednje",
+      "pitanje": "Koliko sjecišta imaju pravci p, q i r na ovom crtežu?",
+      "slika": {
+        "opis": "Tri pravca: p, q i r.",
+        "tocke": {
+          "P1": [
+            0,
+            4
+          ],
+          "P2": [
+            10,
+            9
+          ],
+          "Q1": [
+            1,
+            9
+          ],
+          "Q2": [
+            10,
+            0
+          ],
+          "R1": [
+            3,
+            0
+          ],
+          "R2": [
+            4.5,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sva tri pravca prolaze istom točkom. Zato imaju samo jedno sjecište.",
+      "savjet": "Pogledaj gdje se križaju pravci i jesu li ta mjesta različita."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-038",
+      "tezina": "srednje",
+      "pitanje": "Koja istaknuta točka pripada pravcu q, a ne pripada pravcu p?",
+      "slika": {
+        "opis": "Pravci p i q se sijeku. Istaknute su točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            5.54,
+            3.23
+          ],
+          "B": [
+            1,
+            8.5
+          ],
+          "C": [
+            4,
+            4
+          ],
+          "D": [
+            4.66,
+            5.32
+          ],
+          "P1": [
+            0,
+            6
+          ],
+          "P2": [
+            10,
+            1
+          ],
+          "Q1": [
+            2.5,
+            1
+          ],
+          "Q2": [
+            7,
+            10
+          ],
+          "Z": [
+            10,
+            1
+          ],
+          "Y": [
+            9,
+            4.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka D leži samo na pravcu q. Točka C je sjecište pa pripada i pravcu p, a točka A leži na pravcu p.",
+      "savjet": "Traži točku koja je na pravcu q, ali nije u sjecištu s pravcem p."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-039",
+      "tezina": "srednje",
+      "pitanje": "Čemu pripada točka T?",
+      "slika": {
+        "opis": "Pravac p, dužina AB i istaknuta točka T.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            4,
+            4
+          ],
+          "T": [
+            7,
+            6
+          ],
+          "P1": [
+            5,
+            10
+          ],
+          "P2": [
+            9.5,
+            1
+          ],
+          "Z": [
+            1,
+            0
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "T"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "samo pravcu p",
+        "samo dužini AB",
+        "i pravcu p i dužini AB",
+        "ni pravcu p ni dužini AB"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka T leži na pravcu p. Ona je na produžetku dužine AB, iza točke B, pa dužini AB ne pripada.",
+      "savjet": "Dužina AB završava u točki B. Provjeri leži li T između A i B."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-040",
+      "tezina": "srednje",
+      "pitanje": "Točka T pripada dužini AB. Pripada li točka T i pravcu koji prolazi točkama A i B?",
+      "ponudeni": [
+        "Ne, ne pripada tom pravcu.",
+        "Pripada samo ako je T u sredini dužine.",
+        "Pripada samo ako se T poklapa s točkom A.",
+        "Da, pripada i tom pravcu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina AB je dio pravca koji prolazi točkama A i B. Zato svaka točka dužine AB pripada i tom pravcu.",
+      "savjet": "Zamisli da dužinu AB produžiš na obje strane. Što dobiješ?"
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-041",
+      "tezina": "srednje",
+      "pitanje": "Točka T leži na pravcu koji prolazi točkama A i B, ali iza točke B. Pripada li točka T dužini AB?",
+      "ponudeni": [
+        "Da, jer leži na istom pravcu.",
+        "Da, jer je blizu točke B.",
+        "Ne, jer ne pripada ni tom pravcu.",
+        "Ne, jer je izvan dijela između A i B."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužini AB pripadaju samo točke A i B i točke između njih. Točka T je iza točke B, pa ne pripada dužini AB.",
+      "savjet": "Nacrtaj točke A i B, pa označi gdje bi bila točka T."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-042",
+      "tezina": "srednje",
+      "pitanje": "Ana je kroz točke A i B nacrtala pravac p, a Ivo kroz iste točke pravac q. Što vrijedi za pravce p i q?",
+      "ponudeni": [
+        "Sijeku se samo u točki A.",
+        "Nemaju zajedničkih točaka.",
+        "To je jedan te isti pravac.",
+        "Imaju točno dva sjecišta."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kroz dvije točke prolazi točno jedan pravac. Zato su p i q jedan te isti pravac.",
+      "savjet": "Prisjeti se koliko pravaca prolazi dvjema različitim točkama."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-043",
+      "tezina": "srednje",
+      "pitanje": "U kojoj točki pravac p siječe polupravac a?",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O, pravac p i istaknute točke C, D i E.",
+        "tocke": {
+          "O": [
+            1,
+            2
+          ],
+          "C": [
+            5.04,
+            4.69
+          ],
+          "D": [
+            7,
+            6
+          ],
+          "E": [
+            8.05,
+            3.89
+          ],
+          "A1": [
+            10,
+            8
+          ],
+          "P1": [
+            5,
+            10
+          ],
+          "P2": [
+            9.5,
+            1
+          ],
+          "Z": [
+            10,
+            1
+          ],
+          "Y": [
+            3,
+            1
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "C",
+          "D",
+          "E"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "P1",
+          "P2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "C",
+        "D",
+        "E",
+        "O"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka D leži i na pravcu p i na polupravcu a, pa se oni sijeku u točki D.",
+      "savjet": "Potraži točku koja pripada i pravcu p i polupravcu a."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-044",
+      "tezina": "srednje",
+      "pitanje": "Točke A, B i C leže na pravcu p. Koliko pravaca prolazi točkama A i C?",
+      "ponudeni": [
+        "jedan",
+        "dva",
+        "tri",
+        "beskonačno mnogo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kroz dvije različite točke prolazi točno jedan pravac. Točkama A i C prolazi samo pravac p.",
+      "savjet": "Prisjeti se koliko pravaca prolazi dvjema različitim točkama."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-045",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu rečenicu za crtež.",
+      "slika": {
+        "opis": "Pravac p i istaknute točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            4.01,
+            5.99
+          ],
+          "B": [
+            5,
+            5.5
+          ],
+          "C": [
+            5.99,
+            5.01
+          ],
+          "D": [
+            6,
+            8.5
+          ],
+          "P1": [
+            0,
+            8
+          ],
+          "P2": [
+            10,
+            3
+          ],
+          "Z": [
+            4,
+            8.5
+          ],
+          "Y": [
+            10,
+            8.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "Točke A, B i D pripadaju pravcu p.",
+        "Točka C ne pripada pravcu p.",
+        "Točka D pripada pravcu p.",
+        "Točke A, B i C pripadaju pravcu p."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točke A, B i C leže na pravcu p, a točka D je izvan njega.",
+      "savjet": "Za svaku točku provjeri leži li na pravcu p, pa usporedi s rečenicama."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-046",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu rečenicu za crtež.",
+      "slika": {
+        "opis": "Pravci p i q se sijeku. Istaknute su točke M i N.",
+        "tocke": {
+          "M": [
+            5,
+            5
+          ],
+          "N": [
+            3.43,
+            4.37
+          ],
+          "P1": [
+            0,
+            3
+          ],
+          "P2": [
+            10,
+            7
+          ],
+          "Q1": [
+            2.5,
+            10
+          ],
+          "Q2": [
+            7.5,
+            0
+          ],
+          "Z": [
+            4.5,
+            0
+          ],
+          "Y": [
+            3,
+            0
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "M",
+          "N"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "Točka M pripada samo pravcu p.",
+        "Točka N pripada pravcima p i q.",
+        "Točka M je sjecište pravaca p i q.",
+        "Točka N je sjecište pravaca p i q."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka M leži i na pravcu p i na pravcu q, pa je ona njihovo sjecište. Točka N leži samo na pravcu p.",
+      "savjet": "Sjecište leži na oba pravca. Provjeri to za točke M i N."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-047",
+      "tezina": "srednje",
+      "pitanje": "Koja istaknuta točka pripada i pravcu p i polupravcu a?",
+      "slika": {
+        "opis": "Pravac p i polupravac a s početnom točkom O. Istaknute su točke A, B, C i O.",
+        "tocke": {
+          "O": [
+            3,
+            4
+          ],
+          "A": [
+            7,
+            2
+          ],
+          "B": [
+            6,
+            7
+          ],
+          "C": [
+            8,
+            5
+          ],
+          "P1": [
+            0,
+            1
+          ],
+          "P2": [
+            9,
+            10
+          ],
+          "A1": [
+            10,
+            0.5
+          ],
+          "Z": [
+            9.5,
+            0.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "A",
+          "B",
+          "C"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "A1",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "O"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Polupravac a počinje u točki O, a točka O leži i na pravcu p. Zato O pripada i pravcu p i polupravcu a.",
+      "savjet": "Sjeti se da i početna točka pripada polupravcu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-048",
+      "tezina": "srednje",
+      "pitanje": "U kojoj se točki sijeku pravci q i r?",
+      "slika": {
+        "opis": "Pravci p, q i r. Istaknute su točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            5,
+            8
+          ],
+          "C": [
+            8,
+            4
+          ],
+          "D": [
+            1.5,
+            6
+          ],
+          "P1": [
+            0.29,
+            1.43
+          ],
+          "P2": [
+            9.71,
+            4.57
+          ],
+          "Q1": [
+            1,
+            0
+          ],
+          "Q2": [
+            6,
+            10
+          ],
+          "R1": [
+            3.5,
+            10
+          ],
+          "R2": [
+            9.5,
+            2
+          ],
+          "Z": [
+            9.5,
+            4
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka B leži i na pravcu q i na pravcu r, pa je ona njihovo sjecište.",
+      "savjet": "Prati pravac q i pravac r i potraži točku u kojoj se križaju."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-049",
+      "tezina": "srednje",
+      "pitanje": "Koliko istaknutih točaka pripada dužini AB?",
+      "slika": {
+        "opis": "Dužina AB i istaknute točke C, D i E.",
+        "tocke": {
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            7,
+            7
+          ],
+          "C": [
+            4,
+            4
+          ],
+          "D": [
+            9,
+            9
+          ],
+          "E": [
+            6,
+            3
+          ],
+          "Z": [
+            2,
+            0.5
+          ],
+          "Y": [
+            2,
+            2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "skrivenaImena": [
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužini AB pripadaju krajnje točke A i B te točka C između njih, dakle tri točke. Točka D je iza točke B, a točka E izvan dužine.",
+      "savjet": "Ne zaboravi da i krajnje točke pripadaju dužini."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-050",
+      "tezina": "srednje",
+      "pitanje": "Koliko istaknutih točaka pripada polupravcu a?",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O i istaknute točke K, L, M i N.",
+        "tocke": {
+          "O": [
+            4,
+            5
+          ],
+          "K": [
+            6.89,
+            6.45
+          ],
+          "L": [
+            8,
+            7
+          ],
+          "M": [
+            2.89,
+            4.45
+          ],
+          "N": [
+            6,
+            2.5
+          ],
+          "A1": [
+            10,
+            8
+          ],
+          "Z": [
+            10,
+            2.5
+          ],
+          "Y": [
+            10,
+            2.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "K",
+          "L",
+          "M",
+          "N"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polupravcu a pripadaju početna točka O te točke K i L, dakle tri točke. Točka M je s druge strane točke O, a N je izvan polupravca.",
+      "savjet": "Polupravac počinje u točki O i ide samo u jednom smjeru."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-051",
+      "tezina": "srednje",
+      "pitanje": "Pravci p i q različiti su i oba prolaze točkom A. Koja točka je sjecište tih pravaca?",
+      "ponudeni": [
+        "točka A",
+        "nijedna točka",
+        "dvije točke",
+        "sve točke pravca p"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka A pripada objema pravcima, a dva različita pravca imaju samo jednu zajedničku točku. Zato je A njihovo sjecište.",
+      "savjet": "Sjecište je točka koja pripada objema pravcima."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-052",
+      "tezina": "srednje",
+      "pitanje": "Koje dužine siječe pravac p?",
+      "slika": {
+        "opis": "Pravac p i dužine AB i CD.",
+        "tocke": {
+          "A": [
+            2,
+            6
+          ],
+          "B": [
+            6,
+            2
+          ],
+          "C": [
+            7.5,
+            1
+          ],
+          "D": [
+            9.5,
+            4.5
+          ],
+          "P1": [
+            0,
+            1
+          ],
+          "P2": [
+            10,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2"
+        ]
+      },
+      "ponudeni": [
+        "samo dužinu AB",
+        "samo dužinu CD",
+        "i dužinu AB i dužinu CD",
+        "nijednu od tih dužina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravac p prolazi kroz dužinu AB i siječe je. Dužina CD cijela leži s jedne strane pravca p, pa je pravac ne siječe.",
+      "savjet": "Za svaku dužinu provjeri prolazi li pravac p između njezinih krajnjih točaka."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-053",
+      "tezina": "srednje",
+      "pitanje": "Dvije ravne ulice križaju se na raskrižju. Ako ulice zamisliš kao pravce, čemu odgovara raskrižje?",
+      "ponudeni": [
+        "sjecištu pravaca",
+        "početnoj točki polupravca",
+        "krajnjoj točki dužine",
+        "dužini između pravaca"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Raskrižje pripada objema ulicama, kao što sjecište pripada objema pravcima.",
+      "savjet": "Razmisli kojoj ulici pripada raskrižje."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-054",
+      "tezina": "srednje",
+      "pitanje": "S koliko se drugih pravaca na crtežu siječe pravac r?",
+      "slika": {
+        "opis": "Tri pravca: p, q i r.",
+        "tocke": {
+          "P1": [
+            0,
+            7
+          ],
+          "P2": [
+            10,
+            9
+          ],
+          "Q1": [
+            0,
+            1
+          ],
+          "Q2": [
+            9,
+            10
+          ],
+          "R1": [
+            2,
+            10
+          ],
+          "R2": [
+            8,
+            0
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravac r siječe pravac p i pravac q, svaki u jednoj točki. Dakle, siječe se s dva pravca.",
+      "savjet": "Prati pravac r i prebroji mjesta na kojima ga križa neki drugi pravac."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-055",
+      "tezina": "srednje",
+      "pitanje": "Točke A, B, C i D leže na pravcu p. Kojoj dužini ne pripada točka C?",
+      "slika": {
+        "opis": "Pravac p i na njemu istaknute točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            3.01,
+            3.51
+          ],
+          "B": [
+            4,
+            4
+          ],
+          "C": [
+            5.11,
+            4.55
+          ],
+          "D": [
+            6.32,
+            5.16
+          ],
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            7
+          ],
+          "Z": [
+            0,
+            7
+          ],
+          "Y": [
+            0,
+            8.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "dužini AD",
+        "dužini BD",
+        "dužini AC",
+        "dužini AB"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka C nije između točaka A i B, pa ne pripada dužini AB. Dužinama AD i BD pripada jer je između njihovih krajeva, a dužini AC jer je njezina krajnja točka.",
+      "savjet": "Za svaku dužinu provjeri je li točka C između krajnjih točaka ili je jedna od njih."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-056",
+      "tezina": "srednje",
+      "pitanje": "Koliko istaknutih točaka pripada pravcu q?",
+      "slika": {
+        "opis": "Pravci p i q se sijeku. Istaknute su točke A, B, C, D i E.",
+        "tocke": {
+          "A": [
+            3.32,
+            3.32
+          ],
+          "B": [
+            3.69,
+            5.96
+          ],
+          "C": [
+            5,
+            4
+          ],
+          "D": [
+            5.58,
+            3.12
+          ],
+          "E": [
+            8,
+            8
+          ],
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            6
+          ],
+          "Q1": [
+            1,
+            10
+          ],
+          "Q2": [
+            7,
+            1
+          ],
+          "Z": [
+            8,
+            10
+          ],
+          "Y": [
+            10,
+            10
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravcu q pripadaju točke B, C i D, dakle tri točke. Točka C je sjecište pa pripada i pravcu q.",
+      "savjet": "Prati pravac q i prebroji točke na njemu. Ne preskoči sjecište."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-057",
+      "tezina": "srednje",
+      "pitanje": "Odaberi točnu rečenicu za crtež.",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O i istaknute točke A i C.",
+        "tocke": {
+          "O": [
+            5,
+            3
+          ],
+          "A": [
+            3,
+            6
+          ],
+          "C": [
+            7,
+            0
+          ],
+          "A1": [
+            1,
+            9
+          ],
+          "Z": [
+            0.5,
+            9
+          ],
+          "Y": [
+            1,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "A",
+          "C"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "Točka C pripada polupravcu a.",
+        "Točka O ne pripada polupravcu a.",
+        "Točka C ne pripada polupravcu a.",
+        "Točka A ne pripada polupravcu a."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka C je s druge strane početne točke O, gdje polupravca a nema. Zato C ne pripada polupravcu a.",
+      "savjet": "Polupravac počinje u točki O i ide samo na jednu stranu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-058",
+      "tezina": "srednje",
+      "pitanje": "Kojim pravcima pripada točka A?",
+      "slika": {
+        "opis": "Pravci p, q i r i istaknute točke A i B.",
+        "tocke": {
+          "A": [
+            6,
+            5
+          ],
+          "B": [
+            4.01,
+            4.01
+          ],
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            7
+          ],
+          "Q1": [
+            2,
+            10
+          ],
+          "Q2": [
+            10,
+            0
+          ],
+          "R1": [
+            4,
+            0
+          ],
+          "R2": [
+            7.6,
+            9
+          ],
+          "Z": [
+            0,
+            8
+          ],
+          "Y": [
+            0,
+            10
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "samo pravcima p i q",
+        "pravcima p, q i r",
+        "samo pravcu r",
+        "samo pravcima p i r"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sva tri pravca prolaze točkom A, pa točka A pripada pravcima p, q i r.",
+      "savjet": "Za svaki pravac posebno provjeri prolazi li točkom A."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-059",
+      "tezina": "srednje",
+      "pitanje": "Točka T pripada polupravcu a. Pripada li točka T i pravcu na kojem leži polupravac a?",
+      "ponudeni": [
+        "Ne, pripada samo polupravcu a.",
+        "Pripada samo ako je T početna točka.",
+        "Ne, jer je pravac duži od polupravca.",
+        "Da, pripada i tom pravcu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Polupravac a je dio pravca na kojem leži. Zato svaka točka polupravca pripada i tom pravcu.",
+      "savjet": "Zamisli da polupravac produžiš preko početne točke. Što dobiješ?"
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-060",
+      "tezina": "srednje",
+      "pitanje": "Luka je kroz točku T nacrtao tri različita pravca. Koliko sjecišta imaju ta tri pravca?",
+      "ponudeni": [
+        "jedno",
+        "dva",
+        "tri",
+        "šest"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svi pravci prolaze točkom T, pa se svaka dva sijeku baš u njoj. Zato imaju samo jedno sjecište, točku T.",
+      "savjet": "Razmisli u kojoj se točki sijeku bilo koja dva od tih pravaca."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-061",
+      "tezina": "tesko",
+      "pitanje": "Koliko sjecišta imaju pravci na crtežu?",
+      "slika": {
+        "opis": "Četiri pravca: p, q, r i s.",
+        "tocke": {
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            5
+          ],
+          "Q1": [
+            0,
+            7
+          ],
+          "Q2": [
+            10,
+            1
+          ],
+          "R1": [
+            1,
+            0
+          ],
+          "R2": [
+            5,
+            10
+          ],
+          "S1": [
+            9,
+            0
+          ],
+          "S2": [
+            4,
+            10
+          ],
+          "Z": [
+            4,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka dva od četiri pravca sijeku se u drugoj točki. Parova pravaca ima šest, pa ima i šest sjecišta.",
+      "savjet": "Uzmi redom svaki par pravaca (p i q, p i r…) i potraži njihovo sjecište."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-062",
+      "tezina": "tesko",
+      "pitanje": "Koliko sjecišta imaju pravci na ovom crtežu?",
+      "slika": {
+        "opis": "Četiri pravca: p, q, r i s.",
+        "tocke": {
+          "P1": [
+            0,
+            3
+          ],
+          "P2": [
+            10,
+            8
+          ],
+          "Q1": [
+            0,
+            9
+          ],
+          "Q2": [
+            10,
+            4
+          ],
+          "R1": [
+            4.5,
+            0
+          ],
+          "R2": [
+            7,
+            10
+          ],
+          "S1": [
+            0,
+            0.5
+          ],
+          "S2": [
+            7.76,
+            9.81
+          ],
+          "Z": [
+            5,
+            8.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravci p, q i r prolaze istom točkom, to je jedno sjecište. Pravac s siječe svaki od njih u drugoj točki, pa ukupno ima četiri sjecišta.",
+      "savjet": "Pazi na mjesta gdje se križa više od dva pravca. Takvo mjesto je jedno sjecište."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-063",
+      "tezina": "tesko",
+      "pitanje": "Koliko sjecišta s drugim pravcima leži na pravcu p?",
+      "slika": {
+        "opis": "Četiri pravca: p, q, r i s.",
+        "tocke": {
+          "P1": [
+            0,
+            4
+          ],
+          "P2": [
+            10,
+            6
+          ],
+          "Q1": [
+            0,
+            7
+          ],
+          "Q2": [
+            10,
+            2
+          ],
+          "R1": [
+            1,
+            0
+          ],
+          "R2": [
+            5,
+            10
+          ],
+          "S1": [
+            9,
+            0
+          ],
+          "S2": [
+            3,
+            10
+          ],
+          "Z": [
+            3,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravac p siječe pravce q, r i s, svaki u drugoj točki. Zato na pravcu p leže tri sjecišta.",
+      "savjet": "Prati samo pravac p i prebroji mjesta na kojima ga križaju drugi pravci."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-064",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B i C ne leže na istom pravcu. Koliko različitih pravaca prolazi kroz po dvije od tih točaka?",
+      "ponudeni": [
+        "jedan",
+        "dva",
+        "tri",
+        "šest"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Parovi točaka su A i B, A i C te B i C. Kroz svaki par prolazi jedan pravac, a ti su pravci različiti, pa ih ima tri.",
+      "savjet": "Nacrtaj točke A, B i C kao vrhove trokuta i spoji svaki par."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-065",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B i C leže na istom pravcu. Koliko različitih pravaca prolazi kroz po dvije od tih točaka?",
+      "ponudeni": [
+        "jedan",
+        "dva",
+        "tri",
+        "šest"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve tri točke leže na istom pravcu, pa kroz svaki par prolazi baš taj pravac. Zato postoji samo jedan takav pravac.",
+      "savjet": "Nacrtaj tri točke na jednom pravcu i spoji svaki par ravnalom."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-066",
+      "tezina": "tesko",
+      "pitanje": "Nikoje tri istaknute točke ne leže na istom pravcu. Koliko različitih pravaca prolazi kroz po dvije istaknute točke?",
+      "slika": {
+        "opis": "Četiri istaknute točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            8,
+            1
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            3,
+            8
+          ]
+        },
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Parovi točaka su AB, AC, AD, BC, BD i CD. Kroz svaki par prolazi drugi pravac, pa ih ima šest.",
+      "savjet": "Ispiši sve parove točaka, pazeći da nijedan ne ponoviš."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-067",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B i C leže na istom pravcu, a točka D ne leži na njemu. Koliko različitih pravaca prolazi kroz po dvije od tih točaka?",
+      "slika": {
+        "opis": "Istaknute točke A, B i C leže na istom pravcu, a točka D je izvan njega.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            4,
+            4
+          ],
+          "C": [
+            7,
+            6
+          ],
+          "D": [
+            6,
+            1
+          ]
+        },
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točke A, B i C daju samo jedan pravac. Točka D s točkama A, B i C daje još tri pravca, pa ih je ukupno četiri.",
+      "savjet": "Parove na istom pravcu broji kao jedan pravac, a zatim spoji D sa svakom od ostalih točaka."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-068",
+      "tezina": "tesko",
+      "pitanje": "Svaka dva od pravaca p, q i r sijeku se, ali ne prolaze sva tri istom točkom. Koliko sjecišta imaju ti pravci?",
+      "ponudeni": [
+        "jedno",
+        "dva",
+        "tri",
+        "šest"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Parovi pravaca su p i q, p i r te q i r. Svaki par ima svoje sjecište, a sva su različita, pa su to tri sjecišta.",
+      "savjet": "Nacrtaj pravce p, q i r tako da se ne sijeku u istoj točki, pa prebroji sjecišta."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-069",
+      "tezina": "tesko",
+      "pitanje": "Pravci p i q sijeku se u točki S. Točka T pripada pravcu p i različita je od S. Pripada li T pravcu q?",
+      "ponudeni": [
+        "Da, jer se pravci sijeku.",
+        "Da, jer T leži na pravcu p.",
+        "Ne, jer T ne pripada ni pravcu p.",
+        "Ne, jer p i q imaju samo jednu zajedničku točku."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravci p i q imaju samo jednu zajedničku točku, a to je S. Točka T je druga točka pravca p, pa ne pripada pravcu q.",
+      "savjet": "Prisjeti se koliko zajedničkih točaka imaju dva pravca koji se sijeku."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-070",
+      "tezina": "tesko",
+      "pitanje": "Koja istaknuta točka pripada polupravcu a, ali ne pripada dužini OK?",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O i istaknute točke K, L i M.",
+        "tocke": {
+          "O": [
+            1,
+            3
+          ],
+          "K": [
+            4.89,
+            4.95
+          ],
+          "L": [
+            7,
+            6
+          ],
+          "M": [
+            6,
+            2.5
+          ],
+          "A1": [
+            10,
+            7.5
+          ],
+          "Z": [
+            10,
+            2.5
+          ],
+          "Y": [
+            8,
+            2.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "K",
+          "L",
+          "M"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "O",
+        "K",
+        "L",
+        "M"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužina OK završava u točki K. Točka L leži na polupravcu a iza točke K, pa pripada polupravcu, ali ne i dužini OK.",
+      "savjet": "Zamisli dužinu OK na polupravcu a i pogledaj koja je točka polupravca izvan nje."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-071",
+      "tezina": "tesko",
+      "pitanje": "Koliko zajedničkih točaka imaju pravac p i dužina AB?",
+      "slika": {
+        "opis": "Pravac p i dužina AB.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            5,
+            3
+          ],
+          "P1": [
+            0,
+            8
+          ],
+          "P2": [
+            10,
+            4
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2"
+        ]
+      },
+      "ponudeni": [
+        "nijednu",
+        "jednu",
+        "dvije",
+        "beskonačno mnogo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužina AB završava u točki B i ne dolazi do pravca p. Zato nemaju nijednu zajedničku točku, iako bi se produžena dužina sjekla s pravcem.",
+      "savjet": "Pravac se nastavlja bez kraja, a dužina završava u svojim krajnjim točkama."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-072",
+      "tezina": "tesko",
+      "pitanje": "Koliko zajedničkih točaka imaju pravac p i polupravac a?",
+      "slika": {
+        "opis": "Pravac p i polupravac a s početnom točkom O.",
+        "tocke": {
+          "O": [
+            4,
+            6
+          ],
+          "P1": [
+            0,
+            3
+          ],
+          "P2": [
+            10,
+            5
+          ],
+          "A1": [
+            8,
+            10
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "A1"
+        ]
+      },
+      "ponudeni": [
+        "jednu",
+        "dvije",
+        "beskonačno mnogo",
+        "nijednu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Polupravac a od točke O ide prema gore, dalje od pravca p. Na drugu stranu točke O ne nastavlja se, pa s pravcem p nema zajedničkih točaka.",
+      "savjet": "Pogledaj u kojem se smjeru polupravac a nastavlja od početne točke O."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-073",
+      "tezina": "tesko",
+      "pitanje": "Pravac p i polupravac a nacrtani su samo djelomično. Koliko zajedničkih točaka imaju?",
+      "slika": {
+        "opis": "Pravac p i polupravac a s početnom točkom O. Polupravac je nacrtan kraći i ne dolazi do pravca p.",
+        "tocke": {
+          "O": [
+            1,
+            2
+          ],
+          "A1": [
+            5,
+            4
+          ],
+          "P1": [
+            8,
+            0
+          ],
+          "P2": [
+            9,
+            10
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "P1",
+          "P2"
+        ]
+      },
+      "ponudeni": [
+        "nijednu",
+        "jednu",
+        "dvije",
+        "beskonačno mnogo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polupravac a nastavlja se bez kraja prema pravcu p i jednom ga presiječe. Zato imaju jednu zajedničku točku.",
+      "savjet": "Zamisli kako se polupravac a i pravac p nastavljaju izvan crteža."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-074",
+      "tezina": "tesko",
+      "pitanje": "Svaka dva od pravaca p, q i r sijeku se, a sjecišta su tri različite točke. Koliko tih sjecišta pripada pravcu p?",
+      "ponudeni": [
+        "jedno",
+        "dva",
+        "tri",
+        "nijedno"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravac p siječe pravac q u jednoj točki, a pravac r u drugoj. Sjecište pravaca q i r ne leži na p, pa pravcu p pripadaju dva sjecišta.",
+      "savjet": "Nacrtaj tri takva pravca i promatraj samo pravac p."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-075",
+      "tezina": "tesko",
+      "pitanje": "Pravci p i q imaju dvije različite zajedničke točke A i B. Što to znači?",
+      "ponudeni": [
+        "Pravci p i q sijeku se u dvije točke.",
+        "Pravci p i q se ne sijeku.",
+        "Točka B ne pripada pravcu q.",
+        "Pravci p i q su jedan te isti pravac."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kroz dvije točke A i B prolazi samo jedan pravac. Ako oba pravca prolaze kroz A i B, onda su p i q isti pravac.",
+      "savjet": "Prisjeti se koliko pravaca prolazi dvjema različitim točkama."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-076",
+      "tezina": "tesko",
+      "pitanje": "Koja istaknuta točka pripada pravcu p, ali ne pripada pravcu q?",
+      "slika": {
+        "opis": "Pravci p, q i r. Istaknute su točke A, B, C i D.",
+        "tocke": {
+          "A": [
+            2,
+            7
+          ],
+          "B": [
+            7,
+            8
+          ],
+          "C": [
+            6,
+            5
+          ],
+          "D": [
+            9,
+            5
+          ],
+          "P1": [
+            0,
+            8
+          ],
+          "P2": [
+            10,
+            3
+          ],
+          "Q1": [
+            0,
+            6.6
+          ],
+          "Q2": [
+            10,
+            8.6
+          ],
+          "R1": [
+            7.57,
+            9.71
+          ],
+          "R2": [
+            4.5,
+            0.5
+          ],
+          "Z": [
+            3,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točka C je sjecište pravaca p i r, pa leži na pravcu p, ali ne i na pravcu q. Točka A je sjecište pravaca p i q, pa pripada objema.",
+      "savjet": "Za svaku točku odredi kojim pravcima pripada, pa usporedi s pitanjem."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-077",
+      "tezina": "tesko",
+      "pitanje": "Polupravac a produžimo preko početne točke O pa dobijemo pravac. Koliko istaknutih točaka pripada tom pravcu?",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O i istaknute točke K, L, M i N.",
+        "tocke": {
+          "O": [
+            5,
+            5
+          ],
+          "K": [
+            6.11,
+            5.55
+          ],
+          "L": [
+            3,
+            4
+          ],
+          "N": [
+            1,
+            3
+          ],
+          "M": [
+            6,
+            2.5
+          ],
+          "A1": [
+            10,
+            7.5
+          ],
+          "Z": [
+            10,
+            2.5
+          ],
+          "Y": [
+            10,
+            2.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "K",
+          "L",
+          "M",
+          "N"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravcu pripadaju točke O i K na polupravcu te točke L i N na njegovu produžetku, dakle četiri točke. Točka M nije na tom pravcu.",
+      "savjet": "Zamisli crtu polupravca produženu i na drugu stranu točke O."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-078",
+      "tezina": "tesko",
+      "pitanje": "Dužinu AB produžimo na obje strane pa dobijemo pravac. Koliko točaka od C, D, E i F pripada tom pravcu, a ne pripada dužini AB?",
+      "slika": {
+        "opis": "Dužina AB i istaknute točke C, D, E i F.",
+        "tocke": {
+          "A": [
+            3,
+            3
+          ],
+          "B": [
+            6,
+            6
+          ],
+          "C": [
+            4.5,
+            4.5
+          ],
+          "D": [
+            8.5,
+            8.5
+          ],
+          "E": [
+            6,
+            3
+          ],
+          "F": [
+            1,
+            1
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na produžecima dužine leže točke D i F, pa pripadaju pravcu, ali ne i dužini AB. Točka C je na dužini, a točka E izvan pravca.",
+      "savjet": "Traži točke koje su na istoj crti kao dužina AB, ali iza točke A ili točke B."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-079",
+      "tezina": "tesko",
+      "pitanje": "Koliko zajedničkih točaka imaju dužine AB i CD?",
+      "slika": {
+        "opis": "Dužine AB i CD.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            5,
+            5
+          ],
+          "C": [
+            6,
+            2
+          ],
+          "D": [
+            8.5,
+            7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "jednu",
+        "dvije",
+        "nijednu",
+        "beskonačno mnogo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužine završavaju u svojim krajnjim točkama i ne dodiruju se. Zato nemaju nijednu zajedničku točku.",
+      "savjet": "Dužina se ne nastavlja dalje od svojih krajnjih točaka."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-080",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B, C i D leže na pravcu tim redom. Koja točka ne pripada dužini BD?",
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužini BD pripadaju krajnje točke B i D i točka C između njih. Točka A je ispred točke B, pa ne pripada dužini BD.",
+      "savjet": "Nacrtaj točke redom na pravcu i označi dužinu BD."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-081",
+      "tezina": "tesko",
+      "pitanje": "Točke K i L leže na pravcu na kojem je polupravac a, a početna točka O je između njih. Mogu li obje pripadati polupravcu a?",
+      "ponudeni": [
+        "Da, ako su blizu točke O.",
+        "Da, jer leže na istom pravcu.",
+        "Ne, nijedna ne može pripadati polupravcu.",
+        "Ne, jer su s različitih strana točke O."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Polupravac se od točke O nastavlja samo na jednu stranu. Točke K i L su s različitih strana točke O, pa mu ne mogu pripadati obje.",
+      "savjet": "Nacrtaj pravac, na njemu točke K, O i L te polupravac a iz točke O."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-082",
+      "tezina": "tesko",
+      "pitanje": "Kroz točke A i B nacrtan je pravac p, a kroz točke B i C pravac q. Točke A, B i C ne leže na istom pravcu. Koja je točka sjecište pravaca p i q?",
+      "ponudeni": [
+        "točka A",
+        "točka B",
+        "točka C",
+        "nemaju sjecište"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka B pripada i pravcu p i pravcu q. Pravci su različiti, pa je B njihova jedina zajednička točka, tj. sjecište.",
+      "savjet": "Potraži točku kroz koju prolaze oba pravca."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-083",
+      "tezina": "tesko",
+      "pitanje": "Pravac p prolazi točkama A i B, a pravac q točkama B i C. Ako su p i q isti pravac, što vrijedi za točke A, B i C?",
+      "ponudeni": [
+        "Leže na istom pravcu.",
+        "Ne leže na istom pravcu.",
+        "Točka C ne pripada pravcu p.",
+        "Točka A ne pripada pravcu q."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ako su p i q isti pravac, on prolazi i točkama A, B i točkom C. Zato sve tri točke leže na istom pravcu.",
+      "savjet": "Razmisli kojim točkama prolazi pravac ako su p i q jedan te isti pravac."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-084",
+      "tezina": "tesko",
+      "pitanje": "Polupravci a i b imaju istu početnu točku O i leže na istom pravcu, ali idu na suprotne strane. Koliko zajedničkih točaka imaju?",
+      "slika": {
+        "opis": "Polupravci a i b s istom početnom točkom O idu na suprotne strane.",
+        "tocke": {
+          "O": [
+            5,
+            4
+          ],
+          "A1": [
+            10,
+            6
+          ],
+          "B1": [
+            0,
+            2
+          ],
+          "Z": [
+            1.5,
+            6
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "B1",
+            "oznaka": "b",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "B1",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "nijednu",
+        "jednu",
+        "dvije",
+        "beskonačno mnogo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oba polupravca počinju u točki O, a dalje idu na suprotne strane. Zato imaju samo jednu zajedničku točku, točku O.",
+      "savjet": "Sjeti se da početna točka pripada polupravcu."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-085",
+      "tezina": "tesko",
+      "pitanje": "Koliko zajedničkih točaka imaju polupravci a i b?",
+      "slika": {
+        "opis": "Polupravac a s početnom točkom O i polupravac b s početnom točkom P leže na istom pravcu. Polupravac a ide ulijevo, a b udesno.",
+        "tocke": {
+          "O": [
+            4,
+            5
+          ],
+          "P": [
+            6,
+            5
+          ],
+          "A1": [
+            0,
+            5
+          ],
+          "B1": [
+            10,
+            5
+          ],
+          "Z": [
+            4.5,
+            0
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "P",
+            "do": "B1",
+            "oznaka": "b",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "P"
+        ],
+        "skrivenaImena": [
+          "A1",
+          "B1",
+          "Z"
+        ]
+      },
+      "ponudeni": [
+        "nijednu",
+        "jednu",
+        "dvije",
+        "beskonačno mnogo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Polupravac a od točke O ide ulijevo, a polupravac b od točke P udesno. Između O i P nema nijednog od njih, pa nemaju zajedničkih točaka.",
+      "savjet": "Pogledaj u kojem smjeru se nastavlja svaki polupravac od svoje početne točke."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-086",
+      "tezina": "tesko",
+      "pitanje": "Koja je zajednička točka pravca p i dužine CD?",
+      "slika": {
+        "opis": "Pravac p, dužina CD i istaknute točke A i B.",
+        "tocke": {
+          "A": [
+            3.79,
+            3.89
+          ],
+          "B": [
+            7.5,
+            2
+          ],
+          "C": [
+            7,
+            8.5
+          ],
+          "D": [
+            6,
+            5
+          ],
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            7
+          ],
+          "Z": [
+            0,
+            9.5
+          ],
+          "Y": [
+            0,
+            8.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krajnja točka D dužine CD leži na pravcu p. Ostale točke dužine CD su iznad pravca, pa je D jedina zajednička točka.",
+      "savjet": "Potraži točku koja leži i na pravcu p i na dužini CD."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-087",
+      "tezina": "tesko",
+      "pitanje": "Na pravcu p istaknute su točke A, B i C, a točka T ne pripada pravcu p. Koliko različitih pravaca prolazi točkom T i jednom od točaka A, B ili C?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravci kroz T i A, kroz T i B te kroz T i C su različiti, jer bi inače T ležala na pravcu p. Zato ih ima tri.",
+      "savjet": "Nacrtaj pravac p s tri točke i točku T izvan njega, pa spoji T sa svakom točkom."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-088",
+      "tezina": "tesko",
+      "pitanje": "Kojim crtama na crtežu pripada točka T?",
+      "slika": {
+        "opis": "Pravac p, polupravac a s početnom točkom O, dužina AB i istaknuta točka T.",
+        "tocke": {
+          "T": [
+            4,
+            4
+          ],
+          "O": [
+            1,
+            8
+          ],
+          "A": [
+            6,
+            8
+          ],
+          "B": [
+            5,
+            6
+          ],
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            10,
+            7
+          ],
+          "A1": [
+            7,
+            0
+          ],
+          "Z": [
+            0.5,
+            9.5
+          ],
+          "Y": [
+            6,
+            8
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "A1",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "T",
+          "O",
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "A1",
+          "Z",
+          "Y"
+        ]
+      },
+      "ponudeni": [
+        "pravcu p i polupravcu a",
+        "pravcu p, polupravcu a i dužini AB",
+        "samo pravcu p",
+        "polupravcu a i dužini AB"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka T leži na pravcu p i na polupravcu a. Leži na produžetku dužine AB, ali ne na njoj, pa dužini AB ne pripada.",
+      "savjet": "Za svaku crtu posebno provjeri leži li točka T na nacrtanom dijelu ili tek na njezinu produžetku."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-089",
+      "tezina": "tesko",
+      "pitanje": "Dužine AB i CD leže na dvama različitim pravcima. Koliko najviše zajedničkih točaka mogu imati te dužine?",
+      "ponudeni": [
+        "jednu",
+        "dvije",
+        "četiri",
+        "beskonačno mnogo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dva različita pravca imaju najviše jednu zajedničku točku. Dužine su dijelovi tih pravaca, pa i one imaju najviše jednu zajedničku točku.",
+      "savjet": "Prisjeti se koliko zajedničkih točaka mogu imati dva različita pravca."
+    },
+    {
+      "id": "4-matematika-tocke-i-pravci-090",
+      "tezina": "tesko",
+      "pitanje": "Koliko je na crtežu točaka u kojima se sijeku dvije dužine?",
+      "slika": {
+        "opis": "Dužine AB, CD i EF.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            4
+          ],
+          "C": [
+            2,
+            8
+          ],
+          "D": [
+            6,
+            0
+          ],
+          "E": [
+            7,
+            9
+          ],
+          "F": [
+            8,
+            1
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "E",
+            "do": "F"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužina AB siječe dužinu CD i dužinu EF. Dužine CD i EF se ne dodiruju, pa su to dvije točke.",
+      "savjet": "Za svaki par dužina provjeri križaju li se na crtežu."
+    }
+  ]
+}

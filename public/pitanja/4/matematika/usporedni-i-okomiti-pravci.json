@@ -1,0 +1,3399 @@
+{
+  "lekcijaId": "usporedni-i-okomiti-pravci",
+  "pitanja": [
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-001",
+      "tezina": "lagano",
+      "pitanje": "Pravci p i q leže u istoj ravnini i ne sijeku se, koliko god ih produžili. Kako se zovu takvi pravci?",
+      "ponudeni": [
+        "usporedni pravci",
+        "okomiti pravci",
+        "polupravci",
+        "dužine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravci koji se ne sijeku ni kad ih produžimo zovu se usporedni pravci.",
+      "savjet": "Prisjeti se kako se zovu pravci koji nemaju sjecište."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-002",
+      "tezina": "lagano",
+      "pitanje": "Dva pravca sijeku se pod pravim kutom. Kako se zovu takvi pravci?",
+      "ponudeni": [
+        "polupravci",
+        "dužine",
+        "okomiti pravci",
+        "usporedni pravci"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravci koji se sijeku pod pravim kutom zovu se okomiti pravci.",
+      "savjet": "Prisjeti se kako se zovu pravci koji na sjecištu tvore pravi kut."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-003",
+      "tezina": "lagano",
+      "pitanje": "Kojim se znakom zapisuje da su dva pravca usporedna?",
+      "ponudeni": [
+        "∠",
+        "∥",
+        "⊥",
+        "="
+      ],
+      "tocan": 1,
+      "objasnjenje": "Usporedne pravce zapisujemo znakom ∥, na primjer p ∥ q. Znak izgleda kao dvije usporedne crte.",
+      "savjet": "Sjeti se kako izgleda znak: podsjeća na same usporedne pravce."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-004",
+      "tezina": "lagano",
+      "pitanje": "Kojim se znakom zapisuje da su dva pravca okomita?",
+      "ponudeni": [
+        "∥",
+        "=",
+        "∠",
+        "⊥"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Okomite pravce zapisujemo znakom ⊥, na primjer p ⊥ q. Znak izgleda kao dvije crte koje tvore pravi kut.",
+      "savjet": "Sjeti se kako izgleda znak: podsjeća na dvije crte pod pravim kutom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se čita zapis p ∥ q?",
+      "ponudeni": [
+        "p je usporedan s q",
+        "p je okomit na q",
+        "p je jednak q",
+        "p siječe q"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znak ∥ znači „usporedan s“, pa se p ∥ q čita „p je usporedan s q“.",
+      "savjet": "Prisjeti se što znači znak ∥."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se čita zapis r ⊥ t?",
+      "ponudeni": [
+        "r je usporedan s t",
+        "r je jednak t",
+        "r ne siječe t",
+        "r je okomit na t"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znak ⊥ znači „okomit na“, pa se r ⊥ t čita „r je okomit na t“.",
+      "savjet": "Prisjeti se što znači znak ⊥."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se znakovima zapisuje rečenica „Pravac p okomit je na pravac q.“?",
+      "ponudeni": [
+        "p < q",
+        "p ⊥ q",
+        "p ∥ q",
+        "p = q"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za okomite pravce koristimo znak ⊥, pa pišemo p ⊥ q.",
+      "savjet": "Odaberi znak koji označava okomite pravce."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se znakovima zapisuje rečenica „Pravac m usporedan je s pravcem n.“?",
+      "ponudeni": [
+        "m = n",
+        "m > n",
+        "m ∥ n",
+        "m ⊥ n"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za usporedne pravce koristimo znak ∥, pa pišemo m ∥ n.",
+      "savjet": "Odaberi znak koji označava usporedne pravce."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-009",
+      "tezina": "lagano",
+      "pitanje": "Što vrijedi za dva usporedna pravca?",
+      "ponudeni": [
+        "Ne sijeku se.",
+        "Sijeku se pod pravim kutom.",
+        "Imaju jedno sjecište.",
+        "Sijeku se u dvije točke."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Usporedni pravci nemaju zajedničku točku, pa se ne sijeku ni kad ih produžimo.",
+      "savjet": "Zamisli tračnice ravne pruge i razmisli sastaju li se."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-010",
+      "tezina": "lagano",
+      "pitanje": "Što vrijedi za dva okomita pravca?",
+      "ponudeni": [
+        "Leže jedan na drugome.",
+        "Sijeku se pod pravim kutom.",
+        "Ne sijeku se.",
+        "Sijeku se u dvije točke."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Okomiti pravci sijeku se i na sjecištu tvore pravi kut.",
+      "savjet": "Zamisli dva susjedna ruba lista papira."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-011",
+      "tezina": "lagano",
+      "pitanje": "Kojim priborom provjeravaš jesu li dva pravca okomita?",
+      "ponudeni": [
+        "gumicom",
+        "bojicom",
+        "geometrijskim trokutom",
+        "šestarom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Geometrijski trokut ima pravi kut, pa njime provjeravamo sijeku li se pravci pod pravim kutom.",
+      "savjet": "Razmisli koji pribor ima pravi kut."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-012",
+      "tezina": "lagano",
+      "pitanje": "Koji dio geometrijskog trokuta prisloniš uz sjecište pravaca kad provjeravaš jesu li okomiti?",
+      "ponudeni": [
+        "najdulju stranicu",
+        "oznake za milimetre",
+        "najoštriji vrh",
+        "vrh s pravim kutom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrh s pravim kutom prislonimo uz sjecište; ako se oba pravca poklope sa stranicama trokuta, pravci su okomiti.",
+      "savjet": "Okomiti pravci tvore pravi kut. Gdje na trokutu je pravi kut?"
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-013",
+      "tezina": "lagano",
+      "pitanje": "Kakve su crte na listu bilježnice na crte?",
+      "ponudeni": [
+        "usporedne",
+        "okomite jedna na drugu",
+        "sijeku se u jednoj točki",
+        "sijeku se pod pravim kutom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Crte u bilježnici idu jedna pokraj druge i ne sijeku se, pa su usporedne.",
+      "savjet": "Pogledaj crte u bilježnici i razmisli sastaju li se negdje."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-014",
+      "tezina": "lagano",
+      "pitanje": "Na kojem su primjeru crte usporedne?",
+      "ponudeni": [
+        "krakovi pravog kuta",
+        "dvije ceste na raskrižju",
+        "dvije tračnice ravne pruge",
+        "kazaljke sata u 3 sata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tračnice ravne pruge ne sastaju se, pa su usporedne. Ostale crte se sijeku.",
+      "savjet": "Potraži crte koje se ne sastaju."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-015",
+      "tezina": "lagano",
+      "pitanje": "Na kojem su primjeru crte okomite?",
+      "ponudeni": [
+        "dvije crte u bilježnici na crte",
+        "susjedni rubovi lista papira",
+        "gornji i donji rub lista papira",
+        "dvije tračnice ravne pruge"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Susjedni rubovi lista papira sastaju se u kutu lista, a taj je kut pravi.",
+      "savjet": "Potraži crte koje se sastaju pod pravim kutom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-016",
+      "tezina": "lagano",
+      "pitanje": "Donji rub prozora je vodoravan, a bočni rub je uspravan. Kakvi su ti rubovi?",
+      "ponudeni": [
+        "usporedni",
+        "kosi",
+        "zakrivljeni",
+        "okomiti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vodoravni i uspravni rub sastaju se u kutu prozora pod pravim kutom, pa su okomiti.",
+      "savjet": "Pogledaj kut prozora u kojem se ta dva ruba sastaju."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-017",
+      "tezina": "lagano",
+      "pitanje": "Koja su dva ruba lista papira usporedna?",
+      "ponudeni": [
+        "gornji i donji rub",
+        "gornji i desni rub",
+        "donji i lijevi rub",
+        "lijevi i gornji rub"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gornji i donji rub nalaze se jedan nasuprot drugome i ne sijeku se, pa su usporedni.",
+      "savjet": "Usporedni rubovi nemaju zajednički kut lista."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-018",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu su pravci p, q i r. Koja su dva pravca usporedna?",
+      "slika": {
+        "opis": "Tri pravca: p i q nacrtani su jedan iznad drugoga, a pravac r prolazi koso preko njih.",
+        "tocke": {
+          "P1": [
+            0.5,
+            3
+          ],
+          "P2": [
+            9.5,
+            3
+          ],
+          "Q1": [
+            0.5,
+            7
+          ],
+          "Q2": [
+            9.5,
+            7
+          ],
+          "R1": [
+            2,
+            0.5
+          ],
+          "R2": [
+            7,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "p i r",
+        "q i r",
+        "p, q i r",
+        "p i q"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravci p i q ne sijeku se ni kad ih produžimo, pa su usporedni. Pravac r siječe oba.",
+      "savjet": "Potraži dva pravca koji se ne bi sastali ni kad bi ih produžio."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-019",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu su pravci p, q i r. Koja su dva pravca okomita?",
+      "slika": {
+        "opis": "Tri pravca p, q i r koji se međusobno sijeku.",
+        "tocke": {
+          "P1": [
+            1.5,
+            9.5
+          ],
+          "P2": [
+            9.5,
+            1.5
+          ],
+          "Q1": [
+            9.5,
+            4
+          ],
+          "Q2": [
+            0.5,
+            4
+          ],
+          "R1": [
+            4,
+            0.5
+          ],
+          "R2": [
+            4,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "p, q i r",
+        "q i r",
+        "p i q",
+        "p i r"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravci q i r sijeku se pod pravim kutom, pa su okomiti. Pravac p ih siječe koso.",
+      "savjet": "Potraži sjecište na kojem bi se točno poklopio pravi kut geometrijskog trokuta."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-020",
+      "tezina": "lagano",
+      "pitanje": "Kvadratić na crtežu označava pravi kut između pravaca p i q. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Pravci p i q sijeku se, a na sjecištu je kvadratićem označen pravi kut.",
+        "tocke": {
+          "P1": [
+            0.5,
+            1.75
+          ],
+          "P2": [
+            9.5,
+            6.25
+          ],
+          "Q1": [
+            6.75,
+            0.5
+          ],
+          "Q2": [
+            2.25,
+            9.5
+          ],
+          "S1": [
+            5,
+            4
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "S1",
+            "kraci": [
+              "P2",
+              "Q2"
+            ],
+            "pravi": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "S1"
+        ]
+      },
+      "ponudeni": [
+        "q ∥ p",
+        "p = q",
+        "p ⊥ q",
+        "p ∥ q"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravci koji se sijeku pod pravim kutom su okomiti, pa pišemo p ⊥ q.",
+      "savjet": "Prisjeti se kako se zovu pravci koji tvore pravi kut i kojim se znakom to zapisuje."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-021",
+      "tezina": "lagano",
+      "pitanje": "Koji zapis vrijedi za pravce p i q na crtežu?",
+      "slika": {
+        "opis": "Dva pravca p i q nacrtana jedan iznad drugoga, malo nagnuta.",
+        "tocke": {
+          "P1": [
+            0.5,
+            2
+          ],
+          "P2": [
+            9.5,
+            4.5
+          ],
+          "Q1": [
+            0.5,
+            5.5
+          ],
+          "Q2": [
+            9.5,
+            8
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2"
+        ]
+      },
+      "ponudeni": [
+        "p ∥ q",
+        "p ⊥ q",
+        "q ⊥ p",
+        "p = q"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravci p i q ne sijeku se, pa su usporedni: p ∥ q.",
+      "savjet": "Razmisli bi li se pravci sastali kad bi ih produžio."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-022",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je pravokutnik ABCD. Koji je par stranica usporedan?",
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "CD i DA",
+        "AB i CD",
+        "AB i BC",
+        "BC i CD"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice AB i CD leže nasuprot jedna drugoj i ne sijeku se, pa su usporedne.",
+      "savjet": "Usporedne stranice pravokutnika nemaju zajednički vrh."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-023",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je kvadrat ABCD. Koje su dvije stranice okomite na stranicu AB?",
+      "slika": {
+        "opis": "Kvadrat ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            2,
+            1.5
+          ],
+          "B": [
+            8,
+            1.5
+          ],
+          "C": [
+            8,
+            7.5
+          ],
+          "D": [
+            2,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "BC i CD",
+        "CD i AB",
+        "BC i DA",
+        "CD i DA"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice BC i DA sastaju se sa stranicom AB u vrhovima B i A pod pravim kutom.",
+      "savjet": "Okomite stranice imaju zajednički vrh i tvore pravi kut."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-024",
+      "tezina": "lagano",
+      "pitanje": "Pravci p i q na crtežu se sijeku. Što označava kvadratić na njihovu sjecištu?",
+      "slika": {
+        "opis": "Pravci p i q sijeku se, a na sjecištu je nacrtan mali kvadratić.",
+        "tocke": {
+          "P1": [
+            0.5,
+            3.5
+          ],
+          "P2": [
+            9.5,
+            6.5
+          ],
+          "Q1": [
+            6.5,
+            0.5
+          ],
+          "Q2": [
+            3.5,
+            9.5
+          ],
+          "S1": [
+            5,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "S1",
+            "kraci": [
+              "P2",
+              "Q2"
+            ],
+            "pravi": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "S1"
+        ]
+      },
+      "ponudeni": [
+        "usporedne pravce",
+        "sjecište triju pravaca",
+        "duljinu pravca",
+        "pravi kut"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kvadratić na sjecištu označava pravi kut. Zato su pravci p i q okomiti.",
+      "savjet": "Prisjeti se kako se na crtežu označava kut kakav ima kut lista papira."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-025",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu su četiri pravca. Koja su dva pravca usporedna?",
+      "slika": {
+        "opis": "Četiri pravca p, q, r i s. Pravci p i r nacrtani su jedan iznad drugoga, q je uspravan, a s je kos.",
+        "tocke": {
+          "P1": [
+            0.2,
+            2
+          ],
+          "P2": [
+            10,
+            2
+          ],
+          "Q1": [
+            2,
+            0.2
+          ],
+          "Q2": [
+            2,
+            9.5
+          ],
+          "R1": [
+            0.2,
+            6
+          ],
+          "R2": [
+            9.5,
+            6
+          ],
+          "S1": [
+            9.8,
+            0.37
+          ],
+          "S2": [
+            5.5,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ]
+      },
+      "ponudeni": [
+        "p i r",
+        "p i q",
+        "q i s",
+        "r i s"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravci p i r ne sijeku se ni kad ih produžimo, pa su usporedni.",
+      "savjet": "Potraži dva pravca koji idu jedan pokraj drugoga i ne sastaju se."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-026",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu su pravci p, q, r i s. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Vodoravni pravac p i tri pravca q, r i s koji ga sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            2
+          ],
+          "P2": [
+            9.5,
+            2
+          ],
+          "Q1": [
+            0.5,
+            0.5
+          ],
+          "Q2": [
+            9.5,
+            6.5
+          ],
+          "R1": [
+            6.5,
+            0
+          ],
+          "R2": [
+            6.5,
+            9.5
+          ],
+          "S1": [
+            7.75,
+            0
+          ],
+          "S2": [
+            1,
+            4.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ]
+      },
+      "ponudeni": [
+        "s ⊥ p",
+        "s ∥ p",
+        "r ⊥ p",
+        "q ⊥ p"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravac r siječe pravac p pod pravim kutom, pa je r ⊥ p. Pravci q i s sijeku p koso.",
+      "savjet": "Za svaki pravac provjeri siječe li pravac p pod pravim kutom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-027",
+      "tezina": "lagano",
+      "pitanje": "Pravci p i q na crtežu sijeku se, ali ne pod pravim kutom. Kakvi su to pravci?",
+      "slika": {
+        "opis": "Pravci p i q koji se koso sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            2
+          ],
+          "P2": [
+            9.5,
+            6
+          ],
+          "Q1": [
+            1,
+            8
+          ],
+          "Q2": [
+            9.5,
+            1
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2"
+        ]
+      },
+      "ponudeni": [
+        "i usporedni i okomiti",
+        "ni usporedni ni okomiti",
+        "usporedni",
+        "okomiti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravci koji se sijeku nisu usporedni, a kako kut nije pravi, nisu ni okomiti.",
+      "savjet": "Usporedni se pravci ne sijeku, a okomiti se sijeku pod pravim kutom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-028",
+      "tezina": "lagano",
+      "pitanje": "Kakvi su pravci p i q na crtežu?",
+      "slika": {
+        "opis": "Dva koso nacrtana pravca p i q, jedan iznad drugoga.",
+        "tocke": {
+          "P1": [
+            0.5,
+            4
+          ],
+          "P2": [
+            8.5,
+            8
+          ],
+          "Q1": [
+            1.5,
+            0.5
+          ],
+          "Q2": [
+            9.5,
+            4.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2"
+        ]
+      },
+      "ponudeni": [
+        "okomiti",
+        "sijeku se, ali nisu okomiti",
+        "jedan je polupravac",
+        "usporedni"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravci p i q idu u istom smjeru i ne sijeku se, pa su usporedni.",
+      "savjet": "Zamisli da pravce produžiš i provjeri bi li se sastali."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-029",
+      "tezina": "lagano",
+      "pitanje": "Kakvi su pravci p i q na crtežu?",
+      "slika": {
+        "opis": "Vodoravni pravac p i uspravni pravac q koji se sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            4
+          ],
+          "P2": [
+            9.5,
+            4
+          ],
+          "Q1": [
+            6,
+            0.5
+          ],
+          "Q2": [
+            6,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2"
+        ]
+      },
+      "ponudeni": [
+        "okomiti",
+        "usporedni",
+        "ni usporedni ni okomiti",
+        "ne sijeku se"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vodoravni pravac p i uspravni pravac q sijeku se pod pravim kutom, pa su okomiti.",
+      "savjet": "Pogledaj sijeku li se pravci i kakav je kut na sjecištu."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-030",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je kvadrat ABCD. Koliko parova usporednih stranica ima taj kvadrat?",
+      "slika": {
+        "opis": "Kvadrat ABCD s označenim pravim kutovima.",
+        "tocke": {
+          "A": [
+            2,
+            1.5
+          ],
+          "B": [
+            8,
+            1.5
+          ],
+          "C": [
+            8,
+            7.5
+          ],
+          "D": [
+            2,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "A",
+            "pravi": true
+          },
+          {
+            "vrh": "B",
+            "pravi": true
+          },
+          {
+            "vrh": "C",
+            "pravi": true
+          },
+          {
+            "vrh": "D",
+            "pravi": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Usporedne su stranice AB i CD te stranice BC i DA, dakle dva para.",
+      "savjet": "Usporedne stranice kvadrata leže jedna nasuprot drugoj."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-031",
+      "tezina": "srednje",
+      "pitanje": "Zadano je p ∥ q. Koji je zapis također točan?",
+      "ponudeni": [
+        "p ⊥ q",
+        "p = q",
+        "q ∥ p",
+        "q ⊥ p"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ako je p usporedan s q, onda je i q usporedan s p, pa vrijedi q ∥ p.",
+      "savjet": "Razmisli mijenja li se išta ako pravce zapišeš obrnutim redom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-032",
+      "tezina": "srednje",
+      "pitanje": "Pravac p okomit je na pravac q. Kako se to još može zapisati?",
+      "ponudeni": [
+        "q ∥ p",
+        "p ∥ q",
+        "p = q",
+        "q ⊥ p"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ako je p okomit na q, onda je i q okomit na p, jer je kut na sjecištu isti.",
+      "savjet": "Razmisli mijenja li se kut na sjecištu ako pravce zapišeš obrnutim redom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-033",
+      "tezina": "srednje",
+      "pitanje": "Pravci p i q na crtežu su okomiti. Koliko pravih kutova nastaje oko njihova sjecišta?",
+      "slika": {
+        "opis": "Pravci p i q koji se sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            5
+          ],
+          "P2": [
+            9.5,
+            5
+          ],
+          "Q1": [
+            5,
+            0.5
+          ],
+          "Q2": [
+            5,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Okomiti pravci dijele ravninu oko sjecišta na četiri jednaka dijela, a svaki je pravi kut.",
+      "savjet": "Izbroji sve kutove oko sjecišta, a ne samo jedan."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-034",
+      "tezina": "srednje",
+      "pitanje": "List papira presaviješ, a zatim ga presaviješ još jednom tako da se prvi pregib poklopi sam sa sobom. Kakvi su pregibi kad rasklopiš papir?",
+      "ponudeni": [
+        "okomiti",
+        "usporedni",
+        "ne sijeku se",
+        "sijeku se, ali nisu okomiti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tako presavijen papir daje pravi kut, pa su dva pregiba okomita.",
+      "savjet": "Tako se bez geometrijskog trokuta može napraviti pravi kut."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-035",
+      "tezina": "srednje",
+      "pitanje": "Kako geometrijskim trokutom provjeravaš jesu li pravci p i q okomiti?",
+      "ponudeni": [
+        "Šestarom nacrtaš kružnicu oko sjecišta.",
+        "Pravi kut trokuta prisloniš uz sjecište.",
+        "Najdulju stranicu prisloniš uz pravac p.",
+        "Ravnalom izmjeriš duljinu pravca p."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrh pravog kuta trokuta stavimo na sjecište. Ako se oba pravca poklope sa stranicama uz pravi kut, pravci su okomiti.",
+      "savjet": "Okomiti pravci tvore pravi kut, a pravi kut ima i trokut."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-036",
+      "tezina": "srednje",
+      "pitanje": "Kako ravnalom i geometrijskim trokutom nacrtaš pravac usporedan s pravcem p?",
+      "ponudeni": [
+        "Šestarom nacrtaš kružnicu oko pravca p.",
+        "Ravnalo prisloniš uz p pa crtaš uz drugi rub.",
+        "Trokut kližeš uz ravnalo pa crtaš uz istu stranicu.",
+        "Trokut okreneš naopako pa crtaš uz drugu stranicu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranicu trokuta prislonimo uz p, uz trokut ravnalo, pa trokut kližemo uz ravnalo. Crta uz istu stranicu usporedna je s p.",
+      "savjet": "Pri crtanju usporednog pravca trokut se pomiče, ali ne okreće."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-037",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu su pravci p, q, r i s. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Četiri koso nacrtana pravca p, q, r i s.",
+        "tocke": {
+          "P1": [
+            0.5,
+            1.5
+          ],
+          "P2": [
+            9.5,
+            4.5
+          ],
+          "Q1": [
+            0.5,
+            5
+          ],
+          "Q2": [
+            9.5,
+            8
+          ],
+          "R1": [
+            3.5,
+            9.5
+          ],
+          "R2": [
+            6.5,
+            0.5
+          ],
+          "S1": [
+            1.5,
+            0.5
+          ],
+          "S2": [
+            6,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ]
+      },
+      "ponudeni": [
+        "r ⊥ q",
+        "s ⊥ p",
+        "r ∥ p",
+        "s ∥ q"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravac r siječe pravac q pod pravim kutom, pa je r ⊥ q.",
+      "savjet": "Provjeri svaki zapis na crtežu: sijeku li se pravci i pod kakvim kutom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-038",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je pravokutnik ABCD. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1,
+            2
+          ],
+          "B": [
+            9,
+            2
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "AB ⊥ CD",
+        "BC ⊥ DA",
+        "AB ∥ CD",
+        "AB ∥ BC"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice AB i CD leže nasuprot jedna drugoj i ne sijeku se, pa vrijedi AB ∥ CD.",
+      "savjet": "Prisjeti se koje su stranice pravokutnika usporedne, a koje okomite."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-039",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je pravokutnik ABCD. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1.5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            1.5
+          ],
+          "C": [
+            8.5,
+            8
+          ],
+          "D": [
+            1.5,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "DA ⊥ BC",
+        "BC ⊥ CD",
+        "BC ∥ CD",
+        "AB ⊥ CD"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice BC i CD sastaju se u vrhu C pod pravim kutom, pa je BC ⊥ CD.",
+      "savjet": "Susjedne stranice pravokutnika sastaju se u vrhu. Kakav je kut u vrhu pravokutnika?"
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-040",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu su pravci p, q i r. Koja su dva pravca okomita?",
+      "slika": {
+        "opis": "Tri koso nacrtana pravca p, q i r koji se sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            2.75
+          ],
+          "P2": [
+            9.5,
+            7.25
+          ],
+          "Q1": [
+            2,
+            0.5
+          ],
+          "Q2": [
+            5,
+            9.5
+          ],
+          "R1": [
+            2.75,
+            9.5
+          ],
+          "R2": [
+            7.25,
+            0.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "p i q",
+        "q i r",
+        "p, q i r",
+        "p i r"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravci p i r sijeku se pod pravim kutom, iako su nacrtani koso. Pravac q siječe ih koso.",
+      "savjet": "Okomiti pravci ne moraju biti vodoravni i uspravni. Zamisli da okreneš papir."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-041",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu su pravci p, q, r i s. Koja su dva pravca usporedna?",
+      "slika": {
+        "opis": "Četiri pravca p, q, r i s; q je vodoravan, a ostali su kosi.",
+        "tocke": {
+          "P1": [
+            0.5,
+            2
+          ],
+          "P2": [
+            4.25,
+            9.5
+          ],
+          "Q1": [
+            9.5,
+            1
+          ],
+          "Q2": [
+            0.5,
+            1
+          ],
+          "R1": [
+            7.68,
+            9.86
+          ],
+          "R2": [
+            2.75,
+            0.01
+          ],
+          "S1": [
+            6.07,
+            9.86
+          ],
+          "S2": [
+            9.5,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ]
+      },
+      "ponudeni": [
+        "p i r",
+        "p i q",
+        "q i s",
+        "r i s"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravci p i r nagnuti su jednako i ne sijeku se, pa su usporedni.",
+      "savjet": "Usporedni pravci ne moraju biti vodoravni. Potraži dva jednako nagnuta pravca."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-042",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je kvadrat ABCD nacrtan ukoso. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Kvadrat ABCD nacrtan ukoso, vrh A je dolje lijevo.",
+        "tocke": {
+          "A": [
+            2,
+            1
+          ],
+          "B": [
+            8,
+            3
+          ],
+          "C": [
+            6,
+            9
+          ],
+          "D": [
+            0,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "AB ⊥ CD",
+        "BC ∥ CD",
+        "DA ⊥ BC",
+        "AB ∥ CD"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I kad je kvadrat nacrtan ukoso, nasuprotne stranice AB i CD su usporedne.",
+      "savjet": "Okretanjem lika ne mijenja se koje su mu stranice usporedne."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-043",
+      "tezina": "srednje",
+      "pitanje": "Bijele pruge na pješačkom prijelazu (zebri) idu jedna pokraj druge. Kakve su te pruge međusobno?",
+      "ponudeni": [
+        "sijeku se pod pravim kutom",
+        "usporedne",
+        "okomite",
+        "sijeku se na sredini ceste"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pruge zebre jednako su nagnute i ne sijeku se, pa su usporedne.",
+      "savjet": "Zamisli pruge produžene i razmisli bi li se sastale."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-044",
+      "tezina": "srednje",
+      "pitanje": "U koliko sati kazaljke sata leže na okomitim crtama?",
+      "ponudeni": [
+        "u 12 sati",
+        "u 1 sat",
+        "u 3 sata",
+        "u 6 sati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U 3 sata mala kazaljka pokazuje na 3, a velika na 12, pa među njima je pravi kut.",
+      "savjet": "Zamisli brojčanik i potraži kada kazaljke tvore kut kao kut lista papira."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-045",
+      "tezina": "srednje",
+      "pitanje": "Koje od ovih velikih tiskanih slova ima dvije usporedne crte?",
+      "ponudeni": [
+        "H",
+        "T",
+        "V",
+        "L"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Slovo H ima dvije uspravne crte koje se ne sijeku, pa su usporedne.",
+      "savjet": "Zamisli kako se svako slovo piše i potraži crte koje se ne sastaju."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-046",
+      "tezina": "srednje",
+      "pitanje": "Koje od ovih velikih tiskanih slova ima okomite crte?",
+      "ponudeni": [
+        "Z",
+        "T",
+        "V",
+        "N"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U slovu T vodoravna crta i uspravna crta sastaju se pod pravim kutom.",
+      "savjet": "Potraži slovo u kojem se dvije crte sastaju pod pravim kutom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-047",
+      "tezina": "srednje",
+      "pitanje": "Pravac p je vodoravan. Kakav je pravac q ako vrijedi q ⊥ p?",
+      "ponudeni": [
+        "kos",
+        "usporedan s p",
+        "uspravan",
+        "vodoravan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravac okomit na vodoravni pravac s njim tvori pravi kut, pa je uspravan.",
+      "savjet": "Zamisli pod i zid sobe i kut koji tvore."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-048",
+      "tezina": "srednje",
+      "pitanje": "Pravac p je vodoravan, a pravac q usporedan je s njim. Kakav je pravac q?",
+      "ponudeni": [
+        "uspravan",
+        "kos",
+        "okomit na p",
+        "vodoravan"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravac usporedan s vodoravnim pravcem ne siječe ga, pa je i sam vodoravan.",
+      "savjet": "Zamisli dvije crte u bilježnici na crte."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-049",
+      "tezina": "srednje",
+      "pitanje": "Ivana je nacrtala pravce p i q. Geometrijskim trokutom provjerila je da je kut na sjecištu pravi. Koji zapis vrijedi?",
+      "ponudeni": [
+        "p ⊥ q",
+        "p ∥ q",
+        "p = q",
+        "q ∥ p"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravci koji se sijeku pod pravim kutom su okomiti, pa vrijedi p ⊥ q.",
+      "savjet": "Prisjeti se kako se zovu pravci koji tvore pravi kut."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-050",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu su pravci p, q i r. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Vodoravni pravac p i dva kosa pravca q i r koji ga sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            5
+          ],
+          "P2": [
+            9.5,
+            5
+          ],
+          "Q1": [
+            0.5,
+            0.5
+          ],
+          "Q2": [
+            5,
+            9.5
+          ],
+          "R1": [
+            4,
+            0.5
+          ],
+          "R2": [
+            8.5,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "p ⊥ r",
+        "q ⊥ r",
+        "q ∥ r",
+        "p ∥ q"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravci q i r jednako su nagnuti i ne sijeku se, pa vrijedi q ∥ r.",
+      "savjet": "Za svaki zapis provjeri na crtežu sijeku li se pravci i kako."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-051",
+      "tezina": "srednje",
+      "pitanje": "Marko kaže da su pravci p i q usporedni jer se na njegovu crtežu ne sijeku. Zašto to možda nije točno?",
+      "ponudeni": [
+        "Usporedni pravci sijeku se pod pravim kutom.",
+        "Mogli bi se sijeći kad ih produži.",
+        "Usporedni pravci moraju biti vodoravni.",
+        "Usporedni pravci moraju biti jednako dugi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravac se može produžiti u oba smjera. Pravci su usporedni tek ako se ne sijeku ni kad ih produžimo.",
+      "savjet": "Sjeti se da pravac nema ni početak ni kraj."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-052",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja o usporednim pravcima točna?",
+      "ponudeni": [
+        "Moraju biti vodoravni.",
+        "Moraju biti uspravni.",
+        "Sijeku se izvan papira.",
+        "Mogu biti nacrtani i koso."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Usporedni pravci mogu biti nagnuti kako god, važno je samo da se ne sijeku.",
+      "savjet": "Okreni bilježnicu na crte i pogledaj jesu li crte i dalje usporedne."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-053",
+      "tezina": "srednje",
+      "pitanje": "Što mora vrijediti da bi dva pravca bila okomita?",
+      "ponudeni": [
+        "Da se sijeku pod pravim kutom.",
+        "Da jedan od njih bude uspravan.",
+        "Da budu jednako dugi.",
+        "Da se ne sijeku."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Okomiti pravci sijeku se pod pravim kutom; mogu biti nacrtani i koso.",
+      "savjet": "Prisjeti se što provjeravaš geometrijskim trokutom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-054",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu su pravci p, q, r i s. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Vodoravni pravac p i tri pravca q, r i s koji ga sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            3
+          ],
+          "P2": [
+            9.5,
+            3
+          ],
+          "Q1": [
+            4,
+            0.5
+          ],
+          "Q2": [
+            4,
+            9.5
+          ],
+          "R1": [
+            3,
+            0.5
+          ],
+          "R2": [
+            7.5,
+            9.5
+          ],
+          "S1": [
+            2,
+            9.5
+          ],
+          "S2": [
+            6.5,
+            0.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ]
+      },
+      "ponudeni": [
+        "r ⊥ p",
+        "s ⊥ p",
+        "r ∥ s",
+        "q ⊥ p"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravac q siječe pravac p pod pravim kutom. Pravci r i s sijeku p koso.",
+      "savjet": "Za svaki pravac koji siječe p pogledaj je li kut na sjecištu pravi."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-055",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je pravokutnik ABCD. Koliko je njegovih stranica okomito na stranicu BC?",
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1,
+            2.5
+          ],
+          "B": [
+            9,
+            2.5
+          ],
+          "C": [
+            9,
+            7.5
+          ],
+          "D": [
+            1,
+            7.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na stranicu BC okomite su stranice AB i CD, koje se s njom sastaju u vrhovima B i C.",
+      "savjet": "Okomite stranice sastaju se sa stranicom BC u njezinim vrhovima."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-056",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu je pravokutnik ABCD. Koliko parova okomitih stranica ima taj pravokutnik?",
+      "slika": {
+        "opis": "Pravokutnik ABCD s vrhovima A i B dolje te C i D gore.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            9,
+            3
+          ],
+          "C": [
+            9,
+            7
+          ],
+          "D": [
+            1,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Okomite su susjedne stranice: AB i BC, BC i CD, CD i DA te DA i AB. To su četiri para.",
+      "savjet": "Okomiti par stranica sastaje se u jednom vrhu. Koliko vrhova ima pravokutnik?"
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-057",
+      "tezina": "srednje",
+      "pitanje": "Na kojem su predmetu susjedni rubovi okomiti?",
+      "ponudeni": [
+        "pravokutna ploča stola",
+        "okrugli tanjur",
+        "trokutasti prometni znak",
+        "kriška pizze"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravokutna ploča stola ima u svakom kutu pravi kut, pa su joj susjedni rubovi okomiti.",
+      "savjet": "Potraži predmet čiji kutovi izgledaju kao kut lista papira."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-058",
+      "tezina": "srednje",
+      "pitanje": "Lea uz sjecište pravaca p i q prisloni pravi kut trokuta. Pravac p poklopi se sa stranicom trokuta, a q ne. Što Lea zaključuje?",
+      "ponudeni": [
+        "p i q se ne sijeku.",
+        "p i q nisu okomiti.",
+        "p ⊥ q",
+        "p ∥ q"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Da su pravci okomiti, oba bi se poklopila sa stranicama uz pravi kut. Kako se q ne poklapa, nisu okomiti.",
+      "savjet": "Razmisli što bi se vidjelo kad bi pravci bili okomiti."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-059",
+      "tezina": "srednje",
+      "pitanje": "Na kvadratnoj mreži nacrtani su pravci p, q i r. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Kvadratna mreža s tri kosa pravca p, q i r.",
+        "tocke": {
+          "P1": [
+            1,
+            1
+          ],
+          "P2": [
+            9,
+            5
+          ],
+          "Q1": [
+            3,
+            9
+          ],
+          "Q2": [
+            7,
+            1
+          ],
+          "R1": [
+            1,
+            4
+          ],
+          "R2": [
+            9,
+            8
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "q ∥ r",
+        "p ⊥ r",
+        "p ∥ r",
+        "p ∥ q"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravci p i r na mreži se penju jednako: 2 kvadratića udesno, 1 gore. Zato se ne sijeku i p ∥ r.",
+      "savjet": "Na mreži prebroji kvadratiće: koliko pravac ide udesno i koliko gore."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-060",
+      "tezina": "srednje",
+      "pitanje": "Na kvadratnoj mreži nacrtani su pravci p, q i r. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Kvadratna mreža s pravcima p i q koji idu ukoso te uspravnim pravcem r.",
+        "tocke": {
+          "P1": [
+            1,
+            2
+          ],
+          "P2": [
+            7,
+            8
+          ],
+          "Q1": [
+            3,
+            9
+          ],
+          "Q2": [
+            9,
+            3
+          ],
+          "R1": [
+            2,
+            9
+          ],
+          "R2": [
+            2,
+            0
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "r ⊥ p",
+        "r ⊥ q",
+        "q ∥ r",
+        "q ⊥ p"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravac p prolazi dijagonalama kvadratića u jednom smjeru, a q u drugom. Takve dijagonale sijeku se pod pravim kutom.",
+      "savjet": "Pogledaj kako pravci prolaze kroz kvadratiće mreže."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-061",
+      "tezina": "tesko",
+      "pitanje": "Zadano je p ∥ q i r ⊥ p. Što vrijedi za pravce r i q?",
+      "ponudeni": [
+        "r ⊥ q",
+        "r ∥ q",
+        "q ⊥ p",
+        "r ∥ p"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravac r siječe p pod pravim kutom. Kako je q usporedan s p, r siječe i q pod pravim kutom, pa je r ⊥ q.",
+      "savjet": "Nacrtaj dva usporedna pravca i jedan pravac okomit na prvi."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-062",
+      "tezina": "tesko",
+      "pitanje": "Zadano je p ⊥ r i q ⊥ r. Pravci p i q nisu isti pravac. Što vrijedi za p i q?",
+      "ponudeni": [
+        "q ∥ r",
+        "p ∥ r",
+        "p ∥ q",
+        "p ⊥ q"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dva pravca okomita na isti pravac međusobno su usporedna, pa je p ∥ q.",
+      "savjet": "Nacrtaj pravac r i na njega dva okomita pravca."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-063",
+      "tezina": "tesko",
+      "pitanje": "Zadano je m ∥ n i n ∥ t. Pravci m i t nisu isti pravac. Što vrijedi za m i t?",
+      "ponudeni": [
+        "n ⊥ t",
+        "m ∥ t",
+        "m ⊥ t",
+        "m ⊥ n"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ako su m i t usporedni s istim pravcem n, onda su usporedni i međusobno.",
+      "savjet": "Zamisli tri crte u bilježnici na crte."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-064",
+      "tezina": "tesko",
+      "pitanje": "Zadano je p ⊥ q, q ⊥ r i r ⊥ s. Što vrijedi za pravce p i s?",
+      "ponudeni": [
+        "p ∥ s",
+        "p ∥ q",
+        "q ⊥ s",
+        "p ⊥ s"
+      ],
+      "tocan": 3,
+      "objasnjenje": "p i r okomiti su na q, pa je p ∥ r. Kako je s ⊥ r, vrijedi i s ⊥ p.",
+      "savjet": "Najprije odredi kakvi su pravci p i r."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-065",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu je označen pravi kut između pravaca p i q, a pravac r usporedan je s p. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Pravci p, q i r. Između p i q kvadratićem je označen pravi kut. Pravac q siječe i pravac r.",
+        "tocke": {
+          "P1": [
+            0.5,
+            4.375
+          ],
+          "P2": [
+            9.5,
+            6.625
+          ],
+          "Q1": [
+            4.25,
+            0.01
+          ],
+          "Q2": [
+            1.875,
+            9.5
+          ],
+          "R1": [
+            0.5,
+            0.875
+          ],
+          "R2": [
+            9.5,
+            3.125
+          ],
+          "S1": [
+            3,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "S1",
+            "kraci": [
+              "P2",
+              "Q2"
+            ],
+            "pravi": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1"
+        ]
+      },
+      "ponudeni": [
+        "r ⊥ q",
+        "r ∥ q",
+        "r ⊥ p",
+        "q ∥ p"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravac q okomit je na p. Kako je r ∥ p, q siječe i r pod pravim kutom, pa je r ⊥ q.",
+      "savjet": "Usporedni pravci jednako su nagnuti, pa ih q siječe pod jednakim kutom."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-066",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu su kvadratićima označeni pravi kutovi između pravaca p i r te q i r. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Pravac r i pravci p i q koji ga sijeku; oba sjecišta imaju kvadratićem označen pravi kut.",
+        "tocke": {
+          "R1": [
+            0.25,
+            2.81
+          ],
+          "R2": [
+            9.5,
+            5.125
+          ],
+          "P1": [
+            2.688,
+            0.5
+          ],
+          "P2": [
+            0.5,
+            9.25
+          ],
+          "Q1": [
+            8,
+            0.5
+          ],
+          "Q2": [
+            5.75,
+            9.5
+          ],
+          "S1": [
+            2,
+            3.25
+          ],
+          "S2": [
+            7,
+            4.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          }
+        ],
+        "kutovi": [
+          {
+            "vrh": "S1",
+            "kraci": [
+              "P2",
+              "R2"
+            ],
+            "pravi": true
+          },
+          {
+            "vrh": "S2",
+            "kraci": [
+              "Q2",
+              "R2"
+            ],
+            "pravi": true
+          }
+        ],
+        "skrivenaImena": [
+          "R1",
+          "R2",
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "S1",
+          "S2"
+        ]
+      },
+      "ponudeni": [
+        "p ⊥ q",
+        "p ∥ r",
+        "q ∥ r",
+        "p ∥ q"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravci p i q okomiti su na isti pravac r, pa su međusobno usporedni: p ∥ q.",
+      "savjet": "Razmisli kakvi su međusobno dva pravca okomita na isti pravac."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-067",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu je p ∥ q i r ⊥ p. Koliko pravih kutova ima na oba sjecišta zajedno?",
+      "slika": {
+        "opis": "Pravci p i q jedan iznad drugoga i pravac r koji siječe oba.",
+        "tocke": {
+          "P1": [
+            0.5,
+            1.5
+          ],
+          "P2": [
+            9.5,
+            4.5
+          ],
+          "Q1": [
+            0.5,
+            5
+          ],
+          "Q2": [
+            9.5,
+            8
+          ],
+          "R1": [
+            6.5,
+            0.5
+          ],
+          "R2": [
+            3.5,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravac r okomit je i na q, jer je q ∥ p. Na svakom sjecištu nastaju 4 prava kuta, ukupno 8.",
+      "savjet": "Najprije odredi kako r siječe pravac q, a zatim izbroji kutove oko svakog sjecišta."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-068",
+      "tezina": "tesko",
+      "pitanje": "Pravac p usporedan je sa stranicom AB pravokutnika ABCD. Na koje je stranice tog pravokutnika pravac p okomit?",
+      "ponudeni": [
+        "AB i BC",
+        "CD i DA",
+        "BC i DA",
+        "AB i CD"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice BC i DA okomite su na AB. Kako je p ∥ AB, te su stranice okomite i na p.",
+      "savjet": "Prisjeti se koje su stranice pravokutnika okomite na stranicu AB."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-069",
+      "tezina": "tesko",
+      "pitanje": "Pravci p i q oba su okomita na pravac r i nisu isti pravac. Koliko sjecišta imaju pravci p i q?",
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dva pravca okomita na isti pravac su usporedna, a usporedni pravci se ne sijeku.",
+      "savjet": "Najprije odredi kakvi su pravci p i q međusobno."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-070",
+      "tezina": "tesko",
+      "pitanje": "Mia tvrdi: „Ako je p ⊥ q i q ⊥ r, onda je p ⊥ r.“ Ima li Mia pravo?",
+      "ponudeni": [
+        "Ima, jer je q ∥ r.",
+        "Nema, jer je p ∥ r.",
+        "Ima, jer su svi pravci okomiti.",
+        "Nema, jer je p ∥ q."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravci p i r okomiti su na isti pravac q, pa su usporedni, a ne okomiti.",
+      "savjet": "Nacrtaj pravac q i dva pravca okomita na njega."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-071",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu su pravci p, q, r i s. Vrijedi p ∥ q i r ∥ s, a r ⊥ p. Koliko je parova okomitih pravaca na crtežu?",
+      "slika": {
+        "opis": "Četiri kosa pravca: p i q nacrtani su jedan iznad drugoga, a r i s jedan pokraj drugoga, i sijeku p i q.",
+        "tocke": {
+          "P1": [
+            0.5,
+            1.5
+          ],
+          "P2": [
+            9.5,
+            4.5
+          ],
+          "Q1": [
+            0.5,
+            5.5
+          ],
+          "Q2": [
+            9.5,
+            8.5
+          ],
+          "R1": [
+            4.5,
+            0.5
+          ],
+          "R2": [
+            1.5,
+            9.5
+          ],
+          "S1": [
+            8.5,
+            0.5
+          ],
+          "S2": [
+            5.5,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Okomiti su parovi p i r, p i s, q i r te q i s. To su četiri para.",
+      "savjet": "Ako je r okomit na p, provjeri je li okomit i na q, pa isto napravi za s."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-072",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu su pravci p, q, r i s. Pravac s okomit je na p. Koliko je parova usporednih pravaca na crtežu?",
+      "slika": {
+        "opis": "Tri pravca p, q i r jedan iznad drugoga i pravac s koji ih sve siječe.",
+        "tocke": {
+          "P1": [
+            2,
+            0.5
+          ],
+          "P2": [
+            9.5,
+            4.25
+          ],
+          "Q1": [
+            0.5,
+            2.25
+          ],
+          "Q2": [
+            9.5,
+            6.75
+          ],
+          "R1": [
+            0.5,
+            4.75
+          ],
+          "R2": [
+            9.5,
+            9.25
+          ],
+          "S1": [
+            5.4,
+            0.19
+          ],
+          "S2": [
+            0.75,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravci p, q i r jednako su nagnuti, pa su parovi p i q, p i r te q i r usporedni. To su tri para.",
+      "savjet": "Pronađi sve jednako nagnute pravce i od njih složi sve moguće parove."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-073",
+      "tezina": "tesko",
+      "pitanje": "Na kvadratnoj mreži nacrtana su četiri pravca. Koji je pravac okomit na sva tri preostala pravca?",
+      "slika": {
+        "opis": "Kvadratna mreža s četiri kosa pravca p, q, r i s.",
+        "tocke": {
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            8,
+            6
+          ],
+          "Q1": [
+            0,
+            5
+          ],
+          "Q2": [
+            8,
+            9
+          ],
+          "R1": [
+            2,
+            0
+          ],
+          "R2": [
+            10,
+            4
+          ],
+          "S1": [
+            5,
+            1
+          ],
+          "S2": [
+            1,
+            9
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "r",
+        "s",
+        "p",
+        "q"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravci p, q i r su usporedni, a pravac s siječe jedan od njih pod pravim kutom. Zato je s okomit na sva tri.",
+      "savjet": "Najprije potraži usporedne pravce na mreži."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-074",
+      "tezina": "tesko",
+      "pitanje": "Stranice AB i CD pravokutnika ABCD produžimo s obje strane. Kakve crte dobijemo?",
+      "ponudeni": [
+        "pravce koji se sijeku izvan lika",
+        "usporedne pravce",
+        "okomite pravce",
+        "pravce koji se sijeku u B"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice AB i CD su usporedne, pa se ni produžene ne sijeku. Dobijemo usporedne pravce.",
+      "savjet": "Prisjeti se kakve su stranice AB i CD u pravokutniku."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-075",
+      "tezina": "tesko",
+      "pitanje": "Stranice AB i BC pravokutnika ABCD produžimo s obje strane. Koliko pravih kutova nastaje oko vrha B?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Produžene stranice AB i BC okomiti su pravci koji se sijeku u B, pa oko B nastaju 4 prava kuta.",
+      "savjet": "Razmisli kakvi su pravci produžene susjedne stranice i koliko kutova tvore."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-076",
+      "tezina": "tesko",
+      "pitanje": "Stranice ljestava s i t su usporedne. Prečka p okomita je na stranicu s. Kakva je prečka p prema stranici t?",
+      "ponudeni": [
+        "okomita na t",
+        "usporedna s t",
+        "ne siječe t",
+        "siječe t, ali nije okomita"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravac okomit na jedan od dvaju usporednih pravaca okomit je i na drugi, pa je p ⊥ t.",
+      "savjet": "Zamisli kako prečka spaja obje stranice ljestava."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-077",
+      "tezina": "tesko",
+      "pitanje": "Pragovi ravne pruge okomiti su na tračnicu t. Kakva su dva praga međusobno?",
+      "ponudeni": [
+        "usporedna",
+        "okomita",
+        "sijeku se na tračnici",
+        "sijeku se izvan pruge"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dva praga okomita su na istu tračnicu, pa su međusobno usporedna.",
+      "savjet": "Razmisli kakva su dva pravca okomita na isti pravac."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-078",
+      "tezina": "tesko",
+      "pitanje": "Leon presavije papir tri puta. Pregib q okomit je na pregib p, a pregib r okomit je na q. Kakvi su pregibi p i r?",
+      "ponudeni": [
+        "okomiti",
+        "sijeku se, ali nisu okomiti",
+        "sijeku se na pregibu q",
+        "usporedni"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pregibi p i r okomiti su na isti pregib q, pa su usporedni.",
+      "savjet": "Nacrtaj pregib q i dva pregiba okomita na njega."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-079",
+      "tezina": "tesko",
+      "pitanje": "Zadano je p ∥ q i r ∥ s, a p ⊥ r. Koji zapis također vrijedi?",
+      "ponudeni": [
+        "q ∥ r",
+        "q ⊥ s",
+        "q ∥ s",
+        "p ∥ s"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ako je r okomit na p, okomit je i na q. Pravac s usporedan je s r, pa je i s ⊥ q.",
+      "savjet": "Kreni korak po korak: najprije odredi kakvi su r i q."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-080",
+      "tezina": "tesko",
+      "pitanje": "Točka T ne leži na pravcu p. Koliko pravaca usporednih s p možeš nacrtati kroz točku T?",
+      "ponudeni": [
+        "dva",
+        "beskonačno mnogo",
+        "jedan",
+        "nijedan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kroz točku izvan pravca prolazi točno jedan pravac usporedan s tim pravcem.",
+      "savjet": "Pokušaj kroz točku T nacrtati više različitih pravaca usporednih s p."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-081",
+      "tezina": "tesko",
+      "pitanje": "Na kvadratnoj mreži nacrtani su pravci p, q i r. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Kvadratna mreža s tri kosa pravca p, q i r.",
+        "tocke": {
+          "P1": [
+            0,
+            2
+          ],
+          "P2": [
+            9,
+            5
+          ],
+          "Q1": [
+            6,
+            0
+          ],
+          "Q2": [
+            3,
+            9
+          ],
+          "R1": [
+            0,
+            9
+          ],
+          "R2": [
+            9,
+            0
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "p ⊥ q",
+        "p ⊥ r",
+        "q ⊥ r",
+        "q ∥ r"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravac p ide 3 kvadratića udesno i 1 gore, a q 1 ulijevo i 3 gore. Takvi se pravci sijeku pod pravim kutom.",
+      "savjet": "Za svaki pravac prebroji kvadratiće: koliko ide vodoravno, a koliko gore."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-082",
+      "tezina": "tesko",
+      "pitanje": "Na kvadratnoj mreži nacrtani su pravci p, q, r i s. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Kvadratna mreža s pravcima p, q, r i s; q je uspravan, s je vodoravan, a p i r su kosi.",
+        "tocke": {
+          "P1": [
+            0,
+            1
+          ],
+          "P2": [
+            8,
+            5
+          ],
+          "Q1": [
+            4,
+            0
+          ],
+          "Q2": [
+            4,
+            10
+          ],
+          "R1": [
+            0,
+            5
+          ],
+          "R2": [
+            8,
+            9
+          ],
+          "S1": [
+            5,
+            1
+          ],
+          "S2": [
+            10,
+            1
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          },
+          {
+            "od": "S1",
+            "do": "S2",
+            "oznaka": "s",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2",
+          "S1",
+          "S2"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "q ∥ s",
+        "r ∥ p",
+        "q ∥ p",
+        "s ∥ p"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravci p i r na mreži idu jednako: 2 kvadratića udesno i 1 gore. Zato se ne sijeku i r ∥ p.",
+      "savjet": "Usporedni pravci na mreži se jednako penju. Prebroji kvadratiće."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-083",
+      "tezina": "tesko",
+      "pitanje": "Ana je trokutom provjerila da je p ⊥ q. Pravac r usporedan je s q. Na koliko je pravaca s crteža okomit pravac p?",
+      "slika": {
+        "opis": "Kosi pravac p i dva pravca q i r koji ga sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            2.5
+          ],
+          "P2": [
+            9.5,
+            5.5
+          ],
+          "Q1": [
+            3.944,
+            0.5
+          ],
+          "Q2": [
+            0.944,
+            9.5
+          ],
+          "R1": [
+            8.389,
+            0.5
+          ],
+          "R2": [
+            5.389,
+            9.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravac p okomit je na q, a kako je r ∥ q, okomit je i na r. To su dva pravca.",
+      "savjet": "Provjeri pravce q i r posebno, a p ne broji jer ne može biti okomit sam na sebe."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-084",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu je pravokutnik ABCD nacrtan ukoso i pravac p usporedan sa stranicom BC. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Pravokutnik ABCD nacrtan ukoso i pravac p desno od njega.",
+        "tocke": {
+          "A": [
+            0.5,
+            3
+          ],
+          "B": [
+            4.5,
+            1
+          ],
+          "C": [
+            6,
+            4
+          ],
+          "D": [
+            2,
+            6
+          ],
+          "P1": [
+            6.25,
+            0.5
+          ],
+          "P2": [
+            9.5,
+            7
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2"
+        ]
+      },
+      "ponudeni": [
+        "p ∥ AB",
+        "p ⊥ BC",
+        "p ∥ CD",
+        "p ⊥ AB"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranica BC okomita je na AB. Pravac p usporedan je s BC, pa je i p ⊥ AB.",
+      "savjet": "Najprije odredi kakva je stranica BC prema stranici AB."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-085",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu su pravci p, q i r. Koliko je parova okomitih pravaca na crtežu?",
+      "slika": {
+        "opis": "Tri kosa pravca p, q i r koji se međusobno sijeku.",
+        "tocke": {
+          "P1": [
+            0.5,
+            3
+          ],
+          "P2": [
+            9.5,
+            5.412
+          ],
+          "Q1": [
+            3.912,
+            9.5
+          ],
+          "Q2": [
+            1.5,
+            0.5
+          ],
+          "R1": [
+            1.5,
+            9.5
+          ],
+          "R2": [
+            9.5,
+            1.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "Q1",
+            "do": "Q2",
+            "oznaka": "q",
+            "krak": true
+          },
+          {
+            "od": "R1",
+            "do": "R2",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2",
+          "Q1",
+          "Q2",
+          "R1",
+          "R2"
+        ]
+      },
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaka dva pravca na crtežu sijeku se koso, a ne pod pravim kutom. Zato nema okomitih parova.",
+      "savjet": "Provjeri svaki par pravaca posebno, kao da prislanjaš geometrijski trokut."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-086",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu je pravokutnik ABCD nacrtan ukoso. Koji zapis vrijedi?",
+      "slika": {
+        "opis": "Pravokutnik ABCD nacrtan ukoso, vrh A je lijevo.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            7,
+            0
+          ],
+          "C": [
+            9.5,
+            5
+          ],
+          "D": [
+            3.5,
+            8
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ]
+      },
+      "ponudeni": [
+        "CD ⊥ AB",
+        "DA ∥ CD",
+        "AB ⊥ DA",
+        "AB ∥ BC"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stranice AB i DA sastaju se u vrhu A pod pravim kutom, pa je AB ⊥ DA.",
+      "savjet": "Okretanjem pravokutnika kutovi u vrhovima ostaju pravi."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-087",
+      "tezina": "tesko",
+      "pitanje": "Na crtežu je kvadrat ABCD i pravac p okomit na stranicu AB. S kojim je stranicama kvadrata pravac p usporedan?",
+      "slika": {
+        "opis": "Kvadrat ABCD i pravac p koji siječe stranice AB i CD.",
+        "tocke": {
+          "A": [
+            2,
+            2
+          ],
+          "B": [
+            7,
+            2
+          ],
+          "C": [
+            7,
+            7
+          ],
+          "D": [
+            2,
+            7
+          ],
+          "P1": [
+            4.5,
+            0.2
+          ],
+          "P2": [
+            4.5,
+            9.5
+          ]
+        },
+        "poligoni": [
+          {
+            "vrhovi": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "ispuna": true
+          }
+        ],
+        "duzine": [
+          {
+            "od": "P1",
+            "do": "P2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "P1",
+          "P2"
+        ]
+      },
+      "ponudeni": [
+        "CD i DA",
+        "BC i DA",
+        "AB i CD",
+        "AB i BC"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stranice BC i DA okomite su na AB, kao i pravac p. Pravci okomiti na isti pravac su usporedni.",
+      "savjet": "Razmisli koje su stranice kvadrata, kao i p, okomite na stranicu AB."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-088",
+      "tezina": "tesko",
+      "pitanje": "Pravac p usporedan je sa stranicom AB, a pravac q sa stranicom BC pravokutnika ABCD. Koji zapis vrijedi?",
+      "ponudeni": [
+        "p ∥ q",
+        "p ∥ BC",
+        "q ⊥ BC",
+        "p ⊥ q"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stranice AB i BC su okomite. Pravci p i q usporedni su s njima, pa su i oni okomiti: p ⊥ q.",
+      "savjet": "Najprije odredi kakve su stranice AB i BC."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o pravcima na ravnom listu papira točna?",
+      "ponudeni": [
+        "Dva pravca okomita na isti pravac su usporedna.",
+        "Dva pravca usporedna s istim pravcem su okomita.",
+        "Dva pravca okomita na isti pravac su okomita.",
+        "Pravac okomit na p usporedan je s p."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravci okomiti na isti pravac ne sijeku se, pa su usporedni.",
+      "savjet": "Za svaku tvrdnju nacrtaj mali primjer."
+    },
+    {
+      "id": "4-matematika-usporedni-i-okomiti-pravci-090",
+      "tezina": "tesko",
+      "pitanje": "Na pravokutnom igralištu crta sredine usporedna je s kraćim stranicama igrališta. Kakva je ta crta prema duljim stranicama?",
+      "ponudeni": [
+        "usporedna",
+        "ne siječe ih",
+        "siječe ih, ali nije okomita",
+        "okomita"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kraće stranice okomite su na dulje. Crta sredine usporedna je s kraćima, pa je i ona okomita na dulje stranice.",
+      "savjet": "Prisjeti se kakve su susjedne stranice pravokutnika."
+    }
+  ]
+}

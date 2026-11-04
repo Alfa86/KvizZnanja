@@ -76,16 +76,33 @@ interface Oznaka { x: number, y: number, tekst: string, jeTocka: boolean }
 
 // Oznaka kraka kuta (polupravca) stoji uz njegov kraj, kao u udžbeniku. Od nekoliko mjesta
 // uz kraj kraka bira se ono najdalje od ostalih točaka, da se ne preklopi s njihovim imenima.
-function polozajOznakeKraka(vrh: V, kraj: V, pomocna: string): V {
+function polozajOznakeKraka(vrh: V, kraj: V, pomocna: string, pocetak: string): V {
   const smjer = jedinicni(razlika(kraj, vrh))
   const okomica = v(-smjer.y, smjer.x)
   const odmak = 0.45 * m.value
-  const kandidati = [0.85, 0.65, 1].flatMap(t => [1, -1].map(s => zbroj(zbroj(vrh, puta(razlika(kraj, vrh), t)), puta(okomica, s * odmak))))
+  const uz = (t: number) => [1, -1].map(s => zbroj(zbroj(vrh, puta(razlika(kraj, vrh), t)), puta(okomica, s * odmak)))
+  const kandidati = [0.85, 1].flatMap(uz)
   kandidati.push(zbroj(kraj, puta(smjer, odmak)))
-  const ostale = Object.entries(props.crtez.tocke).filter(([ime]) => ime !== pomocna).map(([, t]) => v(t[0], t[1]))
-  const slobodno = (p: V) => Math.min(Infinity, ...ostale.map(t => duljina(razlika(p, t))))
-  // Prva strana koja je dovoljno daleko od svih točaka; inače ona s najviše mjesta
-  return kandidati.find(p => slobodno(p) > 0.9) ?? kandidati.reduce((x, y) => (slobodno(y) > slobodno(x) ? y : x))
+  // Pravac (i početak mu je skrivena pomoćna točka) može imati oznaku i uz drugi kraj; polupravac ne, ondje mu je početna točka
+  if (props.crtez.skrivenaImena?.includes(pocetak)) kandidati.push(...[0.15, 0].flatMap(uz), zbroj(vrh, puta(smjer, -odmak)))
+  const ostale = Object.entries(props.crtez.tocke).filter(([ime]) => ime !== pomocna && ime !== pocetak).map(([, t]) => v(t[0], t[1]))
+  // Ostale crte (dužine i stranice likova), da oznaka ne stoji uz tuđi pravac ili sjecište
+  const crte: [V, V][] = [
+    ...(props.crtez.duzine ?? []).filter(d => d.do !== pomocna).map(d => [tocka(d.od), tocka(d.do)] as [V, V]),
+    ...(props.crtez.poligoni ?? []).flatMap(p => p.vrhovi.map((ime, i) => [tocka(ime), tocka(p.vrhovi[(i + 1) % p.vrhovi.length]!)] as [V, V]))
+  ]
+  const doTocaka = (p: V) => Math.min(Infinity, ...ostale.map(t => duljina(razlika(p, t))))
+  const doCrta = (p: V) => Math.min(Infinity, ...crte.map(([x, y]) => udaljenostOdDuzine(p, x, y)))
+  // Mjesto je to slobodnije što je dalje od točaka i tuđih crta; 1 znači dovoljno daleko od svega
+  const slobodno = (p: V) => Math.min(doTocaka(p) / 0.9, doCrta(p) / 1)
+  return kandidati.find(p => slobodno(p) >= 1) ?? kandidati.reduce((x, y) => (slobodno(y) > slobodno(x) ? y : x))
+}
+
+function udaljenostOdDuzine(p: V, a: V, b: V): number {
+  const ab = razlika(b, a)
+  const d2 = ab.x * ab.x + ab.y * ab.y
+  const t = d2 ? Math.min(1, Math.max(0, ((p.x - a.x) * ab.x + (p.y - a.y) * ab.y) / d2)) : 0
+  return duljina(razlika(p, zbroj(a, puta(ab, t))))
 }
 
 const duzine = computed(() => (props.crtez.duzine ?? []).map((d) => {
@@ -103,7 +120,7 @@ const duzine = computed(() => (props.crtez.duzine ?? []).map((d) => {
     const q = zbroj(c, puta(okomica, -0.18))
     return { x1: sx(p), y1: sy(p), x2: sx(q), y2: sy(q) }
   })
-  const polozaj = d.krak ? polozajOznakeKraka(a, b, d.do) : zbroj(sredina, puta(okomica, 0.55))
+  const polozaj = d.krak ? polozajOznakeKraka(a, b, d.do, d.od) : zbroj(sredina, puta(okomica, 0.55))
 
   return {
     x1: sx(a), y1: sy(a), x2: sx(b), y2: sy(b),

@@ -1,0 +1,2624 @@
+{
+  "lekcijaId": "tocka-pravac-polupravac-i-duzina",
+  "pitanja": [
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko krajnjih točaka ima dužina?",
+      "ponudeni": [
+        "dvije",
+        "jednu",
+        "nijednu",
+        "tri"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužina je omeđena dvjema krajnjim točkama, npr. dužina AB ima krajnje točke A i B.",
+      "savjet": "Sjeti se kako se imenuje dužina: po kojim točkama dobiva ime?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-002",
+      "tezina": "lagano",
+      "pitanje": "Koliko početnih točaka ima polupravac?",
+      "ponudeni": [
+        "dvije",
+        "nijednu",
+        "jednu",
+        "tri"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polupravac počinje u jednoj točki, početnoj točki, a s druge strane nema kraja.",
+      "savjet": "Zamisli zraku svjetlosti iz baterijske svjetiljke: odakle kreće?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-003",
+      "tezina": "lagano",
+      "pitanje": "Koji od ovih pojmova nema ni početnu ni krajnju točku?",
+      "ponudeni": [
+        "polupravac",
+        "dužina",
+        "stranica kvadrata",
+        "pravac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravac nema ni početka ni kraja, nego se produžuje bez kraja na obje strane.",
+      "savjet": "Razmisli koja se crta produžuje bez kraja na obje strane."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-004",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovima označavaju točke?",
+      "ponudeni": [
+        "malim tiskanim slovima",
+        "brojevima",
+        "grčkim slovima",
+        "velikim tiskanim slovima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točke označavamo velikim tiskanim slovima, npr. A, B, T.",
+      "savjet": "Sjeti se kako se zove dužina s krajnjim točkama A i B."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se označava pravac?",
+      "ponudeni": [
+        "malim tiskanim slovom, npr. p",
+        "velikim tiskanim slovom, npr. P",
+        "brojem, npr. 1",
+        "grčkim slovom, npr. α"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravce označavamo malim tiskanim slovima, npr. pravac p.",
+      "savjet": "Velika slova već su rezervirana za točke."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se imenuje dužina kojoj su krajnje točke A i B?",
+      "ponudeni": [
+        "dužina d",
+        "dužina A",
+        "dužina AB",
+        "točka AB"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužinu imenujemo po njezinim krajnjim točkama, pa je to dužina AB.",
+      "savjet": "Dužina dobiva ime po obje svoje krajnje točke."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-007",
+      "tezina": "lagano",
+      "pitanje": "Što ima početnu točku, a nema kraja?",
+      "ponudeni": [
+        "pravac",
+        "dužina",
+        "polupravac",
+        "točka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polupravac počinje u početnoj točki i produžuje se bez kraja na jednu stranu.",
+      "savjet": "Riječ „polu“ znači da se crta produžuje samo na jednu stranu."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-008",
+      "tezina": "lagano",
+      "pitanje": "Koje su krajnje točke dužine CD?",
+      "ponudeni": [
+        "samo C",
+        "samo D",
+        "CD i DC",
+        "C i D"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina CD omeđena je točkama C i D, pa su to njezine krajnje točke.",
+      "savjet": "Pogledaj slova u imenu dužine."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-009",
+      "tezina": "lagano",
+      "pitanje": "Što je duljina dužine?",
+      "ponudeni": [
+        "udaljenost između njezinih krajnjih točaka",
+        "broj točaka koje leže na dužini",
+        "debljina crte kojom je nacrtana",
+        "udaljenost od dužine do ruba papira"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Duljina dužine je udaljenost između njezinih krajnjih točaka. Mjerimo je ravnalom.",
+      "savjet": "Sjeti se što mjeriš ravnalom kad mjeriš dužinu AB."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-010",
+      "tezina": "lagano",
+      "pitanje": "Čime se crta dužina?",
+      "ponudeni": [
+        "olovkom i šestarom",
+        "samo olovkom, bez ravnala",
+        "olovkom i ravnalom",
+        "flomasterom i gumicom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužinu crtamo olovkom uz ravnalo, tako da crta bude ravna.",
+      "savjet": "Dužina mora biti ravna crta."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-011",
+      "tezina": "lagano",
+      "pitanje": "Kojom se mjernom jedinicom može mjeriti duljina dužine u bilježnici?",
+      "ponudeni": [
+        "kilogramom (kg)",
+        "litrom (l)",
+        "satom (h)",
+        "centimetrom (cm)"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Duljinu mjerimo jedinicama za duljinu, npr. centimetrom ili milimetrom.",
+      "savjet": "Koja jedinica piše na ravnalu?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-012",
+      "tezina": "lagano",
+      "pitanje": "Može li se u bilježnici nacrtati cijeli pravac?",
+      "ponudeni": [
+        "Ne, jer pravac nema ni početka ni kraja.",
+        "Da, ako je bilježnica dovoljno velika.",
+        "Da, ravnalom od ruba do ruba stranice.",
+        "Ne, jer pravac ima samo početnu točku."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravac se produžuje bez kraja na obje strane, pa uvijek crtamo samo njegov dio.",
+      "savjet": "Sjeti se ima li pravac početak i kraj."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove točka u kojoj počinje polupravac?",
+      "ponudeni": [
+        "početna točka",
+        "krajnja točka",
+        "srednja točka",
+        "glavna točka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Polupravac počinje u svojoj početnoj točki.",
+      "savjet": "Polupravac ima jednu točku od koje kreće."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-014",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu točke A i B kojima je omeđena dužina AB?",
+      "ponudeni": [
+        "početne točke polupravca",
+        "krajnje točke dužine",
+        "točke pravca p",
+        "srednje točke dužine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točke kojima je dužina omeđena zovu se krajnje točke dužine.",
+      "savjet": "Točke A i B nalaze se na krajevima dužine."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-015",
+      "tezina": "lagano",
+      "pitanje": "Dužina AB duga je 7 cm, a dužina CD 5 cm. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Dužina CD dulja je od dužine AB.",
+        "Dužine AB i CD jednako su duge.",
+        "Dužina AB dulja je od dužine CD.",
+        "Dužine AB i CD ne mogu se usporediti."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 7 veći je od broja 5, pa je dužina AB od 7 cm dulja od dužine CD od 5 cm.",
+      "savjet": "Usporedi brojeve 7 i 5."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-016",
+      "tezina": "lagano",
+      "pitanje": "Što je nacrtano na crtežu?",
+      "slika": {
+        "opis": "Ravna crta označena malim slovom p. Na njezinim krajevima nema istaknutih točaka.",
+        "tocke": {
+          "X1": [
+            0.5,
+            2
+          ],
+          "X2": [
+            9.5,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "X1",
+            "do": "X2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2"
+        ]
+      },
+      "ponudeni": [
+        "polupravac",
+        "dužina",
+        "točka",
+        "pravac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Crta je označena malim slovom p i nema istaknutih točaka na krajevima, jer se produžuje bez kraja na obje strane. To je pravac.",
+      "savjet": "Provjeri ima li crta početnu ili krajnju točku."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove crta označena slovom a na crtežu?",
+      "slika": {
+        "opis": "Ravna crta označena malim slovom a. Na jednom njezinom kraju istaknuta je točka O, a na drugom nema točke.",
+        "tocke": {
+          "O": [
+            1.5,
+            3
+          ],
+          "X1": [
+            9.5,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "X1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O"
+        ],
+        "skrivenaImena": [
+          "X1"
+        ]
+      },
+      "ponudeni": [
+        "polupravac",
+        "pravac",
+        "dužina",
+        "točka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Crta a počinje u točki O, a na drugu stranu nema kraja. To je polupravac a s početnom točkom O.",
+      "savjet": "Pogledaj koliko istaknutih točaka ima crta na svojim krajevima."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-018",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove crta nacrtana na crtežu?",
+      "slika": {
+        "opis": "Ravna crta na čijim su krajevima istaknute točke A i B.",
+        "tocke": {
+          "A": [
+            1.5,
+            2.5
+          ],
+          "B": [
+            8.5,
+            7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B"
+        ]
+      },
+      "ponudeni": [
+        "pravac",
+        "dužina",
+        "polupravac",
+        "točka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Crta je omeđena dvjema točkama, A i B. Takva se crta zove dužina AB.",
+      "savjet": "Pogledaj ima li crta istaknute točke na oba kraja."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-019",
+      "tezina": "lagano",
+      "pitanje": "Koja je točka početna točka polupravca a?",
+      "slika": {
+        "opis": "Gore je crta označena slovom a s istaknutom točkom O na jednom kraju. Dolje je crta između istaknutih točaka M i N.",
+        "tocke": {
+          "O": [
+            1,
+            6
+          ],
+          "X1": [
+            9.5,
+            8.5
+          ],
+          "M": [
+            2,
+            2
+          ],
+          "N": [
+            8,
+            3.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "X1",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "M",
+            "do": "N"
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "M",
+          "N"
+        ],
+        "skrivenaImena": [
+          "X1"
+        ]
+      },
+      "ponudeni": [
+        "M",
+        "N",
+        "O",
+        "a"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polupravac a počinje u točki O, pa je O njegova početna točka. Točke M i N krajnje su točke dužine MN.",
+      "savjet": "Prati crtu označenu slovom a i pronađi točku u kojoj počinje."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-020",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno imenuje crta na crtežu?",
+      "slika": {
+        "opis": "Ravna crta na čijim su krajevima istaknute točke C i D.",
+        "tocke": {
+          "C": [
+            1.5,
+            6.5
+          ],
+          "D": [
+            8.5,
+            2.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "dužina c",
+        "dužina D",
+        "točka C",
+        "dužina CD"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Crta ima krajnje točke C i D, pa je to dužina CD.",
+      "savjet": "Dužina dobiva ime po svojim krajnjim točkama."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-021",
+      "tezina": "lagano",
+      "pitanje": "Kojim je slovom označen pravac na crtežu?",
+      "slika": {
+        "opis": "Tri crte: gore crta p bez istaknutih točaka, u sredini crta a koja počinje u točki O, dolje crta između točaka A i B.",
+        "tocke": {
+          "X1": [
+            0.3,
+            8.5
+          ],
+          "X2": [
+            9.7,
+            7
+          ],
+          "O": [
+            1,
+            4.5
+          ],
+          "X3": [
+            9.6,
+            5
+          ],
+          "A": [
+            2,
+            1.5
+          ],
+          "B": [
+            8,
+            2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "X1",
+            "do": "X2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "X3",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2",
+          "X3"
+        ]
+      },
+      "ponudeni": [
+        "p",
+        "a",
+        "O",
+        "B"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravac nema ni početnu ni krajnju točku. Na crtežu je to crta p. Crta a je polupravac, a crta između A i B je dužina.",
+      "savjet": "Pronađi crtu koja nema istaknutu točku ni na jednom kraju."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-022",
+      "tezina": "lagano",
+      "pitanje": "Kojim je slovom označen polupravac na crtežu?",
+      "slika": {
+        "opis": "Tri crte: gore crta s koja počinje u točki T, u sredini crta između točaka M i N, dolje crta r bez istaknutih točaka.",
+        "tocke": {
+          "T": [
+            2,
+            8.5
+          ],
+          "X1": [
+            9.6,
+            7
+          ],
+          "M": [
+            1.5,
+            5
+          ],
+          "N": [
+            7,
+            5.5
+          ],
+          "X2": [
+            0.3,
+            1.5
+          ],
+          "X3": [
+            9.7,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "T",
+            "do": "X1",
+            "oznaka": "s",
+            "krak": true
+          },
+          {
+            "od": "M",
+            "do": "N"
+          },
+          {
+            "od": "X2",
+            "do": "X3",
+            "oznaka": "r",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "T",
+          "M",
+          "N"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2",
+          "X3"
+        ]
+      },
+      "ponudeni": [
+        "r",
+        "s",
+        "T",
+        "M"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polupravac ima početnu točku i nema kraja. Na crtežu je to crta s s početnom točkom T.",
+      "savjet": "Pronađi crtu koja ima istaknutu točku samo na jednom kraju."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-023",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu je mreža kvadrata kojima je stranica duga 1 cm. Odredi duljinu dužine AB.",
+      "slika": {
+        "opis": "Mreža kvadrata i vodoravna dužina AB nacrtana po crti mreže.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            7,
+            3
+          ],
+          "X1": [
+            0,
+            1
+          ],
+          "X2": [
+            8,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "5 cm",
+        "6 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od točke A do točke B ima 6 stranica kvadrata, a svaka je duga 1 cm. Dužina AB duga je 6 cm.",
+      "savjet": "Broji stranice kvadrata između točaka A i B, a ne crte mreže."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-024",
+      "tezina": "lagano",
+      "pitanje": "Na crtežu su dužine AB i CD. Koja je dužina dulja?",
+      "slika": {
+        "opis": "Gore je dužina AB, a ispod nje dužina CD. Obje su vodoravne.",
+        "tocke": {
+          "A": [
+            1,
+            7
+          ],
+          "B": [
+            9,
+            7
+          ],
+          "C": [
+            3,
+            3
+          ],
+          "D": [
+            7,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "dužina CD",
+        "jednako su duge",
+        "ne može se odrediti",
+        "dužina AB"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina AB proteže se gotovo preko cijelog crteža, a dužina CD samo preko dijela. Dužina AB je dulja.",
+      "savjet": "Usporedi koliko je razmaknuta krajnja točka od krajnje točke kod svake dužine."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-025",
+      "tezina": "lagano",
+      "pitanje": "Koliko je dužina nacrtano na crtežu?",
+      "slika": {
+        "opis": "Na vrhu je crta p bez istaknutih točaka. Ispod su tri crte s istaknutim točkama na krajevima: AB, CD i EF.",
+        "tocke": {
+          "X1": [
+            0.3,
+            9
+          ],
+          "X2": [
+            9.7,
+            8.2
+          ],
+          "A": [
+            1,
+            6
+          ],
+          "B": [
+            4,
+            6.5
+          ],
+          "C": [
+            6,
+            6
+          ],
+          "D": [
+            9,
+            5
+          ],
+          "E": [
+            2,
+            2
+          ],
+          "F": [
+            8,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "X1",
+            "do": "X2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "E",
+            "do": "F"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužine su crte s dvije krajnje točke: AB, CD i EF. Crta p je pravac, a ne dužina. Na crtežu su 3 dužine.",
+      "savjet": "Broji samo crte koje imaju istaknutu točku na oba kraja."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-026",
+      "tezina": "lagano",
+      "pitanje": "Koliko je polupravaca nacrtano na crtežu?",
+      "slika": {
+        "opis": "Četiri crte: crta a koja počinje u točki O, crta p bez istaknutih točaka, crta b koja počinje u točki T i crta između točaka M i N.",
+        "tocke": {
+          "O": [
+            1,
+            8.5
+          ],
+          "X1": [
+            9.6,
+            9.3
+          ],
+          "X2": [
+            0.3,
+            6
+          ],
+          "X3": [
+            9.7,
+            6.6
+          ],
+          "T": [
+            9,
+            4.2
+          ],
+          "X4": [
+            0.4,
+            3.4
+          ],
+          "M": [
+            2,
+            1.2
+          ],
+          "N": [
+            8,
+            1.2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "X1",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "X2",
+            "do": "X3",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "T",
+            "do": "X4",
+            "oznaka": "b",
+            "krak": true
+          },
+          {
+            "od": "M",
+            "do": "N"
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "T",
+          "M",
+          "N"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2",
+          "X3",
+          "X4"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polupravci imaju početnu točku i nemaju kraja: to su a s početnom točkom O i b s početnom točkom T. Crta p je pravac, a MN je dužina.",
+      "savjet": "Broji crte koje imaju istaknutu točku samo na jednom kraju."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-027",
+      "tezina": "lagano",
+      "pitanje": "Što na crtežu ima dvije krajnje točke?",
+      "slika": {
+        "opis": "Gore je crta između točaka A i B, u sredini crta a koja počinje u točki O, a dolje crta p bez istaknutih točaka.",
+        "tocke": {
+          "A": [
+            2,
+            8.5
+          ],
+          "B": [
+            8,
+            8
+          ],
+          "O": [
+            1,
+            5
+          ],
+          "X1": [
+            9.6,
+            6.5
+          ],
+          "X2": [
+            0.3,
+            2
+          ],
+          "X3": [
+            9.7,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "O",
+            "do": "X1",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "X2",
+            "do": "X3",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "O"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2",
+          "X3"
+        ]
+      },
+      "ponudeni": [
+        "polupravac a",
+        "pravac p",
+        "dužina AB",
+        "točka O"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužina AB omeđena je dvjema krajnjim točkama, A i B. Polupravac ima samo početnu točku, a pravac nema ni početne ni krajnje točke.",
+      "savjet": "Pronađi crtu koja je omeđena točkom na oba kraja."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-028",
+      "tezina": "lagano",
+      "pitanje": "Ana je ravnalom spojila točke M i N. Što je nacrtala?",
+      "ponudeni": [
+        "pravac m",
+        "polupravac n",
+        "dvije dužine",
+        "dužinu MN"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Crta koja spaja dvije točke i završava u njima je dužina. Ana je nacrtala dužinu MN.",
+      "savjet": "Crta počinje u točki M i završava u točki N."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-029",
+      "tezina": "lagano",
+      "pitanje": "Koliko je milimetara 1 cm?",
+      "ponudeni": [
+        "1 mm",
+        "10 mm",
+        "100 mm",
+        "1000 mm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na ravnalu je svaki centimetar podijeljen na 10 jednakih dijelova, milimetara. Zato je 1 cm = 10 mm.",
+      "savjet": "Prebroji male crtice na ravnalu između 0 i 1 cm."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-030",
+      "tezina": "lagano",
+      "pitanje": "Dužina je dio kojeg od ovih pojmova?",
+      "ponudeni": [
+        "točke",
+        "pravca",
+        "kružnice",
+        "kruga"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužina je ravna crta. Ako je produžimo na obje strane bez kraja, dobit ćemo pravac. Dužina je dio pravca.",
+      "savjet": "Zamisli da dužinu produžiš ravnalom na obje strane."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-031",
+      "tezina": "srednje",
+      "pitanje": "Dužina AB duga je 6 cm. Izrazi njezinu duljinu u milimetrima.",
+      "ponudeni": [
+        "6 mm",
+        "16 mm",
+        "60 mm",
+        "600 mm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1 cm = 10 mm, pa je 6 cm = 6 · 10 mm = 60 mm.",
+      "savjet": "Sjeti se koliko milimetara ima jedan centimetar."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-032",
+      "tezina": "srednje",
+      "pitanje": "Dužina CD duga je 45 mm. Izrazi njezinu duljinu u centimetrima i milimetrima.",
+      "ponudeni": [
+        "4 cm 5 mm",
+        "5 cm 4 mm",
+        "40 cm 5 mm",
+        "45 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "45 mm = 40 mm + 5 mm, a 40 mm = 4 cm. Zato je 45 mm = 4 cm 5 mm.",
+      "savjet": "Koliko punih desetica milimetara ima u 45 mm?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-033",
+      "tezina": "srednje",
+      "pitanje": "Dužina EF duga je 3 cm 4 mm. Izrazi njezinu duljinu u milimetrima.",
+      "ponudeni": [
+        "7 mm",
+        "34 mm",
+        "43 mm",
+        "304 mm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "3 cm = 30 mm, a 30 mm + 4 mm = 34 mm.",
+      "savjet": "Najprije pretvori centimetre u milimetre."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-034",
+      "tezina": "srednje",
+      "pitanje": "Na mreži kvadrata stranice 1 cm nacrtane su dužine AB i CD. Izračunaj za koliko je centimetara dužina AB dulja od dužine CD.",
+      "slika": {
+        "opis": "Mreža kvadrata. Gore je vodoravna dužina AB, a dolje vodoravna dužina CD.",
+        "tocke": {
+          "A": [
+            1,
+            7
+          ],
+          "B": [
+            9,
+            7
+          ],
+          "C": [
+            1,
+            3
+          ],
+          "D": [
+            6,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "3 cm",
+        "5 cm",
+        "8 cm",
+        "13 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužina AB duga je 8 cm, a dužina CD 5 cm. Razlika je 8 cm − 5 cm = 3 cm.",
+      "savjet": "Najprije prebroji stranice kvadrata uz svaku dužinu."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-035",
+      "tezina": "srednje",
+      "pitanje": "Na crtežu su točke A, B i C. Koliko je različitih dužina kojima su krajnje točke dvije od tih točaka?",
+      "slika": {
+        "opis": "Tri istaknute točke A, B i C koje ne leže na istoj ravnoj crti. Točke nisu spojene.",
+        "tocke": {
+          "A": [
+            1.5,
+            1.5
+          ],
+          "B": [
+            8.5,
+            2.5
+          ],
+          "C": [
+            4.5,
+            8.5
+          ]
+        },
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Možemo nacrtati dužine AB, BC i AC. Dužina BA ista je kao dužina AB. Ukupno su 3 dužine.",
+      "savjet": "Spoji točku A s ostalima, a zatim provjeri koje parove još nisi spojio."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-036",
+      "tezina": "srednje",
+      "pitanje": "Na dužini AB istaknuta je točka C. Koliko je dužina na crtežu?",
+      "slika": {
+        "opis": "Dužina AB. Između točaka A i B na dužini je istaknuta točka C.",
+        "tocke": {
+          "A": [
+            1,
+            3
+          ],
+          "B": [
+            9,
+            7
+          ],
+          "C": [
+            4.2,
+            4.6
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na crtežu su dužine AC, CB i cijela dužina AB. To su 3 dužine.",
+      "savjet": "Ne zaboravi i cijelu dužinu od točke A do točke B."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-037",
+      "tezina": "srednje",
+      "pitanje": "Točka O leži na pravcu p i dijeli ga na dva dijela. Kako se zove svaki od tih dijelova?",
+      "slika": {
+        "opis": "Crta p bez istaknutih točaka na krajevima. Na sredini crte istaknuta je točka O.",
+        "tocke": {
+          "X1": [
+            0.3,
+            2
+          ],
+          "X2": [
+            9.7,
+            8
+          ],
+          "O": [
+            5,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "X1",
+            "do": "X2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2"
+        ]
+      },
+      "ponudeni": [
+        "dužina",
+        "pravac",
+        "točka",
+        "polupravac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svaki dio počinje u točki O i produžuje se bez kraja na jednu stranu. Takav dio pravca je polupravac.",
+      "savjet": "Pogledaj ima li svaki dio početnu točku i ima li kraj."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-038",
+      "tezina": "srednje",
+      "pitanje": "Lucija je nacrtala dužinu AB dugu 5 cm, a Marko dužinu CD dugu 48 mm. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Dužina CD dulja je od dužine AB.",
+        "Dužine AB i CD jednako su duge.",
+        "Dužine se ne mogu usporediti.",
+        "Dužina AB dulja je od dužine CD."
+      ],
+      "tocan": 3,
+      "objasnjenje": "5 cm = 50 mm, a 50 mm je više od 48 mm. Zato je dužina AB dulja.",
+      "savjet": "Prije usporedbe izrazi obje duljine u istoj mjernoj jedinici."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-039",
+      "tezina": "srednje",
+      "pitanje": "Dužina AC duga je 10 cm. Točka B leži na dužini AC, a dužina AB duga je 4 cm. Izračunaj duljinu dužine BC.",
+      "ponudeni": [
+        "4 cm",
+        "6 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužine AB i BC zajedno čine dužinu AC. Zato je BC = 10 cm − 4 cm = 6 cm.",
+      "savjet": "Nacrtaj dužinu AC i na njoj točku B."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-040",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja o crtežu točna?",
+      "slika": {
+        "opis": "Crta a koja ide od istaknute točke O desno dolje prema lijevo gore. Na lijevom kraju nema istaknute točke.",
+        "tocke": {
+          "O": [
+            8.5,
+            3
+          ],
+          "X1": [
+            0.5,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "X1",
+            "oznaka": "a",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O"
+        ],
+        "skrivenaImena": [
+          "X1"
+        ]
+      },
+      "ponudeni": [
+        "Polupravac a počinje u točki O i nema kraja.",
+        "Polupravac a završava u točki O.",
+        "Polupravac a ima dvije krajnje točke.",
+        "Polupravac a nema početne točke."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka O je početna točka polupravca a. Od nje se polupravac produžuje bez kraja na jednu stranu.",
+      "savjet": "Sjeti se kako se zove jedina istaknuta točka polupravca."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-041",
+      "tezina": "srednje",
+      "pitanje": "Ravnalo je postavljeno uz dužinu AB. Točka A je na oznaci 2 cm, a točka B na oznaci 9 cm. Izračunaj duljinu dužine AB.",
+      "ponudeni": [
+        "2 cm",
+        "7 cm",
+        "9 cm",
+        "11 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ravnalo ne počinje od nule, pa oduzimamo: 9 cm − 2 cm = 7 cm.",
+      "savjet": "Provjeri na kojoj oznaci ravnala počinje dužina."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-042",
+      "tezina": "srednje",
+      "pitanje": "Točka A dužine AB je na nuli ravnala, a točka B na sedmoj maloj crtici iza oznake 4 cm. Izračunaj duljinu dužine AB.",
+      "ponudeni": [
+        "4 mm",
+        "47 mm",
+        "74 mm",
+        "407 mm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Do oznake 4 cm ima 40 mm, a još 7 malih crtica je 7 mm. Ukupno je 40 mm + 7 mm = 47 mm.",
+      "savjet": "Jedna mala crtica na ravnalu označava 1 mm."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-043",
+      "tezina": "srednje",
+      "pitanje": "Dužine su duge: AB 5 cm, CD 42 mm, EF 6 cm i GH 47 mm. Koja je dužina najkraća?",
+      "ponudeni": [
+        "dužina AB",
+        "dužina EF",
+        "dužina GH",
+        "dužina CD"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad sve izrazimo u milimetrima: AB = 50 mm, CD = 42 mm, EF = 60 mm, GH = 47 mm. Najkraća je dužina CD.",
+      "savjet": "Izrazi sve duljine u milimetrima pa ih usporedi."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-044",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Polupravac je dio pravca.",
+        "Pravac je dio polupravca.",
+        "Pravac je dio dužine.",
+        "Polupravac je dio dužine."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka na pravcu dijeli pravac na dva polupravca, pa je polupravac dio pravca. Pravac nema kraja, pa ne može biti dio ni polupravca ni dužine.",
+      "savjet": "Razmisli što je dulje: ono što nema kraja ili ono što ima kraj."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-045",
+      "tezina": "srednje",
+      "pitanje": "Kojim se drugim zapisom može imenovati dužina AB?",
+      "ponudeni": [
+        "dužina BA",
+        "točka BA",
+        "pravac b",
+        "polupravac a"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužina AB i dužina BA ista su dužina s istim krajnjim točkama A i B.",
+      "savjet": "Dužina ima iste krajnje točke bez obzira na to od koje kreneš."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-046",
+      "tezina": "srednje",
+      "pitanje": "Polupravci a i b imaju zajedničku početnu točku O i leže na istoj ravnoj crti, na suprotnim stranama. Što zajedno čine?",
+      "slika": {
+        "opis": "Iz točke O na suprotne strane izlaze crte a i b koje leže na istoj ravnoj crti.",
+        "tocke": {
+          "O": [
+            5,
+            4.5
+          ],
+          "X1": [
+            9.6,
+            7
+          ],
+          "X2": [
+            0.4,
+            2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "O",
+            "do": "X1",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "X2",
+            "oznaka": "b",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "O"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2"
+        ]
+      },
+      "ponudeni": [
+        "dužinu",
+        "polupravac",
+        "točku",
+        "pravac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zajedno se produžuju bez kraja na obje strane i nemaju ni početne ni krajnje točke. Zajedno čine pravac.",
+      "savjet": "Razmisli ima li zajednička crta ijedan kraj."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-047",
+      "tezina": "srednje",
+      "pitanje": "Koliko je ukupno dužina na crtežu?",
+      "slika": {
+        "opis": "Četverokut ABCD. Točke A i C spojene su još jednom crtom.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            8.5,
+            1
+          ],
+          "C": [
+            9,
+            8
+          ],
+          "D": [
+            2,
+            7.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "D",
+            "do": "A"
+          },
+          {
+            "od": "A",
+            "do": "C"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na crtežu su dužine AB, BC, CD, DA i AC. To je 5 dužina.",
+      "savjet": "Broji svaku crtu između dviju istaknutih točaka, i onu koja ide preko lika."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-048",
+      "tezina": "srednje",
+      "pitanje": "Na mreži kvadrata stranice 1 cm nacrtane su dužine AB i CD. Koja je tvrdnja točna?",
+      "slika": {
+        "opis": "Mreža kvadrata. Gore lijevo je vodoravna dužina AB, a desno okomita dužina CD.",
+        "tocke": {
+          "A": [
+            1,
+            7
+          ],
+          "B": [
+            6,
+            7
+          ],
+          "C": [
+            8,
+            1
+          ],
+          "D": [
+            8,
+            6
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "Dužina AB dulja je od dužine CD.",
+        "Dužina CD dulja je od dužine AB.",
+        "Dužina AB dvostruko je dulja od CD.",
+        "Dužine AB i CD jednako su duge."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina AB duga je 5 cm, a dužina CD također 5 cm. Jednako su duge, iako jedna stoji vodoravno, a druga okomito.",
+      "savjet": "Prebroji stranice kvadrata uz obje dužine."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-049",
+      "tezina": "srednje",
+      "pitanje": "Dužina AB duga je 8 cm. Dužina CD dvostruko je dulja od dužine AB. Izračunaj duljinu dužine CD.",
+      "ponudeni": [
+        "4 cm",
+        "6 cm",
+        "10 cm",
+        "16 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvostruko dulja znači 2 puta dulja: 2 · 8 cm = 16 cm.",
+      "savjet": "Dvostruko znači dva puta."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-050",
+      "tezina": "srednje",
+      "pitanje": "Ivan je dužinu dugu 12 cm podijelio na tri jednaka dijela. Izračunaj duljinu jednog dijela.",
+      "ponudeni": [
+        "3 cm",
+        "4 cm",
+        "9 cm",
+        "36 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužinu dijelimo na 3 jednaka dijela: 12 cm : 3 = 4 cm.",
+      "savjet": "Kojom se računskom radnjom nešto dijeli na jednake dijelove?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-051",
+      "tezina": "srednje",
+      "pitanje": "Matej je nacrtao crtu koja počinje u točki T i produžuje se bez kraja na jednu stranu. Što je nacrtao?",
+      "ponudeni": [
+        "pravac",
+        "dužinu",
+        "polupravac",
+        "točku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Crta s početnom točkom koja nema kraja je polupravac.",
+      "savjet": "Ima li crta početak? Ima li kraj?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-052",
+      "tezina": "srednje",
+      "pitanje": "Dužina AB duga je 4 cm, a dužina CD 40 mm. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Dužine AB i CD jednako su duge.",
+        "Dužina CD dulja je od dužine AB.",
+        "Dužina AB dulja je od dužine CD.",
+        "Dužina CD deset je puta dulja."
+      ],
+      "tocan": 0,
+      "objasnjenje": "4 cm = 40 mm, pa su dužine AB i CD jednako duge.",
+      "savjet": "Izrazi 4 cm u milimetrima."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-053",
+      "tezina": "srednje",
+      "pitanje": "Dvije dužine zajedno su duge 15 cm. Jedna je duga 9 cm. Izračunaj duljinu druge dužine.",
+      "ponudeni": [
+        "5 cm",
+        "6 cm",
+        "9 cm",
+        "24 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od ukupne duljine oduzimamo poznatu: 15 cm − 9 cm = 6 cm.",
+      "savjet": "Od ukupne duljine oduzmi duljinu poznate dužine."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-054",
+      "tezina": "srednje",
+      "pitanje": "Točka B leži na dužini AC. Izračunaj duljinu dužine AC.",
+      "slika": {
+        "opis": "Dužina AC s istaknutom točkom B. Dio AB označen je s 3 cm, a dio BC s 5 cm.",
+        "tocke": {
+          "A": [
+            1,
+            5
+          ],
+          "B": [
+            4,
+            5
+          ],
+          "C": [
+            9,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "5 cm"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "ponudeni": [
+        "2 cm",
+        "5 cm",
+        "8 cm",
+        "15 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužina AC sastoji se od dužina AB i BC: 3 cm + 5 cm = 8 cm.",
+      "savjet": "Dužina AC sastoji se od dva dijela."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-055",
+      "tezina": "srednje",
+      "pitanje": "Točke B i C leže na dužini AD. Izračunaj duljinu dužine BD.",
+      "slika": {
+        "opis": "Dužina AD s istaknutim točkama B i C. Dio AB označen je s 2 cm, dio BC s 3 cm, a dio CD s 4 cm.",
+        "tocke": {
+          "A": [
+            0.5,
+            5
+          ],
+          "B": [
+            2.5,
+            5
+          ],
+          "C": [
+            5.5,
+            5
+          ],
+          "D": [
+            9.5,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "2 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "oznaka": "4 cm"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "4 cm",
+        "5 cm",
+        "7 cm",
+        "9 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužina BD sastoji se od dužina BC i CD: 3 cm + 4 cm = 7 cm.",
+      "savjet": "Pronađi na crtežu od kojih se dijelova sastoji dužina BD."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-056",
+      "tezina": "srednje",
+      "pitanje": "Na pravcu p istaknute su točke A i B. Kako se zove dio pravca p omeđen tim točkama?",
+      "slika": {
+        "opis": "Crta p bez istaknutih točaka na krajevima. Na njoj su istaknute točke A i B.",
+        "tocke": {
+          "X1": [
+            0.3,
+            7
+          ],
+          "X2": [
+            9.7,
+            3
+          ],
+          "A": [
+            2.65,
+            6
+          ],
+          "B": [
+            6.88,
+            4.2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "X1",
+            "do": "X2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2"
+        ]
+      },
+      "ponudeni": [
+        "polupravac",
+        "pravac",
+        "točka",
+        "dužina AB"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dio pravca između dviju točaka, omeđen tim točkama, je dužina. Ovdje je to dužina AB.",
+      "savjet": "Taj dio ima početak i kraj u istaknutim točkama."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-057",
+      "tezina": "srednje",
+      "pitanje": "Dužinu AB produžimo preko točke B bez kraja. Što dobijemo?",
+      "ponudeni": [
+        "polupravac s početnom točkom A",
+        "polupravac s početnom točkom B",
+        "pravac",
+        "dulju dužinu AB"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Točka A ostaje na početku, a preko točke B crta se produžuje bez kraja. Dobijemo polupravac s početnom točkom A.",
+      "savjet": "Odredi koja je krajnja točka ostala i ima li crta sad kraj."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-058",
+      "tezina": "srednje",
+      "pitanje": "Nacrtane su tri dužine koje nemaju zajedničkih točaka. Koliko krajnjih točaka imaju zajedno?",
+      "ponudeni": [
+        "2",
+        "3",
+        "6",
+        "9"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka dužina ima 2 krajnje točke: 3 · 2 = 6.",
+      "savjet": "Koliko krajnjih točaka ima jedna dužina?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-059",
+      "tezina": "srednje",
+      "pitanje": "Može li se ravnalom izmjeriti duljina polupravca?",
+      "ponudeni": [
+        "Da, od početne točke do kraja.",
+        "Da, ali samo u milimetrima.",
+        "Ne, jer polupravac nema kraja.",
+        "Ne, jer polupravac nema početne točke."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polupravac se produžuje bez kraja, pa nema duljinu koju možemo izmjeriti. Mjerimo samo duljinu dužine.",
+      "savjet": "Sjeti se ima li polupravac krajnju točku."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-060",
+      "tezina": "srednje",
+      "pitanje": "Dužina AB duga je 7 cm. Dužina CD za 3 cm je kraća. Izračunaj duljinu dužine CD.",
+      "ponudeni": [
+        "3 cm",
+        "4 cm",
+        "10 cm",
+        "21 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kraća za 3 cm znači da oduzimamo: 7 cm − 3 cm = 4 cm.",
+      "savjet": "Kraća za neki broj znači da taj broj oduzimaš."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-061",
+      "tezina": "tesko",
+      "pitanje": "Na dužini AE istaknute su točke B, C i D. Koliko je ukupno dužina kojima su krajnje točke dvije od točaka A, B, C, D i E?",
+      "slika": {
+        "opis": "Dužina AE na kojoj su između A i E istaknute točke B, C i D, nejednako razmaknute.",
+        "tocke": {
+          "A": [
+            0.5,
+            3
+          ],
+          "B": [
+            2.3,
+            3.8
+          ],
+          "C": [
+            4.55,
+            4.8
+          ],
+          "D": [
+            7.25,
+            6
+          ],
+          "E": [
+            9.5,
+            7
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "E"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "4",
+        "5",
+        "8",
+        "10"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iz A idu 4 dužine (AB, AC, AD, AE), iz B još 3, iz C još 2 i iz D još 1: 4 + 3 + 2 + 1 = 10.",
+      "savjet": "Kreni od točke A i spoji je sa svim ostalim točkama, zatim isto učini s točkom B."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-062",
+      "tezina": "tesko",
+      "pitanje": "Na pravcu p istaknute su točke A, B i C. Koliko je polupravaca na pravcu p kojima je početna točka jedna od tih točaka?",
+      "slika": {
+        "opis": "Crta p bez istaknutih točaka na krajevima. Na njoj su istaknute točke A, B i C.",
+        "tocke": {
+          "X1": [
+            0.3,
+            2
+          ],
+          "X2": [
+            9.7,
+            8
+          ],
+          "A": [
+            2.65,
+            3.5
+          ],
+          "B": [
+            5,
+            5
+          ],
+          "C": [
+            7.35,
+            6.5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "X1",
+            "do": "X2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2"
+        ]
+      },
+      "ponudeni": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaka točka na pravcu početna je točka dvaju polupravaca, po jednog na svaku stranu: 3 · 2 = 6.",
+      "savjet": "Koliko polupravaca na pravcu počinje u jednoj njegovoj točki?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-063",
+      "tezina": "tesko",
+      "pitanje": "Na koje dijelove točke A i B dijele pravac p?",
+      "slika": {
+        "opis": "Crta p bez istaknutih točaka na krajevima. Na njoj su istaknute točke A i B.",
+        "tocke": {
+          "X1": [
+            0.3,
+            7
+          ],
+          "X2": [
+            9.7,
+            3
+          ],
+          "A": [
+            3.12,
+            5.8
+          ],
+          "B": [
+            6.88,
+            4.2
+          ]
+        },
+        "duzine": [
+          {
+            "od": "X1",
+            "do": "X2",
+            "oznaka": "p",
+            "krak": true
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2"
+        ]
+      },
+      "ponudeni": [
+        "dva polupravca i jednu dužinu",
+        "tri dužine",
+        "tri polupravca",
+        "dvije dužine i jedan polupravac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Između točaka A i B je dužina AB. Lijevo od A i desno od B pravac se produžuje bez kraja, pa su to dva polupravca.",
+      "savjet": "Promotri posebno dio između točaka i dijelove na krajevima."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-064",
+      "tezina": "tesko",
+      "pitanje": "Na dužini MN istaknute su još dvije točke. Koliko je ukupno dužina kojima su krajnje točke dvije od te četiri točke?",
+      "ponudeni": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Četiri točke na dužini: iz prve idu 3 dužine, iz druge još 2, iz treće još 1. Ukupno 3 + 2 + 1 = 6 dužina.",
+      "savjet": "Nacrtaj dužinu MN i dvije točke na njoj pa spajaj točke redom."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-065",
+      "tezina": "tesko",
+      "pitanje": "Na stranici BC trokuta ABC istaknuta je točka D. Koliko je ukupno dužina na crtežu?",
+      "slika": {
+        "opis": "Trokut ABC. Na stranici BC istaknuta je točka D, a točke A i D spojene su crtom.",
+        "tocke": {
+          "A": [
+            1,
+            1.5
+          ],
+          "B": [
+            9,
+            1.5
+          ],
+          "C": [
+            4,
+            8.5
+          ],
+          "D": [
+            6.5,
+            5
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "A"
+          },
+          {
+            "od": "A",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dužine su AB, AC, AD, BD, DC i cijela dužina BC. To je 6 dužina.",
+      "savjet": "Točka D dijeli dužinu BC na dva dijela, ali i cijela BC je dužina."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-066",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B, C i D leže tim redom na dužini AD dugoj 12 cm. Dužina AB duga je 3 cm, a dužina CD 4 cm. Izračunaj duljinu dužine BC.",
+      "ponudeni": [
+        "5 cm",
+        "7 cm",
+        "9 cm",
+        "19 cm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dužina AD sastoji se od AB, BC i CD. Zato je BC = 12 cm − 3 cm − 4 cm = 5 cm.",
+      "savjet": "Nacrtaj dužinu AD i označi na njoj točke B i C."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-067",
+      "tezina": "tesko",
+      "pitanje": "Točka C leži na dužini AB dugoj 9 cm. Dužina AC dvostruko je dulja od dužine CB. Izračunaj duljinu dužine AC.",
+      "ponudeni": [
+        "3 cm",
+        "6 cm",
+        "7 cm",
+        "18 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužina AB podijeljena je na 3 jednaka dijela: 9 cm : 3 = 3 cm. AC čine dva dijela: 2 · 3 cm = 6 cm.",
+      "savjet": "Ako je AC dvostruko dulja, na koliko je jednakih dijelova podijeljena dužina AB?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-068",
+      "tezina": "tesko",
+      "pitanje": "Dužina AB duga je 7 cm 5 mm, a dužina CD 48 mm. Izračunaj za koliko je milimetara dužina AB dulja.",
+      "ponudeni": [
+        "27 mm",
+        "33 mm",
+        "43 mm",
+        "123 mm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7 cm 5 mm = 75 mm. Razlika je 75 mm − 48 mm = 27 mm.",
+      "savjet": "Najprije izrazi duljinu dužine AB u milimetrima."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-069",
+      "tezina": "tesko",
+      "pitanje": "Dužine su duge: AB 5 cm 2 mm, CD 49 mm, EF 6 cm i GH 58 mm. Koja je dužina najdulja?",
+      "ponudeni": [
+        "dužina EF",
+        "dužina AB",
+        "dužina CD",
+        "dužina GH"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U milimetrima: AB = 52 mm, CD = 49 mm, EF = 60 mm, GH = 58 mm. Najdulja je dužina EF.",
+      "savjet": "Izrazi sve duljine u milimetrima."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-070",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko polupravcu i dužini?",
+      "ponudeni": [
+        "Oba imaju dvije krajnje točke.",
+        "Oba nemaju početnu točku.",
+        "Oba se mogu izmjeriti ravnalom.",
+        "Oba su dio pravca."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Polupravac i dužina dijelovi su pravca. Polupravac ima samo početnu točku i ne može se izmjeriti, a dužina ima dvije krajnje točke.",
+      "savjet": "Za svaku tvrdnju provjeri vrijedi li i za polupravac i za dužinu."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-071",
+      "tezina": "tesko",
+      "pitanje": "Dužinu AB dugu 4 cm produžimo preko točke B za 3 cm do točke C, a preko točke A za 2 cm do točke D. Izračunaj duljinu dužine DC.",
+      "ponudeni": [
+        "5 cm",
+        "6 cm",
+        "7 cm",
+        "9 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dužina DC sastoji se od DA, AB i BC: 2 cm + 4 cm + 3 cm = 9 cm.",
+      "savjet": "Nacrtaj dužinu AB pa je produži na obje strane."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-072",
+      "tezina": "tesko",
+      "pitanje": "Crta na crtežu sastavljena je od dužina AB, BC i CD. Izračunaj njezinu duljinu.",
+      "slika": {
+        "opis": "Crta od točke A gore do B, zatim desno do C i koso dolje do D. AB je označena s 3 cm, BC s 4 cm, a CD s 2 cm.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            1,
+            5.5
+          ],
+          "C": [
+            7,
+            5.5
+          ],
+          "D": [
+            8.8,
+            3.1
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B",
+            "oznaka": "3 cm"
+          },
+          {
+            "od": "B",
+            "do": "C",
+            "oznaka": "4 cm"
+          },
+          {
+            "od": "C",
+            "do": "D",
+            "oznaka": "2 cm"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "ponudeni": [
+        "6 cm",
+        "7 cm",
+        "9 cm",
+        "24 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Duljine dužina zbrajamo: 3 cm + 4 cm + 2 cm = 9 cm.",
+      "savjet": "Duljina cijele crte jednaka je zbroju duljina njezinih dijelova."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-073",
+      "tezina": "tesko",
+      "pitanje": "Dužinu AB produžimo bez kraja preko obje krajnje točke. Što dobijemo?",
+      "ponudeni": [
+        "pravac",
+        "polupravac",
+        "dulju dužinu",
+        "dva pravca"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Crta se sad produžuje bez kraja na obje strane i nema ni početne ni krajnje točke. To je pravac.",
+      "savjet": "Razmisli ima li nova crta ijedan kraj."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-074",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B i C leže tim redom na istoj ravnoj crti. Koja je od dužina AB, BC i AC najdulja?",
+      "ponudeni": [
+        "dužina AB",
+        "dužina BC",
+        "sve su jednako duge",
+        "dužina AC"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Točka B leži između A i C, pa je dužina AC sastavljena od dužina AB i BC. Zato je AC najdulja.",
+      "savjet": "Nacrtaj točke redom i pogledaj koja dužina sadrži obje ostale."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-075",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B i C leže na istoj ravnoj crti. Dužina AB duga je 5 cm, dužina BC 2 cm, a točka C je između A i B. Izračunaj duljinu dužine AC.",
+      "ponudeni": [
+        "2 cm",
+        "3 cm",
+        "7 cm",
+        "10 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka C je između A i B, pa je AC + CB = AB. Zato je AC = 5 cm − 2 cm = 3 cm.",
+      "savjet": "Nacrtaj dužinu AB i točku C između točaka A i B."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-076",
+      "tezina": "tesko",
+      "pitanje": "Ravnalo je postavljeno uz dužinu. Jedna krajnja točka je na oznaci 3 cm, a druga na oznaci 11 cm 4 mm. Izračunaj duljinu dužine.",
+      "ponudeni": [
+        "8 cm 1 mm",
+        "8 cm 4 mm",
+        "11 cm 4 mm",
+        "14 cm 4 mm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od oznake 3 cm do oznake 11 cm 4 mm ima 11 cm 4 mm − 3 cm = 8 cm 4 mm.",
+      "savjet": "Ravnalo ne počinje od nule, pa od veće oznake oduzmi manju."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-077",
+      "tezina": "tesko",
+      "pitanje": "Na dužini AB dugoj 12 cm označene su točke svaka 3 cm, počevši od točke A. Točke A i B su također označene. Koliko je ukupno označenih točaka?",
+      "ponudeni": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Točke su na 0 cm, 3 cm, 6 cm, 9 cm i 12 cm. To je 5 točaka.",
+      "savjet": "Zapiši na kojim su sve udaljenostima od točke A označene točke."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-078",
+      "tezina": "tesko",
+      "pitanje": "Dužina AB tri je puta dulja od dužine CD. Zajedno su duge 24 cm. Izračunaj duljinu dužine CD.",
+      "ponudeni": [
+        "3 cm",
+        "6 cm",
+        "8 cm",
+        "18 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužina CD je jedan dio, a AB tri takva dijela, ukupno 4 jednaka dijela. CD = 24 cm : 4 = 6 cm.",
+      "savjet": "Koliko jednakih dijelova čine dužine AB i CD zajedno?"
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-079",
+      "tezina": "tesko",
+      "pitanje": "Na dužini AD istaknute su točke B i C, a točka E spojena je s njima. Koliko je dužina na crtežu?",
+      "slika": {
+        "opis": "Vodoravna dužina AD na kojoj su istaknute točke B i C. Iznad nje je točka E spojena s točkama B i C.",
+        "tocke": {
+          "A": [
+            0.5,
+            2
+          ],
+          "B": [
+            3,
+            2
+          ],
+          "C": [
+            6.5,
+            2
+          ],
+          "D": [
+            9.5,
+            2
+          ],
+          "E": [
+            5,
+            8
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "D"
+          },
+          {
+            "od": "E",
+            "do": "B"
+          },
+          {
+            "od": "E",
+            "do": "C"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "ponudeni": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na dužini AD su dužine AB, AC, AD, BC, BD i CD, to je 6 dužina. Uz njih su još EB i EC. Ukupno je 8 dužina.",
+      "savjet": "Najprije prebroji dužine na dužini AD, a zatim dodaj one koje izlaze iz točke E."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-080",
+      "tezina": "tesko",
+      "pitanje": "Na mreži kvadrata stranice 1 cm nacrtana je crta sastavljena od dužina AB, BC i CD. Izračunaj njezinu duljinu.",
+      "slika": {
+        "opis": "Mreža kvadrata. Crta ide od točke A gore do B, zatim desno do C i dolje do D, sve po crtama mreže.",
+        "tocke": {
+          "A": [
+            1,
+            1
+          ],
+          "B": [
+            1,
+            6
+          ],
+          "C": [
+            7,
+            6
+          ],
+          "D": [
+            7,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "B",
+            "do": "C"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "11 cm",
+        "13 cm",
+        "14 cm",
+        "15 cm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "AB = 5 cm, BC = 6 cm i CD = 3 cm. Zbroj je 5 cm + 6 cm + 3 cm = 14 cm.",
+      "savjet": "Odredi duljinu svake dužine na mreži pa ih zbroji."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-081",
+      "tezina": "tesko",
+      "pitanje": "Točke A, B, C i D leže tim redom na pravcu p. Dužina AB duga je 4 cm, BC 1 cm, a CD 5 cm. Koja je dužina duga 6 cm?",
+      "ponudeni": [
+        "dužina BD",
+        "dužina AC",
+        "dužina AD",
+        "dužina CD"
+      ],
+      "tocan": 0,
+      "objasnjenje": "BD = BC + CD = 1 cm + 5 cm = 6 cm. AC = 5 cm, AD = 10 cm, a CD = 5 cm.",
+      "savjet": "Izračunaj duljine dužina iz ponuđenih odgovora."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-082",
+      "tezina": "tesko",
+      "pitanje": "Dužina AB duga je 9 cm. Točka C leži na njoj 2 cm od točke A, a točka D 2 cm od točke B. Izračunaj duljinu dužine CD.",
+      "ponudeni": [
+        "4 cm",
+        "5 cm",
+        "7 cm",
+        "13 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od 9 cm oduzimamo oba dijela na krajevima: 9 cm − 2 cm − 2 cm = 5 cm.",
+      "savjet": "Nacrtaj dužinu AB i označi točke C i D."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-083",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se polupravac razlikuje od pravca?",
+      "ponudeni": [
+        "Pravac ima početnu točku, a polupravac nema.",
+        "Polupravac ima dvije krajnje točke.",
+        "Polupravac ima početnu točku, a pravac nema.",
+        "Pravac se označava velikim slovom."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polupravac počinje u početnoj točki i produžuje se bez kraja na jednu stranu, a pravac nema ni početne ni krajnje točke.",
+      "savjet": "Sjeti se gdje polupravac počinje, a gdje pravac."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-084",
+      "tezina": "tesko",
+      "pitanje": "Koliko se crta na crtežu može izmjeriti ravnalom?",
+      "slika": {
+        "opis": "Šest crta: crta p bez istaknutih točaka, crta a koja počinje u točki O, crta b koja počinje u točki T te crte između točaka A i B, C i D te E i F.",
+        "tocke": {
+          "X1": [
+            0.3,
+            9.6
+          ],
+          "X2": [
+            9.7,
+            8.6
+          ],
+          "O": [
+            1,
+            7
+          ],
+          "X3": [
+            9.6,
+            7.4
+          ],
+          "T": [
+            9,
+            5
+          ],
+          "X4": [
+            0.4,
+            4.4
+          ],
+          "A": [
+            1,
+            2.5
+          ],
+          "B": [
+            4,
+            3
+          ],
+          "C": [
+            5.5,
+            3
+          ],
+          "D": [
+            9,
+            2
+          ],
+          "E": [
+            3,
+            0.5
+          ],
+          "F": [
+            8,
+            0.6
+          ]
+        },
+        "duzine": [
+          {
+            "od": "X1",
+            "do": "X2",
+            "oznaka": "p",
+            "krak": true
+          },
+          {
+            "od": "O",
+            "do": "X3",
+            "oznaka": "a",
+            "krak": true
+          },
+          {
+            "od": "T",
+            "do": "X4",
+            "oznaka": "b",
+            "krak": true
+          },
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "E",
+            "do": "F"
+          }
+        ],
+        "istaknuteTocke": [
+          "O",
+          "T",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "skrivenaImena": [
+          "X1",
+          "X2",
+          "X3",
+          "X4"
+        ]
+      },
+      "ponudeni": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izmjeriti se mogu samo dužine AB, CD i EF jer imaju dvije krajnje točke. Pravac p i polupravci a i b nemaju kraja.",
+      "savjet": "Duljinu ima samo crta koja ima početak i kraj."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-085",
+      "tezina": "tesko",
+      "pitanje": "Dužina AB duga je 3 cm 6 mm, a dužina BC 2 cm 7 mm. Točka B leži između A i C na istoj ravnoj crti. Izračunaj duljinu dužine AC.",
+      "ponudeni": [
+        "9 mm",
+        "5 cm 3 mm",
+        "6 cm 3 mm",
+        "6 cm 13 mm"
+      ],
+      "tocan": 2,
+      "objasnjenje": "36 mm + 27 mm = 63 mm, a to je 6 cm 3 mm.",
+      "savjet": "Zbroji posebno centimetre i milimetre, a 10 mm pretvori u 1 cm."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-086",
+      "tezina": "tesko",
+      "pitanje": "Dužina AB duga je 7 cm. Dužina CD za 15 mm je kraća. Izračunaj duljinu dužine CD.",
+      "ponudeni": [
+        "5 cm 5 mm",
+        "5 cm 8 mm",
+        "6 cm 5 mm",
+        "8 cm 5 mm"
+      ],
+      "tocan": 0,
+      "objasnjenje": "7 cm = 70 mm, a 70 mm − 15 mm = 55 mm, odnosno 5 cm 5 mm.",
+      "savjet": "Izrazi 7 cm u milimetrima pa oduzmi."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-087",
+      "tezina": "tesko",
+      "pitanje": "Dužina AB duga je 12 cm. Točka C je na sredini dužine AB, a točka D na sredini dužine CB. Izračunaj duljinu dužine AD.",
+      "ponudeni": [
+        "3 cm",
+        "6 cm",
+        "8 cm",
+        "9 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "AC = 12 cm : 2 = 6 cm, a CD = 6 cm : 2 = 3 cm. Zato je AD = 6 cm + 3 cm = 9 cm.",
+      "savjet": "Najprije izračunaj duljinu dužine AC, a zatim CD."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-088",
+      "tezina": "tesko",
+      "pitanje": "Na mreži kvadrata stranice 1 cm nacrtane su dužine AB, CD i EF. Koja je tvrdnja točna?",
+      "slika": {
+        "opis": "Mreža kvadrata. Gore je vodoravna dužina AB, dolje lijevo okomita dužina CD, a desno vodoravna dužina EF.",
+        "tocke": {
+          "A": [
+            1,
+            8
+          ],
+          "B": [
+            8,
+            8
+          ],
+          "C": [
+            1,
+            1
+          ],
+          "D": [
+            1,
+            4
+          ],
+          "E": [
+            4,
+            3
+          ],
+          "F": [
+            8,
+            3
+          ]
+        },
+        "duzine": [
+          {
+            "od": "A",
+            "do": "B"
+          },
+          {
+            "od": "C",
+            "do": "D"
+          },
+          {
+            "od": "E",
+            "do": "F"
+          }
+        ],
+        "istaknuteTocke": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "mreza": true
+      },
+      "ponudeni": [
+        "Dužina CD dulja je od dužine EF.",
+        "Dužina EF dvostruko je dulja od CD.",
+        "Dužine AB i EF jednako su duge.",
+        "Dužina AB duga je kao CD i EF zajedno."
+      ],
+      "tocan": 3,
+      "objasnjenje": "AB = 7 cm, CD = 3 cm i EF = 4 cm. Kako je 3 cm + 4 cm = 7 cm, dužina AB duga je kao CD i EF zajedno.",
+      "savjet": "Odredi duljinu svake dužine pa provjeri svaku tvrdnju."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-089",
+      "tezina": "tesko",
+      "pitanje": "Dužine AB i CD jednako su duge. Dužina AB za 2 cm je dulja od dužine EF, koja je duga 5 cm. Izračunaj zbroj duljina dužina AB i CD.",
+      "ponudeni": [
+        "7 cm",
+        "10 cm",
+        "12 cm",
+        "14 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "AB = 5 cm + 2 cm = 7 cm, a CD je jednako duga. Zbroj je 7 cm + 7 cm = 14 cm.",
+      "savjet": "Najprije izračunaj duljinu dužine AB."
+    },
+    {
+      "id": "4-matematika-tocka-pravac-polupravac-i-duzina-090",
+      "tezina": "tesko",
+      "pitanje": "Dužine AB, BC i CD jednako su duge i nastavljaju se jedna na drugu na istoj ravnoj crti. Dužina AD duga je 15 cm. Izračunaj duljinu dužine AB.",
+      "ponudeni": [
+        "3 cm",
+        "5 cm",
+        "12 cm",
+        "45 cm"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dužina AD sastoji se od 3 jednake dužine: 15 cm : 3 = 5 cm.",
+      "savjet": "Od koliko se jednakih dijelova sastoji dužina AD?"
+    }
+  ]
+}

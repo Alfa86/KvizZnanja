@@ -721,6 +721,52 @@
               ]
             },
             {
+              "id": "pravac-polupravac-i-duzina",
+              "naziv": "Pravac, polupravac i dužina",
+              "ikona": "📏",
+              "lekcije": [
+                {
+                  "id": "tocka-pravac-polupravac-i-duzina",
+                  "naziv": "Točka, pravac, polupravac i dužina",
+                  "opis": "Učenici prepoznaju, crtaju i imenuju točku, pravac, polupravac i dužinu te ih razlikuju po tome imaju li početnu i krajnju točku. Točke označavaju velikim tiskanim slovima, pravce i polupravce malim slovima, a dužinu njezinim krajnjim točkama (dužina AB). Uspoređuju duljine dužina.",
+                  "kljucniPojmovi": [
+                    "točka",
+                    "pravac",
+                    "polupravac",
+                    "početna točka",
+                    "dužina",
+                    "krajnje točke dužine",
+                    "duljina dužine"
+                  ]
+                },
+                {
+                  "id": "tocke-i-pravci",
+                  "naziv": "Točke i pravci",
+                  "opis": "Učenici određuju pripada li točka pravcu, polupravcu ili dužini te crtaju pravac kroz jednu ili dvije točke. Prepoznaju pravce koji se sijeku i određuju njihovo sjecište.",
+                  "kljucniPojmovi": [
+                    "točka pripada pravcu",
+                    "točka ne pripada pravcu",
+                    "pravac kroz dvije točke",
+                    "pravci koji se sijeku",
+                    "sjecište"
+                  ]
+                },
+                {
+                  "id": "usporedni-i-okomiti-pravci",
+                  "naziv": "Usporedni i okomiti pravci",
+                  "opis": "Učenici prepoznaju, crtaju i zapisuju usporedne (p ∥ q) i okomite (p ⊥ q) pravce. Okomitost provjeravaju trokutom ili preklopljenim papirom te pronalaze usporedne i okomite crte u okolini i na likovima.",
+                  "kljucniPojmovi": [
+                    "usporedni pravci",
+                    "okomiti pravci",
+                    "znak ∥",
+                    "znak ⊥",
+                    "pravi kut",
+                    "geometrijski trokut"
+                  ]
+                }
+              ]
+            },
+            {
               "id": "kutovi",
               "naziv": "Kutovi",
               "ikona": "📐",
