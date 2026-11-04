@@ -4,9 +4,9 @@
     {
       "id": "4-matematika-pojam-kuta-001",
       "tezina": "lagano",
-      "pitanje": "Na crtežu je nacrtan kut. Koja je točka vrh tog kuta?",
+      "pitanje": "Na crtežu je nacrtan kut. Kojim je slovom označen vrh tog kuta?",
       "slika": {
-        "opis": "Iz točke O izlaze dva polupravca: jedan prolazi točkom A, a drugi točkom B. Istaknuta je i točka T.",
+        "opis": "Iz točke O izlaze dva polupravca, krakovi a i b. Istaknuta je i točka T.",
         "tocke": {
           "O": [
             1,
@@ -28,11 +28,15 @@
         "duzine": [
           {
             "od": "O",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "O",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -46,12 +50,16 @@
         ],
         "istaknuteTocke": [
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
         "O",
-        "A",
-        "B",
+        "a",
+        "b",
         "T"
       ],
       "tocan": 0,
@@ -105,7 +113,7 @@
       "tezina": "lagano",
       "pitanje": "Kut na crtežu označen je grčkim slovom. Kako se čita to slovo?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Kut je označen slovom α.",
+        "opis": "Kut s vrhom V i kracima a i b. Kut je označen slovom α.",
         "tocke": {
           "V": [
             5,
@@ -123,11 +131,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -139,6 +151,10 @@
             ],
             "oznaka": "α"
           }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -156,7 +172,7 @@
       "tezina": "lagano",
       "pitanje": "Koji je od ovih zapisa oznaka kuta na crtežu?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B.",
+        "opis": "Kut s vrhom V i kracima a i b.",
         "tocke": {
           "V": [
             1,
@@ -174,11 +190,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -189,22 +209,26 @@
               "B"
             ]
           }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
-        "∠VAB",
-        "∠AVB",
-        "∠ABV",
-        "∠BAV"
+        "∠Vba",
+        "∠bVa",
+        "∠baV",
+        "∠Vab"
       ],
       "tocan": 1,
-      "objasnjenje": "Pri označavanju kuta slovo vrha pišemo u sredini. Zato je oznaka ovog kuta ∠AVB.",
-      "savjet": "U oznaci kuta slovo vrha stoji između slova točaka s krakova."
+      "objasnjenje": "Pri označavanju kuta slovo vrha pišemo u sredini, a slova krakova s obje strane. Zato je oznaka ovog kuta ∠bVa.",
+      "savjet": "U oznaci kuta slovo vrha stoji između slova krakova."
     },
     {
       "id": "4-matematika-pojam-kuta-007",
       "tezina": "lagano",
-      "pitanje": "Gdje se u oznaci kuta ∠AVB nalazi slovo vrha kuta?",
+      "pitanje": "Gdje se u oznaci kuta ∠bVa nalazi slovo vrha kuta?",
       "ponudeni": [
         "na prvom mjestu",
         "na zadnjem mjestu",
@@ -212,8 +236,8 @@
         "ispred znaka ∠"
       ],
       "tocan": 2,
-      "objasnjenje": "Vrh kuta ∠AVB je točka V. Slovo vrha uvijek pišemo između slova točaka s krakova.",
-      "savjet": "Krakovi kuta ∠AVB su polupravci VA i VB, pa potraži zajednički početak."
+      "objasnjenje": "Vrh kuta ∠bVa je točka V. Slovo vrha uvijek pišemo između slova krakova.",
+      "savjet": "Krakovi kuta ∠bVa su polupravci a i b, a vrh je njihov zajednički početak."
     },
     {
       "id": "4-matematika-pojam-kuta-008",
@@ -226,7 +250,7 @@
         "∥"
       ],
       "tocan": 0,
-      "objasnjenje": "Kut zapisujemo znakom ∠, na primjer ∠AVB. Znak △ koristimo za trokut.",
+      "objasnjenje": "Kut zapisujemo znakom ∠, na primjer ∠bVa. Znak △ koristimo za trokut.",
       "savjet": "Znak za kut i sam izgleda kao mali kut."
     },
     {
@@ -234,7 +258,7 @@
       "tezina": "lagano",
       "pitanje": "Koja istaknuta točka pripada kutu?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             9,
@@ -268,11 +292,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -289,6 +317,10 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -306,7 +338,7 @@
       "tezina": "lagano",
       "pitanje": "Koja istaknuta točka ne pripada kutu?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke F, G, H i K.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke F, G, H i K.",
         "tocke": {
           "V": [
             2,
@@ -340,11 +372,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -361,6 +397,10 @@
           "G",
           "H",
           "K"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -432,9 +472,9 @@
     {
       "id": "4-matematika-pojam-kuta-015",
       "tezina": "lagano",
-      "pitanje": "Kroz koje točke prolaze krakovi kuta s vrhom V?",
+      "pitanje": "Kako se zovu krakovi kuta s vrhom V?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka T.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka T.",
         "tocke": {
           "V": [
             5,
@@ -456,11 +496,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -474,17 +518,21 @@
         ],
         "istaknuteTocke": [
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
         "V i T",
-        "A i B",
-        "A i T",
-        "B i T"
+        "a i b",
+        "a i T",
+        "b i T"
       ],
       "tocan": 1,
-      "objasnjenje": "Krakovi su polupravci VA i VB, pa prolaze točkama A i B. Točka T nalazi se unutar kuta.",
-      "savjet": "Krakovi su polupravci koji počinju u vrhu kuta."
+      "objasnjenje": "Krakovi kuta su polupravci a i b koji izlaze iz vrha V. Točka T nalazi se unutar kuta.",
+      "savjet": "Krakovi su polupravci koji počinju u vrhu kuta. Označavamo ih malim slovima."
     },
     {
       "id": "4-matematika-pojam-kuta-016",
@@ -519,7 +567,7 @@
       "tezina": "lagano",
       "pitanje": "Kut α na crtežu može se zapisati i ovako:",
       "slika": {
-        "opis": "Kut α s vrhom S čiji krakovi prolaze točkama M i N.",
+        "opis": "Kut α s vrhom S i kracima m i n.",
         "tocke": {
           "S": [
             2,
@@ -537,11 +585,15 @@
         "duzine": [
           {
             "od": "S",
-            "do": "M"
+            "do": "M",
+            "oznaka": "m",
+            "krak": true
           },
           {
             "od": "S",
-            "do": "N"
+            "do": "N",
+            "oznaka": "n",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -553,16 +605,20 @@
             ],
             "oznaka": "α"
           }
+        ],
+        "skrivenaImena": [
+          "M",
+          "N"
         ]
       },
       "ponudeni": [
-        "∠SMN",
-        "∠NSM",
-        "∠SNM",
-        "∠MNS"
+        "∠Smn",
+        "∠nSm",
+        "∠Snm",
+        "∠mnS"
       ],
       "tocan": 1,
-      "objasnjenje": "Vrh kuta α je točka S, a krakovi prolaze točkama M i N. Zato kut zapisujemo ∠NSM ili ∠MSN.",
+      "objasnjenje": "Vrh kuta α je točka S, a krakovi su m i n. Zato kut zapisujemo ∠nSm ili ∠mSn.",
       "savjet": "Slovo vrha kuta piše se u sredini oznake."
     },
     {
@@ -570,7 +626,7 @@
       "tezina": "lagano",
       "pitanje": "Gdje se nalazi točka T?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka T.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka T.",
         "tocke": {
           "V": [
             1,
@@ -592,11 +648,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -610,6 +670,10 @@
         ],
         "istaknuteTocke": [
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -627,7 +691,7 @@
       "tezina": "lagano",
       "pitanje": "Gdje se nalazi točka M?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka M.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka M.",
         "tocke": {
           "V": [
             1,
@@ -649,11 +713,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -667,6 +735,10 @@
         ],
         "istaknuteTocke": [
           "M"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -684,7 +756,7 @@
       "tezina": "lagano",
       "pitanje": "Gdje se nalazi točka N?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka N.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka N.",
         "tocke": {
           "V": [
             5,
@@ -706,11 +778,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -724,6 +800,10 @@
         ],
         "istaknuteTocke": [
           "N"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -733,7 +813,7 @@
         "u vrhu kuta"
       ],
       "tocan": 1,
-      "objasnjenje": "Točka N leži na kraku VA. Točke na kracima također pripadaju kutu.",
+      "objasnjenje": "Točka N leži na kraku a. Točke na kracima također pripadaju kutu.",
       "savjet": "Pogledaj leži li točka na nekoj od nacrtanih crta."
     },
     {
@@ -769,7 +849,7 @@
       "tezina": "lagano",
       "pitanje": "Koja istaknuta točka leži na kraku kuta?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke E, F, G i H.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke E, F, G i H.",
         "tocke": {
           "V": [
             2,
@@ -803,11 +883,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -824,6 +908,10 @@
           "F",
           "G",
           "H"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -833,21 +921,21 @@
         "H"
       ],
       "tocan": 2,
-      "objasnjenje": "Točka E leži na kraku VB. Točka F je unutar kuta, a točke G i H su izvan kuta.",
+      "objasnjenje": "Točka E leži na kraku b. Točka F je unutar kuta, a točke G i H su izvan kuta.",
       "savjet": "Potraži točku koja leži točno na jednoj od crta koje izlaze iz vrha."
     },
     {
       "id": "4-matematika-pojam-kuta-025",
       "tezina": "lagano",
-      "pitanje": "Koji je od ovih zapisa oznaka kuta s vrhom S?",
+      "pitanje": "Kut ima vrh S i krakove a i b. Koji je od ovih zapisa oznaka tog kuta?",
       "ponudeni": [
-        "∠ASB",
-        "∠SAB",
-        "∠ABS",
-        "∠SBA"
+        "∠bSa",
+        "∠Sab",
+        "∠abS",
+        "∠Sba"
       ],
       "tocan": 0,
-      "objasnjenje": "U oznaci kuta slovo vrha piše se u sredini. Kut s vrhom S zapisujemo ∠ASB.",
+      "objasnjenje": "U oznaci kuta slovo vrha piše se u sredini, a slova krakova s obje strane. Zato kut zapisujemo ∠bSa.",
       "savjet": "Razmisli na koje se mjesto u oznaci kuta piše slovo vrha."
     },
     {
@@ -869,7 +957,7 @@
       "tezina": "lagano",
       "pitanje": "Odaberi točnu tvrdnju o točkama P i R.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P i R.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P i R.",
         "tocke": {
           "V": [
             5,
@@ -895,11 +983,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -914,6 +1006,10 @@
         "istaknuteTocke": [
           "P",
           "R"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -945,7 +1041,7 @@
       "tezina": "lagano",
       "pitanje": "Na crtežu su dva kuta, α i β. Odaberi točku koja je vrh kuta β.",
       "slika": {
-        "opis": "Kut α s vrhom K čiji krakovi prolaze točkama A i B te kut β s vrhom L čiji krakovi prolaze točkama C i D.",
+        "opis": "Kut α s vrhom K i kracima a i b te kut β s vrhom L i kracima c i d.",
         "tocke": {
           "K": [
             1,
@@ -975,19 +1071,27 @@
         "duzine": [
           {
             "od": "K",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "K",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "L",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           },
           {
             "od": "L",
-            "do": "D"
+            "do": "D",
+            "oznaka": "d",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1007,6 +1111,12 @@
             ],
             "oznaka": "β"
           }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
         ]
       },
       "ponudeni": [
@@ -1022,15 +1132,15 @@
     {
       "id": "4-matematika-pojam-kuta-030",
       "tezina": "lagano",
-      "pitanje": "Ana je nacrtala kut i označila ga ∠RTS. Koja je točka vrh tog kuta?",
+      "pitanje": "Ana je nacrtala kut i označila ga ∠sTr. Kojim je slovom označen vrh tog kuta?",
       "ponudeni": [
-        "R",
+        "s",
         "T",
-        "S",
-        "nijedna od njih"
+        "r",
+        "nijednim od njih"
       ],
       "tocan": 1,
-      "objasnjenje": "Slovo vrha kuta piše se u sredini oznake. U oznaci ∠RTS u sredini je slovo T.",
+      "objasnjenje": "Slovo vrha kuta piše se u sredini oznake. U oznaci ∠sTr u sredini je slovo T.",
       "savjet": "Pogledaj koje je slovo u sredini oznake kuta."
     },
     {
@@ -1038,7 +1148,7 @@
       "tezina": "srednje",
       "pitanje": "Odredi koliko istaknutih točaka pripada kutu.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R, S i T.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R, S i T.",
         "tocke": {
           "V": [
             1,
@@ -1076,11 +1186,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1098,6 +1212,10 @@
           "R",
           "S",
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -1107,7 +1225,7 @@
         "5"
       ],
       "tocan": 1,
-      "objasnjenje": "Točke P i Q su unutar kuta, a točka R leži na kraku VB. Zato kutu pripadaju 3 točke.",
+      "objasnjenje": "Točke P i Q su unutar kuta, a točka R leži na kraku b. Zato kutu pripadaju 3 točke.",
       "savjet": "Ne zaboravi da kutu pripadaju i točke koje leže na krakovima."
     },
     {
@@ -1115,7 +1233,7 @@
       "tezina": "srednje",
       "pitanje": "Odredi koliko istaknutih točaka ne pripada kutu.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             9,
@@ -1149,11 +1267,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1170,6 +1292,10 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -1179,7 +1305,7 @@
         "4"
       ],
       "tocan": 1,
-      "objasnjenje": "Točka P je unutar kuta, a točka Q na kraku VA, pa one pripadaju kutu. Točke R i S su izvan kuta.",
+      "objasnjenje": "Točka P je unutar kuta, a točka Q na kraku a, pa one pripadaju kutu. Točke R i S su izvan kuta.",
       "savjet": "Točka na kraku pripada kutu, a izvan kuta su samo točke koje nisu između krakova."
     },
     {
@@ -1187,7 +1313,7 @@
       "tezina": "srednje",
       "pitanje": "Koje istaknute točke pripadaju kutu?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             1,
@@ -1221,11 +1347,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1242,6 +1372,10 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -1259,7 +1393,7 @@
       "tezina": "srednje",
       "pitanje": "Koje istaknute točke ne pripadaju kutu?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R i T.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R i T.",
         "tocke": {
           "V": [
             5,
@@ -1293,11 +1427,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1314,6 +1452,10 @@
           "Q",
           "R",
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -1323,22 +1465,18 @@
         "Q i R"
       ],
       "tocan": 3,
-      "objasnjenje": "Točka P je unutar kuta, a točka T leži na kraku VB, pa pripadaju kutu. Točke Q i R su izvan kuta.",
+      "objasnjenje": "Točka P je unutar kuta, a točka T leži na kraku b, pa pripadaju kutu. Točke Q i R su izvan kuta.",
       "savjet": "Točke na kraku pripadaju kutu, pa i njih pažljivo pogledaj."
     },
     {
       "id": "4-matematika-pojam-kuta-035",
       "tezina": "srednje",
-      "pitanje": "Točke A i C leže na istom kraku kuta. Koji zapis nije oznaka kuta na crtežu?",
+      "pitanje": "Koja su dva zapisa oznake kuta na crtežu?",
       "slika": {
-        "opis": "Kut s vrhom V; jedan krak prolazi točkama C i A, a drugi točkom B.",
+        "opis": "Kut s vrhom V i kracima a i b.",
         "tocke": {
           "V": [
             1,
-            1
-          ],
-          "C": [
-            5,
             1
           ],
           "A": [
@@ -1353,11 +1491,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1369,46 +1511,47 @@
             ]
           }
         ],
-        "istaknuteTocke": [
-          "C"
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
-        "∠VCB",
-        "∠AVB",
-        "∠CVB",
-        "∠BVC"
+        "∠bVa i ∠aVb",
+        "∠bVa i ∠Vab",
+        "∠abV i ∠aVb",
+        "∠Vba i ∠baV"
       ],
       "tocan": 0,
-      "objasnjenje": "Vrh kuta je V, pa slovo V mora biti u sredini oznake. U zapisu ∠VCB u sredini je slovo C.",
+      "objasnjenje": "Vrh kuta je V, pa slovo V mora biti u sredini, a slova krakova a i b s obje strane. Zato kut možemo zapisati ∠bVa ili ∠aVb.",
       "savjet": "Za svaki zapis provjeri koje je slovo u sredini."
     },
     {
       "id": "4-matematika-pojam-kuta-036",
       "tezina": "srednje",
-      "pitanje": "Mia je kut s vrhom K i krakovima KL i KM zapisala kao ∠LMK. Što je pogrešno u tom zapisu?",
+      "pitanje": "Mia je kut s vrhom K i krakovima l i m zapisala kao ∠mlK. Što je pogrešno u tom zapisu?",
       "ponudeni": [
-        "slova moraju biti mala",
+        "krakovi se označavaju velikim slovima",
         "nedostaje grčko slovo",
         "slovo vrha nije u sredini",
         "zapis mora imati četiri slova"
       ],
       "tocan": 2,
-      "objasnjenje": "Vrh kuta je K, pa slovo K treba pisati u sredini. Ispravni zapisi su ∠LKM i ∠MKL.",
+      "objasnjenje": "Vrh kuta je K, pa slovo K treba pisati u sredini. Ispravni zapisi su ∠mKl i ∠lKm.",
       "savjet": "Prisjeti se pravila po kojem se slova pišu u oznaci kuta."
     },
     {
       "id": "4-matematika-pojam-kuta-037",
       "tezina": "srednje",
-      "pitanje": "Kut ∠PRS može se zapisati i ovako:",
+      "pitanje": "Kut ∠sRp može se zapisati i ovako:",
       "ponudeni": [
-        "∠SRP",
-        "∠RPS",
-        "∠PSR",
-        "∠SPR"
+        "∠pRs",
+        "∠Rps",
+        "∠psR",
+        "∠Rsp"
       ],
       "tocan": 0,
-      "objasnjenje": "Vrh kuta ∠PRS je točka R. Isti kut zapisujemo i obrnutim redom, ∠SRP, jer je R i dalje u sredini.",
+      "objasnjenje": "Vrh kuta ∠sRp je točka R. Isti kut zapisujemo i obrnutim redom, ∠pRs, jer je R i dalje u sredini.",
       "savjet": "Najprije odredi vrh kuta, a zatim pazi gdje stoji njegovo slovo."
     },
     {
@@ -1416,7 +1559,7 @@
       "tezina": "srednje",
       "pitanje": "Odaberi zajednički krak kutova α i β.",
       "slika": {
-        "opis": "Kut α s vrhom V između polupravaca VA i VB te kut β s vrhom V između polupravaca VB i VC.",
+        "opis": "Kut α s vrhom V između krakova a i b te kut β s vrhom V između krakova b i c.",
         "tocke": {
           "V": [
             1,
@@ -1438,15 +1581,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1466,16 +1615,21 @@
             ],
             "oznaka": "β"
           }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
-        "VA",
-        "VC",
-        "VB",
-        "AC"
+        "a",
+        "c",
+        "b",
+        "nemaju zajednički krak"
       ],
       "tocan": 2,
-      "objasnjenje": "Kut α omeđuju polupravci VA i VB, a kut β polupravci VB i VC. Oba kuta imaju krak VB.",
+      "objasnjenje": "Kut α omeđuju krakovi a i b, a kut β krakovi b i c. Oba kuta imaju krak b.",
       "savjet": "Za svaki kut napiši njegove krakove i usporedi ih."
     },
     {
@@ -1483,7 +1637,7 @@
       "tezina": "srednje",
       "pitanje": "Koji zapis označava kut β?",
       "slika": {
-        "opis": "Kut α s vrhom V između polupravaca VA i VB te kut β s vrhom V između polupravaca VB i VC.",
+        "opis": "Kut α s vrhom V između krakova a i b te kut β s vrhom V između krakova b i c.",
         "tocke": {
           "V": [
             9,
@@ -1505,15 +1659,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1533,17 +1693,22 @@
             ],
             "oznaka": "β"
           }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
-        "∠AVB",
-        "∠BVC",
-        "∠AVC",
-        "∠VBC"
+        "∠bVa",
+        "∠cVb",
+        "∠cVa",
+        "∠Vcb"
       ],
       "tocan": 1,
-      "objasnjenje": "Krakovi kuta β prolaze točkama B i C, a vrh mu je V. Zato je β = ∠BVC.",
-      "savjet": "Pronađi kroz koje točke prolaze krakovi kuta β."
+      "objasnjenje": "Krakovi kuta β su b i c, a vrh mu je V. Zato je β = ∠cVb.",
+      "savjet": "Pronađi krakove kuta β."
     },
     {
       "id": "4-matematika-pojam-kuta-040",
@@ -1564,7 +1729,7 @@
       "tezina": "srednje",
       "pitanje": "Gdje se nalazi točka T?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka T.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka T.",
         "tocke": {
           "V": [
             9,
@@ -1586,11 +1751,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1604,6 +1773,10 @@
         ],
         "istaknuteTocke": [
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -1613,7 +1786,7 @@
         "na kraku kuta"
       ],
       "tocan": 3,
-      "objasnjenje": "Točka T leži na kraku VB. Točke na kracima pripadaju kutu.",
+      "objasnjenje": "Točka T leži na kraku b. Točke na kracima pripadaju kutu.",
       "savjet": "Pažljivo pogledaj leži li točka na nekoj od crta ili između njih."
     },
     {
@@ -1635,7 +1808,7 @@
       "tezina": "srednje",
       "pitanje": "Odaberi točnu tvrdnju o istaknutim točkama.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q i R.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q i R.",
         "tocke": {
           "V": [
             2,
@@ -1665,11 +1838,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1685,6 +1862,10 @@
           "P",
           "Q",
           "R"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -1694,7 +1875,7 @@
         "Q i R pripadaju kutu, a P ne pripada"
       ],
       "tocan": 2,
-      "objasnjenje": "Točka P je unutar kuta, a točka Q leži na kraku VA, pa obje pripadaju kutu. Točka R je izvan kuta.",
+      "objasnjenje": "Točka P je unutar kuta, a točka Q leži na kraku a, pa obje pripadaju kutu. Točka R je izvan kuta.",
       "savjet": "Točke na kraku također pripadaju kutu."
     },
     {
@@ -1716,7 +1897,7 @@
       "tezina": "srednje",
       "pitanje": "Odaberi istaknutu točku koja leži izvan kuta.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             1,
@@ -1750,11 +1931,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1771,6 +1956,10 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -1780,7 +1969,7 @@
         "S"
       ],
       "tocan": 1,
-      "objasnjenje": "Točke P i S su između krakova, a točka Q leži na kraku VB. Samo je točka R izvan kuta.",
+      "objasnjenje": "Točke P i S su između krakova, a točka Q leži na kraku b. Samo je točka R izvan kuta.",
       "savjet": "Točka izvan kuta nije između krakova i ne leži na njima."
     },
     {
@@ -1788,7 +1977,7 @@
       "tezina": "srednje",
       "pitanje": "Odredi koliko istaknutih točaka leži na kracima kuta.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke K, L, M, N i R.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke K, L, M, N i R.",
         "tocke": {
           "V": [
             1,
@@ -1826,11 +2015,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1848,6 +2041,10 @@
           "M",
           "N",
           "R"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -1857,7 +2054,7 @@
         "4"
       ],
       "tocan": 2,
-      "objasnjenje": "Točke K i L leže na kraku VA, a točka M na kraku VB. Točka N je unutar kuta, a R izvan njega.",
+      "objasnjenje": "Točke K i L leže na kraku a, a točka M na kraku b. Točka N je unutar kuta, a R izvan njega.",
       "savjet": "Za svaku točku provjeri leži li točno na crti koja izlazi iz vrha."
     },
     {
@@ -1877,15 +2074,15 @@
     {
       "id": "4-matematika-pojam-kuta-048",
       "tezina": "srednje",
-      "pitanje": "Što sigurno imaju zajedničko kutovi ∠ABC i ∠DBE?",
+      "pitanje": "Što sigurno imaju zajedničko kutovi ∠cBa i ∠eBd?",
       "ponudeni": [
-        "krak BA",
-        "krak BE",
+        "krak a",
+        "krak e",
         "vrh B",
-        "točku D"
+        "krak d"
       ],
       "tocan": 2,
-      "objasnjenje": "U obje oznake u sredini je slovo B. Zato oba kuta imaju vrh u točki B.",
+      "objasnjenje": "U obje oznake u sredini je slovo B. Zato oba kuta imaju vrh u točki B, a krakovi su im različiti.",
       "savjet": "Pogledaj koje je slovo u sredini u obje oznake."
     },
     {
@@ -1893,7 +2090,7 @@
       "tezina": "srednje",
       "pitanje": "Koja istaknuta točka pripada kutu β?",
       "slika": {
-        "opis": "Kut α s vrhom V između polupravaca VA i VB te kut β s vrhom V između polupravaca VB i VC. Istaknute su točke P, Q, R i T.",
+        "opis": "Kut α s vrhom V između krakova a i b te kut β s vrhom V između krakova b i c. Istaknute su točke P, Q, R i T.",
         "tocke": {
           "V": [
             1,
@@ -1931,15 +2128,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -1965,6 +2168,11 @@
           "Q",
           "R",
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
@@ -1974,21 +2182,21 @@
         "T"
       ],
       "tocan": 0,
-      "objasnjenje": "Točka Q nalazi se između krakova VB i VC, pa pripada kutu β. Točka P pripada kutu α, a R i T su izvan obaju kutova.",
+      "objasnjenje": "Točka Q nalazi se između krakova b i c, pa pripada kutu β. Točka P pripada kutu α, a R i T su izvan obaju kutova.",
       "savjet": "Najprije pronađi krakove kuta β, a zatim pogledaj koja je točka između njih."
     },
     {
       "id": "4-matematika-pojam-kuta-050",
       "tezina": "srednje",
-      "pitanje": "Polupravci OA i OB imaju zajednički početak O. Koji kut omeđuju ti polupravci?",
+      "pitanje": "Polupravci a i b imaju zajednički početak O. Koji kut omeđuju ti polupravci?",
       "ponudeni": [
-        "∠OAB",
-        "∠ABO",
-        "∠AOB",
-        "∠BAO"
+        "∠Oab",
+        "∠abO",
+        "∠bOa",
+        "∠Oba"
       ],
       "tocan": 2,
-      "objasnjenje": "Zajednički početak O je vrh kuta, a polupravci OA i OB su krakovi. Kut zapisujemo ∠AOB.",
+      "objasnjenje": "Zajednički početak O je vrh kuta, a polupravci a i b su krakovi. Kut zapisujemo ∠bOa.",
       "savjet": "Zajednički početak polupravaca je vrh kuta."
     },
     {
@@ -1996,7 +2204,7 @@
       "tezina": "srednje",
       "pitanje": "Koja istaknuta točka pripada kutu, a ne leži na njegovim kracima?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             5,
@@ -2030,11 +2238,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2051,6 +2263,10 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -2066,23 +2282,23 @@
     {
       "id": "4-matematika-pojam-kuta-052",
       "tezina": "srednje",
-      "pitanje": "Kut je zapisan kao ∠XYZ. Koji su krakovi tog kuta?",
+      "pitanje": "Kut je zapisan kao ∠zYx. Koji su krakovi tog kuta?",
       "ponudeni": [
-        "XY i XZ",
-        "ZX i ZY",
-        "XZ i YZ",
-        "YX i YZ"
+        "z i Y",
+        "Y i x",
+        "samo Y",
+        "x i z"
       ],
       "tocan": 3,
-      "objasnjenje": "Vrh kuta ∠XYZ je Y, a krakovi počinju u vrhu. Zato su krakovi polupravci YX i YZ.",
-      "savjet": "Krakovi počinju u vrhu kuta, a vrh je slovo u sredini oznake."
+      "objasnjenje": "Vrh kuta ∠zYx je Y, a s obje strane vrha pišu se slova krakova. Zato su krakovi x i z.",
+      "savjet": "Vrh je veliko slovo u sredini oznake, a krakovi su mala slova s obje strane."
     },
     {
       "id": "4-matematika-pojam-kuta-053",
       "tezina": "srednje",
       "pitanje": "Gdje se nalazi točka T?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka T.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka T.",
         "tocke": {
           "V": [
             5,
@@ -2104,11 +2320,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2122,6 +2342,10 @@
         ],
         "istaknuteTocke": [
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -2131,7 +2355,7 @@
         "izvan kuta"
       ],
       "tocan": 3,
-      "objasnjenje": "Točka T nije između krakova kuta ni na njima, nego ispod kraka VA. Ona je izvan kuta.",
+      "objasnjenje": "Točka T nije između krakova kuta ni na njima, nego ispod kraka a. Ona je izvan kuta.",
       "savjet": "Pogledaj s koje se strane krakova nalazi točka."
     },
     {
@@ -2153,7 +2377,7 @@
       "tezina": "srednje",
       "pitanje": "Odredi koliko istaknutih točaka pripada kutu α.",
       "slika": {
-        "opis": "Kut α s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R, S, T i U.",
+        "opis": "Kut α s vrhom V i kracima a i b. Istaknute su točke P, Q, R, S, T i U.",
         "tocke": {
           "V": [
             1,
@@ -2195,11 +2419,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2219,6 +2447,10 @@
           "S",
           "T",
           "U"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -2228,29 +2460,29 @@
         "6"
       ],
       "tocan": 1,
-      "objasnjenje": "Točke P, Q i R su unutar kuta, a točka T leži na kraku VB. Zato kutu α pripadaju 4 točke.",
+      "objasnjenje": "Točke P, Q i R su unutar kuta, a točka T leži na kraku b. Zato kutu α pripadaju 4 točke.",
       "savjet": "Prebroji točke između krakova, a zatim dodaj one koje leže na krakovima."
     },
     {
       "id": "4-matematika-pojam-kuta-056",
       "tezina": "srednje",
-      "pitanje": "Koje točke iz zapisa ∠AVB sigurno pripadaju tom kutu?",
+      "pitanje": "Kut ∠bVa ima vrh V i krakove a i b. Koje točke sigurno pripadaju tom kutu?",
       "ponudeni": [
-        "sve tri točke: A, V i B",
-        "samo točka V",
-        "samo točke A i B",
-        "nijedna od tih točaka"
+        "vrh V i sve točke na kracima a i b",
+        "samo vrh V",
+        "samo točke na kracima, bez vrha",
+        "nijedna točka s krakova"
       ],
       "tocan": 0,
-      "objasnjenje": "Točka V je vrh, a točke A i B leže na krakovima VA i VB. Sve točke na kracima pripadaju kutu.",
-      "savjet": "Razmisli gdje leže točke iz oznake kuta: u vrhu ili na krakovima."
+      "objasnjenje": "Vrh V zajednički je početak obaju krakova, a sve točke na kracima pripadaju kutu.",
+      "savjet": "Razmisli gdje leži vrh i pripadaju li kutu točke na krakovima."
     },
     {
       "id": "4-matematika-pojam-kuta-057",
       "tezina": "srednje",
       "pitanje": "Koja istaknuta točka ne pripada kutu?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             5,
@@ -2284,11 +2516,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2305,6 +2541,10 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -2314,22 +2554,22 @@
         "R"
       ],
       "tocan": 1,
-      "objasnjenje": "Točke P i R su unutar kuta, a točka Q leži na kraku VA. Točka S je izvan kuta.",
+      "objasnjenje": "Točke P i R su unutar kuta, a točka Q leži na kraku a. Točka S je izvan kuta.",
       "savjet": "Točka na kraku pripada kutu, pa traži točku koja nije ni između krakova ni na njima."
     },
     {
       "id": "4-matematika-pojam-kuta-058",
       "tezina": "srednje",
-      "pitanje": "Na kraku VA kuta ∠AVB leži i točka C. Koji je od ovih zapisa također oznaka tog kuta?",
+      "pitanje": "Koji je od ovih zapisa također oznaka kuta ∠bVa?",
       "ponudeni": [
-        "∠VCB",
-        "∠ACB",
-        "∠CBV",
-        "∠CVB"
+        "∠Vba",
+        "∠baV",
+        "∠abV",
+        "∠aVb"
       ],
       "tocan": 3,
-      "objasnjenje": "Točka C leži na kraku VA, pa je polupravac VC isti krak. Zato kut možemo zapisati i kao ∠CVB.",
-      "savjet": "Vrh kuta ostaje isti, a umjesto točke A može se uzeti druga točka s istog kraka."
+      "objasnjenje": "Isti kut možemo zapisati i obrnutim redom, ∠aVb. Slovo vrha V i dalje je u sredini.",
+      "savjet": "Vrh kuta ostaje u sredini, a slova krakova mogu zamijeniti mjesta."
     },
     {
       "id": "4-matematika-pojam-kuta-059",
@@ -2348,9 +2588,9 @@
     {
       "id": "4-matematika-pojam-kuta-060",
       "tezina": "srednje",
-      "pitanje": "Točka C leži na kraku VB. Koji zapis označava kut na crtežu?",
+      "pitanje": "Kut na crtežu zapisan je kao ∠bVa. Što u tom zapisu označava slovo V?",
       "slika": {
-        "opis": "Kut s vrhom V; jedan krak prolazi točkom A, a drugi točkama C i B.",
+        "opis": "Kut s vrhom V i kracima a i b.",
         "tocke": {
           "V": [
             2,
@@ -2360,10 +2600,6 @@
             9.5,
             4
           ],
-          "C": [
-            3,
-            5.25
-          ],
           "B": [
             4,
             9.5
@@ -2372,11 +2608,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2388,26 +2628,27 @@
             ]
           }
         ],
-        "istaknuteTocke": [
-          "C"
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
-        "∠ACV",
-        "∠VAC",
-        "∠AVC",
-        "∠CAV"
+        "krak kuta",
+        "točku izvan kuta",
+        "vrh kuta",
+        "točku unutar kuta"
       ],
       "tocan": 2,
-      "objasnjenje": "Vrh kuta je V, a točke A i C leže na različitim krakovima. Zato je ∠AVC oznaka tog kuta.",
-      "savjet": "Slovo vrha mora biti u sredini, a druga dva slova na različitim krakovima."
+      "objasnjenje": "U zapisu kuta slovo vrha piše se u sredini, a slova krakova s obje strane. Zato V označava vrh kuta.",
+      "savjet": "Pogledaj koje je slovo u sredini zapisa."
     },
     {
       "id": "4-matematika-pojam-kuta-061",
       "tezina": "tesko",
-      "pitanje": "Iz točke V izlaze polupravci VA, VB i VC. Odredi koliko kutova s vrhom V određuju ti polupravci.",
+      "pitanje": "Iz točke V izlaze polupravci a, b i c. Odredi koliko kutova s vrhom V određuju ti polupravci.",
       "slika": {
-        "opis": "Iz točke V izlaze tri polupravca: kroz točku A, kroz točku B i kroz točku C.",
+        "opis": "Iz točke V izlaze tri polupravca a, b i c.",
         "tocke": {
           "V": [
             1,
@@ -2429,16 +2670,27 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
@@ -2448,7 +2700,7 @@
         "6"
       ],
       "tocan": 1,
-      "objasnjenje": "Svaka dva polupravca određuju jedan kut: ∠AVB, ∠BVC i ∠AVC. Zato su to 3 kuta.",
+      "objasnjenje": "Svaka dva polupravca određuju jedan kut: ∠bVa, ∠cVb i ∠cVa. Zato su to 3 kuta.",
       "savjet": "Uzmi dva po dva polupravca i zapiši svaki kut koji tako dobiješ."
     },
     {
@@ -2456,7 +2708,7 @@
       "tezina": "tesko",
       "pitanje": "Koja istaknuta točka pripada i kutu α i kutu β?",
       "slika": {
-        "opis": "Kut α s vrhom V između polupravaca VA i VB te kut β s vrhom V između polupravaca VB i VC. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut α s vrhom V između krakova a i b te kut β s vrhom V između krakova b i c. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             1,
@@ -2494,15 +2746,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2528,6 +2786,11 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
@@ -2537,7 +2800,7 @@
         "S"
       ],
       "tocan": 2,
-      "objasnjenje": "Točka P leži na zajedničkom kraku VB, pa pripada objema kutovima. Q pripada samo kutu α, a R samo kutu β.",
+      "objasnjenje": "Točka P leži na zajedničkom kraku b, pa pripada objema kutovima. Q pripada samo kutu α, a R samo kutu β.",
       "savjet": "Razmisli koji dio crteža pripada objema kutovima istodobno."
     },
     {
@@ -2545,7 +2808,7 @@
       "tezina": "tesko",
       "pitanje": "Koja istaknuta točka ne pripada ni kutu α ni kutu β?",
       "slika": {
-        "opis": "Kut α s vrhom V između polupravaca VA i VB te kut β s vrhom V između polupravaca VB i VC. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut α s vrhom V između krakova a i b te kut β s vrhom V između krakova b i c. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             9,
@@ -2583,15 +2846,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2617,6 +2886,11 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
@@ -2626,7 +2900,7 @@
         "R"
       ],
       "tocan": 1,
-      "objasnjenje": "Točka P je unutar kuta α, Q unutar kuta β, a R leži na kraku VC. Samo je točka S izvan obaju kutova.",
+      "objasnjenje": "Točka P je unutar kuta α, Q unutar kuta β, a R leži na kraku c. Samo je točka S izvan obaju kutova.",
       "savjet": "Za svaku točku provjeri pripada li barem jednom od tih dvaju kutova."
     },
     {
@@ -2634,7 +2908,7 @@
       "tezina": "tesko",
       "pitanje": "Marko tvrdi da točka T ne pripada kutu jer je daleko od vrha V. Odaberi točnu tvrdnju.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka T.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka T.",
         "tocke": {
           "V": [
             1,
@@ -2656,11 +2930,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2674,6 +2952,10 @@
         ],
         "istaknuteTocke": [
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -2689,9 +2971,9 @@
     {
       "id": "4-matematika-pojam-kuta-065",
       "tezina": "tesko",
-      "pitanje": "Točka R leži na istom pravcu kao krak VA. Odaberi točnu tvrdnju o točki R.",
+      "pitanje": "Točka R leži na istom pravcu kao krak a. Odaberi točnu tvrdnju o točki R.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka R.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka R.",
         "tocke": {
           "V": [
             4,
@@ -2713,11 +2995,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2731,54 +3017,50 @@
         ],
         "istaknuteTocke": [
           "R"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
-        "pripada, leži na kraku VA",
+        "pripada, leži na kraku a",
         "pripada, leži unutar kuta",
         "pripada, to je vrh kuta",
         "ne pripada, leži izvan kuta"
       ],
       "tocan": 3,
-      "objasnjenje": "Krak VA počinje u točki V i ide prema točki A. Točka R je s druge strane vrha, pa nije na kraku i ne pripada kutu.",
+      "objasnjenje": "Krak a počinje u vrhu V i ide samo u jednom smjeru. Točka R je s druge strane vrha, pa nije na kraku i ne pripada kutu.",
       "savjet": "Krak je polupravac: počinje u vrhu i ide samo u jednom smjeru."
     },
     {
       "id": "4-matematika-pojam-kuta-066",
       "tezina": "tesko",
-      "pitanje": "Na kraku VA kuta ∠AVB leži i točka C. Odredi koliko različitih zapisa s tri slova označava taj kut.",
+      "pitanje": "Kut ima vrh V i krakove a i b. Odredi koliko različitih zapisa s tri slova označava taj kut.",
       "ponudeni": [
+        "1",
         "2",
         "3",
-        "4",
-        "6"
+        "4"
       ],
-      "tocan": 2,
-      "objasnjenje": "Taj kut možemo zapisati kao ∠AVB, ∠BVA, ∠CVB i ∠BVC. To su 4 zapisa.",
-      "savjet": "Vrh je u sredini; s jedne strane može biti bilo koja točka s jednog kraka, a s druge točka s drugog kraka."
+      "tocan": 1,
+      "objasnjenje": "Taj kut možemo zapisati kao ∠bVa i ∠aVb. Slovo vrha je u sredini, a slova krakova mogu zamijeniti mjesta. To su 2 zapisa.",
+      "savjet": "Vrh je u sredini, a slova krakova pišu se s obje strane."
     },
     {
       "id": "4-matematika-pojam-kuta-067",
       "tezina": "tesko",
-      "pitanje": "Koji zapis ne označava kut na crtežu?",
+      "pitanje": "Koja tvrdnja o kutu na crtežu nije točna?",
       "slika": {
-        "opis": "Kut s vrhom V; jedan krak prolazi točkama C i A, a drugi točkama D i B.",
+        "opis": "Kut s vrhom V i kracima a i b.",
         "tocke": {
           "V": [
             1,
             1
           ],
-          "C": [
-            5,
-            1
-          ],
           "A": [
             9.5,
             1
-          ],
-          "D": [
-            3,
-            5
           ],
           "B": [
             5,
@@ -2788,11 +3070,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2804,27 +3090,27 @@
             ]
           }
         ],
-        "istaknuteTocke": [
-          "C",
-          "D"
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
-        "∠CVD",
-        "∠DVA",
-        "∠CVA",
-        "∠BVC"
+        "V je vrh kuta.",
+        "a i b su krakovi kuta.",
+        "Kut se može zapisati ∠Vab.",
+        "Kut se može zapisati ∠bVa."
       ],
       "tocan": 2,
-      "objasnjenje": "Točke C i A leže na istom kraku, pa ∠CVA nije oznaka ovog kuta. U ostalim zapisima točke su na različitim krakovima.",
-      "savjet": "Provjeri leže li prvo i zadnje slovo zapisa na različitim krakovima."
+      "objasnjenje": "U zapisu kuta slovo vrha mora biti u sredini. Zato je ∠Vab pogrešan zapis, a ∠bVa točan.",
+      "savjet": "Provjeri je li u zapisu slovo vrha u sredini."
     },
     {
       "id": "4-matematika-pojam-kuta-068",
       "tezina": "tesko",
       "pitanje": "Odredi koliko istaknutih točaka pripada kutu.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R, S, T i U.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R, S, T i U.",
         "tocke": {
           "V": [
             9,
@@ -2866,11 +3152,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2889,6 +3179,10 @@
           "S",
           "T",
           "U"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -2906,7 +3200,7 @@
       "tezina": "tesko",
       "pitanje": "Kutovi α i β zajedno čine jedan veći kut. Koji je to kut?",
       "slika": {
-        "opis": "Kut α s vrhom V između polupravaca VA i VB te kut β s vrhom V između polupravaca VB i VC.",
+        "opis": "Kut α s vrhom V između krakova a i b te kut β s vrhom V između krakova b i c.",
         "tocke": {
           "V": [
             1,
@@ -2928,15 +3222,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -2956,26 +3256,31 @@
             ],
             "oznaka": "β"
           }
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
-        "∠AVB",
-        "∠AVC",
-        "∠BVC",
-        "∠ABC"
+        "∠bVa",
+        "∠cVa",
+        "∠cVb",
+        "∠cba"
       ],
       "tocan": 1,
-      "objasnjenje": "Veći kut omeđuju vanjski krakovi VA i VC, a krak VB je unutar njega. Zato je to ∠AVC.",
+      "objasnjenje": "Veći kut omeđuju vanjski krakovi a i c, a krak b je unutar njega. Zato je to ∠cVa.",
       "savjet": "Pronađi dva kraka koja su s vanjske strane obaju kutova."
     },
     {
       "id": "4-matematika-pojam-kuta-070",
       "tezina": "tesko",
-      "pitanje": "Točka M pripada kutu ∠AVB, a ne leži ni na jednom njegovom kraku. Što je točno za točku M?",
+      "pitanje": "Točka M pripada kutu ∠bVa, a ne leži ni na jednom njegovom kraku. Što je točno za točku M?",
       "ponudeni": [
         "nalazi se izvan kuta",
         "to je vrh kuta",
-        "leži na polupravcu VA",
+        "leži na kraku a",
         "nalazi se unutar kuta"
       ],
       "tocan": 3,
@@ -2985,23 +3290,23 @@
     {
       "id": "4-matematika-pojam-kuta-071",
       "tezina": "tesko",
-      "pitanje": "Ema je nacrtala kutove ∠KOL i ∠LOM. Koji je zajednički krak tih kutova?",
+      "pitanje": "Ema je nacrtala kutove ∠lOk i ∠mOl. Koji je zajednički krak tih kutova?",
       "ponudeni": [
-        "OL",
-        "OK",
-        "OM",
-        "KM"
+        "l",
+        "k",
+        "m",
+        "nemaju zajednički krak"
       ],
       "tocan": 0,
-      "objasnjenje": "Krakovi kuta ∠KOL su OK i OL, a krakovi kuta ∠LOM su OL i OM. Zajednički je krak OL.",
-      "savjet": "Za svaki kut napiši oba kraka; krakovi počinju u vrhu."
+      "objasnjenje": "Krakovi kuta ∠lOk su k i l, a krakovi kuta ∠mOl su l i m. Zajednički je krak l.",
+      "savjet": "Za svaki kut napiši oba kraka: to su mala slova s obje strane vrha."
     },
     {
       "id": "4-matematika-pojam-kuta-072",
       "tezina": "tesko",
       "pitanje": "Odredi koliko istaknutih točaka pripada kutu α, a ne pripada kutu β.",
       "slika": {
-        "opis": "Kut α s vrhom V između polupravaca VA i VB te kut β s vrhom V između polupravaca VB i VC. Istaknute su točke P, Q, R, S i T.",
+        "opis": "Kut α s vrhom V između krakova a i b te kut β s vrhom V između krakova b i c. Istaknute su točke P, Q, R, S i T.",
         "tocke": {
           "V": [
             1,
@@ -3043,15 +3348,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -3078,6 +3389,11 @@
           "R",
           "S",
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
@@ -3087,15 +3403,15 @@
         "4"
       ],
       "tocan": 1,
-      "objasnjenje": "Točke P i Q pripadaju samo kutu α. Točka R leži na zajedničkom kraku VB, pa pripada i kutu β.",
+      "objasnjenje": "Točke P i Q pripadaju samo kutu α. Točka R leži na zajedničkom kraku b, pa pripada i kutu β.",
       "savjet": "Pazi na točke na zajedničkom kraku: one pripadaju objema kutovima."
     },
     {
       "id": "4-matematika-pojam-kuta-073",
       "tezina": "tesko",
-      "pitanje": "Odaberi točku koja pripada kutu ∠AVC, a ne pripada kutu ∠AVB.",
+      "pitanje": "Odaberi točku koja pripada kutu ∠cVa, a ne pripada kutu ∠bVa.",
       "slika": {
-        "opis": "Iz točke V izlaze polupravci kroz točke A, B i C. Istaknute su točke P, Q, R i S.",
+        "opis": "Iz točke V izlaze polupravci a, b i c. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             1,
@@ -3133,15 +3449,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "istaknuteTocke": [
@@ -3149,6 +3471,11 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
@@ -3158,13 +3485,13 @@
         "S"
       ],
       "tocan": 0,
-      "objasnjenje": "Točka Q nalazi se između krakova VB i VC, pa je u kutu ∠AVC, ali ne i u kutu ∠AVB. Točke P i R pripadaju objema kutovima.",
-      "savjet": "Kut ∠AVB je dio kuta ∠AVC, pa traži točku u preostalom dijelu."
+      "objasnjenje": "Točka Q nalazi se između krakova b i c, pa je u kutu ∠cVa, ali ne i u kutu ∠bVa. Točke P i R pripadaju objema kutovima.",
+      "savjet": "Kut ∠bVa je dio kuta ∠cVa, pa traži točku u preostalom dijelu."
     },
     {
       "id": "4-matematika-pojam-kuta-074",
       "tezina": "tesko",
-      "pitanje": "Točke A, B i C leže na jednom pravcu, a B je između A i C. Točka V nije na tom pravcu. Gdje je točka B u odnosu na kut ∠AVC?",
+      "pitanje": "Točka A leži na kraku a, a točka C na kraku b kuta ∠bVa. Točka B je na dužini AC, između A i C. Gdje je točka B u odnosu na kut?",
       "ponudeni": [
         "izvan kuta",
         "na kraku kuta",
@@ -3172,15 +3499,15 @@
         "u vrhu kuta"
       ],
       "tocan": 2,
-      "objasnjenje": "Točke A i C leže na različitim krakovima, a točka B je na dužini AC između njih. Zato je B unutar kuta ∠AVC.",
-      "savjet": "Nacrtaj kut ∠AVC i dužinu AC, pa na njoj označi točku B."
+      "objasnjenje": "Točke A i C leže na različitim krakovima, a točka B je na dužini AC između njih. Zato je B unutar kuta ∠bVa.",
+      "savjet": "Nacrtaj kut ∠bVa, na svakom kraku označi po jednu točku i spoji ih dužinom."
     },
     {
       "id": "4-matematika-pojam-kuta-075",
       "tezina": "tesko",
       "pitanje": "Gdje se nalazi točka T?",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknuta je točka T.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknuta je točka T.",
         "tocke": {
           "V": [
             1,
@@ -3202,11 +3529,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -3220,6 +3551,10 @@
         ],
         "istaknuteTocke": [
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -3235,9 +3570,9 @@
     {
       "id": "4-matematika-pojam-kuta-076",
       "tezina": "tesko",
-      "pitanje": "Odaberi istaknutu točku koja leži na kraku VB.",
+      "pitanje": "Odaberi istaknutu točku koja leži na kraku b.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             4,
@@ -3271,11 +3606,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -3292,6 +3631,10 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -3301,15 +3644,15 @@
         "P"
       ],
       "tocan": 3,
-      "objasnjenje": "Točka P leži na polupravcu VB. Točka Q je na istom pravcu, ali s druge strane vrha, pa nije na kraku.",
-      "savjet": "Krak počinje u vrhu i ide samo prema točki B."
+      "objasnjenje": "Točka P leži na polupravcu b. Točka Q je na istom pravcu, ali s druge strane vrha, pa nije na kraku.",
+      "savjet": "Krak počinje u vrhu i ide samo u jednom smjeru."
     },
     {
       "id": "4-matematika-pojam-kuta-077",
       "tezina": "tesko",
       "pitanje": "Odredi koliko istaknutih točaka leži izvan kuta.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke P, Q, R, S, T i U.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke P, Q, R, S, T i U.",
         "tocke": {
           "V": [
             2,
@@ -3351,11 +3694,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -3374,6 +3721,10 @@
           "S",
           "T",
           "U"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -3383,15 +3734,15 @@
         "4"
       ],
       "tocan": 2,
-      "objasnjenje": "Točke P i S su unutar kuta, a točka U leži na kraku VA. Izvan kuta su točke Q, R i T.",
+      "objasnjenje": "Točke P i S su unutar kuta, a točka U leži na kraku a. Izvan kuta su točke Q, R i T.",
       "savjet": "Točke na krakovima nisu izvan kuta."
     },
     {
       "id": "4-matematika-pojam-kuta-078",
       "tezina": "tesko",
-      "pitanje": "Kut α je ∠AVC, a kut β je ∠BVD. Koja istaknuta točka pripada i kutu α i kutu β?",
+      "pitanje": "Kut α je ∠cVa, a kut β je ∠dVb. Koja istaknuta točka pripada i kutu α i kutu β?",
       "slika": {
-        "opis": "Iz točke V izlaze polupravci kroz točke A, B, C i D. Istaknute su točke P, Q, R i S.",
+        "opis": "Iz točke V izlaze polupravci a, b, c i d. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             1,
@@ -3433,19 +3784,27 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "D"
+            "do": "D",
+            "oznaka": "d",
+            "krak": true
           }
         ],
         "istaknuteTocke": [
@@ -3453,6 +3812,12 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C",
+          "D"
         ]
       },
       "ponudeni": [
@@ -3462,7 +3827,7 @@
         "S"
       ],
       "tocan": 1,
-      "objasnjenje": "Točka P je između polupravaca VB i VC, a taj dio pripada i kutu α i kutu β. Točka Q pripada samo kutu α, a R samo kutu β.",
+      "objasnjenje": "Točka P je između krakova b i c, a taj dio pripada i kutu α i kutu β. Točka Q pripada samo kutu α, a R samo kutu β.",
       "savjet": "Najprije pronađi krakove svakog kuta, a zatim dio crteža koji im je zajednički."
     },
     {
@@ -3470,7 +3835,7 @@
       "tezina": "tesko",
       "pitanje": "Krakovi kuta nacrtani su samo djelomično. Odaberi točnu tvrdnju o točkama P, Q i R.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B; krakovi su nacrtani samo do tih točaka. Istaknute su točke P, Q i R.",
+        "opis": "Kut s vrhom V i kracima a i b; krakovi su nacrtani samo djelomično. Istaknute su točke P, Q i R.",
         "tocke": {
           "V": [
             2,
@@ -3500,11 +3865,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -3520,6 +3889,10 @@
           "P",
           "Q",
           "R"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -3549,23 +3922,23 @@
     {
       "id": "4-matematika-pojam-kuta-081",
       "tezina": "tesko",
-      "pitanje": "Dva kuta imaju vrh V i zajednički krak VB. Druga dva kraka su VA i VC. Koji su to kutovi?",
+      "pitanje": "Dva kuta imaju vrh V i zajednički krak b. Druga dva kraka su a i c. Koji su to kutovi?",
       "ponudeni": [
-        "∠AVB i ∠AVC",
-        "∠AVB i ∠BVC",
-        "∠ABV i ∠BCV",
-        "∠VAB i ∠VBC"
+        "∠bVa i ∠cVa",
+        "∠bVa i ∠cVb",
+        "∠baV i ∠cbV",
+        "∠Vba i ∠Vcb"
       ],
       "tocan": 1,
-      "objasnjenje": "Jedan kut ima krakove VA i VB, a drugi VB i VC. Zato su to kutovi ∠AVB i ∠BVC.",
-      "savjet": "Svaki od tih kutova ima krak VB i još jedan krak."
+      "objasnjenje": "Jedan kut ima krakove a i b, a drugi b i c. Zato su to kutovi ∠bVa i ∠cVb.",
+      "savjet": "Svaki od tih kutova ima krak b i još jedan krak."
     },
     {
       "id": "4-matematika-pojam-kuta-082",
       "tezina": "tesko",
       "pitanje": "Odredi koliko istaknutih točaka pripada kutu.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B. Istaknute su točke V, P, Q, R i S.",
+        "opis": "Kut s vrhom V i kracima a i b. Istaknute su točke V, P, Q, R i S.",
         "tocke": {
           "V": [
             5,
@@ -3599,11 +3972,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -3621,6 +3998,10 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -3630,7 +4011,7 @@
         "4"
       ],
       "tocan": 2,
-      "objasnjenje": "Kutu pripadaju vrh V, točka P unutar kuta i točka S na kraku VB. Točke Q i R su izvan kuta.",
+      "objasnjenje": "Kutu pripadaju vrh V, točka P unutar kuta i točka S na kraku b. Točke Q i R su izvan kuta.",
       "savjet": "Vrh leži na oba kraka, a točke na krakovima pripadaju kutu."
     },
     {
@@ -3652,7 +4033,7 @@
       "tezina": "tesko",
       "pitanje": "Krakovi kuta nacrtani su samo djelomično. Odredi koliko istaknutih točaka leži na kracima kuta.",
       "slika": {
-        "opis": "Kut s vrhom V čiji krakovi prolaze točkama A i B; krakovi su nacrtani samo do tih točaka. Istaknute su točke P, Q, R, S i T.",
+        "opis": "Kut s vrhom V i kracima a i b; krakovi su nacrtani samo djelomično. Istaknute su točke P, Q, R, S i T.",
         "tocke": {
           "V": [
             1,
@@ -3690,11 +4071,15 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -3712,6 +4097,10 @@
           "R",
           "S",
           "T"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B"
         ]
       },
       "ponudeni": [
@@ -3727,23 +4116,23 @@
     {
       "id": "4-matematika-pojam-kuta-085",
       "tezina": "tesko",
-      "pitanje": "Kut ∠MNP ima krak NM. Koji je njegov drugi krak?",
+      "pitanje": "Kut ∠pNm ima krak m. Koji je njegov drugi krak?",
       "ponudeni": [
-        "NP",
-        "MP",
-        "PN",
-        "MN"
+        "p",
+        "N",
+        "m",
+        "nema drugog kraka"
       ],
       "tocan": 0,
-      "objasnjenje": "Vrh kuta ∠MNP je N, a oba kraka počinju u vrhu. Zato je drugi krak polupravac NP.",
-      "savjet": "Krak kuta je polupravac koji počinje u vrhu, a vrh je slovo u sredini."
+      "objasnjenje": "Vrh kuta ∠pNm je N, a slova krakova pišu se s obje strane vrha. Zato je drugi krak p.",
+      "savjet": "Vrh je veliko slovo u sredini, a krakovi su mala slova s obje strane."
     },
     {
       "id": "4-matematika-pojam-kuta-086",
       "tezina": "tesko",
       "pitanje": "Odaberi točku koja pripada kutu α, a ne pripada kutu β.",
       "slika": {
-        "opis": "Kut α s vrhom V između polupravaca VA i VB te kut β s vrhom V između polupravaca VB i VC. Istaknute su točke P, Q, R i S.",
+        "opis": "Kut α s vrhom V između krakova a i b te kut β s vrhom V između krakova b i c. Istaknute su točke P, Q, R i S.",
         "tocke": {
           "V": [
             9,
@@ -3781,15 +4170,21 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "kutovi": [
@@ -3815,6 +4210,11 @@
           "Q",
           "R",
           "S"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
@@ -3824,13 +4224,13 @@
         "S"
       ],
       "tocan": 2,
-      "objasnjenje": "Točka Q je između krakova VA i VB. Točka P leži na zajedničkom kraku VB, pa pripada i kutu β.",
+      "objasnjenje": "Točka Q je između krakova a i b. Točka P leži na zajedničkom kraku b, pa pripada i kutu β.",
       "savjet": "Točka na zajedničkom kraku pripada objema kutovima."
     },
     {
       "id": "4-matematika-pojam-kuta-087",
       "tezina": "tesko",
-      "pitanje": "Odredi koliko različitih vrhova imaju kutovi ∠ABC, ∠DBE i ∠FGH.",
+      "pitanje": "Odredi koliko različitih vrhova imaju kutovi ∠cBa, ∠eBd i ∠hGf.",
       "ponudeni": [
         "1",
         "2",
@@ -3838,13 +4238,13 @@
         "6"
       ],
       "tocan": 1,
-      "objasnjenje": "Vrh je slovo u sredini oznake: B, B i G. Kutovi imaju 2 različita vrha.",
+      "objasnjenje": "Vrh je veliko slovo u sredini oznake: B, B i G. Kutovi imaju 2 različita vrha.",
       "savjet": "Za svaki kut zapiši slovo vrha, a ista slova broji samo jednom."
     },
     {
       "id": "4-matematika-pojam-kuta-088",
       "tezina": "tesko",
-      "pitanje": "Tomislav je nacrtao kut ∠DEF i točku G unutar kuta. Zatim je produžio nacrtane krakove. Gdje je sada točka G?",
+      "pitanje": "Tomislav je nacrtao kut ∠fEd i točku G unutar kuta. Zatim je produžio nacrtane krakove. Gdje je sada točka G?",
       "ponudeni": [
         "sada izvan kuta",
         "sada na kraku kuta",
@@ -3858,23 +4258,23 @@
     {
       "id": "4-matematika-pojam-kuta-089",
       "tezina": "tesko",
-      "pitanje": "Kut ∠SOR ima vrh O. Na kraku OS leži točka T. Koji zapis nije oznaka tog kuta?",
+      "pitanje": "Kut ∠sOr ima vrh O. Koji je od ovih zapisa također oznaka tog kuta?",
       "ponudeni": [
-        "∠ROS",
-        "∠TOR",
-        "∠ROT",
-        "∠OTR"
+        "∠Ors",
+        "∠rsO",
+        "∠Osr",
+        "∠rOs"
       ],
       "tocan": 3,
-      "objasnjenje": "Vrh kuta je O, pa slovo O mora biti u sredini. U zapisu ∠OTR u sredini je slovo T.",
+      "objasnjenje": "Slovo vrha O mora ostati u sredini, a slova krakova mogu zamijeniti mjesta. Zato je i ∠rOs oznaka tog kuta.",
       "savjet": "Provjeri u svakom zapisu koje je slovo u sredini."
     },
     {
       "id": "4-matematika-pojam-kuta-090",
       "tezina": "tesko",
-      "pitanje": "Iz točke V izlaze polupravci VA, VB i VC. Kojem od ovih kutova ne pripada točka P?",
+      "pitanje": "Iz točke V izlaze polupravci a, b i c. Kojem od ovih kutova ne pripada točka P?",
       "slika": {
-        "opis": "Iz točke V izlaze polupravci kroz točke A, B i C. Istaknuta je točka P.",
+        "opis": "Iz točke V izlaze polupravci a, b i c. Istaknuta je točka P.",
         "tocke": {
           "V": [
             1,
@@ -3900,29 +4300,40 @@
         "duzine": [
           {
             "od": "V",
-            "do": "A"
+            "do": "A",
+            "oznaka": "a",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "B"
+            "do": "B",
+            "oznaka": "b",
+            "krak": true
           },
           {
             "od": "V",
-            "do": "C"
+            "do": "C",
+            "oznaka": "c",
+            "krak": true
           }
         ],
         "istaknuteTocke": [
           "P"
+        ],
+        "skrivenaImena": [
+          "A",
+          "B",
+          "C"
         ]
       },
       "ponudeni": [
-        "∠BVC",
-        "∠AVB",
-        "∠AVC",
-        "∠CVA"
+        "∠cVb",
+        "∠bVa",
+        "∠cVa",
+        "∠aVc"
       ],
       "tocan": 1,
-      "objasnjenje": "Točka P nalazi se između polupravaca VB i VC. Ona je unutar kutova ∠BVC i ∠AVC, ali izvan kuta ∠AVB.",
+      "objasnjenje": "Točka P nalazi se između krakova b i c. Ona je unutar kutova ∠cVb i ∠cVa, ali izvan kuta ∠bVa.",
       "savjet": "Za svaki zapis pronađi oba kraka i provjeri je li točka između njih."
     }
   ]

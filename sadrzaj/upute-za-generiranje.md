@@ -141,6 +141,7 @@ Pitanje kojem treba slika dobiva polje "slika" s crtežem opisanim podacima:
 - "mreza": true crta kvadratnu mrežu (jedinični kvadrati na cijelim koordinatama) preko područja koje zauzimaju točke; vrhovi lika tada trebaju biti na cijelim koordinatama.
 - Imena točaka ispisuju se uz lik; točke čije ime ne treba prikazati navedi u "skrivenaImena": ["D"].
 - Za vanjski kut zadaj krake: { "vrh": "B", "kraci": ["C", "D"], "oznaka": "β'" }.
+- Krakovi samostalnog kuta (koji nije kut lika) uvijek se označavaju malim slovima a, b, c…, a vrh velikim slovom. Krak crtaj kao dužinu od vrha do pomoćne točke s "krak": true i oznakom kraka, a ime pomoćne točke sakrij: "duzine": [{ "od": "V", "do": "A", "oznaka": "a", "krak": true }], "skrivenaImena": ["A"]. U tekstu pitanja krak se zove „krak a“, a kut se zapisuje slovom vrha u sredini: ∠bVa. Pomoćne točke krakova ne spominju se u tekstu.
 - Crtež ne smije otkrivati odgovor (npr. ne označavaj kut za koji se pita brojem).
 ````
 

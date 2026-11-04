@@ -74,6 +74,20 @@ const kruznice = computed(() => (props.crtez.kruznice ?? []).map((k) => {
 
 interface Oznaka { x: number, y: number, tekst: string, jeTocka: boolean }
 
+// Oznaka kraka kuta (polupravca) stoji uz njegov kraj, kao u udžbeniku. Od nekoliko mjesta
+// uz kraj kraka bira se ono najdalje od ostalih točaka, da se ne preklopi s njihovim imenima.
+function polozajOznakeKraka(vrh: V, kraj: V, pomocna: string): V {
+  const smjer = jedinicni(razlika(kraj, vrh))
+  const okomica = v(-smjer.y, smjer.x)
+  const odmak = 0.45 * m.value
+  const kandidati = [0.85, 0.65, 1].flatMap(t => [1, -1].map(s => zbroj(zbroj(vrh, puta(razlika(kraj, vrh), t)), puta(okomica, s * odmak))))
+  kandidati.push(zbroj(kraj, puta(smjer, odmak)))
+  const ostale = Object.entries(props.crtez.tocke).filter(([ime]) => ime !== pomocna).map(([, t]) => v(t[0], t[1]))
+  const slobodno = (p: V) => Math.min(Infinity, ...ostale.map(t => duljina(razlika(p, t))))
+  // Prva strana koja je dovoljno daleko od svih točaka; inače ona s najviše mjesta
+  return kandidati.find(p => slobodno(p) > 0.9) ?? kandidati.reduce((x, y) => (slobodno(y) > slobodno(x) ? y : x))
+}
+
 const duzine = computed(() => (props.crtez.duzine ?? []).map((d) => {
   const a = tocka(d.od)
   const b = tocka(d.do)
@@ -89,7 +103,7 @@ const duzine = computed(() => (props.crtez.duzine ?? []).map((d) => {
     const q = zbroj(c, puta(okomica, -0.18))
     return { x1: sx(p), y1: sy(p), x2: sx(q), y2: sy(q) }
   })
-  const polozaj = zbroj(sredina, puta(okomica, 0.55))
+  const polozaj = d.krak ? polozajOznakeKraka(a, b, d.do) : zbroj(sredina, puta(okomica, 0.55))
 
   return {
     x1: sx(a), y1: sy(a), x2: sx(b), y2: sy(b),

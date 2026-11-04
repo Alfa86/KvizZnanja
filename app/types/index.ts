@@ -47,6 +47,7 @@ export interface DuzinaCrteza {
   oznaka?: string         // npr. 'a', '5 cm', 'x', '?'
   isprekidana?: boolean
   crtice?: 1 | 2 | 3      // oznaka jednakih duljina
+  krak?: boolean          // krak kuta (polupravac iz vrha): oznaka malim slovom stoji uz kraj, ne na sredini
 }
 
 export interface KutCrteza {
