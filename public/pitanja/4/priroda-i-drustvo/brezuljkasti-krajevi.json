@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "brezuljkasti-krajevi",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-001",
+      "tezina": "lagano",
+      "pitanje": "U kojem se dijelu Hrvatske nalaze brežuljkasti krajevi?",
+      "ponudeni": [
+        "Na sjeverozapadu Hrvatske",
+        "Na jugu, uz Jadransko more",
+        "Na krajnjem istoku Hrvatske",
+        "Na otocima u Jadranu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brežuljkasti krajevi nalaze se na sjeverozapadu Hrvatske, između nizinskih i gorskih krajeva.",
+      "savjet": "Sjeti se gdje se na karti Hrvatske nalazi Hrvatsko zagorje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-002",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo niske i zaobljene uzvisine?",
+      "ponudeni": [
+        "Brežuljci",
+        "Planine",
+        "Nizine",
+        "Doline"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brežuljci su niske, blago zaobljene uzvisine. Po njima su brežuljkasti krajevi dobili ime.",
+      "savjet": "Sjeti se po čemu je ovaj kraj dobio ime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-003",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih krajeva brežuljkasti kraj?",
+      "ponudeni": [
+        "Hrvatsko zagorje",
+        "Gorski kotar",
+        "Dalmacija",
+        "Baranja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatsko zagorje je brežuljkasti kraj. Gorski kotar je gorski, Dalmacija primorski, a Baranja nizinski kraj.",
+      "savjet": "Sjeti se kraja sjeverno od Zagreba, iza gore Medvednice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju sunčani obronci brežuljaka zasađeni vinovom lozom?",
+      "ponudeni": [
+        "Gorice",
+        "Livade",
+        "Pašnjaci",
+        "Polja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gorice su sunčani obronci brežuljaka na kojima se nalaze vinogradi.",
+      "savjet": "Taj naziv zvuči kao umanjenica riječi gora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove mala kuća u vinogradu u kojoj se čuvaju vino i alat?",
+      "ponudeni": [
+        "Klijet",
+        "Staja",
+        "Silos",
+        "Sjenik"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Klijet je mala kuća u vinogradu. U njoj se čuvaju vino, bačve i alat za rad u vinogradu.",
+      "savjet": "Sjeti se kućice koju vinogradari imaju među redovima loze."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-006",
+      "tezina": "lagano",
+      "pitanje": "Koja se biljka uzgaja u vinogradima?",
+      "ponudeni": [
+        "Vinova loza",
+        "Kukuruz",
+        "Maslina",
+        "Pšenica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U vinogradima se uzgaja vinova loza, a njezin plod je grožđe.",
+      "savjet": "Sjeti se od čijeg se ploda radi vino."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove gospodarska djelatnost u kojoj se uzgaja vinova loza?",
+      "ponudeni": [
+        "Vinogradarstvo",
+        "Ratarstvo",
+        "Voćarstvo",
+        "Ribarstvo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uzgoj vinove loze zove se vinogradarstvo. To je jedna od najvažnijih djelatnosti brežuljkastih krajeva.",
+      "savjet": "Naziv djelatnosti dolazi od mjesta na kojem raste loza."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove gospodarska djelatnost u kojoj se uzgajaju jabuke, kruške i šljive?",
+      "ponudeni": [
+        "Povrtlarstvo",
+        "Voćarstvo",
+        "Stočarstvo",
+        "Šumarstvo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uzgoj voća zove se voćarstvo. Na obroncima brežuljaka ima mnogo voćnjaka.",
+      "savjet": "Jabuke, kruške i šljive pripadaju istoj skupini hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-009",
+      "tezina": "lagano",
+      "pitanje": "Koji je grad brežuljkastog kraja nekad bio glavni grad Hrvatske?",
+      "ponudeni": [
+        "Krapina",
+        "Varaždin",
+        "Čakovec",
+        "Zabok"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Varaždin je nekad bio glavni grad Hrvatske. Danas je poznat po starim baroknim građevinama.",
+      "savjet": "Sjeti se većeg grada na rijeci Dravi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-010",
+      "tezina": "lagano",
+      "pitanje": "Koji je grad središte Međimurja?",
+      "ponudeni": [
+        "Varaždin",
+        "Čakovec",
+        "Krapina",
+        "Koprivnica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čakovec je najveći grad i središte Međimurja.",
+      "savjet": "U tom gradu nalazi se stari grad obitelji Zrinski."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-011",
+      "tezina": "lagano",
+      "pitanje": "Između kojih se dviju rijeka nalazi Međimurje?",
+      "ponudeni": [
+        "Između Save i Kupe",
+        "Između Mure i Drave",
+        "Između Krke i Cetine",
+        "Između Dunava i Save"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Međimurje se nalazi na sjeveru Hrvatske, između rijeka Mure i Drave.",
+      "savjet": "Sjeti se rijeka koje teku na samom sjeveru Hrvatske, uz granicu s Mađarskom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-012",
+      "tezina": "lagano",
+      "pitanje": "Koja rijeka teče Hrvatskim zagorjem i ima isto ime kao jedan zagorski grad?",
+      "ponudeni": [
+        "Sava",
+        "Krapina",
+        "Drava",
+        "Neretva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rijeka Krapina teče Hrvatskim zagorjem i ima isto ime kao grad Krapina.",
+      "savjet": "Sjeti se grada u kojem je pronađeno nalazište pračovjeka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu mjesta s izvorima tople vode u kojima se ljudi liječe i odmaraju?",
+      "ponudeni": [
+        "Luke",
+        "Toplice",
+        "Tvornice",
+        "Gorice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Toplice su mjesta s izvorima tople, ljekovite vode. U Zagorju su to npr. Krapinske i Stubičke Toplice.",
+      "savjet": "Naziv tih mjesta povezan je s temperaturom vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-014",
+      "tezina": "lagano",
+      "pitanje": "Koji se dvorac u Hrvatskom zagorju nalazi na brežuljku iznad jezera?",
+      "ponudeni": [
+        "Tvrđa u Osijeku",
+        "Trakošćan",
+        "Tvrđava Nehaj",
+        "Kneževa palača"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dvorac Trakošćan stoji na brežuljku iznad jezera i jedan je od najposjećenijih dvoraca u Hrvatskoj.",
+      "savjet": "Taj se dvorac nalazi na sjeveru Zagorja, blizu granice sa Slovenijom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-015",
+      "tezina": "lagano",
+      "pitanje": "Kakva su ljeta i zime u brežuljkastim krajevima?",
+      "ponudeni": [
+        "Ljeta su vruća i suha, a zime blage i kišne",
+        "Ljeta su kratka i svježa, a zime duge i vrlo snježne",
+        "Ljeta su topla, a zime hladne",
+        "Cijele je godine vruće i suho"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brežuljkasti krajevi imaju topla ljeta i hladne zime, kao i veći dio unutrašnjosti Hrvatske.",
+      "savjet": "Ovi krajevi nisu uz more, a nisu ni u visokim planinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-016",
+      "tezina": "lagano",
+      "pitanje": "Koje se poznato hodočasničko svetište nalazi u Hrvatskom zagorju?",
+      "ponudeni": [
+        "Trsat",
+        "Sinj",
+        "Marija Bistrica",
+        "Aljmaš"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Marija Bistrica u Hrvatskom zagorju najveće je marijansko svetište u Hrvatskoj i posjećuju je brojni hodočasnici.",
+      "savjet": "Sjeti se svetišta smještenog sjeverno od gore Medvednice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-017",
+      "tezina": "lagano",
+      "pitanje": "Po kojem je važnom nalazištu poznata Krapina?",
+      "ponudeni": [
+        "Po nalazištu nafte",
+        "Po nalazištu zlata",
+        "Po nalazištu pračovjeka",
+        "Po nalazištu morske soli"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Krapini je pronađeno nalazište pračovjeka, a o njemu se može učiti u Muzeju krapinskih neandertalaca.",
+      "savjet": "Sjeti se ljudi koji su živjeli vrlo davno, u prapovijesti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-018",
+      "tezina": "lagano",
+      "pitanje": "U kojem se zagorskom mjestu nalazi muzej na otvorenom Staro selo?",
+      "ponudeni": [
+        "U Varaždinu",
+        "U Vukovaru",
+        "U Kumrovcu",
+        "U Čakovcu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Staro selo u Kumrovcu muzej je na otvorenom sa starim zagorskim kućama, okućnicama i alatima.",
+      "savjet": "To je malo mjesto u Zagorju uz rijeku Sutlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-019",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove crveno ukrašeno srce od medenog tijesta, poznati suvenir sjeverne Hrvatske?",
+      "ponudeni": [
+        "Zagorski štrukli",
+        "Bučnica",
+        "Licitarsko srce",
+        "Fritula"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Licitarsko srce izrađuje se od medenog tijesta, boji se crveno i ukrašava. Licitarski obrt zaštićen je kao UNESCO-va baština.",
+      "savjet": "Sjeti se suvenira koji se često prodaje na sajmovima i proštenjima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-020",
+      "tezina": "lagano",
+      "pitanje": "Od kojeg se materijala izrađuju tradicijske dječje igračke Hrvatskog zagorja?",
+      "ponudeni": [
+        "Od plastike",
+        "Od stakla",
+        "Od drva",
+        "Od kamena"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tradicijske igračke Hrvatskog zagorja izrađuju se od drva i šareno se boje. Zaštićene su kao UNESCO-va baština.",
+      "savjet": "Sjeti se materijala kojeg u šumama brežuljaka ima napretek."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-021",
+      "tezina": "lagano",
+      "pitanje": "Koje je jelo tradicijsko jelo Hrvatskog zagorja?",
+      "ponudeni": [
+        "Čobanac",
+        "Brudet",
+        "Zagorski štrukli",
+        "Soparnik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zagorski štrukli prave se od tijesta i svježeg sira. Čobanac je slavonsko jelo, a brudet i soparnik dalmatinska jela.",
+      "savjet": "Sjeti se jela od tijesta i svježeg sira."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-022",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo udubljenje između dvaju brežuljaka kojim često teče potok?",
+      "ponudeni": [
+        "Vrh",
+        "Otok",
+        "Poluotok",
+        "Dolina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dolina je udubljenje između uzvisina. U dolinama brežuljkastih krajeva često teku potoci i rijeke.",
+      "savjet": "Sjeti se kamo voda teče kad se spušta niz obronke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-023",
+      "tezina": "lagano",
+      "pitanje": "Koja rijeka čini granicu između Hrvatskog zagorja i Slovenije?",
+      "ponudeni": [
+        "Neretva",
+        "Cetina",
+        "Una",
+        "Sutla"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rijeka Sutla teče zapadnim rubom Hrvatskog zagorja i čini granicu sa Slovenijom.",
+      "savjet": "Ta je rijeka na zapadu Zagorja, blizu Kumrovca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-024",
+      "tezina": "lagano",
+      "pitanje": "Na kojoj se strani brežuljaka najčešće nalaze vinogradi?",
+      "ponudeni": [
+        "Na sjenovitoj, sjevernoj strani",
+        "Na dnu doline uz potok",
+        "Usred guste šume",
+        "Na sunčanoj, južnoj strani"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vinogradi se sade na sunčanoj, južnoj strani brežuljaka jer grožđu za dozrijevanje treba mnogo sunca.",
+      "savjet": "Sjeti se što je grožđu potrebno da bi bilo slatko."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-025",
+      "tezina": "lagano",
+      "pitanje": "Što se u brežuljkastim krajevima proizvodi od grožđa?",
+      "ponudeni": [
+        "Maslinovo ulje",
+        "Brašno",
+        "Šećer",
+        "Vino"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od grožđa se proizvodi vino. Vinogradari ga čuvaju u bačvama u podrumima i klijetima.",
+      "savjet": "Sjeti se što se čuva u bačvama u klijeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-026",
+      "tezina": "lagano",
+      "pitanje": "Koje se od navedenog voća uzgaja u voćnjacima brežuljkastih krajeva?",
+      "ponudeni": [
+        "Banane",
+        "Naranče",
+        "Datulje",
+        "Jabuke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U voćnjacima brežuljkastih krajeva uzgajaju se jabuke, kruške i šljive. Banane i datulje trebaju vruću klimu, a naranče blage zime uz more.",
+      "savjet": "Sjeti se voća koje dobro podnosi hladnu zimu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-027",
+      "tezina": "lagano",
+      "pitanje": "Kakva su najčešće sela u brežuljkastim krajevima?",
+      "ponudeni": [
+        "Velika i zbijena uz more",
+        "Rijetka i udaljena u visokim planinama",
+        "Smještena na otocima",
+        "Mala i raštrkana po brežuljcima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U brežuljkastim krajevima ima mnogo malih sela čije su kuće raštrkane po obroncima brežuljaka.",
+      "savjet": "Sjeti se kako izgledaju kuće razbacane među vinogradima i voćnjacima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-028",
+      "tezina": "lagano",
+      "pitanje": "Koja se gora nalazi između Zagreba i Hrvatskog zagorja?",
+      "ponudeni": [
+        "Velebit",
+        "Biokovo",
+        "Učka",
+        "Medvednica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Medvednica se nalazi sjeverno od Zagreba i odvaja ga od Hrvatskog zagorja.",
+      "savjet": "Ime te gore povezano je s jednom velikom šumskom životinjom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-029",
+      "tezina": "lagano",
+      "pitanje": "U brežuljkastim krajevima ljudi uzgajaju krave, svinje i perad. Kako se zove ta djelatnost?",
+      "ponudeni": [
+        "Stočarstvo",
+        "Voćarstvo",
+        "Ribarstvo",
+        "Vinogradarstvo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uzgoj domaćih životinja zove se stočarstvo. Od krava se dobiva mlijeko, a od njega sir i vrhnje.",
+      "savjet": "Sjeti se kako jednom riječju zovemo krave, svinje, ovce i konje na gospodarstvu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-030",
+      "tezina": "lagano",
+      "pitanje": "Koji se od navedenih dvoraca nalazi u Hrvatskom zagorju?",
+      "ponudeni": [
+        "Veliki Tabor",
+        "Kneževa palača",
+        "Tvrđava Nehaj",
+        "Dioklecijanova palača"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Veliki Tabor stari je utvrđeni dvorac na brežuljku u Hrvatskom zagorju. Ostale građevine nalaze se u primorskim krajevima.",
+      "savjet": "Taj stari dvorac s okruglim kulama stoji na brežuljku u zapadnom dijelu Zagorja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto se vinogradi sade na južnim obroncima brežuljaka?",
+      "ponudeni": [
+        "Ondje ima najviše sunca",
+        "Ondje ima najviše sjene",
+        "Ondje teku rijeke",
+        "Ondje je tlo najvlažnije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Južni obronci najviše su izloženi suncu, a grožđu treba mnogo sunca da dozrije i bude slatko.",
+      "savjet": "Sjeti se s koje strane neba Sunce sja u podne."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto su polja u brežuljkastim krajevima manja nego u nizinama?",
+      "ponudeni": [
+        "Zemljište nije ravno, nego ga čine brežuljci i doline",
+        "Ondje uopće nema tla",
+        "Ondje snijeg leži cijelu godinu",
+        "Ondje živi vrlo malo ljudi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brežuljkasti krajevi nemaju velike ravnice, pa su polja mala i smještena u dolinama ili na blagim obroncima.",
+      "savjet": "Usporedi izgled zemljišta u nizini i među brežuljcima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto su toplice važne za gospodarstvo brežuljkastih krajeva?",
+      "ponudeni": [
+        "Privlače goste koji se ondje liječe i odmaraju",
+        "Daju vodu za navodnjavanje polja",
+        "U njima se uzgaja riba",
+        "Služe za plovidbu brodova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Toplice imaju ljekovitu toplu vodu. Gosti dolaze na liječenje i odmor, pa se razvija turizam.",
+      "savjet": "Sjeti se tko sve dolazi u toplice i zašto."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-034",
+      "tezina": "srednje",
+      "pitanje": "Koja se gospodarska djelatnost razvila u većim gradovima brežuljkastih krajeva, poput Varaždina i Čakovca?",
+      "ponudeni": [
+        "Industrija",
+        "Brodogradnja",
+        "Morsko ribarstvo",
+        "Proizvodnja morske soli"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U većim gradovima brežuljkastih krajeva razvila se industrija, npr. tekstilna i prehrambena.",
+      "savjet": "Ovi gradovi nisu uz more, pa izdvoji djelatnost koja ne treba more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-035",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove turizam u kojem gosti borave na seoskim imanjima i jedu domaću hranu?",
+      "ponudeni": [
+        "Seoski turizam",
+        "Nautički turizam",
+        "Zimski turizam",
+        "Kongresni turizam"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U seoskom turizmu gosti borave na seoskim imanjima, upoznaju život na selu i jedu domaću hranu.",
+      "savjet": "Naziv te vrste turizma govori gdje gosti borave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-036",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se Međimurje ističe među krajevima Hrvatske?",
+      "ponudeni": [
+        "U njemu gotovo nema naselja",
+        "Vrlo je gusto naseljeno, sela su blizu jedno drugome",
+        "Ondje se nalaze najviše planine",
+        "Leži uz more i ima mnogo otoka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Međimurje je jedan od najgušće naseljenih krajeva Hrvatske. Sela su velika i nalaze se blizu jedno drugome.",
+      "savjet": "Sjeti se koliko je ljudi i sela na malom prostoru između dviju rijeka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-037",
+      "tezina": "srednje",
+      "pitanje": "Što je od navedenog kulturna znamenitost brežuljkastih krajeva?",
+      "ponudeni": [
+        "Rijeka Krapina",
+        "Dvorac Trakošćan",
+        "Gora Medvednica",
+        "Izvor tople vode"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dvorac Trakošćan izgradili su ljudi, pa je kulturna znamenitost. Rijeka, gora i izvor dio su prirode.",
+      "savjet": "Kulturnu znamenitost stvorili su ljudi, a ne priroda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-038",
+      "tezina": "srednje",
+      "pitanje": "Što je od navedenog prirodno obilježje brežuljkastih krajeva?",
+      "ponudeni": [
+        "Dvorci i stari gradovi",
+        "Brežuljci i doline s potocima",
+        "Tvornice i ceste",
+        "Crkve i svetišta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brežuljci i doline s potocima nastali su u prirodi, a dvorci, tvornice, ceste i crkve djelo su ljudi.",
+      "savjet": "Izdvoji ono što nisu izgradili ljudi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-039",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove tradicijski obrt izrade ukrašenih srca i figura od medenog tijesta?",
+      "ponudeni": [
+        "Lončarski obrt",
+        "Licitarski obrt",
+        "Kovački obrt",
+        "Tkalački obrt"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Licitari izrađuju ukrašena srca i figure od medenog tijesta. Licitarski obrt sjeverne Hrvatske zaštićen je kao UNESCO-va baština.",
+      "savjet": "Sjeti se kako se zove poznato crveno srce s ogledalcem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-040",
+      "tezina": "srednje",
+      "pitanje": "Po kojem je tradicijskom ručnom radu poznata Lepoglava?",
+      "ponudeni": [
+        "Po gradnji brodova",
+        "Po izradi čipke",
+        "Po pletenju ribarskih mreža",
+        "Po klesanju kamena"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lepoglava je poznata po izradi čipke, koja je zaštićena kao UNESCO-va baština.",
+      "savjet": "Sjeti se nježnog ukrasa od tankog konca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-041",
+      "tezina": "srednje",
+      "pitanje": "Koji je vođa seljačke bune povezan s Hrvatskim zagorjem?",
+      "ponudeni": [
+        "Nikola Tesla",
+        "Matija Gubec",
+        "Ivan Gundulić",
+        "Marko Marulić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Matija Gubec bio je vođa seljačke bune u Hrvatskom zagorju. Spomenik buni nalazi se u Gornjoj Stubici.",
+      "savjet": "Sjeti se seljaka koji su se davno pobunili protiv nepravde vlastelina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-042",
+      "tezina": "srednje",
+      "pitanje": "Koji je poznati Hrvat zaslužan za hrvatski jezik i pismo rođen u Krapini?",
+      "ponudeni": [
+        "Marko Marulić",
+        "Ljudevit Gaj",
+        "Nikola Tesla",
+        "Ivan Meštrović"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudevit Gaj rođen je u Krapini. Zaslužan je za uređenje hrvatskog pisma i jezika.",
+      "savjet": "Sjeti se tko je uredio hrvatsku latinicu i uveo slova č, š i ž."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-043",
+      "tezina": "srednje",
+      "pitanje": "Po kakvim je građevinama poznat stari dio Varaždina?",
+      "ponudeni": [
+        "Po neboderima od stakla",
+        "Po kamenim kućama uz more",
+        "Po baroknim palačama i crkvama",
+        "Po drvenim planinskim kolibama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stari dio Varaždina poznat je po lijepim baroknim palačama i crkvama, pa se Varaždin naziva gradom baroka.",
+      "savjet": "Sjeti se kako se zove stil gradnje s bogatim ukrasima iz vremena kad je Varaždin bio glavni grad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-044",
+      "tezina": "srednje",
+      "pitanje": "Što se u brežuljkastim krajevima najčešće uzgaja na poljima u dolinama?",
+      "ponudeni": [
+        "Masline i smokve",
+        "Limuni i naranče",
+        "Kukuruz i pšenica",
+        "Smreke i jele"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na poljima u dolinama uzgajaju se kukuruz, pšenica i povrće. Masline, smokve i agrumi trebaju blage zime uz more.",
+      "savjet": "Sjeti se žitarica koje se uzgajaju i u nizinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-045",
+      "tezina": "srednje",
+      "pitanje": "Zašto je stočarstvo razvijeno u brežuljkastim krajevima?",
+      "ponudeni": [
+        "Ima mnogo mora i ribe",
+        "Ondje je klima suha i vruća",
+        "Ima mnogo livada i pašnjaka za ishranu stoke",
+        "Ondje nema nikakvih polja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na brežuljcima i u dolinama ima mnogo livada i pašnjaka, pa je dovoljno hrane za stoku.",
+      "savjet": "Sjeti se čime se hrane krave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-046",
+      "tezina": "srednje",
+      "pitanje": "Što se na seoskim imanjima brežuljkastih krajeva proizvodi od mlijeka?",
+      "ponudeni": [
+        "Vino i sok",
+        "Brašno i kruh",
+        "Sir i vrhnje",
+        "Maslinovo ulje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od kravljeg mlijeka na seoskim imanjima prave se svježi sir i vrhnje, koji se koriste i za zagorske štrukle.",
+      "savjet": "Sjeti se od čega se prave zagorski štrukli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-047",
+      "tezina": "srednje",
+      "pitanje": "Zašto su se dvorci i stari gradovi gradili na vrhovima brežuljaka?",
+      "ponudeni": [
+        "Da budu što bliže moru",
+        "Da ih zaštiti poplava",
+        "Da se lakše brane i da se vidi okolica",
+        "Da budu skriveni u dolini"
+      ],
+      "tocan": 2,
+      "objasnjenje": "S vrha brežuljka vidi se daleko, a neprijatelj se teže penje uzbrdo, pa su se dvorci ondje lakše branili.",
+      "savjet": "Zamisli što vidiš kad stojiš na vrhu brežuljka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-048",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove nagnuta strana brežuljka?",
+      "ponudeni": [
+        "Vrh",
+        "Podnožje",
+        "Obronak",
+        "Dolina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Obronak je nagnuta strana brežuljka. Na sunčanim obroncima sade se vinogradi.",
+      "savjet": "Ta se riječ koristi kad se opisuje gdje su gorice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-049",
+      "tezina": "srednje",
+      "pitanje": "Čemu služi klijet u vinogradu?",
+      "ponudeni": [
+        "Za uzgoj stoke",
+        "Za spremanje sijena za zimu",
+        "Za čuvanje vina i alata za vinograd",
+        "Za stanovanje cijele godine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Klijet je mala kuća u vinogradu. U njoj se čuvaju vino i alat, a vinogradari se u njoj odmaraju.",
+      "savjet": "Sjeti se što vinogradar treba imati pri ruci dok radi u vinogradu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-050",
+      "tezina": "srednje",
+      "pitanje": "Uz koju rijeku leži Varaždin?",
+      "ponudeni": [
+        "Uz Savu",
+        "Uz Kupu",
+        "Uz Neretvu",
+        "Uz Dravu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Varaždin leži uz rijeku Dravu, na sjeveru Hrvatske.",
+      "savjet": "Ta rijeka teče sjevernim dijelom Hrvatske i kasnije prolazi kroz Osijek."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-051",
+      "tezina": "srednje",
+      "pitanje": "Koja županija u brežuljkastom kraju ima središte u Krapini?",
+      "ponudeni": [
+        "Osječko-baranjska",
+        "Ličko-senjska",
+        "Splitsko-dalmatinska",
+        "Krapinsko-zagorska"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krapina je središte Krapinsko-zagorske županije, koja obuhvaća velik dio Hrvatskog zagorja.",
+      "savjet": "Naziv županije sadrži ime grada i ime kraja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-052",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko Krapinskim, Stubičkim i Varaždinskim Toplicama?",
+      "ponudeni": [
+        "Leže uz more",
+        "Nalaze se na otocima",
+        "Imaju skijališta",
+        "Imaju izvore tople ljekovite vode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sva tri mjesta imaju izvore tople ljekovite vode u koje dolaze gosti na liječenje i odmor.",
+      "savjet": "Pogledaj što im je zajedničko u imenu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-053",
+      "tezina": "srednje",
+      "pitanje": "Koji je od navedenih krajeva također brežuljkasti kraj?",
+      "ponudeni": [
+        "Lika",
+        "Gorski kotar",
+        "Dalmatinska zagora",
+        "Međimurje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Međimurje se ubraja u brežuljkaste krajeve, zajedno s Hrvatskim zagorjem. Lika i Gorski kotar su gorski krajevi.",
+      "savjet": "Sjeti se kraja na samom sjeveru Hrvatske, između dviju rijeka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto Mariju Bistricu posjećuje mnogo ljudi?",
+      "ponudeni": [
+        "Ondje je velika morska luka",
+        "Ondje je veliko skijalište",
+        "Ondje je nacionalni park s jezerima",
+        "Ondje je poznato hodočasničko svetište"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Marija Bistrica je najveće marijansko svetište u Hrvatskoj, pa je posjećuju brojni hodočasnici.",
+      "savjet": "Sjeti se zašto ljudi pješače do crkava i svetišta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-055",
+      "tezina": "srednje",
+      "pitanje": "Što je Staro selo u Kumrovcu?",
+      "ponudeni": [
+        "Nova četvrt grada",
+        "Tvornica igračaka",
+        "Skijalište na brežuljku",
+        "Muzej na otvorenom sa starim zagorskim kućama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Staro selo u Kumrovcu muzej je na otvorenom. U njemu se vidi kako se nekad živjelo u zagorskom selu.",
+      "savjet": "Ime govori da je riječ o nečemu iz prošlosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-056",
+      "tezina": "srednje",
+      "pitanje": "Kakve su bile tradicijske kuće u Hrvatskom zagorju?",
+      "ponudeni": [
+        "Kamene kuće s kamenim pločama na krovu",
+        "Kuće od opeke s ravnim krovom",
+        "Visoke zgrade s mnogo katova",
+        "Drvene kuće pokrivene slamom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tradicijske zagorske kuće gradile su se od drva i pokrivale slamom. Takve se kuće mogu vidjeti u Kumrovcu.",
+      "savjet": "Sjeti se materijala koji je ljudima u tom kraju bio nadohvat ruke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-057",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove tradicijska pjesma sjeverne Hrvatske zaštićena kao UNESCO-va baština?",
+      "ponudeni": [
+        "Međimurska popevka",
+        "Klapsko pjevanje",
+        "Bećarac",
+        "Ojkanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Međimurska popevka tradicijska je pjesma Međimurja. Klapsko pjevanje, bećarac i ojkanje pjesme su drugih krajeva.",
+      "savjet": "Sjeti se kraja između Mure i Drave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-058",
+      "tezina": "srednje",
+      "pitanje": "Što je ljudima omogućilo da se u brežuljkastim krajevima naseli mnogo ljudi?",
+      "ponudeni": [
+        "Ugodna klima, plodna tla i dovoljno vode",
+        "Bogata nalazišta zlata",
+        "Velike morske luke",
+        "Visoke planine sa snijegom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ugodna klima, plodna tla u dolinama i dovoljno vode omogućili su uzgoj hrane, pa se ondje naselilo mnogo ljudi.",
+      "savjet": "Sjeti se što je ljudima potrebno za uzgoj hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-059",
+      "tezina": "srednje",
+      "pitanje": "Obitelj u jesen bere grožđe i radi vino u svojoj klijeti. Kojom se djelatnošću bavi?",
+      "ponudeni": [
+        "Vinogradarstvom",
+        "Ribarstvom",
+        "Šumarstvom",
+        "Brodogradnjom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obitelj koja uzgaja vinovu lozu, bere grožđe i radi vino bavi se vinogradarstvom.",
+      "savjet": "Sjeti se kako se zove mjesto na kojem raste vinova loza."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-060",
+      "tezina": "srednje",
+      "pitanje": "Kakve šume najčešće rastu na brežuljcima i gorama brežuljkastih krajeva?",
+      "ponudeni": [
+        "Bjelogorične šume hrasta, bukve i kestena",
+        "Šume palmi i kaktusa",
+        "Niska makija s mirisnim biljem",
+        "Crnogorične šume smreke i bora"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U brežuljkastim krajevima rastu bjelogorične šume hrasta, bukve, graba i pitomog kestena. Crnogorice ima više u gorskim krajevima, a makije uz more.",
+      "savjet": "Sjeti se drveća kojemu lišće u jesen požuti i otpadne."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-061",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se brežuljkasti krajevi razlikuju od nizinskih?",
+      "ponudeni": [
+        "Imaju više uzvisina i dolina, a manje velikih ravnih polja",
+        "Imaju više velikih ravnih polja",
+        "Leže uz more i imaju otoke",
+        "Imaju visoke planine sa snijegom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nizinski krajevi imaju prostrane ravnice s velikim poljima, a brežuljkasti krajevi brežuljke i doline s manjim poljima.",
+      "savjet": "Zamisli kako izgleda krajolik u Slavoniji, a kako u Zagorju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-062",
+      "tezina": "tesko",
+      "pitanje": "Kojim se redom mijenjaju krajevi kad putuješ od Varaždina prema Rijeci?",
+      "ponudeni": [
+        "Brežuljkasti, gorski, primorski",
+        "Nizinski, primorski, gorski",
+        "Primorski, gorski, brežuljkasti",
+        "Gorski, brežuljkasti, nizinski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Varaždin je u brežuljkastom kraju, put prema Rijeci prolazi kroz Gorski kotar, a Rijeka je u primorskom kraju.",
+      "savjet": "Odredi kojem kraju pripada početak puta, a kojem kraj puta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-063",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u brežuljkastim krajevima ne uzgajaju masline?",
+      "ponudeni": [
+        "Zime su prehladne za masline",
+        "Ondje nema tla",
+        "Ondje pada premalo kiše",
+        "Masline rastu samo na otocima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Maslina treba blage zime kakve su uz more. U brežuljkastim krajevima zime su hladne, pa maslina ondje ne uspijeva.",
+      "savjet": "Usporedi zime u Zagorju i na obali."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-064",
+      "tezina": "tesko",
+      "pitanje": "Obitelj u Zagorju želi se baviti seoskim turizmom. Što će najvjerojatnije ponuditi gostima?",
+      "ponudeni": [
+        "Ronjenje i kupanje u moru",
+        "Domaću hranu, vino i šetnju vinogradima",
+        "Skijanje na visokim planinama",
+        "Vožnju brodom među otocima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Zagorju gosti mogu jesti domaću hranu, kušati vino i šetati gorice, a mora i visokih planina ondje nema.",
+      "savjet": "Razmisli što taj kraj ima, a što nema."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto su gradovi u brežuljkastim krajevima najčešće u dolinama, a ne na vrhovima brežuljaka?",
+      "ponudeni": [
+        "Na vrhovima je prevruće za život",
+        "U dolinama je lakše graditi ceste, pruge i tvornice",
+        "U dolinama nema vode",
+        "Vrhovi su prekriveni ledom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U dolinama je zemljište ravnije i ima vode, pa je ondje lakše graditi kuće, ceste, pruge i tvornice.",
+      "savjet": "Zamisli kako bi bilo graditi željezničku prugu na strmom brežuljku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-066",
+      "tezina": "tesko",
+      "pitanje": "Koji opis najbolje odgovara brežuljkastom kraju?",
+      "ponudeni": [
+        "Široka ravna polja kukuruza do obzora",
+        "Zaobljeni brežuljci s vinogradima, doline i raštrkana sela",
+        "Visoke planine s gustim crnogoričnim šumama",
+        "Kamenita obala s otocima i lukama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brežuljkasti kraj čine zaobljeni brežuljci s vinogradima i voćnjacima, doline s potocima i mnogo malih raštrkanih sela.",
+      "savjet": "Svaki opis pripada jednom kraju Hrvatske; pronađi onaj s goricama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-067",
+      "tezina": "tesko",
+      "pitanje": "Ana je posjetila dvorac na brežuljku iznad jezera, a zatim muzej pračovjeka. U kojem je kraju bila?",
+      "ponudeni": [
+        "U Slavoniji",
+        "U Hrvatskom zagorju",
+        "U Lici",
+        "U Dalmaciji"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dvorac Trakošćan i Muzej krapinskih neandertalaca nalaze se u Hrvatskom zagorju.",
+      "savjet": "Sjeti se gdje su Trakošćan i Krapina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-068",
+      "tezina": "tesko",
+      "pitanje": "Što je točno kad se usporede vinogradi brežuljkastih krajeva i polja nizinskih krajeva?",
+      "ponudeni": [
+        "Vinogradi su u ravnicama, a polja žitarica na obroncima",
+        "Vinogradi su na obroncima, a velika polja žitarica u ravnicama",
+        "I vinogradi i polja su na vrhovima planina",
+        "I vinogradi i polja su uz morsku obalu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vinova loza raste na sunčanim obroncima brežuljaka, a velika polja žitarica nalaze se u ravnicama nizinskih krajeva.",
+      "savjet": "Sjeti se kakvo zemljište treba vinovoj lozi, a kakvo velikim strojevima za žito."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-069",
+      "tezina": "tesko",
+      "pitanje": "Što od navedenog spada u nematerijalnu kulturnu baštinu brežuljkastih krajeva?",
+      "ponudeni": [
+        "Dvorac Trakošćan",
+        "Međimurska popevka",
+        "Stari grad u Varaždinu",
+        "Crkva u Mariji Bistrici"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nematerijalna baština ne može se dodirnuti, npr. pjesma, ples ili običaj. Međimurska popevka je pjesma, a ostalo su građevine.",
+      "savjet": "Nematerijalnu baštinu ne možeš dodirnuti rukom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-070",
+      "tezina": "tesko",
+      "pitanje": "Što od navedenog spada u materijalnu kulturnu baštinu brežuljkastih krajeva?",
+      "ponudeni": [
+        "Međimurska popevka",
+        "Dvorac Veliki Tabor",
+        "Pričanje narodnih priča",
+        "Narodni plesovi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Materijalna baština su stvari i građevine koje možemo dodirnuti, kao dvorac Veliki Tabor. Pjesme, priče i plesovi su nematerijalna baština.",
+      "savjet": "Materijalnu baštinu možeš vidjeti i dodirnuti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-071",
+      "tezina": "tesko",
+      "pitanje": "Zašto je u brežuljkastim krajevima teško raditi velikim strojevima za obradu zemlje?",
+      "ponudeni": [
+        "Tlo je kamenito kao na otocima",
+        "Ondje nema nikakvih cesta",
+        "Obronci su strmi, a čestice zemlje male",
+        "Strojevi ne mogu raditi zimi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na strmim obroncima i malim česticama zemlje veliki se strojevi teško kreću, pa se mnogo posla radi ručno ili malim strojevima.",
+      "savjet": "Zamisli veliki kombajn na strmom brežuljku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-072",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko rijekama Sutli i Muri?",
+      "ponudeni": [
+        "Obje se ulijevaju u Jadransko more",
+        "Obje izviru u Lici",
+        "Dijelom toka čine državnu granicu Hrvatske",
+        "Obje teku kroz Zagreb"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sutla čini granicu sa Slovenijom, a Mura dijelom toka granicu sa Slovenijom i Mađarskom.",
+      "savjet": "Sjeti se gdje se te rijeke nalaze na karti u odnosu na susjedne države."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-073",
+      "tezina": "tesko",
+      "pitanje": "Što bi se najvjerojatnije dogodilo kad bi vinogradar posadio lozu na sjenovitu, sjevernu stranu brežuljka?",
+      "ponudeni": [
+        "Grožđe bi brže dozrelo zbog sjene",
+        "Grožđe bi bilo slađe jer je hladnije",
+        "Grožđe bi slabije dozrijevalo jer ima manje sunca",
+        "Loza bi rodila dvaput godišnje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Grožđu za dozrijevanje treba mnogo sunca. Na sjenovitoj strani dobiva ga manje, pa slabije dozrijeva.",
+      "savjet": "Sjeti se zašto se vinogradi inače sade na suprotnoj strani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-074",
+      "tezina": "tesko",
+      "pitanje": "Kako možemo pridonijeti očuvanju dvoraca i starih gradova brežuljkastih krajeva?",
+      "ponudeni": [
+        "Pisati poruke po zidovima",
+        "Odnositi kamenje kao uspomenu",
+        "Posjećivati ih s poštovanjem i čuvati od oštećenja",
+        "Penjati se po starim zidinama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kulturnu baštinu čuvamo tako da je posjećujemo s poštovanjem i ne oštećujemo je, kako bi je mogli vidjeti i oni koji dolaze poslije nas.",
+      "savjet": "Razmisli što bi bilo s dvorcem kad bi svaki posjetitelj nešto oštetio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-075",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko brežuljkastim i nizinskim krajevima?",
+      "ponudeni": [
+        "More i mnogo otoka",
+        "Visoke planine s gustim šumama",
+        "Topla ljeta, hladne zime i razvijena poljoprivreda",
+        "Ribarstvo i brodogradnja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "I brežuljkasti i nizinski krajevi imaju topla ljeta i hladne zime te razvijenu poljoprivredu, a nemaju more ni visoke planine.",
+      "savjet": "Oba su kraja u unutrašnjosti, daleko od mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-076",
+      "tezina": "tesko",
+      "pitanje": "Petar živi u Hrvatskom zagorju i svaki dan putuje na posao u Zagreb. Što mu to omogućuje?",
+      "ponudeni": [
+        "Zagorje leži uz more",
+        "Između Zagorja i Zagreba nema nikakvih uzvisina",
+        "Zagorje je blizu Zagreba i povezano je dobrim cestama",
+        "U Zagorju nema nijednog radnog mjesta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatsko zagorje nalazi se blizu Zagreba i s njim je povezano cestama i prugom, pa mnogi ljudi svaki dan putuju na posao.",
+      "savjet": "Pogledaj na karti koliko je Zagorje udaljeno od glavnog grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto su kuće u brežuljkastim krajevima često raštrkane po obroncima?",
+      "ponudeni": [
+        "Brežuljke često plave rijeke",
+        "Zabranjeno je graditi kuće blizu jednu drugoj",
+        "Ljudi su gradili kuće uz svoje vinograde, voćnjake i polja",
+        "Na brežuljku ima mjesta samo za jednu kuću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljudi su gradili kuće uz zemlju koju obrađuju, a vinogradi, voćnjaci i polja raspoređeni su po obroncima.",
+      "savjet": "Razmisli zašto je ljudima bilo važno živjeti blizu zemlje koju obrađuju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-078",
+      "tezina": "tesko",
+      "pitanje": "Koja skupina sadrži samo gradove brežuljkastih krajeva?",
+      "ponudeni": [
+        "Osijek, Vukovar, Vinkovci",
+        "Split, Zadar, Šibenik",
+        "Gospić, Delnice, Otočac",
+        "Varaždin, Čakovec, Krapina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Varaždin, Čakovec i Krapina su u brežuljkastim krajevima. Ostale skupine pripadaju nizinskim, primorskim i gorskim krajevima.",
+      "savjet": "Za svaku skupinu odredi kojem kraju pripada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-079",
+      "tezina": "tesko",
+      "pitanje": "Koja skupina sadrži djelatnosti tipične za brežuljkaste krajeve?",
+      "ponudeni": [
+        "Ribarstvo, brodogradnja i maslinarstvo",
+        "Uzgoj školjaka, solane i nautički turizam",
+        "Uzgoj limuna, ribarstvo i lučki promet",
+        "Vinogradarstvo, voćarstvo i stočarstvo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za brežuljkaste krajeve tipični su vinogradarstvo, voćarstvo i stočarstvo. Ostale djelatnosti povezane su s morem.",
+      "savjet": "Brežuljkasti krajevi ne leže uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-080",
+      "tezina": "tesko",
+      "pitanje": "Ivan na karti gleda kraj između rijeka Mure i Drave. O kojem je kraju riječ i kakav je to kraj?",
+      "ponudeni": [
+        "Lika, gorski kraj",
+        "Istra, primorski kraj",
+        "Baranja, nizinski kraj",
+        "Međimurje, brežuljkasti kraj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Između Mure i Drave nalazi se Međimurje, koje se ubraja u brežuljkaste krajeve. Baranja je između Drave i Dunava.",
+      "savjet": "Ime kraja govori da se nalazi među rijekama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-081",
+      "tezina": "tesko",
+      "pitanje": "Što pokazuje nalazište pračovjeka u Krapini?",
+      "ponudeni": [
+        "Da je ondje nekad bio glavni grad Hrvatske",
+        "Da su ondje živjeli dinosauri",
+        "Da je ondje bila prva tvornica",
+        "Da su na tom području ljudi živjeli još u prapovijesti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nalazište u Krapini pokazuje da su ljudi na tom području živjeli vrlo davno, u prapovijesti.",
+      "savjet": "Sjeti se što znači riječ pračovjek."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto toplice mogu primati goste cijele godine, a ne samo ljeti?",
+      "ponudeni": [
+        "Zimi je ondje toplije nego ljeti",
+        "Ljeti su toplice zatvorene",
+        "U toplicama nikad ne pada snijeg",
+        "Voda iz izvora topla je i zimi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voda u toplicama dolazi iz dubine zemlje i topla je tijekom cijele godine, pa gosti dolaze i zimi.",
+      "savjet": "Sjeti se odakle dolazi topla voda u toplicama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-083",
+      "tezina": "tesko",
+      "pitanje": "Kojim su redom poredani oblici reljefa od najnižeg do najvišeg?",
+      "ponudeni": [
+        "Planina, brežuljak, nizina",
+        "Brežuljak, nizina, planina",
+        "Nizina, planina, brežuljak",
+        "Nizina, brežuljak, planina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nizine su najniže, brežuljci su viši od nizina, a planine su najviše uzvisine.",
+      "savjet": "Sjeti se koji je reljef ravan, a koji ima najviše vrhove."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-084",
+      "tezina": "tesko",
+      "pitanje": "Koji suvenir najbolje predstavlja tradicijski obrt sjeverne Hrvatske?",
+      "ponudeni": [
+        "Paška čipka",
+        "Školjka s plaže",
+        "Hvarska lavanda",
+        "Licitarsko srce"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Licitarsko srce predstavlja licitarski obrt sjeverne Hrvatske. Paška čipka i hvarska lavanda dolaze s otoka, a školjke s mora.",
+      "savjet": "Izdvoji suvenir koji ne dolazi s mora ni s otoka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-085",
+      "tezina": "tesko",
+      "pitanje": "Kako su u brežuljkastim krajevima povezani vinogradarstvo i turizam?",
+      "ponudeni": [
+        "Turisti posjećuju vinske ceste i kušaju domaća vina",
+        "Turisti beru masline u vinogradima",
+        "Vinogradi služe kao skijališta",
+        "Vino se izvozi brodovima iz zagorskih luka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uz vinske ceste turisti posjećuju vinograde i podrume, kušaju vino i domaću hranu, pa vinogradari zarađuju i od turizma.",
+      "savjet": "Sjeti se što bi turist mogao raditi u gorici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-086",
+      "tezina": "tesko",
+      "pitanje": "Učenici u tablicu upisuju prirodno obilježje, gospodarsku djelatnost i znamenitost brežuljkastog kraja, tim redom. Koji je redak točan?",
+      "ponudeni": [
+        "brežuljci – vinogradarstvo – dvorac Trakošćan",
+        "vinogradarstvo – brežuljci – dvorac Trakošćan",
+        "dvorac Trakošćan – vinogradarstvo – brežuljci",
+        "brežuljci – dvorac Trakošćan – vinogradarstvo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brežuljci su prirodno obilježje, vinogradarstvo gospodarska djelatnost, a dvorac Trakošćan znamenitost.",
+      "savjet": "Za svaki pojam odredi je li dio prirode, posao ljudi ili građevina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto se kukuruz i pšenica u brežuljkastim krajevima uzgajaju u dolinama, a ne na strmim obroncima?",
+      "ponudeni": [
+        "U dolinama je zemljište ravnije, pa se lakše obrađuje",
+        "Na obroncima je previše sjene za žitarice",
+        "U dolinama ima više snijega",
+        "Na obroncima nikad ne pada kiša"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U dolinama je zemljište ravnije i plodnije, pa se polja lakše oru i siju, a strmi se obronci koriste za vinograde i voćnjake.",
+      "savjet": "Sjeti se kako se obrađuju velika polja žitarica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-088",
+      "tezina": "tesko",
+      "pitanje": "Koji je par grada i rijeke na kojoj taj grad leži točan?",
+      "ponudeni": [
+        "Varaždin – Drava",
+        "Varaždin – Sava",
+        "Čakovec – Sava",
+        "Čakovec – Kupa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Varaždin leži uz rijeku Dravu. Sava i Kupa ne teku kroz Varaždin ni Čakovec.",
+      "savjet": "Sjeti se koja rijeka teče sjevernim dijelom Hrvatske prema Osijeku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o gorama Medvednici i Ivanščici točna?",
+      "ponudeni": [
+        "Niže su od Velebita i prekrivene su šumama",
+        "Više su od Velebita i bez šuma",
+        "Nalaze se na otocima",
+        "Vrhovi su im cijele godine pod snijegom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Medvednica i Ivanščica niže su gore prekrivene šumom. Velebit je mnogo viša planina uz more.",
+      "savjet": "Usporedi te gore s najdužom hrvatskom planinom uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-090",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko dvorcima Trakošćan i Veliki Tabor?",
+      "ponudeni": [
+        "Oba su u Hrvatskom zagorju i dio su kulturne baštine",
+        "Oba se nalaze na morskoj obali",
+        "Oba su u Slavoniji uz Dunav",
+        "Oba su sagrađena posljednjih godina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trakošćan i Veliki Tabor stari su dvorci u Hrvatskom zagorju i važan su dio kulturne baštine.",
+      "savjet": "Sjeti se u kojem se kraju nalazi većina poznatih dvoraca na brežuljcima."
+    }
+  ]
+}
