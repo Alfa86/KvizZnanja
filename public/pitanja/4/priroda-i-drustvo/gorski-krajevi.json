@@ -1,0 +1,1435 @@
+{
+  "lekcijaId": "gorski-krajevi",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju krajevi Hrvatske s visokim planinama, gustim šumama i oštrom klimom?",
+      "ponudeni": [
+        "Nizinski krajevi",
+        "Gorski krajevi",
+        "Primorski krajevi",
+        "Brežuljkasti krajevi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gorski krajevi dobili su ime po gorama i planinama. Ondje su guste šume, a zime su duge i hladne.",
+      "savjet": "Sjeti se koja riječ znači isto što i planina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-002",
+      "tezina": "lagano",
+      "pitanje": "Koji su od navedenih krajeva gorski krajevi?",
+      "ponudeni": [
+        "Baranja i Slavonija",
+        "Istra i Dalmacija",
+        "Hrvatsko zagorje i Žumberak",
+        "Gorski kotar i Lika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gorski kotar i Lika gorski su krajevi. Baranja i Slavonija su nizinski, Istra i Dalmacija primorski, a Hrvatsko zagorje i Žumberak brežuljkasti krajevi.",
+      "savjet": "Potraži par krajeva u kojima su planine, guste šume i duge zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-003",
+      "tezina": "lagano",
+      "pitanje": "Koji je grad središte Like?",
+      "ponudeni": [
+        "Gospić",
+        "Delnice",
+        "Varaždin",
+        "Osijek"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gospić je najvažniji grad i središte Like.",
+      "savjet": "Sjeti se grada u Lici u čijoj je blizini rođen Nikola Tesla."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-004",
+      "tezina": "lagano",
+      "pitanje": "Koji se od navedenih gradova nalazi u Gorskom kotaru?",
+      "ponudeni": [
+        "Vukovar",
+        "Split",
+        "Delnice",
+        "Pula"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Delnice su grad u Gorskom kotaru, okružen šumama i planinama.",
+      "savjet": "Odaberi grad koji nije ni uz more ni u nizini na istoku Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-005",
+      "tezina": "lagano",
+      "pitanje": "Kakva je klima u gorskim krajevima?",
+      "ponudeni": [
+        "Zime su blage, a ljeta duga i vruća",
+        "Cijele je godine toplo i sunčano",
+        "Zime su duge i hladne, a ljeta kratka i svježa",
+        "Zime su kratke i gotovo bez snijega"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U gorskim krajevima vlada planinska klima: zime su duge, hladne i snježne, a ljeta kratka i svježa.",
+      "savjet": "Sjeti se kako je vrijeme visoko u planinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-006",
+      "tezina": "lagano",
+      "pitanje": "Što zimi dugo prekriva gorske krajeve?",
+      "ponudeni": [
+        "Debeo sloj snijega",
+        "Polja zrelog kukuruza",
+        "Rascvjetane livade",
+        "Suhi pijesak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zime su u gorskim krajevima duge i hladne pa snijeg ondje dugo leži.",
+      "savjet": "Razmisli što pada s neba kad je vrlo hladno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-007",
+      "tezina": "lagano",
+      "pitanje": "Što prekriva veći dio gorskih krajeva?",
+      "ponudeni": [
+        "Vinogradi",
+        "Oranice s kukuruzom",
+        "Maslinici",
+        "Šume"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gorski krajevi su vrlo šumoviti. Šume su njihovo najveće prirodno bogatstvo.",
+      "savjet": "Sjeti se zašto se drvna industrija razvila baš u tim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-008",
+      "tezina": "lagano",
+      "pitanje": "Koje drveće prevladava u šumama Gorskog kotara?",
+      "ponudeni": [
+        "Maslina i smokva",
+        "Jela, smreka i bukva",
+        "Limun i naranča",
+        "Palma i agava"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U šumama Gorskog kotara rastu jela i smreka, koje su crnogorično drveće, te bjelogorična bukva.",
+      "savjet": "Odaberi drveće koje podnosi hladne i snježne zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-009",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva djelatnost uzgoja, zaštite i sječe šuma?",
+      "ponudeni": [
+        "Ribarstvo",
+        "Šumarstvo",
+        "Vinogradarstvo",
+        "Ratarstvo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šumarstvo je djelatnost koja se brine o šumama: sadi ih, čuva i planski siječe.",
+      "savjet": "Naziv te djelatnosti dolazi od riječi šuma."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-010",
+      "tezina": "lagano",
+      "pitanje": "Što se proizvodi u drvnoj industriji?",
+      "ponudeni": [
+        "Vino i rakija",
+        "Sir i mlijeko",
+        "Šećer i ulje",
+        "Namještaj i drvena građa"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Drvna industrija prerađuje drvo iz šuma u daske, gredice, namještaj i druge drvene proizvode.",
+      "savjet": "Razmisli što se sve može napraviti od drva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-011",
+      "tezina": "lagano",
+      "pitanje": "Koja divlja životinja živi u šumama Gorskog kotara?",
+      "ponudeni": [
+        "Smeđi medvjed",
+        "Lav",
+        "Dupin",
+        "Deva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U velikim šumama Gorskog kotara žive smeđi medvjed, vuk, ris i druge životinje.",
+      "savjet": "Sjeti se velike životinje koja zimi spava zimski san."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-012",
+      "tezina": "lagano",
+      "pitanje": "Po kojoj je životinji dobio ime Nacionalni park Risnjak?",
+      "ponudeni": [
+        "Po medvjedu",
+        "Po vuku",
+        "Po risu",
+        "Po jelenu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Risnjak je dobio ime po risu, divljoj mački koja živi u šumama Gorskog kotara.",
+      "savjet": "Dobro poslušaj početak naziva tog nacionalnog parka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-013",
+      "tezina": "lagano",
+      "pitanje": "Koji se nacionalni park u Lici nalazi uz jezera povezana slapovima?",
+      "ponudeni": [
+        "Kornati",
+        "Brijuni",
+        "Plitvička jezera",
+        "Mljet"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nacionalni park Plitvička jezera nalazi se u Lici. Poznat je po jezerima povezanima slapovima.",
+      "savjet": "Odaberi park koji nije na otocima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-014",
+      "tezina": "lagano",
+      "pitanje": "Koja se planina proteže između Like i mora?",
+      "ponudeni": [
+        "Velebit",
+        "Medvednica",
+        "Papuk",
+        "Učka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Velebit je dugačka planina koja se proteže uz more i odvaja Liku od obale.",
+      "savjet": "Sjeti se planine na kojoj su dva nacionalna parka i park prirode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-015",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva hodanje po planinama i penjanje na planinske vrhove?",
+      "ponudeni": [
+        "Jedrenje",
+        "Ronjenje",
+        "Veslanje",
+        "Planinarenje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Planinarenje je hodanje planinskim stazama do vrhova. U gorskim krajevima mnogo je planinarskih staza.",
+      "savjet": "Naziv te aktivnosti dolazi od riječi planina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-016",
+      "tezina": "lagano",
+      "pitanje": "Koji je poznati izumitelj rođen u Smiljanu kraj Gospića?",
+      "ponudeni": [
+        "Faust Vrančić",
+        "Nikola Tesla",
+        "Slavoljub Penkala",
+        "Ivan Vučetić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nikola Tesla rođen je u Smiljanu u Lici. Poznat je po izumima vezanima uz električnu struju.",
+      "savjet": "Sjeti se izumitelja čije je ime povezano s električnom strujom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-017",
+      "tezina": "lagano",
+      "pitanje": "Kako su naseljeni gorski krajevi?",
+      "ponudeni": [
+        "Gusto, s mnogo stanovnika",
+        "Rijetko, s malo stanovnika",
+        "Samo u velikim gradovima",
+        "Gusto, ali samo uz morsku obalu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gorski krajevi rijetko su naseljeni jer su uvjeti za život ondje teški.",
+      "savjet": "Sjeti se kakva je klima i koliko je ondje plodnog tla."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-018",
+      "tezina": "lagano",
+      "pitanje": "Koja se djelatnost razvila na livadama i pašnjacima gorskih krajeva?",
+      "ponudeni": [
+        "Ribarstvo",
+        "Vinogradarstvo",
+        "Brodogradnja",
+        "Stočarstvo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na livadama i pašnjacima gorskih krajeva uzgajaju se ovce i goveda, pa je ondje razvijeno stočarstvo.",
+      "savjet": "Razmisli koje životinje pasu travu na livadama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-019",
+      "tezina": "lagano",
+      "pitanje": "Po kojoj je poljoprivrednoj kulturi poznata Lika?",
+      "ponudeni": [
+        "Krumpir",
+        "Maslina",
+        "Vinova loza",
+        "Mandarina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lika je poznata po krumpiru, koji dobro uspijeva i u hladnijoj klimi.",
+      "savjet": "Odaberi biljku koja podnosi hladnu klimu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-020",
+      "tezina": "lagano",
+      "pitanje": "Koja se vrsta turizma razvija u gorskim krajevima zimi?",
+      "ponudeni": [
+        "Kupanje u moru",
+        "Jedrenje",
+        "Skijanje i sanjkanje",
+        "Ronjenje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi u gorskim krajevima ima mnogo snijega pa se ondje razvija zimski turizam: skijanje i sanjkanje.",
+      "savjet": "Sjeti se čega zimi ima mnogo u planinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-021",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva rijeka koja na jednom mjestu nestane pod zemljom i dalje teče podzemno?",
+      "ponudeni": [
+        "Pritoka",
+        "Potok",
+        "Ponornica",
+        "Kanal"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ponornica je rijeka koja ponire, odnosno nestane pod zemljom u kršu.",
+      "savjet": "Sjeti se glagola koji znači da voda nestaje u zemlji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-022",
+      "tezina": "lagano",
+      "pitanje": "Koja rijeka ima isto ime kao kraj kroz koji teče?",
+      "ponudeni": [
+        "Lika",
+        "Drava",
+        "Kupa",
+        "Sava"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rijeka Lika teče kroz Liku i ponornica je.",
+      "savjet": "Sjeti se gorskih krajeva i njihovih imena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-023",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva kraj od vapnenca u kojem voda ponire, a pod zemljom nastaju špilje i jame?",
+      "ponudeni": [
+        "Nizina",
+        "Močvara",
+        "Pustinja",
+        "Krš"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krš je kraj od vapnenca. Voda ga otapa i ponire, a pod zemljom nastaju špilje i jame.",
+      "savjet": "Sjeti se kamenitog kraja u kojemu rijeke ponekad nestanu pod zemljom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-024",
+      "tezina": "lagano",
+      "pitanje": "Koja rijeka izvire u Gorskom kotaru i dijelom čini granicu sa Slovenijom?",
+      "ponudeni": [
+        "Neretva",
+        "Kupa",
+        "Cetina",
+        "Krka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kupa izvire u Gorskom kotaru. U jednom dijelu toka čini granicu između Hrvatske i Slovenije.",
+      "savjet": "Sjeti se rijeke koja teče prema Karlovcu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-025",
+      "tezina": "lagano",
+      "pitanje": "Između kojih se gradova nalazi Gorski kotar?",
+      "ponudeni": [
+        "Između Osijeka i Vukovara",
+        "Između Karlovca i Rijeke",
+        "Između Splita i Dubrovnika",
+        "Između Pule i Rovinja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gorski kotar nalazi se između Karlovca i Rijeke, pa kroz njega prolaze ceste koje povezuju unutrašnjost s morem.",
+      "savjet": "Sjeti se puta od Zagreba prema moru na sjeveru Jadrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-026",
+      "tezina": "lagano",
+      "pitanje": "Koji se grad u Lici nalazi uz rijeku Gacku?",
+      "ponudeni": [
+        "Čakovec",
+        "Makarska",
+        "Poreč",
+        "Otočac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Otočac je grad u Lici, smješten uz rijeku Gacku.",
+      "savjet": "Odaberi grad koji nije ni uz more ni na sjeveru Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-027",
+      "tezina": "lagano",
+      "pitanje": "Što se u šumama gorskih krajeva skuplja kao šumski plodovi?",
+      "ponudeni": [
+        "Gljive i borovnice",
+        "Masline i smokve",
+        "Grožđe i jabuke",
+        "Mandarine i limuni"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U gorskim šumama rastu gljive i borovnice koje ljudi skupljaju.",
+      "savjet": "Razmisli što raste na tlu i niskim grmićima u šumi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-028",
+      "tezina": "lagano",
+      "pitanje": "Što su špilje i jame?",
+      "ponudeni": [
+        "Umjetna jezera u planinama",
+        "Morske uvale uz obalu",
+        "Podzemne šupljine u kršu",
+        "Najviši vrhovi planina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Špilje i jame su podzemne šupljine koje je voda stvorila otapajući vapnenac u kršu.",
+      "savjet": "Sjeti se što voda radi kad ponire kroz stijene."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-029",
+      "tezina": "lagano",
+      "pitanje": "Koje se gorje nalazi između Gorskog kotara i Like?",
+      "ponudeni": [
+        "Papuk",
+        "Medvednica",
+        "Velika Kapela",
+        "Biokovo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Velika Kapela je gorje između Gorskog kotara i Like.",
+      "savjet": "Sjeti se planina koje se nalaze u gorskom dijelu Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-030",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu ove krajeve Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Gorski kotar",
+            "polozaj": [
+              14.85,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Lika",
+            "polozaj": [
+              15.4,
+              44.65
+            ]
+          },
+          {
+            "naziv": "Istra",
+            "polozaj": [
+              13.9,
+              45.25
+            ]
+          },
+          {
+            "naziv": "Slavonija",
+            "polozaj": [
+              17.9,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Dalmacija",
+            "polozaj": [
+              16.4,
+              43.5
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Gorski kotar je u unutrašnjosti iznad Kvarnera, a Lika južnije od njega. Istra je poluotok na zapadu, Slavonija na istoku, a Dalmacija uz more na jugu.",
+      "savjet": "Prvo smjesti poluotok na zapadu i dugu obalu na jugu, a zatim gorske krajeve u unutrašnjosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto su gorski krajevi rijetko naseljeni?",
+      "ponudeni": [
+        "Zbog oštre klime i malo plodnog tla",
+        "Zbog prevelike vrućine ljeti",
+        "Zbog čestih poplava velikih rijeka",
+        "Zbog blizine mora i jakih valova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Duge, hladne zime i malo plodnog tla otežavaju život i poljoprivredu, pa u gorskim krajevima živi malo ljudi.",
+      "savjet": "Sjeti se kakve su zime i kakvo je tlo u planinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto su kuće u gorskim krajevima često imale strme krovove?",
+      "ponudeni": [
+        "Da se kuća ljeti brže ugrije",
+        "Da kišnica ostane na krovu",
+        "Da se s krova bolje vidi okolica",
+        "Da snijeg lakše sklizne s krova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na strmom krovu snijeg se ne zadržava dugo, pa krov ne pukne pod njegovom težinom.",
+      "savjet": "Razmisli čega u tim krajevima zimi ima mnogo i koliko je to teško."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto se drvna industrija razvila u Gorskom kotaru?",
+      "ponudeni": [
+        "Jer ima mnogo plodnih oranica",
+        "Jer je kraj bogat šumama",
+        "Jer leži uz samo more",
+        "Jer ima mnogo vinograda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Drvna industrija treba drvo, a Gorski kotar je prekriven šumama. Zato su ondje pilane i tvornice namještaja.",
+      "savjet": "Razmisli koja je sirovina potrebna drvnoj industriji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-034",
+      "tezina": "srednje",
+      "pitanje": "Zašto je u gorskim krajevima stočarstvo razvijenije od ratarstva?",
+      "ponudeni": [
+        "Ondje je ljeto dugo i vruće",
+        "Ima mnogo livada i pašnjaka, a malo plodnih oranica",
+        "Stoka ne podnosi život u nizinama",
+        "Ondje uopće ne pada kiša"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tlo je kamenito, a ljeto kratko, pa je malo oranica. Livade i pašnjaci dobri su za ispašu ovaca i goveda.",
+      "savjet": "Usporedi koliko ima travnatih površina, a koliko ravnih i plodnih polja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-035",
+      "tezina": "srednje",
+      "pitanje": "Što turisti ljeti najčešće rade u gorskim krajevima?",
+      "ponudeni": [
+        "Kupaju se i sunčaju na plažama",
+        "Jedre između otoka",
+        "Rone uz koraljne grebene",
+        "Planinare i obilaze nacionalne parkove"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ljeti je u gorskim krajevima ugodno svježe pa turisti planinare, šeću šumama i obilaze nacionalne parkove.",
+      "savjet": "Sjeti se što gorski krajevi nude kad nema snijega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-036",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s kišnicom u kršu?",
+      "ponudeni": [
+        "Brzo ponire kroz pukotine u stijenama",
+        "Dugo ostaje na površini kao močvara",
+        "Odmah se pretvara u led",
+        "Teče samo po površini do mora"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vapnenac u kršu ima mnogo pukotina. Kroz njih voda brzo ponire i teče pod zemljom.",
+      "savjet": "Sjeti se kakvo je kamenje u kršu i kako se ponaša voda na njemu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-037",
+      "tezina": "srednje",
+      "pitanje": "Što su krška polja, kakva su Ličko i Gacko polje?",
+      "ponudeni": [
+        "Morske uvale zaklonjene od vjetra",
+        "Najviši vrhovi Velebita",
+        "Veće ravne udoline u kršu okružene uzvisinama",
+        "Podzemne špilje pune vode"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krška polja su veće ravne udoline u kršu. U njima je plodnije tlo pa se ondje nalaze naselja i obradive površine.",
+      "savjet": "Riječ polje upućuje na to kakav je teren."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-038",
+      "tezina": "srednje",
+      "pitanje": "Što povezuje jezera u Nacionalnom parku Plitvička jezera?",
+      "ponudeni": [
+        "Kanali koje su iskopali ljudi",
+        "Morski tjesnaci",
+        "Slapovi i slapići",
+        "Podzemni tuneli za čamce"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plitvička jezera leže jedno iznad drugoga, a voda se iz višeg u niže jezero prelijeva slapovima.",
+      "savjet": "Razmisli kako voda prelazi iz višeg u niže jezero."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-039",
+      "tezina": "srednje",
+      "pitanje": "Kako se naziva tvar koja na Plitvicama stvara prirodne pregrade između jezera?",
+      "ponudeni": [
+        "Sedra",
+        "Glina",
+        "Pijesak",
+        "Sol"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sedra je porozna stijena koja nastaje iz vode uz pomoć mahovina. Od nje su građene pregrade između Plitvičkih jezera.",
+      "savjet": "Sjeti se posebne stijene koja na Plitvicama i dalje raste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-040",
+      "tezina": "srednje",
+      "pitanje": "Plitvička jezera upisana su na popis svjetske prirodne baštine. Koja organizacija vodi taj popis?",
+      "ponudeni": [
+        "FIFA",
+        "NATO",
+        "Crveni križ",
+        "UNESCO"
+      ],
+      "tocan": 3,
+      "objasnjenje": "UNESCO vodi popis svjetske baštine, a na njemu su i Plitvička jezera.",
+      "savjet": "Sjeti se organizacije koja štiti kulturnu i prirodnu baštinu svijeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-041",
+      "tezina": "srednje",
+      "pitanje": "Što šumari rade nakon sječe da šuma ne nestane?",
+      "ponudeni": [
+        "Pale ostatke šume",
+        "Sade nova stabla",
+        "Isušuju šumsko tlo",
+        "Grade ceste umjesto šume"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šumari sade nova stabla i brinu se o mladoj šumi, kako bi šuma ostala i za buduće naraštaje.",
+      "savjet": "Razmisli kako se šuma može obnoviti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-042",
+      "tezina": "srednje",
+      "pitanje": "Koja zaštićena biljka raste samo na Velebitu?",
+      "ponudeni": [
+        "Lavanda",
+        "Velebitska degenija",
+        "Maslina",
+        "Suncokret"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Velebitska degenija raste samo na Velebitu i nigdje drugdje na svijetu, zato je strogo zaštićena.",
+      "savjet": "Ime te biljke otkriva gdje raste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-043",
+      "tezina": "srednje",
+      "pitanje": "Po čemu je poznat Nikola Tesla, rođen u Smiljanu?",
+      "ponudeni": [
+        "Po pisanju bajki za djecu",
+        "Po otkriću krapinskog pračovjeka",
+        "Po slikanju pejzaža Like",
+        "Po izumima vezanim uz električnu struju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nikola Tesla bio je izumitelj. Njegovi izumi pomogli su da električna struja dođe u domove i tvornice.",
+      "savjet": "Sjeti se po čemu se zove jedinica i automobil koji nose njegovo ime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-044",
+      "tezina": "srednje",
+      "pitanje": "Koja je poznata spisateljica rođena u Ogulinu?",
+      "ponudeni": [
+        "Ivana Brlić-Mažuranić",
+        "Marija Jurić Zagorka",
+        "Vesna Parun",
+        "Sanja Pilić"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ivana Brlić-Mažuranić, autorica „Šegrta Hlapića“ i „Priča iz davnine“, rođena je u Ogulinu.",
+      "savjet": "Sjeti se spisateljice koju nazivaju hrvatskim Andersenom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-045",
+      "tezina": "srednje",
+      "pitanje": "Koja se od navedenih planina nalazi u Gorskom kotaru?",
+      "ponudeni": [
+        "Papuk",
+        "Biokovo",
+        "Risnjak",
+        "Učka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Risnjak je planina u Gorskom kotaru i nacionalni park.",
+      "savjet": "Sjeti se nacionalnog parka koji je dobio ime po divljoj mački."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-046",
+      "tezina": "srednje",
+      "pitanje": "Zašto je gradnja cesta u gorskim krajevima teška i skupa?",
+      "ponudeni": [
+        "Tlo je od mekanog pijeska",
+        "Ceste se ondje grade u moru",
+        "Treba graditi tunele i mostove kroz planine",
+        "Ondje nema kamena za gradnju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Planine i duboke doline treba svladati tunelima i vijaduktima, a to je teško i skupo.",
+      "savjet": "Zamisli kako cesta može proći kroz visoku planinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-047",
+      "tezina": "srednje",
+      "pitanje": "Koje dijelove Hrvatske povezuju gorski krajevi?",
+      "ponudeni": [
+        "Nizinsku Hrvatsku s primorskom",
+        "Istru s otocima",
+        "Slavoniju s Baranjom",
+        "Split s Dubrovnikom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gorski krajevi leže između nizinske i primorske Hrvatske, pa kroz njih prolaze ceste i pruge prema moru.",
+      "savjet": "Pogledaj na karti što se nalazi s obiju strana gorskih krajeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-048",
+      "tezina": "srednje",
+      "pitanje": "Koje je zanimanje tipično za Gorski kotar?",
+      "ponudeni": [
+        "Ribar",
+        "Vinogradar",
+        "Pomorac",
+        "Šumar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gorski kotar prekriven je šumama, pa je ondje važno zanimanje šumar, koji se brine o šumi.",
+      "savjet": "Sjeti se najvećeg prirodnog bogatstva tog kraja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-049",
+      "tezina": "srednje",
+      "pitanje": "Zašto je zrak u gorskim krajevima vrlo čist?",
+      "ponudeni": [
+        "Ondje stalno puše vjetar s mora",
+        "Ima mnogo šuma, a malo tvornica i prometa",
+        "Ondje nikad ne pada kiša",
+        "Ondje nema nikakvih biljaka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šume pročišćuju zrak, a u rijetko naseljenim krajevima malo je tvornica i automobila koji ga zagađuju.",
+      "savjet": "Razmisli što zrak čini prljavim, a što ga čisti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto se mnogi mladi ljudi sele iz gorskih krajeva?",
+      "ponudeni": [
+        "Ondje je preveliko gradsko mnoštvo",
+        "Ondje je malo posla, a život je težak",
+        "Ondje je klima prevruća",
+        "Ondje je previše tvornica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U gorskim krajevima malo je radnih mjesta i škola, a zime su duge, pa mladi često odlaze u veće gradove.",
+      "savjet": "Razmisli što je ljudima potrebno da bi ostali živjeti u nekom mjestu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-051",
+      "tezina": "srednje",
+      "pitanje": "Rijeka Lika ponire u kršu. Što to znači?",
+      "ponudeni": [
+        "Ulijeva se izravno u more",
+        "Teče uzbrdo prema planini",
+        "Svake zime zauvijek presuši",
+        "Nestaje pod zemljom i teče podzemno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ponirati znači nestati pod zemljom. Lika ponire u kršu i dalje teče podzemnim tokovima.",
+      "savjet": "Sjeti se kako se zove rijeka koja nestaje u zemlji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-052",
+      "tezina": "srednje",
+      "pitanje": "Gdje se nalazi Lika u odnosu na Velebit?",
+      "ponudeni": [
+        "Iza Velebita, s unutrašnje strane",
+        "Između Velebita i mora",
+        "Na otocima ispred Velebita",
+        "Uz rijeku Dunav na istoku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Velebit se proteže uz more, a Lika je s njegove unutrašnje strane, dalje od mora.",
+      "savjet": "Zamisli da stojiš na moru i gledaš prema Velebitu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-053",
+      "tezina": "srednje",
+      "pitanje": "Koja se gorja nalaze u gorskoj Hrvatskoj?",
+      "ponudeni": [
+        "Papuk, Psunj i Krndija",
+        "Medvednica, Ivanščica i Kalnik",
+        "Velika i Mala Kapela, Velebit i Plješivica",
+        "Učka, Ćićarija i Žumberak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Velika i Mala Kapela, Velebit i Plješivica gorja su Gorskog kotara i Like.",
+      "savjet": "Sjeti se planina između Gorskog kotara i Like te planine uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto su zime u gorskim krajevima hladnije nego u nizinama?",
+      "ponudeni": [
+        "Gorski krajevi su bliže Sjevernom polu",
+        "U gorskim krajevima nema šuma",
+        "Gorski krajevi su na većoj nadmorskoj visini",
+        "U gorskim krajevima nema rijeka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Što je kraj na većoj nadmorskoj visini, to je hladniji. Zato su zime u gorskim krajevima hladnije.",
+      "savjet": "Sjeti se je li na vrhu planine toplije ili hladnije nego u podnožju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-055",
+      "tezina": "srednje",
+      "pitanje": "Koja su zaštićena područja na Velebitu?",
+      "ponudeni": [
+        "NP Sjeverni Velebit i Park prirode Velebit",
+        "NP Risnjak i NP Plitvička jezera",
+        "NP Kornati i NP Mljet",
+        "PP Kopački rit i PP Lonjsko polje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na Velebitu su Nacionalni park Sjeverni Velebit i Park prirode Velebit, koji obuhvaća cijelu planinu.",
+      "savjet": "Potraži par u kojemu se ime planine pojavljuje u nazivima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-056",
+      "tezina": "srednje",
+      "pitanje": "Zašto rijeke u gorskim krajevima u proljeće nabujaju?",
+      "ponudeni": [
+        "More ulazi u rijeke",
+        "Ljeti nema nimalo kiše",
+        "Ljudi ispuštaju vodu iz bunara",
+        "Topi se snijeg s planina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zimi u planinama napada mnogo snijega. U proljeće se topi i voda puni rijeke.",
+      "savjet": "Sjeti se što se u proljeće događa sa zimskim snijegom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-057",
+      "tezina": "srednje",
+      "pitanje": "Čime su se u gorskim krajevima tradicionalno grijale kuće?",
+      "ponudeni": [
+        "Toplinom s mora",
+        "Drvima iz okolnih šuma",
+        "Sunčevim kolektorima",
+        "Plinom iz Slavonije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U gorskim krajevima ima mnogo šuma, pa su se kuće tradicionalno grijale drvima.",
+      "savjet": "Razmisli čega u tim krajevima ima najviše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-058",
+      "tezina": "srednje",
+      "pitanje": "Koja životinja iz gorskih šuma zimu provodi u zimskom snu?",
+      "ponudeni": [
+        "Ris",
+        "Smeđi medvjed",
+        "Vuk",
+        "Jelen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Smeđi medvjed zimi spava zimski san u brlogu, a ris, vuk i jelen ostaju budni.",
+      "savjet": "Sjeti se najveće zvijeri u šumama Gorskog kotara."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-059",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu gorske krajeve i gradove koji su s njima povezani.",
+      "karta": {
+        "okvir": [
+          13.8,
+          44.2,
+          16.4,
+          46
+        ],
+        "mjesta": [
+          {
+            "naziv": "Gorski kotar",
+            "polozaj": [
+              14.85,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Lika",
+            "polozaj": [
+              15.4,
+              44.65
+            ]
+          },
+          {
+            "naziv": "Rijeka",
+            "polozaj": [
+              14.44,
+              45.33
+            ]
+          },
+          {
+            "naziv": "Karlovac",
+            "polozaj": [
+              15.55,
+              45.49
+            ]
+          },
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Gorski kotar leži između Karlovca i Rijeke, Lika je južnije, a Zagreb je na sjeveroistoku.",
+      "savjet": "Prvo pronađi grad uz more, a zatim gorske krajeve između mora i unutrašnjosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-060",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu nacionalne parkove gorske Hrvatske i središte Like.",
+      "karta": {
+        "okvir": [
+          14.2,
+          44.2,
+          16.2,
+          45.8
+        ],
+        "mjesta": [
+          {
+            "naziv": "NP Risnjak",
+            "polozaj": [
+              14.63,
+              45.42
+            ]
+          },
+          {
+            "naziv": "NP Sjeverni Velebit",
+            "polozaj": [
+              14.98,
+              44.78
+            ]
+          },
+          {
+            "naziv": "NP Plitvička jezera",
+            "polozaj": [
+              15.61,
+              44.88
+            ]
+          },
+          {
+            "naziv": "Gospić",
+            "polozaj": [
+              15.37,
+              44.55
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Risnjak je u Gorskom kotaru, Sjeverni Velebit na planini uz more, Plitvička jezera na istoku Like, a Gospić u središtu Like.",
+      "savjet": "Sjeti se koji je park najbliže moru, a koji najdalje od njega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-061",
+      "tezina": "tesko",
+      "pitanje": "Senj je na moru, a Lika je iza Velebita. Zašto je zima u Lici mnogo hladnija nego u Senju?",
+      "ponudeni": [
+        "Lika je mnogo sjevernije od Senja",
+        "U Lici uopće nema šuma",
+        "Lika leži niže od razine mora",
+        "Velebit zaklanja Liku od utjecaja mora"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Velebit odvaja Liku od mora koje zimi grije obalu. Lika je k tome i na većoj visini, pa su zime ondje hladnije.",
+      "savjet": "Razmisli što se nalazi između mora i Like."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-062",
+      "tezina": "tesko",
+      "pitanje": "Obitelj želi zimski odmor sa skijanjem i sanjkanjem u Hrvatskoj. Koji je kraj najbolji izbor?",
+      "ponudeni": [
+        "Gorski kotar",
+        "Baranja",
+        "Dalmatinski otoci",
+        "Istarska obala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gorski kotar ima planine i mnogo snijega zimi, pa je pogodan za zimski turizam.",
+      "savjet": "Razmisli gdje zimi ima dovoljno snijega i strmih padina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-063",
+      "tezina": "tesko",
+      "pitanje": "Na izletu je rijeka nestala u otvoru u stijeni. U kakvom se kraju to dogodilo?",
+      "ponudeni": [
+        "U nizini uz Dunav",
+        "Na pješčanoj plaži",
+        "U kršu",
+        "U močvari"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U kršu voda otapa vapnenac i ponire pod zemlju. Takve rijeke nazivamo ponornicama.",
+      "savjet": "Sjeti se u kojem kraju rijeke mogu nestati pod zemljom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-064",
+      "tezina": "tesko",
+      "pitanje": "Zašto u kršu ima malo rijeka i potoka na površini iako pada mnogo kiše?",
+      "ponudeni": [
+        "Kišnicu odmah popije stoka",
+        "Voda se cijele godine zaledi",
+        "Voda ponire kroz pukotine u vapnencu",
+        "Tlo je od gline koja ne propušta vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vapnenac je pun pukotina, pa kišnica brzo ponire pod zemlju i teče podzemnim tokovima.",
+      "savjet": "Razmisli kamo nestaje voda kad padne na ispucalu stijenu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto su se naselja u Lici smjestila uglavnom u krškim poljima?",
+      "ponudeni": [
+        "Ondje je ravno i ima plodnijeg tla",
+        "Ondje su najviši vrhovi planina",
+        "Ondje nema nikakve vode",
+        "Ondje je klima kao na moru"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krška polja su ravna i imaju plodnije tlo, pa su ljudi ondje mogli obrađivati zemlju i graditi kuće.",
+      "savjet": "Razmisli gdje je u planinskom kraju najlakše obrađivati zemlju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-066",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u Lici uzgaja krumpir, a ne masline?",
+      "ponudeni": [
+        "Maslina treba mnogo snijega",
+        "Krumpir raste samo u kršu",
+        "Masline se uzgajaju samo u nizinama",
+        "Krumpir podnosi hladnu klimu, a maslini treba toplina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Maslina treba blage zime kakve su na moru. Krumpir dobro uspijeva i u hladnijim krajevima poput Like.",
+      "savjet": "Sjeti se gdje u Hrvatskoj rastu masline i kakve su ondje zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-067",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo s drvnom industrijom kad bi se šume sjekle bez plana i obnove?",
+      "ponudeni": [
+        "Imala bi sve više drva",
+        "S vremenom bi ostala bez drva",
+        "Počela bi prerađivati ribu",
+        "Ništa se ne bi promijenilo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bez sadnje novih stabala šume bi nestajale, a drvna industrija ostala bi bez sirovine.",
+      "savjet": "Razmisli odakle drvna industrija dobiva drvo i što se događa kad ga nestane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-068",
+      "tezina": "tesko",
+      "pitanje": "Kako autocesta kroz gorske krajeve pomaže ljudima koji ondje žive?",
+      "ponudeni": [
+        "Zime postaju toplije i kraće",
+        "Lakše dolaze turisti i prevoze se proizvodi",
+        "Šume brže rastu uz cestu",
+        "Rijeke prestaju ponirati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dobre ceste skraćuju putovanje, pa lakše dolaze turisti, a drvo i drugi proizvodi brže se prevoze.",
+      "savjet": "Razmisli što se sve prevozi cestom i tko njome putuje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-069",
+      "tezina": "tesko",
+      "pitanje": "Kojim se redom prolazi na putu od Zagreba do Rijeke?",
+      "ponudeni": [
+        "Zagreb – Gorski kotar – Karlovac – Rijeka",
+        "Zagreb – Lika – Karlovac – Rijeka",
+        "Zagreb – Rijeka – Gorski kotar – Karlovac",
+        "Zagreb – Karlovac – Gorski kotar – Rijeka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iz Zagreba se najprije stiže u Karlovac, zatim se prolazi kroz Gorski kotar i spušta do Rijeke na moru.",
+      "savjet": "Sjeti se koji je grad posljednji jer se nalazi na moru, a što leži između nizine i mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-070",
+      "tezina": "tesko",
+      "pitanje": "Ana živi u Gospiću, a Ivan u Osijeku. Što je najvjerojatnije točno?",
+      "ponudeni": [
+        "Ana ima dulju i snježniju zimu",
+        "Ivan živi u gorskom kraju",
+        "Ana živi uz more",
+        "Ivan ima više šuma oko grada"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gospić je u Lici, gorskom kraju s dugim i snježnim zimama. Osijek je u nizinskoj Slavoniji.",
+      "savjet": "Sjeti se u kojem je kraju koji grad i kakva je ondje klima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-071",
+      "tezina": "tesko",
+      "pitanje": "Zašto su ljudi u gorskim krajevima nekad u jesen pripremali mnogo drva i hrane za zimu?",
+      "ponudeni": [
+        "Zimi su trgovine imale previše hrane",
+        "U jesen je bilo zabranjeno sjeći drva",
+        "Zima je duga, a putovi često zameteni snijegom",
+        "Zima u planinama traje samo nekoliko dana"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Duge zime i snijeg mogli su sela odvojiti od svijeta, pa su ljudi unaprijed spremali ogrjev i zimnicu.",
+      "savjet": "Razmisli kako je bilo putovati kroz planine kad napada mnogo snijega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-072",
+      "tezina": "tesko",
+      "pitanje": "Hotel u Gorskom kotaru zimi je pun skijaša, a ljeti prazan. Što bi mu ljeti najviše pomoglo?",
+      "ponudeni": [
+        "Gradnja pješčane plaže",
+        "Izlet jedrilicom po moru",
+        "Uređene planinarske i biciklističke staze",
+        "Berba maslina za goste"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljeti je u Gorskom kotaru ugodno svježe, pa staze kroz šume i planine mogu privući planinare i bicikliste.",
+      "savjet": "Razmisli što ljeti nudi priroda bez snijega u tom kraju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-073",
+      "tezina": "tesko",
+      "pitanje": "Zašto su Plitvička jezera zaštićena kao nacionalni park?",
+      "ponudeni": [
+        "Da se sačuva njihova iznimna i osjetljiva priroda",
+        "Da bi se ondje gradile tvornice",
+        "Da bi se ondje lovile ribe za prodaju",
+        "Da bi se jezera isušila za polja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nacionalni park štiti iznimno vrijednu prirodu kako bi ostala sačuvana i za buduće naraštaje.",
+      "savjet": "Sjeti se čemu služe nacionalni parkovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-074",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u Plitvičkim jezerima ne smije kupati ni hodati izvan staza?",
+      "ponudeni": [
+        "Jer je voda ondje slana",
+        "Jer su jezera zimi zaleđena",
+        "Da turisti ne bi vidjeli slapove",
+        "Da se ne oštete sedrene pregrade i biljni svijet"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sedra i biljke vrlo su osjetljive. Kupanje i gaženje izvan staza mogli bi ih oštetiti.",
+      "savjet": "Sjeti se od čega su građene pregrade između jezera i koliko su osjetljive."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-075",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se gorski krajevi razlikuju od nizinskih?",
+      "ponudeni": [
+        "Imaju više oranica i velikih gradova",
+        "Imaju više šuma, a manje oranica i stanovnika",
+        "Imaju topliju klimu i dulja ljeta",
+        "Imaju više vinograda i maslinika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gorski krajevi su šumoviti, hladniji i rijetko naseljeni, a nizinski imaju velike oranice i više stanovnika.",
+      "savjet": "Usporedi kako izgleda Slavonija, a kako Gorski kotar."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-076",
+      "tezina": "tesko",
+      "pitanje": "Koja su obilježja zajednička Gorskom kotaru i Lici?",
+      "ponudeni": [
+        "More, plaže i mnogo turista ljeti",
+        "Hladne zime, mnogo šuma i malo stanovnika",
+        "Ravnice s poljima kukuruza i pšenice",
+        "Brežuljci s vinogradima i dvorcima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gorski kotar i Lika gorski su krajevi: imaju duge hladne zime, mnogo šuma i rijetka naselja.",
+      "savjet": "Sjeti se kojoj skupini krajeva pripadaju oba kraja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto su sela u gorskim krajevima često daleko jedno od drugoga?",
+      "ponudeni": [
+        "Ljudi ondje ne vole susjede",
+        "Zakon zabranjuje gradnju blizu sela",
+        "Rijeke ondje stalno plave",
+        "Planine i šume razdvajaju malo mjesta pogodnog za život"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U gorskim krajevima malo je ravnog i plodnog tla, a između njega su planine i šume, pa su sela raštrkana.",
+      "savjet": "Razmisli gdje se u planinskom kraju može sagraditi kuća i obrađivati vrt."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-078",
+      "tezina": "tesko",
+      "pitanje": "Koji naslov najbolje opisuje gospodarstvo Gorskog kotara?",
+      "ponudeni": [
+        "„Od šume do namještaja“",
+        "„Od mora do ribe“",
+        "„Od grožđa do vina“",
+        "„Od žita do kruha“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najvažnije bogatstvo Gorskog kotara su šume, a od njihova drva nastaju građa i namještaj.",
+      "savjet": "Sjeti se najvećeg prirodnog bogatstva tog kraja i što se od njega izrađuje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-079",
+      "tezina": "tesko",
+      "pitanje": "U kojem je paru grad ispravno povezan s krajem u kojem se nalazi?",
+      "ponudeni": [
+        "Gospić – Gorski kotar",
+        "Otočac – Hrvatsko zagorje",
+        "Delnice – Gorski kotar",
+        "Ogulin – Baranja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Delnice su u Gorskom kotaru. Gospić i Otočac nalaze se u Lici, a Ogulin nije u Baranji.",
+      "savjet": "Za svaki grad prvo se sjeti je li u gorskom kraju, a zatim u kojem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto u šumama Gorskog kotara mogu živjeti medvjed, vuk i ris?",
+      "ponudeni": [
+        "Ondje je cijele godine toplo",
+        "Ondje ih ljudi hrane u kavezima",
+        "Šume su velike i guste, a ljudi je malo",
+        "Ondje nema drugih životinja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Velike zvijeri trebaju velike, mirne šume s dovoljno hrane, a takve su u rijetko naseljenom Gorskom kotaru.",
+      "savjet": "Razmisli što je velikim divljim životinjama potrebno za život."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-081",
+      "tezina": "tesko",
+      "pitanje": "Kojem velikom gorju pripadaju Velebit, Velika Kapela i Plješivica?",
+      "ponudeni": [
+        "Dinarskom gorju",
+        "Alpama",
+        "Karpatima",
+        "Pirinejima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Velebit, Velika i Mala Kapela te Plješivica dio su Dinarskog gorja, koje se proteže uz Jadransko more.",
+      "savjet": "Sjeti se gorja čiji najviši vrh u Hrvatskoj ima gotovo isto ime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-082",
+      "tezina": "tesko",
+      "pitanje": "Razred iz Zagreba ide posjetiti rodnu kuću Nikole Tesle. U koji kraj putuje?",
+      "ponudeni": [
+        "U Gorski kotar",
+        "U Hrvatsko zagorje",
+        "U Slavoniju",
+        "U Liku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nikola Tesla rođen je u Smiljanu kraj Gospića, a to je u Lici.",
+      "savjet": "Sjeti se uz koji je grad vezano njegovo rodno mjesto."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-083",
+      "tezina": "tesko",
+      "pitanje": "U kršu je vidljiva udubina u tlu u obliku lijevka. Kako je nastala?",
+      "ponudeni": [
+        "Iskopali su je ljudi",
+        "Voda je otapala vapnenac",
+        "Napravio ju je potres",
+        "Iskopale su je životinje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Takve udubine nazivaju se vrtače. Nastaju kad voda godinama otapa vapnenac.",
+      "savjet": "Sjeti se što voda u kršu radi s kamenom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-084",
+      "tezina": "tesko",
+      "pitanje": "Zašto se planinarima savjetuje da i ljeti ponesu toplu odjeću u planine?",
+      "ponudeni": [
+        "Ljeti u planinama uvijek pada snijeg",
+        "Vrijeme se brzo mijenja, a na vrhovima je hladnije",
+        "Topla odjeća štiti od komaraca",
+        "Planinarske staze vode kroz špilje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "S visinom temperatura pada, a vrijeme se u planinama može naglo promijeniti, pa je topla odjeća korisna.",
+      "savjet": "Sjeti se kako se mijenja temperatura kad se penješ prema vrhu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-085",
+      "tezina": "tesko",
+      "pitanje": "Što će se najvjerojatnije dogoditi s gorskim selom iz kojega se sele svi mladi?",
+      "ponudeni": [
+        "Selo će brzo postati veliki grad",
+        "U selu će se otvoriti nove škole",
+        "Selo će dobiti sve više djece",
+        "Ostat će starije stanovništvo i selo će pustjeti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad mladi odu, u selu ostaju stariji ljudi, nema djece ni novih obitelji, pa selo s vremenom opustjeti.",
+      "savjet": "Razmisli tko će u selu imati djecu ako mladi odu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-086",
+      "tezina": "tesko",
+      "pitanje": "Koji je od navedenih proizvoda izrađen od sirovine iz gorskih krajeva?",
+      "ponudeni": [
+        "Drveni stol",
+        "Morska sol",
+        "Maslinovo ulje",
+        "Šećer od šećerne repe"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Drvo iz gorskih šuma prerađuje se u drvnoj industriji u namještaj, primjerice stolove.",
+      "savjet": "Sjeti se najvećeg prirodnog bogatstva gorskih krajeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u Gorskom kotaru razvio lovni turizam?",
+      "ponudeni": [
+        "Ondje je more puno riba",
+        "Ondje su velika polja kukuruza",
+        "U velikim šumama živi mnogo divljači",
+        "Ondje nema nikakvih šuma"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U prostranim šumama Gorskog kotara živi mnogo divljači, pa onamo dolaze i lovci.",
+      "savjet": "Razmisli gdje divlje životinje nalaze zaklon i hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-088",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo s Plitvičkim jezerima kad bi se uništile sedrene pregrade?",
+      "ponudeni": [
+        "Jezera bi postala slana",
+        "Jezera bi se pretvorila u ledenjake",
+        "Voda bi otekla, a jezera bi se smanjila",
+        "Ništa se ne bi promijenilo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sedrene pregrade zadržavaju vodu u jezerima. Bez njih bi voda otekla, a jezera bi se smanjila ili nestala.",
+      "savjet": "Razmisli čemu služi brana na rijeci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-089",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu gorja gorske Hrvatske.",
+      "karta": {
+        "okvir": [
+          14.4,
+          44.2,
+          16.3,
+          45.6
+        ],
+        "mjesta": [
+          {
+            "naziv": "Velika Kapela",
+            "polozaj": [
+              15.05,
+              45.15
+            ]
+          },
+          {
+            "naziv": "Mala Kapela",
+            "polozaj": [
+              15.45,
+              44.95
+            ]
+          },
+          {
+            "naziv": "Velebit",
+            "polozaj": [
+              15.2,
+              44.5
+            ]
+          },
+          {
+            "naziv": "Plješivica",
+            "polozaj": [
+              15.85,
+              44.6
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Velebit se proteže uz more, Velika Kapela odvaja Gorski kotar od Like, Mala Kapela je jugoistočno od nje, a Plješivica je na istoku uz granicu s Bosnom i Hercegovinom.",
+      "savjet": "Prvo smjesti planinu koja je najbliže moru, a zatim gorja u unutrašnjosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-gorski-krajevi-090",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu gradove gorske Hrvatske.",
+      "karta": {
+        "okvir": [
+          14.3,
+          44.3,
+          16,
+          45.8
+        ],
+        "mjesta": [
+          {
+            "naziv": "Čabar",
+            "polozaj": [
+              14.64,
+              45.6
+            ]
+          },
+          {
+            "naziv": "Delnice",
+            "polozaj": [
+              14.8,
+              45.4
+            ]
+          },
+          {
+            "naziv": "Ogulin",
+            "polozaj": [
+              15.23,
+              45.27
+            ]
+          },
+          {
+            "naziv": "Otočac",
+            "polozaj": [
+              15.24,
+              44.87
+            ]
+          },
+          {
+            "naziv": "Gospić",
+            "polozaj": [
+              15.37,
+              44.55
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Čabar je na sjeveru Gorskog kotara uz granicu sa Slovenijom, Delnice u središtu Gorskog kotara, Ogulin istočnije, a Otočac i Gospić u Lici.",
+      "savjet": "Gradovi Gorskog kotara su sjevernije, a gradovi Like južnije."
+    }
+  ]
+}

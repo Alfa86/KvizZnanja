@@ -1,0 +1,1398 @@
+{
+  "lekcijaId": "kulturna-bastina-i-obicaji",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-001",
+      "tezina": "lagano",
+      "pitanje": "Što je kulturna baština?",
+      "ponudeni": [
+        "Ono što smo naslijedili od predaka i čuvamo za buduće naraštaje",
+        "Samo stare kuće koje treba srušiti",
+        "Sve što je napravljeno prošle godine",
+        "Samo biljke i životinje nekog kraja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kulturna baština je sve vrijedno što su nam ostavili preci: građevine, predmeti, pjesme, plesovi i običaji. Čuvamo je da bi je upoznali i oni koji dolaze poslije nas.",
+      "savjet": "Razmisli što znači riječ „baštiniti“ – naslijediti nešto od nekoga."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-002",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih primjera materijalna kulturna baština?",
+      "ponudeni": [
+        "Narodna pjesma",
+        "Stara crkva",
+        "Ples u kolu",
+        "Priča koju pričaju bake"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Materijalna baština su građevine i predmeti koje možemo vidjeti i dotaknuti, poput stare crkve.",
+      "savjet": "Materijalno je ono što možeš dotaknuti rukom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-003",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih primjera nematerijalna kulturna baština?",
+      "ponudeni": [
+        "Stari most",
+        "Gradske zidine",
+        "Narodni ples",
+        "Dvorac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nematerijalna baština su pjesme, plesovi, običaji i znanja koja se prenose s koljena na koljeno. Narodni ples ne možemo dotaknuti, ali ga možemo naučiti i izvoditi.",
+      "savjet": "Potraži ono što se ne može dotaknuti, nego se uči i izvodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove svjetska organizacija koja vodi popis najvrjednije kulturne i prirodne baštine?",
+      "ponudeni": [
+        "Crveni križ",
+        "Hrvatski sabor",
+        "Olimpijski odbor",
+        "UNESCO"
+      ],
+      "tocan": 3,
+      "objasnjenje": "UNESCO je organizacija Ujedinjenih naroda koja vodi popis svjetske baštine i nematerijalne baštine čovječanstva.",
+      "savjet": "Riječ je o organizaciji Ujedinjenih naroda za obrazovanje, znanost i kulturu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-005",
+      "tezina": "lagano",
+      "pitanje": "Koji se grad na jugu Hrvatske, poznat po starim gradskim zidinama, nalazi na UNESCO-ovu popisu svjetske baštine?",
+      "ponudeni": [
+        "Dubrovnik",
+        "Osijek",
+        "Karlovac",
+        "Bjelovar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stari grad Dubrovnik, okružen zidinama, zaštićen je kao svjetska baština.",
+      "savjet": "Potraži grad koji leži uz more na samom jugu Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-006",
+      "tezina": "lagano",
+      "pitanje": "U kojem se gradu nalazi Dioklecijanova palača?",
+      "ponudeni": [
+        "U Zadru",
+        "U Splitu",
+        "U Rijeci",
+        "U Puli"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dioklecijanova palača nalazi se u Splitu i zaštićena je kao svjetska baština.",
+      "savjet": "Sjeti se najvećeg grada u Dalmaciji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-007",
+      "tezina": "lagano",
+      "pitanje": "Koja se prirodna ljepota Hrvatske nalazi na UNESCO-ovu popisu svjetske baštine?",
+      "ponudeni": [
+        "Medvednica",
+        "Park prirode Učka",
+        "Nacionalni park Plitvička jezera",
+        "Kopački rit"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plitvička jezera zaštićena su kao svjetska prirodna baština zbog niza jezera povezanih slapovima.",
+      "savjet": "Sjeti se najpoznatijeg nacionalnog parka s jezerima i slapovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-008",
+      "tezina": "lagano",
+      "pitanje": "Od čega se izrađuje licitarsko srce?",
+      "ponudeni": [
+        "Od drva",
+        "Od gline",
+        "Od stakla",
+        "Od medenog tijesta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Licitarsko srce izrađuje se od medenog tijesta, a zatim se ukrašava bojama, ogledalcima i stihovima.",
+      "savjet": "Licitari se peku, a nekad su se mogli i jesti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-009",
+      "tezina": "lagano",
+      "pitanje": "Što je Sinjska alka?",
+      "ponudeni": [
+        "Viteško natjecanje konjanika",
+        "Narodni ples iz Slavonije",
+        "Vrsta čipke",
+        "Stari dvorac na brdu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sinjska alka je viteško natjecanje u kojem konjanici u trku kopljem gađaju željezni prsten. Zaštićena je kao nematerijalna baština.",
+      "savjet": "Sudionici alke zovu se alkari i jašu na konjima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-010",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pjevanje skupine pjevača bez pratnje glazbala, poznato u gradovima uz dalmatinsku obalu?",
+      "ponudeni": [
+        "Bećarac",
+        "Klapsko pjevanje",
+        "Pjevanje uz gusle",
+        "Tamburaška pjesma"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Klapa je skupina pjevača koji pjevaju višeglasno bez glazbala. Klapsko pjevanje zaštićeno je kao nematerijalna baština.",
+      "savjet": "Sjeti se kako zvuče pjevači na dalmatinskim trgovima i rivama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-011",
+      "tezina": "lagano",
+      "pitanje": "Koje je tradicijsko glazbalo osobito poznato u Slavoniji?",
+      "ponudeni": [
+        "Sopile",
+        "Gusle",
+        "Tamburica",
+        "Klavir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tamburica je žičano glazbalo koje se svira trzalicom. U Slavoniji se uz tamburice pjeva i pleše.",
+      "savjet": "Sjeti se glazbala koje prati bećarac i slavonsko kolo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-012",
+      "tezina": "lagano",
+      "pitanje": "Sopile su tradicijsko glazbalo kojeg dijela Hrvatske?",
+      "ponudeni": [
+        "Slavonije",
+        "Like",
+        "Hrvatskog zagorja",
+        "Istre i Kvarnera"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sopile su drvena puhačka glazbala na kojima se svira u Istri i na Kvarneru.",
+      "savjet": "Sopile se čuju na zapadu Hrvatske, uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-013",
+      "tezina": "lagano",
+      "pitanje": "Što su poklade ili maškare?",
+      "ponudeni": [
+        "Vesele svečanosti s maskama prije korizme",
+        "Berba grožđa u jesen",
+        "Kićenje bora za Božić",
+        "Proslava žetve ljeti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poklade su vrijeme veselja krajem zime. Ljudi se maskiraju, ophode mjesto i zabavljaju se prije korizme.",
+      "savjet": "Sjeti se kada se djeca i odrasli prerušavaju u maske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-014",
+      "tezina": "lagano",
+      "pitanje": "Tko su zvončari?",
+      "ponudeni": [
+        "Ribari koji love noću",
+        "Maskirani ophodnici sa zvonima u vrijeme poklada",
+        "Pjevači u klapi",
+        "Konjanici na viteškoj igri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zvončari su muškarci u maskama i ovčjim kožama koji u vrijeme poklada obilaze sela i zvone zvonima. Taj je običaj zaštićen kao nematerijalna baština.",
+      "savjet": "Ime im dolazi od predmeta koji nose oko pojasa i koji jako zvoni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-015",
+      "tezina": "lagano",
+      "pitanje": "Što je narodna nošnja?",
+      "ponudeni": [
+        "Moderna sportska odjeća",
+        "Odjeća za kupanje",
+        "Tradicijska odjeća nekoga kraja",
+        "Školska uniforma"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Narodna nošnja je tradicijska odjeća koju su ljudi nekoga kraja nosili u prošlosti. Svaki kraj ima svoju nošnju.",
+      "savjet": "Sjeti se u čemu nastupaju plesači folklornih skupina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-016",
+      "tezina": "lagano",
+      "pitanje": "Zašto čuvamo kulturnu baštinu?",
+      "ponudeni": [
+        "Da bi stari predmeti zauzimali mjesto",
+        "Da je možemo prodati u inozemstvo",
+        "Jer je zanimljiva samo turistima",
+        "Jer pokazuje tko smo i odakle dolazimo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Baština nas povezuje s precima i pokazuje po čemu smo posebni. Kada je čuvamo, čuvamo i svoj identitet.",
+      "savjet": "Razmisli što bismo izgubili kad bismo zaboravili svoje pretke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-017",
+      "tezina": "lagano",
+      "pitanje": "U kojem se gradu nalazi Eufrazijeva bazilika, zaštićena kao svjetska baština?",
+      "ponudeni": [
+        "U Poreču",
+        "U Zadru",
+        "U Osijeku",
+        "U Karlovcu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Eufrazijeva bazilika nalazi se u Poreču, u Istri, i poznata je po prekrasnim mozaicima.",
+      "savjet": "Taj se grad nalazi na zapadnoj obali Istre."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-018",
+      "tezina": "lagano",
+      "pitanje": "Koja se svečanost svake godine održava u Dubrovniku u čast zaštitnika grada?",
+      "ponudeni": [
+        "Sinjska alka",
+        "Festa sv. Vlaha",
+        "Riječki karneval",
+        "Procesija Za Križen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sveti Vlaho je zaštitnik Dubrovnika, a Festa sv. Vlaha zaštićena je kao nematerijalna baština.",
+      "savjet": "Svečanost nosi ime sveca zaštitnika tog grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-019",
+      "tezina": "lagano",
+      "pitanje": "Što je bećarac?",
+      "ponudeni": [
+        "Vrsta čipke s otoka",
+        "Viteška igra konjanika",
+        "Vesela pjesma iz Slavonije, Baranje i Srijema",
+        "Glazbalo iz Istre"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bećarac je vesela, šaljiva pjesma uz tamburice. Zaštićen je kao nematerijalna baština.",
+      "savjet": "Bećarac se pjeva uz tamburice na istoku Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-020",
+      "tezina": "lagano",
+      "pitanje": "Na kojem se otoku izrađuje poznata čipka zaštićena kao nematerijalna baština?",
+      "ponudeni": [
+        "Na Krku",
+        "Na Braču",
+        "Na Visu",
+        "Na Pagu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Paška čipka izrađuje se iglom i koncem, a umijeće njezine izrade prenosi se s koljena na koljeno.",
+      "savjet": "Taj je otok poznat i po siru i soli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-021",
+      "tezina": "lagano",
+      "pitanje": "Koje se tradicijsko umijeće iz Hrvatskog zagorja nalazi na UNESCO-ovu popisu nematerijalne baštine?",
+      "ponudeni": [
+        "Gradnja kamenih brodova",
+        "Izrada drvenih dječjih igračaka",
+        "Izrada staklenih posuda",
+        "Pletenje ribarskih mreža"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Hrvatskom zagorju od davnina se izrađuju šarene drvene dječje igračke, a to je umijeće zaštićeno kao nematerijalna baština.",
+      "savjet": "Sjeti se šarenih konjića i ptičica na kotačima koji se prodaju na sajmovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-022",
+      "tezina": "lagano",
+      "pitanje": "Što je suhozid?",
+      "ponudeni": [
+        "Zid od cigle i betona",
+        "Drvena ograda oko vrta",
+        "Zid od kamena složen bez žbuke",
+        "Zid od leda"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Suhozid je zid od kamena koji se slaže bez žbuke i drugog veziva. Umijeće gradnje suhozida zaštićeno je kao nematerijalna baština.",
+      "savjet": "Riječ „suho“ govori da se u gradnji ne koristi ništa mokro."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-023",
+      "tezina": "lagano",
+      "pitanje": "Što su kulturno-povijesni spomenici?",
+      "ponudeni": [
+        "Nove trgovine u gradu",
+        "Igrališta u školama",
+        "Ceste i autoceste",
+        "Građevine i predmeti važni za povijest i kulturu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kulturno-povijesni spomenici su stare građevine i predmeti koji svjedoče o prošlosti, npr. crkve, dvorci, zidine i palače.",
+      "savjet": "Spomenik nas podsjeća na prošlost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-024",
+      "tezina": "lagano",
+      "pitanje": "U kojem se gradu nalazi katedrala sv. Jakova, zaštićena kao svjetska baština?",
+      "ponudeni": [
+        "U Šibeniku",
+        "U Zagrebu",
+        "U Đakovu",
+        "U Rijeci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Katedrala sv. Jakova nalazi se u Šibeniku. Sagrađena je od kamena i zaštićena kao svjetska baština.",
+      "savjet": "Taj se grad nalazi u Dalmaciji, na ušću rijeke Krke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-025",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu ova mjesta sa svjetskom baštinom UNESCO-a.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Poreč",
+            "polozaj": [
+              13.6,
+              45.23
+            ]
+          },
+          {
+            "naziv": "Plitvička jezera",
+            "polozaj": [
+              15.61,
+              44.88
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Poreč je na zapadnoj obali Istre, Plitvička jezera u gorskom kraju u unutrašnjosti, Split u srednjoj Dalmaciji, a Dubrovnik na krajnjem jugu obale.",
+      "savjet": "Prvo pronađi poluotok na zapadu i krajnji jug obale, a zatim mjesta između njih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-026",
+      "tezina": "lagano",
+      "pitanje": "Koje se glazbalo svira gudalom, a uz njega se pjevaju stare junačke pjesme?",
+      "ponudeni": [
+        "Tamburica",
+        "Sopile",
+        "Gusle",
+        "Bubanj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gusle su gudačko glazbalo uz koje guslar pjeva junačke pjesme. Poznate su u gorskim krajevima i Dalmatinskoj zagori.",
+      "savjet": "Gudalo se povlači preko žice, kao kod violine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-027",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenog običaj?",
+      "ponudeni": [
+        "Gradnja autoceste",
+        "Gledanje televizije",
+        "Kupnja u trgovini",
+        "Bojanje pisanica za Uskrs"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Običaji su ustaljeni načini proslave blagdana i važnih događaja koji se prenose s koljena na koljeno, poput bojanja pisanica.",
+      "savjet": "Potraži ono što se radi svake godine za blagdan, kao i u vrijeme naših baka i djedova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-028",
+      "tezina": "lagano",
+      "pitanje": "Gdje se čuvaju i izlažu vrijedni stari predmeti iz prošlosti?",
+      "ponudeni": [
+        "U muzeju",
+        "U ljekarni",
+        "U pošti",
+        "U banci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Muzeji čuvaju i izlažu stare predmete, nošnje, alate i umjetnine kako bismo upoznali prošlost.",
+      "savjet": "Sjeti se kamo ideš s razredom kad želiš vidjeti stare predmete."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-029",
+      "tezina": "lagano",
+      "pitanje": "Licitarsko srce tradicijski je proizvod kojeg dijela Hrvatske?",
+      "ponudeni": [
+        "Istre",
+        "Sjeverne Hrvatske",
+        "Dalmatinskih otoka",
+        "Like"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Licitarski obrt razvio se u sjevernoj Hrvatskoj, a licitari su se prodavali na sajmovima i proštenjima.",
+      "savjet": "Licitari se najčešće viđaju na sajmovima u Zagrebu i okolnim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-030",
+      "tezina": "lagano",
+      "pitanje": "Što je narodno kolo?",
+      "ponudeni": [
+        "Ples u kojem se plesači drže za ruke u krugu",
+        "Vrsta tradicijske kuće",
+        "Glazbalo od drva",
+        "Stara kovanica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kolo je tradicijski ples u kojem se plesači drže za ruke i kreću u krugu. Pleše se u mnogim krajevima Hrvatske.",
+      "savjet": "Ime ovog plesa govori kakav oblik čine plesači."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-031",
+      "tezina": "srednje",
+      "pitanje": "Što je kod licitarskog srca zaštićeno kao nematerijalna baština?",
+      "ponudeni": [
+        "Jedno srce izloženo u muzeju",
+        "Trgovina u kojoj se srca prodaju",
+        "Umijeće izrade koje se prenosi s koljena na koljeno",
+        "Crvena boja kojom je obojeno"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nematerijalna baština je znanje i vještina, pa je zaštićeno umijeće izrade licitara, a ne jedan predmet.",
+      "savjet": "Sjeti se da se nematerijalna baština ne može dotaknuti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-032",
+      "tezina": "srednje",
+      "pitanje": "U kojem je paru prvo navedena materijalna, a zatim nematerijalna baština?",
+      "ponudeni": [
+        "Bećarac i Sinjska alka",
+        "Eufrazijeva bazilika i Trogir",
+        "Ojkanje i zvončari",
+        "Dioklecijanova palača i klapsko pjevanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dioklecijanova palača je građevina, dakle materijalna baština, a klapsko pjevanje je nematerijalna baština.",
+      "savjet": "Prvi primjer mora biti nešto što se može dotaknuti, a drugi nešto što se izvodi ili uči."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-033",
+      "tezina": "srednje",
+      "pitanje": "Koji je način pjevanja s osobitim drhtanjem glasa iz Dalmatinske zagore zaštićen kao nematerijalna baština?",
+      "ponudeni": [
+        "Ojkanje",
+        "Bećarac",
+        "Tamburaška pjesma",
+        "Pjevanje uz sopile"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ojkanje je stari način pjevanja u kojem pjevači posebno tresu glasom. Zaštićeno je kao nematerijalna baština.",
+      "savjet": "Taj se način pjevanja izvodi bez glazbala, a naziv mu dolazi od uzvika pjevača."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-034",
+      "tezina": "srednje",
+      "pitanje": "Lepoglava u Hrvatskom zagorju poznata je po čipki. Kojoj skupini krajeva pripada Lepoglava?",
+      "ponudeni": [
+        "Primorskim krajevima",
+        "Brežuljkastim krajevima",
+        "Gorskim krajevima",
+        "Nizinskim krajevima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatsko zagorje pripada brežuljkastim krajevima, pa je i lepoglavska čipka baština brežuljkastog kraja.",
+      "savjet": "Sjeti se kakav je reljef Hrvatskog zagorja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-035",
+      "tezina": "srednje",
+      "pitanje": "Što je tipična baština nizinskih krajeva na istoku Hrvatske?",
+      "ponudeni": [
+        "Klapsko pjevanje i kamene kuće",
+        "Sopile i suhozidi",
+        "Tamburica, bećarac i bogato izvezene nošnje",
+        "Zvončari i karneval"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Slavoniji, Baranji i Srijemu pjeva se bećarac uz tamburice, a nošnje su bogato ukrašene vezom.",
+      "savjet": "Sjeti se veselih pjesama i glazbala iz Slavonije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-036",
+      "tezina": "srednje",
+      "pitanje": "Gdje se najčešće mogu vidjeti suhozidi?",
+      "ponudeni": [
+        "U nizinama uz Savu i Dravu",
+        "U Baranji i Srijemu",
+        "U okolici Varaždina",
+        "U primorskim krajevima s mnogo kamena"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U primorskim krajevima tlo je kamenito, pa su ljudi od izvađenog kamena slagali suhozide oko polja i pašnjaka.",
+      "savjet": "Razmisli gdje ima najviše kamena na površini zemlje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-037",
+      "tezina": "srednje",
+      "pitanje": "Zašto Dubrovčani svake godine slave Festu sv. Vlaha?",
+      "ponudeni": [
+        "Sveti Vlaho zaštitnik je Dubrovnika",
+        "Tada počinje berba grožđa",
+        "Tada završava školska godina",
+        "Tada se otvara sezona kupanja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sveti Vlaho zaštitnik je Dubrovnika, a njegova se festa slavi stoljećima i zaštićena je kao nematerijalna baština.",
+      "savjet": "Mnogi gradovi imaju svog sveca kojeg posebno slave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-038",
+      "tezina": "srednje",
+      "pitanje": "Na kojem se otoku održava noćna procesija Za Križen, zaštićena kao nematerijalna baština?",
+      "ponudeni": [
+        "Na Krku",
+        "Na Hvaru",
+        "Na Pagu",
+        "Na Cresu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Procesija Za Križen održava se na otoku Hvaru, a vjernici noću prolaze kroz nekoliko mjesta na otoku.",
+      "savjet": "Na tom se otoku nalazi i Starogradsko polje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-039",
+      "tezina": "srednje",
+      "pitanje": "Što alkari pokušavaju učiniti na Sinjskoj alki?",
+      "ponudeni": [
+        "Prvi stići do cilja bez konja",
+        "Preskočiti što više prepreka",
+        "Kopljem u trku pogoditi željezni prsten",
+        "Uhvatiti što više riba"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Alkari jašu u punom trku i kopljem gađaju alku, željezni prsten obješen iznad staze.",
+      "savjet": "Natjecanje je dobilo ime po predmetu koji alkari gađaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-040",
+      "tezina": "srednje",
+      "pitanje": "Zašto je Starogradsko polje na Hvaru zaštićeno kao svjetska baština?",
+      "ponudeni": [
+        "Ondje je najveća tvornica na otoku",
+        "Ondje se održava Sinjska alka",
+        "Ondje je velika zračna luka",
+        "Ondje se od vremena starih Grka zemlja obrađuje na sličan način"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stari Grci podijelili su polje kamenim zidovima na čestice, a ljudi ga i danas obrađuju gotovo na isti način.",
+      "savjet": "Razmisli koliko dugo ljudi obrađuju to polje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-041",
+      "tezina": "srednje",
+      "pitanje": "Što je u Trogiru zaštićeno kao svjetska baština?",
+      "ponudeni": [
+        "Povijesna gradska jezgra",
+        "Novo trgovačko središte",
+        "Gradska plaža",
+        "Autobusni kolodvor"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stara jezgra Trogira, s ulicama, crkvama i palačama, zaštićena je kao svjetska baština.",
+      "savjet": "Zaštićuje se ono što je staro i svjedoči o prošlosti grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-042",
+      "tezina": "srednje",
+      "pitanje": "Luka je s razredom razgledao dvorac Trakošćan u Hrvatskom zagorju. Koju je vrstu baštine upoznao?",
+      "ponudeni": [
+        "Nematerijalnu baštinu",
+        "Materijalnu kulturnu baštinu",
+        "Prirodnu baštinu",
+        "Narodni običaj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dvorac je građevina koju možemo vidjeti i dotaknuti, pa pripada materijalnoj kulturnoj baštini.",
+      "savjet": "Razmisli je li dvorac nešto što se može dotaknuti ili nešto što se izvodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-043",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ovih spomenika dao sagraditi rimski car?",
+      "ponudeni": [
+        "Eufrazijeva bazilika",
+        "Katedrala sv. Jakova",
+        "Dioklecijanova palača",
+        "Dvorac Trakošćan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dioklecijanovu palaču dao je sagraditi rimski car Dioklecijan, po kojem je dobila ime.",
+      "savjet": "Pogledaj imena spomenika – jedan nosi ime cara."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-044",
+      "tezina": "srednje",
+      "pitanje": "Kako se nematerijalna baština najbolje čuva od zaborava?",
+      "ponudeni": [
+        "Zaključavanjem u muzejski ormar",
+        "Zabranom izvođenja",
+        "Izvođenjem samo za turiste",
+        "Prenošenjem znanja i vještina na mlađe"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pjesme, plesovi i zanati ostaju živi kad ih stariji nauče mlade, a mladi ih nastave izvoditi.",
+      "savjet": "Sjeti se kako su se pjesme i zanati prenosili s koljena na koljeno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-045",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ova mjesta u Dalmaciji poznata po kulturnoj baštini.",
+      "karta": {
+        "okvir": [
+          15.6,
+          43,
+          17,
+          43.9
+        ],
+        "mjesta": [
+          {
+            "naziv": "Šibenik",
+            "polozaj": [
+              15.9,
+              43.73
+            ]
+          },
+          {
+            "naziv": "Trogir",
+            "polozaj": [
+              16.25,
+              43.52
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Sinj",
+            "polozaj": [
+              16.64,
+              43.7
+            ]
+          },
+          {
+            "naziv": "Stari Grad",
+            "polozaj": [
+              16.6,
+              43.18
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Šibenik je na sjeverozapadu ovog dijela obale, Trogir i Split jedan do drugoga uz obalu, Sinj u unutrašnjosti, a Stari Grad na otoku Hvaru.",
+      "savjet": "Jedno je mjesto na otoku, jedno u unutrašnjosti, a ostala su uz obalu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-046",
+      "tezina": "srednje",
+      "pitanje": "Zašto prema starom vjerovanju zvončari u vrijeme poklada nose zvona i strašne maske?",
+      "ponudeni": [
+        "Da bukom otjeraju zimu i zle sile",
+        "Da upozore ribare na oluju",
+        "Da najave berbu grožđa",
+        "Da pozovu djecu u školu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zvončari bukom zvona i maskama, prema starom vjerovanju, tjeraju zimu i zlo te prizivaju proljeće.",
+      "savjet": "Poklade su krajem zime, kada ljudi jedva čekaju proljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-047",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko bećarcu, ojkanju i klapskom pjevanju?",
+      "ponudeni": [
+        "Svi potječu iz Istre",
+        "Svi su načini pjevanja zaštićeni kao nematerijalna baština",
+        "Svi su stare građevine",
+        "Svi se sviraju na tamburici"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bećarac, ojkanje i klapsko pjevanje različiti su načini pjevanja iz različitih krajeva, a svi su na UNESCO-ovu popisu nematerijalne baštine.",
+      "savjet": "Razmisli što se s tim primjerima radi – grade se, sviraju ili pjevaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-048",
+      "tezina": "srednje",
+      "pitanje": "Koji je par kraja i tradicijskog glazbala točan?",
+      "ponudeni": [
+        "Slavonija – sopile",
+        "Hrvatsko zagorje – gusle",
+        "Istra – sopile",
+        "Istra – tamburica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sopile su glazbalo Istre i Kvarnera, a tamburica je najpoznatija u Slavoniji.",
+      "savjet": "Sjeti se koje se glazbalo čuje na zapadu Hrvatske, uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-049",
+      "tezina": "srednje",
+      "pitanje": "Kada se danas najčešće nose narodne nošnje?",
+      "ponudeni": [
+        "Svaki dan u školi",
+        "Samo na plaži",
+        "Samo pri radu u polju",
+        "Na smotrama folklora i velikim blagdanima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Narodne nošnje danas se nose u posebnim prilikama: na smotrama folklora, blagdanima i svečanostima.",
+      "savjet": "Razmisli u kojim prilikama ljudi žele pokazati baštinu svog kraja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-050",
+      "tezina": "srednje",
+      "pitanje": "Kako učenici mogu pomoći u čuvanju baštine svog kraja?",
+      "ponudeni": [
+        "Naučiti narodnu pjesmu ili ples svog kraja",
+        "Odnijeti kamen sa stare zidine za uspomenu",
+        "Pisati po zidovima starih crkava",
+        "Ne slušati priče starijih"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad djeca nauče pjesme, plesove i običaje svog kraja, baština ostaje živa.",
+      "savjet": "Potraži postupak koji baštinu čuva, a ne oštećuje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-051",
+      "tezina": "srednje",
+      "pitanje": "U koje se doba godine održavaju poklade?",
+      "ponudeni": [
+        "Ljeti, za vrijeme žetve",
+        "Krajem zime, prije korizme",
+        "U jesen, za vrijeme berbe",
+        "U proljeće, nakon Uskrsa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Poklade se slave krajem zime i završavaju prije korizme, kada počinje vrijeme posta prije Uskrsa.",
+      "savjet": "Sjeti se kada se djeca maskiraju i kada je to u odnosu na Uskrs."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-052",
+      "tezina": "srednje",
+      "pitanje": "Koji bi predmet bilo najprikladnije izložiti u zavičajnom muzeju?",
+      "ponudeni": [
+        "Novi mobitel",
+        "Plastičnu bocu",
+        "Stari kolovrat za predenje vune",
+        "Današnje novine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zavičajni muzej čuva predmete kojima su se služili ljudi tog kraja u prošlosti, poput kolovrata.",
+      "savjet": "Zavičajni muzej pokazuje kako se nekad živjelo u nekom kraju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-053",
+      "tezina": "srednje",
+      "pitanje": "Ivan je u Slavoniji slušao kratke šaljive stihove koji se pjevaju uz tamburice. Što je slušao?",
+      "ponudeni": [
+        "Ojkanje",
+        "Klapsku pjesmu",
+        "Pjevanje uz gusle",
+        "Bećarac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bećarac je vesela slavonska pjesma kratkih, šaljivih stihova koja se pjeva uz tamburice.",
+      "savjet": "Sjeti se koja je pjesma iz Slavonije zaštićena kao nematerijalna baština."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto su se tradicijske igračke u Hrvatskom zagorju izrađivale od drva?",
+      "ponudeni": [
+        "U tom kraju ima mnogo šuma, pa je drva bilo dovoljno",
+        "Drvo se uvozilo iz dalekih zemalja",
+        "Zakon je zabranjivao druge materijale",
+        "Kamena je ondje bilo previše"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljudi su izrađivali predmete od onoga čega je u njihovu kraju bilo dovoljno. U brežuljkastom Zagorju ima mnogo šuma.",
+      "savjet": "Razmisli što raste na zagorskim brežuljcima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-055",
+      "tezina": "srednje",
+      "pitanje": "U Kumrovcu se nalazi muzej na otvorenom „Staro selo“. Što se ondje može vidjeti?",
+      "ponudeni": [
+        "Moderni neboderi",
+        "Stare seoske kuće i tradicijski zanati",
+        "Morske ribe u akvariju",
+        "Svemirske letjelice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U muzeju „Staro selo“ sačuvane su stare zagorske kuće s predmetima i prikazom starih zanata.",
+      "savjet": "Ime muzeja govori što se u njemu čuva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-056",
+      "tezina": "srednje",
+      "pitanje": "Po čemu je osobito poznata Eufrazijeva bazilika u Poreču?",
+      "ponudeni": [
+        "Po drvenim igračkama",
+        "Po bijelim zidinama oko otoka",
+        "Po zlatnim mozaicima iz davnih vremena",
+        "Po velikom slapu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Eufrazijeva bazilika poznata je po starim mozaicima od sitnih kamenčića i zlatnog stakla.",
+      "savjet": "Sjeti se kako se ukrašavaju zidovi crkava sitnim kamenčićima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-057",
+      "tezina": "srednje",
+      "pitanje": "Čime je okružen stari grad Dubrovnik?",
+      "ponudeni": [
+        "Rijekom Dunav",
+        "Gustom šumom",
+        "Ravnicom",
+        "Gradskim zidinama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stari grad Dubrovnik okružen je zidinama koje su ga nekad branile od neprijatelja.",
+      "savjet": "Sjeti se čime su se nekad branili gradovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-058",
+      "tezina": "srednje",
+      "pitanje": "Nina je na otoku Pagu gledala žene kako iglom i koncem izrađuju nešto što se uči godinama. Što su izrađivale?",
+      "ponudeni": [
+        "Čipku",
+        "Licitarska srca",
+        "Drvene igračke",
+        "Sopile"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na Pagu se iglom i koncem izrađuje paška čipka. Umijeće njezine izrade zaštićeno je kao nematerijalna baština.",
+      "savjet": "Sjeti se po kojem je ručnom radu Pag poznat."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-059",
+      "tezina": "srednje",
+      "pitanje": "Tko je bio glavni graditelj katedrale sv. Jakova u Šibeniku?",
+      "ponudeni": [
+        "Ivan Meštrović",
+        "Juraj Dalmatinac",
+        "Nikola Tesla",
+        "Faust Vrančić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Katedralu sv. Jakova gradio je Juraj Dalmatinac, a dovršio ju je Nikola Firentinac.",
+      "savjet": "Prezime tog graditelja govori iz kojeg je kraja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-060",
+      "tezina": "srednje",
+      "pitanje": "Kada se održava procesija Za Križen na Hvaru?",
+      "ponudeni": [
+        "Na Božić ujutro",
+        "Na Novu godinu",
+        "U noći s Velikog četvrtka na Veliki petak",
+        "Na kraju ljeta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Procesija Za Križen održava se u Velikom tjednu, cijelu noć s Velikog četvrtka na Veliki petak.",
+      "savjet": "Riječ je o procesiji uoči najvećega kršćanskog blagdana u proljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-061",
+      "tezina": "tesko",
+      "pitanje": "Zašto je klapsko pjevanje nematerijalna, a Dioklecijanova palača materijalna baština?",
+      "ponudeni": [
+        "Pjesma je novija od palače",
+        "Palača je u gradu, a pjesma na selu",
+        "Pjesmu izvode samo djeca",
+        "Pjesma se ne može dotaknuti, a palača je građevina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Materijalna baština su građevine i predmeti, a nematerijalna ono što se izvodi, pamti i prenosi, poput pjesme.",
+      "savjet": "Usporedi što od toga možeš dodirnuti rukom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-062",
+      "tezina": "tesko",
+      "pitanje": "Marko je u Lici slušao pjevača koji pjeva junačku pjesmu uz glazbalo s jednom žicom i gudalom. Koje je to glazbalo?",
+      "ponudeni": [
+        "Gusle",
+        "Tamburica",
+        "Sopile",
+        "Harmonika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gusle imaju najčešće jednu žicu po kojoj se povlači gudalom, a uz njih se pjevaju junačke pjesme u gorskim krajevima.",
+      "savjet": "Isključi glazbala koja se sviraju puhanjem ili trzanjem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-063",
+      "tezina": "tesko",
+      "pitanje": "Zašto su ljudi u primorskim krajevima gradili suhozide?",
+      "ponudeni": [
+        "Da zadrže snijeg na poljima",
+        "Da maknu kamenje s tla i zaštite polja i stoku",
+        "Da ukrase krajolik za turiste",
+        "Da zaustave rijeke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudi su kamenje vadili iz tla da bi dobili zemlju za obradu, a od njega su slagali zidove oko polja i torova.",
+      "savjet": "Razmisli što je seljak trebao učiniti s kamenjem prije nego što je mogao obrađivati zemlju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-064",
+      "tezina": "tesko",
+      "pitanje": "Zašto bi nestanak starih zanata, poput izrade čipke, bio gubitak za domovinu?",
+      "ponudeni": [
+        "Čipka bi u trgovinama bila skuplja",
+        "U kućama bi bilo više mjesta",
+        "Nestalo bi znanje koje je dio našeg identiteta",
+        "Ništa se ne bi promijenilo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stari zanati čuvaju znanje predaka i pokazuju po čemu smo posebni. Ako ih zaboravimo, izgubit ćemo dio sebe.",
+      "savjet": "Razmisli što zanati govore o ljudima koji su ih stvorili."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-065",
+      "tezina": "tesko",
+      "pitanje": "U kojem bi kraju turist najvjerojatnije čuo bećarac uz tamburice i vidio nošnje ukrašene zlatovezom?",
+      "ponudeni": [
+        "U Istri",
+        "U Gorskom kotaru",
+        "Na Hvaru",
+        "U Slavoniji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bećarac, tamburica i bogate nošnje sa zlatovezom obilježja su Slavonije, nizinskog kraja na istoku Hrvatske.",
+      "savjet": "Poveži pjesmu i glazbalo s krajem iz kojeg potječu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-066",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko Sinjskoj alki i Festi sv. Vlaha?",
+      "ponudeni": [
+        "Obje su nematerijalna baština na UNESCO-ovu popisu",
+        "Obje se održavaju u Slavoniji",
+        "Obje su stare građevine",
+        "Obje su vrste glazbala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sinjska alka i Festa sv. Vlaha običaji su koji se održavaju stoljećima i zaštićeni su kao nematerijalna baština čovječanstva.",
+      "savjet": "Razmisli jesu li to građevine ili događaji koji se ponavljaju svake godine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-067",
+      "tezina": "tesko",
+      "pitanje": "Zašto je stare spomenike bolje obnoviti nego srušiti i sagraditi nešto novo?",
+      "ponudeni": [
+        "Nove su građevine uvijek ružnije",
+        "Jednom srušen spomenik više se ne može vratiti",
+        "Stare kuće uvijek su veće od novih",
+        "Obnova ne traži nikakav trud"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Spomenik svjedoči o prošlosti. Kad se sruši, gubi se zauvijek, a nova građevina, čak i ista izgledom, nije stvarni svjedok prošlosti.",
+      "savjet": "Razmisli može li se ono što je napravljeno prije mnogo stoljeća ponovno stvoriti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-068",
+      "tezina": "tesko",
+      "pitanje": "Kojoj vrsti baštine pripada umijeće gradnje suhozida, a kojoj sam suhozid?",
+      "ponudeni": [
+        "Oboje je nematerijalna baština",
+        "Oboje je prirodna baština",
+        "Umijeće je nematerijalna, a zid materijalna baština",
+        "Umijeće je materijalna, a zid nematerijalna baština"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znanje kako se slaže kamen je nematerijalna baština, a zid koji je tako nastao može se dotaknuti, pa je materijalna baština.",
+      "savjet": "Odvoji znanje u glavi graditelja od onoga što je on napravio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-069",
+      "tezina": "tesko",
+      "pitanje": "Lucija živi u Istri i želi u školi predstaviti baštinu svog kraja. Što bi bilo najprikladnije?",
+      "ponudeni": [
+        "Zapjevati bećarac uz tamburicu",
+        "Zapjevati ojkanje",
+        "Pokazati licitarsko srce",
+        "Odsvirati nešto na sopilama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sopile su tradicijsko glazbalo Istre i Kvarnera. Bećarac je iz Slavonije, ojkanje iz Dalmatinske zagore, a licitari iz sjeverne Hrvatske.",
+      "savjet": "Za svaki primjer razmisli iz kojeg kraja potječe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-070",
+      "tezina": "tesko",
+      "pitanje": "Zašto se baština iz Hrvatske nalazi na UNESCO-ovu popisu?",
+      "ponudeni": [
+        "Jer je vrijedna za cijeli svijet, a ne samo za Hrvatsku",
+        "Jer Hrvatska nema svojih muzeja",
+        "Da bi se mogla prodati drugim zemljama",
+        "Jer se na popis upisuje sve što je staro"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na UNESCO-ov popis upisuje se baština koja je osobito vrijedna i važna za cijelo čovječanstvo.",
+      "savjet": "Razmisli što znači da je nešto „svjetska“ baština."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-071",
+      "tezina": "tesko",
+      "pitanje": "Što kraju donosi to što se u njemu nalazi spomenik na UNESCO-ovu popisu?",
+      "ponudeni": [
+        "Mjesto se mora zatvoriti za posjetitelje",
+        "Dolazi više turista, pa ljudi više zarađuju",
+        "Ljudi se moraju odseliti",
+        "Spomenik se smije preuređivati po želji"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mjesta sa svjetskom baštinom poznata su u cijelom svijetu, pa ih posjećuje mnogo turista, a od turizma žive mnogi stanovnici.",
+      "savjet": "Razmisli tko sve želi vidjeti poznate spomenike."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-072",
+      "tezina": "tesko",
+      "pitanje": "Što se može dogoditi spomeniku koji svakodnevno posjećuje mnogo ljudi koji se ne pridržavaju pravila?",
+      "ponudeni": [
+        "Postat će noviji",
+        "Postat će veći",
+        "Može se oštetiti",
+        "Prirodno će se obnoviti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dodirivanje, penjanje i pisanje po zidovima oštećuju stare spomenike, pa ih posjetitelji trebaju čuvati.",
+      "savjet": "Zamisli što se događa s kamenom ili slikom koju dodiruju tisuće ruku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-073",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ova mjesta na sjeverozapadu Hrvatske povezana s baštinom i običajima.",
+      "karta": {
+        "okvir": [
+          15.3,
+          45.6,
+          17,
+          46.6
+        ],
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Samobor",
+            "polozaj": [
+              15.71,
+              45.8
+            ]
+          },
+          {
+            "naziv": "Kumrovec",
+            "polozaj": [
+              15.68,
+              46.08
+            ]
+          },
+          {
+            "naziv": "Lepoglava",
+            "polozaj": [
+              16.04,
+              46.21
+            ]
+          },
+          {
+            "naziv": "Varaždin",
+            "polozaj": [
+              16.34,
+              46.31
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Zagreb je uz Savu, a Samobor zapadno od njega. Kumrovec je uz granicu sa Slovenijom, Lepoglava sjevernije u Zagorju, a Varaždin na sjeveroistoku uz Dravu.",
+      "savjet": "Pomoći će ti rijeka Sava na jugu, Drava na sjeveroistoku i granica sa Slovenijom na zapadu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-074",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu mjesta po kojima su poznati običaji i umijeća zaštićeni kao nematerijalna baština.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Sinj",
+            "polozaj": [
+              16.64,
+              43.7
+            ]
+          },
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          },
+          {
+            "naziv": "Pag",
+            "polozaj": [
+              15.06,
+              44.44
+            ]
+          },
+          {
+            "naziv": "Lepoglava",
+            "polozaj": [
+              16.04,
+              46.21
+            ]
+          },
+          {
+            "naziv": "Kastav",
+            "polozaj": [
+              14.35,
+              45.37
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Lepoglava (čipka) je u Zagorju na sjeveru, Kastav (zvončari) iznad Rijeke, Pag (čipka) na otoku, Sinj (alka) u Dalmatinskoj zagori, a Dubrovnik (Festa sv. Vlaha) na krajnjem jugu.",
+      "savjet": "Jedno je mjesto na otoku, jedno u brežuljkastom kraju na sjeveru, a jedno na samom jugu obale."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-075",
+      "tezina": "tesko",
+      "pitanje": "Neki stari običaj u selu pamte samo najstariji mještani. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Pustiti da se zaboravi",
+        "Zabraniti razgovor o njemu",
+        "Prodati stare nošnje",
+        "Zapisati i snimiti sjećanja te ga naučiti mlade"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ako se običaj zapiše, snimi i prenese mladima, sačuvat će se i za buduće naraštaje.",
+      "savjet": "Razmisli kako znanje može prijeći od starijih na mlađe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-076",
+      "tezina": "tesko",
+      "pitanje": "Zašto se narodne nošnje razlikuju od kraja do kraja?",
+      "ponudeni": [
+        "Ljudi su ih izrađivali od onoga što su imali, prema podneblju i običajima kraja",
+        "Sve su nošnje kupljene u istoj trgovini",
+        "Svaka je nošnja sašivena prošle godine",
+        "Nošnje su propisane zakonom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljudi su nošnje šili od materijala svog kraja, prilagođavali ih podneblju i ukrašavali prema svojim običajima, pa svaki kraj ima drukčiju nošnju.",
+      "savjet": "Usporedi što je ljudima trebalo u toplom primorju, a što u hladnom gorju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto su stare građevine u primorskim krajevima najčešće od kamena?",
+      "ponudeni": [
+        "Drvo je ondje bilo zabranjeno",
+        "Kamena ondje ima mnogo, a čvrst je i dugo traje",
+        "Kamen je lakši od drva",
+        "Kamen se dovozio iz Slavonije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U primorskim krajevima kamena ima posvuda. Kamene kuće i palače čvrste su, pa su mnoge sačuvane do danas.",
+      "savjet": "Ljudi su gradili od onoga čega je u njihovu kraju bilo najviše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-078",
+      "tezina": "tesko",
+      "pitanje": "Kako kulturna baština pridonosi identitetu domovine?",
+      "ponudeni": [
+        "Čini sve zemlje svijeta jednakima",
+        "Služi samo za ukras gradova",
+        "Po njoj se Hrvatska razlikuje od drugih zemalja i prepoznaje u svijetu",
+        "Važna je samo stanovnicima jednog grada"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Spomenici, pjesme i običaji pokazuju po čemu smo posebni i povezuju sve stanovnike Hrvatske s njihovom poviješću.",
+      "savjet": "Identitet je ono po čemu smo prepoznatljivi i drukčiji od drugih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-079",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o UNESCO-ovim popisima baštine u Hrvatskoj točna?",
+      "ponudeni": [
+        "Na popisima su samo građevine",
+        "Na popisima su samo prirodne ljepote",
+        "Na popisima nema ništa iz Hrvatske",
+        "Na popisima su i spomenici i prirodna baština i običaji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iz Hrvatske su zaštićeni spomenici (npr. Dubrovnik), prirodna baština (Plitvička jezera) i nematerijalna baština (npr. Sinjska alka).",
+      "savjet": "Prisjeti se primjera koje znaš: grada, nacionalnog parka i jednog običaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-080",
+      "tezina": "tesko",
+      "pitanje": "Ema je na otoku Hvaru vidjela polje koje je od davnina podijeljeno kamenim zidovima na jednake čestice. Što je posjetila?",
+      "ponudeni": [
+        "Starogradsko polje",
+        "Plitvička jezera",
+        "Eufrazijevu baziliku",
+        "Dioklecijanovu palaču"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Starogradsko polje na Hvaru stari su Grci podijelili na čestice, a zaštićeno je kao svjetska baština.",
+      "savjet": "Isključi sve što nije polje i nije na otoku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-081",
+      "tezina": "tesko",
+      "pitanje": "U kojem se kraju zimi, u vrijeme poklada, mogu vidjeti zvončari?",
+      "ponudeni": [
+        "U Slavoniji, uz Dunav",
+        "U primorskom kraju, u okolici Rijeke",
+        "U Lici, uz Plitvice",
+        "U Hrvatskom zagorju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pokladni ophod zvončara poznat je u okolici Rijeke, na Kastavštini, u primorskom kraju.",
+      "savjet": "Sjeti se po kojem je pokladnom običaju poznat grad s najvećim karnevalom u Hrvatskoj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-082",
+      "tezina": "tesko",
+      "pitanje": "Ljudi u Splitu i danas žive i rade unutar zidina Dioklecijanove palače. Što nam to govori?",
+      "ponudeni": [
+        "Palača je sagrađena prošle godine",
+        "U palaču nitko ne smije ući",
+        "Spomenik je i danas dio živog grada",
+        "Palača je prirodna baština"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dioklecijanova palača nije samo muzej: u njoj su kuće, trgovine i ulice, pa je i danas dio života grada.",
+      "savjet": "Razmisli razlikuje li se ta palača od spomenika koji se samo razgledava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-083",
+      "tezina": "tesko",
+      "pitanje": "Što bi se s vremenom moglo dogoditi klapskom pjevanju kad ga mladi ne bi htjeli učiti?",
+      "ponudeni": [
+        "Postalo bi popularnije",
+        "Prešlo bi u Slavoniju",
+        "Upisalo bi se u knjigu rekorda",
+        "Moglo bi se zaboraviti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nematerijalna baština živi dok je ljudi izvode. Ako je mladi ne preuzmu, može nestati.",
+      "savjet": "Razmisli o čemu ovisi opstanak pjesme koja nije zapisana na papiru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-084",
+      "tezina": "tesko",
+      "pitanje": "Razred posjećuje stari dvorac. Koje je ponašanje ispravno?",
+      "ponudeni": [
+        "Poštovati pravila i ne dirati izloške",
+        "Ugravirati svoje ime u zid za uspomenu",
+        "Odnijeti mali komad kamena kući",
+        "Penjati se po starim zidovima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Spomenike čuvamo tako da ih ne oštećujemo i poštujemo pravila, kako bi ih mogli vidjeti i drugi posjetitelji.",
+      "savjet": "Zamisli što bi se dogodilo kad bi tako postupio svaki posjetitelj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-085",
+      "tezina": "tesko",
+      "pitanje": "Zašto su mnogi stari običaji, poput poklada, žetve i berbe, povezani s godišnjim dobima?",
+      "ponudeni": [
+        "Jer su ih izmislili turisti",
+        "Jer je život ljudi ovisio o prirodi i radovima u polju",
+        "Jer se običaji mogu slaviti samo ljeti",
+        "Jer su ih propisale škole"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudi su u prošlosti živjeli od zemlje, pa su slavili kraj zime, žetvu i berbu kao važne trenutke u godini.",
+      "savjet": "Razmisli od čega su ljudi na selu nekad živjeli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-086",
+      "tezina": "tesko",
+      "pitanje": "Koja dva primjera baštine potječu iz istoga kraja?",
+      "ponudeni": [
+        "Sopile i bećarac",
+        "Gusle i lepoglavska čipka",
+        "Tamburica i bećarac",
+        "Licitarsko srce i Festa sv. Vlaha"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tamburica i bećarac potječu iz Slavonije. Ostali parovi povezuju baštinu iz različitih krajeva Hrvatske.",
+      "savjet": "Za svaki primjer odredi kraj, pa potraži par s istim krajem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto su Plitvička jezera upisana na popis svjetske baštine kao prirodna, a ne kulturna baština?",
+      "ponudeni": [
+        "Sagradili su ih stari Rimljani",
+        "Ondje se održava poznati karneval",
+        "Ondje se izrađuje čipka",
+        "Jezera i slapove stvorila je priroda, a ne ljudi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kulturnu baštinu stvorili su ljudi, a prirodnu priroda. Jezera i slapovi Plitvica nastali su prirodnim putem.",
+      "savjet": "Razmisli tko je stvorio ono što je zaštićeno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto se kaže da baštinu „posuđujemo“ od budućih naraštaja?",
+      "ponudeni": [
+        "Moramo je sačuvati da bi je imali i oni koji dolaze poslije nas",
+        "Moramo je vratiti drugim državama",
+        "Smijemo je koristiti samo jednom",
+        "Pripada samo muzejima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Baštinu smo dobili od predaka, a moramo je sačuvati i predati onima koji dolaze poslije nas.",
+      "savjet": "Razmisli što se radi s posuđenom stvari kad je više ne trebaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-089",
+      "tezina": "tesko",
+      "pitanje": "Tko se treba brinuti o čuvanju kulturne baštine?",
+      "ponudeni": [
+        "Samo turisti",
+        "Svi građani, od djece do odraslih",
+        "Samo muzeji u inozemstvu",
+        "Nitko, jer se ona čuva sama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Baština pripada svima, pa je svi trebamo čuvati: država, muzeji, ali i svaki građanin, uključujući djecu.",
+      "savjet": "Razmisli kome baština pripada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kulturna-bastina-i-obicaji-090",
+      "tezina": "tesko",
+      "pitanje": "U kojem su paru kraj i baština točno povezani?",
+      "ponudeni": [
+        "Nizinski kraj – sopile",
+        "Gorski kraj – Festa sv. Vlaha",
+        "Brežuljkasti kraj – lepoglavska čipka",
+        "Primorski kraj – bećarac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lepoglava je u Hrvatskom zagorju, brežuljkastom kraju. Sopile su iz Istre, Festa sv. Vlaha iz Dubrovnika, a bećarac iz Slavonije.",
+      "savjet": "Za svaki primjer odredi mjesto nastanka, a zatim kakav je reljef tog kraja."
+    }
+  ]
+}

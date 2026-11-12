@@ -1,0 +1,1467 @@
+{
+  "lekcijaId": "primorski-krajevi",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-001",
+      "tezina": "lagano",
+      "pitanje": "Uz koje more leže primorski krajevi Hrvatske?",
+      "ponudeni": [
+        "Uz Crno more",
+        "Uz Jadransko more",
+        "Uz Sjeverno more",
+        "Uz Baltičko more"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Primorski krajevi Hrvatske leže uz Jadransko more, koje je dio Sredozemnog mora.",
+      "savjet": "Sjeti se kako se zove more koje zapljuskuje hrvatsku obalu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove klima u primorskim krajevima?",
+      "ponudeni": [
+        "Kontinentalna klima",
+        "Planinska klima",
+        "Sredozemna klima",
+        "Polarna klima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U primorskim krajevima vlada sredozemna klima. Dobila je ime po Sredozemnom moru, kojemu pripada i Jadran.",
+      "savjet": "Naziv te klime povezan je s velikim morem kojemu pripada i Jadran."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-003",
+      "tezina": "lagano",
+      "pitanje": "Kakva su ljeta u primorskim krajevima?",
+      "ponudeni": [
+        "Vruća i suha",
+        "Hladna i kišna",
+        "Kratka i snježna",
+        "Svježa i maglovita"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljeta u primorskim krajevima su vruća i suha, s mnogo sunčanih dana i malo kiše.",
+      "savjet": "Sjeti se zašto ljudi ljeti rado odlaze na more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-004",
+      "tezina": "lagano",
+      "pitanje": "Kakve su zime u primorskim krajevima?",
+      "ponudeni": [
+        "Blage i kišne",
+        "Vrlo hladne i snježne",
+        "Suhe i ledene",
+        "Duge i maglovite"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zime uz more su blage i kišne. Snijeg rijetko pada, a temperature su najčešće iznad nule.",
+      "savjet": "Sjeti se da more zimi zagrijava zrak uz obalu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-005",
+      "tezina": "lagano",
+      "pitanje": "Što je otok?",
+      "ponudeni": [
+        "Kopno s triju strana okruženo morem",
+        "Uvala u kojoj se sidre brodovi",
+        "Visoko brdo uz obalu mora",
+        "Kopno sa svih strana okruženo vodom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Otok je dio kopna koji je sa svih strana okružen vodom. Kopno okruženo morem s triju strana zove se poluotok.",
+      "savjet": "Zamisli da to kopno obilaziš brodom ukrug."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-006",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih krajeva poluotok?",
+      "ponudeni": [
+        "Lika",
+        "Slavonija",
+        "Hrvatsko zagorje",
+        "Istra"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Istra je poluotok jer je s triju strana okružena morem, a samo je s jedne strane povezana s kopnom.",
+      "savjet": "Potraži kraj koji na karti strši u more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-007",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih otok u Jadranskom moru?",
+      "ponudeni": [
+        "Učka",
+        "Papuk",
+        "Krk",
+        "Medvednica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krk je otok u Jadranskom moru. Učka, Papuk i Medvednica su planine.",
+      "savjet": "Tri ponuđena odgovora su planine na kopnu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove hladan i jak vjetar koji puše s kopna prema moru?",
+      "ponudeni": [
+        "Jugo",
+        "Bura",
+        "Maestral",
+        "Lahor"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bura je hladan, suh i mahovit vjetar koji puše s planina prema moru, najčešće zimi.",
+      "savjet": "Taj vjetar ponekad zatvori mostove i ceste uz obalu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-009",
+      "tezina": "lagano",
+      "pitanje": "Koji vjetar puše s mora i donosi oblake, kišu i velike valove?",
+      "ponudeni": [
+        "Bura",
+        "Lahor",
+        "Jugo",
+        "Sjevernjak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jugo je topao i vlažan vjetar koji puše s mora. Donosi oblačno vrijeme, kišu i visoke valove.",
+      "savjet": "Sjeti se vjetra koji puše s juga, s otvorenog mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-010",
+      "tezina": "lagano",
+      "pitanje": "Koja biljka najviše obilježava primorske krajeve?",
+      "ponudeni": [
+        "Kukuruz",
+        "Šećerna repa",
+        "Suncokret",
+        "Maslina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Maslina je zimzeleno stablo koje dobro podnosi vruća i suha ljeta, pa raste u cijelom primorju.",
+      "savjet": "Sjeti se od kojeg se ploda dobiva ulje koje se proizvodi uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-011",
+      "tezina": "lagano",
+      "pitanje": "Što se dobiva od plodova masline?",
+      "ponudeni": [
+        "Ulje",
+        "Šećer",
+        "Brašno",
+        "Vino"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od plodova masline prešanjem se dobiva maslinovo ulje.",
+      "savjet": "Sjeti se što se na stolu u primorju dodaje salati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-012",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove djelatnost u kojoj ljudi love ribu?",
+      "ponudeni": [
+        "Stočarstvo",
+        "Vinogradarstvo",
+        "Ribarstvo",
+        "Ratarstvo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ribarstvo je djelatnost u kojoj se lovi ili uzgaja riba i drugi morski plodovi.",
+      "savjet": "Naziv djelatnosti krije se u onome što se lovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove djelatnost u kojoj se grade brodovi?",
+      "ponudeni": [
+        "Brodogradnja",
+        "Pomorstvo",
+        "Ribarstvo",
+        "Turizam"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brodogradnja je gradnja brodova. Brodovi se grade u brodogradilištima uz more.",
+      "savjet": "Naziv te djelatnosti složen je od dviju riječi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-014",
+      "tezina": "lagano",
+      "pitanje": "Zašto mnogo turista ljeti dolazi u primorske krajeve?",
+      "ponudeni": [
+        "Zbog skijanja na snijegu",
+        "Zbog mora, sunca i lijepe obale",
+        "Zbog velikih polja žitarica",
+        "Zbog rudnika ugljena"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Turisti dolaze zbog toplog i čistog mora, sunčanog vremena i lijepe obale s otocima.",
+      "savjet": "Sjeti se što ljudi ljeti najviše rade na odmoru uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-015",
+      "tezina": "lagano",
+      "pitanje": "U kojem se gradu nalazi Dioklecijanova palača?",
+      "ponudeni": [
+        "U Zadru",
+        "U Puli",
+        "U Rijeci",
+        "U Splitu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dioklecijanova palača nalazi se u Splitu. Dao ju je sagraditi rimski car Dioklecijan.",
+      "savjet": "Sjeti se najvećeg grada u Dalmaciji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-016",
+      "tezina": "lagano",
+      "pitanje": "U kojem se gradu nalazi Arena, velika građevina iz rimskog doba?",
+      "ponudeni": [
+        "U Puli",
+        "U Dubrovniku",
+        "U Šibeniku",
+        "U Splitu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Arena je veliki rimski amfiteatar u Puli, na jugu Istre.",
+      "savjet": "Taj se grad nalazi na jugu najvećeg hrvatskog poluotoka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-017",
+      "tezina": "lagano",
+      "pitanje": "Po čemu je najpoznatiji grad Dubrovnik?",
+      "ponudeni": [
+        "Po Areni iz rimskog doba",
+        "Po gradskim zidinama",
+        "Po Dioklecijanovoj palači",
+        "Po velikom brodogradilištu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dubrovnik je poznat po gradskim zidinama koje okružuju cijeli stari grad.",
+      "savjet": "Zamisli šetnju visoko iznad krovova staroga grada, uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-018",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove mjesto gdje se iz morske vode dobiva sol?",
+      "ponudeni": [
+        "Luka",
+        "Uvala",
+        "Solana",
+        "Brodogradilište"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U solani morska voda ishlapi na suncu, a na dnu bazena ostane sol.",
+      "savjet": "Naziv mjesta povezan je s onim što se ondje dobiva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-019",
+      "tezina": "lagano",
+      "pitanje": "Kakvo je tlo u kršu?",
+      "ponudeni": [
+        "Duboko i vrlo plodno",
+        "Močvarno i vlažno",
+        "Pjeskovito kao u pustinji",
+        "Kamenito, s malo plodne zemlje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krš je kamenit kraj od vapnenca. Plodne zemlje ima malo, a voda brzo ponire pod zemlju.",
+      "savjet": "Sjeti se kamenja i suhozida uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-020",
+      "tezina": "lagano",
+      "pitanje": "Od čega su građene stare kuće u primorskim krajevima?",
+      "ponudeni": [
+        "Od drva i šindre",
+        "Od kamena",
+        "Od blata i slame",
+        "Od trske"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U primorju ima mnogo kamena, pa su stare kuće građene od kamena, često i s kamenim krovom.",
+      "savjet": "Sjeti se kojeg materijala u kršu ima posvuda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-021",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove zid od kamena složenog bez žbuke?",
+      "ponudeni": [
+        "Bedem",
+        "Suhozid",
+        "Pregrada",
+        "Pleter"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Suhozid je zid od kamena složenog bez žbuke. Takvi zidovi ograđuju vrtove, maslinike i pašnjake.",
+      "savjet": "Taj se zid gradi „na suho“, bez ičega između kamenja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-022",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pjevanje skupine pjevača bez glazbala, poznato u Dalmaciji?",
+      "ponudeni": [
+        "Tamburaško sviranje",
+        "Bećarac",
+        "Klapsko pjevanje",
+        "Puhački orkestar"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Klapa je mala skupina pjevača koji pjevaju višeglasno, bez glazbenih instrumenata.",
+      "savjet": "Potraži odgovor u kojem nema glazbala."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-023",
+      "tezina": "lagano",
+      "pitanje": "Što rade alkari na Sinjskoj alki?",
+      "ponudeni": [
+        "Veslaju u čamcima na utrci",
+        "Pjevaju u klapama na trgu",
+        "Plešu u narodnim nošnjama",
+        "Jašući konje kopljem gađaju željezni obruč"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na Sinjskoj alki alkari u punom trku konja kopljem gađaju alku, mali željezni obruč.",
+      "savjet": "Sjeti se da su alkari viteški konjanici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-024",
+      "tezina": "lagano",
+      "pitanje": "Kako ljudi najčešće putuju s kopna na udaljene otoke?",
+      "ponudeni": [
+        "Trajektom ili brodom",
+        "Vlakom",
+        "Tramvajem",
+        "Žičarom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Do udaljenih otoka putuje se trajektom ili brodom jer su oni odvojeni morem od kopna.",
+      "savjet": "Razmisli što može ploviti preko mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-025",
+      "tezina": "lagano",
+      "pitanje": "Koje je voće tipično za primorske krajeve?",
+      "ponudeni": [
+        "Šljiva",
+        "Kruška",
+        "Smokva",
+        "Jabuka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Smokva voli toplinu i dobro podnosi sušu, pa raste u primorju uz masline i vinovu lozu.",
+      "savjet": "Potraži voće koje voli vruća i suha ljeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-026",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih gradova u primorskim krajevima?",
+      "ponudeni": [
+        "Osijek",
+        "Zadar",
+        "Karlovac",
+        "Varaždin"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zadar je grad na obali Jadranskog mora, u Dalmaciji. Ostali gradovi nisu uz more.",
+      "savjet": "Potraži grad koji ima luku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-027",
+      "tezina": "lagano",
+      "pitanje": "Koja je djelatnost najvažnija u primorskim krajevima tijekom ljeta?",
+      "ponudeni": [
+        "Turizam",
+        "Rudarstvo",
+        "Uzgoj šećerne repe",
+        "Šumarstvo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljeti u primorje dolazi mnogo gostiju, pa je turizam tada najvažnija djelatnost.",
+      "savjet": "Sjeti se tko ljeti ispunjava plaže i gradove uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-028",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu biljke koje imaju lišće cijele godine, kao maslina i hrast crnika?",
+      "ponudeni": [
+        "Listopadne",
+        "Vodene",
+        "Penjačice",
+        "Zimzelene"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zimzelene biljke ne odbacuju lišće zimi, pa su zelene cijele godine.",
+      "savjet": "Naziv govori da su takve biljke zelene i zimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-029",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu dijelove primorskih krajeva i more.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Istra",
+            "polozaj": [
+              13.9,
+              45.25
+            ]
+          },
+          {
+            "naziv": "Hrvatsko primorje",
+            "polozaj": [
+              14.85,
+              45.1
+            ]
+          },
+          {
+            "naziv": "Dalmacija",
+            "polozaj": [
+              16.4,
+              43.5
+            ]
+          },
+          {
+            "naziv": "Jadransko more",
+            "polozaj": [
+              14.8,
+              43.6
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Istra je poluotok na zapadu, Hrvatsko primorje uz obalu ispod planina na sjeveru, a Dalmacija je dugi dio obale na jugu. Jadransko more je uz cijelu obalu.",
+      "savjet": "Prvo pronađi poluotok, a zatim prati obalu prema jugu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-030",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu ove gradove uz Jadransko more.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Rijeka",
+            "polozaj": [
+              14.44,
+              45.33
+            ]
+          },
+          {
+            "naziv": "Pula",
+            "polozaj": [
+              13.85,
+              44.87
+            ]
+          },
+          {
+            "naziv": "Zadar",
+            "polozaj": [
+              15.23,
+              44.12
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Pula je na jugu Istre, Rijeka na sjeveru Jadrana, a niže uz obalu su Zadar i Split. Dubrovnik je na krajnjem jugu.",
+      "savjet": "Gradove uz more poredaj od sjevera prema jugu, prateći obalu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto su zime uz more blaže nego u unutrašnjosti Hrvatske?",
+      "ponudeni": [
+        "Uz more zimi uopće ne puše vjetar",
+        "Sunce zimi sja samo nad morem",
+        "More ljeti upije toplinu i zimi je polako otpušta",
+        "Planine zimi griju zrak uz obalu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "More se ljeti zagrije i zimi polako otpušta toplinu, pa su zime uz obalu blage.",
+      "savjet": "Razmisli što se ljeti događa s morskom vodom na suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto u kršu ima malo rijeka i potoka na površini?",
+      "ponudeni": [
+        "Sva voda odmah ishlapi na suncu",
+        "Kamenje upija vodu kao spužva",
+        "Vjetar odnese vodu u more",
+        "Voda kroz pukotine u vapnencu ponire pod zemlju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vapnenac ima mnogo pukotina kroz koje voda ponire i teče pod zemljom, pa je na površini malo rijeka.",
+      "savjet": "Sjeti se od kakve je stijene krš i što ona ima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto su ljudi na otocima nekad skupljali kišnicu u gusterne?",
+      "ponudeni": [
+        "Jer na otocima ima malo izvora pitke vode",
+        "Jer je kišnica bila slanija od morske",
+        "Jer su njome dobivali sol",
+        "Jer su njome zalijevali rižina polja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na otocima ima malo izvora i rijeka, pa su ljudi kišnicu skupljali u gusterne i čuvali je za sušno ljeto.",
+      "savjet": "Razmisli koliko pitke vode ima na kamenitom otoku ljeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-034",
+      "tezina": "srednje",
+      "pitanje": "Zašto masline dobro uspijevaju u primorskim krajevima?",
+      "ponudeni": [
+        "Trebaju mnogo snijega zimi",
+        "Rastu samo u močvarnom tlu",
+        "Podnose vrućinu i sušu, a ne vole jake mrazove",
+        "Trebaju hladna i kišna ljeta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Maslina dobro podnosi vruća i suha ljeta, a zime u primorju su blage, bez jakih mrazova.",
+      "savjet": "Poveži vrijeme u primorju s onim što maslina podnosi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-035",
+      "tezina": "srednje",
+      "pitanje": "Kako su ljudi u kršu dobivali više zemlje za vrtove i vinograde?",
+      "ponudeni": [
+        "Uklanjali su kamenje i od njega slagali suhozide",
+        "Isušivali su velike močvare",
+        "Sjekli su guste bukove šume",
+        "Nasipali su zemlju uz velike rijeke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljudi su s komadića zemlje uklanjali kamenje i od njega slagali suhozide, pa su tako dobili male obradive čestice.",
+      "savjet": "Razmisli kamo je trebalo spremiti kamenje s polja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto se za vrijeme jake bure ponekad zatvaraju mostovi i ceste uz more?",
+      "ponudeni": [
+        "Bura donosi poplave na cestama",
+        "Bura topi asfalt na cesti",
+        "More za bure prekrije sve mostove",
+        "Jaki udari vjetra mogu prevrnuti vozila"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bura puše u snažnim udarima koji mogu prevrnuti kamione i automobile, pa se promet zbog sigurnosti zatvara.",
+      "savjet": "Sjeti se kako bura puše, jednoliko ili na udare."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-037",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove gusto zimzeleno grmlje i niska šuma u primorskim krajevima?",
+      "ponudeni": [
+        "Tajga",
+        "Makija",
+        "Prašuma",
+        "Lug"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Makija je gusto zimzeleno grmlje i niska šuma u kojoj rastu hrast crnika, lovor i druge sredozemne biljke.",
+      "savjet": "Sjeti se kako se zove sredozemna šuma uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-038",
+      "tezina": "srednje",
+      "pitanje": "Čime se bave mnogi stanovnici primorja da bi zaradili od turizma?",
+      "ponudeni": [
+        "Uzgajaju šećernu repu",
+        "Rade u rudnicima ugljena",
+        "Iznajmljuju sobe i apartmane gostima",
+        "Sade kukuruz i pšenicu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mnogi stanovnici primorja ljeti iznajmljuju sobe i apartmane te tako zarađuju od turizma.",
+      "savjet": "Razmisli gdje gosti spavaju kad dođu na more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto su se mnogi primorski gradovi razvili uz dobre luke?",
+      "ponudeni": [
+        "Brodovima su se prevozili ljudi i roba",
+        "Luke štite gradove od svih vjetrova",
+        "U lukama se uzgajaju masline",
+        "Uz luke zimi pada najviše snijega"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brodovima su se oduvijek prevozili ljudi i roba, pa su se uz dobre luke razvili trgovina i gradovi.",
+      "savjet": "Razmisli što se sve prevozi brodovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-040",
+      "tezina": "srednje",
+      "pitanje": "Koja se riba ubraja u plavu ribu koju love jadranski ribari?",
+      "ponudeni": [
+        "Šaran",
+        "Som",
+        "Pastrva",
+        "Srdela"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srdela je plava riba koja živi u moru. Šaran, som i pastrva žive u slatkim vodama.",
+      "savjet": "Sjeti se koja od tih riba živi u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-041",
+      "tezina": "srednje",
+      "pitanje": "Što se uzgaja u moru u Malostonskom zaljevu kod Stona?",
+      "ponudeni": [
+        "Jastozi i rakovi",
+        "Kamenice i dagnje",
+        "Dupini",
+        "Hobotnice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U čistom moru Malostonskog zaljeva uzgajaju se školjke kamenice i dagnje.",
+      "savjet": "Riječ je o školjkama koje se uzgajaju na užadi u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-042",
+      "tezina": "srednje",
+      "pitanje": "Kako se dobiva sol u solanama?",
+      "ponudeni": [
+        "Sol se iskapa iz rudnika u planini",
+        "Sol se izdvaja iz kišnice",
+        "Morska voda ishlapi na suncu, a sol ostane",
+        "Sol se dobiva iz plodova masline"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U plitke bazene pušta se morska voda. Sunce i vjetar je isparavaju, a na dnu ostaje sol.",
+      "savjet": "Sjeti se što ostane na koži kad se osušiš nakon kupanja u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-043",
+      "tezina": "srednje",
+      "pitanje": "Koje je od navedenih mjesta poznato po solani?",
+      "ponudeni": [
+        "Ston",
+        "Poreč",
+        "Rovinj",
+        "Opatija"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ston je poznat po staroj solani u kojoj se i danas dobiva sol iz morske vode.",
+      "savjet": "Sjeti se mjesta na jugu Dalmacije s dugim zidinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto su stare kuće u primorju građene od kamena?",
+      "ponudeni": [
+        "Drvo je ondje bilo zabranjeno za gradnju",
+        "Kamen je najlakši građevni materijal",
+        "Kuće od kamena ne trebaju krov",
+        "Kamena u kršu ima posvuda, a zidovi ljeti čuvaju hladovinu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U kršu je kamen bio pri ruci, a debeli kameni zidovi ljeti čuvaju hladovinu u kući.",
+      "savjet": "Razmisli kojeg je građevnog materijala u kršu najviše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-045",
+      "tezina": "srednje",
+      "pitanje": "Zašto mnogi otoci danas imaju manje stanovnika nego nekad?",
+      "ponudeni": [
+        "Otoci se svake godine smanjuju",
+        "Mnogi su mladi otišli živjeti i raditi na kopno",
+        "Na otocima je zabranjeno graditi kuće",
+        "Otoci su veći dio godine pod snijegom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mnogi su se mladi s otoka odselili u gradove na kopnu, gdje su lakše našli posao i školu.",
+      "savjet": "Razmisli gdje mladi lakše nađu posao i školu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-046",
+      "tezina": "srednje",
+      "pitanje": "Koji je primorski grad poznat po velikoj luci i brodogradnji?",
+      "ponudeni": [
+        "Sinj",
+        "Knin",
+        "Rijeka",
+        "Gospić"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rijeka je veliki lučki grad u kojem se razvila i brodogradnja. Sinj, Knin i Gospić nisu uz more.",
+      "savjet": "Potraži grad koji leži uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-047",
+      "tezina": "srednje",
+      "pitanje": "Koji je grad poznat po morskim orguljama koje sviraju uz pomoć valova?",
+      "ponudeni": [
+        "Zadar",
+        "Pula",
+        "Dubrovnik",
+        "Rijeka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Morske orgulje nalaze se na obali u Zadru. Valovi guraju zrak kroz cijevi pod kamenim stubama i nastaju zvukovi.",
+      "savjet": "Sjeti se grada u sjevernoj Dalmaciji s poznatom rivom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-048",
+      "tezina": "srednje",
+      "pitanje": "Koji je pisac iz Splita nazvan ocem hrvatske književnosti?",
+      "ponudeni": [
+        "Ivan Gundulić",
+        "August Šenoa",
+        "Ivan Goran Kovačić",
+        "Marko Marulić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Marko Marulić živio je u Splitu i nazivamo ga ocem hrvatske književnosti.",
+      "savjet": "Sjeti se pisca čiji spomenik stoji na jednom splitskom trgu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-049",
+      "tezina": "srednje",
+      "pitanje": "Faust Vrančić iz Šibenika poznat je po tome što je osmislio…",
+      "ponudeni": [
+        "telefon",
+        "padobran",
+        "žarulju",
+        "automobil"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Faust Vrančić osmislio je i opisao padobran, a nacrt je nazvao „Leteći čovjek“.",
+      "savjet": "Razmisli što pomaže čovjeku da se sigurno spusti s visine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-050",
+      "tezina": "srednje",
+      "pitanje": "Koji je pjesnik iz Dubrovnika napisao djelo „Dubravka“?",
+      "ponudeni": [
+        "Marko Marulić",
+        "Petar Preradović",
+        "Ivan Gundulić",
+        "Dragutin Tadijanović"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ivan Gundulić bio je dubrovački pjesnik koji je napisao „Dubravku“ i „Osmana“.",
+      "savjet": "Sjeti se pjesnika čiji kip stoji na trgu u Dubrovniku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-051",
+      "tezina": "srednje",
+      "pitanje": "Zašto se u primorju ljeti treba posebno čuvati od požara?",
+      "ponudeni": [
+        "Ljeti je suho i vruće, a vjetar brzo širi vatru",
+        "Ljeti često pada snijeg",
+        "More ljeti isparava i zapali se",
+        "Masline ljeti gore same od sebe"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljeti je u primorju malo kiše, biljke su suhe, a vjetar brzo širi vatru.",
+      "savjet": "Poveži sušno ljeto, suhu travu i vjetar."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-052",
+      "tezina": "srednje",
+      "pitanje": "Čime se bave pomorci?",
+      "ponudeni": [
+        "Uzgajaju masline na terasama",
+        "Plove brodovima i prevoze ljude i robu",
+        "Grade kuće od kamena",
+        "Prodaju suvenire turistima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomorci rade na brodovima, plove morem i prevoze putnike i robu.",
+      "savjet": "Naziv zanimanja povezan je s morem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-053",
+      "tezina": "srednje",
+      "pitanje": "Kako se automobilom može doći na otok Krk bez trajekta?",
+      "ponudeni": [
+        "Kroz podmorski tunel",
+        "Žičarom",
+        "Preko nasipa od pijeska",
+        "Preko mosta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Otok Krk povezan je s kopnom mostom, pa se na njega može doći automobilom.",
+      "savjet": "Razmisli što se gradi preko vode da bi se prešlo na drugu stranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-054",
+      "tezina": "srednje",
+      "pitanje": "Koji su proizvodi poznati s otoka Paga?",
+      "ponudeni": [
+        "Kulen i čvarci",
+        "Zagorski štrukli",
+        "Paški sir i sol",
+        "Med i bučino ulje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na Pagu se uzgajaju ovce od čijeg se mlijeka radi paški sir, a u solani se dobiva sol.",
+      "savjet": "Sjeti se što se na tom otoku dobiva od ovčjeg mlijeka, a što iz mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-055",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko Istri, Hrvatskom primorju i Dalmaciji?",
+      "ponudeni": [
+        "Svi su ravničarski krajevi",
+        "Svi leže uz Jadransko more",
+        "Svi su na sjeveroistoku Hrvatske",
+        "Svi graniče s Mađarskom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Istra, Hrvatsko primorje i Dalmacija su primorski krajevi jer leže uz Jadransko more.",
+      "savjet": "Sjeti se kojoj skupini krajeva pripadaju sva tri."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-056",
+      "tezina": "srednje",
+      "pitanje": "Što nastaje u kršu kad voda dugo otapa vapnenac?",
+      "ponudeni": [
+        "Špilje i jame",
+        "Plodne ravnice",
+        "Močvare",
+        "Pješčane dine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Voda polako otapa vapnenac, pa u kršu nastaju špilje, jame i druge šupljine.",
+      "savjet": "Razmisli kamo voda odlazi kad ponire u stijenu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-057",
+      "tezina": "srednje",
+      "pitanje": "U kojoj se dolini u Dalmaciji uzgajaju mandarine?",
+      "ponudeni": [
+        "U dolini Drave",
+        "U dolini Kupe",
+        "U dolini Save",
+        "U dolini Neretve"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U plodnoj dolini rijeke Neretve uzgajaju se mandarine, a doline ostalih rijeka nisu u Dalmaciji.",
+      "savjet": "Potraži rijeku koja se ulijeva u Jadransko more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-058",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko nacionalnim parkovima Brijuni, Kornati i Mljet?",
+      "ponudeni": [
+        "Sva tri su u Lici",
+        "Sva tri su na rijeci Krki",
+        "Sva tri su na otocima",
+        "Sva tri su u Slavoniji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brijuni, Kornati i Mljet su otoci, pa su sva tri nacionalna parka na otocima u Jadranskom moru.",
+      "savjet": "Sjeti se kako se do njih putuje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-059",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove otoke na sjeveru Jadrana.",
+      "karta": {
+        "okvir": [
+          13.6,
+          44.1,
+          15.6,
+          45.5
+        ],
+        "mjesta": [
+          {
+            "naziv": "Krk",
+            "polozaj": [
+              14.6,
+              45.07
+            ]
+          },
+          {
+            "naziv": "Cres",
+            "polozaj": [
+              14.38,
+              44.9
+            ]
+          },
+          {
+            "naziv": "Lošinj",
+            "polozaj": [
+              14.43,
+              44.57
+            ]
+          },
+          {
+            "naziv": "Rab",
+            "polozaj": [
+              14.77,
+              44.77
+            ]
+          },
+          {
+            "naziv": "Pag",
+            "polozaj": [
+              15,
+              44.5
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Krk je najbliži Rijeci, a Cres je dugi otok uz istočnu obalu Istre, s Lošinjem na jugu. Rab je između Krka i Paga, a Pag je dugi otok uz obalu ispod Velebita.",
+      "savjet": "Kreni od otoka najbližeg velikom lučkom gradu na sjeveru, a zatim idi prema jugu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-060",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove gradove u Istri i Hrvatskom primorju.",
+      "karta": {
+        "okvir": [
+          13.3,
+          44.7,
+          14.9,
+          45.6
+        ],
+        "mjesta": [
+          {
+            "naziv": "Pula",
+            "polozaj": [
+              13.85,
+              44.87
+            ]
+          },
+          {
+            "naziv": "Rovinj",
+            "polozaj": [
+              13.64,
+              45.08
+            ]
+          },
+          {
+            "naziv": "Poreč",
+            "polozaj": [
+              13.59,
+              45.23
+            ]
+          },
+          {
+            "naziv": "Rijeka",
+            "polozaj": [
+              14.44,
+              45.33
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Pula je na jugu Istre, Rovinj i Poreč na zapadnoj obali poluotoka, a Rijeka je na sjeveru Kvarnerskog zaljeva.",
+      "savjet": "Jedan je grad na samom jugu poluotoka, dva su na zapadnoj obali, a jedan je izvan poluotoka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-061",
+      "tezina": "tesko",
+      "pitanje": "Ljeti na otoku dugo nije padala kiša. S kojim će se problemom najprije suočiti stanovnici?",
+      "ponudeni": [
+        "Poplavama u podrumima",
+        "Nestašicom pitke vode",
+        "Snijegom na cestama",
+        "Smrzavanjem mora"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na otocima ima malo izvora, a krš ne zadržava vodu, pa za dugog sušnog ljeta ponestane pitke vode.",
+      "savjet": "Poveži sušno ljeto s kamenitim tlom koje ne zadržava vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-062",
+      "tezina": "tesko",
+      "pitanje": "Zašto su primorski gradovi ljeti puno življi nego zimi?",
+      "ponudeni": [
+        "Ljeti puše bura pa svi izlaze van",
+        "Zimi su ulice prekrivene snijegom",
+        "Zimi je more previše slano za kupanje",
+        "Ljeti dolaze turisti zbog toplog mora i sunca"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ljeti u primorske gradove dolazi mnogo turista, pa su ulice, plaže i luke pune ljudi.",
+      "savjet": "Razmisli tko sve ljeti dolazi u te gradove."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-063",
+      "tezina": "tesko",
+      "pitanje": "Neki kraj ima kamenito tlo, vruća suha ljeta i blage zime. Koja bi se biljka ondje najbolje uzgajala?",
+      "ponudeni": [
+        "Šećerna repa",
+        "Kukuruz",
+        "Maslina",
+        "Krumpir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Maslina dobro podnosi sušu i kamenito tlo, a blage zime je ne oštećuju. Ostale biljke trebaju dublje i vlažnije tlo.",
+      "savjet": "Potraži biljku koja ne treba mnogo vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-064",
+      "tezina": "tesko",
+      "pitanje": "Zašto su ljudi u kršu nekad zemlju na obroncima uređivali u terase?",
+      "ponudeni": [
+        "Da kiša ne bi odnijela tanki sloj zemlje",
+        "Da bi lakše uzgajali rižu",
+        "Da bi brodovi mogli pristati",
+        "Da bi zaustavili buru"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na strmim obroncima kiša lako odnosi tanki sloj zemlje. Terase sa suhozidima zadržavaju zemlju na mjestu.",
+      "savjet": "Zamisli što jaka kiša radi s malo zemlje na strmini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto bura posebno jako puše ispod Velebita?",
+      "ponudeni": [
+        "Topao zrak s mora penje se na planinu",
+        "Hladan zrak s kopna naglo se spušta niz planinu prema moru",
+        "More ondje isparava pa nastaje vjetar",
+        "Otoci zaustavljaju vjetar i vraćaju ga"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hladan zrak iz unutrašnjosti prelazi planine i naglo se spušta niz njihove obronke prema toplijem moru.",
+      "savjet": "Sjeti se odakle bura puše i preko čega prelazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-066",
+      "tezina": "tesko",
+      "pitanje": "Ribar vidi da puše jako jugo i da valovi rastu. Što je najpametnije učiniti?",
+      "ponudeni": [
+        "Isploviti što dalje na otvoreno more",
+        "Krenuti na pučinu prije nego valovi narastu",
+        "Ostati u luci dok se more ne smiri",
+        "Ploviti oko otoka do mraka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jugo podiže velike valove koji su opasni za brodice, pa je najsigurnije ostati u zaštićenoj luci.",
+      "savjet": "Razmisli gdje je brodica najsigurnija kad je more nemirno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-067",
+      "tezina": "tesko",
+      "pitanje": "Usporedi tlo u Slavoniji i u primorskom kršu. Što je točno?",
+      "ponudeni": [
+        "U Slavoniji je tlo dublje i plodnije nego u kršu",
+        "U kršu je tlo plodnije nego u Slavoniji",
+        "U oba kraja tlo je jednako kamenito",
+        "U Slavoniji je tlo kamenito, a u kršu močvarno"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Slavonija je nizina s dubokim plodnim tlom, a u kršu je zemlje malo i ima mnogo kamenja.",
+      "savjet": "Sjeti se gdje se uzgajaju velika polja žitarica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-068",
+      "tezina": "tesko",
+      "pitanje": "Zašto su se brodogradilišta razvila upravo uz more?",
+      "ponudeni": [
+        "Uz more ima najviše željeza u zemlji",
+        "Brodovi se grade od kamena iz krša",
+        "Gotov brod se lako porine u more",
+        "Brodogradilišta trebaju snijeg za rad"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brodovi su veliki i teški, pa se grade uz samo more da bi se gotov brod mogao spustiti u vodu.",
+      "savjet": "Razmisli kako se velik brod nakon gradnje dovede do vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-069",
+      "tezina": "tesko",
+      "pitanje": "Kako bi turizam mogao naštetiti moru i obali?",
+      "ponudeni": [
+        "Turisti mijenjaju klimu u sredozemnu",
+        "Smećem i otpadnim vodama ako se ne zbrinjavaju",
+        "Turizam smanjuje broj otoka",
+        "Kupanje čini more slađim"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad mnogo ljudi boravi uz more, nastaje mnogo smeća i otpadnih voda. Ako se ne zbrinjavaju, onečišćuju more i obalu.",
+      "savjet": "Razmisli što ostaje iza velikog broja ljudi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-070",
+      "tezina": "tesko",
+      "pitanje": "Mjesto uz plitko more ima mnogo sunca i vjetra, a malo kiše. Za što je pogodno?",
+      "ponudeni": [
+        "Za rižino polje",
+        "Za hidroelektranu",
+        "Za rudnik ugljena",
+        "Za solanu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za solanu je potrebno plitko more, a sunce i vjetar isparavaju vodu, pa ostaje sol.",
+      "savjet": "Razmisli što sunce i vjetar rade s morskom vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-071",
+      "tezina": "tesko",
+      "pitanje": "Zašto su u Stonu nekad sagrađene duge zidine?",
+      "ponudeni": [
+        "Da zaštite vrijednu solanu i poluotok",
+        "Da zaustave buru",
+        "Da zaustave poplave s rijeke",
+        "Da zaštite vinograde od ptica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sol je nekad bila vrlo vrijedna, pa su zidine štitile stonsku solanu i poluotok Pelješac od napadača.",
+      "savjet": "Razmisli što je u Stonu bilo toliko vrijedno da ga je trebalo čuvati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-072",
+      "tezina": "tesko",
+      "pitanje": "Zašto su u starim primorskim gradovima kuće zbijene, a ulice uske?",
+      "ponudeni": [
+        "Tako su se lakše čistile od snijega",
+        "Kamena je bilo premalo za šire ulice",
+        "Gradovi su bili opasani zidinama pa je prostora bilo malo",
+        "Ljudi nisu trebali ulice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stari gradovi bili su opasani zidinama, pa se unutar njih gradilo gusto, a ulice su bile uske.",
+      "savjet": "Sjeti se što je okruživalo stare gradove uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-073",
+      "tezina": "tesko",
+      "pitanje": "Što od navedenog NE pripada opisu primorskog kraja?",
+      "ponudeni": [
+        "Kamene kuće i suhozidi",
+        "Masline i vinova loza",
+        "Široka ravnica s poljima kukuruza",
+        "Luke s brodovima i trajektima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Široke ravnice s poljima kukuruza obilježje su nizinskih krajeva, a ne kamenitog primorja.",
+      "savjet": "Zamisli krajolik uz more i usporedi ga s ponuđenim slikama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-074",
+      "tezina": "tesko",
+      "pitanje": "Zašto se zimzelene biljke dobro snalaze u primorskim krajevima?",
+      "ponudeni": [
+        "Ondje nema sunca pa im ne treba lišće",
+        "Zime su blage pa lišće ne mora otpasti zbog hladnoće",
+        "Ondje stalno pada snijeg",
+        "Tlo je ondje vlažno cijele godine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zime u primorju su blage, pa biljke mogu zadržati lišće cijele godine.",
+      "savjet": "Razmisli zašto mnoga stabla u unutrašnjosti zimi ostanu bez lišća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-075",
+      "tezina": "tesko",
+      "pitanje": "Zašto se snijeg koji ponekad zimi padne uz more brzo otopi?",
+      "ponudeni": [
+        "Zime su blage, a temperature su najčešće iznad nule",
+        "Bura ga odmah otpuše u more",
+        "Sol iz mora otopi sav snijeg",
+        "Sunce zimi grije jače nego ljeti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uz more su zime blage i temperature su najčešće iznad nule, pa se snijeg brzo otopi.",
+      "savjet": "Sjeti se kakve su zime uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-076",
+      "tezina": "tesko",
+      "pitanje": "Koja je razlika između bure i juga?",
+      "ponudeni": [
+        "Bura je topla i vlažna, a jugo hladno i suho",
+        "Obje pušu samo ljeti s mora",
+        "Bura je hladna i suha, a jugo toplo i vlažno",
+        "Bura donosi kišu, a jugo snijeg"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bura je hladan i suh vjetar s kopna, a jugo topao i vlažan vjetar s mora koji donosi kišu.",
+      "savjet": "Razmisli odakle koji vjetar dolazi, s planina ili s mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-077",
+      "tezina": "tesko",
+      "pitanje": "Grad na obali ima zaštićenu uvalu i dobre ceste prema unutrašnjosti. Što se ondje najvjerojatnije razvilo?",
+      "ponudeni": [
+        "Rudnik ugljena",
+        "Velika luka i lučki promet",
+        "Uzgoj šećerne repe",
+        "Skijalište"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zaštićena uvala pogodna je za luku, a ceste omogućuju da se roba s brodova preveze dalje u unutrašnjost.",
+      "savjet": "Razmisli čemu služi mirna uvala, a čemu ceste prema unutrašnjosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-078",
+      "tezina": "tesko",
+      "pitanje": "Zašto je Dioklecijanova palača važna za povijest Splita?",
+      "ponudeni": [
+        "Grad je nastao i rastao unutar i oko palače",
+        "U njoj su se nekad gradili brodovi",
+        "U njoj se održava Sinjska alka",
+        "Sagrađena je za obranu od Turaka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nakon rimskog doba ljudi su se naselili unutar zidina palače, pa je od nje izrastao grad Split.",
+      "savjet": "Razmisli gdje se nalazi stari dio Splita."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-079",
+      "tezina": "tesko",
+      "pitanje": "Na koji događaj iz prošlosti podsjeća Sinjska alka?",
+      "ponudeni": [
+        "Na izgradnju prve luke",
+        "Na berbu maslina",
+        "Na dolazak prvih turista",
+        "Na obranu Sinja od Turaka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sinjska alka podsjeća na pobjedu branitelja Sinja nad turskom vojskom koja je opsjedala grad.",
+      "savjet": "Sjeti se da je alka viteško natjecanje konjanika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto je važno čuvati klapsko pjevanje?",
+      "ponudeni": [
+        "Pomaže ribarima loviti ribu",
+        "Štiti kuće od bure",
+        "Dio je kulturne baštine primorskih krajeva",
+        "Bez njega ne bi bilo turizma"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Klapsko pjevanje prenosi se s koljena na koljeno i dio je kulturne baštine, pa ga je važno čuvati.",
+      "savjet": "Razmisli što su nam ostavili preci, a što želimo prenijeti budućim naraštajima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-081",
+      "tezina": "tesko",
+      "pitanje": "Kakav bi problem nastao kad trajekt prema otoku dugo ne bi plovio?",
+      "ponudeni": [
+        "Otok bi se spojio s kopnom",
+        "Stanovnici bi teško dobivali hranu i potrepštine",
+        "Na otoku bi počeo padati snijeg",
+        "More oko otoka bi presušilo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mnogo hrane i drugih potrepština dovozi se na otok trajektom, pa bi bez njega stanovnicima bilo teško.",
+      "savjet": "Razmisli kako na otok stižu kamioni s robom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto je Istra poluotok, a Krk otok?",
+      "ponudeni": [
+        "Istra je manja od Krka",
+        "Krk ima više gradova od Istre",
+        "Istra je u Dalmaciji, a Krk u Slavoniji",
+        "Istra je s jedne strane spojena s kopnom, a Krk je okružen morem"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Istra je s triju strana okružena morem i s jedne je strane spojena s kopnom, a Krk je sa svih strana okružen morem.",
+      "savjet": "Usporedi s koliko je strana more oko svakog od njih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto u primorskim krajevima više ljudi živi uz obalu nego u kamenitoj unutrašnjosti?",
+      "ponudeni": [
+        "U unutrašnjosti krša ima previše rijeka",
+        "Uz obalu nikad ne puše vjetar",
+        "Uz obalu su luke, ceste, posao i blaža klima",
+        "U unutrašnjosti je tlo previše plodno"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz obalu su luke, ceste i posao u turizmu i pomorstvu, a klima je blaža, pa se ondje razvilo više naselja.",
+      "savjet": "Razmisli gdje ljudi lakše nađu posao i prijevoz."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-084",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko Areni u Puli i Dioklecijanovoj palači u Splitu?",
+      "ponudeni": [
+        "Obje su nedavno sagrađene",
+        "Obje su građevine iz rimskog doba",
+        "Obje su utvrde protiv Turaka",
+        "Obje su crkve"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Arenu i Dioklecijanovu palaču sagradili su Rimljani, pa su obje građevine iz rimskog doba.",
+      "savjet": "Sjeti se tko je u davnini vladao ovim krajevima i gradio velike građevine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-085",
+      "tezina": "tesko",
+      "pitanje": "Zašto je turizam koristan i za poljoprivrednike u primorju?",
+      "ponudeni": [
+        "Turisti obrađuju njihova polja",
+        "Turisti donose kišu",
+        "Turizam produljuje ljeto",
+        "Turisti kupuju domaće maslinovo ulje, vino i sir"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Turisti rado kupuju domaće proizvode, pa poljoprivrednici lakše prodaju maslinovo ulje, vino i sir.",
+      "savjet": "Razmisli što gosti rado ponesu kući s odmora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-086",
+      "tezina": "tesko",
+      "pitanje": "Zašto stare kamene kuće u primorju imaju debele zidove i male prozore?",
+      "ponudeni": [
+        "Da u kući ljeti bude hladovina, a zimi toplina",
+        "Da bi se kroz njih bolje vidjelo more",
+        "Jer je staklo bilo zabranjeno",
+        "Da u kuću ne bi ulazila sol"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Debeli kameni zidovi i mali prozori ljeti ne propuštaju vrućinu, a zimi čuvaju toplinu u kući.",
+      "savjet": "Razmisli kako u kuću ulazi sunčeva toplina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-087",
+      "tezina": "tesko",
+      "pitanje": "Grad je poznat po palači rimskog cara, klapama i velikoj luci. O kojem je gradu riječ?",
+      "ponudeni": [
+        "Pula",
+        "Split",
+        "Zadar",
+        "Rijeka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Split je poznat po Dioklecijanovoj palači, klapskom pjevanju i velikoj putničkoj luci.",
+      "savjet": "Sjeti se u kojem je gradu palača cara Dioklecijana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-088",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se klima u primorskim krajevima razlikuje od klime u nizinskim krajevima?",
+      "ponudeni": [
+        "Ljeta su kišnija, a zime hladnije",
+        "Zime su duže i snježnije",
+        "Ljeta su hladnija i maglovitija",
+        "Ljeta su sušnija, a zime blaže"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U primorju su ljeta vruća i suha, a zime blage i kišne. U nizinskim krajevima zime su hladnije, s više snijega.",
+      "savjet": "Usporedi zimu u gradu uz more i zimu u Slavoniji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-089",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ova mjesta u Dalmaciji.",
+      "karta": {
+        "okvir": [
+          14.8,
+          42.3,
+          18.7,
+          44.5
+        ],
+        "mjesta": [
+          {
+            "naziv": "Zadar",
+            "polozaj": [
+              15.23,
+              44.12
+            ]
+          },
+          {
+            "naziv": "Šibenik",
+            "polozaj": [
+              15.89,
+              43.73
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Ston",
+            "polozaj": [
+              17.7,
+              42.84
+            ]
+          },
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Zadar, Šibenik i Split poredani su uz obalu od sjevera prema jugu. Ston je na ulazu u poluotok Pelješac, a Dubrovnik na krajnjem jugu.",
+      "savjet": "Prati obalu od sjeverozapada prema jugoistoku; najjužniji grad je blizu granice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-primorski-krajevi-090",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ove otoke u srednjoj i južnoj Dalmaciji.",
+      "karta": {
+        "okvir": [
+          15.8,
+          42.5,
+          18,
+          43.6
+        ],
+        "mjesta": [
+          {
+            "naziv": "Brač",
+            "polozaj": [
+              16.65,
+              43.32
+            ]
+          },
+          {
+            "naziv": "Hvar",
+            "polozaj": [
+              16.75,
+              43.14
+            ]
+          },
+          {
+            "naziv": "Vis",
+            "polozaj": [
+              16.15,
+              43.04
+            ]
+          },
+          {
+            "naziv": "Korčula",
+            "polozaj": [
+              16.9,
+              42.95
+            ]
+          },
+          {
+            "naziv": "Mljet",
+            "polozaj": [
+              17.55,
+              42.75
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Brač je najbliži Splitu, a južnije od njega je Hvar. Vis je najdalje na otvorenom moru, Korčula je južno od Hvara, a Mljet je najbliži Dubrovniku.",
+      "savjet": "Kreni od otoka najbližeg najvećem gradu u Dalmaciji; jedan je otok daleko na otvorenom moru."
+    }
+  ]
+}

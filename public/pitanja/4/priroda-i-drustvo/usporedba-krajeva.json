@@ -1,0 +1,1375 @@
+{
+  "lekcijaId": "usporedba-krajeva",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-001",
+      "tezina": "lagano",
+      "pitanje": "Koje vrste krajeva razlikujemo u Hrvatskoj prema izgledu reljefa?",
+      "ponudeni": [
+        "Sjeverne, južne, istočne i zapadne",
+        "Riječne, jezerske, šumske i otočne",
+        "Nizinske, brežuljkaste, gorske i primorske",
+        "Gradske, seoske, planinske i otočne"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prema reljefu i položaju Hrvatsku dijelimo na nizinske, brežuljkaste, gorske i primorske krajeve.",
+      "savjet": "Sjeti se kako izgleda tlo u pojedinom kraju: ravno, valovito, visoko ili uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-002",
+      "tezina": "lagano",
+      "pitanje": "U kojoj vrsti krajeva prevladavaju velike ravnice?",
+      "ponudeni": [
+        "U nizinskim krajevima",
+        "U gorskim krajevima",
+        "U brežuljkastim krajevima",
+        "U primorskim krajevima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nizinski krajevi su prostrane ravnice uz velike rijeke na istoku i sjeveru Hrvatske.",
+      "savjet": "Sjeti se kako se zove ravan, nizak dio kopna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-003",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih krajeva gorski kraj?",
+      "ponudeni": [
+        "Slavonija",
+        "Hrvatsko zagorje",
+        "Istra",
+        "Lika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lika je gorski kraj okružen gorama i planinama, a s mora je odvaja Velebit.",
+      "savjet": "Potraži kraj koji leži između unutrašnjosti i mora, okružen planinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-004",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih krajeva primorski kraj?",
+      "ponudeni": [
+        "Baranja",
+        "Dalmacija",
+        "Gorski kotar",
+        "Podravina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dalmacija leži uz Jadransko more na jugu Hrvatske, pa je primorski kraj.",
+      "savjet": "Potraži kraj koji leži uz Jadransko more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-005",
+      "tezina": "lagano",
+      "pitanje": "Kakva su ljeta i zime u primorskim krajevima?",
+      "ponudeni": [
+        "Ljeta su kratka i svježa, a zime duge i snježne",
+        "Ljeta su topla, a zime hladne s mnogo magle",
+        "Ljeta su vruća i suha, a zime blage i kišovite",
+        "Cijele je godine hladno i pada snijeg"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz more vlada sredozemna klima: ljeta su vruća i suha, a zime blage i kišovite.",
+      "savjet": "Sjeti se zašto ljudi ljeti idu na more i pada li ondje često snijeg."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-006",
+      "tezina": "lagano",
+      "pitanje": "Kakve su zime u gorskim krajevima?",
+      "ponudeni": [
+        "Kratke, blage i kišovite",
+        "Tople i suhe",
+        "Bez snijega i mraza",
+        "Duge, hladne i snježne"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gorski krajevi su visoko, pa su zime ondje duge i hladne, a snijega ima mnogo.",
+      "savjet": "Sjeti se kakvo je vrijeme zimi visoko u planinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je najvažnija gospodarska djelatnost nizinskih krajeva?",
+      "ponudeni": [
+        "Ratarstvo",
+        "Ribarstvo",
+        "Brodogradnja",
+        "Šumarstvo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nizinski krajevi imaju velika ravna polja i plodno tlo, pa je ondje najvažnije ratarstvo.",
+      "savjet": "Sjeti se što raste na velikim poljima Slavonije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-008",
+      "tezina": "lagano",
+      "pitanje": "U kojim se krajevima Hrvatske uzgajaju masline?",
+      "ponudeni": [
+        "U nizinskim krajevima",
+        "U primorskim krajevima",
+        "U gorskim krajevima",
+        "U brežuljkastim krajevima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Maslina treba toplu klimu i blage zime, kakve su uz more, pa se uzgaja u primorskim krajevima.",
+      "savjet": "Sjeti se gdje su zime najblaže."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-009",
+      "tezina": "lagano",
+      "pitanje": "Koja se djelatnost razvila u gorskim krajevima jer ondje ima mnogo šuma?",
+      "ponudeni": [
+        "Vinogradarstvo",
+        "Ribarstvo",
+        "Šumarstvo",
+        "Ratarstvo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gorski krajevi prekriveni su velikim šumama, pa se ondje razvilo šumarstvo i prerada drva.",
+      "savjet": "Sjeti se kako se zove djelatnost koja brine o šumama i iskorištava drvo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-010",
+      "tezina": "lagano",
+      "pitanje": "Koja planina odvaja Liku od mora?",
+      "ponudeni": [
+        "Medvednica",
+        "Učka",
+        "Papuk",
+        "Velebit"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Velebit je duga planina koja se pruža uz more i odvaja gorsku Liku od primorskog kraja.",
+      "savjet": "Sjeti se planine koja se pruža uz obalu od Senja do Zadra."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-011",
+      "tezina": "lagano",
+      "pitanje": "Koja velika rijeka teče na istoku Hrvatske kroz nizinske krajeve?",
+      "ponudeni": [
+        "Dunav",
+        "Krka",
+        "Neretva",
+        "Cetina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dunav teče na istoku Hrvatske, uz Baranju i Srijem, i čini dio granice sa Srbijom.",
+      "savjet": "Sjeti se na kojoj rijeci leži Vukovar."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-012",
+      "tezina": "lagano",
+      "pitanje": "Koji se od navedenih gradova nalazi u nizinskom kraju?",
+      "ponudeni": [
+        "Gospić",
+        "Osijek",
+        "Split",
+        "Krapina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osijek leži na rijeci Dravi u ravnici Slavonije, pa je grad nizinskog kraja.",
+      "savjet": "Potraži grad koji leži uz rijeku na istoku Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-013",
+      "tezina": "lagano",
+      "pitanje": "Koji se od navedenih gradova nalazi u gorskom kraju?",
+      "ponudeni": [
+        "Pula",
+        "Vukovar",
+        "Delnice",
+        "Varaždin"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Delnice su grad u Gorskom kotaru, gorskom kraju između Zagreba i Rijeke.",
+      "savjet": "Potraži grad u kraju s gustim šumama i snježnim zimama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-014",
+      "tezina": "lagano",
+      "pitanje": "Koji se od navedenih gradova nalazi u primorskom kraju?",
+      "ponudeni": [
+        "Sisak",
+        "Ogulin",
+        "Koprivnica",
+        "Zadar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zadar leži na obali Jadranskog mora u Dalmaciji, pa je grad primorskog kraja.",
+      "savjet": "Potraži grad koji ima morsku luku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-015",
+      "tezina": "lagano",
+      "pitanje": "Kojom su bojom na zemljopisnoj karti najčešće prikazane nizine?",
+      "ponudeni": [
+        "Zelenom",
+        "Smeđom",
+        "Plavom",
+        "Crvenom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na zemljopisnoj karti nizine se prikazuju zelenom bojom, a uzvisine smeđom.",
+      "savjet": "Sjeti se tumača boja na zemljopisnoj karti Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-016",
+      "tezina": "lagano",
+      "pitanje": "Koja je strana svijeta na zemljopisnoj karti najčešće na gornjem rubu?",
+      "ponudeni": [
+        "Jug",
+        "Sjever",
+        "Istok",
+        "Zapad"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Karte se crtaju tako da je sjever gore, jug dolje, istok desno, a zapad lijevo.",
+      "savjet": "Sjeti se gdje je na karti Hrvatske Slavonija, a gdje Dalmacija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-017",
+      "tezina": "lagano",
+      "pitanje": "Kojom se bojom na zemljopisnoj karti prikazuju more, rijeke i jezera?",
+      "ponudeni": [
+        "Zelenom",
+        "Smeđom",
+        "Plavom",
+        "Žutom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sve vode, more, rijeke i jezera, na karti su obojene plavom bojom.",
+      "savjet": "Sjeti se koje je boje Jadransko more na karti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-018",
+      "tezina": "lagano",
+      "pitanje": "Koje životinje žive u velikim šumama gorskih krajeva?",
+      "ponudeni": [
+        "Dupin, galeb i hobotnica",
+        "Roda, šaran i som",
+        "Magarac, koza i gušter",
+        "Medvjed, vuk i ris"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U gustim šumama Gorskog kotara i Like žive velike zvijeri: medvjed, vuk i ris.",
+      "savjet": "Sjeti se koje velike divlje životinje trebaju velike i mirne šume."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-019",
+      "tezina": "lagano",
+      "pitanje": "Koji jak i hladan vjetar puše u primorskim krajevima, osobito zimi?",
+      "ponudeni": [
+        "Bura",
+        "Košava",
+        "Tornado",
+        "Monsun"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bura je jak, hladan i suh vjetar koji s planina puše prema moru.",
+      "savjet": "Taj vjetar puše s planina prema moru i ima kratko ime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-020",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti krajeva pripadaju hrvatski otoci?",
+      "ponudeni": [
+        "Nizinskim krajevima",
+        "Primorskim krajevima",
+        "Gorskim krajevima",
+        "Brežuljkastim krajevima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Otoci su okruženi Jadranskim morem, pa pripadaju primorskim krajevima.",
+      "savjet": "Sjeti se čime su otoci okruženi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-021",
+      "tezina": "lagano",
+      "pitanje": "Što se najviše uzgaja na poljima nizinskih krajeva?",
+      "ponudeni": [
+        "Masline i smokve",
+        "Mandarine i limuni",
+        "Pšenica i kukuruz",
+        "Lavanda i kadulja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na velikim plodnim poljima nizinskih krajeva najviše se uzgajaju žitarice, osobito pšenica i kukuruz.",
+      "savjet": "Sjeti se od čega se dobivaju brašno i kruh."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-022",
+      "tezina": "lagano",
+      "pitanje": "Kakve šume rastu u gorskim krajevima?",
+      "ponudeni": [
+        "Gusto zimzeleno grmlje makija",
+        "Šume alepskog bora uz obalu",
+        "Palme i agrumi",
+        "Šume jele, smreke i bukve"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gorske krajeve prekrivaju šume crnogoričnih stabala jele i smreke te listopadne bukve.",
+      "savjet": "Sjeti se koja stabla dobro podnose hladne i snježne zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-023",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove gusto zimzeleno grmlje koje raste u primorskim krajevima?",
+      "ponudeni": [
+        "Makija",
+        "Tajga",
+        "Livada",
+        "Šikara"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Makija je gusto zimzeleno grmlje i niže drveće koje raste uz Jadransko more.",
+      "savjet": "To grmlje ostaje zeleno i zimi, a raste samo u toplim krajevima uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-024",
+      "tezina": "lagano",
+      "pitanje": "Na kojoj se planini nalazi najviši vrh Hrvatske?",
+      "ponudeni": [
+        "Na Velebitu",
+        "Na Dinari",
+        "Na Medvednici",
+        "Na Učki"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najviši vrh Hrvatske nalazi se na planini Dinari, u gorskom kraju na jugu Hrvatske.",
+      "savjet": "Ta planina je dala ime cijelom gorju koje se proteže kroz Hrvatsku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-025",
+      "tezina": "lagano",
+      "pitanje": "Koje su djelatnosti tipične za primorske krajeve?",
+      "ponudeni": [
+        "Uzgoj šećerne repe i suncokreta",
+        "Sječa jele i smreke",
+        "Ribarstvo i brodogradnja",
+        "Uzgoj krumpira na hladnim poljima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz more ljudi love ribu i grade brodove, pa su ribarstvo i brodogradnja tipične primorske djelatnosti.",
+      "savjet": "Sjeti se što ljudima pruža more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-026",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove kameniti reljef s mnogo vapnenca, špilja i jama u gorskim i primorskim krajevima?",
+      "ponudeni": [
+        "Nizina",
+        "Delta",
+        "Pustinja",
+        "Krš"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krš je reljef od vapnenca u kojem voda stvara špilje i jame. Ima ga u gorskim i primorskim krajevima.",
+      "savjet": "To je kratka riječ za kameniti kraj u kojem voda nestaje pod zemlju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-027",
+      "tezina": "lagano",
+      "pitanje": "Kako su naseljeni gorski krajevi u usporedbi s nizinskim krajevima?",
+      "ponudeni": [
+        "Rjeđe, s malo stanovnika",
+        "Gušće, s mnogo velikih gradova",
+        "Jednako kao nizinski krajevi",
+        "Gorski krajevi uopće nisu naseljeni"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gorski krajevi imaju duge zime i malo plodne zemlje, pa ondje živi manje ljudi nego u nizinama.",
+      "savjet": "Sjeti se kakav je život u kraju s dugim zimama i malo plodne zemlje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-028",
+      "tezina": "lagano",
+      "pitanje": "Koji se nacionalni park nalazi u gorskom kraju?",
+      "ponudeni": [
+        "Kornati",
+        "Plitvička jezera",
+        "Brijuni",
+        "Mljet"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plitvička jezera nalaze se u gorskom kraju, a Kornati, Brijuni i Mljet su otoci u moru.",
+      "savjet": "Tri su od ponuđenih parkova otoci u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-029",
+      "tezina": "lagano",
+      "pitanje": "Kakav je reljef gorskih krajeva?",
+      "ponudeni": [
+        "Velike ravnice uz široke rijeke",
+        "Niski i zaobljeni brežuljci s vinogradima",
+        "Visoke gore i planine s poljima između njih",
+        "Otoci i poluotoci okruženi morem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U gorskim krajevima prevladavaju visoke gore i planine, a između njih su polja i doline.",
+      "savjet": "Sjeti se po čemu su gorski krajevi dobili ime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-030",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu po jedan grad nizinskog, brežuljkastog, gorskog i primorskog kraja.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Osijek",
+            "polozaj": [
+              18.69,
+              45.55
+            ]
+          },
+          {
+            "naziv": "Varaždin",
+            "polozaj": [
+              16.34,
+              46.31
+            ]
+          },
+          {
+            "naziv": "Gospić",
+            "polozaj": [
+              15.37,
+              44.55
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Osijek je nizinski grad na istoku, Varaždin brežuljkasti grad na sjeveru, Gospić gorski grad u Lici, a Split primorski grad na jugu uz more.",
+      "savjet": "Nizinski grad je na istoku uz rijeku, primorski na jugu uz more, a gorski između unutrašnjosti i mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto je ratarstvo najrazvijenije u nizinskim krajevima?",
+      "ponudeni": [
+        "Ondje su velika ravna polja i plodno tlo",
+        "Ondje su zime blage i bez mraza",
+        "Ondje ima najviše šuma",
+        "Ondje je tlo kamenito"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za ratarstvo trebaju ravna i plodna polja. Takvih je najviše u nizinskim krajevima uz velike rijeke.",
+      "savjet": "Razmisli što poljoprivrednik treba da bi mogao orati i sijati na velikim površinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto su gorski krajevi rijetko naseljeni?",
+      "ponudeni": [
+        "Ondje su ljeta prevruća i presuha",
+        "Ondje su duge zime, malo plodne zemlje i teži promet",
+        "Ondje ima previše velikih rijeka i poplava",
+        "Ondje nema nikakve vode"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hladne i duge zime, strmi tereni i malo plodne zemlje otežavaju život, pa u gorskim krajevima živi malo ljudi.",
+      "savjet": "Razmisli što ljudima otežava život i rad visoko u gorama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto se masline uzgajaju u primorskim, a ne u gorskim krajevima?",
+      "ponudeni": [
+        "U gorskim krajevima nema dovoljno kamena",
+        "Masline trebaju mnogo snijega",
+        "Masline trebaju blage zime kakve su uz more",
+        "U gorskim krajevima ne pada kiša"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Maslina ne podnosi duge i jake mrazove. Uz more su zime blage, a u gorama hladne i snježne.",
+      "savjet": "Usporedi kakve su zime uz more, a kakve u gorama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-034",
+      "tezina": "srednje",
+      "pitanje": "Zašto se drvna industrija razvila u gorskim krajevima?",
+      "ponudeni": [
+        "Ondje su velika polja pšenice",
+        "Ondje je more blizu",
+        "Ondje su ljeta vruća",
+        "Ondje ima mnogo šuma"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gorski krajevi prekriveni su velikim šumama, pa ondje ima dovoljno drva za preradu.",
+      "savjet": "Razmisli odakle drvna industrija dobiva sirovinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-035",
+      "tezina": "srednje",
+      "pitanje": "Zašto su se brodogradilišta razvila u primorskim krajevima?",
+      "ponudeni": [
+        "Zato što ondje rastu šume jele i smreke",
+        "Zato što su ondje more i luke",
+        "Zato što su ondje velika ravna polja",
+        "Zato što ondje teku najveće rijeke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brodovi se grade uz more kako bi se odmah mogli porinuti, pa su brodogradilišta u primorskim gradovima.",
+      "savjet": "Razmisli gdje brod plovi kad ga se izgradi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-036",
+      "tezina": "srednje",
+      "pitanje": "Koji su krajevi na sjeverozapadu Hrvatske prijelaz između nizina i gora?",
+      "ponudeni": [
+        "Brežuljkasti krajevi",
+        "Primorski krajevi",
+        "Otočni krajevi",
+        "Nizinski krajevi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brežuljkasti krajevi, poput Hrvatskog zagorja, viši su od nizina, ali niži od gora.",
+      "savjet": "Razmisli koji su oblici reljefa viši od ravnice, a niži od gora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-037",
+      "tezina": "srednje",
+      "pitanje": "Koji krajevi razdvajaju unutrašnjost Hrvatske od primorskih krajeva?",
+      "ponudeni": [
+        "Nizinski krajevi",
+        "Brežuljkasti krajevi",
+        "Gorski krajevi",
+        "Otoci"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Između unutrašnjosti i mora leže gorski krajevi, Gorski kotar i Lika, pa se na putu do mora prelaze gore.",
+      "savjet": "Sjeti se što se prelazi kad se iz Zagreba putuje na more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-038",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se tlo primorskih krajeva razlikuje od tla nizinskih krajeva?",
+      "ponudeni": [
+        "Plodnije je i ima manje kamena",
+        "Uvijek je pod snijegom",
+        "Vlažnije je i često poplavljeno",
+        "Kamenitije je i ima manje plodne zemlje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U primorskim krajevima prevladava krš s mnogo kamena, a nizine imaju debelo i plodno tlo.",
+      "savjet": "Sjeti se zašto se uz more grade kamene kuće i kameni zidovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto su ljudi u primorskim krajevima gradili suhozide?",
+      "ponudeni": [
+        "Da zadrže plodnu zemlju i ograde maslinike i vinograde",
+        "Da zaštite polja od poplava velikih rijeka",
+        "Da u njima čuvaju žito preko zime",
+        "Da zaštite kuće od snijega"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Suhozidi su kameni zidovi građeni bez žbuke. Čuvaju malo plodne zemlje od vjetra i kiše te ograđuju posjede.",
+      "savjet": "Razmisli što ljudi rade s mnogo kamena i malo zemlje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-040",
+      "tezina": "srednje",
+      "pitanje": "Koji je par grada i vrste kraja točan?",
+      "ponudeni": [
+        "Osijek – primorski kraj",
+        "Gospić – gorski kraj",
+        "Split – nizinski kraj",
+        "Varaždin – gorski kraj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gospić je u Lici, gorskom kraju. Osijek je nizinski, Split primorski, a Varaždin brežuljkasti grad.",
+      "savjet": "Za svaki grad prisjeti se leži li uz more, uz veliku rijeku ili među gorama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-041",
+      "tezina": "srednje",
+      "pitanje": "Koji je par tradicije i vrste kraja točan?",
+      "ponudeni": [
+        "Licitarsko srce – primorski kraj",
+        "Bećarac – gorski kraj",
+        "Kulen – primorski kraj",
+        "Klapsko pjevanje – primorski kraj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Klapsko pjevanje potječe iz Dalmacije, primorskog kraja. Bećarac i kulen su iz Slavonije, a licitarsko srce iz sjeverne Hrvatske.",
+      "savjet": "Prisjeti se iz kojeg kraja dolazi svaka tradicija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-042",
+      "tezina": "srednje",
+      "pitanje": "Koji je tradicijski proizvod nizinskih krajeva istočne Hrvatske?",
+      "ponudeni": [
+        "Paški sir",
+        "Lički krumpir",
+        "Kulen",
+        "Zagorski štrukli"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kulen je poznata kobasica iz Slavonije. U nizinama se uzgaja mnogo svinja, a od njihova mesa radi se kulen.",
+      "savjet": "Imena ostalih proizvoda otkrivaju iz kojeg su kraja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-043",
+      "tezina": "srednje",
+      "pitanje": "Koja je vrsta stočarstva tradicionalno raširena u kamenitim gorskim i primorskim krajevima?",
+      "ponudeni": [
+        "Uzgoj ovaca",
+        "Uzgoj šarana u ribnjacima",
+        "Uzgoj velikih stada svinja",
+        "Uzgoj pčela na poljima suncokreta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ovce mogu pasti oskudnu travu na kamenitim pašnjacima, pa se uzgajaju u Lici i na otocima.",
+      "savjet": "Razmisli koja životinja može naći hranu na kamenitom pašnjaku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-044",
+      "tezina": "srednje",
+      "pitanje": "Kakva su najčešće sela u nizinskim krajevima?",
+      "ponudeni": [
+        "Mala sela zbijena na vrhu stijene",
+        "Duga sela s kućama poredanima uz cestu",
+        "Kuće raštrkane po strmim obroncima",
+        "Kamene kuće zbijene oko male luke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na ravnom tlu nizina sela su se gradila uz ceste, pa su kuće poredane jedna do druge u dugim nizovima.",
+      "savjet": "Razmisli kako se gradi na ravnom tlu, gdje nema brežuljaka ni stijena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-045",
+      "tezina": "srednje",
+      "pitanje": "Od kojeg su materijala najčešće građene tradicijske kuće u primorskim krajevima?",
+      "ponudeni": [
+        "Od drvenih dasaka",
+        "Od slame i trske",
+        "Od kamena",
+        "Od lima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U primorskim krajevima ima mnogo kamena, a malo šume, pa su ljudi gradili kamene kuće.",
+      "savjet": "Razmisli kojeg materijala ima najviše u kršu uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-046",
+      "tezina": "srednje",
+      "pitanje": "Zašto kuće u gorskim krajevima imaju strme krovove?",
+      "ponudeni": [
+        "Da bi se ljeti lakše hladile",
+        "Da ih bura ne bi odnijela",
+        "Da bi u njih stalo više ljudi",
+        "Da bi snijeg lakše skliznuo s krova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U gorskim krajevima zimi padne mnogo snijega. Sa strmog krova snijeg sklizne, pa krov ne popusti pod težinom.",
+      "savjet": "Sjeti se čega zimi ima mnogo u gorama i što bi se dogodilo da se skupi na krovu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-047",
+      "tezina": "srednje",
+      "pitanje": "Kako se zovu rijeke koje teku po površini, a zatim nestanu u podzemlju, kao Lika i Gacka?",
+      "ponudeni": [
+        "Pritoke",
+        "Ponornice",
+        "Potoci",
+        "Kanali"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ponornice su rijeke koje u kršu poniru, odnosno nestaju u pukotinama i podzemlju.",
+      "savjet": "Naziv dolazi od riječi koja znači nestati u dubinu zemlje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-048",
+      "tezina": "srednje",
+      "pitanje": "Kakve šume rastu u nizinama istočne Hrvatske?",
+      "ponudeni": [
+        "Šume jele i smreke",
+        "Makija i šume crnike",
+        "Šume alepskog bora",
+        "Šume hrasta lužnjaka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U vlažnim nizinama Slavonije rastu velike šume hrasta lužnjaka, čije je drvo vrlo cijenjeno.",
+      "savjet": "Sjeti se koje listopadno drvo voli vlažno tlo uz rijeke u Slavoniji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-049",
+      "tezina": "srednje",
+      "pitanje": "Koja je zaštićena prirodna vrijednost nizinskog kraja?",
+      "ponudeni": [
+        "Kopački rit",
+        "Plitvička jezera",
+        "Kornati",
+        "Risnjak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kopački rit je močvarno područje u Baranji, nizinskom kraju uz Dunav i Dravu, u kojem živi mnogo ptica.",
+      "savjet": "Potraži močvaru uz velike rijeke na istoku Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-050",
+      "tezina": "srednje",
+      "pitanje": "Koji nacionalni park u gorskom kraju ima ime po divljoj mački koja ondje živi?",
+      "ponudeni": [
+        "Paklenica",
+        "Krka",
+        "Risnjak",
+        "Brijuni"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nacionalni park Risnjak nalazi se u Gorskom kotaru, a ime je dobio po risu.",
+      "savjet": "Sjeti se kako se zove divlja mačka s čupercima na ušima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-051",
+      "tezina": "srednje",
+      "pitanje": "Zašto je turizam najrazvijeniji u primorskim krajevima?",
+      "ponudeni": [
+        "Ondje su velike šume za lov",
+        "Ondje su plodna polja",
+        "Ondje su duge snježne zime",
+        "Ondje su toplo more, sunčana ljeta i lijepa obala"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Turisti dolaze ljeti uživati u toplom moru, suncu i lijepoj obali s otocima.",
+      "savjet": "Sjeti se zašto obitelji ljeti najčešće putuju na odmor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-052",
+      "tezina": "srednje",
+      "pitanje": "Koja se industrija razvila u nizinskim krajevima zahvaljujući ratarstvu i stočarstvu?",
+      "ponudeni": [
+        "Brodogradnja",
+        "Prehrambena industrija",
+        "Drvna industrija od jele",
+        "Proizvodnja soli"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od žitarica, šećerne repe, mlijeka i mesa iz nizina proizvodi se hrana, pa je ondje razvijena prehrambena industrija.",
+      "savjet": "Razmisli što se dalje radi s pšenicom, šećernom repom i mesom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-053",
+      "tezina": "srednje",
+      "pitanje": "Zašto u primorskim krajevima, osobito na otocima, ima malo rijeka?",
+      "ponudeni": [
+        "Ondje nikad ne pada kiša",
+        "Sve rijeke ondje presuše zimi",
+        "Kišnica kroz pukotine vapnenca otječe pod zemlju",
+        "Ljudi su sve rijeke pretvorili u kanale"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U kršu voda brzo ponire kroz pukotine u stijenama, pa se na površini teško zadržavaju rijeke.",
+      "savjet": "Sjeti se kakve su stijene u kršu i što se ondje događa s vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-054",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko gorskim i primorskim krajevima?",
+      "ponudeni": [
+        "U oba se kraja uzgajaju masline",
+        "Oba imaju vruća i suha ljeta",
+        "Oba imaju velike ravnice",
+        "U oba ima krša i mnogo kamena"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I gorski i primorski krajevi velikim su dijelom od vapnenca, pa u oba ima krša, kamena i špilja.",
+      "savjet": "Razmisli o stijenama i tlu, a ne o klimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-055",
+      "tezina": "srednje",
+      "pitanje": "Koju vrstu turizma omogućuju snježne zime gorskih krajeva?",
+      "ponudeni": [
+        "Zimski turizam i skijanje",
+        "Kupališni turizam",
+        "Nautički turizam s jedrilicama",
+        "Turizam u vinogradima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Snijeg u gorskim krajevima omogućuje skijanje, sanjkanje i druge zimske sportove.",
+      "savjet": "Razmisli čime se ljudi zabavljaju kad napada mnogo snijega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-056",
+      "tezina": "srednje",
+      "pitanje": "Koji je par rijeke i kraja kroz koji teče točan?",
+      "ponudeni": [
+        "Neretva – Slavonija",
+        "Drava – Podravina",
+        "Sava – Istra",
+        "Krka – Baranja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Podravina je nizinski kraj koji je ime dobio po rijeci Dravi.",
+      "savjet": "Ime jednog kraja skriva ime rijeke uz koju leži."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-057",
+      "tezina": "srednje",
+      "pitanje": "Kakva su ljeta i zime u nizinskim krajevima?",
+      "ponudeni": [
+        "Ljeta su vruća i suha, a zime blage",
+        "Ljeta su kratka i svježa, a zime duge i vrlo snježne",
+        "Ljeta su topla, a zime hladne",
+        "Cijele je godine toplo i vlažno"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nizinski krajevi daleko su od mora, pa su ljeta ondje topla, a zime hladne.",
+      "savjet": "Nizine su daleko od mora, ali nisu visoko kao gore."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-058",
+      "tezina": "srednje",
+      "pitanje": "Zašto su ljudi u nizinskim krajevima gradili nasipe uz rijeke?",
+      "ponudeni": [
+        "Da bi lakše lovili ribu",
+        "Da bi zaštitili polja i naselja od poplava",
+        "Da bi rijeke tekle brže",
+        "Da bi se zaštitili od bure"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Velike nizinske rijeke nakon jakih kiša mogu se izliti, pa nasipi čuvaju polja i kuće od poplava.",
+      "savjet": "Razmisli što se dogodi kad se velika rijeka nakon kiše izlije iz korita."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-059",
+      "tezina": "srednje",
+      "pitanje": "Zašto su kroz gorske krajeve izgrađeni mnogi tuneli i vijadukti?",
+      "ponudeni": [
+        "Zato što ceste moraju proći kroz gore i preko dubokih dolina",
+        "Zato što su ondje velike ravnice",
+        "Zato što ondje nema snijega",
+        "Zato što su ondje velika jezera"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gore i duboke doline teško je zaobići, pa se ceste vode kroz tunele i preko vijadukata.",
+      "savjet": "Razmisli kako cesta može najkraće prijeći preko planine ili duboke doline."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-060",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove krajeve Hrvatske. Među njima je barem jedan kraj svake vrste.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Slavonija",
+            "polozaj": [
+              17.9,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Hrvatsko zagorje",
+            "polozaj": [
+              15.95,
+              46.08
+            ]
+          },
+          {
+            "naziv": "Gorski kotar",
+            "polozaj": [
+              14.85,
+              45.4
+            ]
+          },
+          {
+            "naziv": "Lika",
+            "polozaj": [
+              15.4,
+              44.65
+            ]
+          },
+          {
+            "naziv": "Istra",
+            "polozaj": [
+              13.9,
+              45.25
+            ]
+          },
+          {
+            "naziv": "Dalmacija",
+            "polozaj": [
+              16.4,
+              43.5
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Slavonija je nizinski kraj na istoku, Hrvatsko zagorje brežuljkasti na sjeverozapadu, Gorski kotar i Lika gorski krajevi, a Istra i Dalmacija primorski krajevi uz more.",
+      "savjet": "Nizine su na istoku, brežuljci na sjeverozapadu, gore između unutrašnjosti i mora, a primorski krajevi uz obalu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-061",
+      "tezina": "tesko",
+      "pitanje": "Zašto su zime u primorskim krajevima blaže nego u nizinskim krajevima?",
+      "ponudeni": [
+        "Zato što su primorski krajevi viši od nizina",
+        "Zato što zimi uz more puše samo topli vjetar",
+        "Zato što more zimi polako otpušta toplinu i grije zrak",
+        "Zato što su primorski krajevi pokriveni šumama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "More se ljeti ugrije i zimi polako otpušta toplinu, pa uz obalu zime nisu tako hladne kao u unutrašnjosti.",
+      "savjet": "Razmisli što more čini s toplinom koju je primilo tijekom ljeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-062",
+      "tezina": "tesko",
+      "pitanje": "Obitelj želi uzgajati pšenicu na velikim poljima i raditi velikim strojevima. Gdje je za to najbolje mjesto?",
+      "ponudeni": [
+        "Na otoku Pagu",
+        "U Gorskom kotaru",
+        "Na obroncima Velebita",
+        "U Slavoniji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slavonija je nizinski kraj s velikim ravnim i plodnim poljima, na kojima se lako radi strojevima.",
+      "savjet": "Razmisli gdje su polja velika, ravna i plodna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-063",
+      "tezina": "tesko",
+      "pitanje": "Kojim se redom mijenjaju krajevi kad putuješ od Osijeka preko Zagreba i Like do Splita?",
+      "ponudeni": [
+        "Primorski, gorski, nizinski",
+        "Nizinski, gorski, primorski",
+        "Gorski, nizinski, primorski",
+        "Nizinski, primorski, gorski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osijek je u nizinskom kraju, put zatim prolazi kroz gorsku Liku, a Split je u primorskom kraju.",
+      "savjet": "Odredi kraj za početak puta, za sredinu i za cilj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-064",
+      "tezina": "tesko",
+      "pitanje": "Na izletu je razred vidio kamene kuće, maslinike ograđene suhozidima i grmlje makije. U kojoj je vrsti kraja bio izlet?",
+      "ponudeni": [
+        "U primorskom kraju",
+        "U nizinskom kraju",
+        "U gorskom kraju",
+        "U brežuljkastom kraju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kamene kuće, suhozidi, masline i makija obilježja su primorskih krajeva sa sredozemnom klimom.",
+      "savjet": "Razmisli gdje rastu masline i makija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-065",
+      "tezina": "tesko",
+      "pitanje": "Učenica opisuje svoj kraj: ravna polja, široke rijeke, hrastove šume i duga sela uz cestu. U kojoj vrsti kraja živi?",
+      "ponudeni": [
+        "U gorskom kraju",
+        "U primorskom kraju",
+        "U nizinskom kraju",
+        "U brežuljkastom kraju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ravna polja, velike rijeke, šume hrasta lužnjaka i duga sela uz cestu obilježja su nizinskih krajeva.",
+      "savjet": "Koji kraj ima ravan reljef i široke rijeke?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-066",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u Lici uzgaja krumpir, a ne masline?",
+      "ponudeni": [
+        "Krumpir treba slanu morsku vodu",
+        "Krumpir podnosi hladniju klimu, a maslina treba blage zime",
+        "Masline rastu samo na velikim ravnicama",
+        "U Lici nema nikakvog tla"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lika je gorski kraj s hladnim zimama. Krumpir ondje dobro uspijeva, a maslina bi se smrznula.",
+      "savjet": "Usporedi što svaka biljka treba i kakve su zime u Lici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-067",
+      "tezina": "tesko",
+      "pitanje": "Zašto su ljudi na otocima nekad skupljali kišnicu u kamene spremnike (gusterne)?",
+      "ponudeni": [
+        "Kišnica je služila za proizvodnju soli",
+        "Kišnica je bila hrana za ribe",
+        "Kišnica je služila samo za gašenje požara",
+        "Na otocima ima malo izvora i rijeka pitke vode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na kamenitim otocima voda brzo ponire, pa je malo izvora. Zato su ljudi skupljali kišnicu za piće i kućanstvo.",
+      "savjet": "Sjeti se što se u kršu događa s vodom nakon kiše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-068",
+      "tezina": "tesko",
+      "pitanje": "Zašto se mnogo mladih ljudi iseljava iz gorskih krajeva u veće gradove?",
+      "ponudeni": [
+        "U gorskim krajevima ima malo posla, a život je teži",
+        "U gorskim krajevima ljeta su prevruća",
+        "U gorskim krajevima ima previše tvornica",
+        "U gorskim krajevima često se izlijevaju velike rijeke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbog dugih zima, slabije prometne povezanosti i malo posla mladi često odlaze u gradove u kojima lakše nađu posao.",
+      "savjet": "Razmisli što mladi ljudi trebaju za život i gdje to lakše nađu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-069",
+      "tezina": "tesko",
+      "pitanje": "Što bi se najvjerojatnije dogodilo u primorskim krajevima kad bi more postalo onečišćeno?",
+      "ponudeni": [
+        "Povećao bi se uzrod pšenice",
+        "Zime bi postale hladnije",
+        "Smanjio bi se broj turista i ulov ribe",
+        "Počelo bi padati više snijega"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Turizam i ribarstvo ovise o čistom moru. Onečišćeno more otjeralo bi turiste i naštetilo ribama.",
+      "savjet": "Razmisli koje djelatnosti uz more ovise o čistoj vodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-070",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o nizinskim i gorskim krajevima točna?",
+      "ponudeni": [
+        "Gorski krajevi imaju veća polja od nizinskih",
+        "Nizinski krajevi imaju duže i hladnije zime od gorskih",
+        "Gorski krajevi imaju toplija ljeta od nizinskih",
+        "Nizinski krajevi gušće su naseljeni od gorskih"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nizine imaju plodna polja i lakši promet, pa ondje živi više ljudi nego u hladnim i strmim gorskim krajevima.",
+      "savjet": "Za svaku tvrdnju usporedi reljef i klimu obaju krajeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-071",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko nizinskim i primorskim krajevima?",
+      "ponudeni": [
+        "U oba se kraja uzgajaju masline",
+        "Oba su gušće naseljena od gorskih krajeva",
+        "Oba imaju duge snježne zime",
+        "Oba su prekrivena šumama jele i smreke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U nizinama i uz obalu živi mnogo više ljudi nego u gorskim krajevima, koji su rijetko naseljeni.",
+      "savjet": "Usporedi oba kraja s gorskim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-072",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su skupini gradovi iz nizinskog, gorskog i primorskog kraja, točno tim redom?",
+      "ponudeni": [
+        "Split, Osijek, Gospić",
+        "Gospić, Split, Osijek",
+        "Osijek, Gospić, Split",
+        "Vukovar, Zadar, Delnice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osijek je nizinski grad uz Dravu, Gospić je gorski grad u Lici, a Split primorski grad uz more.",
+      "savjet": "Za svaki grad odredi kraj, a zatim provjeri i redoslijed."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-073",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se na zemljopisnoj karti može prepoznati da je neki kraj gorski?",
+      "ponudeni": [
+        "Po smeđoj boji i oznakama planinskih vrhova",
+        "Po zelenoj boji i širokim rijekama",
+        "Po plavoj boji i mnogo otoka",
+        "Po crvenim točkama velikih gradova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uzvisine su na karti smeđe, a vrhovi su označeni posebnim znakom, pa se po tome prepoznaju gore i planine.",
+      "savjet": "Sjeti se kojom se bojom na karti prikazuju uzvisine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-074",
+      "tezina": "tesko",
+      "pitanje": "U kojem smjeru uglavnom putuješ kad iz Splita ideš prema Vukovaru?",
+      "ponudeni": [
+        "Prema jugozapadu",
+        "Prema jugu",
+        "Prema zapadu",
+        "Prema sjeveroistoku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Split je na jugu, uz more, a Vukovar na istoku, uz Dunav. Zato se od Splita do Vukovara putuje prema sjeveroistoku.",
+      "savjet": "Prvo odredi gdje je na karti Hrvatske more, a gdje Dunav."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-075",
+      "tezina": "tesko",
+      "pitanje": "Zašto se mandarine uzgajaju u dolini Neretve, a ne u Slavoniji?",
+      "ponudeni": [
+        "U Slavoniji nema dovoljno kiše",
+        "U dolini Neretve zime su blage, a u Slavoniji hladne",
+        "U Slavoniji je tlo previše kamenito",
+        "U dolini Neretve ima više snijega"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dolina Neretve je u primorskom kraju s blagim zimama, a mandarine ne podnose hladne zime kakve su u Slavoniji.",
+      "savjet": "Usporedi zime uz more i u nizinama na istoku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-076",
+      "tezina": "tesko",
+      "pitanje": "Koja se od navedenih djelatnosti može naći u svim četirima vrstama krajeva Hrvatske?",
+      "ponudeni": [
+        "Ribarstvo na moru",
+        "Uzgoj maslina",
+        "Stočarstvo",
+        "Brodogradnja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stoka se uzgaja posvuda: svinje u nizinama, krave u brežuljcima i gorama, a ovce i koze uz more.",
+      "savjet": "Za svaku djelatnost provjeri treba li joj more ili blaga zima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto je u gorskim krajevima stočarstvo važnije od ratarstva?",
+      "ponudeni": [
+        "Ondje ima više livada i pašnjaka nego plodnih oranica",
+        "Ondje su ljeta duga i vruća",
+        "Ondje su najveće ravnice u Hrvatskoj",
+        "Ondje stoka ne treba hranu zimi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Strmi tereni i hladna klima nisu dobri za oranice, ali na livadama i pašnjacima stoka ima dovoljno hrane.",
+      "savjet": "Razmisli što raste na strmim obroncima i u hladnim dolinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-078",
+      "tezina": "tesko",
+      "pitanje": "Zašto se krajevi Hrvatske toliko razlikuju po načinu života?",
+      "ponudeni": [
+        "Zato što u svakom kraju vrijede drugi zakoni",
+        "Zato što su se krajevi nedavno razdvojili",
+        "Zato što svaki kraj ima drugi jezik",
+        "Zato što imaju različit reljef, klimu i blizinu mora"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ljudi su svoje djelatnosti, kuće i hranu prilagodili reljefu, klimi i vodama svojeg kraja.",
+      "savjet": "Razmisli o tome što je priroda dala svakom kraju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-079",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o vodama hrvatskih krajeva točna?",
+      "ponudeni": [
+        "Primorski krajevi imaju najviše velikih rijeka",
+        "Nizinski krajevi imaju velike rijeke, a na otocima ih gotovo nema",
+        "U gorskim krajevima nema nijedne rijeke",
+        "Nizinski krajevi nemaju rijeka ni potoka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nizinama teku velike rijeke Sava, Drava i Dunav, a na kamenitim otocima voda ponire, pa rijeka gotovo nema.",
+      "savjet": "Sjeti se uz koje rijeke leže nizinski gradovi i što se događa s vodom u kršu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-080",
+      "tezina": "tesko",
+      "pitanje": "Obitelj iz Dalmacije preselila se u Gorski kotar. Na što će se najviše morati naviknuti?",
+      "ponudeni": [
+        "Na vruća i suha ljeta",
+        "Na blizinu mora i otoka",
+        "Na duge i snježne zime",
+        "Na maslinike i vinograde oko kuće"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Dalmaciji su zime blage, a u gorskom kraju duge, hladne i snježne.",
+      "savjet": "Usporedi klimu primorskog i gorskog kraja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-081",
+      "tezina": "tesko",
+      "pitanje": "Zašto su mnogi gradovi u nizinskim krajevima nastali uz rijeke?",
+      "ponudeni": [
+        "Rijeke su ih štitile od snijega",
+        "Uz rijeke rastu masline",
+        "Uz rijeke je tlo najkamenitije",
+        "Rijeke su davale vodu i ribu te služile za promet"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ljudi su se naseljavali uz rijeke jer su ondje imali vode, ribe i plodnog tla, a rijekama su prevozili robu.",
+      "savjet": "Razmisli što su ljudi sve mogli dobiti od velike rijeke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-082",
+      "tezina": "tesko",
+      "pitanje": "Koja usporedba gospodarstva hrvatskih krajeva je točna?",
+      "ponudeni": [
+        "U nizinama prevladava ratarstvo, a uz more turizam i pomorstvo",
+        "U gorama prevladava ribarstvo, a u nizinama brodogradnja",
+        "Uz more prevladava šumarstvo, a u gorama uzgoj maslina",
+        "U nizinama prevladava turizam, a uz more uzgoj šećerne repe"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plodna polja u nizinama pogoduju ratarstvu, a more i obala turizmu, ribarstvu i pomorstvu.",
+      "savjet": "Za svaki kraj razmisli što mu daje priroda: polja, šume ili more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto biljke makije imaju sitne, tvrde i kožaste listove?",
+      "ponudeni": [
+        "Da bi lakše podnijele dugu snježnu zimu",
+        "Da bi tijekom sušnog ljeta gubile manje vode",
+        "Da bi ih stoka lakše jela",
+        "Da bi brže rasle u sjeni"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljeta uz more su vruća i suha. Sitni i tvrdi listovi pomažu biljkama makije da sačuvaju vodu.",
+      "savjet": "Sjeti se kakva su ljeta u primorskim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-084",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko Plitvičkim jezerima, Kopačkom ritu i Kornatima?",
+      "ponudeni": [
+        "Svi se nalaze u istoj vrsti kraja",
+        "Svi se nalaze uz more",
+        "Svi su zaštićena prirodna područja Hrvatske",
+        "Svi se nalaze u gorskom kraju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plitvička jezera su u gorskom kraju, Kopački rit u nizinskom, a Kornati u moru, ali sva su zaštićena zbog svoje prirodne vrijednosti.",
+      "savjet": "Odredi za svako mjesto u kojem je kraju, a zatim razmisli što im je ipak zajedničko."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-085",
+      "tezina": "tesko",
+      "pitanje": "Kako jaka bura utječe na život ljudi u primorskim krajevima?",
+      "ponudeni": [
+        "Donosi toplu kišu za polja",
+        "Uzrokuje poplave velikih rijeka",
+        "Donosi mnogo snijega na otoke",
+        "Ponekad se zatvaraju ceste i mostovi, a trajekti ne plove"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bura može biti toliko jaka da je opasno voziti preko mostova i ploviti, pa se promet privremeno zaustavlja.",
+      "savjet": "Razmisli što vrlo jak vjetar može učiniti automobilima i brodovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-086",
+      "tezina": "tesko",
+      "pitanje": "Razred bira mjesto za školu u prirodi u kojoj želi istraživati crnogoričnu šumu, tragove medvjeda i snijeg. Koji kraj treba izabrati?",
+      "ponudeni": [
+        "Gorski kotar",
+        "Baranju",
+        "Dalmatinske otoke",
+        "Podravinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gorski kotar je gorski kraj s velikim šumama jele i smreke, u kojima žive medvjedi, a zimi ima mnogo snijega.",
+      "savjet": "Potraži kraj s visokim gorama i dugim zimama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto se morska sol proizvodi u primorskim krajevima, kao u Stonu i Ninu?",
+      "ponudeni": [
+        "Ondje ima mnogo snijega koji se pretvara u sol",
+        "Ondje teku slane rijeke",
+        "Ondje su morska voda i mnogo sunca za isparavanje",
+        "Ondje su velika plodna polja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U solanama sunce i vjetar isparavaju morsku vodu, a sol ostaje. Za to trebaju more i sunčana, suha ljeta.",
+      "savjet": "Razmisli što ostaje kad morska voda ispari."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto mnogi ljudi ljeti odlaze na odmor u gorske krajeve?",
+      "ponudeni": [
+        "Ondje su ljeta svježija nego u nizinama i uz more",
+        "Ondje se mogu kupati u toplom moru",
+        "Ondje mogu brati masline",
+        "Ondje mogu skijati cijelo ljeto"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gorski krajevi su viši, pa su ljeta ondje svježa. Ljudi se onamo sklanjaju od vrućine i uživaju u šumama.",
+      "savjet": "Razmisli kako se temperatura mijenja kad se penješ više."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o biljnom pokrovu hrvatskih krajeva točna?",
+      "ponudeni": [
+        "Uz more rastu šume jele i smreke, a u gorama makija",
+        "U nizinama raste makija, a uz more hrast lužnjak",
+        "U gorama rastu palme, a u nizinama alepski bor",
+        "Uz more raste makija, a u gorama šume jele i bukve"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zimzelena makija voli toplu i suhu obalu, a jela i bukva rastu u hladnijim i vlažnijim gorama.",
+      "savjet": "Za svaku biljku razmisli voli li toplinu ili hladnoću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-usporedba-krajeva-090",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ove gradove iz različitih krajeva Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Vukovar",
+            "polozaj": [
+              19,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Slavonski Brod",
+            "polozaj": [
+              18.02,
+              45.16
+            ]
+          },
+          {
+            "naziv": "Krapina",
+            "polozaj": [
+              15.88,
+              46.16
+            ]
+          },
+          {
+            "naziv": "Delnice",
+            "polozaj": [
+              14.8,
+              45.4
+            ]
+          },
+          {
+            "naziv": "Zadar",
+            "polozaj": [
+              15.23,
+              44.12
+            ]
+          },
+          {
+            "naziv": "Pula",
+            "polozaj": [
+              13.85,
+              44.87
+            ]
+          },
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Vukovar leži na Dunavu, a Slavonski Brod na Savi u nizinskom kraju. Krapina je u brežuljkastom Zagorju, Delnice u gorskom Gorskom kotaru, a Pula, Zadar i Dubrovnik su primorski gradovi.",
+      "savjet": "Pomoći će ti velike rijeke na istoku, granica sa Slovenijom na sjeverozapadu i duga obala na jugu."
+    }
+  ]
+}
