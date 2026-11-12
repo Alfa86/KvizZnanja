@@ -101,18 +101,49 @@ export interface PrikazPodataka {
   vrijednostSimbola?: number  // slikovni: koliko vrijedi jedan znak
 }
 
-export interface Pitanje {
+// Mjesto na karti: natpis koji učenik povlači i zemljopisni položaj na koji pripada
+export interface MjestoNaKarti {
+  naziv: string               // npr. 'Hrvatsko zagorje'
+  polozaj: [number, number]   // [zemljopisna dužina, širina] u stupnjevima, npr. [15.9, 46.1]
+}
+
+// Zadatak smještanja natpisa na kartu Hrvatske; svaki natpis ide na točno jedno mjesto
+export interface ZadatakKarte {
+  mjesta: MjestoNaKarti[]     // 3–8 mjesta
+  okvir?: [number, number, number, number] // prikazani dio karte [zapad, jug, istok, sjever]; inače cijela Hrvatska
+}
+
+interface PitanjeOsnova {
   id: string
   tezina: Tezina
   pitanje: string
-  slika?: Slika
-  podaci?: PrikazPodataka  // tablica ili dijagram s podacima (lekcije o podacima)
-  ponudeni: string[]      // uvijek 4 odgovora
-  tocan: number           // indeks 0–3
   objasnjenje: string
   savjet?: string         // pomoć tijekom rješavanja, ne smije otkriti odgovor
   skriveno?: boolean
 }
+
+export interface PitanjeIzbor extends PitanjeOsnova {
+  slika?: Slika
+  podaci?: PrikazPodataka  // tablica ili dijagram s podacima (lekcije o podacima)
+  ponudeni: string[]      // uvijek 4 odgovora
+  tocan: number           // indeks 0–3
+  karta?: undefined
+}
+
+export interface PitanjeKarta extends PitanjeOsnova {
+  karta: ZadatakKarte
+  ponudeni?: undefined
+  tocan?: undefined
+  slika?: undefined
+  podaci?: undefined
+}
+
+export type Pitanje = PitanjeIzbor | PitanjeKarta
+
+// Odgovor na pitanje s izborom je indeks odgovora; na kartu je za svaki natpis (redom kao u mjesta)
+// indeks mjesta na koje je stavljen, ili null dok nije stavljen
+export type RasporedNaKarti = (number | null)[]
+export type Odgovor = number | RasporedNaKarti
 
 export interface DatotekaLekcije {
   lekcijaId: string

@@ -125,7 +125,8 @@ const brojSNalazima = computed(() => pitanja.value.filter(p => nalazi(p.id).leng
           <p class="text-lg font-bold">{{ p.pitanje }}</p>
           <SlikaPitanja v-if="p.slika" :slika="p.slika" />
           <PrikazPodataka v-if="p.podaci" :podaci="p.podaci" />
-          <ol class="my-3 flex flex-col gap-1">
+          <KartaZadatak v-if="p.karta" :zadatak="p.karta" :raspored="null" nacin="rjesenje" class="mt-3" />
+          <ol v-if="p.ponudeni" class="my-3 flex flex-col gap-1">
             <li
               v-for="(o, i) in p.ponudeni"
               :key="i"

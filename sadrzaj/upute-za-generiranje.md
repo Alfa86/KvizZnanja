@@ -200,6 +200,31 @@ Umjesto `{{POSEBNO ZA PREDMET}}` umetni odgovarajući odjeljak.
 - Pitanja o sigurnosti na internetu daju jasne, provjerene preporuke.
 ````
 
+## Pitanja s kartom Hrvatske
+
+Učenik povlači natpise na oznake na karti; pitanje je točno samo ako su svi natpisi na pravom mjestu. Umjesto `ponudeni` i `tocan` pitanje ima polje `karta`:
+
+```json
+{
+  "id": "…", "tezina": "srednje",
+  "pitanje": "Smjesti na kartu ove krajeve sjeverne Hrvatske.",
+  "karta": {
+    "okvir": [14.6, 44.6, 19.6, 46.65],
+    "mjesta": [
+      { "naziv": "Hrvatsko zagorje", "polozaj": [15.95, 46.08] },
+      { "naziv": "Međimurje", "polozaj": [16.45, 46.42] }
+    ]
+  },
+  "objasnjenje": "…", "savjet": "…"
+}
+```
+
+- `polozaj` je [zemljopisna dužina, širina] u stupnjevima (središte kraja ili položaj grada); 3–8 mjesta.
+- `okvir` [zapad, jug, istok, sjever] neobavezno smanjuje prikaz na dio Hrvatske (npr. sjever), pa se bliska mjesta lakše razlikuju.
+- `npm run provjeri` javlja oznake koje su na mobitelu preblizu; tada izostavi jedno mjesto ili smanji okvir.
+- Savjet ne smije sadržavati naziv nijednog mjesta s karte.
+- Kartu Hrvatske generira `scripts/napravi-kartu.ts` iz podataka Natural Earth (javno vlasništvo).
+
 ## Uočene vrste grešaka
 
 Ovdje bilježi greške koje se ponavljaju pri pregledu, s primjerom i doradom predloška koja ih sprječava.

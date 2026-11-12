@@ -126,7 +126,7 @@ function zavrsi() {
         </button>
       </div>
       <p v-if="!odgovoreno" id="uputa-odgovor" class="-mt-2 text-center text-sm text-slate-600 sm:text-right">
-        Odaberi odgovor pa idi dalje.
+        {{ pitanje.karta ? 'Smjesti sve natpise na kartu pa idi dalje.' : 'Odaberi odgovor pa idi dalje.' }}
       </p>
 
       <ProzorIzlaska

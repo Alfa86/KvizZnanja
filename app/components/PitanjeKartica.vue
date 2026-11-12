@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import type { Pitanje } from '~/types'
+import type { Odgovor, Pitanje } from '~/types'
 
-const props = defineProps<{ pitanje: Pitanje, redniBroj: number, odabrani: number | null }>()
-const emit = defineEmits<{ odaberi: [indeks: number] }>()
+const props = defineProps<{ pitanje: Pitanje, redniBroj: number, odabrani: Odgovor | null }>()
+const emit = defineEmits<{ odaberi: [odgovor: Odgovor] }>()
 
 const SLOVA = ['A', 'B', 'C', 'D']
 const naslov = useTemplateRef<HTMLElement>('naslov')
@@ -19,9 +19,15 @@ watch(() => props.pitanje, () => nextTick(() => naslov.value?.focus()))
     <h2 ref="naslov" tabindex="-1" class="mb-5 text-2xl leading-snug font-extrabold sm:text-3xl">
       <span class="sr-only">Pitanje {{ redniBroj }}: </span>{{ pitanje.pitanje }}
     </h2>
+    <KartaZadatak
+      v-if="pitanje.karta"
+      :zadatak="pitanje.karta"
+      :raspored="Array.isArray(odabrani) ? odabrani : null"
+      @promijeni="emit('odaberi', $event)"
+    />
     <SlikaPitanja v-if="pitanje.slika" :slika="pitanje.slika" />
     <PrikazPodataka v-if="pitanje.podaci" :podaci="pitanje.podaci" />
-    <div class="flex flex-col gap-3" role="group" aria-label="Ponuđeni odgovori">
+    <div v-if="pitanje.ponudeni" class="flex flex-col gap-3" role="group" aria-label="Ponuđeni odgovori">
       <button
         v-for="(odgovor, i) in pitanje.ponudeni"
         :key="i"

@@ -222,7 +222,7 @@
         "Aljmaš"
       ],
       "tocan": 2,
-      "objasnjenje": "Marija Bistrica u Hrvatskom zagorju najveće je marijansko svetište u Hrvatskoj i posjećuju je brojni hodočasnici.",
+      "objasnjenje": "Marija Bistrica u Hrvatskom zagorju hrvatsko je nacionalno svetište i posjećuju je brojni hodočasnici.",
       "savjet": "Sjeti se svetišta smještenog sjeverno od gore Medvednice."
     },
     {
@@ -754,7 +754,7 @@
         "Ondje je poznato hodočasničko svetište"
       ],
       "tocan": 3,
-      "objasnjenje": "Marija Bistrica je najveće marijansko svetište u Hrvatskoj, pa je posjećuju brojni hodočasnici.",
+      "objasnjenje": "Marija Bistrica je hrvatsko nacionalno svetište, pa je posjećuju brojni hodočasnici.",
       "savjet": "Sjeti se zašto ljudi pješače do crkava i svetišta."
     },
     {
@@ -1260,6 +1260,233 @@
       "tocan": 0,
       "objasnjenje": "Trakošćan i Veliki Tabor stari su dvorci u Hrvatskom zagorju i važan su dio kulturne baštine.",
       "savjet": "Sjeti se u kojem se kraju nalazi većina poznatih dvoraca na brežuljcima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-091",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove krajeve sjeverne Hrvatske.",
+      "karta": {
+        "okvir": [
+          14.6,
+          44.6,
+          19.6,
+          46.65
+        ],
+        "mjesta": [
+          {
+            "naziv": "Hrvatsko zagorje",
+            "polozaj": [
+              15.95,
+              46.08
+            ]
+          },
+          {
+            "naziv": "Međimurje",
+            "polozaj": [
+              16.45,
+              46.42
+            ]
+          },
+          {
+            "naziv": "Podravina",
+            "polozaj": [
+              17.1,
+              46.02
+            ]
+          },
+          {
+            "naziv": "Slavonija",
+            "polozaj": [
+              17.9,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Baranja",
+            "polozaj": [
+              18.65,
+              45.75
+            ]
+          },
+          {
+            "naziv": "Srijem",
+            "polozaj": [
+              19.15,
+              45.25
+            ]
+          },
+          {
+            "naziv": "Kordun",
+            "polozaj": [
+              15.65,
+              45.2
+            ]
+          },
+          {
+            "naziv": "Banovina",
+            "polozaj": [
+              16.25,
+              45.25
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Međimurje je na samom sjeveru između Mure i Drave, Hrvatsko zagorje sjeverno od Zagreba, a Podravina uz Dravu. Na istoku su Baranja, Slavonija i Srijem, a južno od Kupe Kordun i Banovina.",
+      "savjet": "Pomoći će ti rijeke: Drava i Mura na sjeveru, Dunav na istoku i Kupa na jugozapadu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-092",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove najviši vrh Medvednice, gore iznad Zagreba?",
+      "ponudeni": [
+        "Sljeme",
+        "Vojak",
+        "Sveti Jure",
+        "Vaganski vrh"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najviši vrh Medvednice je Sljeme. Vojak je vrh Učke, Sveti Jure vrh Biokova, a Vaganski vrh vrh Velebita.",
+      "savjet": "Zimi se na tom vrhu iznad Zagreba skija, a do njega se može doći i žičarom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-093",
+      "tezina": "srednje",
+      "pitanje": "Koja je najviša gora Hrvatskog zagorja?",
+      "ponudeni": [
+        "Medvednica",
+        "Ivanščica",
+        "Kalnik",
+        "Strahinjčica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ivanščica je najviša gora Hrvatskog zagorja. Pruža se između Zagorja i Varaždina i prekrivena je šumom.",
+      "savjet": "Ta se gora nalazi na sjeveru Zagorja, između Lepoglave i Zlatara."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-094",
+      "tezina": "srednje",
+      "pitanje": "U kojem se gradu nalazi jedno od najbogatijih nalazišta neandertalaca (pračovjeka) na svijetu?",
+      "ponudeni": [
+        "U Vukovaru",
+        "U Puli",
+        "U Krapini",
+        "U Kninu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na brdu Hušnjakovo u Krapini pronađeno je jedno od najbogatijih nalazišta neandertalaca na svijetu. O njemu se uči u Muzeju krapinskih neandertalaca.",
+      "savjet": "Sjeti se grada u Hrvatskom zagorju koji je središte svoje županije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-095",
+      "tezina": "srednje",
+      "pitanje": "Tko je otkrio i istražio nalazište krapinskog pračovjeka?",
+      "ponudeni": [
+        "Ljudevit Gaj",
+        "Nikola Tesla",
+        "Faust Vrančić",
+        "Dragutin Gorjanović-Kramberger"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nalazište krapinskog pračovjeka otkrio je i istražio znanstvenik Dragutin Gorjanović-Kramberger.",
+      "savjet": "Sjeti se znanstvenika koji je proučavao kosti i fosile, a ne izumitelja ni pisca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-096",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu ove krajeve Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Hrvatsko zagorje",
+            "polozaj": [
+              15.95,
+              46.08
+            ]
+          },
+          {
+            "naziv": "Slavonija",
+            "polozaj": [
+              17.9,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Istra",
+            "polozaj": [
+              13.9,
+              45.25
+            ]
+          },
+          {
+            "naziv": "Lika",
+            "polozaj": [
+              15.4,
+              44.65
+            ]
+          },
+          {
+            "naziv": "Dalmacija",
+            "polozaj": [
+              16.4,
+              43.5
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Hrvatsko zagorje je na sjeverozapadu, Slavonija na istoku, Istra je poluotok na zapadu, Lika je u gorskom dijelu, a Dalmacija uz more na jugu.",
+      "savjet": "Prvo pronađi poluotok na zapadu i dugu obalu na jugu, a zatim krajeve u unutrašnjosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-brezuljkasti-krajevi-097",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ova mjesta na sjeverozapadu Hrvatske.",
+      "karta": {
+        "okvir": [
+          15.3,
+          45.6,
+          17,
+          46.6
+        ],
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Krapina",
+            "polozaj": [
+              15.88,
+              46.16
+            ]
+          },
+          {
+            "naziv": "Kumrovec",
+            "polozaj": [
+              15.68,
+              46.08
+            ]
+          },
+          {
+            "naziv": "Marija Bistrica",
+            "polozaj": [
+              16.11,
+              45.98
+            ]
+          },
+          {
+            "naziv": "Varaždin",
+            "polozaj": [
+              16.34,
+              46.31
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Zagreb je na jugu ovog dijela karte, uz Savu. Kumrovec je na zapadu uz granicu sa Slovenijom, Krapina sjeverno od njega, Marija Bistrica iza Medvednice, a Varaždin na sjeveroistoku uz Dravu.",
+      "savjet": "Pomoći će ti granica sa Slovenijom na zapadu i rijeka Drava na sjeveroistoku."
     }
   ]
 }

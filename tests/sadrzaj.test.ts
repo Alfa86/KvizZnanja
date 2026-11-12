@@ -19,7 +19,7 @@ describe('sadržaj u public/pitanja', () => {
         return { put: f, razred, predmetId, ime, sadrzaj: JSON.parse(readFileSync(join(KORIJEN, f), 'utf8')) }
       })
     expect(provjeriSadrzaj(razredi, datoteke).greske).toEqual([])
-  })
+  }, 30_000) // čita sve datoteke s pitanjima, pa uz ostale testove zna potrajati
 })
 
 describe('provjeriSadrzaj', () => {
@@ -87,5 +87,13 @@ describe('provjeriSadrzaj', () => {
     expect(r.upozorenja.some(u => u.includes('pitanje ima'))).toBe(false)
     const mladi = provjeriSadrzaj(razredi, [datoteka([pitanje('a', { pitanje: dugo })], { razred: '2' })])
     expect(mladi.upozorenja.some(u => u.includes('pitanje ima 131 znakova'))).toBe(true)
+  })
+
+  it('javlja pogrešan zatvoreni navodnik i pravopis brojeva', () => {
+    const greske = (izmjene: Partial<Pitanje>) => provjeriSadrzaj(razredi, [datoteka([pitanje('a', izmjene)])]).greske.join(' ')
+    expect(greske({ pitanje: 'Što znači „više”?' })).toContain('Zatvoreni navodnik')
+    expect(greske({ objasnjenje: 'Zbroj je 1 400.' })).toContain('Četveroznamenkasti broj')
+    expect(greske({ savjet: 'Pogledaj broj 12345.' })).toContain('pet i više znamenaka')
+    expect(greske({ pitanje: 'Izračunaj „12 345 + 1400“.' })).toBe('')
   })
 })

@@ -1,14 +1,25 @@
 <script setup lang="ts">
-import type { Pitanje } from '~/types'
+import type { Odgovor, Pitanje } from '~/types'
+import { jeOdgovorTocan } from '~/utils/karta'
 
 const props = defineProps<{
   pitanje: Pitanje
   redniBroj: number
-  odgovor: number | null
+  odgovor: Odgovor | null
   koristenSavjet: boolean
 }>()
 
-const tocno = computed(() => props.odgovor === props.pitanje.tocan)
+const tocno = computed(() => jeOdgovorTocan(props.pitanje, props.odgovor))
+
+// Natpisi s karte stavljeni na pogrešnu oznaku: [natpis, naziv mjesta na koje je stavljen]
+const pogresnoNaKarti = computed(() => {
+  const p = props.pitanje
+  if (!p.karta || !Array.isArray(props.odgovor)) return []
+  return props.odgovor.flatMap((oznaka, natpis) => (oznaka === natpis ? [] : [{
+    natpis: p.karta!.mjesta[natpis]!.naziv,
+    stavljeno: oznaka === null ? null : p.karta!.mjesta[oznaka]!.naziv
+  }]))
+})
 </script>
 
 <template>
@@ -27,11 +38,21 @@ const tocno = computed(() => props.odgovor === props.pitanje.tocan)
     <SlikaPitanja v-if="pitanje.slika" :slika="pitanje.slika" />
     <PrikazPodataka v-if="pitanje.podaci" :podaci="pitanje.podaci" />
 
-    <dl class="space-y-1 text-base">
+    <template v-if="pitanje.karta">
+      <KartaZadatak :zadatak="pitanje.karta" :raspored="Array.isArray(odgovor) ? odgovor : null" nacin="rjesenje" />
+      <ul v-if="pogresnoNaKarti.length" class="space-y-1 text-base">
+        <li v-for="g in pogresnoNaKarti" :key="g.natpis">
+          <span class="text-slate-600">Natpis</span> <span class="font-bold text-red-800">{{ g.natpis }}</span>
+          <span class="text-slate-600">{{ g.stavljeno ? `stavljen je na mjesto gdje je ${g.stavljeno}.` : 'nije stavljen na kartu.' }}</span>
+        </li>
+      </ul>
+    </template>
+
+    <dl v-else class="space-y-1 text-base">
       <div v-if="!tocno" class="flex flex-wrap gap-x-2">
         <dt class="text-slate-600">Tvoj odgovor:</dt>
-        <dd class="font-bold text-red-800" :class="{ italic: odgovor === null }">
-          {{ odgovor === null ? 'bez odgovora' : pitanje.ponudeni[odgovor] }}
+        <dd class="font-bold text-red-800" :class="{ italic: typeof odgovor !== 'number' }">
+          {{ typeof odgovor === 'number' ? pitanje.ponudeni[odgovor] : 'bez odgovora' }}
         </dd>
       </div>
       <div class="flex flex-wrap gap-x-2">

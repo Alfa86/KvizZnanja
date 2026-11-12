@@ -2,6 +2,7 @@ import type { Pitanje } from '../types'
 import { TEZINE } from './konstante'
 import { jeDatoteka, provjeriCrtez } from './crtez'
 import { provjeriPodatke } from './podaci'
+import { provjeriKartu } from './karta'
 
 const ZABRANJENI_ODGOVORI = /^(sve navedeno|ništa od navedenog|i a i b)\.?$/i
 
@@ -19,6 +20,15 @@ export function provjeriPitanje(p: Pitanje): string[] {
   if (!TEZINE.some(t => t.id === p.tezina)) greske.push(`Nepoznata težina "${p.tezina}"`)
   if (!p.pitanje?.trim()) greske.push('Nedostaje tekst pitanja')
   if (!p.objasnjenje?.trim()) greske.push('Nedostaje objašnjenje')
+
+  if (p.karta) {
+    if (p.ponudeni !== undefined || p.tocan !== undefined) greske.push('Pitanje s kartom nema ponuđene odgovore ni polje tocan')
+    if (p.slika !== undefined || p.podaci !== undefined) greske.push('Pitanje s kartom ne može imati sliku ni podatke')
+    greske.push(...provjeriKartu(p.karta).map(g => `Karta: ${g}`))
+    const nazivi = p.karta.mjesta?.map(m => m.naziv).filter(n => typeof n === 'string') ?? []
+    if (p.savjet && nazivi.some(n => sadrziCijeliIzraz(p.savjet!, n))) greske.push('Savjet sadrži naziv mjesta s karte')
+    return [...greske, ...provjeriPravopis([p.pitanje, ...nazivi, p.objasnjenje, p.savjet ?? ''])]
+  }
 
   if (!Array.isArray(p.ponudeni) || p.ponudeni.length !== 4) {
     greske.push('Pitanje mora imati točno 4 ponuđena odgovora')
@@ -49,5 +59,15 @@ export function provjeriPitanje(p: Pitanje): string[] {
 
   if (p.podaci) greske.push(...provjeriPodatke(p.podaci).map(g => `Podaci: ${g}`))
 
+  return [...greske, ...provjeriPravopis([p.pitanje, ...(p.ponudeni ?? []), p.objasnjenje, p.savjet ?? ''])]
+}
+
+// Pravopis brojeva i navodnika: 4567 i 12 345, „tekst“
+function provjeriPravopis(sviTekstovi: unknown[]): string[] {
+  const greske: string[] = []
+  const tekstovi = sviTekstovi.filter((t): t is string => typeof t === 'string')
+  if (tekstovi.some(t => /„[^“”]*”/.test(t))) greske.push('Zatvoreni navodnik piše se “ („tekst“), ne ”')
+  if (tekstovi.some(t => /(?<![\d\p{L}])\d \d{3}(?![\d ])/u.test(t))) greske.push('Četveroznamenkasti broj piše se bez razmaka (1400)')
+  if (tekstovi.some(t => /(?<![\d\p{L}.,])\d{5,}(?!\d)/u.test(t))) greske.push('Broj s pet i više znamenaka piše se s razmakom (12 345)')
   return greske
 }

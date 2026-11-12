@@ -34,6 +34,8 @@ export function prebrojiPoTezini(datoteka: DatotekaLekcije | null): Record<Tezin
 }
 
 export function promijesajOdgovore(pitanje: Pitanje, slucajno: () => number): Pitanje {
+  // Na karti se miješaju mjesta, a time i redoslijed natpisa koje učenik povlači
+  if (pitanje.karta) return { ...pitanje, karta: { ...pitanje.karta, mjesta: promijesaj(pitanje.karta.mjesta, slucajno) } }
   const redoslijed = promijesaj(pitanje.ponudeni.map((_, i) => i), slucajno)
   return {
     ...pitanje,
@@ -57,6 +59,14 @@ export function odaberiPitanja(
   const nevidjena = promijesani.map(b => b.pitanja.filter(p => !b.vidjena.has(p.id)))
   const vec = promijesani.map(b => b.pitanja.filter(p => b.vidjena.has(p.id)))
   const odabrana: Pitanje[] = []
+  // Pitanja s kartom su rijetka, pa svaki kviz dobiva jedno ako postoji neviđeno
+  for (const bazen of nevidjena) {
+    const i = bazen.findIndex(p => p.karta)
+    if (i >= 0 && broj > 0) {
+      odabrana.push(bazen.splice(i, 1)[0]!)
+      break
+    }
+  }
   for (const bazeni of [nevidjena, vec]) {
     for (let i = 0; odabrana.length < broj && bazeni.some(b => b.length); i++) {
       const pitanje = bazeni[i % bazeni.length]!.shift()

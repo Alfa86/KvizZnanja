@@ -50,7 +50,13 @@ function provjeriTipove(p: Pitanje): string[] {
   for (const polje of ['id', 'pitanje', 'objasnjenje'] as const) {
     if (typeof p[polje] !== 'string') greske.push(`Polje ${polje} mora biti tekst`)
   }
-  if (!Array.isArray(p.ponudeni) || p.ponudeni.some(o => typeof o !== 'string')) greske.push('Ponuđeni odgovori moraju biti tekstovi')
+  if (p.karta !== undefined) {
+    if (!p.karta || typeof p.karta !== 'object' || !Array.isArray(p.karta.mjesta)) greske.push('Karta mora imati popis mjesta')
+    else if (p.karta.mjesta.some(m => !m || typeof m.naziv !== 'string' || !Array.isArray(m.polozaj) || m.polozaj.some(n => typeof n !== 'number'))) {
+      greske.push('Svako mjesto na karti mora imati naziv i položaj [dužina, širina]')
+    }
+  }
+  else if (!Array.isArray(p.ponudeni) || p.ponudeni.some(o => typeof o !== 'string')) greske.push('Ponuđeni odgovori moraju biti tekstovi')
   if (p.savjet !== undefined && typeof p.savjet !== 'string') greske.push('Savjet mora biti tekst')
   if (p.skriveno !== undefined && typeof p.skriveno !== 'boolean') greske.push('Polje skriveno mora biti true ili false')
   return greske
@@ -114,14 +120,14 @@ export function provjeriSadrzaj(razredi: Razred[], datoteke: UcitanaDatoteka[]):
       else sviIdevi.set(p.id, d.put)
 
       // Isti tekst uz različit crtež je drugo pitanje (npr. „Koliko iznosi kut γ?“)
-      const kljuc = normaliziraj(p.pitanje) + (p.slika ? JSON.stringify(p.slika) : '')
+      const kljuc = normaliziraj(p.pitanje) + (p.slika ? JSON.stringify(p.slika) : '') + (p.karta ? JSON.stringify(p.karta) : '')
       const isti = tekstovi.get(kljuc)
       if (isti) greske.push(`${oznaka}: isto pitanje kao ${isti}`)
       else tekstovi.set(kljuc, p.id)
 
       if (p.pitanje.length > granice.pitanje) upozorenja.push(`${oznaka}: pitanje ima ${p.pitanje.length} znakova (preporuka do ${granice.pitanje})`)
-      const najduzi = Math.max(...p.ponudeni.map(o => o.length))
-      if (najduzi > granice.odgovor) upozorenja.push(`${oznaka}: odgovor ima ${najduzi} znakova (preporuka do ${granice.odgovor})`)
+      const najduzi = Math.max(...(p.ponudeni ?? []).map(o => o.length))
+      if (p.ponudeni && najduzi > granice.odgovor) upozorenja.push(`${oznaka}: odgovor ima ${najduzi} znakova (preporuka do ${granice.odgovor})`)
       if (p.savjet && p.savjet.length > granice.savjet) upozorenja.push(`${oznaka}: savjet ima ${p.savjet.length} znakova (preporuka do ${granice.savjet})`)
 
       if (p.skriveno) continue

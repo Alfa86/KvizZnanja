@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
-import type { DatotekaLekcije, Pitanje, PostavkeKviza } from '~/types'
+import type { DatotekaLekcije, Odgovor, Pitanje, PostavkeKviza } from '~/types'
+import { jeOdgovorPotpun, jeOdgovorTocan } from '~/utils/karta'
 import { izracunajOcjenu, type Ocjena } from '~/composables/useOcjena'
 import { aktivnaPitanja, odaberiPitanja, ucitajLekciju } from '~/composables/useOdabirPitanja'
 import { kljucPostavki } from '~/utils/postavkeKviza'
@@ -8,7 +9,7 @@ import { dodajVidjeno, procitajVidjena, zapisiVidjena } from '~/utils/vidjenaPit
 interface SpremljenoStanje {
   // Odabrana pitanja se spremaju jer odabir ovisi i o viđenim pitanjima, koja se tijekom kviza mijenjaju
   pitanja?: Pitanje[]
-  odgovori: (number | null)[]
+  odgovori: (Odgovor | null)[]
   koristenSavjet: boolean[]
   trenutnoPitanje: number
   zavrseno: boolean
@@ -43,7 +44,7 @@ export const useKvizStore = defineStore('kviz', {
     pitanja: [] as Pitanje[],
     // Id-evi aktivnih pitanja odabrane težine po lekciji, za bilježenje viđenih pitanja
     aktivniPoLekciji: {} as Record<string, string[]>,
-    odgovori: [] as (number | null)[],
+    odgovori: [] as (Odgovor | null)[],
     koristenSavjet: [] as boolean[],
     trenutnoPitanje: 0,
     zavrseno: false
@@ -51,10 +52,10 @@ export const useKvizStore = defineStore('kviz', {
 
   getters: {
     kljuc: (s): string | null => (s.postavke ? kljucPostavki(s.postavke) : null),
-    brojTocnih: s => s.pitanja.reduce((n, p, i) => n + (s.odgovori[i] === p.tocan ? 1 : 0), 0),
+    brojTocnih: s => s.pitanja.reduce((n, p, i) => n + (jeOdgovorTocan(p, s.odgovori[i]) ? 1 : 0), 0),
     brojSavjeta: s => s.koristenSavjet.filter(Boolean).length,
-    brojOdgovorenih: s => s.odgovori.filter(o => o !== null).length,
-    jeOdgovoreno: s => (indeks: number) => s.odgovori[indeks] != null,
+    brojOdgovorenih: s => s.odgovori.filter(o => jeOdgovorPotpun(o)).length,
+    jeOdgovoreno: s => (indeks: number) => jeOdgovorPotpun(s.odgovori[indeks]),
     postotak(): number {
       return this.pitanja.length ? (this.brojTocnih / this.pitanja.length) * 100 : 0
     },
@@ -106,7 +107,8 @@ export const useKvizStore = defineStore('kviz', {
       })
     },
 
-    odaberiOdgovor(indeks: number) {
+    // Indeks odabranog odgovora ili, za kartu, trenutni raspored natpisa
+    odaberiOdgovor(indeks: Odgovor) {
       if (this.zavrseno) return
       if (this.odgovori[this.trenutnoPitanje] === null) this.zabiljeziVidjeno(this.pitanja[this.trenutnoPitanje]!.id)
       this.odgovori[this.trenutnoPitanje] = indeks
