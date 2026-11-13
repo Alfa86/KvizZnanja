@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "disanje-krvotok-i-izlucivanje",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-001",
+      "tezina": "lagano",
+      "pitanje": "Koji plin iz zraka udišemo jer je tijelu potreban za život?",
+      "ponudeni": [
+        "Ugljikov dioksid",
+        "Kisik",
+        "Vodena para",
+        "Dim iz dimnjaka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Udisajem u tijelo unosimo kisik. Bez kisika tijelo ne može živjeti.",
+      "savjet": "Sjeti se plina koji proizvode biljke, a mi ga trebamo za disanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-002",
+      "tezina": "lagano",
+      "pitanje": "Što izdisajem izbacujemo iz tijela kao otpadnu tvar?",
+      "ponudeni": [
+        "Kisik",
+        "Hranjive tvari",
+        "Ugljikov dioksid",
+        "Mokraću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izdisajem iz tijela izbacujemo ugljikov dioksid, plin koji tijelu ne treba.",
+      "savjet": "Sjeti se koji plin udišemo, a koji iz tijela izlazi kad izdahnemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-003",
+      "tezina": "lagano",
+      "pitanje": "Koji su glavni organi sustava organa za disanje?",
+      "ponudeni": [
+        "Pluća",
+        "Bubrezi",
+        "Želudac",
+        "Srce"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pluća su glavni organi za disanje. U njima kisik iz zraka prelazi u krv.",
+      "savjet": "Sjeti se organa koji se napuni zrakom kad duboko udahneš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-004",
+      "tezina": "lagano",
+      "pitanje": "Kroz koji je organ najbolje udisati zrak?",
+      "ponudeni": [
+        "Kroz uho",
+        "Kroz usta",
+        "Kroz nos",
+        "Kroz kožu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najbolje je disati na nos jer se zrak u nosu pročisti, zagrije i ovlaži.",
+      "savjet": "Sjeti se organa u kojem su dlačice i sluz koji čiste zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove cijev kojom zrak iz grla putuje prema plućima?",
+      "ponudeni": [
+        "Jednjak",
+        "Krvna žila",
+        "Dušnik",
+        "Mokraćni mjehur"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dušnik je cijev kojom zrak putuje prema plućima. Jednjakom putuje hrana.",
+      "savjet": "Sjeti se cijevi u vratu koja vodi zrak, a ne hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-006",
+      "tezina": "lagano",
+      "pitanje": "Gdje se u tijelu nalaze pluća?",
+      "ponudeni": [
+        "U prsnom košu",
+        "U trbuhu, ispod želuca",
+        "U glavi",
+        "U zdjelici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pluća se nalaze u prsnom košu, koji ih štiti rebrima.",
+      "savjet": "Stavi ruke na prsa i duboko udahni. Što se tada podiže?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-007",
+      "tezina": "lagano",
+      "pitanje": "Koji organ pumpa krv kroz cijelo tijelo?",
+      "ponudeni": [
+        "Pluća",
+        "Bubreg",
+        "Želudac",
+        "Srce"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srce je mišić koji neprestano pumpa krv kroz krvne žile do svih dijelova tijela.",
+      "savjet": "Sjeti se organa koji osjetiš kako kuca u prsima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-008",
+      "tezina": "lagano",
+      "pitanje": "Od čega je uglavnom građeno srce?",
+      "ponudeni": [
+        "Od kosti",
+        "Od mišića",
+        "Od hrskavice",
+        "Od kože"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Srce je šuplji mišić. Stezanjem potiskuje krv u krvne žile.",
+      "savjet": "Sjeti se što se u tijelu može stezati i opuštati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-009",
+      "tezina": "lagano",
+      "pitanje": "Čime krv putuje kroz tijelo?",
+      "ponudeni": [
+        "Krvnim žilama",
+        "Živcima",
+        "Dušnikom",
+        "Jednjakom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krv putuje krvnim žilama, koje prolaze cijelim tijelom.",
+      "savjet": "Sjeti se cjevčica koje vidiš kao plavkaste crte na zapešću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-010",
+      "tezina": "lagano",
+      "pitanje": "Gdje se nalazi srce?",
+      "ponudeni": [
+        "U trbuhu",
+        "U glavi",
+        "U prsnom košu, između pluća",
+        "U leđima, uz bubrege"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srce se nalazi u prsnom košu, između pluća, malo ulijevo.",
+      "savjet": "Sjeti se gdje staviš ruku kad želiš osjetiti otkucaje srca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-011",
+      "tezina": "lagano",
+      "pitanje": "Što krv raznosi po tijelu?",
+      "ponudeni": [
+        "Mokraću i znoj",
+        "Kisik i hranjive tvari",
+        "Sluz i slinu",
+        "Kosti i hrskavicu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krv svim dijelovima tijela donosi kisik i hranjive tvari, a odnosi otpadne tvari.",
+      "savjet": "Sjeti se što tijelo dobiva disanjem i što dobiva iz hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-012",
+      "tezina": "lagano",
+      "pitanje": "Koji organi pročišćavaju krv i stvaraju mokraću?",
+      "ponudeni": [
+        "Pluća",
+        "Srce",
+        "Želudac",
+        "Bubrezi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bubrezi iz krvi izdvajaju otpadne tvari i višak vode. Tako nastaje mokraća.",
+      "savjet": "Sjeti se dvaju organa u obliku graha koji se nalaze u donjem dijelu leđa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-013",
+      "tezina": "lagano",
+      "pitanje": "Gdje se skuplja mokraća prije nego što izađe iz tijela?",
+      "ponudeni": [
+        "U bubrezima",
+        "U želucu",
+        "U crijevima",
+        "U mokraćnom mjehuru"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mokraća nastaje u bubrezima, a zatim se skuplja u mokraćnom mjehuru dok ne odemo na zahod.",
+      "savjet": "Sjeti se organa koji je poput vrećice i polako se puni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-014",
+      "tezina": "lagano",
+      "pitanje": "Kroz koji organ tijelo izlučuje znoj?",
+      "ponudeni": [
+        "Kroz kožu",
+        "Kroz pluća",
+        "Kroz srce",
+        "Kroz bubrege"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znoj izlazi kroz sitne otvore na koži. Sa znojem iz tijela izlazi voda i nešto otpadnih tvari.",
+      "savjet": "Sjeti se gdje vidiš kapljice kad ti je vruće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-015",
+      "tezina": "lagano",
+      "pitanje": "Koliko bubrega ima čovjek?",
+      "ponudeni": [
+        "Jedan",
+        "Tri",
+        "Dva",
+        "Četiri"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čovjek ima dva bubrega, lijevi i desni, u donjem dijelu leđa.",
+      "savjet": "Bubrezi se nalaze s obje strane kralježnice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-016",
+      "tezina": "lagano",
+      "pitanje": "Kojim sustavom organa tijelo uzima kisik iz zraka?",
+      "ponudeni": [
+        "Sustavom organa za probavu",
+        "Sustavom organa za disanje",
+        "Sustavom organa za izlučivanje",
+        "Sustavom organa za kretanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sustav organa za disanje uzima kisik iz zraka i izbacuje ugljikov dioksid.",
+      "savjet": "Sjeti se što radiš kad udišeš i izdišeš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-017",
+      "tezina": "lagano",
+      "pitanje": "Kojem sustavu organa pripadaju bubrezi i mokraćni mjehur?",
+      "ponudeni": [
+        "Sustavu organa za disanje",
+        "Sustavu organa za krvotok",
+        "Sustavu organa za probavu",
+        "Sustavu organa za izlučivanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bubrezi i mokraćni mjehur pripadaju sustavu organa za izlučivanje, koji iz tijela izbacuje otpadne tvari.",
+      "savjet": "Sjeti se što bubrezi izdvajaju iz krvi i izbacuju iz tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-018",
+      "tezina": "lagano",
+      "pitanje": "Kojem sustavu organa pripadaju srce i krvne žile?",
+      "ponudeni": [
+        "Sustavu organa za disanje",
+        "Sustavu organa za izlučivanje",
+        "Sustavu organa za krvotok",
+        "Sustavu organa za probavu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srce, krvne žile i krv čine sustav organa za krvotok.",
+      "savjet": "Sjeti se što srce pokreće kroz krvne žile."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-019",
+      "tezina": "lagano",
+      "pitanje": "Gdje na tijelu možemo lako opipati bilo?",
+      "ponudeni": [
+        "Na zapešću",
+        "Na laktu",
+        "Na koljenu",
+        "Na tjemenu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bilo lako opipamo na zapešću, ispod palca, gdje je krvna žila blizu kože.",
+      "savjet": "Sjeti se gdje se nosi sat."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-020",
+      "tezina": "lagano",
+      "pitanje": "Što osjećamo kad opipamo bilo?",
+      "ponudeni": [
+        "Rad pluća",
+        "Osjećaj gladi",
+        "Rad bubrega",
+        "Otkucaje srca u krvnoj žili"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bilo (puls) su otkucaji srca koje osjećamo u krvnoj žili blizu kože.",
+      "savjet": "Sjeti se koji organ kuca i šalje krv kroz žile."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-021",
+      "tezina": "lagano",
+      "pitanje": "Što se događa s prsnim košem kad duboko udahnemo?",
+      "ponudeni": [
+        "Proširi se",
+        "Smanji se",
+        "Ostane posve isti",
+        "Spusti se u trbuh"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad udahnemo, pluća se pune zrakom i prsni koš se proširi.",
+      "savjet": "Stavi ruke na prsa i duboko udahni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-022",
+      "tezina": "lagano",
+      "pitanje": "Što je štetno za pluća?",
+      "ponudeni": [
+        "Šetnja u parku",
+        "Udisanje duhanskog dima",
+        "Disanje na nos",
+        "Plivanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Duhanski dim onečišćuje i oštećuje pluća. Štetan je i onima koji ga samo udišu u blizini pušača.",
+      "savjet": "Razmisli što od navedenog unosi štetne tvari u pluća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-023",
+      "tezina": "lagano",
+      "pitanje": "Što pomaže bubrezima da dobro rade?",
+      "ponudeni": [
+        "Jesti mnogo slatkiša",
+        "Piti vrlo malo tekućine",
+        "Piti dovoljno vode",
+        "Piti mnogo gaziranih sokova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dovoljno vode pomaže bubrezima da iz krvi isperu otpadne tvari.",
+      "savjet": "Sjeti se koje je piće najzdravije za tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-024",
+      "tezina": "lagano",
+      "pitanje": "Što bubrezi izdvajaju iz krvi?",
+      "ponudeni": [
+        "Kisik",
+        "Hranjive tvari",
+        "Zrak",
+        "Otpadne tvari i višak vode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bubrezi izdvajaju otpadne tvari i višak vode iz krvi i od njih stvaraju mokraću.",
+      "savjet": "Sjeti se što tijelo izbacuje mokraćom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-025",
+      "tezina": "lagano",
+      "pitanje": "Kojim dijelom iza nosa i usta prolaze i zrak i hrana?",
+      "ponudeni": [
+        "Ždrijelom",
+        "Dušnikom",
+        "Jednjakom",
+        "Plućima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ždrijelo je zajednički put za zrak i hranu. Iz njega zrak ide u grkljan i dušnik, a hrana u jednjak.",
+      "savjet": "Sjeti se dijela grla koji se nalazi odmah iza usne šupljine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-026",
+      "tezina": "lagano",
+      "pitanje": "U kojem se dijelu dišnih organa nalaze glasnice?",
+      "ponudeni": [
+        "U plućima",
+        "U nosu",
+        "U grkljanu",
+        "U dušnicama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glasnice se nalaze u grkljanu. Kad zrak prolazi kroz njih, nastaje glas.",
+      "savjet": "Stavi prste na vrat dok govoriš i osjeti gdje titra."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-027",
+      "tezina": "lagano",
+      "pitanje": "Kako srce kuca dok trčiš?",
+      "ponudeni": [
+        "Sporije nego u mirovanju",
+        "Brže nego u mirovanju",
+        "Uopće ne kuca",
+        "Jednako kao u snu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dok trčimo, srce kuca brže kako bi mišićima donijelo više kisika.",
+      "savjet": "Sjeti se kako osjećaš srce nakon igre lovice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-028",
+      "tezina": "lagano",
+      "pitanje": "Što redovita tjelovježba čini srcu?",
+      "ponudeni": [
+        "Slabi ga",
+        "Smanjuje ga",
+        "Zaustavlja ga",
+        "Jača ga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srce je mišić, a mišići redovitim vježbanjem postaju jači.",
+      "savjet": "Sjeti se što se događa s mišićima kad redovito vježbaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-029",
+      "tezina": "lagano",
+      "pitanje": "Kakav je zrak najbolji za disanje?",
+      "ponudeni": [
+        "Zrak pun dima",
+        "Zrak pun prašine",
+        "Zrak uz prometnu cestu",
+        "Čist, svjež zrak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za zdravlje pluća najbolji je čist i svjež zrak, na primjer u prirodi ili u prozračenoj sobi.",
+      "savjet": "Sjeti se gdje se najugodnije diše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-030",
+      "tezina": "lagano",
+      "pitanje": "Na što se dijeli dušnik prije ulaska u pluća?",
+      "ponudeni": [
+        "Na dvije dušnice",
+        "Na dva jednjaka",
+        "Na dva bubrega",
+        "Na dva grkljana"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dušnik se dijeli na dvije dušnice: jedna vodi zrak u lijevo, a druga u desno plućno krilo.",
+      "savjet": "Ime tih cijevi slično je imenu dušnika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto je bolje disati na nos nego na usta?",
+      "ponudeni": [
+        "Nos zrak zagrijava, vlaži i čisti",
+        "Kroz nos ulazi više ugljikova dioksida",
+        "Nos stvara kisik",
+        "Kroz usta zrak ne može doći do pluća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U nosu se zrak zagrije, ovlaži i pročisti pa u pluća stiže bolji zrak.",
+      "savjet": "Sjeti se čemu služe dlačice i sluz u nosu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-032",
+      "tezina": "srednje",
+      "pitanje": "Čemu služe dlačice i sluz u nosu?",
+      "ponudeni": [
+        "Stvaraju kisik",
+        "Pumpaju zrak u pluća",
+        "Zadržavaju prašinu i nečistoće iz zraka",
+        "Hlade krv"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dlačice i sluz u nosu zadržavaju prašinu i klice pa u pluća dolazi čišći zrak.",
+      "savjet": "Zamisli da su dlačice u nosu poput malog filtra."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-033",
+      "tezina": "srednje",
+      "pitanje": "Kojim redom zrak putuje kad udahneš kroz nos?",
+      "ponudeni": [
+        "nos → grkljan → ždrijelo → pluća → dušnik",
+        "nos → dušnik → ždrijelo → grkljan → pluća",
+        "usta → jednjak → dušnik → pluća",
+        "nos → ždrijelo → grkljan → dušnik → pluća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zrak ide iz nosa u ždrijelo, zatim u grkljan, pa dušnikom i dušnicama u pluća.",
+      "savjet": "Pluća su na kraju puta, a grkljan je u vratu iznad dušnika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-034",
+      "tezina": "srednje",
+      "pitanje": "Što se u plućima događa s kisikom iz udahnutog zraka?",
+      "ponudeni": [
+        "Odlazi u želudac",
+        "Prelazi u krv",
+        "Pretvara se u mokraću",
+        "Zauvijek ostaje u plućima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U plućima kisik prelazi u krv, a krv ga zatim raznosi po cijelom tijelu.",
+      "savjet": "Sjeti se što raznosi kisik do svih dijelova tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-035",
+      "tezina": "srednje",
+      "pitanje": "Odakle dolazi ugljikov dioksid koji izdišemo?",
+      "ponudeni": [
+        "Iz hrane u želucu",
+        "Iz mokraćnog mjehura",
+        "Iz kostiju",
+        "Iz krvi, koja ga donosi iz cijelog tijela"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ugljikov dioksid nastaje u dijelovima tijela, krv ga donosi u pluća, a mi ga izdišemo.",
+      "savjet": "Sjeti se što krv odnosi iz dijelova tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto srce mora raditi i danju i noću?",
+      "ponudeni": [
+        "Da bi pluća mogla rasti",
+        "Da bi bubrezi stvarali znoj",
+        "Da bi krv stalno nosila kisik svim dijelovima tijela",
+        "Da bi se hrana brže probavila"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svim dijelovima tijela kisik i hranjive tvari trebaju neprestano, pa srce radi i dok spavamo.",
+      "savjet": "Razmisli treba li tijelu kisik i dok spavaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-037",
+      "tezina": "srednje",
+      "pitanje": "Što krv odnosi iz mišića nakon što im preda kisik?",
+      "ponudeni": [
+        "Još više kisika",
+        "Ugljikov dioksid i druge otpadne tvari",
+        "Mokraću iz mjehura",
+        "Zrak iz dušnika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krv iz mišića odnosi ugljikov dioksid i druge otpadne tvari koje nastaju dok mišići rade.",
+      "savjet": "Krv donosi korisno, a odnosi ono što tijelu ne treba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-038",
+      "tezina": "srednje",
+      "pitanje": "Koji je par organa i njegove uloge točan?",
+      "ponudeni": [
+        "Bubrezi – pumpaju krv",
+        "Srce – stvara mokraću",
+        "Pluća – primaju kisik iz zraka u krv",
+        "Mokraćni mjehur – pročišćava zrak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pluća primaju kisik iz zraka u krv. Srce pumpa krv, a bubrezi stvaraju mokraću.",
+      "savjet": "Za svaki organ sjeti se sustava kojemu pripada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-039",
+      "tezina": "srednje",
+      "pitanje": "Koja je zadaća mokraćnog mjehura?",
+      "ponudeni": [
+        "Stvara mokraću iz krvi",
+        "Skuplja mokraću dok ne izađe iz tijela",
+        "Pumpa krv prema bubrezima",
+        "Pročišćava zrak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mokraću stvaraju bubrezi, a mokraćni mjehur je skuplja dok je ne izbacimo iz tijela.",
+      "savjet": "Razlikuj organ koji mokraću stvara od organa koji je čuva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-040",
+      "tezina": "srednje",
+      "pitanje": "Kako mokraća iz bubrega dolazi u mokraćni mjehur?",
+      "ponudeni": [
+        "Kroz dušnik",
+        "Kroz jednjak",
+        "Kroz krvne žile",
+        "Kroz mokraćovode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mokraća iz bubrega teče tankim cijevima, mokraćovodima, u mokraćni mjehur.",
+      "savjet": "Naziv tih cijevi govori što one vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-041",
+      "tezina": "srednje",
+      "pitanje": "Zašto se više znojimo kad je vruće?",
+      "ponudeni": [
+        "Znoj grije tijelo",
+        "Znoj hladi tijelo",
+        "Znojem tijelo uzima vodu iz zraka",
+        "Znoj čisti pluća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad znoj na koži isparava, tijelo se hladi. Zato se znojimo kad nam je vruće.",
+      "savjet": "Sjeti se kako se osjećaš kad mokru kožu zapuše vjetar."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-042",
+      "tezina": "srednje",
+      "pitanje": "Lucija se na treningu jako oznojila. Što tijelo sad treba nadoknaditi?",
+      "ponudeni": [
+        "Vodu koju je izgubila znojem",
+        "Ugljikov dioksid koji je izdahnula",
+        "Sluz iz nosa",
+        "Otpadne tvari iz krvi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znojenjem tijelo gubi vodu, pa nakon treninga treba popiti vode.",
+      "savjet": "Sjeti se od čega je znoj najvećim dijelom sastavljen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-043",
+      "tezina": "srednje",
+      "pitanje": "Zašto nakon trčanja brže dišemo?",
+      "ponudeni": [
+        "Želucu treba više zraka za probavu",
+        "Bubrezi stvaraju više mokraće",
+        "Mišićima tijekom rada treba više kisika",
+        "Srce miruje pa pluća rade umjesto njega"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mišići koji rade trebaju više kisika, pa brže dišemo da bismo ga više unijeli.",
+      "savjet": "Razmisli kojim dijelovima tijela dok trčiš treba najviše kisika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto dok trčimo srce kuca brže?",
+      "ponudeni": [
+        "Da bi se pluća napunila krvlju",
+        "Da bi bubrezi brže radili",
+        "Jer se srce tada odmara",
+        "Da bi krv brže donosila kisik mišićima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Brže kucanje srca brže tjera krv, pa mišići dobivaju više kisika.",
+      "savjet": "Sjeti se što krv nosi mišićima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-045",
+      "tezina": "srednje",
+      "pitanje": "Zašto je duhanski dim štetan?",
+      "ponudeni": [
+        "Jača srce",
+        "Onečišćuje pluća i otežava disanje",
+        "Čisti dišne putove",
+        "Pomaže bubrezima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Duhanski dim sadrži štetne tvari koje onečišćuju pluća i otežavaju disanje.",
+      "savjet": "Sjeti se kamo dim ulazi kad ga udahnemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-046",
+      "tezina": "srednje",
+      "pitanje": "Roditelji ne puše u kući ni u autu. Zašto je to dobro za djecu?",
+      "ponudeni": [
+        "Djeca ne udišu štetan dim",
+        "Djeca brže rastu",
+        "Djeca manje piju vodu",
+        "Djeca bolje vide"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dim cigareta štetan je i za one koji ga samo udišu, pa je dobro da se ne puši uz djecu.",
+      "savjet": "Razmisli kamo odlazi dim kad netko puši u zatvorenom prostoru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-047",
+      "tezina": "srednje",
+      "pitanje": "Kako kisik iz pluća dolazi do mišića u nozi?",
+      "ponudeni": [
+        "Kroz kosti",
+        "Kroz dušnik i jednjak",
+        "Kroz živce",
+        "Krvlju kroz krvne žile"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kisik iz pluća prelazi u krv, a srce tu krv pumpa kroz krvne žile do mišića.",
+      "savjet": "Sjeti se što povezuje pluća sa svim dijelovima tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-048",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko plućima, bubrezima i koži?",
+      "ponudeni": [
+        "Svi pumpaju krv",
+        "Svi iz tijela izbacuju neke otpadne tvari",
+        "Svi probavljaju hranu",
+        "Svi stvaraju kisik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pluća izbacuju ugljikov dioksid, bubrezi mokraću, a koža znoj.",
+      "savjet": "Sjeti se što izlazi iz tijela kroz svaki od tih organa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-049",
+      "tezina": "srednje",
+      "pitanje": "Čega u izdahnutom zraku ima više nego u udahnutom?",
+      "ponudeni": [
+        "Kisika",
+        "Prašine",
+        "Ugljikova dioksida",
+        "Peludi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tijelo uzima kisik, a u zrak izbacuje ugljikov dioksid, pa ga u izdahnutom zraku ima više.",
+      "savjet": "Sjeti se što tijelo izbacuje kad izdišemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto zimi vidiš paru kad izdahneš?",
+      "ponudeni": [
+        "Izdahnuti zrak je topao i vlažan pa se na hladnoći vidi para",
+        "Izdišemo dim",
+        "Pluća su hladna",
+        "Kisik na hladnoći postaje vidljiv"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izdahnuti zrak je topao i sadrži vodenu paru. Na hladnom zraku ona se pretvara u sitne kapljice koje vidimo.",
+      "savjet": "Sjeti se što se događa kad dahneš u hladno ogledalo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-051",
+      "tezina": "srednje",
+      "pitanje": "Odakle krv uzima hranjive tvari koje raznosi po tijelu?",
+      "ponudeni": [
+        "Iz pluća",
+        "Iz bubrega",
+        "Iz crijeva, nakon probave hrane",
+        "Iz mokraćnog mjehura"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrana se probavi, a hranjive tvari iz crijeva prelaze u krv koja ih raznosi po tijelu.",
+      "savjet": "Sjeti se kamo putuje hrana nakon želuca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-052",
+      "tezina": "srednje",
+      "pitanje": "Kamo krv nosi otpadne tvari koje se izbacuju mokraćom?",
+      "ponudeni": [
+        "U srce",
+        "U bubrege",
+        "U želudac",
+        "U mišiće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krv dolazi u bubrege, gdje se iz nje izdvajaju otpadne tvari i nastaje mokraća.",
+      "savjet": "Sjeti se organa koji stvaraju mokraću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-053",
+      "tezina": "srednje",
+      "pitanje": "Zašto bilo možemo opipati na zapešću?",
+      "ponudeni": [
+        "Ondje je srce",
+        "Ondje su pluća",
+        "Ondje se stežu mišići",
+        "Ondje je krvna žila blizu kože"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na zapešću krvna žila prolazi blizu kože pa prstima osjetimo otkucaje srca.",
+      "savjet": "Razmisli što kroz zapešće prolazi od srca prema šaci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-054",
+      "tezina": "srednje",
+      "pitanje": "Što srce čini kad se stegne?",
+      "ponudeni": [
+        "Potiskuje krv u krvne žile",
+        "Uvlači zrak u pluća",
+        "Stvara mokraću",
+        "Probavlja hranu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad se srce stegne, potisne krv u krvne žile. Tako krv putuje cijelim tijelom.",
+      "savjet": "Zamisli što se dogodi kad stisneš punu bocu s vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-055",
+      "tezina": "srednje",
+      "pitanje": "Koja je razlika između jednjaka i dušnika?",
+      "ponudeni": [
+        "Jednjakom ide zrak, a dušnikom hrana",
+        "Jednjakom ide hrana, a dušnikom zrak",
+        "Oba vode u pluća",
+        "Oba vode u želudac"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jednjak vodi hranu u želudac, a dušnik vodi zrak prema plućima.",
+      "savjet": "Sjeti se kojem sustavu organa pripada dušnik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-056",
+      "tezina": "srednje",
+      "pitanje": "Zašto se ne treba smijati ni govoriti dok gutamo hranu?",
+      "ponudeni": [
+        "Hrana može zalutati u dušnik pa se zagrcnemo",
+        "Hrana se tada ne može probaviti",
+        "Tada srce prestane kucati",
+        "Tada bubrezi prestanu raditi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zrak i hrana prolaze ždrijelom. Ako govorimo dok gutamo, hrana može krenuti u dušnik pa se zagrcnemo.",
+      "savjet": "Sjeti se dijela grla kojim prolaze i zrak i hrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-057",
+      "tezina": "srednje",
+      "pitanje": "Koja dva sustava organa zajedno dopremaju kisik do mozga?",
+      "ponudeni": [
+        "Sustav za izlučivanje i sustav za probavu",
+        "Sustav za kretanje i sustav za probavu",
+        "Sustav za disanje i sustav za krvotok",
+        "Sustav za izlučivanje i sustav za kretanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Organi za disanje unose kisik u krv, a sustav za krvotok krvlju ga nosi do mozga.",
+      "savjet": "Jedan sustav unosi kisik u tijelo, a drugi ga raznosi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-058",
+      "tezina": "srednje",
+      "pitanje": "Kakva je krv kad izlazi iz bubrega?",
+      "ponudeni": [
+        "Puna mokraće",
+        "Bez ikakve vode",
+        "Puna dima",
+        "Očišćena od otpadnih tvari"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bubrezi iz krvi izdvajaju otpadne tvari, pa krv iz njih izlazi pročišćena.",
+      "savjet": "Sjeti se zašto kažemo da su bubrezi pročistači krvi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-059",
+      "tezina": "srednje",
+      "pitanje": "Zašto je zrak u šumi zdraviji od zraka uz prometnu cestu?",
+      "ponudeni": [
+        "U njemu ima više ispušnih plinova",
+        "Biljke ondje stvaraju kisik, a zrak je čišći",
+        "U njemu ima više dima",
+        "U šumi se ne može disati na nos"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljke stvaraju kisik i zadržavaju prašinu, a u šumi nema ispušnih plinova iz automobila.",
+      "savjet": "Sjeti se što biljke daju zraku i što ispuštaju automobili."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-060",
+      "tezina": "srednje",
+      "pitanje": "Što osjetiš ako nakon trčanja staviš ruku na lijevu stranu prsnog koša?",
+      "ponudeni": [
+        "Snažne i brze otkucaje srca",
+        "Kako se pune bubrezi",
+        "Kako se puni mokraćni mjehur",
+        "Kako hrana prolazi jednjakom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srce je u prsnom košu, malo ulijevo. Nakon trčanja kuca brže i snažnije pa ga lako osjetimo.",
+      "savjet": "Sjeti se koji organ leži u prsnom košu, malo ulijevo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-061",
+      "tezina": "tesko",
+      "pitanje": "Ana je trčala, a zatim opipala bilo na zapešću. Što će primijetiti u odnosu na mirovanje?",
+      "ponudeni": [
+        "Bilo je sporije jer se srce umorilo",
+        "Bilo se uopće ne osjeća",
+        "Bilo je brže jer srce brže kuca",
+        "Bilo je jednako jer srce kuca jednako cijeli dan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bilo su otkucaji srca. Nakon trčanja srce kuca brže pa je i bilo brže.",
+      "savjet": "Poveži bilo s radom srca dok se krećemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-062",
+      "tezina": "tesko",
+      "pitanje": "Zašto se nakon nekoliko minuta odmora disanje i rad srca ponovno uspore?",
+      "ponudeni": [
+        "Pluća su se napunila vodom",
+        "Mišićima više ne treba toliko kisika",
+        "Bubrezi su prestali raditi",
+        "Srce je potrošilo svu krv"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad se odmaramo, mišići rade manje i trebaju manje kisika, pa se disanje i rad srca smire.",
+      "savjet": "Razmisli zašto su se disanje i rad srca uopće ubrzali."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-063",
+      "tezina": "tesko",
+      "pitanje": "U zatvorenoj učionici zrak je zagušljiv i djeca su pospana. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Zatvoriti i vrata",
+        "Upaliti svijeću",
+        "Svi neka dišu na usta",
+        "Otvoriti prozore i prozračiti učionicu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mnogo ljudi u zatvorenom prostoru izdiše ugljikov dioksid. Prozračivanjem ulazi svjež zrak s više kisika.",
+      "savjet": "Razmisli kako u prostoriju dovesti svjež zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-064",
+      "tezina": "tesko",
+      "pitanje": "Zašto je za pluća bolje voziti bicikl u parku nego uz prometnu cestu?",
+      "ponudeni": [
+        "U parku je zrak čišći, a uz cestu su ispušni plinovi",
+        "U parku je zrak topliji",
+        "Uz cestu ima više kisika",
+        "U parku se tijelo ne znoji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pri vožnji bicikla dišemo brže i dublje, pa je važno da je zrak čist, bez ispušnih plinova.",
+      "savjet": "Razmisli što izlazi iz automobila i kamo to odlazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-065",
+      "tezina": "tesko",
+      "pitanje": "Koji je točan put kisika od zraka do mišića?",
+      "ponudeni": [
+        "nos → jednjak → želudac → krv → mišić",
+        "usta → dušnik → bubrezi → mišić",
+        "nos → dušnik → pluća → krv → mišić",
+        "nos → pluća → mokraćni mjehur → mišić"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kisik ulazi kroz nos, dušnikom stiže u pluća, prelazi u krv, a krv ga nosi do mišića.",
+      "savjet": "Spoji put zraka kroz dišne organe s putom krvi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-066",
+      "tezina": "tesko",
+      "pitanje": "Koji je točan put otpadnih tvari koje iz tijela izlaze mokraćom?",
+      "ponudeni": [
+        "krv → pluća → dušnik → van",
+        "krv → bubrezi → mokraćni mjehur → van",
+        "krv → mokraćni mjehur → bubrezi → van",
+        "krv → srce → koža → van"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bubrezi izdvajaju otpadne tvari iz krvi u mokraću, ona se skuplja u mokraćnom mjehuru i zatim izlazi van.",
+      "savjet": "Sjeti se gdje mokraća nastaje, a gdje se skuplja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-067",
+      "tezina": "tesko",
+      "pitanje": "Ivan je cijeli dan po vrućini popio vrlo malo vode. Što će vjerojatno primijetiti?",
+      "ponudeni": [
+        "Mokrit će češće nego inače",
+        "Neće se uopće znojiti",
+        "Disat će sporije nego inače",
+        "Mokrit će rjeđe, a mokraća će biti tamnija"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad tijelo ima malo vode, bubrezi je čuvaju pa ima manje mokraće i ona je tamnija. Zato treba piti dovoljno vode.",
+      "savjet": "Razmisli što bubrezi rade s vodom kad je tijelu nedostaje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-068",
+      "tezina": "tesko",
+      "pitanje": "Zašto pušenje šteti i srcu, a ne samo plućima?",
+      "ponudeni": [
+        "Štetne tvari iz dima ulaze u krv i putuju do srca",
+        "Dim iz pluća odlazi u želudac",
+        "Dim jača krvne žile",
+        "Srce se nalazi u dušniku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U plućima u krv ne prelazi samo kisik nego i štetne tvari iz dima, a krv ih nosi do srca i drugih organa.",
+      "savjet": "Sjeti se što u plućima prelazi iz zraka u krv."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-069",
+      "tezina": "tesko",
+      "pitanje": "Zašto je opasno ako komadić hrane zapne u dušniku?",
+      "ponudeni": [
+        "Hrana ne može doći do želuca",
+        "Krv ne može doći do bubrega",
+        "Zrak ne može doći do pluća",
+        "Mokraća ne može izaći iz tijela"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dušnik vodi zrak u pluća. Ako je začepljen, tijelo ne dobiva kisik, pa treba odmah pozvati odraslu osobu ili 112.",
+      "savjet": "Sjeti se što putuje dušnikom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-070",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer najbolje pokazuje da sustavi organa rade zajedno?",
+      "ponudeni": [
+        "Bubrezi rade sami, bez krvi",
+        "Pluća primaju kisik, a krv ga raznosi po tijelu",
+        "Srce radi samo dok trčimo",
+        "Pluća i srce nemaju nikakve veze"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Organi za disanje unose kisik, a sustav za krvotok ga raznosi. Jedan sustav ne bi uspio bez drugoga.",
+      "savjet": "Potraži primjer u kojem jedan organ nešto preda drugome."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-071",
+      "tezina": "tesko",
+      "pitanje": "Lei je nakon trčanja vruće. Što od navedenog pomaže njezinu tijelu da se ohladi?",
+      "ponudeni": [
+        "Ubrzano kucanje srca",
+        "Osjećaj gladi",
+        "Zatvaranje očiju",
+        "Znojenje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znoj na koži isparava i tako hladi tijelo.",
+      "savjet": "Sjeti se što se pojavi na koži kad nam je vruće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-072",
+      "tezina": "tesko",
+      "pitanje": "Kad bi bubrezi prestali raditi, što bi se nakupljalo u krvi?",
+      "ponudeni": [
+        "Kisik",
+        "Zrak iz pluća",
+        "Otpadne tvari",
+        "Sluz iz nosa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bubrezi čiste krv od otpadnih tvari. Bez njih bi se te tvari nakupljale u krvi.",
+      "savjet": "Sjeti se što bubrezi izdvajaju iz krvi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-073",
+      "tezina": "tesko",
+      "pitanje": "Petra želi da joj srce bude snažno i zdravo. Koji je plan najbolji?",
+      "ponudeni": [
+        "Svaki dan dugo igrati videoigre",
+        "Svaki dan voziti bicikl ili se igrati vani",
+        "Umjesto vode piti gazirane sokove",
+        "Svaku večer kasno ići spavati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Srce je mišić koji jača redovitim kretanjem, na primjer vožnjom bicikla ili igrom na otvorenom.",
+      "savjet": "Sjeti se kako mišić postaje jači."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-074",
+      "tezina": "tesko",
+      "pitanje": "Zašto pri kašljanju i kihanju treba prekriti usta i nos laktom?",
+      "ponudeni": [
+        "Da kapljice s klicama ne dođu do drugih ljudi",
+        "Da pluća dobiju više kisika",
+        "Da srce kuca sporije",
+        "Da nos ostane suh"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kašljanjem i kihanjem iz dišnih organa izlaze sitne kapljice s klicama. Lakat ih zaustavlja da ne zaraze druge.",
+      "savjet": "Razmisli što iz nosa i usta izleti kad kihneš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-075",
+      "tezina": "tesko",
+      "pitanje": "Nakon što popiješ mnogo vode, uskoro moraš na zahod. Zašto?",
+      "ponudeni": [
+        "Voda iz želuca ide izravno u mokraćni mjehur",
+        "Pluća pretvaraju vodu u mokraću",
+        "Srce izbacuje vodu u mjehur",
+        "Bubrezi izdvajaju višak vode iz krvi u mokraću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voda iz probavnih organa prelazi u krv. Bubrezi iz krvi izdvajaju višak vode u mokraću.",
+      "savjet": "Sjeti se kojim putem voda iz crijeva dolazi do bubrega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-076",
+      "tezina": "tesko",
+      "pitanje": "Dok spavaš, koji organi i dalje rade?",
+      "ponudeni": [
+        "Samo mišići nogu",
+        "Nijedan organ ne radi",
+        "Srce i pluća",
+        "Samo bubrezi, a srce miruje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srce i pluća rade cijelo vrijeme jer tijelu kisik treba i dok spavamo.",
+      "savjet": "Razmisli dišeš li i dok spavaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-077",
+      "tezina": "tesko",
+      "pitanje": "Kad izdahneš na dlan, osjetiš topao zrak. Zašto je izdahnuti zrak topliji od udahnutog?",
+      "ponudeni": [
+        "U plućima se ohladio",
+        "Zagrijao se u toplom tijelu",
+        "U njemu je više kisika",
+        "Prošao je kroz želudac"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Udahnuti zrak se u nosu i plućima zagrije jer je tijelo toplo, pa izlazi topliji.",
+      "savjet": "Sjeti se što se u nosu događa sa zrakom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-078",
+      "tezina": "tesko",
+      "pitanje": "Nina zbog začepljenog nosa diše na usta i grlo joj je suho. Zašto?",
+      "ponudeni": [
+        "Usta pročišćavaju zrak bolje od nosa",
+        "Kroz usta ulazi dim",
+        "Kroz usta zrak odlazi u želudac",
+        "Zrak nije zagrijan, ovlažen ni pročišćen u nosu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad dišemo na usta, zrak ne prolazi kroz nos koji ga vlaži, grije i čisti, pa suši grlo.",
+      "savjet": "Sjeti se što nos radi sa zrakom prije nego što stigne dalje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-079",
+      "tezina": "tesko",
+      "pitanje": "Luka svaki dan vozi bicikl, a Sara većinu dana sjedi. Tko će se manje zadihati pri penjanju uz stube?",
+      "ponudeni": [
+        "Luka, jer su mu srce i pluća naviknuti na napor",
+        "Sara, jer se odmorila",
+        "Oboje jednako, jer svi imaju isto srce",
+        "Sara, jer joj srce ne treba raditi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Redovito kretanje jača srce i pluća, pa se lakše podnosi napor.",
+      "savjet": "Sjeti se što redovita tjelovježba čini srcu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto krv mora prolaziti i kroz pluća i kroz bubrege?",
+      "ponudeni": [
+        "U plućima se čisti od mokraće, a u bubrezima prima kisik",
+        "U oba organa prima hranjive tvari",
+        "U plućima prima kisik, a u bubrezima se čisti od otpadnih tvari",
+        "U oba organa stvara znoj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U plućima krv prima kisik i predaje ugljikov dioksid, a u bubrezima se čisti od otpadnih tvari.",
+      "savjet": "Sjeti se zadaće pluća i zadaće bubrega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-081",
+      "tezina": "tesko",
+      "pitanje": "Dok se penješ uz brdo, kako tijelo dobiva više kisika?",
+      "ponudeni": [
+        "Dišeš sporije, a srce kuca sporije",
+        "Dišeš brže i dublje, a srce brže kuca",
+        "Na kratko prestaneš disati",
+        "Bubrezi stvaraju kisik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brže i dublje disanje unosi više kisika, a brže kucanje srca ga brže nosi mišićima.",
+      "savjet": "Poveži rad pluća i rad srca pri naporu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto je opasno igrati se stavljajući plastičnu vrećicu preko glave?",
+      "ponudeni": [
+        "Vrećica šteti bubrezima",
+        "Vrećica ubrzava probavu",
+        "Vrećica hladi srce",
+        "Zrak ne može ući u nos i usta pa tijelo ostaje bez kisika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrećica zatvara nos i usta pa svjež zrak ne može ući u pluća. Zato se vrećicama nikad ne igramo.",
+      "savjet": "Razmisli kroz što zrak ulazi u tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-083",
+      "tezina": "tesko",
+      "pitanje": "Prehlada ti je oduzela glas pa samo šapućeš. Koji je dio dišnih organa vjerojatno upaljen?",
+      "ponudeni": [
+        "Pluća",
+        "Dušnice",
+        "Grkljan",
+        "Nos"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U grkljanu su glasnice koje stvaraju glas. Kad je grkljan upaljen, glas postane promukao ili nestane.",
+      "savjet": "Sjeti se gdje nastaje glas."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-084",
+      "tezina": "tesko",
+      "pitanje": "Koji je par organa i otpadne tvari koju izbacuju točno spojen?",
+      "ponudeni": [
+        "Koža – mokraća, pluća – znoj, bubrezi – ugljikov dioksid",
+        "Koža – znoj, pluća – ugljikov dioksid, bubrezi – mokraća",
+        "Koža – ugljikov dioksid, pluća – mokraća, bubrezi – znoj",
+        "Koža – znoj, pluća – mokraća, bubrezi – ugljikov dioksid"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Koža izlučuje znoj, pluća izdišu ugljikov dioksid, a bubrezi stvaraju mokraću.",
+      "savjet": "Za svaki organ sjeti se što iz njega izlazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-085",
+      "tezina": "tesko",
+      "pitanje": "Kad se porežeš bilo gdje na tijelu, iz rane poteče krv. Što to pokazuje?",
+      "ponudeni": [
+        "Krv se nalazi samo u srcu",
+        "Krv nastaje u koži",
+        "Krv se nalazi samo u rukama",
+        "Krvne žile prolaze cijelim tijelom, i blizu kože"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krvne žile prolaze cijelim tijelom jer svaki dio tijela treba kisik i hranjive tvari.",
+      "savjet": "Razmisli koji dijelovi tijela trebaju kisik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-086",
+      "tezina": "tesko",
+      "pitanje": "Zašto se kaže da srce jača vježbanjem, kao i mišići ruku i nogu?",
+      "ponudeni": [
+        "Zato što je srce kost",
+        "Zato što je srce mišić koji radom postaje snažniji",
+        "Zato što srce raste od slatkiša",
+        "Zato što srce ne radi dok spavamo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Srce je mišić. Kao i drugi mišići, redovitim radom postaje snažnije.",
+      "savjet": "Sjeti se od čega je građeno srce."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-087",
+      "tezina": "tesko",
+      "pitanje": "Kad zadržiš dah pod vodom, zašto ubrzo moraš izroniti?",
+      "ponudeni": [
+        "Pluća se svaki put napune vodom",
+        "Srce pod vodom prestaje kucati",
+        "Tijelu treba novi kisik iz zraka",
+        "Bubrezi trebaju zrak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tijelo stalno troši kisik, pa ga moramo neprestano unositi disanjem.",
+      "savjet": "Razmisli što tijelo dobiva svakim udisajem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-088",
+      "tezina": "tesko",
+      "pitanje": "Kad bi tijelo bilo grad, a krvne žile njegove ceste, što bi bila krv?",
+      "ponudeni": [
+        "Dostavna vozila koja donose hranu i odvoze smeće",
+        "Semafori na raskrižjima",
+        "Zgrade uz cestu",
+        "Park u središtu grada"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krv putuje krvnim žilama i dijelovima tijela donosi kisik i hranjive tvari, a odvozi otpadne tvari.",
+      "savjet": "Sjeti se što krv donosi i što odnosi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-089",
+      "tezina": "tesko",
+      "pitanje": "Zašto se iz nosa izdvaja više sluzi kad smo prehlađeni?",
+      "ponudeni": [
+        "Sluz stvara kisik",
+        "Sluz hvata klice i pomaže ih izbaciti iz nosa",
+        "Sluz zagrijava srce",
+        "Sluz hrani pluća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sluz u nosu hvata prašinu i klice. Kad smo prehlađeni, nos stvara više sluzi da izbaci klice.",
+      "savjet": "Sjeti se čemu sluz u nosu služi i kad smo zdravi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-disanje-krvotok-i-izlucivanje-090",
+      "tezina": "tesko",
+      "pitanje": "Liječnica stavi slušalicu na tvoja leđa i kaže: „Duboko udahni.“ Što tada sluša?",
+      "ponudeni": [
+        "Kako bubrezi stvaraju mokraću",
+        "Kako se hrana probavlja",
+        "Kako rastu kosti",
+        "Kako zrak ulazi u pluća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad duboko udahneš, zrak ispuni pluća, a liječnica slušalicom provjerava diše li se lako.",
+      "savjet": "Poveži riječ „udahni“ s organima koji primaju zrak."
+    }
+  ]
+}

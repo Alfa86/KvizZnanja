@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "zivcani-sustav-i-osjetila",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-001",
+      "tezina": "lagano",
+      "pitanje": "Koji organ upravlja radom cijelog tijela?",
+      "ponudeni": [
+        "Srce",
+        "Mozak",
+        "Želudac",
+        "Pluća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mozak je glavni dio živčanog sustava. On prima podatke od osjetila i upravlja radom cijelog tijela.",
+      "savjet": "Sjeti se kojim organom razmišljamo i donosimo odluke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-002",
+      "tezina": "lagano",
+      "pitanje": "U kojem se dijelu tijela nalazi mozak?",
+      "ponudeni": [
+        "U prsima",
+        "U trbuhu",
+        "U glavi",
+        "U leđima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mozak se nalazi u glavi, zaštićen kostima lubanje.",
+      "savjet": "Pomisli koji dio tijela štitimo kacigom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-003",
+      "tezina": "lagano",
+      "pitanje": "Koji dijelovi tijela čine živčani sustav?",
+      "ponudeni": [
+        "Mozak, leđna moždina i živci",
+        "Srce, krvne žile i krv",
+        "Nos, dušnik i pluća",
+        "Usta, jednjak i želudac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Živčani sustav čine mozak, leđna moždina i živci. Ostali nizovi pripadaju drugim organskim sustavima.",
+      "savjet": "Potraži niz u kojem se nalazi organ kojim razmišljamo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-004",
+      "tezina": "lagano",
+      "pitanje": "Gdje se nalazi leđna moždina?",
+      "ponudeni": [
+        "U lubanji",
+        "U prsnom košu",
+        "U trbuhu",
+        "U kralježnici"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Leđna moždina prolazi kroz kralježnicu, koja je štiti od ozljeda.",
+      "savjet": "Naziv kaže da se nalazi u leđima. Koji je kostur ondje?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-005",
+      "tezina": "lagano",
+      "pitanje": "Koliko osjetila ima čovjek?",
+      "ponudeni": [
+        "Tri",
+        "Četiri",
+        "Pet",
+        "Šest"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čovjek ima pet osjetila: vid, sluh, njuh, okus i dodir.",
+      "savjet": "Nabroji redom osjetila: vid, sluh… i prebroji ih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-006",
+      "tezina": "lagano",
+      "pitanje": "Kojim osjetilom prepoznajemo boje?",
+      "ponudeni": [
+        "Vidom",
+        "Sluhom",
+        "Njuhom",
+        "Dodirom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Boje vidimo očima, a oko je osjetilo vida.",
+      "savjet": "Razmisli što zatvoriš kad ne želiš vidjeti boje oko sebe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-007",
+      "tezina": "lagano",
+      "pitanje": "Koji je organ osjetila sluha?",
+      "ponudeni": [
+        "Oko",
+        "Nos",
+        "Jezik",
+        "Uho"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uho je osjetilo sluha. Njime čujemo zvukove.",
+      "savjet": "Sjeti se što prekriješ rukama kad je negdje preglasno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-008",
+      "tezina": "lagano",
+      "pitanje": "Koji je organ osjetila njuha?",
+      "ponudeni": [
+        "Uho",
+        "Nos",
+        "Koža",
+        "Oko"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nos je osjetilo njuha. Njime osjećamo mirise.",
+      "savjet": "Pomisli kojim dijelom tijela osjetiš miris svježe pečenog kruha."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-009",
+      "tezina": "lagano",
+      "pitanje": "Koji je organ osjetila okusa?",
+      "ponudeni": [
+        "Jezik",
+        "Nos",
+        "Uho",
+        "Koža"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jezik je osjetilo okusa. Njime osjećamo je li hrana slatka, slana, kisela ili gorka.",
+      "savjet": "Sjeti se što u ustima dodiruje hranu dok je kušaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-010",
+      "tezina": "lagano",
+      "pitanje": "Koji je organ osjetila dodira (opipa)?",
+      "ponudeni": [
+        "Oko",
+        "Jezik",
+        "Koža",
+        "Nos"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Koža je osjetilo dodira. Prekriva cijelo tijelo i osjeća dodir, toplinu, hladnoću i bol.",
+      "savjet": "Razmisli što prekriva cijelo tvoje tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-011",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga osjećamo kožom?",
+      "ponudeni": [
+        "Boje",
+        "Zvukove",
+        "Mirise",
+        "Toplinu i hladnoću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kožom osjećamo dodir, toplinu, hladnoću i bol.",
+      "savjet": "Sjeti se što osjetiš na rukama kad zimi izađeš van bez rukavica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-012",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu dijelovi živčanog sustava koji prenose poruke od osjetila do mozga i od mozga do mišića?",
+      "ponudeni": [
+        "Krvne žile",
+        "Živci",
+        "Tetive",
+        "Zglobovi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Živci su poput tankih niti koje se granaju kroz cijelo tijelo i prenose poruke do mozga i od mozga.",
+      "savjet": "Naziv traženog dijela sličan je nazivu cijelog sustava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-013",
+      "tezina": "lagano",
+      "pitanje": "Što štiti glavu dok voziš bicikl, romobil ili rolaš?",
+      "ponudeni": [
+        "Kapa",
+        "Šal",
+        "Kaciga",
+        "Kapuljača"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kaciga je tvrda i štiti glavu i mozak od ozljede pri padu.",
+      "savjet": "Odaberi ono što je tvrdo i može podnijeti udarac."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-014",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pismo koje slijepe osobe čitaju prstima?",
+      "ponudeni": [
+        "Glagoljica",
+        "Brailleovo pismo",
+        "Latinica",
+        "Znakovni jezik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brailleovo pismo sastoji se od izbočenih točkica koje slijepe osobe čitaju dodirom prstiju.",
+      "savjet": "Pismo je dobilo ime po čovjeku koji ga je izmislio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-015",
+      "tezina": "lagano",
+      "pitanje": "Kako se gluhe osobe mogu sporazumijevati bez glasa?",
+      "ponudeni": [
+        "Brailleovim pismom",
+        "Zviždanjem",
+        "Pjevanjem",
+        "Znakovnim jezikom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gluhe osobe često se sporazumijevaju znakovnim jezikom, pokretima ruku, lica i tijela.",
+      "savjet": "Gluha osoba ne čuje, ali vidi. Kojim se načinom tada najlakše razgovara?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-016",
+      "tezina": "lagano",
+      "pitanje": "Koja je životinja posebno uvježbana da slijepoj osobi pomaže pri kretanju ulicom?",
+      "ponudeni": [
+        "Pas vodič",
+        "Mačka",
+        "Papiga",
+        "Konj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pas vodič uvježban je da slijepu osobu sigurno vodi i upozori je na prepreke.",
+      "savjet": "Sjeti se koja životinja na uzici prati čovjeka u šetnji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-017",
+      "tezina": "lagano",
+      "pitanje": "Što ne smijemo raditi kako bismo zaštitili oči?",
+      "ponudeni": [
+        "Treptati",
+        "Gledati izravno u Sunce",
+        "Čitati uz dobro svjetlo",
+        "Gledati zelenu prirodu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jaka sunčeva svjetlost može trajno oštetiti oči, zato nikad ne gledamo izravno u Sunce.",
+      "savjet": "Potraži radnju u kojoj je svjetlost preblještava za oči."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-018",
+      "tezina": "lagano",
+      "pitanje": "Kojim osjetilom čuješ zvono na kraju školskog sata?",
+      "ponudeni": [
+        "Vidom",
+        "Okusom",
+        "Sluhom",
+        "Njuhom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zvukove primamo ušima, a to je osjetilo sluha.",
+      "savjet": "Sjeti se koji dio tijela prima zvukove iz okoliša."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-019",
+      "tezina": "lagano",
+      "pitanje": "Što su osjetila?",
+      "ponudeni": [
+        "Organi koji probavljaju hranu",
+        "Organi koji primaju podatke iz okoliša",
+        "Kosti koje štite tijelo",
+        "Mišići koji pokreću tijelo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osjetila primaju podatke iz okoliša, primjerice svjetlost, zvukove i mirise, i šalju ih mozgu.",
+      "savjet": "Sjeti se što rade oči, uši i nos."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-020",
+      "tezina": "lagano",
+      "pitanje": "Kamo osjetila šalju podatke koje prime iz okoliša?",
+      "ponudeni": [
+        "U mozak",
+        "U želudac",
+        "U srce",
+        "U pluća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Osjetila podatke šalju živcima u mozak, a mozak ih prepoznaje i odlučuje što učiniti.",
+      "savjet": "Pomisli koji organ prepoznaje ono što vidimo i čujemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-021",
+      "tezina": "lagano",
+      "pitanje": "Kako trebamo čitati i pisati da bismo čuvali oči?",
+      "ponudeni": [
+        "U mraku",
+        "Uz dovoljno svjetla",
+        "S knjigom tik uz lice",
+        "Dok se vozimo na romobilu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad čitamo uz dovoljno svjetla, oči se manje umaraju.",
+      "savjet": "Razmisli kada oči moraju manje naprezati da bi vidjele slova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-022",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga šteti sluhu?",
+      "ponudeni": [
+        "Tihi razgovor",
+        "Cvrkut ptica",
+        "Šuštanje lišća",
+        "Vrlo glasna glazba"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrlo glasni zvukovi, osobito ako dugo traju, mogu oštetiti sluh.",
+      "savjet": "Potraži najjači zvuk među ponuđenima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-023",
+      "tezina": "lagano",
+      "pitanje": "Kako čuvamo uši i nos?",
+      "ponudeni": [
+        "Ne stavljamo u njih sitne predmete",
+        "Čistimo ih olovkom",
+        "U njih stavljamo zrna graha",
+        "Puštamo im vrlo glasnu glazbu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sitni predmeti mogu ozlijediti uho ili nos ili zapeti u njima, zato ih ne stavljamo unutra.",
+      "savjet": "Odaberi jedini postupak koji ne može ozlijediti tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-024",
+      "tezina": "lagano",
+      "pitanje": "Što je dobro učiniti nakon dugog gledanja u ekran?",
+      "ponudeni": [
+        "Odmah uzeti drugi ekran",
+        "Približiti ekran očima",
+        "Napraviti stanku i odmoriti oči",
+        "Ugasiti svjetlo u sobi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oči se od dugog gledanja u ekran umore, zato povremeno napravimo stanku i pogledamo u daljinu.",
+      "savjet": "Razmisli što umornom dijelu tijela najviše treba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-025",
+      "tezina": "lagano",
+      "pitanje": "Kakav je okus meda?",
+      "ponudeni": [
+        "Kiseo",
+        "Sladak",
+        "Slan",
+        "Gorak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Med je sladak. Jezikom razlikujemo slatko, slano, kiselo i gorko.",
+      "savjet": "Sjeti se zašto pčele i djeca toliko vole med."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-026",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih okus koji prepoznajemo jezikom?",
+      "ponudeni": [
+        "Svijetao",
+        "Glasan",
+        "Mirisan",
+        "Gorak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jezikom razlikujemo slatko, slano, kiselo i gorko. Svijetlo vidimo, glasno čujemo, a miris osjećamo nosom.",
+      "savjet": "Sjeti se kakav okus može imati lijek ili tamna čokolada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-027",
+      "tezina": "lagano",
+      "pitanje": "Koje kosti štite mozak?",
+      "ponudeni": [
+        "Kosti lubanje",
+        "Rebra",
+        "Kralješci",
+        "Kosti zdjelice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mozak je smješten u lubanji, koja ga štiti poput tvrde kutije.",
+      "savjet": "Potraži kosti koje se nalaze u glavi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-028",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo ono što doživimo kad osjetilo primi podatak, primjerice kad osjetimo miris ili čujemo zvuk?",
+      "ponudeni": [
+        "Pokret",
+        "Osjet",
+        "Disanje",
+        "Rast"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osjet nastaje kad osjetilo primi podatak, a mozak ga prepozna. Tako osjetimo miris, zvuk, boju ili dodir.",
+      "savjet": "Riječ je slična riječi „osjetilo“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-029",
+      "tezina": "lagano",
+      "pitanje": "Što osjećamo nosom?",
+      "ponudeni": [
+        "Boje",
+        "Zvukove",
+        "Mirise",
+        "Hrapavost"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nos je osjetilo njuha, a njime osjećamo mirise.",
+      "savjet": "Sjeti se što radiš kad pomirišeš cvijet."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-030",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih dijelova tijela osjetilo?",
+      "ponudeni": [
+        "Želudac",
+        "Srce",
+        "Pluća",
+        "Oko"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oko je osjetilo vida. Osjetila su oko, uho, nos, jezik i koža.",
+      "savjet": "Potraži organ koji prima podatke iz okoliša."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-031",
+      "tezina": "srednje",
+      "pitanje": "Čime putuje poruka od kože do mozga kad te netko dotakne?",
+      "ponudeni": [
+        "Krvnim žilama",
+        "Mišićima",
+        "Živcima",
+        "Kostima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Živci prenose poruke od osjetila do mozga i od mozga do ostalih dijelova tijela.",
+      "savjet": "Sjeti se koji dio živčanog sustava se grana po cijelom tijelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-032",
+      "tezina": "srednje",
+      "pitanje": "Koja je uloga mozga?",
+      "ponudeni": [
+        "Prima podatke od osjetila i upravlja tijelom",
+        "Raznosi krv po tijelu",
+        "Probavlja hranu",
+        "Udiše zrak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mozak prima podatke od osjetila, prepoznaje ih i upravlja radom svih dijelova tijela.",
+      "savjet": "Razmisli koji je dio živčanog sustava glavni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto je važno nositi kacigu dok voziš bicikl?",
+      "ponudeni": [
+        "Da brže voziš",
+        "Da ti ne bude hladno",
+        "Da bolje čuješ promet",
+        "Da zaštitiš glavu i mozak pri padu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mozak upravlja cijelim tijelom, a ozljeda glave može biti vrlo opasna. Kaciga ublažava udarac pri padu.",
+      "savjet": "Razmisli što se nalazi unutar glave i zašto je to važno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-034",
+      "tezina": "srednje",
+      "pitanje": "Ana zatvorenih očiju kuša komadiće voća i pogađa koje je voće. Koje osjetilo istražuje?",
+      "ponudeni": [
+        "Sluh",
+        "Okus",
+        "Vid",
+        "Dodir"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kušanjem istražujemo osjetilo okusa. Okus primamo jezikom.",
+      "savjet": "Pomisli kojim dijelom tijela Ana dodiruje voće dok ga kuša."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-035",
+      "tezina": "srednje",
+      "pitanje": "Zašto pri pokusu s kušanjem hrane zatvaramo oči?",
+      "ponudeni": [
+        "Da hrana bude ukusnija",
+        "Da nam vid ne oda što jedemo",
+        "Da lakše čujemo hranu",
+        "Da se oči odmore od svjetla"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad ne vidimo hranu, moramo je prepoznati samo okusom i njuhom. Tako saznajemo koliko ta osjetila pomažu.",
+      "savjet": "Razmisli što bi se dogodilo kad bismo vidjeli boju i oblik hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-036",
+      "tezina": "srednje",
+      "pitanje": "Luka u neprozirnoj vrećici prepoznaje predmete samo rukom. Koje osjetilo koristi?",
+      "ponudeni": [
+        "Vid",
+        "Njuh",
+        "Dodir",
+        "Okus"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rukom opipavamo oblik, veličinu i hrapavost predmeta. To je osjetilo dodira (opipa), a organ je koža.",
+      "savjet": "Predmete ne vidi, ali ih dira prstima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-037",
+      "tezina": "srednje",
+      "pitanje": "Koje nas osjetilo može upozoriti na požar u drugoj sobi i prije nego što vidimo plamen?",
+      "ponudeni": [
+        "Njuh",
+        "Okus",
+        "Dodir",
+        "Vid"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dim se širi i osjetimo ga nosom, pa nas njuh može upozoriti na opasnost.",
+      "savjet": "Razmisli što se iz požara širi zrakom kroz kuću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-038",
+      "tezina": "srednje",
+      "pitanje": "Koje nas osjetilo upozorava na vatrogasno vozilo iza ugla, koje još ne vidimo?",
+      "ponudeni": [
+        "Njuh",
+        "Vid",
+        "Okus",
+        "Sluh"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sirenu vatrogasnog vozila čujemo ušima i prije nego što vozilo vidimo.",
+      "savjet": "Sjeti se kakav znak vatrogasno vozilo daje dok žuri."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-039",
+      "tezina": "srednje",
+      "pitanje": "Kojim osjetilom možemo prepoznati da je mlijeko pokvareno prije nego što ga kušamo?",
+      "ponudeni": [
+        "Sluhom",
+        "Njuhom",
+        "Dodirom",
+        "Okusom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pokvareno mlijeko neugodno miriše, pa ga njuhom prepoznamo prije nego što ga popijemo.",
+      "savjet": "Razmisli kako možeš provjeriti hranu prije nego što je staviš u usta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-040",
+      "tezina": "srednje",
+      "pitanje": "Kako slijepa osoba može čitati knjigu?",
+      "ponudeni": [
+        "Gledajući slike u knjizi",
+        "Mirišući stranice",
+        "Slušajući šuštanje papira",
+        "Prelazeći prstima preko izbočenih točkica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slijepe osobe čitaju Brailleovo pismo dodirom prstiju, prelazeći preko izbočenih točkica.",
+      "savjet": "Sjeti se kojim osjetilom slijepa osoba može prepoznati oblik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-041",
+      "tezina": "srednje",
+      "pitanje": "Kojim osjetilom gluha osoba prima poruku izrečenu znakovnim jezikom?",
+      "ponudeni": [
+        "Sluhom",
+        "Njuhom",
+        "Vidom",
+        "Okusom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Znakovni jezik čine pokreti ruku, lica i tijela, a njih gledamo očima.",
+      "savjet": "Znakovi se ne čuju. Kako ih onda prepoznajemo?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-042",
+      "tezina": "srednje",
+      "pitanje": "Zašto ne smijemo gledati izravno u Sunce?",
+      "ponudeni": [
+        "Jaka svjetlost može trajno oštetiti oči",
+        "Sunce se tada sakrije iza oblaka",
+        "Od toga nas zaboli uho",
+        "Tada ne osjećamo mirise"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčeva je svjetlost prejaka za oči i može ih trajno oštetiti.",
+      "savjet": "Razmisli koje osjetilo prima svjetlost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-043",
+      "tezina": "srednje",
+      "pitanje": "Zašto ne bismo trebali dugo slušati vrlo glasnu glazbu na slušalicama?",
+      "ponudeni": [
+        "Slušalice će se brzo pokvariti",
+        "Glazba će postati dosadna",
+        "Može nam se oštetiti sluh",
+        "Oči će nam se umoriti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Preglasni zvukovi koji dugo traju mogu trajno oštetiti uši i sluh.",
+      "savjet": "Pomisli koje osjetilo prima zvuk iz slušalica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-044",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s očima ako dugo čitamo pri slabom svjetlu?",
+      "ponudeni": [
+        "Oči se odmaraju",
+        "Oči se brže umaraju",
+        "Bolje vidimo boje",
+        "Oči postaju jače"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pri slabom svjetlu oči se moraju jače naprezati pa se brže umaraju.",
+      "savjet": "Razmisli je li očima lakše ili teže vidjeti slova u polumraku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-045",
+      "tezina": "srednje",
+      "pitanje": "Maja dugo igra igricu na tabletu i počinju je peći oči. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Pojačati svjetlinu ekrana",
+        "Približiti tablet očima",
+        "Igrati u mračnoj sobi",
+        "Ostaviti tablet i odmoriti oči"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oči trebaju odmor od ekrana. Stanka, gledanje u daljinu ili igra vani pomažu da se oči oporave.",
+      "savjet": "Razmisli što pomaže kad je neki dio tijela umoran."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-046",
+      "tezina": "srednje",
+      "pitanje": "Kojim dijelom tijela razmišljamo, učimo i pamtimo?",
+      "ponudeni": [
+        "Mozgom",
+        "Srcem",
+        "Leđnom moždinom",
+        "Kožom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mozak nam omogućuje razmišljanje, učenje i pamćenje.",
+      "savjet": "Potraži glavni dio živčanog sustava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-047",
+      "tezina": "srednje",
+      "pitanje": "Zašto mozak treba podatke od osjetila?",
+      "ponudeni": [
+        "Da bi tijelo brže raslo",
+        "Da bi znao što se događa oko nas i kako reagirati",
+        "Da bi bolje probavljao hranu",
+        "Da bi srce sporije kucalo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osjetila mozgu javljaju što se događa u okolišu, a mozak na temelju toga odlučuje što tijelo treba učiniti.",
+      "savjet": "Sjeti se da osjetila povezuju čovjeka s okolišem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-048",
+      "tezina": "srednje",
+      "pitanje": "Koja dva osjetila najviše koristimo dok gledamo crtani film?",
+      "ponudeni": [
+        "Njuh i okus",
+        "Dodir i njuh",
+        "Vid i sluh",
+        "Okus i dodir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Crtani film gledamo očima i slušamo ušima, pa koristimo vid i sluh.",
+      "savjet": "Razmisli što u filmu primaš slikom, a što zvukom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-049",
+      "tezina": "srednje",
+      "pitanje": "Kojim osjetilom provjeravamo je li voda u kadi pretopla?",
+      "ponudeni": [
+        "Vidom",
+        "Sluhom",
+        "Njuhom",
+        "Dodirom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kožom osjećamo toplinu i hladnoću, zato vodu provjeravamo dodirom ruke.",
+      "savjet": "Sjeti se što prvo uroniš u vodu prije kupanja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-050",
+      "tezina": "srednje",
+      "pitanje": "Koja je uloga leđne moždine?",
+      "ponudeni": [
+        "Raznosi hranu po tijelu",
+        "Prenosi poruke između mozga i ostatka tijela",
+        "Pokreće kralježnicu",
+        "Prima zvukove iz okoliša"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Leđna moždina povezuje mozak sa živcima u tijelu i prenosi poruke u oba smjera.",
+      "savjet": "Leđna moždina je dio živčanog sustava. Čime se on bavi?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-051",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dovoljno sna važno za rad mozga?",
+      "ponudeni": [
+        "Mozak se odmori pa lakše učimo i pamtimo",
+        "Mozak tada postaje veći",
+        "Mozak tijekom sna probavlja hranu",
+        "Mozak tada više ne treba osjetila"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tijekom sna se tijelo i mozak odmaraju. Odmorni bolje pazimo, učimo i pamtimo.",
+      "savjet": "Sjeti se kako se osjećaš u školi nakon prekratkog sna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto je opasno češati se u uhu olovkom ili drugim predmetom?",
+      "ponudeni": [
+        "Olovka će se slomiti",
+        "Uho će početi mirisati",
+        "Možemo ozlijediti uho i oštetiti sluh",
+        "Oči će se umoriti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Unutrašnjost uha je osjetljiva. Predmet je može ozlijediti i oštetiti sluh.",
+      "savjet": "Razmisli koje je osjetilo smješteno u uhu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-053",
+      "tezina": "srednje",
+      "pitanje": "Koji par okusa prepoznajemo jezikom?",
+      "ponudeni": [
+        "Glasno i tiho",
+        "Svijetlo i tamno",
+        "Mirisno i bez mirisa",
+        "Slano i kiselo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jezikom razlikujemo slatko, slano, kiselo i gorko. Ostali parovi odnose se na sluh, vid i njuh.",
+      "savjet": "Sjeti se kakav okus imaju čips i limun."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-054",
+      "tezina": "srednje",
+      "pitanje": "Ema zatvorenih očiju drži voće u ruci, miriše ga i kuša. Koja osjetila koristi?",
+      "ponudeni": [
+        "Vid, sluh i njuh",
+        "Dodir, njuh i okus",
+        "Sluh, okus i vid",
+        "Vid, dodir i sluh"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Držanjem u ruci koristi dodir, mirisanjem njuh, a kušanjem okus. Oči su zatvorene, pa vid ne koristi.",
+      "savjet": "Za svaku radnju (drži, miriše, kuša) pronađi pripadajuće osjetilo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-055",
+      "tezina": "srednje",
+      "pitanje": "Kako mozak sazna da ti je zimi hladno u ruke?",
+      "ponudeni": [
+        "Koža osjeti hladnoću, a živci to jave mozgu",
+        "Oči vide snijeg i jave to srcu",
+        "Uši čuju vjetar i jave to plućima",
+        "Nos osjeti hladnoću i javi to želucu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Koža prima osjet hladnoće, a živci tu poruku prenose do mozga.",
+      "savjet": "Sjeti se koje osjetilo osjeća toplinu i hladnoću i kamo šalje poruke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-056",
+      "tezina": "srednje",
+      "pitanje": "Slijepa osoba stoji uz pješački prijelaz. Kako joj možeš pristojno pomoći?",
+      "ponudeni": [
+        "Bez riječi je povući za ruku preko ceste",
+        "Uzeti joj štap da ga ona ne nosi",
+        "Upitati je treba li joj pomoć",
+        "Glasno joj vikati gdje je cesta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osobe s oštećenjem vida same odlučuju trebaju li pomoć. Pristojno je prvo ih upitati i poslušati odgovor.",
+      "savjet": "Razmisli kako bi se tebi svidjelo da se netko ponaša prema tebi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-057",
+      "tezina": "srednje",
+      "pitanje": "Pas vodič vodi slijepu osobu kroz trgovinu. Kako se ispravno ponašati prema psu?",
+      "ponudeni": [
+        "Maziti ga i igrati se s njim",
+        "Dati mu nešto za jelo",
+        "Dozivati ga po imenu",
+        "Ne ometati ga dok radi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pas vodič dok radi mora paziti na svoju osobu. Ako ga ometamo, osoba bi se mogla ozlijediti.",
+      "savjet": "Razmisli što bi se dogodilo kad bi pas prestao paziti na put."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-058",
+      "tezina": "srednje",
+      "pitanje": "Ujutro te probudi zvuk budilice. Koje je osjetilo primilo taj podatak?",
+      "ponudeni": [
+        "Sluh",
+        "Vid",
+        "Njuh",
+        "Okus"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zvuk budilice primile su uši, a to je osjetilo sluha. Mozak je prepoznao zvuk i probudio te.",
+      "savjet": "Dok spavaš, oči su ti zatvorene. Što onda prima zvuk?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-059",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko oku, uhu, nosu, jeziku i koži?",
+      "ponudeni": [
+        "Svi probavljaju hranu",
+        "Svi su osjetila koja šalju podatke mozgu",
+        "Svi se nalaze u glavi",
+        "Svi primaju zvukove"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oko, uho, nos, jezik i koža su osjetila. Primaju podatke iz okoliša i živcima ih šalju mozgu.",
+      "savjet": "Sjeti se kako zajedničkim imenom zovemo vid, sluh, njuh, okus i dodir."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-060",
+      "tezina": "srednje",
+      "pitanje": "Zašto u potpunom mraku ne vidimo predmete oko sebe?",
+      "ponudeni": [
+        "Jer predmeti noću nestanu",
+        "Jer oči noću spavaju",
+        "Jer je za vid potrebna svjetlost",
+        "Jer mozak noću ne radi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oko prima svjetlost. Bez svjetlosti oko ne može primiti podatke o predmetima.",
+      "savjet": "Razmisli što upališ kad uđeš u mračnu sobu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-061",
+      "tezina": "tesko",
+      "pitanje": "Petar zatvori oči i začepi nos pa kuša komadiće jabuke i kruške. Teško ih razlikuje. Što iz toga zaključuje?",
+      "ponudeni": [
+        "Jezik ne osjeća okuse",
+        "Njuh pomaže pri prepoznavanju hrane",
+        "Jabuka i kruška imaju isti okus",
+        "Okus primamo ušima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad je nos začepljen, mirisi ne dolaze do njuha pa hranu teže prepoznajemo. Okus i njuh rade zajedno.",
+      "savjet": "Razmisli koje je osjetilo Petar isključio kad je začepio nos."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-062",
+      "tezina": "tesko",
+      "pitanje": "Dotakneš vruću ploču i brzo povučeš ruku. Koji je redoslijed događaja točan?",
+      "ponudeni": [
+        "Ruka se odmakne, koža osjeti vrućinu, živci prenesu poruku",
+        "Živci prenesu poruku, ruka se odmakne, koža osjeti vrućinu",
+        "Ruka se odmakne, živci prenesu poruku, koža osjeti vrućinu",
+        "Koža osjeti vrućinu, živci prenesu poruku, ruka se odmakne"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvo koža osjeti vrućinu, zatim živci prenesu poruku, a tek onda se ruka odmakne.",
+      "savjet": "Počni od onoga što se dogodi u trenutku dodira."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-063",
+      "tezina": "tesko",
+      "pitanje": "Dino vozi bicikl bez kacige. Zašto bi pad na glavu za njega mogao biti posebno opasan?",
+      "ponudeni": [
+        "Ozljeda mozga može utjecati na rad cijelog tijela",
+        "Bicikl bi se mogao pokvariti",
+        "Kosa bi mu se mogla zaprljati",
+        "Izgubio bi osjet okusa samo na jedan dan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mozak upravlja cijelim tijelom, pa ozljeda glave može biti vrlo ozbiljna. Kaciga štiti glavu pri padu.",
+      "savjet": "Sjeti se što upravlja svim dijelovima tijela i gdje se nalazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-064",
+      "tezina": "tesko",
+      "pitanje": "Neki semafori na pješačkim prijelazima ispuštaju zvučni signal. Kome on najviše pomaže?",
+      "ponudeni": [
+        "Vozačima automobila",
+        "Gluhim osobama",
+        "Slijepim i slabovidnim osobama",
+        "Biciklistima na cesti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osobe koje ne vide boju svjetla na semaforu mogu sluhom saznati kada smiju prijeći cestu.",
+      "savjet": "Razmisli tko ne može vidjeti zeleno svjetlo, a može čuti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-065",
+      "tezina": "tesko",
+      "pitanje": "Na nekim pločnicima i peronima nalaze se ploče s izbočenim crtama ili točkama. Kome one pomažu?",
+      "ponudeni": [
+        "Biciklistima da brže voze",
+        "Djeci za igru",
+        "Psima da ne skliznu",
+        "Slijepim osobama, koje ih osjete štapom ili stopalima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izbočine se mogu osjetiti štapom ili stopalom, pa slijepe osobe dodirom znaju kuda ići i gdje treba stati.",
+      "savjet": "Izbočine se ne moraju vidjeti. Kojim se osjetilom mogu prepoznati?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-066",
+      "tezina": "tesko",
+      "pitanje": "Koja dva osjetila pomažu da prepoznaš zrelu jagodu prije nego što je kušaš?",
+      "ponudeni": [
+        "Sluh i okus",
+        "Vid i njuh",
+        "Okus i dodir",
+        "Sluh i dodir"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zrela jagoda je crvena, što vidimo, i lijepo miriše, što osjetimo njuhom.",
+      "savjet": "Razmisli po čemu se zrela jagoda razlikuje od nezrele, a da je ne staviš u usta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-067",
+      "tezina": "tesko",
+      "pitanje": "Prijatelj iz razreda slabije čuje i nosi slušni aparat. Kako s njim najbolje razgovarati?",
+      "ponudeni": [
+        "Gledati ga u lice i govoriti jasno",
+        "Govoriti mu s leđa",
+        "Govoriti dok mu pokrivaš usta rukom",
+        "Ne razgovarati s njim"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad nas gleda u lice, lakše razumije što govorimo jer vidi i pokrete usana. Jasan govor mu pomaže.",
+      "savjet": "Razmisli koje mu osjetilo može pomoći uz sluh."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-068",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer najbolje pokazuje da mozak upravlja pokretima tijela?",
+      "ponudeni": [
+        "Kosa raste i kad o tome ne razmišljamo",
+        "Koža je ljeti tamnija",
+        "Odlučimo podići ruku i ruka se podigne",
+        "Nokti rastu i noću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad odlučimo podići ruku, mozak preko živaca šalje poruku mišićima i ruka se pokrene.",
+      "savjet": "Potraži primjer u kojem nešto napravimo zato što smo to odlučili."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-069",
+      "tezina": "tesko",
+      "pitanje": "Marko u šumi čuje pucketanje grančica iza sebe i okrene se. Što se dogodilo?",
+      "ponudeni": [
+        "Oči su čule zvuk, a srce je okrenulo glavu",
+        "Uši su primile zvuk, a mozak je odlučio da se okrene",
+        "Nos je osjetio zvuk, a želudac ga je prepoznao",
+        "Koža je vidjela grančice, a pluća su se pokrenula"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uši primaju zvuk, živci ga prenose mozgu, a mozak ga prepoznaje i šalje poruku mišićima da se okrene.",
+      "savjet": "Pronađi koje osjetilo prima zvuk i koji organ odlučuje o pokretu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-070",
+      "tezina": "tesko",
+      "pitanje": "Kad u mračnoj sobi tražiš prekidač za svjetlo, kojim se osjetilom najviše služiš?",
+      "ponudeni": [
+        "Vidom",
+        "Njuhom",
+        "Okusom",
+        "Dodirom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U mraku oči ne vide, pa prekidač tražimo pipajući zid rukom, osjetilom dodira.",
+      "savjet": "Razmisli koje osjetilo ne radi u mraku i što radiš rukama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-071",
+      "tezina": "tesko",
+      "pitanje": "Iz kuhinje osjetiš jak miris zagorjele hrane. Što je najpametnije učiniti?",
+      "ponudeni": [
+        "Zatvoriti vrata i nastaviti igru",
+        "Odmah upozoriti odraslu osobu",
+        "Otići pogledati i sam ugasiti štednjak vodom",
+        "Pričekati da miris nestane"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Njuh nas je upozorio na moguću opasnost. Najsigurnije je odmah reći odrasloj osobi.",
+      "savjet": "Razmisli zašto nas osjetila upozoravaju i tko može sigurno riješiti problem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-072",
+      "tezina": "tesko",
+      "pitanje": "Kristijan stalno pojačava glazbu u slušalicama jer mu se čini da je tiha. Koji je dobar savjet za njega?",
+      "ponudeni": [
+        "Neka pojača još više",
+        "Neka nosi slušalice cijeli dan",
+        "Neka smanji glasnoću i radi stanke",
+        "Neka sluša glazbu i dok spava"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Preglasna glazba može oštetiti sluh. Umjerena glasnoća i stanke čuvaju uši.",
+      "savjet": "Razmisli što štiti osjetilo sluha."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-073",
+      "tezina": "tesko",
+      "pitanje": "Gdje je najbolje pisati domaću zadaću da bi se oči što manje umarale?",
+      "ponudeni": [
+        "Za stolom uz dobro svjetlo",
+        "U krevetu pod pokrivačem uz svjetlo mobitela",
+        "U mračnoj sobi pred upaljenim televizorom",
+        "U autu dok se vozi po mraku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dobro osvijetljen stol omogućuje da oči lako vide slova bez naprezanja.",
+      "savjet": "Razmisli gdje oči najlakše vide slova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-074",
+      "tezina": "tesko",
+      "pitanje": "Na snijegu ili na plaži sunčeva je svjetlost vrlo jaka. Što pomaže zaštititi oči?",
+      "ponudeni": [
+        "Kapa preko ušiju",
+        "Šal oko vrata",
+        "Rukavice",
+        "Sunčane naočale"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunčane naočale smanjuju jaku svjetlost koja dolazi do očiju i tako ih štite.",
+      "savjet": "Potraži predmet koji se nosi na očima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-075",
+      "tezina": "tesko",
+      "pitanje": "Mia ima dvije posude, jednu sa šećerom i jednu sa solju. Izgledaju jednako. Kojim ih osjetilom najlakše razlikuje?",
+      "ponudeni": [
+        "Sluhom",
+        "Okusom",
+        "Vidom",
+        "Njuhom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šećer je sladak, a sol slana. Tu razliku najlakše osjetimo jezikom.",
+      "savjet": "Izgled ne pomaže, a ni šećer ni sol nemaju jak miris."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-076",
+      "tezina": "tesko",
+      "pitanje": "Na polici je boca bez natpisa s nepoznatom tekućinom. Koje osjetilo ne smiješ koristiti da otkriješ što je u njoj?",
+      "ponudeni": [
+        "Okus",
+        "Vid",
+        "Sluh",
+        "Dodir izvana po boci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznate tvari nikad ne kušamo jer mogu biti otrovne. Takvu bocu pokažemo odrasloj osobi.",
+      "savjet": "Razmisli što bi moglo biti opasno ako tvar uđe u usta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-077",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo kad osjetila ne bi slala podatke mozgu?",
+      "ponudeni": [
+        "Bolje bismo razmišljali",
+        "Brže bismo rasli",
+        "Mozak ne bi znao što se događa oko nas",
+        "Bolje bismo vidjeli u mraku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osjetila povezuju čovjeka s okolišem. Bez njihovih podataka mozak ne bi znao što se oko nas događa.",
+      "savjet": "Sjeti se koja je glavna zadaća osjetila."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-078",
+      "tezina": "tesko",
+      "pitanje": "Gluha osoba gleda film na televiziji. Što joj najviše pomaže da razumije što likovi govore?",
+      "ponudeni": [
+        "Glasniji zvuk",
+        "Veći zvučnici",
+        "Tamnija slika",
+        "Titlovi na ekranu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gluha osoba ne čuje govor, ali može čitati titlove ili pratiti prijevod na znakovni jezik.",
+      "savjet": "Razmisli koje osjetilo gluha osoba može koristiti dok gleda film."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-079",
+      "tezina": "tesko",
+      "pitanje": "Na kutijama lijekova nalaze se sitne izbočene točkice. Čemu služe?",
+      "ponudeni": [
+        "Ukrašavaju kutiju",
+        "Slijepim osobama da pročitaju natpis",
+        "Da kutija ne klizi iz ruke",
+        "Pokazuju koliko je lijek star"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To je natpis na Brailleovu pismu, koji slijepe osobe čitaju prstima.",
+      "savjet": "Sjeti se koje se pismo čita dodirom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-080",
+      "tezina": "tesko",
+      "pitanje": "Netko te iza leđa lagano potapše po ramenu. Koje je osjetilo to primilo i koji organ prepoznaje poruku?",
+      "ponudeni": [
+        "Vid, a poruku prepoznaje srce",
+        "Sluh, a poruku prepoznaje želudac",
+        "Njuh, a poruku prepoznaju pluća",
+        "Dodir, a poruku prepoznaje mozak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Koža osjeti dodir, a živci poruku prenose mozgu, koji je prepoznaje.",
+      "savjet": "Dogodilo se iza leđa, pa oči nisu ništa vidjele. Što je bilo dodirnuto?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-081",
+      "tezina": "tesko",
+      "pitanje": "Kako treba ispravno nositi kacigu za bicikl?",
+      "ponudeni": [
+        "Zabačenu na zatiljak",
+        "Pričvršćenu remenom ispod brade",
+        "Obješenu na upravljač",
+        "Labavu, da lako padne s glave"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kaciga štiti glavu samo ako je dobro namještena i pričvršćena, da ne spadne pri padu.",
+      "savjet": "Razmisli kako kaciga ostaje na glavi kad biciklist padne."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-082",
+      "tezina": "tesko",
+      "pitanje": "Koja dva osjetila najviše pomažu pješaku da na vrijeme primijeti automobil koji dolazi?",
+      "ponudeni": [
+        "Okus i njuh",
+        "Njuh i dodir",
+        "Vid i sluh",
+        "Okus i dodir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Automobil vidimo očima i čujemo ušima, zato prije prelaska ceste gledamo i slušamo.",
+      "savjet": "Sjeti se pravila: prije prelaska ceste pogledaj lijevo i desno i…"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-083",
+      "tezina": "tesko",
+      "pitanje": "Razred istražuje osjetilo njuha. Koji je pokus za to najprikladniji?",
+      "ponudeni": [
+        "Zatvorenih očiju pomirisati limun, kavu i cimet i pogoditi što je",
+        "Gledati slike voća i reći koje je boje",
+        "Slušati zvukove iz prirode i pogoditi životinju",
+        "Dodirivati predmete u vrećici i pogoditi što su"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U tom pokusu predmete prepoznajemo samo po mirisu, pa istražujemo njuh. Oči zatvaramo da nam vid ne pomogne.",
+      "savjet": "Potraži pokus u kojem se koristi nos."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-084",
+      "tezina": "tesko",
+      "pitanje": "Dok trčiš za loptom, osjetila, mozak i mišići rade zajedno. Koji je opis točan?",
+      "ponudeni": [
+        "Mišići vide loptu i javljaju mozgu",
+        "Mozak trči, a oči odlučuju",
+        "Uši vide loptu, a koža trči",
+        "Oči vide loptu, mozak odluči, a živci prenesu poruku mišićima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oči primaju podatak o lopti, mozak odlučuje što učiniti, a živci prenose poruku mišićima koji pokreću tijelo.",
+      "savjet": "Pronađi opis u kojem svaki dio tijela radi ono za što je zadužen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-085",
+      "tezina": "tesko",
+      "pitanje": "Mlađi brat stavio je zrno graha u nos. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Odmah reći odrasloj osobi",
+        "Izvaditi zrno olovkom",
+        "Reći mu da ga jako uvuče nosom",
+        "Ne reći nikome i čekati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Predmet u nosu može ozlijediti nos ili otežati disanje. Odrasla osoba zna kako sigurno pomoći ili potražiti liječnika.",
+      "savjet": "Razmisli tko može sigurno pomoći kad je netko u nevolji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-086",
+      "tezina": "tesko",
+      "pitanje": "Lucija u školi ne vidi dobro što piše na ploči. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Ništa, to će samo proći",
+        "Žmiriti što jače",
+        "Posuditi tuđe naočale",
+        "Reći roditeljima da joj liječnik pregleda vid"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Liječnik može pregledati oči i, ako treba, preporučiti naočale. Tuđe naočale mogu dodatno umoriti oči.",
+      "savjet": "Razmisli tko zna pregledati oči i pomoći da bolje vidimo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-087",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o osjetilima točna?",
+      "ponudeni": [
+        "Nos prima zvukove, a uho mirise",
+        "Jezik prima svjetlost, a koža okuse",
+        "Uho prima zvukove, a oko svjetlost",
+        "Oko prima mirise, a nos boje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svako osjetilo prima svoju vrstu podataka: uho zvukove, oko svjetlost, nos mirise, jezik okuse, a koža dodir.",
+      "savjet": "Za svaki organ u tvrdnji provjeri što on stvarno prima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto je opasno voziti bicikl i slušati glasnu glazbu na slušalicama?",
+      "ponudeni": [
+        "Bicikl tada sporije vozi",
+        "Ne čujemo automobile i upozorenja oko sebe",
+        "Glazba smeta očima",
+        "Slušalice su preteške za glavu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glasna glazba prekriva zvukove prometa, pa sluh ne može na vrijeme upozoriti na opasnost.",
+      "savjet": "Razmisli koje nas osjetilo u prometu upozorava na ono što ne vidimo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-089",
+      "tezina": "tesko",
+      "pitanje": "Zašto je korisno što osjećamo bol kad dotaknemo nešto oštro?",
+      "ponudeni": [
+        "Bol nas upozorava na opasnost pa se zaštitimo",
+        "Bol nam pomaže da bolje vidimo",
+        "Bol jača kožu",
+        "Bol nam pomaže da brže zaspemo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bol je znak upozorenja. Zbog nje maknemo ruku i tako spriječimo veću ozljedu.",
+      "savjet": "Sjeti se da nas osjetila upozoravaju na opasnost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivcani-sustav-i-osjetila-090",
+      "tezina": "tesko",
+      "pitanje": "Zašto se mozak i leđna moždina nalaze unutar kostiju?",
+      "ponudeni": [
+        "Da bi tijelo bilo teže",
+        "Da bi bolje čuli zvukove",
+        "Da bi primali više svjetla",
+        "Da bi ih kosti štitile od ozljeda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mozak i leđna moždina vrlo su važni i osjetljivi. Lubanja i kralježnica štite ih od udaraca.",
+      "savjet": "Razmisli koju ulogu ima kostur osim što drži tijelo."
+    }
+  ]
+}

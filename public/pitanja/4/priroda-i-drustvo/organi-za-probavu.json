@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "organi-za-probavu",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva razgradnja hrane u tijelu na tvari koje tijelo može iskoristiti?",
+      "ponudeni": [
+        "Disanje",
+        "Probava",
+        "Izlučivanje",
+        "Krvotok"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Probava je razgradnja hrane na hranjive tvari koje tijelo može iskoristiti za rast i energiju.",
+      "savjet": "Sjeti se kako se zove sustav organa kojemu pripadaju želudac i crijeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-002",
+      "tezina": "lagano",
+      "pitanje": "Gdje počinje probava hrane?",
+      "ponudeni": [
+        "U želucu",
+        "U jednjaku",
+        "U ustima",
+        "U tankom crijevu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Probava počinje u ustima. Ondje zubi usitnjavaju hranu, a slina je vlaži.",
+      "savjet": "Razmisli kamo hrana najprije dospije kad zagrizeš jabuku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-003",
+      "tezina": "lagano",
+      "pitanje": "Čime u ustima grizemo i žvačemo hranu?",
+      "ponudeni": [
+        "Zubima",
+        "Slinom",
+        "Jednjakom",
+        "Ždrijelom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zubima odgrizamo i žvačemo hranu te je usitnjavamo na male komadiće.",
+      "savjet": "Sjeti se što to četkom pereš ujutro i navečer."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-004",
+      "tezina": "lagano",
+      "pitanje": "Što u ustima vlaži i omekšava hranu da bismo je lakše progutali?",
+      "ponudeni": [
+        "Žuč",
+        "Želučani sok",
+        "Krv",
+        "Slina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slina vlaži i omekšava hranu u ustima, pa se zalogaj lakše proguta.",
+      "savjet": "Sjeti se što ti se skupi u ustima kad osjetiš miris omiljenog jela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-005",
+      "tezina": "lagano",
+      "pitanje": "Koji dio usta miješa hranu sa slinom i gura je prema ždrijelu kad gutamo?",
+      "ponudeni": [
+        "Zubi",
+        "Jezik",
+        "Jednjak",
+        "Jetra"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jezik premješta hranu u ustima, miješa je sa slinom i gura zalogaj prema ždrijelu.",
+      "savjet": "Razmisli koji je dio usta pokretljiv i njime osjećamo okus."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove cijev kojom progutana hrana putuje do želuca?",
+      "ponudeni": [
+        "Dušnik",
+        "Debelo crijevo",
+        "Jednjak",
+        "Krvna žila"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jednjak je mišićava cijev koja prenosi progutanu hranu iz ždrijela u želudac.",
+      "savjet": "Potraži organ za probavu čiji naziv podsjeća na riječ „jesti“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-007",
+      "tezina": "lagano",
+      "pitanje": "U koji organ dolazi hrana iz jednjaka?",
+      "ponudeni": [
+        "U tanko crijevo",
+        "U jetru",
+        "U pluća",
+        "U želudac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iz jednjaka hrana dolazi u želudac, gdje se miješa sa želučanim sokovima.",
+      "savjet": "Sjeti se koji je organ za probavu sličan vreći u gornjem dijelu trbuha."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-008",
+      "tezina": "lagano",
+      "pitanje": "Koji je organ za probavu sličan vreći u kojoj se hrana miješa sa sokovima?",
+      "ponudeni": [
+        "Želudac",
+        "Jednjak",
+        "Jezik",
+        "Bubreg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Želudac je poput vreće. U njemu se hrana zadržava i miješa sa želučanim sokovima.",
+      "savjet": "Sjeti se organa koji „kruli“ kad smo gladni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-009",
+      "tezina": "lagano",
+      "pitanje": "U kojem organu hranjive tvari iz hrane prelaze u krv?",
+      "ponudeni": [
+        "U jednjaku",
+        "U tankom crijevu",
+        "U ustima",
+        "U debelom crijevu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U tankom crijevu hrana se probavi do kraja, a hranjive tvari prelaze u krv.",
+      "savjet": "Sjeti se kamo hrana stiže nakon želuca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-010",
+      "tezina": "lagano",
+      "pitanje": "U koji organ dolaze neprobavljeni ostaci hrane prije nego što izađu iz tijela?",
+      "ponudeni": [
+        "U tanko crijevo",
+        "U želudac",
+        "U debelo crijevo",
+        "U jednjak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Neprobavljeni ostaci hrane prolaze kroz debelo crijevo i zatim izlaze iz tijela.",
+      "savjet": "Sjeti se koji je organ posljednji na putu hrane kroz tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-011",
+      "tezina": "lagano",
+      "pitanje": "Koji organ pomaže probavi iako hrana kroz njega ne prolazi?",
+      "ponudeni": [
+        "Želudac",
+        "Jednjak",
+        "Tanko crijevo",
+        "Jetra"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jetra je organ za probavu kroz koji hrana ne prolazi. Ona stvara žuč koja pomaže probavi.",
+      "savjet": "Razmisli koji se od ponuđenih organa ne nalazi na putu od usta do debelog crijeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-012",
+      "tezina": "lagano",
+      "pitanje": "Koji od navedenih organa pripada sustavu organa za probavu?",
+      "ponudeni": [
+        "Srce",
+        "Želudac",
+        "Pluća",
+        "Mozak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Želudac je organ za probavu. Srce pripada krvotoku, pluća disanju, a mozak živčanom sustavu.",
+      "savjet": "Odaberi organ kamo hrana stiže nakon što je progutamo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-013",
+      "tezina": "lagano",
+      "pitanje": "Koji od navedenih organa ne pripada sustavu organa za probavu?",
+      "ponudeni": [
+        "Pluća",
+        "Jednjak",
+        "Želudac",
+        "Tanko crijevo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pluća su organ za disanje. Jednjak, želudac i tanko crijevo organi su za probavu.",
+      "savjet": "Pronađi organ koji ne radi s hranom, nego sa zrakom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-014",
+      "tezina": "lagano",
+      "pitanje": "Koliko često treba prati zube?",
+      "ponudeni": [
+        "Jednom tjedno",
+        "Samo kad zubi zabole",
+        "Barem dvaput dnevno",
+        "Samo za vikend"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zube treba prati barem dvaput dnevno, ujutro i navečer prije spavanja.",
+      "savjet": "Sjeti se dijelova dana kad zube pereš kod kuće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-015",
+      "tezina": "lagano",
+      "pitanje": "Što treba učiniti prije svakog obroka?",
+      "ponudeni": [
+        "Pojesti nešto slatko",
+        "Pogledati crtić",
+        "Popiti gazirani sok",
+        "Oprati ruke sapunom i vodom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prije jela ruke peremo sapunom i vodom da klice s ruku ne dospiju u usta.",
+      "savjet": "Razmisli što čuva hranu od klica koje su na rukama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-016",
+      "tezina": "lagano",
+      "pitanje": "Koje je piće najbolje kad smo žedni?",
+      "ponudeni": [
+        "Zaslađeni gazirani sok",
+        "Voda",
+        "Ledeni čaj sa šećerom",
+        "Energetsko piće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda najbolje utažuje žeđ i nema dodanog šećera koji šteti zubima.",
+      "savjet": "Odaberi piće bez šećera koje tijelu najviše treba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-017",
+      "tezina": "lagano",
+      "pitanje": "Koji obrok nakon noćnog sna daje tijelu energiju za školu i igru?",
+      "ponudeni": [
+        "Večera",
+        "Ručak",
+        "Doručak",
+        "Popodnevna užina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Doručak je prvi obrok u danu. Nakon noći daje energiju za učenje i igru.",
+      "savjet": "Sjeti se što jedeš ujutro prije polaska u školu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-018",
+      "tezina": "lagano",
+      "pitanje": "Čega bi trebalo jesti svaki dan, i to više puta?",
+      "ponudeni": [
+        "Voća i povrća",
+        "Slatkiša",
+        "Slanih grickalica",
+        "Gaziranih sokova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Voće i povrće treba jesti svaki dan jer sadrže vitamine i tvari važne za zdravlje.",
+      "savjet": "Razmisli što raste u voćnjaku i vrtu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-019",
+      "tezina": "lagano",
+      "pitanje": "Što se može dogoditi sa zubima ako jedemo mnogo slatkiša, a zube ne peremo?",
+      "ponudeni": [
+        "Zubi postanu jači",
+        "Zubi brže rastu",
+        "Zubi postanu bjelji",
+        "Na zubima nastane karijes"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ostaci slatke hrane na neopranim zubima uzrokuju karijes, odnosno kvarenje zubi.",
+      "savjet": "Sjeti se zašto stomatolog popravlja zube."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-020",
+      "tezina": "lagano",
+      "pitanje": "Kod koga odlazimo na redoviti pregled zubi?",
+      "ponudeni": [
+        "Kod veterinara",
+        "Kod stomatologa",
+        "Kod ljekarnika",
+        "Kod optičara"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stomatolog (zubar) pregledava zube i popravlja ih ako su oštećeni.",
+      "savjet": "Sjeti se kako se još naziva zubar."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-021",
+      "tezina": "lagano",
+      "pitanje": "Zašto hranu treba dobro prožvakati?",
+      "ponudeni": [
+        "Da je lakše progutamo i probavimo",
+        "Da se brže ohladi",
+        "Da bismo pojeli više",
+        "Da zubi brže narastu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dobro prožvakanu hranu lakše je progutati, a želudac i crijeva lakše je probave.",
+      "savjet": "Razmisli je li lakše progutati velik komad ili sitne komadiće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-022",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu prvi zubi koji djeci kasnije ispadaju?",
+      "ponudeni": [
+        "Umnjaci",
+        "Očnjaci",
+        "Kutnjaci",
+        "Mliječni zubi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prvi zubi zovu se mliječni zubi. Oni ispadaju, a na njihovo mjesto rastu trajni zubi.",
+      "savjet": "Sjeti se kako se zovu zubi koje zubić vila nosi ispod jastuka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-023",
+      "tezina": "lagano",
+      "pitanje": "Što treba učiniti s voćem i povrćem prije jela?",
+      "ponudeni": [
+        "Posoliti ga",
+        "Oprati ga čistom vodom",
+        "Zamrznuti ga",
+        "Pošećeriti ga"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voće i povrće peremo čistom vodom da uklonimo prljavštinu i klice.",
+      "savjet": "Razmisli kako se uklanja prljavština koju ne vidimo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-024",
+      "tezina": "lagano",
+      "pitanje": "Što je zdraviji izbor za užinu?",
+      "ponudeni": [
+        "Čips",
+        "Bomboni",
+        "Jabuka ili mrkva",
+        "Čokoladni keksi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jabuka ili mrkva imaju vitamine i nemaju dodanog šećera ni soli, pa su zdrava užina.",
+      "savjet": "Odaberi užinu koja je izrasla u voćnjaku ili vrtu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-025",
+      "tezina": "lagano",
+      "pitanje": "U kojem se organu za probavu nalaze zubi i jezik?",
+      "ponudeni": [
+        "U ustima",
+        "U želucu",
+        "U jednjaku",
+        "U ždrijelu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zubi i jezik nalaze se u ustima, gdje probava počinje.",
+      "savjet": "Sjeti se gdje se nalazi hrana dok je žvačeš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-026",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva dio puta hrane u grlu, između usta i jednjaka?",
+      "ponudeni": [
+        "Želudac",
+        "Ždrijelo",
+        "Jetra",
+        "Debelo crijevo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ždrijelo je u grlu. Kroz njega progutana hrana prelazi iz usta u jednjak.",
+      "savjet": "Razmisli kroz koji dio grla zalogaj prolazi odmah nakon usta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-027",
+      "tezina": "lagano",
+      "pitanje": "Čime peremo zube?",
+      "ponudeni": [
+        "Četkicom i pastom za zube",
+        "Češljem",
+        "Spužvom za suđe",
+        "Ručnikom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zube peremo četkicom i pastom za zube, a svatko ima svoju četkicu.",
+      "savjet": "Sjeti se što stoji u čaši pokraj umivaonika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-028",
+      "tezina": "lagano",
+      "pitanje": "Kako treba jesti da bi se hrana dobro probavila?",
+      "ponudeni": [
+        "Brzo, u velikim zalogajima",
+        "Dok trčimo po dvorištu",
+        "Polako, dobro žvačući svaki zalogaj",
+        "Uz pričanje s punim ustima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad jedemo polako i dobro žvačemo, hrana se lakše guta i probavlja.",
+      "savjet": "Razmisli pomaže li žurba za stolom tvom želucu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-029",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih organa posljednji na putu hrane kroz tijelo?",
+      "ponudeni": [
+        "Želudac",
+        "Jednjak",
+        "Tanko crijevo",
+        "Debelo crijevo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrana prolazi kroz usta, jednjak, želudac i tanko crijevo, a na kraju kroz debelo crijevo.",
+      "savjet": "Posloži organe redom od usta prema dolje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-030",
+      "tezina": "lagano",
+      "pitanje": "Kakva treba biti prehrana da bismo bili zdravi?",
+      "ponudeni": [
+        "Raznolika, s mnogo različitih namirnica",
+        "Samo od jedne omiljene namirnice",
+        "Uglavnom od slatkiša",
+        "Bez voća i povrća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zdrava je prehrana raznolika jer tijelo iz različitih namirnica dobiva različite potrebne tvari.",
+      "savjet": "Razmisli može li jedna jedina namirnica dati tijelu sve što mu treba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-031",
+      "tezina": "srednje",
+      "pitanje": "Koja je uloga jednjaka?",
+      "ponudeni": [
+        "Prenosi hranu od ždrijela do želuca",
+        "Hranjive tvari iz njega prelaze u krv",
+        "Stvara slinu",
+        "Usitnjava hranu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jednjak je cijev koja progutanu hranu prenosi do želuca. U njemu se hrana ne probavlja.",
+      "savjet": "Sjeti se gdje se jednjak nalazi i što je iznad, a što ispod njega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-032",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s hranom u želucu?",
+      "ponudeni": [
+        "Hranjive tvari prelaze u krv",
+        "Miješa se sa želučanim sokovima i razgrađuje",
+        "Iz ostataka se upija voda",
+        "Zubi je usitnjavaju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U želucu se hrana miješa sa želučanim sokovima i razgrađuje u kašu.",
+      "savjet": "Sjeti se kakve sokove stvara želudac."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-033",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s hranom u tankom crijevu?",
+      "ponudeni": [
+        "Usitnjava se zubima",
+        "Vlaži se slinom",
+        "Probavi se do kraja, a hranjive tvari prelaze u krv",
+        "Iz nje nastaje žuč"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U tankom crijevu hrana se probavi do kraja, a hranjive tvari prelaze u krv.",
+      "savjet": "Razmisli kako hranjive tvari iz hrane dospiju u ostale dijelove tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-034",
+      "tezina": "srednje",
+      "pitanje": "Koja je uloga debelog crijeva?",
+      "ponudeni": [
+        "Stvara žuč",
+        "Prenosi hranu u želudac",
+        "Usitnjava hranu",
+        "Iz ostataka hrane upija vodu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Debelo crijevo iz neprobavljenih ostataka hrane upija vodu, a ostaci zatim izlaze iz tijela.",
+      "savjet": "Sjeti se što stiže u debelo crijevo nakon što tanko crijevo uzme hranjive tvari."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-035",
+      "tezina": "srednje",
+      "pitanje": "Kako jetra pomaže probavi?",
+      "ponudeni": [
+        "Melje hranu poput zubi",
+        "Stvara žuč koja pomaže probavi masne hrane",
+        "Prenosi hranu do želuca",
+        "Upija vodu iz ostataka hrane"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jetra stvara žuč. Žuč pomaže pri probavi masne hrane.",
+      "savjet": "Sjeti se da hrana ne prolazi kroz jetru, ali jetra ipak stvara nešto korisno za probavu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-036",
+      "tezina": "srednje",
+      "pitanje": "Kojim redom hrana prolazi kroz organe za probavu?",
+      "ponudeni": [
+        "usta → želudac → jednjak → tanko crijevo → debelo crijevo",
+        "usta → jednjak → tanko crijevo → želudac → debelo crijevo",
+        "usta → jednjak → želudac → tanko crijevo → debelo crijevo",
+        "usta → jednjak → želudac → debelo crijevo → tanko crijevo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrana iz usta ide u jednjak, zatim u želudac, pa u tanko crijevo i na kraju u debelo crijevo.",
+      "savjet": "Sjeti se da se hranjive tvari upiju prije nego što ostaci izađu iz tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-037",
+      "tezina": "srednje",
+      "pitanje": "Zašto ne bismo trebali često jesti jako slanu hranu i slane grickalice?",
+      "ponudeni": [
+        "Imaju previše vitamina",
+        "Sol jača zube",
+        "Sol zamjenjuje vodu",
+        "Previše soli i masnoća nije dobro za zdravlje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slane grickalice imaju mnogo soli i masnoća, a malo tvari koje su tijelu potrebne.",
+      "savjet": "Razmisli što se u čipsu krije osim krumpira."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-038",
+      "tezina": "srednje",
+      "pitanje": "Zašto je slina važna za probavu?",
+      "ponudeni": [
+        "Vlaži hranu, pa se lakše guta i počinje probava",
+        "Hladi zube nakon jela",
+        "Prenosi hranu iz želuca u crijeva",
+        "Iz nje nastaju hranjive tvari"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Slina vlaži i omekšava hranu, pa se zalogaj lakše proguta. Uz slinu probava počinje već u ustima.",
+      "savjet": "Pokušaj zamisliti kako bi bilo progutati suhi keks u potpuno suhim ustima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-039",
+      "tezina": "srednje",
+      "pitanje": "Koje su namirnice važne za zdrave zube i kosti jer sadrže kalcij?",
+      "ponudeni": [
+        "Bomboni i lizalice",
+        "Mlijeko i jogurt",
+        "Gazirani sokovi",
+        "Čips i flips"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mlijeko i mliječni proizvodi sadrže kalcij koji je potreban za zdrave zube i kosti.",
+      "savjet": "Sjeti se bijele namirnice koju dobivamo od krave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-040",
+      "tezina": "srednje",
+      "pitanje": "Zašto peremo ruke prije jela?",
+      "ponudeni": [
+        "Da hrana bude slađa",
+        "Da brže pojedemo",
+        "Da klice s ruku ne dospiju u usta s hranom",
+        "Da ruke budu tople"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na rukama su klice koje ne vidimo. Pranjem ih uklanjamo, pa ne dospiju u tijelo s hranom.",
+      "savjet": "Razmisli što sve dodiruješ rukama tijekom dana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-041",
+      "tezina": "srednje",
+      "pitanje": "Koja je uloga zubi, a koja jezika?",
+      "ponudeni": [
+        "Zubi stvaraju slinu, a jezik usitnjava hranu",
+        "Zubi usitnjavaju hranu, a jezik je miješa i premješta",
+        "Zubi prenose hranu u želudac, a jezik je melje",
+        "Zubi upijaju hranjive tvari, a jezik stvara žuč"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zubi odgrizaju i usitnjavaju hranu, a jezik je miješa sa slinom i premješta prema ždrijelu.",
+      "savjet": "Razmisli što radi tvrdi dio usta, a što pokretljivi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-042",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dobro svaki dan jesti voće i povrće?",
+      "ponudeni": [
+        "Imaju najviše masnoća od sve hrane",
+        "Ne treba ih prati prije jela",
+        "Zamjenjuju sve druge namirnice",
+        "Imaju mnogo vitamina i minerala"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voće i povrće imaju mnogo vitamina i minerala koji tijelu pomažu da bude zdravo.",
+      "savjet": "Sjeti se zašto zimi jedemo naranče i mandarine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-043",
+      "tezina": "srednje",
+      "pitanje": "Gdje se u tijelu nalazi želudac?",
+      "ponudeni": [
+        "U gornjem dijelu trbuha",
+        "U prsnom košu pokraj srca",
+        "U vratu, ispod ždrijela",
+        "U glavi, iza usta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Želudac je u gornjem dijelu trbuha, ispod prsnog koša.",
+      "savjet": "Sjeti se gdje osjećaš sitost nakon obilnog ručka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto slatkiše treba jesti rijetko i u maloj količini?",
+      "ponudeni": [
+        "Imaju previše vitamina",
+        "Kvare zube, a daju malo tvari potrebnih tijelu",
+        "Jačaju zube pa ih ne treba prati",
+        "Zamjenjuju vodu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Slatkiši imaju mnogo šećera koji kvari zube, a malo vitamina i drugih tvari potrebnih tijelu.",
+      "savjet": "Sjeti se što šećer radi zubima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-045",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s dijelom hrane koji tijelo ne može probaviti?",
+      "ponudeni": [
+        "Ostaje zauvijek u želucu",
+        "Vraća se u usta",
+        "Izlazi iz tijela kao izmet",
+        "Krv ga raznosi tijelom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Neprobavljeni ostaci hrane iz debelog crijeva izlaze iz tijela kao izmet.",
+      "savjet": "Razmisli što se događa na kraju puta hrane kroz tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-046",
+      "tezina": "srednje",
+      "pitanje": "Zašto kažemo da probava počinje u ustima?",
+      "ponudeni": [
+        "Ondje hranjive tvari prelaze u krv",
+        "Ondje se stvara žuč",
+        "Ondje neprobavljeni ostaci izlaze iz tijela",
+        "Ondje zubi usitnjavaju hranu, a slina je vlaži"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U ustima zubi usitnjavaju hranu, a slina je vlaži. Tako počinje probava.",
+      "savjet": "Sjeti se što se događa sa zalogajem prije nego što ga progutaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-047",
+      "tezina": "srednje",
+      "pitanje": "Kamo hrana putuje nakon što izađe iz želuca?",
+      "ponudeni": [
+        "U tanko crijevo",
+        "U debelo crijevo",
+        "U jednjak",
+        "U jetru"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iz želuca hrana prelazi u tanko crijevo, gdje se probavi do kraja.",
+      "savjet": "Sjeti se gdje hranjive tvari prelaze u krv."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-048",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se jetra razlikuje od želuca i crijeva?",
+      "ponudeni": [
+        "Jetra je u ustima",
+        "Jetra prenosi hranu u želudac",
+        "Kroz jetru ne prolazi hrana, ali ona pomaže probavi",
+        "Jetra upija vodu iz ostataka hrane"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrana prolazi kroz želudac i crijeva, ali ne i kroz jetru. Jetra pomaže probavi tako što stvara žuč.",
+      "savjet": "Razmisli nalazi li se jetra na samom putu hrane od usta do debelog crijeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-049",
+      "tezina": "srednje",
+      "pitanje": "Zašto tijekom dana treba piti dovoljno vode?",
+      "ponudeni": [
+        "Voda je glavni izvor energije",
+        "Voda sadrži mnogo šećera",
+        "Voda je potrebna za rad organa, pa i za probavu",
+        "Voda zamjenjuje sve obroke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tijelu je voda potrebna za rad svih organa, a pomaže i probavi hrane.",
+      "savjet": "Razmisli što se događa s tijelom kad dugo ništa ne pije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-050",
+      "tezina": "srednje",
+      "pitanje": "Koji je pravilan redoslijed obroka tijekom dana?",
+      "ponudeni": [
+        "večera, užina, ručak, užina, doručak",
+        "ručak, doručak, užina, večera, užina",
+        "užina, večera, doručak, ručak, užina",
+        "doručak, užina, ručak, užina, večera"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dan počinje doručkom, slijede užina i ručak, zatim još jedna užina, a dan završava večerom.",
+      "savjet": "Kreni od obroka koji jedeš ujutro nakon buđenja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-051",
+      "tezina": "srednje",
+      "pitanje": "Što se može dogoditi kad netko ujutro ne doručkuje?",
+      "ponudeni": [
+        "U školi može biti umoran i teže pratiti nastavu",
+        "Bit će odmorniji nego inače",
+        "Zubi će mu ojačati",
+        "Probava će mu biti brža"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bez doručka tijelo nakon noći nema dovoljno energije, pa se teže učiti i pratiti nastavu.",
+      "savjet": "Sjeti se odakle tijelo ujutro dobiva energiju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto nije dobro jesti dok gledamo televiziju ili mobitel?",
+      "ponudeni": [
+        "Ekran uništava vitamine u hrani",
+        "Ne pazimo kako i koliko jedemo",
+        "Hrana se brže pokvari",
+        "Slina tada prestane nastajati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad gledamo ekran, ne pazimo na hranu, pa lako jedemo prebrzo ili pojedemo previše.",
+      "savjet": "Razmisli na što pazimo kad nam je pažnja na ekranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-053",
+      "tezina": "srednje",
+      "pitanje": "Što nam govori rok trajanja na pakiranju hrane?",
+      "ponudeni": [
+        "Koliko hrana košta",
+        "Koliko je hrana teška",
+        "Do kada je hrana sigurna za jelo ako se pravilno čuva",
+        "Kada je hrana stigla u trgovinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rok trajanja pokazuje do kada je hrana sigurna za jelo ako je pravilno čuvamo.",
+      "savjet": "Razmisli što znači riječ „trajanje“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto zube treba oprati i navečer prije spavanja?",
+      "ponudeni": [
+        "Da brže zaspimo",
+        "Da sutra ne moramo doručkovati",
+        "Da slina prestane nastajati",
+        "Da ostaci hrane ne ostanu na zubima preko noći"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ostaci hrane koji preko noći ostanu na zubima mogu uzrokovati karijes.",
+      "savjet": "Razmisli koliko dugo zubi ostaju neoprani ako ih ne opereš do jutra."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-055",
+      "tezina": "srednje",
+      "pitanje": "Kojim zubima najprije odgrizemo komad jabuke?",
+      "ponudeni": [
+        "Kutnjacima",
+        "Sjekutićima",
+        "Umnjacima",
+        "Nijednima, jabuku gutamo cijelu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prednji zubi, sjekutići, oštri su i služe za odgrizanje. Kutnjaci straga melju hranu.",
+      "savjet": "Razmisli kojim dijelom usta zagrizeš jabuku – prednjim ili stražnjim."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-056",
+      "tezina": "srednje",
+      "pitanje": "Koji se organi za probavu nalaze u trbuhu?",
+      "ponudeni": [
+        "Usta i jezik",
+        "Ždrijelo i zubi",
+        "Želudac i crijeva",
+        "Jezik i ždrijelo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U trbuhu su želudac, tanko i debelo crijevo te jetra. Usta, zubi, jezik i ždrijelo nalaze se u glavi i vratu.",
+      "savjet": "Sjeti se koji organi „rade“ dugo nakon što progutamo hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-057",
+      "tezina": "srednje",
+      "pitanje": "Kamo progutana hrana ide iz ždrijela?",
+      "ponudeni": [
+        "U dušnik",
+        "U tanko crijevo",
+        "U jednjak",
+        "U pluća"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iz ždrijela hrana ide u jednjak. U dušnik ide zrak, a ne hrana.",
+      "savjet": "Razmisli koja cijev vodi hranu, a koja zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-058",
+      "tezina": "srednje",
+      "pitanje": "Koja je uloga sustava organa za probavu?",
+      "ponudeni": [
+        "Iz hrane dobiti hranjive tvari potrebne tijelu",
+        "Dovesti kisik u tijelo",
+        "Pokretati tijelo",
+        "Primati podražaje iz okoline"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sustav organa za probavu razgrađuje hranu i iz nje uzima hranjive tvari koje su tijelu potrebne.",
+      "savjet": "Razmisli što nam hrana daje i tko to iz nje izvlači."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-059",
+      "tezina": "srednje",
+      "pitanje": "Koji je ručak najbolji primjer raznolike i zdrave prehrane?",
+      "ponudeni": [
+        "Čips i gazirani sok",
+        "Krafna i kakao sa šećerom",
+        "Samo bomboni",
+        "Riba, krumpir, salata i čaša vode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riba, krumpir, salata i voda daju tijelu različite potrebne tvari, a nemaju mnogo šećera.",
+      "savjet": "Potraži obrok u kojem je više različitih vrsta hrane, uključujući povrće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-060",
+      "tezina": "srednje",
+      "pitanje": "Zašto ne bismo trebali pričati i smijati se s punim ustima?",
+      "ponudeni": [
+        "Hrana se tada brže probavi",
+        "Slina se tada brže stvara",
+        "Zubi se tada brže kvare",
+        "Hrana može krenuti u dušnik pa se zagrcnemo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dok pričamo s punim ustima, hrana može krenuti u dušnik umjesto u jednjak, pa se zagrcnemo.",
+      "savjet": "Sjeti se kroz koju cijev u vratu prolazi zrak dok govorimo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-061",
+      "tezina": "tesko",
+      "pitanje": "Hranjive tvari iz pojedene jabuke stigle su do mišića u nozi. Kojim su putem putovale?",
+      "ponudeni": [
+        "usta → jednjak → želudac → tanko crijevo → krv → mišić",
+        "usta → jednjak → želudac → debelo crijevo → izmet → mišić",
+        "usta → jednjak → krv → želudac → mišić",
+        "usta → dušnik → pluća → želudac → mišić"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrana prolazi kroz usta, jednjak i želudac do tankog crijeva. Ondje hranjive tvari prelaze u krv, a krv ih raznosi do mišića.",
+      "savjet": "Sjeti se u kojem organu hranjive tvari ulaze u krv."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-062",
+      "tezina": "tesko",
+      "pitanje": "Zašto je za rad crijeva dobro jesti voće i povrće te piti dovoljno vode?",
+      "ponudeni": [
+        "Zaustavljaju rad crijeva",
+        "Pomažu da ostaci hrane lakše prolaze kroz crijeva",
+        "Zamjenjuju žuč iz jetre",
+        "Sprječavaju nastanak sline"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voće, povrće i voda pomažu da se ostaci hrane lakše kreću kroz crijeva i izađu iz tijela.",
+      "savjet": "Razmisli što se događa s ostacima hrane na kraju puta kroz tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-063",
+      "tezina": "tesko",
+      "pitanje": "Zamisli da hranjive tvari ne mogu prijeći iz crijeva u krv. Što bi se dogodilo?",
+      "ponudeni": [
+        "Ne bismo mogli disati",
+        "Hrana bi se vraćala u usta",
+        "Tijelo ne bi dobivalo tvari potrebne za rast i energiju",
+        "Ne bismo mogli osjetiti okus hrane"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krv raznosi hranjive tvari po cijelom tijelu. Bez njih tijelo ne bi imalo tvari za rast i energiju.",
+      "savjet": "Razmisli zašto uopće jedemo i kako hrana stiže do svih dijelova tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-064",
+      "tezina": "tesko",
+      "pitanje": "Petra je u gostima pojela kolač, a četkicu za zube nema kod sebe. Što je najbolje učiniti dok ne stigne kući?",
+      "ponudeni": [
+        "Pojesti još jedan kolač",
+        "Popiti gazirani sok",
+        "Ne raditi ništa do sutra navečer",
+        "Isprati usta vodom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ispiranje usta vodom uklanja dio ostataka slatke hrane sa zubi. Kod kuće treba oprati zube.",
+      "savjet": "Razmisli što može barem dio ostataka hrane ukloniti sa zubi bez četkice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-065",
+      "tezina": "tesko",
+      "pitanje": "Na izletu nema vode ni sapuna, a Ivan želi rukama jesti sendvič. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Očistiti ruke vlažnom maramicom prije jela",
+        "Obrisati ruke o hlače",
+        "Jesti odmah jer ruke izgledaju čisto",
+        "Samo puhnuti u ruke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad nema vode i sapuna, vlažna maramica uklanja dio prljavštine i klica s ruku prije jela.",
+      "savjet": "Razmisli što od ponuđenoga stvarno uklanja prljavštinu s ruku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-066",
+      "tezina": "tesko",
+      "pitanje": "Teo kaže da mliječne zube ne treba prati jer će ionako ispasti. Zašto nije u pravu?",
+      "ponudeni": [
+        "Mliječni zubi nikad ne ispadaju",
+        "Mliječnim zubima također žvačemo, a mogu se pokvariti",
+        "Trajni zubi rastu samo ako su mliječni bijeli",
+        "Mliječni zubi stvaraju slinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mliječnim zubima djeca žvaču hranu godinama, a i oni mogu dobiti karijes i boljeti. Zato ih treba prati.",
+      "savjet": "Razmisli koliko dugo dijete koristi mliječne zube za žvakanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-067",
+      "tezina": "tesko",
+      "pitanje": "Zašto mlijeko i meso nakon kupnje treba odmah staviti u hladnjak?",
+      "ponudeni": [
+        "Hladna hrana ima više vitamina",
+        "Tako hrana postaje slađa",
+        "Na hladnom se klice sporije razmnožavaju, pa se hrana sporije kvari",
+        "Hladnu hranu ne treba žvakati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na toplom se klice brzo razmnožavaju i hrana se kvari. U hladnjaku se to događa mnogo sporije.",
+      "savjet": "Razmisli zašto se hrana ljeti na stolu brže pokvari nego zimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-068",
+      "tezina": "tesko",
+      "pitanje": "Poklopac jogurta je napuhnut, a jogurt čudno miriše. Što treba zaključiti?",
+      "ponudeni": [
+        "Jogurt je posebno svjež",
+        "Jogurt treba samo dobro protresti",
+        "Jogurt je zdraviji nego inače",
+        "Jogurt se pokvario i ne treba ga jesti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Napuhnuto pakiranje i neobičan miris znakovi su pokvarene hrane, koju ne smijemo jesti.",
+      "savjet": "Razmisli kako izgleda i miriše svježa hrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-069",
+      "tezina": "tesko",
+      "pitanje": "Zašto je bolje jesti nekoliko manjih obroka tijekom dana nego samo jedan velik?",
+      "ponudeni": [
+        "Tijelo tako cijeli dan dobiva energiju, a probava nije preopterećena",
+        "Tako zube ne treba prati",
+        "Jedan velik obrok uvijek ima više vitamina",
+        "Želudac tako prestane stvarati sokove"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Redoviti manji obroci daju tijelu energiju tijekom cijelog dana, a želudac i crijeva lakše ih probave.",
+      "savjet": "Razmisli treba li tijelu energija samo jednom dnevno ili stalno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-070",
+      "tezina": "tesko",
+      "pitanje": "Zašto je dobro da hrana prvo prođe kroz tanko, a tek onda kroz debelo crijevo?",
+      "ponudeni": [
+        "Debelo crijevo stvara slinu za tanko crijevo",
+        "Najprije se hranjive tvari prenesu u krv, a ostaci zatim izlaze iz tijela",
+        "Tanko crijevo usitnjava hranu poput zubi",
+        "Debelo crijevo vraća hranu u želudac"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U tankom crijevu tijelo uzme hranjive tvari, a u debelom crijevu ostaju samo ostaci koji izlaze iz tijela.",
+      "savjet": "Razmisli što bi se izgubilo kad bi ostaci izašli prije nego što tijelo uzme ono što mu treba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-071",
+      "tezina": "tesko",
+      "pitanje": "Koji organ za probavu radi poput mješalice u koju hrana stiže i u kojoj se miješa sa sokovima?",
+      "ponudeni": [
+        "Jednjak",
+        "Jezik",
+        "Želudac",
+        "Debelo crijevo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Želudac zadržava hranu i miješa je sa želučanim sokovima, slično mješalici.",
+      "savjet": "Sjeti se organa u kojem hrana postaje kašasta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-072",
+      "tezina": "tesko",
+      "pitanje": "Koji organ za probavu možemo usporediti s cijevi koja zalogaj spušta iz grla prema trbuhu?",
+      "ponudeni": [
+        "Jetru",
+        "Tanko crijevo",
+        "Želudac",
+        "Jednjak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jednjak je cijev koja povezuje ždrijelo i želudac. Kroz nju progutana hrana putuje prema želucu.",
+      "savjet": "Sjeti se što je smješteno između ždrijela i želuca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-073",
+      "tezina": "tesko",
+      "pitanje": "Ema je za užinu ponijela voćnu salatu, a Toni vrećicu čipsa. Tko je odabrao zdraviju užinu i zašto?",
+      "ponudeni": [
+        "Toni, jer čips daje mnogo energije",
+        "Toni, jer je čips od krumpira, a krumpir je povrće",
+        "Ema, jer je voćna salata slađa",
+        "Ema, jer voće ima vitamine, a nema dodane soli i masnoća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voćna salata daje vitamine, a čips ima mnogo soli i masnoća pa nije zdrava užina.",
+      "savjet": "Usporedi što se, osim osnovne namirnice, nalazi u svakoj užini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-074",
+      "tezina": "tesko",
+      "pitanje": "Zašto je važno da progutana hrana ide u jednjak, a ne u dušnik?",
+      "ponudeni": [
+        "Dušnik vodi zrak u pluća, pa bi hrana u njemu ometala disanje",
+        "Dušnik bi hranu probavio prebrzo",
+        "U dušniku se hrana pretvara u krv",
+        "Dušnik vodi hranu ravno u debelo crijevo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dušnik je dio sustava za disanje i kroz njega zrak ide u pluća. Hrana u dušniku izaziva kašljanje i ometa disanje.",
+      "savjet": "Sjeti se kojem sustavu organa pripada dušnik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-075",
+      "tezina": "tesko",
+      "pitanje": "Lovro pere zube samo nekoliko sekundi. Što se zbog toga može dogoditi?",
+      "ponudeni": [
+        "Zubi će brže narasti",
+        "Ostaci hrane ostanu na zubima, pa može nastati karijes",
+        "Zubi će postati jači",
+        "Slina će prestati nastajati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prekratkim pranjem ne uklonimo sve ostatke hrane, pa se zubi mogu pokvariti. Zube treba prati temeljito.",
+      "savjet": "Razmisli može li se u nekoliko sekundi očistiti svaki zub."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-076",
+      "tezina": "tesko",
+      "pitanje": "Čije navike najbolje čuvaju organe za probavu?",
+      "ponudeni": [
+        "Matijine: preskače doručak, a navečer jede slatkiše",
+        "Lukine: jede brzo pred televizorom",
+        "Nikine: jede raznoliko, polako i u redovitim obrocima",
+        "Dorine: umjesto vode pije samo zaslađene sokove"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Raznolika hrana, polagano jedenje i redoviti obroci najbolje čuvaju zdravlje organa za probavu.",
+      "savjet": "Usporedi svaku naviku s onim što znaš o zdravoj prehrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-077",
+      "tezina": "tesko",
+      "pitanje": "Dok se kuha ručak, osjetiš miris jela i usta ti se napune slinom. Zašto je to korisno?",
+      "ponudeni": [
+        "Tijelo se tako priprema za spavanje",
+        "Slina hladi vruću hranu prije nego što je stavimo u usta",
+        "Slina pere ruke prije jela",
+        "Usta se pripremaju za jelo, pa će hranu lakše prožvakati i progutati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slina vlaži hranu, pa se ona lakše žvače i guta. Tijelo se tako unaprijed priprema za jelo.",
+      "savjet": "Sjeti se čemu služi slina pri jelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-078",
+      "tezina": "tesko",
+      "pitanje": "Zašto voće treba oprati čak i kad izgleda potpuno čisto?",
+      "ponudeni": [
+        "Na njemu mogu biti klice i prljavština koje se ne vide",
+        "Oprano voće postaje slađe",
+        "Voda dodaje voću vitamine",
+        "Neoprano voće ne može se prožvakati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Klice su toliko sitne da ih ne vidimo. Pranjem ih uklanjamo s kore voća.",
+      "savjet": "Razmisli može li se sve što je na kori vidjeti golim okom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-079",
+      "tezina": "tesko",
+      "pitanje": "Ivan je cijeli dan jeo samo bijeli kruh i slatkiše. Koji mu je savjet najkorisniji?",
+      "ponudeni": [
+        "Neka sutra jede još više slatkiša",
+        "Neka jede samo kruh, bez ičega drugog",
+        "Neka uz ostalu hranu jede i voće i povrće",
+        "Neka umjesto obroka pije gazirane sokove"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ivanu nedostaju voće i povrće. Raznolika prehrana daje tijelu sve potrebne tvari.",
+      "savjet": "Razmisli koja je vrsta hrane potpuno izostala iz Ivanova dana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-080",
+      "tezina": "tesko",
+      "pitanje": "Kako su povezani sustav organa za probavu i krvotok?",
+      "ponudeni": [
+        "Krv usitnjava hranu u ustima",
+        "Srce gura hranu kroz jednjak",
+        "Želudac pumpa krv kroz tijelo",
+        "Hranjive tvari iz tankog crijeva prelaze u krv, a krv ih raznosi tijelom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Probava daje hranjive tvari, a krvotok ih raznosi do svih dijelova tijela.",
+      "savjet": "Razmisli kako hranjive tvari iz trbuha stignu do mozga ili mišića."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-081",
+      "tezina": "tesko",
+      "pitanje": "Mila je ujutro preskočila doručak, a na odmoru je pojela tri krafne. Koja bi odluka bila bolja?",
+      "ponudeni": [
+        "Doručkovati kod kuće, a za užinu ponijeti voće ili sendvič",
+        "Preskočiti i užinu",
+        "Pojesti još više krafni",
+        "Umjesto krafni popiti energetsko piće"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Doručak daje energiju za jutro, a voće ili sendvič zdravija su užina od mnogo slatkiša.",
+      "savjet": "Razmisli što bi joj ujutro dalo energiju i koja je užina zdravija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-082",
+      "tezina": "tesko",
+      "pitanje": "Lana kaže: „Hrana iz želuca ide ravno u debelo crijevo.“ U čemu je pogriješila?",
+      "ponudeni": [
+        "Hrana iz želuca ide natrag u jednjak",
+        "Između želuca i debelog crijeva nalazi se tanko crijevo",
+        "Hrana iz želuca ide u jetru",
+        "Hrana iz želuca odmah izlazi iz tijela"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz želuca hrana ide u tanko crijevo, a tek zatim u debelo crijevo.",
+      "savjet": "Posloži organe za probavu redom i pogledaj što dolazi nakon želuca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto stomatologa posjećujemo redovito, i onda kad nas zubi ne bole?",
+      "ponudeni": [
+        "Da nam izvadi sve zube odjednom",
+        "Da više ne moramo prati zube",
+        "Da na vrijeme uoči i popravi oštećenja zubi",
+        "Da nam zubi brže narastu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na pregledu stomatolog može uočiti početak karijesa prije nego što zub zaboli i na vrijeme ga popraviti.",
+      "savjet": "Razmisli je li bolje mali problem riješiti odmah ili čekati da postane velik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-084",
+      "tezina": "tesko",
+      "pitanje": "Kakva postaje hrana nakon što se u želucu dobro izmiješa sa sokovima?",
+      "ponudeni": [
+        "Tvrda kao kamen",
+        "Kašasta",
+        "Pretvori se u zrak",
+        "Pretvori se u slinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Miješanjem sa želučanim sokovima hrana se razgrađuje i postaje kašasta, pa lakše ide dalje u tanko crijevo.",
+      "savjet": "Razmisli što se događa s keksom kad ga dugo držiš u mlijeku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-085",
+      "tezina": "tesko",
+      "pitanje": "Iva je na rođendanu pojela mnogo torte i čipsa i popila puno soka, pa osjeća težinu u trbuhu. Koji je zaključak najbolji?",
+      "ponudeni": [
+        "Slatkiše i grickalice bolje je jesti umjereno",
+        "Sljedeći put treba jesti brže",
+        "Gazirani sok pomaže probavi",
+        "Torta je najzdravija hrana"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Previše slatkiša, grickalica i soka odjednom opterećuje probavu. Bolje ih je jesti rijetko i u manjoj količini.",
+      "savjet": "Razmisli što je bilo previše na tom rođendanu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-086",
+      "tezina": "tesko",
+      "pitanje": "Kad bi hrana iz jednjaka išla ravno u tanko crijevo, koji bi korak probave izostao?",
+      "ponudeni": [
+        "Usitnjavanje hrane zubima",
+        "Upijanje vode u debelom crijevu",
+        "Miješanje hrane sa sokovima u želucu",
+        "Vlaženje hrane slinom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Između jednjaka i tankog crijeva nalazi se želudac, u kojem se hrana miješa sa želučanim sokovima.",
+      "savjet": "Sjeti se koji organ dolazi između jednjaka i tankog crijeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-087",
+      "tezina": "tesko",
+      "pitanje": "Koji organ na putu hrane dolazi neposredno prije želuca, a koji neposredno poslije njega?",
+      "ponudeni": [
+        "Prije tanko crijevo, a poslije jednjak",
+        "Prije usta, a poslije debelo crijevo",
+        "Prije ždrijelo, a poslije jetra",
+        "Prije jednjak, a poslije tanko crijevo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrana u želudac dolazi iz jednjaka, a iz želuca odlazi u tanko crijevo.",
+      "savjet": "Posloži organe za probavu redom i pronađi susjede želuca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto ne bismo trebali piti iz iste boce ni jesti istom žlicom kao prehlađena osoba?",
+      "ponudeni": [
+        "Boca se tako brže isprazni",
+        "Klice se mogu prenijeti preko sline",
+        "Žlica tako postane teža",
+        "Hrana tada gubi okus"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U slini bolesne osobe mogu biti klice koje se dijeljenjem boce ili žlice prenose na drugoga.",
+      "savjet": "Razmisli što ostaje na boci ili žlici nakon što ih netko stavi u usta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-089",
+      "tezina": "tesko",
+      "pitanje": "Zašto probava ne završava čim progutamo zalogaj?",
+      "ponudeni": [
+        "Zalogaj ostaje zauvijek u jednjaku",
+        "Probava se događa samo u ustima",
+        "Hrana se odmah pretvara u krv",
+        "Nakon gutanja hrana još dugo putuje kroz želudac i crijeva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nakon gutanja hrana prolazi kroz jednjak, želudac i crijeva, gdje se probavlja još dugo.",
+      "savjet": "Sjeti se koliko organa hrana prolazi nakon usta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-probavu-090",
+      "tezina": "tesko",
+      "pitanje": "Zašto dojenčad jede mlijeko i kašastu hranu, a ne tvrde komade?",
+      "ponudeni": [
+        "Još nemaju zube kojima bi žvakali tvrdu hranu",
+        "Tvrda hrana nema hranjivih tvari",
+        "Dojenčad nema želudac",
+        "Kašasta hrana ne treba se probaviti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dojenčad još nema zube ili ih ima vrlo malo, pa ne može prožvakati tvrdu hranu.",
+      "savjet": "Sjeti se što nam treba da bismo tvrdu hranu usitnili u ustima."
+    }
+  ]
+}

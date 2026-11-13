@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "ovisnosti-nasilje-i-trazenje-pomoci",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-001",
+      "tezina": "lagano",
+      "pitanje": "Što je ovisnost?",
+      "ponudeni": [
+        "Zdrava navika koju vrijedi zadržati",
+        "Navika koju je teško prekinuti, a šteti zdravlju",
+        "Bolest koja se prenosi kihanjem",
+        "Hobi kojim se bavimo vikendom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ovisnost je štetna navika koju je vrlo teško prekinuti. Osoba je teško ostavlja iako zna da joj šteti.",
+      "savjet": "Razmisli o navici koju osoba teško ostavlja iako joj ne čini dobro."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-002",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih navika štetna i stvara ovisnost?",
+      "ponudeni": [
+        "Vožnja bicikla",
+        "Čitanje knjiga",
+        "Plivanje",
+        "Pušenje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pušenje stvara ovisnost i šteti plućima i cijelom tijelu. Ostale navike korisne su za zdravlje.",
+      "savjet": "Potraži naviku pri kojoj se udiše dim."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-003",
+      "tezina": "lagano",
+      "pitanje": "Koja tvar u cigaretama izaziva ovisnost?",
+      "ponudeni": [
+        "Nikotin",
+        "Vitamin C",
+        "Kisik",
+        "Kalcij"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nikotin je tvar iz duhana zbog koje osoba postaje ovisna o cigaretama.",
+      "savjet": "Sjeti se kako se zove štetna tvar iz duhana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-004",
+      "tezina": "lagano",
+      "pitanje": "Koji organ za disanje najviše oštećuje pušenje?",
+      "ponudeni": [
+        "Bubrezi",
+        "Želudac",
+        "Pluća",
+        "Mišići"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dim cigareta ulazi u pluća i oštećuje ih, pa pušač teže diše.",
+      "savjet": "Razmisli kamo putuje dim koji pušač udahne."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-005",
+      "tezina": "lagano",
+      "pitanje": "Koji organ osobito oštećuje često pijenje alkohola?",
+      "ponudeni": [
+        "Nokti",
+        "Jetra",
+        "Kosa",
+        "Uši"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Alkohol jako oštećuje jetru, ali šteti i mozgu i drugim organima.",
+      "savjet": "Sjeti se organa koji pomaže probavi i čisti tijelo od štetnih tvari."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove ovisnost kad netko ne može prestati igrati igrice ni kad treba učiti ili spavati?",
+      "ponudeni": [
+        "Ljubav prema sportu",
+        "Dobra organizacija vremena",
+        "Zdrava navika",
+        "Ovisnost o ekranima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad igrice, mobitel ili internet postanu važniji od sna, učenja i druženja, to je ovisnost o ekranima.",
+      "savjet": "Razmisli na čemu se igraju igrice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-007",
+      "tezina": "lagano",
+      "pitanje": "Što je zdrava zamjena za dugo sjedenje uz mobitel?",
+      "ponudeni": [
+        "Gledanje videa do kasno u noć",
+        "Igra s prijateljima na igralištu",
+        "Igranje igrica u krevetu",
+        "Pijenje energetskog pića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Igra na otvorenom s prijateljima pokreće tijelo i veseli nas, a ne šteti zdravlju.",
+      "savjet": "Potraži aktivnost u kojoj se krećeš i družiš uživo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-008",
+      "tezina": "lagano",
+      "pitanje": "Koji broj može nazvati dijete koje treba razgovor i savjet jer ga netko vrijeđa?",
+      "ponudeni": [
+        "Broj gradske knjižnice",
+        "Broj nepoznate osobe s interneta",
+        "116 111 – Hrabri telefon",
+        "Broj trgovine u susjedstvu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrabri telefon 116 111 besplatan je broj na kojem djeca mogu razgovarati i dobiti savjet i pomoć.",
+      "savjet": "Sjeti se telefona koji je posebno namijenjen djeci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-009",
+      "tezina": "lagano",
+      "pitanje": "Na koji broj treba nazvati u hitnom slučaju, kad je netko teško ozlijeđen?",
+      "ponudeni": [
+        "112",
+        "Na broj prijatelja iz razreda",
+        "Ne treba zvati nikoga",
+        "Na broj omiljene trgovine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "112 je jedinstveni broj za hitne slučajeve. Na njega se zove kad je nekome hitno potrebna pomoć.",
+      "savjet": "Sjeti se broja za hitne slučajeve koji vrijedi u cijeloj Europi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-010",
+      "tezina": "lagano",
+      "pitanje": "Što je nasilje?",
+      "ponudeni": [
+        "Igra u kojoj se svi zabavljaju",
+        "Natjecanje u sportu po pravilima",
+        "Pomaganje prijatelju u nevolji",
+        "Namjerno nanošenje boli ili straha drugome"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nasilje je ponašanje kojim netko namjerno povrijedi drugoga, tjelesno, riječima ili na neki drugi način.",
+      "savjet": "Razmisli što je zajedničko udaranju, vrijeđanju i ružnim porukama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-011",
+      "tezina": "lagano",
+      "pitanje": "Koji je primjer tjelesnog nasilja?",
+      "ponudeni": [
+        "Ruganje nečijoj odjeći",
+        "Guranje i udaranje",
+        "Slanje ružnih poruka",
+        "Izostavljanje iz igre"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tjelesno nasilje je kad netko nekoga namjerno gura, udara ili na drugi način ozljeđuje tijelo.",
+      "savjet": "Riječ „tjelesno“ dolazi od riječi tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-012",
+      "tezina": "lagano",
+      "pitanje": "Koji je primjer nasilja riječima (verbalnog nasilja)?",
+      "ponudeni": [
+        "Zajedničko učenje za test",
+        "Posuđivanje olovke",
+        "Nazivanje nekoga pogrdnim imenima",
+        "Pozdravljanje susjeda"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijeđanje, ruganje i nazivanje pogrdnim imenima nasilje je riječima. I riječi mogu jako povrijediti.",
+      "savjet": "Potraži ponašanje u kojem riječi služe da nekoga povrijede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-013",
+      "tezina": "lagano",
+      "pitanje": "Koji je primjer elektroničkog nasilja?",
+      "ponudeni": [
+        "Ismijavanje nekoga u porukama i objavama",
+        "Gledanje crtića na tabletu",
+        "Slanje čestitke baki za rođendan",
+        "Traženje podataka za školski rad"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Elektroničko nasilje događa se preko mobitela i interneta, npr. ružnim porukama, objavama ili slikama.",
+      "savjet": "Elektroničko nasilje događa se preko mobitela, računala i interneta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-014",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove nasilje kad nekoga namjerno stalno izostavljaju iz igre i druženja?",
+      "ponudeni": [
+        "Tjelesno nasilje",
+        "Elektroničko nasilje",
+        "Natjecanje",
+        "Isključivanje iz društva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad skupina namjerno ne prihvaća nekoga i ne da mu da se druži s njima, to je isključivanje iz društva.",
+      "savjet": "Razmisli što se događa s osobom koju drugi ne žele primiti u društvo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-015",
+      "tezina": "lagano",
+      "pitanje": "Kome se treba obratiti dijete kojem se događa nasilje?",
+      "ponudeni": [
+        "Nepoznatoj osobi na internetu",
+        "Odrasloj osobi od povjerenja",
+        "Osobi koja se nasilno ponaša",
+        "Nikome, treba šutjeti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "O nasilju treba reći odrasloj osobi od povjerenja, npr. roditelju, učitelju, pedagogu ili psihologu.",
+      "savjet": "Razmisli tko može zaštititi dijete i zaustaviti nasilje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-016",
+      "tezina": "lagano",
+      "pitanje": "Tko je odgovoran za nasilje?",
+      "ponudeni": [
+        "Dijete kojem se nasilje događa",
+        "Učitelj koji nije bio u razredu",
+        "Onaj tko se ponaša nasilno",
+        "Svi učenici u razredu jednako"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za nasilje je odgovoran onaj tko ga čini. Dijete kojem se nasilje događa nije krivo.",
+      "savjet": "Razmisli tko je odlučio nekoga povrijediti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-017",
+      "tezina": "lagano",
+      "pitanje": "Tko je u školi osoba od povjerenja kojoj se možeš obratiti za pomoć?",
+      "ponudeni": [
+        "Razrednica, učitelj ili pedagog",
+        "Nepoznata osoba ispred škole",
+        "Stariji učenik koji te zadirkuje",
+        "Netko koga znaš samo iz igrice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U školi pomoć možeš potražiti od razrednika, učitelja, pedagoga ili psihologa.",
+      "savjet": "Razmisli tko u školi brine o učenicima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-018",
+      "tezina": "lagano",
+      "pitanje": "Kako se asertivno kaže „ne“?",
+      "ponudeni": [
+        "Vičući i gurajući drugoga",
+        "Smijući se i mijenjajući temu",
+        "Tiho i nesigurno, a zatim pristati",
+        "Mirno, jasno i odlučno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Asertivno reći „ne“ znači reći to mirno, jasno i odlučno, bez vikanja i bez popuštanja.",
+      "savjet": "Asertivnost je između povlačenja i agresivnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-019",
+      "tezina": "lagano",
+      "pitanje": "Zašto djeca ne bi trebala piti energetska pića?",
+      "ponudeni": [
+        "Imaju puno šećera i kofeina koji djeci štete",
+        "Nemaju nikakav okus",
+        "Sadrže puno vitamina",
+        "Prodaju se samo u ljekarnama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Energetska pića imaju mnogo šećera i kofeina. Oni djeci mogu ubrzati rad srca i pokvariti san.",
+      "savjet": "Razmisli što se nalazi u energetskim pićima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-020",
+      "tezina": "lagano",
+      "pitanje": "Što je pasivno pušenje?",
+      "ponudeni": [
+        "Pušenje samo jedne cigarete na dan",
+        "Udisanje dima kad netko u blizini puši",
+        "Prestanak pušenja",
+        "Pušenje na otvorenom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pasivno puši onaj tko ne puši, ali udiše dim drugih. I takav dim šteti zdravlju.",
+      "savjet": "Pasivan znači da osoba sama to ne radi, ali joj se ipak događa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-021",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga može izazvati ovisnost?",
+      "ponudeni": [
+        "Voće",
+        "Šetnja",
+        "Droge",
+        "Čitanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Droge su vrlo opasne tvari koje brzo izazivaju ovisnost i teško oštećuju zdravlje.",
+      "savjet": "Potraži nešto što je štetno za tijelo i mozak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-022",
+      "tezina": "lagano",
+      "pitanje": "Što trebaš učiniti ako ti netko na internetu šalje ružne poruke?",
+      "ponudeni": [
+        "Odgovoriti mu još ružnijom porukom",
+        "Izbrisati sve i nikome ne reći",
+        "Proslijediti poruke cijelom razredu",
+        "Ne odgovarati i reći odrasloj osobi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na ružne poruke ne treba odgovarati. Treba ih pokazati odrasloj osobi od povjerenja koja će pomoći.",
+      "savjet": "Razmisli koji postupak zaustavlja svađu i donosi pomoć."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-023",
+      "tezina": "lagano",
+      "pitanje": "Što učiniti kad vidiš da netko vrijeđa tvog prijatelja?",
+      "ponudeni": [
+        "Smijati se zajedno s drugima",
+        "Ne šutjeti i reći odrasloj osobi",
+        "Snimati to mobitelom",
+        "Praviti se da ništa ne vidiš"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad vidiš nasilje, ne šuti. Reci odrasloj osobi koja može zaustaviti nasilje i pomoći prijatelju.",
+      "savjet": "Razmisli kako prijatelj može dobiti pomoć."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-024",
+      "tezina": "lagano",
+      "pitanje": "Smiju li se djeci prodavati cigarete i alkohol?",
+      "ponudeni": [
+        "Da, ako imaju svoj džeparac",
+        "Da, ali samo vikendom",
+        "Ne, zakon to zabranjuje",
+        "Da, ako dođu s prijateljima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Hrvatskoj je zakonom zabranjeno prodavati cigarete i alkohol djeci jer im jako štete.",
+      "savjet": "Sjeti se zašto se djecu posebno štiti od štetnih tvari."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-025",
+      "tezina": "lagano",
+      "pitanje": "Što je asertivno ponašanje?",
+      "ponudeni": [
+        "Mirno i jasno reći što misliš i želiš",
+        "Vikati dok drugi ne popuste",
+        "Šutjeti i uvijek popuštati drugima",
+        "Rugati se onima koji misle drukčije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Asertivna osoba mirno i jasno kaže što misli i želi, a pritom poštuje druge.",
+      "savjet": "Asertivnost znači poštovati i sebe i druge."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-026",
+      "tezina": "lagano",
+      "pitanje": "Kako je najbolje riješiti sukob s prijateljem?",
+      "ponudeni": [
+        "Gurnuti ga da shvati tko je u pravu",
+        "Uvrijediti ga pred drugima",
+        "Ne razgovarati s njim nikada više",
+        "Mirno razgovarati i dogovoriti se"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sukob se najbolje rješava mirnim razgovorom, slušanjem drugoga i dogovorom, bez vrijeđanja i guranja.",
+      "savjet": "Potraži način u kojem nitko nije povrijeđen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-027",
+      "tezina": "lagano",
+      "pitanje": "Je li vrijeđanje riječima nasilje?",
+      "ponudeni": [
+        "Ne, nasilje je samo udaranje",
+        "Da, i riječi mogu povrijediti",
+        "Ne, ako je to samo šala",
+        "Samo ako se događa na internetu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrijeđanje je nasilje riječima. Riječi mogu povrijediti jednako kao i udarac.",
+      "savjet": "Sjeti se koje vrste nasilja postoje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-028",
+      "tezina": "lagano",
+      "pitanje": "Kakve su droge za zdravlje?",
+      "ponudeni": [
+        "Korisne kao vitamini",
+        "Bezopasne ako se probaju jednom",
+        "Vrlo štetne i stvaraju ovisnost",
+        "Štetne samo odraslima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Droge su vrlo štetne za mozak i cijelo tijelo i brzo stvaraju ovisnost.",
+      "savjet": "Sjeti se zašto se o drogama govori kad se uči o ovisnostima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-029",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove besplatni telefon na koji djeca mogu nazvati kad im treba razgovor i pomoć?",
+      "ponudeni": [
+        "Hrabri telefon",
+        "Školski radio",
+        "Dječji vrtić",
+        "Telefonski imenik"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrabri telefon (116 111) besplatan je broj za djecu. Ondje ih saslušaju i savjetuju.",
+      "savjet": "Ime telefona govori da je hrabro potražiti pomoć."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-030",
+      "tezina": "lagano",
+      "pitanje": "Što je zdrava zamjena za grickanje slatkiša pred ekranom?",
+      "ponudeni": [
+        "Pijenje gaziranog soka",
+        "Grickanje čipsa u krevetu",
+        "Još više slatkiša",
+        "Voće i igra na otvorenom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voće je zdrava užina, a igra na otvorenom pokreće tijelo. Tako se osjećamo bolje nego uz slatkiše i ekran.",
+      "savjet": "Potraži odgovor u kojem su i zdrava hrana i kretanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto je pušenje štetno za pluća?",
+      "ponudeni": [
+        "Dim čisti pluća od prašine",
+        "Dim šteti samo koži lica",
+        "Dim oštećuje pluća pa se teže diše",
+        "Pluća od dima postaju jača"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dim cigareta sadrži štetne tvari koje oštećuju pluća. Zato pušači teže dišu i češće kašlju.",
+      "savjet": "Razmisli što se događa kad u pluća stalno ulazi dim."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto je pušačima teško prestati pušiti?",
+      "ponudeni": [
+        "Nikotin stvara ovisnost pa tijelo traži cigaretu",
+        "Cigarete su vrlo ukusne",
+        "Pušenje je zdravo pa ga ne žele ostaviti",
+        "Pušenje pomaže tijelu da raste"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nikotin stvara ovisnost. Tijelo se navikne na njega i traži ga, pa je teško prestati.",
+      "savjet": "Sjeti se tvari iz duhana koja izaziva ovisnost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-033",
+      "tezina": "srednje",
+      "pitanje": "Koja je posljedica predugog sjedenja pred ekranom?",
+      "ponudeni": [
+        "Jači mišići i bolji san",
+        "Bolja kondicija",
+        "Više druženja s prijateljima uživo",
+        "Premalo kretanja i umorne oči"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tko dugo sjedi pred ekranom, malo se kreće, a oči mu se umaraju. To šteti zdravlju.",
+      "savjet": "Razmisli što tijelo i oči rade dok satima gledaš u ekran."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-034",
+      "tezina": "srednje",
+      "pitanje": "Luka svake večeri igra igrice do kasno u noć. Što će se najvjerojatnije dogoditi?",
+      "ponudeni": [
+        "Ujutro će biti odmoran i pun energije",
+        "Ujutro će biti umoran i slabije pratiti nastavu",
+        "Bolje će pamtiti gradivo",
+        "Brže će narasti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bez dovoljno sna tijelo i mozak se ne odmore, pa je dijete umorno i slabije pazi na nastavi.",
+      "savjet": "Sjeti se zašto je djeci potreban dovoljno dug san."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-035",
+      "tezina": "srednje",
+      "pitanje": "Zašto vozač ne smije voziti nakon što je pio alkohol?",
+      "ponudeni": [
+        "Alkohol mu izoštrava vid",
+        "Alkohol ga čini pažljivijim",
+        "Alkohol usporava reakcije i smanjuje pažnju",
+        "Alkohol mu daje više snage"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Alkohol djeluje na mozak: usporava reakcije i smanjuje pažnju, pa vozač može izazvati nesreću.",
+      "savjet": "Razmisli kako alkohol djeluje na mozak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto odrasli ne bi smjeli pušiti u blizini djece?",
+      "ponudeni": [
+        "Djeca udišu dim koji šteti njihovim plućima",
+        "Dim djecu čini pospanima",
+        "Djeca ne vole miris",
+        "Dim boji djeci kosu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djeca koja su u blizini pušača pasivno puše. Udišu dim koji šteti njihovim plućima.",
+      "savjet": "Sjeti se što je pasivno pušenje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-037",
+      "tezina": "srednje",
+      "pitanje": "Mia stalno govori Petru da je glup i smije mu se pred svima. Koja je to vrsta nasilja?",
+      "ponudeni": [
+        "Tjelesno nasilje",
+        "Elektroničko nasilje",
+        "Isključivanje iz društva",
+        "Nasilje riječima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijeđanje i ismijavanje pred drugima nasilje je riječima (verbalno nasilje).",
+      "savjet": "Razmisli čime Mia povrjeđuje Petra."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-038",
+      "tezina": "srednje",
+      "pitanje": "Nekoliko učenika napravi grupu u aplikaciji za dopisivanje samo da bi se rugali jednoj učenici. Koja je to vrsta nasilja?",
+      "ponudeni": [
+        "Tjelesno nasilje",
+        "Elektroničko nasilje",
+        "Pasivno pušenje",
+        "Mirno rješavanje sukoba"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ruganje preko aplikacija, poruka i interneta elektroničko je nasilje.",
+      "savjet": "Razmisli gdje se ovo ruganje događa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-039",
+      "tezina": "srednje",
+      "pitanje": "Djeca na odmoru namjerno ne puštaju Ivu u igru i govore drugima da se ne druže s njom. Koja je to vrsta nasilja?",
+      "ponudeni": [
+        "Isključivanje iz društva",
+        "Tjelesno nasilje",
+        "Elektroničko nasilje",
+        "Obično natjecanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Namjerno odbacivanje nekoga iz društva i nagovaranje drugih da ga odbace jest isključivanje iz društva.",
+      "savjet": "Razmisli što djeca čine Ivi: udaraju je, pišu joj ili je ne prihvaćaju?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-040",
+      "tezina": "srednje",
+      "pitanje": "Stariji učenik na odmoru namjerno gura i spotiče mlađeg učenika. Koja je to vrsta nasilja?",
+      "ponudeni": [
+        "Nasilje riječima",
+        "Elektroničko nasilje",
+        "Tjelesno nasilje",
+        "Isključivanje iz društva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Guranje i spoticanje tjelesno je nasilje jer se nekome namjerno nanosi bol.",
+      "savjet": "Razmisli je li povrijeđeno tijelo ili osjećaji preko poruka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-041",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se šala razlikuje od nasilja?",
+      "ponudeni": [
+        "Šala se događa samo u školi",
+        "Šala je uvijek glasnija od nasilja",
+        "Šala traje dulje od nasilja",
+        "Šala je zabavna svima, a nasilje nekoga povrijedi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prava šala zabavlja sve koji u njoj sudjeluju. Ako se netko osjeća povrijeđeno ili ponižavano, to više nije šala.",
+      "savjet": "Razmisli kako se osjeća onaj kojemu se šale."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-042",
+      "tezina": "srednje",
+      "pitanje": "Zašto je važno ne šutjeti o nasilju?",
+      "ponudeni": [
+        "Da bi svi u školi saznali tračeve",
+        "Odrasli mogu pomoći tek kad saznaju za nasilje",
+        "Da bi onaj tko trpi nasilje bio kažnjen",
+        "Da bi se nasilje ponovilo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad odrasli saznaju za nasilje, mogu ga zaustaviti i zaštititi dijete. Šutnja nasilju pomaže da traje.",
+      "savjet": "Razmisli što se dogodi kad nitko ne zna za problem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-043",
+      "tezina": "srednje",
+      "pitanje": "Lana se boji reći da je u razredu vrijeđaju jer misli da je sama kriva. Što je točno?",
+      "ponudeni": [
+        "Lana je kriva jer se ne brani",
+        "Lana treba šutjeti da ne bude gore",
+        "Lana nije kriva i treba reći odrasloj osobi",
+        "Lana se treba osvetiti onima koji je vrijeđaju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dijete kojem se događa nasilje nije krivo. Lana treba reći odrasloj osobi od povjerenja koja će joj pomoći.",
+      "savjet": "Sjeti se tko je odgovoran za nasilje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-044",
+      "tezina": "srednje",
+      "pitanje": "Što znači ne biti samo promatrač nasilja?",
+      "ponudeni": [
+        "Potražiti pomoć odrasle osobe i podržati onoga kome se nasilje događa",
+        "Gledati iz daljine da ne upadneš u nevolju",
+        "Snimiti sve mobitelom za kasnije",
+        "Pridružiti se onima koji se rugaju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tko nije samo promatrač, reagira: pozove odraslu osobu i pokaže podršku onome kome se nasilje događa.",
+      "savjet": "Promatrač samo gleda; razmisli što radi onaj tko pomaže."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-045",
+      "tezina": "srednje",
+      "pitanje": "Stariji učenik nudi Marku cigaretu i kaže da je kukavica ako je ne zapali. Koji je Markov odgovor asertivan?",
+      "ponudeni": [
+        "„Dobro, ali samo jednom.“",
+        "„Daj mi, ali nemoj nikome reći.“",
+        "„Ti si glup!“ i gurne ga",
+        "„Ne želim. Brinem se o svom zdravlju.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Asertivan odgovor je miran i jasan „ne“ s razlogom, bez popuštanja i bez vrijeđanja.",
+      "savjet": "Asertivan odgovor nije ni popuštanje ni napad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-046",
+      "tezina": "srednje",
+      "pitanje": "Ema primjećuje da uzima mobitel čim ima slobodnog vremena. Što bi joj najviše pomoglo?",
+      "ponudeni": [
+        "Kupiti novi, brži mobitel",
+        "Dogovoriti vrijeme za ekran i naći zanimljiv hobi",
+        "Koristiti mobitel i za vrijeme jela",
+        "Držati mobitel kraj kreveta cijelu noć"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dogovoreno vrijeme za ekran i zanimljiv hobi pomažu da mobitel ne postane ovisnost.",
+      "savjet": "Razmisli što smanjuje vrijeme uz ekran, a ispunjava slobodno vrijeme."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-047",
+      "tezina": "srednje",
+      "pitanje": "Kako ovisnost o internetu može utjecati na druženje?",
+      "ponudeni": [
+        "Osoba se više druži s obitelji",
+        "Osoba stječe više prijatelja uživo",
+        "Osoba se manje druži s prijateljima uživo",
+        "Druženje se uopće ne mijenja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tko je ovisan o internetu, sve više vremena provodi pred ekranom, a sve manje s obitelji i prijateljima.",
+      "savjet": "Razmisli koliko vremena ostaje za druge kad je netko stalno na internetu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-048",
+      "tezina": "srednje",
+      "pitanje": "Zašto nije dobro svaki dan piti gazirane sokove i jesti slatkiše?",
+      "ponudeni": [
+        "Puno šećera kvari zube i ne daje tijelu potrebne tvari",
+        "Slatkiši sadrže previše vitamina",
+        "Sokovi jačaju kosti previše",
+        "Šećer pomaže zubima da ostanu bijeli"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Previše šećera kvari zube i šteti zdravlju, a tijelu ne daje tvari koje su mu potrebne za rast.",
+      "savjet": "Sjeti se što šećer radi zubima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-049",
+      "tezina": "srednje",
+      "pitanje": "Zašto se kaže da je najbolje ni ne probati cigarete i alkohol?",
+      "ponudeni": [
+        "Jer su preskupi za djecu",
+        "Jer imaju neugodan miris",
+        "Jer ih se ne može nigdje kupiti",
+        "Jer je lakše ne početi nego kasnije prestati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ovisnost se razvija postupno i teško ju je prekinuti. Zato je najbolje uopće ne početi.",
+      "savjet": "Sjeti se zašto je ovisnost tako teško prekinuti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dobro sačuvati uvredljive poruke koje ti netko šalje?",
+      "ponudeni": [
+        "Da ih kasnije možeš poslati drugima",
+        "Da odrasli vide što se događalo i mogu pomoći",
+        "Da ih svaki dan ponovno čitaš",
+        "Da možeš odgovoriti istom mjerom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sačuvane poruke pokazuju odraslima što se događalo, pa lakše mogu zaustaviti nasilje.",
+      "savjet": "Razmisli što će trebati odrasloj osobi koja želi pomoći."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-051",
+      "tezina": "srednje",
+      "pitanje": "Koja je razlika između broja 112 i Hrabrog telefona 116 111?",
+      "ponudeni": [
+        "112 je za razgovor djece, a 116 111 za požare",
+        "Oba broja služe samo odraslima",
+        "112 je za hitne slučajeve, a 116 111 za savjet djeci",
+        "Oba broja služe za naručivanje taksija"
+      ],
+      "tocan": 2,
+      "objasnjenje": "112 se zove u hitnim slučajevima, npr. kod teške ozljede ili požara. Hrabri telefon 116 111 je za razgovor i savjet djeci.",
+      "savjet": "Razmisli koji je broj za hitne slučajeve, a koji je namijenjen djeci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-052",
+      "tezina": "srednje",
+      "pitanje": "Dvoje prijatelja svađa se oko toga tko će prvi igrati s loptom. Koje je rješenje najbolje?",
+      "ponudeni": [
+        "Dogovore se da igraju naizmjence",
+        "Jači uzme loptu silom",
+        "Jedan baci loptu da je nitko nema",
+        "Prestanu biti prijatelji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dogovor u kojem obojica dobiju priliku rješava sukob bez nasilja i čuva prijateljstvo.",
+      "savjet": "Potraži rješenje u kojem su oba prijatelja zadovoljna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-053",
+      "tezina": "srednje",
+      "pitanje": "Što je dobro najprije učiniti kad se u svađi jako naljutiš?",
+      "ponudeni": [
+        "Odmah viknuti sve što misliš",
+        "Baciti nešto na pod",
+        "Udariti drugoga prije nego on tebe",
+        "Duboko udahnuti i smiriti se"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad se smiriš, lakše razmišljaš i možeš mirno razgovarati, pa se svađa ne pretvori u nasilje.",
+      "savjet": "Razmisli kad je lakše razgovarati: dok si jako ljut ili kad se smiriš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-054",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko svim ovisnostima?",
+      "ponudeni": [
+        "Osoba lako prestaje kad god poželi",
+        "Osoba teško prestaje iako joj to šteti",
+        "Sve ovisnosti jačaju zdravlje",
+        "Ovisnosti se javljaju samo kod odraslih"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bez obzira na vrstu, ovisnost znači da osoba teško prestaje sa štetnom navikom iako zna da joj šteti.",
+      "savjet": "Sjeti se što znači riječ ovisnost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-055",
+      "tezina": "srednje",
+      "pitanje": "Kako možeš pomoći učeniku kojeg drugi isključuju iz društva?",
+      "ponudeni": [
+        "Ne razgovarati s njim kao ni drugi",
+        "Smijati mu se da te ne isključe",
+        "Pozvati ga u igru i biti uz njega",
+        "Pričati o njemu iza leđa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad ga pozoveš u igru i budeš uz njega, pokazuješ mu da nije sam. Ako se isključivanje nastavi, reci odrasloj osobi.",
+      "savjet": "Razmisli kako je kad te nitko ne zove u igru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-056",
+      "tezina": "srednje",
+      "pitanje": "Zašto se učenik može obratiti školskom pedagogu ili psihologu?",
+      "ponudeni": [
+        "Oni pomažu učenicima kad imaju probleme",
+        "Oni samo dijele ocjene",
+        "Oni popravljaju školska računala",
+        "Oni pripremaju školsku užinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pedagog i psiholog stručnjaci su u školi koji razgovaraju s učenicima i pomažu im kad imaju probleme.",
+      "savjet": "Razmisli kojim se poslom bave stručnjaci u školi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-057",
+      "tezina": "srednje",
+      "pitanje": "Koji znak pokazuje da je igranje igrica postalo ovisnost?",
+      "ponudeni": [
+        "Dijete igra pola sata nakon zadaće",
+        "Dijete igra s prijateljem vikendom",
+        "Dijete više voli igrati vani",
+        "Dijete ne može prestati i zanemaruje obveze"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad dijete ne može prestati igrati i zbog igrica zanemaruje san, učenje i obitelj, to je znak ovisnosti.",
+      "savjet": "Razmisli kada igranje počinje smetati drugim važnim stvarima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-058",
+      "tezina": "srednje",
+      "pitanje": "Zašto nije dobro koristiti mobitel u krevetu prije spavanja?",
+      "ponudeni": [
+        "Mobitel se tada brže puni",
+        "Svjetlo ekrana i uzbuđenje otežavaju usnivanje",
+        "Mobitel noću ne radi",
+        "U krevetu se ne može čitati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svjetlo ekrana i uzbudljivi sadržaji drže mozak budnim, pa je teže zaspati i san je kraći.",
+      "savjet": "Razmisli što ti pomaže da se smiriš prije spavanja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-059",
+      "tezina": "srednje",
+      "pitanje": "Kako alkohol djeluje na mozak?",
+      "ponudeni": [
+        "Ubrzava razmišljanje i učenje",
+        "Poboljšava pamćenje",
+        "Usporava razmišljanje i otežava kontrolu ponašanja",
+        "Ne djeluje na mozak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Alkohol usporava rad mozga. Osoba sporije razmišlja i teže kontrolira svoje ponašanje.",
+      "savjet": "Sjeti se zašto vozači ne smiju piti alkohol."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-060",
+      "tezina": "srednje",
+      "pitanje": "Zašto elektroničko nasilje može jako povrijediti?",
+      "ponudeni": [
+        "Poruke brzo vidi mnogo ljudi i teško ih je izbrisati",
+        "Poruke same nestaju nakon minute",
+        "Na internetu nitko ne čita poruke",
+        "Događa se samo jednom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ono što se objavi na internetu brzo se širi i teško se uklanja, pa povrijeđena osoba ne može pobjeći od toga.",
+      "savjet": "Razmisli koliko se brzo nešto proširi internetom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-061",
+      "tezina": "tesko",
+      "pitanje": "Prijatelj ti povjeri da ga netko stalno vrijeđa, ali te moli da nikome ne kažeš. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Šutjeti jer je obećanje najvažnije",
+        "Osvetiti se onome tko ga vrijeđa",
+        "Napisati o tome objavu na internetu",
+        "Reći odrasloj osobi od povjerenja jer prijatelju treba pomoć"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad je netko u nevolji, reći odrasloj osobi znači pomoći, a ne izdati prijatelja. Odrasli mogu zaustaviti nasilje.",
+      "savjet": "Razmisli što je važnije: tajna ili prijateljeva sigurnost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-062",
+      "tezina": "tesko",
+      "pitanje": "Koja je razlika između tužakanja i traženja pomoći?",
+      "ponudeni": [
+        "Nema razlike, oboje treba izbjegavati",
+        "Traženjem pomoći štitiš nekoga, a tužakanjem ga želiš uvaliti u nevolju",
+        "Tužakanje je kad kažeš roditelju, a pomoć kad kažeš učitelju",
+        "Pomoć se traži samo za sebe, nikad za drugoga"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad tražiš pomoć, želiš da netko bude siguran. Tužakanje je kad želiš da netko dobije kaznu zbog sitnice.",
+      "savjet": "Razmisli koja je namjera osobe koja nešto govori odraslima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-063",
+      "tezina": "tesko",
+      "pitanje": "Na obiteljskom slavlju stariji rođak nudi Niki gutljaj piva i kaže da to nije ništa. Što je najbolje?",
+      "ponudeni": [
+        "Popiti gutljaj jer ga nudi rođak",
+        "Popiti jer mali gutljaj ne može štetiti",
+        "Mirno odbiti i reći roditelju",
+        "Uzeti čašu i potajno je prosuti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Alkohol šteti djeci bez obzira na to tko ga nudi. Treba mirno reći „ne“ i obavijestiti roditelja.",
+      "savjet": "Razmisli smije li dijete piti alkohol ako ga nudi netko poznat."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-064",
+      "tezina": "tesko",
+      "pitanje": "Tin se jako naljuti kad mu uzmu tablet, a misli samo na igrice. Što se može zaključiti?",
+      "ponudeni": [
+        "To mogu biti znakovi ovisnosti o ekranima",
+        "To pokazuje da Tin ima zdrave navike",
+        "To znači da treba dobiti još jedan tablet",
+        "To je znak da se Tin previše kreće"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljutnja kad nema ekrana i stalno mišljenje o igricama mogući su znakovi ovisnosti. Tada pomaže ograničiti vrijeme pred ekranom.",
+      "savjet": "Sjeti se kako se ponaša osoba kojoj nedostaje nešto o čemu je ovisna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-065",
+      "tezina": "tesko",
+      "pitanje": "Vidiš da nekoliko učenika mobitelom snima kako se rugaju dječaku. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Snimiti i ti da imaš dokaz za sebe",
+        "Pogledati snimku kasnije na internetu",
+        "Pridružiti se da te ne bi ismijavali",
+        "Ne snimati i odmah pozvati učitelja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Snimanje i dijeljenje samo povećava nasilje. Najbolje je ne sudjelovati i odmah pozvati odraslu osobu.",
+      "savjet": "Razmisli što zaustavlja nasilje, a što ga širi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-066",
+      "tezina": "tesko",
+      "pitanje": "Dobiješ poruku sa slikom koja ismijava učenicu iz tvog razreda. Što je ispravno učiniti?",
+      "ponudeni": [
+        "Proslijediti je samo najboljem prijatelju",
+        "Ne prosljeđivati sliku i reći odrasloj osobi",
+        "Napisati smiješan komentar",
+        "Spremiti sliku za svaki slučaj i šutjeti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tko proslijedi takvu sliku, širi nasilje. Ispravno je zaustaviti je kod sebe i reći odrasloj osobi.",
+      "savjet": "Razmisli kako bi se ta učenica osjećala da sliku vide svi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-067",
+      "tezina": "tesko",
+      "pitanje": "Netko nije napravio uvredljivu sliku, ali ju je proslijedio dalje. Što je točno?",
+      "ponudeni": [
+        "Nije ništa skrivio jer sliku nije napravio",
+        "Kriv je samo onaj tko je sliku primio",
+        "I on sudjeluje u nasilju jer ga širi",
+        "Prosljeđivanje je dopušteno ako je slika smiješna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svako prosljeđivanje širi nasilje i još više povrjeđuje osobu na slici, pa i onaj tko prosljeđuje sudjeluje u nasilju.",
+      "savjet": "Razmisli što se događa sa slikom svaki put kad je netko proslijedi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-068",
+      "tezina": "tesko",
+      "pitanje": "Ana nije sigurna je li ono što joj rade u razredu šala ili nasilje, ali osjeća se loše. Što joj je najbolje učiniti?",
+      "ponudeni": [
+        "Razgovarati o tome s odraslom osobom od povjerenja",
+        "Čekati dok ne bude potpuno sigurna",
+        "Pretvarati se da joj je zabavno",
+        "Uzvratiti istom mjerom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ako se netko zbog tuđeg ponašanja osjeća loše, treba o tome razgovarati s odraslom osobom od povjerenja, čak i kad nije siguran.",
+      "savjet": "Sjeti se po čemu se šala razlikuje od nasilja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-069",
+      "tezina": "tesko",
+      "pitanje": "Dijete igra igrice jer mu je dosadno i nema s kim biti. Koja bi mu zamjena najviše pomogla?",
+      "ponudeni": [
+        "Igrati igrice na većem ekranu",
+        "Gledati videe drugih kako igraju",
+        "Igrati igrice i za vrijeme jela",
+        "Upisati sport ili hobi u kojem upoznaje prijatelje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sport ili hobi ispunjava slobodno vrijeme i donosi nove prijatelje, pa ekran postaje manje važan.",
+      "savjet": "Potraži rješenje koje uklanja i dosadu i samoću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-070",
+      "tezina": "tesko",
+      "pitanje": "Na igralištu je dječak pao s penjalice i ne odgovara kad ga zoveš, a odraslih nema u blizini. Što učiniti?",
+      "ponudeni": [
+        "Nazvati Hrabri telefon i čekati",
+        "Odmah nazvati 112",
+        "Otići kući i ispričati to sutra",
+        "Pričekati da se sam probudi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ozljeda zbog koje netko ne odgovara hitan je slučaj. Treba odmah nazvati 112 i reći što se dogodilo i gdje.",
+      "savjet": "Razmisli je li ovo hitan slučaj i koji se broj tada zove."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-071",
+      "tezina": "tesko",
+      "pitanje": "Dijete je tužno jer ga u razredu isključuju, a boji se reći roditeljima. Gdje može odmah dobiti savjet?",
+      "ponudeni": [
+        "Kod nepoznate osobe na internetu",
+        "U objavi na društvenoj mreži",
+        "Na Hrabrom telefonu 116 111",
+        "Nigdje, mora samo šutjeti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na Hrabrom telefonu 116 111 djeca mogu razgovarati o onome što ih muči i dobiti savjet kome se još obratiti.",
+      "savjet": "Sjeti se telefona namijenjenog djeci kojima treba razgovor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-072",
+      "tezina": "tesko",
+      "pitanje": "Netko ti bez pitanja uzme olovku. Koji je odgovor asertivan?",
+      "ponudeni": [
+        "„Molim te, vrati mi olovku i drugi put pitaj.“",
+        "Istrgnuti mu olovku i viknuti na njega",
+        "Ništa ne reći i pisati drugom olovkom",
+        "Uzeti njemu nešto da vidi kako je"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Asertivan odgovor je miran i jasan: kažeš što želiš i poštuješ drugoga, bez vikanja i bez šutnje.",
+      "savjet": "Asertivno nije ni povlačenje ni napad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-073",
+      "tezina": "tesko",
+      "pitanje": "Prijatelji kažu da nisi „cool“ ako ne probaš energetsko piće. Koji je najbolji razlog za odbijanje?",
+      "ponudeni": [
+        "„Možda probam sutra kad nitko ne gleda.“",
+        "„Ne volim plave limenke.“",
+        "„Probat ću ako mi i vi date nešto.“",
+        "„Brinem se o zdravlju i ne moram raditi što i svi.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobar razlog za odbijanje temelji se na brizi za zdravlje. Ne moraš raditi nešto štetno samo zato što to drugi rade.",
+      "savjet": "Potraži odgovor koji odbija jasno i govori o zdravlju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-074",
+      "tezina": "tesko",
+      "pitanje": "Kako ovisnost o internetu može utjecati na uspjeh u školi?",
+      "ponudeni": [
+        "Ostaje više vremena za učenje",
+        "Manje je vremena za učenje i san, pa je pažnja slabija",
+        "Učenik bolje pamti jer je dugo budan",
+        "Nikako, škola i internet nisu povezani"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tko je stalno na internetu, manje uči i kasnije spava. Umoran učenik slabije prati nastavu.",
+      "savjet": "Razmisli od čega se oduzima vrijeme provedeno na internetu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-075",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko pušenju i pijenju alkohola?",
+      "ponudeni": [
+        "Oboje jača imunitet",
+        "Oboje je dopušteno djeci",
+        "Oboje stvara ovisnost i oštećuje organe",
+        "Oboje šteti samo zubima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "I pušenje i alkohol stvaraju ovisnost i oštećuju organe: pušenje osobito pluća, a alkohol osobito jetru i mozak.",
+      "savjet": "Sjeti se što svaka od tih navika čini tijelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-076",
+      "tezina": "tesko",
+      "pitanje": "Znaš da će te na nekom druženju nagovarati na nešto štetno. Što je dobar plan?",
+      "ponudeni": [
+        "Unaprijed smisliti kako ćeš reći „ne“",
+        "Pristati da ne ispadneš čudno",
+        "Otići bez da itko zna kamo ideš",
+        "Čekati i vidjeti što će biti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad unaprijed smisliš kako ćeš odbiti, lakše ćeš ostati miran i odlučan. Dobro je i reći roditeljima kamo ideš.",
+      "savjet": "Razmisli kako se pripremiti za tešku situaciju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-077",
+      "tezina": "tesko",
+      "pitanje": "Onaj tko se nasilno ponaša kaže ti: „Ako kažeš učiteljici, bit će ti još gore.“ Što učiniti?",
+      "ponudeni": [
+        "Šutjeti da ne bude gore",
+        "Učiniti sve što ti kaže",
+        "Ostati kod kuće i ne ići u školu",
+        "Ipak reći odrasloj osobi jer je i prijetnja nasilje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prijetnja je dio nasilja i služi da šutiš. Odrasli te mogu zaštititi samo ako znaju što se događa.",
+      "savjet": "Razmisli komu pomaže tvoja šutnja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-078",
+      "tezina": "tesko",
+      "pitanje": "U skupnom radu Sara sve radi sama i ne sluša druge, pa su ostali ljuti. Kako mirno riješiti sukob?",
+      "ponudeni": [
+        "Prestati raditi i pustiti je da sve napravi",
+        "Reći joj kako se osjećaju i dogovoriti podjelu posla",
+        "Ismijavati je dok ne odustane",
+        "Požaliti se drugima iza njezinih leđa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sukob se mirno rješava kad svatko kaže kako se osjeća i kad se zajedno dogovori rješenje.",
+      "savjet": "Potraži odgovor u kojem se razgovara i dogovara."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-079",
+      "tezina": "tesko",
+      "pitanje": "Zašto je važno da i oni koji samo gledaju nasilje reagiraju?",
+      "ponudeni": [
+        "Da bi i oni dobili pohvalu",
+        "Da bi nasilje bilo zabavnije",
+        "Nasilje često prestaje kad ga drugi ne podržavaju",
+        "Da bi se sukob preselio na internet"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad promatrači ne podržavaju nasilje i pozovu odraslu osobu, nasilje lakše prestaje, a povrijeđeno dijete nije samo.",
+      "savjet": "Razmisli što nasilniku daje publika koja se smije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-080",
+      "tezina": "tesko",
+      "pitanje": "Koja je od ovih situacija nasilje, a ne obična svađa?",
+      "ponudeni": [
+        "Isti učenici danima namjerno ismijavaju istu osobu",
+        "Dvoje prijatelja ne slaže se oko pravila pa se dogovore",
+        "Brat i sestra posvađaju se oko igračke pa se ispričaju",
+        "Prijatelj kaže da mu se tvoj crtež ne sviđa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nasilje je namjerno i često se ponavlja prema istoj osobi. Obična svađa završi dogovorom ili isprikom.",
+      "savjet": "Pazi na to je li povrjeđivanje namjerno i ponavlja li se."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-081",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o nasilju točna?",
+      "ponudeni": [
+        "Nasilje je samo kad netko nekoga udari",
+        "Za nasilje je kriv onaj kome se događa",
+        "O nasilju treba šutjeti da ne bude gore",
+        "Nasilje može biti riječima, porukama i udarcima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nasilje može biti tjelesno, riječima, isključivanjem iz društva ili preko interneta. O njemu ne treba šutjeti.",
+      "savjet": "Sjeti se svih vrsta nasilja koje ste učili."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-082",
+      "tezina": "tesko",
+      "pitanje": "Odrasla osoba koja je pila alkohol nudi ti da te odveze autom. Što je najsigurnije?",
+      "ponudeni": [
+        "Sjesti naprijed da joj pomažeš",
+        "Ne ući u auto i nazvati roditelja ili drugu odraslu osobu",
+        "Ući jer je put kratak",
+        "Ući i zamoliti je da vozi polako"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Alkohol usporava reakcije vozača, pa je vožnja opasna. Najsigurnije je ne ući i potražiti drugu odraslu osobu.",
+      "savjet": "Sjeti se kako alkohol djeluje na vozača."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto se pušači pri trčanju brže umore od nepušača?",
+      "ponudeni": [
+        "Imaju jače noge",
+        "Brže probavljaju hranu",
+        "Oštećena pluća slabije primaju zrak",
+        "Imaju više snage u mišićima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pušenje oštećuje pluća, pa tijelo dobiva manje zraka, a mišići se brže umore.",
+      "savjet": "Poveži pušenje s organima za disanje i radom mišića."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-084",
+      "tezina": "tesko",
+      "pitanje": "Leo kaže da pušenje nije štetno jer u filmovima puše i snažni junaci. Što mu je najbolje odgovoriti?",
+      "ponudeni": [
+        "„Filmovi ne pokazuju koliko pušenje šteti zdravlju.“",
+        "„Ako puše junaci, onda je to zdravo.“",
+        "„Pušenje šteti samo onima koji ne gledaju filmove.“",
+        "„Pušenje je štetno samo u kinu.“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Filmovi ne prikazuju posljedice pušenja. Pušenje je štetno za svakoga, bez obzira na to tko puši.",
+      "savjet": "Razmisli prikazuju li filmovi uvijek stvarnost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-085",
+      "tezina": "tesko",
+      "pitanje": "Nepoznata osoba u igrici obećava ti nagrade ako joj pošalješ lozinku i adresu. Što učiniti?",
+      "ponudeni": [
+        "Poslati samo lozinku, a adresu ne",
+        "Poslati podatke jer su nagrade besplatne",
+        "Pitati je za još veće nagrade",
+        "Ništa ne slati, prekinuti razgovor i reći roditelju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Osobne podatke ne dajemo nepoznatima na internetu. Treba prekinuti razgovor i reći odrasloj osobi od povjerenja.",
+      "savjet": "Sjeti se pravila o osobnim podacima na internetu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-086",
+      "tezina": "tesko",
+      "pitanje": "Kojim redom mirno rješavaš sukob kad te netko naljuti?",
+      "ponudeni": [
+        "Viknuti, smiriti se, otići",
+        "Smiriti se, reći kako se osjećaš, zajedno naći rješenje",
+        "Naći rješenje, viknuti, smiriti se",
+        "Reći kako se osjećaš, gurnuti ga, smiriti se"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najprije se smiriš, zatim mirno kažeš kako se osjećaš i na kraju zajedno tražite rješenje.",
+      "savjet": "Razmisli što mora biti prvo da bi razgovor uspio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto se kaže da ovisnost oduzima slobodu?",
+      "ponudeni": [
+        "Ovisna osoba ne smije izlaziti iz kuće",
+        "Ovisna osoba ima previše slobodnog vremena",
+        "Ovisnu osobu vodi navika, a ne vlastita odluka",
+        "Ovisnost se dobiva samo u zatvoru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ovisna osoba više ne odlučuje slobodno jer je štetna navika tjera da je ponavlja.",
+      "savjet": "Razmisli tko odlučuje kad je netko ovisan: osoba ili navika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-088",
+      "tezina": "tesko",
+      "pitanje": "Prijatelj stalno igra igrice i više ne izlazi van. Kako mu možeš pomoći?",
+      "ponudeni": [
+        "Pozvati ga na zajedničku aktivnost koju voli",
+        "Ismijavati ga pred drugima",
+        "Prestati se s njim družiti",
+        "Pokloniti mu novu igricu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poziv na zajedničku aktivnost pokazuje mu da je druženje uživo zabavno. Ako ne pomaže, reci odrasloj osobi.",
+      "savjet": "Potraži odgovor koji prijatelja vodi dalje od ekrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-089",
+      "tezina": "tesko",
+      "pitanje": "Razredniku kažeš da te netko vrijeđa, ali se ništa ne promijeni. Što dalje?",
+      "ponudeni": [
+        "Odustati i više nikome ništa ne reći",
+        "Riješiti problem tučnjavom",
+        "Pretvarati se da je sve u redu",
+        "Reći drugoj odrasloj osobi, npr. roditelju ili pedagogu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ako pomoć ne stigne odmah, ne odustaj. Obrati se drugoj odrasloj osobi od povjerenja dok ne dobiješ pomoć.",
+      "savjet": "Sjeti se da u školi i kod kuće ima više osoba od povjerenja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-ovisnosti-nasilje-i-trazenje-pomoci-090",
+      "tezina": "tesko",
+      "pitanje": "Mila pred svaki test pije energetsko piće da bude budnija. Što bi joj više pomoglo?",
+      "ponudeni": [
+        "Dvije limenke umjesto jedne",
+        "Učenje cijelu noć prije testa",
+        "Dovoljno sna i zdrav doručak",
+        "Slatkiši umjesto doručka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za dobru koncentraciju najviše pomažu dovoljno sna i zdrav doručak, a energetska pića djeci štete.",
+      "savjet": "Razmisli što tijelu i mozgu stvarno daje energiju."
+    }
+  ]
+}

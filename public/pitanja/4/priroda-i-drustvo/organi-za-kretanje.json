@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "organi-za-kretanje",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove skup svih kostiju u ljudskom tijelu?",
+      "ponudeni": [
+        "Mišićje",
+        "Kostur",
+        "Koža",
+        "Krvotok"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sve kosti u tijelu zajedno čine kostur. Kostur je oslonac tijela i daje mu oblik.",
+      "savjet": "Sjeti se kako se zove ono što drži tijelo uspravnim, poput okvira."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-002",
+      "tezina": "lagano",
+      "pitanje": "Što zajedno čini sustav organa za kretanje?",
+      "ponudeni": [
+        "Srce, krvne žile i krv",
+        "Nos, dušnik i pluća",
+        "Kosti, zglobovi i mišići",
+        "Mozak, leđna moždina i živci"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kosti, zglobovi i mišići zajedno nam omogućuju kretanje. Zato ih zovemo organima za kretanje.",
+      "savjet": "Razmisli što se u tijelu pomiče kad hodaš, trčiš ili mašeš rukom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-003",
+      "tezina": "lagano",
+      "pitanje": "Koji dio kostura štiti mozak?",
+      "ponudeni": [
+        "Lubanja",
+        "Prsni koš",
+        "Kralježnica",
+        "Zdjelica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mozak se nalazi u glavi, a štiti ga čvrsta lubanja.",
+      "savjet": "Sjeti se gdje se u tijelu nalazi mozak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-004",
+      "tezina": "lagano",
+      "pitanje": "Koje organe štiti prsni koš?",
+      "ponudeni": [
+        "Želudac i crijeva",
+        "Mozak i oči",
+        "Bubrege i mokraćni mjehur",
+        "Srce i pluća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rebra prsnoga koša okružuju srce i pluća i štite ih od udaraca.",
+      "savjet": "Stavi ruku na prsa i sjeti se što se ondje nalazi i radi bez prestanka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-005",
+      "tezina": "lagano",
+      "pitanje": "Što se nalazi unutar kralježnice i što ona štiti?",
+      "ponudeni": [
+        "Želudac",
+        "Leđna moždina",
+        "Srce",
+        "Jetra"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kroz kralježnicu prolazi leđna moždina. Kralješci je okružuju i štite.",
+      "savjet": "Ime onoga što kralježnica štiti povezano je s leđima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove mjesto gdje se dvije kosti spajaju tako da se mogu pomicati?",
+      "ponudeni": [
+        "Mišić",
+        "Tetiva",
+        "Zglob",
+        "Rebro"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zglob je pokretni spoj kostiju. Zahvaljujući zglobovima možemo savijati ruke, noge i prste.",
+      "savjet": "Sjeti se što omogućuje da savijemo ruku u laktu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-007",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih dijelova tijela zglob?",
+      "ponudeni": [
+        "Koljeno",
+        "Rebro",
+        "Lubanja",
+        "Bedrena kost"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Koljeno je zglob koji spaja kosti natkoljenice i potkoljenice, pa možemo savijati nogu.",
+      "savjet": "Potraži mjesto na kojem se dio tijela savija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-008",
+      "tezina": "lagano",
+      "pitanje": "Što pokreće kosti?",
+      "ponudeni": [
+        "Koža",
+        "Krv",
+        "Kosa",
+        "Mišići"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mišići su pričvršćeni za kosti. Kad se stegnu, povuku kost i dio tijela se pomakne.",
+      "savjet": "Sjeti se što osjetiš pod kožom nadlaktice kad savineš ruku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-009",
+      "tezina": "lagano",
+      "pitanje": "Od čega se sastoji kralježnica?",
+      "ponudeni": [
+        "Od rebara",
+        "Od kralježaka",
+        "Od mišića",
+        "Od zglobova prstiju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kralježnica se sastoji od mnogo malih kostiju koje se zovu kralješci.",
+      "savjet": "Naziv sitnih kostiju kralježnice sličan je samoj riječi kralježnica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-010",
+      "tezina": "lagano",
+      "pitanje": "Kakve su kosti?",
+      "ponudeni": [
+        "Mekane i savitljive kao guma",
+        "Tekuće poput krvi",
+        "Čvrste i tvrde",
+        "Prozirne i lagane kao papir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kosti su čvrste i tvrde pa mogu nositi tijelo i štititi važne organe.",
+      "savjet": "Razmisli kakav mora biti dio tijela koji nosi cijelu težinu tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-011",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga čini prsni koš?",
+      "ponudeni": [
+        "Rebra, prsna kost i dio kralježnice",
+        "Lubanja i donja čeljust",
+        "Kosti prstiju i šake",
+        "Bedrena kost i koljeno"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prsni koš čine rebra, prsna kost i dio kralježnice. Zajedno tvore zaštitu poput kaveza.",
+      "savjet": "Sjeti se kostiju koje opipaš sa strane na prsima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-012",
+      "tezina": "lagano",
+      "pitanje": "Što se događa s mišićem kad radi i pokreće kost?",
+      "ponudeni": [
+        "Mišić se otopi",
+        "Mišić postane kost",
+        "Mišić se odvoji od kosti",
+        "Mišić se steže i skraćuje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad mišić radi, steže se i skraćuje te tako povuče kost. Kad se opusti, ponovno se izduži.",
+      "savjet": "Savij ruku i opipaj mišić nadlaktice: postaje li tvrđi i deblji?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu čvrste niti koje povezuju mišiće s kostima?",
+      "ponudeni": [
+        "Živci",
+        "Tetive",
+        "Krvne žile",
+        "Kralješci"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tetive su čvrste vrpce kojima su mišići pričvršćeni za kosti.",
+      "savjet": "Pipni iznad pete dok pomičeš stopalo gore-dolje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-014",
+      "tezina": "lagano",
+      "pitanje": "Koja je jedna od uloga kostura?",
+      "ponudeni": [
+        "Probavlja hranu",
+        "Pumpa krv kroz tijelo",
+        "Daje tijelu oblik i oslonac",
+        "Prima zrak iz okoline"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kostur je oslonac tijela i daje mu oblik. Bez kostura ne bismo mogli stajati uspravno.",
+      "savjet": "Zamisli šator bez šipki i razmisli čemu služe šipke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-015",
+      "tezina": "lagano",
+      "pitanje": "Gdje se nalazi kralježnica?",
+      "ponudeni": [
+        "Duž leđa",
+        "U glavi",
+        "U šaci",
+        "U stopalu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kralježnica se proteže duž leđa, od glave do zdjelice. Ona je glavni oslonac tijela.",
+      "savjet": "Prijeđi rukom po sredini leđa nekoga iz obitelji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-016",
+      "tezina": "lagano",
+      "pitanje": "Koji od navedenih organa NIJE dio sustava organa za kretanje?",
+      "ponudeni": [
+        "Kost",
+        "Zglob",
+        "Mišić",
+        "Želudac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Želudac je organ za probavu. Kosti, zglobovi i mišići su organi za kretanje.",
+      "savjet": "Potraži organ koji ima veze s hranom, a ne s pokretima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove ozljeda pri kojoj kost pukne?",
+      "ponudeni": [
+        "Uganuće",
+        "Prijelom",
+        "Ogrebotina",
+        "Žulj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad kost pukne ili se slomi, to se zove prijelom kosti.",
+      "savjet": "Sjeti se riječi koja dolazi od glagola prelomiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-018",
+      "tezina": "lagano",
+      "pitanje": "Što jača kosti i mišiće?",
+      "ponudeni": [
+        "Dugo sjedenje pred ekranom",
+        "Preskakanje doručka",
+        "Redovita tjelovježba",
+        "Spavanje do podneva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Redovitom tjelovježbom mišići postaju jači, a kosti čvršće.",
+      "savjet": "Razmisli što rade sportaši da bi bili snažni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-019",
+      "tezina": "lagano",
+      "pitanje": "Kako je pravilno nositi školsku torbu na leđima?",
+      "ponudeni": [
+        "Na oba ramena",
+        "Na jednom ramenu",
+        "U jednoj ruci",
+        "Na glavi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Torbu treba nositi na oba ramena da se teret jednako rasporedi i da se kralježnica ne iskrivi.",
+      "savjet": "Razmisli kako teret jednako opteretiti lijevu i desnu stranu tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-020",
+      "tezina": "lagano",
+      "pitanje": "Kako je pravilno sjediti za radnim stolom?",
+      "ponudeni": [
+        "Pogrbljeno, s glavom na stolu",
+        "Na rubu stolca, nagnuto u stranu",
+        "S jednom nogom ispod sebe",
+        "Uspravnih leđa, sa stopalima na podu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno sjedimo uspravnih leđa, a stopala su nam na podu. Tako čuvamo kralježnicu.",
+      "savjet": "Sjeti se kako izgleda pravilno držanje tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-021",
+      "tezina": "lagano",
+      "pitanje": "Koja je kost pokretna na lubanji?",
+      "ponudeni": [
+        "Čeona kost",
+        "Donja čeljust",
+        "Tjemena kost",
+        "Zatiljna kost"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kosti lubanje čvrsto su spojene, osim donje čeljusti. Ona se pomiče kad govorimo i žvačemo.",
+      "savjet": "Razmisli koji se dio glave pomiče dok jedeš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-022",
+      "tezina": "lagano",
+      "pitanje": "Gdje se nalaze mišići?",
+      "ponudeni": [
+        "Samo u rukama",
+        "Samo u nogama",
+        "U cijelom tijelu",
+        "Samo u glavi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mišića ima u cijelom tijelu: u licu, vratu, rukama, leđima, trbuhu i nogama.",
+      "savjet": "Sjeti se koliko se različitih dijelova tijela može pomaknuti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-023",
+      "tezina": "lagano",
+      "pitanje": "Koji je zglob na sredini ruke?",
+      "ponudeni": [
+        "Lakat",
+        "Koljeno",
+        "Gležanj",
+        "Kuk"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lakat je zglob između nadlaktice i podlaktice.",
+      "savjet": "Savij ruku i pogledaj gdje se savija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-024",
+      "tezina": "lagano",
+      "pitanje": "Koja hrana pomaže da kosti budu čvrste?",
+      "ponudeni": [
+        "Gazirani sokovi",
+        "Čips",
+        "Bomboni",
+        "Mlijeko i mliječni proizvodi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mlijeko, jogurt i sir sadrže tvari koje su potrebne za čvrste kosti.",
+      "savjet": "Sjeti se namirnica bijele boje koje se dobivaju od krave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-025",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove ozljeda zgloba, primjerice kad nespretno izvrneš gležanj?",
+      "ponudeni": [
+        "Prijelom",
+        "Uganuće",
+        "Opeklina",
+        "Ubod"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uganuće je ozljeda zgloba. Zglob natekne i boli, ali kost nije slomljena.",
+      "savjet": "Riječ dolazi od glagola koji opisuje kako se noga izvrne."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-026",
+      "tezina": "lagano",
+      "pitanje": "Koji sustav organa služi za uzimanje hrane i njezino razgrađivanje?",
+      "ponudeni": [
+        "Organi za kretanje",
+        "Organi za disanje",
+        "Organi za probavu",
+        "Organi za izlučivanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Organi za probavu, poput želuca i crijeva, razgrađuju hranu da bi tijelo dobilo hranjive tvari.",
+      "savjet": "Sjeti se što se događa s hranom nakon što je progutaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-027",
+      "tezina": "lagano",
+      "pitanje": "Koji organ upravlja radom cijeloga tijela, pa i pokretima?",
+      "ponudeni": [
+        "Mozak",
+        "Želudac",
+        "Pluća",
+        "Bubrezi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mozak upravlja cijelim tijelom. On šalje poruke mišićima da se pokrenu.",
+      "savjet": "Sjeti se organa koji je zaštićen lubanjom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-028",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga štiti zglobove i kosti pri vožnji rolama?",
+      "ponudeni": [
+        "Sunčane naočale",
+        "Kapa za kupanje",
+        "Šal",
+        "Štitnici za koljena i laktove"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Štitnici za koljena i laktove te kaciga štite tijelo pri padu.",
+      "savjet": "Razmisli što pri padu najčešće prvo udari o tlo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-029",
+      "tezina": "lagano",
+      "pitanje": "Koji je zglob između potkoljenice i stopala?",
+      "ponudeni": [
+        "Lakat",
+        "Gležanj",
+        "Rame",
+        "Zapešće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gležanj spaja potkoljenicu sa stopalom pa možemo pomicati stopalo.",
+      "savjet": "Potraži zglob koji je najbliže stopalu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-030",
+      "tezina": "lagano",
+      "pitanje": "Koji je organ također mišić, iako ne pokreće kosti?",
+      "ponudeni": [
+        "Mozak",
+        "Kralježnica",
+        "Srce",
+        "Lubanja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srce je mišić koji se neprestano steže i opušta te tako pumpa krv kroz tijelo.",
+      "savjet": "Sjeti se organa koji neprestano kuca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto je važno da su kosti lubanje čvrsto spojene?",
+      "ponudeni": [
+        "Da lubanja bude čvrsta zaštita mozga",
+        "Da bismo mogli brže trčati",
+        "Da bi glava bila lakša",
+        "Da bi kosa brže rasla"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Čvrsto spojene kosti lubanje čine tvrdu zaštitu oko mozga, koji je vrlo osjetljiv.",
+      "savjet": "Sjeti se koji važan organ leži unutar lubanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-032",
+      "tezina": "srednje",
+      "pitanje": "Što omogućuje da se kralježnica savija kad se sagneš?",
+      "ponudeni": [
+        "Jedna duga, ravna kost",
+        "Mnogo malih kralježaka međusobno pokretno spojenih",
+        "Rebra koja se pomiču",
+        "Lubanja koja se okreće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kralježnica se sastoji od mnogo kralježaka. Svaki se malo pomakne, pa se kralježnica može saviti.",
+      "savjet": "Razmisli zašto se lanac može saviti, a štap ne može."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-033",
+      "tezina": "srednje",
+      "pitanje": "Kad savineš ruku u laktu, mišić s prednje strane nadlaktice postane deblji. Zašto?",
+      "ponudeni": [
+        "Napunio se zrakom",
+        "Kost se u njemu proširila",
+        "Stegnuo se i skratio",
+        "Opustio se i izdužio"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad mišić radi, steže se i skraćuje pa postaje deblji. Tako povuče podlakticu prema gore.",
+      "savjet": "Sjeti se što mišić radi kad pokreće kost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-034",
+      "tezina": "srednje",
+      "pitanje": "Što bi se dogodilo kad tijelo ne bi imalo zglobova?",
+      "ponudeni": [
+        "Ne bismo mogli savijati ruke i noge",
+        "Ne bismo mogli disati",
+        "Ne bismo osjećali okus hrane",
+        "Kosti bi postale mekane"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zglobovi su pokretni spojevi kostiju. Bez njih ne bismo mogli savijati dijelove tijela.",
+      "savjet": "Sjeti se gdje se točno savija tvoja ruka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-035",
+      "tezina": "srednje",
+      "pitanje": "Kako mozak pokreće mišić?",
+      "ponudeni": [
+        "Šalje mu hranu kroz crijeva",
+        "Šalje mu zrak kroz dušnik",
+        "Šalje mu krv kroz kosti",
+        "Šalje mu poruku putem živaca"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mozak šalje poruke kroz leđnu moždinu i živce do mišića, a mišić se tada stegne.",
+      "savjet": "Sjeti se kojim putem poruke putuju kroz tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-036",
+      "tezina": "srednje",
+      "pitanje": "Kakvu ulogu imaju tetive pri kretanju?",
+      "ponudeni": [
+        "Proizvode krv za mišiće",
+        "Prenose silu mišića na kost",
+        "Štite mozak od udaraca",
+        "Spajaju dvije kosti u zglob"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tetive povezuju mišiće s kostima. Kad se mišić stegne, tetiva povuče kost.",
+      "savjet": "Sjeti se što se nalazi između mišića i kosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-037",
+      "tezina": "srednje",
+      "pitanje": "Zašto nošenje teške torbe na jednom ramenu može naštetiti tijelu?",
+      "ponudeni": [
+        "Jer torba brže propadne",
+        "Jer se tako teže uči",
+        "Jer tijelo naginje u stranu i kralježnica se krivi",
+        "Jer se ruka tako previše odmara"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Teret na jednom ramenu naginje tijelo u stranu. Ako se to često ponavlja, kralježnica se može iskriviti.",
+      "savjet": "Zamisli kako stojiš kad nosiš nešto teško samo s jedne strane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-038",
+      "tezina": "srednje",
+      "pitanje": "Koji par prikazuje točno dio kostura i njegovu ulogu?",
+      "ponudeni": [
+        "Lubanja – pokreće ruke",
+        "Prsni koš – štiti srce i pluća",
+        "Kralježnica – probavlja hranu",
+        "Kosti nogu – štite mozak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prsni koš, koji čine rebra, prsna kost i dio kralježnice, štiti srce i pluća.",
+      "savjet": "Za svaki dio kostura sjeti se što se nalazi unutar njega ili uz njega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto prije trčanja ili igranja nogometa treba napraviti vježbe zagrijavanja?",
+      "ponudeni": [
+        "Da se mišići i zglobovi pripreme i ne ozlijede",
+        "Da se brže ogladnimo",
+        "Da kosti postanu mekše",
+        "Da se umorimo prije igre"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zagrijavanjem se mišići i zglobovi pripreme za napor, pa je manja opasnost od ozljede.",
+      "savjet": "Razmisli što se lakše ozlijedi: hladan ili zagrijan mišić."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-040",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se uganuće razlikuje od prijeloma?",
+      "ponudeni": [
+        "Uganuće je ozljeda kože, a prijelom ozljeda mišića",
+        "Uganuće je ozljeda mozga, a prijelom ozljeda kralježnice",
+        "Uganuće uopće ne boli, a prijelom boli",
+        "Uganuće je ozljeda zgloba, a prijelom ozljeda kosti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pri uganuću je ozlijeđen zglob, a pri prijelomu kost je napukla ili slomljena.",
+      "savjet": "Sjeti se koji je dio sustava za kretanje ozlijeđen u svakom slučaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-041",
+      "tezina": "srednje",
+      "pitanje": "Što je prvo što treba učiniti ako se na igralištu ozlijediš i jako te boli noga?",
+      "ponudeni": [
+        "Nastaviti igrati da prođe",
+        "Odmah otrčati kući",
+        "Mirovati i odmah reći odrasloj osobi",
+        "Snažno masirati bolno mjesto"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ozlijeđeni dio tijela treba mirovati, a odrasla osoba procijenit će ozljedu i pozvati pomoć ako je potrebno.",
+      "savjet": "Razmisli što bi moglo pogoršati ozljedu, a što će ti donijeti pomoć."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-042",
+      "tezina": "srednje",
+      "pitanje": "Kako sjedenje pogrbljenih leđa satima pred ekranom djeluje na tijelo?",
+      "ponudeni": [
+        "Jača mišiće leđa",
+        "Može dovesti do lošeg držanja i bolova u leđima",
+        "Čini kosti čvršćima",
+        "Pomaže pravilnom rastu kralježnice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dugo sjedenje u pogrbljenom položaju opterećuje kralježnicu i može dovesti do lošeg držanja.",
+      "savjet": "Sjeti se kako izgleda pravilno sjedenje i zašto je važno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-043",
+      "tezina": "srednje",
+      "pitanje": "Zašto mišići koje rijetko koristimo postaju slabiji?",
+      "ponudeni": [
+        "Jer se pretvaraju u kosti",
+        "Jer ih tetive odvoje od kosti",
+        "Jer nestanu iz tijela",
+        "Jer mišić jača samo kad radi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mišić jača kad ga koristimo. Ako se ne kreće, postaje slabiji.",
+      "savjet": "Sjeti se zašto sportaši redovito treniraju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-044",
+      "tezina": "srednje",
+      "pitanje": "Što omogućuje rame?",
+      "ponudeni": [
+        "Pomicanje ruke u mnogo smjerova",
+        "Žvakanje hrane",
+        "Okretanje stopala",
+        "Savijanje prstiju na nozi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rame je zglob koji spaja ruku s trupom. Zahvaljujući njemu ruku možemo kružno pomicati.",
+      "savjet": "Zavrti rukom u krug i sjeti se gdje se pokret događa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-045",
+      "tezina": "srednje",
+      "pitanje": "Kako kostur i mišići zajedno omogućuju kretanje?",
+      "ponudeni": [
+        "Kosti pokreću mišiće, a mišići miruju",
+        "Mišići vuku kosti, a kosti se pomiču u zglobovima",
+        "Kosti se same savijaju bez mišića",
+        "Mišići se pomiču, a kosti ostaju na mjestu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mišići se stežu i vuku kosti, a kosti se pomiču u zglobovima. Tako nastaje pokret.",
+      "savjet": "Razmisli koji dio radi, a koji se pomiče."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-046",
+      "tezina": "srednje",
+      "pitanje": "Što od navedenoga najviše pomaže zdravom rastu kostiju u djetinjstvu?",
+      "ponudeni": [
+        "Slatkiši svaki dan",
+        "Što manje kretanja",
+        "Raznolika prehrana i igra na otvorenom",
+        "Gazirani sokovi umjesto vode"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Raznolika prehrana daje tijelu tvari za rast kostiju, a kretanje kosti čini čvršćima.",
+      "savjet": "Sjeti se što je dobro i za prehranu i za kretanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-047",
+      "tezina": "srednje",
+      "pitanje": "Koji sustav organa raznosi hranjive tvari i kisik do mišića?",
+      "ponudeni": [
+        "Organi za krvotok",
+        "Organi za kretanje",
+        "Organi za izlučivanje",
+        "Osjetila"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srce pumpa krv, a krvne žile je raznose do svih dijelova tijela, pa i do mišića.",
+      "savjet": "Sjeti se što teče kroz krvne žile."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-048",
+      "tezina": "srednje",
+      "pitanje": "Koji je par točan: zglob i dio tijela u kojem se nalazi?",
+      "ponudeni": [
+        "Lakat – noga",
+        "Koljeno – ruka",
+        "Gležanj – vrat",
+        "Zapešće – ruka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zapešće je zglob između podlaktice i šake, dakle nalazi se na ruci.",
+      "savjet": "Za svaki zglob zamisli gdje ga možeš savijati na svome tijelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-049",
+      "tezina": "srednje",
+      "pitanje": "Zašto je važno da školska torba ne bude preteška?",
+      "ponudeni": [
+        "Da se torba manje prlja",
+        "Da kralježnica i leđa ne budu preopterećeni",
+        "Da u nju stane više igračaka",
+        "Da se brže stigne do škole"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Preteška torba opterećuje kralježnicu i leđne mišiće, koji kod djece još rastu.",
+      "savjet": "Sjeti se koji dio kostura nosi teret na leđima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto se kaže da kosti i mišići rade zajedno kao tim?",
+      "ponudeni": [
+        "Jer su građeni od iste tvari",
+        "Jer oboje štite mozak",
+        "Jer kosti daju oslonac, a mišići ih pokreću",
+        "Jer oboje probavljaju hranu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kosti su čvrst oslonac, a mišići ih pokreću. Jedni bez drugih ne bi omogućili kretanje.",
+      "savjet": "Razmisli što radi kost, a što mišić."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-051",
+      "tezina": "srednje",
+      "pitanje": "Kako se pravilno podiže teška kutija s poda?",
+      "ponudeni": [
+        "Saviti koljena i držati leđa ravno",
+        "Saviti samo leđa, a noge ispružiti",
+        "Podići je jednom rukom što brže",
+        "Povući je za sobom po podu trzajem"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad saviješ koljena i držiš leđa ravno, teret nose snažni mišići nogu, a kralježnica je zaštićena.",
+      "savjet": "Razmisli kako zaštititi leđa pri podizanju tereta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto kosti djece rastu i postaju sve duže?",
+      "ponudeni": [
+        "Jer ih mišići razvlače",
+        "Jer se pune zrakom",
+        "Jer upijaju vodu iz pića",
+        "Jer tijelo raste i razvija se"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U djetinjstvu tijelo raste, pa rastu i kosti. Zato je tada osobito važna dobra prehrana.",
+      "savjet": "Sjeti se zašto si danas viši ili viša nego prije nekoliko godina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-053",
+      "tezina": "srednje",
+      "pitanje": "Koji sustav organa prima podražaje iz okoline, primjerice zvuk ili svjetlost?",
+      "ponudeni": [
+        "Organi za probavu",
+        "Osjetila i živčani sustav",
+        "Organi za kretanje",
+        "Organi za izlučivanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osjetila primaju podražaje, a živci ih prenose do mozga.",
+      "savjet": "Sjeti se kojim dijelovima tijela vidimo i čujemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-054",
+      "tezina": "srednje",
+      "pitanje": "Koja je uloga kostiju nogu?",
+      "ponudeni": [
+        "Štite srce i pluća",
+        "Pomažu pri žvakanju",
+        "Nose težinu tijela i omogućuju hodanje",
+        "Štite leđnu moždinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kosti nogu su čvrste i snažne. Nose težinu cijeloga tijela i, uz mišiće, omogućuju hodanje i trčanje.",
+      "savjet": "Razmisli što radiš nogama cijeli dan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-055",
+      "tezina": "srednje",
+      "pitanje": "Zašto je za mišiće i kosti važno dovoljno spavati?",
+      "ponudeni": [
+        "Jer se tijelo tijekom sna odmara i obnavlja",
+        "Jer se tijekom sna kosti potpuno umire",
+        "Jer se mišići tijekom sna pretvaraju u kosti",
+        "Jer se tijekom sna ne treba disati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tijekom sna tijelo se odmara i obnavlja, a djeca u snu i rastu.",
+      "savjet": "Sjeti se kako se osjećaš nakon dobro prospavane noći."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-056",
+      "tezina": "srednje",
+      "pitanje": "Ako se netko na satu tjelesnoga ozlijedi i ne može pomaknuti ruku, što treba učiniti?",
+      "ponudeni": [
+        "Povući ruku da se izravna",
+        "Pustiti ga da sam ide kući",
+        "Natjerati ga da nastavi vježbati",
+        "Ostaviti ruku mirno i odmah pozvati učitelja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ozlijeđenu ruku ne treba pomicati. Treba odmah pozvati odraslu osobu koja će pružiti pomoć.",
+      "savjet": "Razmisli tko u školi zna pomoći i što ne smiješ raditi s ozlijeđenim dijelom tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-057",
+      "tezina": "srednje",
+      "pitanje": "Što od navedenoga je primjer pravilnoga držanja tijela?",
+      "ponudeni": [
+        "Hodanje pogrbljenih leđa i spuštene glave",
+        "Hodanje uspravno, s opuštenim ramenima",
+        "Stajanje stalno oslonjeno na jednu nogu",
+        "Čitanje knjige ležeći na trbuhu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pri pravilnom držanju leđa su uspravna, glava podignuta, a ramena opuštena.",
+      "savjet": "Zamisli da te nevidljiva nit vuče prema gore za tjeme."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-058",
+      "tezina": "srednje",
+      "pitanje": "Zašto je čovjek kralježnjak?",
+      "ponudeni": [
+        "Jer ima rebra",
+        "Jer ima mišiće",
+        "Jer ima kralježnicu",
+        "Jer ima lubanju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kralježnjaci su životinje i ljudi koji imaju kralježnicu. Čovjek ima kralježnicu, pa je kralježnjak.",
+      "savjet": "Naziv dolazi od jednog dijela kostura."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-059",
+      "tezina": "srednje",
+      "pitanje": "Koji sustav organa iz tijela uklanja štetne tvari putem mokraće?",
+      "ponudeni": [
+        "Organi za izlučivanje",
+        "Organi za disanje",
+        "Organi za kretanje",
+        "Organi za probavu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bubrezi i mokraćni mjehur su organi za izlučivanje. Oni uklanjaju štetne tvari iz tijela.",
+      "savjet": "Sjeti se uloge bubrega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-060",
+      "tezina": "srednje",
+      "pitanje": "Zašto ozlijeđeni gležanj nakon uganuća treba mirovati?",
+      "ponudeni": [
+        "Da brže porastemo",
+        "Da mišić postane kost",
+        "Da bi gležanj zaboravio na ozljedu",
+        "Da se ozlijeđeni zglob ne ozlijedi još više"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mirovanjem se ozlijeđeni zglob ne opterećuje, pa može zacijeliti.",
+      "savjet": "Razmisli što bi se dogodilo kad bi se ozlijeđen zglob odmah opet opteretio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-061",
+      "tezina": "tesko",
+      "pitanje": "Biciklist je pao i udario glavom, ali mu je kaciga ostala cijela, a on nije ozlijeđen. Koju je ulogu kaciga preuzela?",
+      "ponudeni": [
+        "Ulogu kralježnice koja nosi tijelo",
+        "Dodatnu zaštitu uz lubanju",
+        "Ulogu mišića koji pokreću glavu",
+        "Ulogu prsnoga koša"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lubanja štiti mozak, a kaciga joj pomaže tako što ublažava udarac pri padu.",
+      "savjet": "Sjeti se koji dio kostura i inače štiti glavu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-062",
+      "tezina": "tesko",
+      "pitanje": "Luka je ispružio ruku i podigao je iznad glave. Što je sve sudjelovalo u tom pokretu?",
+      "ponudeni": [
+        "Samo kosti ruke",
+        "Samo mišići ruke",
+        "Mozak, živci, mišići, kosti i rameni zglob",
+        "Samo lubanja i kralježnica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mozak preko živaca šalje poruku mišićima, a oni pokreću kosti ruke u ramenom zglobu.",
+      "savjet": "Kreni od mjesta gdje nastaje odluka da se pomakneš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-063",
+      "tezina": "tesko",
+      "pitanje": "Mia je nogu imala u gipsu nekoliko tjedana. Kad je skinula gips, noga je bila tanja i slabija. Zašto?",
+      "ponudeni": [
+        "Mišići nisu radili pa su oslabili",
+        "Kost se smanjila zbog gipsa",
+        "Gips je upio mišiće",
+        "Noga je prestala rasti zauvijek"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mišići koji dugo ne rade oslabe. Kad noga opet počne vježbati, mišići će ponovno ojačati.",
+      "savjet": "Sjeti se što mišić čini jačim."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-064",
+      "tezina": "tesko",
+      "pitanje": "Zašto su kosti nogu snažnije i deblje od kostiju prstiju na ruci?",
+      "ponudeni": [
+        "Jer su noge bliže tlu",
+        "Jer se noge rjeđe pomiču",
+        "Jer prsti nemaju mišića",
+        "Jer nose težinu cijeloga tijela"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kosti nogu nose težinu cijeloga tijela pri stajanju, hodanju i skakanju, pa moraju biti vrlo snažne.",
+      "savjet": "Razmisli koliko tereta nosi svaki od tih dijelova tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto je za ozljedu leđa ili vrata osobito važno da ozlijeđeni ne pomiče tijelo dok ne stigne pomoć?",
+      "ponudeni": [
+        "Jer bi ga moglo zaboljeti grlo",
+        "Jer bi se mogla ozlijediti leđna moždina u kralježnici",
+        "Jer bi ga moglo zaboljeti srce",
+        "Jer bi mu se moglo stvoriti više mišića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U kralježnici se nalazi leđna moždina. Pomicanje pri ozljedi leđa ili vrata moglo bi je ozlijediti, zato se zove pomoć na broj 112.",
+      "savjet": "Sjeti se što se nalazi unutar kralježnice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-066",
+      "tezina": "tesko",
+      "pitanje": "Pri udarcu lopte nogom pokreće se natkoljenica, potkoljenica i stopalo. Koji zglobovi omogućuju taj pokret?",
+      "ponudeni": [
+        "Rame, lakat i zapešće",
+        "Lakat i koljeno",
+        "Kuk, koljeno i gležanj",
+        "Zapešće i gležanj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Noga se savija u kuku, koljenu i gležnju. Ti zglobovi omogućuju udarac lopte.",
+      "savjet": "Kreni od mjesta gdje se noga spaja s trupom pa idi prema stopalu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-067",
+      "tezina": "tesko",
+      "pitanje": "Ana ima jednu torbu s dvije naramenice, a Ivan torbu s jednom naramenicom. Obje su jednako teške. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Anina torba bolje čuva kralježnicu",
+        "Ivanova torba bolje čuva kralježnicu",
+        "Obje jednako opterećuju jedno rame",
+        "Torba ne utječe na držanje tijela"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Torba s dvije naramenice teret ravnomjerno raspoređuje na oba ramena, pa se tijelo ne naginje u stranu.",
+      "savjet": "Razmisli na koliko je ramena raspoređen teret u svakom slučaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-068",
+      "tezina": "tesko",
+      "pitanje": "Zašto rebra nisu jedna čvrsta ploča, nego zasebne kosti povezane s prsnom kosti i kralježnicom?",
+      "ponudeni": [
+        "Da bi se srce moglo pomaknuti iz prsa",
+        "Da bismo mogli brže trčati",
+        "Da bi prsni koš bio teži",
+        "Da se prsni koš može širiti pri disanju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prsni koš štiti pluća, ali se i malo širi i skuplja kad udišemo i izdišemo.",
+      "savjet": "Stavi ruke na rebra i duboko udahni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-069",
+      "tezina": "tesko",
+      "pitanje": "Pri trčanju dišemo brže, a srce jače kuca. Kako je to povezano s mišićima?",
+      "ponudeni": [
+        "Mišići tada trebaju manje kisika",
+        "Mišići pri radu trebaju više kisika i hrane",
+        "Mišići pri trčanju potpuno miruju",
+        "Srce i pluća tada rade umjesto mišića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mišići koji rade trebaju više kisika i hranjivih tvari. Zato pluća i srce rade jače da ih dopreme krvlju.",
+      "savjet": "Razmisli što krv donosi mišićima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-070",
+      "tezina": "tesko",
+      "pitanje": "Petar svaki dan dva sata igra igrice pogrbljen na kauču. Što mu je najbolje savjetovati?",
+      "ponudeni": [
+        "Neka igra još dulje da se navikne",
+        "Neka igra ležeći na trbuhu",
+        "Neka skrati vrijeme, sjedi uspravno i više se kreće",
+        "Neka nosi torbu na jednom ramenu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Manje sjedenja, pravilno držanje i više kretanja čuvaju kralježnicu i jačaju mišiće leđa.",
+      "savjet": "Sjeti se što je dobro za kralježnicu i mišiće leđa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-071",
+      "tezina": "tesko",
+      "pitanje": "Kad ispružiš ruku, mišić na prednjoj strani nadlaktice se opusti. Što tada radi mišić na stražnjoj strani?",
+      "ponudeni": [
+        "Steže se i ispruža ruku",
+        "Također se opusti",
+        "Pretvara se u tetivu",
+        "Odvaja se od kosti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mišići često rade u paru: dok se jedan steže, drugi se opušta. Prednji savija, a stražnji ispruža ruku.",
+      "savjet": "Mišić može samo povući kost, ne može je gurnuti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-072",
+      "tezina": "tesko",
+      "pitanje": "Lucija se poskliznula. Gležanj joj je natekao i boli je kad stane na nogu. Koji je postupak ispravan?",
+      "ponudeni": [
+        "Trčati da se gležanj razgiba",
+        "Skočiti nekoliko puta na toj nozi",
+        "Snažno izvrtati stopalo",
+        "Ne opterećivati nogu i reći odrasloj osobi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oteklina i bol znak su ozljede. Nogu treba poštedjeti, a odrasla osoba odlučit će treba li liječnik.",
+      "savjet": "Razmisli što ozlijeđenom zglobu treba da se ne ozlijedi još više."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-073",
+      "tezina": "tesko",
+      "pitanje": "Na rendgenskoj snimci vidi se da je kost podlaktice napukla. Što je liječnik vjerojatno utvrdio?",
+      "ponudeni": [
+        "Uganuće zgloba",
+        "Prijelom kosti",
+        "Ogrebotinu kože",
+        "Umor mišića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Napuknuta ili slomljena kost znači prijelom. Liječnik ruku obično stavi u gips da kost zaraste.",
+      "savjet": "Pitanje kaže koji je dio ozlijeđen: kost ili zglob?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-074",
+      "tezina": "tesko",
+      "pitanje": "Koja je od navedenih aktivnosti najbolja za jačanje mišića leđa i pravilno držanje?",
+      "ponudeni": [
+        "Gledanje televizije",
+        "Ležanje na kauču",
+        "Plivanje",
+        "Igranje igrica na mobitelu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plivanjem rade mišići cijeloga tijela, pa i leđa, što pomaže pravilnom držanju.",
+      "savjet": "Potraži aktivnost u kojoj se kreće cijelo tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-075",
+      "tezina": "tesko",
+      "pitanje": "Zašto kosti lubanje ne trebaju biti pokretno spojene kao kosti ruke?",
+      "ponudeni": [
+        "Jer im je glavna uloga zaštita, a ne pokret",
+        "Jer je lubanja najlakši dio tijela",
+        "Jer glava nema mišića",
+        "Jer mozak sam pomiče lubanju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lubanja štiti mozak, pa je čvrsto spojena. Ruke služe za pokrete, pa imaju zglobove.",
+      "savjet": "Usporedi što je glavna zadaća lubanje, a što ruke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-076",
+      "tezina": "tesko",
+      "pitanje": "Kad dodirneš vrući lonac, ruka se brzo povuče. Kojim redom pritom sudjeluju dijelovi tijela?",
+      "ponudeni": [
+        "Mišić – koža – živci",
+        "Kost – krv – koža",
+        "Pluća – srce – mišić",
+        "Koža – živci – mišić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Koža osjeti toplinu, živci prenesu poruku, a mišić povuče ruku.",
+      "savjet": "Kreni od dijela tijela koji prvi osjeti vrućinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-077",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o sustavima organa točna?",
+      "ponudeni": [
+        "Svaki sustav radi potpuno sam",
+        "Sustavi organa surađuju da tijelo živi i kreće se",
+        "Samo organi za kretanje trebaju hranu",
+        "Mozak ne utječe na rad mišića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sustavi organa surađuju. Na primjer, mišićima za kretanje trebaju hrana, kisik i poruke iz mozga.",
+      "savjet": "Sjeti se što sve treba mišiću da bi radio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-078",
+      "tezina": "tesko",
+      "pitanje": "Marko svakoga dana preskače doručak i ne pije mlijeko, a cijeli dan sjedi. Čemu to najviše šteti?",
+      "ponudeni": [
+        "Samo vidu",
+        "Samo sluhu",
+        "Čvrstoći kostiju i snazi mišića",
+        "Boji kose"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za čvrste kosti i snažne mišiće potrebni su i dobra prehrana i kretanje.",
+      "savjet": "Razmisli što kostima i mišićima treba za rast."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-079",
+      "tezina": "tesko",
+      "pitanje": "Koji je sustav organa u tijelu pri hodanju odgovoran za to da se noge pomiču?",
+      "ponudeni": [
+        "Organi za kretanje",
+        "Organi za probavu",
+        "Organi za izlučivanje",
+        "Organi za disanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kosti, zglobovi i mišići nogu, koje pokreće mozak preko živaca, omogućuju hodanje.",
+      "savjet": "Sjeti se koji sustav čine kosti, zglobovi i mišići."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto je pravilno držanje tijela posebno važno u djetinjstvu?",
+      "ponudeni": [
+        "Jer odrasli nemaju kralježnicu",
+        "Jer djeca nemaju mišiće leđa",
+        "Jer se kod djece kosti ne mogu slomiti",
+        "Jer kostur djece još raste pa se lakše iskrivi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kod djece kostur još raste. Loše navike tada mogu trajno iskriviti kralježnicu.",
+      "savjet": "Razmisli što se događa s tijelom dok si dijete."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-081",
+      "tezina": "tesko",
+      "pitanje": "Kad čučneš, koja se dva zgloba najviše savijaju?",
+      "ponudeni": [
+        "Rame i lakat",
+        "Koljeno i kuk",
+        "Zapešće i lakat",
+        "Lakat i gležanj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pri čučnju noga se savija u koljenu i kuku, a malo i u gležnju.",
+      "savjet": "Čučni i pogledaj gdje se tijelo savija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-082",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo kad bi se tetiva između mišića i kosti prekinula?",
+      "ponudeni": [
+        "Kost bi postala mekana",
+        "Mišić bi se pretvorio u zglob",
+        "Mišić ne bi mogao pomaknuti tu kost",
+        "Kost bi se sama pomicala"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tetiva prenosi silu mišića na kost. Bez nje mišić se steže, ali kost se ne pomiče.",
+      "savjet": "Sjeti se čemu služi tetiva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-083",
+      "tezina": "tesko",
+      "pitanje": "Pri igri skrivača Ema je stajala potpuno mirno. Jesu li joj mišići radili?",
+      "ponudeni": [
+        "Da, mišići je drže uspravnom i rade srce i disanje",
+        "Ne, mišići rade samo pri trčanju",
+        "Ne, uspravnom je drže samo kosti",
+        "Ne, mišići rade samo kad spavamo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "I dok stojimo mirno, mišići drže tijelo uspravnim, a srčani mišić i mišići za disanje stalno rade.",
+      "savjet": "Razmisli bi li tijelo stajalo uspravno da se svi mišići potpuno opuste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-084",
+      "tezina": "tesko",
+      "pitanje": "Zašto se pri vožnji bicikla i skateboarda nosi kaciga, a ne štitnik za trbuh?",
+      "ponudeni": [
+        "Jer trbuh nema organa",
+        "Jer je kaciga jeftinija",
+        "Jer se trbuh pri padu ne može ozlijediti",
+        "Jer je ozljeda glave i mozga osobito opasna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U glavi je mozak, koji upravlja cijelim tijelom. Kaciga uz lubanju dodatno štiti glavu pri padu.",
+      "savjet": "Sjeti se koji je organ najvažniji za upravljanje tijelom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-085",
+      "tezina": "tesko",
+      "pitanje": "Kad žvačeš jabuku, što se pomiče?",
+      "ponudeni": [
+        "Cijela lubanja zajedno s mozgom",
+        "Donja čeljust, koju pokreću mišići",
+        "Kralježnica i rebra",
+        "Gornja čeljust i čelo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jedina pokretna kost lubanje je donja čeljust. Pokreću je snažni mišići za žvakanje.",
+      "savjet": "Stavi ruku na bradu i žvači."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-086",
+      "tezina": "tesko",
+      "pitanje": "Nakon prvoga treninga Niku su sutradan boljeli mišići nogu. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Potpuno prestati s vježbanjem",
+        "Odmah trčati duže nego jučer",
+        "Odmoriti se i nastaviti vježbati postupno",
+        "Sakriti to od trenera"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Blaga bol nakon prvih treninga česta je. Mišiće treba odmoriti i postupno ih navikavati na napor.",
+      "savjet": "Razmisli kako tijelo najbolje navikavamo na nove napore."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-087",
+      "tezina": "tesko",
+      "pitanje": "U kojem je slučaju tijelo ozlijeđeno tako da treba odmah zvati 112?",
+      "ponudeni": [
+        "Netko je pao s visine i ne osjeća noge",
+        "Netko se ogrebao po koljenu",
+        "Nekoga lagano bole mišići nakon igre",
+        "Netko se umorio od hodanja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pad s visine uz gubitak osjeta u nogama može značiti ozljedu kralježnice i leđne moždine. Tada se odmah zove 112.",
+      "savjet": "Potraži ozljedu koja bi mogla zahvatiti kralježnicu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto je vježbanje korisno i za srce i pluća, a ne samo za mišiće i kosti?",
+      "ponudeni": [
+        "Jer srce i pluća tada potpuno miruju",
+        "Jer vježbanje smanjuje pluća",
+        "Jer srce tada prestaje biti mišić",
+        "Jer srce i pluća pri vježbanju rade jače i jačaju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pri vježbanju srce i pluća rade jače da mišićima dopreme kisik, pa i sami jačaju.",
+      "savjet": "Sjeti se što se događa s disanjem i otkucajima srca pri trčanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-089",
+      "tezina": "tesko",
+      "pitanje": "Koji je zglob omogućio Ivi da napiše rečenicu pomičući šaku lijevo-desno?",
+      "ponudeni": [
+        "Koljeno",
+        "Zapešće",
+        "Gležanj",
+        "Kuk"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zapešće spaja podlakticu i šaku. Zahvaljujući njemu pomičemo šaku pri pisanju.",
+      "savjet": "Potraži zglob koji je između ruke i šake."
+    },
+    {
+      "id": "4-priroda-i-drustvo-organi-za-kretanje-090",
+      "tezina": "tesko",
+      "pitanje": "Što od navedenoga najbolje opisuje vezu kostura, mišića i živčanog sustava?",
+      "ponudeni": [
+        "Kostur upravlja mozgom, a mišići štite kosti",
+        "Mišići upravljaju mozgom, a živci nose kosti",
+        "Mozak preko živaca pokreće mišiće, a mišići kosti",
+        "Živci pokreću kosti bez pomoći mišića"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mozak šalje poruke kroz živce mišićima. Mišići se stežu i pokreću kosti u zglobovima.",
+      "savjet": "Poslaži redom tko šalje poruku, tko je izvršava, a što se pomiče."
+    }
+  ]
+}

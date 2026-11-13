@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "zdravlje-rast-i-razvoj",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-001",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pomaže zdravlju?",
+      "ponudeni": [
+        "Cijeli dan provesti pred ekranom",
+        "Preskakanje doručka",
+        "Svakodnevna tjelovježba",
+        "Odlazak na spavanje kasno u noć"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svakodnevnim kretanjem jačaju mišići, kosti i srce. Zato je tjelovježba važan dio brige za zdravlje.",
+      "savjet": "Sjeti se što jača mišiće i kosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-002",
+      "tezina": "lagano",
+      "pitanje": "Koje je piće najbolje kad smo žedni?",
+      "ponudeni": [
+        "Voda",
+        "Sok s mnogo šećera",
+        "Gazirani napitak",
+        "Energetsko piće"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Voda najbolje utažuje žeđ i ne šteti zubima. Slatka i gazirana pića imaju mnogo šećera.",
+      "savjet": "Razmisli koje piće nema šećera."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-003",
+      "tezina": "lagano",
+      "pitanje": "Koliko često treba prati zube?",
+      "ponudeni": [
+        "Jednom tjedno",
+        "Samo kad nas zub boli",
+        "Samo prije odlaska stomatologu",
+        "Barem dva puta na dan, ujutro i navečer"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zube peremo barem ujutro i navečer prije spavanja. Tako uklanjamo ostatke hrane koji štete zubima.",
+      "savjet": "Sjeti se kada u danu redovito pereš zube."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-004",
+      "tezina": "lagano",
+      "pitanje": "Kada obavezno peremo ruke?",
+      "ponudeni": [
+        "Samo kad se na rukama vidi prljavština",
+        "Prije jela i nakon korištenja zahoda",
+        "Samo navečer prije spavanja",
+        "Samo nakon kupanja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na rukama ima klica koje se ne vide. Pranjem ruku prije jela i nakon zahoda sprječavamo bolesti.",
+      "savjet": "Razmisli kada klice s ruku najlakše dospiju u usta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu prvi zubi koji izrastu djetetu?",
+      "ponudeni": [
+        "Trajni zubi",
+        "Mliječni zubi",
+        "Umnjaci",
+        "Umjetni zubi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi zubi zovu se mliječni zubi. Kasnije ispadaju, a na njihovo mjesto rastu trajni zubi.",
+      "savjet": "Naziv tih zuba podsjeća na prvu hranu koju beba pije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-006",
+      "tezina": "lagano",
+      "pitanje": "Koji zubi rastu na mjestu mliječnih zuba koji su ispali?",
+      "ponudeni": [
+        "Novi mliječni zubi",
+        "Umjetni zubi",
+        "Zubi od mlijeka",
+        "Trajni zubi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad mliječni zub ispadne, na njegovo mjesto izraste trajni zub. On nam služi cijeli život.",
+      "savjet": "Ti zubi ostaju do kraja života."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-007",
+      "tezina": "lagano",
+      "pitanje": "Kod koga redovito idemo na pregled zuba?",
+      "ponudeni": [
+        "Kod stomatologa",
+        "Kod veterinara",
+        "Kod ljekarnika",
+        "Kod trenera"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stomatolog (zubar) je liječnik koji pregledava i liječi zube.",
+      "savjet": "Sjeti se kako se zove liječnik za zube."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-008",
+      "tezina": "lagano",
+      "pitanje": "Zašto je važno dovoljno spavati?",
+      "ponudeni": [
+        "Tijekom sna tijelo troši najviše hrane",
+        "Tako možemo preskočiti doručak",
+        "Tijekom sna tijelo se odmara i skuplja snagu",
+        "Tijekom sna zubi se sami očiste"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dok spavamo, tijelo i mozak se odmaraju. Ujutro smo odmorni i spremni za učenje i igru.",
+      "savjet": "Razmisli kako se osjećaš ujutro kad se dobro naspavaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-009",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih užina zdrava?",
+      "ponudeni": [
+        "Čips",
+        "Bomboni",
+        "Čokoladica",
+        "Jabuka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voće je zdrava užina jer sadrži vitamine. Čips i slatkiši imaju mnogo soli ili šećera.",
+      "savjet": "Potraži užinu koja raste na drvetu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-010",
+      "tezina": "lagano",
+      "pitanje": "Koje razdoblje života dolazi nakon djetinjstva?",
+      "ponudeni": [
+        "Starost",
+        "Odrasla dob",
+        "Mladenaštvo",
+        "Rođenje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon djetinjstva dolazi mladenaštvo (pubertet), zatim odrasla dob i na kraju starost.",
+      "savjet": "Sjeti se redoslijeda životnih razdoblja od rođenja do starosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-011",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove posljednje razdoblje ljudskoga života?",
+      "ponudeni": [
+        "Djetinjstvo",
+        "Starost",
+        "Mladenaštvo",
+        "Odrasla dob"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Posljednje razdoblje života je starost. Tada su ljudi bake i djedovi.",
+      "savjet": "Sjeti se u kojem su razdoblju života tvoji bake i djedovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-012",
+      "tezina": "lagano",
+      "pitanje": "Što nas štiti od nekih zaraznih bolesti?",
+      "ponudeni": [
+        "Cijepljenje",
+        "Gledanje televizije",
+        "Jedenje slatkiša",
+        "Dugo sjedenje u kući"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Cijepljenje štiti od nekih zaraznih bolesti. Zato se djeca cijepe kod liječnika.",
+      "savjet": "Sjeti se što liječnik daje djeci da ih zaštiti od bolesti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-013",
+      "tezina": "lagano",
+      "pitanje": "Koji je broj telefona za hitne slučajeve?",
+      "ponudeni": [
+        "112",
+        "121",
+        "211",
+        "221"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj 112 zovemo kad je nekome potrebna hitna pomoć. Poziv je besplatan.",
+      "savjet": "To je broj hitne pomoći koji vrijedi u cijeloj Europi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-014",
+      "tezina": "lagano",
+      "pitanje": "Koji osobni podatak ne smiješ dijeliti s nepoznatima na internetu?",
+      "ponudeni": [
+        "Omiljenu boju",
+        "Kućnu adresu",
+        "Ime omiljenoga crtića",
+        "Omiljeni sport"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kućna adresa je osobni podatak. Po njoj nepoznata osoba može saznati gdje živiš.",
+      "savjet": "Razmisli koji bi podatak nepoznatoj osobi otkrio gdje živiš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-015",
+      "tezina": "lagano",
+      "pitanje": "Nepoznata osoba na internetu šalje ti neugodne poruke. Što trebaš učiniti?",
+      "ponudeni": [
+        "Odmah joj odgovoriti",
+        "Zadržati to samo za sebe",
+        "Reći roditelju ili drugoj odrasloj osobi od povjerenja",
+        "Poslati joj svoju fotografiju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad se na internetu dogodi nešto neugodno, to nije tvoja krivnja. Uvijek reci odrasloj osobi kojoj vjeruješ.",
+      "savjet": "Sjeti se tko ti može pomoći kad se osjećaš nesigurno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-016",
+      "tezina": "lagano",
+      "pitanje": "Što je dobro za oči kad dugo gledaš u zaslon?",
+      "ponudeni": [
+        "Približiti lice zaslonu",
+        "Pojačati svjetlinu zaslona do kraja",
+        "Gledati u zaslon bez stanke",
+        "Povremeno odmoriti oči gledajući u daljinu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oči se umaraju kad dugo gledamo u zaslon. Stanka i pogled u daljinu odmaraju oči.",
+      "savjet": "Razmisli kako se oči mogu odmoriti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-017",
+      "tezina": "lagano",
+      "pitanje": "Što jača mišiće i kosti?",
+      "ponudeni": [
+        "Dugo sjedenje",
+        "Igranje igrica",
+        "Redovita tjelovježba",
+        "Spavanje do podneva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kretanjem i vježbanjem mišići i kosti postaju jači.",
+      "savjet": "Sjeti se što radiš na satu tjelesne i zdravstvene kulture."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-018",
+      "tezina": "lagano",
+      "pitanje": "Gdje je najbolje igrati se i kretati?",
+      "ponudeni": [
+        "U zatvorenoj sobi pred ekranom",
+        "U zadimljenoj prostoriji",
+        "Na prometnoj cesti",
+        "Na svježem zraku, u parku ili na igralištu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Boravak i igra na svježem zraku dobri su za zdravlje. Igralište i park su sigurna mjesta za igru.",
+      "savjet": "Potraži mjesto koje je i sigurno i ima svjež zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-019",
+      "tezina": "lagano",
+      "pitanje": "Što pripada osobnoj higijeni?",
+      "ponudeni": [
+        "Redovito pranje tijela",
+        "Zalijevanje cvijeća",
+        "Hranjenje kućnoga ljubimca",
+        "Pospremanje školske torbe"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Osobna higijena je briga o čistoći vlastitoga tijela: pranje ruku, tijela, kose i zuba.",
+      "savjet": "Osobna higijena odnosi se na tvoje tijelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-020",
+      "tezina": "lagano",
+      "pitanje": "Koju stvar zbog higijene ne posuđujemo drugima?",
+      "ponudeni": [
+        "Olovku",
+        "Četkicu za zube",
+        "Knjigu",
+        "Loptu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Četkica za zube je osobna stvar. Na njoj ostaju klice iz usta, pa je svatko ima svoju.",
+      "savjet": "Razmisli koja stvar dolazi u usta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-021",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove razdoblje u kojem se tijelo djeteta počinje mijenjati u tijelo odrasle osobe?",
+      "ponudeni": [
+        "Djetinjstvo",
+        "Pubertet",
+        "Starost",
+        "Odrasla dob"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pubertet je razdoblje kada se tijelo mijenja i postaje tijelo odrasle osobe. To je prirodno.",
+      "savjet": "To se razdoblje događa u mladenaštvu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-022",
+      "tezina": "lagano",
+      "pitanje": "Što je točno za rast djece?",
+      "ponudeni": [
+        "Svako dijete raste svojim tempom",
+        "Sva djeca iste dobi jednako su visoka",
+        "Djeca prestaju rasti u prvom razredu",
+        "Djeca rastu samo ljeti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djeca ne rastu jednako brzo. Netko naraste ranije, a netko kasnije, i to je posve prirodno.",
+      "savjet": "Pogledaj svoje vršnjake u razredu – jesu li svi jednako visoki?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-023",
+      "tezina": "lagano",
+      "pitanje": "Što trebaš učiniti kad se osjećaš bolesno?",
+      "ponudeni": [
+        "Šutjeti i nastaviti igru",
+        "Otići na trening",
+        "Sakriti se od svih",
+        "Reći roditelju ili učitelju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad si bolestan ili bolesna, reci odrasloj osobi. Ona će se pobrinuti za tebe i po potrebi otići s tobom liječniku.",
+      "savjet": "Sjeti se tko se brine o tebi kod kuće i u školi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-024",
+      "tezina": "lagano",
+      "pitanje": "Kakva treba biti zdrava prehrana?",
+      "ponudeni": [
+        "Uvijek ista",
+        "Bogata slatkišima",
+        "Raznovrsna i umjerena",
+        "Samo od tjestenine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zdrava prehrana je raznovrsna: jedemo različite namirnice. Umjerena je jer ne jedemo previše.",
+      "savjet": "Razmisli treba li jesti mnogo različite ili stalno istu hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-025",
+      "tezina": "lagano",
+      "pitanje": "Koji nam obrok daje snagu za početak dana?",
+      "ponudeni": [
+        "Večera",
+        "Ručak",
+        "Popodnevna užina",
+        "Doručak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Doručak jedemo ujutro. On nam daje snagu za učenje i igru na početku dana.",
+      "savjet": "Sjeti se koji obrok jedeš prije škole."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-026",
+      "tezina": "lagano",
+      "pitanje": "Koliko često treba piti vodu?",
+      "ponudeni": [
+        "Samo uz ručak",
+        "Više puta tijekom dana",
+        "Samo kad smo bolesni",
+        "Jednom tjedno"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tijelu je voda potrebna svaki dan. Zato je pijemo više puta tijekom dana.",
+      "savjet": "Razmisli koliko često tijelo treba vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-027",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove najmanji živi dio od kojega je građeno ljudsko tijelo?",
+      "ponudeni": [
+        "Organ",
+        "Kost",
+        "Stanica",
+        "Sustav organa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljudsko je tijelo građeno od mnogo sitnih stanica. Stanice se ne vide golim okom.",
+      "savjet": "To je najmanji dio tijela, ne vidi se bez povećala ili mikroskopa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-028",
+      "tezina": "lagano",
+      "pitanje": "Kako treba sjediti dok pišeš ili radiš za računalom?",
+      "ponudeni": [
+        "Uspravno, s leđima uz naslon stolca",
+        "Pogrbljeno, s glavom blizu stola",
+        "Bočno, s jednom nogom ispod sebe",
+        "Ležeći na trbuhu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uspravno sjedenje čuva leđa i kralježnicu. Pogrbljeno sjedenje može uzrokovati bolove u leđima.",
+      "savjet": "Razmisli kako sjediti da te ne bole leđa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-029",
+      "tezina": "lagano",
+      "pitanje": "Kome se obraćamo kad smo bolesni?",
+      "ponudeni": [
+        "Liječniku",
+        "Arhitektu",
+        "Poštaru",
+        "Knjižničaru"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Liječnik pregledava bolesne i pomaže im da ozdrave.",
+      "savjet": "Sjeti se tko radi u ambulanti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-030",
+      "tezina": "lagano",
+      "pitanje": "Kome smiješ reći svoju lozinku?",
+      "ponudeni": [
+        "Prijatelju iz igrice",
+        "Nepoznatoj osobi koja je traži",
+        "Roditelju ili skrbniku",
+        "Svima u razredu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lozinka je tajna. Mogu je znati samo ti i roditelji ili skrbnici.",
+      "savjet": "Lozinka je tajna – razmisli tko se brine o tvojoj sigurnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto je tjelovježba važna djeci koja rastu?",
+      "ponudeni": [
+        "Može zamijeniti hranu",
+        "Može zamijeniti san",
+        "Jača mišiće i kosti i pomaže pravilnom rastu",
+        "Zbog nje ne treba piti vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kretanjem mišići i kosti jačaju, a tijelo pravilno raste i razvija se.",
+      "savjet": "Razmisli što se događa s mišićima kad ih redovito koristiš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-032",
+      "tezina": "srednje",
+      "pitanje": "Što se može dogoditi ako redovito ne pereš zube?",
+      "ponudeni": [
+        "Može nastati karijes i zubi mogu boljeti",
+        "Zubi brže rastu",
+        "Zubi postaju jači",
+        "Mliječni zubi ostaju zauvijek"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ostatci hrane i šećer na zubima uzrokuju karijes. Karijes je bolest zuba koja može boljeti.",
+      "savjet": "Sjeti se zašto stomatolog ponekad mora popraviti zub."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto prije jela peremo ruke?",
+      "ponudeni": [
+        "Da hrana bude ukusnija",
+        "Da ruke budu toplije",
+        "Da brže pojedemo obrok",
+        "Da uklonimo klice koje mogu izazvati bolest"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Klice s ruku mogu preko hrane ući u tijelo i izazvati bolest. Sapun i voda ih uklanjaju.",
+      "savjet": "Razmisli što se s ruku može prenijeti na hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-034",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s mliječnim zubima?",
+      "ponudeni": [
+        "Ostaju u ustima cijeli život",
+        "Ispadaju, a na njihovo mjesto izrastaju trajni",
+        "Rastu i sami postaju trajni zubi",
+        "Ispadaju, a na njihovo mjesto ne izraste ništa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mliječni zubi ispadaju tijekom djetinjstva. Na njihovo mjesto izrastaju trajni zubi.",
+      "savjet": "Sjeti se što se događa kad djetetu ispadne zub."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-035",
+      "tezina": "srednje",
+      "pitanje": "Zašto trajne zube moramo posebno čuvati?",
+      "ponudeni": [
+        "Trajni zubi ispadaju svake godine",
+        "Kad trajni zub ispadne, novi više ne izraste",
+        "Trajni zubi ne trebaju pranje",
+        "Trajni zubi rastu samo u starosti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trajni zubi su nam za cijeli život. Ako se izgube, novi ne izrastaju.",
+      "savjet": "Razmisli koliko dugo trajni zubi trebaju trajati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto ne treba jesti mnogo slatkiša i piti gazirana pića?",
+      "ponudeni": [
+        "Slatkiši sadrže previše vode",
+        "Slatkiši hlade tijelo",
+        "Gazirana pića odmaraju oči",
+        "Mnogo šećera šteti zubima i zdravlju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Šećer šteti zubima i može uzrokovati karijes. Previše slatkoga nije dobro za zdravlje.",
+      "savjet": "Sjeti se što slatkiši i gazirana pića sadrže u velikoj količini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-037",
+      "tezina": "srednje",
+      "pitanje": "Što se događa kad se ne naspavaš?",
+      "ponudeni": [
+        "Osjećaš umor i teže pratiš nastavu",
+        "Brže rasteš",
+        "Bolje pamtiš",
+        "Imaš više snage"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bez dovoljno sna tijelo i mozak nisu odmorni. Tada se teže usredotočujemo i učimo.",
+      "savjet": "Razmisli kako se osjećaš ujutro nakon kratke noći."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-038",
+      "tezina": "srednje",
+      "pitanje": "Koji je ispravan redoslijed životnih razdoblja?",
+      "ponudeni": [
+        "mladenaštvo – djetinjstvo – starost – odrasla dob",
+        "djetinjstvo – odrasla dob – mladenaštvo – starost",
+        "djetinjstvo – mladenaštvo – odrasla dob – starost",
+        "odrasla dob – djetinjstvo – mladenaštvo – starost"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čovjek prolazi kroz djetinjstvo, zatim mladenaštvo, odraslu dob i na kraju starost.",
+      "savjet": "Kreni od razdoblja u kojem si sada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-039",
+      "tezina": "srednje",
+      "pitanje": "Što je točno za promjene tijela u pubertetu?",
+      "ponudeni": [
+        "One su znak bolesti",
+        "Svima se događaju istoga dana",
+        "Događaju se samo odraslima",
+        "One su prirodne i svakome se događaju u svoje vrijeme"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Promjene u pubertetu su prirodne. Netko ih doživi ranije, a netko kasnije.",
+      "savjet": "Sjeti se da svatko raste svojim tempom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-040",
+      "tezina": "srednje",
+      "pitanje": "Zašto nije dobro gledati u zaslon neposredno prije spavanja?",
+      "ponudeni": [
+        "Oči se tada najbolje odmore",
+        "Brže se zaspi",
+        "Teže se zaspi i san je lošiji",
+        "Ujutro smo odmorniji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svjetlo zaslona i uzbudljiv sadržaj otežavaju uspavljivanje. Zato je bolje odložiti ekrane prije spavanja.",
+      "savjet": "Razmisli kako ekrani utječu na san."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-041",
+      "tezina": "srednje",
+      "pitanje": "Lea dugo čita s tableta i bole je oči. Što će joj najviše pomoći?",
+      "ponudeni": [
+        "Približiti tablet očima",
+        "Napraviti stanku i pogledati kroz prozor u daljinu",
+        "Pojačati svjetlinu zaslona",
+        "Nastaviti čitati bez treptanja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stanka i pogled u daljinu odmaraju oči. Dugo gledanje u blizinu umara oči.",
+      "savjet": "Razmisli što umara oči i kako ih odmoriti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-042",
+      "tezina": "srednje",
+      "pitanje": "Što može uzrokovati dugo pogrbljeno sjedenje?",
+      "ponudeni": [
+        "Bolove u leđima i loše držanje",
+        "Jače kosti",
+        "Bolji vid",
+        "Brži rast"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kada dugo sjedimo pogrbljeno, leđa se umaraju i mogu boljeti. Važno je sjediti uspravno.",
+      "savjet": "Razmisli koji dio tijela najviše trpi kad sjedimo pogrbljeno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-043",
+      "tezina": "srednje",
+      "pitanje": "Kojim su redom poredani dijelovi tijela od najmanjega prema najvećemu?",
+      "ponudeni": [
+        "stanica – organ – sustav organa – organizam",
+        "organ – stanica – organizam – sustav organa",
+        "organizam – sustav organa – organ – stanica",
+        "sustav organa – stanica – organ – organizam"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stanice grade organe, organi zajedno čine sustave organa, a svi sustavi zajedno čine organizam.",
+      "savjet": "Kreni od najmanjega dijela koji se ne vidi golim okom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-044",
+      "tezina": "srednje",
+      "pitanje": "Kako nazivamo skupinu organa koji zajedno obavljaju neku zadaću?",
+      "ponudeni": [
+        "Stanica",
+        "Sustav organa",
+        "Organizam",
+        "Zglob"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Organi koji zajedno obavljaju zadaću čine sustav organa, npr. srce i krvne žile.",
+      "savjet": "Sjeti se kako zovemo organe koji rade zajedno, npr. za probavu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-045",
+      "tezina": "srednje",
+      "pitanje": "Kako nazivamo cijelo živo biće, primjerice čovjeka?",
+      "ponudeni": [
+        "Organ",
+        "Stanica",
+        "Organizam",
+        "Sustav organa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Cijelo živo biće zove se organizam. Čovjek je organizam građen od mnogo sustava organa.",
+      "savjet": "To je najveća razina, cjelina od svih dijelova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-046",
+      "tezina": "srednje",
+      "pitanje": "Ivan je pao s bicikla i jako mu krvari koljeno. Što treba učiniti?",
+      "ponudeni": [
+        "Sakriti ranu od svih",
+        "Nastaviti vožnju",
+        "Pričekati da sama prestane krvariti",
+        "Odmah pozvati odraslu osobu da pomogne"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kod ozljede treba odmah potražiti pomoć odrasle osobe. Ona će zbrinuti ranu.",
+      "savjet": "Razmisli tko može pomoći kad se ozlijediš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-047",
+      "tezina": "srednje",
+      "pitanje": "Kada zovemo broj 112?",
+      "ponudeni": [
+        "Kad nam je dosadno",
+        "Kad zaboravimo zadaću",
+        "Kad je nekome potrebna hitna pomoć",
+        "Kad želimo naručiti hranu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Broj 112 zovemo samo u hitnim slučajevima, kad je nečiji život ili zdravlje u opasnosti.",
+      "savjet": "Taj se broj zove samo u ozbiljnim situacijama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-048",
+      "tezina": "srednje",
+      "pitanje": "Nepoznata osoba na internetu traži tvoju fotografiju. Što je ispravno?",
+      "ponudeni": [
+        "Poslati fotografiju",
+        "Poslati fotografiju prijatelja",
+        "Dogovoriti susret",
+        "Ne odgovoriti i reći roditelju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznatima ne šaljemo fotografije ni osobne podatke. O takvoj poruci odmah reci roditelju.",
+      "savjet": "Razmisli smiješ li nepoznatima davati svoje podatke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-049",
+      "tezina": "srednje",
+      "pitanje": "Zašto se djeca cijepe?",
+      "ponudeni": [
+        "Cjepivo ih štiti od nekih zaraznih bolesti",
+        "Cjepivo pomaže da brže narastu",
+        "Cjepivo zamjenjuje pranje zuba",
+        "Cjepivo poboljšava vid"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Cijepljenje štiti od nekih zaraznih bolesti. Tako štitimo sebe i druge.",
+      "savjet": "Sjeti se od čega nas štiti cijepljenje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto trebamo piti više vode kad je vruće ili kad se mnogo krećemo?",
+      "ponudeni": [
+        "Voda tada zamjenjuje hranu",
+        "Tijelo znojenjem gubi vodu pa je treba nadoknaditi",
+        "Voda tada služi samo za pranje zuba",
+        "Voda nam pomaže da više sjedimo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad nam je vruće ili se krećemo, znojimo se. Izgubljenu vodu treba nadoknaditi pijenjem.",
+      "savjet": "Razmisli što tijelo gubi kad se znojiš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-051",
+      "tezina": "srednje",
+      "pitanje": "Zašto treba svaki dan jesti voće i povrće?",
+      "ponudeni": [
+        "Sadrže mnogo šećera",
+        "Sadrže vitamine potrebne za zdravlje",
+        "Mogu zamijeniti vodu",
+        "Štete zubima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voće i povrće sadrže vitamine i druge tvari koje pomažu tijelu da bude zdravo.",
+      "savjet": "Sjeti se što voće i povrće daju tijelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-052",
+      "tezina": "srednje",
+      "pitanje": "Što je primjer odgovornoga korištenja tableta?",
+      "ponudeni": [
+        "Dogovoriti s roditeljima koliko ćeš ga dugo koristiti",
+        "Igrati se s njim dok ne zaspiš",
+        "Igrati se s njim za vrijeme ručka",
+        "Dati prijateljima svoju lozinku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Odgovorno korištenje znači ograničiti vrijeme pred ekranom i dogovoriti pravila s roditeljima.",
+      "savjet": "Razmisli što znači odgovorno korištenje tehnologije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-053",
+      "tezina": "srednje",
+      "pitanje": "Zašto idemo stomatologu na pregled i kad nas zub ne boli?",
+      "ponudeni": [
+        "Da nam izvadi zdrave zube",
+        "Jer se samo tako zubi mogu oprati",
+        "Da zubi brže narastu",
+        "Da se problemi sa zubima otkriju na vrijeme"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na redovitom pregledu stomatolog otkrije karijes i druge probleme prije nego što zub počne boljeti.",
+      "savjet": "Razmisli zašto je bolje problem uočiti rano."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-054",
+      "tezina": "srednje",
+      "pitanje": "Po čemu ćeš najlakše uočiti da ti tijelo raste?",
+      "ponudeni": [
+        "Kosa ti mijenja boju",
+        "Imaš više prijatelja",
+        "Odjeća i obuća postaju ti premale",
+        "Brže čitaš"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad rastemo, postajemo viši i noga nam je veća. Zato odjeća i obuća postanu premale.",
+      "savjet": "Razmisli što se događa s hlačama iz prošle godine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-055",
+      "tezina": "srednje",
+      "pitanje": "Što je obilježje odrasle dobi?",
+      "ponudeni": [
+        "Ljudi tek uče hodati",
+        "Ispadaju im mliječni zubi",
+        "Idu u vrtić",
+        "Ljudi rade i brinu se o sebi i obitelji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U odrasloj dobi ljudi rade i brinu se o sebi i svojoj obitelji.",
+      "savjet": "Sjeti se što rade tvoji roditelji ili skrbnici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-056",
+      "tezina": "srednje",
+      "pitanje": "U kojem razdoblju života dijete uči hodati i govoriti, a kasnije mu ispadaju mliječni zubi?",
+      "ponudeni": [
+        "U mladenaštvu",
+        "U djetinjstvu",
+        "U odrasloj dobi",
+        "U starosti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U djetinjstvu dijete nauči hodati, govoriti, a mliječni zubi mu se mijenjaju trajnima.",
+      "savjet": "To je prvo razdoblje života."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-057",
+      "tezina": "srednje",
+      "pitanje": "Prijatelj ti traži lozinku od tvojega profila u igrici. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Reći mu lozinku jer ste prijatelji",
+        "Napisati mu lozinku na papirić",
+        "Ljubazno odbiti jer je lozinka tajna",
+        "Reći lozinku cijelom razredu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lozinku ne dijelimo ni s prijateljima. Znati je smiju samo roditelji ili skrbnici.",
+      "savjet": "Sjeti se tko smije znati tvoju lozinku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-058",
+      "tezina": "srednje",
+      "pitanje": "Zašto je bolje igrati se vani nego cijelo poslijepodne sjediti u kući?",
+      "ponudeni": [
+        "Kretanje i svjež zrak jačaju tijelo",
+        "Vani se ne treba piti voda",
+        "Vani se ne možemo umoriti",
+        "Sjedenje u kući jača mišiće"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Igrom na svježem zraku krećemo se, jačamo mišiće i kosti te se odmaramo.",
+      "savjet": "Razmisli što tijelo dobiva kad se kreće na svježem zraku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-059",
+      "tezina": "srednje",
+      "pitanje": "Što trebaš učiniti nakon tjelesnoga kad se oznojiš?",
+      "ponudeni": [
+        "Oprati se i obući čistu odjeću",
+        "Odmah leći spavati u istoj odjeći",
+        "Pojesti slatkiš",
+        "Sjesti pred zaslon"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nakon vježbanja znoj ostaje na koži i odjeći. Pranjem i čistom odjećom brinemo o higijeni.",
+      "savjet": "Sjeti se što je osobna higijena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-060",
+      "tezina": "srednje",
+      "pitanje": "Ana ima temperaturu i kašlje. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Otići na trening",
+        "Otići na rođendan",
+        "Ostati kod kuće, odmarati se i javiti se liječniku",
+        "Ići u školu i nikome ne reći"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bolesnom tijelu treba odmor. Liječnik će reći kako se liječiti, a kod kuće ne širimo bolest na druge.",
+      "savjet": "Razmisli što treba bolesnom tijelu i kako zaštititi druge."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-061",
+      "tezina": "tesko",
+      "pitanje": "Marko jede gotovo samo tjesteninu i pije sokove. Što bi mu savjetovao liječnik?",
+      "ponudeni": [
+        "Jesti još više tjestenine",
+        "Umjesto soka piti gazirane napitke",
+        "Jesti raznovrsnu hranu, voće i povrće te piti vodu",
+        "Preskakati obroke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zdrava prehrana je raznovrsna. Tijelu trebaju različite namirnice, a voda je najbolje piće.",
+      "savjet": "Razmisli što nedostaje Markovoj prehrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-062",
+      "tezina": "tesko",
+      "pitanje": "Koje je poslijepodne najbolje za zdravlje?",
+      "ponudeni": [
+        "Ručak, igra vani, zadaća, kratki crtić, rano spavanje",
+        "Igrice do ponoći, bez ručka",
+        "Zadaća, pa gledanje filmova do kasno u noć",
+        "Slatkiši umjesto ručka i spavanje u podne"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zdravom danu ima mjesta za obroke, kretanje, učenje i dovoljno sna. Malo vremena pred ekranom je u redu.",
+      "savjet": "Potraži dan u kojem su i hrana, i kretanje, i san."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-063",
+      "tezina": "tesko",
+      "pitanje": "Sara je naučila voziti bicikl s pet godina, a njezin brat sa sedam. Što to pokazuje?",
+      "ponudeni": [
+        "Brat nikad neće dobro voziti",
+        "Sara je bolesna",
+        "Djevojčice se uvijek razvijaju brže",
+        "Svako se dijete razvija svojim tempom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djeca uče nove vještine u različito vrijeme. To je prirodno i ne znači da je netko bolji.",
+      "savjet": "Sjeti se što smo naučili o rastu i razvoju svakoga djeteta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-064",
+      "tezina": "tesko",
+      "pitanje": "U igrici iskoči poruka: „Dobitnik si nagrade! Upiši svoju adresu i lozinku.“ Što je ispravno?",
+      "ponudeni": [
+        "Upisati podatke da dobiješ nagradu",
+        "Ne upisati ništa i pokazati poruku roditelju",
+        "Upisati samo lozinku",
+        "Proslijediti poruku prijateljima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Takve poruke često služe za krađu podataka. Osobne podatke i lozinku nikad ne upisujemo, nego pitamo odraslu osobu.",
+      "savjet": "Razmisli zašto bi netko nepoznat tražio tvoje osobne podatke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto je pranje ruku osobito važno kad su mnogi ljudi oko nas prehlađeni?",
+      "ponudeni": [
+        "Sapun liječi prehladu",
+        "Klice s ruku lako prelaze na druge i na hranu",
+        "Čiste ruke brže rastu",
+        "Tada je voda toplija"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prehlada se širi klicama. Čestim pranjem ruku smanjujemo širenje klica na sebe i druge.",
+      "savjet": "Razmisli kako se prehlada prenosi s osobe na osobu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-066",
+      "tezina": "tesko",
+      "pitanje": "Želudac je građen od mnogo stanica, a dio je sustava organa za probavu. Što je želudac?",
+      "ponudeni": [
+        "Stanica",
+        "Sustav organa",
+        "Organizam",
+        "Organ"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Želudac je organ: građen je od stanica, a zajedno s drugim organima čini sustav organa za probavu.",
+      "savjet": "Razmisli je li želudac najmanji dio, cijelo živo biće ili nešto između."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-067",
+      "tezina": "tesko",
+      "pitanje": "Koji je par ispravno povezan?",
+      "ponudeni": [
+        "srce – organ",
+        "krvne žile i srce – stanica",
+        "čovjek – organ",
+        "pluća – organizam"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srce je organ. Srce i krvne žile čine sustav organa, a čovjek je organizam.",
+      "savjet": "Za svaki par provjeri je li riječ o dijelu tijela ili o cijelom živom biću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-068",
+      "tezina": "tesko",
+      "pitanje": "Tin satima igra igrice i počele su ga boljeti oči i leđa. Što bi mu najviše pomoglo?",
+      "ponudeni": [
+        "Igranje u mraku",
+        "Igranje ležeći u krevetu",
+        "Kraće igranje, stanke i više kretanja",
+        "Igranje bez ijedne stanke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Manje vremena pred ekranom, stanke za oči i kretanje čuvaju oči i leđa.",
+      "savjet": "Razmisli što umara oči, a što leđa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-069",
+      "tezina": "tesko",
+      "pitanje": "Ljeti se igraš vani po vrlo sunčanom danu. Što je najpametnije učiniti?",
+      "ponudeni": [
+        "Ne piti vodu do večeri",
+        "Igrati se na suncu cijelo podne",
+        "Skinuti kapu jer je vruće",
+        "Staviti kapu i zaštitnu kremu te piti vodu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kapa i krema štite od sunca, a vodom nadoknađujemo ono što tijelo izgubi znojenjem.",
+      "savjet": "Razmisli kako zaštititi kožu i glavu te što tijelu treba na vrućini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-070",
+      "tezina": "tesko",
+      "pitanje": "Na igralištu je stariji čovjek pao i ne odaziva se. U blizini nema odraslih. Što trebaš učiniti?",
+      "ponudeni": [
+        "Otići kući i nikome ne reći",
+        "Čekati da se sam probudi",
+        "Nazvati 112 i reći što se dogodilo i gdje si",
+        "Nazvati prijatelja da dođe vidjeti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad je nečiji život u opasnosti, zovemo 112. Dežurnoj osobi kažemo što se dogodilo i gdje smo.",
+      "savjet": "Sjeti se koji se broj zove kad je potrebna hitna pomoć."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-071",
+      "tezina": "tesko",
+      "pitanje": "Nina je na nastavi umorna i teško se usredotoči. Svake večeri dugo gleda videozapise na mobitelu. Što je najvjerojatniji uzrok?",
+      "ponudeni": [
+        "Previše vode tijekom dana",
+        "Premalo sna zbog kasnoga gledanja u zaslon",
+        "Previše kretanja na odmoru",
+        "Prerano odlaženje na spavanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kasno gledanje u zaslon skraćuje i kvari san. Neispavano dijete umorno je i teže uči.",
+      "savjet": "Poveži Ninine večeri s njezinim jutrima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-072",
+      "tezina": "tesko",
+      "pitanje": "Lovri je s osam godina ispao prednji zub. Što će se najvjerojatnije dogoditi?",
+      "ponudeni": [
+        "Izrast će trajni zub",
+        "Više neće izrasti nijedan zub",
+        "Izrast će novi mliječni zub",
+        "Zub će izrasti tek u starosti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U djetinjstvu mliječni zubi ispadaju, a na njihovo mjesto izrastaju trajni zubi.",
+      "savjet": "Sjeti se koji zubi zamjenjuju mliječne."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-073",
+      "tezina": "tesko",
+      "pitanje": "Ema voli slatkiše. Kako može najbolje čuvati zube, a ponekad ipak pojesti nešto slatko?",
+      "ponudeni": [
+        "Oprati zube nakon slatkoga i redovito ići stomatologu",
+        "Jesti slatkiše prije spavanja bez pranja zuba",
+        "Prati zube samo vikendom",
+        "Piti gazirane sokove umjesto vode"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pranjem zuba uklanjamo šećer, a stomatolog na vrijeme otkriva karijes.",
+      "savjet": "Razmisli što šteti zubima i kako to ukloniti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-074",
+      "tezina": "tesko",
+      "pitanje": "Josip primjećuje promjene na svojem tijelu i zbunjen je. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Sakriti to od svih",
+        "Razgovarati s roditeljem, liječnikom ili drugom odraslom osobom od povjerenja",
+        "Zaključiti da je bolestan",
+        "Usporediti se s drugima i brinuti se"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Promjene tijela tijekom odrastanja su prirodne. O svemu što zbunjuje može se razgovarati s odraslom osobom od povjerenja.",
+      "savjet": "Sjeti se kome se možeš obratiti kad nešto ne razumiješ."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-075",
+      "tezina": "tesko",
+      "pitanje": "Netko nepoznat na internetu piše ti da je tvoje dobi i predlaže susret uživo. Što je ispravno?",
+      "ponudeni": [
+        "Otići na susret sam ili sama",
+        "Otići na susret s prijateljem",
+        "Ne dogovarati susret i odmah reći roditelju",
+        "Poslati mu adresu škole"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na internetu ne možemo znati tko je osoba s druge strane. S nepoznatima se ne dogovaramo za susret i to odmah kažemo odrasloj osobi.",
+      "savjet": "Razmisli možeš li biti siguran ili sigurna tko piše poruke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-076",
+      "tezina": "tesko",
+      "pitanje": "Zašto nije dobro objaviti na internetu fotografiju na kojoj se vidi tvoja adresa?",
+      "ponudeni": [
+        "Fotografija će biti mutna",
+        "Adresa se na fotografiji ne može pročitati",
+        "Tako fotografija dobije manje pohvala",
+        "Nepoznati mogu saznati gdje živiš"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na internetu fotografiju mogu vidjeti i nepoznati ljudi. Adresa je osobni podatak koji štitimo.",
+      "savjet": "Razmisli tko sve može vidjeti ono što objaviš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto djetetu koje mnogo trenira treba i dovoljno sna?",
+      "ponudeni": [
+        "Tijekom sna mišići se najviše troše",
+        "San zamjenjuje hranu",
+        "Tijelo se tijekom sna odmara i oporavlja",
+        "Sportašima san nije potreban"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon napora tijelo se mora odmoriti. Tijekom sna se oporavlja i skuplja snagu.",
+      "savjet": "Razmisli što se događa s umornim tijelom dok spava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-078",
+      "tezina": "tesko",
+      "pitanje": "Zašto kišemo i kašljemo u maramicu ili u lakat?",
+      "ponudeni": [
+        "Da se brže izliječimo",
+        "Da zaštitimo grlo",
+        "Da maramica ostane čista",
+        "Da klice ne širimo na druge ljude"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kihanjem i kašljanjem u zrak se šire klice. Maramica ili lakat sprječavaju da se klice prenesu na druge.",
+      "savjet": "Razmisli što izlazi iz nosa i usta kad kišemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-079",
+      "tezina": "tesko",
+      "pitanje": "Koja je navika dobra i za oči i za leđa dok učiš za računalom?",
+      "ponudeni": [
+        "Sjediti uspravno, dalje od zaslona i raditi stanke",
+        "Sjediti pogrbljeno što bliže zaslonu",
+        "Raditi bez stanke dok ne završiš",
+        "Ležati u krevetu s računalom na trbuhu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uspravno sjedenje čuva leđa, a udaljenost od zaslona i stanke čuvaju oči.",
+      "savjet": "Potraži odgovor koji brine i o očima i o leđima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-080",
+      "tezina": "tesko",
+      "pitanje": "Koji je ručak najraznovrsniji i najzdraviji?",
+      "ponudeni": [
+        "Pomfrit, hamburger i gazirani sok",
+        "Riba, krumpir, salata i voda",
+        "Kolač i kakao",
+        "Čips i sok"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Raznovrsan obrok sadrži različite namirnice, među njima i povrće, a voda je najbolje piće.",
+      "savjet": "Potraži obrok s najviše različitih namirnica i bez slatkih pića."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-081",
+      "tezina": "tesko",
+      "pitanje": "Lana je preskočila doručak, a na trećem satu umorna je i slaba. Što je mogući razlog?",
+      "ponudeni": [
+        "Previše je spavala",
+        "Tijelo nije dobilo snagu iz hrane",
+        "Popila je previše vode",
+        "Previše se kretala na odmoru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrana tijelu daje snagu. Bez doručka tijelu nedostaje snage za učenje i igru.",
+      "savjet": "Razmisli što tijelu daje doručak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-082",
+      "tezina": "tesko",
+      "pitanje": "Baka više ne trči brzo kao nekad i treba joj više odmora. Što to pokazuje?",
+      "ponudeni": [
+        "U starosti se tijelo mijenja i treba više odmora",
+        "Baka je u mladenaštvu",
+        "U starosti tijelo brže raste",
+        "Baka se premalo hrani slatkišima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tijelo se mijenja tijekom cijeloga života. U starosti ljudi imaju manje snage i trebaju više odmora.",
+      "savjet": "Sjeti se kako se tijelo mijenja u posljednjem razdoblju života."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto treba reći odrasloj osobi i kad se ozlijediš samo malo?",
+      "ponudeni": [
+        "Mala rana nikad ne zacijeli",
+        "Odrasli moraju znati svaku sitnicu",
+        "Tako se brže raste",
+        "Ranu treba očistiti da u nju ne uđu klice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I kroz malu ranu mogu ući klice. Odrasla osoba će ranu očistiti i zaštititi.",
+      "savjet": "Razmisli što može ući u tijelo kroz ranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-084",
+      "tezina": "tesko",
+      "pitanje": "Koje ponašanje pokazuje odgovornost prema vlastitom zdravlju?",
+      "ponudeni": [
+        "Voziti bicikl bez ruku",
+        "Prelaziti cestu izvan pješačkoga prijelaza",
+        "Nositi kacigu kad voziš bicikl",
+        "Voziti rolere bez štitnika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kaciga štiti glavu pri padu. Odgovorna osoba pazi da se ne ozlijedi.",
+      "savjet": "Razmisli što štiti tijelo od ozljede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-085",
+      "tezina": "tesko",
+      "pitanje": "Zašto nije dobro piti iz iste boce s nekim drugim?",
+      "ponudeni": [
+        "Voda tada brže nestane",
+        "Boca se može razbiti",
+        "Voda tada postane slatka",
+        "Tako se mogu prenijeti klice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "S usta na bocu prelaze klice. Zato svatko pije iz svoje boce ili čaše.",
+      "savjet": "Sjeti se zašto ne posuđujemo četkicu za zube."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-086",
+      "tezina": "tesko",
+      "pitanje": "Teo želi biti zdrav. Koji je plan najbolji?",
+      "ponudeni": [
+        "Jesti samo voće i malo spavati",
+        "Jesti raznovrsno, kretati se, dovoljno spavati i prati ruke",
+        "Mnogo trenirati, a malo jesti i spavati",
+        "Mnogo spavati, a malo se kretati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za zdravlje je važno sve zajedno: raznovrsna prehrana, kretanje, san i higijena.",
+      "savjet": "Potraži plan koji ništa važno ne izostavlja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-087",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je situaciji potrebna pomoć liječnika?",
+      "ponudeni": [
+        "Osjećaš malo umora nakon igre",
+        "Osjećaš žeđ nakon trčanja",
+        "Visoka temperatura i jaka bol koje ne prolaze",
+        "Osjećaš glad prije ručka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Visoka temperatura i jaka bol znak su bolesti. Tada roditelji vode dijete liječniku.",
+      "savjet": "Razmisli što je znak bolesti, a što običan osjećaj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto dugo sjedenje pred ekranom može usporiti pravilan razvoj tijela?",
+      "ponudeni": [
+        "Tijelo se premalo kreće pa mišići i kosti slabije jačaju",
+        "Ekran hrani tijelo",
+        "Ekran zamjenjuje san",
+        "Tijelo tada raste prebrzo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za pravilan rast i razvoj tijelu treba kretanje. Dugo sjedenje znači premalo kretanja.",
+      "savjet": "Razmisli što tijelu nedostaje dok dugo sjedi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-089",
+      "tezina": "tesko",
+      "pitanje": "Što je točno za stanice ljudskoga tijela?",
+      "ponudeni": [
+        "Tijelo je građeno od mnogo stanica",
+        "Tijelo ima samo jednu stanicu",
+        "Svaku stanicu lako vidimo golim okom",
+        "Stanice postoje samo u srcu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljudsko je tijelo građeno od mnogo sitnih stanica. One grade sve organe.",
+      "savjet": "Sjeti se od čega su građeni svi organi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zdravlje-rast-i-razvoj-090",
+      "tezina": "tesko",
+      "pitanje": "Zašto se obitelj dogovara da za stolom i prije spavanja nitko ne koristi mobitel?",
+      "ponudeni": [
+        "Mobitel se tada brže puni",
+        "Hrana je tada ukusnija",
+        "Ostaje više vremena za razgovor, a san je bolji",
+        "Tako mobitel duže traje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bez mobitela za stolom obitelj razgovara, a bez zaslona prije spavanja lakše se zaspi.",
+      "savjet": "Razmisli što dobivamo kad odložimo mobitel."
+    }
+  ]
+}
