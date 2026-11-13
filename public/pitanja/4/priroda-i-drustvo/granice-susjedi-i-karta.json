@@ -1,0 +1,1614 @@
+{
+  "lekcijaId": "granice-susjedi-i-karta",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva crta koja odvaja područje jedne države od susjednih država?",
+      "ponudeni": [
+        "Državna granica",
+        "Granica županije",
+        "Obzor",
+        "Obala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Državna granica odvaja područje jedne države od drugih država. Na karti je označena posebnom crtom.",
+      "savjet": "Sjeti se što prelazimo kad putujemo u drugu državu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-002",
+      "tezina": "lagano",
+      "pitanje": "S koliko država Hrvatska graniči na kopnu?",
+      "ponudeni": [
+        "S četiri",
+        "S pet",
+        "Sa šest",
+        "S tri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatska na kopnu graniči sa Slovenijom, Mađarskom, Srbijom, Bosnom i Hercegovinom i Crnom Gorom, a to je pet država.",
+      "savjet": "Kreni od sjeverozapada i obiđi granicu Hrvatske na karti brojeći susjede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-003",
+      "tezina": "lagano",
+      "pitanje": "S kojom državom Hrvatska graniči samo morem?",
+      "ponudeni": [
+        "Sa Slovenijom",
+        "S Mađarskom",
+        "S Italijom",
+        "S Crnom Gorom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Italija je na drugoj strani Jadranskog mora, pa Hrvatska s njom ima samo morsku granicu.",
+      "savjet": "Pogledaj koja je država na karti preko Jadranskog mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-004",
+      "tezina": "lagano",
+      "pitanje": "Koja je susjedna država na sjeveru Hrvatske?",
+      "ponudeni": [
+        "Srbija",
+        "Crna Gora",
+        "Italija",
+        "Mađarska"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mađarska se nalazi sjeverno od Hrvatske, a granica velikim dijelom prati rijeku Dravu.",
+      "savjet": "Sjever je na karti gore; pogledaj koja je država iznad Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-005",
+      "tezina": "lagano",
+      "pitanje": "Koja je susjedna država na istoku Hrvatske?",
+      "ponudeni": [
+        "Slovenija",
+        "Srbija",
+        "Italija",
+        "Mađarska"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Srbija je istočno od Hrvatske, a dio granice s njom čini rijeka Dunav.",
+      "savjet": "Istok je na karti desno; pogledaj državu uz Vukovar."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-006",
+      "tezina": "lagano",
+      "pitanje": "S kojom državom Hrvatska graniči na krajnjem jugoistoku, iza Konavala?",
+      "ponudeni": [
+        "S Mađarskom",
+        "Sa Slovenijom",
+        "Sa Srbijom",
+        "S Crnom Gorom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na krajnjem jugoistoku, južno od Dubrovnika i Konavala, Hrvatska graniči s Crnom Gorom.",
+      "savjet": "Pronađi na karti najjužniji dio Hrvatske i pogledaj koja je država odmah iza njega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je susjedna država na sjeverozapadu Hrvatske?",
+      "ponudeni": [
+        "Slovenija",
+        "Srbija",
+        "Crna Gora",
+        "Bosna i Hercegovina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Slovenija je sjeverozapadno od Hrvatske, iznad Istre i Hrvatskog zagorja.",
+      "savjet": "Sjeverozapad je na karti gore lijevo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva mjesto na kojem se prelazi državna granica?",
+      "ponudeni": [
+        "Raskrižje",
+        "Autobusni kolodvor",
+        "Granični prijelaz",
+        "Naplatna postaja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Državna granica prelazi se na graničnom prijelazu, gdje granična policija nadzire putnike.",
+      "savjet": "Naziv tog mjesta povezan je s riječima „granica“ i „prijeći“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-009",
+      "tezina": "lagano",
+      "pitanje": "Što je geografska karta?",
+      "ponudeni": [
+        "Fotografija jednog grada",
+        "Umanjeni prikaz dijela Zemljine površine na ravnoj plohi",
+        "Model Zemlje u obliku kugle",
+        "Crtež jedne kuće iz ptičje perspektive"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Geografska karta umanjeno prikazuje dio Zemljine površine na ravnoj plohi, npr. na papiru.",
+      "savjet": "Karta je ravna i prikazuje veliko područje, a model Zemlje u obliku kugle zove se globus."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-010",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu susjedne države Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Slovenija",
+            "polozaj": [
+              14.8,
+              46.1
+            ]
+          },
+          {
+            "naziv": "Mađarska",
+            "polozaj": [
+              17.8,
+              46.4
+            ]
+          },
+          {
+            "naziv": "Srbija",
+            "polozaj": [
+              19.45,
+              45
+            ]
+          },
+          {
+            "naziv": "Bosna i Hercegovina",
+            "polozaj": [
+              17.8,
+              44.2
+            ]
+          },
+          {
+            "naziv": "Crna Gora",
+            "polozaj": [
+              19,
+              42.75
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Slovenija je na sjeverozapadu, Mađarska na sjeveru, Srbija na istoku, Bosna i Hercegovina unutar luka koji čini Hrvatska, a Crna Gora na krajnjem jugoistoku.",
+      "savjet": "Sjever je gore, istok desno; prisjeti se koja je država na kojoj strani Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-011",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva dio karte u kojem je objašnjeno značenje znakova i boja?",
+      "ponudeni": [
+        "Mjerilo",
+        "Naslov karte",
+        "Okvir karte",
+        "Tumač znakova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tumač znakova (legenda) objašnjava što znače znakovi i boje na karti.",
+      "savjet": "Taj dio karte „tumači“ ono što je nacrtano."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-012",
+      "tezina": "lagano",
+      "pitanje": "Koja se strana svijeta nalazi na gornjem rubu geografske karte?",
+      "ponudeni": [
+        "Sjever",
+        "Jug",
+        "Istok",
+        "Zapad"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na geografskoj karti sjever je gore, jug dolje, istok desno, a zapad lijevo.",
+      "savjet": "Sjeti se kako su strane svijeta raspoređene na karti u tvojoj učionici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-013",
+      "tezina": "lagano",
+      "pitanje": "Koja se strana svijeta nalazi na desnom rubu geografske karte?",
+      "ponudeni": [
+        "Zapad",
+        "Jug",
+        "Istok",
+        "Sjever"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad je sjever gore, istok je na desnoj, a zapad na lijevoj strani karte.",
+      "savjet": "Kreni od sjevera na vrhu karte i okreni se u smjeru kazaljke na satu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-014",
+      "tezina": "lagano",
+      "pitanje": "Kojom su bojom na geografskoj karti označene nizine?",
+      "ponudeni": [
+        "Smeđom",
+        "Zelenom",
+        "Plavom",
+        "Crvenom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nizine su na geografskoj karti zelene, uzvisine žute i smeđe, a vode plave.",
+      "savjet": "Pomisli na boju polja i livada u ravnici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-015",
+      "tezina": "lagano",
+      "pitanje": "Kojom se bojom na geografskoj karti prikazuju more, rijeke i jezera?",
+      "ponudeni": [
+        "Zelenom",
+        "Smeđom",
+        "Žutom",
+        "Plavom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve vode, more, rijeke i jezera, prikazuju se na karti plavom bojom.",
+      "savjet": "Pomisli kakve je boje more na fotografijama s ljetovanja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-016",
+      "tezina": "lagano",
+      "pitanje": "Što na geografskoj karti označava tamnosmeđa boja?",
+      "ponudeni": [
+        "Visoke planine",
+        "Nizine",
+        "More",
+        "Rijeke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Što je kopno više, to je na karti tamnije smeđe, pa tamnosmeđa boja označava visoke planine.",
+      "savjet": "Na karti boja postaje sve tamnija što je kopno više."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-017",
+      "tezina": "lagano",
+      "pitanje": "Što pokazuje mjerilo karte?",
+      "ponudeni": [
+        "Gdje je sjever",
+        "Što znače znakovi na karti",
+        "Koliko je puta prikaz na karti umanjen",
+        "Kolika je temperatura zraka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mjerilo pokazuje koliko je puta stvarnost umanjena na karti, pa pomoću njega procjenjujemo udaljenosti.",
+      "savjet": "Riječ „mjerilo“ dolazi od riječi „mjeriti“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-018",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva dio kopna koji je sa svih strana okružen vodom?",
+      "ponudeni": [
+        "Poluotok",
+        "Otok",
+        "Zaljev",
+        "Kotlina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Otok je dio kopna okružen vodom sa svih strana, kao Krk, Brač ili Hvar.",
+      "savjet": "Na takvo mjesto u Jadranu možeš stići samo brodom, trajektom ili preko mosta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-019",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva dio kopna koji je s tri strane okružen morem?",
+      "ponudeni": [
+        "Otok",
+        "Zaljev",
+        "Kotlina",
+        "Poluotok"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poluotok je s tri strane okružen morem, a četvrtom je stranom spojen s kopnom, kao Istra ili Pelješac.",
+      "savjet": "U nazivu se krije riječ za kopno u moru, ali samo „napola“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-020",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu ove velike gradove Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Rijeka",
+            "polozaj": [
+              14.44,
+              45.33
+            ]
+          },
+          {
+            "naziv": "Osijek",
+            "polozaj": [
+              18.69,
+              45.55
+            ]
+          },
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Zagreb je na sjeverozapadu uz Savu, Osijek na istoku uz Dravu, Rijeka na sjeveru Jadrana, Split u srednjoj Dalmaciji, a Dubrovnik na krajnjem jugu.",
+      "savjet": "Tri grada leže uz more, a dva u unutrašnjosti; pomoći će ti rijeke i obala."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-021",
+      "tezina": "lagano",
+      "pitanje": "Koja rijeka teče kroz Zagreb?",
+      "ponudeni": [
+        "Sava",
+        "Drava",
+        "Kupa",
+        "Neretva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kroz Zagreb teče Sava, koja dalje teče prema istoku kroz Sisak i Slavonski Brod.",
+      "savjet": "Ta rijeka u Zagreb dolazi iz Slovenije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-022",
+      "tezina": "lagano",
+      "pitanje": "Koja rijeka čini dio granice između Hrvatske i Srbije?",
+      "ponudeni": [
+        "Sava",
+        "Kupa",
+        "Dunav",
+        "Cetina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na istoku Hrvatske, kod Vukovara i Iloka, granicu sa Srbijom čini rijeka Dunav.",
+      "savjet": "Pogledaj veliku rijeku na krajnjem istoku Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-023",
+      "tezina": "lagano",
+      "pitanje": "Uz koje more leži Hrvatska?",
+      "ponudeni": [
+        "Uz Crno more",
+        "Uz Jadransko more",
+        "Uz Baltičko more",
+        "Uz Sjeverno more"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatska leži uz Jadransko more, na kojem ima dugu obalu i mnogo otoka.",
+      "savjet": "To more dijelimo s Italijom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-024",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva najviši vrh Hrvatske?",
+      "ponudeni": [
+        "Sljeme",
+        "Učka",
+        "Papuk",
+        "Dinara"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najviši vrh Hrvatske je Dinara, na istoimenoj planini uz granicu s Bosnom i Hercegovinom.",
+      "savjet": "Taj vrh nosi isto ime kao planina na kojoj se nalazi, uz granicu na jugu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-025",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva zaobljena uzvisina niža od gore?",
+      "ponudeni": [
+        "Brežuljak",
+        "Planina",
+        "Kotlina",
+        "Zaljev"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brežuljak je niska uzvisina zaobljenih padina; viša je od nizine, a niža od gore.",
+      "savjet": "Takvih uzvisina s vinogradima ima mnogo u Hrvatskom zagorju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-026",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenog poluotok?",
+      "ponudeni": [
+        "Krk",
+        "Brač",
+        "Istra",
+        "Lika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Istra je poluotok na zapadu Hrvatske, a Krk i Brač su otoci.",
+      "savjet": "Traži dio kopna koji je s tri strane okružen morem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-027",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenog otok?",
+      "ponudeni": [
+        "Pelješac",
+        "Hvar",
+        "Istra",
+        "Velebit"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hvar je otok jer ga sa svih strana okružuje more. Pelješac i Istra su poluotoci, a Velebit planina.",
+      "savjet": "Traži dio kopna do kojeg ne možeš doći automobilom bez trajekta ili mosta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-028",
+      "tezina": "lagano",
+      "pitanje": "Koju ispravu treba pokazati na graničnom prijelazu pri putovanju u Bosnu i Hercegovinu?",
+      "ponudeni": [
+        "Knjižničnu iskaznicu",
+        "Đačku knjižicu",
+        "Zdravstvenu iskaznicu",
+        "Putovnicu ili osobnu iskaznicu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na graničnom prijelazu pokazuje se putovnica ili osobna iskaznica jer se njima dokazuje tko je osoba i iz koje je države.",
+      "savjet": "Potrebna je isprava koja dokazuje tko si i čiji si državljanin."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-029",
+      "tezina": "lagano",
+      "pitanje": "Koja služba nadzire državnu granicu i granične prijelaze?",
+      "ponudeni": [
+        "Granična policija",
+        "Vatrogasna služba",
+        "Hitna pomoć",
+        "Komunalna služba"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Granična policija nadzire državnu granicu i provjerava putnike na graničnim prijelazima.",
+      "savjet": "Naziv te službe sadrži riječ koja je i u naslovu ove lekcije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-030",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu ove rijeke Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Sava",
+            "polozaj": [
+              16.9,
+              45.27
+            ]
+          },
+          {
+            "naziv": "Drava",
+            "polozaj": [
+              17.45,
+              45.95
+            ]
+          },
+          {
+            "naziv": "Dunav",
+            "polozaj": [
+              18.98,
+              45.37
+            ]
+          },
+          {
+            "naziv": "Neretva",
+            "polozaj": [
+              17.62,
+              43.04
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Drava teče na sjeveru uz granicu s Mađarskom, Sava južnije uz granicu s Bosnom i Hercegovinom, Dunav na krajnjem istoku, a Neretva na jugu utječe u Jadransko more.",
+      "savjet": "Jedna rijeka teče na jugu prema moru, a tri u nizinskom dijelu na sjeveru i istoku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-031",
+      "tezina": "srednje",
+      "pitanje": "Kojom rijekom Hrvatska velikim dijelom graniči s Mađarskom?",
+      "ponudeni": [
+        "Savom",
+        "Kupom",
+        "Dravom",
+        "Neretvom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Granica s Mađarskom velikim dijelom prati rijeku Dravu na sjeveru Hrvatske.",
+      "savjet": "Mađarska je na sjeveru, pa traži rijeku koja teče najsjevernijim dijelom Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-032",
+      "tezina": "srednje",
+      "pitanje": "Koja rijeka u Slavoniji čini granicu s Bosnom i Hercegovinom?",
+      "ponudeni": [
+        "Sava",
+        "Drava",
+        "Mura",
+        "Cetina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sava u Slavoniji, npr. kod Slavonskog Broda, teče granicom između Hrvatske i Bosne i Hercegovine.",
+      "savjet": "Bosna i Hercegovina je južno od Slavonije; traži rijeku na jugu Slavonije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-033",
+      "tezina": "srednje",
+      "pitanje": "Koja rijeka čini dio granice između Hrvatske i Slovenije?",
+      "ponudeni": [
+        "Neretva",
+        "Dunav",
+        "Cetina",
+        "Kupa"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kupa jednim dijelom toka teče granicom između Hrvatske i Slovenije, a zatim kroz Karlovac i Sisak.",
+      "savjet": "Traži rijeku na zapadu kopnenog dijela Hrvatske koja teče prema Karlovcu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-034",
+      "tezina": "srednje",
+      "pitanje": "Kamo se ulijevaju rijeke Neretva i Cetina?",
+      "ponudeni": [
+        "U Savu",
+        "U Jadransko more",
+        "U Dunav",
+        "U Dravu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Neretva i Cetina teku na jugu Hrvatske i ulijevaju se u Jadransko more.",
+      "savjet": "Pogledaj u kojem su dijelu Hrvatske te rijeke i što im je najbliže."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-035",
+      "tezina": "srednje",
+      "pitanje": "U koju se rijeku ulijeva Kupa?",
+      "ponudeni": [
+        "U Dravu",
+        "U Dunav",
+        "U Savu",
+        "U Neretvu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kupa se kod Siska ulijeva u Savu.",
+      "savjet": "Prati Kupu na karti od Karlovca prema istoku do grada Siska."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-036",
+      "tezina": "srednje",
+      "pitanje": "Sava i Drava ulijevaju se u istu rijeku. U koju?",
+      "ponudeni": [
+        "U Dunav",
+        "U Kupu",
+        "U Neretvu",
+        "U Cetinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "I Sava i Drava ulijevaju se u Dunav, Drava kod Osijeka, a Sava izvan Hrvatske.",
+      "savjet": "Traži najveću rijeku na istoku, prema kojoj teku obje rijeke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-037",
+      "tezina": "srednje",
+      "pitanje": "Na kojoj rijeci leži Osijek?",
+      "ponudeni": [
+        "Na Savi",
+        "Na Kupi",
+        "Na Dunavu",
+        "Na Dravi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Osijek leži na Dravi, nedaleko od mjesta gdje se Drava ulijeva u Dunav.",
+      "savjet": "Osijek je na sjeveru Slavonije; sjeti se koja rijeka teče sjevernim dijelom Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-038",
+      "tezina": "srednje",
+      "pitanje": "Na kojoj rijeci leži Vukovar?",
+      "ponudeni": [
+        "Na Savi",
+        "Na Dunavu",
+        "Na Kupi",
+        "Na Neretvi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vukovar leži na Dunavu, na istoku Hrvatske uz granicu sa Srbijom.",
+      "savjet": "Vukovar je na krajnjem istoku Hrvatske; traži najveću rijeku ondje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-039",
+      "tezina": "srednje",
+      "pitanje": "Na karti je Slavonija obojena zelenom, a Velebit smeđom bojom. Što iz toga zaključuješ?",
+      "ponudeni": [
+        "Slavonija je nizina, a Velebit planina",
+        "Oba su kraja nizine",
+        "Slavonija je planina, a Velebit nizina",
+        "Oba su kraja uz more"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zelena boja na karti označava nizine, a smeđa uzvisine i planine. Zato je Slavonija nizina, a Velebit planina.",
+      "savjet": "Prisjeti se što u tumaču znakova znače zelena i smeđa boja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-040",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove reljefne oblike Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Istra",
+            "polozaj": [
+              13.9,
+              45.25
+            ]
+          },
+          {
+            "naziv": "Krk",
+            "polozaj": [
+              14.6,
+              45.08
+            ]
+          },
+          {
+            "naziv": "Velebit",
+            "polozaj": [
+              15.2,
+              44.55
+            ]
+          },
+          {
+            "naziv": "Dinara",
+            "polozaj": [
+              16.4,
+              44.06
+            ]
+          },
+          {
+            "naziv": "Medvednica",
+            "polozaj": [
+              15.95,
+              45.9
+            ]
+          },
+          {
+            "naziv": "Pelješac",
+            "polozaj": [
+              17.3,
+              42.95
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Istra je poluotok na zapadu, Krk otok u Kvarneru, Velebit planina uz more, Dinara planina uz granicu s Bosnom i Hercegovinom, Medvednica gora sjeverno od glavnog grada, a Pelješac poluotok na jugu.",
+      "savjet": "Razvrstaj prvo otok i poluotoke uz more, a zatim gore i planine u unutrašnjosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-041",
+      "tezina": "srednje",
+      "pitanje": "Kako se naziva udubljeno područje sa svih strana okruženo gorama?",
+      "ponudeni": [
+        "Kotlina",
+        "Zaljev",
+        "Poluotok",
+        "Otok"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kotlina je udubljeno, nisko područje okruženo gorama, kao Požeška kotlina u Slavoniji.",
+      "savjet": "Zamisli zdjelu: dno je nisko, a rubovi su uzdignuti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-042",
+      "tezina": "srednje",
+      "pitanje": "Rijeka je smještena uz dio mora koji je uvučen u kopno. Kako se naziva takav dio mora?",
+      "ponudeni": [
+        "Poluotok",
+        "Otok",
+        "Kotlina",
+        "Zaljev"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zaljev je dio mora uvučen u kopno. Grad Rijeka smješten je uz Riječki zaljev.",
+      "savjet": "Traži naziv za more, a ne za kopno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-043",
+      "tezina": "srednje",
+      "pitanje": "Za što se koristi mjerilo karte?",
+      "ponudeni": [
+        "Za određivanje strana svijeta",
+        "Za procjenu stvarne udaljenosti između mjesta",
+        "Za čitanje značenja znakova",
+        "Za određivanje boje reljefa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomoću mjerila možemo procijeniti kolika je stvarna udaljenost između dvaju mjesta na karti.",
+      "savjet": "Mjerilo povezuje centimetre na karti s kilometrima u stvarnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-044",
+      "tezina": "srednje",
+      "pitanje": "Ljubljana je glavni grad jedne susjedne države. Koje?",
+      "ponudeni": [
+        "Mađarske",
+        "Srbije",
+        "Slovenije",
+        "Crne Gore"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljubljana je glavni grad Slovenije, susjedne države na sjeverozapadu Hrvatske.",
+      "savjet": "Ta je država sjeverozapadno od Hrvatske, iznad Istre."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-045",
+      "tezina": "srednje",
+      "pitanje": "Putuješ automobilom iz Osijeka u Zagreb. U kojem smjeru putuješ?",
+      "ponudeni": [
+        "Prema zapadu",
+        "Prema istoku",
+        "Prema sjeveru",
+        "Prema jugu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Osijek je na istoku, a Zagreb na zapadu kontinentalne Hrvatske, pa se iz Osijeka u Zagreb putuje prema zapadu.",
+      "savjet": "Pronađi oba grada na karti i pogledaj je li cilj lijevo ili desno od polazišta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-046",
+      "tezina": "srednje",
+      "pitanje": "Kako se na geografskoj karti razlikuju plitko i duboko more?",
+      "ponudeni": [
+        "Dubina mora ne prikazuje se na karti",
+        "Plitko more je zeleno, a duboko smeđe",
+        "Plitko more je tamnoplavo, a duboko svjetloplavo",
+        "Plitko more je svjetloplavo, a duboko tamnoplavo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "More se prikazuje plavom bojom: što je more dublje, to je plava boja tamnija.",
+      "savjet": "Sjeti se pravila za kopno: što je više, to je boja tamnija. Za more vrijedi slično."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-047",
+      "tezina": "srednje",
+      "pitanje": "Koja se od navedenih planina pruža uz samu obalu Jadranskog mora?",
+      "ponudeni": [
+        "Papuk",
+        "Velebit",
+        "Medvednica",
+        "Psunj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Velebit se pruža uz obalu Jadranskog mora i odvaja primorski dio od Like.",
+      "savjet": "Tri su od navedenih gora u Slavoniji ili kraj Zagreba, daleko od mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-048",
+      "tezina": "srednje",
+      "pitanje": "Koja se gora nalazi sjeverno od Zagreba?",
+      "ponudeni": [
+        "Papuk",
+        "Velebit",
+        "Medvednica",
+        "Dinara"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Medvednica se uzdiže sjeverno od Zagreba, a na njoj je vrh Sljeme.",
+      "savjet": "Na toj se gori nalazi vrh Sljeme."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-049",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove kotlina u Slavoniji okružena gorama?",
+      "ponudeni": [
+        "Požeška kotlina",
+        "Kvarnerska kotlina",
+        "Istarska kotlina",
+        "Dalmatinska kotlina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Požeška kotlina nalazi se u Slavoniji i okružena je gorama, među kojima su Papuk i Psunj.",
+      "savjet": "Traži kraj u unutrašnjosti, a ne uz more; kotlina je okružena gorama, a ne morem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-050",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove rijeke i jezera Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Kupa",
+            "polozaj": [
+              15.47,
+              45.61
+            ]
+          },
+          {
+            "naziv": "Una",
+            "polozaj": [
+              16.37,
+              45.07
+            ]
+          },
+          {
+            "naziv": "Drava",
+            "polozaj": [
+              18.6,
+              45.6
+            ]
+          },
+          {
+            "naziv": "Plitvička jezera",
+            "polozaj": [
+              15.6,
+              44.88
+            ]
+          },
+          {
+            "naziv": "Cetina",
+            "polozaj": [
+              16.72,
+              43.62
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Kupa teče uz granicu sa Slovenijom prema Karlovcu, Una čini granicu s Bosnom i Hercegovinom, Drava teče prema Osijeku, Plitvička jezera su u gorskoj Hrvatskoj, a Cetina u Dalmaciji teče prema moru.",
+      "savjet": "Samo jedna od ovih voda teče u Dalmaciji; ostale su u kontinentalnoj Hrvatskoj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-051",
+      "tezina": "srednje",
+      "pitanje": "Koji grad leži na rijeci Neretvi, blizu njezina ušća u more?",
+      "ponudeni": [
+        "Karlovac",
+        "Sisak",
+        "Osijek",
+        "Metković"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Metković leži na Neretvi u dolini Neretve, nedaleko od mjesta gdje ona utječe u Jadransko more.",
+      "savjet": "Neretva teče na jugu Hrvatske; traži grad koji nije u kontinentalnoj Hrvatskoj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-052",
+      "tezina": "srednje",
+      "pitanje": "Sisak leži na mjestu gdje se jedna rijeka ulijeva u Savu. Koja?",
+      "ponudeni": [
+        "Drava",
+        "Kupa",
+        "Neretva",
+        "Dunav"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Sisku se Kupa ulijeva u Savu.",
+      "savjet": "Ta rijeka teče i kroz Karlovac."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-053",
+      "tezina": "srednje",
+      "pitanje": "Koji grad leži na Dravi na sjeveru Hrvatske?",
+      "ponudeni": [
+        "Split",
+        "Pula",
+        "Varaždin",
+        "Zadar"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Varaždin leži uz Dravu na sjeveru Hrvatske, a Split, Pula i Zadar su uz more.",
+      "savjet": "Traži grad koji nije na obali mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-054",
+      "tezina": "srednje",
+      "pitanje": "Čemu služe granični prijelazi?",
+      "ponudeni": [
+        "Nadzoru ljudi i robe koji ulaze u državu ili iz nje izlaze",
+        "Naplati cestarine na autocesti",
+        "Održavanju sajmova i priredbi",
+        "Mjerenju udaljenosti među gradovima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na graničnim prijelazima nadzire se tko i što ulazi u državu ili iz nje izlazi.",
+      "savjet": "Sjeti se što granična policija radi s putnicima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-055",
+      "tezina": "srednje",
+      "pitanje": "Hrvatska s Italijom graniči preko Jadranskog mora. Kakva je to granica?",
+      "ponudeni": [
+        "Kopnena granica",
+        "Riječna granica",
+        "Planinska granica",
+        "Morska granica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Granica koja prolazi morem zove se morska granica, a granica na kopnu kopnena.",
+      "savjet": "Granica dobiva naziv po onome kroz što prolazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-056",
+      "tezina": "srednje",
+      "pitanje": "Na karti ne znaš što znači neki znak. Gdje ćeš to provjeriti?",
+      "ponudeni": [
+        "U mjerilu karte",
+        "U tumaču znakova",
+        "U naslovu karte",
+        "Na globusu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Značenje znakova i boja na karti piše u tumaču znakova (legendi).",
+      "savjet": "Traži dio karte koji objašnjava ono što je nacrtano."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-057",
+      "tezina": "srednje",
+      "pitanje": "Koji je reljefni oblik Pelješac?",
+      "ponudeni": [
+        "Otok",
+        "Zaljev",
+        "Poluotok",
+        "Kotlina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pelješac je poluotok na jugu Hrvatske: s tri je strane okružen morem, a s jedne spojen s kopnom.",
+      "savjet": "Do Pelješca se može doći automobilom, a ipak ga gotovo sa svih strana okružuje more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-058",
+      "tezina": "srednje",
+      "pitanje": "U kojem kraju Hrvatske na geografskoj karti prevladava zelena boja?",
+      "ponudeni": [
+        "U Lici",
+        "U Gorskom kotaru",
+        "Na Velebitu",
+        "U Slavoniji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slavonija je nizina, a nizine su na karti zelene. Lika, Gorski kotar i Velebit su gorski krajevi pa su smeđi.",
+      "savjet": "Zelena boja na karti znači nizinu; traži nizinski kraj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-059",
+      "tezina": "srednje",
+      "pitanje": "Koja od navedenih država nije susjed Hrvatske?",
+      "ponudeni": [
+        "Slovenija",
+        "Austrija",
+        "Srbija",
+        "Crna Gora"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Austrija ne graniči s Hrvatskom jer se između njih nalaze Slovenija i Mađarska.",
+      "savjet": "Obiđi granicu Hrvatske na karti i nabroji sve susjede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-060",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove gradove Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Zadar",
+            "polozaj": [
+              15.23,
+              44.12
+            ]
+          },
+          {
+            "naziv": "Pula",
+            "polozaj": [
+              13.85,
+              44.87
+            ]
+          },
+          {
+            "naziv": "Varaždin",
+            "polozaj": [
+              16.34,
+              46.31
+            ]
+          },
+          {
+            "naziv": "Slavonski Brod",
+            "polozaj": [
+              18,
+              45.16
+            ]
+          },
+          {
+            "naziv": "Karlovac",
+            "polozaj": [
+              15.55,
+              45.49
+            ]
+          },
+          {
+            "naziv": "Vukovar",
+            "polozaj": [
+              19,
+              45.35
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Pula je na jugu Istre, Zadar na obali sjeverne Dalmacije, Karlovac na Kupi, Varaždin na sjeveru uz Dravu, Slavonski Brod na Savi, a Vukovar na Dunavu.",
+      "savjet": "Dva su grada uz more, a ostale smjesti pomoću rijeka na kojima leže."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-061",
+      "tezina": "tesko",
+      "pitanje": "Kopnenim putem uz obalu od Splita do Dubrovnika, bez Pelješkog mosta, prolazi se kroz kratak dio susjedne države. Koje?",
+      "ponudeni": [
+        "Crne Gore",
+        "Srbije",
+        "Bosne i Hercegovine",
+        "Slovenije"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kod Neuma Bosna i Hercegovina izlazi na more i odvaja dubrovački kraj od ostatka hrvatske obale. Zato je izgrađen Pelješki most.",
+      "savjet": "Pogledaj na karti obalu između ušća Neretve i Pelješca: nečija granica ondje dolazi do mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-062",
+      "tezina": "tesko",
+      "pitanje": "Hrvatska na karti ima oblik luka koji s tri strane okružuje jednu susjednu državu. Koju?",
+      "ponudeni": [
+        "Bosnu i Hercegovinu",
+        "Mađarsku",
+        "Sloveniju",
+        "Italiju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatska okružuje Bosnu i Hercegovinu sa sjevera, zapada i juga, pa s njom ima vrlo dugu granicu.",
+      "savjet": "Pogledaj koja je država na karti „u zagrljaju“ Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-063",
+      "tezina": "tesko",
+      "pitanje": "Na izletu u Vukovaru stojiš na obali Dunava i gledaš preko rijeke. Koja je država na drugoj obali?",
+      "ponudeni": [
+        "Mađarska",
+        "Bosna i Hercegovina",
+        "Slovenija",
+        "Srbija"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kod Vukovara Dunav čini granicu između Hrvatske i Srbije, pa je na drugoj obali Srbija.",
+      "savjet": "Vukovar je na istoku Hrvatske; sjeti se koja je susjedna država na istoku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-064",
+      "tezina": "tesko",
+      "pitanje": "Stojiš na obali Save u Slavonskom Brodu i gledaš preko rijeke prema jugu. Koju državu vidiš?",
+      "ponudeni": [
+        "Srbiju",
+        "Bosnu i Hercegovinu",
+        "Mađarsku",
+        "Crnu Goru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sava kod Slavonskog Broda čini granicu s Bosnom i Hercegovinom, koja je južno od Slavonije.",
+      "savjet": "Sjeti se koja je susjedna država južno od Slavonije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto rijeke često čine državnu granicu?",
+      "ponudeni": [
+        "Jer uz rijeke nitko ne živi",
+        "Jer rijeke teku samo kroz jednu državu",
+        "Jer su lako uočljive u prirodi i odvajaju dva područja",
+        "Jer su sve rijeke jednako duge"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rijeka je jasna prirodna crta u krajoliku koja razdvaja dvije obale, pa se granica često dogovori uz nju.",
+      "savjet": "Sjeti se Drave, Save i Dunava na granicama i razmisli što rijeka čini s krajolikom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-066",
+      "tezina": "tesko",
+      "pitanje": "Na karti 1 cm prikazuje 10 km. Dva su grada na karti udaljena 5 cm. Kolika je stvarna udaljenost između njih?",
+      "ponudeni": [
+        "5 km",
+        "15 km",
+        "500 km",
+        "50 km"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svaki centimetar na karti prikazuje 10 km, pa je 5 cm na karti 5 · 10 = 50 km u stvarnosti.",
+      "savjet": "Svaki centimetar na karti zamijeni s 10 km pa zbroji ili pomnoži."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-067",
+      "tezina": "tesko",
+      "pitanje": "Na jednoj je karti Hrvatska velika kao stol, a na drugoj kao dlan. Po čemu se te karte razlikuju?",
+      "ponudeni": [
+        "Po bojama reljefa",
+        "Po mjerilu",
+        "Po stranama svijeta",
+        "Po tumaču znakova"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Karte se razlikuju po mjerilu: na manjoj je karti stvarnost više puta umanjena.",
+      "savjet": "Razmisli koji dio karte govori koliko je puta prikaz umanjen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-068",
+      "tezina": "tesko",
+      "pitanje": "Na karti rijeka teče od smeđih dijelova prema zelenima. Što to znači?",
+      "ponudeni": [
+        "Teče s uzvisina prema nizini",
+        "Teče iz nizine prema planinama",
+        "Teče samo kroz planine",
+        "Teče iz mora prema kopnu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Smeđa boja označava uzvisine, a zelena nizine. Rijeka teče s viših mjesta prema nižima.",
+      "savjet": "Prisjeti se značenja boja i u kojem smjeru voda teče."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-069",
+      "tezina": "tesko",
+      "pitanje": "S kojom od navedenih susjednih država Hrvatska ima i kopnenu i morsku granicu?",
+      "ponudeni": [
+        "S Mađarskom",
+        "Sa Srbijom",
+        "S Crnom Gorom",
+        "S Italijom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Crna Gora graniči s Hrvatskom na kopnu kod Konavala i ima izlaz na Jadransko more. Mađarska i Srbija nemaju more, a s Italijom je granica samo morska.",
+      "savjet": "Traži državu koja dodiruje Hrvatsku na kopnu, a ujedno leži uz Jadransko more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-070",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu susjedne države Hrvatske i Jadransko more.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Italija",
+            "polozaj": [
+              13.7,
+              42.65
+            ]
+          },
+          {
+            "naziv": "Slovenija",
+            "polozaj": [
+              14.8,
+              46.1
+            ]
+          },
+          {
+            "naziv": "Mađarska",
+            "polozaj": [
+              17.8,
+              46.4
+            ]
+          },
+          {
+            "naziv": "Srbija",
+            "polozaj": [
+              19.45,
+              45
+            ]
+          },
+          {
+            "naziv": "Bosna i Hercegovina",
+            "polozaj": [
+              17.8,
+              44.2
+            ]
+          },
+          {
+            "naziv": "Crna Gora",
+            "polozaj": [
+              19,
+              42.75
+            ]
+          },
+          {
+            "naziv": "Jadransko more",
+            "polozaj": [
+              15.5,
+              43.2
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Italija je preko Jadranskog mora na zapadu, Slovenija na sjeverozapadu, Mađarska na sjeveru, Srbija na istoku, Bosna i Hercegovina unutar luka Hrvatske, a Crna Gora na krajnjem jugoistoku.",
+      "savjet": "Jedna se država nalazi preko mora; ostale smjesti prema stranama svijeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-071",
+      "tezina": "tesko",
+      "pitanje": "Koji niz reljefnih oblika ide od najnižeg prema najvišem?",
+      "ponudeni": [
+        "Planina, gora, brežuljak, nizina",
+        "Gora, nizina, planina, brežuljak",
+        "Brežuljak, nizina, gora, planina",
+        "Nizina, brežuljak, gora, planina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najniža je nizina, zatim brežuljak, pa gora, a najviša je planina.",
+      "savjet": "Kreni od ravnog polja i penji se prema najvišim vrhovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-072",
+      "tezina": "tesko",
+      "pitanje": "Sava teče kroz Zagreb, Sisak i Slavonski Brod. U kojem smjeru teče kroz Hrvatsku?",
+      "ponudeni": [
+        "S istoka prema zapadu",
+        "Sa zapada prema istoku",
+        "S juga prema sjeveru",
+        "Sa sjevera prema jugu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sava dolazi iz Slovenije na zapadu i teče prema istoku, sve do Dunava.",
+      "savjet": "Pronađi gradove na karti redom kojim su navedeni i prati smjer."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-073",
+      "tezina": "tesko",
+      "pitanje": "Zašto je Dunav važan za promet?",
+      "ponudeni": [
+        "Njime ne plove brodovi",
+        "Teče samo kroz Hrvatsku",
+        "Njime plove brodovi i povezuje mnoge europske države",
+        "U njega se ulijeva Jadransko more"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dunav je velika rijeka kojom plove brodovi, a teče kroz mnoge europske države, pa ih povezuje.",
+      "savjet": "Razmisli što sve plovi velikom rijekom i kroz koliko država ona teče."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-074",
+      "tezina": "tesko",
+      "pitanje": "Zašto su uz rijeke Savu, Dravu i Dunav nastali veliki gradovi?",
+      "ponudeni": [
+        "Rijeke daju vodu, plodno tlo i služe za promet",
+        "Uz rijeke se nikad ne događaju poplave",
+        "Rijeke sprječavaju dolazak drugih ljudi",
+        "Uz rijeke je zimi toplije nego drugdje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rijeke ljudima daju vodu, uz njih je plodno tlo, a rijekama se može i ploviti, pa su uz njih nastali gradovi.",
+      "savjet": "Razmisli što sve ljudi dobivaju od rijeke u svakodnevnom životu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-075",
+      "tezina": "tesko",
+      "pitanje": "Koja od navedenih rijeka cijelim tokom teče kroz Hrvatsku i ne čini dio državne granice?",
+      "ponudeni": [
+        "Cetina",
+        "Una",
+        "Kupa",
+        "Dunav"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Cetina teče samo kroz Dalmaciju i ulijeva se u more. Una čini granicu s Bosnom i Hercegovinom, Kupa sa Slovenijom, a Dunav sa Srbijom.",
+      "savjet": "Za svaku rijeku provjeri teče li uz granicu s nekom susjednom državom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-076",
+      "tezina": "tesko",
+      "pitanje": "Iz Pule ploviš brodom prema zapadu preko Jadranskog mora. U koju državu stižeš?",
+      "ponudeni": [
+        "U Sloveniju",
+        "U Italiju",
+        "U Crnu Goru",
+        "U Mađarsku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zapadno od Istre, preko Jadranskog mora, nalazi se Italija.",
+      "savjet": "Traži državu s kojom Hrvatska graniči samo morem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-077",
+      "tezina": "tesko",
+      "pitanje": "Koja od navedenih susjednih država nema izlaz na more?",
+      "ponudeni": [
+        "Slovenija",
+        "Crna Gora",
+        "Italija",
+        "Mađarska"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mađarska je okružena kopnom i nema more, a Slovenija, Crna Gora i Italija leže uz Jadransko more.",
+      "savjet": "Na karti provjeri koja od tih država nigdje ne dodiruje plavu boju mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-078",
+      "tezina": "tesko",
+      "pitanje": "Kako na karti razlikuješ rijeku od ceste?",
+      "ponudeni": [
+        "Rijeka je plava crta, što potvrđuje tumač znakova",
+        "Rijeka je smeđa crta, a cesta zelena",
+        "Rijeka je ravna, a cesta vijugava crta",
+        "Ceste se na kartama ne crtaju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vode se na karti crtaju plavom bojom, a što znači koja crta, provjeravamo u tumaču znakova.",
+      "savjet": "Sjeti se koja se boja koristi za vode i gdje piše značenje svake crte."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-079",
+      "tezina": "tesko",
+      "pitanje": "Koji je od navedenih opisa točan za Istru?",
+      "ponudeni": [
+        "Otok na jugu Dalmacije",
+        "Kotlina u Slavoniji",
+        "Poluotok na zapadu Hrvatske",
+        "Planina uz granicu s BiH"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Istra je poluotok na zapadu Hrvatske: s tri je strane okružena morem, a na sjeveru graniči sa Slovenijom.",
+      "savjet": "Pronađi Istru na karti i pogledaj okružuje li je more sa svih strana ili ne."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-080",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ova mjesta na istoku Hrvatske.",
+      "karta": {
+        "okvir": [
+          17.5,
+          44.7,
+          19.6,
+          46.2
+        ],
+        "mjesta": [
+          {
+            "naziv": "Osijek",
+            "polozaj": [
+              18.69,
+              45.55
+            ]
+          },
+          {
+            "naziv": "Vukovar",
+            "polozaj": [
+              19,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Drava",
+            "polozaj": [
+              18.17,
+              45.77
+            ]
+          },
+          {
+            "naziv": "Dunav",
+            "polozaj": [
+              18.86,
+              45.85
+            ]
+          },
+          {
+            "naziv": "Sava",
+            "polozaj": [
+              18.7,
+              45.04
+            ]
+          },
+          {
+            "naziv": "Mađarska",
+            "polozaj": [
+              18.2,
+              46.05
+            ]
+          },
+          {
+            "naziv": "Bosna i Hercegovina",
+            "polozaj": [
+              18.3,
+              44.85
+            ]
+          },
+          {
+            "naziv": "Srbija",
+            "polozaj": [
+              19.45,
+              45
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Drava teče uz granicu s Mađarskom prema Osijeku, Dunav na istoku dijeli Hrvatsku od Srbije i teče pokraj Vukovara, a Sava na jugu dijeli Hrvatsku od Bosne i Hercegovine.",
+      "savjet": "Tri rijeke ovdje čine granicu; za svaku odredi s kojom susjednom državom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-081",
+      "tezina": "tesko",
+      "pitanje": "Koja rijeka izvire u susjednoj državi, a u Hrvatskoj se ulijeva u Jadransko more?",
+      "ponudeni": [
+        "Cetina",
+        "Neretva",
+        "Kupa",
+        "Drava"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Neretva izvire u Bosni i Hercegovini, a kod Ploča u Hrvatskoj ulijeva se u Jadransko more.",
+      "savjet": "Isključi rijeke koje ne teku prema moru, a zatim provjeri gdje izviru preostale."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-082",
+      "tezina": "tesko",
+      "pitanje": "Koju korist Hrvatska ima od Jadranskog mora?",
+      "ponudeni": [
+        "Uzgoj kukuruza i pšenice",
+        "Rudnike ugljena",
+        "Skijališta i žičare",
+        "Turizam, ribarstvo i pomorski promet"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jadransko more privlači turiste, u njemu se lovi riba, a lukama i brodovima prevoze se ljudi i roba.",
+      "savjet": "Razmisli što ljudi na obali rade ljeti, a što cijele godine na moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-083",
+      "tezina": "tesko",
+      "pitanje": "Koji od navedenih gradova leži najbliže granici sa Slovenijom?",
+      "ponudeni": [
+        "Osijek",
+        "Split",
+        "Rijeka",
+        "Vukovar"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rijeka je na sjeverozapadu Hrvatske, nedaleko od Slovenije. Osijek i Vukovar su na istoku, a Split na jugu.",
+      "savjet": "Slovenija je na sjeverozapadu; traži grad u tom dijelu Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-084",
+      "tezina": "tesko",
+      "pitanje": "Želiš vidjeti ulice i trgove svog grada. Što je za to bolje upotrijebiti?",
+      "ponudeni": [
+        "Plan grada, jer prikazuje malo područje s mnogo pojedinosti",
+        "Kartu Hrvatske, jer prikazuje cijelu državu",
+        "Globus, jer prikazuje cijelu Zemlju",
+        "Kartu Europe, jer prikazuje sve države"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plan grada prikazuje manje područje i manje je umanjen, pa se na njemu vide ulice i trgovi.",
+      "savjet": "Što je prikazano područje manje, to se na karti vidi više pojedinosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-085",
+      "tezina": "tesko",
+      "pitanje": "Na dvije jednako velike karte 1 cm prikazuje 1 km na prvoj, a 100 km na drugoj. Na kojoj je karti prikazano veće područje?",
+      "ponudeni": [
+        "Na prvoj karti",
+        "Na obje karte jednako",
+        "To se ne može znati",
+        "Na drugoj karti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na drugoj karti svaki centimetar prikazuje mnogo više kilometara, pa ona na jednakom papiru prikazuje veće područje, ali s manje pojedinosti.",
+      "savjet": "Usporedi koliko kilometara stane u jedan centimetar na svakoj karti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-086",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko rijekama Savi, Dravi i Kupi?",
+      "ponudeni": [
+        "Sve se ulijevaju u Jadransko more",
+        "Njihova voda na kraju stigne u Dunav",
+        "Sve izviru u Lici",
+        "Sve teku kroz Dalmaciju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kupa se ulijeva u Savu, a Sava i Drava ulijevaju se u Dunav, pa voda svih triju rijeka stigne u Dunav.",
+      "savjet": "Prati na karti kamo teče svaka rijeka i u koju se ulijeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-087",
+      "tezina": "tesko",
+      "pitanje": "Kako ćeš na karti prepoznati kotlinu?",
+      "ponudeni": [
+        "Smeđe područje okruženo plavim",
+        "Plavo područje okruženo zelenim",
+        "Zeleno područje okruženo smeđim",
+        "Zeleno područje uz more"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kotlina je nisko područje okruženo gorama, pa je na karti zelena površina okružena smeđim uzvisinama.",
+      "savjet": "Sjeti se kakvo je dno kotline, a kakvi su njezini rubovi, i koje boje to označavaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-088",
+      "tezina": "tesko",
+      "pitanje": "Kako ćeš na karti prepoznati zaljev?",
+      "ponudeni": [
+        "Plavo more koje se uvlači u kopno",
+        "Zeleno kopno okruženo morem",
+        "Smeđe područje uz rijeku",
+        "Plava crta kroz nizinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zaljev je dio mora uvučen u kopno, pa se na karti vidi kao plava površina koja ulazi u kopno.",
+      "savjet": "Zaljev je dio mora, a ne kopna; razmisli kako se on vidi na karti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-089",
+      "tezina": "tesko",
+      "pitanje": "Granični prijelazi prema Bosni i Hercegovini često se nalaze na mostovima preko Save. Zašto?",
+      "ponudeni": [
+        "Jer se na mostovima naplaćuje cestarina",
+        "Jer su mostovi najljepša mjesta u gradu",
+        "Jer je ondje more najpliće",
+        "Jer granica ide rijekom pa se preko mosta ulazi u drugu državu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sava ondje čini granicu, pa se prelaskom mosta ulazi u drugu državu i zato je ondje granični prijelaz.",
+      "savjet": "Sjeti se kojim dijelom krajolika ondje prolazi granica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-granice-susjedi-i-karta-090",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ova mjesta na jugu Hrvatske i susjedne države.",
+      "karta": {
+        "okvir": [
+          15.5,
+          42.3,
+          19.3,
+          44.3
+        ],
+        "mjesta": [
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          },
+          {
+            "naziv": "Neretva",
+            "polozaj": [
+              17.62,
+              43.04
+            ]
+          },
+          {
+            "naziv": "Dinara",
+            "polozaj": [
+              16.38,
+              44.06
+            ]
+          },
+          {
+            "naziv": "Bosna i Hercegovina",
+            "polozaj": [
+              17.6,
+              43.6
+            ]
+          },
+          {
+            "naziv": "Crna Gora",
+            "polozaj": [
+              18.9,
+              42.7
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Split je na obali srednje Dalmacije, a Dinara u zaleđu uz granicu s Bosnom i Hercegovinom. Neretva utječe u more južnije, Dubrovnik je na jugu, a iza njega Crna Gora. Bosna i Hercegovina je u unutrašnjosti.",
+      "savjet": "Kreni od najveće rijeke na jugu, a zatim smjesti gradove na obali i ono što je u unutrašnjosti."
+    }
+  ]
+}

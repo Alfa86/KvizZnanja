@@ -1,0 +1,1326 @@
+{
+  "lekcijaId": "stanovnistvo-jezik-i-pismo",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-001",
+      "tezina": "lagano",
+      "pitanje": "Koji narod čini većinu stanovnika Republike Hrvatske?",
+      "ponudeni": [
+        "Slovenci",
+        "Hrvati",
+        "Mađari",
+        "Talijani"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Većina stanovnika Republike Hrvatske su Hrvati. Uz njih u Hrvatskoj žive i pripadnici nacionalnih manjina.",
+      "savjet": "Sjeti se po kojem je narodu naša država dobila ime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-002",
+      "tezina": "lagano",
+      "pitanje": "Koji je službeni jezik u Republici Hrvatskoj?",
+      "ponudeni": [
+        "Engleski jezik",
+        "Talijanski jezik",
+        "Hrvatski jezik",
+        "Njemački jezik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Službeni jezik u Republici Hrvatskoj je hrvatski jezik. Njime se služimo u školama, uredima i na službenim natpisima.",
+      "savjet": "Razmisli kojim jezikom učiš i pišeš na nastavi u školi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-003",
+      "tezina": "lagano",
+      "pitanje": "Kojim se pismom službeno piše hrvatski jezik?",
+      "ponudeni": [
+        "Latinicom",
+        "Ćirilicom",
+        "Grčkim pismom",
+        "Arapskim pismom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski jezik službeno se piše latinicom. To je pismo kojim pišeš u bilježnicu.",
+      "savjet": "Pogledaj slova kojima je napisano ovo pitanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-004",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo sve ljude koji žive u nekoj državi ili nekom kraju?",
+      "ponudeni": [
+        "Narječje",
+        "Manjina",
+        "Iseljenici",
+        "Stanovništvo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svi ljudi koji žive u nekoj državi ili kraju čine njegovo stanovništvo.",
+      "savjet": "Ljudi koji negdje stanuju zovu se stanovnici. Kako ih nazivamo sve zajedno?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju skupine građana Hrvatske koje imaju svoj jezik, običaje i kulturu, a malobrojnije su od Hrvata?",
+      "ponudeni": [
+        "Nacionalne manjine",
+        "Iseljenici",
+        "Turisti",
+        "Susjedi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nacionalne manjine su građani Hrvatske koji pripadaju drugim narodima. Ima ih manje nego Hrvata, a čuvaju svoj jezik i kulturu.",
+      "savjet": "Razmisli kako se kaže za skupinu koje ima manje od većine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-006",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih skupina nacionalna manjina u Hrvatskoj?",
+      "ponudeni": [
+        "Japanci",
+        "Talijani",
+        "Brazilci",
+        "Australci"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Talijani su jedna od nacionalnih manjina u Hrvatskoj. Mnogi od njih žive u Istri.",
+      "savjet": "Nacionalne manjine obično potječu iz naroda koji žive blizu Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-007",
+      "tezina": "lagano",
+      "pitanje": "Kojom riječju pitaju „što“ ljudi koji govore kajkavskim narječjem?",
+      "ponudeni": [
+        "ča",
+        "što",
+        "kaj",
+        "kako"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kajkavsko narječje dobilo je ime po riječi „kaj“, kojom kajkavci pitaju „što“.",
+      "savjet": "Imena narječja nastala su od riječi kojom se u njima pita „što“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-008",
+      "tezina": "lagano",
+      "pitanje": "Koliko narječja ima hrvatski jezik?",
+      "ponudeni": [
+        "Dva",
+        "Tri",
+        "Pet",
+        "Sedam"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatski jezik ima tri narječja: štokavsko, kajkavsko i čakavsko.",
+      "savjet": "Sjeti se riječi kojima se u različitim krajevima pita „što“ i prebroji ih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-009",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih pisama staro hrvatsko pismo?",
+      "ponudeni": [
+        "Egipatski hijeroglifi",
+        "Arapsko pismo",
+        "Glagoljica",
+        "Kinesko pismo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagoljica je staro pismo kojim su Hrvati pisali u prošlosti. Danas je čuvamo kao važan dio naše baštine.",
+      "savjet": "Traži pismo koje se koristilo u starim hrvatskim crkvama i knjigama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-010",
+      "tezina": "lagano",
+      "pitanje": "Gdje u Hrvatskoj živi najviše ljudi?",
+      "ponudeni": [
+        "U gorskim krajevima",
+        "Na malim otocima",
+        "U visokim planinama",
+        "U velikim gradovima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najviše ljudi živi u velikim gradovima jer ondje ima mnogo poslova, škola i bolnica.",
+      "savjet": "Razmisli gdje su zgrade najgušće i gdje je na ulicama najviše ljudi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-011",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo ljude koji su se iz Hrvatske odselili živjeti u drugu državu?",
+      "ponudeni": [
+        "Turisti",
+        "Doseljenici",
+        "Nacionalna manjina",
+        "Iseljenici"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iseljenici su ljudi koji su napustili svoju domovinu i otišli živjeti u drugu državu.",
+      "savjet": "Razmisli znači li „odseliti se“ dolazak u zemlju ili odlazak iz nje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-012",
+      "tezina": "lagano",
+      "pitanje": "U kojoj susjednoj državi Hrvati žive kao jedan od tri naroda, uz Bošnjake i Srbe?",
+      "ponudeni": [
+        "U Sloveniji",
+        "U Mađarskoj",
+        "U Bosni i Hercegovini",
+        "U Italiji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Bosni i Hercegovini žive tri naroda: Bošnjaci, Srbi i Hrvati.",
+      "savjet": "Traži susjednu državu koja s Hrvatskom ima vrlo dugu granicu na jugu i istoku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-013",
+      "tezina": "lagano",
+      "pitanje": "Na kojem se jeziku održava nastava u školama talijanske nacionalne manjine u Istri?",
+      "ponudeni": [
+        "Na njemačkom jeziku",
+        "Na talijanskom jeziku",
+        "Na engleskom jeziku",
+        "Na mađarskom jeziku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripadnici nacionalnih manjina imaju pravo na školovanje na svom jeziku, pa se u školama talijanske manjine nastava održava na talijanskom.",
+      "savjet": "Manjine se smiju školovati na jeziku svog naroda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-014",
+      "tezina": "lagano",
+      "pitanje": "Koje je narječje dobilo ime po riječi „ča“?",
+      "ponudeni": [
+        "Štokavsko narječje",
+        "Kajkavsko narječje",
+        "Čakavsko narječje",
+        "Standardni jezik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čakavsko narječje dobilo je ime po riječi „ča“, kojom čakavci pitaju „što“.",
+      "savjet": "Usporedi početak imena narječja s riječju iz pitanja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-015",
+      "tezina": "lagano",
+      "pitanje": "Koliko slova ima hrvatska abeceda?",
+      "ponudeni": [
+        "26",
+        "30",
+        "33",
+        "24"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatska abeceda ima 30 slova. Među njima su i slova č, ć, dž, đ, lj, nj, š i ž.",
+      "savjet": "Polako izgovori abecedu i broji slova na prste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-016",
+      "tezina": "lagano",
+      "pitanje": "Što je narječje?",
+      "ponudeni": [
+        "Način govora ljudi nekog kraja",
+        "Strani jezik",
+        "Vrsta pisma",
+        "Stara knjiga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Narječje je način na koji govore ljudi u nekom kraju. Hrvatski jezik ima štokavsko, kajkavsko i čakavsko narječje.",
+      "savjet": "Sjeti se kako bake i djedovi u različitim krajevima kažu „što“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-017",
+      "tezina": "lagano",
+      "pitanje": "Koji grad u Hrvatskoj ima najviše stanovnika?",
+      "ponudeni": [
+        "Split",
+        "Osijek",
+        "Zagreb",
+        "Rijeka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zagreb je glavni i najveći grad Hrvatske, pa u njemu živi najviše stanovnika.",
+      "savjet": "Sjeti se koji je grad glavni grad Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-018",
+      "tezina": "lagano",
+      "pitanje": "U kojem kraju Hrvatske živi mnogo pripadnika talijanske nacionalne manjine?",
+      "ponudeni": [
+        "U Istri",
+        "U Slavoniji",
+        "U Lici",
+        "U Hrvatskom zagorju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mnogi pripadnici talijanske manjine žive u Istri, koja je blizu Italije.",
+      "savjet": "Razmisli koji je kraj Hrvatske najbliži Italiji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-019",
+      "tezina": "lagano",
+      "pitanje": "U kojem kraju Hrvatske živi mnogo pripadnika mađarske nacionalne manjine?",
+      "ponudeni": [
+        "U Istri",
+        "U Dalmaciji",
+        "U Baranji",
+        "U Lici"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mnogi pripadnici mađarske manjine žive u Baranji, na sjeveroistoku Hrvatske, blizu granice s Mađarskom.",
+      "savjet": "Razmisli koji je kraj Hrvatske najbliži Mađarskoj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-020",
+      "tezina": "lagano",
+      "pitanje": "Što je dvojezični natpis?",
+      "ponudeni": [
+        "Natpis u dvije boje",
+        "Natpis na dvije ploče",
+        "Natpis koji su napisale dvije osobe",
+        "Natpis napisan na dvama jezicima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvojezični natpis napisan je na dvama jezicima, na primjer na hrvatskom i talijanskom.",
+      "savjet": "Riječ je složena od „dva“ i „jezik“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-021",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove posao u kojem se prebrojavaju svi stanovnici države i prikupljaju podaci o njima?",
+      "ponudeni": [
+        "Izbori",
+        "Popis stanovništva",
+        "Natječaj",
+        "Referendum"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Popisom stanovništva država doznaje koliko ljudi u njoj živi i gdje žive.",
+      "savjet": "Razmisli kako se zove popisivanje svih ljudi koji žive u državi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-022",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove jezik kojim se služe škole, uredi i televizija u cijeloj državi?",
+      "ponudeni": [
+        "Narječje",
+        "Službeni jezik",
+        "Strani jezik",
+        "Zavičajni govor"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Službeni jezik je jezik kojim se služe državne službe, škole i mediji. U Hrvatskoj je to hrvatski jezik.",
+      "savjet": "Razmisli kakvim se jezikom pišu dokumenti u uredima i službama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-023",
+      "tezina": "lagano",
+      "pitanje": "Kamo se sele mnogi ljudi sa sela?",
+      "ponudeni": [
+        "U planine",
+        "U šume",
+        "U gradove",
+        "Na nenaseljene otoke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mnogi ljudi sele se sa sela u gradove jer ondje lakše nalaze posao i škole.",
+      "savjet": "Razmisli gdje ima najviše tvornica, ureda i škola."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-024",
+      "tezina": "lagano",
+      "pitanje": "Koji je dio Hrvatske slabo naseljen?",
+      "ponudeni": [
+        "Grad Zagreb",
+        "Okolica Splita",
+        "Okolica Rijeke",
+        "Gorski krajevi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U gorskim krajevima živi malo ljudi jer su ondje duge zime i manje poslova.",
+      "savjet": "Razmisli gdje je život teži zbog hladnoće, snijega i strmih padina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-025",
+      "tezina": "lagano",
+      "pitanje": "Na kojem kontinentu daleko od Europe žive velike zajednice hrvatskih iseljenika, na primjer u Čileu i Argentini?",
+      "ponudeni": [
+        "U Južnoj Americi",
+        "U Africi",
+        "Na Antarktici",
+        "U Aziji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Čile i Argentina nalaze se u Južnoj Americi, gdje žive mnogi hrvatski iseljenici i njihovi potomci.",
+      "savjet": "Sjeti se na kojem su kontinentu države Čile i Argentina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-026",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih prava nacionalnih manjina u Hrvatskoj?",
+      "ponudeni": [
+        "Ne moraju poštovati zakone",
+        "Ne moraju ići u školu",
+        "Ne smiju osnivati udruge",
+        "Školovanje na svom jeziku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nacionalne manjine imaju pravo školovati se na svom jeziku, a pritom poštuju zakone kao i svi građani.",
+      "savjet": "Pravo je nešto što ti je dopušteno i što te štiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-027",
+      "tezina": "lagano",
+      "pitanje": "Koje je narječje tipično za Istru i kvarnerske otoke?",
+      "ponudeni": [
+        "Čakavsko narječje",
+        "Kajkavsko narječje",
+        "Štokavsko narječje",
+        "Glagoljsko narječje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Istri i na kvarnerskim otocima mnogi govore čakavskim narječjem i pitaju „ča“.",
+      "savjet": "Sjeti se kojom riječju pitaju „što“ ljudi na zapadu Hrvatske uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-028",
+      "tezina": "lagano",
+      "pitanje": "Mnogi se ljudi sele u velike gradove. Smjesti na kartu ova četiri velika grada Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Rijeka",
+            "polozaj": [
+              14.44,
+              45.33
+            ]
+          },
+          {
+            "naziv": "Osijek",
+            "polozaj": [
+              18.69,
+              45.55
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Zagreb je na sjeverozapadu u unutrašnjosti, Rijeka na sjevernom Jadranu, Split u Dalmaciji, a Osijek na istoku u Slavoniji.",
+      "savjet": "Jedan grad je u unutrašnjosti na sjeverozapadu, dva su uz more, a jedan je daleko na istoku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-029",
+      "tezina": "lagano",
+      "pitanje": "Koje se narječje govori u Hrvatskom zagorju?",
+      "ponudeni": [
+        "Čakavsko narječje",
+        "Štokavsko narječje",
+        "Latinično narječje",
+        "Kajkavsko narječje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U Hrvatskom zagorju govori se kajkavskim narječjem, pa ljudi pitaju „kaj“.",
+      "savjet": "Sjeti se kako bake i djedovi na sjeverozapadu Hrvatske pitaju „što“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-030",
+      "tezina": "lagano",
+      "pitanje": "Tko živi u Republici Hrvatskoj?",
+      "ponudeni": [
+        "Hrvati i pripadnici nacionalnih manjina",
+        "Samo Hrvati",
+        "Samo pripadnici nacionalnih manjina",
+        "Samo strani radnici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Hrvatskoj žive Hrvati, kojih je najviše, i pripadnici nacionalnih manjina.",
+      "savjet": "Sjeti se Talijana u Istri i Mađara u Baranji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-031",
+      "tezina": "srednje",
+      "pitanje": "Baka iz Hrvatskog zagorja pita unuku: „Kaj delaš?“ Kojim narječjem govori baka?",
+      "ponudeni": [
+        "Čakavskim narječjem",
+        "Kajkavskim narječjem",
+        "Štokavskim narječjem",
+        "Hrvatskim standardnim jezikom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „kaj“ znači „što“ i tipična je za kajkavsko narječje, kojim se govori u Hrvatskom zagorju.",
+      "savjet": "Pronađi u bakinoj rečenici riječ koja znači „što“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-032",
+      "tezina": "srednje",
+      "pitanje": "Ivana umjesto „što“ kaže „ča“. Iz kojeg je kraja Ivana najvjerojatnije?",
+      "ponudeni": [
+        "Iz Slavonije",
+        "Iz Hrvatskog zagorja",
+        "Iz Istre",
+        "Iz Baranje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Ča“ je riječ čakavskog narječja, kojim se govori u Istri, na Kvarneru i na mnogim otocima.",
+      "savjet": "Sjeti se u kojim se krajevima govori čakavsko narječje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-033",
+      "tezina": "srednje",
+      "pitanje": "Na kojem se narječju temelji hrvatski standardni jezik?",
+      "ponudeni": [
+        "Na kajkavskom narječju",
+        "Na čakavskom narječju",
+        "Na talijanskom jeziku",
+        "Na štokavskom narječju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatski standardni jezik, kojim se piše i uči u školi, temelji se na štokavskom narječju.",
+      "savjet": "Kojom riječju za „što“ pišemo u školskim udžbenicima?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-034",
+      "tezina": "srednje",
+      "pitanje": "Talijanska nacionalna manjina u Istri ima svoje škole, novine i udruge. Što time čuva?",
+      "ponudeni": [
+        "Svoju vojsku",
+        "Svoj novac",
+        "Svoj jezik i kulturu",
+        "Svoje državne granice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Škole, novine i udruge pomažu manjini da njeguje svoj jezik, običaje i kulturu.",
+      "savjet": "Razmisli što se uči u školi i piše u novinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-035",
+      "tezina": "srednje",
+      "pitanje": "Na ploči na ulazu u jedno istarsko mjesto piše „Rovinj – Rovigno“. Na kojem je jeziku drugi dio natpisa?",
+      "ponudeni": [
+        "Na talijanskom jeziku",
+        "Na mađarskom jeziku",
+        "Na češkom jeziku",
+        "Na slovenskom jeziku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Istri žive pripadnici talijanske manjine, pa su ondje natpisi na hrvatskom i talijanskom jeziku.",
+      "savjet": "Sjeti se koja nacionalna manjina živi u Istri."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-036",
+      "tezina": "srednje",
+      "pitanje": "Učenica iz obitelji češke nacionalne manjine živi u Daruvaru. Što ondje može?",
+      "ponudeni": [
+        "Ne mora poštovati hrvatske zakone",
+        "Pohađati nastavu na češkom jeziku",
+        "Ne mora ići u školu",
+        "Smije izostati s nastave hrvatskog"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oko Daruvara živi mnogo Čeha, pa ondje postoje škole u kojima se nastava održava na češkom jeziku.",
+      "savjet": "Sjeti se koja prava imaju nacionalne manjine u Hrvatskoj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-037",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dobro što u Hrvatskoj žive ljudi različitih naroda?",
+      "ponudeni": [
+        "Jer tada svi moraju govoriti isti jezik",
+        "Jer tako upoznajemo različite jezike, pjesme i običaje",
+        "Jer tada svi slave iste blagdane",
+        "Jer tada nitko ne mora učiti hrvatski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Različiti narodi donose svoje jezike, pjesme, jela i običaje, pa tako svi učimo jedni od drugih.",
+      "savjet": "Razmisli što možeš naučiti od prijatelja koji ima drugačije običaje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-038",
+      "tezina": "srednje",
+      "pitanje": "Zašto se mnogi ljudi sele iz sela u gradove?",
+      "ponudeni": [
+        "U gradovima je čišći zrak",
+        "U gradovima nema prometa",
+        "U gradovima je više poslova, škola i bolnica",
+        "U gradovima su kuće veće"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U gradovima je lakše naći posao, a ondje su i srednje škole, fakulteti i bolnice.",
+      "savjet": "Razmisli što ljudima treba za život, a u malom selu toga često nema."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto u gorskim krajevima Hrvatske živi malo ljudi?",
+      "ponudeni": [
+        "Ondje je zabranjeno graditi kuće",
+        "Ondje su duge zime, malo plodne zemlje i manje poslova",
+        "Ondje uopće nema cesta",
+        "Ondje je preblizu mora"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U gorskim krajevima zime su duge i hladne, plodne zemlje je malo, a poslova je manje, pa ondje živi malo ljudi.",
+      "savjet": "Razmisli kakvi su klima i tlo u planinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-040",
+      "tezina": "srednje",
+      "pitanje": "Zašto se u gusto naseljenim gradovima gradi mnogo visokih stambenih zgrada?",
+      "ponudeni": [
+        "Jer se zgrade lakše griju zimi",
+        "Jer na malo prostora treba smjestiti mnogo ljudi",
+        "Jer u gradovima nema zemlje za vrtove",
+        "Jer je zakonom zabranjeno graditi kuće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U gusto naseljenim gradovima mnogo ljudi živi na malom prostoru, pa se grade visoke zgrade s mnogo stanova.",
+      "savjet": "Razmisli što znači „gusto naseljeno“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-041",
+      "tezina": "srednje",
+      "pitanje": "Mnogi Hrvati odselili su se u druge europske države tražeći posao. Koja je od navedenih država jedna od najčešćih?",
+      "ponudeni": [
+        "Portugal",
+        "Island",
+        "Njemačka",
+        "Finska"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mnogi hrvatski iseljenici otišli su raditi u Njemačku, gdje danas žive i njihove obitelji.",
+      "savjet": "Traži državu u srednjoj Europi koja je blizu Hrvatske i ima mnogo tvornica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-042",
+      "tezina": "srednje",
+      "pitanje": "Zašto mnogi hrvatski iseljenici ljeti dolaze u Hrvatsku?",
+      "ponudeni": [
+        "Moraju ponovno polagati ispite",
+        "Posjećuju rodbinu i kraj iz kojeg potječu",
+        "Ondje moraju platiti porez na more",
+        "Ne smiju ljeti ostati u svojoj državi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iseljenici ostaju povezani s domovinom, pa ljeti dolaze posjetiti rodbinu i svoj zavičaj.",
+      "savjet": "Razmisli što ljude veže uz kraj u kojem su odrasli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-043",
+      "tezina": "srednje",
+      "pitanje": "Hrvati žive i u nekim susjednim državama, gdje su nacionalna manjina. Što to znači?",
+      "ponudeni": [
+        "Ondje su većina stanovnika",
+        "Ondje su samo turisti",
+        "Ondje ne smiju govoriti hrvatski",
+        "Ondje ih je manje od većinskog naroda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Biti nacionalna manjina znači da u toj državi ima manje pripadnika tvog naroda nego pripadnika većinskog naroda.",
+      "savjet": "Sjeti se što znači riječ „manjina“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-044",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se hrvatska latinica razlikuje od latinice kojom se piše engleski jezik?",
+      "ponudeni": [
+        "Piše se zdesna nalijevo",
+        "Nema samoglasnika",
+        "Ima slova č, ć, đ, š i ž",
+        "Ima samo velika slova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatska latinica ima posebna slova poput č, ć, đ, š i ž, kojih u engleskoj abecedi nema.",
+      "savjet": "Pogledaj svoje ime ili prezime i potraži slova s kvačicama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-045",
+      "tezina": "srednje",
+      "pitanje": "Kako bi čakavac pitao „Što je to?“",
+      "ponudeni": [
+        "Što je to?",
+        "Kaj je to?",
+        "Šta je to?",
+        "Ča je to?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Čakavci umjesto „što“ kažu „ča“, pa pitaju „Ča je to?“.",
+      "savjet": "Ime narječja otkriva kojom se riječju pita „što“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-046",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko riječima „što“, „kaj“ i „ča“?",
+      "ponudeni": [
+        "Sve znače „što“, a govore se u različitim narječjima",
+        "To su tri različita strana jezika",
+        "Pišu se samo glagoljicom",
+        "Govore se samo u Zagrebu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sve tri riječi znače isto, „što“, a svaka je tipična za jedno narječje hrvatskog jezika.",
+      "savjet": "Razmisli po čemu su narječja dobila svoja imena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-047",
+      "tezina": "srednje",
+      "pitanje": "Zašto na nekim malim otocima zimi živi vrlo malo ljudi?",
+      "ponudeni": [
+        "Mnogi su se odselili na kopno zbog posla i škole",
+        "Otoci su zimi pod debelim snijegom",
+        "Zimi na otocima nema struje",
+        "Na otocima je zimi zabranjeno stanovati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "S malih otoka mnogi su se odselili na kopno jer ondje lakše nalaze posao, a djeca idu u škole.",
+      "savjet": "Razmisli što na malom otoku nedostaje mladim obiteljima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-048",
+      "tezina": "srednje",
+      "pitanje": "Kako nazivamo ljude koji su iz drugih država došli živjeti u Hrvatsku?",
+      "ponudeni": [
+        "Iseljenici",
+        "Putnici",
+        "Turisti",
+        "Doseljenici"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Doseljenici su ljudi koji su se iz drugih država doselili i ovdje žive, a iseljenici su oni koji su otišli.",
+      "savjet": "Razmisli dolaze li ti ljudi u Hrvatsku ili odlaze iz nje i ostaju li ovdje živjeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-049",
+      "tezina": "srednje",
+      "pitanje": "Zašto u nizinama živi više ljudi nego u planinama?",
+      "ponudeni": [
+        "Ondje nema zime",
+        "Ondje nema rijeka",
+        "Ondje je zabranjen uzgoj stoke",
+        "Ondje je plodna zemlja i lakše se grade ceste"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U nizinama je zemlja plodna i ravna, pa je lakše uzgajati hranu i graditi ceste i naselja.",
+      "savjet": "Razmisli gdje je lakše orati polja i graditi ravne ceste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-050",
+      "tezina": "srednje",
+      "pitanje": "Smjesti natpise na kartu tamo gdje živi mnogo pripadnika tih nacionalnih manjina.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Talijani",
+            "polozaj": [
+              13.9,
+              45.25
+            ]
+          },
+          {
+            "naziv": "Česi",
+            "polozaj": [
+              17.22,
+              45.59
+            ]
+          },
+          {
+            "naziv": "Mađari",
+            "polozaj": [
+              18.65,
+              45.75
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Talijani žive najviše u Istri, Česi oko Daruvara u zapadnoj Slavoniji, a Mađari u Baranji na sjeveroistoku.",
+      "savjet": "Dvije manjine žive blizu države svog naroda, a treća oko jednog grada u zapadnoj Slavoniji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-051",
+      "tezina": "srednje",
+      "pitanje": "Učenik talijanske manjine u Puli ide u školu u kojoj se nastava održava na talijanskom jeziku. Uči li on i hrvatski jezik?",
+      "ponudeni": [
+        "Ne, uči samo talijanski jezik",
+        "Uči samo engleski jezik",
+        "Da, uči i hrvatski jezik",
+        "Hrvatski uči tek u srednjoj školi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Učenici u školama nacionalnih manjina uče i hrvatski jezik jer je to službeni jezik Republike Hrvatske.",
+      "savjet": "Sjeti se koji je jezik službeni u cijeloj Hrvatskoj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-052",
+      "tezina": "srednje",
+      "pitanje": "Je li pogrešno ako baka kod kuće govori čakavskim narječjem?",
+      "ponudeni": [
+        "Ne, narječje je vrijedan dio hrvatskog jezika i baštine",
+        "Da, smije se govoriti samo standardnim jezikom",
+        "Da, čakavski je strani jezik",
+        "Ne, ali samo ako živi u Zagrebu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Narječja su dio hrvatskog jezika i naše baštine, pa ih je lijepo čuvati i njima govoriti.",
+      "savjet": "Razmisli čemu pripadaju štokavsko, kajkavsko i čakavsko narječje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-053",
+      "tezina": "srednje",
+      "pitanje": "Zašto je glagoljica važna Hrvatima?",
+      "ponudeni": [
+        "Danas njome pišemo u školi",
+        "Njome se pišu prometni znakovi",
+        "To je pismo engleskog jezika",
+        "To je staro hrvatsko pismo i dio naše baštine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagoljicom su Hrvati pisali davno u prošlosti, pa je ona važan dio hrvatske baštine.",
+      "savjet": "Razmisli piše li se glagoljicom danas ili se pisalo u prošlosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto država provodi popis stanovništva?",
+      "ponudeni": [
+        "Da odredi cijene u trgovinama",
+        "Da zabrani preseljenje",
+        "Da odluči tko smije putovati",
+        "Da zna koliko ljudi živi u kojem kraju i što im treba"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Popis pokazuje koliko ljudi gdje živi, pa država zna gdje treba više škola, vrtića ili bolnica.",
+      "savjet": "Razmisli čemu služi znati koliko je ljudi u nekom mjestu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-055",
+      "tezina": "srednje",
+      "pitanje": "Pripadnik srpske nacionalne manjine rođen je u Hrvatskoj i ondje živi. Što je točno?",
+      "ponudeni": [
+        "On je stranac u Hrvatskoj",
+        "On je građanin Hrvatske s jednakim pravima kao i drugi",
+        "On ne smije ići u školu",
+        "On mora živjeti u Srbiji"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripadnici nacionalnih manjina građani su Republike Hrvatske i imaju jednaka prava kao i ostali građani.",
+      "savjet": "Sjeti se da su nacionalne manjine dio stanovništva Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-056",
+      "tezina": "srednje",
+      "pitanje": "Hrvatski iseljenici u Kanadi osnivaju udruge i dopunske škole hrvatskog jezika. Zašto?",
+      "ponudeni": [
+        "Da djeca nauče hrvatski jezik i čuvaju običaje",
+        "Da djeca ne bi učila engleski jezik",
+        "Da bi Kanada postala dio Hrvatske",
+        "Da djeca ne bi išla u kanadske škole"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iseljenici žele da njihova djeca znaju hrvatski jezik i čuvaju običaje svojih predaka.",
+      "savjet": "Razmisli što se može izgubiti kad obitelj dugo živi u drugoj državi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-057",
+      "tezina": "srednje",
+      "pitanje": "Mnogo se ljudi doseljava u gradove. Što se zbog toga događa s gradovima?",
+      "ponudeni": [
+        "Gradovi rastu i grade se nove zgrade",
+        "Gradovi se smanjuju",
+        "U gradovima se zatvaraju škole",
+        "U gradovima nestaju poslovi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad se u gradove doseljava mnogo ljudi, gradovi rastu, a grade se nove zgrade, ceste i škole.",
+      "savjet": "Razmisli što treba ljudima koji tek dolaze živjeti u grad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-058",
+      "tezina": "srednje",
+      "pitanje": "Kako zajedničkim imenom nazivamo Hrvate i pripadnike nacionalnih manjina koji imaju hrvatsko državljanstvo?",
+      "ponudeni": [
+        "Turisti",
+        "Gosti",
+        "Građani Republike Hrvatske",
+        "Iseljenici"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svi koji imaju hrvatsko državljanstvo građani su Republike Hrvatske, bez obzira kojem narodu pripadaju.",
+      "savjet": "Razmisli kako se nazivaju ljudi koji pripadaju nekoj državi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-059",
+      "tezina": "srednje",
+      "pitanje": "Gdje se u Hrvatskoj obavezno upotrebljava službeni jezik?",
+      "ponudeni": [
+        "U školama, uredima i na službenim natpisima",
+        "Samo u obitelji",
+        "Samo u pjesmama",
+        "Samo u novinama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Službeni jezik upotrebljava se u školama, državnim uredima, sudovima i na službenim natpisima.",
+      "savjet": "Razmisli gdje se pišu važni dokumenti i obavijesti za sve građane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-060",
+      "tezina": "srednje",
+      "pitanje": "Na karti naseljenosti Ana vidi da je Lika rijetko naseljena, a okolica Zagreba gusto. Što to znači?",
+      "ponudeni": [
+        "Lika ima više stanovnika od okolice Zagreba",
+        "U Lici ne živi nitko",
+        "Okolica Zagreba ima manju površinu",
+        "U okolici Zagreba na istoj površini živi više ljudi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gusto naseljen kraj ima mnogo ljudi na istoj površini, a rijetko naseljen kraj malo ljudi.",
+      "savjet": "„Gusto“ i „rijetko“ govore o tome koliko je ljudi na istom komadu zemlje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-061",
+      "tezina": "tesko",
+      "pitanje": "Učenica iz Slavonije kaže „što“, a njezin prijatelj iz Hrvatskog zagorja „kaj“. Što je točno?",
+      "ponudeni": [
+        "Govore istim narječjem",
+        "Prijatelj govori stranim jezikom",
+        "Oboje govore narječjima hrvatskog jezika",
+        "Samo ona govori hrvatski jezik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ona govori štokavskim, a on kajkavskim narječjem. Oba su narječja dio hrvatskog jezika.",
+      "savjet": "Odredi kojim narječjem govori svatko od njih, a zatim razmisli čemu ta narječja pripadaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-062",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u nekim školama u Istri nastava održava na talijanskom, a u nekim školama u Daruvaru na češkom jeziku?",
+      "ponudeni": [
+        "Ondje je to obavezno za sve učenike",
+        "Te škole pripadaju Italiji i Češkoj",
+        "Ondje učenici ne uče hrvatski jezik",
+        "Ondje žive manjine koje se smiju školovati na svom jeziku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U Istri žive Talijani, a oko Daruvara Česi. Kao nacionalne manjine imaju pravo školovati se na svom jeziku.",
+      "savjet": "Razmisli tko živi u tim krajevima i koja prava ima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-063",
+      "tezina": "tesko",
+      "pitanje": "Talijani žive najviše u Istri, a Mađari u Baranji. Što je zajedničko tim dvama primjerima?",
+      "ponudeni": [
+        "Obje manjine žive u gorskim krajevima",
+        "Obje manjine žive blizu države svog naroda",
+        "Obje manjine žive na otocima",
+        "Obje manjine žive u Zagrebu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Istra je blizu Italije, a Baranja uz granicu s Mađarskom, pa obje manjine žive blizu države svog naroda.",
+      "savjet": "Pogledaj na karti gdje su ti krajevi i koje su države najbliže."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-064",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o nacionalnim manjinama u Hrvatskoj točna?",
+      "ponudeni": [
+        "Moraju govoriti samo svojim jezikom",
+        "Imaju jednaka prava kao ostali građani i pravo čuvati svoju kulturu",
+        "Ne smiju sudjelovati u radu Hrvatskog sabora",
+        "Smiju živjeti samo u jednom kraju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripadnici manjina ravnopravni su građani, a uz to imaju pravo čuvati svoj jezik, običaje i kulturu.",
+      "savjet": "Sjeti se da su manjine građani Hrvatske i koja im posebna prava pripadaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-065",
+      "tezina": "tesko",
+      "pitanje": "Mladi iz jednog ličkog sela odlaze u Zagreb studirati i ondje ostaju raditi. Što će se vjerojatno dogoditi sa selom?",
+      "ponudeni": [
+        "Postat će veliki grad",
+        "Dobit će novu bolnicu",
+        "U školi će biti sve više djece",
+        "U njemu će živjeti sve manje i sve stariji ljudi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad mladi odlaze, u selu ostaju uglavnom stariji ljudi, rađa se manje djece i selo se postupno prazni.",
+      "savjet": "Razmisli tko ostaje u selu kad mladi odu i hoće li ondje biti djece."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-066",
+      "tezina": "tesko",
+      "pitanje": "Hrvati u Bosni i Hercegovini ondje žive stoljećima. Koja je tvrdnja o njima točna?",
+      "ponudeni": [
+        "Oni su turisti u Bosni i Hercegovini",
+        "Oni su nacionalna manjina u Hrvatskoj",
+        "Oni su jedan od tri naroda BiH, a ne iseljenici",
+        "Oni su se ondje nedavno doselili"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvati su uz Bošnjake i Srbe jedan od tri naroda Bosne i Hercegovine. Ondje žive stoljećima, pa nisu iseljenici.",
+      "savjet": "Iseljenik je netko tko je otišao iz domovine. Je li to slučaj s ljudima koji negdje žive stoljećima?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-067",
+      "tezina": "tesko",
+      "pitanje": "Netko kaže: „U Hrvatskoj se smije čuti samo hrvatski jezik.“ Zašto ta tvrdnja nije točna?",
+      "ponudeni": [
+        "Jer je službeni jezik engleski",
+        "Jer manjine smiju upotrebljavati svoj jezik, npr. u školi i na natpisima",
+        "Jer se hrvatski govori samo u Zagrebu",
+        "Jer svatko mora znati tri jezika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatski je službeni jezik, ali nacionalne manjine imaju pravo upotrebljavati svoj jezik u školama, udrugama i na dvojezičnim natpisima.",
+      "savjet": "Sjeti se dvojezičnih natpisa i škola nacionalnih manjina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-068",
+      "tezina": "tesko",
+      "pitanje": "Na kamenoj ploči u staroj crkvi na otoku Krku uklesana su slova koja ne nalikuju današnjima. Koje je to pismo najvjerojatnije?",
+      "ponudeni": [
+        "Latinica",
+        "Glagoljica",
+        "Brajevo pismo",
+        "Morseova abeceda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stari hrvatski natpisi u crkvama, poput Bašćanske ploče na Krku, pisani su glagoljicom.",
+      "savjet": "Isključi pismo kojim i danas pišemo, a zatim razmisli kojim su pisali stari Hrvati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-069",
+      "tezina": "tesko",
+      "pitanje": "Učenici iz Zagorja, Istre i Slavonije zajedno pišu školske novine. Kojim će jezikom pisati da ih svi čitatelji razumiju?",
+      "ponudeni": [
+        "Kajkavskim narječjem",
+        "Čakavskim narječjem",
+        "Svatko svojim narječjem, bez razlike",
+        "Hrvatskim standardnim jezikom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Standardni jezik zajednički je svim Hrvatima, pa se njime pišu novine, knjige i udžbenici koje svi razumiju.",
+      "savjet": "Razmisli kojim su jezikom napisani tvoji udžbenici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-070",
+      "tezina": "tesko",
+      "pitanje": "Smjesti svako narječje na kraj Hrvatske u kojem se njime mnogo govori.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Kajkavsko narječje",
+            "polozaj": [
+              15.95,
+              46.08
+            ]
+          },
+          {
+            "naziv": "Čakavsko narječje",
+            "polozaj": [
+              13.9,
+              45.25
+            ]
+          },
+          {
+            "naziv": "Štokavsko narječje",
+            "polozaj": [
+              17.9,
+              45.35
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Kajkavskim narječjem govori se u Hrvatskom zagorju, čakavskim u Istri, a štokavskim u Slavoniji.",
+      "savjet": "Sjeti se kako se pita „što“ na sjeverozapadu, na poluotoku na zapadu i na istoku Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-071",
+      "tezina": "tesko",
+      "pitanje": "Zašto gradu u kojem živi mnogo ljudi treba više autobusa, škola i vrtića nego malom selu?",
+      "ponudeni": [
+        "Jer ondje živi više ljudi kojima to treba",
+        "Jer su gradske ulice duže",
+        "Jer gradska djeca ne vole hodati",
+        "Jer na selu živi više djece"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gdje živi više ljudi, ima i više djece i putnika, pa je potrebno više škola, vrtića i prijevoza.",
+      "savjet": "Razmisli kako broj stanovnika utječe na to što jedno mjesto treba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-072",
+      "tezina": "tesko",
+      "pitanje": "Dijete se iz Slavonije preselilo u okolicu Rijeke i ondje čuje drukčiji govor. Što je najbolje zaključiti?",
+      "ponudeni": [
+        "Ondje se piše glagoljicom",
+        "Ljudi ondje govore drugim narječjem hrvatskog jezika",
+        "Ondje je službeni jezik drukčiji",
+        "Ondje govore stranim jezikom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U okolici Rijeke mnogi govore čakavskim narječjem, a u Slavoniji štokavskim. Oba su narječja hrvatskog jezika.",
+      "savjet": "Sjeti se da hrvatski jezik ima više narječja koja se govore u različitim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-073",
+      "tezina": "tesko",
+      "pitanje": "Hrvat, pripadnica talijanske manjine i pripadnik češke manjine žive u Hrvatskoj. Kojim jezikom svi mogu razgovarati u uredima diljem države?",
+      "ponudeni": [
+        "Talijanskim jezikom",
+        "Češkim jezikom",
+        "Hrvatskim jezikom",
+        "Engleskim jezikom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski je službeni jezik u cijeloj Hrvatskoj, pa se njime služe svi uredi i svi građani.",
+      "savjet": "Razmisli koji jezik vrijedi u cijeloj državi, a ne samo u jednom kraju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-074",
+      "tezina": "tesko",
+      "pitanje": "U jednom selu u Baranji natpisi su na hrvatskom i mađarskom, a u jednom mjestu u Istri na hrvatskom i talijanskom. Što zaključuješ?",
+      "ponudeni": [
+        "Ta mjesta pripadaju susjednim državama",
+        "Ondje ljudi ne govore hrvatski",
+        "Ondje živi mnogo stranih turista",
+        "Ondje žive manjine koje smiju koristiti svoj jezik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvojezični natpisi postavljaju se ondje gdje žive pripadnici nacionalnih manjina, jer imaju pravo upotrebljavati svoj jezik.",
+      "savjet": "Razmisli koje nacionalne manjine žive u ta dva kraja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-075",
+      "tezina": "tesko",
+      "pitanje": "Ljeti je u nekim primorskim mjestima mnogo više ljudi nego zimi. Jesu li svi oni stanovnici tih mjesta?",
+      "ponudeni": [
+        "Da, svi su stalni stanovnici",
+        "Ne, mnogi su turisti koji ondje ne žive stalno",
+        "Da, ljeti se ondje rodi mnogo djece",
+        "Ne, svi su hrvatski iseljenici"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stanovnici su ljudi koji negdje stalno žive. Turisti dolaze samo na odmor, pa se ne ubrajaju u stanovnike.",
+      "savjet": "Razmisli tko u nekom mjestu živi cijelu godinu, a tko dolazi samo na kratko."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-076",
+      "tezina": "tesko",
+      "pitanje": "Koji je par točan: koji je kraj gusto naseljen, a koji rijetko?",
+      "ponudeni": [
+        "Lika gusto, okolica Splita rijetko",
+        "Mali otoci gusto, Osijek rijetko",
+        "Okolica Zagreba gusto, Gorski kotar rijetko",
+        "Gorski kotar gusto, okolica Zagreba rijetko"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Okolica Zagreba gusto je naseljena jer je ondje mnogo poslova, a Gorski kotar rijetko jer je ondje život u planinama teži.",
+      "savjet": "Usporedi velike gradove s planinskim krajevima i malim otocima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto u Hrvatskoj postoje različita narječja iako svi govore hrvatskim jezikom?",
+      "ponudeni": [
+        "Ljudi su dugo živjeli u različitim krajevima pa se govor različito razvijao",
+        "Svaki kraj ima drugačiju abecedu",
+        "Narječja su izmislili učitelji",
+        "Svaki je kraj preuzeo jezik susjedne države"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljudi u različitim krajevima stoljećima su živjeli dosta odvojeno, pa se njihov govor razvijao na različite načine.",
+      "savjet": "Razmisli kako su ljudi nekad putovali i koliko su se družili s udaljenim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-078",
+      "tezina": "tesko",
+      "pitanje": "Zašto kažemo da je stanovništvo Hrvatske raznoliko?",
+      "ponudeni": [
+        "Uz Hrvate žive pripadnici različitih manjina i govore se različita narječja",
+        "Svi stanovnici žive u istom gradu",
+        "Svi stanovnici govore istim narječjem",
+        "U Hrvatskoj žive samo mladi ljudi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Hrvatskoj uz Hrvate žive pripadnici mnogih nacionalnih manjina, a u različitim krajevima govore se različita narječja.",
+      "savjet": "Raznolikost znači da postoje razlike. Sjeti se po čemu se razlikuju stanovnici Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-079",
+      "tezina": "tesko",
+      "pitanje": "Što bi se moglo dogoditi s kajkavskim i čakavskim govorom kad ga mladi više ne bi koristili?",
+      "ponudeni": [
+        "Mogli bi se s vremenom zaboraviti",
+        "Postali bi službeni jezik",
+        "Pretvorili bi se u latinicu",
+        "Postali bi strani jezici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Govor koji nitko ne prenosi mlađima postupno nestaje, zato je važno čuvati narječja.",
+      "savjet": "Razmisli kako se govor prenosi s bake i djeda na unuke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-080",
+      "tezina": "tesko",
+      "pitanje": "Učenici škole češke manjine u Daruvaru izrađuju pozivnicu na dvama jezicima. Koji su to jezici najvjerojatnije?",
+      "ponudeni": [
+        "Hrvatski i talijanski",
+        "Hrvatski i mađarski",
+        "Češki i engleski",
+        "Hrvatski i češki"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Učenici škole češke manjine uče na češkom jeziku, a hrvatski je službeni jezik, pa pozivnicu pišu na hrvatskom i češkom.",
+      "savjet": "Jedan jezik je službeni u cijeloj državi, a drugi je jezik manjine kojoj škola pripada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-081",
+      "tezina": "tesko",
+      "pitanje": "Kad bi se mnogo obitelji iz gradova preselilo na selo, što bi se ondje vjerojatno dogodilo?",
+      "ponudeni": [
+        "Zatvorile bi se škole",
+        "Sela bi se ispraznila",
+        "Otvorilo bi se više trgovina, vrtića i škola",
+        "Smanjio bi se broj djece"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gdje ima više stanovnika, ima i više djece i kupaca, pa se otvaraju nove škole, vrtići i trgovine.",
+      "savjet": "Razmisli što treba obiteljima s djecom koje se negdje dosele."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-082",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer opisuje hrvatskog iseljenika?",
+      "ponudeni": [
+        "Marko se iz Hrvatske odselio u Kanadu i ondje radi",
+        "Turist iz Njemačke ljetuje u Hrvatskoj",
+        "Obitelj iz Osijeka preselila se u Zagreb",
+        "Djevojčica talijanske manjine živi u Puli"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iseljenik je osoba koja je iz svoje domovine otišla živjeti u drugu državu, kao Marko u Kanadu.",
+      "savjet": "Iseljenik napušta svoju državu. Provjeri tko je od njih otišao iz Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-083",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer opisuje pripadnicu ili pripadnika nacionalne manjine u Hrvatskoj?",
+      "ponudeni": [
+        "Turistkinja iz Mađarske ljetuje u Hrvatskoj",
+        "Hrvat koji živi u Kanadi",
+        "Talijanski vozač prolazi kroz Hrvatsku",
+        "Djevojčica iz Baranje čija je obitelj mađarske narodnosti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pripadnici nacionalnih manjina stalno žive u Hrvatskoj, a pripadaju drugom narodu, kao djevojčica mađarske narodnosti iz Baranje.",
+      "savjet": "Pripadnik manjine u Hrvatskoj ondje stalno živi, a nije samo u prolazu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-084",
+      "tezina": "tesko",
+      "pitanje": "Zašto natpisi u Istri nisu samo na talijanskom jeziku, iako ondje živi talijanska manjina?",
+      "ponudeni": [
+        "Jer je talijanski jezik u Hrvatskoj zabranjen",
+        "Jer je hrvatski službeni jezik u cijeloj Hrvatskoj",
+        "Jer Talijani ne žive u Istri",
+        "Jer se talijanski preteško piše"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatski jezik službeni je u cijeloj državi, pa je na natpisima uz jezik manjine i hrvatski jezik.",
+      "savjet": "Sjeti se koji jezik vrijedi u svim dijelovima Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-085",
+      "tezina": "tesko",
+      "pitanje": "Talijanska i češka manjina pišu na svojim jezicima. Kojim pismom pišu?",
+      "ponudeni": [
+        "Glagoljicom",
+        "Ćirilicom",
+        "Latinicom, kao i hrvatski jezik",
+        "Grčkim pismom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Talijanski i češki jezik pišu se latinicom, kao i hrvatski, ali svaki ima neka svoja posebna slova.",
+      "savjet": "Sjeti se natpisa „Rovinj – Rovigno“ i usporedi slova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-086",
+      "tezina": "tesko",
+      "pitanje": "Zagreb, Split, Rijeka i Osijek imaju mnogo stanovnika. Što im je zajedničko?",
+      "ponudeni": [
+        "Svi su u gorskim krajevima",
+        "Svi su na otocima",
+        "Svi su važna središta s mnogo poslova i škola",
+        "Svi su uz Jadransko more"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ti su gradovi važna središta svojih krajeva, s mnogo poslova, škola i bolnica, pa privlače stanovnike.",
+      "savjet": "Razmisli što privlači ljude da se dosele u neki grad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-087",
+      "tezina": "tesko",
+      "pitanje": "Ivana je rođena u Australiji, a roditelji su joj se doselili iz Hrvatske. Kod kuće govore hrvatski. Što je točno?",
+      "ponudeni": [
+        "Ivana je pripadnica nacionalne manjine u Hrvatskoj",
+        "Ivana je doseljenica u Hrvatsku",
+        "Ivana ne može naučiti hrvatski jezik",
+        "Ivana je hrvatskog podrijetla i čuva hrvatski jezik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ivanini roditelji su hrvatski iseljenici, a ona je hrvatskog podrijetla i kod kuće čuva hrvatski jezik.",
+      "savjet": "Razmisli odakle potječu Ivanini roditelji i gdje ona živi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-088",
+      "tezina": "tesko",
+      "pitanje": "Mnogi mladi ljudi odselili su se iz Hrvatske u druge države. Zašto je to problem za Hrvatsku?",
+      "ponudeni": [
+        "Manje je mladih radnika i djece",
+        "Država dobiva previše stanovnika",
+        "U gradovima je veća gužva",
+        "Mora se graditi više škola"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad mladi odu, u zemlji ostaje manje radnika, rađa se manje djece, a udio starijih stanovnika raste.",
+      "savjet": "Razmisli tko radi i tko ima djecu, a tko je otišao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-089",
+      "tezina": "tesko",
+      "pitanje": "Zašto ljudi iz gorskih krajeva često putuju u veće gradove k liječniku ili u srednju školu?",
+      "ponudeni": [
+        "Jer su u gorskim krajevima škole zabranjene",
+        "Jer liječnici ne vole planine",
+        "Jer je u gradovima toplije",
+        "Jer u rijetko naseljenim krajevima ima malo bolnica i srednjih škola"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U rijetko naseljenim krajevima živi premalo ljudi za mnogo bolnica i srednjih škola, pa se one nalaze u većim gradovima.",
+      "savjet": "Poveži broj stanovnika nekog kraja s brojem škola i bolnica u njemu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-stanovnistvo-jezik-i-pismo-090",
+      "tezina": "tesko",
+      "pitanje": "Učenik u sastavku napiše kajkavsku rečenicu „Kaj si delal?“ Kako ona glasi na hrvatskom standardnom jeziku?",
+      "ponudeni": [
+        "Što si radio?",
+        "Ča si delal?",
+        "Kaj si radio?",
+        "Šta si delal?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U standardnom jeziku „kaj“ je „što“, a „delal“ je „radio“, pa rečenica glasi „Što si radio?“.",
+      "savjet": "Zamijeni obje kajkavske riječi riječima koje pišeš u školi."
+    }
+  ]
+}

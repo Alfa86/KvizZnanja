@@ -1,0 +1,1419 @@
+{
+  "lekcijaId": "zagreb-glavni-grad",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-001",
+      "tezina": "lagano",
+      "pitanje": "Koji je grad glavni grad Republike Hrvatske?",
+      "ponudeni": [
+        "Split",
+        "Zagreb",
+        "Rijeka",
+        "Osijek"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zagreb je glavni grad Republike Hrvatske. U njemu se nalaze najvažnije državne ustanove.",
+      "savjet": "Sjeti se u kojem gradu rade Hrvatski sabor i Vlada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-002",
+      "tezina": "lagano",
+      "pitanje": "Na kojoj rijeci leži Zagreb?",
+      "ponudeni": [
+        "Na Dravi",
+        "Na Kupi",
+        "Na Savi",
+        "Na Dunavu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zagreb leži na rijeci Savi. Južno od Save nalazi se dio grada koji se zove Novi Zagreb.",
+      "savjet": "To je rijeka koja teče kroz središnju Hrvatsku i prolazi i kroz Sisak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-003",
+      "tezina": "lagano",
+      "pitanje": "Koji je grad najveći grad u Hrvatskoj po broju stanovnika?",
+      "ponudeni": [
+        "Rijeka",
+        "Osijek",
+        "Split",
+        "Zagreb"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagreb je najveći hrvatski grad. U njemu živi najviše stanovnika u Hrvatskoj.",
+      "savjet": "Razmisli u koji grad mnogi ljudi dolaze raditi i studirati jer su u njemu državne ustanove."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove glavni trg u središtu Zagreba?",
+      "ponudeni": [
+        "Trg bana Jelačića",
+        "Narodni trg",
+        "Pjaca",
+        "Trg slobode"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glavni zagrebački trg je Trg bana Jelačića. Na njemu stoji kip bana Josipa Jelačića na konju.",
+      "savjet": "Trg je dobio ime po hrvatskom banu čiji kip na konju stoji na njemu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-005",
+      "tezina": "lagano",
+      "pitanje": "Na kojem se zagrebačkom trgu nalaze zgrade Hrvatskog sabora i Vlade Republike Hrvatske?",
+      "ponudeni": [
+        "Na Trgu bana Jelačića",
+        "Na Trgu kralja Tomislava",
+        "Na Markovu trgu",
+        "Na Trgu Republike Hrvatske"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski sabor i Vlada nalaze se na Markovu trgu na Gornjem gradu. Trg je dobio ime po crkvi sv. Marka koja stoji u njegovoj sredini.",
+      "savjet": "Taj se trg nalazi na Gornjem gradu i nosi ime po crkvi u svojoj sredini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-006",
+      "tezina": "lagano",
+      "pitanje": "Koja zagrebačka crkva ima na krovu grbove složene od crijepa u boji?",
+      "ponudeni": [
+        "Zagrebačka katedrala",
+        "Crkva sv. Marka",
+        "Crkva sv. Vlaha",
+        "Crkva sv. Donata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Crkva sv. Marka na Gornjem gradu poznata je po šarenom krovu. Na njemu su grb Zagreba i stari grb Hrvatske, Dalmacije i Slavonije.",
+      "savjet": "Ta crkva stoji između zgrada Sabora i Vlade."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je zagrebačka građevina poznata po dva visoka šiljasta tornja?",
+      "ponudeni": [
+        "Kula Lotrščak",
+        "Hrvatsko narodno kazalište",
+        "Crkva sv. Marka",
+        "Zagrebačka katedrala"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagrebačka katedrala ima dva visoka šiljasta tornja. Vide se iz mnogih dijelova grada.",
+      "savjet": "Riječ je o najvećoj crkvi u gradu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-008",
+      "tezina": "lagano",
+      "pitanje": "U kojem se dijelu Zagreba nalazi zagrebačka katedrala?",
+      "ponudeni": [
+        "Na Kaptolu",
+        "U Novom Zagrebu",
+        "U Maksimiru",
+        "Na Jarunu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Katedrala se nalazi na Kaptolu. Kaptol je jedan od dva najstarija dijela Zagreba.",
+      "savjet": "Sjeti se dva najstarija dijela Zagreba na brežuljcima iznad Donjeg grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-009",
+      "tezina": "lagano",
+      "pitanje": "Što se svaki dan u podne događa na kuli Lotrščak?",
+      "ponudeni": [
+        "Zasvira gradska glazba",
+        "Podigne se zastava",
+        "Opali top Grič",
+        "Upali se svjetlo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "S kule Lotrščak svaki dan u podne opali top Grič. Po tom pucnju Zagrepčani znaju da je podne.",
+      "savjet": "Čuje se jak prasak koji odjekuje središtem grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-010",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove glavna tržnica u središtu Zagreba, poznata po crvenim suncobranima?",
+      "ponudeni": [
+        "Velesajam",
+        "Dolac",
+        "Pjaca",
+        "Ribarnica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dolac je glavna zagrebačka tržnica. Nalazi se blizu glavnog trga, podno katedrale.",
+      "savjet": "Tržnica se nalazi između glavnog trga i Kaptola."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-011",
+      "tezina": "lagano",
+      "pitanje": "U kojem se velikom zagrebačkom parku nalazi zoološki vrt?",
+      "ponudeni": [
+        "U Zrinjevcu",
+        "Na Mirogoju",
+        "Na Dolcu",
+        "U Maksimiru"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zoološki vrt nalazi se u parku Maksimir. Maksimir je velik park sa šumom, livadama i jezerima.",
+      "savjet": "Taj park ima isto ime kao i poznati zagrebački nogometni stadion."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-012",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove poznato zagrebačko groblje s dugim arkadama?",
+      "ponudeni": [
+        "Mirogoj",
+        "Maksimir",
+        "Kaptol",
+        "Zrinjevac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mirogoj je zagrebačko groblje poznato po arkadama i kupolama. Na njemu su pokopani mnogi poznati Hrvati.",
+      "savjet": "Naziv tog mjesta u sebi skriva riječ koja znači spokoj i tišinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-013",
+      "tezina": "lagano",
+      "pitanje": "Koje prijevozno sredstvo vozi strmo uzbrdo i povezuje Donji grad s Gornjim gradom?",
+      "ponudeni": [
+        "Tramvaj",
+        "Žičara",
+        "Uspinjača",
+        "Vlak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uspinjača povezuje Donji i Gornji grad. Vozi po tračnicama strmo uzbrdo i nizbrdo.",
+      "savjet": "Naziv tog vozila dolazi od glagola koji znači penjati se."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-014",
+      "tezina": "lagano",
+      "pitanje": "Čije je sjedište u Banskim dvorima na Markovu trgu?",
+      "ponudeni": [
+        "Hrvatskog narodnog kazališta",
+        "Vlade Republike Hrvatske",
+        "Sveučilišta u Zagrebu",
+        "Hrvatskog sabora"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Banskim dvorima nalazi se Vlada Republike Hrvatske. Hrvatski sabor nalazi se u zgradi preko puta, na istom trgu.",
+      "savjet": "Nekad su ondje stolovali banovi, koji su upravljali Hrvatskom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-015",
+      "tezina": "lagano",
+      "pitanje": "Gdje se donose zakoni Republike Hrvatske?",
+      "ponudeni": [
+        "U Hrvatskom narodnom kazalištu",
+        "U zagrebačkoj katedrali",
+        "Na tržnici Dolac",
+        "U Hrvatskom saboru"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zakone donose zastupnici u Hrvatskom saboru. Sabor se nalazi na Markovu trgu u Zagrebu.",
+      "savjet": "Sjeti se gdje se sastaju zastupnici koje biraju građani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-016",
+      "tezina": "lagano",
+      "pitanje": "Što je Hrvatsko narodno kazalište u Zagrebu?",
+      "ponudeni": [
+        "Kazalište u kojem se izvode drame, opere i baleti",
+        "Muzej u kojem se čuvaju stari strojevi",
+        "Knjižnica u kojoj se posuđuju knjige",
+        "Dvorana u kojoj se igraju utakmice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatsko narodno kazalište (HNK) izvodi drame, opere i balete. Zbog takvih ustanova Zagreb je kulturno središte.",
+      "savjet": "Pažljivo pročitaj ime te ustanove."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove stari ulaz u Gornji grad u kojem ljudi pale svijeće i mole se?",
+      "ponudeni": [
+        "Zlatna vrata",
+        "Vrata od Pila",
+        "Kamenita vrata",
+        "Kopnena vrata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kamenita vrata stari su ulaz u Gornji grad. U njima je kapelica sa slikom Majke Božje, zaštitnice Zagreba.",
+      "savjet": "Ime tih vrata govori od čega su sagrađena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-018",
+      "tezina": "lagano",
+      "pitanje": "Koje javno prijevozno sredstvo vozi po tračnicama ulicama Zagreba?",
+      "ponudeni": [
+        "Metro",
+        "Trolejbus",
+        "Brod",
+        "Tramvaj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ulicama Zagreba voze tramvaji. Zajedno s autobusima prevoze ljude kroz cijeli grad.",
+      "savjet": "Sjeti se plavih vozila koja zvone kad kreću sa stanice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-019",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove park u Donjem gradu poznat po glazbenom paviljonu i starim platanama?",
+      "ponudeni": [
+        "Maksimir",
+        "Zrinjevac",
+        "Jarun",
+        "Mirogoj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zrinjevac je park u Donjem gradu sa starim platanama i glazbenim paviljonom. Dio je niza parkova koji zovemo Zelena potkova.",
+      "savjet": "Taj je park nazvan po poznatoj hrvatskoj plemićkoj obitelji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-020",
+      "tezina": "lagano",
+      "pitanje": "Koje se jezero u Zagrebu koristi za veslanje, kupanje i šetnju?",
+      "ponudeni": [
+        "Jarun",
+        "Peruća",
+        "Vransko jezero",
+        "Plitvička jezera"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jarun je jezero uz Savu u Zagrebu. Ljudi ondje veslaju, kupaju se, voze bicikl i šeću.",
+      "savjet": "Potraži jezero koje se nalazi u samom gradu, a ne u drugom kraju Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-021",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove najveća hrvatska knjižnica, smještena u Zagrebu?",
+      "ponudeni": [
+        "Banski dvori",
+        "Hrvatsko narodno kazalište",
+        "Nacionalna i sveučilišna knjižnica",
+        "Kula Lotrščak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nacionalna i sveučilišna knjižnica u Zagrebu čuva knjige iz cijele Hrvatske. Služi i studentima Sveučilišta.",
+      "savjet": "Potraži naziv u kojem se spominje riječ knjižnica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-022",
+      "tezina": "lagano",
+      "pitanje": "U kojem se dijelu Hrvatske nalazi Zagreb?",
+      "ponudeni": [
+        "Na jugu, uz Jadransko more",
+        "Na sjeverozapadu Hrvatske",
+        "Na istoku, uz Dunav",
+        "Na zapadu, u Istri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zagreb se nalazi na sjeverozapadu Hrvatske, na rijeci Savi. Blizu je granice sa Slovenijom.",
+      "savjet": "Sjeti se da Zagreb nije uz more i da leži na Savi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-023",
+      "tezina": "lagano",
+      "pitanje": "Koja su dva najstarija dijela Zagreba?",
+      "ponudeni": [
+        "Novi Zagreb i Dubrava",
+        "Maksimir i Jarun",
+        "Trnje i Trešnjevka",
+        "Gornji grad i Kaptol"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagreb je nastao od dva stara naselja na brežuljcima: Gradeca (današnjeg Gornjeg grada) i Kaptola. Kasnije su spojeni u jedan grad.",
+      "savjet": "Najstariji dijelovi grada nalaze se na brežuljcima, gdje su katedrala i crkva sv. Marka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-024",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu Hrvatske glavni grad i još tri velika grada.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Rijeka",
+            "polozaj": [
+              14.44,
+              45.33
+            ]
+          },
+          {
+            "naziv": "Osijek",
+            "polozaj": [
+              18.69,
+              45.55
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Zagreb leži na Savi na sjeverozapadu, Osijek na istoku na Dravi, Rijeka na sjevernom dijelu obale, a Split na jugu, u Dalmaciji.",
+      "savjet": "Glavni grad je u unutrašnjosti na sjeverozapadu; jedan grad je na istoku, a dva su uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-025",
+      "tezina": "lagano",
+      "pitanje": "Koja vrsta prometa polazi s Glavnog kolodvora u Zagrebu?",
+      "ponudeni": [
+        "Željeznički promet",
+        "Zračni promet",
+        "Pomorski promet",
+        "Riječni promet"
+      ],
+      "tocan": 0,
+      "objasnjenje": "S Glavnog kolodvora polaze vlakovi, dakle željeznički promet. Vlakovi iz Zagreba voze u mnoge dijelove Hrvatske i u druge zemlje.",
+      "savjet": "Sjeti se što polazi s kolodvora i po čemu vozi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-026",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo grad u kojem se nalaze sjedišta najvažnijih državnih ustanova?",
+      "ponudeni": [
+        "Lučki grad",
+        "Stari grad",
+        "Glavni grad",
+        "Pogranični grad"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Grad u kojem su sjedišta Sabora, Vlade i drugih državnih ustanova zove se glavni grad. Glavni grad Hrvatske je Zagreb.",
+      "savjet": "Sjeti se kako se zove ova lekcija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-027",
+      "tezina": "lagano",
+      "pitanje": "Koja obrazovna ustanova u Zagrebu ima mnogo fakulteta na kojima studiraju mladi?",
+      "ponudeni": [
+        "Hrvatski sabor",
+        "Sveučilište u Zagrebu",
+        "Zoološki vrt",
+        "Hrvatsko narodno kazalište"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sveučilište u Zagrebu ima mnogo fakulteta. Zbog njega Zagreb je važno obrazovno središte Hrvatske.",
+      "savjet": "Studenti uče na fakultetima koji zajedno čine jednu veliku ustanovu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-028",
+      "tezina": "lagano",
+      "pitanje": "U Zagrebu se održavaju velike utakmice i sportska natjecanja. Kakvo je središte Zagreb po tome?",
+      "ponudeni": [
+        "Zdravstveno središte",
+        "Prometno središte",
+        "Upravno središte",
+        "Sportsko središte"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagreb ima stadione, dvorane i sportske terene na kojima se održavaju velika natjecanja. Zato je sportsko središte Hrvatske.",
+      "savjet": "Razmisli što se događa na utakmicama i natjecanjima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-029",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo stanovnike Zagreba?",
+      "ponudeni": [
+        "Zagrepčani",
+        "Zagrebljani",
+        "Zagrepci",
+        "Zagrebci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stanovnici Zagreba su Zagrepčani. Glas b ispred č prelazi u p, pa ne kažemo Zagrebčani.",
+      "savjet": "Sjeti se kako se zovu stanovnici Splita i Osijeka pa naziv izvedi na sličan način."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-030",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dio Zagreba koji se nalazi južno od rijeke Save?",
+      "ponudeni": [
+        "Gornji grad",
+        "Kaptol",
+        "Novi Zagreb",
+        "Donji grad"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Južno od Save nalazi se Novi Zagreb. To je mlađi dio grada s mnogo stambenih naselja.",
+      "savjet": "Taj je dio grada mlađi od ostalih, što govori i njegovo ime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto kažemo da je Zagreb prometno središte Hrvatske?",
+      "ponudeni": [
+        "U njemu je velika morska luka za brodove",
+        "U njemu se spajaju važne ceste i pruge, a ima i zračnu luku",
+        "U njemu je najviše parkova i jezera",
+        "U njemu se nalazi najviše muzeja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Zagrebu se spajaju važne autoceste i željezničke pruge, a blizu grada je i zračna luka. Iz Zagreba se lako stiže u sve dijelove Hrvatske.",
+      "savjet": "Promet znači putovanje cestom, prugom, zrakom ili vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-032",
+      "tezina": "srednje",
+      "pitanje": "U Zagrebu su Vlada i ministarstva koji upravljaju poslovima cijele države. Kakvo je središte Zagreb po tome?",
+      "ponudeni": [
+        "Kulturno",
+        "Sportsko",
+        "Zdravstveno",
+        "Upravno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vlada i ministarstva upravljaju poslovima države. Zato je Zagreb upravno središte Hrvatske.",
+      "savjet": "Pronađi riječ koja je srodna glagolu upravljati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-033",
+      "tezina": "srednje",
+      "pitanje": "Koje ustanove pokazuju da je Zagreb kulturno središte Hrvatske?",
+      "ponudeni": [
+        "Kazališta, muzeji i galerije",
+        "Bolnice i ljekarne",
+        "Kolodvori i zračna luka",
+        "Sabor i ministarstva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kazališta, muzeji i galerije čuvaju i prikazuju umjetnost i baštinu. Zagreb ih ima mnogo, pa je kulturno središte.",
+      "savjet": "Kultura obuhvaća umjetnost, predstave i čuvanje baštine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-034",
+      "tezina": "srednje",
+      "pitanje": "Mnogi mladi iz cijele Hrvatske nakon srednje škole odlaze u Zagreb. Koji je najčešći razlog?",
+      "ponudeni": [
+        "Ondje se nalazi more za ljetovanje",
+        "Ondje su najviše planine za skijanje",
+        "Ondje studiraju na fakultetima Sveučilišta",
+        "Ondje rade u Hrvatskom saboru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Zagrebu je Sveučilište s mnogo fakulteta. Mladi ondje dolaze studirati, pa je Zagreb obrazovno središte.",
+      "savjet": "Razmisli gdje se mladi školuju nakon srednje škole."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-035",
+      "tezina": "srednje",
+      "pitanje": "Bolesnika iz manjeg mjesta liječnik je uputio na liječenje u Zagreb. Zašto baš u Zagreb?",
+      "ponudeni": [
+        "U Zagrebu je zrak čišći nego drugdje",
+        "U Zagrebu su velike bolnice s liječnicima specijalistima",
+        "U Zagrebu se nalazi Hrvatski sabor",
+        "U Zagrebu je najviše parkova za šetnju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Zagrebu su velike bolnice i klinike u kojima rade liječnici specijalisti. Zato je Zagreb zdravstveno središte Hrvatske.",
+      "savjet": "Razmisli što je potrebno za liječenje teže bolesti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-036",
+      "tezina": "srednje",
+      "pitanje": "U Zagrebu se igra velika rukometna utakmica s tisućama gledatelja. Gdje bi se mogla igrati?",
+      "ponudeni": [
+        "U Areni Zagreb",
+        "U Hrvatskom narodnom kazalištu",
+        "Na tržnici Dolac",
+        "U kuli Lotrščak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Arena Zagreb velika je sportska dvorana. U njoj se održavaju utakmice i koncerti, pa pokazuje da je Zagreb i sportsko središte.",
+      "savjet": "Za utakmicu s mnogo gledatelja treba velika dvorana s igralištem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-037",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se razlikuje položaj Gornjeg grada od položaja Donjeg grada?",
+      "ponudeni": [
+        "Gornji grad je u ravnici, a Donji grad na brežuljku",
+        "Gornji grad je uz more, a Donji grad uz rijeku",
+        "Gornji grad je južno od Save, a Donji grad sjeverno",
+        "Gornji grad je na brežuljku, a Donji grad u ravnici ispod njega"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gornji grad leži na brežuljku, a Donji grad u ravnici podno njega. Zato ih povezuju strme ulice, stube i uspinjača.",
+      "savjet": "Imena tih dijelova grada govore koji je od njih viši."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-038",
+      "tezina": "srednje",
+      "pitanje": "Kakvo je naselje nekad bio Kaptol?",
+      "ponudeni": [
+        "Ribarsko naselje uz more",
+        "Crkveno naselje oko katedrale",
+        "Rudarsko naselje u planini",
+        "Vojna utvrda na otoku u Savi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kaptol je nastao oko katedrale i u njemu su živjeli biskup i svećenici. I danas je ondje sjedište zagrebačke nadbiskupije.",
+      "savjet": "Sjeti se koja se velika građevina nalazi na Kaptolu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-039",
+      "tezina": "srednje",
+      "pitanje": "Koji par točno povezuje zagrebačku znamenitost i dio grada u kojem se nalazi?",
+      "ponudeni": [
+        "Crkva sv. Marka – Novi Zagreb",
+        "Zrinjevac – Gornji grad",
+        "Katedrala – Kaptol",
+        "Kula Lotrščak – Maksimir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Katedrala se nalazi na Kaptolu. Crkva sv. Marka i Lotrščak su na Gornjem gradu, a Zrinjevac u Donjem gradu.",
+      "savjet": "Za svaki par razmisli je li znamenitost na brežuljku, u ravnici ili južno od Save."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-040",
+      "tezina": "srednje",
+      "pitanje": "Što prikazuju crijepovi u boji na krovu crkve sv. Marka?",
+      "ponudeni": [
+        "Kartu Republike Hrvatske",
+        "Lica poznatih svetaca",
+        "Veliki sunčani sat",
+        "Grb Zagreba i stari grb Hrvatske, Dalmacije i Slavonije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na krovu crkve sv. Marka složena su dva grba: grb Zagreba i stari grb Hrvatske, Dalmacije i Slavonije. Zato je ta crkva prepoznatljiva znamenitost.",
+      "savjet": "Sjeti se znakova po kojima se prepoznaju gradovi i zemlje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-041",
+      "tezina": "srednje",
+      "pitanje": "Zašto ljudi u Kamenitim vratima pale svijeće i mole se?",
+      "ponudeni": [
+        "Ondje je slika Majke Božje koja je sačuvana u velikom požaru",
+        "Ondje je pokopan prvi hrvatski kralj",
+        "Ondje je nekad bio ulaz u katedralu",
+        "Ondje se nalazi izvor ljekovite vode"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prema predaji, slika Majke Božje u Kamenitim vratima nije izgorjela u velikom požaru. Majka Božja od Kamenitih vrata zaštitnica je Zagreba.",
+      "savjet": "U Kamenitim vratima nalazi se mala kapelica sa slikom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-042",
+      "tezina": "srednje",
+      "pitanje": "Prema legendi, ime Zagreb povezano je s izvorom Manduševac na glavnom trgu. Što je u legendi učinila djevojka Manda?",
+      "ponudeni": [
+        "Posadila je stablo lipe",
+        "Sagradila je kulu",
+        "Zagrabila je vodu s izvora",
+        "Zapalila je vatru na brežuljku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prema legendi, umorni ban zamolio je Mandu da mu zagrabi vode s izvora. Od riječi zagrabiti, kaže legenda, nastalo je ime Zagreb.",
+      "savjet": "Usporedi zvuk imena grada s riječima u ponuđenim odgovorima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-043",
+      "tezina": "srednje",
+      "pitanje": "Koja se zagrebačka znamenitost nalazi uz gornju postaju uspinjače?",
+      "ponudeni": [
+        "Mirogoj",
+        "Kula Lotrščak",
+        "Park Maksimir",
+        "Jezero Jarun"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uspinjača vozi iz Donjeg grada na Gornji grad, a uz gornju postaju stoji kula Lotrščak. Iz nje svaki dan u podne puca top Grič.",
+      "savjet": "Uspinjača vozi na Gornji grad, pa potraži znamenitost koja se nalazi ondje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-044",
+      "tezina": "srednje",
+      "pitanje": "Ljudi iz okolice Zagreba dovoze na Dolac ono što su sami uzgojili. Što ondje najčešće prodaju?",
+      "ponudeni": [
+        "Automobile i bicikle",
+        "Knjige i novine",
+        "Odjeću i obuću",
+        "Voće, povrće, sir i vrhnje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dolac je tržnica na kojoj se prodaju voće, povrće, sir, vrhnje i cvijeće. Mnogo toga dovoze ljudi koji to uzgajaju u okolici Zagreba.",
+      "savjet": "Razmisli što se može uzgojiti na polju, u vrtu ili na farmi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-045",
+      "tezina": "srednje",
+      "pitanje": "Niz parkova i trgova u Donjem gradu poredan je u obliku slova U. Kako se zove taj niz?",
+      "ponudeni": [
+        "Zelena potkova",
+        "Zlatni prsten",
+        "Kameni lanac",
+        "Plavi krug"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zelena potkova niz je parkova i trgova u Donjem gradu, među kojima su Zrinjevac i Botanički vrt. Oblikom podsjeća na potkovu.",
+      "savjet": "Razmisli koji predmet ima oblik slova U i koja boja pristaje parkovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-046",
+      "tezina": "srednje",
+      "pitanje": "Kojim smjerom treba krenuti s Trga bana Jelačića da bi se stiglo do rijeke Save?",
+      "ponudeni": [
+        "Prema sjeveru",
+        "Prema istoku",
+        "Prema jugu",
+        "Prema zapadu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sava teče južno od središta Zagreba. Sjeverno od središta su Gornji grad, Kaptol i gora Medvednica.",
+      "savjet": "Sjeti se da su brežuljci i gora iznad grada, a rijeka na suprotnoj strani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-047",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove poznata duga zagrebačka ulica koja počinje na Trgu bana Jelačića i vodi prema zapadu?",
+      "ponudeni": [
+        "Ilica",
+        "Stradun",
+        "Korzo",
+        "Riva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ilica je jedna od najpoznatijih zagrebačkih ulica. Počinje na Trgu bana Jelačića i vodi prema zapadu.",
+      "savjet": "Ostali nazivi pripadaju ulicama i šetalištima u primorskim gradovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-048",
+      "tezina": "srednje",
+      "pitanje": "Zašto je između Donjeg i Gornjeg grada sagrađena uspinjača?",
+      "ponudeni": [
+        "Jer je Donji grad okružen vodom",
+        "Jer je Gornji grad na strmom brežuljku",
+        "Jer tramvaji ne smiju voziti središtem",
+        "Jer je Gornji grad južno od Save"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gornji grad je na strmom brežuljku, pa je pješice naporno uspinjati se. Uspinjača ljude brzo preveze gore i dolje.",
+      "savjet": "Razmisli po kakvom terenu vozi uspinjača."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-049",
+      "tezina": "srednje",
+      "pitanje": "Što je glavni posao Vlade Republike Hrvatske?",
+      "ponudeni": [
+        "Sudi u sporovima među ljudima",
+        "Liječi bolesne u bolnicama",
+        "Upravlja državom i provodi zakone",
+        "Vodi muzeje i kazališta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vlada upravlja državom i brine da se provode zakoni koje donosi Sabor. Sjedište joj je u Banskim dvorima u Zagrebu.",
+      "savjet": "Sabor donosi zakone, a netko se mora brinuti da se ti zakoni provode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto je Trg bana Jelačića važno mjesto za kretanje po Zagrebu?",
+      "ponudeni": [
+        "Na njemu je glavni kolodvor za vlakove",
+        "S njega polijeću zrakoplovi",
+        "Na njemu pristaju riječni brodovi",
+        "Kroz njega prolaze mnoge tramvajske linije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trg bana Jelačića je u samom središtu grada i kroz njega prolaze mnoge tramvajske linije. Zato se ondje ljudi često sastaju i presjedaju.",
+      "savjet": "Sjeti se koje gradsko prijevozno sredstvo vozi kroz središte Zagreba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-051",
+      "tezina": "srednje",
+      "pitanje": "Učenici žele vidjeti stare strojeve, vozila i izume. Koji zagrebački muzej trebaju posjetiti?",
+      "ponudeni": [
+        "Arheološki muzej",
+        "Tehnički muzej Nikola Tesla",
+        "Etnografski muzej",
+        "Hrvatski prirodoslovni muzej"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Tehničkom muzeju Nikola Tesla izloženi su strojevi, vozila i izumi. Muzej nosi ime slavnog izumitelja Nikole Tesle.",
+      "savjet": "Strojevi i izumi dio su tehnike."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-052",
+      "tezina": "srednje",
+      "pitanje": "Razred želi vidjeti preparirane životinje, minerale i stijene. Koji zagrebački muzej treba posjetiti?",
+      "ponudeni": [
+        "Tehnički muzej Nikola Tesla",
+        "Muzej suvremene umjetnosti",
+        "Hrvatski prirodoslovni muzej",
+        "Hrvatski povijesni muzej"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski prirodoslovni muzej čuva životinje, biljke, minerale i stijene. Prikazuje prirodu Hrvatske.",
+      "savjet": "Životinje, minerali i stijene dio su prirode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-053",
+      "tezina": "srednje",
+      "pitanje": "Gdje se može saznati kako je Zagreb izgledao i živio od najstarijih vremena do danas?",
+      "ponudeni": [
+        "U Muzeju grada Zagreba",
+        "U Areni Zagreb",
+        "U Zoološkom vrtu",
+        "U Nacionalnoj i sveučilišnoj knjižnici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Muzej grada Zagreba prikazuje povijest grada od najstarijih vremena do danas. Nalazi se na Gornjem gradu.",
+      "savjet": "Potraži ustanovu koja čuva i izlaže predmete iz prošlosti samog grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-054",
+      "tezina": "srednje",
+      "pitanje": "Hrvatska ima 20 županija i Grad Zagreb. Kakav položaj ima Grad Zagreb?",
+      "ponudeni": [
+        "Dio je Krapinsko-zagorske županije",
+        "Nema svoju gradsku upravu",
+        "Dio je Karlovačke županije",
+        "Ujedno je i grad i županija"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Grad Zagreb ima poseban položaj: on je grad, ali ujedno ima i položaj županije. Zato kažemo da Hrvatska ima 20 županija i Grad Zagreb.",
+      "savjet": "Razmisli zašto se Grad Zagreb navodi odvojeno od 20 županija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-055",
+      "tezina": "srednje",
+      "pitanje": "Koja tvrdnja točno opisuje položaj Zagreba?",
+      "ponudeni": [
+        "Sjeverno je rijeka Sava, a južno gora Medvednica",
+        "Sjeverno je gora Medvednica, a južno rijeka Sava",
+        "Grad leži između Velebita i mora",
+        "Grad leži između Drave i Dunava"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zagreb leži podno gore Medvednice, koja je sjeverno od grada. Južni dio grada leži uz rijeku Savu.",
+      "savjet": "Sjeti se kojim smjerom se ide od središta prema rijeci, a kojim prema brežuljcima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-056",
+      "tezina": "srednje",
+      "pitanje": "Zašto Zagreb ima mnogo tramvajskih i autobusnih linija?",
+      "ponudeni": [
+        "Jer u gradu nema cesta za automobile",
+        "Jer je zabranjeno hodati pješice",
+        "Jer u njemu živi i radi mnogo ljudi koji se svakodnevno voze",
+        "Jer je grad na otoku pa nema drugog prijevoza"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Zagrebu živi i radi mnogo ljudi, a mnogi svaki dan putuju u školu i na posao. Zato grad treba mnogo linija javnog prijevoza.",
+      "savjet": "Razmisli koliko ljudi svako jutro mora stići na posao i u školu u velikom gradu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-057",
+      "tezina": "srednje",
+      "pitanje": "Predsjednik neke druge države dolazi u službeni posjet Hrvatskoj. U koji će grad najvjerojatnije doći?",
+      "ponudeni": [
+        "U Zagreb, jer su ondje najvažnije državne ustanove",
+        "U Dubrovnik, jer je ondje najljepša stara jezgra",
+        "U Osijek, jer je ondje najveća rijeka",
+        "U Rijeku, jer je ondje velika luka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Službeni posjeti državi održavaju se u glavnom gradu. U Zagrebu su Sabor, Vlada i Ured predsjednika Republike.",
+      "savjet": "Razmisli gdje rade oni koji predstavljaju Hrvatsku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-058",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu Zagreb i tri grada u njegovoj blizini.",
+      "karta": {
+        "okvir": [
+          15,
+          45.1,
+          17,
+          46.6
+        ],
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Karlovac",
+            "polozaj": [
+              15.55,
+              45.49
+            ]
+          },
+          {
+            "naziv": "Sisak",
+            "polozaj": [
+              16.37,
+              45.48
+            ]
+          },
+          {
+            "naziv": "Varaždin",
+            "polozaj": [
+              16.34,
+              46.31
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Varaždin je sjeverno od Zagreba, blizu Drave. Karlovac je jugozapadno od Zagreba, a Sisak jugoistočno, na ušću Kupe u Savu.",
+      "savjet": "Jedan je grad blizu Drave na sjeveru, a dva su južnije, uz rijeku Kupu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-059",
+      "tezina": "srednje",
+      "pitanje": "Koji je od navedenih dijelova Zagreba najmlađi?",
+      "ponudeni": [
+        "Gornji grad",
+        "Kaptol",
+        "Donji grad",
+        "Novi Zagreb"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najstariji su Gornji grad i Kaptol na brežuljcima. Donji grad izgrađen je kasnije u ravnici, a Novi Zagreb južno od Save još kasnije.",
+      "savjet": "Grad je rastao od brežuljaka prema rijeci i preko nje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-060",
+      "tezina": "srednje",
+      "pitanje": "Kakvi su nekad bili Gradec (današnji Gornji grad) i Kaptol?",
+      "ponudeni": [
+        "Bili su dva sela južno od Save",
+        "Bili su dva odvojena naselja na susjednim brežuljcima",
+        "Bili su dva otoka u rijeci",
+        "Bili su dvije utvrde na vrhu Medvednice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gradec i Kaptol bila su dva odvojena naselja na susjednim brežuljcima. Kasnije su spojeni u jedan grad, Zagreb.",
+      "savjet": "Sjeti se gdje se danas nalaze katedrala i crkva sv. Marka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-061",
+      "tezina": "tesko",
+      "pitanje": "Ulica između Gornjeg grada i Kaptola zove se Krvavi most. Na što podsjeća to ime?",
+      "ponudeni": [
+        "Na bolnicu koja je nekad bila ondje",
+        "Na crvenu boju kamena od kojeg je most",
+        "Na nekadašnje sukobe između dva naselja",
+        "Na rijeku Savu koja je ondje tekla"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Između Gradeca i Kaptola tekao je potok preko kojeg je bio most. Stanovnici dvaju naselja često su se ondje sukobljavali, pa je mjesto dobilo ime Krvavi most.",
+      "savjet": "Sjeti se da su Gradec i Kaptol nekad bila dva odvojena naselja koja se nisu uvijek slagala."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-062",
+      "tezina": "tesko",
+      "pitanje": "Split je velik i važan grad. Zašto je ipak Zagreb glavni grad Hrvatske?",
+      "ponudeni": [
+        "Jer je Zagreb jedini grad na rijeci",
+        "Jer Zagreb ima stariju jezgru od Splita",
+        "Jer je Zagreb bliže moru",
+        "Jer su u Zagrebu sjedišta Sabora, Vlade i drugih državnih ustanova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glavni grad je grad u kojem su sjedišta najvažnijih državnih ustanova. U Zagrebu su Sabor, Vlada i Ured predsjednika Republike.",
+      "savjet": "Glavni grad ne određuje veličina ni starost, nego ono što se u njemu nalazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-063",
+      "tezina": "tesko",
+      "pitanje": "Turisti imaju samo jedno jutro i žele pješice obići što više znamenitosti. Koje bi znamenitosti mogli obići jer su blizu jedna drugoj?",
+      "ponudeni": [
+        "Trg bana Jelačića, Dolac i katedralu",
+        "Maksimir, Jarun i Novi Zagreb",
+        "Mirogoj, Jarun i Arenu Zagreb",
+        "Medvednicu, Maksimir i Jarun"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trg bana Jelačića, tržnica Dolac i katedrala na Kaptolu nalaze se u samom središtu, nekoliko minuta hoda jedno od drugog. Ostala mjesta su u različitim dijelovima grada.",
+      "savjet": "Potraži znamenitosti koje su sve u starom središtu grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-064",
+      "tezina": "tesko",
+      "pitanje": "Koji par točno povezuje ustanovu i vrstu središta koju ona pokazuje?",
+      "ponudeni": [
+        "Sveučilište u Zagrebu – zdravstveno središte",
+        "Arena Zagreb – sportsko središte",
+        "Hrvatsko narodno kazalište – prometno središte",
+        "Glavni kolodvor – kulturno središte"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Arena Zagreb je sportska dvorana, pa pokazuje da je Zagreb sportsko središte. Sveučilište je obrazovno, HNK kulturno, a Glavni kolodvor prometno središte.",
+      "savjet": "Za svaku ustanovu razmisli što se u njoj događa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto su najstariji dijelovi Zagreba nastali na brežuljcima, a ne u ravnici uz Savu?",
+      "ponudeni": [
+        "Jer je u ravnici bilo previše snijega",
+        "Jer na brežuljcima nije bilo šume",
+        "Jer su brežuljci bili bliže moru",
+        "Jer su na brežuljcima bili sigurniji od napada i poplava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "S brežuljka se dobro vidi okolica, pa se naselje lakše branilo od napada. Uz to, rijeka nije mogla poplaviti naselje na uzvisini.",
+      "savjet": "Razmisli što je ljudima nekad bilo najvažnije kad su birali mjesto za naselje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-066",
+      "tezina": "tesko",
+      "pitanje": "Zašto se Zagreb s vremenom širio prema Savi, a ne na Gornjem gradu?",
+      "ponudeni": [
+        "Jer je u ravnici bilo dovoljno mjesta za nove ulice i zgrade",
+        "Jer je Gornji grad bio uz more",
+        "Jer na Gornjem gradu nije bilo crkava",
+        "Jer je u ravnici bilo hladnije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brežuljak Gornjeg grada je malen i strm. U ravnici prema Savi bilo je dovoljno prostora, pa je ondje nastao Donji grad, a kasnije i Novi Zagreb.",
+      "savjet": "Usporedi koliko je mjesta za gradnju na malom brežuljku, a koliko u ravnici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-067",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ove gradove u okolici Zagreba.",
+      "karta": {
+        "okvir": [
+          15.2,
+          45.2,
+          17.2,
+          46.45
+        ],
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Krapina",
+            "polozaj": [
+              15.88,
+              46.16
+            ]
+          },
+          {
+            "naziv": "Koprivnica",
+            "polozaj": [
+              16.83,
+              46.16
+            ]
+          },
+          {
+            "naziv": "Bjelovar",
+            "polozaj": [
+              16.84,
+              45.9
+            ]
+          },
+          {
+            "naziv": "Sisak",
+            "polozaj": [
+              16.37,
+              45.48
+            ]
+          },
+          {
+            "naziv": "Karlovac",
+            "polozaj": [
+              15.55,
+              45.49
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Krapina je sjeverno od Zagreba, u Hrvatskom zagorju. Koprivnica je blizu Drave, Bjelovar južnije od nje, Sisak na Savi jugoistočno od Zagreba, a Karlovac na Kupi jugozapadno.",
+      "savjet": "Pomoći će ti rijeke: Drava na sjeveroistoku, Kupa na jugozapadu i Sava kroz sredinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-068",
+      "tezina": "tesko",
+      "pitanje": "Bolesnik iz Dubrovnika liječi se u zagrebačkoj bolnici, a studentica iz Splita studira u Zagrebu. Što to pokazuje?",
+      "ponudeni": [
+        "Da u Dubrovniku i Splitu nema škola",
+        "Da je Zagreb važno središte za cijelu Hrvatsku",
+        "Da su Dubrovnik i Split dio Grada Zagreba",
+        "Da se u Zagreb može stići samo zrakoplovom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Zagreb dolaze ljudi iz svih dijelova Hrvatske zbog bolnica, fakulteta i drugih ustanova. Zato je Zagreb središte za cijelu državu.",
+      "savjet": "Razmisli zašto ljudi putuju iz daleka da bi nešto obavili u jednom gradu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-069",
+      "tezina": "tesko",
+      "pitanje": "Zašto se baš u Zagrebu susreću putovi iz Slavonije, s Jadranskog mora i iz srednje Europe?",
+      "ponudeni": [
+        "Jer je Zagreb okružen visokim planinama",
+        "Jer Zagreb ima veliku morsku luku",
+        "Jer Zagreb leži na raskrižju putova u dolini Save",
+        "Jer Zagreb leži na otoku u Savi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zagreb leži u dolini Save, na mjestu gdje se susreću putovi s istoka, sa zapada, sa sjevera i prema moru. Zbog tog položaja postao je prometno središte.",
+      "savjet": "Razmisli kako izgleda teren oko Zagreba i kuda je najlakše graditi ceste i pruge."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-070",
+      "tezina": "tesko",
+      "pitanje": "Turisti s broda koji je pristao u Splitu žele vidjeti zgradu u kojoj radi Vlada Republike Hrvatske. Kamo trebaju otići?",
+      "ponudeni": [
+        "U Dioklecijanovu palaču u Splitu",
+        "U Knežev dvor u Dubrovniku",
+        "Na Trsat u Rijeci",
+        "U Banske dvore u Zagrebu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vlada Republike Hrvatske ima sjedište u Banskim dvorima na Markovu trgu u Zagrebu. Ostale građevine su znamenitosti drugih gradova.",
+      "savjet": "Sjeti se u kojem su gradu sjedišta državnih ustanova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-071",
+      "tezina": "tesko",
+      "pitanje": "Turistički vodič stoji ispred crkve s grbovima na krovu. U kojem se dijelu Zagreba nalazi?",
+      "ponudeni": [
+        "Na Kaptolu",
+        "U Donjem gradu",
+        "Na Gornjem gradu",
+        "U Novom Zagrebu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Crkva s grbovima na krovu je crkva sv. Marka. Ona se nalazi na Markovu trgu na Gornjem gradu.",
+      "savjet": "Prvo se sjeti koja je to crkva, a zatim na kojem se trgu nalazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-072",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko Kaptolu i Gornjem gradu?",
+      "ponudeni": [
+        "Oba su stara naselja na brežuljcima od kojih je nastao Zagreb",
+        "Oba su izgrađena južno od Save",
+        "Oba su velika parka sa zoološkim vrtom",
+        "Oba su nastala nakon Novog Zagreba"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kaptol i Gornji grad (nekad Gradec) najstariji su dijelovi Zagreba. Oba leže na brežuljcima, a njihovim spajanjem nastao je jedan grad.",
+      "savjet": "Razmisli gdje se nalaze ta dva dijela grada i koliko su stari."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-073",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o Mirogoju i Maksimiru točna?",
+      "ponudeni": [
+        "Oba su zagrebačka groblja s arkadama",
+        "Mirogoj je park sa zoološkim vrtom, a Maksimir groblje",
+        "Mirogoj je groblje, a Maksimir park sa zoološkim vrtom",
+        "Oba su trgovi u središtu grada"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mirogoj je zagrebačko groblje poznato po arkadama. Maksimir je velik park u kojem se nalazi zoološki vrt.",
+      "savjet": "Imena zvuče slično, ali razmisli što se nalazi na kojem mjestu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-074",
+      "tezina": "tesko",
+      "pitanje": "U Zagrebu rade gradske ustanove i ustanove cijele države. Koja je od navedenih ustanova državna?",
+      "ponudeni": [
+        "Gradska skupština Grada Zagreba",
+        "Hrvatski sabor",
+        "Zagrebački električni tramvaj (ZET)",
+        "Tržnica Dolac"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatski sabor donosi zakone za cijelu Hrvatsku, pa je državna ustanova. Gradska skupština, ZET i tržnica Dolac služe samo gradu Zagrebu.",
+      "savjet": "Razmisli koja ustanova odlučuje o poslovima svih građana Hrvatske, a ne samo Zagreba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-075",
+      "tezina": "tesko",
+      "pitanje": "Mia želi veslati, a Luka zimi skijati, a da ne napuste Zagreb i njegovu okolicu. Kamo trebaju otići?",
+      "ponudeni": [
+        "Mia na Dolac, a Luka na Mirogoj",
+        "Mia na Medvednicu, a Luka na Jarun",
+        "Mia na Zrinjevac, a Luka u Maksimir",
+        "Mia na Jarun, a Luka na Medvednicu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na jezeru Jarun vesla se i održavaju se veslačka natjecanja. Na Medvednici iznad Zagreba zimi se skija.",
+      "savjet": "Za veslanje treba voda, a za skijanje snijeg na padini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-076",
+      "tezina": "tesko",
+      "pitanje": "Kako je to što je Zagreb obrazovno središte povezano s time što je i zdravstveno središte?",
+      "ponudeni": [
+        "Na fakultetima u Zagrebu školuju se liječnici koji rade u bolnicama",
+        "Bolnice se nalaze u zgradama kazališta",
+        "Studenti ne smiju odlaziti liječniku",
+        "Liječnici predaju samo u osnovnim školama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na Sveučilištu u Zagrebu školuju se budući liječnici. Mnogi od njih poslije rade u zagrebačkim bolnicama.",
+      "savjet": "Razmisli gdje se ljudi školuju da bi postali liječnici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-077",
+      "tezina": "tesko",
+      "pitanje": "Obitelj iz Splita u Zagrebu gleda utakmicu, posjećuje baku u bolnici i ide u kazalište. Koje uloge Zagreba pritom koristi?",
+      "ponudeni": [
+        "Upravnu, političku i prometnu",
+        "Obrazovnu, upravnu i političku",
+        "Sportsku, zdravstvenu i kulturnu",
+        "Prometnu, obrazovnu i upravnu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Utakmica je dio sporta, bolnica zdravstva, a kazalište kulture. Zato je obitelj koristila Zagreb kao sportsko, zdravstveno i kulturno središte.",
+      "savjet": "Svaku od tri aktivnosti poveži s jednom vrstom središta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-078",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu Hrvatske glavni grad i druge velike gradove.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Rijeka",
+            "polozaj": [
+              14.44,
+              45.33
+            ]
+          },
+          {
+            "naziv": "Pula",
+            "polozaj": [
+              13.85,
+              44.87
+            ]
+          },
+          {
+            "naziv": "Zadar",
+            "polozaj": [
+              15.23,
+              44.12
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          },
+          {
+            "naziv": "Osijek",
+            "polozaj": [
+              18.69,
+              45.55
+            ]
+          },
+          {
+            "naziv": "Slavonski Brod",
+            "polozaj": [
+              18.02,
+              45.16
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Zagreb je na Savi na sjeverozapadu. Pula je u Istri, Rijeka na Kvarneru, Zadar, Split i Dubrovnik redom niz Dalmaciju prema jugu, a Osijek i Slavonski Brod u Slavoniji.",
+      "savjet": "Gradove uz more poredaj od poluotoka na zapadu prema jugu; dva grada su na istoku, uz Dravu i uz Savu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-079",
+      "tezina": "tesko",
+      "pitanje": "Kojoj je susjednoj državi Zagreb najbliži?",
+      "ponudeni": [
+        "Srbiji",
+        "Sloveniji",
+        "Crnoj Gori",
+        "Bosni i Hercegovini"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zagreb je na sjeverozapadu Hrvatske, a granica sa Slovenijom udaljena je od njega manje od sat vožnje. Ostale države su mnogo dalje.",
+      "savjet": "Sjeti se u kojem je dijelu Hrvatske Zagreb i koja država graniči s tim dijelom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto se tornjevi zagrebačke katedrale vide iz mnogih dijelova grada?",
+      "ponudeni": [
+        "Jer su obojeni jarkim bojama",
+        "Jer katedrala stoji na otoku",
+        "Jer su noću jedini osvijetljeni",
+        "Jer su vrlo visoki i stoje na uzvisini"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tornjevi katedrale vrlo su visoki, a Kaptol je na uzvisini iznad Donjeg grada. Zato se vide izdaleka.",
+      "savjet": "Razmisli o visini tornjeva i o položaju Kaptola."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-081",
+      "tezina": "tesko",
+      "pitanje": "Zašto se mnogo ljudi iz drugih krajeva Hrvatske doselilo u Zagreb?",
+      "ponudeni": [
+        "Ondje ima mnogo radnih mjesta, škola i fakulteta",
+        "Ondje je najtoplije more",
+        "Ondje nema prometa ni gužve",
+        "Ondje su najviše planine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U glavnom gradu rade mnoge ustanove, tvrtke, bolnice i fakulteti. Zato ondje ljudi lakše nalaze posao i mogućnost školovanja.",
+      "savjet": "Razmisli što ljudima treba da bi negdje živjeli i radili."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto su parkovi, poput Zrinjevca i Maksimira, posebno važni u velikom gradu kao što je Zagreb?",
+      "ponudeni": [
+        "Jer se u njima donose zakoni",
+        "Jer se u njima prodaje voće i povrće",
+        "Jer daju čišći zrak i mjesto za odmor u prirodi",
+        "Jer kroz njih prolaze autoceste"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U velikom gradu ima mnogo zgrada, automobila i buke. Parkovi daju svježiji zrak, hlad i mjesto za šetnju i odmor.",
+      "savjet": "Razmisli što nedostaje ulicama punim zgrada i automobila."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-083",
+      "tezina": "tesko",
+      "pitanje": "U kojem smjeru putuješ iz Zagreba kad ideš u Osijek?",
+      "ponudeni": [
+        "Prema zapadu",
+        "Prema istoku",
+        "Prema sjeveru",
+        "Prema jugozapadu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zagreb je na sjeverozapadu, a Osijek na istoku Hrvatske, u Slavoniji. Zato iz Zagreba u Osijek putuješ prema istoku.",
+      "savjet": "Zamisli kartu Hrvatske i sjeti se u kojem je kraju Osijek."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-084",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko Kamenitim vratima i kuli Lotrščak?",
+      "ponudeni": [
+        "Oba su dio starog groblja",
+        "Oba su sagrađena u Novom Zagrebu",
+        "Oba su ostaci starih utvrda Gornjeg grada",
+        "Oba su sjedišta državnih ustanova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gornji grad (Gradec) nekad je bio okružen zidinama. Kamenita vrata bila su jedan od ulaza u grad, a Lotrščak kula koja ga je čuvala.",
+      "savjet": "Razmisli čemu su nekad služila gradska vrata i kule."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-085",
+      "tezina": "tesko",
+      "pitanje": "Kako je podnevni pucanj topa Grič pomagao ljudima u vrijeme kad nisu svi imali sat?",
+      "ponudeni": [
+        "Najavljivao je dolazak kralja",
+        "Upozoravao je na kišu",
+        "Označavao je početak školske godine",
+        "Javljao je da je podne pa su ljudi mogli namjestiti satove"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Top Grič puca svaki dan točno u podne. Po njemu su ljudi znali koliko je sati i mogli namjestiti satove i zvona.",
+      "savjet": "Sjeti se u koje doba dana top puca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-086",
+      "tezina": "tesko",
+      "pitanje": "Zašto su uz Savu u Zagrebu podignuti visoki nasipi?",
+      "ponudeni": [
+        "Da zaštite grad od poplava",
+        "Da brodovi lakše pristaju",
+        "Da Sava teče brže",
+        "Da se na njima uzgaja vinova loza"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad padne mnogo kiše, Sava nabuja i može poplaviti okolicu. Nasipi sprječavaju da se voda izlije u grad.",
+      "savjet": "Razmisli što se može dogoditi kad rijeka nabuja nakon velikih kiša."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-087",
+      "tezina": "tesko",
+      "pitanje": "Što je trebalo izgraditi da bi Novi Zagreb bio dobro povezan sa središtem grada?",
+      "ponudeni": [
+        "Uspinjaču",
+        "Mostove preko Save",
+        "Nove luke",
+        "Tunele kroz Medvednicu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Novi Zagreb nalazi se južno od Save, a središte grada sjeverno. Mostovi preko rijeke povezuju ta dva dijela grada.",
+      "savjet": "Sjeti se što se nalazi između Novog Zagreba i središta grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-088",
+      "tezina": "tesko",
+      "pitanje": "Koji opis odgovara Donjem gradu?",
+      "ponudeni": [
+        "Stari dio na brežuljku s uskim ulicama i Markovim trgom",
+        "Dio južno od Save s novijim stambenim naseljima",
+        "Šumovita gora iznad grada",
+        "Dio u ravnici s pravilnim ulicama, trgovima, parkovima i muzejima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Donji grad leži u ravnici podno Gornjeg grada. Ima pravilne ulice, trgove, parkove Zelene potkove, kazališta i muzeje.",
+      "savjet": "Isključi opise koji pripadaju Gornjem gradu, Novom Zagrebu i gori iznad grada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-089",
+      "tezina": "tesko",
+      "pitanje": "Razred iz Vukovara ide na izlet u Zagreb. Što od navedenog mogu vidjeti samo u glavnom gradu?",
+      "ponudeni": [
+        "Zgradu Hrvatskog sabora",
+        "Gradsku tržnicu",
+        "Crkvu s visokim tornjem",
+        "Gradski park"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tržnice, crkve i parkove imaju mnogi gradovi. Hrvatski sabor nalazi se samo u Zagrebu jer je Zagreb glavni grad.",
+      "savjet": "Razmisli što postoji u mnogim gradovima, a što ima samo glavni grad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zagreb-glavni-grad-090",
+      "tezina": "tesko",
+      "pitanje": "U Maksimiru se nalaze velik park, zoološki vrt i nogometni stadion. Koju ulogu Zagreba Maksimir najbolje pokazuje?",
+      "ponudeni": [
+        "Upravno i političko središte",
+        "Zdravstveno i obrazovno središte",
+        "Sportsko središte i mjesto za odmor u prirodi",
+        "Prometno i upravno središte"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na stadionu Maksimir igraju se utakmice, a park i zoološki vrt služe za odmor i šetnju. Zato Maksimir pokazuje sportsku ulogu Zagreba i važnost prirode u gradu.",
+      "savjet": "Razmisli što ljudi rade na stadionu, a što u parku."
+    }
+  ]
+}

@@ -1,0 +1,1457 @@
+{
+  "lekcijaId": "najvaznije-o-hrvatskoj",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se službeno zove naša država?",
+      "ponudeni": [
+        "Kraljevina Hrvatska",
+        "Republika Hrvatska",
+        "Hrvatska Federacija",
+        "Hrvatska Unija"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Službeni naziv naše države je Republika Hrvatska.",
+      "savjet": "Sjeti se kako piše na službenim ispravama i u nazivu državnih ustanova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-002",
+      "tezina": "lagano",
+      "pitanje": "Koji je grad glavni grad Republike Hrvatske?",
+      "ponudeni": [
+        "Split",
+        "Rijeka",
+        "Osijek",
+        "Zagreb"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagreb je glavni grad Republike Hrvatske i u njemu je sjedište državne vlasti.",
+      "savjet": "Sjeti se u kojem se gradu sastaje Hrvatski sabor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-003",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo zemlju u kojoj smo rođeni ili kojoj osjećamo da pripadamo?",
+      "ponudeni": [
+        "Domovina",
+        "Županija",
+        "Općina",
+        "Pokrajina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Domovina je zemlja u kojoj smo rođeni ili kojoj osjećamo da pripadamo. Za mnoge je to Republika Hrvatska.",
+      "savjet": "Riječ je povezana s riječju dom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-004",
+      "tezina": "lagano",
+      "pitanje": "Što odvaja područje jedne države od područja susjednih država?",
+      "ponudeni": [
+        "Autocesta",
+        "Željeznica",
+        "Granica",
+        "Županija"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Granica je crta koja odvaja područje jedne države od područja susjednih država.",
+      "savjet": "Sjeti se što prelazimo kada putujemo u drugu državu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-005",
+      "tezina": "lagano",
+      "pitanje": "Koje tijelo u Republici Hrvatskoj donosi zakone?",
+      "ponudeni": [
+        "Vlada",
+        "Hrvatski sabor",
+        "Sud",
+        "Županija"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zakone donosi Hrvatski sabor, u kojem se sastaju zastupnici koje su izabrali građani.",
+      "savjet": "Sjeti se gdje se sastaju zastupnici koje biraju građani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove najviši zakon Republike Hrvatske?",
+      "ponudeni": [
+        "Pravilnik",
+        "Statut",
+        "Proračun",
+        "Ustav"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ustav je najviši zakon države i svi ostali zakoni moraju biti u skladu s njim.",
+      "savjet": "Taj zakon određuje kako je država uređena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-007",
+      "tezina": "lagano",
+      "pitanje": "Kada slavimo Dan državnosti Republike Hrvatske?",
+      "ponudeni": [
+        "30. svibnja",
+        "1. studenoga",
+        "1. siječnja",
+        "24. prosinca"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dan državnosti Republike Hrvatske slavi se 30. svibnja i to je državni blagdan.",
+      "savjet": "Taj se blagdan slavi u kasno proljeće, pred kraj školske godine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-008",
+      "tezina": "lagano",
+      "pitanje": "Na koliko je županija podijeljena Republika Hrvatska?",
+      "ponudeni": [
+        "10 županija i Grad Zagreb",
+        "20 županija i Grad Zagreb",
+        "25 županija i Grad Zagreb",
+        "30 županija i Grad Zagreb"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Republika Hrvatska podijeljena je na 20 županija i Grad Zagreb, koji ima položaj županije.",
+      "savjet": "Broj županija je okrugao broj, između deset i trideset."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-009",
+      "tezina": "lagano",
+      "pitanje": "Na koje se manje dijelove dijele županije?",
+      "ponudeni": [
+        "Na kontinente i oceane",
+        "Na države i regije",
+        "Na otoke i poluotoke",
+        "Na gradove i općine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svaka se županija dijeli na gradove i općine.",
+      "savjet": "Sjeti se tko upravlja mjestom u kojem živiš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-010",
+      "tezina": "lagano",
+      "pitanje": "Uz koje more leži Republika Hrvatska?",
+      "ponudeni": [
+        "Uz Crno more",
+        "Uz Sjeverno more",
+        "Uz Jadransko more",
+        "Uz Baltičko more"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Republika Hrvatska leži uz Jadransko more, koje je dio Sredozemnog mora.",
+      "savjet": "Sjeti se kako se zove more uz koje ljeti putujemo na odmor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-011",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu ljudi koje građani biraju na izborima da u Hrvatskom saboru donose zakone?",
+      "ponudeni": [
+        "Saborski zastupnici",
+        "Suci",
+        "Ministri",
+        "Župani"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Građani na izborima biraju saborske zastupnike, koji u Hrvatskom saboru donose zakone.",
+      "savjet": "Ti ljudi zastupaju građane u Saboru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-012",
+      "tezina": "lagano",
+      "pitanje": "Tko je na čelu županije?",
+      "ponudeni": [
+        "Gradonačelnik",
+        "Župan",
+        "Općinski načelnik",
+        "Ministar"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na čelu županije je župan ili županica.",
+      "savjet": "Naziv te osobe sličan je riječi županija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-013",
+      "tezina": "lagano",
+      "pitanje": "Tko je na čelu grada?",
+      "ponudeni": [
+        "Župan",
+        "Ministar",
+        "Gradonačelnik",
+        "Sudac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na čelu grada je gradonačelnik ili gradonačelnica.",
+      "savjet": "Naziv te osobe sadrži riječ grad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-014",
+      "tezina": "lagano",
+      "pitanje": "Što je zadaća sudova?",
+      "ponudeni": [
+        "Donose nove zakone",
+        "Biraju župane",
+        "Grade ceste i škole",
+        "Sude i rješavaju sporove prema zakonima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sudovi sude i rješavaju sporove prema zakonima koje je donio Hrvatski sabor.",
+      "savjet": "Sjeti se što radi sudac."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-015",
+      "tezina": "lagano",
+      "pitanje": "Koliko nacionalnih parkova ima Republika Hrvatska?",
+      "ponudeni": [
+        "Četiri",
+        "Šest",
+        "Deset",
+        "Osam"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatska ima osam nacionalnih parkova, među njima su Plitvička jezera, Krka, Kornati i Mljet.",
+      "savjet": "Pokušaj nabrojiti nacionalne parkove koje znaš, od Plitvica do Mljeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-016",
+      "tezina": "lagano",
+      "pitanje": "Koji se odjevni predmet, poznat u cijelom svijetu, smatra hrvatskim darom svijetu?",
+      "ponudeni": [
+        "Šešir",
+        "Kravata",
+        "Šal",
+        "Rukavice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kravata potječe od rupca koji su oko vrata nosili hrvatski vojnici, pa se smatra hrvatskim darom svijetu.",
+      "savjet": "Taj se predmet nosi oko vrata uz košulju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-017",
+      "tezina": "lagano",
+      "pitanje": "U kojem je mjestu rođen slavni izumitelj Nikola Tesla?",
+      "ponudeni": [
+        "Smiljan",
+        "Rovinj",
+        "Vinkovci",
+        "Samobor"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nikola Tesla rođen je u Smiljanu kraj Gospića, u Lici.",
+      "savjet": "To je malo mjesto u gorskom kraju, blizu Gospića."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-018",
+      "tezina": "lagano",
+      "pitanje": "Po čemu je Hrvatska poznata uz obalu Jadranskog mora?",
+      "ponudeni": [
+        "Po pustinjama",
+        "Po vulkanima",
+        "Po velikom broju otoka",
+        "Po ledenjacima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz hrvatsku obalu nalazi se više od tisuću otoka, otočića i hridi.",
+      "savjet": "Sjeti se što vidiš na karti uz obalu Jadranskog mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-019",
+      "tezina": "lagano",
+      "pitanje": "Koja su dva najveća hrvatska otoka?",
+      "ponudeni": [
+        "Hvar i Vis",
+        "Mljet i Lastovo",
+        "Pag i Rab",
+        "Krk i Cres"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krk i Cres najveći su hrvatski otoci i nalaze se u Kvarnerskom zaljevu.",
+      "savjet": "Ti se otoci nalaze na sjeveru Jadrana, blizu Rijeke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-020",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove novac kojim se plaća u Republici Hrvatskoj?",
+      "ponudeni": [
+        "Kuna",
+        "Euro",
+        "Dinar",
+        "Forinta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od 1. siječnja 2023. u Hrvatskoj se plaća eurom.",
+      "savjet": "Taj se novac koristi i u mnogim drugim državama Europske unije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-021",
+      "tezina": "lagano",
+      "pitanje": "Koje tijelo provodi zakone i upravlja poslovima države?",
+      "ponudeni": [
+        "Vlada Republike Hrvatske",
+        "Hrvatski sabor",
+        "Ustavni sud",
+        "Županijska skupština"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vlada Republike Hrvatske provodi zakone i upravlja poslovima države.",
+      "savjet": "Sabor zakone donosi, a netko ih mora i provoditi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-022",
+      "tezina": "lagano",
+      "pitanje": "Tko predstavlja Republiku Hrvatsku u zemlji i u svijetu?",
+      "ponudeni": [
+        "Gradonačelnik glavnoga grada",
+        "Župan najveće županije",
+        "Predsjednik ili predsjednica Republike",
+        "Općinski načelnik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Predsjednik ili predsjednica Republike predstavlja Hrvatsku u zemlji i u svijetu.",
+      "savjet": "Sjeti se tko dočekuje predsjednike drugih država."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-023",
+      "tezina": "lagano",
+      "pitanje": "Na kojoj se planini nalazi najviši vrh Hrvatske?",
+      "ponudeni": [
+        "Na Medvednici",
+        "Na Dinari",
+        "Na Učki",
+        "Na Papuku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Najviši vrh Hrvatske nalazi se na planini Dinari.",
+      "savjet": "Ta planina nosi ime po kojem je nazvano cijelo gorje na jugu Europe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-024",
+      "tezina": "lagano",
+      "pitanje": "U kojem se gradu sastaje Hrvatski sabor?",
+      "ponudeni": [
+        "U Splitu",
+        "U Rijeci",
+        "U Osijeku",
+        "U Zagrebu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatski sabor sastaje se u Zagrebu, glavnom gradu Republike Hrvatske.",
+      "savjet": "Državna vlast ima sjedište u glavnom gradu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-025",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih rijeka hrvatska rijeka?",
+      "ponudeni": [
+        "Drava",
+        "Temza",
+        "Seina",
+        "Nil"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Drava je velika rijeka na sjeveru Hrvatske. Temza, Seina i Nil teku u drugim državama.",
+      "savjet": "Sjeti se rijeka koje teku nizinama na sjeveru i istoku Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-026",
+      "tezina": "lagano",
+      "pitanje": "Koja pasmina psa nosi ime po hrvatskom kraju?",
+      "ponudeni": [
+        "Labrador",
+        "Pudl",
+        "Dalmatinac",
+        "Bernardinac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dalmatinac je pas bijele dlake s crnim točkama koji nosi ime po Dalmaciji.",
+      "savjet": "Sjeti se psa s mnogo crnih točkica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-027",
+      "tezina": "lagano",
+      "pitanje": "Što je izumio Slavoljub Penkala?",
+      "ponudeni": [
+        "Padobran",
+        "Žarulju",
+        "Mehaničku olovku",
+        "Telefon"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Slavoljub Penkala izumio je mehaničku olovku, koja se po njemu ponegdje zove i penkala.",
+      "savjet": "Njegovo se prezime i danas koristi kao naziv za pisaljku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-028",
+      "tezina": "lagano",
+      "pitanje": "Koji od navedenih gradova leži na obali Jadranskog mora?",
+      "ponudeni": [
+        "Split",
+        "Osijek",
+        "Varaždin",
+        "Karlovac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Split je grad na obali Jadranskog mora, a Osijek, Varaždin i Karlovac su u unutrašnjosti.",
+      "savjet": "Sjeti se koji je od tih gradova poznat po luci i trajektima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-029",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu ove velike hrvatske gradove.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Zagreb",
+            "polozaj": [
+              15.98,
+              45.81
+            ]
+          },
+          {
+            "naziv": "Split",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Rijeka",
+            "polozaj": [
+              14.44,
+              45.33
+            ]
+          },
+          {
+            "naziv": "Osijek",
+            "polozaj": [
+              18.69,
+              45.55
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Zagreb je na sjeverozapadu u unutrašnjosti, Rijeka na sjeveru Jadrana, Split u Dalmaciji, a Osijek na istoku, u Slavoniji.",
+      "savjet": "Glavni grad je u unutrašnjosti na sjeverozapadu, dva su grada uz more, a jedan je u nizini na istoku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-030",
+      "tezina": "lagano",
+      "pitanje": "Smjesti na kartu ove krajeve Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Istra",
+            "polozaj": [
+              13.9,
+              45.2
+            ]
+          },
+          {
+            "naziv": "Lika",
+            "polozaj": [
+              15.4,
+              44.7
+            ]
+          },
+          {
+            "naziv": "Slavonija",
+            "polozaj": [
+              17.9,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Hrvatsko zagorje",
+            "polozaj": [
+              15.95,
+              46.08
+            ]
+          },
+          {
+            "naziv": "Dalmacija",
+            "polozaj": [
+              16.4,
+              43.6
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Istra je poluotok na zapadu, Lika gorski kraj u sredini, Slavonija nizina na istoku, Hrvatsko zagorje brežuljkasti kraj na sjeveru, a Dalmacija se pruža uz more na jugu.",
+      "savjet": "Poluotok je na zapadu, gorski kraj u sredini, nizine na istoku, brežuljci na sjeveru, a duga obala na jugu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-031",
+      "tezina": "srednje",
+      "pitanje": "Što od navedenoga mora imati svaka država?",
+      "ponudeni": [
+        "Svoje područje, stanovnike i vlast",
+        "More, otoke i planine",
+        "Samo jedan veliki grad",
+        "Barem jednu veliku rijeku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaka država ima svoje područje omeđeno granicom, stanovnike i vlast. More, planine i rijeke nemaju sve države.",
+      "savjet": "Sjeti se država koje nemaju more, a ipak su države."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-032",
+      "tezina": "srednje",
+      "pitanje": "Netko je rekao: „Zakone u Hrvatskoj donosi Vlada.“ Kako treba ispraviti tu rečenicu?",
+      "ponudeni": [
+        "Zakone donose suci.",
+        "Zakone donose župani.",
+        "Zakone donosi Hrvatski sabor.",
+        "Zakone donose gradonačelnici."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zakone donosi Hrvatski sabor, a Vlada ih provodi.",
+      "savjet": "Sjeti se gdje glasaju zastupnici koje su izabrali građani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-033",
+      "tezina": "srednje",
+      "pitanje": "Kako građani Hrvatske odlučuju tko će biti saborski zastupnici?",
+      "ponudeni": [
+        "Zastupnike imenuje predsjednik",
+        "Glasaju na izborima",
+        "Zastupnike biraju suci",
+        "Zastupnike izvlače ždrijebom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Punoljetni građani na izborima glasaju za saborske zastupnike.",
+      "savjet": "Sjeti se što odrasli rade na dan izbora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-034",
+      "tezina": "srednje",
+      "pitanje": "Mjesto u kojem Ana živi nema gradonačelnika, nego općinskog načelnika. U kakvom mjestu živi Ana?",
+      "ponudeni": [
+        "U gradu",
+        "U županiji",
+        "U Gradu Zagrebu",
+        "U općini"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Općinom upravlja općinski načelnik, a gradom gradonačelnik.",
+      "savjet": "Pogledaj od koje je riječi nastao naziv općinski načelnik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-035",
+      "tezina": "srednje",
+      "pitanje": "Po čemu je Grad Zagreb poseban u odnosu na druge gradove?",
+      "ponudeni": [
+        "Nema svojega gradonačelnika",
+        "Ne pripada nijednoj županiji ni državi",
+        "Istodobno je grad i ima položaj županije",
+        "Dio je Zagrebačke županije"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Grad Zagreb je glavni grad i ujedno ima položaj županije, zato se navodi uz 20 županija.",
+      "savjet": "Sjeti se kako glasi podjela Hrvatske: 20 županija i još nešto."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto kažemo da je Hrvatska prirodno raznolika zemlja?",
+      "ponudeni": [
+        "Cijela je prekrivena nizinama",
+        "Ima more i otoke, nizine, brežuljke i gore",
+        "Cijela leži uz more",
+        "Nema rijeka ni jezera"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na malom prostoru Hrvatska ima more i otoke, nizine, brežuljkaste i gorske krajeve.",
+      "savjet": "Raznolik znači da ima mnogo različitih dijelova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-037",
+      "tezina": "srednje",
+      "pitanje": "Koje od navedenih rijeka teku nizinskim dijelom Hrvatske?",
+      "ponudeni": [
+        "Krka i Cetina",
+        "Neretva i Zrmanja",
+        "Mirna i Raša",
+        "Sava i Drava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sava i Drava velike su rijeke nizinske Hrvatske i teku prema istoku, prema Dunavu.",
+      "savjet": "Sjeti se rijeka koje teku kroz Slavoniju i Podravinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-038",
+      "tezina": "srednje",
+      "pitanje": "Koja velika rijeka čini dio istočne granice Hrvatske?",
+      "ponudeni": [
+        "Kupa",
+        "Dunav",
+        "Krka",
+        "Neretva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dunav teče na istoku Hrvatske i dijelom čini granicu sa Srbijom.",
+      "savjet": "Na istoku Hrvatske teče najveća rijeka koja prolazi kroz našu zemlju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-039",
+      "tezina": "srednje",
+      "pitanje": "Koji je od navedenih nacionalni park u Hrvatskoj?",
+      "ponudeni": [
+        "Papuk",
+        "Učka",
+        "Mljet",
+        "Biokovo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mljet je nacionalni park. Papuk, Učka i Biokovo su parkovi prirode.",
+      "savjet": "Nacionalni park u ovom popisu je otok na jugu Jadrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-040",
+      "tezina": "srednje",
+      "pitanje": "Koji je nacionalni park skupina otoka u Jadranskom moru?",
+      "ponudeni": [
+        "Risnjak",
+        "Kornati",
+        "Paklenica",
+        "Plitvička jezera"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kornati su skupina otoka i otočića u Jadranskom moru. Risnjak, Paklenica i Plitvička jezera su na kopnu.",
+      "savjet": "Sjeti se koji su parkovi u gorskom dijelu Hrvatske, a koji na moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-041",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko Dioklecijanovoj palači u Splitu, Eufrazijevoj bazilici u Poreču i starom gradu Dubrovniku?",
+      "ponudeni": [
+        "Nalaze se u nizinskom kraju",
+        "Sve su nacionalni parkovi",
+        "Izgrađene su u novije vrijeme",
+        "Upisane su na UNESCO-ov popis svjetske baštine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve tri znamenitosti upisane su na UNESCO-ov popis svjetske baštine jer su vrijedne za cijeli svijet.",
+      "savjet": "Sjeti se popisa najvrjednijih građevina i prirodnih ljepota svijeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-042",
+      "tezina": "srednje",
+      "pitanje": "Turisti žele vidjeti veliki rimski amfiteatar (arenu) koji je i danas dobro očuvan. U koji će hrvatski grad otputovati?",
+      "ponudeni": [
+        "U Pulu",
+        "U Osijek",
+        "U Varaždin",
+        "U Karlovac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Puli se nalazi rimska arena, jedna od najpoznatijih hrvatskih znamenitosti.",
+      "savjet": "Rimljani su gradili gradove uz more, a taj je grad u Istri."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-043",
+      "tezina": "srednje",
+      "pitanje": "Koja od navedenih županija leži uz Jadransko more?",
+      "ponudeni": [
+        "Osječko-baranjska",
+        "Varaždinska",
+        "Zadarska",
+        "Krapinsko-zagorska"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zadarska županija leži uz Jadransko more, a ostale su u unutrašnjosti Hrvatske.",
+      "savjet": "Pogledaj koji od tih gradova, po kojima se županije zovu, leži uz more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto je Republika Hrvatska podijeljena na županije, gradove i općine?",
+      "ponudeni": [
+        "Da bi se državom lakše upravljalo",
+        "Da bi bilo više praznika",
+        "Da bi se zabranila putovanja",
+        "Da bi svaki grad imao more"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Podjela na manje dijelove pomaže da se poslovi bolje obavljaju, jer lokalna vlast bolje poznaje potrebe svojega kraja.",
+      "savjet": "Razmisli je li lakše urediti cijelu kuću odjednom ili sobu po sobu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-045",
+      "tezina": "srednje",
+      "pitanje": "Hrvatski sabor donio je novi zakon. Tko se mora pridržavati toga zakona?",
+      "ponudeni": [
+        "Samo saborski zastupnici",
+        "Svi u Republici Hrvatskoj",
+        "Samo stanovnici Zagreba",
+        "Samo zaposleni u Vladi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zakoni vrijede za sve u Republici Hrvatskoj, bez obzira na to gdje žive ili što rade.",
+      "savjet": "Sjeti se vrijede li prometna pravila samo u jednom gradu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-046",
+      "tezina": "srednje",
+      "pitanje": "Što se obilježava na Dan državnosti, 30. svibnja?",
+      "ponudeni": [
+        "Dan kada je Hrvatska ušla u Europsku uniju",
+        "Dan kada je uveden euro",
+        "Dan kada se sastao prvi višestranački Hrvatski sabor",
+        "Dan kada je osnovan Zagreb"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dan državnosti spomen je na dan kada se sastao prvi višestranački Hrvatski sabor, što je bio važan korak prema samostalnoj Hrvatskoj.",
+      "savjet": "Taj je blagdan povezan s tijelom koje i danas donosi zakone."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-047",
+      "tezina": "srednje",
+      "pitanje": "Koja je zadaća Vlade Republike Hrvatske?",
+      "ponudeni": [
+        "Sudi u sporovima",
+        "Donosi Ustav",
+        "Bira predsjednika Republike",
+        "Provodi zakone i upravlja poslovima države"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vlada provodi zakone koje donese Sabor i brine se o svakodnevnim poslovima države.",
+      "savjet": "Sabor zakone donosi, a netko se mora pobrinuti da se oni ostvare."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-048",
+      "tezina": "srednje",
+      "pitanje": "Mia je posjetila Kopački rit, Lonjsko polje i Medvednicu. Što je zajedničko tim mjestima?",
+      "ponudeni": [
+        "Sva su tri parkovi prirode",
+        "Sva su tri nacionalni parkovi",
+        "Sva su tri na otocima",
+        "Sva su tri u Dalmaciji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kopački rit, Lonjsko polje i Medvednica parkovi su prirode u kontinentalnom dijelu Hrvatske.",
+      "savjet": "Hrvatska ima nacionalne parkove i parkove prirode; sjeti se u koju skupinu spadaju ova mjesta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-049",
+      "tezina": "srednje",
+      "pitanje": "Zašto se kaže da je Hrvatska zemlja tisuću otoka?",
+      "ponudeni": [
+        "Ima tisuću rijeka i jezera",
+        "Uz njezinu obalu ima više od tisuću otoka, otočića i hridi",
+        "Ima tisuću gradova",
+        "Ima tisuću planinskih vrhova"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uz hrvatsku obalu nalazi se više od tisuću otoka, otočića i hridi.",
+      "savjet": "Riječ otok u izreci govori na što treba misliti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-050",
+      "tezina": "srednje",
+      "pitanje": "Netko je upravo napunio 18 godina. Što od navedenoga sada smije?",
+      "ponudeni": [
+        "Sam donijeti novi zakon",
+        "Sam imenovati župana",
+        "Sam promijeniti Ustav",
+        "Glasati na izborima za Hrvatski sabor"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Punoljetni građani, koji su navršili 18 godina, imaju pravo glasati na izborima.",
+      "savjet": "Sjeti se što svaki punoljetni građanin može učiniti na dan izbora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-051",
+      "tezina": "srednje",
+      "pitanje": "Što znači da je Hrvatska republika?",
+      "ponudeni": [
+        "Državu vodi kralj ili kraljica",
+        "Na čelu države je predsjednik ili predsjednica koga biraju građani",
+        "Državom upravlja samo jedan grad",
+        "Država nema granica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U republici na čelu države nije kralj, nego predsjednik ili predsjednica koga građani biraju na izborima.",
+      "savjet": "Usporedi kraljevinu i republiku: tko je na čelu i kako je izabran."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-052",
+      "tezina": "srednje",
+      "pitanje": "Dvoje susjeda ne mogu se dogovoriti gdje je granica između njihovih vrtova. Kome se mogu obratiti da o tome odluči prema zakonu?",
+      "ponudeni": [
+        "Hrvatskom saboru",
+        "Turističkoj zajednici",
+        "Muzeju",
+        "Sudu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sudovi rješavaju sporove među ljudima prema zakonima.",
+      "savjet": "Sjeti se tko u državi rješava sporove i sudi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-053",
+      "tezina": "srednje",
+      "pitanje": "Što od navedenoga pokazuje društvenu raznolikost Hrvatske?",
+      "ponudeni": [
+        "Velik broj otoka",
+        "Visoke planine",
+        "Velike rijeke",
+        "Različiti običaji, narječja i jela u raznim krajevima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Društvena raznolikost odnosi se na ljude: njihove običaje, govor, jela i način života.",
+      "savjet": "Društvo čine ljudi, a priroda su more, planine i rijeke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-054",
+      "tezina": "srednje",
+      "pitanje": "Što od navedenoga pokazuje prirodnu raznolikost Hrvatske?",
+      "ponudeni": [
+        "U svim krajevima jedu se ista jela",
+        "Svi govore istim narječjem",
+        "Uz more su otoci, a na sjeveru i istoku nizine",
+        "Svi gradovi su jednako veliki"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prirodna raznolikost znači da Hrvatska ima različite krajeve: more i otoke, nizine, brežuljke i gore.",
+      "savjet": "Priroda su reljef, voda i biljke, a ne običaji ljudi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-055",
+      "tezina": "srednje",
+      "pitanje": "Kojoj vlasti pripada Hrvatski sabor?",
+      "ponudeni": [
+        "Zakonodavnoj",
+        "Sudbenoj",
+        "Izvršnoj",
+        "Lokalnoj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski sabor donosi zakone, pa pripada zakonodavnoj vlasti.",
+      "savjet": "Naziv te vlasti sadrži riječ zakon."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-056",
+      "tezina": "srednje",
+      "pitanje": "U kojoj se županiji nalazi Pula?",
+      "ponudeni": [
+        "Istarska",
+        "Primorsko-goranska",
+        "Ličko-senjska",
+        "Zadarska"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pula je grad na jugu Istre i nalazi se u Istarskoj županiji.",
+      "savjet": "Sjeti se na kojem se poluotoku nalazi Pula."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-057",
+      "tezina": "srednje",
+      "pitanje": "Zašto se Hrvatska u svijetu povezuje s kravatom?",
+      "ponudeni": [
+        "Kravata potječe od rupca koji su nosili hrvatski vojnici",
+        "Kravata se nosi samo u Hrvatskoj",
+        "Hrvati su prvi proizveli svilu",
+        "Kravata je na hrvatskoj zastavi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski vojnici nosili su oko vrata rubac, koji se proširio svijetom i postao kravata.",
+      "savjet": "Sjeti se da su davno i vojnici nosili nešto oko vrata."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-058",
+      "tezina": "srednje",
+      "pitanje": "Koji je par ispravno povezan (osoba – područje kojim upravlja)?",
+      "ponudeni": [
+        "Župan – općina",
+        "Općinski načelnik – županija",
+        "Gradonačelnik – grad",
+        "Gradonačelnik – država"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gradonačelnik upravlja gradom, župan županijom, a općinski načelnik općinom.",
+      "savjet": "Pogledaj od koje je riječi nastao svaki naziv."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-059",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove hrvatske gradove.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Zadar",
+            "polozaj": [
+              15.23,
+              44.12
+            ]
+          },
+          {
+            "naziv": "Pula",
+            "polozaj": [
+              13.85,
+              44.87
+            ]
+          },
+          {
+            "naziv": "Varaždin",
+            "polozaj": [
+              16.34,
+              46.31
+            ]
+          },
+          {
+            "naziv": "Dubrovnik",
+            "polozaj": [
+              18.09,
+              42.65
+            ]
+          },
+          {
+            "naziv": "Karlovac",
+            "polozaj": [
+              15.55,
+              45.49
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Pula je na jugu Istre, Zadar u sjevernoj Dalmaciji, a Dubrovnik na krajnjem jugu. Varaždin je na sjeveru blizu Drave, a Karlovac na Kupi, na putu iz unutrašnjosti prema moru.",
+      "savjet": "Tri su grada uz more, jedan je na sjeveru blizu Drave, a jedan na rijeci Kupi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-060",
+      "tezina": "srednje",
+      "pitanje": "Smjesti na kartu ove nacionalne parkove.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Plitvička jezera",
+            "polozaj": [
+              15.62,
+              44.88
+            ]
+          },
+          {
+            "naziv": "Kornati",
+            "polozaj": [
+              15.3,
+              43.82
+            ]
+          },
+          {
+            "naziv": "Mljet",
+            "polozaj": [
+              17.52,
+              42.75
+            ]
+          },
+          {
+            "naziv": "Brijuni",
+            "polozaj": [
+              13.76,
+              44.92
+            ]
+          },
+          {
+            "naziv": "Risnjak",
+            "polozaj": [
+              14.62,
+              45.43
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Brijuni su uz zapadnu obalu Istre, Risnjak u Gorskom kotaru, Plitvička jezera u Lici, Kornati u srednjoj Dalmaciji, a Mljet na jugu Dalmacije.",
+      "savjet": "Tri su parka na otocima ili otočjima, a dva su u gorskom dijelu Hrvatske."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-061",
+      "tezina": "tesko",
+      "pitanje": "Luka je rođen u Hrvatskoj, a sada živi i radi u Njemačkoj. Može li Hrvatska i dalje biti njegova domovina?",
+      "ponudeni": [
+        "Da, domovina je zemlja kojoj osjećamo da pripadamo, gdje god živjeli",
+        "Ne, domovina je samo zemlja u kojoj trenutno živimo",
+        "Ne, domovina je samo grad u kojem radimo",
+        "Da, ali samo dok je u Hrvatskoj na odmoru"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Domovina je zemlja u kojoj smo rođeni ili kojoj osjećamo da pripadamo, pa ostaje domovina i kada živimo daleko.",
+      "savjet": "Razmisli o razlici između mjesta gdje trenutno živimo i zemlje kojoj pripadamo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-062",
+      "tezina": "tesko",
+      "pitanje": "Grad je odlučio urediti novo dječje igralište. Koja je vlast najvjerojatnije donijela tu odluku?",
+      "ponudeni": [
+        "Hrvatski sabor",
+        "Gradska vlast",
+        "Ustavni sud",
+        "Predsjednik Republike"
+      ],
+      "tocan": 1,
+      "objasnjenje": "O uređenju igrališta, ulica i parkova u gradu odlučuje gradska vlast, jer najbolje poznaje potrebe svojih stanovnika.",
+      "savjet": "Razmisli tko najbolje zna što treba stanovnicima jednog mjesta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-063",
+      "tezina": "tesko",
+      "pitanje": "Zašto građani biraju saborske zastupnike, umjesto da svi zajedno donose zakone?",
+      "ponudeni": [
+        "Jer građani ne smiju sudjelovati u izborima",
+        "Jer zakone mora odobriti susjedna država",
+        "Jer se svi građani ne mogu sastajati i odlučivati o svakom zakonu",
+        "Jer zakoni vrijede samo za zastupnike"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Građana je previše da bi se svi sastajali, pa biraju zastupnike koji u njihovo ime donose zakone.",
+      "savjet": "Zamisli koliko bi velika dvorana trebala biti za sve odrasle građane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-064",
+      "tezina": "tesko",
+      "pitanje": "Zakone donosi Sabor, provodi ih Vlada, a sude sudovi. Zašto je vlast tako podijeljena?",
+      "ponudeni": [
+        "Da zakoni budu što duži",
+        "Da sudovi mogu mijenjati Ustav",
+        "Da Sabor ne mora poštovati zakone",
+        "Da sva vlast ne bude u rukama istih ljudi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad je vlast podijeljena, nitko nema svu moć, pa jedni druge mogu nadzirati.",
+      "savjet": "Razmisli što bi se moglo dogoditi kad bi ista osoba donosila zakone i sudila."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-065",
+      "tezina": "tesko",
+      "pitanje": "Turist plovi brodom od Istre prema jugu do Dubrovnika. Što će najčešće vidjeti s broda?",
+      "ponudeni": [
+        "Velike nizine sa žitnim poljima",
+        "Mnogo otoka i obalnih gradova",
+        "Široke ravnice uz Dunav",
+        "Ledenjake i snježna polja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uz cijelu hrvatsku obalu nalaze se otoci i obalni gradovi, pa ih turist vidi tijekom cijele plovidbe.",
+      "savjet": "Sjeti se kako izgleda hrvatska obala na karti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-066",
+      "tezina": "tesko",
+      "pitanje": "Obitelj putuje automobilom iz Osijeka u Split preko Zagreba i Like. Kojim redom prolazi krajeve?",
+      "ponudeni": [
+        "Primorski, gorski, nizinski",
+        "Gorski, nizinski, primorski",
+        "Nizinski, gorski, primorski",
+        "Primorski, nizinski, gorski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osijek je u nizini, put kroz Liku vodi preko gorskog kraja, a Split je u primorskom kraju.",
+      "savjet": "Odredi kojem kraju pripada polazište, a kojem odredište puta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-067",
+      "tezina": "tesko",
+      "pitanje": "Zašto je Hrvatska zanimljiva ljubiteljima povijesti?",
+      "ponudeni": [
+        "Ima mnogo starih gradova, rimskih građevina i dvoraca",
+        "U njoj su samo nove zgrade",
+        "U njoj nema muzeja",
+        "Svi su gradovi izgrađeni u istom stoljeću"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Hrvatskoj su sačuvane rimske građevine, stari gradovi sa zidinama, crkve i dvorci iz različitih razdoblja.",
+      "savjet": "Sjeti se znamenitosti poput palače u Splitu ili arene u Puli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-068",
+      "tezina": "tesko",
+      "pitanje": "Što je posljedica toga što Hrvatska ima dugu obalu i mnogo otoka?",
+      "ponudeni": [
+        "Svi se ljudi bave uzgojem pšenice",
+        "Nema potrebe za brodovima",
+        "U Hrvatskoj nema luka",
+        "Razvijeni su turizam, ribarstvo i pomorstvo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zbog mora i otoka razvijeni su turizam, ribarstvo i pomorstvo, a brodovi povezuju otoke s kopnom.",
+      "savjet": "Razmisli čime se bave ljudi koji žive uz more i na otocima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-069",
+      "tezina": "tesko",
+      "pitanje": "Nacionalni parkovi su zaštićeni. Što od navedenoga posjetitelj NE smije raditi u nacionalnom parku?",
+      "ponudeni": [
+        "Fotografirati krajolik",
+        "Brati biljke i bacati otpad u prirodu",
+        "Hodati označenim stazama",
+        "Promatrati ptice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U nacionalnom parku priroda je zaštićena, pa se ne smiju brati biljke ni ostavljati otpad.",
+      "savjet": "Razmisli što od toga šteti prirodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-070",
+      "tezina": "tesko",
+      "pitanje": "Zašto nacionalni parkovi postoje u različitim dijelovima Hrvatske, od otoka do planina?",
+      "ponudeni": [
+        "Zakon traži da svaki grad ima park",
+        "Parkovi su namijenjeni samo stranim turistima",
+        "Svaki kraj ima drukčiju vrijednu prirodu koju treba čuvati",
+        "Svi parkovi moraju biti jednako daleko od mora"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatska je raznolika, pa svaki kraj ima drugačije vrijedne biljke, životinje i krajolike koje treba zaštititi.",
+      "savjet": "Sjeti se koliko su različiti otoci, planine i jezera."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-071",
+      "tezina": "tesko",
+      "pitanje": "Sabor je donio zakon o zaštiti prirode. Tko treba brinuti da se taj zakon provodi u cijeloj državi?",
+      "ponudeni": [
+        "Ravnatelj škole",
+        "Turistički vodič",
+        "Svaki zastupnik u svojem mjestu",
+        "Vlada Republike Hrvatske"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vlada provodi zakone koje donese Sabor i brine se da se poštuju u cijeloj državi.",
+      "savjet": "Sabor zakone donosi, a sjeti se tko ih provodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-072",
+      "tezina": "tesko",
+      "pitanje": "Stanovnici jednog sela u općini žele da se popravi cesta kroz selo. Kome se najprije trebaju obratiti?",
+      "ponudeni": [
+        "Općinskom načelniku",
+        "Predsjedniku Republike",
+        "Hrvatskom saboru",
+        "Ustavnom sudu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "O poslovima u općini, kao što su lokalne ceste, brine se općinska vlast na čelu s općinskim načelnikom.",
+      "savjet": "Razmisli koja je vlast najbliža stanovnicima toga sela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-073",
+      "tezina": "tesko",
+      "pitanje": "Predsjednik ili predsjednica Republike dočekuje predsjednika druge države. Koju zadaću pritom obavlja?",
+      "ponudeni": [
+        "Donosi zakone",
+        "Predstavlja Hrvatsku u svijetu",
+        "Sudi u sporovima",
+        "Upravlja županijom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Predsjednik ili predsjednica Republike predstavlja Hrvatsku u zemlji i u svijetu, pa dočekuje goste iz drugih država.",
+      "savjet": "Razmisli u čije ime se dočekuju gosti iz druge države."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-074",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo kad u državi ne bi bilo zakona?",
+      "ponudeni": [
+        "Svi bi bili sigurniji",
+        "Vlada bi imala manje posla",
+        "Ljudi ne bi imali jasna pravila, pa bi bilo više nepravde",
+        "Škole bi radile dulje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zakoni su pravila koja vrijede za sve; bez njih bi svatko radio što hoće, pa bi bilo više nereda i nepravde.",
+      "savjet": "Zamisli utakmicu bez pravila i suca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-075",
+      "tezina": "tesko",
+      "pitanje": "Ivan ljeti pliva u moru, a zimi se skija u gorskom kraju, a ne izlazi iz Hrvatske. Što to pokazuje?",
+      "ponudeni": [
+        "Da je Hrvatska jedna od najvećih država svijeta",
+        "Da u Hrvatskoj snijeg pada cijele godine",
+        "Da su svi krajevi Hrvatske jednaki",
+        "Da Hrvatska na malom prostoru ima vrlo različite krajeve"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatska je mala, ali raznolika država: ima i more i gore, pa se u njoj mogu raditi vrlo različite stvari.",
+      "savjet": "Razmisli koliko se različitih krajeva nalazi u našoj državi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-076",
+      "tezina": "tesko",
+      "pitanje": "Zašto su obalni gradovi poput Splita, Rijeke i Zadara razvili luke?",
+      "ponudeni": [
+        "Leže uz rijeku Dunav",
+        "Leže uz more, pa se brodovima lako prevoze ljudi i roba",
+        "U njima nema cesta",
+        "Nalaze se u planinama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ti gradovi leže uz more, pa su u njima luke iz kojih brodovi prevoze putnike i robu.",
+      "savjet": "Razmisli što je potrebno brodovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-077",
+      "tezina": "tesko",
+      "pitanje": "U Slavoniji se uzgajaju pšenica i kukuruz, a u Dalmaciji masline i vinova loza. Što je glavni razlog toj razlici?",
+      "ponudeni": [
+        "Različiti zakoni",
+        "Različit novac",
+        "Različit reljef i klima",
+        "Različito vrijeme početka škole"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Slavonija je nizina s plodnom zemljom, a Dalmacija ima toplu primorsku klimu, pa uspijevaju različite biljke.",
+      "savjet": "Razmisli o čemu ovisi rast biljaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-078",
+      "tezina": "tesko",
+      "pitanje": "Hrvatski sabor i Vlada nalaze se u Zagrebu. Zašto su važne državne ustanove smještene baš ondje?",
+      "ponudeni": [
+        "Zagreb leži na moru",
+        "Zagreb je na otoku",
+        "Zagreb je jedini grad u Hrvatskoj",
+        "Zagreb je glavni grad i sjedište državne vlasti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagreb je glavni grad Republike Hrvatske, pa su u njemu sjedišta Sabora, Vlade i drugih državnih ustanova.",
+      "savjet": "Sjeti se što znači da je neki grad glavni grad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-079",
+      "tezina": "tesko",
+      "pitanje": "Svaka država ima područje, stanovnike i vlast. Što je od navedenoga primjer vlasti?",
+      "ponudeni": [
+        "Rijeka Sava",
+        "Hrvatski sabor",
+        "Jadransko more",
+        "Stanovnici Osijeka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatski sabor dio je vlasti jer donosi zakone. Rijeke i more dio su područja, a ljudi su stanovnici.",
+      "savjet": "Svaki odgovor svrstaj u jedno od triju obilježja države."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-080",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o Ustavu Republike Hrvatske točna?",
+      "ponudeni": [
+        "Ustav vrijedi samo u Zagrebu",
+        "Ustav donose suci",
+        "Svi zakoni moraju biti u skladu s Ustavom",
+        "Ustav je knjiga o povijesti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ustav je najviši zakon, pa nijedan drugi zakon ne smije biti u suprotnosti s njim.",
+      "savjet": "Sjeti se zašto se Ustav naziva najvišim zakonom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-081",
+      "tezina": "tesko",
+      "pitanje": "Sava teče prema Dunavu i Crnom moru, a Krka u Jadransko more. Što to pokazuje?",
+      "ponudeni": [
+        "Sve hrvatske rijeke teku u Jadransko more",
+        "Hrvatske rijeke otječu u dva različita mora",
+        "Sava je dio Jadranskog mora",
+        "Krka teče kroz Slavoniju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rijeke nizinske Hrvatske otječu prema Crnom moru, a rijeke primorske Hrvatske u Jadransko more.",
+      "savjet": "Prati kamo na kraju stiže voda svake rijeke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-082",
+      "tezina": "tesko",
+      "pitanje": "Saborski zastupnici glasaju o novom zakonu. Kada će zakon biti izglasan?",
+      "ponudeni": [
+        "Kada za njega glasa većina zastupnika",
+        "Kada za njega glasa samo jedan zastupnik",
+        "Kada ga potpiše bilo koji građanin",
+        "Kada ga napiše sudac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Saboru se odlučuje glasanjem, a zakon je izglasan kada za njega glasa većina zastupnika.",
+      "savjet": "Sjeti se kako razred odlučuje kada se ne slažu svi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-083",
+      "tezina": "tesko",
+      "pitanje": "Tko bira predsjednika ili predsjednicu Republike Hrvatske?",
+      "ponudeni": [
+        "Hrvatski sabor",
+        "Vlada Republike Hrvatske",
+        "Građani na izborima",
+        "Ustavni sud"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Predsjednika ili predsjednicu Republike izravno biraju građani na izborima.",
+      "savjet": "Sjeti se što znači da je Hrvatska republika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-084",
+      "tezina": "tesko",
+      "pitanje": "Učenica iz Osijeka i učenik iz Dubrovnika žive daleko jedno od drugoga. Što im je sigurno zajedničko?",
+      "ponudeni": [
+        "Žive u istoj županiji",
+        "Imaju istog gradonačelnika",
+        "Žive u istom prirodnom kraju",
+        "Žive u istoj državi i vrijede im isti zakoni"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oboje žive u Republici Hrvatskoj, pa za njih vrijede isti zakoni, iako žive u različitim županijama i krajevima.",
+      "savjet": "Razmisli što vrijedi za sve stanovnike Hrvatske, gdje god živjeli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-085",
+      "tezina": "tesko",
+      "pitanje": "Zašto u Hrvatskoj živi mnogo različitih vrsta biljaka i životinja?",
+      "ponudeni": [
+        "Ima različite krajeve, pa i različite uvjete života",
+        "Sve su donesene iz drugih zemalja",
+        "Cijela je prekrivena šumom",
+        "U cijeloj je zemlji ista klima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "More, otoci, gore i nizine imaju različitu klimu i tlo, pa u njima žive različite biljke i životinje.",
+      "savjet": "Razmisli žive li iste biljke na moru i u planinama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-086",
+      "tezina": "tesko",
+      "pitanje": "Kojim su redom poredana područja od najmanjeg do najvećeg?",
+      "ponudeni": [
+        "Država, županija, općina",
+        "Županija, općina, država",
+        "Općina, država, županija",
+        "Općina, županija, država"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Općina je dio županije, a županija je dio države.",
+      "savjet": "Razmisli što je dio čega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-087",
+      "tezina": "tesko",
+      "pitanje": "Što su nekada štitile gradske zidine, primjerice one u Dubrovniku?",
+      "ponudeni": [
+        "Grad i stanovnike od napada neprijatelja",
+        "Grad od poplava rijeke",
+        "Polja od suše",
+        "Brodove od velikih valova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gradske zidine gradile su se da zaštite grad i njegove stanovnike od napada neprijatelja.",
+      "savjet": "Razmisli zašto su ljudi nekada gradove okruživali visokim kamenim zidovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-088",
+      "tezina": "tesko",
+      "pitanje": "U Hrvatskom saboru sjede zastupnici izabrani u svim dijelovima Hrvatske. Zašto je to dobro?",
+      "ponudeni": [
+        "Tako se pri donošenju zakona čuju potrebe ljudi iz cijele države",
+        "Tako zastupnici ne moraju dolaziti na sjednice",
+        "Tako svaki kraj ima svoj ustav",
+        "Tako se zakoni ne moraju poštovati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kada zastupnike biraju građani iz cijele Hrvatske, u Saboru se čuju potrebe svih krajeva.",
+      "savjet": "Razmisli bi li zastupnici iz samo jednog grada znali što treba drugim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-089",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ove kulturno-povijesne znamenitosti Hrvatske.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Dioklecijanova palača",
+            "polozaj": [
+              16.44,
+              43.51
+            ]
+          },
+          {
+            "naziv": "Rimska arena",
+            "polozaj": [
+              13.85,
+              44.87
+            ]
+          },
+          {
+            "naziv": "Stari grad Dubrovnik",
+            "polozaj": [
+              18.11,
+              42.64
+            ]
+          },
+          {
+            "naziv": "Dvorac Trakošćan",
+            "polozaj": [
+              15.94,
+              46.26
+            ]
+          },
+          {
+            "naziv": "Rodna kuća Nikole Tesle",
+            "polozaj": [
+              15.32,
+              44.56
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Dioklecijanova palača je u Splitu, rimska arena u Puli, stari grad Dubrovnik na jugu Dalmacije, dvorac Trakošćan u Hrvatskom zagorju, a rodna kuća Nikole Tesle u Smiljanu u Lici.",
+      "savjet": "Rimske građevine traži u gradovima uz more, dvorac u brežuljcima na sjeveru, a izumiteljevu kuću u gorskom kraju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-najvaznije-o-hrvatskoj-090",
+      "tezina": "tesko",
+      "pitanje": "Smjesti na kartu ove hrvatske gradove.",
+      "karta": {
+        "mjesta": [
+          {
+            "naziv": "Vukovar",
+            "polozaj": [
+              19,
+              45.35
+            ]
+          },
+          {
+            "naziv": "Slavonski Brod",
+            "polozaj": [
+              18.01,
+              45.16
+            ]
+          },
+          {
+            "naziv": "Gospić",
+            "polozaj": [
+              15.37,
+              44.55
+            ]
+          },
+          {
+            "naziv": "Šibenik",
+            "polozaj": [
+              15.89,
+              43.73
+            ]
+          },
+          {
+            "naziv": "Sisak",
+            "polozaj": [
+              16.37,
+              45.48
+            ]
+          },
+          {
+            "naziv": "Koprivnica",
+            "polozaj": [
+              16.83,
+              46.16
+            ]
+          }
+        ]
+      },
+      "objasnjenje": "Vukovar je na Dunavu na istoku, Slavonski Brod na Savi u Slavoniji, Sisak na Savi i Kupi, Koprivnica u Podravini, Gospić u Lici, a Šibenik na moru uz ušće Krke.",
+      "savjet": "Pomoći će ti rijeke: Dunav na istoku, Sava i Drava u nizinama, Krka uz more; jedan je grad u gorskom kraju."
+    }
+  ]
+}
