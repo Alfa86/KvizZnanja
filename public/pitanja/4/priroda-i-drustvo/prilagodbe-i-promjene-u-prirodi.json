@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "prilagodbe-i-promjene-u-prirodi",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko godišnjih doba ima jedna godina?",
+      "ponudeni": [
+        "Dva",
+        "Tri",
+        "Četiri",
+        "Šest"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Godina ima četiri godišnja doba: proljeće, ljeto, jesen i zimu.",
+      "savjet": "Nabroji redom godišnja doba počevši od proljeća pa ih prebroji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-002",
+      "tezina": "lagano",
+      "pitanje": "Kojim redom slijede godišnja doba ako počnemo od proljeća?",
+      "ponudeni": [
+        "proljeće, ljeto, jesen, zima",
+        "proljeće, jesen, ljeto, zima",
+        "proljeće, zima, ljeto, jesen",
+        "proljeće, ljeto, zima, jesen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nakon proljeća dolazi ljeto, zatim jesen, a nakon nje zima. Poslije zime opet dolazi proljeće.",
+      "savjet": "Sjeti se kada idemo na ljetne praznike, a kada padne prvi snijeg."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dugi san u kojem neke životinje provode zimu?",
+      "ponudeni": [
+        "Seoba",
+        "Zimski san",
+        "Ljetni odmor",
+        "Gniježđenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Neke životinje, poput ježa i puha, zimu prespavaju. To zovemo zimski san.",
+      "savjet": "Naziv je sastavljen od imena godišnjeg doba i onoga što radimo noću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-004",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih životinja zimi spava zimskim snom?",
+      "ponudeni": [
+        "Vrabac",
+        "Srna",
+        "Jež",
+        "Lisica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jež zimu provodi u zimskom snu skriven u hrpi lišća. Vrabac, srna i lisica zimi su budni.",
+      "savjet": "Sjeti se male bodljikave životinje koja se zimi sklupča u lišću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu ptice koje u jesen odlaze u toplije krajeve?",
+      "ponudeni": [
+        "Domaće ptice",
+        "Ptice stanarice",
+        "Ptičji mladunci",
+        "Ptice selice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ptice selice u jesen odlaze u toplije krajeve, a u proljeće se vraćaju.",
+      "savjet": "Naziv dolazi od riječi koja znači preseliti se na drugo mjesto."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-006",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih ptica selica?",
+      "ponudeni": [
+        "Roda",
+        "Vrabac",
+        "Sjenica",
+        "Vrana"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Roda je ptica selica: u jesen odlazi u toplije krajeve, a u proljeće se vraća u svoje gnijezdo.",
+      "savjet": "Sjeti se koju pticu u našim krajevima zimi ne možemo vidjeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu ptice koje i zimi ostaju u našim krajevima?",
+      "ponudeni": [
+        "Selice",
+        "Stanarice",
+        "Lutalice",
+        "Močvarice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ptice stanarice cijele godine ostaju u istom kraju, pa i zimi.",
+      "savjet": "Naziv podsjeća na riječ stan, mjesto u kojem stalno živimo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-008",
+      "tezina": "lagano",
+      "pitanje": "Koja ptica ostaje u našim krajevima i zimi?",
+      "ponudeni": [
+        "Lasta",
+        "Roda",
+        "Sjenica",
+        "Divlja guska"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sjenica je ptica stanarica i zimi ostaje kod nas. Lasta, roda i divlja guska su selice.",
+      "savjet": "Sjeti se koje ptice zimi dolijeću na hranilice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-009",
+      "tezina": "lagano",
+      "pitanje": "U koje godišnje doba ptice selice odlaze u toplije krajeve?",
+      "ponudeni": [
+        "U proljeće",
+        "Ljeti",
+        "Zimi",
+        "U jesen"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ptice selice odlaze u jesen, prije nego što nastupi hladna zima.",
+      "savjet": "Razmisli koje godišnje doba dolazi neposredno prije hladnoće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-010",
+      "tezina": "lagano",
+      "pitanje": "Kada se ptice selice vraćaju u naše krajeve?",
+      "ponudeni": [
+        "U proljeće",
+        "Ljeti",
+        "U jesen",
+        "Zimi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ptice selice vraćaju se u proljeće kad postane toplije i kad ima dovoljno hrane.",
+      "savjet": "Sjeti se kad se priroda budi nakon zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-011",
+      "tezina": "lagano",
+      "pitanje": "Što listopadno drveće radi u jesen?",
+      "ponudeni": [
+        "Dobiva iglice",
+        "Odbacuje lišće",
+        "Cvate",
+        "Pušta nove listove"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Listopadno drveće u jesen odbacuje lišće i zimu provodi golih grana.",
+      "savjet": "Pogledaj naziv listopadno i razmisli što se događa s listovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-012",
+      "tezina": "lagano",
+      "pitanje": "U koje se godišnje doba priroda budi, stabla listaju, a cvatu prve biljke?",
+      "ponudeni": [
+        "Zimi",
+        "U jesen",
+        "U proljeće",
+        "Ljeti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U proljeće postaje toplije, pa stabla listaju, a cvatu prve biljke.",
+      "savjet": "Sjeti se koje godišnje doba dolazi odmah nakon zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-013",
+      "tezina": "lagano",
+      "pitanje": "U koje su godišnje doba dani najkraći, a noći najduže?",
+      "ponudeni": [
+        "U proljeće",
+        "Ljeti",
+        "U jesen",
+        "Zimi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zimi Sunce rano zalazi, pa su dani najkraći, a noći najduže.",
+      "savjet": "Sjeti se kada se već poslijepodne smrači."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-014",
+      "tezina": "lagano",
+      "pitanje": "U koje se godišnje doba u vinogradima bere grožđe?",
+      "ponudeni": [
+        "U jesen",
+        "Zimi",
+        "U proljeće",
+        "Ljeti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Grožđe sazrijeva krajem ljeta, a berba grožđa obavlja se u jesen.",
+      "savjet": "Razmisli kada mnogi plodovi sazriju i kada je vrijeme berbe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-015",
+      "tezina": "lagano",
+      "pitanje": "Što vjeverica radi u jesen da bi preživjela zimu?",
+      "ponudeni": [
+        "Odlazi u toplije krajeve",
+        "Skuplja i skriva plodove",
+        "Gradi gnijezdo u vodi",
+        "Odbacuje krzno"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjeverica u jesen skuplja i skriva plodove, poput žira i lješnjaka, da bi zimi imala hrane.",
+      "savjet": "Razmisli čime će se vjeverica hraniti kad zimi sve prekrije snijeg."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-016",
+      "tezina": "lagano",
+      "pitanje": "Što je prilagodba?",
+      "ponudeni": [
+        "Promjena godišnjeg doba",
+        "Bolest biljaka zimi",
+        "Osobina ili ponašanje koje pomaže živom biću preživjeti",
+        "Selidba ljudi iz sela u grad"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prilagodba je osobina ili ponašanje koje pomaže biljci ili životinji preživjeti u njezinu okolišu, primjerice gušće krzno zimi.",
+      "savjet": "Sjeti se zašto neke ptice odlete na jug, a jež zimi spava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-017",
+      "tezina": "lagano",
+      "pitanje": "Kakvo krzno mnogi sisavci imaju zimi?",
+      "ponudeni": [
+        "Rjeđe i kraće",
+        "Mokro i glatko",
+        "Tanje nego ljeti",
+        "Gušće i toplije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mnogim sisavcima za zimu naraste gušće krzno koje ih bolje grije.",
+      "savjet": "Razmisli što tebi pomaže kad je vani hladno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-018",
+      "tezina": "lagano",
+      "pitanje": "Što se izleže iz jajeta leptira?",
+      "ponudeni": [
+        "Gusjenica",
+        "Kukuljica",
+        "Punoglavac",
+        "Odrasli leptir"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iz jajeta leptira izleže se gusjenica. Ona se kasnije pretvara u kukuljicu, a iz kukuljice izlazi leptir.",
+      "savjet": "Sjeti se koja se životinjica puzeći hrani lišćem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-019",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove mladunče žabe koje živi u vodi?",
+      "ponudeni": [
+        "Gusjenica",
+        "Punoglavac",
+        "Kukuljica",
+        "Pupoljak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz žabljeg jajeta razvija se punoglavac. On živi u vodi i ima rep, a poslije postaje žaba.",
+      "savjet": "Naziv opisuje mladunče koje izgleda kao velika glava s repom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-020",
+      "tezina": "lagano",
+      "pitanje": "Koja se od navedenih životinja zimi skriva u špilji ili na tavanu i spava zimskim snom?",
+      "ponudeni": [
+        "Zec",
+        "Vrana",
+        "Šišmiš",
+        "Srna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Šišmiš zimu provodi u zimskom snu, često u špilji ili na tavanu. Zec, vrana i srna zimi su budni.",
+      "savjet": "Sjeti se koja se životinja hrani kukcima koje zimi ne može uloviti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-021",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih ptica u jesen odlazi u toplije krajeve?",
+      "ponudeni": [
+        "Vrabac",
+        "Djetlić",
+        "Vrana",
+        "Lasta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lasta ili lastavica u jesen odlazi u toplije krajeve, a u proljeće se vraća. Vrabac, djetlić i vrana su stanarice.",
+      "savjet": "Sjeti se ptice koja gradi gnijezda pod strehama, a u proljeće je radosno dočekujemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-022",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove stadij u kojem se gusjenica pretvara u leptira?",
+      "ponudeni": [
+        "Punoglavac",
+        "Kukuljica",
+        "Pupoljak",
+        "Sjemenka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gusjenica se zatvori u kukuljicu. U njoj se pretvara u leptira koji poslije izlazi van.",
+      "savjet": "Taj se stadij ne miče i izgleda kao mala zatvorena čahura."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-023",
+      "tezina": "lagano",
+      "pitanje": "U koje su godišnje doba dani najduži i najtopliji?",
+      "ponudeni": [
+        "U proljeće",
+        "Zimi",
+        "Ljeti",
+        "U jesen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljeti Sunce dugo sja i jako grije, pa su dani dugi i topli.",
+      "savjet": "Sjeti se kad se najviše kupamo u moru i jezerima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-024",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih životinja zimu provodi u zimskom snu?",
+      "ponudeni": [
+        "Vjeverica",
+        "Vrabac",
+        "Srna",
+        "Puh"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Puh zimu prespava u zimskom snu. Vjeverica je zimi budna i hrani se zalihama.",
+      "savjet": "Sjeti se izreke da netko spava kao ta životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-025",
+      "tezina": "lagano",
+      "pitanje": "Što se zimi događa s vodom u lokvama kad je vrlo hladno?",
+      "ponudeni": [
+        "Smrzne se i postane led",
+        "Postane topla",
+        "Pretvori se u pijesak",
+        "Postane slana"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad je vrlo hladno, voda se smrzava i nastaje led.",
+      "savjet": "Sjeti se što bude s vodom u zamrzivaču."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-026",
+      "tezina": "lagano",
+      "pitanje": "Kamo odlaze ptice selice u jesen?",
+      "ponudeni": [
+        "Na visoke snježne planine",
+        "U toplije krajeve",
+        "U podzemne špilje",
+        "U šumske duplje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ptice selice odlaze u toplije krajeve gdje i zimi ima dovoljno hrane.",
+      "savjet": "Razmisli gdje bi ptica zimi najlakše našla hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-027",
+      "tezina": "lagano",
+      "pitanje": "Koja biljka među prvima cvate krajem zime ili početkom proljeća?",
+      "ponudeni": [
+        "Suncokret",
+        "Kukuruz",
+        "Visibaba",
+        "Kadulja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Visibaba cvate vrlo rano, ponekad i dok još ima snijega. Ona najavljuje proljeće.",
+      "savjet": "Sjeti se malog bijelog cvijeta spuštene glavice koji se pojavi kad se snijeg topi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-028",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove niz promjena kroz koje živo biće prolazi od nastanka do odraslog bića koje daje potomke?",
+      "ponudeni": [
+        "Zimski san",
+        "Seoba",
+        "Hranidbeni lanac",
+        "Životni ciklus"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Životni ciklus su promjene kroz koje prolazi živo biće, primjerice jaje, gusjenica, kukuljica i leptir.",
+      "savjet": "Naziv govori o životu koji se ponavlja u krugu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-029",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenog znak proljeća?",
+      "ponudeni": [
+        "Povratak lasta i pupanje stabala",
+        "Opadanje lišća",
+        "Prvi snijeg",
+        "Berba grožđa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U proljeće se vraćaju ptice selice, a na stablima se pojavljuju pupovi i novo lišće.",
+      "savjet": "Sjeti se što se u prirodi događa kad zima završi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-030",
+      "tezina": "lagano",
+      "pitanje": "Iz čega raste nova biljka?",
+      "ponudeni": [
+        "Iz latice",
+        "Iz sjemenke",
+        "Iz kamena",
+        "Iz pijeska"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz sjemenke u toplom i vlažnom tlu raste nova biljka.",
+      "savjet": "Sjeti se što stavljamo u zemlju kad sadimo grah."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto ptice selice u jesen odlaze iz naših krajeva?",
+      "ponudeni": [
+        "Zato što ne vole kišu",
+        "Zato što zimi kod nas ne bi našle dovoljno hrane",
+        "Zato što ljeti kod nas nema hrane",
+        "Zato što zimi mijenjaju perje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zimi je hladno i nema dovoljno hrane, primjerice kukaca, pa selice odlaze u toplije krajeve.",
+      "savjet": "Razmisli čega u prirodi zimi ima manje nego ljeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-032",
+      "tezina": "srednje",
+      "pitanje": "Čime se hrani lasta, a toga zimi u našim krajevima nema?",
+      "ponudeni": [
+        "Letećim kukcima",
+        "Sjemenkama",
+        "Ribama",
+        "Lišćem"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lasta u letu hvata kukce. Zimi kukaca nema pa lasta odlazi u toplije krajeve.",
+      "savjet": "Promotri kako lasta ljeti brzo leti nisko iznad livada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto vjeverica u jesen skuplja i skriva plodove?",
+      "ponudeni": [
+        "Da bi ih posadila u proljeće",
+        "Da bi od njih napravila gnijezdo",
+        "Da bi zimi imala hrane",
+        "Da bi ih dala pticama selicama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi u prirodi nema plodova, pa se vjeverica hrani zalihama koje je skupila u jesen.",
+      "savjet": "Razmisli što vjeverica može pronaći u šumi kad je sve pod snijegom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-034",
+      "tezina": "srednje",
+      "pitanje": "Zašto jež zimu provodi u zimskom snu?",
+      "ponudeni": [
+        "Zato što ljeti nikad ne spava",
+        "Zato što ne voli snijeg",
+        "Zato što se zimi seli",
+        "Zato što zimi ne bi našao dovoljno hrane"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jež se hrani kukcima, puževima i gujavicama. Zimi njih nema, pa jež zimu prespava.",
+      "savjet": "Sjeti se čime se jež hrani i ima li toga zimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-035",
+      "tezina": "srednje",
+      "pitanje": "Kako se jež u jesen priprema za zimski san?",
+      "ponudeni": [
+        "Dobro se najede i nakupi masnoće u tijelu",
+        "Odleti u toplije krajeve",
+        "Skine bodlje",
+        "Prestane jesti već ljeti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jež u jesen jede više nego inače. Masnoća koju nakupi u tijelu hrani ga tijekom zimskog sna.",
+      "savjet": "Razmisli od čega životinja živi dok cijelu zimu ništa ne jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-036",
+      "tezina": "srednje",
+      "pitanje": "Kako se listopadno drveće prilagodilo zimi?",
+      "ponudeni": [
+        "Zimi pušta nove listove",
+        "Odbaci lišće i miruje do proljeća",
+        "Cvate usred zime",
+        "Lišće mu se pretvori u iglice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrast, bukva i lipa u jesen odbace lišće. Zimi miruju, a u proljeće ponovno prolistaju.",
+      "savjet": "Sjeti se kako izgledaju hrast i lipa u siječnju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-037",
+      "tezina": "srednje",
+      "pitanje": "Koja je životinja ispravno spojena s načinom na koji provodi zimu?",
+      "ponudeni": [
+        "Vrabac – spava zimskim snom",
+        "Medvjed – seli se u toplije krajeve",
+        "Roda – seli se u toplije krajeve",
+        "Lasta – ostaje kod nas cijelu zimu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Roda je ptica selica. Vrabac je stanarica, medvjed zimi spava, a lasta zimi odlazi.",
+      "savjet": "Za svaku životinju se zapitaj: je li ptica, ostaje li kod nas i spava li zimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-038",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko ježu, puhu i šišmišu?",
+      "ponudeni": [
+        "Sve su to ptice selice",
+        "Sve su to domaće životinje",
+        "Sve žive u moru",
+        "Zimu provode u zimskom snu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jež, puh i šišmiš zimu prespavaju u zimskom snu.",
+      "savjet": "Sjeti se kako svaka od tih životinja dočeka zimu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-039",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko vrapcu, sjenici i vrani?",
+      "ponudeni": [
+        "Sve su ptice stanarice",
+        "Sve su ptice selice",
+        "Sve zimi spavaju",
+        "Sve se hrane samo ribom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrabac, sjenica i vrana ostaju kod nas i zimi, pa su ptice stanarice.",
+      "savjet": "Sjeti se koje ptice viđaš u gradu i kad pada snijeg."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-040",
+      "tezina": "srednje",
+      "pitanje": "Zašto mnogi sisavci zimi imaju gušće krzno?",
+      "ponudeni": [
+        "Da budu ljepši",
+        "Da ih bolje grije",
+        "Da lakše plivaju",
+        "Da se lakše sakriju u travi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gušće krzno bolje čuva toplinu tijela, pa životinji zimi nije tako hladno.",
+      "savjet": "Usporedi krzno sa zimskom jaknom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-041",
+      "tezina": "srednje",
+      "pitanje": "Kojim se redom razvija leptir?",
+      "ponudeni": [
+        "jaje → kukuljica → gusjenica → leptir",
+        "gusjenica → jaje → kukuljica → leptir",
+        "jaje → gusjenica → kukuljica → leptir",
+        "kukuljica → jaje → gusjenica → leptir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iz jajeta se izleže gusjenica, ona se pretvori u kukuljicu, a iz kukuljice izađe leptir.",
+      "savjet": "Kreni od jajeta i razmisli koji stadij jede lišće, a koji miruje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-042",
+      "tezina": "srednje",
+      "pitanje": "Kojim se redom razvija žaba?",
+      "ponudeni": [
+        "punoglavac → jaje → žaba",
+        "jaje → gusjenica → žaba",
+        "jaje → kukuljica → žaba",
+        "jaje → punoglavac → žaba"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Žaba polaže jaja u vodu. Iz jaja se razvijaju punoglavci, a od njih odrasle žabe.",
+      "savjet": "Sjeti se kako se zove mladunče žabe s repom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-043",
+      "tezina": "srednje",
+      "pitanje": "Kojim redom teče životni ciklus biljke?",
+      "ponudeni": [
+        "sjemenka → biljka → cvijet → plod",
+        "plod → cvijet → biljka → sjemenka",
+        "biljka → plod → cvijet → sjemenka",
+        "cvijet → sjemenka → plod → biljka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iz sjemenke izraste biljka, biljka procvjeta, a iz cvijeta nastane plod sa sjemenkama.",
+      "savjet": "Kreni od onoga što posadimo u zemlju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-044",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se punoglavac razlikuje od odrasle žabe?",
+      "ponudeni": [
+        "Ima krila i leti",
+        "Ima rep i živi samo u vodi",
+        "Ima perje",
+        "Živi zatvoren u kukuljici"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Punoglavac ima rep i živi u vodi. Kako raste, dobiva noge, gubi rep i postaje žaba.",
+      "savjet": "Zamisli kako izgleda mladunče žabe koje pliva u lokvi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-045",
+      "tezina": "srednje",
+      "pitanje": "U kojem stadiju razvoja leptir raste jedući lišće?",
+      "ponudeni": [
+        "Jaje",
+        "Kukuljica",
+        "Gusjenica",
+        "Odrasli leptir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gusjenica jede mnogo lišća i brzo raste. Kukuljica miruje, a odrasli leptir više ne raste.",
+      "savjet": "Razmisli koji stadij puže po listovima i grize ih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-046",
+      "tezina": "srednje",
+      "pitanje": "Iz kojeg dijela biljke nastaje plod?",
+      "ponudeni": [
+        "Iz korijena",
+        "Iz stabljike",
+        "Iz lista",
+        "Iz cvijeta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nakon cvjetanja iz cvijeta nastaje plod, a u plodu su sjemenke.",
+      "savjet": "Sjeti se što se na voćki pojavi u proljeće prije nego što ljeti dobijemo plodove."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-047",
+      "tezina": "srednje",
+      "pitanje": "Što se u proljeće događa sa sjemenkom u toplom i vlažnom tlu?",
+      "ponudeni": [
+        "Klija i iz nje raste nova biljka",
+        "Smrzne se",
+        "Pretvori se u plod",
+        "Ostaje ista sve do zime"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad je toplo i ima vlage, sjemenka klija i iz nje raste nova biljka.",
+      "savjet": "Razmisli što sjemenki treba da bi se probudila i počela rasti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-048",
+      "tezina": "srednje",
+      "pitanje": "Zašto priroda u proljeće oživi?",
+      "ponudeni": [
+        "Zato što su dani sve kraći",
+        "Zato što su dani sve duži, a Sunce jače grije",
+        "Zato što pada mnogo snijega",
+        "Zato što drveće odbacuje lišće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U proljeće su dani sve duži i topliji, pa biljke rastu, a životinje se bude i vraćaju.",
+      "savjet": "Razmisli što se u proljeće mijenja sa Suncem i duljinom dana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-049",
+      "tezina": "srednje",
+      "pitanje": "Što jež radi kad dođe proljeće?",
+      "ponudeni": [
+        "Odlazi u toplije krajeve",
+        "Počinje spavati zimskim snom",
+        "Budi se iz zimskog sna i traži hranu",
+        "Skuplja zalihe za zimu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U proljeće je toplije i ima kukaca i puževa, pa se jež budi i traži hranu.",
+      "savjet": "Razmisli što se s ježem događa kad zima završi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto vrapcu i sjenici zimi pomaže hranilica s hranom?",
+      "ponudeni": [
+        "Zato što zimi ne mogu letjeti",
+        "Zato što zimi spavaju",
+        "Zato što su ptice selice",
+        "Zato što je zimi teško naći hranu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrabac i sjenica su stanarice. Zimi snijeg prekrije tlo i hrane je malo, pa im hranilica pomaže.",
+      "savjet": "Sjeti se kako zimi izgledaju livade i grmlje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-051",
+      "tezina": "srednje",
+      "pitanje": "Koja se promjena u prirodi događa ljeti?",
+      "ponudeni": [
+        "Dozrijevaju žitarice i mnoge voćke",
+        "Drveće odbacuje lišće",
+        "Ptice selice odlaze na jug",
+        "Jež spava zimskim snom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljeti su dani dugi i topli, pa dozrijevaju žitarice i mnoge voćke.",
+      "savjet": "Sjeti se kada se na poljima žanje žito."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-052",
+      "tezina": "srednje",
+      "pitanje": "Koja promjena u prirodi pripada jeseni?",
+      "ponudeni": [
+        "Cvatu prve visibabe",
+        "Lišće mijenja boju i opada",
+        "Rode se vraćaju u gnijezda",
+        "Dani postaju sve duži"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U jesen lišće listopadnog drveća požuti, pocrveni i opada.",
+      "savjet": "Sjeti se kako izgleda park u listopadu i studenome."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-053",
+      "tezina": "srednje",
+      "pitanje": "Koja je od navedenih pojava znak zime?",
+      "ponudeni": [
+        "Livade su pune cvijeća",
+        "Lastavice grade gnijezda",
+        "Voda u lokvama se smrzava",
+        "Dozrijevaju trešnje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi je vrlo hladno, pa se voda u lokvama smrzava, a često pada i snijeg.",
+      "savjet": "Razmisli u koje je godišnje doba najhladnije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-054",
+      "tezina": "srednje",
+      "pitanje": "Koja životinja u jesen sama skuplja zalihe hrane za zimu?",
+      "ponudeni": [
+        "Lasta",
+        "Roda",
+        "Jež",
+        "Vjeverica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vjeverica skriva žir i lješnjake. Lasta i roda odlaze na jug, a jež zimi spava.",
+      "savjet": "Sjeti se životinje s velikim repom koja zakopava plodove u šumi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-055",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se smreka zimi razlikuje od hrasta?",
+      "ponudeni": [
+        "Smreka ostaje zelena s iglicama, a hrast je bez lišća",
+        "Smreka zimi cvate, a hrast daje plodove",
+        "Smreka zimi odbaci iglice, a hrast ostaje zelen",
+        "Smreka i hrast zimi izgledaju jednako"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Smreka je crnogorično drvo s iglicama i zimzelena je. Hrast je listopadno drvo i zimi nema lišća.",
+      "savjet": "Sjeti se kakvo drvce kitimo za Božić."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-056",
+      "tezina": "srednje",
+      "pitanje": "Divlje guske u jesen u jatima lete prema toplijim krajevima. Kako se zove to putovanje?",
+      "ponudeni": [
+        "Zimski san",
+        "Seoba ptica",
+        "Gniježđenje",
+        "Životni ciklus"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Odlazak ptica selica u toplije krajeve i povratak u proljeće zove se seoba ptica.",
+      "savjet": "Sjeti se kako se zovu ptice koje odlaze, pa od toga napravi naziv putovanja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-057",
+      "tezina": "srednje",
+      "pitanje": "Kako mnoge zeljaste biljke na livadi prežive zimu?",
+      "ponudeni": [
+        "Zimi cvatu ispod snijega",
+        "Zimi rastu brže nego ljeti",
+        "Zimu prežive sjemenke ili dijelovi biljke u tlu",
+        "Dobiju gušće krzno"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nadzemni dio mnogih zeljastih biljaka zimi uvene, a u tlu ostanu sjemenke ili dijelovi biljke iz kojih u proljeće izrastu nove biljke.",
+      "savjet": "Razmisli odakle se livada u proljeće ponovno zazeleni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-058",
+      "tezina": "srednje",
+      "pitanje": "Što ptice selice rade kad se u proljeće vrate u naše krajeve?",
+      "ponudeni": [
+        "Odmah zaspu zimskim snom",
+        "Skupljaju zalihe za ljeto",
+        "Odbacuju perje",
+        "Grade gnijezda i podižu mlade"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U proljeće ima dovoljno hrane, pa selice grade ili popravljaju gnijezda i u njima podižu mlade.",
+      "savjet": "Sjeti se što roda radi na dimnjaku u proljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-059",
+      "tezina": "srednje",
+      "pitanje": "U kojem godišnjem dobu priroda miruje, mnoge biljke ne rastu, a neke životinje spavaju?",
+      "ponudeni": [
+        "Zimi",
+        "U proljeće",
+        "Ljeti",
+        "U jesen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zimi je hladno i dani su kratki, pa biljke miruju, a neke životinje provode zimu u zimskom snu.",
+      "savjet": "Razmisli kad je najhladnije i kad jež ne izlazi iz skloništa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-060",
+      "tezina": "srednje",
+      "pitanje": "Što je od navedenog prilagodba životinje na zimu?",
+      "ponudeni": [
+        "Kupanje u lokvi ljeti",
+        "Gušće krzno koje naraste u jesen",
+        "Cvjetanje u proljeće",
+        "Polaganje jaja u vodu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gušće krzno životinju zimi bolje grije, pa joj pomaže preživjeti hladnoću.",
+      "savjet": "Potraži promjenu koja se događa prije hladnoće i pomaže protiv nje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-061",
+      "tezina": "tesko",
+      "pitanje": "Lasta se hrani kukcima koje hvata u letu, a vrabac se hrani i sjemenkama. Zašto se lasta u jesen seli, a vrabac ostaje?",
+      "ponudeni": [
+        "Vrabac ima jača krila od laste",
+        "Lasta ne voli hladnu kišu",
+        "Vrabac zimi nađe sjemenke, a lasta ne bi našla leteće kukce",
+        "Lasta mora ljeti podizati mlade na jugu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi kod nas nema letećih kukaca, pa lasta odlazi. Vrabac zimi može pronaći sjemenke i ostaje.",
+      "savjet": "Usporedi čime se hrane te dvije ptice i ima li toga zimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-062",
+      "tezina": "tesko",
+      "pitanje": "Zašto ne smijemo buditi ježa koji spava zimskim snom?",
+      "ponudeni": [
+        "Postao bi preglasan",
+        "Otišao bi u toplije krajeve",
+        "Narasle bi mu nove bodlje",
+        "Potrošio bi zalihe masnoće, a zimi nema hrane"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Budan jež troši mnogo više zaliha masnoće. Zimi ih ne može nadoknaditi pa možda ne bi preživio.",
+      "savjet": "Razmisli od čega jež živi tijekom zime i treba li ga štedjeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-063",
+      "tezina": "tesko",
+      "pitanje": "Lea je u siječnju u parku primijetila ježa sklupčanog ispod hrpe lišća koji se ne miče. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Ostaviti ga na miru jer spava zimskim snom",
+        "Odnijeti ga kući na toplo",
+        "Probuditi ga i ponuditi mu hranu",
+        "Maknuti lišće da ga Sunce grije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U siječnju jež spava zimskim snom. Lišće ga štiti od hladnoće, a buđenje bi mu naštetilo.",
+      "savjet": "Sjeti se kako jež provodi zimu i čemu mu služi hrpa lišća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-064",
+      "tezina": "tesko",
+      "pitanje": "Što nedostaje u životnom ciklusu leptira: jaje → ? → kukuljica → leptir",
+      "ponudeni": [
+        "Punoglavac",
+        "Gusjenica",
+        "Cvijet",
+        "Sjemenka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz jajeta se izleže gusjenica, a tek se ona pretvara u kukuljicu.",
+      "savjet": "Razmisli što se izleže iz jajeta leptira prije nego što nastane kukuljica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-065",
+      "tezina": "tesko",
+      "pitanje": "Što nedostaje u životnom ciklusu biljke: sjemenka → biljka → ? → plod",
+      "ponudeni": [
+        "Korijen",
+        "Kukuljica",
+        "Cvijet",
+        "Gusjenica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljka najprije procvjeta, a iz cvijeta nastaje plod sa sjemenkama.",
+      "savjet": "Razmisli što se na voćki pojavi prije ploda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-066",
+      "tezina": "tesko",
+      "pitanje": "Ivan je u travnju u lokvi vidio mnogo sitnih tamnih bića s velikom glavom i repom. Što će se iz njih razviti?",
+      "ponudeni": [
+        "Leptiri",
+        "Ribe",
+        "Ptice",
+        "Žabe"
+      ],
+      "tocan": 3,
+      "objasnjenje": "To su punoglavci. Oni s vremenom dobiju noge, izgube rep i postanu žabe.",
+      "savjet": "Sjeti se kako se zovu mladunci koji izgledaju kao glava s repom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-067",
+      "tezina": "tesko",
+      "pitanje": "Izvana se čini da se kukuljica ne miče i da se u njoj ništa ne događa. Što se zapravo događa u kukuljici?",
+      "ponudeni": [
+        "Gusjenica se pretvara u leptira",
+        "Leptir polaže jaja",
+        "Punoglavac se pretvara u žabu",
+        "Gusjenica spava zimskim snom pa opet izađe kao gusjenica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U kukuljici se tijelo gusjenice mijenja, a kad je promjena gotova, iz nje izlazi leptir.",
+      "savjet": "Sjeti se koji stadij dolazi prije kukuljice, a koji poslije nje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-068",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o životnom ciklusu točna?",
+      "ponudeni": [
+        "Iz jajeta leptira izleže se kukuljica",
+        "Odrasli leptir polaže jaja i ciklus počinje ispočetka",
+        "Punoglavac nastaje iz gusjenice",
+        "Plod nastaje prije cvijeta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Životni ciklus je krug: odrasli leptir polaže jaja, iz njih se izležu gusjenice i sve se ponavlja.",
+      "savjet": "Provjeri svaku tvrdnju redom kojim se razvijaju leptir, žaba i biljka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-069",
+      "tezina": "tesko",
+      "pitanje": "U voćnjaku je kasni proljetni mraz uništio cvjetove jabuka. Što će se najvjerojatnije dogoditi?",
+      "ponudeni": [
+        "Jabuka će biti više nego inače",
+        "Jabuke će dozreti već u proljeće",
+        "Bit će malo jabuka ili ih neće biti",
+        "Stabla će odmah odbaciti lišće"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plodovi nastaju iz cvjetova. Ako se cvjetovi unište, neće biti ni plodova.",
+      "savjet": "Sjeti se iz kojeg dijela biljke nastaje plod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-070",
+      "tezina": "tesko",
+      "pitanje": "Marko je u siječnju na hranilici vidio nekoliko ptica. Koje su to ptice mogle biti?",
+      "ponudeni": [
+        "Lasta i roda",
+        "Roda i vrabac",
+        "Divlja guska i lasta",
+        "Sjenica i vrabac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sjenica i vrabac su stanarice i zimi su kod nas. Lasta, roda i divlja guska tada su u toplijim krajevima.",
+      "savjet": "U svakom paru provjeri jesu li obje ptice zimi u našim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-071",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu samo ptice stanarice?",
+      "ponudeni": [
+        "vrabac, sjenica, djetlić",
+        "vrabac, lasta, sjenica",
+        "roda, vrana, djetlić",
+        "sjenica, divlja guska, vrabac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrabac, sjenica i djetlić ostaju kod nas i zimi. Lasta, roda i divlja guska su selice.",
+      "savjet": "U svakom nizu potraži pticu koja u jesen odlazi na jug."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-072",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu samo životinje koje zimu provode u zimskom snu?",
+      "ponudeni": [
+        "jež, vjeverica, puh",
+        "jež, puh, šišmiš",
+        "šišmiš, lisica, medvjed",
+        "zec, puh, jež"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jež, puh i šišmiš zimu prespavaju. Vjeverica, lisica i zec zimi su budni.",
+      "savjet": "U svakom nizu potraži životinju koju i zimi možeš vidjeti budnu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-073",
+      "tezina": "tesko",
+      "pitanje": "Dino je napisao: „Jež zimi spava, lasta se seli, vrabac se seli, a vjeverica skuplja plodove.“ Koja je životinja pogrešno opisana?",
+      "ponudeni": [
+        "Jež",
+        "Lasta",
+        "Vrabac",
+        "Vjeverica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrabac je ptica stanarica i ne seli se. Ostale su životinje dobro opisane.",
+      "savjet": "Za svaku životinju provjeri kako zaista provodi zimu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-074",
+      "tezina": "tesko",
+      "pitanje": "Vjeverica je u jesen zakopala žir, ali ga je zaboravila. Što se s tim žirom može dogoditi u proljeće?",
+      "ponudeni": [
+        "Pretvorit će se u kamen",
+        "Iz njega će se izleći mladunče",
+        "Odnijet će ga ptice selice",
+        "Može proklijati i iz njega može izrasti mladi hrast"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Žir je plod hrasta u kojem je sjemenka. Ako ostane u tlu, u proljeće može proklijati.",
+      "savjet": "Sjeti se što je žir i što raste iz sjemenke u tlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-075",
+      "tezina": "tesko",
+      "pitanje": "Što bi se moglo dogoditi ježu koji u jesen ne nakupi dovoljno masnoće?",
+      "ponudeni": [
+        "Mogao bi ne preživjeti zimu jer bi ostao bez zaliha",
+        "Odletio bi u toplije krajeve",
+        "Zimi bi mu naraslo perje",
+        "Spavao bi cijelo ljeto"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tijekom zimskog sna jež živi od masnoće nakupljene u jesen. Bez dovoljno zaliha teško bi preživio.",
+      "savjet": "Razmisli od čega jež živi dok zimi spava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-076",
+      "tezina": "tesko",
+      "pitanje": "Zašto žabe u proljeće polažu jaja baš u vodu?",
+      "ponudeni": [
+        "Zato što se iz jaja izležu gusjenice",
+        "Zato što se iz jaja razvijaju punoglavci koji žive u vodi",
+        "Zato što se jaja u vodi pretvore u kukuljice",
+        "Zato što žabe zimi žive u moru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz žabljih jaja razvijaju se punoglavci, a oni mogu živjeti samo u vodi.",
+      "savjet": "Sjeti se gdje živi mladunče žabe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-077",
+      "tezina": "tesko",
+      "pitanje": "Mia je u kasnu jesen posijala sjemenke u vrt, a biljke su iznikle tek u proljeće. Zašto sjemenke nisu proklijale zimi?",
+      "ponudeni": [
+        "Zimi u tlu ima previše hrane",
+        "Sjemenke su zimi spavale zimskim snom kao jež",
+        "Zimi je prehladno, a za klijanje treba toplina",
+        "Sjemenke moraju prvo postati plodovi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sjemenci za klijanje trebaju toplina i vlaga. Zimi je tlo hladno, pa sjemenka čeka proljeće.",
+      "savjet": "Razmisli što se u proljeće promijeni u tlu, a zimi toga nema."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-078",
+      "tezina": "tesko",
+      "pitanje": "Na putu do škole primijetiš da se vraćaju lastavice, dani su sve duži, a na granama se pojavljuju pupovi. Koje je godišnje doba?",
+      "ponudeni": [
+        "Ljeto",
+        "Jesen",
+        "Zima",
+        "Proljeće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Povratak ptica selica, sve duži dani i pupovi na granama znakovi su proljeća.",
+      "savjet": "Spoji sva tri znaka: kad se selice vraćaju i kad stabla počnu listati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-079",
+      "tezina": "tesko",
+      "pitanje": "Koje su promjene poredane redom kojim se događaju u godini, počevši od proljeća?",
+      "ponudeni": [
+        "cvjetanje voćaka → žetva žita → opadanje lišća → led na lokvama",
+        "žetva žita → cvjetanje voćaka → led na lokvama → opadanje lišća",
+        "opadanje lišća → cvjetanje voćaka → žetva žita → led na lokvama",
+        "cvjetanje voćaka → opadanje lišća → žetva žita → led na lokvama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Voćke cvatu u proljeće, žito se žanje ljeti, lišće opada u jesen, a lokve se smrzavaju zimi.",
+      "savjet": "Svakoj promjeni najprije pridruži godišnje doba, pa ih poredaj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-080",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko seobi rode i zimskom snu ježa?",
+      "ponudeni": [
+        "Obje se događaju u proljeće",
+        "Obje pomažu životinji preživjeti zimu kad je malo hrane",
+        "Obje rade samo domaće životinje",
+        "Obje su dio životnog ciklusa leptira"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Roda odlazi na jug, a jež zimu prespava. To su različite prilagodbe koje im pomažu preživjeti zimu.",
+      "savjet": "Razmisli zašto obje životinje mijenjaju svoje ponašanje baš kad dolazi zima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-081",
+      "tezina": "tesko",
+      "pitanje": "Djetlić je ptica stanarica. Gdje zimi najčešće pronalazi hranu?",
+      "ponudeni": [
+        "Na rascvjetanoj livadi",
+        "Na morskoj obali",
+        "Ispod kore drveća",
+        "U letu iznad vode"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djetlić kljunom kuca po drveću i ispod kore pronalazi kukce i njihove ličinke, i zimi.",
+      "savjet": "Sjeti se kako djetlić kljunom kuca po deblu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto se rode vraćaju u proljeće, a ne usred zime?",
+      "ponudeni": [
+        "Zato što zimi ne znaju put",
+        "Zato što zimi spavaju na jugu",
+        "Zato što se gnijezda grade samo noću",
+        "Zato što u proljeće ima dovoljno hrane za njih i mlade"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U proljeće je toplo i ima žaba i kukaca, pa rode mogu prehraniti sebe i podići mlade.",
+      "savjet": "Razmisli čime se roda hrani i kada toga kod nas opet ima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-083",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko leptiru, žabi i suncokretu?",
+      "ponudeni": [
+        "Svi prolaze kroz životni ciklus i daju potomke",
+        "Svi zimu provode u zimskom snu",
+        "Svi se razvijaju iz kukuljice",
+        "Svi su ptice selice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "I leptir, i žaba, i suncokret imaju životni ciklus: rastu, mijenjaju se i daju nova živa bića.",
+      "savjet": "Razmisli što vrijedi i za životinje i za biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-084",
+      "tezina": "tesko",
+      "pitanje": "Koji je par ispravno spojen?",
+      "ponudeni": [
+        "Šišmiš – zimi se seli na jug",
+        "Vjeverica – skuplja zalihe plodova",
+        "Vrana – spava zimskim snom",
+        "Puh – skuplja zalihe u gnijezdu na dimnjaku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjeverica skuplja i skriva plodove za zimu. Šišmiš i puh zimi spavaju, a vrana je stanarica.",
+      "savjet": "Za svaku životinju se zapitaj ostaje li zimi budna, spava li ili odlazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-085",
+      "tezina": "tesko",
+      "pitanje": "Gusjenica se hrani lišćem. Zašto leptiri polažu jaja na listove biljaka?",
+      "ponudeni": [
+        "Da bi jaja bila bliže Suncu",
+        "Da bi se iz jaja izlegli punoglavci",
+        "Da gusjenica nakon izlijeganja odmah ima hranu",
+        "Da bi list brže otpao u jesen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad se gusjenica izlegne, odmah počne jesti list na kojem se nalazi.",
+      "savjet": "Razmisli što će gusjenica najprije trebati kad izađe iz jajeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-086",
+      "tezina": "tesko",
+      "pitanje": "Ana je u siječnju šetala šumom. Što je ondje mogla vidjeti?",
+      "ponudeni": [
+        "Lastu kako hvata kukce",
+        "Ježa kako traži puževe",
+        "Rodu u gnijezdu",
+        "Sjenicu na grani bez lišća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sjenica je stanarica i zimi je kod nas. Lasta i roda su tada na jugu, a jež spava.",
+      "savjet": "Za svaku životinju razmisli gdje je i što radi usred zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-087",
+      "tezina": "tesko",
+      "pitanje": "Kad voćke u proljeće procvatu, ali zbog hladnog i kišnog vremena pčele ne izlaze iz košnica, što se najvjerojatnije dogodi?",
+      "ponudeni": [
+        "Bit će manje plodova",
+        "Bit će više plodova",
+        "Voćke će procvjetati ponovno zimi",
+        "Cvjetovi će se pretvoriti u sjemenke bez ploda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pčele oprašuju cvjetove. Ako cvjetovi nisu oprašeni, iz njih se ne razviju plodovi.",
+      "savjet": "Sjeti se kako pčele pomažu cvjetovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto kažemo da se priroda u jesen priprema za zimu?",
+      "ponudeni": [
+        "U jesen sve biljke cvatu da bi zimi dale plodove",
+        "Drveće odbacuje lišće, a životinje se sele, skupljaju zalihe ili spremaju za san",
+        "U jesen se sve životinje sele na jug",
+        "Ptice selice u jesen se vraćaju i grade gnijezda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U jesen se biljke i životinje na različite načine pripremaju za hladnu zimu bez dovoljno hrane.",
+      "savjet": "Sjeti se što u jesen rade drveće, vjeverica, roda i jež."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je od navedenih promjena prilagodba biljke na zimsku hladnoću?",
+      "ponudeni": [
+        "Trešnja u proljeće procvjeta",
+        "Jabuka ljeti daje plodove",
+        "Lipa u jesen odbaci lišće",
+        "Suncokret ljeti naraste visok"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lipa je listopadno drvo. Odbacivanjem lišća u jesen priprema se za zimu i lakše je preživi.",
+      "savjet": "Potraži promjenu koja se događa neposredno prije zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-prilagodbe-i-promjene-u-prirodi-090",
+      "tezina": "tesko",
+      "pitanje": "Što nedostaje: u jesen jež jede više i nakuplja masnoću → ? → u proljeće se budi i traži hranu",
+      "ponudeni": [
+        "zimi odleti u toplije krajeve",
+        "zimi gradi gnijezdo na drvetu",
+        "zimi skuplja plodove po šumi",
+        "zimi spava zimskim snom u skloništu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Između jeseni i proljeća jež spava zimskim snom, skriven u hrpi lišća ili drugom skloništu.",
+      "savjet": "Razmisli što jež radi između jeseni i proljeća."
+    }
+  ]
+}

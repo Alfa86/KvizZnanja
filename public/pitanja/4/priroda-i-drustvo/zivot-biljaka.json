@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "zivot-biljaka",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-001",
+      "tezina": "lagano",
+      "pitanje": "Koji dio biljke učvršćuje biljku u tlu?",
+      "ponudeni": [
+        "List",
+        "Korijen",
+        "Cvijet",
+        "Plod"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Korijen raste u tlu i čvrsto drži biljku da je vjetar ne bi iščupao.",
+      "savjet": "Sjeti se koji se dio biljke nalazi ispod površine tla."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-002",
+      "tezina": "lagano",
+      "pitanje": "Kojim dijelom biljka upija vodu iz tla?",
+      "ponudeni": [
+        "Listom",
+        "Cvijetom",
+        "Plodom",
+        "Korijenom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Korijen upija vodu i tvari iz tla, a zatim one putuju dalje kroz biljku.",
+      "savjet": "Razmisli koji dio biljke dodiruje vlažno tlo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-003",
+      "tezina": "lagano",
+      "pitanje": "Koji dio biljke nosi listove i cvjetove?",
+      "ponudeni": [
+        "Stabljika",
+        "Korijen",
+        "Sjemenka",
+        "Plod"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stabljika raste iznad tla i na sebi nosi listove i cvjetove.",
+      "savjet": "Sjeti se koji dio biljke povezuje korijen s gornjim dijelovima biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-004",
+      "tezina": "lagano",
+      "pitanje": "Iz kojeg dijela biljke nastaje plod?",
+      "ponudeni": [
+        "Iz korijena",
+        "Iz lista",
+        "Iz cvijeta",
+        "Iz stabljike"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad cvijet ocvate, iz njega se razvija plod, primjerice jabuka ili trešnja.",
+      "savjet": "Sjeti se što vidiš na voćki u proljeće, prije nego što se pojave plodovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-005",
+      "tezina": "lagano",
+      "pitanje": "Što se nalazi u plodu?",
+      "ponudeni": [
+        "Korijenje",
+        "Sjemenke",
+        "Listovi",
+        "Latice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U plodu su sjemenke. Kad prerežeš jabuku, u sredini vidiš njezine sjemenke.",
+      "savjet": "Zamisli prerezanu jabuku ili lubenicu i ono što je u njezinoj sredini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-006",
+      "tezina": "lagano",
+      "pitanje": "Iz kojeg dijela biljke raste nova biljka?",
+      "ponudeni": [
+        "Iz lista",
+        "Iz cvijeta",
+        "Iz latice",
+        "Iz sjemenke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad sjemenka dospije u tlo i ima dovoljno vode i topline, iz nje raste nova biljka.",
+      "savjet": "Sjeti se što vrtlar stavlja u tlo kad želi uzgojiti novu biljku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-007",
+      "tezina": "lagano",
+      "pitanje": "U kojem dijelu biljka uz pomoć Sunčeve svjetlosti stvara hranu?",
+      "ponudeni": [
+        "U listu",
+        "U korijenu",
+        "U sjemenci",
+        "U plodu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljka u listu uz pomoć Sunčeve svjetlosti stvara hranu za sebe.",
+      "savjet": "Razmisli koji je dio biljke najčešće zelen i okrenut prema Suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove zbirka osušenih i prešanih biljaka?",
+      "ponudeni": [
+        "Akvarij",
+        "Terarij",
+        "Herbarij",
+        "Album"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Herbarij je zbirka osušenih i prešanih biljaka uz koje piše ime biljke, mjesto i datum.",
+      "savjet": "Naziv te zbirke dolazi od latinske riječi za bilje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-009",
+      "tezina": "lagano",
+      "pitanje": "Kakvu stabljiku ima hrast?",
+      "ponudeni": [
+        "Zeljastu",
+        "Mekanu i sočnu",
+        "Tanku i savitljivu",
+        "Drvenastu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrast je drvo pa ima tvrdu, drvenastu stabljiku koja se zove deblo.",
+      "savjet": "Sjeti se od čega se izrađuju stolovi i ormari."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-010",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih biljaka ima zeljastu stabljiku?",
+      "ponudeni": [
+        "Bukva",
+        "Maslačak",
+        "Lipa",
+        "Javor"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Maslačak ima mekanu i zelenu, zeljastu stabljiku. Bukva, lipa i javor su drveće s drvenastom stabljikom.",
+      "savjet": "Zeljasta stabljika je mekana i zelena. Potraži biljku koja nije drvo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-011",
+      "tezina": "lagano",
+      "pitanje": "Što je biljci potrebno za život?",
+      "ponudeni": [
+        "Voda, zrak, svjetlost i toplina",
+        "Tama, hladnoća i suho tlo",
+        "Samo voda, bez svjetlosti",
+        "Samo svjetlost, bez vode"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljka može živjeti samo ako ima dovoljno vode, zraka, svjetlosti i topline. To su njezini životni uvjeti.",
+      "savjet": "Sjeti se što sve sobnoj biljci treba da ostane zelena i zdrava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-012",
+      "tezina": "lagano",
+      "pitanje": "Kojim dijelom biljke voda putuje od korijena do listova?",
+      "ponudeni": [
+        "Plodom",
+        "Cvijetom",
+        "Stabljikom",
+        "Sjemenkom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Voda koju upije korijen putuje kroz stabljiku sve do listova i cvjetova.",
+      "savjet": "Razmisli koji se dio biljke nalazi između korijena i listova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva tanka, mekana i najčešće zelena stabljika?",
+      "ponudeni": [
+        "Drvenasta stabljika",
+        "Zeljasta stabljika",
+        "Deblo",
+        "Kora"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mekana i zelena stabljika naziva se zeljasta stabljika. Takvu stabljiku imaju trave i livadno cvijeće.",
+      "savjet": "Sjeti se kakvu stabljiku imaju trave i livadno cvijeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-014",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove drvenasta stabljika drveta?",
+      "ponudeni": [
+        "Grana",
+        "Krošnja",
+        "Deblo",
+        "Korijen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Drvenasta stabljika drveta zove se deblo. Na njemu je krošnja s granama i listovima.",
+      "savjet": "Sjeti se kako se zove dio drveta koji obuhvatiš rukama kad ga zagrliš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-015",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih biljaka ima drvenastu stabljiku?",
+      "ponudeni": [
+        "Tratinčica",
+        "Djetelina",
+        "Maslačak",
+        "Lipa"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lipa je drvo pa ima tvrdu, drvenastu stabljiku. Tratinčica, djetelina i maslačak imaju zeljastu stabljiku.",
+      "savjet": "Drvenasta stabljika je tvrda. Potraži biljku koja je drvo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-016",
+      "tezina": "lagano",
+      "pitanje": "Koji dio biljke svojom bojom i mirisom privlači pčele?",
+      "ponudeni": [
+        "Korijen",
+        "Cvijet",
+        "Stabljika",
+        "Sjemenka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Cvjetovi su šareni i mirisni pa privlače pčele i leptire koji ih oprašuju.",
+      "savjet": "Razmisli na što slijeću pčele kad lete livadom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-017",
+      "tezina": "lagano",
+      "pitanje": "Što treba učiniti s biljkom prije nego što je zalijepiš u herbarij?",
+      "ponudeni": [
+        "Osušiti je i prešati",
+        "Namočiti je u vodi",
+        "Obojiti je bojicama",
+        "Staviti je u hladnjak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljka se za herbarij najprije osuši i preša da ostane ravna i da se ne pokvari.",
+      "savjet": "Sjeti se kako izgleda zbirka biljaka koja se dugo čuva u bilježnici ili mapi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-018",
+      "tezina": "lagano",
+      "pitanje": "Što se piše uz biljku u herbariju?",
+      "ponudeni": [
+        "Boja, miris i oblik lista",
+        "Ime prijatelja i razred",
+        "Ime biljke, mjesto i datum",
+        "Cijena i visina biljke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz svaku biljku u herbariju piše se njezino ime, mjesto gdje je pronađena i datum.",
+      "savjet": "Razmisli što bi netko trebao znati o biljci da bi je poslije opet pronašao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-019",
+      "tezina": "lagano",
+      "pitanje": "Koje biljke se ne smiju brati za herbarij?",
+      "ponudeni": [
+        "Uobičajene livadne biljke",
+        "Biljke iz vlastitog vrta",
+        "Korov s ruba puta",
+        "Zaštićene biljke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zaštićene biljke su rijetke i čuvamo ih, zato ih ne beremo ni za herbarij.",
+      "savjet": "Sjeti se koje biljke zakon čuva jer ih u prirodi ima malo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-020",
+      "tezina": "lagano",
+      "pitanje": "Što se događa s biljkom koja dugo nema vode?",
+      "ponudeni": [
+        "Brže raste",
+        "Vene i suši se",
+        "Dobiva više cvjetova",
+        "Postaje tamnije zelena"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bez vode biljka ne može živjeti. Listovi joj se objese, a zatim se biljka osuši.",
+      "savjet": "Sjeti se kako izgleda cvijeće u vazi kad iz nje nestane vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-021",
+      "tezina": "lagano",
+      "pitanje": "Gdje se kod većine biljaka nalazi korijen?",
+      "ponudeni": [
+        "U tlu",
+        "U zraku iznad tla",
+        "Na vrhu stabljike",
+        "Unutar cvijeta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Korijen se kod većine biljaka nalazi u tlu. Ondje drži biljku i upija vodu.",
+      "savjet": "Zamisli što vidiš kad iz vrta iščupaš mrkvu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-022",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenog plod?",
+      "ponudeni": [
+        "Mrkva",
+        "Krumpir",
+        "Jabuka",
+        "Salata"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jabuka nastaje iz cvijeta i u sebi ima sjemenke, zato je plod.",
+      "savjet": "Plod nastaje iz cvijeta i u sebi skriva sjemenke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-023",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove biljka koja ima jedno visoko deblo i krošnju?",
+      "ponudeni": [
+        "Grm",
+        "Trava",
+        "Drvo",
+        "Mahovina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Drvo ima jedno deblo, a na njegovu vrhu je krošnja s granama i listovima.",
+      "savjet": "Sjeti se kako izgleda hrast ili lipa u parku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-024",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove biljka kojoj iz tla raste više tankih drvenastih stabljika?",
+      "ponudeni": [
+        "Drvo",
+        "Grm",
+        "Trava",
+        "Mahovina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Grm nema jedno deblo, nego mu iz tla raste više tankih drvenastih stabljika.",
+      "savjet": "Sjeti se kako izgleda živica oko dvorišta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-025",
+      "tezina": "lagano",
+      "pitanje": "Koji dio biljke ima latice?",
+      "ponudeni": [
+        "Cvijet",
+        "List",
+        "Korijen",
+        "Stabljika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Latice su šareni dijelovi cvijeta. Tratinčica ima bijele latice.",
+      "savjet": "Sjeti se kako izgleda tratinčica i koji je njezin najšareniji dio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-026",
+      "tezina": "lagano",
+      "pitanje": "Što biljci daje Sunce?",
+      "ponudeni": [
+        "Vodu iz tla",
+        "Kamenje i pijesak",
+        "Kišu i snijeg",
+        "Svjetlost i toplinu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunce biljci daje svjetlost i toplinu, a to su važni životni uvjeti.",
+      "savjet": "Sjeti se što osjetiš i vidiš kad sjediš na suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-027",
+      "tezina": "lagano",
+      "pitanje": "Kako se biljka suši za herbarij?",
+      "ponudeni": [
+        "Stavi se među novine i pritisne teškim knjigama",
+        "Stavi se u čašu punu vode",
+        "Ostavi se vani na kiši",
+        "Zakopa se duboko u tlo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljka se stavi među listove novina i pritisne teškim knjigama. Tako se polako osuši i ostane ravna.",
+      "savjet": "Biljka mora postati suha i ravna. Razmisli što bi je izravnalo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-028",
+      "tezina": "lagano",
+      "pitanje": "Što izraste iz sjemenke kad proklija?",
+      "ponudeni": [
+        "Kamenčić",
+        "Mlada biljka",
+        "Zreli plod",
+        "Latica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz sjemenke koja proklija raste mlada biljka koja će s vremenom narasti.",
+      "savjet": "Sjeti se zašto vrtlari siju sjemenke u proljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-029",
+      "tezina": "lagano",
+      "pitanje": "Koji dio biljke jedemo kad jedemo zelenu salatu?",
+      "ponudeni": [
+        "Korijen",
+        "Plod",
+        "Listove",
+        "Sjemenke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kod zelene salate jedemo njezine listove.",
+      "savjet": "Sjeti se kako izgleda glavica salate kad je razdvojiš na dijelove."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-030",
+      "tezina": "lagano",
+      "pitanje": "Što čini krošnju drveta?",
+      "ponudeni": [
+        "Korijenje u tlu",
+        "Deblo",
+        "Sjemenke",
+        "Grane s listovima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krošnja je gornji dio drveta, a čine je grane s listovima.",
+      "savjet": "Pogledaj drvo odozdo i sjeti se što pravi hlad ljeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-031",
+      "tezina": "srednje",
+      "pitanje": "Koji dio biljke jedemo kad jedemo mrkvu?",
+      "ponudeni": [
+        "List",
+        "Plod",
+        "Korijen",
+        "Cvijet"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mrkva raste u tlu i u njoj biljka sprema hranu. To je njezin korijen.",
+      "savjet": "Razmisli gdje mrkva raste dok je u vrtu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-032",
+      "tezina": "srednje",
+      "pitanje": "Koji je redoslijed u životu biljke točan?",
+      "ponudeni": [
+        "Cvijet → sjemenka → biljka → plod",
+        "Sjemenka → biljka → cvijet → plod",
+        "Plod → biljka → sjemenka → cvijet",
+        "Biljka → sjemenka → plod → cvijet"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz sjemenke izraste biljka, biljka procvjeta, a iz cvijeta nastaje plod sa sjemenkama.",
+      "savjet": "Počni od onoga što vrtlar posije u tlo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-033",
+      "tezina": "srednje",
+      "pitanje": "Što će se dogoditi sa sobnom biljkom koju dugo držimo u mračnom ormaru?",
+      "ponudeni": [
+        "Bit će sve zelenija i jača",
+        "Dobit će više plodova",
+        "Neće se ništa promijeniti",
+        "Oslabit će i požutjeti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U mraku biljka ne može stvarati hranu jer joj nedostaje svjetlosti, pa slabi i žuti.",
+      "savjet": "Sjeti se što je listu potrebno da bi biljka stvarala hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-034",
+      "tezina": "srednje",
+      "pitanje": "Zašto se biljka na prozorskoj dasci savija prema staklu?",
+      "ponudeni": [
+        "Okreće se prema svjetlosti",
+        "Bježi od vode u tlu",
+        "Želi pobjeći od topline",
+        "Stabljika joj je preteška"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljka raste prema svjetlosti jer joj je svjetlost potrebna za stvaranje hrane.",
+      "savjet": "Razmisli što ulazi u sobu kroz prozor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-035",
+      "tezina": "srednje",
+      "pitanje": "Zašto biljka iščupana iz tla brzo uvene?",
+      "ponudeni": [
+        "Izgubila je sve cvjetove",
+        "Previše je na svjetlosti",
+        "Ne može više upijati vodu iz tla",
+        "Ima previše listova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Korijen izvan tla ne može upijati vodu pa biljka ostane bez vode i uvene.",
+      "savjet": "Sjeti se koja je uloga korijena i odakle on uzima vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-036",
+      "tezina": "srednje",
+      "pitanje": "Koji je par „dio biljke – uloga“ točan?",
+      "ponudeni": [
+        "Cvijet – upija vodu iz tla",
+        "Stabljika – njome putuje voda",
+        "Korijen – nosi cvjetove",
+        "Sjemenka – stvara hranu uz svjetlost"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stabljikom voda putuje od korijena do listova i cvjetova. Vodu upija korijen, a hranu stvara list.",
+      "savjet": "Za svaki par provjeri gdje se taj dio biljke nalazi i što ondje može raditi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-037",
+      "tezina": "srednje",
+      "pitanje": "Koji dio biljke jedemo kad jedemo kupus?",
+      "ponudeni": [
+        "Korijen",
+        "Plod",
+        "Cvijet",
+        "Listove"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glavica kupusa sastoji se od mnogo listova koji su čvrsto zbijeni.",
+      "savjet": "Sjeti se što se odvaja s glavice kupusa kad se priprema sarma."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-038",
+      "tezina": "srednje",
+      "pitanje": "Zašto sjemenke posijane u vrtu proklijaju tek u proljeće, a ne zimi?",
+      "ponudeni": [
+        "U proljeće je dovoljno toplo i vlažno",
+        "Zimi u tlu nema zraka",
+        "Zimi su dani predugi",
+        "U proljeće je tlo tvrdo i suho"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sjemenci za klijanje trebaju voda i toplina. Zimi je tlo hladno, a u proljeće se ugrije.",
+      "savjet": "Sjeti se kakvo je vrijeme zimi, a kakvo u proljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-039",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se zeljasta stabljika razlikuje od drvenaste?",
+      "ponudeni": [
+        "Zeljasta je uvijek viša od drvenaste",
+        "Zeljasta nema listove, a drvenasta ima",
+        "Zeljasta raste samo u vodi",
+        "Zeljasta je mekana i zelena, a drvenasta tvrda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zeljasta stabljika je mekana i zelena, kao kod maslačka. Drvenasta je tvrda, kao kod hrasta.",
+      "savjet": "Usporedi stabljiku maslačka i deblo hrasta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-040",
+      "tezina": "srednje",
+      "pitanje": "Koja biljka ima drugačiju vrstu stabljike od ostalih?",
+      "ponudeni": [
+        "Maslačak",
+        "Tratinčica",
+        "Bukva",
+        "Djetelina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bukva je drvo s drvenastom stabljikom, a maslačak, tratinčica i djetelina imaju zeljastu stabljiku.",
+      "savjet": "Za svaku biljku razmisli je li njezina stabljika mekana ili tvrda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-041",
+      "tezina": "srednje",
+      "pitanje": "Kojim redom voda putuje kroz biljku?",
+      "ponudeni": [
+        "Korijen → stabljika → list",
+        "List → stabljika → korijen",
+        "Cvijet → korijen → list",
+        "Plod → list → korijen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Korijen upije vodu iz tla, stabljika je provede dalje, a voda tako stigne do listova.",
+      "savjet": "Počni od dijela biljke koji prvi dođe do vode u tlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-042",
+      "tezina": "srednje",
+      "pitanje": "Zašto u herbarij ne stavljamo zaštićene biljke?",
+      "ponudeni": [
+        "Smiju se brati samo zimi",
+        "Rijetke su pa ih čuvamo u prirodi",
+        "Ne mogu se osušiti",
+        "Nemaju cvjetove"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zaštićenih biljaka u prirodi ima malo. Ako ih ne beremo, mogu se dalje razmnožavati.",
+      "savjet": "Sjeti se zašto se neke biljke uopće zaštićuju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-043",
+      "tezina": "srednje",
+      "pitanje": "Zašto se biljka za herbarij preša?",
+      "ponudeni": [
+        "Da brže raste",
+        "Da dobije jači miris",
+        "Da bude ravna i suha",
+        "Da promijeni boju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prešanjem biljka postane ravna i osuši se, pa se može zalijepiti na papir i dugo čuvati.",
+      "savjet": "Razmisli kakva biljka mora biti da bi stala na list papira."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-044",
+      "tezina": "srednje",
+      "pitanje": "Koji je dio biljke zrno graha iz kojeg može izrasti nova biljka graha?",
+      "ponudeni": [
+        "List",
+        "Cvijet",
+        "Korijen",
+        "Sjemenka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zrno graha je sjemenka. Kad ga posadimo u vlažno tlo, iz njega izraste nova biljka.",
+      "savjet": "Sjeti se iz kojeg dijela biljke nastaje nova biljka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-045",
+      "tezina": "srednje",
+      "pitanje": "Zašto su pčele važne za voćke?",
+      "ponudeni": [
+        "Jedu štetne listove",
+        "Oprašuju cvjetove pa nastaju plodovi",
+        "Zalijevaju korijen",
+        "Štite drvo od hladnoće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pčele oprašuju cvjetove voćaka, a iz oprašenih cvjetova razvijaju se plodovi.",
+      "savjet": "Sjeti se na koji dio voćke pčele slijeću u proljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-046",
+      "tezina": "srednje",
+      "pitanje": "Zašto je listu potrebna svjetlost?",
+      "ponudeni": [
+        "Uz pomoć svjetlosti stvara hranu za biljku",
+        "Uz pomoć svjetlosti upija vodu iz tla",
+        "Uz pomoć svjetlosti učvršćuje biljku",
+        "Uz pomoć svjetlosti iz njega nastaje plod"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U listu biljka uz pomoć Sunčeve svjetlosti stvara hranu potrebnu za rast.",
+      "savjet": "Sjeti se što biljka radi u listovima kad su obasjani Suncem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-047",
+      "tezina": "srednje",
+      "pitanje": "Koji dio biljke jedemo kad jedemo rajčicu?",
+      "ponudeni": [
+        "List",
+        "Korijen",
+        "Plod",
+        "Stabljiku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rajčica nastaje iz cvijeta i u sebi ima sjemenke, zato je plod.",
+      "savjet": "Prereži rajčicu u mislima i sjeti se što vidiš u njoj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-048",
+      "tezina": "srednje",
+      "pitanje": "Trava ispod velikog kamena je žuta i slaba. Čega joj najviše nedostaje?",
+      "ponudeni": [
+        "Tla",
+        "Hladnoće",
+        "Kamenja",
+        "Svjetlosti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kamen ne propušta Sunčevu svjetlost pa trava ispod njega ne može stvarati hranu.",
+      "savjet": "Razmisli što kamen zaklanja travi koja raste ispod njega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-049",
+      "tezina": "srednje",
+      "pitanje": "Kamo treba uliti vodu kad zalijevaš biljku u loncu?",
+      "ponudeni": [
+        "Samo na latice cvjetova",
+        "U tlo, gdje je korijen",
+        "Samo po vrhovima listova",
+        "Na plodove"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vodu upija korijen, a on se nalazi u tlu. Zato vodu ulijevamo u tlo.",
+      "savjet": "Sjeti se koji dio biljke upija vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto ljudi za sušnog ljeta zalijevaju vrt?",
+      "ponudeni": [
+        "Biljkama treba voda, a kiše nema",
+        "Da biljke manje rastu",
+        "Da otjeraju pčele s cvjetova",
+        "Da tlo postane hladno za zimu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Voda je biljkama nužna za život. Kad dugo nema kiše, ljudi biljkama daju vodu zalijevanjem.",
+      "savjet": "Sjeti se koji je životni uvjet biljkama ljeti najčešće uskraćen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-051",
+      "tezina": "srednje",
+      "pitanje": "Uz osušeni maslačak u herbariju piše samo „Maslačak“. Što još treba dopisati?",
+      "ponudeni": [
+        "Boju latica",
+        "Cijenu biljke",
+        "Mjesto i datum branja",
+        "Ime prijatelja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz biljku u herbariju pišu se ime biljke, mjesto gdje je ubrana i datum.",
+      "savjet": "Sjeti se tri podatka koja se pišu uz svaku biljku u herbariju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto u plodu često ima mnogo sjemenki?",
+      "ponudeni": [
+        "Da plod bude teži",
+        "Da biljka brže uvene",
+        "Da list stvara više hrane",
+        "Da iz nekih izrastu nove biljke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Neće svaka sjemenka pasti na dobro mjesto. Što ih je više, veća je šansa da iz nekih izrastu nove biljke.",
+      "savjet": "Sjeti se što nastaje iz sjemenke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-053",
+      "tezina": "srednje",
+      "pitanje": "Koja od ovih biljaka ima drvenastu stabljiku i plod koji ljudi jedu?",
+      "ponudeni": [
+        "Maslačak",
+        "Jabuka",
+        "Tratinčica",
+        "Djetelina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jabuka je voćka, drvo s drvenastom stabljikom. Njezine plodove jedemo.",
+      "savjet": "Potraži biljku koja raste u voćnjaku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-054",
+      "tezina": "srednje",
+      "pitanje": "Što stabljika radi s vodom koju je upio korijen?",
+      "ponudeni": [
+        "Provodi je do listova i cvjetova",
+        "Vraća je natrag u tlo",
+        "Pretvara je u sjemenke",
+        "Sprema je u korijen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stabljika provodi vodu od korijena prema gore, do listova i cvjetova.",
+      "savjet": "Razmisli koji dijelovi biljke su iznad stabljike i trebaju vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-055",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se drvo razlikuje od grma?",
+      "ponudeni": [
+        "Drvo nema listove, a grm ima",
+        "Drvo ima zeljastu stabljiku, a grm drvenastu",
+        "Drvo ima jedno deblo, a grm više stabljika iz tla",
+        "Drvo raste samo u vodi, a grm na kopnu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "I drvo i grm imaju drvenastu stabljiku. Drvo ima jedno deblo, a grmu iz tla raste više stabljika.",
+      "savjet": "Usporedi kako iz tla izlazi stabljika lipe, a kako stabljike živice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-056",
+      "tezina": "srednje",
+      "pitanje": "Što biljka korijenom uzima iz tla?",
+      "ponudeni": [
+        "Sunčevu svjetlost",
+        "Toplinu Sunca",
+        "Zrak iz krošnje",
+        "Vodu i tvari iz tla"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Korijen iz tla upija vodu i tvari koje su biljci potrebne. Svjetlost i toplinu biljka dobiva od Sunca.",
+      "savjet": "Razmisli što se nalazi u tlu, a ne iznad njega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-057",
+      "tezina": "srednje",
+      "pitanje": "Zašto pokošena trava nakon nekog vremena ponovno naraste?",
+      "ponudeni": [
+        "Korijen je ostao u tlu",
+        "Cvjetovi su ostali na stabljici",
+        "Kosilica je zalila tlo",
+        "Trava raste samo kad je pokošena"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Košnjom se odreže samo gornji dio trave. Korijen ostaje u tlu i iz njega trava ponovno naraste.",
+      "savjet": "Razmisli koji dio trave kosilica ne može dohvatiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-058",
+      "tezina": "srednje",
+      "pitanje": "Što od navedenog trebaš za izradu herbarija?",
+      "ponudeni": [
+        "Akvarij i vodu",
+        "Novine, teške knjige, papir i ljepilo",
+        "Zemlju i lonac za cvijeće",
+        "Plastelin i vodene boje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljke se suše među novinama pod teškim knjigama, a zatim se lijepe na papir.",
+      "savjet": "Sjeti se kako se biljke suše, prešaju i čuvaju u herbariju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-059",
+      "tezina": "srednje",
+      "pitanje": "Što će se vjerojatno dogoditi sa sobnom biljkom ako je zimi preko noći ostaviš vani na mrazu?",
+      "ponudeni": [
+        "Brže će procvjetati",
+        "Dobit će nove plodove",
+        "Više joj neće trebati voda",
+        "Smrznut će se i uvenuti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sobna biljka treba toplinu. Na mrazu se smrzne i uvene.",
+      "savjet": "Sjeti se koji je životni uvjet zimi vani uskraćen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-060",
+      "tezina": "srednje",
+      "pitanje": "Kako sjemenke maslačka dospijevaju daleko od biljke?",
+      "ponudeni": [
+        "Odnosi ih korijen",
+        "Zakopaju ih gujavice",
+        "Nosi ih vjetar",
+        "Padaju samo ispod biljke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sjemenke maslačka su lagane i imaju paperje pa ih vjetar odnese daleko.",
+      "savjet": "Sjeti se što se dogodi kad puhneš u bijelu loptu maslačka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-061",
+      "tezina": "tesko",
+      "pitanje": "Dvije jednake biljke jednako zalijevamo. Jedna stoji na prozoru, a druga u mračnom ormaru. Što ovim pokusom provjeravamo?",
+      "ponudeni": [
+        "Treba li biljci svjetlost",
+        "Treba li biljci voda",
+        "Treba li biljci tlo",
+        "Treba li biljci zrak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljke se razlikuju samo po tome imaju li svjetlost, pa pokus provjerava treba li biljci svjetlost.",
+      "savjet": "Pronađi jedinu stvar po kojoj se dvije biljke u pokusu razlikuju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-062",
+      "tezina": "tesko",
+      "pitanje": "Kojim pokusom možeš provjeriti treba li biljci voda?",
+      "ponudeni": [
+        "Dvije biljke zalijevaš, a jednu staviš u mrak",
+        "Jednu biljku zalijevaš i držiš na svjetlu",
+        "Dvije biljke držiš na svjetlu, a zalijevaš samo jednu",
+        "Dvije biljke staviš u mrak i ne zalijevaš ih"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljke se smiju razlikovati samo po vodi. Zato obje stoje na svjetlu, a zalijeva se samo jedna.",
+      "savjet": "U dobrom pokusu dvije se biljke razlikuju samo po onome što provjeravaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-063",
+      "tezina": "tesko",
+      "pitanje": "Gusjenice su biljci pojele gotovo sve listove. Zašto biljka sada teško preživljava?",
+      "ponudeni": [
+        "Ne može upijati vodu iz tla",
+        "Ne može stvarati dovoljno hrane",
+        "Ne može se učvrstiti u tlu",
+        "Ne može provoditi vodu stabljikom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljka hranu stvara u listovima. Bez listova ne može stvoriti dovoljno hrane za život.",
+      "savjet": "Sjeti se što biljka radi u listovima uz pomoć Sunčeve svjetlosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-064",
+      "tezina": "tesko",
+      "pitanje": "Mraz je u proljeće uništio sve cvjetove na trešnji. Što će se dogoditi ljeti?",
+      "ponudeni": [
+        "Trešnja će imati više plodova",
+        "Trešnja neće imati listove",
+        "Korijen će izrasti iznad tla",
+        "Trešnja neće imati plodove"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plodovi nastaju iz cvjetova. Ako su cvjetovi uništeni, neće biti ni plodova.",
+      "savjet": "Sjeti se iz kojeg dijela biljke nastaje plod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto visoko drvo ima veliko i snažno korijenje?",
+      "ponudeni": [
+        "Da na njemu rastu cvjetovi",
+        "Da u njemu stvara hranu uz svjetlost",
+        "Da drži drvo i daje mu dovoljno vode",
+        "Da iz njega nastanu plodovi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Veliko drvo treba čvrsto stajati u tlu i treba mnogo vode, zato mu je potrebno veliko korijenje.",
+      "savjet": "Sjeti se dviju uloga korijena i primijeni ih na veliko drvo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-066",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo u voćnjaku kad bi nestalo pčela?",
+      "ponudeni": [
+        "Bilo bi manje plodova",
+        "Bilo bi više plodova",
+        "Drveće bi izgubilo korijen",
+        "Listovi bi prestali rasti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pčele oprašuju cvjetove voćaka. Bez njih bi se iz manje cvjetova razvili plodovi.",
+      "savjet": "Sjeti se što pčele rade na cvjetovima i što zatim nastaje iz cvijeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-067",
+      "tezina": "tesko",
+      "pitanje": "Na izletu na Velebitu pronađeš runolist, zaštićenu biljku. Što je ispravno učiniti?",
+      "ponudeni": [
+        "Ubrati samo cvijet za herbarij",
+        "Iskopati ga i posaditi kod kuće",
+        "Ubrati ga ako ga nitko ne vidi",
+        "Ostaviti ga i samo ga fotografirati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zaštićene biljke ne beremo. Runolist ostavljamo u prirodi, a možemo ga fotografirati.",
+      "savjet": "Sjeti se pravila koja vrijede za zaštićene biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-068",
+      "tezina": "tesko",
+      "pitanje": "Kojim redom se izrađuje herbarij?",
+      "ponudeni": [
+        "Zalijepiti → ubrati → prešati → napisati natpis",
+        "Ubrati → prešati i osušiti → zalijepiti → napisati natpis",
+        "Prešati → ubrati → napisati natpis → zalijepiti",
+        "Napisati natpis → zalijepiti → ubrati → osušiti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljku najprije uberemo, zatim je prešamo i osušimo, zalijepimo na papir i napišemo natpis.",
+      "savjet": "Razmisli što se ne može napraviti dok biljku još nemaš u ruci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-069",
+      "tezina": "tesko",
+      "pitanje": "Zašto deblo drveta mora biti tvrdo i čvrsto?",
+      "ponudeni": [
+        "Nosi tešku krošnju s granama",
+        "Upija vodu iz zraka",
+        "U njemu se stvaraju sjemenke",
+        "Ne dopušta korijenu da raste"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Deblo nosi cijelu krošnju s granama i listovima, zato mora biti tvrdo i čvrsto.",
+      "savjet": "Pogledaj što se sve nalazi iznad debla."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-070",
+      "tezina": "tesko",
+      "pitanje": "Biljka na prozorskoj dasci nagnula se prema staklu. Što učiniti da raste uspravno?",
+      "ponudeni": [
+        "Prestati je zalijevati",
+        "Staviti je u mračni ormar",
+        "Okretati lonac svakih nekoliko dana",
+        "Odrezati joj sve listove"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljka raste prema svjetlosti. Ako lonac okrećemo, svjetlost dolazi sa svih strana pa biljka raste uspravno.",
+      "savjet": "Razmisli zašto se biljka nagnula i kako to izjednačiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-071",
+      "tezina": "tesko",
+      "pitanje": "Tlo u loncu je vlažno, a biljka je na svjetlu, ali soba je vrlo hladna. Koji životni uvjet nedostaje biljci?",
+      "ponudeni": [
+        "Voda",
+        "Svjetlost",
+        "Tlo",
+        "Toplina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Biljka ima vodu, svjetlost i tlo, ali joj je hladno. Nedostaje joj toplina.",
+      "savjet": "Prođi redom kroz sve životne uvjete i provjeri koji je ispunjen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-072",
+      "tezina": "tesko",
+      "pitanje": "Iz sjemenke jabuke izraslo je mlado drvo. Što mora najprije imati da bi dalo jabuke?",
+      "ponudeni": [
+        "Suhe grane",
+        "Cvjetove",
+        "Kraće korijenje",
+        "Manje listova"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jabuke su plodovi, a plodovi nastaju iz cvjetova. Drvo najprije mora procvjetati.",
+      "savjet": "Sjeti se redoslijeda u životu biljke od sjemenke do ploda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-073",
+      "tezina": "tesko",
+      "pitanje": "Što nedostaje u nizu: sjemenka → biljka → ___ → plod?",
+      "ponudeni": [
+        "Cvijet",
+        "Korijen",
+        "Sjemenka",
+        "List"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljka koja izraste iz sjemenke procvjeta, a iz cvijeta nastaje plod.",
+      "savjet": "Razmisli što se nalazi na biljci neposredno prije nego što se pojavi plod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-074",
+      "tezina": "tesko",
+      "pitanje": "Biljka ima zdrave listove, ali joj je korijen teško oštećen. Što će se vjerojatno dogoditi?",
+      "ponudeni": [
+        "Ništa, jer listovi stvaraju hranu",
+        "Dobit će više cvjetova",
+        "Uvenut će jer ne dobiva dovoljno vode",
+        "Listovi će brže rasti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Korijen upija vodu. Bez vode ni listovi ne mogu raditi, pa biljka vene.",
+      "savjet": "Razmisli odakle listovi dobivaju vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-075",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o dijelovima biljke točna?",
+      "ponudeni": [
+        "Iz lista nastaje plod, a u njemu je korijen",
+        "Korijen stvara hranu uz Sunčevu svjetlost",
+        "Sjemenka nosi listove i cvjetove",
+        "Iz cvijeta nastaje plod, a u plodu su sjemenke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plod nastaje iz cvijeta i u sebi ima sjemenke iz kojih mogu izrasti nove biljke.",
+      "savjet": "Za svaku tvrdnju provjeri ulogu svakog spomenutog dijela biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-076",
+      "tezina": "tesko",
+      "pitanje": "Svježe ubrani maslačak odmah je zalijepljen u herbarij, bez sušenja i prešanja. Što će se dogoditi?",
+      "ponudeni": [
+        "Ostat će svjež i zelen godinama",
+        "Mogao bi se zgužvati i istrunuti",
+        "Nastavit će rasti na papiru",
+        "Pretvorit će se u sjemenku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svježa biljka ima u sebi vodu. Ako se ne osuši i ne preša, smežura se i može istrunuti.",
+      "savjet": "Razmisli zašto se biljke za herbarij najprije suše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto je izrada herbarija korisna?",
+      "ponudeni": [
+        "Pomaže upoznati i zapamtiti biljke",
+        "Pomaže biljkama da brže rastu",
+        "Čuva zaštićene biljke od nestanka",
+        "Zamjenjuje zalijevanje vrta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izrađujući herbarij promatramo dijelove biljaka i učimo njihova imena.",
+      "savjet": "Razmisli što naučiš dok skupljaš, sušiš i potpisuješ biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-078",
+      "tezina": "tesko",
+      "pitanje": "Koji je par „biljka – dio koji jedemo“ točan?",
+      "ponudeni": [
+        "Kupus – plod",
+        "Jabuka – list",
+        "Mrkva – korijen",
+        "Salata – korijen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kod mrkve jedemo korijen. Kod kupusa i salate jedemo listove, a kod jabuke plod.",
+      "savjet": "Za svaku biljku zamisli kako izgleda u vrtu ili voćnjaku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-079",
+      "tezina": "tesko",
+      "pitanje": "Zašto se biljke u vrtu sade na razmaku, a ne jedna do druge?",
+      "ponudeni": [
+        "Da pčele ne mogu doći do njih",
+        "Da tlo među njima ostane suho",
+        "Da brže uvenu",
+        "Da svaka ima dovoljno svjetlosti i vode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Preblizu posađene biljke zaklanjaju jedna drugoj svjetlost i dijele istu vodu iz tla.",
+      "savjet": "Sjeti se životnih uvjeta koje biljke moraju dijeliti kad su preblizu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-080",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko trešnji i maslačku?",
+      "ponudeni": [
+        "Obje imaju drvenastu stabljiku",
+        "Obje imaju cvjetove iz kojih nastaju plodovi",
+        "Obje imaju zeljastu stabljiku",
+        "Obje nemaju korijen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trešnja je drvo, a maslačak zeljasta biljka, ali obje cvjetaju i iz cvjetova im nastaju plodovi sa sjemenkama.",
+      "savjet": "Stabljike su im različite. Potraži dio biljke koji imaju obje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-081",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o hrastu i tratinčici točna?",
+      "ponudeni": [
+        "Hrast ima drvenastu, a tratinčica zeljastu stabljiku",
+        "Hrast nema korijen, a tratinčica ima",
+        "Tratinčica ima deblo, a hrast nema",
+        "Hrast nema listove, a tratinčica ima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrast je drvo s tvrdom, drvenastom stabljikom, a tratinčica ima mekanu, zeljastu stabljiku.",
+      "savjet": "Obje biljke imaju korijen i listove. Usporedi njihove stabljike."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-082",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo s listovima biljke kad bi joj stabljika bila prerezana pri dnu?",
+      "ponudeni": [
+        "Počeli bi upijati vodu iz tla",
+        "Pretvorili bi se u cvjetove",
+        "Ne bi više dobivali vodu iz korijena",
+        "Brže bi rasli"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Voda putuje od korijena kroz stabljiku do listova. Bez stabljike listovi ostaju bez vode.",
+      "savjet": "Sjeti se kojim putem voda dolazi do listova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-083",
+      "tezina": "tesko",
+      "pitanje": "Sidro drži brod na mjestu. Koji dio biljke ima sličnu ulogu?",
+      "ponudeni": [
+        "Cvijet",
+        "Plod",
+        "List",
+        "Korijen"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kao što sidro drži brod, korijen drži biljku čvrsto u tlu.",
+      "savjet": "Razmisli koji dio biljke sprječava da je vjetar odnese."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-084",
+      "tezina": "tesko",
+      "pitanje": "U kuhinji se priprema hrana. Koji dio biljke je poput kuhinje?",
+      "ponudeni": [
+        "Korijen",
+        "List",
+        "Plod",
+        "Sjemenka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljka u listu uz pomoć Sunčeve svjetlosti stvara hranu, kao što se u kuhinji priprema hrana.",
+      "savjet": "Sjeti se gdje biljka uz pomoć Sunca stvara hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-085",
+      "tezina": "tesko",
+      "pitanje": "Sobna biljka stoji na svjetlu u toploj sobi, ali listovi su joj mlohavi i spušteni. Što najprije provjeriti?",
+      "ponudeni": [
+        "Je li tlo u loncu suho",
+        "Ima li dovoljno svjetlosti",
+        "Je li soba dovoljno topla",
+        "Je li lonac dovoljno šaren"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svjetlost i toplina su ispunjeni. Mlohavi listovi najčešće znače da biljci nedostaje vode.",
+      "savjet": "Isključi životne uvjete koji su već navedeni u pitanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-086",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u herbarij upisuje mjesto gdje je biljka ubrana?",
+      "ponudeni": [
+        "Da se biljka brže osuši",
+        "Da se biljka ne raspadne",
+        "Da se zna gdje ta biljka raste",
+        "Da biljka dobije ime"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mjesto branja govori nam gdje ta biljka raste, pa je možemo ponovno pronaći i usporediti s drugim staništima.",
+      "savjet": "Razmisli kome bi ta informacija koristila nakon nekoliko godina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-087",
+      "tezina": "tesko",
+      "pitanje": "Jabuka je pala na tlo i istrunula. Što iz nje može izrasti?",
+      "ponudeni": [
+        "Novi list iz peteljke",
+        "Novi korijen iz kore ploda",
+        "Ništa, jer je plod istrunuo",
+        "Nova biljka iz sjemenke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plod istrune, ali sjemenke u njemu ostaju. Iz sjemenke u tlu može izrasti nova jabuka.",
+      "savjet": "Sjeti se što se skriva u sredini jabuke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-088",
+      "tezina": "tesko",
+      "pitanje": "Ljeto je bilo sušno. Drveće uz rijeku ostalo je zeleno, a na suhom brdu požutjelo. Zašto?",
+      "ponudeni": [
+        "Uz rijeku je manje svjetlosti",
+        "Korijen drveća uz rijeku lakše dolazi do vode",
+        "Na brdu ima previše vode",
+        "Drveće na brdu nema korijen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uz rijeku u tlu ima više vode pa je korijen može upijati i za sušnog ljeta.",
+      "savjet": "Razmisli koji je životni uvjet ljeti najrjeđi i gdje ga ima više."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-089",
+      "tezina": "tesko",
+      "pitanje": "Sjemenke graha stavljene su u tri lonca: u suho tlo, u vlažno tlo u hladnjaku i u vlažno tlo u toploj sobi. Gdje će najprije proklijati?",
+      "ponudeni": [
+        "U suhom tlu",
+        "U vlažnom tlu u hladnjaku",
+        "U vlažnom tlu u toploj sobi",
+        "Svugdje jednako brzo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za klijanje sjemenci trebaju voda i toplina. Oba uvjeta ima samo lonac s vlažnim tlom u toploj sobi.",
+      "savjet": "Provjeri u kojem loncu sjemenka ima i vodu i toplinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-biljaka-090",
+      "tezina": "tesko",
+      "pitanje": "Mahuna graška je plod. Što su zrna graška u mahuni?",
+      "ponudeni": [
+        "Sjemenke",
+        "Listovi",
+        "Cvjetovi",
+        "Korijenje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U plodu se nalaze sjemenke. Zrna graška u mahuni su sjemenke iz kojih mogu izrasti nove biljke.",
+      "savjet": "Sjeti se što se nalazi unutar svakog ploda."
+    }
+  ]
+}

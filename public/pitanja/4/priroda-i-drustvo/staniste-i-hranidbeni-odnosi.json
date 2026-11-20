@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "staniste-i-hranidbeni-odnosi",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-001",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo mjesto gdje živi neko živo biće?",
+      "ponudeni": [
+        "Stanište",
+        "Životna zajednica",
+        "Hranidbeni lanac",
+        "Razlagač"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stanište je mjesto gdje živi neko živo biće. Na primjer, šuma je stanište srne, a more stanište ribe.",
+      "savjet": "Sjeti se riječi koja dolazi od glagola „stanovati“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-002",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo biljke i životinje koje žive zajedno na istom staništu i ovise jedne o drugima?",
+      "ponudeni": [
+        "Hranidbeni lanac",
+        "Stanište",
+        "Životna zajednica",
+        "Proizvođači"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljke i životinje koje žive zajedno na istom staništu i ovise jedne o drugima čine životnu zajednicu.",
+      "savjet": "Razmisli kako se zove skupina živih bića koja žive zajedno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-003",
+      "tezina": "lagano",
+      "pitanje": "Čime počinje hranidbeni lanac?",
+      "ponudeni": [
+        "Gljivom",
+        "Zelenom biljkom",
+        "Biljojedom",
+        "Mesojedom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hranidbeni lanac počinje zelenom biljkom jer ona sama stvara hranu uz pomoć Sunčeve svjetlosti.",
+      "savjet": "Sjeti se koje živo biće ne mora nikoga jesti da bi imalo hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-004",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo zelene biljke u hranidbenom lancu?",
+      "ponudeni": [
+        "Potrošači",
+        "Razlagači",
+        "Mesojedi",
+        "Proizvođači"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zelene biljke su proizvođači jer same stvaraju hranu uz pomoć Sunčeve svjetlosti.",
+      "savjet": "Razmisli tko u prirodi sam stvara hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-005",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo životinje u hranidbenom lancu?",
+      "ponudeni": [
+        "Potrošači",
+        "Proizvođači",
+        "Razlagači",
+        "Staništa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Životinje su potrošači jer ne mogu same stvoriti hranu, nego jedu biljke ili druge životinje.",
+      "savjet": "Životinje troše hranu koju je netko drugi stvorio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-006",
+      "tezina": "lagano",
+      "pitanje": "Koja su živa bića razlagači?",
+      "ponudeni": [
+        "Zelene biljke",
+        "Biljojedi",
+        "Gljive i bakterije",
+        "Ptice i kukci"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Razlagači su gljive i bakterije. One razgrađuju ostatke biljaka i životinja.",
+      "savjet": "Sjeti se tko u šumi razgrađuje otpalo lišće na tlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-007",
+      "tezina": "lagano",
+      "pitanje": "Što rade razlagači u prirodi?",
+      "ponudeni": [
+        "Stvaraju hranu uz pomoć Sunčeve svjetlosti",
+        "Razgrađuju ostatke biljaka i životinja",
+        "Love druge životinje",
+        "Oprašuju cvjetove"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlagači razgrađuju ostatke uginulih biljaka i životinja, na primjer otpalo lišće.",
+      "savjet": "Pogledaj samu riječ „razlagač“ i razmisli što znači razlagati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-008",
+      "tezina": "lagano",
+      "pitanje": "Što znači zapis trava → zec u hranidbenom lancu?",
+      "ponudeni": [
+        "Trava jede zeca",
+        "Zec se skriva u travi",
+        "Zec spava na travi",
+        "Zec jede travu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strelica znači „služi kao hrana“. Trava služi kao hrana zecu, odnosno zec jede travu.",
+      "savjet": "Strelica pokazuje od hrane prema onome tko je jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-009",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih živih bića proizvođač?",
+      "ponudeni": [
+        "Srna",
+        "Hrast",
+        "Gljiva",
+        "Sova"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrast je zelena biljka pa je proizvođač. Srna i sova su potrošači, a gljiva je razlagač.",
+      "savjet": "Potraži zelenu biljku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-010",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih živih bića potrošač?",
+      "ponudeni": [
+        "Maslačak",
+        "Bukva",
+        "Djetelina",
+        "Vjeverica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vjeverica je životinja pa je potrošač. Maslačak, bukva i djetelina su zelene biljke, dakle proizvođači.",
+      "savjet": "Potrošači su životinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-011",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih živih bića razlagač?",
+      "ponudeni": [
+        "Djetlić",
+        "Bor",
+        "Gljiva",
+        "Skakavac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gljive su razlagači. Bor je proizvođač, a djetlić i skakavac su potrošači.",
+      "savjet": "Razlagači nisu ni biljke ni životinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-012",
+      "tezina": "lagano",
+      "pitanje": "Koje je stanište srdele?",
+      "ponudeni": [
+        "Šuma",
+        "More",
+        "Livada",
+        "Polje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Srdela je morska riba, pa je njezino stanište more.",
+      "savjet": "Srdela je riba koju ribari love u Jadranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-013",
+      "tezina": "lagano",
+      "pitanje": "Koje je stanište vjeverice?",
+      "ponudeni": [
+        "More",
+        "Livada",
+        "Potok",
+        "Šuma"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vjeverica živi u šumi. Ondje se penje po drveću i skuplja plodove.",
+      "savjet": "Sjeti se gdje vjeverica skače s grane na granu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-014",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih životinja živi na livadi?",
+      "ponudeni": [
+        "Hobotnica",
+        "Skakavac",
+        "Morski jež",
+        "Srdela"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Skakavac živi na livadi među travama. Hobotnica, morski jež i srdela žive u moru.",
+      "savjet": "Tri od ponuđenih životinja žive u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-015",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja biljojed?",
+      "ponudeni": [
+        "Zec",
+        "Vuk",
+        "Sova",
+        "Ris"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zec je biljojed jer se hrani samo biljkama. Vuk, sova i ris su mesojedi.",
+      "savjet": "Potraži životinju koja jede travu i djetelinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-016",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja mesojed?",
+      "ponudeni": [
+        "Krava",
+        "Srna",
+        "Orao",
+        "Puž"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Orao je mesojed jer lovi druge životinje. Krava, srna i puž su biljojedi.",
+      "savjet": "Potraži životinju koja lovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-017",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja svejed?",
+      "ponudeni": [
+        "Ovca",
+        "Medvjed",
+        "Ris",
+        "Konj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Medvjed je svejed jer jede i biljke i životinje. Ovca i konj su biljojedi, a ris je mesojed.",
+      "savjet": "Svejed jede i biljnu i životinjsku hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-018",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo životinje koje se hrane samo biljkama?",
+      "ponudeni": [
+        "Mesojedi",
+        "Svejedi",
+        "Razlagači",
+        "Biljojedi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Životinje koje se hrane samo biljkama nazivamo biljojedima, na primjer krava, ovca i zec.",
+      "savjet": "Naziv se sastoji od dviju riječi: što jede i „jesti“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-019",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo životinje koje se hrane i biljkama i životinjama?",
+      "ponudeni": [
+        "Svejedi",
+        "Biljojedi",
+        "Mesojedi",
+        "Proizvođači"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svejedi jedu i biljke i životinje. Takvi su, na primjer, svinja i medvjed.",
+      "savjet": "Naziv govori da takva životinja jede gotovo sve."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-020",
+      "tezina": "lagano",
+      "pitanje": "Što je zelenoj biljci potrebno da bi u listu stvorila hranu?",
+      "ponudeni": [
+        "Hladan vjetar",
+        "Tama",
+        "Sunčeva svjetlost",
+        "Snijeg"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zelena biljka uz pomoć Sunčeve svjetlosti u listu stvara hranu.",
+      "savjet": "Sjeti se zašto se biljke na prozoru okreću prema van."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-021",
+      "tezina": "lagano",
+      "pitanje": "Gdje žive biljke i životinje koje čine jednu životnu zajednicu?",
+      "ponudeni": [
+        "Na različitim kontinentima",
+        "Samo u zoološkom vrtu",
+        "Na istom staništu",
+        "Samo u kućama ljudi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Životnu zajednicu čine biljke i životinje koje žive zajedno na istom staništu.",
+      "savjet": "Članovi životne zajednice žive zajedno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-022",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenog primjer životne zajednice?",
+      "ponudeni": [
+        "Kamen",
+        "Šuma",
+        "Oblak",
+        "Pijesak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šuma je životna zajednica jer u njoj zajedno žive mnoge biljke i životinje koje ovise jedne o drugima.",
+      "savjet": "Potraži mjesto na kojem zajedno žive mnoge biljke i životinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-023",
+      "tezina": "lagano",
+      "pitanje": "Koja živa bića sama stvaraju hranu?",
+      "ponudeni": [
+        "Životinje",
+        "Gljive",
+        "Bakterije",
+        "Zelene biljke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Samo zelene biljke same stvaraju hranu uz pomoć Sunčeve svjetlosti. Ostala živa bića hranu moraju uzeti od drugih.",
+      "savjet": "Sjeti se tko je na početku svakog hranidbenog lanca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-024",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo niz živih bića u kojem jedno služi kao hrana drugome?",
+      "ponudeni": [
+        "Stanište",
+        "Hranidbeni lanac",
+        "Životna zajednica",
+        "Godišnje doba"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hranidbeni lanac je niz živih bića u kojem jedno služi kao hrana drugome, na primjer trava → zec → lisica.",
+      "savjet": "Živa bića u tom nizu povezana su poput karika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-025",
+      "tezina": "lagano",
+      "pitanje": "Koje je stanište morskog ježa?",
+      "ponudeni": [
+        "Livada",
+        "Šuma",
+        "Polje",
+        "More"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Morski jež živi u moru, na kamenitom morskom dnu.",
+      "savjet": "Pomoći će ti njegovo ime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-026",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih staništa vodeno stanište?",
+      "ponudeni": [
+        "Livada",
+        "Jezero",
+        "Šuma",
+        "Oranica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jezero je vodeno stanište. Livada, šuma i oranica su kopnena staništa.",
+      "savjet": "Potraži stanište u kojem bi živjele ribe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-027",
+      "tezina": "lagano",
+      "pitanje": "Koje je živo biće proizvođač u lancu trava → zec → lisica?",
+      "ponudeni": [
+        "Trava",
+        "Zec",
+        "Lisica",
+        "Nijedno od njih"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trava je zelena biljka i sama stvara hranu, pa je ona proizvođač. Zec i lisica su potrošači.",
+      "savjet": "Proizvođač je uvijek na početku lanca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-028",
+      "tezina": "lagano",
+      "pitanje": "Koja je tvrdnja o životnoj zajednici točna?",
+      "ponudeni": [
+        "U njoj žive samo životinje.",
+        "U njoj žive samo biljke.",
+        "Živa bića u njoj ne trebaju jedna druge.",
+        "Biljke i životinje u njoj ovise jedne o drugima."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U životnoj zajednici žive i biljke i životinje, a ovise jedne o drugima, na primjer zbog hrane i skloništa.",
+      "savjet": "Sjeti se kako glasi rečenica koja objašnjava što je životna zajednica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-029",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenog nije živo biće?",
+      "ponudeni": [
+        "Kamen",
+        "Hrast",
+        "Gujavica",
+        "Gljiva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kamen nije živo biće jer ne raste, ne hrani se i ne razmnožava se. Hrast, gujavica i gljiva su živa bića.",
+      "savjet": "Živa bića rastu, hrane se i razmnožavaju se."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-030",
+      "tezina": "lagano",
+      "pitanje": "Kojoj skupini pripada čovjek prema načinu prehrane?",
+      "ponudeni": [
+        "Biljojedima",
+        "Mesojedima",
+        "Svejedima",
+        "Razlagačima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čovjek je svejed jer jede i hranu biljnog i hranu životinjskog podrijetla.",
+      "savjet": "Sjeti se što sve jedeš za ručak: povrće, voće, meso, jaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-031",
+      "tezina": "srednje",
+      "pitanje": "Koji je hranidbeni lanac pravilno složen?",
+      "ponudeni": [
+        "lisica → zec → trava",
+        "trava → zec → lisica",
+        "zec → trava → lisica",
+        "trava → lisica → zec"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lanac počinje travom, koju jede zec, a zeca lovi lisica: trava → zec → lisica.",
+      "savjet": "Počni od zelene biljke, a strelica vodi prema onome tko jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-032",
+      "tezina": "srednje",
+      "pitanje": "Koje je živo biće biljojed u lancu trava → srna → vuk?",
+      "ponudeni": [
+        "Trava",
+        "Vuk",
+        "Srna",
+        "Nijedno od njih"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srna jede travu pa je biljojed. Vuk lovi srnu pa je mesojed, a trava je proizvođač.",
+      "savjet": "Biljojed je životinja koja je u lancu odmah iza biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-033",
+      "tezina": "srednje",
+      "pitanje": "Kakvu ulogu ima trava u lancu trava → ovca → vuk?",
+      "ponudeni": [
+        "Proizvođač",
+        "Potrošač",
+        "Razlagač",
+        "Mesojed"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trava je zelena biljka koja sama stvara hranu, pa je proizvođač.",
+      "savjet": "Pogledaj na kojem je mjestu trava u lancu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-034",
+      "tezina": "srednje",
+      "pitanje": "Na šumskom tlu leže uginuli kukac i otpalo lišće. Koja će ih živa bića razgraditi?",
+      "ponudeni": [
+        "Srne i jeleni",
+        "Hrastovi i bukve",
+        "Sove i orlovi",
+        "Gljive i bakterije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gljive i bakterije su razlagači. One razgrađuju ostatke biljaka i životinja.",
+      "savjet": "Sjeti se kako se zovu živa bića koja razgrađuju ostatke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-035",
+      "tezina": "srednje",
+      "pitanje": "Zašto zelene biljke nazivamo proizvođačima?",
+      "ponudeni": [
+        "Jer jedu druge biljke",
+        "Jer same stvaraju hranu uz pomoć Sunčeve svjetlosti",
+        "Jer razgrađuju ostatke životinja",
+        "Jer se kreću u potrazi za hranom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zelene biljke same proizvode hranu u listu uz pomoć Sunčeve svjetlosti, pa ih zovemo proizvođačima.",
+      "savjet": "Naziv „proizvođač“ dolazi od riječi „proizvoditi“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto životinje nazivamo potrošačima?",
+      "ponudeni": [
+        "Jer same stvaraju hranu u listu",
+        "Jer razgrađuju otpalo lišće",
+        "Jer ne mogu same stvoriti hranu, nego jedu druga živa bića",
+        "Jer žive samo u šumi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Životinje ne mogu same stvoriti hranu. Troše hranu jedući biljke ili druge životinje.",
+      "savjet": "Razmisli odakle životinja dobiva hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-037",
+      "tezina": "srednje",
+      "pitanje": "Koje živo biće nedostaje u lancu trava → ___ → vuk?",
+      "ponudeni": [
+        "Srna",
+        "Ris",
+        "Orao",
+        "Maslačak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srna jede travu, a vuk lovi srnu. Ris i orao su mesojedi i ne jedu travu, a maslačak je biljka.",
+      "savjet": "Na tom mjestu treba biti životinja koja jede travu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-038",
+      "tezina": "srednje",
+      "pitanje": "Koje živo biće nedostaje na početku lanca ___ → zec → lisica?",
+      "ponudeni": [
+        "Vuk",
+        "Gljiva",
+        "Sova",
+        "Djetelina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lanac počinje zelenom biljkom. Djetelina je zelena biljka koju zec rado jede.",
+      "savjet": "Na početku lanca uvijek je proizvođač."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto je medvjed svejed?",
+      "ponudeni": [
+        "Jer jede samo travu",
+        "Jer jede i biljke i životinje",
+        "Jer jede samo druge životinje",
+        "Jer razgrađuje ostatke biljaka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Medvjed jede i biljnu hranu, poput plodova, i životinjsku hranu, pa je svejed.",
+      "savjet": "Sjeti se što znači riječ „svejed“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-040",
+      "tezina": "srednje",
+      "pitanje": "Koji par čine biljojed i mesojed, tim redom?",
+      "ponudeni": [
+        "Krava i ovca",
+        "Vuk i orao",
+        "Konj i ris",
+        "Svinja i medvjed"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Konj je biljojed, a ris mesojed. Krava i ovca su biljojedi, vuk i orao mesojedi, a svinja i medvjed svejedi.",
+      "savjet": "Za svaku životinju u paru provjeri što jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-041",
+      "tezina": "srednje",
+      "pitanje": "Koja se od navedenih životinja hrani samo drugim životinjama?",
+      "ponudeni": [
+        "Koza",
+        "Vrana",
+        "Puž",
+        "Orao"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Orao je mesojed i hrani se drugim životinjama. Koza i puž su biljojedi, a vrana je svejed.",
+      "savjet": "Potraži pticu grabljivicu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-042",
+      "tezina": "srednje",
+      "pitanje": "Koja su životinja i njezino stanište pravilno povezani?",
+      "ponudeni": [
+        "Hobotnica – more",
+        "Srna – more",
+        "Srdela – šuma",
+        "Morski jež – livada"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hobotnica živi u moru. Srna živi u šumi, srdela i morski jež u moru.",
+      "savjet": "Za svaki par provjeri može li ta životinja ondje disati i naći hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-043",
+      "tezina": "srednje",
+      "pitanje": "Koja su biljka i njezino stanište pravilno povezani?",
+      "ponudeni": [
+        "Bukva – more",
+        "Maslačak – morsko dno",
+        "Posidonija – more",
+        "Jela – livada"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Posidonija je morska cvjetnica koja raste na morskom dnu. Bukva i jela rastu u šumi, a maslačak na livadi.",
+      "savjet": "Jedna od ponuđenih biljaka raste pod vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-044",
+      "tezina": "srednje",
+      "pitanje": "Kako pčele i livadno cvijeće ovise jedni o drugima?",
+      "ponudeni": [
+        "Pčele razgrađuju uvelo cvijeće",
+        "Pčele uzimaju hranu iz cvjetova i pritom ih oprašuju",
+        "Cvjetovi štite pčele od kiše",
+        "Pčele zalijevaju cvjetove vodom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pčele u cvjetovima nalaze hranu, a pritom oprašuju cvjetove, pa iz njih mogu nastati plodovi.",
+      "savjet": "Razmisli što pčela radi kad slijeće na cvijet."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-045",
+      "tezina": "srednje",
+      "pitanje": "Kako razlagači pomažu biljkama?",
+      "ponudeni": [
+        "Razgrađuju ostatke u tvari koje biljke upijaju iz tla",
+        "Oprašuju cvjetove biljaka",
+        "Štite biljke od biljojeda",
+        "Donose biljkama Sunčevu svjetlost"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlagači razgrađuju ostatke biljaka i životinja, a tvari koje pritom nastaju vraćaju se u tlo, odakle ih biljke upijaju korijenom.",
+      "savjet": "Sjeti se što biljka korijenom upija iz tla."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-046",
+      "tezina": "srednje",
+      "pitanje": "Kako životinje u šumi ovise o biljkama?",
+      "ponudeni": [
+        "Biljke im razgrađuju ostatke",
+        "Biljke ih love",
+        "Biljke ih griju zimi",
+        "Biljke im daju hranu i sklonište"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Biljke su životinjama hrana, a u krošnjama, grmlju i pod korijenjem nalaze sklonište.",
+      "savjet": "Sjeti se gdje ptica pravi gnijezdo i što srna jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-047",
+      "tezina": "srednje",
+      "pitanje": "Koja su živa bića potrošači u lancu trava → zec → lisica?",
+      "ponudeni": [
+        "Trava i zec",
+        "Zec i lisica",
+        "Samo trava",
+        "Trava i lisica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zec i lisica su životinje i hranu dobivaju jedući druga živa bića, pa su potrošači. Trava je proizvođač.",
+      "savjet": "Potrošači su sve životinje u lancu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-048",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se proizvođači razlikuju od potrošača?",
+      "ponudeni": [
+        "Proizvođači su životinje, a potrošači biljke",
+        "Proizvođači razgrađuju ostatke, a potrošači ih skupljaju",
+        "Proizvođači sami stvaraju hranu, a potrošači jedu druga živa bića",
+        "Proizvođači žive u moru, a potrošači na kopnu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Proizvođači (zelene biljke) sami stvaraju hranu, a potrošači (životinje) hranu dobivaju jedući druga živa bića.",
+      "savjet": "Usporedi kako biljka, a kako životinja dolazi do hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-049",
+      "tezina": "srednje",
+      "pitanje": "Šuma i livada su različita staništa. Što je od navedenog točno?",
+      "ponudeni": [
+        "Na njima žive iste biljke i životinje",
+        "Na njima ne žive životinje",
+        "Na njima ne rastu biljke",
+        "Na njima žive različite biljke i životinje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svako stanište ima svoje uvjete, pa na njemu žive biljke i životinje kojima ti uvjeti odgovaraju.",
+      "savjet": "Usporedi što raste i tko živi u šumi, a što na livadi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-050",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko kravi, srni i zecu?",
+      "ponudeni": [
+        "Sve su biljojedi.",
+        "Sve su mesojedi.",
+        "Sve su proizvođači.",
+        "Sve su razlagači."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krava, srna i zec hrane se samo biljkama, pa su biljojedi.",
+      "savjet": "Sjeti se što te tri životinje jedu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-051",
+      "tezina": "srednje",
+      "pitanje": "Divlja svinja u šumi jede žir i korijenje, ali i gliste i kukce. Kako je nazivamo prema prehrani?",
+      "ponudeni": [
+        "Biljojed",
+        "Mesojed",
+        "Svejed",
+        "Proizvođač"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Divlja svinja jede i biljke i životinje, pa je svejed.",
+      "savjet": "Pogledaj jede li ona samo biljke, samo životinje ili oboje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-052",
+      "tezina": "srednje",
+      "pitanje": "Koje dvije životinje mogu u hranidbenom lancu biti odmah iza trave?",
+      "ponudeni": [
+        "Vuk i ris",
+        "Orao i sova",
+        "Mačka i morski pas",
+        "Ovca i konj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ovca i konj jedu travu jer su biljojedi. Ostale ponuđene životinje su mesojedi.",
+      "savjet": "Odmah iza biljke dolazi životinja koja jede biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-053",
+      "tezina": "srednje",
+      "pitanje": "Što se s vremenom događa s uginulim stablom u šumi?",
+      "ponudeni": [
+        "Pretvara se u kamen",
+        "Gljive i bakterije ga razgrađuju",
+        "Ponovno ozeleni",
+        "Odnese ga vjetar u more"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uginulo stablo s vremenom razgrade razlagači, gljive i bakterije, pa se ono pretvara u tvari u tlu.",
+      "savjet": "Sjeti se koja živa bića razgrađuju ostatke biljaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-054",
+      "tezina": "srednje",
+      "pitanje": "Hobotnica i dobri dupin žive u moru. Što je more za njih?",
+      "ponudeni": [
+        "Hranidbeni lanac",
+        "Razlagač",
+        "Proizvođač",
+        "Stanište"
+      ],
+      "tocan": 3,
+      "objasnjenje": "More je mjesto gdje žive hobotnica i dobri dupin, dakle njihovo stanište.",
+      "savjet": "Sjeti se kako se zove mjesto na kojem živi neko živo biće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-055",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja točna za lanac trava → srna → ris?",
+      "ponudeni": [
+        "Ris dobiva hranu od srne, a srna od trave",
+        "Srna dobiva hranu od risa",
+        "Trava dobiva hranu od srne",
+        "Ris se hrani travom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Strelice pokazuju da srna jede travu, a ris lovi srnu.",
+      "savjet": "Prati strelice: one vode od hrane prema onome tko je jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-056",
+      "tezina": "srednje",
+      "pitanje": "Gdje u šumi razlagači imaju najviše posla?",
+      "ponudeni": [
+        "Na vrhovima krošnji",
+        "Na tlu, gdje je otpalo lišće",
+        "Na latici cvijeta",
+        "Na vrhu gnijezda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na šumskom tlu skupljaju se otpalo lišće, grane i ostaci životinja, a njih razgrađuju gljive i bakterije.",
+      "savjet": "Razmisli gdje se skupljaju ostaci biljaka i životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-057",
+      "tezina": "srednje",
+      "pitanje": "Orao lovi zeca. Koji je zapis tog hranidbenog odnosa točan?",
+      "ponudeni": [
+        "orao → zec",
+        "orao → trava",
+        "zec → orao",
+        "trava → orao"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Strelica ide od onoga tko služi kao hrana prema onome tko ga jede: zec → orao.",
+      "savjet": "Strelica znači „služi kao hrana“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-058",
+      "tezina": "srednje",
+      "pitanje": "Koja živa bića zajedno čine životnu zajednicu livade?",
+      "ponudeni": [
+        "Posidonija, hobotnica i srdela",
+        "Jela, smreka i bor",
+        "Alge, rakovi i spužve",
+        "Trave, maslačak, skakavac i zec"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na livadi žive trave i livadno cvijeće, kukci poput skakavca te životinje poput zeca.",
+      "savjet": "Životna zajednica ima i biljke i životinje istog staništa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-059",
+      "tezina": "srednje",
+      "pitanje": "Koji niz prikazuje proizvođača, potrošača i razlagača, tim redom?",
+      "ponudeni": [
+        "Gljiva, srna, bukva",
+        "Srna, bukva, gljiva",
+        "Bukva, srna, gljiva",
+        "Bukva, gljiva, srna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bukva je zelena biljka (proizvođač), srna je životinja (potrošač), a gljiva je razlagač.",
+      "savjet": "Najprije pronađi zelenu biljku, zatim životinju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-060",
+      "tezina": "srednje",
+      "pitanje": "Kako čovjek ovisi o biljkama?",
+      "ponudeni": [
+        "Biljke su hrana čovjeku i životinjama koje uzgaja",
+        "Biljke razgrađuju čovjekov otpad",
+        "Biljke love štetne životinje za čovjeka",
+        "Čovjek ne ovisi o biljkama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Čovjek jede biljke, ali i meso, mlijeko i jaja životinja koje se hrane biljkama.",
+      "savjet": "Sjeti se što jedu krava i kokoš koje ljudi uzgajaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-061",
+      "tezina": "tesko",
+      "pitanje": "U lancu trava → zec → lisica nestali su svi zečevi. Što će se najvjerojatnije dogoditi s lisicama?",
+      "ponudeni": [
+        "Imat će više hrane",
+        "Imat će manje hrane",
+        "Počet će jesti travu",
+        "Neće se ništa promijeniti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lisice u tom lancu jedu zečeve. Kad zečeva nema, lisice ostaju bez dijela svoje hrane.",
+      "savjet": "Pogledaj tko je u tom lancu hrana lisici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-062",
+      "tezina": "tesko",
+      "pitanje": "U lancu trava → zec → lisica nestali su svi zečevi. Što će se najvjerojatnije dogoditi s travom?",
+      "ponudeni": [
+        "Bit će je manje jer je lisice jedu",
+        "Osušit će se",
+        "Bit će je više jer je nema tko jesti",
+        "Pretvorit će se u gljive"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Travu u tom lancu jedu zečevi. Kad nema zečeva, travu nitko ne pase, pa je ima više.",
+      "savjet": "Razmisli tko je do tada jeo travu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-063",
+      "tezina": "tesko",
+      "pitanje": "Učenik je napisao lanac trava → vuk → ovca. U čemu je pogreška?",
+      "ponudeni": [
+        "Trava treba biti na kraju lanca",
+        "Na početku treba biti gljiva",
+        "Lanac je točan",
+        "Vuk i ovca zamijenili su mjesta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ovca jede travu, a vuk lovi ovcu. Točan lanac je trava → ovca → vuk.",
+      "savjet": "Provjeri jede li vuk travu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-064",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo u šumi kad ne bi bilo razlagača?",
+      "ponudeni": [
+        "Na tlu bi se gomilali otpalo lišće i ostaci uginulih životinja",
+        "Biljke ne bi mogle dobiti Sunčevu svjetlost",
+        "Biljojedi bi postali mesojedi",
+        "Drveće bi raslo brže nego prije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlagači razgrađuju ostatke biljaka i životinja. Bez njih bi se ti ostaci gomilali, a biljke ne bi dobivale tvari iz tla.",
+      "savjet": "Sjeti se što razlagači rade s ostacima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto hranidbeni lanac počinje zelenom biljkom?",
+      "ponudeni": [
+        "Jer je biljka najveća u lancu",
+        "Jer biljka živi najdulje",
+        "Jer zelena biljka sama stvara hranu, a životinje je ne mogu stvoriti",
+        "Jer biljke jedu životinje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zelena biljka uz pomoć Sunčeve svjetlosti sama stvara hranu. Sve životinje u lancu ovise o toj hrani.",
+      "savjet": "Razmisli odakle dolazi hrana za sve ostale karike lanca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-066",
+      "tezina": "tesko",
+      "pitanje": "U jednom su kraju nestali svi vukovi. Što bi se moglo dogoditi sa srnama i mladim biljkama?",
+      "ponudeni": [
+        "Srna bi bilo manje, a mladih biljaka više",
+        "Srna bi bilo više, pa bi pojele više mladih biljaka",
+        "Srne bi počele loviti druge životinje",
+        "Ništa se ne bi promijenilo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vukovi love srne. Bez vukova bi srna bilo više, a one bi pojele više mladih biljaka.",
+      "savjet": "Kreni od lanca biljka → srna → vuk i ukloni posljednju kariku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-067",
+      "tezina": "tesko",
+      "pitanje": "Bez koje bi karike u lancu djetelina → zec → lisica ostali bez hrane i zec i lisica?",
+      "ponudeni": [
+        "Bez lisice",
+        "Bez zeca",
+        "Bez nijedne",
+        "Bez djeteline"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zec jede djetelinu, a lisica zeca. Bez djeteline zec ne bi imao hrane, a onda ni lisica.",
+      "savjet": "Kreni od početka lanca i prati tko o kome ovisi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-068",
+      "tezina": "tesko",
+      "pitanje": "Ovce i krave pasu na istoj livadi. Što će se dogoditi kad je trave vrlo malo?",
+      "ponudeni": [
+        "Ovcama i kravama bit će teže naći dovoljno hrane",
+        "Ovce će početi jesti krave",
+        "Krave će postati mesojedi",
+        "Trave će biti više jer je jedu dvije vrste"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ovce i krave jedu istu hranu. Kad trave nema dovoljno, obje vrste imaju manje hrane.",
+      "savjet": "Razmisli što jedu i ovca i krava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-069",
+      "tezina": "tesko",
+      "pitanje": "Zašto nije dobro iz šume odnositi baš sve otpalo lišće i suhe grane?",
+      "ponudeni": [
+        "Jer lišće grije drveće zimi",
+        "Jer ih razlagači pretvaraju u tvari koje biljke trebaju",
+        "Jer lišće služi kao hrana vukovima",
+        "Jer bez lišća u šumi ne bi bilo svjetla"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gljive i bakterije razgrađuju lišće i grane u tvari koje se vraćaju u tlo i koje biljke upijaju korijenom.",
+      "savjet": "Sjeti se uloge razlagača u šumi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-070",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o lancu trava → zec → orao točna?",
+      "ponudeni": [
+        "Orao jede travu",
+        "Zec je proizvođač",
+        "Kad bi nestala trava, bez hrane bi ostali i zečevi i orlovi",
+        "Trava je potrošač"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zec jede travu, a orao zeca. Bez trave ne bi bilo hrane za zeca, a onda ni za orla.",
+      "savjet": "Za svaku tvrdnju provjeri ulogu i hranu svakog člana lanca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-071",
+      "tezina": "tesko",
+      "pitanje": "U kojem je hranidbenom lancu pogreška?",
+      "ponudeni": [
+        "trava → ovca → vuk",
+        "djetelina → zec → lisica",
+        "trava → srna → ris",
+        "trava → konj → koza"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Koza je biljojed i ne jede konja, pa je lanac trava → konj → koza pogrešan.",
+      "savjet": "Za svaku životinju na kraju lanca provjeri jede li ona životinju ispred sebe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-072",
+      "tezina": "tesko",
+      "pitanje": "U šumi je mnogo srna, a malo biljaka koje one jedu. Što će se najvjerojatnije dogoditi?",
+      "ponudeni": [
+        "Srne neće imati dovoljno hrane",
+        "Srne će početi jesti vukove",
+        "Biljaka će biti sve više",
+        "Srne će same stvarati hranu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srne su biljojedi. Ako je biljaka premalo, neće sve srne naći dovoljno hrane.",
+      "savjet": "Razmisli o čemu ovisi koliko hrane ima svaka srna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-073",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer pokazuje da biljke ovise o životinjama?",
+      "ponudeni": [
+        "Krava pase travu",
+        "Pčele oprašuju cvjetove voćaka",
+        "Vuk lovi srnu",
+        "Gljiva raste u šumi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pčele oprašuju cvjetove, a iz oprašenih cvjetova nastaju plodovi. Tako biljke ovise o pčelama.",
+      "savjet": "Potraži primjer u kojem životinja biljci nešto daje, a ne uzima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-074",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer pokazuje da životinje ovise o biljkama?",
+      "ponudeni": [
+        "Vuk lovi srnu",
+        "Gljive razgrađuju lišće",
+        "Srna jede travu i mlado lišće",
+        "Sunce grije tlo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srna se hrani biljkama, pa bez njih ne bi imala hrane.",
+      "savjet": "Potraži primjer u kojem životinja od biljke dobiva hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-075",
+      "tezina": "tesko",
+      "pitanje": "Na nekoj su livadi nestali gotovo svi kukci. Zašto je to loše za livadno cvijeće?",
+      "ponudeni": [
+        "Cvijeće neće imati dovoljno svjetla",
+        "Cvijeće će pojesti više biljojeda",
+        "Tlo će postati slano",
+        "Manje cvjetova bit će oprašeno, pa će nastati manje plodova i sjemenki"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kukci poput pčela i leptira oprašuju cvjetove. Bez njih nastaje manje plodova i sjemenki, pa i manje novih biljaka.",
+      "savjet": "Sjeti se što pčele i leptiri rade kad posjećuju cvjetove."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-076",
+      "tezina": "tesko",
+      "pitanje": "Na nekoj su livadi nestali gotovo svi kukci. Zašto bi to moglo biti loše za ptice?",
+      "ponudeni": [
+        "Ptice koje se hrane kukcima ostale bi bez hrane",
+        "Ptice ne bi mogle letjeti",
+        "Ptice bi morale postati proizvođači",
+        "Ptice bi dobile previše hrane"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mnoge ptice hrane se kukcima. Kad kukaca nestane, te ptice ostaju bez hrane.",
+      "savjet": "Razmisli čime ptice hrane svoje mlade u gnijezdu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-077",
+      "tezina": "tesko",
+      "pitanje": "Srna je pojela travu, a nakon nekog vremena uginula je. Što se dalje događa s tvarima iz njezina tijela?",
+      "ponudeni": [
+        "Zauvijek ostaju na tlu",
+        "Pretvaraju se u Sunčevu svjetlost",
+        "Razlagači ih razgrade, a iz tla ih upiju biljke",
+        "Odmah se pretvaraju u novu srnu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Razlagači razgrade ostatke srne, tvari se vrate u tlo, a biljke ih upiju korijenom. Tako tvari kruže u prirodi.",
+      "savjet": "Sjeti se koja se živa bića brinu za ostatke i kamo te tvari odlaze."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-078",
+      "tezina": "tesko",
+      "pitanje": "I hranidbeni lanac u moru počinje proizvođačima. Koja su to živa bića?",
+      "ponudeni": [
+        "Hobotnice i rakovi",
+        "Alge i posidonija",
+        "Spužve i školjke",
+        "Morski psi i dobri dupini"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U moru su proizvođači alge i morske cvjetnice poput posidonije jer i one stvaraju hranu uz pomoć Sunčeve svjetlosti.",
+      "savjet": "Potraži živa bića u moru koja su zelena i trebaju svjetlost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-079",
+      "tezina": "tesko",
+      "pitanje": "Ovca, koza i krava hrane se travom. Koja bi od njih ostala bez hrane kad bi trava nestala?",
+      "ponudeni": [
+        "Samo ovca",
+        "Samo krava",
+        "Nijedna",
+        "Sve tri"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve tri životinje su biljojedi koji jedu travu, pa bi bez trave sve tri ostale bez hrane.",
+      "savjet": "Pogledaj čime se hrani svaka od njih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto lisica u lancu trava → zec → lisica ovisi o travi iako je ne jede?",
+      "ponudeni": [
+        "Jer se skriva u visokoj travi",
+        "Jer trava razgrađuje ostatke lisica",
+        "Jer jede zečeve koji se hrane travom",
+        "Jer trava lisici daje Sunčevu svjetlost"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lisica jede zeca, a zec travu. Bez trave ne bi bilo zečeva, pa ni hrane za lisicu.",
+      "savjet": "Prati strelice od trave do lisice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-081",
+      "tezina": "tesko",
+      "pitanje": "Učenik je napisao: „Gljive su proizvođači jer rastu iz tla.“ Zašto to nije točno?",
+      "ponudeni": [
+        "Gljive ne stvaraju hranu uz pomoć Sunčeve svjetlosti, one su razlagači",
+        "Gljive su životinje, pa su potrošači",
+        "Gljive ne rastu iz tla, nego u vodi",
+        "Gljive su mesojedi jer love kukce"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Proizvođači su zelene biljke koje same stvaraju hranu. Gljive to ne mogu, nego razgrađuju ostatke, pa su razlagači.",
+      "savjet": "Sjeti se tko su proizvođači i po čemu ih prepoznajemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-082",
+      "tezina": "tesko",
+      "pitanje": "Kad bi u nekoj šumi nestale sve zelene biljke, što bi se dogodilo s mesojedima poput vuka?",
+      "ponudeni": [
+        "Ništa, jer vuk ne jede biljke",
+        "Postali bi biljojedi",
+        "Imali bi više hrane",
+        "Ostali bi bez hrane jer bi nestali biljojedi koje love"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vuk lovi biljojede, a biljojedi jedu biljke. Bez biljaka ne bi bilo biljojeda, pa ni hrane za vuka.",
+      "savjet": "Sjeti se čime počinje svaki hranidbeni lanac."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto hobotnica ne može živjeti na livadi?",
+      "ponudeni": [
+        "Jer na livadi nema hrane ni za jednu životinju",
+        "Jer livada nije njezino stanište, ona treba morsku vodu",
+        "Jer bi je pojele krave",
+        "Jer je livada premalena"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svako živo biće prilagođeno je svojem staništu. Hobotnica je prilagođena životu u moru.",
+      "savjet": "Sjeti se gdje je stanište hobotnice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-084",
+      "tezina": "tesko",
+      "pitanje": "Zašto na istom staništu žive i biljojedi i mesojedi?",
+      "ponudeni": [
+        "Jer mesojedi biljojedima daju hranu",
+        "Jer biljojedi love mesojede",
+        "Jer biljojedi ondje nalaze biljke, a mesojedi biljojede",
+        "Jer se ne mogu sresti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljojedi žive gdje ima biljaka, a mesojedi gdje ima biljojeda koje love. Zato žive na istom staništu.",
+      "savjet": "Razmisli gdje svaka od tih životinja nalazi hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-085",
+      "tezina": "tesko",
+      "pitanje": "Koje živo biće može zamijeniti lisicu u lancu trava → zec → lisica, a da lanac ostane točan?",
+      "ponudeni": [
+        "Orao",
+        "Krava",
+        "Maslačak",
+        "Gljiva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Orao lovi zečeve, pa lanac trava → zec → orao također postoji. Krava je biljojed, maslačak proizvođač, a gljiva razlagač.",
+      "savjet": "Na tom mjestu treba biti životinja koja jede zeca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-086",
+      "tezina": "tesko",
+      "pitanje": "Što je točno za kozu u lancu trava → koza → vuk?",
+      "ponudeni": [
+        "Ona je proizvođač jer jede travu",
+        "Ona je razlagač jer jede ostatke biljaka",
+        "Ona je mesojed jer je jede vuk",
+        "Ona je potrošač koji jede travu i služi kao hrana vuku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Koza ne stvara hranu, nego jede travu, pa je potrošač. Istodobno je hrana vuku.",
+      "savjet": "Pogledaj što je ispred, a što iza koze u lancu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-087",
+      "tezina": "tesko",
+      "pitanje": "Ljudi su posjekli šumu. Što su time izgubile srne i vjeverice koje su ondje živjele?",
+      "ponudeni": [
+        "Samo mjesto za igru",
+        "Svoje stanište, a s njim hranu i sklonište",
+        "Ništa, jer mogu živjeti bilo gdje",
+        "Samo hladovinu ljeti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šuma je stanište srna i vjeverica. Kad nestane šume, one gube hranu i sklonište.",
+      "savjet": "Sjeti se što životinjama daje njihovo stanište."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-088",
+      "tezina": "tesko",
+      "pitanje": "Netko je zagadio vodu u jezeru. Zašto to šteti cijeloj životnoj zajednici jezera?",
+      "ponudeni": [
+        "Jer zagađena voda šteti samo ribama",
+        "Jer zagađena voda ne šteti biljkama",
+        "Jer živa bića ovise jedna o drugima, pa stradanje jednih šteti i drugima",
+        "Jer se voda u jezeru nikad ne mijenja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U životnoj zajednici živa bića ovise jedna o drugima. Kad zagađenje naškodi jednima, ostali ostaju bez hrane ili skloništa.",
+      "savjet": "Sjeti se što znači da živa bića u zajednici ovise jedna o drugima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-089",
+      "tezina": "tesko",
+      "pitanje": "Koja dva živa bića mogu biti susjedne karike u istom hranidbenom lancu?",
+      "ponudeni": [
+        "Krava i ovca",
+        "Zec i srna",
+        "Bukva i hrast",
+        "Djetelina i konj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Konj jede djetelinu, pa mogu biti susjedne karike: djetelina → konj. U ostalim parovima nijedno ne služi kao hrana drugome.",
+      "savjet": "Potraži par u kojem jedno živo biće služi kao hrana drugome."
+    },
+    {
+      "id": "4-priroda-i-drustvo-staniste-i-hranidbeni-odnosi-090",
+      "tezina": "tesko",
+      "pitanje": "Zašto i vuk, koji ne jede biljke, ovisi o Sunčevoj svjetlosti?",
+      "ponudeni": [
+        "Jer ga Sunce grije dok lovi",
+        "Jer se hrani Sunčevom svjetlošću",
+        "Jer na Suncu spava",
+        "Jer uz nju biljke stvaraju hranu za biljojede koje vuk lovi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uz pomoć Sunčeve svjetlosti biljke stvaraju hranu. Biljke jedu biljojedi, a njih lovi vuk.",
+      "savjet": "Kreni od početka hranidbenog lanca u kojem je vuk."
+    }
+  ]
+}

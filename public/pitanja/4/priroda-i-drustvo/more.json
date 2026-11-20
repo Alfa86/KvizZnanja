@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "more",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-more-001",
+      "tezina": "lagano",
+      "pitanje": "Kakva je voda u moru?",
+      "ponudeni": [
+        "Slatka",
+        "Slana",
+        "Gazirana",
+        "Mutna i stajaća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda u moru je slana. Zato je ne možemo piti kao vodu iz slavine.",
+      "savjet": "Sjeti se okusa vode koja ti uđe u usta dok se kupaš u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove more uz obalu Hrvatske?",
+      "ponudeni": [
+        "Crno more",
+        "Sjeverno more",
+        "Jadransko more",
+        "Mrtvo more"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatska obala nalazi se uz Jadransko more. Ono je vrlo važno za život ljudi u Hrvatskoj.",
+      "savjet": "Sjeti se imena mora na koje odlaziš ljeti na kupanje u Hrvatskoj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-003",
+      "tezina": "lagano",
+      "pitanje": "Čime riba diše u vodi?",
+      "ponudeni": [
+        "Plućima",
+        "Perajama",
+        "Ljuskama",
+        "Škrgama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riba diše škrgama. Škrgama uzima kisik iz vode.",
+      "savjet": "Sjeti se dijela tijela sa strane ribje glave koji se stalno otvara i zatvara."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-004",
+      "tezina": "lagano",
+      "pitanje": "Gdje živi srdela?",
+      "ponudeni": [
+        "U moru",
+        "U rijeci",
+        "U jezeru",
+        "U bari"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srdela je morska riba. Živi u Jadranskom moru, gdje je ribari love.",
+      "savjet": "Sjeti se koju ribu ribari na obali često love mrežama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-005",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja sisavac koji živi u moru?",
+      "ponudeni": [
+        "Srdela",
+        "Hobotnica",
+        "Rak",
+        "Dobri dupin"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobri dupin je sisavac. Diše plućima, a mladunče hrani mlijekom.",
+      "savjet": "Sisavci hrane svoje mladunče mlijekom. Koja morska životinja to radi?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-006",
+      "tezina": "lagano",
+      "pitanje": "Koja je biljka morska cvjetnica?",
+      "ponudeni": [
+        "Alga",
+        "Spužva",
+        "Posidonija",
+        "Morski jež"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Posidonija je morska cvjetnica. Ima korijen, stabljiku, listove i cvjetove, kao biljke na kopnu.",
+      "savjet": "Sjeti se koja morska biljka ima cvjetove kao biljke na kopnu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-007",
+      "tezina": "lagano",
+      "pitanje": "Što morski jež ima na tijelu?",
+      "ponudeni": [
+        "Krzno",
+        "Perje",
+        "Bodlje",
+        "Peraje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Morski jež ima tijelo prekriveno oštrim bodljama. One ga štite od neprijatelja.",
+      "savjet": "Sjeti se zašto treba paziti kad hodaš po stijenama u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-008",
+      "tezina": "lagano",
+      "pitanje": "Koja morska životinja ima osam krakova?",
+      "ponudeni": [
+        "Hobotnica",
+        "Rak",
+        "Orada",
+        "Spužva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hobotnica ima osam krakova. Njima se kreće po dnu i hvata hranu.",
+      "savjet": "Sjeti se morske životinje mekanog tijela s dugim krakovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-009",
+      "tezina": "lagano",
+      "pitanje": "Što štiti tijelo raka?",
+      "ponudeni": [
+        "Ljuske",
+        "Krzno",
+        "Tvrdi oklop",
+        "Perje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tijelo raka prekriveno je tvrdim oklopom. Oklop ga štiti od neprijatelja.",
+      "savjet": "Razmisli što je tvrdo kad dotakneš raka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-010",
+      "tezina": "lagano",
+      "pitanje": "Što štiti meko tijelo školjke?",
+      "ponudeni": [
+        "Ljuštura",
+        "Bodlje",
+        "Krzno",
+        "Peraje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Školjka ima meko tijelo zatvoreno u tvrdu ljušturu. Ljuštura je štiti.",
+      "savjet": "Sjeti se kako izgleda školjka koju nađeš na plaži."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-011",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja riba?",
+      "ponudeni": [
+        "Dobri dupin",
+        "Orada",
+        "Hobotnica",
+        "Morski jež"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Orada je riba. Ima peraje i ljuske, a diše škrgama.",
+      "savjet": "Potraži životinju koja ima peraje i diše škrgama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-012",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja morska kornjača?",
+      "ponudeni": [
+        "Morski jež",
+        "Rak",
+        "Glavata želva",
+        "Spužva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glavata želva je morska kornjača koja živi i u Jadranskom moru.",
+      "savjet": "Sjeti se da i neke kornjače žive u moru. Kako se zove ona u Jadranu?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-013",
+      "tezina": "lagano",
+      "pitanje": "Što je spužva koja živi u moru?",
+      "ponudeni": [
+        "Morska biljka",
+        "Životinja",
+        "Alga",
+        "Kamen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Spužva je životinja. Pričvršćena je za dno pa se ne kreće, ali nije biljka.",
+      "savjet": "Spužva ne stvara hranu uz pomoć Sunčeve svjetlosti kao biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-014",
+      "tezina": "lagano",
+      "pitanje": "Što ribari love mrežama u Jadranskom moru?",
+      "ponudeni": [
+        "Ribu, npr. srdelu",
+        "Dupine",
+        "Glavate želve",
+        "Spužve za kupanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ribari u Jadranskom moru love ribu, primjerice srdelu. Ribarstvo je važno zanimanje uz more.",
+      "savjet": "Razmisli koja se hrana iz mora najčešće prodaje na ribarnici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-015",
+      "tezina": "lagano",
+      "pitanje": "Kako diše dobri dupin?",
+      "ponudeni": [
+        "Škrgama",
+        "Plućima",
+        "Kroz kožu",
+        "Perajama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dobri dupin diše plućima, kao i čovjek. Zato izranja na površinu po zrak.",
+      "savjet": "Dupin je sisavac. Sjeti se kako dišu sisavci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-016",
+      "tezina": "lagano",
+      "pitanje": "Čime dobri dupin hrani mladunče?",
+      "ponudeni": [
+        "Algama",
+        "Školjkama",
+        "Sitnim rakovima",
+        "Mlijekom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobri dupin je sisavac. Mladunče hrani mlijekom, kao i drugi sisavci.",
+      "savjet": "Sjeti se što zajedničko imaju sve majke sisavaca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-017",
+      "tezina": "lagano",
+      "pitanje": "Koja morska životinja ima kliješta?",
+      "ponudeni": [
+        "Rak",
+        "Srdela",
+        "Dobri dupin",
+        "Spužva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rak ima kliješta. Njima hvata hranu i brani se.",
+      "savjet": "Sjeti se životinje s oklopom koja hoda po morskom dnu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-018",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove zanimanje ljudi koji love ribu?",
+      "ponudeni": [
+        "Ratar",
+        "Stočar",
+        "Rudar",
+        "Ribar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ribar je osoba koja lovi ribu. Ribarstvo je važna djelatnost uz Jadransko more.",
+      "savjet": "Naziv zanimanja nastao je od riječi koja označava životinju koju lovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-019",
+      "tezina": "lagano",
+      "pitanje": "Zašto ljeti mnogo turista dolazi na Jadransko more?",
+      "ponudeni": [
+        "Zbog skijanja",
+        "Zbog berbe kukuruza",
+        "Zbog kupanja i odmora",
+        "Zbog snijega"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Turisti ljeti dolaze na Jadransko more da se kupaju i odmaraju. Zato je turizam važan za Hrvatsku.",
+      "savjet": "Sjeti se što ljudi najčešće rade na plaži ljeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-020",
+      "tezina": "lagano",
+      "pitanje": "Što se dobiva iz morske vode u solanama?",
+      "ponudeni": [
+        "Šećer",
+        "Sol",
+        "Brašno",
+        "Ulje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U solanama se iz morske vode dobiva sol. Morska voda je slana.",
+      "savjet": "Sjeti se okusa morske vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-021",
+      "tezina": "lagano",
+      "pitanje": "Kojeg je mora dio Jadransko more?",
+      "ponudeni": [
+        "Tihog oceana",
+        "Crvenog mora",
+        "Sredozemnog mora",
+        "Baltičkog mora"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jadransko more dio je Sredozemnog mora.",
+      "savjet": "Sjeti se kako se zove veliko more između Europe i Afrike."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-022",
+      "tezina": "lagano",
+      "pitanje": "Gdje živi morski jež?",
+      "ponudeni": [
+        "U rijeci",
+        "Na morskom dnu",
+        "U šumi",
+        "U jezeru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Morski jež živi na morskom dnu, najčešće na stijenama.",
+      "savjet": "Ime životinje govori gdje živi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-023",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga onečišćuje more?",
+      "ponudeni": [
+        "Plastične vrećice i boce",
+        "Morske alge",
+        "Školjke",
+        "Pijesak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plastične vrećice i boce onečišćuju more i štete živim bićima u njemu.",
+      "savjet": "Razmisli što ne pripada moru, nego su ga ondje ostavili ljudi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-024",
+      "tezina": "lagano",
+      "pitanje": "Kakvo tijelo pomaže ribi da brzo pliva?",
+      "ponudeni": [
+        "Okruglo i bodljikavo",
+        "Četvrtasto i hrapavo",
+        "Kratko i dlakavo",
+        "Izduženo i glatko"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izduženo i glatko tijelo lako klizi kroz vodu. Zato riba brzo pliva.",
+      "savjet": "Razmisli koji oblik najlakše prolazi kroz vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-025",
+      "tezina": "lagano",
+      "pitanje": "Voda u moru je slana. Kakva je voda u rijekama i jezerima?",
+      "ponudeni": [
+        "Slana",
+        "Slatka",
+        "Morska",
+        "Gorka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda u rijekama i jezerima je slatka, a u moru slana.",
+      "savjet": "Sjeti se suprotnosti riječi slano kad govorimo o vodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-026",
+      "tezina": "lagano",
+      "pitanje": "Čime je prekriveno tijelo ribe?",
+      "ponudeni": [
+        "Ljuskama",
+        "Bodljama",
+        "Perjem",
+        "Krznom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tijelo ribe prekriveno je ljuskama. One ga štite.",
+      "savjet": "Sjeti se sitnih pločica koje se vide na koži ribe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-027",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove velika zaštićena školjka u Jadranskom moru?",
+      "ponudeni": [
+        "Glavata želva",
+        "Posidonija",
+        "Orada",
+        "Plemenita periska"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plemenita periska velika je školjka u Jadranu. Zaštićena je pa je ne smijemo vaditi iz mora.",
+      "savjet": "Samo je jedan od ponuđenih naziva školjka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-028",
+      "tezina": "lagano",
+      "pitanje": "Čime se najčešće putuje morem do otoka?",
+      "ponudeni": [
+        "Vlakom",
+        "Brodom",
+        "Tramvajem",
+        "Biciklom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Do otoka se putuje brodom ili trajektom. More je važno za promet.",
+      "savjet": "Razmisli koje prijevozno sredstvo plovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-029",
+      "tezina": "lagano",
+      "pitanje": "Koja morska životinja živi pričvršćena za dno i ne pliva?",
+      "ponudeni": [
+        "Srdela",
+        "Dobri dupin",
+        "Spužva",
+        "Orada"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Spužva živi pričvršćena za morsko dno. Ne pliva, ali je ipak životinja.",
+      "savjet": "Potraži životinju koja cijeli život ostaje na jednom mjestu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-030",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga raste u moru?",
+      "ponudeni": [
+        "Hrast",
+        "Pšenica",
+        "Jela",
+        "Alge"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Alge rastu u moru. Hrast i jela rastu u šumi, a pšenica na polju.",
+      "savjet": "Razmisli koja su živa bića zelena, a žive pod vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-031",
+      "tezina": "srednje",
+      "pitanje": "Kako riba može disati pod vodom?",
+      "ponudeni": [
+        "Plućima udiše zrak",
+        "Škrgama uzima kisik iz vode",
+        "Stalno izranja na površinu",
+        "Pije morsku vodu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riba diše škrgama. Škrge iz vode uzimaju kisik koji joj je potreban.",
+      "savjet": "Sjeti se kojim dijelom tijela riba diše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto dobri dupin mora povremeno izroniti na površinu?",
+      "ponudeni": [
+        "Da udahne zrak jer diše plućima",
+        "Da se ugrije na suncu",
+        "Da uhvati pticu",
+        "Da popije slatku vodu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dobri dupin diše plućima, a ne škrgama. Zato mora izroniti da udahne zrak.",
+      "savjet": "Sjeti se kako dišu sisavci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto dobri dupin nije riba?",
+      "ponudeni": [
+        "Jer živi u moru",
+        "Jer ima peraje",
+        "Jer diše plućima i hrani mladunče mlijekom",
+        "Jer brzo pliva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dobri dupin je sisavac jer diše plućima i hrani mladunče mlijekom. Ribe dišu škrgama.",
+      "savjet": "Razmisli po čemu se sisavci razlikuju od riba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-034",
+      "tezina": "srednje",
+      "pitanje": "Čemu ribi služe peraje?",
+      "ponudeni": [
+        "Za disanje",
+        "Za kopanje po dnu",
+        "Za hvatanje plijena",
+        "Za plivanje i održavanje smjera"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Peraje ribi služe za plivanje. Njima se pokreće, okreće i održava ravnotežu.",
+      "savjet": "Razmisli što riba radi kad pomiče peraje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-035",
+      "tezina": "srednje",
+      "pitanje": "Zašto alge i posidonija rastu u plićem dijelu mora, a ne u najdubljem?",
+      "ponudeni": [
+        "Ondje je voda najslanija",
+        "Trebaju Sunčevu svjetlost koja ne dopire duboko",
+        "Ondje nema riba",
+        "Ondje je voda najhladnija"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljke uz pomoć Sunčeve svjetlosti stvaraju hranu. Svjetlost ne dopire duboko u more.",
+      "savjet": "Sjeti se što je biljkama potrebno da bi stvarale hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-036",
+      "tezina": "srednje",
+      "pitanje": "Kako hobotnica može pobjeći neprijatelju?",
+      "ponudeni": [
+        "Ispusti crnilo i brzo otpliva",
+        "Zakopa se u led",
+        "Izađe na kopno i trči",
+        "Uvuče se u ljušturu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hobotnica ispusti tamno crnilo koje zamuti vodu. Neprijatelj je ne vidi, a ona otpliva.",
+      "savjet": "Razmisli kako se može sakriti životinja koja nema oklop ni ljušturu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-037",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko raku i školjki?",
+      "ponudeni": [
+        "Imaju peraje",
+        "Dišu plućima",
+        "Hrane mladunčad mlijekom",
+        "Imaju tvrdi pokrov koji štiti tijelo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rak ima oklop, a školjka ljušturu. Oboje im štiti tijelo.",
+      "savjet": "Razmisli što bi osjetio prstom kad bi dotaknuo raka ili školjku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-038",
+      "tezina": "srednje",
+      "pitanje": "Koji je par životinje i prilagodbe ispravno povezan?",
+      "ponudeni": [
+        "Riba – pluća",
+        "Dobri dupin – škrge",
+        "Rak – oklop",
+        "Školjka – perje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rak ima tvrdi oklop koji ga štiti. Riba diše škrgama, a dupin plućima.",
+      "savjet": "Provjeri za svaki par ima li ta životinja zaista taj dio tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto je čisto more važno za turizam u Hrvatskoj?",
+      "ponudeni": [
+        "U čistom moru ima više snijega",
+        "Turisti se rado kupaju u čistom moru",
+        "Čisto more je slatko pa se može piti",
+        "Brodovi u čistom moru plove bez goriva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Turisti dolaze na Jadran zbog kupanja u čistom i lijepom moru. Prljavo more bi ih otjeralo.",
+      "savjet": "Razmisli zašto turisti biraju neko more za ljetni odmor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-040",
+      "tezina": "srednje",
+      "pitanje": "Što se može dogoditi kornjači ako u more bacimo plastičnu vrećicu?",
+      "ponudeni": [
+        "Vrećica će joj biti dobra hrana",
+        "Vrećica će se brzo pretvoriti u pijesak",
+        "Može je progutati i razboljeti se",
+        "More će vrećicu samo očistiti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Morske životinje mogu progutati plastiku ili se zaplesti u nju. Zato se razbole ili uginu.",
+      "savjet": "Razmisli može li životinja probaviti plastiku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-041",
+      "tezina": "srednje",
+      "pitanje": "Kako nazivamo biljke i životinje koje zajedno žive u moru i ovise jedne o drugima?",
+      "ponudeni": [
+        "Herbarij mora",
+        "Životna zajednica mora",
+        "Morska luka",
+        "Solana"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljke i životinje koje žive zajedno i ovise jedne o drugima čine životnu zajednicu.",
+      "savjet": "Sjeti se kako se zove zajednica živih bića na istom staništu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-042",
+      "tezina": "srednje",
+      "pitanje": "Kako hobotnica može promijeniti izgled da je neprijatelj teže uoči?",
+      "ponudeni": [
+        "Napuhne se kao balon",
+        "Skine kožu",
+        "Pretvori se u algu",
+        "Promijeni boju tijela"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hobotnica može promijeniti boju tijela i stopiti se s okolinom. Tako je neprijatelj teže vidi.",
+      "savjet": "Razmisli kako se životinja može sakriti na dnu među kamenjem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-043",
+      "tezina": "srednje",
+      "pitanje": "Čime se hrani dobri dupin?",
+      "ponudeni": [
+        "Algama",
+        "Posidonijom",
+        "Morskim pijeskom",
+        "Ribama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobri dupin hrani se ribama. On lovi u moru.",
+      "savjet": "Sjeti se da je dupin brz plivač koji lovi plijen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto posidonija nije alga?",
+      "ponudeni": [
+        "Živi u moru",
+        "Zelene je boje",
+        "Ima korijen, listove i cvjetove",
+        "Treba Sunčevu svjetlost"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Posidonija ima korijen, listove i cvjetove kao biljke na kopnu. Zato je morska cvjetnica, a ne alga.",
+      "savjet": "Razmisli po čemu se posidonija razlikuje od alge, a ne po čemu im je sličnost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-045",
+      "tezina": "srednje",
+      "pitanje": "Koja je prilagodba ribe za život u vodi?",
+      "ponudeni": [
+        "Škrge i peraje",
+        "Pluća i noge",
+        "Krzno i kandže",
+        "Krila i perje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riba škrgama diše u vodi, a perajama pliva. To su njezine prilagodbe za život u vodi.",
+      "savjet": "Razmisli što je ribi potrebno za disanje i za kretanje u vodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-046",
+      "tezina": "srednje",
+      "pitanje": "Koja se djelatnost uz more razvila zbog mnogo turista?",
+      "ponudeni": [
+        "Rudarstvo",
+        "Ugostiteljstvo i iznajmljivanje smještaja",
+        "Uzgoj kukuruza",
+        "Sječa šuma"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Turisti trebaju smještaj i hranu. Zato su se uz more razvili ugostiteljstvo i iznajmljivanje smještaja.",
+      "savjet": "Razmisli što je turistima potrebno kad dođu na more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-047",
+      "tezina": "srednje",
+      "pitanje": "Zašto je more važno za promet?",
+      "ponudeni": [
+        "Morem se brodovima prevoze ljudi i roba",
+        "More služi samo za kupanje",
+        "Po moru voze vlakovi",
+        "More se zimi zaledi pa se po njemu hoda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brodovima se morem prevoze ljudi i roba do otoka i drugih zemalja.",
+      "savjet": "Razmisli kako se roba i putnici dovoze na otoke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-048",
+      "tezina": "srednje",
+      "pitanje": "Kako se sigurno kupati u moru?",
+      "ponudeni": [
+        "Daleko od obale bez nadzora",
+        "Skakanjem sa stijena u nepoznatu vodu",
+        "Noću kad nitko ne gleda",
+        "Uz odraslu osobu i blizu obale"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U moru se kupaj uz odraslu osobu i blizu obale. Tako ti netko može pomoći ako zatreba.",
+      "savjet": "Razmisli tko ti može pomoći ako ti u vodi bude teško."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-049",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dobro obuti obuću za more pri hodanju po stjenovitom dnu?",
+      "ponudeni": [
+        "Da brže plivamo",
+        "Da ribe ne pobjegnu",
+        "Da se more ne zamuti",
+        "Da ne stanemo na bodlje morskog ježa"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Morski ježevi žive na stjenovitom dnu i imaju oštre bodlje. Obuća štiti stopala.",
+      "savjet": "Sjeti se koja životinja s bodljama živi na stijenama u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-050",
+      "tezina": "srednje",
+      "pitanje": "Što u moru razgrađuje ostatke uginulih biljaka i životinja?",
+      "ponudeni": [
+        "Dupini",
+        "Alge",
+        "Bakterije",
+        "Posidonija"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bakterije su razlagači. Razgrađuju ostatke uginulih biljaka i životinja.",
+      "savjet": "Sjeti se tko su razlagači u životnoj zajednici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-051",
+      "tezina": "srednje",
+      "pitanje": "Koja su živa bića u moru proizvođači hrane?",
+      "ponudeni": [
+        "Ribe i rakovi",
+        "Alge i posidonija",
+        "Dupini i želve",
+        "Hobotnice i školjke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Alge i posidonija uz pomoć Sunčeve svjetlosti stvaraju hranu. Zato su proizvođači.",
+      "savjet": "Proizvođači su zelene biljke. Potraži par koji ne čine životinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-052",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se životni uvjeti u moru razlikuju od onih u rijeci?",
+      "ponudeni": [
+        "Voda u moru je slana",
+        "U moru ima vode",
+        "U moru ima svjetlosti",
+        "U moru ima kisika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Morska voda je slana, a riječna slatka. Zato u moru žive drukčije biljke i životinje.",
+      "savjet": "Razmisli po čemu se razlikuju okusi morske i riječne vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-053",
+      "tezina": "srednje",
+      "pitanje": "Koja je prilagodba dobrog dupina za brzo plivanje?",
+      "ponudeni": [
+        "Izduženo i glatko tijelo",
+        "Debelo krzno",
+        "Duge noge",
+        "Velike uši"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dobri dupin ima izduženo i glatko tijelo pa lako i brzo pliva kroz vodu.",
+      "savjet": "Razmisli koji oblik tijela najlakše klizi kroz vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto glavata želva dolazi na pješčanu obalu?",
+      "ponudeni": [
+        "Da pase travu uz obalu",
+        "Da položi jaja u pijesak",
+        "Da se zaštiti od zime",
+        "Da popije slatku vodu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glavata želva živi u moru, ali jaja polaže u pijesak na obali.",
+      "savjet": "Razmisli što kornjače rade da bi dobile mlade."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-055",
+      "tezina": "srednje",
+      "pitanje": "Kako posidonija pomaže morskim životinjama?",
+      "ponudeni": [
+        "Zagrijava more",
+        "Čini more slanim",
+        "Tjera ribe s obale",
+        "Pruža im hranu i sklonište"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U livadama posidonije životinje nalaze hranu i skrivaju se od neprijatelja.",
+      "savjet": "Razmisli što životinje traže među biljkama na dnu mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-056",
+      "tezina": "srednje",
+      "pitanje": "Koja je od navedenih morskih životinja zaštićena?",
+      "ponudeni": [
+        "Srdela",
+        "Orada",
+        "Dobri dupin",
+        "Skuša"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dobri dupin je zaštićena životinja. Ne smijemo ga loviti ni uznemiravati.",
+      "savjet": "Ribari smiju loviti neke ribe. Potraži životinju koju se ne smije loviti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-057",
+      "tezina": "srednje",
+      "pitanje": "Zašto ne smijemo vaditi plemenitu perisku iz mora?",
+      "ponudeni": [
+        "Otrovna je za ljude",
+        "Zaštićena je i treba je čuvati",
+        "Ona je biljka, a ne životinja",
+        "Na kopnu se pretvara u kamen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plemenita periska zaštićena je školjka. Moramo je ostaviti u moru i čuvati.",
+      "savjet": "Sjeti se što znači da je neka vrsta zaštićena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-058",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko srdeli i oradi?",
+      "ponudeni": [
+        "Obje su sisavci",
+        "Obje imaju oklop",
+        "Obje su ribe i dišu škrgama",
+        "Obje rastu na dnu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srdela i orada su ribe. Dišu škrgama i plivaju perajama.",
+      "savjet": "Sjeti se kojoj skupini životinja pripadaju srdela i orada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-059",
+      "tezina": "srednje",
+      "pitanje": "Zašto morska voda nije dobra za piće?",
+      "ponudeni": [
+        "Slana je",
+        "Prevruća je",
+        "Previše je bistra",
+        "U njoj ima previše svjetlosti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Morska voda je slana. Za piće nam treba slatka voda.",
+      "savjet": "Sjeti se okusa morske vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-060",
+      "tezina": "srednje",
+      "pitanje": "Kako se školjka štiti kad joj prijeti opasnost?",
+      "ponudeni": [
+        "Ispusti crnilo",
+        "Otpliva perajama",
+        "Zatvori ljušturu",
+        "Zakopa se u snijeg"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Školjka zatvori ljušturu i tako zaštiti meko tijelo.",
+      "savjet": "Razmisli što školjka ima, a hobotnica i riba nemaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-061",
+      "tezina": "tesko",
+      "pitanje": "Koji je hranidbeni lanac u moru ispravno napisan?",
+      "ponudeni": [
+        "Srdela → alge → dobri dupin",
+        "Alge → srdela → dobri dupin",
+        "Dobri dupin → srdela → alge",
+        "Alge → dobri dupin → srdela"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lanac počinje zelenom biljkom. Srdela jede sitne alge, a dupin jede srdele.",
+      "savjet": "Hranidbeni lanac uvijek počinje proizvođačem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-062",
+      "tezina": "tesko",
+      "pitanje": "U lancu alge → srdela → dobri dupin nestanu dupini. Što bi se najvjerojatnije dogodilo sa srdelama?",
+      "ponudeni": [
+        "Srdele bi nestale",
+        "Srdele bi počele jesti dupine",
+        "Srdele bi izašle na kopno",
+        "Srdela bi moglo biti više"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dupini love srdele. Kad ih ne bi bilo, manje bi srdela bilo pojedeno pa bi ih moglo biti više.",
+      "savjet": "Razmisli tko srdele jede i što se mijenja kad tog lovca nema."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-063",
+      "tezina": "tesko",
+      "pitanje": "Kojim živim bićem počinje svaki hranidbeni lanac u moru?",
+      "ponudeni": [
+        "Zelenom biljkom, npr. algom",
+        "Morskim psom",
+        "Dobrim dupinom",
+        "Bakterijom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki hranidbeni lanac počinje zelenom biljkom jer ona sama stvara hranu.",
+      "savjet": "Razmisli tko u moru sam stvara hranu, a ne jede druge."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-064",
+      "tezina": "tesko",
+      "pitanje": "Dopuni hranidbeni lanac: alge → srdela → …",
+      "ponudeni": [
+        "Posidonija",
+        "Alga",
+        "Spužva",
+        "Morski pas"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Morski pas je mesojed i jede ribe, pa može doći nakon srdele.",
+      "savjet": "Na kraju lanca je životinja koja jede ribe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-065",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo s ribama kad bi se uništile livade posidonije?",
+      "ponudeni": [
+        "Imale bi više hrane",
+        "Izgubile bi sklonište i dio hrane",
+        "More bi postalo slatko",
+        "Ribe bi počele disati plućima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Posidonija ribama daje hranu i sklonište. Bez nje bi im bilo teže preživjeti.",
+      "savjet": "Sjeti se čemu služe livade posidonije morskim životinjama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-066",
+      "tezina": "tesko",
+      "pitanje": "Riba izvađena iz vode ubrzo ugine. Zašto?",
+      "ponudeni": [
+        "Na zraku joj je prehladno",
+        "Na kopnu nema soli",
+        "Škrgama diše samo u vodi",
+        "Bez vode ne može vidjeti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riba diše škrgama koje uzimaju kisik iz vode. Na zraku ne može disati.",
+      "savjet": "Sjeti se čime riba diše i gdje to radi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-067",
+      "tezina": "tesko",
+      "pitanje": "Zašto srdela može stalno biti pod vodom, a dobri dupin mora izranjati?",
+      "ponudeni": [
+        "Dupin je veći od srdele",
+        "Srdela je brža od dupina",
+        "Dupin ne voli hladnu vodu",
+        "Srdela diše škrgama, a dupin plućima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srdela škrgama diše u vodi. Dupin diše plućima pa mora izroniti po zrak.",
+      "savjet": "Usporedi kako dišu riba i sisavac."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-068",
+      "tezina": "tesko",
+      "pitanje": "Što je najbolje učiniti s praznom bocom nakon pića na plaži?",
+      "ponudeni": [
+        "Zakopati je u pijesak",
+        "Baciti je u spremnik za otpad",
+        "Baciti je u more daleko od obale",
+        "Ostaviti je na plaži"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Otpad treba baciti u spremnik. Ostavljen na plaži, lako završi u moru i šteti živim bićima.",
+      "savjet": "Razmisli kamo plastika s plaže može otići kad dođu valovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-069",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo kad bi u more stalno dospijevalo mnogo otpada?",
+      "ponudeni": [
+        "Stradala bi živa bića, a turista bi bilo manje",
+        "More bi postalo slatko",
+        "Ribe bi imale više hrane",
+        "Na plažama bi bilo više pijeska"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Otpad šteti biljkama i životinjama u moru. Prljavo more ne privlači turiste.",
+      "savjet": "Razmisli kome sve šteti prljavo more."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-070",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko ribarstvu, turizmu i pomorskom prometu u Hrvatskoj?",
+      "ponudeni": [
+        "Odvijaju se samo zimi",
+        "Odvijaju se u planinama",
+        "Ovise o snijegu",
+        "Ovise o Jadranskom moru"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ribari love u moru, turisti se kupaju u moru, a brodovi plove morem. Sve to ovisi o Jadranu.",
+      "savjet": "Razmisli gdje se odvija svaka od tih djelatnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-071",
+      "tezina": "tesko",
+      "pitanje": "Zašto je onečišćeno more štetno i za ljude?",
+      "ponudeni": [
+        "More postane slatko",
+        "Ribe i školjke iz prljavog mora mogu nam štetiti",
+        "More se zaledi",
+        "Iz mora nestane soli"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ribe i školjke iz onečišćenog mora mogu biti štetne za naše zdravlje.",
+      "savjet": "Razmisli što ljudi jedu iz mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-072",
+      "tezina": "tesko",
+      "pitanje": "U jednom dijelu mora ostalo je vrlo malo riba. Što bi pomoglo da ih opet bude više?",
+      "ponudeni": [
+        "Loviti još više riba",
+        "Bacati otpad u more",
+        "Neko vrijeme ondje ne loviti ribu",
+        "Uništiti posidoniju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ako se neko vrijeme ne lovi, ribe se mogu razmnožiti i opet ih bude više.",
+      "savjet": "Razmisli što ribama treba da bi ih bilo više."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-073",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo u moru kad ne bi bilo razlagača?",
+      "ponudeni": [
+        "Ostaci uginulih bića ne bi se razgrađivali",
+        "Ribe bi disale plućima",
+        "More bi postalo slatko",
+        "Alge bi rasle u mraku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlagači razgrađuju ostatke uginulih biljaka i životinja. Bez njih bi se ostaci gomilali.",
+      "savjet": "Sjeti se što rade bakterije u životnoj zajednici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-074",
+      "tezina": "tesko",
+      "pitanje": "Lanac „morski pas → srdela → alge“ napisan je pogrešno. Kako glasi ispravno?",
+      "ponudeni": [
+        "Srdela → alge → morski pas",
+        "Morski pas → alge → srdela",
+        "Alge → morski pas → srdela",
+        "Alge → srdela → morski pas"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lanac počinje proizvođačem. Srdela jede alge, a morski pas jede srdele.",
+      "savjet": "Strelica pokazuje tko koga jede. Počni od zelene biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-075",
+      "tezina": "tesko",
+      "pitanje": "Hobotnica jede rakove i školjke. Što bi se dogodilo s hobotnicama kad bi ondje nestalo rakova i školjaka?",
+      "ponudeni": [
+        "Imale bi više hrane",
+        "Počele bi jesti pijesak",
+        "Imale bi manje hrane",
+        "Pretvorile bi se u ribe"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rakovi i školjke hrana su hobotnici. Bez njih bi hobotnice imale manje hrane.",
+      "savjet": "Razmisli što hobotnica jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-076",
+      "tezina": "tesko",
+      "pitanje": "Koja je prilagodba ista kod ribe i dobrog dupina?",
+      "ponudeni": [
+        "Peraje i izduženo tijelo",
+        "Pluća za disanje",
+        "Škrge za disanje",
+        "Ljuske na koži"
+      ],
+      "tocan": 0,
+      "objasnjenje": "I riba i dupin imaju peraje i izduženo tijelo za plivanje. Dišu različito.",
+      "savjet": "Razmisli što im obama pomaže da brzo plivaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto je školjki potrebna tvrda ljuštura, a ribi nije?",
+      "ponudeni": [
+        "Školjka živi na kopnu",
+        "Školjka se gotovo ne kreće pa je štiti ljuštura",
+        "Riba nema neprijatelja",
+        "Ljuštura školjki služi za plivanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Školjka ne može brzo pobjeći, pa joj ljuštura štiti meko tijelo. Riba od opasnosti otpliva.",
+      "savjet": "Razmisli kako se riba spašava od opasnosti, a kako školjka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-078",
+      "tezina": "tesko",
+      "pitanje": "Koja se od navedenih životinja po načinu disanja razlikuje od ostalih?",
+      "ponudeni": [
+        "Srdela",
+        "Orada",
+        "Dobri dupin",
+        "Morski pas"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dobri dupin diše plućima. Srdela, orada i morski pas su ribe i dišu škrgama.",
+      "savjet": "Sjeti se koja je od njih sisavac."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-079",
+      "tezina": "tesko",
+      "pitanje": "Učenici su na izletu uz more. Koje je ponašanje dobro za morsku životnu zajednicu?",
+      "ponudeni": [
+        "Odnijeti kući školjke sa živim životinjama",
+        "Ostaviti smeće na stijenama",
+        "Kidati alge i posidoniju",
+        "Promatrati živa bića i ostaviti ih u moru"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Živa bića treba ostaviti u njihovu staništu. Tako čuvamo morsku životnu zajednicu.",
+      "savjet": "Razmisli što bi se dogodilo kad bi svaki posjetitelj nešto odnio iz mora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-080",
+      "tezina": "tesko",
+      "pitanje": "U akvarij s morskom vodom posađena je alga. Gdje treba staviti akvarij da alga raste?",
+      "ponudeni": [
+        "U mračni podrum",
+        "Na svijetlo mjesto",
+        "U hladnjak",
+        "U zatvoreni ormar"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Alga uz pomoć svjetlosti stvara hranu. Bez svjetlosti ne može rasti.",
+      "savjet": "Sjeti se što je potrebno svim zelenim biljkama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-081",
+      "tezina": "tesko",
+      "pitanje": "U lancu alge → srdela → morski pas, koje je živo biće proizvođač?",
+      "ponudeni": [
+        "Alge",
+        "Srdela",
+        "Morski pas",
+        "Bakterije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Alge su proizvođači jer uz pomoć Sunčeve svjetlosti same stvaraju hranu.",
+      "savjet": "Proizvođač ne jede druga živa bića."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-082",
+      "tezina": "tesko",
+      "pitanje": "Što pokazuje da je dobri dupin prilagođen životu u vodi?",
+      "ponudeni": [
+        "Diše plućima",
+        "Ima peraje umjesto nogu",
+        "Hrani mladunče mlijekom",
+        "Ima srce"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Peraje dupinu pomažu plivati. Disanje plućima i mlijeko pokazuju da je sisavac.",
+      "savjet": "Razmisli koji mu dio tijela pomaže kretati se kroz vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto su srdele i druge ribe važne za ljude uz more?",
+      "ponudeni": [
+        "Ribe čiste more od soli",
+        "Ribe stvaraju pijesak",
+        "Ljudi ih love i od toga žive",
+        "Ribe stvaraju hranu za alge"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mnogi ljudi uz more žive od ribarstva. Riba je i važna hrana.",
+      "savjet": "Sjeti se kojim se zanimanjem bave ljudi u ribarskim brodicama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-084",
+      "tezina": "tesko",
+      "pitanje": "Kako se u solani iz morske vode dobiva sol?",
+      "ponudeni": [
+        "Sol se iskopa s morskog dna",
+        "Sol stvaraju ribe",
+        "Sol se dobiva iz algi",
+        "Voda ispari na suncu, a sol ostane"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U solani se morska voda pusti u plitke bazene. Sunce je ugrije, voda ispari, a sol ostane.",
+      "savjet": "Razmisli što se dogodi s vodom kad je dugo grije sunce."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-085",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se alga razlikuje od orade?",
+      "ponudeni": [
+        "Orada stvara hranu, a alga jede druga bića",
+        "Alga stvara hranu uz pomoć svjetlosti, a orada jede druga bića",
+        "Obje dišu plućima",
+        "Obje plivaju perajama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Alga je proizvođač i sama stvara hranu. Orada je životinja i hrani se drugim živim bićima.",
+      "savjet": "Sjeti se tko je u moru proizvođač, a tko potrošač."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-086",
+      "tezina": "tesko",
+      "pitanje": "Ana kaže: „Spužva je biljka jer se ne kreće.“ Što je točno?",
+      "ponudeni": [
+        "Spužva je životinja iako je pričvršćena za dno",
+        "Spužva je alga",
+        "Spužva je kamen",
+        "Spužva je riba"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Spužva je životinja. Pričvršćena je za dno, ali ne stvara hranu kao biljke.",
+      "savjet": "Ne kreću se ni sve životinje. Razmisli stvara li spužva hranu kao biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-087",
+      "tezina": "tesko",
+      "pitanje": "Kad bi se more uz obalu onečistilo naftom, koje bi djelatnosti odmah stradale?",
+      "ponudeni": [
+        "Rudarstvo u planinama",
+        "Uzgoj pšenice u Slavoniji",
+        "Ribarstvo i turizam",
+        "Sječa šuma u Gorskom kotaru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nafta u moru ubija ribe i prlja plaže. Zato bi stradali ribari i turizam.",
+      "savjet": "Razmisli koje djelatnosti ovise o čistom moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-088",
+      "tezina": "tesko",
+      "pitanje": "Što pokazuje strelica u lancu alge → srdela?",
+      "ponudeni": [
+        "Alge jedu srdelu",
+        "Srdela jede alge",
+        "Srdela i alge žive odvojeno",
+        "Alge nastaju od srdele"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strelica znači da je alga hrana srdeli. Srdela jede alge.",
+      "savjet": "Strelica pokazuje od hrane prema onome tko je jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-089",
+      "tezina": "tesko",
+      "pitanje": "Ribar u mreži pronađe dobrog dupina koji se zapleo. Što je ispravno učiniti?",
+      "ponudeni": [
+        "Zadržati ga u brodu",
+        "Prodati ga na tržnici",
+        "Odnijeti ga u rijeku",
+        "Osloboditi ga i vratiti u more"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobri dupin je zaštićen. Treba ga osloboditi i vratiti u more.",
+      "savjet": "Sjeti se kako se postupa sa zaštićenim životinjama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-more-090",
+      "tezina": "tesko",
+      "pitanje": "Koji predmet ostavljen na plaži najdulje onečišćuje more?",
+      "ponudeni": [
+        "Kora banane",
+        "Ogrizak jabuke",
+        "Plastična boca",
+        "Papirnata maramica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plastika se vrlo sporo raspada pa dugo onečišćuje more. Ostaci voća brzo se razgrade.",
+      "savjet": "Razmisli što razlagači mogu razgraditi, a što ne mogu."
+    }
+  ]
+}

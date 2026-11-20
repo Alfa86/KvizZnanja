@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "suma",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-suma-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko slojeva ima šuma?",
+      "ponudeni": [
+        "Tri",
+        "Četiri",
+        "Pet",
+        "Dva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šuma ima četiri sloja: sloj mahovina, sloj zeljastih biljaka, sloj grmlja i sloj drveća.",
+      "savjet": "Nabroji redom slojeve od tla prema vrhovima drveća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-002",
+      "tezina": "lagano",
+      "pitanje": "Koji je sloj šume najniži, odmah uz tlo?",
+      "ponudeni": [
+        "Sloj drveća",
+        "Sloj grmlja",
+        "Sloj zeljastih biljaka",
+        "Sloj mahovina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sloj mahovina je prizemni sloj šume. Mahovine su niske i rastu na samom tlu.",
+      "savjet": "Sjeti se koje su šumske biljke najniže i kao mekani tepih prekrivaju tlo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove šumska životinja s dugim čupavim repom koja spretno skače s grane na granu?",
+      "ponudeni": [
+        "Srna",
+        "Jež",
+        "Vjeverica",
+        "Lisica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vjeverica živi u krošnjama drveća. Rep joj pomaže da održi ravnotežu dok skače.",
+      "savjet": "Razmisli koja od tih životinja živi visoko na drveću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-004",
+      "tezina": "lagano",
+      "pitanje": "Koje od navedenih stabala ima iglice?",
+      "ponudeni": [
+        "Hrast",
+        "Bukva",
+        "Jela",
+        "Lipa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jela je crnogorično drvo. Umjesto plosnatih listova ima iglice.",
+      "savjet": "Sjeti se drveta koje kitimo za Božić i njegovih srodnika."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva drveće koje u jesen odbacuje lišće?",
+      "ponudeni": [
+        "Crnogorično drveće",
+        "Listopadno drveće",
+        "Zimzeleno drveće",
+        "Iglasto drveće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Listopadno drveće u jesen odbacuje lišće i zimi stoji golo, a u proljeće ponovno prolista.",
+      "savjet": "Naziv tog drveća kaže što se događa s njegovim listovima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-006",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih stabala listopadno?",
+      "ponudeni": [
+        "Bukva",
+        "Jela",
+        "Smreka",
+        "Bor"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bukva u jesen odbacuje lišće pa je listopadno drvo. Jela, smreka i bor imaju iglice.",
+      "savjet": "Potraži stablo koje ima plosnate listove, a ne iglice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva drveće koje umjesto plosnatih listova ima iglice?",
+      "ponudeni": [
+        "Listopadno drveće",
+        "Voćno drveće",
+        "Crnogorično drveće",
+        "Grmlje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Drveće s iglicama naziva se crnogorično drveće. Takvi su jela, smreka i bor.",
+      "savjet": "Sjeti se kako zovemo skupinu stabala kojoj pripadaju jela i bor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-008",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih životinja živi u šumi?",
+      "ponudeni": [
+        "Krava",
+        "Hobotnica",
+        "Kokoš",
+        "Srna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srna je divlja životinja naših šuma. Krava i kokoš su domaće životinje, a hobotnica živi u moru.",
+      "savjet": "Odaberi divlju životinju koja se skriva među drvećem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-009",
+      "tezina": "lagano",
+      "pitanje": "Koja ptica kljunom kljuca po kori drveća i ispod nje traži kukce?",
+      "ponudeni": [
+        "Djetlić",
+        "Sova",
+        "Vrabac",
+        "Lastavica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djetlić jakim kljunom kljuca koru i dugim jezikom izvlači kukce iz drveta.",
+      "savjet": "Sjeti se ptice čije se kucanje po deblu čuje kroz cijelu šumu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-010",
+      "tezina": "lagano",
+      "pitanje": "Koja šumska ptica lovi noću?",
+      "ponudeni": [
+        "Djetlić",
+        "Sjenica",
+        "Sova",
+        "Lastavica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sova je noćna ptica. Danju se odmara, a noću lovi.",
+      "savjet": "Sjeti se ptice velikih očiju koja se oglašava kad padne mrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-011",
+      "tezina": "lagano",
+      "pitanje": "Što vjeverica skuplja i sprema za zimu?",
+      "ponudeni": [
+        "Male kamenčiće",
+        "Plodove poput žira i lješnjaka",
+        "Suhe iglice",
+        "Komadiće kore"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjeverica u jesen skuplja plodove i skriva ih kako bi zimi imala hrane.",
+      "savjet": "Razmisli čime se vjeverica hrani kad zimi nema svježe hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-012",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove plod hrasta?",
+      "ponudeni": [
+        "Šišarka",
+        "Kesten",
+        "Lješnjak",
+        "Žir"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plod hrasta je žir. Njime se hrane vjeverice i divlje svinje.",
+      "savjet": "Sjeti se malog smeđeg ploda s „kapicom“ koji jesen donosi ispod hrastova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-013",
+      "tezina": "lagano",
+      "pitanje": "U kojem sloju šume rastu lijeska i kupina?",
+      "ponudeni": [
+        "U sloju grmlja",
+        "U sloju drveća",
+        "U sloju mahovina",
+        "U sloju zeljastih biljaka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lijeska i kupina su grmovi. Niže su od drveća, a više od zeljastih biljaka.",
+      "savjet": "Razmisli jesu li lijeska i kupina drveće, grmlje ili niske biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-014",
+      "tezina": "lagano",
+      "pitanje": "Što raste u prizemnom sloju šume?",
+      "ponudeni": [
+        "Hrast",
+        "Mahovina",
+        "Lijeska",
+        "Jela"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U prizemnom sloju šume raste mahovina. Ona prekriva tlo, kamenje i dno debala.",
+      "savjet": "Prizemni sloj nalazi se sasvim uz tlo pa potraži najnižu biljku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-015",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih stabala crnogorično?",
+      "ponudeni": [
+        "Hrast",
+        "Grab",
+        "Javor",
+        "Smreka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Smreka ima iglice pa je crnogorično drvo. Hrast, grab i javor su listopadni.",
+      "savjet": "Potraži stablo koje ima iglice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-016",
+      "tezina": "lagano",
+      "pitanje": "Kako crnogorično drveće izgleda zimi?",
+      "ponudeni": [
+        "Golo je, bez ikakvih listova",
+        "Prekriveno je cvjetovima",
+        "Zeleno je jer zadržava iglice",
+        "Puno je zrelih jabuka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Crnogorično drveće je zimzeleno. Iglice ostaju na granama i zimi.",
+      "savjet": "Sjeti se kako izgleda bor ili smreka u snježnoj šumi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-017",
+      "tezina": "lagano",
+      "pitanje": "Koja šumska životinja ima velike razgranate rogove?",
+      "ponudeni": [
+        "Vjeverica",
+        "Jelen",
+        "Divlja svinja",
+        "Vuk"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mužjak jelena ima velike razgranate rogove. Jelen je biljojed i živi u šumi.",
+      "savjet": "Sjeti se velike šumske životinje koja jede travu i lišće, a na glavi nosi „krunu“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-018",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih šumskih životinja zimi spava zimskim snom?",
+      "ponudeni": [
+        "Srna",
+        "Jelen",
+        "Djetlić",
+        "Medvjed"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Medvjed zimi spava zimskim snom u skrovitom mjestu. Srna, jelen i djetlić zimi su budni.",
+      "savjet": "Sjeti se velike životinje koja se zimi skrije u brlog."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-019",
+      "tezina": "lagano",
+      "pitanje": "Što je vrganj?",
+      "ponudeni": [
+        "Šumska gljiva",
+        "Crnogorično drvo",
+        "Šumska ptica",
+        "Vrsta grma"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrganj je gljiva koja raste u šumi. Gljive nisu ni biljke ni životinje.",
+      "savjet": "Sjeti se što ljudi u jesen traže na šumskom tlu ispod drveća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-020",
+      "tezina": "lagano",
+      "pitanje": "Što je važno znati o gljivama koje rastu u šumi?",
+      "ponudeni": [
+        "Sve šumske gljive smiju se jesti",
+        "Gljive rastu samo na vrhovima drveća",
+        "Neke su otrovne pa ih bere samo odrasla osoba koja ih poznaje",
+        "Gljive su male šumske životinje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Neke su gljive otrovne i slične jestivima. Zato ih bere i jede samo odrasla osoba koja ih dobro poznaje.",
+      "savjet": "Razmisli o sigurnosti: može li svaka gljiva biti zdrava hrana?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-021",
+      "tezina": "lagano",
+      "pitanje": "Što je u šumi zabranjeno jer može izazvati požar?",
+      "ponudeni": [
+        "Šetati označenom stazom",
+        "Ložiti vatru",
+        "Slušati pjev ptica",
+        "Fotografirati drveće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vatra se u šumi lako proširi na suho lišće i grane. Tako nastaju šumski požari.",
+      "savjet": "Razmisli što od toga može zapaliti suho lišće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-022",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenog ljudi dobivaju iz šume?",
+      "ponudeni": [
+        "Morsku sol",
+        "Pijesak za plažu",
+        "Drvo",
+        "Kamen za ceste"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iz šume ljudi dobivaju drvo za ogrjev, namještaj i gradnju.",
+      "savjet": "Razmisli čega u šumi ima najviše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-023",
+      "tezina": "lagano",
+      "pitanje": "Što se u jesen događa s lišćem listopadnog drveća?",
+      "ponudeni": [
+        "Lišće postaje sve zelenije",
+        "Lišće se pretvara u iglice",
+        "Na drveću niču novi listovi",
+        "Lišće mijenja boju i opada"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U jesen lišće listopadnog drveća požuti, pocrveni ili posmeđi i opadne na tlo.",
+      "savjet": "Sjeti se kakve boje je šuma u jesen i što šuška pod nogama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-024",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih biljaka raste u sloju zeljastih biljaka?",
+      "ponudeni": [
+        "Šumska jagoda",
+        "Hrast",
+        "Lijeska",
+        "Smreka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Šumska jagoda je niska zeljasta biljka mekane stabljike. Hrast i smreka su drveće, a lijeska je grm.",
+      "savjet": "Zeljaste biljke imaju mekanu, zelenu stabljiku i niske su."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-025",
+      "tezina": "lagano",
+      "pitanje": "Kojem sloju šume pripadaju hrast, bukva i jela?",
+      "ponudeni": [
+        "Sloju mahovina",
+        "Sloju drveća",
+        "Sloju grmlja",
+        "Sloju zeljastih biljaka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrast, bukva i jela visoka su stabla pa pripadaju najvišem sloju, sloju drveća.",
+      "savjet": "Razmisli jesu li to visoka stabla ili niske biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-026",
+      "tezina": "lagano",
+      "pitanje": "Što stvaraju zelene biljke u šumi, a ljudi i životinje to udišu?",
+      "ponudeni": [
+        "Dim",
+        "Prašinu",
+        "Paru",
+        "Kisik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zelene biljke stvaraju kisik. Bez kisika ljudi i životinje ne bi mogli disati.",
+      "savjet": "Sjeti se što nam je u zraku potrebno za disanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-027",
+      "tezina": "lagano",
+      "pitanje": "Na kojem od navedenih stabala rastu šišarke?",
+      "ponudeni": [
+        "Hrast",
+        "Lipa",
+        "Bor",
+        "Javor"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Šišarke rastu na crnogoričnom drveću, primjerice na boru. U šišarkama su sjemenke.",
+      "savjet": "Šišarke rastu na drveću koje ima iglice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-028",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva šuma u kojoj rastu i listopadno i crnogorično drveće?",
+      "ponudeni": [
+        "Mješovita šuma",
+        "Listopadna šuma",
+        "Crnogorična šuma",
+        "Zimska šuma"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Šuma u kojoj su pomiješana listopadna i crnogorična stabla naziva se mješovita šuma.",
+      "savjet": "Naziv kaže da je drveće u toj šumi pomiješano."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-029",
+      "tezina": "lagano",
+      "pitanje": "Što je šuma?",
+      "ponudeni": [
+        "Mjesto na kojem rastu samo trave i cvijeće",
+        "Životna zajednica s mnogo drveća, drugih biljaka i životinja",
+        "Polje na kojem ljudi uzgajaju povrće",
+        "Mjesto na kojem žive samo ptice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šuma je životna zajednica. U njoj rastu drveće i druge biljke te žive mnoge životinje.",
+      "savjet": "Sjeti se što sve možeš vidjeti i čuti u šetnji šumom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-030",
+      "tezina": "lagano",
+      "pitanje": "Kako se treba ponašati u šumi?",
+      "ponudeni": [
+        "Bacati smeće iza drveća",
+        "Brati svo cvijeće koje vidiš",
+        "Glasno vikati da se životinje uplaše",
+        "Hodati stazama i ne bučiti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U šumi hodamo stazama, ne bučimo i ne bacamo otpad. Tako čuvamo biljke i ne uznemiravamo životinje.",
+      "savjet": "Zamisli da je šuma dom mnogih životinja. Kako se ponašaš u tuđem domu?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-031",
+      "tezina": "srednje",
+      "pitanje": "Kako drveće u šumi pomaže životinjama?",
+      "ponudeni": [
+        "Daje im hranu, zaklon i mjesto za gnijezda",
+        "Tjera ih da odu na livadu",
+        "Zimi ih grije vatrom",
+        "Zaklanja im vodu za piće"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Životinje se hrane plodovima, lišćem i korom drveća, skrivaju se među stablima i ondje grade gnijezda.",
+      "savjet": "Sjeti se gdje vjeverica spava, a gdje ptice podižu mlade."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto mnoge zeljaste biljke u šumi cvatu u rano proljeće, prije nego što drveće prolista?",
+      "ponudeni": [
+        "Tada u šumi ima najviše snijega",
+        "Tada su životinje u zimskom snu",
+        "Tada do tla dopire dovoljno Sunčeve svjetlosti",
+        "Tada je u šumi najtoplije"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dok drveće nema lišća, svjetlost dopire do tla. Kad krošnje prolistaju, dolje postaje sjenovito.",
+      "savjet": "Razmisli što se mijenja na tlu šume kad krošnje dobiju lišće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-033",
+      "tezina": "srednje",
+      "pitanje": "Čime se hrani srna?",
+      "ponudeni": [
+        "Zečevima i drugim malim životinjama",
+        "Travom, lišćem i mladim izdancima",
+        "Ribom iz šumskog potoka",
+        "Kukcima ispod kore drveća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Srna je biljojed. Hrani se travom, lišćem, pupovima i mladim izdancima.",
+      "savjet": "Sjeti se je li srna biljojed, mesojed ili svejed."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-034",
+      "tezina": "srednje",
+      "pitanje": "Koja je od navedenih šumskih životinja mesojed?",
+      "ponudeni": [
+        "Srna",
+        "Jelen",
+        "Zec",
+        "Ris"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ris je mesojed i lovi druge životinje. Srna, jelen i zec su biljojedi.",
+      "savjet": "Potraži životinju koja lovi druge životinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-035",
+      "tezina": "srednje",
+      "pitanje": "Koja je od navedenih šumskih životinja svejed?",
+      "ponudeni": [
+        "Divlja svinja",
+        "Srna",
+        "Jelen",
+        "Ris"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Divlja svinja jede i biljnu hranu (žir, korijenje) i životinjsku hranu (crve, kukce). Zato je svejed.",
+      "savjet": "Svejed jede i biljke i životinje. Koja od njih rije po tlu i jede gotovo sve?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-036",
+      "tezina": "srednje",
+      "pitanje": "Jelen se hrani travom, lišćem i pupovima. Kako nazivamo takvu životinju?",
+      "ponudeni": [
+        "Mesojed",
+        "Svejed",
+        "Biljojed",
+        "Razlagač"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Životinja koja se hrani samo biljkama naziva se biljojed.",
+      "savjet": "Naziv nastaje od riječi koje kažu što ta životinja jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-037",
+      "tezina": "srednje",
+      "pitanje": "Medvjed jede plodove, korijenje i med, ali i manje životinje. Kakva je to životinja?",
+      "ponudeni": [
+        "Svejed",
+        "Biljojed",
+        "Mesojed",
+        "Proizvođač"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Medvjed jede i biljnu i životinjsku hranu pa je svejed.",
+      "savjet": "Razmisli kako se zove životinja koja jede i biljke i životinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-038",
+      "tezina": "srednje",
+      "pitanje": "Kako nazivamo gljive i bakterije koje u šumi razgrađuju otpalo lišće i ostatke životinja?",
+      "ponudeni": [
+        "Proizvođači",
+        "Potrošači",
+        "Grabežljivci",
+        "Razlagači"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gljive i bakterije su razlagači. Razgrađuju ostatke biljaka i životinja.",
+      "savjet": "Razmisli što se događa s ostacima: grade li se ili se raspadaju?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-039",
+      "tezina": "srednje",
+      "pitanje": "Što se s vremenom događa s otpalim lišćem na šumskom tlu?",
+      "ponudeni": [
+        "Ostaje zauvijek isto kao kad je palo",
+        "Razgrađuje se i čini tlo plodnim",
+        "Ponovno se vraća na grane",
+        "Pretvara se u kamenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razlagači razgrađuju otpalo lišće. Tako tlo postaje plodno, a biljke dobivaju tvari za rast.",
+      "savjet": "Sjeti se što rade gljive i bakterije na šumskom tlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-040",
+      "tezina": "srednje",
+      "pitanje": "Gdje u šumi najčešće raste mahovina?",
+      "ponudeni": [
+        "Na vrhovima krošnji, na suncu",
+        "Na suhom pijesku uz cestu",
+        "Na vlažnom tlu, kamenju i dnu debala u sjeni",
+        "Na granama grmlja, među cvjetovima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mahovina voli vlagu i sjenu. Zato raste nisko, na tlu, kamenju i dnu debala.",
+      "savjet": "Sjeti se u kojem je sloju šume mahovina i kakvi su ondje uvjeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-041",
+      "tezina": "srednje",
+      "pitanje": "Zašto je djetlić koristan za šumu?",
+      "ponudeni": [
+        "Jede kukce koji oštećuju drveće",
+        "Sadi nova stabla",
+        "Tjera medvjede iz šume",
+        "Gasi šumske požare"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djetlić iz kore i drva vadi kukce koji štete drveću. Zato ga zovu šumskim liječnikom.",
+      "savjet": "Sjeti se čime se djetlić hrani i gdje tu hranu traži."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-042",
+      "tezina": "srednje",
+      "pitanje": "Kako vjeverica nesvjesno pomaže da u šumi izrastu nova stabla?",
+      "ponudeni": [
+        "Odgriza suhe grane",
+        "Zalijeva mlade biljke",
+        "Gnijezdi se u krošnjama",
+        "Zakopa plodove i neke od njih zaboravi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iz zakopanih plodova koje vjeverica zaboravi mogu izrasti nova stabla.",
+      "savjet": "Sjeti se što vjeverica radi s plodovima u jesen i što je u plodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-043",
+      "tezina": "srednje",
+      "pitanje": "Koja je životinja točno spojena s hranom kojom se hrani?",
+      "ponudeni": [
+        "Srna – lovi male ptice",
+        "Ris – lovi zečeve i srne",
+        "Jelen – jede kukce ispod kore",
+        "Sova – pase travu na proplanku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ris je mesojed i lovi zečeve i srne. Srna i jelen su biljojedi, a sova lovi druge životinje.",
+      "savjet": "Za svaku životinju sjeti se je li biljojed ili mesojed."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-044",
+      "tezina": "srednje",
+      "pitanje": "Koja je biljka točno spojena sa slojem šume u kojem raste?",
+      "ponudeni": [
+        "Mahovina – sloj grmlja",
+        "Lijeska – sloj mahovina",
+        "Bukva – sloj drveća",
+        "Hrast – sloj zeljastih biljaka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bukva je visoko stablo pa pripada sloju drveća. Mahovina je u prizemnom sloju, a lijeska u sloju grmlja.",
+      "savjet": "Za svaku biljku razmisli koliko je visoka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-045",
+      "tezina": "srednje",
+      "pitanje": "Kojim redom slijede slojevi šume od tla prema vrhu?",
+      "ponudeni": [
+        "Grmlje, mahovine, drveće, zeljaste biljke",
+        "Drveće, grmlje, zeljaste biljke, mahovine",
+        "Zeljaste biljke, mahovine, grmlje, drveće",
+        "Mahovine, zeljaste biljke, grmlje, drveće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najniže su mahovine, iznad njih zeljaste biljke, zatim grmlje, a najviše je drveće.",
+      "savjet": "Kreni od najniže biljke na tlu i penji se prema krošnjama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-046",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se grm razlikuje od drveta?",
+      "ponudeni": [
+        "Grm se grana već pri tlu, a drvo ima jedno deblo",
+        "Grm ima iglice, a drvo listove",
+        "Grm raste samo u moru",
+        "Grm je uvijek viši od drveta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Grm je niži i iz tla mu raste više drvenastih stabljika. Drvo ima jedno deblo i krošnju.",
+      "savjet": "Usporedi lijesku i hrast: koliko stabljika izlazi iz tla?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-047",
+      "tezina": "srednje",
+      "pitanje": "Zašto su šume važne za zrak koji udišemo?",
+      "ponudeni": [
+        "Drveće zaustavlja svu kišu",
+        "Zelene biljke stvaraju kisik",
+        "Šuma zrak čini toplijim",
+        "U šumi nema vjetra"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zelene biljke u šumi stvaraju kisik koji ljudi i životinje udišu.",
+      "savjet": "Sjeti se što nam je u zraku potrebno za disanje i tko to stvara."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-048",
+      "tezina": "srednje",
+      "pitanje": "Što pomaže sovi da lovi noću?",
+      "ponudeni": [
+        "Šareno perje koje se vidi izdaleka",
+        "Jak kljun za kljucanje kore",
+        "Dobar vid i sluh te tihi let",
+        "Duge noge za brzo trčanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sova i u mraku dobro vidi i čuje, a leti gotovo nečujno pa iznenadi plijen.",
+      "savjet": "Razmisli što je potrebno da bi se u mraku našao i iznenadio plijen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-049",
+      "tezina": "srednje",
+      "pitanje": "Koji su par stabala oba crnogorična?",
+      "ponudeni": [
+        "Hrast i bor",
+        "Bukva i lipa",
+        "Javor i grab",
+        "Jela i smreka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jela i smreka imaju iglice pa su crnogorična stabla.",
+      "savjet": "Oba stabla u paru moraju imati iglice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-050",
+      "tezina": "srednje",
+      "pitanje": "Po čemu u šumi razlikuješ jelu od bukve?",
+      "ponudeni": [
+        "Jela ima iglice, a bukva plosnate listove",
+        "Jela je grm, a bukva drvo",
+        "Jela zimi gubi lišće, a bukva ne",
+        "Jela raste u moru, a bukva u šumi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jela je crnogorično drvo s iglicama, a bukva listopadno drvo s plosnatim listovima.",
+      "savjet": "Pogledaj grane: što je na grani jele, a što na grani bukve?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-051",
+      "tezina": "srednje",
+      "pitanje": "Zašto je ljeti ložiti vatru u šumi osobito opasno?",
+      "ponudeni": [
+        "Dim tjera ptice da pjevaju",
+        "Suho lišće i grane lako se zapale pa nastane požar",
+        "Vatra ljeti brže gasne",
+        "Ljeti u šumi nema drveća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljeti je u šumi mnogo suhog lišća i grana. Iskra se brzo proširi i nastane šumski požar.",
+      "savjet": "Razmisli kakvo je šumsko tlo ljeti kad dugo nema kiše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-052",
+      "tezina": "srednje",
+      "pitanje": "Što se u listopadnoj šumi događa u proljeće?",
+      "ponudeni": [
+        "Drveće odbacuje lišće",
+        "Medvjed odlazi na zimski san",
+        "Drveće prolista, a ptice grade gnijezda",
+        "Vjeverice skupljaju zalihe za zimu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U proljeće listopadno drveće dobiva novo lišće, cvatu biljke, a ptice grade gnijezda.",
+      "savjet": "Sjeti se kako se priroda budi nakon zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-053",
+      "tezina": "srednje",
+      "pitanje": "Gdje djetlić pravi gnijezdo?",
+      "ponudeni": [
+        "Na tlu među mahovinom",
+        "Na površini potoka",
+        "U zemlji, kao krtica",
+        "U rupi koju izdubi u deblu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djetlić jakim kljunom izdubi rupu u deblu i u njoj podiže mlade.",
+      "savjet": "Sjeti se čime se djetlić najviše služi i po čemu kljuca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-054",
+      "tezina": "srednje",
+      "pitanje": "Kojoj skupini pripadaju vuk, ris i sova?",
+      "ponudeni": [
+        "Mesojedima",
+        "Biljojedima",
+        "Proizvođačima",
+        "Razlagačima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vuk, ris i sova hrane se drugim životinjama pa su mesojedi.",
+      "savjet": "Razmisli čime se hrane sve tri životinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-055",
+      "tezina": "srednje",
+      "pitanje": "Što od navedenog u šumi stvara hranu uz pomoć Sunčeve svjetlosti?",
+      "ponudeni": [
+        "Srna",
+        "Vrganj",
+        "Djetlić",
+        "Bukva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bukva je zelena biljka. Uz pomoć Sunčeve svjetlosti u listovima stvara hranu, pa je proizvođač.",
+      "savjet": "Hranu uz pomoć svjetlosti stvaraju samo zelene biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-056",
+      "tezina": "srednje",
+      "pitanje": "Kako nazivamo srne, vjeverice i vukove u hranidbenim odnosima šume?",
+      "ponudeni": [
+        "Proizvođači",
+        "Potrošači",
+        "Razlagači",
+        "Zeljaste biljke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Životinje ne mogu same stvarati hranu, nego jedu biljke ili druge životinje. Zato su potrošači.",
+      "savjet": "Razmisli stvaraju li životinje hranu ili je uzimaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-057",
+      "tezina": "srednje",
+      "pitanje": "Kako ljudi mogu pomoći šumi nakon što se posijeku stabla?",
+      "ponudeni": [
+        "Odvesti sve životinje u zoološki vrt",
+        "Spaliti ostatke grana i lišća",
+        "Posaditi nova mlada stabla",
+        "Asfaltirati očišćeno tlo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sadnjom novih stabala šuma se obnavlja. To se naziva pošumljavanje.",
+      "savjet": "Razmisli kako se na mjestu posječenih stabala može ponovno dobiti šuma."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-058",
+      "tezina": "srednje",
+      "pitanje": "Kako nazivamo biljke i životinje šume koje žive zajedno na istom mjestu i ovise jedne o drugima?",
+      "ponudeni": [
+        "Hranidbeni lanac",
+        "Sloj grmlja",
+        "Prizemni sloj",
+        "Životna zajednica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Biljke i životinje koje zajedno žive na istom staništu i ovise jedne o drugima čine životnu zajednicu.",
+      "savjet": "Sjeti se pojma koji kaže da bića žive zajedno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-059",
+      "tezina": "srednje",
+      "pitanje": "Koja od navedenih životinja zimi ostaje budna i u snijegu traži hranu?",
+      "ponudeni": [
+        "Medvjed",
+        "Srna",
+        "Jež",
+        "Puh"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Srna zimi ne spava. Ispod snijega traži travu, a jede i pupove i koru grmlja.",
+      "savjet": "Tri od tih životinja zimi spavaju zimskim snom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-060",
+      "tezina": "srednje",
+      "pitanje": "Koja od navedenih životinja najveći dio života provodi u krošnjama drveća?",
+      "ponudeni": [
+        "Divlja svinja",
+        "Srna",
+        "Vjeverica",
+        "Vuk"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vjeverica je spretna penjačica. U krošnjama traži hranu, skače s grane na granu i ondje gradi gnijezdo.",
+      "savjet": "Razmisli koja se od tih životinja zna penjati po drveću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-061",
+      "tezina": "tesko",
+      "pitanje": "Dopuni hranidbeni lanac: trava → zec → ?",
+      "ponudeni": [
+        "Srna",
+        "Lisica",
+        "Jelen",
+        "Puž"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lisica lovi zeca. Srna, jelen i puž hrane se biljkama, a ne zečevima.",
+      "savjet": "Na kraju lanca je životinja koja može uloviti zeca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-062",
+      "tezina": "tesko",
+      "pitanje": "Što znači strelica u hranidbenom lancu trava → srna?",
+      "ponudeni": [
+        "Trava raste iz srne",
+        "Srna i trava žive odvojeno",
+        "Trava jede srnu",
+        "Srna jede travu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strelica pokazuje tko kome služi kao hrana. Trava je hrana srni.",
+      "savjet": "Sjeti se što strelica u lancu pokazuje: tko je kome hrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-063",
+      "tezina": "tesko",
+      "pitanje": "Lisica je ulovila zeca koji je jeo djetelinu. Kako glasi taj hranidbeni lanac?",
+      "ponudeni": [
+        "Djetelina → zec → lisica",
+        "Lisica → zec → djetelina",
+        "Zec → djetelina → lisica",
+        "Djetelina → lisica → zec"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lanac počinje zelenom biljkom. Djetelinu jede zec, a zeca lovi lisica.",
+      "savjet": "Svaki hranidbeni lanac počinje zelenom biljkom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-064",
+      "tezina": "tesko",
+      "pitanje": "Što bi se moglo dogoditi kad iz šume nestanu svi vukovi i risovi?",
+      "ponudeni": [
+        "Srna bi bilo manje jer ne bi imale hrane",
+        "Šuma bi brže rasla jer nema grabežljivaca",
+        "Srna i jelena bilo bi previše pa bi pojeli mnogo mladih biljaka",
+        "Ništa se ne bi promijenilo u šumi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vukovi i risovi love srne i jelene. Bez njih bi biljojeda bilo previše i pojeli bi mnogo mladih biljaka.",
+      "savjet": "Razmisli koga vuk i ris love i što ta bića jedu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-065",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo u šumi kad ne bi bilo gljiva ni bakterija koje razgrađuju ostatke?",
+      "ponudeni": [
+        "Otpalo lišće bi se gomilalo, a tlo ne bi bilo plodno",
+        "Drveće bi raslo mnogo brže",
+        "Lišće bi se vraćalo na grane",
+        "Životinje bi imale više hrane"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razlagači pretvaraju ostatke u tvari koje biljke uzimaju iz tla. Bez njih bi se otpad gomilao, a tlo bi osiromašilo.",
+      "savjet": "Sjeti se što razlagači rade s otpalim lišćem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-066",
+      "tezina": "tesko",
+      "pitanje": "Hranidbeni lanac „žir → vuk → divlja svinja“ pogrešno je složen. Kako glasi ispravno?",
+      "ponudeni": [
+        "Vuk → žir → divlja svinja",
+        "Divlja svinja → žir → vuk",
+        "Divlja svinja → vuk → žir",
+        "Žir → divlja svinja → vuk"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Žir je plod biljke i njime počinje lanac. Žir jede divlja svinja, a nju može uloviti vuk.",
+      "savjet": "Kreni od biljke pa razmisli tko jede žir, a tko lovi tu životinju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-067",
+      "tezina": "tesko",
+      "pitanje": "Na strmoj padini posječena je sva šuma. Što će se najvjerojatnije dogoditi nakon jakih kiša?",
+      "ponudeni": [
+        "Padina će se brzo prekriti novim drvećem",
+        "Kiša će odnijeti tlo jer ga korijenje više ne drži",
+        "Tlo će postati plodnije nego prije",
+        "Na padini će nastati jezero"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Korijenje drveća drži tlo. Kad drveća nema, voda lako odnosi tlo niz padinu.",
+      "savjet": "Sjeti se koja je uloga korijena u tlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-068",
+      "tezina": "tesko",
+      "pitanje": "Usred zime u šumi su sva stabla zelena i imaju iglice. Kakva je to šuma?",
+      "ponudeni": [
+        "Listopadna šuma",
+        "Mješovita šuma",
+        "Crnogorična šuma",
+        "Šuma grmlja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi su zelena samo crnogorična stabla. Ako su sva stabla zelena s iglicama, šuma je crnogorična.",
+      "savjet": "Razmisli kako bi zimi izgledala stabla koja odbacuju lišće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-069",
+      "tezina": "tesko",
+      "pitanje": "U šumi žive zec i lisica, rastu trava i vrganj. Koji je od njih proizvođač?",
+      "ponudeni": [
+        "Zec",
+        "Lisica",
+        "Vrganj",
+        "Trava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Proizvođači su zelene biljke jer same stvaraju hranu. Trava je zelena biljka, a vrganj je gljiva.",
+      "savjet": "Proizvođač sam stvara hranu uz pomoć Sunčeve svjetlosti. Može li to gljiva?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-070",
+      "tezina": "tesko",
+      "pitanje": "Koja je uloga jelena u hranidbenom lancu trava → jelen → vuk?",
+      "ponudeni": [
+        "Jede travu, a njega lovi vuk",
+        "Lovi vuka i jede travu",
+        "Stvara hranu uz pomoć Sunčeve svjetlosti",
+        "Razgrađuje ostatke trave i vuka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jelen je biljojed. Hrani se travom, a sam je hrana vuku.",
+      "savjet": "Prati strelice: koja vodi prema jelenu, a koja od njega?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-071",
+      "tezina": "tesko",
+      "pitanje": "Što se događa sa šumskim životinjama kad se posiječe cijela šuma?",
+      "ponudeni": [
+        "Dobivaju više hrane i zaklona",
+        "Gube dom i hranu pa moraju otići ili stradaju",
+        "Brzo se nauče živjeti na asfaltu",
+        "Sve odmah zaspu zimskim snom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šuma je stanište tih životinja. Kad je nema, ostaju bez hrane i zaklona.",
+      "savjet": "Sjeti se što životinjama u šumi daje drveće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-072",
+      "tezina": "tesko",
+      "pitanje": "Kad iz šume nestanu djetlići, što bi se moglo dogoditi s drvećem?",
+      "ponudeni": [
+        "Drveće bi dobilo više lišća",
+        "Drveće bi postalo crnogorično",
+        "Kukci koji štete drveću mogli bi se namnožiti",
+        "Drveće bi prestalo davati plodove"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djetlići jedu kukce u kori i drvu. Bez njih bi takvih kukaca bilo više i oštećivali bi drveće.",
+      "savjet": "Sjeti se čime se djetlić hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-073",
+      "tezina": "tesko",
+      "pitanje": "Ispod hrasta na tlu ima mnogo žireva. Koja bi ih od navedenih životinja mogla pojesti?",
+      "ponudeni": [
+        "Ris",
+        "Sova",
+        "Vuk",
+        "Divlja svinja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Divlja svinja je svejed i rado jede žir. Ris, sova i vuk su mesojedi.",
+      "savjet": "Žir je biljna hrana. Koja od tih životinja jede i biljke?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-074",
+      "tezina": "tesko",
+      "pitanje": "Dopuni hranidbeni lanac: lišće → ? → ris",
+      "ponudeni": [
+        "Srna",
+        "Vuk",
+        "Orao",
+        "Sova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lišće jede srna, a srnu može uloviti ris. Vuk, orao i sova ne jedu lišće.",
+      "savjet": "U sredini je životinja koja jede lišće, a ris je može uloviti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-075",
+      "tezina": "tesko",
+      "pitanje": "Ljeti u gustoj bukovoj šumi na tlu raste vrlo malo biljaka. Što je najvjerojatniji razlog?",
+      "ponudeni": [
+        "Ljeti u šumi pada previše snijega",
+        "Životinje su pojele sve biljke",
+        "Bukve imaju iglice koje bodu biljke",
+        "Guste krošnje propuštaju malo Sunčeve svjetlosti do tla"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Biljkama je za život potrebna svjetlost. Guste krošnje bukava zaklanjaju tlo pa je ondje sjena.",
+      "savjet": "Razmisli što je biljkama potrebno za rast i što krošnje zaklanjaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-076",
+      "tezina": "tesko",
+      "pitanje": "Za školski izložak o šumi što smiješ ponijeti iz šume?",
+      "ponudeni": [
+        "Mladunče ptice iz gnijezda",
+        "Otpalo lišće i šišarke",
+        "Zaštićene biljke s korijenom",
+        "Jaja iz ptičjeg gnijezda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Otpalo lišće i šišarke možeš ponijeti, a da ne naštetiš šumi. Ptice i zaštićene biljke ne diramo.",
+      "savjet": "Odaberi nešto što je šuma već odbacila i nije živo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto je staklena boca bačena u šumi opasna?",
+      "ponudeni": [
+        "Sunčeve zrake kroz staklo mogu zapaliti suho lišće",
+        "Staklo hrani drveće",
+        "Boca privlači kišu",
+        "Staklo se brzo razgradi u tlu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Staklo može skupiti Sunčeve zrake kao povećalo i zapaliti suho lišće. Krhotine mogu ozlijediti i životinje.",
+      "savjet": "Sjeti se što se dogodi kad povećalom usmjeriš Sunčeve zrake na papir."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-078",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o šumi zimi točna?",
+      "ponudeni": [
+        "Sve šumske životinje spavaju zimskim snom",
+        "Crnogorično drveće odbacuje iglice",
+        "Listopadno drveće je golo, a crnogorično ostaje zeleno",
+        "Medvjed zimi traži plodove po snijegu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi listopadno drveće nema lišća, a crnogorično zadržava iglice. Neke životinje spavaju, a neke traže hranu.",
+      "savjet": "Provjeri svaku tvrdnju: sjeti se srne, medvjeda, bukve i jele zimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-079",
+      "tezina": "tesko",
+      "pitanje": "U mješovitoj šumi rastu bukva i jela. Kako će izgledati u kasnu jesen?",
+      "ponudeni": [
+        "Obje će ostati bez lišća i iglica",
+        "Jela će odbaciti iglice, a bukva će ostati zelena",
+        "Obje će ostati potpuno zelene",
+        "Bukva će odbaciti lišće, a jela će zadržati iglice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bukva je listopadna pa u jesen odbacuje lišće. Jela je crnogorična i zadržava iglice.",
+      "savjet": "Odredi koje je od ta dva stabla listopadno, a koje crnogorično."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-080",
+      "tezina": "tesko",
+      "pitanje": "Kad bi iz šume nestale srne, koja bi od navedenih životinja ostala bez dijela svoje hrane?",
+      "ponudeni": [
+        "Vjeverica",
+        "Ris",
+        "Djetlić",
+        "Zec"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ris lovi srne. Vjeverica, djetlić i zec srnama se ne hrane.",
+      "savjet": "Razmisli kojoj je životinji srna plijen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-081",
+      "tezina": "tesko",
+      "pitanje": "Koja je životinja točno spojena s mjestom u šumi na kojem je najčešće možeš vidjeti?",
+      "ponudeni": [
+        "Djetlić – na deblima drveća",
+        "Vjeverica – u rupi duboko pod zemljom",
+        "Divlja svinja – u krošnjama drveća",
+        "Sova – na dnu potoka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djetlić se penje po deblima i kljuca koru tražeći kukce.",
+      "savjet": "Za svaku životinju zamisli kako se kreće i gdje traži hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto u šumi treba hodati označenim stazama?",
+      "ponudeni": [
+        "Da brže dođemo do gljiva",
+        "Da životinje lakše pronađu ljude",
+        "Da ne gazimo biljke, ne plašimo životinje i ne izgubimo se",
+        "Da možemo brati cvijeće uz rub staze"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hodanjem stazama čuvamo biljke i mir životinja, a i sami smo sigurni jer se ne izgubimo.",
+      "savjet": "Razmisli što se događa s biljkama i životinjama kad ljudi hodaju posvuda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-083",
+      "tezina": "tesko",
+      "pitanje": "Izletnici su u šumi ostavili plastične vrećice i ostatke hrane. Zašto to nije dobro?",
+      "ponudeni": [
+        "Plastika brzo postane plodno tlo",
+        "Otpad privlači samo kukce koji pomažu šumi",
+        "Vrećice štite tlo od kiše",
+        "Otpad onečišćuje šumu i može naštetiti životinjama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plastika se jako dugo ne razgrađuje. Životinje se mogu zaplesti u nju ili je progutati.",
+      "savjet": "Razmisli razgrađuje li se plastika kao otpalo lišće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-084",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer pokazuje da biljke i životinje u šumi ovise jedne o drugima?",
+      "ponudeni": [
+        "Kamen leži pokraj potoka",
+        "Vjeverica jede plodove drveća i pritom raznosi sjemenke",
+        "Kiša pada po krošnjama",
+        "Planinar se odmara na klupi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Drvo daje vjeverici hranu, a vjeverica raznosi plodove iz kojih rastu nova stabla. Tako koriste jedno drugome.",
+      "savjet": "Potraži primjer u kojem i biljka i životinja nešto dobivaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-085",
+      "tezina": "tesko",
+      "pitanje": "Tko je u hranidbenom lancu trava → zec → lisica potrošač koji jede drugu životinju?",
+      "ponudeni": [
+        "Trava",
+        "Zec",
+        "Lisica",
+        "Nitko u tom lancu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lisica jede zeca. Zec je potrošač koji jede biljku, a trava je proizvođač.",
+      "savjet": "Prati strelice i pronađi onoga tko jede životinju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-086",
+      "tezina": "tesko",
+      "pitanje": "Što je posljedica šumskog požara?",
+      "ponudeni": [
+        "Šuma postaje gušća",
+        "Životinje gube stanište, a biljke izgore",
+        "U šumi ima više hrane za srne",
+        "Zrak postaje čišći"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U požaru izgore drveće i druge biljke, a životinje ostaju bez doma i hrane. Šumi treba mnogo godina da se obnovi.",
+      "savjet": "Razmisli što vatra uništava i tko u šumi živi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-087",
+      "tezina": "tesko",
+      "pitanje": "Koje biljke u šumi dobivaju najviše Sunčeve svjetlosti?",
+      "ponudeni": [
+        "Mahovine na tlu",
+        "Zeljaste biljke",
+        "Grmovi ispod drveća",
+        "Krošnje drveća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krošnje drveća najviše su u šumi pa prve dobivaju Sunčevu svjetlost. Niže biljke dobivaju manje svjetlosti.",
+      "savjet": "Razmisli koji je sloj najbliži nebu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-088",
+      "tezina": "tesko",
+      "pitanje": "Iz žira je izrastao mladi hrast. Što to pokazuje?",
+      "ponudeni": [
+        "U plodu su sjemenke iz kojih raste nova biljka",
+        "Žir je mladunče vjeverice",
+        "Hrast nastaje iz mahovine",
+        "Iz svakog lista izraste novo stablo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Žir je plod hrasta. U njemu je sjemenka iz koje može izrasti novo stablo.",
+      "savjet": "Sjeti se što se nalazi u plodu biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-089",
+      "tezina": "tesko",
+      "pitanje": "Medvjed jede kupine, med, a ponekad i manje životinje. Koji je hranidbeni lanac ispravan?",
+      "ponudeni": [
+        "Medvjed → kupine",
+        "Ris → medvjed",
+        "Kupine → medvjed",
+        "Medvjed → srna → trava"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kupine su biljna hrana koju medvjed jede. Strelica ide od hrane prema onome tko je jede.",
+      "savjet": "Strelica vodi od hrane prema onome tko je jede, a lanac počinje biljkom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-suma-090",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo sa životinjama u šumi kad ne bi bilo zelenih biljaka?",
+      "ponudeni": [
+        "Biljojedi bi jeli kamenje",
+        "Mesojedi bi imali više hrane",
+        "Ništa, jer životinje same stvaraju hranu",
+        "Ostale bi bez hrane jer svaki hranidbeni lanac počinje biljkom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zelene biljke stvaraju hranu. Biljojedi jedu biljke, a mesojedi biljojede, pa bez biljaka ne bi bilo hrane ni za jedne.",
+      "savjet": "Sjeti se čime počinje svaki hranidbeni lanac."
+    }
+  ]
+}

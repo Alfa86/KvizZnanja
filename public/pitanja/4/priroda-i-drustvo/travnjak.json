@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "travnjak",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-travnjak-001",
+      "tezina": "lagano",
+      "pitanje": "Što je travnjak?",
+      "ponudeni": [
+        "Životna zajednica u kojoj prevladava visoko drveće",
+        "Životna zajednica u kojoj prevladavaju trave i druge zeljaste biljke",
+        "Dio mora uz obalu u kojem rastu alge",
+        "Vrt u kojem ljudi uzgajaju povrće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Travnjak je životna zajednica u kojoj prevladavaju trave i druge zeljaste biljke. Na njemu nema visokog drveća.",
+      "savjet": "Sjeti se od koje riječi dolazi naziv travnjak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-002",
+      "tezina": "lagano",
+      "pitanje": "Koje biljke prevladavaju na travnjaku?",
+      "ponudeni": [
+        "Grmlje",
+        "Drveće",
+        "Alge",
+        "Trave"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na travnjaku prevladavaju trave, a uz njih raste i livadno cvijeće.",
+      "savjet": "Naziv ove životne zajednice krije odgovor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-003",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih biljaka raste na livadi?",
+      "ponudeni": [
+        "Maslačak",
+        "Posidonija",
+        "Jela",
+        "Lopoč"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Maslačak je česta livadna biljka. Posidonija raste u moru, jela u šumi, a lopoč u vodi.",
+      "savjet": "Sjeti se biljaka koje u proljeće vidiš na livadi kraj puta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-004",
+      "tezina": "lagano",
+      "pitanje": "Koji kukac ima snažne stražnje noge kojima skače kroz travu?",
+      "ponudeni": [
+        "Mrav",
+        "Pčela",
+        "Skakavac",
+        "Komarac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Skakavac ima duge i snažne stražnje noge pa može daleko skočiti.",
+      "savjet": "Ime tog kukca govori što najbolje radi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-005",
+      "tezina": "lagano",
+      "pitanje": "Koji sisavac kopa hodnike ispod travnjaka i izbacuje zemlju u male humke?",
+      "ponudeni": [
+        "Zec",
+        "Jež",
+        "Vjeverica",
+        "Krtica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krtica živi pod zemljom, kopa hodnike, a višak zemlje izbacuje na površinu u humke.",
+      "savjet": "Sjeti se životinje koja gotovo cijeli život provodi pod zemljom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-006",
+      "tezina": "lagano",
+      "pitanje": "Koji kukac oprašuje cvjetove na livadi i živi u košnici?",
+      "ponudeni": [
+        "Skakavac",
+        "Pčela",
+        "Mrav",
+        "Leptir"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pčela živi u košnici, a na livadi skuplja nektar i pelud te oprašuje cvjetove.",
+      "savjet": "Sjeti se koji kukac čovjek uzgaja zbog meda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove osušena pokošena trava kojom se zimi hrane domaće životinje?",
+      "ponudeni": [
+        "Sijeno",
+        "Slama",
+        "Piljevina",
+        "Kora"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pokošena i osušena trava zove se sijeno. Zimi je hrana kravama, ovcama i konjima.",
+      "savjet": "Sjeti se što se nakon košnje suši na livadi i sprema za zimu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove travnjak koji ljudi redovito kose?",
+      "ponudeni": [
+        "Pašnjak",
+        "Šuma",
+        "Livada",
+        "Močvara"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Livada je travnjak koji se kosi. Od pokošene trave dobiva se sijeno.",
+      "savjet": "Sjeti se gdje se trava reže i suši za sijeno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-009",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove travnjak na kojem pasu domaće životinje?",
+      "ponudeni": [
+        "Livada",
+        "Voćnjak",
+        "Vinograd",
+        "Pašnjak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pašnjak je travnjak na kojem pasu krave, ovce, koze i konji.",
+      "savjet": "Naziv tog travnjaka dolazi od onoga što životinje na njemu rade."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-010",
+      "tezina": "lagano",
+      "pitanje": "Što je potrebno biljkama travnjaka da bi rasle?",
+      "ponudeni": [
+        "Tama, suho tlo i hladnoća",
+        "Sunčeva svjetlost, voda, zrak i tlo",
+        "Slana voda i stalna sjena",
+        "Samo zrak, bez vode i tla"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljkama su za život potrebni Sunčeva svjetlost, voda, zrak i tlo.",
+      "savjet": "Sjeti se što sve treba biljci u tegli da ne bi uvenula."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-011",
+      "tezina": "lagano",
+      "pitanje": "Koja je livadna biljka poznata kao mirisna i ljekovita?",
+      "ponudeni": [
+        "Kadulja",
+        "Bor",
+        "Posidonija",
+        "Hrast"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kadulja raste na livadama, ugodno miriše i koristi se kao ljekovita biljka, npr. za čaj.",
+      "savjet": "Potraži zeljastu biljku od koje se kuha čaj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-012",
+      "tezina": "lagano",
+      "pitanje": "Koja livadna biljka ima list od tri dijela i dobra je hrana stoci?",
+      "ponudeni": [
+        "Paprat",
+        "Bršljan",
+        "Djetelina",
+        "Jela"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djetelina ima list od tri listića. Raste na livadama i dobra je hrana kravama i ovcama.",
+      "savjet": "Sjeti se biljke čiji se rijetki list s četiri listića smatra znakom sreće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-013",
+      "tezina": "lagano",
+      "pitanje": "Koji mali bijeli cvijet sa žutom sredinom raste na travnjacima?",
+      "ponudeni": [
+        "Maslačak",
+        "Mak",
+        "Suncokret",
+        "Tratinčica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tratinčica ima bijele latice i žutu sredinu. Raste na travnjacima i u parkovima.",
+      "savjet": "Sjeti se cvijeta od kojeg djeca pletu vjenčiće, a nije žut."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-014",
+      "tezina": "lagano",
+      "pitanje": "Koja životinja živi u tlu travnjaka i rahli ga?",
+      "ponudeni": [
+        "Leptir",
+        "Gujavica",
+        "Skakavac",
+        "Lasta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gujavica živi u tlu. Dok se kreće kroz zemlju, rahli je i miješa.",
+      "savjet": "Sjeti se životinje koju često vidiš na tlu nakon kiše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-015",
+      "tezina": "lagano",
+      "pitanje": "Što rade pčele i leptiri dok prelaze s cvijeta na cvijet?",
+      "ponudeni": [
+        "Oprašuju cvjetove",
+        "Razgrađuju ostatke lišća",
+        "Upijaju vodu iz tla",
+        "Kopaju hodnike u tlu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pčele i leptiri prenose pelud s cvijeta na cvijet i tako oprašuju cvjetove.",
+      "savjet": "Sjeti se što kukci nose na nogama s jednog cvijeta na drugi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-016",
+      "tezina": "lagano",
+      "pitanje": "U kojem godišnjem dobu livada miruje i ne cvjeta?",
+      "ponudeni": [
+        "U proljeće",
+        "Ljeti",
+        "Zimi",
+        "Početkom ljeta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi je hladno pa biljke na livadi ne rastu i ne cvjetaju.",
+      "savjet": "Sjeti se kad je najhladnije i kad livadu može prekriti snijeg."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove nastamba u kojoj žive mravi?",
+      "ponudeni": [
+        "Košnica",
+        "Jazbina",
+        "Gnijezdo",
+        "Mravinjak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mravi žive u zajednici u mravinjaku. Mravinjak se često nalazi u tlu travnjaka.",
+      "savjet": "Naziv nastambe sličan je imenu tih kukaca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-018",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove posao kad se trava na livadi reže?",
+      "ponudeni": [
+        "Košnja",
+        "Žetva",
+        "Berba",
+        "Sadnja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rezanje trave na livadi zove se košnja. Nakon košnje trava se suši i postaje sijeno.",
+      "savjet": "Sjeti se alata kosa kojim se nekad rezala trava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-019",
+      "tezina": "lagano",
+      "pitanje": "Koji sisavac dugih ušiju živi na livadama i poljima?",
+      "ponudeni": [
+        "Vuk",
+        "Zec",
+        "Krtica",
+        "Jež"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zec ima duge uši i snažne stražnje noge. Živi na livadama i poljima i hrani se biljkama.",
+      "savjet": "Sjeti se životinje poznate po dugim ušima i brzom trčanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-020",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja kukac koji živi na livadi?",
+      "ponudeni": [
+        "Krtica",
+        "Zec",
+        "Gujavica",
+        "Leptir"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Leptir je kukac sa šest nogu i krilima. Krtica i zec su sisavci, a gujavica nije kukac.",
+      "savjet": "Kukci imaju šest nogu, a mnogi od njih i krila."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-021",
+      "tezina": "lagano",
+      "pitanje": "Čime se zec hrani na travnjaku?",
+      "ponudeni": [
+        "Kukcima",
+        "Pticama",
+        "Travom i drugim biljkama",
+        "Ribama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zec je biljojed. Hrani se travom, djetelinom i drugim biljkama.",
+      "savjet": "Sjeti se je li zec biljojed ili mesojed."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-022",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih domaćih životinja pase travu na pašnjaku?",
+      "ponudeni": [
+        "Ovca",
+        "Mačka",
+        "Hrčak",
+        "Papiga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ovca je domaća životinja koja pase travu na pašnjaku.",
+      "savjet": "Sjeti se koja se od tih životinja hrani travom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-023",
+      "tezina": "lagano",
+      "pitanje": "Koje je boje cvijet maslačka?",
+      "ponudeni": [
+        "Plave",
+        "Žute",
+        "Crne",
+        "Ljubičaste"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Maslačak ima jarko žute cvjetove koji se poslije pretvore u bijele kuglice.",
+      "savjet": "Sjeti se livade u proljeće kad je prošarana maslačcima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-024",
+      "tezina": "lagano",
+      "pitanje": "Što pčela prenosi s cvijeta na cvijet?",
+      "ponudeni": [
+        "Sjemenke",
+        "Vodu",
+        "Listove",
+        "Pelud"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pčela prenosi pelud s cvijeta na cvijet i tako ga oprašuje.",
+      "savjet": "Sjeti se žutog praha koji se zalijepi za noge pčele."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-025",
+      "tezina": "lagano",
+      "pitanje": "Koji kukac ima šarena krila i siše nektar iz cvjetova?",
+      "ponudeni": [
+        "Mrav",
+        "Skakavac",
+        "Leptir",
+        "Kornjaš"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Leptir ima šarena krila i dugim rilcem siše nektar iz cvjetova.",
+      "savjet": "Sjeti se kukca koji je nekad bio gusjenica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-026",
+      "tezina": "lagano",
+      "pitanje": "Biljke na travnjaku većinom imaju zeljastu stabljiku. Kakva je takva stabljika?",
+      "ponudeni": [
+        "Mekana i zelena",
+        "Tvrda i drvenasta",
+        "Pokrivena debelom korom",
+        "Visoka kao stablo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zeljasta stabljika je mekana, sočna i zelena. Takvu stabljiku imaju trave i livadno cvijeće.",
+      "savjet": "Usporedi stabljiku maslačka i deblo drveta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-027",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja biljojed?",
+      "ponudeni": [
+        "Vuk",
+        "Sova",
+        "Orao",
+        "Zec"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zec se hrani biljkama pa je biljojed. Vuk, sova i orao hrane se drugim životinjama.",
+      "savjet": "Sjeti se koja se od tih životinja hrani travom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-028",
+      "tezina": "lagano",
+      "pitanje": "Gdje gujavica provodi većinu vremena?",
+      "ponudeni": [
+        "Na cvijetu",
+        "U tlu",
+        "Na grani drveta",
+        "U moru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gujavica živi u tlu, gdje kopa hodnike i rahli zemlju.",
+      "savjet": "Sjeti se gdje je pronađeš kad kopaš vrt."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-029",
+      "tezina": "lagano",
+      "pitanje": "Što pčele proizvode od nektara skupljenog na livadnom cvijeću?",
+      "ponudeni": [
+        "Med",
+        "Mlijeko",
+        "Sijeno",
+        "Sok od jabuke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pčele od nektara proizvode med i spremaju ga u košnicu.",
+      "savjet": "Sjeti se slatke hrane koju pčelar uzima iz košnice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-030",
+      "tezina": "lagano",
+      "pitanje": "Koji kukac s travnjaka ima crvena leđa s crnim točkicama?",
+      "ponudeni": [
+        "Pčela",
+        "Mrav",
+        "Bubamara",
+        "Skakavac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bubamara je mali kukac crvenih leđa s crnim točkicama.",
+      "savjet": "Sjeti se malog kukca kojeg djeca često puštaju da im puže po ruci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto livadno cvijeće ima šarene i mirisne cvjetove?",
+      "ponudeni": [
+        "Da otjera kukce s livade",
+        "Da brže upija vodu iz tla",
+        "Da se zaštiti od hladnoće",
+        "Da privuče kukce koji ga oprašuju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Šarene boje i miris privlače pčele i leptire. Oni pritom prenose pelud i oprašuju cvjetove.",
+      "savjet": "Razmisli tko sve dolazi na cvijet i zašto je to cvijetu korisno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-032",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se livada razlikuje od pašnjaka?",
+      "ponudeni": [
+        "Livada se kosi, a na pašnjaku pasu životinje",
+        "Na livadi ne raste trava, a na pašnjaku raste",
+        "Livada je u šumi, a pašnjak uz more",
+        "Livada je uvijek pod vodom, a pašnjak nije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Livada je travnjak koji se kosi radi sijena, a pašnjak je travnjak na kojem pasu domaće životinje.",
+      "savjet": "Sjeti se što se radi na kojem travnjaku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-033",
+      "tezina": "srednje",
+      "pitanje": "Kako pčela pomaže biljkama na livadi?",
+      "ponudeni": [
+        "Rahli tlo oko korijena",
+        "Prenosi pelud i oprašuje cvjetove",
+        "Donosi vodu korijenu",
+        "Jede štetne biljke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pčela prenosi pelud s cvijeta na cvijet. Tako oprašuje cvjetove pa iz njih mogu nastati plodovi.",
+      "savjet": "Sjeti se što se događa s peludi dok pčela leti s cvijeta na cvijet."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-034",
+      "tezina": "srednje",
+      "pitanje": "Zašto je oprašivanje važno za biljke livade?",
+      "ponudeni": [
+        "Nakon oprašivanja biljci naraste novi korijen",
+        "Nakon oprašivanja stabljika postane drvenasta",
+        "Nakon oprašivanja iz cvijeta nastaje plod sa sjemenkama",
+        "Nakon oprašivanja listovi postanu zeleniji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iz oprašenog cvijeta nastaje plod sa sjemenkama, a iz sjemenki rastu nove biljke.",
+      "savjet": "Sjeti se iz kojeg dijela biljke nastaje plod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-035",
+      "tezina": "srednje",
+      "pitanje": "Kako gujavica pomaže travnjaku?",
+      "ponudeni": [
+        "Rahli tlo pa zrak i voda lakše dolaze do korijena",
+        "Oprašuje cvjetove livade",
+        "Lovi kukce koji jedu travu",
+        "Stvara hranu uz pomoć Sunčeve svjetlosti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gujavica kopa hodnike i rahli tlo. Kroz rahlo tlo zrak i voda lakše dolaze do korijena biljaka.",
+      "savjet": "Razmisli što hodnici u tlu omogućuju korijenu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-036",
+      "tezina": "srednje",
+      "pitanje": "Čemu služi sijeno?",
+      "ponudeni": [
+        "Od njega se grade zidovi kuća",
+        "Njime se hrane ribe u ribnjaku",
+        "Koristi se za zalijevanje vrta",
+        "Zimi je hrana kravama, ovcama i konjima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sijeno je osušena trava. Zimi, kad nema svježe trave, njime se hrane domaće životinje.",
+      "savjet": "Razmisli što krave jedu kad je livada pod snijegom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-037",
+      "tezina": "srednje",
+      "pitanje": "Orao lovi zečeve na otvorenim travnjacima. Kako zovemo životinje koje se hrane drugim životinjama?",
+      "ponudeni": [
+        "Biljojedi",
+        "Mesojedi",
+        "Svejedi",
+        "Proizvođači"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Životinje koje se hrane drugim životinjama zovu se mesojedi. Orao je mesojed.",
+      "savjet": "Sjeti se čime se orao hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-038",
+      "tezina": "srednje",
+      "pitanje": "Zašto krtica većinu života provodi pod zemljom?",
+      "ponudeni": [
+        "Pod zemljom ima više svjetla",
+        "Pod zemljom raste trava kojom se hrani",
+        "U tlu pronalazi hranu, npr. gujavice",
+        "U tlu se skriva od kiše jer ne podnosi vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krtica u tlu kopa hodnike i u njima lovi gujavice i ličinke kukaca.",
+      "savjet": "Sjeti se koje još životinje žive u tlu travnjaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-039",
+      "tezina": "srednje",
+      "pitanje": "Koja životinja dovršava hranidbeni lanac trava → zec → … ?",
+      "ponudeni": [
+        "Lisica",
+        "Krava",
+        "Skakavac",
+        "Djetelina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zec jede travu, a lisica lovi zeca. Krava i skakavac jedu biljke, a djetelina je biljka.",
+      "savjet": "Potraži životinju koja lovi zeca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-040",
+      "tezina": "srednje",
+      "pitanje": "U hranidbenom lancu trava → skakavac → ptica, koju ulogu ima trava?",
+      "ponudeni": [
+        "Potrošač",
+        "Razlagač",
+        "Mesojed",
+        "Proizvođač"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trava je zelena biljka koja sama stvara hranu, zato je proizvođač.",
+      "savjet": "Sjeti se kojim živim bićem počinje svaki hranidbeni lanac."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-041",
+      "tezina": "srednje",
+      "pitanje": "Što biljkama travnjaka daje Sunce?",
+      "ponudeni": [
+        "Vodu i tlo",
+        "Svjetlost i toplinu",
+        "Hranjive tvari iz tla",
+        "Zrak i kišu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sunce biljkama daje svjetlost i toplinu. Bez svjetlosti biljke ne mogu stvarati hranu.",
+      "savjet": "Razmisli što osjetiš kad stojiš na suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-042",
+      "tezina": "srednje",
+      "pitanje": "Zašto biljkama na travnjaku treba Sunčeva svjetlost?",
+      "ponudeni": [
+        "Svjetlost im pomaže da upijaju sol",
+        "Svjetlost tjera kukce s cvjetova",
+        "Uz pomoć svjetlosti u listu stvaraju hranu",
+        "Svjetlost im daje vodu za rast"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz pomoć Sunčeve svjetlosti biljka u listu stvara hranu.",
+      "savjet": "Sjeti se koji dio biljke stvara hranu i što mu za to treba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-043",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s travom kad za sušnog ljeta dugo ne pada kiša?",
+      "ponudeni": [
+        "Vene i žuti",
+        "Postaje zelenija",
+        "Cvjeta više nego inače",
+        "Raste brže"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bez vode trava vene i žuti jer korijen nema što upijati iz tla.",
+      "savjet": "Sjeti se što se dogodi s biljkom u tegli koju dugo ne zalijevaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto pčele i leptiri slijeću na cvjetove?",
+      "ponudeni": [
+        "Traže sjemenke za zimske zalihe",
+        "Polažu jaja u korijen biljke",
+        "Skrivaju se od kiše",
+        "Uzimaju nektar kojim se hrane"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pčele i leptiri hrane se slatkim nektarom iz cvjetova.",
+      "savjet": "Sjeti se slatkog soka u cvijetu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-045",
+      "tezina": "srednje",
+      "pitanje": "Kako maslačak raznosi svoje sjemenke?",
+      "ponudeni": [
+        "Pčele ih nose u košnicu",
+        "Vjetar nosi sjemenke s „padobranima“",
+        "Gujavice ih zakopavaju u tlo",
+        "Kiša ih ispire u rijeku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plodovi maslačka imaju sitne „padobrane“ pa ih vjetar odnosi daleko od biljke.",
+      "savjet": "Sjeti se što se dogodi kad puhneš u bijelu kuglicu maslačka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-046",
+      "tezina": "srednje",
+      "pitanje": "Kojoj skupini prema prehrani pripada krava koja pase na pašnjaku?",
+      "ponudeni": [
+        "Mesojedi",
+        "Svejedi",
+        "Biljojedi",
+        "Razlagači"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krava se hrani travom i drugim biljkama pa je biljojed.",
+      "savjet": "Sjeti se čime se krava hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-047",
+      "tezina": "srednje",
+      "pitanje": "Skakavac jede travu. Kojoj skupini u hranidbenom lancu pripada?",
+      "ponudeni": [
+        "Potrošači",
+        "Proizvođači",
+        "Razlagači",
+        "Zelene biljke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Skakavac je životinja koja jede biljke pa je potrošač.",
+      "savjet": "Proizvođači sami stvaraju hranu. Može li to skakavac?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-048",
+      "tezina": "srednje",
+      "pitanje": "Što razgrađuje ostatke uginulih biljaka i životinja na travnjaku?",
+      "ponudeni": [
+        "Pčele i leptiri",
+        "Zečevi i krtice",
+        "Trave i djetelina",
+        "Gljive i bakterije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gljive i bakterije su razlagači. One razgrađuju ostatke biljaka i životinja.",
+      "savjet": "Sjeti se koja skupina u prirodi radi kao „čistači“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-049",
+      "tezina": "srednje",
+      "pitanje": "Koji sloj biljaka prevladava na travnjaku?",
+      "ponudeni": [
+        "Sloj drveća",
+        "Sloj zeljastih biljaka",
+        "Sloj grmlja",
+        "Sloj krošanja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na travnjaku prevladavaju trave i livadno cvijeće, a to su zeljaste biljke.",
+      "savjet": "Sjeti se kakvu stabljiku imaju trave i maslačak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-050",
+      "tezina": "srednje",
+      "pitanje": "Kako se zec brani od neprijatelja na otvorenom travnjaku?",
+      "ponudeni": [
+        "Uvlači se u oklop",
+        "Odleti na drvo",
+        "Brzo trči i skače u stranu",
+        "Zaroni u vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zec ima snažne stražnje noge pa brzo trči i naglo mijenja smjer.",
+      "savjet": "Sjeti se po čemu je zec poznat."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-051",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko kravi, ovci i kozi na pašnjaku?",
+      "ponudeni": [
+        "Sve pasu travu i biljojedi su",
+        "Sve love druge životinje",
+        "Sve su divlje životinje",
+        "Sve su proizvođači"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krava, ovca i koza domaće su životinje koje pasu travu, dakle biljojedi.",
+      "savjet": "Sjeti se čime se te životinje hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-052",
+      "tezina": "srednje",
+      "pitanje": "Što pčela dobiva od cvijeta, a što cvijet dobiva od pčele?",
+      "ponudeni": [
+        "Pčela dobiva vodu, a cvijet dobiva med",
+        "Pčela dobiva sjemenke, a cvijet dobiva korijen",
+        "Pčela dobiva list, a cvijet dobiva pelud iz košnice",
+        "Pčela dobiva nektar, a cvijet biva oprašen"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pčela iz cvijeta uzima nektar za hranu, a pritom prenosi pelud i oprašuje cvijet. Tako koriste jedno drugome.",
+      "savjet": "Razmisli zašto pčela leti na cvijet i što pritom nosi na sebi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-053",
+      "tezina": "srednje",
+      "pitanje": "Koja je od navedenih životinja svejed?",
+      "ponudeni": [
+        "Zec",
+        "Vrana",
+        "Krava",
+        "Ovca"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrana se hrani i biljkama i životinjama pa je svejed. Zec, krava i ovca su biljojedi.",
+      "savjet": "Svejed jede i biljnu i životinjsku hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto se pokošena trava ostavlja nekoliko dana na suncu?",
+      "ponudeni": [
+        "Da ponovno naraste",
+        "Da u njoj procvjetaju cvjetovi",
+        "Da se osuši i postane sijeno",
+        "Da je pojedu gujavice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pokošena trava suši se na suncu i postaje sijeno koje se može dugo čuvati.",
+      "savjet": "Sjeti se po čemu se sijeno razlikuje od svježe trave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-055",
+      "tezina": "srednje",
+      "pitanje": "Zašto livada u proljeće izgleda šareno?",
+      "ponudeni": [
+        "Procvjeta livadno cvijeće različitih boja",
+        "Na nju padne šareno lišće s drveća",
+        "Ljudi je oboje za blagdane",
+        "Na njoj se suši šareno sijeno"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U proljeće procvjetaju maslačak, tratinčica, djetelina i drugo cvijeće pa je livada šarena.",
+      "savjet": "Sjeti se što se u proljeće pojavljuje na biljkama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-056",
+      "tezina": "srednje",
+      "pitanje": "Što znači strelica u hranidbenom lancu trava → zec?",
+      "ponudeni": [
+        "Trava jede zeca",
+        "Zec i trava se ne susreću",
+        "Trava raste iz zeca",
+        "Zec jede travu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strelica pokazuje tko kome služi kao hrana: trava je hrana zecu.",
+      "savjet": "Sjeti se čime se zec hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-057",
+      "tezina": "srednje",
+      "pitanje": "Zašto je kiša važna za travnjak?",
+      "ponudeni": [
+        "Kiša tjera kukce s livade",
+        "Biljke korijenom upijaju vodu iz tla",
+        "Kiša hladi Sunce",
+        "Kiša odnosi tlo s livade"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kiša natapa tlo, a biljke korijenom upijaju vodu koja im je potrebna za život.",
+      "savjet": "Sjeti se koji dio biljke upija vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-058",
+      "tezina": "srednje",
+      "pitanje": "Što je na travnjaku neživa priroda?",
+      "ponudeni": [
+        "Trave i livadno cvijeće",
+        "Kukci i ptice",
+        "Tlo, voda, zrak i svjetlost",
+        "Zec i krtica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tlo, voda, zrak i svjetlost neživa su priroda. Oni su životni uvjeti za biljke i životinje.",
+      "savjet": "Nešto od toga ne raste, ne hrani se i ne razmnožava se."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-059",
+      "tezina": "srednje",
+      "pitanje": "Što se zimi događa s travom na livadi?",
+      "ponudeni": [
+        "Prestaje rasti, a korijen ostaje živ u tlu",
+        "Raste brže nego ljeti",
+        "Cvjeta ispod snijega",
+        "Nestaje zajedno s korijenom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zimi je hladno pa trava prestaje rasti, ali korijen u tlu ostaje živ i u proljeće ponovno potjera.",
+      "savjet": "Razmisli zašto livada u proljeće ponovno ozeleni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-060",
+      "tezina": "srednje",
+      "pitanje": "Zašto na livadi živi mnogo kukaca?",
+      "ponudeni": [
+        "Ondje je stalna sjena visokog drveća",
+        "Ondje nema Sunčeve svjetlosti",
+        "Ondje uvijek pada snijeg",
+        "Ima mnogo cvjetova i biljaka kojima se hrane"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na livadi ima mnogo biljaka i cvjetova pa kukci ondje lako pronalaze hranu.",
+      "savjet": "Razmisli čime se hrane pčele, leptiri i skakavci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-061",
+      "tezina": "tesko",
+      "pitanje": "Učenik kaže: „Hranidbeni lanac na livadi može početi zecom.“ Zašto to nije točno?",
+      "ponudeni": [
+        "Zec je razlagač, a lanac počinje mesojedom",
+        "Zec ne živi na livadi",
+        "Zec je potrošač, a lanac počinje zelenom biljkom",
+        "Lanac uvijek počinje najvećom životinjom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svaki hranidbeni lanac počinje zelenom biljkom koja sama stvara hranu. Zec jede biljke pa je potrošač.",
+      "savjet": "Sjeti se tko u prirodi sam stvara hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-062",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo s livadom kad je ljudi godinama ne bi kosili niti bi na njoj pasle životinje?",
+      "ponudeni": [
+        "Postupno bi zarasla u grmlje i drveće",
+        "Pretvorila bi se u more",
+        "Trava bi nestala i ostalo bi golo tlo",
+        "Na njoj bi rasle samo alge"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bez košnje i ispaše na livadi počnu rasti grmovi i drveće pa ona postupno zaraste.",
+      "savjet": "Razmisli što košnja sprječava da naraste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-063",
+      "tezina": "tesko",
+      "pitanje": "U lancu trava → zec → lisica nestanu svi zečevi. Što će se dogoditi?",
+      "ponudeni": [
+        "Trava će prestati rasti",
+        "Lisice će teže pronaći hranu",
+        "Lisice će početi pasti travu",
+        "Ništa se neće promijeniti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lisice ostaju bez zečeva kojima su se hranile pa teže pronalaze hranu. Karike lanca ovise jedna o drugoj.",
+      "savjet": "Razmisli tko je ostao bez hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-064",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo s livadnim cvijećem kad bi nestale pčele i drugi oprašivači?",
+      "ponudeni": [
+        "Cvijeće bi raslo brže i cvjetalo dulje",
+        "Cvjetovi bi postali veći i mirisniji",
+        "Nastalo bi više plodova i sjemenki",
+        "Manje cvjetova bilo bi oprašeno pa bi nastalo manje sjemenki"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bez oprašivača cvjetovi ne bi bili oprašeni, pa bi nastalo manje plodova i sjemenki i manje novih biljaka.",
+      "savjet": "Sjeti se što je potrebno da iz cvijeta nastane plod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-065",
+      "tezina": "tesko",
+      "pitanje": "Koja životinja nedostaje u hranidbenom lancu djetelina → … → orao?",
+      "ponudeni": [
+        "Vuk",
+        "Ris",
+        "Zec",
+        "Krava"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zec jede djetelinu, a orao lovi zeca. Vuk i ris ne jedu djetelinu, a orao ne lovi kravu.",
+      "savjet": "Potraži životinju koja jede biljke, a dovoljno je malena da je orao ulovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-066",
+      "tezina": "tesko",
+      "pitanje": "Učenik je napisao lanac skakavac → trava → ptica. Kako glasi ispravan lanac?",
+      "ponudeni": [
+        "trava → skakavac → ptica",
+        "ptica → skakavac → trava",
+        "skakavac → ptica → trava",
+        "trava → ptica → skakavac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lanac počinje travom, skakavac jede travu, a ptica jede skakavca.",
+      "savjet": "Najprije odredi kojim živim bićem lanac mora početi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-067",
+      "tezina": "tesko",
+      "pitanje": "Pokošena trava ostavljena je da se suši, ali danima pada kiša. Što je problem?",
+      "ponudeni": [
+        "Trava će ponovno narasti u stog",
+        "Trava se neće osušiti pa neće biti dobrog sijena",
+        "Kiša će travu pretvoriti u sijeno brže",
+        "Pčele će odnijeti mokru travu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za sijeno trava se mora osušiti na suncu. Mokra trava ne postaje dobro sijeno.",
+      "savjet": "Razmisli što je potrebno da svježa trava postane sijeno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-068",
+      "tezina": "tesko",
+      "pitanje": "Na kojem će dijelu travnjaka trava najslabije rasti?",
+      "ponudeni": [
+        "Na sunčanom, otvorenom dijelu",
+        "Na mjestu gdje ima dovoljno vode",
+        "Na rahlom tlu punom gujavica",
+        "Na mjestu u stalnoj sjeni velikog stabla"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trava treba mnogo svjetla. U stalnoj sjeni ne dobiva dovoljno svjetlosti za stvaranje hrane.",
+      "savjet": "Sjeti se koji je životni uvjet travnjaka posebno važan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-069",
+      "tezina": "tesko",
+      "pitanje": "Iz tla jednog travnjaka nestale su sve gujavice. Što će se dogoditi s tlom?",
+      "ponudeni": [
+        "Postat će slano kao morska voda",
+        "Postat će rahlije nego prije",
+        "Postat će zbijenije pa će zrak i voda teže dolaziti do korijena",
+        "Na njemu će odmah izrasti šuma"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gujavice rahle tlo. Bez njih tlo postaje zbijenije i korijenu teže dolaze zrak i voda.",
+      "savjet": "Sjeti se kako gujavica pomaže tlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-070",
+      "tezina": "tesko",
+      "pitanje": "Na livadi su nestali skakavci. Kojoj bi životinji to najviše naštetilo?",
+      "ponudeni": [
+        "Ptici koja se hrani skakavcima",
+        "Kravi koja pase travu",
+        "Zecu koji jede djetelinu",
+        "Pčeli koja skuplja nektar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ptica koja jede skakavce ostala bi bez dijela hrane. Krava, zec i pčela ne hrane se skakavcima.",
+      "savjet": "Razmisli kome je skakavac hrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-071",
+      "tezina": "tesko",
+      "pitanje": "Krava pase travu, a čovjek pije kravlje mlijeko. Koji lanac to prikazuje?",
+      "ponudeni": [
+        "čovjek → krava → trava",
+        "trava → krava → čovjek",
+        "krava → trava → čovjek",
+        "trava → čovjek → krava"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trava je hrana kravi, a krava daje hranu čovjeku. Lanac počinje zelenom biljkom.",
+      "savjet": "Strelica pokazuje tko kome služi kao hrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-072",
+      "tezina": "tesko",
+      "pitanje": "Zašto je na livadi u proljeće mnogo više pčela i leptira nego zimi?",
+      "ponudeni": [
+        "Zimi na livadi ima previše cvijeća",
+        "U proljeće je livada pod snijegom",
+        "Zimi pčele i leptiri traže hranu na moru",
+        "U proljeće cvjeta cvijeće pa imaju hrane"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U proljeće livadno cvijeće cvjeta i daje nektar, a zimi cvjetova nema.",
+      "savjet": "Razmisli čime se pčele i leptiri hrane i kada toga ima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-073",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko zecu, pužu i kravi u hranidbenom lancu travnjaka?",
+      "ponudeni": [
+        "Svi sami stvaraju hranu",
+        "Svi se hrane drugim životinjama",
+        "Svi se hrane biljkama",
+        "Svi razgrađuju ostatke uginulih bića"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zec, puž i krava jedu biljke, dakle biljojedi su i potrošači u lancu.",
+      "savjet": "Sjeti se čime se hrani svaka od tih životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-074",
+      "tezina": "tesko",
+      "pitanje": "Zašto travnjak nazivamo životnom zajednicom?",
+      "ponudeni": [
+        "Biljke i životinje na njemu žive zajedno i ovise jedne o drugima",
+        "Na njemu žive samo životinje iste vrste",
+        "Ljudi su ga zasadili za svoje potrebe",
+        "Na njemu nema nežive prirode"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na travnjaku biljke i životinje žive zajedno na istom staništu i ovise jedne o drugima.",
+      "savjet": "Razmisli trebaju li pčela i cvijet, zec i trava jedni druge."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-075",
+      "tezina": "tesko",
+      "pitanje": "Učenici žele napraviti herbarij livadnog cvijeća. Kako to trebaju učiniti?",
+      "ponudeni": [
+        "Ubrati što više cvijeća s korijenjem i spremiti ga u vrećicu",
+        "Ubrati po jednu čestu biljku, osušiti je, prešati i napisati ime, mjesto i datum",
+        "Ubrati zaštićene biljke jer su rijetke i zanimljive",
+        "Staviti svježe cvijeće u kutiju bez ikakvih natpisa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Herbarij je zbirka osušenih i prešanih biljaka s natpisom. Bere se samo malo čestih biljaka, a nikad zaštićene.",
+      "savjet": "Sjeti se kako se biljka čuva u zbirci i što na njoj mora pisati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-076",
+      "tezina": "tesko",
+      "pitanje": "Zašto pčelari rado postavljaju košnice blizu livada punih cvijeća?",
+      "ponudeni": [
+        "Na livadi pčele ne trebaju vodu",
+        "Livadno cvijeće štiti košnice od kiše",
+        "Pčele ondje jedu travu i sijeno",
+        "Pčele ondje nađu mnogo nektara pa naprave više meda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Livadno cvijeće daje pčelama mnogo nektara od kojeg nastaje med. Pritom pčele oprašuju cvijeće.",
+      "savjet": "Razmisli od čega pčele rade med."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-077",
+      "tezina": "tesko",
+      "pitanje": "Trava na livadi nakon košnje ponovno naraste. Zašto?",
+      "ponudeni": [
+        "Korijen je ostao u tlu pa biljka ponovno raste",
+        "Pčele su je ponovno posadile",
+        "Sijeno se vratilo na livadu",
+        "Gujavice su je izvukle iz tla"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Košnjom se odreže samo dio iznad tla. Korijen ostaje živ u tlu pa trava ponovno naraste.",
+      "savjet": "Razmisli koji dio biljke košnja ne dira."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-078",
+      "tezina": "tesko",
+      "pitanje": "Skakavac je zelene boje. Kako mu to pomaže na travnjaku?",
+      "ponudeni": [
+        "Zelena boja mu pomaže da stvara hranu",
+        "Zelena boja privlači ptice da ga pojedu",
+        "Teže ga je uočiti u travi pa se lakše skrije od ptica",
+        "Zelena boja ga grije zimi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zeleni skakavac stapa se s travom pa ga ptice teže uoče.",
+      "savjet": "Razmisli kako izgleda zelen kukac u zelenoj travi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-079",
+      "tezina": "tesko",
+      "pitanje": "Do tla kojeg staništa dopire više Sunčeve svjetlosti i zašto?",
+      "ponudeni": [
+        "Šume, jer drveće odbija svjetlost prema tlu",
+        "Travnjaka, jer na njemu nema krošanja visokog drveća",
+        "Šume, jer je drveće više od trave",
+        "Jednako do oba, jer Sunce sja jednako"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na travnjaku nema visokog drveća pa svjetlost dopire sve do tla. U šumi krošnje stvaraju sjenu.",
+      "savjet": "Zamisli kako je ljeti u šumi, a kako na otvorenoj livadi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-080",
+      "tezina": "tesko",
+      "pitanje": "Na mjestu livade izgrađeno je parkiralište. Što se događa sa životinjama koje su ondje živjele?",
+      "ponudeni": [
+        "Dobivaju više hrane",
+        "Lakše se skrivaju od neprijatelja",
+        "Ništa se za njih ne mijenja",
+        "Gube stanište i hranu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad nestane livada, životinje gube mjesto za život i biljke kojima su se hranile.",
+      "savjet": "Sjeti se što je stanište i što životinjama daje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-081",
+      "tezina": "tesko",
+      "pitanje": "Zašto se suha trava na livadama ne smije paliti?",
+      "ponudeni": [
+        "Vatra uništava biljke i životinje i može se proširiti",
+        "Vatra pomaže da trava brže naraste",
+        "Vatra privlači pčele i leptire",
+        "Dim gnoji tlo i hrani gujavice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Paljenjem trave stradaju biljke i životinje travnjaka, a vatra se lako proširi i postane opasna za ljude.",
+      "savjet": "Razmisli što se događa sa životinjama u travi kad gori."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-082",
+      "tezina": "tesko",
+      "pitanje": "Koji par živih bića na livadi pokazuje da si bića međusobno pomažu?",
+      "ponudeni": [
+        "Orao i zec",
+        "Krava i trava",
+        "Pčela i cvijet",
+        "Ptica i skakavac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pčela od cvijeta dobiva nektar, a cvijet biva oprašen. Koristi imaju oba. U ostalim parovima jedno je hrana drugome.",
+      "savjet": "Potraži par u kojem nitko nije pojeden."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-083",
+      "tezina": "tesko",
+      "pitanje": "Travnjak u dvorištu kosi se svaki tjedan. Zašto na njemu ima manje cvijeća nego na livadi?",
+      "ponudeni": [
+        "Na dvorištu nema Sunčeve svjetlosti",
+        "Česta košnja odreže biljke prije nego procvjetaju",
+        "Na dvorištu ne pada kiša",
+        "Cvijeće raste samo u šumi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad se trava kosi vrlo često, biljke ne stignu procvjetati.",
+      "savjet": "Razmisli koliko vremena treba biljci da procvjeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-084",
+      "tezina": "tesko",
+      "pitanje": "Vrana jede skakavce, ali i sjemenke. Kojoj skupini prema prehrani pripada?",
+      "ponudeni": [
+        "Biljojedi",
+        "Mesojedi",
+        "Proizvođači",
+        "Svejedi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrana jede i životinje i dijelove biljaka pa je svejed.",
+      "savjet": "Razmisli jede li vrana samo biljke, samo životinje ili oboje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-085",
+      "tezina": "tesko",
+      "pitanje": "Zašto je livada važna i ljudima?",
+      "ponudeni": [
+        "Daje sijeno i ispašu za stoku, a pčele s nje skupljaju nektar za med",
+        "Na njoj se siječe drvo za ogrjev",
+        "Iz nje se dobiva morska sol",
+        "Na njoj se lovi riba"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Livada daje hranu domaćim životinjama, a pčele s livadnog cvijeća skupljaju nektar za med.",
+      "savjet": "Sjeti se što ljudi dobivaju košnjom i od pčela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-086",
+      "tezina": "tesko",
+      "pitanje": "Na pašnjaku predugo pase previše ovaca. Što se može dogoditi?",
+      "ponudeni": [
+        "Trava će narasti viša nego prije",
+        "Na pašnjaku će izrasti šuma",
+        "Pojest će travu do tla pa će ostati golo tlo",
+        "Ovce će početi jesti kukce umjesto trave"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Previše ovaca pojede travu do samog tla. Trava se ne stigne obnoviti pa ostaju gola mjesta.",
+      "savjet": "Razmisli stigne li trava ponovno narasti ako je stalno netko jede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-087",
+      "tezina": "tesko",
+      "pitanje": "Livada je dugo bila bez kiše. Kako to utječe na zečeve koji ondje žive?",
+      "ponudeni": [
+        "Imaju više hrane nego inače",
+        "Teže pronalaze svježu travu za hranu",
+        "Postaju mesojedi",
+        "Ništa se za njih ne mijenja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bez kiše trava vene pa zečevi, koji se hrane biljkama, teže pronalaze hranu.",
+      "savjet": "Razmisli što suša čini travi i tko se travom hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-088",
+      "tezina": "tesko",
+      "pitanje": "Djeca su na livadi ugledala zeca. Kako je najbolje postupiti?",
+      "ponudeni": [
+        "Pokušati ga uhvatiti i odnijeti kući",
+        "Potrčati za njim da vide koliko je brz",
+        "Ponuditi mu hranu iz ruke",
+        "Promatrati ga izdaleka i ne uznemiravati ga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Divlje životinje promatramo izdaleka i ne uznemiravamo ih, ne hvatamo ih i ne hranimo.",
+      "savjet": "Razmisli kako bi se zec osjećao kad bi ga netko progonio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-089",
+      "tezina": "tesko",
+      "pitanje": "Na kojoj će livadi biti najviše leptira?",
+      "ponudeni": [
+        "Na livadi punoj cvijeća koja se ne prska otrovima",
+        "Na tek pokošenoj livadi bez cvjetova",
+        "Na livadi poprskanoj sredstvom protiv kukaca",
+        "Na livadi prekrivenoj snijegom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Leptiri se hrane nektarom iz cvjetova, a otrovi protiv kukaca ih ubijaju.",
+      "savjet": "Razmisli što leptiru treba za hranu i što mu šteti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-travnjak-090",
+      "tezina": "tesko",
+      "pitanje": "Što se događa nakon što pčela opraši cvijet djeteline?",
+      "ponudeni": [
+        "Cvijet se odmah pretvori u novu biljku",
+        "Iz cvijeta naraste novi korijen",
+        "Iz cvijeta nastaje plod sa sjemenkama, a iz sjemenki nove biljke",
+        "Cvijet se pretvori u list"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iz oprašenog cvijeta razvije se plod sa sjemenkama. Iz sjemenki izrastu nove biljke djeteline.",
+      "savjet": "Sjeti se redoslijeda: cvijet, plod, sjemenka."
+    }
+  ]
+}

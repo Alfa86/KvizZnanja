@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "zivotinje",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju životinje koje čovjek uzgaja i koje mu daju hranu ili mu pomažu u radu?",
+      "ponudeni": [
+        "Divlje životinje",
+        "Domaće životinje",
+        "Morske životinje",
+        "Šumske životinje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Domaće životinje uzgaja čovjek i brine se za njih. One mu daju hranu (mlijeko, jaja, meso) ili mu pomažu u radu.",
+      "savjet": "Sjeti se gdje te životinje žive: u prirodi ili uz čovjekov dom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju životinje koje žive slobodno u prirodi i same pronalaze hranu?",
+      "ponudeni": [
+        "Domaće životinje",
+        "Kućni ljubimci",
+        "Divlje životinje",
+        "Životinje s farme"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Divlje životinje žive slobodno u prirodi, primjerice u šumi, i same se brinu za hranu i zaklon.",
+      "savjet": "Razmisli brine li se netko o tim životinjama ili se snalaze same."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-003",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja domaća životinja?",
+      "ponudeni": [
+        "Krava",
+        "Vuk",
+        "Srna",
+        "Lisica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kravu uzgaja čovjek zbog mlijeka i mesa pa je ona domaća životinja. Vuk, srna i lisica žive slobodno u šumi.",
+      "savjet": "Potraži životinju koja živi u štali na seoskom imanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-004",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja divlja životinja?",
+      "ponudeni": [
+        "Ovca",
+        "Kokoš",
+        "Konj",
+        "Jelen"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jelen živi slobodno u šumi i sam pronalazi hranu pa je divlja životinja. Ovcu, kokoš i konja uzgaja čovjek.",
+      "savjet": "Odaberi životinju koju možeš sresti u šumi, a ne na seoskom imanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-005",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja kućni ljubimac?",
+      "ponudeni": [
+        "Medvjed",
+        "Mačka",
+        "Vuk",
+        "Srna"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mačka često živi s ljudima u kući kao kućni ljubimac. Medvjed, vuk i srna divlje su životinje.",
+      "savjet": "Sjeti se koja od tih životinja može živjeti u stanu s obitelji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju životinje koje se hrane samo biljkama?",
+      "ponudeni": [
+        "Mesojedi",
+        "Svejedi",
+        "Biljojedi",
+        "Razlagači"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljojedi se hrane samo biljkama: travom, lišćem, plodovima ili sjemenkama.",
+      "savjet": "Naziv skupine sastoji se od dviju riječi: što životinja jede i glagola „jesti“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju životinje koje se hrane drugim životinjama?",
+      "ponudeni": [
+        "Mesojedi",
+        "Biljojedi",
+        "Svejedi",
+        "Proizvođači"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mesojedi se hrane drugim životinjama, odnosno njihovim mesom.",
+      "savjet": "Razmisli što dobivamo od životinje kad je netko pojede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju životinje koje se hrane i biljkama i životinjama?",
+      "ponudeni": [
+        "Biljojedi",
+        "Mesojedi",
+        "Proizvođači",
+        "Svejedi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svejedi jedu i biljnu i životinjsku hranu, kao čovjek, svinja i medvjed.",
+      "savjet": "Naziv govori da takva životinja jede gotovo svu hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-009",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja biljojed?",
+      "ponudeni": [
+        "Vuk",
+        "Sova",
+        "Ovca",
+        "Orao"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ovca pase travu i hrani se samo biljkama pa je biljojed. Vuk, sova i orao love druge životinje.",
+      "savjet": "Sjeti se koja od tih životinja pase na livadi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-010",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja mesojed?",
+      "ponudeni": [
+        "Ris",
+        "Koza",
+        "Konj",
+        "Srna"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ris je divlja mačka koja lovi druge životinje pa je mesojed. Koza, konj i srna hrane se biljkama.",
+      "savjet": "Potraži životinju koja lovi druge životinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-011",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih životinja svejed?",
+      "ponudeni": [
+        "Krava",
+        "Svinja",
+        "Zec",
+        "Jelen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svinja jede i biljnu i životinjsku hranu pa je svejed. Krava, zec i jelen jedu samo biljke.",
+      "savjet": "Potraži životinju koja jede gotovo sve što joj se ponudi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-012",
+      "tezina": "lagano",
+      "pitanje": "Što čovjek dobiva od kokoši?",
+      "ponudeni": [
+        "Vunu",
+        "Mlijeko",
+        "Jaja",
+        "Med"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kokoš nese jaja, a čovjek je uzgaja i zbog mesa.",
+      "savjet": "Sjeti se što se svako jutro može pronaći u kokošinjcu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-013",
+      "tezina": "lagano",
+      "pitanje": "Od koje domaće životinje čovjek dobiva vunu?",
+      "ponudeni": [
+        "Od svinje",
+        "Od kokoši",
+        "Od konja",
+        "Od ovce"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ovca ima gusto runo koje se striže. Od te vune izrađuju se topli džemperi i čarape.",
+      "savjet": "Sjeti se koja domaća životinja ima gusto, kovrčavo runo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-014",
+      "tezina": "lagano",
+      "pitanje": "Koja nam od navedenih životinja daje mlijeko?",
+      "ponudeni": [
+        "Kokoš",
+        "Krava",
+        "Hrčak",
+        "Papiga"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krava je domaća životinja koju čovjek uzgaja zbog mlijeka. Od mlijeka se rade sir, jogurt i maslac.",
+      "savjet": "Sjeti se životinje koja živi u štali i koju seljak muze."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-015",
+      "tezina": "lagano",
+      "pitanje": "Gdje žive divlje životinje?",
+      "ponudeni": [
+        "U štali i obori uz kuću",
+        "U stanovima kao ljubimci",
+        "Slobodno u prirodi",
+        "U kokošinjcu na imanju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Divlje životinje žive slobodno u prirodi, u šumama, na livadama, u rijekama i moru.",
+      "savjet": "Sjeti se brine li se čovjek o divljim životinjama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-016",
+      "tezina": "lagano",
+      "pitanje": "Koja se životinja drži kao kućni ljubimac u akvariju?",
+      "ponudeni": [
+        "Zlatna ribica",
+        "Morski pas",
+        "Hobotnica",
+        "Dobri dupin"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zlatna ribica česti je kućni ljubimac koji živi u akvariju. Ostale navedene životinje žive slobodno u moru.",
+      "savjet": "Odaberi malu životinju koja može živjeti u staklenoj posudi s vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-017",
+      "tezina": "lagano",
+      "pitanje": "Koja se od navedenih životinja hrani travom?",
+      "ponudeni": [
+        "Vuk",
+        "Konj",
+        "Ris",
+        "Orao"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Konj pase travu i jede sijeno pa je biljojed. Vuk, ris i orao love druge životinje.",
+      "savjet": "Sjeti se koja od tih životinja pase na livadi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-018",
+      "tezina": "lagano",
+      "pitanje": "Čime se hrani vuk?",
+      "ponudeni": [
+        "Travom i lišćem",
+        "Sjemenkama i žitom",
+        "Drugim životinjama",
+        "Korom drveća"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vuk je mesojed. Lovi druge životinje, primjerice srne i zečeve.",
+      "savjet": "Sjeti se kojoj skupini prema prehrani pripada vuk."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-019",
+      "tezina": "lagano",
+      "pitanje": "Čime se hrani srna?",
+      "ponudeni": [
+        "Travom, lišćem i pupovima",
+        "Ribama i rakovima",
+        "Kukcima i crvima",
+        "Mesom drugih životinja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srna je biljojed. Hrani se travom, lišćem, pupovima i mladim izdancima.",
+      "savjet": "Srna je biljojed, pa razmisli što od toga raste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-020",
+      "tezina": "lagano",
+      "pitanje": "Kojoj skupini prema načinu prehrane pripada čovjek?",
+      "ponudeni": [
+        "Biljojedima",
+        "Mesojedima",
+        "Svejedima",
+        "Razlagačima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čovjek jede i biljnu hranu (voće, povrće, kruh) i životinjsku hranu (meso, ribu, jaja) pa je svejed.",
+      "savjet": "Sjeti se što sve jedeš za ručak tijekom jednog tjedna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-021",
+      "tezina": "lagano",
+      "pitanje": "Što treba kućnom ljubimcu svaki dan?",
+      "ponudeni": [
+        "Samo nove igračke",
+        "Samo kupanje i četkanje",
+        "Samo jedna kratka šetnja",
+        "Hrana, svježa voda i briga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kućni ljubimac ovisi o čovjeku. Svaki mu dan treba dati hranu i svježu vodu, očistiti mu prostor i posvetiti mu pažnju.",
+      "savjet": "Razmisli što je svakom živom biću potrebno za život."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-022",
+      "tezina": "lagano",
+      "pitanje": "Koja domaća životinja pomaže čovjeku nositi terete i vući kola?",
+      "ponudeni": [
+        "Lisica",
+        "Zec",
+        "Srna",
+        "Konj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Konj je snažna domaća životinja. Nekad je vukao kola i plug, a i danas nosi jahače i terete.",
+      "savjet": "Potraži domaću životinju na kojoj se može jahati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-023",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo životinje koje ljudi drže u kući iz ljubavi i za društvo?",
+      "ponudeni": [
+        "Divlje životinje",
+        "Kućni ljubimci",
+        "Biljojedi",
+        "Šumske životinje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kućni ljubimci žive s ljudima u kući ili stanu, a ljudi ih drže za društvo i iz ljubavi.",
+      "savjet": "Naziv govori gdje te životinje žive i kako se prema njima odnosimo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-024",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih ptica mesojed?",
+      "ponudeni": [
+        "Vrana",
+        "Papiga",
+        "Sova",
+        "Kokoš"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sova noću lovi male životinje pa je mesojed.",
+      "savjet": "Sjeti se koja ptica noću lovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-025",
+      "tezina": "lagano",
+      "pitanje": "Koja se životinja hrani lišćem i nosi kućicu na leđima?",
+      "ponudeni": [
+        "Rak",
+        "Pauk",
+        "Mrav",
+        "Puž"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Puž nosi kućicu na leđima i hrani se lišćem pa je biljojed.",
+      "savjet": "Sjeti se životinje koja se polako kreće po vrtu nakon kiše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-026",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih životinja nije domaća životinja?",
+      "ponudeni": [
+        "Medvjed",
+        "Koza",
+        "Svinja",
+        "Kokoš"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Medvjed je divlja životinja koja živi u šumi. Kozu, svinju i kokoš uzgaja čovjek.",
+      "savjet": "Potraži životinju koju ne bi bilo sigurno držati na seoskom imanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-027",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih kućnih ljubimaca ptica?",
+      "ponudeni": [
+        "Papiga",
+        "Hrčak",
+        "Zlatna ribica",
+        "Mačka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Papiga je ptica: ima perje, kljun i krila. Mnogi je drže kao kućnog ljubimca.",
+      "savjet": "Sjeti se koji ljubimac ima perje i kljun."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-028",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih divljih životinja živi u šumama Hrvatske?",
+      "ponudeni": [
+        "Lav",
+        "Žirafa",
+        "Klokan",
+        "Medvjed"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Medvjed živi u šumama Gorskog kotara i Like. Lav, žirafa i klokan žive na drugim kontinentima.",
+      "savjet": "Isključi životinje koje žive u Africi i Australiji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-029",
+      "tezina": "lagano",
+      "pitanje": "Koji kućni ljubimac ima krzno i najčešće živi u kavezu?",
+      "ponudeni": [
+        "Papiga",
+        "Zlatna ribica",
+        "Puž",
+        "Hrčak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrčak je mala krznata životinja koju ljudi drže u kavezu kao kućnog ljubimca.",
+      "savjet": "Potraži malu životinju s krznom, a ne s perjem ili ljuskama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-030",
+      "tezina": "lagano",
+      "pitanje": "Tko se brine za domaće životinje?",
+      "ponudeni": [
+        "Čovjek koji ih uzgaja",
+        "Same se brinu za sebe",
+        "Divlje životinje iz šume",
+        "Nitko se ne brine za njih"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Domaće životinje uzgaja čovjek. On ih hrani, daje im vodu i gradi im nastambe.",
+      "savjet": "Sjeti se tko krave i kokoši hrani na seoskom imanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-031",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko kravi, ovci i kozi?",
+      "ponudeni": [
+        "Sve su divlji mesojedi",
+        "Sve su domaći biljojedi",
+        "Sve su divlji biljojedi",
+        "Sve su domaći svejedi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kravu, ovcu i kozu uzgaja čovjek, a sve tri pasu travu. Zato su domaće životinje i biljojedi.",
+      "savjet": "Razmisli o dvjema stvarima: tko se brine za te životinje i što one jedu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-032",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko vuku, risu i sovi?",
+      "ponudeni": [
+        "Svi su biljojedi",
+        "Svi su domaće životinje",
+        "Svi su mesojedi",
+        "Svi su kućni ljubimci"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vuk, ris i sova love druge životinje i hrane se njima, pa su mesojedi.",
+      "savjet": "Razmisli što te tri životinje rade kad su gladne."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-033",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo biljojedi?",
+      "ponudeni": [
+        "Zec, srna i jelen",
+        "Vuk, zec i ovca",
+        "Ris, koza i konj",
+        "Sova, puž i krava"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zec, srna i jelen hrane se samo biljkama. U ostalim nizovima ima mesojeda: vuk, ris i sova.",
+      "savjet": "Provjeri svaku životinju u nizu: lovi li druge životinje?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-034",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo svejedi?",
+      "ponudeni": [
+        "Krava, svinja i čovjek",
+        "Medvjed, vrana i svinja",
+        "Vuk, medvjed i vrana",
+        "Ovca, čovjek i vrana"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Medvjed, vrana i svinja jedu i biljnu i životinjsku hranu. Krava i ovca su biljojedi, a vuk je mesojed.",
+      "savjet": "U svakom nizu potraži životinju koja jede samo jednu vrstu hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-035",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo divlje životinje?",
+      "ponudeni": [
+        "Srna, kokoš i vuk",
+        "Krava, lisica i zec",
+        "Ovca, medvjed i konj",
+        "Jelen, lisica i medvjed"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jelen, lisica i medvjed žive slobodno u šumi. Kokoš, krava, ovca i konj domaće su životinje.",
+      "savjet": "U svakom nizu potraži životinju koju uzgaja čovjek."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-036",
+      "tezina": "srednje",
+      "pitanje": "Divlja svinja jede korijenje, žir, crve i male životinje. Kojoj skupini prema prehrani pripada?",
+      "ponudeni": [
+        "Biljojedima",
+        "Svejedima",
+        "Mesojedima",
+        "Proizvođačima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Divlja svinja jede i biljke (korijenje, žir) i životinje (crve, male životinje) pa je svejed.",
+      "savjet": "Razvrstaj njezinu hranu na onu od biljaka i onu od životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-037",
+      "tezina": "srednje",
+      "pitanje": "Zec prednjim zubima grize travu, lišće i koru. Kojoj skupini prema prehrani pripada?",
+      "ponudeni": [
+        "Mesojedima",
+        "Svejedima",
+        "Biljojedima",
+        "Razlagačima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zec se hrani samo dijelovima biljaka pa je biljojed.",
+      "savjet": "Provjeri potječe li sva njegova hrana od biljaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-038",
+      "tezina": "srednje",
+      "pitanje": "Orao ima oštre pandže i kukasti kljun. Za što mu služe?",
+      "ponudeni": [
+        "Za hvatanje i trganje plijena",
+        "Za kopanje korijenja",
+        "Za branje plodova s grana",
+        "Za pasenje trave"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Orao je mesojed. Pandžama hvata plijen, a kukastim kljunom kida meso.",
+      "savjet": "Sjeti se kojoj skupini prema prehrani pripada orao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-039",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se domaće životinje razlikuju od divljih?",
+      "ponudeni": [
+        "Domaće žive samo u šumi",
+        "Domaće same traže hranu",
+        "Domaće su sve mesojedi",
+        "Domaće uzgaja i hrani čovjek"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Domaće životinje uzgaja čovjek i brine se za njih, a divlje žive slobodno u prirodi i same se snalaze.",
+      "savjet": "Razmisli tko se brine za kokoš, a tko za lisicu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-040",
+      "tezina": "srednje",
+      "pitanje": "Zbog čega ljudi najčešće uzgajaju svinje?",
+      "ponudeni": [
+        "Zbog vune",
+        "Zbog mesa",
+        "Zbog jaja",
+        "Zbog mlijeka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svinje se uzgajaju zbog mesa, od kojega se rade i kobasice i šunka.",
+      "savjet": "Sjeti se od čega se rade šunka i kobasice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-041",
+      "tezina": "srednje",
+      "pitanje": "Koja je od navedenih životinja domaća životinja i biljojed?",
+      "ponudeni": [
+        "Svinja",
+        "Vuk",
+        "Medvjed",
+        "Koza"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kozu uzgaja čovjek i ona jede samo biljke. Svinja je domaća, ali je svejed, a vuk i medvjed divlje su životinje.",
+      "savjet": "Provjeri obje stvari: uzgaja li je čovjek i jede li samo biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-042",
+      "tezina": "srednje",
+      "pitanje": "Koja je od navedenih životinja divlja životinja i biljojed?",
+      "ponudeni": [
+        "Srna",
+        "Vuk",
+        "Konj",
+        "Medvjed"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srna živi slobodno u šumi i jede samo biljke. Konj je domaća životinja, vuk je mesojed, a medvjed svejed.",
+      "savjet": "Provjeri obje stvari: živi li slobodno u prirodi i jede li samo biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-043",
+      "tezina": "srednje",
+      "pitanje": "Koja je od navedenih životinja kućni ljubimac i mesojed?",
+      "ponudeni": [
+        "Ris",
+        "Krava",
+        "Mačka",
+        "Papiga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mačka živi s ljudima kao kućni ljubimac, a hrani se mesom pa je mesojed. Ris je također mesojed, ali je divlja životinja.",
+      "savjet": "Provjeri obje stvari: živi li s ljudima u kući i hrani li se mesom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-044",
+      "tezina": "srednje",
+      "pitanje": "Lisica, zec i srna žive u šumi bez pomoći čovjeka. Kako nazivamo te životinje?",
+      "ponudeni": [
+        "Domaće životinje",
+        "Kućni ljubimci",
+        "Biljojedi",
+        "Divlje životinje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Životinje koje žive slobodno u prirodi i same se brinu za sebe nazivamo divljim životinjama.",
+      "savjet": "Pitanje govori o tome gdje i kako žive, a ne o tome što jedu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-045",
+      "tezina": "srednje",
+      "pitanje": "Krava ima široke i plosnate zube. Za što su joj takvi zubi?",
+      "ponudeni": [
+        "Za trganje mesa",
+        "Za hvatanje riba",
+        "Za razbijanje oraha",
+        "Za mljevenje trave"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krava je biljojed. Širokim i plosnatim zubima melje travu i sijeno.",
+      "savjet": "Sjeti se čime se krava hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-046",
+      "tezina": "srednje",
+      "pitanje": "Od koje domaće životinje čovjek dobiva i jaja i meso?",
+      "ponudeni": [
+        "Od kokoši",
+        "Od krave",
+        "Od ovce",
+        "Od konja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kokoš nese jaja, a čovjek je uzgaja i zbog mesa.",
+      "savjet": "Sjeti se koja od tih životinja nese jaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-047",
+      "tezina": "srednje",
+      "pitanje": "Kojem kućnom ljubimcu treba akvarij?",
+      "ponudeni": [
+        "Hrčku",
+        "Papigi",
+        "Zlatnoj ribici",
+        "Mački"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zlatna ribica živi u vodi pa joj treba akvarij s čistom vodom.",
+      "savjet": "Akvarij je staklena posuda s vodom, pa razmisli tko živi u vodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-048",
+      "tezina": "srednje",
+      "pitanje": "Mačka lovi i jede male životinje. Kojoj skupini prema prehrani pripada?",
+      "ponudeni": [
+        "Biljojedima",
+        "Mesojedima",
+        "Svejedima",
+        "Proizvođačima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mačka se hrani drugim životinjama pa je mesojed.",
+      "savjet": "Razmisli od čega potječe hrana koju mačka ulovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-049",
+      "tezina": "srednje",
+      "pitanje": "Vrana jede sjemenke, plodove, kukce i ostatke hrane. Kojoj skupini prema prehrani pripada?",
+      "ponudeni": [
+        "Mesojedima",
+        "Biljojedima",
+        "Svejedima",
+        "Razlagačima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrana jede i biljnu hranu (sjemenke, plodove) i životinjsku (kukce) pa je svejed.",
+      "savjet": "Razvrstaj njezinu hranu na onu od biljaka i onu od životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-050",
+      "tezina": "srednje",
+      "pitanje": "Puž u vrtu jede listove salate. Kojoj skupini prema prehrani pripada?",
+      "ponudeni": [
+        "Svejedima",
+        "Mesojedima",
+        "Razlagačima",
+        "Biljojedima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Puž se hrani lišćem i drugim dijelovima biljaka pa je biljojed.",
+      "savjet": "Razmisli je li salata biljka ili životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-051",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja o kućnim ljubimcima točna?",
+      "ponudeni": [
+        "Ljubimci se brinu sami za sebe",
+        "Ljubimcu treba svaki dan dati hranu i vodu",
+        "Ljubimca je dobro hraniti slatkišima",
+        "Ljubimac smije biti ris iz šume"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kućni ljubimac ovisi o čovjeku. Svaki dan treba mu dati prikladnu hranu i svježu vodu.",
+      "savjet": "Razmisli o tome tko se brine za životinju koja živi u kući."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto divlju životinju ne smijemo odnijeti kući kao ljubimca?",
+      "ponudeni": [
+        "Jer pripada prirodi i ondje se sama snalazi",
+        "Jer divlje životinje ne trebaju hranu",
+        "Jer su sve divlje životinje biljojedi",
+        "Jer divlje životinje ne žive u Hrvatskoj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Divlja životinja pripada prirodi. Ondje pronalazi hranu i zaklon, a u kući ne bi mogla živjeti kako treba.",
+      "savjet": "Sjeti se gdje divlje životinje žive i tko se za njih brine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-053",
+      "tezina": "srednje",
+      "pitanje": "Koju korist ima čovjek od konja?",
+      "ponudeni": [
+        "Konj mu daje vunu i jaja",
+        "Konj mu čuva kuću od lopova",
+        "Konj mu daje med i vosak",
+        "Konj nosi terete i jahače"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Konj je snažna domaća životinja koja čovjeku pomaže u radu: nosi terete, vuče kola i nosi jahače.",
+      "savjet": "Sjeti se kako su ljudi putovali prije automobila."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-054",
+      "tezina": "srednje",
+      "pitanje": "Ris i sova su mesojedi. Čime se hrane?",
+      "ponudeni": [
+        "Životinjama koje ulove",
+        "Travom i lišćem",
+        "Sjemenkama i žitom",
+        "Plodovima i bobicama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mesojedi se hrane drugim životinjama. Ris i sova love svoj plijen.",
+      "savjet": "Sjeti se što znači riječ „mesojed“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-055",
+      "tezina": "srednje",
+      "pitanje": "Koja se od navedenih životinja ne hrani samo biljkama?",
+      "ponudeni": [
+        "Krava",
+        "Konj",
+        "Medvjed",
+        "Jelen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Medvjed jede biljke, ali i ribe i male životinje pa je svejed. Krava, konj i jelen su biljojedi.",
+      "savjet": "Potraži životinju koja jede i plodove i ribu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-056",
+      "tezina": "srednje",
+      "pitanje": "Koja se od navedenih životinja ne hrani mesom?",
+      "ponudeni": [
+        "Vuk",
+        "Ris",
+        "Sova",
+        "Koza"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Koza je biljojed i jede samo biljke. Vuk, ris i sova su mesojedi.",
+      "savjet": "Potraži životinju koja pase."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-057",
+      "tezina": "srednje",
+      "pitanje": "Seljak na svojem imanju drži krave, ovce i kokoši. Kako nazivamo te životinje?",
+      "ponudeni": [
+        "Divlje životinje",
+        "Domaće životinje",
+        "Mesojedi",
+        "Šumske životinje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Životinje koje čovjek uzgaja na imanju i brine se za njih su domaće životinje.",
+      "savjet": "Razmisli tko se brine za životinje na imanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-058",
+      "tezina": "srednje",
+      "pitanje": "Koja od navedenih životinja mora uloviti plijen da bi se nahranila?",
+      "ponudeni": [
+        "Konj",
+        "Sova",
+        "Zec",
+        "Ovca"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sova je mesojed i hrani se životinjama koje ulovi. Konj, zec i ovca jedu biljke.",
+      "savjet": "Plijen je životinja koju druga životinja ulovi i pojede."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-059",
+      "tezina": "srednje",
+      "pitanje": "Što čovjek dobiva od domaćih životinja?",
+      "ponudeni": [
+        "Mlijeko, jaja, vunu i meso",
+        "Drvo, papir i karton",
+        "Žir i šumske plodove",
+        "Sol, šećer i brašno"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Domaće životinje čovjeku daju mlijeko, jaja, vunu i meso, a neke mu pomažu i u radu.",
+      "savjet": "Sjeti se što dobivamo od krave, kokoši i ovce."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-060",
+      "tezina": "srednje",
+      "pitanje": "Kako mačka pomaže ljudima na seoskom imanju?",
+      "ponudeni": [
+        "Lovi miševe u štali",
+        "Daje mlijeko",
+        "Vuče kola",
+        "Nese jaja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mačka je mesojed i dobar lovac pa na imanju lovi miševe koji jedu žito.",
+      "savjet": "Sjeti se kojoj skupini prema prehrani pripada mačka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-061",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu životinje poredane redom: biljojed, mesojed, svejed?",
+      "ponudeni": [
+        "Zec, vuk, svinja",
+        "Vuk, zec, svinja",
+        "Svinja, zec, vuk",
+        "Zec, svinja, vuk"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zec je biljojed, vuk mesojed, a svinja svejed, pa je taj niz poredan točno.",
+      "savjet": "Za svaku životinju u nizu odredi skupinu i provjeri redoslijed."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-062",
+      "tezina": "tesko",
+      "pitanje": "Koja životinja ne pripada istoj skupini kao ostale: krava, ovca, vuk, koza?",
+      "ponudeni": [
+        "Krava",
+        "Ovca",
+        "Vuk",
+        "Koza"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krava, ovca i koza domaće su životinje i biljojedi. Vuk je divlja životinja i mesojed.",
+      "savjet": "Usporedi gdje te životinje žive i čime se hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-063",
+      "tezina": "tesko",
+      "pitanje": "Koja se životinja po prehrani razlikuje od ostalih: srna, jelen, zec, ris?",
+      "ponudeni": [
+        "Srna",
+        "Jelen",
+        "Zec",
+        "Ris"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srna, jelen i zec su biljojedi, a ris je mesojed koji ih lovi.",
+      "savjet": "Sve te životinje žive u šumi, pa usporedi samo što jedu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-064",
+      "tezina": "tesko",
+      "pitanje": "Neka životinja ima oštre očnjake i pandže te dobro vidi noću. Što ona najvjerojatnije jede?",
+      "ponudeni": [
+        "Travu i lišće",
+        "Druge životinje",
+        "Sjemenke i žito",
+        "Koru drveća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oštri očnjaci i pandže služe za hvatanje i trganje plijena. Takva je životinja mesojed.",
+      "savjet": "Razmisli za što služe oštri zubi i pandže."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-065",
+      "tezina": "tesko",
+      "pitanje": "U šumi je jako smanjen broj zečeva i srna. Kojim će životinjama biti najteže naći hranu?",
+      "ponudeni": [
+        "Puževima i kukcima",
+        "Kravama i ovcama na farmi",
+        "Vukovima i risovima",
+        "Jelenima i vjevericama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vukovi i risovi su mesojedi koji love zečeve i srne. Ako je plijena malo, oni ostaju bez hrane.",
+      "savjet": "Razmisli kome su zečevi i srne hrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-066",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo kad seljak zimi ne bi hranio krave u štali?",
+      "ponudeni": [
+        "Krave bi ostale bez hrane jer ovise o čovjeku",
+        "Krave bi same ulovile plijen u šumi",
+        "Krave bi postale mesojedi",
+        "Krave bi davale više mlijeka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krave su domaće životinje i hranu im daje čovjek. Bez njegove brige ne bi imale dovoljno hrane.",
+      "savjet": "Sjeti se po čemu se domaće životinje razlikuju od divljih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-067",
+      "tezina": "tesko",
+      "pitanje": "Svinja jede kukuruz i krumpir, ali i crve i ostatke mesa. Što iz toga zaključuješ?",
+      "ponudeni": [
+        "Svinja je biljojed",
+        "Svinja je mesojed",
+        "Svinja je svejed",
+        "Svinja je divlja životinja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svinja jede i biljnu i životinjsku hranu pa je svejed.",
+      "savjet": "Razvrstaj njezinu hranu na onu od biljaka i onu od životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-068",
+      "tezina": "tesko",
+      "pitanje": "Koja je od navedenih tvrdnji točna?",
+      "ponudeni": [
+        "Svi kućni ljubimci su biljojedi",
+        "Vuk je domaća životinja",
+        "Konj je mesojed",
+        "Mačka je kućni ljubimac i mesojed"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mačka živi s ljudima i hrani se mesom. Vuk je divlja životinja, konj biljojed, a nisu svi ljubimci biljojedi.",
+      "savjet": "Provjeri svaku tvrdnju na jednom primjeru koji dobro poznaješ."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-069",
+      "tezina": "tesko",
+      "pitanje": "Marko kaže: „Sve divlje životinje su mesojedi.“ Koja životinja pokazuje da Marko nije u pravu?",
+      "ponudeni": [
+        "Vuk",
+        "Ris",
+        "Sova",
+        "Srna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srna je divlja životinja, ali jede samo biljke. Zato nisu sve divlje životinje mesojedi.",
+      "savjet": "Potraži divlju životinju koja se ne hrani mesom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-070",
+      "tezina": "tesko",
+      "pitanje": "Lea kaže: „Sve domaće životinje su biljojedi.“ Koja životinja pokazuje da Lea nije u pravu?",
+      "ponudeni": [
+        "Krava",
+        "Svinja",
+        "Ovca",
+        "Konj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svinja je domaća životinja, ali je svejed. Zato nisu sve domaće životinje biljojedi.",
+      "savjet": "Potraži domaću životinju koja ne jede samo biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-071",
+      "tezina": "tesko",
+      "pitanje": "Životinja živi u šumi, hrani se travom, lišćem i pupovima, a mužjak ima velike rogove. Koja je to životinja?",
+      "ponudeni": [
+        "Jelen",
+        "Vuk",
+        "Ris",
+        "Medvjed"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jelen je divlja životinja i biljojed, a mužjak ima velike razgranate rogove.",
+      "savjet": "Potraži šumsku životinju koja jede samo biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-072",
+      "tezina": "tesko",
+      "pitanje": "Obitelj drži kunića kao kućnog ljubimca. Koju mu hranu treba davati?",
+      "ponudeni": [
+        "Meso i ribu",
+        "Mrkvu i sijeno",
+        "Kosti i ostatke mesa",
+        "Slatkiše i kekse"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kunić je biljojed pa mu treba biljna hrana, poput sijena i povrća. Slatkiši mu štete.",
+      "savjet": "Sjeti se kojoj skupini prema prehrani pripadaju zečevi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-073",
+      "tezina": "tesko",
+      "pitanje": "Što od navedenoga pokazuje odgovornu brigu o kućnom ljubimcu?",
+      "ponudeni": [
+        "Redovito ga hraniti i voditi veterinaru",
+        "Hraniti ga samo kad ima vremena",
+        "Ostaviti ga samog dok traju praznici",
+        "Davati mu ostatke slatkiša sa stola"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljubimac ovisi o čovjeku. Treba ga redovito hraniti, brinuti se o njegovoj čistoći i zdravlju.",
+      "savjet": "Razmisli što bi ljubimcu trebalo da bude zdrav svaki dan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-074",
+      "tezina": "tesko",
+      "pitanje": "Vuk i ovce žive na istom planinskom području. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Ovca može uloviti vuka",
+        "Oboje se hrane travom",
+        "Oboje su mesojedi",
+        "Vuk može uloviti ovcu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vuk je mesojed i lovi druge životinje, a ovca je biljojed koji pase travu. Zato vuk može napasti ovcu.",
+      "savjet": "Odredi za svaku od tih životinja čime se hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-075",
+      "tezina": "tesko",
+      "pitanje": "Ptica živi slobodno u prirodi i jede sjemenke, plodove i kukce. Kako je opisujemo?",
+      "ponudeni": [
+        "Divlja životinja i svejed",
+        "Domaća životinja i biljojed",
+        "Divlja životinja i biljojed",
+        "Domaća životinja i mesojed"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ptica živi slobodno u prirodi pa je divlja, a jede i biljnu i životinjsku hranu pa je svejed.",
+      "savjet": "Odgovori na dva pitanja: tko se brine za pticu i od čega potječe njezina hrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-076",
+      "tezina": "tesko",
+      "pitanje": "U kojem su paru obje životinje mesojedi, a jedna je divlja, a druga kućni ljubimac?",
+      "ponudeni": [
+        "Ris i sova",
+        "Vuk i mačka",
+        "Mačka i hrčak",
+        "Vuk i krava"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vuk je divlji mesojed, a mačka je kućni ljubimac i mesojed. Ris i sova obje su divlje životinje.",
+      "savjet": "Provjeri oba uvjeta: prehranu i mjesto gdje životinja živi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-077",
+      "tezina": "tesko",
+      "pitanje": "Koja je životinja točno svrstana prema načinu prehrane?",
+      "ponudeni": [
+        "Krava – mesojed",
+        "Orao – biljojed",
+        "Medvjed – svejed",
+        "Zec – mesojed"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Medvjed jede i biljke i životinje pa je svejed. Krava i zec su biljojedi, a orao je mesojed.",
+      "savjet": "Za svaku životinju sjeti se čime se hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-078",
+      "tezina": "tesko",
+      "pitanje": "Djeca su u šumi našla ozlijeđenu pticu. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Odnijeti je kući kao ljubimca",
+        "Ne dirati je i reći odrasloj osobi",
+        "Uhvatiti je golim rukama",
+        "Hraniti je kruhom i keksima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Divlje životinje ne treba dirati. Odrasla osoba može pozvati stručnjake koji znaju pomoći ozlijeđenoj životinji.",
+      "savjet": "Sjeti se da je ptica divlja životinja i da zna biti uplašena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-079",
+      "tezina": "tesko",
+      "pitanje": "Zašto hrčak u kavezu ovisi o čovjeku, a zec u šumi ne ovisi?",
+      "ponudeni": [
+        "Hrčak je mesojed, a zec svejed",
+        "Hrčak je divlja, a zec domaća životinja",
+        "Hrčak jede samo noću, a zec samo danju",
+        "Hrčak je ljubimac, a zec sam traži hranu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrčak je kućni ljubimac i hranu mu daje čovjek. Zec je divlja životinja koja sama pronalazi hranu u prirodi.",
+      "savjet": "Razmisli tko donosi hranu svakoj od tih životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-080",
+      "tezina": "tesko",
+      "pitanje": "Strelica znači „služi kao hrana“. Koja životinja dopunjava niz: trava → srna → ___?",
+      "ponudeni": [
+        "Vuk",
+        "Krava",
+        "Puž",
+        "Zec"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trava je hrana srni, a srnu lovi vuk. Krava, puž i zec jedu biljke, a ne srne.",
+      "savjet": "Na kraju niza treba životinja koja se hrani srnom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-081",
+      "tezina": "tesko",
+      "pitanje": "Strelica znači „služi kao hrana“. Koja životinja dopunjava niz: trava → ___ → ris?",
+      "ponudeni": [
+        "Vuk",
+        "Medvjed",
+        "Zec",
+        "Orao"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zec jede travu, a zeca lovi ris. Vuk i orao ne jedu travu.",
+      "savjet": "Na prazno mjesto ide životinja koja jede travu, a koju ris može uloviti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto mesojedi moraju loviti?",
+      "ponudeni": [
+        "Hrana su im druge životinje",
+        "Ne mogu piti vodu",
+        "Hrane se samo travom",
+        "Čovjek im donosi hranu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mesojedi se hrane drugim životinjama. Da bi došli do hrane, moraju ih uloviti.",
+      "savjet": "Sjeti se što znači riječ „mesojed“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-083",
+      "tezina": "tesko",
+      "pitanje": "Seljak ima ostatke kuhanog ručka: krumpir, kruh i malo mesa. Kojoj ih domaćoj životinji može dati?",
+      "ponudeni": [
+        "Kravi",
+        "Ovci",
+        "Konju",
+        "Svinji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svinja je svejed pa jede i biljnu i životinjsku hranu. Krava, ovca i konj su biljojedi.",
+      "savjet": "Potraži domaću životinju koja jede i biljnu i životinjsku hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-084",
+      "tezina": "tesko",
+      "pitanje": "Obitelj za ručak jede ribu, krumpir i salatu. Što to pokazuje o čovjeku?",
+      "ponudeni": [
+        "Čovjek je svejed jer jede biljnu i životinjsku hranu",
+        "Čovjek je mesojed jer jede ribu",
+        "Čovjek je biljojed jer jede salatu i krumpir",
+        "Čovjek je razlagač jer jede ostatke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riba je životinjska hrana, a krumpir i salata biljna. Tko jede oboje, svejed je.",
+      "savjet": "Razvrstaj hranu s tanjura na onu od biljaka i onu od životinja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-085",
+      "tezina": "tesko",
+      "pitanje": "Koja životinja ne bi mogla preživjeti u šumi bez biljaka iako ih sama ne jede?",
+      "ponudeni": [
+        "Srna",
+        "Zec",
+        "Ris",
+        "Jelen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ris lovi biljojede poput zečeva i srna. Bez biljaka ne bi bilo biljojeda, pa ris ne bi imao hrane.",
+      "savjet": "Pronađi mesojeda i razmisli čime se hrane životinje koje on lovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-086",
+      "tezina": "tesko",
+      "pitanje": "Učenici su razvrstali životinje u skupine. Koja je skupina pogrešno složena?",
+      "ponudeni": [
+        "Biljojedi: krava, zec, srna",
+        "Mesojedi: vuk, ris, sova",
+        "Svejedi: medvjed, svinja, vrana",
+        "Mesojedi: orao, mačka, konj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Konj je biljojed i ne pripada mesojedima. Ostale skupine složene su točno.",
+      "savjet": "Provjeri svaku životinju u svakoj skupini, jednu po jednu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-087",
+      "tezina": "tesko",
+      "pitanje": "Na izletu djeca ugledaju srnu na rubu šume. Kako se trebaju ponašati?",
+      "ponudeni": [
+        "Prići joj i pomilovati je",
+        "Glasno je dozivati",
+        "Ponuditi joj hranu iz ruke",
+        "Tiho je promatrati iz daljine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srna je divlja životinja. Ne smijemo je plašiti, dirati ni hraniti, nego je promatramo tiho i iz daljine.",
+      "savjet": "Sjeti se da je srna divlja životinja koja se lako uplaši."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-088",
+      "tezina": "tesko",
+      "pitanje": "Koza, konj, jelen i ovca su biljojedi. Po čemu se jelen razlikuje od ostalih?",
+      "ponudeni": [
+        "Jelen je mesojed",
+        "Jelen je divlja životinja",
+        "Jelen je kućni ljubimac",
+        "Jelen je svejed"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Koza, konj i ovca domaće su životinje, a jelen živi slobodno u šumi pa je divlja životinja.",
+      "savjet": "Prehrana im je ista, pa razmisli gdje žive i tko se za njih brine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-089",
+      "tezina": "tesko",
+      "pitanje": "Obitelj živi u stanu i želi kućne ljubimce. Koja je skupina životinja za to prikladna?",
+      "ponudeni": [
+        "Krava, svinja i koza",
+        "Vuk, ris i medvjed",
+        "Hrčak, papiga i zlatna ribica",
+        "Srna, jelen i lisica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrčak, papiga i zlatna ribica česti su kućni ljubimci. Krave, svinje i koze uzgajaju se na imanju, a ostale su životinje divlje.",
+      "savjet": "Razmisli koje životinje mogu živjeti s ljudima u malom prostoru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotinje-090",
+      "tezina": "tesko",
+      "pitanje": "Medvjed je divlja životinja i svejed. Koja je od navedenih životinja jednaka medvjedu u obje stvari?",
+      "ponudeni": [
+        "Svinja",
+        "Divlja svinja",
+        "Vuk",
+        "Srna"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Divlja svinja živi slobodno u šumi i jede i biljke i životinje. Svinja je svejed, ali je domaća životinja.",
+      "savjet": "Provjeri obje stvari: živi li slobodno u prirodi i jede li i biljnu i životinjsku hranu."
+    }
+  ]
+}
