@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "zrak",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-zrak-001",
+      "tezina": "lagano",
+      "pitanje": "Kojeg plina ima najviše u zraku?",
+      "ponudeni": [
+        "Kisika",
+        "Dušika",
+        "Ugljikova dioksida",
+        "Vodene pare"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zrak je smjesa plinova. U njemu ima najviše dušika, zatim kisika, a ostalih plinova ima vrlo malo.",
+      "savjet": "Sjeti se kojim redom smo naučili plinove u zraku, od onoga kojeg ima najviše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-002",
+      "tezina": "lagano",
+      "pitanje": "Koji plin iz zraka ljudi i životinje trebaju za disanje?",
+      "ponudeni": [
+        "Dušik",
+        "Ugljikov dioksid",
+        "Kisik",
+        "Vodenu paru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljudi i životinje udišu zrak, a tijelo iz njega uzima kisik. Bez kisika ne možemo živjeti.",
+      "savjet": "Razmisli koji plin bolesnicima daju u bolnici kad teško dišu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-003",
+      "tezina": "lagano",
+      "pitanje": "Koji plin ljudi i životinje izdišu, a biljke ga uzimaju iz zraka?",
+      "ponudeni": [
+        "Ugljikov dioksid",
+        "Kisik",
+        "Dušik",
+        "Dim"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljudi i životinje izdišu ugljikov dioksid. Biljke ga uzimaju iz zraka i uz pomoć Sunčeve svjetlosti stvaraju hranu.",
+      "savjet": "Sjeti se koji plin biljke trebaju da bi uz Sunčevu svjetlost stvarale hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-004",
+      "tezina": "lagano",
+      "pitanje": "Kakav je čist zrak?",
+      "ponudeni": [
+        "Plavkast i slatkastog okusa",
+        "Bijel i bez mirisa",
+        "Bez boje, mirisa i okusa",
+        "Siv i jakog mirisa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čist zrak nema boje, mirisa ni okusa. Zato ga ne vidimo i ne osjećamo dok miruje.",
+      "savjet": "Razmisli možeš li zrak u sobi vidjeti, pomirisati ili okusiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-005",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo strujanje zraka?",
+      "ponudeni": [
+        "Kiša",
+        "Magla",
+        "Mraz",
+        "Vjetar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad se zrak giba s jednog mjesta na drugo, nastaje vjetar.",
+      "savjet": "Sjeti se što osjetiš na licu kad zrak oko tebe struji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-006",
+      "tezina": "lagano",
+      "pitanje": "Bez čega čovjek može preživjeti samo nekoliko minuta?",
+      "ponudeni": [
+        "Bez zraka",
+        "Bez hrane",
+        "Bez vode",
+        "Bez sna"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bez zraka čovjek može izdržati samo nekoliko minuta. Bez vode i hrane može izdržati mnogo dulje.",
+      "savjet": "Razmisli što tijelu treba u svakom trenutku, bez prestanka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-007",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga onečišćuje zrak?",
+      "ponudeni": [
+        "Sadnja drveća",
+        "Ispušni plinovi automobila",
+        "Vožnja bicikla",
+        "Hodanje pješice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Automobili iz ispušne cijevi ispuštaju štetne plinove koji onečišćuju zrak.",
+      "savjet": "Razmisli što izlazi iz cijevi na stražnjem dijelu automobila."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-008",
+      "tezina": "lagano",
+      "pitanje": "Koji plin biljke otpuštaju u zrak?",
+      "ponudeni": [
+        "Dušik",
+        "Ugljikov dioksid",
+        "Dim",
+        "Kisik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dok uz pomoć Sunčeve svjetlosti stvaraju hranu, biljke otpuštaju kisik u zrak.",
+      "savjet": "Sjeti se zašto kažemo da je zrak u šumi svjež i dobar za disanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-009",
+      "tezina": "lagano",
+      "pitanje": "Što je zrak?",
+      "ponudeni": [
+        "Smjesa različitih plinova",
+        "Jedan jedini plin",
+        "Vrsta tekućine",
+        "Sitna prašina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zrak je smjesa više plinova: najviše je dušika, zatim kisika, a ima i malo ugljikova dioksida.",
+      "savjet": "Sjeti se koliko smo različitih plinova u zraku naučili."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-010",
+      "tezina": "lagano",
+      "pitanje": "Kojeg plina u zraku ima najviše nakon dušika?",
+      "ponudeni": [
+        "Ugljikova dioksida",
+        "Vodene pare",
+        "Kisika",
+        "Dima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U zraku je najviše dušika, a na drugom je mjestu kisik.",
+      "savjet": "Sjeti se plina koji udišemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-011",
+      "tezina": "lagano",
+      "pitanje": "Gdje se sve nalazi zrak?",
+      "ponudeni": [
+        "Samo u šumi",
+        "Svuda oko nas, pa i u tlu i vodi",
+        "Samo u zatvorenim prostorijama",
+        "Samo visoko iznad oblaka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zrak je svuda oko nas. Ima ga i u tlu, između čestica zemlje, i u vodi.",
+      "savjet": "Razmisli kako dišu glista u zemlji i riba u vodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-012",
+      "tezina": "lagano",
+      "pitanje": "Kojim organom čovjek diše?",
+      "ponudeni": [
+        "Želucem",
+        "Srcem",
+        "Jetrom",
+        "Plućima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Čovjek diše plućima. U plućima tijelo iz udahnutog zraka uzima kisik.",
+      "savjet": "Sjeti se organa koji se puni zrakom kad duboko udahneš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-013",
+      "tezina": "lagano",
+      "pitanje": "Odakle ribe uzimaju kisik?",
+      "ponudeni": [
+        "Iz vode, pomoću škrga",
+        "Iz hrane koju jedu",
+        "Iz pijeska na dnu",
+        "Iz morske soli"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U vodi je otopljeno malo zraka. Ribe škrgama uzimaju kisik iz vode.",
+      "savjet": "Sjeti se kako se zovu dijelovi tijela kojima ribe dišu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-014",
+      "tezina": "lagano",
+      "pitanje": "Koji je plin iz zraka potreban da bi nešto gorjelo?",
+      "ponudeni": [
+        "Dušik",
+        "Ugljikov dioksid",
+        "Kisik",
+        "Vodena para"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za gorenje je potreban kisik. Kad kisika nestane, vatra se ugasi.",
+      "savjet": "Isti plin treba i tebi za disanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-015",
+      "tezina": "lagano",
+      "pitanje": "Kako onečišćen zrak utječe na zdravlje ljudi?",
+      "ponudeni": [
+        "Jača kosti i zube",
+        "Uzrokuje bolesti dišnih organa",
+        "Poboljšava vid",
+        "Ubrzava rast"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Udisanjem onečišćenog zraka ljudi češće kašlju i obolijevaju od bolesti pluća i dišnih putova.",
+      "savjet": "Razmisli koji dijelovi tijela prvi dođu u dodir sa zrakom koji udišemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-016",
+      "tezina": "lagano",
+      "pitanje": "Što pomaže očuvanju čistog zraka?",
+      "ponudeni": [
+        "Spaljivanje smeća",
+        "Česta vožnja automobilom",
+        "Pušenje cigareta",
+        "Sadnja drveća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Drveće otpušta kisik i na lišću zadržava prašinu, pa pomaže da zrak bude čist.",
+      "savjet": "Potraži jedinu radnju pri kojoj ne nastaje dim ni štetni plinovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-017",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga ispušta dim u zrak?",
+      "ponudeni": [
+        "Tvornički dimnjaci",
+        "Vjetroelektrane",
+        "Bicikli",
+        "Drveće"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iz tvorničkih dimnjaka izlazi dim sa štetnim tvarima koje onečišćuju zrak.",
+      "savjet": "Razmisli gdje se nešto pali ili gori."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-018",
+      "tezina": "lagano",
+      "pitanje": "Kojim je živim bićima potreban zrak?",
+      "ponudeni": [
+        "Samo ljudima",
+        "Ljudima, životinjama i biljkama",
+        "Samo životinjama",
+        "Samo biljkama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zrak je uvjet života. Trebaju ga ljudi, životinje i biljke.",
+      "savjet": "Sjeti se da je zrak jedan od životnih uvjeta za sva živa bića."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-019",
+      "tezina": "lagano",
+      "pitanje": "Čime je ispunjen napuhani balon?",
+      "ponudeni": [
+        "Vodom",
+        "Ničim",
+        "Zrakom",
+        "Pijeskom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad pušeš u balon, u njega ulazi zrak. Zrak zauzima prostor pa se balon povećava.",
+      "savjet": "Razmisli što izlazi iz tvojih usta kad napuhuješ balon."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-020",
+      "tezina": "lagano",
+      "pitanje": "Što pokreće jedra jedrilice?",
+      "ponudeni": [
+        "Morske alge",
+        "Sunčeva svjetlost",
+        "Kiša",
+        "Vjetar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vjetar puše u jedra i gura jedrilicu po moru.",
+      "savjet": "Sjeti se zašto jedrilice stoje u luci kad je potpuno mirno vrijeme."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-021",
+      "tezina": "lagano",
+      "pitanje": "Što je dobro učiniti u učionici nakon nekoliko sati nastave?",
+      "ponudeni": [
+        "Prozračiti učionicu",
+        "Zatvoriti sve prozore",
+        "Navući zavjese",
+        "Isključiti svjetlo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad otvorimo prozore, u učionicu ulazi svjež zrak s više kisika pa se lakše učimo i bolje osjećamo.",
+      "savjet": "Razmisli kako u prostoriju ulazi svjež zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-022",
+      "tezina": "lagano",
+      "pitanje": "Što se događa sa zrakom kad se zagrije?",
+      "ponudeni": [
+        "Postaje plav",
+        "Pretvara se u vodu",
+        "Skuplja se i spušta",
+        "Širi se i diže prema gore"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagrijan zrak se širi i postaje lakši pa se diže prema gore.",
+      "savjet": "Sjeti se kako lete baloni na topli zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-023",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga onečišćuje zrak u kući?",
+      "ponudeni": [
+        "Cvijeće u lončanici",
+        "Duhanski dim",
+        "Otvoren prozor",
+        "Pranje posuđa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Duhanski dim sadrži štetne tvari koje onečišćuju zrak i štete zdravlju svih u prostoriji.",
+      "savjet": "Potraži nešto što nastaje gorenjem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-024",
+      "tezina": "lagano",
+      "pitanje": "Što nastaje kad se spaljuju smeće i suho lišće?",
+      "ponudeni": [
+        "Čisti kisik",
+        "Svježa voda",
+        "Dim koji onečišćuje zrak",
+        "Miris cvijeća"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Spaljivanjem smeća i lišća nastaje dim koji onečišćuje zrak. Zato ih je bolje razvrstati ili kompostirati.",
+      "savjet": "Razmisli što se diže iznad vatre."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-025",
+      "tezina": "lagano",
+      "pitanje": "Kojim prijevozom najmanje onečišćuješ zrak?",
+      "ponudeni": [
+        "Automobilom",
+        "Biciklom",
+        "Motociklom",
+        "Kamionom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bicikl pokreću tvoje noge, a ne motor, pa ne ispušta nikakve plinove.",
+      "savjet": "Potraži prijevozno sredstvo koje nema motor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-026",
+      "tezina": "lagano",
+      "pitanje": "Gdje je zrak najčišći?",
+      "ponudeni": [
+        "U šumi daleko od cesta",
+        "Uz prometnu cestu",
+        "Pokraj tvornice",
+        "Na velikom parkiralištu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U šumi daleko od cesta nema prometa ni tvornica, a drveće otpušta kisik.",
+      "savjet": "Razmisli gdje nema automobila ni dimnjaka, a ima mnogo biljaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-027",
+      "tezina": "lagano",
+      "pitanje": "Kada je zrak onečišćen?",
+      "ponudeni": [
+        "Kad pada kiša",
+        "Kad puše blagi vjetar",
+        "Kad je vani hladno",
+        "Kad u njega dospiju dim, prašina i štetni plinovi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zrak je onečišćen kad se u njemu nađu tvari koje ne pripadaju čistom zraku, kao što su dim, prašina i štetni plinovi.",
+      "savjet": "Sjeti se što izlazi iz dimnjaka i ispušnih cijevi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-028",
+      "tezina": "lagano",
+      "pitanje": "Kroz koje dijelove tijela udišemo zrak?",
+      "ponudeni": [
+        "Kroz uši",
+        "Kroz kožu na rukama",
+        "Kroz nos i usta",
+        "Kroz oči"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zrak udišemo kroz nos i usta, a odatle putuje do pluća.",
+      "savjet": "Zatvori na trenutak usta i razmisli kuda tada ulazi zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-029",
+      "tezina": "lagano",
+      "pitanje": "Kako znamo da oko nas ima zraka iako ga ne vidimo?",
+      "ponudeni": [
+        "Osjetimo vjetar i vidimo kako se lišće njiše",
+        "Zrak se vidi rano ujutro",
+        "Zrak ima miris ruže",
+        "Zrak se čuje kad je tišina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zrak ne vidimo, ali osjećamo kad struji i vidimo što pokreće, na primjer lišće, zastave i oblake.",
+      "savjet": "Razmisli po čemu primijetiš da vani puše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-030",
+      "tezina": "lagano",
+      "pitanje": "Što ronilac nosi na leđima da bi mogao dugo boraviti pod vodom?",
+      "ponudeni": [
+        "Bocu s vodom",
+        "Bocu sa zrakom",
+        "Ruksak s hranom",
+        "Bocu sa sokom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čovjek pod vodom ne može disati, pa ronilac nosi bocu sa zrakom iz koje diše.",
+      "savjet": "Razmisli što čovjeku pod vodom nedostaje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-031",
+      "tezina": "srednje",
+      "pitanje": "Ljudi su dugo u zatvorenoj prostoriji punoj ljudi i postaju pospani. Zašto?",
+      "ponudeni": [
+        "Svjetlo u prostoriji je preslabo",
+        "U zraku je manje kisika, a više ugljikova dioksida",
+        "Zrak u prostoriji postaje sve hladniji",
+        "U zraku je sve više dušika i kisika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudi udišu kisik i izdišu ugljikov dioksid. U zatvorenoj prostoriji kisika je sve manje, a ugljikova dioksida sve više, pa se osjećamo umorno.",
+      "savjet": "Sjeti se što uzimamo iz zraka kad udišemo, a što vraćamo kad izdišemo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-032",
+      "tezina": "srednje",
+      "pitanje": "Na dno čaše zalijepljen je papir. Čaša je okrenuta naopako i gurnuta ravno u vodu. Papir je ostao suh. Zašto?",
+      "ponudeni": [
+        "Voda ne može proći kroz staklo",
+        "Voda je bila prehladna",
+        "Zrak u čaši zauzima prostor i ne pušta vodu unutra",
+        "Čaša je bila premala"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Prazna“ čaša puna je zraka. Zrak zauzima prostor pa voda ne može doći do papira.",
+      "savjet": "Razmisli je li okrenuta čaša bila stvarno prazna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto se nikad ne smije stavljati plastična vrećica na glavu?",
+      "ponudeni": [
+        "Vrećica ne propušta zrak pa se ne može disati",
+        "Vrećica je preteška za glavu",
+        "Vrećica može promijeniti boju",
+        "Vrećica brzo postane hladna"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plastična vrećica ne propušta zrak. Bez svježeg zraka čovjek se može ugušiti, zato se njome nikad ne igramo.",
+      "savjet": "Sjeti se što nam je potrebno u svakom trenutku da bismo živjeli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-034",
+      "tezina": "srednje",
+      "pitanje": "Zašto padobranac pada polako?",
+      "ponudeni": [
+        "Padobran je lakši od zraka",
+        "Padobranac ne pada, nego leti",
+        "Zrak pruža otpor velikom padobranu",
+        "Vjetar ga gura prema gore"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zrak pruža otpor predmetima koji se kroz njega kreću. Padobran je velik pa ga zrak jako usporava.",
+      "savjet": "Razmisli zašto je padobran tako širok."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-035",
+      "tezina": "srednje",
+      "pitanje": "Zašto se oblaci pomiču po nebu?",
+      "ponudeni": [
+        "Privlači ih Sunce",
+        "Pomiče ih kiša",
+        "Okreću se oko Mjeseca",
+        "Nosi ih vjetar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zrak struji i visoko iznad nas. Vjetar nosi oblake s jednog mjesta na drugo.",
+      "savjet": "Sjeti se kako nazivamo zrak koji struji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto je zrak u gradovima s mnogo prometa više onečišćen?",
+      "ponudeni": [
+        "Mnogo automobila ispušta ispušne plinove",
+        "U gradovima ima previše drveća",
+        "U gradovima rijetko pada kiša",
+        "Zgrade stvaraju kisik"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gdje je mnogo automobila, u zrak odlazi mnogo ispušnih plinova pa je zrak onečišćeniji.",
+      "savjet": "Razmisli što svaki automobil ispušta dok vozi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-037",
+      "tezina": "srednje",
+      "pitanje": "Zašto se na dimnjake tvornica postavljaju filtri?",
+      "ponudeni": [
+        "Da dim bude topliji",
+        "Da zadrže štetne tvari iz dima",
+        "Da tvornica bude ljepša",
+        "Da dim brže izlazi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Filtar zadržava dio štetnih tvari iz dima pa u zrak odlazi manje onečišćenja.",
+      "savjet": "Sjeti se čemu služi cjedilo u kuhinji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-038",
+      "tezina": "srednje",
+      "pitanje": "Što vatra troši iz zraka dok gori?",
+      "ponudeni": [
+        "Dušik",
+        "Vodenu paru",
+        "Prašinu",
+        "Kisik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za gorenje je potreban kisik. Vatra ga troši iz zraka dok gori.",
+      "savjet": "Sjeti se bez čega se vatra ugasi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-039",
+      "tezina": "srednje",
+      "pitanje": "Učiteljica je goruću svijeću poklopila staklenkom. Nakon kratkog vremena svijeća se ugasila. Zašto?",
+      "ponudeni": [
+        "Potrošio se kisik potreban za gorenje",
+        "Staklenka je ohladila plamen",
+        "U staklenku je ušla voda",
+        "Svijeća se previše zagrijala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pod staklenkom je malo zraka. Plamen potroši kisik, a novi zrak ne može ući, pa se svijeća ugasi.",
+      "savjet": "Razmisli što vatri treba iz zraka i može li ono doći pod staklenku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-040",
+      "tezina": "srednje",
+      "pitanje": "Zašto se u gradovima sade drvoredi i parkovi?",
+      "ponudeni": [
+        "Da bi bilo više prašine",
+        "Da bi automobili brže vozili",
+        "Drveće zadržava prašinu i otpušta kisik",
+        "Drveće troši sav kisik iz zraka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lišće drveća zadržava prašinu, a drveće otpušta kisik, pa je zrak u gradu čišći.",
+      "savjet": "Razmisli što biljke otpuštaju u zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-041",
+      "tezina": "srednje",
+      "pitanje": "Zašto se balon na topli zrak diže u visinu?",
+      "ponudeni": [
+        "Balon je napunjen vodom",
+        "Topli zrak u balonu lakši je od zraka oko njega",
+        "Balon je od vrlo teške tkanine",
+        "Balon privlače oblaci"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zagrijan zrak se širi i postaje lakši od hladnijeg zraka oko njega pa se diže i nosi balon.",
+      "savjet": "Sjeti se što se događa sa zrakom kad se zagrije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-042",
+      "tezina": "srednje",
+      "pitanje": "Zašto je zimi u grijanoj sobi toplije uz strop nego uz pod?",
+      "ponudeni": [
+        "Strop je obojen bijelom bojom",
+        "Hladan zrak se diže prema stropu",
+        "Pod upija svu toplinu",
+        "Topli zrak se diže prema gore"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Topli zrak je lakši pa se diže prema stropu, a hladniji zrak ostaje dolje.",
+      "savjet": "Razmisli kamo putuje zrak koji se zagrije iznad radijatora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-043",
+      "tezina": "srednje",
+      "pitanje": "Loptu možeš napumpati s još više zraka iako je već puna. Što to pokazuje?",
+      "ponudeni": [
+        "Zrak se može stlačiti",
+        "Zrak nema masu",
+        "Zrak se pretvara u vodu",
+        "Lopta sama stvara zrak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zrak se može stlačiti, odnosno više zraka može stati u isti prostor. Zato je napumpana lopta tvrda.",
+      "savjet": "Razmisli što se događa sa zrakom kad ga pumpom guraš u loptu koja je već puna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto nakon trčanja dišemo brže?",
+      "ponudeni": [
+        "Zrak se zagrijao",
+        "Pluća su se smanjila",
+        "Tijelo treba više kisika",
+        "U zraku ima manje dušika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad se jako trudimo, tijelo troši više kisika. Zato brže dišemo da bismo ga više udahnuli.",
+      "savjet": "Razmisli što tijelo uzima iz zraka i kada mu toga treba više."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-045",
+      "tezina": "srednje",
+      "pitanje": "Zašto vatrogasci u zadimljenu zgradu ulaze s bocama zraka?",
+      "ponudeni": [
+        "Boce su im potrebne za gašenje vatre",
+        "U dimu nema dovoljno čistog zraka za disanje",
+        "Zrak iz boca hladi zgradu",
+        "Boce ih štite od vode"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dim je štetan, a u zadimljenoj prostoriji nema dovoljno čistog zraka. Vatrogasci zato dišu zrak iz boca.",
+      "savjet": "Razmisli što bi se dogodilo kad bi vatrogasac udisao dim."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-046",
+      "tezina": "srednje",
+      "pitanje": "Kako šumski požar utječe na zrak?",
+      "ponudeni": [
+        "Zrak postaje čišći i svježiji",
+        "U zraku nastaje više kisika",
+        "Požar nema utjecaja na zrak",
+        "Dim onečišćuje zrak i nestaje drveće koje otpušta kisik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Požar stvara mnogo dima koji onečišćuje zrak. Izgori i drveće koje bi otpuštalo kisik.",
+      "savjet": "Razmisli što nastaje kad drvo gori i što je šuma radila za zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-047",
+      "tezina": "srednje",
+      "pitanje": "Zašto akvariju treba pumpa koja upuhuje zrak u vodu?",
+      "ponudeni": [
+        "Ribe trebaju kisik otopljen u vodi",
+        "Mjehurići su hrana za ribe",
+        "Zrak čisti staklo akvarija",
+        "Pumpa zagrijava vodu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ribe škrgama uzimaju kisik iz vode. Pumpa upuhuje zrak pa u vodi ima dovoljno kisika.",
+      "savjet": "Sjeti se što ribe uzimaju iz vode kad dišu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-048",
+      "tezina": "srednje",
+      "pitanje": "Zašto je važno da u tlu ima zraka?",
+      "ponudeni": [
+        "Da tlo bude teže",
+        "Korijenje biljaka i životinje u tlu trebaju zrak",
+        "Da tlo ne bude smeđe",
+        "Da kiša ne pada na tlo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "I korijenje biljaka i životinje koje žive u tlu, poput gliste, trebaju zrak za život.",
+      "savjet": "Sjeti se tko sve živi u tlu i što treba svako živo biće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-049",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko dimu iz tvornice i ispušnim plinovima automobila?",
+      "ponudeni": [
+        "Stvaraju kisik",
+        "Pročišćavaju zrak",
+        "Onečišćuju zrak",
+        "Hrane biljke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "I dim iz tvornica i ispušni plinovi automobila sadrže štetne tvari koje onečišćuju zrak.",
+      "savjet": "Razmisli je li zrak pokraj tvornice i prometne ceste čist."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-050",
+      "tezina": "srednje",
+      "pitanje": "Koji primjer pokazuje da zrak zauzima prostor?",
+      "ponudeni": [
+        "Lišće pada s drveta",
+        "Led se topi na suncu",
+        "Sunce grije tlo",
+        "Balon se povećava kad u njega pušeš"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zrak koji upuhujemo u balon zauzima prostor pa se balon povećava.",
+      "savjet": "Potraži primjer u kojem nešto postaje veće jer u njega ulazi zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-051",
+      "tezina": "srednje",
+      "pitanje": "Što onečišćuje zrak kad se kuće griju na drva ili ugljen?",
+      "ponudeni": [
+        "Dim iz dimnjaka",
+        "Toplina iz peći",
+        "Svjetlost vatre",
+        "Pucketanje vatre"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad drva ili ugljen gore, nastaje dim. On kroz dimnjak odlazi u zrak i onečišćuje ga.",
+      "savjet": "Razmisli što izlazi na vrhu kuće kad se u peći loži vatra."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto duhanski dim šteti i ljudima koji ne puše?",
+      "ponudeni": [
+        "Dim čisti zrak u sobi",
+        "Dim se zadržava samo u cigareti",
+        "Dim odmah nestaje",
+        "Udišu dim koji se proširio zrakom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dim se širi prostorijom pa ga udišu svi koji su u njoj, a ne samo pušač.",
+      "savjet": "Razmisli kamo odlazi dim kad izađe iz cigarete."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-053",
+      "tezina": "srednje",
+      "pitanje": "Kako vjetar pomaže maslačku?",
+      "ponudeni": [
+        "Zalijeva ga",
+        "Raznosi njegove lagane sjemenke",
+        "Grije mu korijen",
+        "Daje mu hranu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sjemenke maslačka lagane su i imaju „padobrančiće“, pa ih vjetar raznosi daleko, gdje izrastu nove biljke.",
+      "savjet": "Sjeti se što se događa kad puhneš u odcvali maslačak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-054",
+      "tezina": "srednje",
+      "pitanje": "Što pokazuje vjetrokaz?",
+      "ponudeni": [
+        "Temperaturu zraka",
+        "Količinu kiše",
+        "Smjer vjetra",
+        "Doba dana"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vjetrokaz se okreće prema vjetru i pokazuje odakle vjetar puše.",
+      "savjet": "Pomoći će ti sam naziv uređaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-055",
+      "tezina": "srednje",
+      "pitanje": "Zašto je zimi u nekim gradovima zrak lošiji nego ljeti?",
+      "ponudeni": [
+        "Zimi ima više lišća na drveću",
+        "Iz dimnjaka kuća koje se griju izlazi više dima",
+        "Zimi nema prometa",
+        "Snijeg onečišćuje zrak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zimi se kuće griju, a pri loženju drva ili ugljena iz dimnjaka izlazi dim koji onečišćuje zrak.",
+      "savjet": "Razmisli što ljudi rade zimi, a ne rade ljeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-056",
+      "tezina": "srednje",
+      "pitanje": "Kako javni prijevoz, primjerice autobus ili tramvaj, pomaže čistom zraku?",
+      "ponudeni": [
+        "Jednim vozilom putuje mnogo ljudi pa je manje automobila",
+        "Autobusi voze samo noću",
+        "Autobusi otpuštaju kisik",
+        "Autobusima se vozi samo ljeti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad mnogo ljudi putuje jednim vozilom, na cesti je manje automobila i manje ispušnih plinova.",
+      "savjet": "Usporedi koliko ljudi stane u jedan autobus, a koliko u jedan automobil."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-057",
+      "tezina": "srednje",
+      "pitanje": "Zašto čovjek ne može dugo zadržati dah pod vodom?",
+      "ponudeni": [
+        "Voda je prehladna",
+        "Uši se napune vodom",
+        "Pluća postanu teža",
+        "Tijelu je stalno potreban kisik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tijelo neprestano troši kisik. Kad zadržimo dah, novi kisik ne dolazi pa moramo izroniti i udahnuti.",
+      "savjet": "Razmisli što tijelo dobiva svakim udisajem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-058",
+      "tezina": "srednje",
+      "pitanje": "Kako jak vjetar može naštetiti?",
+      "ponudeni": [
+        "Može ugasiti Sunce",
+        "Može pretvoriti zrak u vodu",
+        "Može srušiti drveće i oštetiti krovove",
+        "Može zaustaviti rast trave"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vjetar je zrak koji struji. Kad je vrlo jak, može lomiti grane, rušiti drveće i oštetiti krovove.",
+      "savjet": "Sjeti se kako izgleda ulica nakon jakog nevremena s vjetrom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-059",
+      "tezina": "srednje",
+      "pitanje": "Zašto se prsni koš podigne kad duboko udahnemo?",
+      "ponudeni": [
+        "Pluća se pune zrakom",
+        "Srce prestaje kucati",
+        "Želudac se puni hranom",
+        "Kosti postaju lakše"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad udahnemo, zrak ispuni pluća. Pluća se prošire pa se prsni koš podigne.",
+      "savjet": "Razmisli što se nalazi u prsnom košu i čime se puni pri udisaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-060",
+      "tezina": "srednje",
+      "pitanje": "Kako se ponaša netko tko brine o čistom zraku?",
+      "ponudeni": [
+        "Spaljuje otpad u dvorištu",
+        "Razvrstava otpad umjesto da ga spaljuje",
+        "Ostavlja automobil upaljen dok čeka",
+        "Pali suho lišće u vrtu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Spaljivanjem otpada i lišća nastaje dim koji onečišćuje zrak. Razvrstavanjem otpada zrak ostaje čist.",
+      "savjet": "Potraži ponašanje pri kojem ne nastaje dim."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-061",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica je dvije jednake goruće svijeće istodobno poklopila staklenkama, jednu malom, a drugu velikom. Koja će se svijeća prije ugasiti?",
+      "ponudeni": [
+        "Ona pod velikom staklenkom",
+        "Ona pod malom staklenkom",
+        "Obje u istom trenutku",
+        "Nijedna se neće ugasiti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U maloj staklenki ima manje zraka, a time i manje kisika. Plamen ga brže potroši pa se ta svijeća prije ugasi.",
+      "savjet": "Usporedi koliko zraka stane u malu, a koliko u veliku staklenku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-062",
+      "tezina": "tesko",
+      "pitanje": "Uz pomoć odrasle osobe Nika je na grlić prazne boce navukla balon i bocu stavila u posudu s toplom vodom. Balon se malo napuhao. Zašto?",
+      "ponudeni": [
+        "Topla voda je ušla u balon",
+        "Balon se omekšao od topline",
+        "Zrak u boci se zagrijao i raširio",
+        "Boca je stvorila novi zrak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Boca je bila puna zraka. Kad se zrak zagrijao, raširio se i dio je ušao u balon pa se balon napuhao.",
+      "savjet": "Sjeti se što se događa sa zrakom kad se zagrije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-063",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko čovjeku koji diše i svijeći koja gori?",
+      "ponudeni": [
+        "Oboje troše kisik iz zraka",
+        "Oboje otpuštaju kisik u zrak",
+        "Oboje trebaju samo dušik",
+        "Oboje trebaju Sunčevu svjetlost"
+      ],
+      "tocan": 0,
+      "objasnjenje": "I za disanje i za gorenje potreban je kisik. Zato i čovjek i svijeća troše kisik iz zraka.",
+      "savjet": "Razmisli koji plin treba za disanje, a koji za gorenje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-064",
+      "tezina": "tesko",
+      "pitanje": "Petra je praznu čašu ukoso uronila u vodu. Iz čaše su izlazili mjehurići, a čaša se punila vodom. Što se dogodilo?",
+      "ponudeni": [
+        "Voda se pretvarala u zrak",
+        "Staklo čaše stvaralo je mjehuriće",
+        "Voda je istisnula zrak iz čaše",
+        "Zrak se pretvorio u vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čaša je bila puna zraka. Kad je voda ulazila u čašu, zrak je izlazio u obliku mjehurića.",
+      "savjet": "Razmisli što je bilo u čaši prije nego što je uronjena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-065",
+      "tezina": "tesko",
+      "pitanje": "Ravan list papira i zgužvana kuglica od jednakog lista puštene su s iste visine. Ravan list pada sporije. Zašto?",
+      "ponudeni": [
+        "Ravan list je teži",
+        "Kuglica privlači zrak",
+        "Ravan list je lakši od kuglice",
+        "Zrak pruža veći otpor ravnom listu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oba su papira jednako teška. Ravan list je širok pa mu zrak pruža veći otpor i usporava ga.",
+      "savjet": "Sjeti se zašto padobran mora biti širok."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-066",
+      "tezina": "tesko",
+      "pitanje": "Pet susjeda svaki dan istim putem odlazi na posao, svatko svojim automobilom. Kako najjednostavnije mogu smanjiti onečišćenje zraka?",
+      "ponudeni": [
+        "Voziti se zajedno jednim automobilom",
+        "Voziti brže da prije stignu",
+        "Kupiti još jedan automobil",
+        "Kretati se ranije ujutro"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ako se voze zajedno, umjesto pet automobila vozi samo jedan pa u zrak odlazi mnogo manje ispušnih plinova.",
+      "savjet": "Razmisli kako smanjiti broj automobila na cesti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-067",
+      "tezina": "tesko",
+      "pitanje": "U osvijetljenom akvariju žive ribe i vodene biljke. Kako biljke pomažu ribama?",
+      "ponudeni": [
+        "Biljke zagrijavaju vodu",
+        "Biljke otpuštaju kisik u vodu",
+        "Biljke uzimaju kisik ribama",
+        "Biljke boje vodu u zeleno"
+      ],
+      "tocan": 1,
+      "objasnjenje": "I vodene biljke na svjetlosti otpuštaju kisik. On se otapa u vodi, a ribe ga udišu škrgama.",
+      "savjet": "Sjeti se koji plin biljke otpuštaju i što ribe uzimaju iz vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-068",
+      "tezina": "tesko",
+      "pitanje": "Dva grada imaju jednako mnogo tvornica. Jedan je u udolini gdje rijetko puše vjetar, a drugi na otvorenom gdje vjetar često puše. Gdje se onečišćen zrak dulje zadržava?",
+      "ponudeni": [
+        "U gradu na otvorenom",
+        "Jednako u oba grada",
+        "Ni u jednom gradu",
+        "U gradu u udolini bez vjetra"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vjetar odnosi dim i štetne plinove. Gdje vjetra nema, onečišćen zrak ostaje iznad grada.",
+      "savjet": "Razmisli što vjetar radi s dimom iz dimnjaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-069",
+      "tezina": "tesko",
+      "pitanje": "Zašto se plastika i stare gume ne smiju spaljivati?",
+      "ponudeni": [
+        "Pri gorenju nastaje otrovan dim",
+        "Gore prekratko",
+        "Stvaraju previše kisika",
+        "Pretvaraju se u vodu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pri spaljivanju plastike i guma nastaje gust, otrovan dim koji jako onečišćuje zrak i šteti zdravlju.",
+      "savjet": "Razmisli što se diže iznad vatre i što ljudi u blizini udišu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-070",
+      "tezina": "tesko",
+      "pitanje": "Na krajeve štapa obješena su dva jednaka napuhana balona i štap je u ravnoteži. Kad se jedan balon probuši, spusti se strana s napuhanim balonom. Što to pokazuje?",
+      "ponudeni": [
+        "Zrak nema nikakvu masu",
+        "Probušeni balon postao je teži",
+        "Zrak ima masu",
+        "Štap se slomio na sredini"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iz probušenog balona izašao je zrak, pa je napuhani balon s druge strane teži. To pokazuje da zrak ima masu.",
+      "savjet": "Razmisli što je nestalo iz probušenog balona."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-071",
+      "tezina": "tesko",
+      "pitanje": "Učenici su jednu bijelu krpicu objesili na prozor uz prometnu cestu, a drugu na prozor prema vrtu. Nakon tjedan dana krpica uz cestu bila je tamnija. Što zaključuju?",
+      "ponudeni": [
+        "Krpica uz cestu bila je starija",
+        "Zrak uz prometnu cestu više je onečišćen",
+        "Krpica uz vrt bila je deblja",
+        "Uz vrt puše jači vjetar"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uz prometnu cestu u zraku ima više prašine i čađe iz ispušnih plinova, pa je ta krpica postala tamnija.",
+      "savjet": "Razmisli po čemu se razlikuje zrak uz cestu i zrak uz vrt."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-072",
+      "tezina": "tesko",
+      "pitanje": "Pilot balona na topli zrak prestane grijati zrak u balonu. Što će se dogoditi?",
+      "ponudeni": [
+        "Balon će se dizati sve brže",
+        "Balon će ostati na istoj visini",
+        "Balon će se rasprsnuti od hladnoće",
+        "Balon će se spuštati jer se zrak u njemu hladi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Balon se diže jer je zrak u njemu topliji i lakši. Kad se ohladi, više nije lakši od okolnog zraka pa se balon spušta.",
+      "savjet": "Sjeti se zašto se balon uopće diže i što se mijenja kad grijanje prestane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-073",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o sastavu zraka točna?",
+      "ponudeni": [
+        "Najviše je dušika, manje kisika, a vrlo malo ugljikova dioksida",
+        "Najviše je kisika, manje dušika, a vrlo malo ugljikova dioksida",
+        "Najviše je ugljikova dioksida, a vrlo malo kisika",
+        "U zraku je samo kisik"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zrak je smjesa plinova: najviše je dušika, zatim kisika, a ugljikova dioksida ima vrlo malo.",
+      "savjet": "Pažljivo provjeri redoslijed plinova u svakoj tvrdnji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-074",
+      "tezina": "tesko",
+      "pitanje": "Kad bi na Zemlji nestale sve biljke, što bi se postupno dogodilo sa zrakom?",
+      "ponudeni": [
+        "Bilo bi sve više kisika",
+        "Zrak bi postao čišći",
+        "U zraku bi bilo sve manje kisika",
+        "Ništa se ne bi promijenilo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljke otpuštaju kisik u zrak. Bez njih bi ljudi i životinje kisik samo trošili, a nitko ga ne bi stvarao.",
+      "savjet": "Razmisli koji plin biljke vraćaju u zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-075",
+      "tezina": "tesko",
+      "pitanje": "Mia želi pokazati da zrak zauzima prostor. Koji pokus treba izvesti?",
+      "ponudeni": [
+        "Staviti kocku leda na sunce",
+        "Uroniti „praznu“ bocu u vodu i promatrati mjehuriće",
+        "Posaditi sjemenke graha",
+        "Izmjeriti temperaturu vode"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mjehurići koji izlaze iz „prazne“ boce pokazuju da je u njoj bio zrak i da je zauzimao prostor dok ga voda nije istisnula.",
+      "savjet": "Potraži pokus u kojem se zrak vidi ili istiskuje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-076",
+      "tezina": "tesko",
+      "pitanje": "Kuhar je zapaljeno ulje u tavi ugasio tako da je tavu prekrio poklopcem. Zašto se vatra ugasila?",
+      "ponudeni": [
+        "Poklopac je pritisnuo plamen",
+        "Pod poklopcem je postalo mračno",
+        "Poklopac je napravljen od metala",
+        "Vatra više nije dobivala zrak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poklopac sprečava da do vatre dođe svjež zrak. Bez kisika vatra se brzo ugasi. Zapaljeno ulje nikad se ne gasi vodom!",
+      "savjet": "Sjeti se pokusa sa svijećom pod staklenkom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-077",
+      "tezina": "tesko",
+      "pitanje": "Odrasla osoba lagano puše u žar u kaminu i vatra se rasplamsa. Zašto?",
+      "ponudeni": [
+        "Vatra dobiva više zraka, a s njim i kisika",
+        "Puhanje hladi žar",
+        "U dahu je samo dušik",
+        "Puhanje odnosi zrak od vatre"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Puhanjem do žara dolazi više zraka, a time i više kisika, pa vatra jače gori.",
+      "savjet": "Razmisli što vatri treba iz zraka da bi gorjela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-078",
+      "tezina": "tesko",
+      "pitanje": "Zašto je za vožnju biciklom bolje izabrati put kroz park nego put uz prometnu cestu?",
+      "ponudeni": [
+        "Put kroz park je ravniji",
+        "Uz cestu se udiše više ispušnih plinova",
+        "U parku je zrak topliji",
+        "Uz cestu je previše drveća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dok voziš bicikl, dišeš brže i dublje. Uz prometnu cestu tada udišeš više ispušnih plinova nego u parku.",
+      "savjet": "Razmisli kakav je zrak uz cestu, a kakav među drvećem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-079",
+      "tezina": "tesko",
+      "pitanje": "Zašto papirnati zmaj ne može poletjeti kad je potpuno mirno vrijeme?",
+      "ponudeni": [
+        "Zmaj leti samo noću",
+        "Zmaj je napravljen od papira",
+        "Nema vjetra koji bi ga podigao",
+        "Po mirnom vremenu nema zraka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zmaja u zraku drži vjetar koji struji i gura ga prema gore. Zraka ima i po mirnom vremenu, ali ne struji.",
+      "savjet": "Razmisli razlikuje li se zrak po vjetrovitom i po mirnom danu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-080",
+      "tezina": "tesko",
+      "pitanje": "Ana tvrdi da je boca bez vode stvarno prazna. Kako joj možeš pokazati da nije u pravu?",
+      "ponudeni": [
+        "Pogledati bocu prema svjetlu",
+        "Protresti bocu i slušati",
+        "Pomirisati otvor boce",
+        "Uroniti otvorenu bocu u vodu i pokazati mjehuriće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad voda ulazi u bocu, zrak iz nje izlazi u mjehurićima. To dokazuje da je boca bila puna zraka.",
+      "savjet": "Zrak ne vidimo, pa smisli kako bi ga mogao učiniti vidljivim."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-081",
+      "tezina": "tesko",
+      "pitanje": "Zašto lopta napunjena zrakom pluta na vodi?",
+      "ponudeni": [
+        "Zrak je mnogo lakši od vode",
+        "Lopta je teža od vode",
+        "Voda privlači loptu prema gore",
+        "Lopta je okrugla"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lopta je uglavnom puna zraka, a zrak je mnogo lakši od vode, pa lopta pluta.",
+      "savjet": "Razmisli što se nalazi unutar lopte i usporedi to s vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-082",
+      "tezina": "tesko",
+      "pitanje": "Grad je zabranio vožnju automobila u središtu grada. Kako će to utjecati na zrak u središtu?",
+      "ponudeni": [
+        "Zrak će biti onečišćeniji",
+        "Zrak će postati topliji",
+        "Neće biti nikakve promjene",
+        "Zrak će biti čišći"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bez automobila u središtu nema ni njihovih ispušnih plinova, pa je zrak ondje čišći.",
+      "savjet": "Razmisli što automobili ispuštaju u zrak dok voze."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto dim iz dimnjaka po mirnom danu odlazi ravno prema gore?",
+      "ponudeni": [
+        "Dim je teži od zraka",
+        "Topli dim i zrak dižu se prema gore",
+        "Hladan zrak privlači dim",
+        "Vjetar puše odozdo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dim iz peći je topao, a topao zrak je lakši pa se diže. Kad nema vjetra, dim ide ravno gore.",
+      "savjet": "Sjeti se kamo ide zrak koji se zagrije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-084",
+      "tezina": "tesko",
+      "pitanje": "Zašto je opasno ostaviti upaljen motor automobila u zatvorenoj garaži?",
+      "ponudeni": [
+        "Garaža se previše ohladi",
+        "Motor će se prebrzo ugasiti",
+        "Nakupljaju se otrovni ispušni plinovi",
+        "Garaža postaje mračna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U zatvorenoj garaži ispušni plinovi ne mogu otići van, nakupljaju se i mogu otrovati ljude.",
+      "savjet": "Razmisli kamo odlaze ispušni plinovi kad nema otvora prema van."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-085",
+      "tezina": "tesko",
+      "pitanje": "Obitelj bira kako zagrijavati vodu za kupanje. Koji izbor najmanje onečišćuje zrak?",
+      "ponudeni": [
+        "Peć na ugljen",
+        "Sunčani kolektori na krovu",
+        "Peć na drva",
+        "Spaljivanje starog otpada"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sunčani kolektori vodu griju Sunčevom toplinom, bez gorenja i bez dima.",
+      "savjet": "Potraži izbor pri kojem ništa ne gori."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-086",
+      "tezina": "tesko",
+      "pitanje": "Koji je prijedlog najbolji za čišći zrak u mjestu?",
+      "ponudeni": [
+        "Posaditi drvored uz prometnu cestu",
+        "Proširiti parkiralište",
+        "Spaljivati lišće u jesen",
+        "Izgraditi tvornicu u središtu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Drveće uz cestu zadržava prašinu i otpušta kisik, pa je zrak čišći.",
+      "savjet": "Potraži prijedlog koji u mjesto donosi više biljaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-087",
+      "tezina": "tesko",
+      "pitanje": "Svijeća je u pokusu poklopljena staklenkom, ali je staklenka podignuta prije nego što se svijeća ugasila. Što će se dogoditi?",
+      "ponudeni": [
+        "Svijeća će se odmah ugasiti",
+        "Plamen će promijeniti boju",
+        "Svijeća će se rastopiti",
+        "Svijeća će gorjeti dalje jer dobiva svjež zrak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad se staklenka podigne, do plamena opet dolazi svjež zrak s kisikom pa svijeća nastavi gorjeti.",
+      "savjet": "Razmisli zašto se svijeća pod staklenkom gasi i što se mijenja kad staklenke nema."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-088",
+      "tezina": "tesko",
+      "pitanje": "Napuhani balon pušten je nevezan i odletio je po sobi. Zašto?",
+      "ponudeni": [
+        "Balon privlači strop",
+        "Zrak u sobi se zagrijao",
+        "Zrak naglo izlazi iz balona i gura ga",
+        "Balon je lakši od sobe"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stlačeni zrak naglo izlazi kroz otvor balona i pritom ga gura na suprotnu stranu.",
+      "savjet": "Razmisli što izlazi iz balona dok leti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-089",
+      "tezina": "tesko",
+      "pitanje": "Lopta koja je zimi ostala vani preko noći postala je mekša. Zašto?",
+      "ponudeni": [
+        "Zrak u lopti se ohladio i skupio",
+        "Hladnoća je probušila loptu",
+        "Zrak se pretvorio u led",
+        "Lopta je upila snijeg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zagrijan zrak se širi, a ohlađen skuplja. Zrak u lopti se ohladio i skupio pa je lopta mekša.",
+      "savjet": "Sjeti se pokusa s balonom na boci i toplom vodom, samo obrnuto."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zrak-090",
+      "tezina": "tesko",
+      "pitanje": "Ljeti je u parku ugodnije nego na betonskom trgu. Zašto?",
+      "ponudeni": [
+        "Beton otpušta kisik",
+        "Drveće daje hlad i pročišćava zrak",
+        "Na trgu nema zraka",
+        "U parku je manje kisika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Drveće stvara hlad, zadržava prašinu i otpušta kisik, pa je u parku zrak svježiji.",
+      "savjet": "Razmisli što ima u parku, a nema na trgu."
+    }
+  ]
+}

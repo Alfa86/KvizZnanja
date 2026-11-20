@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "voda",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-voda-001",
+      "tezina": "lagano",
+      "pitanje": "U kojim se trima stanjima može nalaziti voda?",
+      "ponudeni": [
+        "Tvrdom, mekanom i ljepljivom",
+        "Krutom, tekućem i plinovitom",
+        "Hladnom, toplom i vrućem",
+        "Čistom, mutnom i prljavom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda može biti kruta (led, snijeg), tekuća (voda u čaši, kiša) i plinovita (vodena para).",
+      "savjet": "Sjeti se leda, vode u čaši i pare koja nastaje kad voda isparava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva voda u krutom stanju?",
+      "ponudeni": [
+        "Vodena para",
+        "Rosa",
+        "Kiša",
+        "Led"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kada se voda zaledi, postaje kruta. Voda u krutom stanju naziva se led.",
+      "savjet": "Kruto je ono što možeš uhvatiti i što zadržava svoj oblik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva voda u plinovitom stanju?",
+      "ponudeni": [
+        "Vodena para",
+        "Led",
+        "Snijeg",
+        "Tuča"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kada voda isparava, prelazi u plinovito stanje i postaje vodena para.",
+      "savjet": "Razmisli što nastaje kada voda isparava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-004",
+      "tezina": "lagano",
+      "pitanje": "Pri kojoj se temperaturi voda ledi?",
+      "ponudeni": [
+        "100 °C",
+        "50 °C",
+        "0 °C",
+        "10 °C"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Voda se ledi pri 0 °C. Zato se zimi, kad je temperatura ispod nule, lokve i jezera zalede.",
+      "savjet": "Na termometru potraži granicu između plus i minus stupnjeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-005",
+      "tezina": "lagano",
+      "pitanje": "Pri kojoj temperaturi voda vrije?",
+      "ponudeni": [
+        "0 °C",
+        "100 °C",
+        "37 °C",
+        "20 °C"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda vrije pri 100 °C. Tada snažno ključa i brzo se pretvara u vodenu paru.",
+      "savjet": "Vrenje traži vrlo visoku temperaturu, mnogo višu od temperature ljudskog tijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-006",
+      "tezina": "lagano",
+      "pitanje": "Kakva je čista voda?",
+      "ponudeni": [
+        "Bijele boje, bez okusa i mirisa",
+        "Plave boje, slana i mirisna",
+        "Žućkaste boje, kisela i bez mirisa",
+        "Bez boje, bez mirisa i bez okusa"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Čista voda nema boje, mirisa ni okusa. Prozirna je pa kroz nju vidimo.",
+      "savjet": "Zamisli čašu čiste vode iz slavine i opiši je osjetilima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva pretvaranje tekuće vode u vodenu paru?",
+      "ponudeni": [
+        "Isparavanje",
+        "Smrzavanje",
+        "Topljenje",
+        "Otapanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kada tekuća voda prelazi u vodenu paru, kažemo da isparava.",
+      "savjet": "Naziv pojave sličan je riječi „para“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-008",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenoga oborina?",
+      "ponudeni": [
+        "Oblak",
+        "Vjetar",
+        "Kiša",
+        "Rijeka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oborine su voda koja pada iz oblaka na tlo. Kiša je oborina.",
+      "savjet": "Oborina je ono što pada iz oblaka na tlo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-009",
+      "tezina": "lagano",
+      "pitanje": "Koja oborina pada u obliku komadića leda?",
+      "ponudeni": [
+        "Kiša",
+        "Tuča",
+        "Rosa",
+        "Susnježica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tuča su komadići leda koji padaju iz oblaka. Može pasti i ljeti.",
+      "savjet": "Sjeti se oborine koja zna oštetiti automobile i usjeve."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-010",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva oborina kada istodobno padaju kiša i snijeg?",
+      "ponudeni": [
+        "Tuča",
+        "Magla",
+        "Pljusak",
+        "Susnježica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Susnježica je oborina u kojoj zajedno padaju kiša i snijeg.",
+      "savjet": "U nazivu se krije riječ „snijeg“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-011",
+      "tezina": "lagano",
+      "pitanje": "Što se dogodi s ledom kada ga izvadimo iz zamrzivača i ostavimo na toplom?",
+      "ponudeni": [
+        "Topi se i postaje tekuća voda",
+        "Postaje sve tvrđi",
+        "Pretvara se u snijeg",
+        "Ostaje potpuno jednak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na toplom se led topi i prelazi u tekuću vodu.",
+      "savjet": "Sjeti se što se događa sa sladoledom ili snjegovićem na suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-012",
+      "tezina": "lagano",
+      "pitanje": "Što nastaje kada se vodena para visoko u zraku ohladi?",
+      "ponudeni": [
+        "Zrnca pijeska u zraku",
+        "Sitne kapljice vode koje čine oblake",
+        "Mjehurići zraka u vodi",
+        "Topli vjetar"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kada se vodena para u visini ohladi, nastaju sitne kapljice vode. Mnogo takvih kapljica čini oblak.",
+      "savjet": "Pogledaj u nebo i sjeti se što je napravljeno od vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-013",
+      "tezina": "lagano",
+      "pitanje": "Kojim je živim bićima potrebna voda?",
+      "ponudeni": [
+        "Samo biljkama",
+        "Samo ljudima",
+        "Samo životinjama u moru",
+        "Svim živim bićima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bez vode ne mogu živjeti ni ljudi, ni životinje, ni biljke. Voda je potrebna svim živim bićima.",
+      "savjet": "Razmisli može li ijedno živo biće dugo živjeti bez vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-014",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva voda koja je čista i sigurna za piće?",
+      "ponudeni": [
+        "Pitka voda",
+        "Morska voda",
+        "Otpadna voda",
+        "Kišnica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pitka voda je čista voda koju smijemo piti bez opasnosti za zdravlje.",
+      "savjet": "Naziv dolazi od glagola koji znači „uzimati tekućinu“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-015",
+      "tezina": "lagano",
+      "pitanje": "Kakva je voda u moru?",
+      "ponudeni": [
+        "Slatka",
+        "Slana",
+        "Kisela",
+        "Gorka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U morskoj vodi otopljena je sol, zato je morska voda slana.",
+      "savjet": "Sjeti se okusa vode kada te ljeti na plaži zapljusne val."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-016",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva stalno putovanje vode s tla u zrak i natrag na tlo?",
+      "ponudeni": [
+        "Otapanje vode",
+        "Pročišćavanje vode",
+        "Kruženje vode",
+        "Smrzavanje vode"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Voda isparava, stvara oblake i pada kao oborina pa se sve ponavlja. To je kruženje vode u prirodi.",
+      "savjet": "Putovanje koje se stalno ponavlja i vraća na početak podsjeća na krug."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-017",
+      "tezina": "lagano",
+      "pitanje": "Što zagrijava vodu u morima, rijekama i jezerima pa ona isparava?",
+      "ponudeni": [
+        "Mjesec",
+        "Vjetar",
+        "Zvijezde",
+        "Sunce"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunce zagrijava vodu na Zemlji pa ona isparava. Tako počinje kruženje vode.",
+      "savjet": "Razmisli što Zemlji daje svjetlost i toplinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-018",
+      "tezina": "lagano",
+      "pitanje": "Kakav oblik ima tekuća voda?",
+      "ponudeni": [
+        "Okrugao kao lopta",
+        "Oblik kocke",
+        "Poprima oblik posude u kojoj se nalazi",
+        "Oblik kapi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tekuća voda nema svoj stalan oblik. Poprima oblik posude u koju je ulijemo.",
+      "savjet": "Zamisli vodu u čaši, u boci i u vazi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-019",
+      "tezina": "lagano",
+      "pitanje": "U kojem je stanju voda u snijegu?",
+      "ponudeni": [
+        "U tekućem",
+        "U plinovitom",
+        "U krutom",
+        "U tekućem i plinovitom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Snijeg čine sitni ledeni kristali, pa je voda u snijegu u krutom stanju.",
+      "savjet": "Sjeti se od čega su građene snježne pahulje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-020",
+      "tezina": "lagano",
+      "pitanje": "U kojem je od navedenih primjera voda u tekućem stanju?",
+      "ponudeni": [
+        "Led na klizalištu",
+        "Kiša",
+        "Snježna pahulja",
+        "Ledenica na krovu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kiša su kapljice tekuće vode. Led, snijeg i ledenice su voda u krutom stanju.",
+      "savjet": "Potraži vodu koja teče i kaplje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-021",
+      "tezina": "lagano",
+      "pitanje": "Gdje ima najviše vode na Zemlji?",
+      "ponudeni": [
+        "U rijekama",
+        "U jezerima",
+        "U morima i oceanima",
+        "U oblacima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najviše vode na Zemlji nalazi se u morima i oceanima. Ta je voda slana.",
+      "savjet": "Pogledaj globus i razmisli koja boja na njemu prevladava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-022",
+      "tezina": "lagano",
+      "pitanje": "Što će se dogoditi s lokvom nakon kiše kada izađe Sunce?",
+      "ponudeni": [
+        "Lokva će postati veća",
+        "Voda će se zalediti",
+        "Voda će postati slana",
+        "Voda će ispariti i lokva će nestati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunce zagrijava vodu u lokvi pa ona isparava. Lokva se smanjuje dok ne nestane.",
+      "savjet": "Sjeti se što toplina Sunca čini s vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-023",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo vodu koja iz oblaka pada na tlo?",
+      "ponudeni": [
+        "Oborine",
+        "Izvori",
+        "Vodotoci",
+        "Pare"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kiša, snijeg, tuča i susnježica padaju iz oblaka. Zajedno ih zovemo oborine.",
+      "savjet": "Naziv je povezan s riječju „oboriti“, što znači srušiti prema tlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-024",
+      "tezina": "lagano",
+      "pitanje": "Što se događa s vodom kada je zimi temperatura zraka niža od 0 °C?",
+      "ponudeni": [
+        "Isparava brže nego ljeti",
+        "Ledi se",
+        "Vrije",
+        "Postaje slana"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda se ledi pri 0 °C. Kad je hladnije od toga, lokve i potoci se zalede.",
+      "savjet": "Sjeti se kakve su lokve zimi kad je jako hladno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-025",
+      "tezina": "lagano",
+      "pitanje": "Što se dogodi s vodom koju dugo zagrijavamo u loncu na štednjaku?",
+      "ponudeni": [
+        "Ledi se",
+        "Postaje gušća",
+        "Ostaje potpuno ista",
+        "Vrije i pretvara se u vodenu paru"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagrijana voda zavrije i pretvara se u vodenu paru. Zato je u loncu sve manje vode.",
+      "savjet": "Sjeti se što se događa kad se kuha čaj ili tjestenina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-026",
+      "tezina": "lagano",
+      "pitanje": "Koju od navedenih tvari voda može otopiti?",
+      "ponudeni": [
+        "Šećer",
+        "Kamen",
+        "Pijesak",
+        "Staklo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Šećer se u vodi otapa i više ga ne vidimo. Kamen, pijesak i staklo se u vodi ne otapaju.",
+      "savjet": "Sjeti se što stavljaš u čaj da bude sladak i što se s tim dogodi kad promiješaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-027",
+      "tezina": "lagano",
+      "pitanje": "Zašto trebamo štedjeti pitku vodu?",
+      "ponudeni": [
+        "Jer se voda brzo pretvara u led",
+        "Jer se voda ne smije piti",
+        "Jer je pitke vode malo u odnosu na svu vodu",
+        "Jer je voda potrebna samo biljkama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na Zemlji je mnogo vode, ali je većina slana. Pitke vode je malo pa je moramo čuvati.",
+      "savjet": "Sjeti se da je voda u morima slana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-028",
+      "tezina": "lagano",
+      "pitanje": "Kojim postupkom štedimo vodu?",
+      "ponudeni": [
+        "Zatvaramo slavinu dok peremo zube",
+        "Puštamo vodu da teče dok peremo zube",
+        "Svaki dan peremo automobil",
+        "Dugo se tuširamo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dok peremo zube, voda ne mora teći. Zatvaranjem slavine štedimo mnogo vode.",
+      "savjet": "Potraži postupak nakon kojega manje vode oteče u odvod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-029",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga onečišćuje vodu?",
+      "ponudeni": [
+        "Sadnja drveća uz obalu",
+        "Kiša koja pada u rijeku",
+        "Ribe koje žive u rijeci",
+        "Bacanje smeća u rijeku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Smeće bačeno u rijeku onečišćuje vodu i šteti živim bićima koja u njoj žive.",
+      "savjet": "Potraži postupak koji čine ljudi i koji šteti prirodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-030",
+      "tezina": "lagano",
+      "pitanje": "Od čega su građeni oblaci?",
+      "ponudeni": [
+        "Od dima",
+        "Od vate",
+        "Od sitnih kapljica vode ili kristalića leda",
+        "Od prašine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oblaci su građeni od vrlo sitnih kapljica vode ili kristalića leda koji lebde u zraku.",
+      "savjet": "Sjeti se što pada iz oblaka kad pada kiša."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto se rublje na suncu osuši brže nego u hladu?",
+      "ponudeni": [
+        "Na suncu je toplije pa voda brže isparava",
+        "Sunce upija boju rublja",
+        "U hladu je vjetar jači",
+        "U hladu se voda u rublju ledi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Toplina ubrzava isparavanje. Na suncu je toplije pa voda iz rublja brže ispari.",
+      "savjet": "Razmisli o čemu ovisi koliko brzo voda isparava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto se rublje brže osuši kada puše vjetar?",
+      "ponudeni": [
+        "Vjetar donosi kišu",
+        "Vjetar pomaže da voda brže isparava",
+        "Vjetar ledi vodu u rublju",
+        "Vjetar istiskuje vodu u tlo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjetar odnosi vodenu paru od mokrog rublja pa voda iz njega brže isparava.",
+      "savjet": "Sjeti se zašto puhanjem brže ohladiš i osušiš mokre ruke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-033",
+      "tezina": "srednje",
+      "pitanje": "Kako nastaju oblaci?",
+      "ponudeni": [
+        "Nastaju od dima iz tvornica",
+        "Vjetar podigne prašinu sa zemlje",
+        "Vodena para se u visini ohladi i stvori sitne kapljice",
+        "Sunce pretvara zrak u vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Voda isparava, a vodena para se diže u visinu. Ondje se ohladi i stvara sitne kapljice koje čine oblake.",
+      "savjet": "Sjeti se što se događa s vodenom parom kada se ohladi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-034",
+      "tezina": "srednje",
+      "pitanje": "Kada iz oblaka umjesto kiše pada snijeg?",
+      "ponudeni": [
+        "Kada je zrak vrlo topao",
+        "Kada puše jak vjetar",
+        "Kada je oblak vrlo velik",
+        "Kada je zrak toliko hladan da voda pada smrznuta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Snijeg pada kada je zrak dovoljno hladan da voda iz oblaka padne kao ledeni kristali, a ne kao kapljice.",
+      "savjet": "Razmisli u kojem je stanju voda u snijegu i što je za to potrebno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-035",
+      "tezina": "srednje",
+      "pitanje": "Vodu iz visoke čaše prelijemo u plitki tanjur. Što to pokazuje o vodi?",
+      "ponudeni": [
+        "Voda se pri prelijevanju ledi",
+        "Tekuća voda poprima oblik posude",
+        "Voda pri prelijevanju mijenja okus",
+        "Voda u tanjuru postaje vodena para"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tekuća voda nema stalan oblik. U čaši ima oblik čaše, a u tanjuru oblik tanjura.",
+      "savjet": "Usporedi izgled vode u čaši i u tanjuru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-036",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko kiši, snijegu i tuči?",
+      "ponudeni": [
+        "Sve su u tekućem stanju",
+        "Sve padaju samo ljeti",
+        "Sve su oborine koje padaju iz oblaka",
+        "Sve su vodena para"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kiša, snijeg i tuča padaju iz oblaka na tlo, pa ih sve nazivamo oborinama.",
+      "savjet": "Razmisli odakle dolaze sve tri pojave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-037",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s vodom koja ispari iz mora?",
+      "ponudeni": [
+        "Zauvijek ostaje u zraku",
+        "Pretvara se u sol",
+        "Nestaje sa Zemlje",
+        "Hladi se u visini, stvara oblake i vraća se kao oborina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Isparena voda se u visini ohladi i stvara oblake. Iz oblaka se vraća na Zemlju kao kiša ili snijeg.",
+      "savjet": "Sjeti se zašto kažemo da voda u prirodi kruži."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-038",
+      "tezina": "srednje",
+      "pitanje": "Zimi se jezero zaledi samo na površini, a ispod je tekuća voda. Što to pokazuje o ledu?",
+      "ponudeni": [
+        "Led je teži od vode pa tone",
+        "Led pluta na vodi",
+        "Led je topliji od vode",
+        "Led se ne može otopiti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Led pluta na vodi. Zato se jezero zaledi odozgo, a ispod leda ostaje tekuća voda.",
+      "savjet": "Sjeti se što se dogodi s kockom leda kad je ubaciš u čašu soka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto staklena boca puna vode može puknuti u zamrzivaču?",
+      "ponudeni": [
+        "Voda se pri ledenju širi i zauzima više mjesta",
+        "Voda u zamrzivaču isparava",
+        "Led je teži od vode",
+        "Hladnoća otapa staklo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad se voda zaledi, zauzima više mjesta nego prije. Led pritišće stijenke boce pa ona može puknuti.",
+      "savjet": "Usporedi koliko mjesta zauzima voda prije i poslije ledenja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-040",
+      "tezina": "srednje",
+      "pitanje": "Što nastaje kada se snijeg otopi?",
+      "ponudeni": [
+        "Vodena para",
+        "Tuča",
+        "Tekuća voda",
+        "Led"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Snijeg je voda u krutom stanju. Kada se otopi, prelazi u tekuću vodu.",
+      "savjet": "Sjeti se što ostane na mjestu snjegovića kad zatopli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-041",
+      "tezina": "srednje",
+      "pitanje": "Koji red pravilno prikazuje kruženje vode ako krenemo od mora?",
+      "ponudeni": [
+        "more → oblaci → isparavanje → oborine",
+        "more → oborine → oblaci → isparavanje",
+        "more → oborine → isparavanje → oblaci",
+        "more → isparavanje → oblaci → oborine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voda iz mora najprije isparava, zatim se vodena para ohladi i stvara oblake, a iz oblaka padaju oborine.",
+      "savjet": "Razmisli kako voda iz mora najprije dospije u zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-042",
+      "tezina": "srednje",
+      "pitanje": "Iz šalice vruće juhe diže se para. Što se događa s vodom u juhi?",
+      "ponudeni": [
+        "Dio vode isparava",
+        "Voda se ledi",
+        "Juhe je sve više",
+        "Voda se pretvara u sol"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vruća voda brzo isparava. Zato se iznad vruće juhe diže para, a juhe je sve manje.",
+      "savjet": "Razmisli što toplina čini s vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-043",
+      "tezina": "srednje",
+      "pitanje": "Topla vodena para iz kuhinje dodirne hladno prozorsko staklo. Što nastaje na staklu?",
+      "ponudeni": [
+        "Prašina iz zraka",
+        "Mjehurići zraka",
+        "Kapljice vode",
+        "Zrnca soli"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vodena para se na hladnom staklu ohladi i stvara kapljice vode. Zato se prozori u kuhinji orose.",
+      "savjet": "Sjeti se što nastaje kada se vodena para ohladi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto biljka u loncu uvene ako je dugo ne zalijevamo?",
+      "ponudeni": [
+        "Ima previše svjetlosti",
+        "Nema dovoljno vode koja joj je potrebna za život",
+        "Zemlja u loncu postane preteška",
+        "Listovi postanu prehladni"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljke za život trebaju vodu. Kada nema vode, biljka vene i može se osušiti.",
+      "savjet": "Razmisli što biljci dajemo kad je zalijevamo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-045",
+      "tezina": "srednje",
+      "pitanje": "Koji primjer pokazuje da voda može otopiti neke tvari?",
+      "ponudeni": [
+        "Kamen u vodi potone",
+        "Ulje pluta na vodi",
+        "Pijesak se slegne na dno čaše",
+        "Šećer u čaju nestane iz vida kad ga promiješamo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Šećer se u vodi otopi i više ga ne vidimo, ali čaj postane sladak. Kamen i pijesak se ne otapaju.",
+      "savjet": "Potraži tvar koja se u vodi „izgubi“, ali se po okusu zna da je ondje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-046",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko ledu, tekućoj vodi i vodenoj pari?",
+      "ponudeni": [
+        "Sva su tri u tekućem stanju",
+        "Sva tri imaju jednaku temperaturu",
+        "Sva su tri ista tvar – voda",
+        "Sva se tri mogu držati u ruci"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Led, tekuća voda i vodena para su ista tvar, voda, samo u različitim stanjima.",
+      "savjet": "Razmisli što se mijenja kad led postane voda, a što ostaje isto."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-047",
+      "tezina": "srednje",
+      "pitanje": "Vodu ulijemo u kalup i stavimo u zamrzivač. Zašto nastanu kockice leda?",
+      "ponudeni": [
+        "U zamrzivaču voda isparava",
+        "U zamrzivaču je hladnije od 0 °C pa se voda ledi",
+        "Kalup upija vodu i otvrdne",
+        "Voda u zamrzivaču postaje slana"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda se ledi pri 0 °C. U zamrzivaču je hladnije od toga pa voda prelazi u led.",
+      "savjet": "Sjeti se pri kojoj se temperaturi voda ledi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-048",
+      "tezina": "srednje",
+      "pitanje": "Zašto ljudi trebaju piti vodu svaki dan?",
+      "ponudeni": [
+        "Voda daje boju koži",
+        "Voda je potrebna samo kad smo bolesni",
+        "Voda služi samo za pranje zuba",
+        "Tijelo stalno gubi vodu pa je treba nadoknaditi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Naše tijelo stalno gubi vodu, na primjer znojenjem i disanjem. Zato vodu moramo piti svaki dan.",
+      "savjet": "Sjeti se što se događa s tijelom kad se znojiš za vrućeg dana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-049",
+      "tezina": "srednje",
+      "pitanje": "Kako onečišćena voda u rijeci djeluje na živa bića?",
+      "ponudeni": [
+        "Rijeka zbog nje teče brže",
+        "Voda postaje bolja za piće",
+        "Ribe i druga živa bića u rijeci mogu stradati",
+        "Voda se više ne može zagrijati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Onečišćena voda šteti biljkama i životinjama koje u njoj žive. Mnoge mogu stradati.",
+      "savjet": "Razmisli kome je rijeka dom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-050",
+      "tezina": "srednje",
+      "pitanje": "U kojem je primjeru voda u krutom stanju?",
+      "ponudeni": [
+        "Magla nad rijekom",
+        "Tuča na travnjaku",
+        "Rosa na travi",
+        "Kiša u lokvi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tuča su komadići leda, pa je u njoj voda u krutom stanju. Magla, rosa i kiša su kapljice tekuće vode.",
+      "savjet": "Potraži primjer u kojem je voda tvrda i hladna kao led."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-051",
+      "tezina": "srednje",
+      "pitanje": "Ujutro su na travi kapljice rose iako noću nije padala kiša. Odakle je ta voda?",
+      "ponudeni": [
+        "Iz mora, donio ju je vjetar",
+        "Iz tla, istisnulo ju je kamenje",
+        "Iz oblaka, pala je kao snijeg",
+        "Iz vodene pare u zraku koja se ohladila na travi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U zraku uvijek ima vodene pare. Noću se ona na hladnoj travi ohladi i stvori kapljice rose.",
+      "savjet": "Sjeti se što se događa s vodenom parom kad dodirne nešto hladno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto snijeg u proljeće nestaje?",
+      "ponudeni": [
+        "Zbog topline Sunca snijeg se topi",
+        "Vjetar ga odnese u more",
+        "Ljudi ga pokupe lopatama",
+        "Tlo ga upije prije nego što se otopi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U proljeće je toplije jer Sunce jače grije. Snijeg se topi i postaje tekuća voda.",
+      "savjet": "Razmisli što se u proljeće mijenja u odnosu na zimu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-053",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s vodom u loncu ako je dugo kuhamo bez poklopca?",
+      "ponudeni": [
+        "Vode je sve više",
+        "Voda se pretvara u led",
+        "Vode je sve manje jer isparava",
+        "Voda postaje gusta kao med"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kipuća voda brzo isparava. Vodena para odlazi u zrak pa u loncu ostaje sve manje vode.",
+      "savjet": "Razmisli kamo odlazi para koja se diže iz lonca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto kažemo da voda u prirodi kruži?",
+      "ponudeni": [
+        "Jer se rijeke vrte u krug",
+        "Jer stalno putuje s tla u zrak i natrag na tlo",
+        "Jer more teče oko kopna",
+        "Jer se oblaci okreću oko Zemlje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda isparava, stvara oblake i pada kao oborina, a zatim ponovno isparava. Taj se put stalno ponavlja.",
+      "savjet": "Razmisli što u kruženju vode znači riječ „krug“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-055",
+      "tezina": "srednje",
+      "pitanje": "Kamo odlazi kišnica koja padne na tlo?",
+      "ponudeni": [
+        "Sva zauvijek nestane",
+        "Sva se pretvori u led",
+        "Sva ostane na površini tla",
+        "Upija se u tlo, otječe u potoke i rijeke i isparava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dio kišnice upije tlo, dio oteče u potoke i rijeke, a dio ispari i opet sudjeluje u kruženju vode.",
+      "savjet": "Sjeti se što se nakon kiše događa s lokvama, tlom i potocima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-056",
+      "tezina": "srednje",
+      "pitanje": "Koji primjer pokazuje da tekuća voda teče?",
+      "ponudeni": [
+        "Rijeka nosi lišće nizvodno",
+        "Led na jezeru je tvrd",
+        "Oblaci su bijeli",
+        "Snijeg je hladan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tekuća voda teče s višeg mjesta na niže. Zato rijeka nosi lišće nizvodno.",
+      "savjet": "Potraži primjer u kojem se voda pomiče."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-057",
+      "tezina": "srednje",
+      "pitanje": "Zašto je tuča opasna za voćnjake i polja?",
+      "ponudeni": [
+        "Tuča je slana i truje biljke",
+        "Tuča isušuje tlo",
+        "Komadići leda mogu oštetiti biljke",
+        "Tuča je vruća pa pali lišće"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tuča su komadići leda koji padaju velikom brzinom. Mogu potrgati lišće, cvjetove i plodove.",
+      "savjet": "Sjeti se od čega je građena tuča."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-058",
+      "tezina": "srednje",
+      "pitanje": "Za što ljudi koriste vodu?",
+      "ponudeni": [
+        "Za piće, kuhanje, pranje i zalijevanje",
+        "Samo za piće",
+        "Samo za kupanje",
+        "Samo za gašenje požara"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vodu koristimo na mnogo načina: pijemo je, kuhamo, peremo se i zalijevamo biljke.",
+      "savjet": "Sjeti se svega za što se u tvojoj kući svaki dan koristi voda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-059",
+      "tezina": "srednje",
+      "pitanje": "Zašto se mokra kosa osuši i bez sušila?",
+      "ponudeni": [
+        "Kosa upije svu vodu",
+        "Voda iz kose se zaledi",
+        "Voda iz kose iscuri u pod",
+        "Voda iz kose ispari u zrak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voda isparava i pri sobnoj temperaturi, samo sporije. Zato se kosa s vremenom sama osuši.",
+      "savjet": "Razmisli kamo nestaje voda iz mokrih stvari kad se osuše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-060",
+      "tezina": "srednje",
+      "pitanje": "Kocka leda dugo stoji na vrućem suncu. Kojim se redom mijenja?",
+      "ponudeni": [
+        "led → tekuća voda → vodena para",
+        "led → vodena para → tekuća voda",
+        "tekuća voda → led → vodena para",
+        "vodena para → led → tekuća voda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Led se na suncu najprije otopi u tekuću vodu, a zatim ta voda ispari i postane vodena para.",
+      "savjet": "Sjeti se što se dogodi s ledom na toplom, a što s lokvom na suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-061",
+      "tezina": "tesko",
+      "pitanje": "Iz mora ispari voda, nastanu oblaci i nad kopnom padne kiša. Je li ta kiša slana?",
+      "ponudeni": [
+        "Da, jednako je slana kao more",
+        "Ne, jer pri isparavanju sol ostaje u moru",
+        "Da, ali samo zimi",
+        "Ne, jer kiša nikad ne pada nad morem"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kada morska voda isparava, u zrak odlazi samo voda, a sol ostaje u moru. Zato kiša nije slana.",
+      "savjet": "Razmisli što ostaje u posudi kad iz slane vode ispari sva voda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-062",
+      "tezina": "tesko",
+      "pitanje": "Ana je stavila dvije jednake čaše s jednako vode: jednu na sunčani prozor, a drugu u hladan podrum. Što će vidjeti nakon nekoliko dana?",
+      "ponudeni": [
+        "U obje će čaše biti jednako vode",
+        "U čaši u podrumu bit će manje vode",
+        "U čaši na prozoru bit će manje vode",
+        "U čaši na prozoru bit će više vode"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na toplom voda brže isparava. Zato će u čaši na sunčanom prozoru ostati manje vode.",
+      "savjet": "Razmisli na kojem je mjestu toplije i što toplina čini s vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-063",
+      "tezina": "tesko",
+      "pitanje": "Luka je jednaku količinu vode ulio u plitki tanjur i u usku čašu i stavio ih jednu do druge. Iz čega će voda brže ispariti?",
+      "ponudeni": [
+        "Iz uske čaše",
+        "Iz tanjura, jer je ondje voda raširena po većoj površini",
+        "Iz obje posude jednako brzo",
+        "Ni iz jedne, jer voda ne isparava u kući"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda isparava s površine. U tanjuru je voda raširena po većoj površini pa brže isparava.",
+      "savjet": "Razmisli s kojeg dijela vode voda odlazi u zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-064",
+      "tezina": "tesko",
+      "pitanje": "Hladnu bocu soka izvadiš iz hladnjaka. Nakon nekoliko minuta boca je izvana mokra. Zašto?",
+      "ponudeni": [
+        "Sok je iscurio kroz staklo",
+        "Led u boci se otopio i izašao van",
+        "Boca je bila mokra i u hladnjaku",
+        "Vodena para iz zraka ohladila se na boci i stvorila kapljice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U zraku ima vodene pare. Kad dodirne hladnu bocu, ohladi se i na boci nastanu kapljice vode.",
+      "savjet": "Sjeti se što se u kuhinji događa s hladnim prozorom kad se kuha."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-065",
+      "tezina": "tesko",
+      "pitanje": "Zimi se jezero zaledi. Kako ribe u njemu prežive?",
+      "ponudeni": [
+        "Led pluta na površini, a ispod njega ostaje tekuća voda",
+        "Ribe zimi spavaju zaleđene u ledu",
+        "Ribe se zimi presele u more",
+        "Voda ispod leda je vruća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Led pluta na vodi pa se jezero zaledi samo odozgo. Ispod leda ostaje tekuća voda u kojoj ribe žive.",
+      "savjet": "Sjeti se pluta li led na vodi ili tone."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-066",
+      "tezina": "tesko",
+      "pitanje": "Uz pomoć odrasle osobe iznad lonca s vrućom vodom držimo hladan poklopac. Na njemu nastaju kapljice koje kaplju natrag. Na što to podsjeća?",
+      "ponudeni": [
+        "Na ledenje rijeka zimi",
+        "Na otapanje šećera u vodi",
+        "Na nastanak oblaka i padanje kiše",
+        "Na otjecanje rijeka u more"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vodena para se na hladnom poklopcu ohladi i stvori kapljice koje padaju, kao što iz oblaka pada kiša.",
+      "savjet": "Usporedi vruću vodu s morem, a hladan poklopac s hladnim zrakom u visini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-067",
+      "tezina": "tesko",
+      "pitanje": "Navečer je pala kiša, a noću se temperatura spustila na −5 °C. Kakvu ćeš lokvu ujutro vidjeti na putu do škole?",
+      "ponudeni": [
+        "Lokva će ispariti",
+        "Lokva će se zalediti",
+        "Lokva će zakuhati",
+        "Lokva će ostati tekuća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Temperatura −5 °C niža je od 0 °C, pri kojoj se voda ledi. Zato će lokva biti zaleđena.",
+      "savjet": "Usporedi −5 °C s temperaturom pri kojoj se voda ledi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-068",
+      "tezina": "tesko",
+      "pitanje": "Petra je staklenku napunila vodom do vrha, zatvorila je i stavila u zamrzivač. Što bi se moglo dogoditi?",
+      "ponudeni": [
+        "Voda će ispariti iz zatvorene staklenke",
+        "Voda će ostati tekuća",
+        "Vode će biti upola manje",
+        "Staklenka bi mogla puknuti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voda se pri ledenju širi i zauzima više mjesta. U punoj zatvorenoj staklenci led može razbiti staklo.",
+      "savjet": "Razmisli zauzima li led više ili manje mjesta od vode od koje je nastao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-069",
+      "tezina": "tesko",
+      "pitanje": "Zašto se snijeg na vrhovima planina zadrži dulje nego u nizini?",
+      "ponudeni": [
+        "Na planinama je hladnije pa se snijeg sporije topi",
+        "Na planine ne sija Sunce",
+        "Snijeg na planinama je slan",
+        "Na planinama nikad ne puše vjetar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Što je mjesto više, to je hladnije. Na planinama je zato hladnije pa se snijeg dulje ne otopi.",
+      "savjet": "Sjeti se kako se mijenja temperatura kad se penješ na planinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-070",
+      "tezina": "tesko",
+      "pitanje": "Nakon nekoliko dana jake kiše rijeke nabujaju. Zašto?",
+      "ponudeni": [
+        "Morska voda teče uzvodno",
+        "Ribe istiskuju vodu iz korita",
+        "U rijeke se slijeva voda s okolnog tla",
+        "Sunce zagrijava rijeke pa se šire"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kišnica otječe s okolnog tla u potoke i rijeke. Kad je kiše mnogo, u rijekama je mnogo više vode.",
+      "savjet": "Razmisli kamo otječe kišnica koju tlo ne može upiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-071",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo kada voda na Zemlji ne bi isparavala?",
+      "ponudeni": [
+        "Mora bi postala slatka",
+        "Ne bi nastajali oblaci ni oborine",
+        "Sunce bi prestalo sjati",
+        "Rijeke bi tekle uzbrdo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oblaci nastaju od vodene pare. Bez isparavanja ne bi bilo oblaka, pa ne bi bilo ni kiše ni snijega.",
+      "savjet": "Sjeti se odakle dolazi voda od koje nastaju oblaci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-072",
+      "tezina": "tesko",
+      "pitanje": "Marko je u vodi otopio žličicu soli. Kako može ponovno dobiti sol?",
+      "ponudeni": [
+        "Staviti slanu vodu u zamrzivač",
+        "Dobro je promiješati žlicom",
+        "Dodati još vode",
+        "Ostaviti slanu vodu na toplom da voda ispari"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad voda ispari, sol ne odlazi s njom, nego ostaje na dnu posude. Tako se sol dobiva i u solanama.",
+      "savjet": "Razmisli što od slane vode odlazi u zrak kad voda isparava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-073",
+      "tezina": "tesko",
+      "pitanje": "Ivan je u jednu čašu vode dodao žličicu šećera, a u drugu žličicu pijeska i obje promiješao. Što će vidjeti nakon nekoliko minuta?",
+      "ponudeni": [
+        "Pijesak se otopio, a šećer je na dnu",
+        "Ni šećer ni pijesak se nisu otopili",
+        "Šećer se otopio, a pijesak je na dnu",
+        "Šećer i pijesak su se otopili"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Voda otapa šećer pa ga više ne vidimo. Pijesak se u vodi ne otapa i slegne se na dno.",
+      "savjet": "Sjeti se što se događa sa šećerom u čaju, a što s pijeskom u moru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-074",
+      "tezina": "tesko",
+      "pitanje": "Učenici su na posudi s vodom flomasterom označili razinu vode i ostavili je na prozoru. Za tjedan dana voda je bila ispod oznake. Što zaključuju?",
+      "ponudeni": [
+        "Voda se zaledila",
+        "Dio vode je isparilo",
+        "Voda je postala gušća",
+        "Posuda je upila vodu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda isparava i pri sobnoj temperaturi. Zato je za tjedan dana u posudi ostalo manje vode.",
+      "savjet": "Razmisli kamo je mogao otići dio vode iz otvorene posude."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-075",
+      "tezina": "tesko",
+      "pitanje": "Nebo je oblačno, a temperatura zraka je oko 0 °C. Koje oborine možemo očekivati?",
+      "ponudeni": [
+        "Snijeg ili susnježicu",
+        "Toplu ljetnu kišu",
+        "Samo rosu",
+        "Ljetni pljusak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pri temperaturi oko 0 °C voda se ledi, pa iz oblaka može padati snijeg ili snijeg pomiješan s kišom.",
+      "savjet": "Sjeti se što se događa s vodom pri 0 °C."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-076",
+      "tezina": "tesko",
+      "pitanje": "Kako voda isparena iz mora može pasti kao kiša nad planinom daleko od obale?",
+      "ponudeni": [
+        "Oblaci ne mogu putovati",
+        "Kiša pada samo nad morem",
+        "Oblaci nastaju samo nad kopnom",
+        "Vjetar nosi oblake nad kopno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oblaci nastaju i nad morem, a vjetar ih nosi daleko nad kopno. Ondje iz njih padaju oborine.",
+      "savjet": "Razmisli što pokreće oblake na nebu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-077",
+      "tezina": "tesko",
+      "pitanje": "Obitelj želi štedjeti vodu kod kuće. Koji je postupak najbolji?",
+      "ponudeni": [
+        "Prati suđe pod mlazom tekuće vode",
+        "Ostaviti slavinu da kaplje",
+        "Kratko se tuširati umjesto kupanja u punoj kadi",
+        "Pustiti vodu da teče dok se ne ohladi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za kratko tuširanje treba mnogo manje vode nego za punu kadu. Ostali postupci troše vodu uzalud.",
+      "savjet": "Usporedi koliko vode ode u odvod pri svakom postupku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-078",
+      "tezina": "tesko",
+      "pitanje": "Zašto je vrt bolje zalijevati navečer nego u podne?",
+      "ponudeni": [
+        "Navečer biljke spavaju pa više piju",
+        "Navečer je hladnije pa manje vode ispari, a više ostane biljkama",
+        "U podne je voda iz cijevi slana",
+        "Navečer uvijek pada rosa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U podne je vruće pa velik dio vode brzo ispari. Navečer je hladnije pa voda dulje ostane u tlu.",
+      "savjet": "Razmisli kada u danu voda najbrže isparava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-079",
+      "tezina": "tesko",
+      "pitanje": "U zatvorenoj staklenci je biljka u vlažnoj zemlji. Na stijenkama se stvaraju kapljice i kližu natrag u zemlju. Što to pokazuje?",
+      "ponudeni": [
+        "Voda u staklenci kruži: isparava, stvara kapljice i vraća se",
+        "Voda iz zemlje zauvijek nestaje",
+        "Staklenka propušta vodu izvana",
+        "Biljka stvara novu vodu iz stakla"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Voda iz zemlje isparava, na stijenkama se ohladi u kapljice i vraća u zemlju. To je malo kruženje vode.",
+      "savjet": "Usporedi što se događa u staklenci s onim što se događa s vodom u prirodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-080",
+      "tezina": "tesko",
+      "pitanje": "Voda u loncu ključa. Što se događa s njom ako je odrasla osoba nastavi zagrijavati?",
+      "ponudeni": [
+        "Ledi se",
+        "Pretvara se u sol",
+        "Pretvara se u vodenu paru, pa vode u loncu ima sve manje",
+        "Zauvijek ostaje jednaka količina vode"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kipuća voda se brzo pretvara u vodenu paru. Ako je dugo zagrijavamo, može sva ispariti.",
+      "savjet": "Razmisli što nastaje od vode koja ključa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-081",
+      "tezina": "tesko",
+      "pitanje": "Zimi na hladnom zraku iz usta izlazi bjelkasti oblačić. Kako on nastaje?",
+      "ponudeni": [
+        "Vodena para iz toplog daha ohladi se i stvori sitne kapljice",
+        "Iz usta izlazi dim",
+        "Zrak se u ustima zaledi",
+        "Hladni zrak sam postane bijel"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U dahu ima vodene pare. Na hladnom zraku ona se ohladi i stvori sitne kapljice, kao mali oblak.",
+      "savjet": "Sjeti se kako nastaju oblaci."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-082",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o kruženju vode točna?",
+      "ponudeni": [
+        "Kruženje vode događa se samo ljeti",
+        "Voda isparava samo iz mora",
+        "Oborine padaju samo na kopno",
+        "Ista voda na Zemlji kruži ponovno i ponovno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voda isparava iz mora, rijeka, jezera, tla i biljaka, a oborine padaju i na kopno i na more. Ista voda stalno kruži.",
+      "savjet": "Razmisli nestaje li voda na Zemlji ili samo mijenja mjesto i stanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-083",
+      "tezina": "tesko",
+      "pitanje": "Kako ljeti može pasti tuča iako je na tlu vruće?",
+      "ponudeni": [
+        "Tuču donosi vjetar sa Sjevernog pola",
+        "Tuča nastaje na tlu od rose",
+        "Visoko u oblacima je jako hladno pa se voda smrzne",
+        "Sunce smrzava kapljice kiše"
+      ],
+      "tocan": 2,
+      "objasnjenje": "I ljeti je visoko u zraku vrlo hladno. Ondje se voda u oblacima smrzne u komadiće leda koji padaju kao tuča.",
+      "savjet": "Sjeti se kako se mijenja temperatura što se više penješ."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-084",
+      "tezina": "tesko",
+      "pitanje": "Ema je u čašu vode ubacila kocku leda. Nakon pola sata leda više nema, a vode je više. Zašto?",
+      "ponudeni": [
+        "Led je ispario iz čaše",
+        "Led se otopio i postao tekuća voda",
+        "Led je potonuo i sakrio se na dnu",
+        "Voda u čaši upila je zrak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na toplom se led topi. Otopljeni led postaje tekuća voda pa je vode u čaši više.",
+      "savjet": "Razmisli u što se pretvara led na toplom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-085",
+      "tezina": "tesko",
+      "pitanje": "Zašto tvornice ne smiju ispuštati prljavu vodu u rijeke?",
+      "ponudeni": [
+        "Rijeke bi postale preduboke",
+        "Voda bi se brže ledila",
+        "Ribe bi postale prevelike",
+        "Prljava voda šteti živim bićima i ljudima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prljava voda truje biljke i životinje u rijeci, a može onečistiti i vodu koju ljudi piju.",
+      "savjet": "Razmisli tko sve koristi vodu iz rijeke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-086",
+      "tezina": "tesko",
+      "pitanje": "Kojim pokusom možeš provjeriti isparava li voda brže na toplom nego na hladnom?",
+      "ponudeni": [
+        "Dvije jednake posude s jednako vode stavim na toplo i na hladno mjesto",
+        "Jednu posudu s vodom stavim na toplo mjesto",
+        "Dvije različite posude stavim na hladno mjesto",
+        "Dvije posude s različitom količinom vode stavim na toplo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posude i količina vode moraju biti jednake, a razlikuje se samo mjesto. Tako vidimo utjecaj topline.",
+      "savjet": "Pokus je pošten kada se posude razlikuju samo u onome što provjeravaš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-087",
+      "tezina": "tesko",
+      "pitanje": "Kakvog će se dana lokva sušiti najsporije?",
+      "ponudeni": [
+        "Toplog, sunčanog dana s vjetrom",
+        "Toplog, sunčanog dana bez vjetra",
+        "Hladnog, oblačnog dana bez vjetra",
+        "Hladnog, sunčanog dana s vjetrom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Toplina i vjetar ubrzavaju isparavanje. Kad je hladno, oblačno i bez vjetra, voda isparava najsporije.",
+      "savjet": "Sjeti se što sve pomaže da se rublje brže osuši."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-088",
+      "tezina": "tesko",
+      "pitanje": "Planinski potok dobiva mnogo vode od snijega koji se topi. Kada će u njemu vjerojatno biti najviše vode?",
+      "ponudeni": [
+        "Usred zime kad je sve zaleđeno",
+        "U proljeće kad se snijeg topi",
+        "Krajem suhog ljeta",
+        "Jednako u svako doba godine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U proljeće se snijeg na planinama topi, a otopljena voda slijeva se u potoke pa oni nabujaju.",
+      "savjet": "Razmisli kada se snijeg na planinama najviše topi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-089",
+      "tezina": "tesko",
+      "pitanje": "Na Zemlji ima vrlo mnogo vode. Zašto ipak trebamo čuvati pitku vodu?",
+      "ponudeni": [
+        "Većina vode na Zemlji je slana pa nije za piće",
+        "Voda odlazi sa Zemlje u svemir",
+        "Voda se nakon kiše pretvara u sol",
+        "Pitka voda ne isparava"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najviše vode je u morima i oceanima i ta je voda slana. Pitke vode ima malo pa je treba čuvati.",
+      "savjet": "Sjeti se gdje je najviše vode na Zemlji i kakva je ta voda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-voda-090",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko magli i oblaku?",
+      "ponudeni": [
+        "Oboje su dim iz dimnjaka",
+        "Oboje su komadi leda",
+        "Oboje su prašina u zraku",
+        "Oboje su sitne kapljice vode u zraku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Magla je zapravo oblak pri tlu. I maglu i oblak čine sitne kapljice vode koje lebde u zraku.",
+      "savjet": "Zamisli da hodaš kroz oblak na vrhu planine."
+    }
+  ]
+}

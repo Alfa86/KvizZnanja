@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "kako-istrazujemo",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-001",
+      "tezina": "lagano",
+      "pitanje": "Čime počinje svako istraživanje?",
+      "ponudeni": [
+        "Zaključkom",
+        "Pitanjem na koje tražimo odgovor",
+        "Bilježenjem rezultata",
+        "Izvođenjem pokusa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Istraživanje počinje pitanjem. Tek kad znamo što želimo saznati, možemo planirati kako ćemo to otkriti.",
+      "savjet": "Razmisli što ti mora biti jasno prije nego što počneš bilo što istraživati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva odgovor za koji mislimo da je točan prije nego što ga provjerimo?",
+      "ponudeni": [
+        "Zaključak",
+        "Bilješka",
+        "Promatranje",
+        "Pretpostavka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pretpostavka je naš mogući odgovor na istraživačko pitanje. Pokusom ili promatranjem provjeravamo je li točna.",
+      "savjet": "Sjeti se koja riječ znači „ono što pretpostavljamo“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-003",
+      "tezina": "lagano",
+      "pitanje": "Što je pokus?",
+      "ponudeni": [
+        "Postupak kojim provjeravamo pretpostavku",
+        "Odgovor koji pogađamo bez provjere",
+        "Crtež kojim ukrašavamo plakat",
+        "Pitanje koje postavlja učitelj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U pokusu sami pripremimo uvjete i pratimo što se događa. Tako provjeravamo je li naša pretpostavka točna.",
+      "savjet": "Razmisli što radimo kad želimo nešto isprobati vlastitim rukama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-004",
+      "tezina": "lagano",
+      "pitanje": "Kojom etapom završava istraživanje?",
+      "ponudeni": [
+        "Pitanjem",
+        "Pretpostavkom",
+        "Zaključkom",
+        "Promatranjem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na kraju istraživanja donosimo zaključak. On je odgovor na pitanje kojim je istraživanje počelo.",
+      "savjet": "Sjeti se koja riječ znači da smo nešto završili i saznali odgovor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva pažljivo praćenje neke pojave u prirodi pomoću osjetila?",
+      "ponudeni": [
+        "Pogađanje",
+        "Promatranje",
+        "Zaključivanje",
+        "Pretpostavljanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad pažljivo gledamo, slušamo i opipavamo neku pojavu i pratimo kako se mijenja, mi je promatramo.",
+      "savjet": "Razmisli što radiš kad dugo i pozorno gledaš kako pupaju grane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-006",
+      "tezina": "lagano",
+      "pitanje": "Zašto tijekom pokusa zapisujemo ono što opažamo?",
+      "ponudeni": [
+        "Da pokus traje dulje",
+        "Da bismo preskočili zaključak",
+        "Da ne zaboravimo što smo opazili",
+        "Da bilježnica bude puna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ono što zapišemo ne možemo zaboraviti ni pomiješati. Iz zapisanih rezultata kasnije donosimo zaključak.",
+      "savjet": "Razmisli što bi se dogodilo da nakon nekoliko dana pokušaš sve zapamtiti napamet."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-007",
+      "tezina": "lagano",
+      "pitanje": "Koji je ispravan redoslijed etapa istraživanja?",
+      "ponudeni": [
+        "Pitanje, pretpostavka, pokus, bilježenje, zaključak",
+        "Zaključak, pitanje, pokus, pretpostavka, bilježenje",
+        "Pokus, zaključak, pitanje, bilježenje, pretpostavka",
+        "Pretpostavka, zaključak, bilježenje, pitanje, pokus"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije postavimo pitanje i pretpostavku, zatim izvedemo pokus ili promatranje, bilježimo rezultate i na kraju donosimo zaključak.",
+      "savjet": "Kreni od onoga što želiš saznati, a završi s onim što si saznao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-008",
+      "tezina": "lagano",
+      "pitanje": "Čime promatramo sitne stvari, primjerice dijelove cvijeta?",
+      "ponudeni": [
+        "Ravnalom",
+        "Toplomjerom",
+        "Štopericom",
+        "Povećalom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Povećalo prikazuje predmete većima nego što jesu, pa na njima vidimo i sitne dijelove.",
+      "savjet": "Sjeti se koji pribor sitne stvari pokazuje većima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-009",
+      "tezina": "lagano",
+      "pitanje": "Čime mjerimo temperaturu vode u pokusu?",
+      "ponudeni": [
+        "Povećalom",
+        "Toplomjerom",
+        "Ravnalom",
+        "Vagom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Toplomjer pokazuje koliko je nešto toplo ili hladno. Temperaturu izražavamo u stupnjevima Celzija.",
+      "savjet": "Razmisli koji pribor u imenu ima riječ povezanu s toplinom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-010",
+      "tezina": "lagano",
+      "pitanje": "Čime mjerimo koliko je biljka narasla?",
+      "ponudeni": [
+        "Ravnalom",
+        "Toplomjerom",
+        "Povećalom",
+        "Kompasom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Visinu biljke mjerimo ravnalom i zapisujemo je u centimetrima.",
+      "savjet": "Sjeti se čime u školi mjeriš duljinu crte."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-011",
+      "tezina": "lagano",
+      "pitanje": "Čime mjerimo koliko dugo traje pokus, primjerice otapanje kocke leda?",
+      "ponudeni": [
+        "Ravnalom",
+        "Povećalom",
+        "Satom ili štopericom",
+        "Toplomjerom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijeme mjerimo satom ili štopericom. Tako znamo koliko je minuta prošlo dok se led otopio.",
+      "savjet": "Razmisli što mjeriš: duljinu, toplinu ili vrijeme."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-012",
+      "tezina": "lagano",
+      "pitanje": "Što je zaključak istraživanja?",
+      "ponudeni": [
+        "Popis pribora za pokus",
+        "Pitanje koje postavljamo na početku",
+        "Odgovor koji pogađamo prije pokusa",
+        "Odgovor na pitanje dobiven iz rezultata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zaključak donosimo na kraju, kad pogledamo zapisane rezultate. On odgovara na istraživačko pitanje.",
+      "savjet": "Sjeti se u kojem dijelu istraživanja donosimo zaključak i na temelju čega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-013",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih pitanja istraživačko pitanje?",
+      "ponudeni": [
+        "Koja je tvoja omiljena boja?",
+        "Kada počinju zimski praznici?",
+        "Raste li grah brže na svjetlu ili u tami?",
+        "Je li crvena ljepša od plave?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na istraživačko pitanje možemo odgovoriti pokusom ili promatranjem. Rast graha možemo provjeriti, a ukus i datume ne istražujemo pokusom.",
+      "savjet": "Potraži pitanje na koje možeš odgovoriti tako da nešto isprobaš ili promatraš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-014",
+      "tezina": "lagano",
+      "pitanje": "Što trebaš učiniti prije pokusa u kojem se voda zagrijava?",
+      "ponudeni": [
+        "Sam upaliti štednjak",
+        "Zamoliti odraslu osobu za pomoć",
+        "Dotaknuti vodu da provjeriš toplinu",
+        "Napisati zaključak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vruća voda i grijač mogu opeći. Zato pokuse sa zagrijavanjem izvodimo samo uz pomoć odrasle osobe.",
+      "savjet": "Razmisli o sigurnosti kad u pokusu ima nečega vrućega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-015",
+      "tezina": "lagano",
+      "pitanje": "Kojim osjetilom ne smijemo ispitivati nepoznate tvari u pokusu?",
+      "ponudeni": [
+        "Okusom",
+        "Vidom",
+        "Sluhom",
+        "Vidom uz povećalo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznata tvar može biti štetna, zato je nikada ne stavljamo u usta. Promatramo je očima i opisujemo.",
+      "savjet": "Razmisli koje bi osjetilo moglo biti opasno ako tvar nije za jelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-016",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo osobu kojoj je posao istraživati prirodu i izvoditi pokuse?",
+      "ponudeni": [
+        "Prodavač",
+        "Sudac",
+        "Knjižničar",
+        "Znanstvenik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znanstvenici istražuju prirodu. I oni postavljaju pitanja, izvode pokuse i donose zaključke.",
+      "savjet": "Sjeti se tko u laboratoriju otkriva nove stvari o svijetu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-017",
+      "tezina": "lagano",
+      "pitanje": "Kako možemo pregledno zabilježiti rezultate istraživanja?",
+      "ponudeni": [
+        "Novom pretpostavkom",
+        "Tablicom ili crtežom",
+        "Istraživačkim pitanjem",
+        "Popisom pribora"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rezultate bilježimo u tablicu ili ih nacrtamo. Tako ih poslije lako pregledamo i usporedimo.",
+      "savjet": "Razmisli kako izgleda zapis u kojem su podatci složeni u retke i stupce."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-018",
+      "tezina": "lagano",
+      "pitanje": "Koja etapa istraživanja dolazi odmah nakon postavljanja pitanja?",
+      "ponudeni": [
+        "Zaključak",
+        "Bilježenje",
+        "Pretpostavka",
+        "Pokus"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad postavimo pitanje, najprije pretpostavimo kakav bi mogao biti odgovor. Zatim to provjeravamo.",
+      "savjet": "Razmisli što radiš prije nego što nešto provjeriš: pogađaš li ili zaključuješ?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-019",
+      "tezina": "lagano",
+      "pitanje": "Koja etapa istraživanja dolazi između pretpostavke i bilježenja?",
+      "ponudeni": [
+        "Pokus ili promatranje",
+        "Istraživačko pitanje",
+        "Zaključak",
+        "Predstavljanje plakata"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nakon pretpostavke izvodimo pokus ili promatramo. Ono što pritom opazimo bilježimo.",
+      "savjet": "Razmisli što se mora dogoditi prije nego što imaš što zapisati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-020",
+      "tezina": "lagano",
+      "pitanje": "Što je istraživanje?",
+      "ponudeni": [
+        "Prepisivanje teksta iz udžbenika",
+        "Pogađanje odgovora bez provjere",
+        "Učenje pjesme napamet",
+        "Traženje odgovora na pitanje o svijetu oko nas"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad istražujemo, tražimo odgovor na neko pitanje. Do njega dolazimo pokusom, promatranjem i razmišljanjem.",
+      "savjet": "Sjeti se čime počinje i čime završava istraživanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-021",
+      "tezina": "lagano",
+      "pitanje": "Kojim priborom promatramo ptice koje su daleko od nas?",
+      "ponudeni": [
+        "Toplomjerom",
+        "Dalekozorom",
+        "Ravnalom",
+        "Štopericom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dalekozor približava udaljene predmete. Tako ptice možemo promatrati, a da ih ne uplašimo.",
+      "savjet": "Razmisli koji pribor u svojem imenu kaže da služi za gledanje u daljinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-022",
+      "tezina": "lagano",
+      "pitanje": "Koje osjetilo najčešće koristimo kad promatramo prirodu?",
+      "ponudeni": [
+        "Okus",
+        "Njuh",
+        "Vid",
+        "Sluh"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najviše toga opazimo očima, vidom. Ostala osjetila pomažu nam da opažanje bude potpunije.",
+      "savjet": "Razmisli koje osjetilo koristiš kad gledaš kako cvijet mijenja boju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-023",
+      "tezina": "lagano",
+      "pitanje": "Što trebaš pripremiti prije početka pokusa?",
+      "ponudeni": [
+        "Zaključak pokusa",
+        "Potreban pribor i plan rada",
+        "Rezultate pokusa",
+        "Plakat s rezultatima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prije pokusa pripremimo pribor i dogovorimo kako ćemo raditi. Rezultati i zaključak dolaze tek poslije.",
+      "savjet": "Razmisli što ti treba na stolu prije nego što počneš raditi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-024",
+      "tezina": "lagano",
+      "pitanje": "Što trebaš učiniti kad završiš pokus?",
+      "ponudeni": [
+        "Ostaviti pribor na stolu",
+        "Kušati ono što je ostalo",
+        "Odmah izbrisati bilješke",
+        "Pospremiti pribor i oprati ruke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nakon pokusa pospremimo pribor, počistimo radno mjesto i operemo ruke. Bilješke čuvamo za zaključak.",
+      "savjet": "Razmisli kako ostaviti radno mjesto da bude uredno i sigurno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-025",
+      "tezina": "lagano",
+      "pitanje": "Što u tablicu upisujemo tijekom bilježenja?",
+      "ponudeni": [
+        "Ono što smo izmjerili ili opazili",
+        "Ono što bismo voljeli da se dogodi",
+        "Imena svih učenika u razredu",
+        "Pitanja za domaću zadaću"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U tablicu upisujemo rezultate: ono što smo stvarno izmjerili ili vidjeli tijekom pokusa ili promatranja.",
+      "savjet": "Razmisli što su rezultati pokusa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-026",
+      "tezina": "lagano",
+      "pitanje": "Gdje bilježimo vremenske prilike za svaki dan u mjesecu?",
+      "ponudeni": [
+        "Na ravnalu",
+        "U kalendaru prirode",
+        "Na toplomjeru",
+        "U kuharici"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U kalendar prirode svaki dan upisujemo ili crtamo kakvo je vrijeme. Tako vidimo kako se vrijeme mijenja.",
+      "savjet": "Sjeti se zapisa u kojem je svaki dan jedan kvadratić."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-027",
+      "tezina": "lagano",
+      "pitanje": "Što je pretpostavka?",
+      "ponudeni": [
+        "Popis pribora za pokus",
+        "Rezultat koji smo izmjerili",
+        "Naše mišljenje o odgovoru prije provjere",
+        "Zapis koji pišemo na kraju istraživanja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pretpostavka je ono što mislimo da je odgovor. Pokusom ili promatranjem provjeravamo je li točna.",
+      "savjet": "Razmisli što o odgovoru znaš prije nego što izvedeš pokus."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-028",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove prostorija opremljena priborom u kojoj istraživači izvode pokuse?",
+      "ponudeni": [
+        "Laboratorij",
+        "Kino",
+        "Trgovina",
+        "Čekaonica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Laboratorij je prostorija opremljena priborom za pokuse. Mnoga istraživanja izvode se i u prirodi.",
+      "savjet": "Sjeti se kako se zove prostorija puna epruveta, povećala i drugog pribora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-029",
+      "tezina": "lagano",
+      "pitanje": "Kako se ponašamo dok izvodimo pokus u učionici?",
+      "ponudeni": [
+        "Trčimo oko stola",
+        "Isprobavamo nepoznate tvari",
+        "Radimo bez uputa",
+        "Pažljivo slijedimo upute"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pokus izvodimo mirno i prema uputama. Tako je rad siguran, a rezultati točni.",
+      "savjet": "Razmisli što pokus čini sigurnim za sve u učionici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-030",
+      "tezina": "lagano",
+      "pitanje": "Kako možemo predstaviti svoje istraživanje razredu?",
+      "ponudeni": [
+        "Bacanjem bilježaka",
+        "Šutnjom o rezultatima",
+        "Plakatom ili kratkim izlaganjem",
+        "Skrivanjem zaključka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Istraživanje predstavljamo plakatom, crtežima ili izlaganjem. Tako i drugi saznaju što smo otkrili.",
+      "savjet": "Razmisli kako otkriće pokazati drugima tako da ga svi vide."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-031",
+      "tezina": "srednje",
+      "pitanje": "Ana kaže: „Mislim da će biljka bez vode uvenuti.“ Koja je to etapa istraživanja?",
+      "ponudeni": [
+        "Zaključak",
+        "Pretpostavka",
+        "Bilježenje",
+        "Pokus"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ana još nije provjerila što će se dogoditi, nego kaže što misli. To je pretpostavka.",
+      "savjet": "Obrati pozornost na riječi „mislim da će“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-032",
+      "tezina": "srednje",
+      "pitanje": "Luka svaki dan upisuje u tablicu koliko je stupnjeva pokazao toplomjer. Koja je to etapa istraživanja?",
+      "ponudeni": [
+        "Pitanje",
+        "Pretpostavka",
+        "Zaključak",
+        "Bilježenje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Luka zapisuje izmjerene podatke. Zapisivanje rezultata naziva se bilježenje.",
+      "savjet": "Razmisli što Luka radi s izmjerenim brojevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-033",
+      "tezina": "srednje",
+      "pitanje": "Nakon pokusa Mia kaže: „Grah je dobro rastao samo na svjetlu, dakle biljke trebaju svjetlost.“ Koja je to etapa?",
+      "ponudeni": [
+        "Zaključak",
+        "Pretpostavka",
+        "Istraživačko pitanje",
+        "Priprema pribora"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mia na temelju rezultata odgovara na pitanje. To je zaključak.",
+      "savjet": "Pogledaj kada Mia to kaže: prije ili nakon pokusa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-034",
+      "tezina": "srednje",
+      "pitanje": "Ivan stavi jednu biljku na prozor, a drugu jednaku biljku u mračni ormar. Koja je to etapa istraživanja?",
+      "ponudeni": [
+        "Zaključak",
+        "Bilježenje",
+        "Pokus",
+        "Istraživačko pitanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ivan sam priprema različite uvjete za biljke da bi provjerio što će se dogoditi. To je pokus.",
+      "savjet": "Razmisli mijenja li Ivan nešto vlastitim rukama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-035",
+      "tezina": "srednje",
+      "pitanje": "Sara svako jutro gleda pupove na grani u dvorištu i ništa ne mijenja. Kako se naziva ono što Sara radi?",
+      "ponudeni": [
+        "Pokus",
+        "Promatranje",
+        "Zaključivanje",
+        "Pretpostavljanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sara prati kako se priroda sama mijenja, a ne priprema nikakve uvjete. To je promatranje.",
+      "savjet": "Usporedi: mijenja li Sara nešto ili samo prati ono što se događa?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-036",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se pokus razlikuje od promatranja?",
+      "ponudeni": [
+        "U pokusu nikad ništa ne bilježimo",
+        "Promatranje uvijek traje kraće",
+        "U pokusu ne koristimo osjetila",
+        "U pokusu sami pripremamo uvjete"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U pokusu sami nešto pripremimo i mijenjamo. Kod promatranja pratimo pojavu onakvu kakva je u prirodi.",
+      "savjet": "Razmisli tko „određuje“ uvjete: ti ili priroda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-037",
+      "tezina": "srednje",
+      "pitanje": "Što je najbolje istražiti promatranjem, a ne pokusom?",
+      "ponudeni": [
+        "Kako se kroz godišnja doba mijenja stablo u parku",
+        "Topi li se kocka leda brže na suncu ili u sjeni",
+        "Raste li grah bez vode",
+        "Otapa li se šećer brže u toploj vodi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Godišnja doba ne možemo mijenjati, pa promjene na stablu samo pratimo i bilježimo. To je promatranje.",
+      "savjet": "Potraži pojavu na koju ne možeš utjecati, nego je možeš samo pratiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-038",
+      "tezina": "srednje",
+      "pitanje": "Zašto pokus ponavljamo nekoliko puta?",
+      "ponudeni": [
+        "Da ne moramo bilježiti rezultate",
+        "Da bismo promijenili pretpostavku",
+        "Da budemo sigurniji u rezultat",
+        "Da bismo preskočili zaključak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ako pokus ponovimo i dobijemo isti rezultat, možemo biti sigurniji da nije riječ o slučajnosti ili pogrešci.",
+      "savjet": "Razmisli koliko vjeruješ rezultatu koji si dobio samo jednom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-039",
+      "tezina": "srednje",
+      "pitanje": "Pokus je pokazao da pretpostavka nije bila točna. Što trebaš učiniti?",
+      "ponudeni": [
+        "Izbrisati rezultate i zaboraviti pokus",
+        "Napisati zaključak prema dobivenim rezultatima",
+        "Promijeniti rezultate da odgovaraju pretpostavci",
+        "Zapisati da je pretpostavka ipak točna"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Netočna pretpostavka nije pogreška u istraživanju. Zaključak uvijek pišemo prema onome što smo stvarno dobili.",
+      "savjet": "Razmisli na čemu se temelji zaključak: na željama ili na rezultatima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-040",
+      "tezina": "srednje",
+      "pitanje": "Zašto rezultate zapisujemo odmah, a ne na kraju tjedna?",
+      "ponudeni": [
+        "Jer se na kraju tjedna ne smije pisati",
+        "Jer tada pokus brže završi",
+        "Jer zapisivanje mijenja rezultat",
+        "Jer bismo mogli nešto zaboraviti ili pomiješati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ono što zapišemo odmah točno je i potpuno. Ako čekamo, lako zaboravimo pojedinosti.",
+      "savjet": "Razmisli koliko dobro pamtiš brojeve od prije nekoliko dana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-041",
+      "tezina": "srednje",
+      "pitanje": "Koji ti je pribor potreban za istraživanje „Koliko grah naraste za tjedan dana?“",
+      "ponudeni": [
+        "Ravnalo",
+        "Toplomjer",
+        "Dalekozor",
+        "Kompas"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rast biljke pratimo tako da joj mjerimo visinu. Za to nam treba ravnalo.",
+      "savjet": "Razmisli što mjeriš kad pratiš rast biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-042",
+      "tezina": "srednje",
+      "pitanje": "Koji ti je pribor potreban za istraživanje „Je li voda u sjeni hladnija od vode na suncu?“",
+      "ponudeni": [
+        "Ravnalo",
+        "Povećalo",
+        "Toplomjer",
+        "Vaga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Želimo usporediti koliko je voda topla, a to mjerimo toplomjerom.",
+      "savjet": "Razmisli što zapravo uspoređuješ u tom pitanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-043",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica opažanje, a ne pretpostavka?",
+      "ponudeni": [
+        "Mislim da će se led brzo otopiti.",
+        "Kocka leda otopila se za 20 minuta.",
+        "Možda će se led otopiti do podneva.",
+        "Vjerojatno će led na suncu nestati."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opažanje opisuje ono što se stvarno dogodilo. Ostale rečenice govore što bi se moglo dogoditi.",
+      "savjet": "Potraži rečenicu koja opisuje nešto što se već dogodilo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-044",
+      "tezina": "srednje",
+      "pitanje": "Zaključak glasi: „Šećer se brže otapa u toploj nego u hladnoj vodi.“ Koje je bilo istraživačko pitanje?",
+      "ponudeni": [
+        "Je li šećer sladak?",
+        "Koliko šećera stane u čašu?",
+        "Koje je boje šećer u vodi?",
+        "Otapa li se šećer brže u toploj ili u hladnoj vodi?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zaključak odgovara upravo na pitanje kojim je istraživanje počelo. Ovdje se uspoređuje otapanje u toploj i hladnoj vodi.",
+      "savjet": "Pronađi pitanje na koje ovaj zaključak daje odgovor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-045",
+      "tezina": "srednje",
+      "pitanje": "Petra misli da se led na suncu topi brže nego u sjeni. Kako to može provjeriti?",
+      "ponudeni": [
+        "Jednu kocku staviti na sunce, drugu u sjenu i pratiti ih",
+        "Obje kocke staviti u zamrzivač",
+        "Pitati prijateljicu što misli",
+        "Pročitati koliko je sati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pretpostavku provjeravamo pokusom. Dvije jednake kocke u različitim uvjetima pokazat će koja se brže topi.",
+      "savjet": "Razmisli kako usporediti led u dva različita uvjeta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-046",
+      "tezina": "srednje",
+      "pitanje": "Zašto pokuse u kojima se zagrijava voda izvodimo uz pomoć odrasle osobe?",
+      "ponudeni": [
+        "Jer odrasli brže pišu",
+        "Jer se vruća voda i grijač mogu opeći",
+        "Jer djeca ne smiju gledati pokus",
+        "Jer voda inače ne bi bila topla"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vruća voda i vrući grijač mogu izazvati opekline. Odrasla osoba pazi da pokus bude siguran.",
+      "savjet": "Razmisli što se može dogoditi ako se dotakne nešto vrlo vruće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-047",
+      "tezina": "srednje",
+      "pitanje": "Kako ćeš najbolje zabilježiti rast biljke tijekom dva tjedna?",
+      "ponudeni": [
+        "Zapamtiti visinu i ništa ne pisati",
+        "Nacrtati biljku samo prvoga dana",
+        "Svaki dan izmjeriti biljku i upisati visinu uz datum",
+        "Napisati samo „Biljka je narasla“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad svaki dan zapišemo visinu i datum, točno vidimo koliko je biljka rasla iz dana u dan.",
+      "savjet": "Razmisli kako ćeš poslije usporediti visinu biljke u različite dane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-048",
+      "tezina": "srednje",
+      "pitanje": "Što je rezultat pokusa?",
+      "ponudeni": [
+        "Pitanje koje postavljamo na početku",
+        "Ono što mislimo prije pokusa",
+        "Popis pribora koji nam treba",
+        "Ono što smo izmjerili ili opazili tijekom pokusa"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rezultat je ono što smo stvarno dobili u pokusu. Na temelju rezultata donosimo zaključak.",
+      "savjet": "Razmisli što imaš u rukama tek kad je pokus gotov."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-049",
+      "tezina": "srednje",
+      "pitanje": "Koja je pretpostavka dobra jer se može provjeriti?",
+      "ponudeni": [
+        "Mislim da je ljeto najljepše godišnje doba.",
+        "Mislim da se lokva na suncu osuši brže nego u sjeni.",
+        "Mislim da je ruža ljepša od tulipana.",
+        "Mislim da je plava boja najbolja."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sušenje lokve na suncu i u sjeni možemo promatrati i usporediti. Što je ljepše ili bolje stvar je ukusa i ne provjerava se pokusom.",
+      "savjet": "Potraži pretpostavku koju možeš provjeriti promatranjem ili mjerenjem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-050",
+      "tezina": "srednje",
+      "pitanje": "Koje se pitanje može istražiti promatranjem u školskom dvorištu?",
+      "ponudeni": [
+        "Kakvo će vrijeme biti za deset godina?",
+        "Koliko je zvijezda na nebu?",
+        "Koje ptice zimi dolaze na hranilicu?",
+        "Što ptice misle o ljudima?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ptice na hranilici možemo svaki dan promatrati i zapisivati. Na ostala pitanja ne možemo odgovoriti promatranjem u dvorištu.",
+      "savjet": "Potraži pitanje na koje odgovor možeš vidjeti vlastitim očima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-051",
+      "tezina": "srednje",
+      "pitanje": "Kojim osjetilima možemo sigurno istražiti koru stabla?",
+      "ponudeni": [
+        "Okusom i njuhom",
+        "Samo okusom",
+        "Sluhom i okusom",
+        "Vidom i dodirom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Koru gledamo i opipamo da bismo opisali boju i hrapavost. Ne stavljamo je u usta.",
+      "savjet": "Razmisli kako ćeš saznati je li kora glatka ili hrapava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto u pokusu mjerimo, a ne procjenjujemo samo od oka?",
+      "ponudeni": [
+        "Mjerenje je točnije od procjene",
+        "Mjerenje je uvijek brže",
+        "Od oka se ne smije gledati",
+        "Mjerenje mijenja pretpostavku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Procjena od oka može nas prevariti. Mjerenje daje točan broj koji možemo zapisati i usporediti.",
+      "savjet": "Razmisli može li se oko prevariti kad uspoređuješ dvije slične stvari."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-053",
+      "tezina": "srednje",
+      "pitanje": "Koji pokus možeš sigurno izvesti bez pomoći odrasle osobe?",
+      "ponudeni": [
+        "Zagrijavanje vode na štednjaku",
+        "Paljenje svijeće",
+        "Promatranje kocke leda na tanjuriću",
+        "Kušanje nepoznatog praška"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Promatranje leda na tanjuriću nije opasno. Plamen, vruća voda i nepoznate tvari traže pomoć odrasle osobe ili se uopće ne diraju.",
+      "savjet": "Potraži pokus u kojem nema ničega vrućeg ni nepoznatog."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto uz svaku bilješku upisujemo i datum?",
+      "ponudeni": [
+        "Da tablica bude dulja",
+        "Da znamo kada smo što opazili",
+        "Jer bez datuma pokus ne radi",
+        "Da ne moramo pisati zaključak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Datum pokazuje redoslijed opažanja. Tako vidimo kako se nešto mijenjalo iz dana u dan.",
+      "savjet": "Razmisli kako ćeš poslije znati što je bilo prije, a što poslije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-055",
+      "tezina": "srednje",
+      "pitanje": "Zašto zaključak pišemo tek nakon pokusa?",
+      "ponudeni": [
+        "Jer je zaključak uvijek najkraći",
+        "Jer prije pokusa nemamo pribor",
+        "Jer je tako lakše pisati",
+        "Jer se zaključak temelji na rezultatima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zaključak donosimo iz onoga što smo dobili u pokusu. Prije pokusa rezultata još nemamo.",
+      "savjet": "Razmisli što ti mora biti poznato prije odgovora na istraživačko pitanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-056",
+      "tezina": "srednje",
+      "pitanje": "Što trebaš učiniti ako tijekom pokusa proliješ vodu po stolu?",
+      "ponudeni": [
+        "Reći učitelju i pažljivo obrisati stol",
+        "Nastaviti raditi kao da se ništa nije dogodilo",
+        "Brzo otići iz učionice",
+        "Proliti još vode"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prolivenu vodu treba odmah počistiti da se nitko ne posklizne i da se pribor ne smoči.",
+      "savjet": "Razmisli kako radno mjesto ostaje sigurno za sve."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-057",
+      "tezina": "srednje",
+      "pitanje": "Kako ćeš najpreglednije zabilježiti vrijeme svakog dana u tjednu?",
+      "ponudeni": [
+        "Jednom dugom rečenicom",
+        "Pamćenjem bez zapisivanja",
+        "Tablicom s danima i vremenskim prilikama",
+        "Samo crtežom prvoga dana"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U tablici svaki dan ima svoje mjesto, pa odmah vidimo kakvo je vrijeme bilo koji dan.",
+      "savjet": "Razmisli kako složiti podatke da ih lako usporediš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-058",
+      "tezina": "srednje",
+      "pitanje": "Zašto ptice na hranilici promatramo tiho i iz daljine?",
+      "ponudeni": [
+        "Da ptice brže pojedu hranu",
+        "Da ih ne uplašimo pa se ponašaju prirodno",
+        "Jer ptice ne vide ljude",
+        "Jer se iz blizine ništa ne vidi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ako ptice uplašimo, odletjet će i nećemo vidjeti kako se inače ponašaju.",
+      "savjet": "Razmisli kako bi se ptice ponašale kad bi im prišao glasno i blizu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-059",
+      "tezina": "srednje",
+      "pitanje": "Matija je završio istraživanje. Kako drugi mogu saznati što je otkrio?",
+      "ponudeni": [
+        "Ako baci svoje bilješke",
+        "Ako zaboravi zaključak",
+        "Ako ponovi pretpostavku",
+        "Ako ga predstavi plakatom razredu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Predstavljanjem istraživanja Matija dijeli s drugima pitanje, postupak, rezultate i zaključak.",
+      "savjet": "Razmisli kako svoje otkriće pokazati drugima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-060",
+      "tezina": "srednje",
+      "pitanje": "Koji je od navedenih zapisa rezultat promatranja, a ne istraživačko pitanje?",
+      "ponudeni": [
+        "Na hranilicu su danas došle tri sjenice.",
+        "Koje ptice dolaze na hranilicu?",
+        "Kada ptice najčešće jedu?",
+        "Dolaze li vrapci i zimi?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rezultat opisuje ono što smo vidjeli. Ostali zapisi su pitanja na koja tek tražimo odgovor.",
+      "savjet": "Potraži zapis koji ne traži odgovor, nego ga već donosi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-061",
+      "tezina": "tesko",
+      "pitanje": "Zalijevana biljka stoji na prozoru, a nezalijevana u mračnom ormaru. Druga je uvenula. Zašto ne možemo znati što je uzrok?",
+      "ponudeni": [
+        "Jer su biljke stajale predugo",
+        "Jer prozor nije bio otvoren",
+        "Jer se biljke razlikuju i u vodi i u svjetlosti",
+        "Jer biljke ne trebaju vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljke su imale različitu i vodu i svjetlost. Ne znamo je li uvenula zbog manjka vode ili svjetlosti.",
+      "savjet": "Prebroji po koliko se stvari razlikuju uvjeti za dvije biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-062",
+      "tezina": "tesko",
+      "pitanje": "Ema istražuje trebaju li sjemenke graha vodu za klijanje. Stavlja ih u dvije čaše s vatom. Što smije biti različito?",
+      "ponudeni": [
+        "Broj sjemenki u čašama",
+        "Je li vata vlažna ili suha",
+        "Mjesto na kojem čaše stoje",
+        "Veličina čaša"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ema istražuje vodu, pa samo to smije biti različito. Sve ostalo mora biti isto da bi usporedba bila poštena.",
+      "savjet": "Razmisli što Ema zapravo istražuje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-063",
+      "tezina": "tesko",
+      "pitanje": "Kocka leda u sjeni otopila se za 30 minuta, a jednaka kocka na suncu za 10 minuta. Koji je zaključak?",
+      "ponudeni": [
+        "U sjeni se led uopće ne topi",
+        "Sunce usporava topljenje leda",
+        "Kocke su bile različite veličine",
+        "Sunčeva toplina ubrzava topljenje leda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kocka na suncu otopila se mnogo brže. To pokazuje da je toplina sa Sunca ubrzala topljenje.",
+      "savjet": "Usporedi vremena: gdje se led otopio brže?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-064",
+      "tezina": "tesko",
+      "pitanje": "Leo je pokus napravio samo jednom i dobio rezultat koji ga je jako iznenadio. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Ponoviti pokus i usporediti rezultate",
+        "Odmah napisati zaključak",
+        "Promijeniti rezultat",
+        "Prestati istraživati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Neobičan rezultat može biti posljedica pogreške. Ponavljanjem pokusa provjeravamo je li rezultat pouzdan.",
+      "savjet": "Razmisli kako možeš provjeriti je li riječ o slučajnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-065",
+      "tezina": "tesko",
+      "pitanje": "Ivo uspoređuje koliko vode propuštaju pijesak i glina u dva jednaka lijevka. Što mora biti isto?",
+      "ponudeni": [
+        "Vrsta tla u lijevcima",
+        "Boja tla",
+        "Količina vode koju ulijeva",
+        "Ime lijevka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ivo istražuje vrstu tla, pa se samo ona smije razlikovati. Ako ulije različito vode, ne može pošteno usporediti.",
+      "savjet": "Razmisli što Ivo namjerno mijenja, a što treba ostati jednako."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-066",
+      "tezina": "tesko",
+      "pitanje": "Na koje se pitanje ne može odgovoriti pokusom ni promatranjem?",
+      "ponudeni": [
+        "Treba li biljci svjetlost za rast?",
+        "Koje je cvijeće najljepše?",
+        "Gdje se lokva brže osuši?",
+        "Pada li kiša češće u jesen ili ljeti?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljepota je stvar osobnog ukusa i svatko misli drugačije. Na ostala pitanja odgovor možemo provjeriti.",
+      "savjet": "Potraži pitanje na koje bi svaki čovjek mogao dati drugačiji odgovor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-067",
+      "tezina": "tesko",
+      "pitanje": "Biljka je 1. dana bila visoka 2 cm, 3. dana 4 cm, a 5. dana 6 cm. Koliko je narasla od 1. do 5. dana?",
+      "ponudeni": [
+        "2 cm",
+        "6 cm",
+        "8 cm",
+        "4 cm"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od 2 cm narasla je do 6 cm. Razlika je 6 cm − 2 cm = 4 cm.",
+      "savjet": "Od visine na kraju oduzmi visinu na početku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-068",
+      "tezina": "tesko",
+      "pitanje": "Klara je u kalendar prirode zapisala: „Danas je bilo lijepo.“ Koji bi zapis bio bolji?",
+      "ponudeni": [
+        "Sunčano, 18 °C, bez vjetra",
+        "Danas je bio dobar dan",
+        "Vrijeme mi se svidjelo",
+        "Bilo je kao i jučer"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dobar zapis točno opisuje ono što smo opazili i izmjerili. „Lijepo“ svatko može razumjeti drugačije.",
+      "savjet": "Potraži zapis iz kojega bi netko drugi točno znao kakvo je bilo vrijeme."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-069",
+      "tezina": "tesko",
+      "pitanje": "Dvije jednake čaše vode stoje na prozoru, jedna pokrivena, a druga otkrivena. Za tjedan dana u otkrivenoj ima manje vode. Zašto?",
+      "ponudeni": [
+        "Pokrivena čaša dobila je više vode",
+        "Voda iz otkrivene čaše upila se u staklo",
+        "Voda iz otkrivene čaše prešla je u zrak kao vodena para",
+        "Netko je popio vodu iz otkrivene čaše"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Voda se polako pretvara u vodenu paru i odlazi u zrak. Poklopac to sprječava, pa u pokrivenoj čaši ostaje više vode.",
+      "savjet": "Razmisli kamo nestaje voda iz lokve kad je ne vidimo da otječe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-070",
+      "tezina": "tesko",
+      "pitanje": "Marko želi istražiti trebaju li biljke svjetlost. Koji je pokus dobro osmišljen?",
+      "ponudeni": [
+        "Jedna biljka na prozoru, bez usporedbe s drugom",
+        "Dvije biljke u ormaru, jedna zalijevana",
+        "Velika biljka na prozoru, mala u ormaru",
+        "Dvije jednake biljke, jednako zalijevane, jedna na svjetlu, druga u tami"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Biljke moraju biti jednake i jednako zalijevane, a razlikovati se samo u svjetlosti. Tada vidimo utjecaj svjetlosti.",
+      "savjet": "Potraži pokus u kojem se biljke razlikuju samo po jednoj stvari."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-071",
+      "tezina": "tesko",
+      "pitanje": "Nina je zaključak napisala prije nego što je izvela pokus. Što nije u redu?",
+      "ponudeni": [
+        "Zaključak se donosi tek na temelju rezultata",
+        "Zaključak se nikad ne piše",
+        "Pokus se ne smije izvoditi",
+        "Zaključak se piše prije pitanja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prije pokusa Nina može imati samo pretpostavku. Zaključak može napisati tek kad vidi rezultate.",
+      "savjet": "Razmisli kako se zove ono što misliš prije pokusa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-072",
+      "tezina": "tesko",
+      "pitanje": "Iva u toplu vodu stavi jednu žličicu šećera, a u hladnu tri. Želi znati gdje se šećer brže otapa. Što je pogrešno?",
+      "ponudeni": [
+        "Voda ne smije biti topla",
+        "U čašama je različita količina šećera",
+        "Šećer se ne otapa u vodi",
+        "Trebala je koristiti sol"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iva istražuje utjecaj topline vode, pa količina šećera mora biti ista. Inače usporedba nije poštena.",
+      "savjet": "Usporedi čaše: po čemu se razlikuju osim po toplini vode?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-073",
+      "tezina": "tesko",
+      "pitanje": "Teo zalijeva tri jednake biljke: prvu svaki dan, drugu jednom tjedno, a treću nikako. Što istražuje?",
+      "ponudeni": [
+        "Kako svjetlost utječe na rast",
+        "Kako toplina utječe na rast",
+        "Kako količina vode utječe na rast",
+        "Kako vrsta tla utječe na rast"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljke se razlikuju samo po tome koliko vode dobivaju. Teo dakle istražuje utjecaj vode.",
+      "savjet": "Pronađi jedinu stvar koja se razlikuje među biljkama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-074",
+      "tezina": "tesko",
+      "pitanje": "Biljka koja je dva tjedna stajala u mračnom ormaru blijeda je i slaba. Što iz toga zaključujemo?",
+      "ponudeni": [
+        "Biljke ne trebaju svjetlost",
+        "Ormar je bio previše topao",
+        "Biljka je dobila previše vode",
+        "Biljkama je za zdrav rast potrebna svjetlost"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bez svjetlosti biljka ne može stvarati hranu, pa slabi i blijedi. Zato zaključujemo da joj treba svjetlost.",
+      "savjet": "Razmisli čega u ormaru nije bilo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-075",
+      "tezina": "tesko",
+      "pitanje": "Luka je ispremiješao kartice: A zaključak, B pitanje, C pokus, D pretpostavka. Koji je redoslijed ispravan?",
+      "ponudeni": [
+        "B, D, C, A",
+        "D, B, C, A",
+        "B, C, D, A",
+        "A, B, D, C"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije pitanje (B), zatim pretpostavka (D), pa pokus (C) i na kraju zaključak (A).",
+      "savjet": "Kreni od etape kojom istraživanje počinje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-076",
+      "tezina": "tesko",
+      "pitanje": "Zašto u pokusu sa svjetlošću koristimo dvije biljke, a ne samo jednu?",
+      "ponudeni": [
+        "Jer jedna biljka ne može rasti",
+        "Da možemo usporediti biljku na svjetlu i u tami",
+        "Da imamo više cvjetova",
+        "Jer je tako pokus kraći"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bez usporedbe ne znamo bi li biljka rasla drugačije u drugim uvjetima. Druga biljka služi za usporedbu.",
+      "savjet": "Razmisli kako bi se uz samo jednu biljku moglo vidjeti je li svjetlost važna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-077",
+      "tezina": "tesko",
+      "pitanje": "Tvoji rezultati razlikuju se od rezultata prijatelja koji je radio isti pokus. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Prepisati prijateljeve rezultate",
+        "Izbrisati svoje rezultate",
+        "Usporediti postupke i ponoviti pokus",
+        "Odabrati rezultat koji ti se više sviđa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Možda je netko napravio nešto drugačije. Usporedbom postupaka i ponavljanjem otkrivamo gdje je razlika.",
+      "savjet": "Razmisli kako otkriti zašto su rezultati različiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-078",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica zaključak, a ne opažanje?",
+      "ponudeni": [
+        "Biljka bez vode ima žute listove.",
+        "Zalijevana biljka narasla je 5 cm.",
+        "Zemlja u lončiću je suha.",
+        "Biljkama je za rast potrebna voda."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opažanja opisuju što smo vidjeli ili izmjerili. Zaključak iz njih izvodi općenito pravilo.",
+      "savjet": "Potraži rečenicu koja vrijedi općenito, a ne samo za jednu biljku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-079",
+      "tezina": "tesko",
+      "pitanje": "Sara mjeri temperaturu vode u čaši na suncu i u čaši u sjeni. Kako će dobiti rezultate koje može usporediti?",
+      "ponudeni": [
+        "Izmjeriti obje čaše istim toplomjerom u isto vrijeme",
+        "Jednu čašu izmjeriti ujutro, drugu navečer",
+        "Izmjeriti samo čašu na suncu",
+        "Procijeniti temperaturu prstom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ako mjeri istim priborom u isto vrijeme, razlika u temperaturi ovisi samo o suncu i sjeni.",
+      "savjet": "Razmisli što sve mora biti jednako da bi usporedba bila poštena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-080",
+      "tezina": "tesko",
+      "pitanje": "U tablici piše: ponedjeljak 12 °C, utorak 15 °C, srijeda 9 °C. Za koliko je utorak bio topliji od srijede?",
+      "ponudeni": [
+        "3 °C",
+        "6 °C",
+        "9 °C",
+        "24 °C"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U utorak je bilo 15 °C, a u srijedu 9 °C. Razlika je 15 − 9 = 6 °C.",
+      "savjet": "Pronađi temperature za ta dva dana i oduzmi manju od veće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-081",
+      "tezina": "tesko",
+      "pitanje": "U pokusu voda treba zavreti. Kako je pokus ispravno organiziran?",
+      "ponudeni": [
+        "Učenici sami griju vodu dok učitelj nije u učionici",
+        "Učenici provjeravaju toplinu vode prstom",
+        "Odrasla osoba grije vodu, a učenici promatraju s udaljenosti",
+        "Učenici nose vruću posudu po učionici"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kipuća voda može teško opeći. Zato je grije odrasla osoba, a učenici promatraju sa sigurne udaljenosti.",
+      "savjet": "Razmisli tko treba rukovati vrućim posudama."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto istraživači točno opisuju kako su izveli pokus?",
+      "ponudeni": [
+        "Da nitko ne sazna rezultate",
+        "Da pokus bude dulji",
+        "Da ne moraju pisati zaključak",
+        "Da ga drugi mogu ponoviti i provjeriti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad je postupak točno opisan, drugi ga mogu ponoviti. Ako dobiju isti rezultat, zaključak je pouzdaniji.",
+      "savjet": "Razmisli kako bi netko drugi mogao provjeriti tvoje otkriće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-083",
+      "tezina": "tesko",
+      "pitanje": "Vlažne sjemenke graha stoje u tami: jedne u ormaru u sobi, druge u hladnjaku. Proklijale su samo one u sobi. Što zaključujemo?",
+      "ponudeni": [
+        "Sjemenkama za klijanje treba toplina",
+        "Sjemenkama za klijanje treba tama",
+        "Sjemenke ne trebaju vodu",
+        "U hladnjaku je previše svjetlosti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obje skupine bile su vlažne i u tami, a razlikovale su se samo u toplini. Proklijale su one na toplom.",
+      "savjet": "Pronađi jedini uvjet po kojem se sobni ormar razlikuje od hladnjaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-084",
+      "tezina": "tesko",
+      "pitanje": "Pokus je pokazao upravo ono što je Lana pretpostavila. Što to znači?",
+      "ponudeni": [
+        "Pokus nije trebalo izvoditi",
+        "Pretpostavka je potvrđena rezultatima",
+        "Rezultate ne treba zapisati",
+        "Zaključak je netočan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad se rezultati slažu s pretpostavkom, kažemo da je pretpostavka potvrđena.",
+      "savjet": "Razmisli što se dogodilo s Laninom pretpostavkom kad je provjerena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-085",
+      "tezina": "tesko",
+      "pitanje": "Lucija je u 9, 12 i 15 sati označila kraj sjene štapa. Sjena je bila najkraća u 12 sati. Što zaključuje?",
+      "ponudeni": [
+        "Sjena je najkraća ujutro",
+        "Štap je u podne bio kraći",
+        "Sjena je najkraća oko podneva, kad je Sunce najviše",
+        "Sjena se tijekom dana ne mijenja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oko podneva Sunce je najviše na nebu, pa su sjene najkraće. Ujutro i poslijepodne sjene su dulje.",
+      "savjet": "Razmisli gdje je Sunce na nebu u podne, a gdje ujutro."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-086",
+      "tezina": "tesko",
+      "pitanje": "Zašto pretpostavku zapisujemo prije pokusa i poslije je ne mijenjamo?",
+      "ponudeni": [
+        "Jer se pretpostavka ne smije čitati",
+        "Jer pokus ne radi bez zapisa",
+        "Jer je pretpostavka uvijek točna",
+        "Da možemo provjeriti je li se pokazala točnom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zapisanu pretpostavku poslije usporedimo s rezultatima. Tako vidimo je li bila točna ili nije.",
+      "savjet": "Razmisli s čime na kraju uspoređujemo rezultate pokusa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-087",
+      "tezina": "tesko",
+      "pitanje": "Tijekom tjedna kalendar prirode bilježi: sunčano, sunčano, kiša, sunčano, kiša, oblačno, sunčano. Koliko je bilo sunčanih dana?",
+      "ponudeni": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčano je bilo prvi, drugi, četvrti i sedmi dan, ukupno četiri dana.",
+      "savjet": "Prebroji pažljivo svaku riječ „sunčano“ u zapisu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-088",
+      "tezina": "tesko",
+      "pitanje": "Fran želi saznati kada lastavice odlaze iz njegova mjesta. Kako će najbolje istražiti?",
+      "ponudeni": [
+        "Zatvoriti lastavice u kavez",
+        "Izvesti pokus u učionici",
+        "Promatrati ih i zapisivati datume kroz jesen",
+        "Pogoditi datum bez promatranja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Odlazak ptica ne možemo izazvati pokusom. Možemo ga promatrati i zapisivati kada se dogodio.",
+      "savjet": "Razmisli može li se ova pojava izazvati ili se može samo pratiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-089",
+      "tezina": "tesko",
+      "pitanje": "Dvije jednake grudice snijega stoje u sobi, jedna umotana u vuneni šal. Umotana se otopila kasnije. Što to pokazuje?",
+      "ponudeni": [
+        "Šal grije snijeg",
+        "Šal usporava prolaz topline do snijega",
+        "Snijeg u šalu postaje hladniji",
+        "Neumotana grudica bila je veća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vuna slabo propušta toplinu. Toplina iz sobe sporije je dolazila do snijega, pa se kasnije otopio.",
+      "savjet": "Razmisli odakle dolazi toplina koja topi snijeg i što joj stoji na putu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-kako-istrazujemo-090",
+      "tezina": "tesko",
+      "pitanje": "Jan želi znati koja tkanina najbrže upija vodu. Na tri vrste tkanine kapne vodu. Što mora biti jednako?",
+      "ponudeni": [
+        "Vrsta tkanine",
+        "Ime tkanine",
+        "Boja kapaljke",
+        "Broj kapi vode na svakoj tkanini"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jan mijenja samo vrstu tkanine. Na svaku mora kapnuti jednako vode da bi usporedba bila poštena.",
+      "savjet": "Razmisli što Jan namjerno mijenja, a što mora ostati isto."
+    }
+  ]
+}

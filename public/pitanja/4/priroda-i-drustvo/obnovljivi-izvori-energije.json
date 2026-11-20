@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "obnovljivi-izvori-energije",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-001",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih izvora energije obnovljiv?",
+      "ponudeni": [
+        "Nafta",
+        "Ugljen",
+        "Sunce",
+        "Zemni plin"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sunce je obnovljiv izvor energije jer svaki dan ponovno daje svjetlost i toplinu. Nafta, ugljen i zemni plin su neobnovljivi.",
+      "savjet": "Sjeti se koji se izvor ne troši, nego nam svaki dan ponovno daje energiju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-002",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih izvora energije neobnovljiv?",
+      "ponudeni": [
+        "Ugljen",
+        "Vjetar",
+        "Sunce",
+        "Tekuća voda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ugljen se vadi iz zemlje i nakon što izgori, više ga nema. Zato je neobnovljiv izvor energije.",
+      "savjet": "Potraži izvor koji se vadi iz zemlje i jednom potrošen više se ne vraća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-003",
+      "tezina": "lagano",
+      "pitanje": "Što znači da je neki izvor energije obnovljiv?",
+      "ponudeni": [
+        "Može se upotrijebiti samo jednom",
+        "Vadi se duboko ispod zemlje",
+        "Proizvodi se samo u tvornicama",
+        "Stalno se ponovno stvara u prirodi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Obnovljivi izvori, kao što su Sunce, vjetar i voda, stalno se ponovno stvaraju u prirodi pa se ne troše.",
+      "savjet": "Razmisli što znači riječ „obnoviti“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-004",
+      "tezina": "lagano",
+      "pitanje": "Što znači da je neki izvor energije neobnovljiv?",
+      "ponudeni": [
+        "Ima ga neograničeno mnogo",
+        "Njegove se zalihe troše i jednom će nestati",
+        "Svaki dan ga ima jednako",
+        "Ponovno nastaje nakon svake kiše"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Neobnovljivi izvori nastajali su jako dugo, a ljudi ih troše brzo. Zato će ih jednom ponestati.",
+      "savjet": "Sjeti se što se događa s gorivom kad ga potrošimo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-005",
+      "tezina": "lagano",
+      "pitanje": "Koje nebesko tijelo Zemlji daje svjetlost i toplinu?",
+      "ponudeni": [
+        "Mjesec",
+        "Sunce",
+        "Mars",
+        "Venera"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sunce je zvijezda koja Zemlji daje svjetlost i toplinu. Bez njega na Zemlji ne bi bilo života.",
+      "savjet": "Sjeti se što zagrijava Zemlju danju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu ploče na krovovima koje Sunčevu svjetlost pretvaraju u električnu energiju?",
+      "ponudeni": [
+        "Satelitske antene",
+        "Crjepovi",
+        "Krovni prozori",
+        "Sunčane ploče"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunčane ploče (solarni paneli) Sunčevu svjetlost pretvaraju u električnu energiju.",
+      "savjet": "Naziv tih ploča povezan je s izvorom energije koji koriste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu elektrane koje energiju vjetra pretvaraju u električnu energiju?",
+      "ponudeni": [
+        "Vjetroelektrane",
+        "Hidroelektrane",
+        "Termoelektrane",
+        "Sunčane elektrane"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vjetroelektrane imaju velike lopatice koje okreće vjetar, a tako se dobiva električna energija.",
+      "savjet": "Prvi dio naziva elektrane otkriva što je pokreće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu elektrane koje energiju tekuće vode pretvaraju u električnu energiju?",
+      "ponudeni": [
+        "Vjetroelektrane",
+        "Sunčane elektrane",
+        "Hidroelektrane",
+        "Termoelektrane"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hidroelektrane se grade na rijekama. Tekuća voda u njima pokreće strojeve koji proizvode električnu energiju.",
+      "savjet": "Sjeti se da „hidro“ u složenim riječima znači voda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-009",
+      "tezina": "lagano",
+      "pitanje": "U kojem su nizu samo obnovljivi izvori energije?",
+      "ponudeni": [
+        "Nafta, ugljen i zemni plin",
+        "Sunce, nafta i vjetar",
+        "Ugljen, voda i zemni plin",
+        "Sunce, vjetar i voda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunce, vjetar i voda obnovljivi su izvori jer se stalno ponovno stvaraju u prirodi.",
+      "savjet": "Provjeri ima li u nizu ijedan izvor koji se vadi iz zemlje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-010",
+      "tezina": "lagano",
+      "pitanje": "U kojem su nizu samo neobnovljivi izvori energije?",
+      "ponudeni": [
+        "Nafta, ugljen i zemni plin",
+        "Sunce, vjetar i voda",
+        "Nafta, vjetar i ugljen",
+        "Zemni plin, Sunce i voda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nafta, ugljen i zemni plin vade se iz zemlje i jednom će ih nestati. Zato su neobnovljivi izvori.",
+      "savjet": "Potraži niz u kojem su samo izvori koji se jednom potroše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-011",
+      "tezina": "lagano",
+      "pitanje": "Koji oblik energije troše hladnjak, televizor i računalo?",
+      "ponudeni": [
+        "Energiju iz hrane",
+        "Snagu mišića",
+        "Električnu energiju",
+        "Toplinu vatre"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hladnjak, televizor i računalo uključujemo u utičnicu jer rade na električnu energiju (struju).",
+      "savjet": "Sjeti se kamo uključuješ te uređaje da bi radili."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-012",
+      "tezina": "lagano",
+      "pitanje": "Odakle ljudi dobivaju energiju za kretanje, rast i igru?",
+      "ponudeni": [
+        "Iz zraka",
+        "Iz hrane",
+        "Iz struje u kući",
+        "Iz sunčanih ploča"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudi energiju dobivaju iz hrane. Zato nakon igre i trčanja osjećamo glad.",
+      "savjet": "Sjeti se zašto nakon dugog trčanja poželiš nešto pojesti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-013",
+      "tezina": "lagano",
+      "pitanje": "Kojim postupkom štediš električnu energiju?",
+      "ponudeni": [
+        "Gašenjem svjetla kad izlaziš iz sobe",
+        "Ostavljanjem upaljenog televizora",
+        "Držanjem hladnjaka dugo otvorenim",
+        "Paljenjem svjetla danju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad ugasiš svjetlo u praznoj sobi, ne trošiš struju bez potrebe.",
+      "savjet": "Razmisli koji postupak sprječava da uređaj radi kad ga nitko ne koristi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-014",
+      "tezina": "lagano",
+      "pitanje": "Što nastaje kad izgaraju nafta, ugljen i zemni plin?",
+      "ponudeni": [
+        "Čista pitka voda",
+        "Plodno tlo",
+        "Svjež zrak za disanje",
+        "Dim i plinovi koji onečišćuju zrak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izgaranjem nafte, ugljena i zemnog plina nastaju dim i štetni plinovi koji onečišćuju zrak.",
+      "savjet": "Sjeti se što izlazi iz ispušne cijevi automobila ili iz dimnjaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-015",
+      "tezina": "lagano",
+      "pitanje": "Gdje se u prirodi nalaze ugljen, nafta i zemni plin?",
+      "ponudeni": [
+        "U zraku",
+        "Pod zemljom",
+        "U oblacima",
+        "U lišću drveća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ugljen, nafta i zemni plin nalaze se duboko pod zemljom, odakle ih ljudi vade.",
+      "savjet": "Sjeti se gdje rade rudari i naftne bušotine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-016",
+      "tezina": "lagano",
+      "pitanje": "Koji izvor energije pokreće jedrilicu?",
+      "ponudeni": [
+        "Nafta",
+        "Ugljen",
+        "Vjetar",
+        "Zemni plin"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vjetar puše u jedra i pokreće jedrilicu. Tako jedrilica plovi bez goriva.",
+      "savjet": "Sjeti se u što su jedra okrenuta dok jedrilica plovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-017",
+      "tezina": "lagano",
+      "pitanje": "Što je pokretalo kolo starih mlinova vodenica?",
+      "ponudeni": [
+        "Vjetar",
+        "Ugljen",
+        "Nafta",
+        "Tekuća voda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vodenice su građene uz rijeke i potoke jer je tekuća voda okretala njihovo kolo.",
+      "savjet": "Pogledaj naziv mlina, on ti otkriva izvor energije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-018",
+      "tezina": "lagano",
+      "pitanje": "Što se dobiva iz nafte?",
+      "ponudeni": [
+        "Drvo",
+        "Benzin",
+        "Pijesak",
+        "Vuna"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iz nafte se dobivaju benzin i dizel, goriva koja pokreću većinu automobila.",
+      "savjet": "Sjeti se što se toči na benzinskoj postaji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-019",
+      "tezina": "lagano",
+      "pitanje": "Što je potrebno da bi automobil vozio, žarulja svijetlila, a peć grijala?",
+      "ponudeni": [
+        "Energija",
+        "Kiša",
+        "Pijesak",
+        "Mjesečina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za svaki rad, kretanje, svjetlost i toplinu potrebna je energija.",
+      "savjet": "Sjeti se ključne riječi ove lekcije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-020",
+      "tezina": "lagano",
+      "pitanje": "Kada sunčane ploče proizvode električnu energiju?",
+      "ponudeni": [
+        "Noću",
+        "Kad su prekrivene snijegom",
+        "Kad ih obasjava Sunce",
+        "Kad su u mraku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sunčane ploče rade kad na njih pada Sunčeva svjetlost.",
+      "savjet": "Sjeti se od čega sunčane ploče dobivaju energiju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-021",
+      "tezina": "lagano",
+      "pitanje": "Što pomaže štednji energije zimi dok radi grijanje?",
+      "ponudeni": [
+        "Ostaviti prozor otvoren cijeli dan",
+        "Zatvoriti prozore",
+        "Grijati prazne sobe",
+        "Upaliti sva svjetla"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad su prozori zatvoreni, toplina ostaje u sobi pa se troši manje energije za grijanje.",
+      "savjet": "Razmisli kako zadržati toplinu u sobi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-022",
+      "tezina": "lagano",
+      "pitanje": "Koji je način dolaska u školu najbolji za čist zrak i štednju energije?",
+      "ponudeni": [
+        "Hodanje ili vožnja biciklom",
+        "Vožnja automobilom",
+        "Vožnja motorom",
+        "Vožnja taksijem"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hodanje i vožnja biciklom ne troše gorivo i ne onečišćuju zrak.",
+      "savjet": "Odaberi način na koji se krećeš snagom vlastitih mišića."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-023",
+      "tezina": "lagano",
+      "pitanje": "Koji izvor energije koriste sunčani kolektori za grijanje vode?",
+      "ponudeni": [
+        "Energiju vjetra",
+        "Zemni plin",
+        "Sunčevu toplinu",
+        "Ugljen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sunčani kolektori na krovu skupljaju Sunčevu toplinu i njome zagrijavaju vodu.",
+      "savjet": "Naziv uređaja otkriva odakle dobiva toplinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-024",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga onečišćuje zrak?",
+      "ponudeni": [
+        "Sunčane ploče",
+        "Vjetroelektrana",
+        "Vodenica",
+        "Ispušni plinovi automobila"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Automobili koji voze na benzin ili dizel ispuštaju plinove koji onečišćuju zrak.",
+      "savjet": "Potraži nešto što izgara gorivo dobiveno iz nafte."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-025",
+      "tezina": "lagano",
+      "pitanje": "Zašto je važno štedjeti energiju?",
+      "ponudeni": [
+        "Da se manje troše izvori i manje onečišćuje okoliš",
+        "Da uređaji rade brže",
+        "Da Sunce jače sja",
+        "Da vjetar jače puše"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Štednjom energije čuvamo izvore energije i manje onečišćujemo zrak, vodu i tlo.",
+      "savjet": "Razmisli što se događa s prirodom kad se troši mnogo goriva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-026",
+      "tezina": "lagano",
+      "pitanje": "Što trebaš učiniti s punjačem kad se mobitel napuni?",
+      "ponudeni": [
+        "Ostaviti punjač u utičnici do sutra",
+        "Na punjač spojiti još jedan uređaj",
+        "Izvući punjač iz utičnice",
+        "Ostaviti mobitel na punjaču cijelu noć"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Punjač koji ostane u utičnici troši malo struje i kad ništa ne puni. Zato ga treba izvući.",
+      "savjet": "Razmisli troši li uređaj struju dok je uključen u utičnicu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-027",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo izvore energije kojih će jednom nestati?",
+      "ponudeni": [
+        "Obnovljivi izvori",
+        "Neobnovljivi izvori",
+        "Vodeni izvori",
+        "Sunčani izvori"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izvori energije kojih će jednom nestati, kao što su nafta, ugljen i zemni plin, zovu se neobnovljivi izvori.",
+      "savjet": "Sjeti se riječi koja znači suprotno od „obnovljiv“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-028",
+      "tezina": "lagano",
+      "pitanje": "Što je zemni plin?",
+      "ponudeni": [
+        "Obnovljivi izvor energije",
+        "Vrsta oborine",
+        "Vrsta tla",
+        "Neobnovljivi izvor energije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zemni plin vadi se iz zemlje i jednom će ga nestati. Zato je neobnovljivi izvor energije.",
+      "savjet": "Sjeti se gdje se zemni plin nalazi i može li se brzo ponovno stvoriti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-029",
+      "tezina": "lagano",
+      "pitanje": "Što je dobro učiniti s televizorom kad ga nitko ne gleda?",
+      "ponudeni": [
+        "Ostaviti ga uključenog",
+        "Pojačati zvuk",
+        "Isključiti ga",
+        "Prebaciti na drugi program"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Isključeni televizor ne troši električnu energiju bez potrebe.",
+      "savjet": "Razmisli kako uređaj prestaje trošiti struju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-030",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove elektrana koja električnu energiju dobiva iz Sunčeve svjetlosti?",
+      "ponudeni": [
+        "Sunčana elektrana",
+        "Hidroelektrana",
+        "Vjetroelektrana",
+        "Termoelektrana"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčana elektrana ima mnogo sunčanih ploča koje Sunčevu svjetlost pretvaraju u električnu energiju.",
+      "savjet": "Naziv elektrane otkriva koji izvor energije koristi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto je nafta neobnovljiv izvor energije?",
+      "ponudeni": [
+        "Obnavlja se svaki dan",
+        "Nastajala je jako dugo, a troši se brzo",
+        "Nastaje od kiše",
+        "Ima je u svakom domu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nafta je nastajala jako dugo duboko pod zemljom. Ljudi je troše mnogo brže nego što bi mogla ponovno nastati.",
+      "savjet": "Usporedi koliko je trebalo da nafta nastane i koliko je brzo trošimo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto vjetar ubrajamo u obnovljive izvore energije?",
+      "ponudeni": [
+        "Vadi se iz zemlje",
+        "Čuva se u bocama",
+        "Nastaje izgaranjem goriva",
+        "Stalno ponovno nastaje u prirodi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vjetar je zrak u kretanju i stalno ponovno nastaje u prirodi, pa se ne može potrošiti.",
+      "savjet": "Razmisli može li vjetar nestati zato što ga je netko iskoristio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto je korištenje Sunčeve energije dobro za okoliš?",
+      "ponudeni": [
+        "Ne stvara dim ni štetne plinove",
+        "Stvara mnogo dima",
+        "Za nju treba spaljivati ugljen",
+        "Troši mnogo nafte"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčane ploče i kolektori rade bez izgaranja, pa ne onečišćuju zrak.",
+      "savjet": "Razmisli izgara li nešto dok sunčana ploča radi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-034",
+      "tezina": "srednje",
+      "pitanje": "Što se događa kad ljudi spaljuju mnogo ugljena, nafte i zemnog plina?",
+      "ponudeni": [
+        "Zrak postaje čišći",
+        "Rijeke dobivaju više vode",
+        "Zrak postaje onečišćen",
+        "Tlo postaje plodnije"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izgaranjem ugljena, nafte i zemnog plina u zrak odlaze dim i štetni plinovi.",
+      "savjet": "Sjeti se što izlazi iz dimnjaka kad nešto izgara."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-035",
+      "tezina": "srednje",
+      "pitanje": "Gdje je najbolje postaviti vjetroelektranu?",
+      "ponudeni": [
+        "Na mjestu gdje često puše jak vjetar",
+        "U dubokoj dolini zaklonjenoj od vjetra",
+        "Usred guste šume",
+        "U podrumu velike zgrade"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vjetroelektrana proizvodi više energije što vjetar češće i jače puše.",
+      "savjet": "Razmisli što pokreće lopatice vjetroelektrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-036",
+      "tezina": "srednje",
+      "pitanje": "Što je potrebno da bi radila hidroelektrana?",
+      "ponudeni": [
+        "Mnogo sunčanih dana",
+        "Jak vjetar",
+        "Rijeka s dovoljno vode koja teče",
+        "Velika količina ugljena"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hidroelektrana koristi energiju tekuće vode, pa joj je potrebna rijeka s dovoljno vode.",
+      "savjet": "Sjeti se koji izvor energije koristi hidroelektrana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-037",
+      "tezina": "srednje",
+      "pitanje": "Koji izvor energije koristi vrtna svjetiljka koja se danju puni, a noću svijetli?",
+      "ponudeni": [
+        "Energiju vjetra",
+        "Zemni plin",
+        "Naftu",
+        "Sunčevu energiju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrtna svjetiljka ima malu sunčanu ploču koja se danju puni Sunčevom svjetlošću.",
+      "savjet": "Razmisli što svjetiljku obasjava samo danju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-038",
+      "tezina": "srednje",
+      "pitanje": "Mia ugasi svjetlo kad izađe iz sobe. Što time postiže?",
+      "ponudeni": [
+        "Troši više energije",
+        "Štedi električnu energiju",
+        "Puni bateriju žarulje",
+        "Grije sobu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ugašena žarulja ne troši struju, a u praznoj sobi svjetlo nikome ne treba.",
+      "savjet": "Razmisli troši li ugašena žarulja struju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto zimi zatvaramo prozore dok radi grijanje?",
+      "ponudeni": [
+        "Da soba bude hladnija",
+        "Da u sobi bude manje svjetla",
+        "Da grijanje troši više energije",
+        "Da toplina ne izlazi van pa se troši manje energije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kroz otvoren prozor toplina odlazi van, pa grijanje mora raditi duže i trošiti više energije.",
+      "savjet": "Razmisli kamo odlazi toplina kroz otvoren prozor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-040",
+      "tezina": "srednje",
+      "pitanje": "Koji su izvor energije i elektrana točno povezani?",
+      "ponudeni": [
+        "Sunce – hidroelektrana",
+        "Tekuća voda – sunčana elektrana",
+        "Vjetar – vjetroelektrana",
+        "Vjetar – sunčana elektrana"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vjetroelektrana koristi energiju vjetra. Hidroelektrana koristi tekuću vodu, a sunčana elektrana Sunčevu svjetlost.",
+      "savjet": "Pogledaj prvi dio naziva svake elektrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-041",
+      "tezina": "srednje",
+      "pitanje": "Zašto sunčane ploče noću ne proizvode električnu energiju?",
+      "ponudeni": [
+        "Noću nema Sunčeve svjetlosti",
+        "Noću ne puše vjetar",
+        "Noću nema vode u rijekama",
+        "Noću se ploče isključe zbog hladnoće"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčane ploče rade samo kad na njih pada Sunčeva svjetlost, a noću je nema.",
+      "savjet": "Sjeti se od čega sunčane ploče dobivaju energiju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-042",
+      "tezina": "srednje",
+      "pitanje": "Kojim ponašanjem u kupaonici štediš energiju?",
+      "ponudeni": [
+        "Puštanjem tople vode dok pereš zube",
+        "Kraćim tuširanjem toplom vodom",
+        "Dugim kupanjem u punoj kadi",
+        "Ostavljanjem upaljenog svjetla"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za zagrijavanje vode troši se energija. Kraćim tuširanjem troši se manje tople vode i manje energije.",
+      "savjet": "Sjeti se da se i za zagrijavanje vode troši energija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-043",
+      "tezina": "srednje",
+      "pitanje": "Zašto je bolje voziti se autobusom nego da svatko vozi svoj automobil?",
+      "ponudeni": [
+        "Autobus ne treba gorivo",
+        "Autobus vozi na Sunčevu energiju",
+        "Troši se manje goriva i manje se onečišćuje zrak",
+        "Autobus ispušta više plinova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan autobus preveze mnogo ljudi, pa se troši manje goriva nego kad svatko vozi svoj automobil.",
+      "savjet": "Usporedi koliko ljudi preveze jedan autobus, a koliko jedan automobil."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-044",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko nafti, ugljenu i zemnom plinu?",
+      "ponudeni": [
+        "Svi su neobnovljivi izvori energije",
+        "Svi su obnovljivi izvori energije",
+        "Svi nastaju svaki dan",
+        "Svi se nalaze u zraku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nafta, ugljen i zemni plin vade se iz zemlje i jednom će ih nestati, pa su neobnovljivi izvori.",
+      "savjet": "Sjeti se odakle se ta tri izvora vade."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-045",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko Suncu, vjetru i tekućoj vodi?",
+      "ponudeni": [
+        "Svi su neobnovljivi izvori energije",
+        "Svi se vade iz zemlje",
+        "Svi onečišćuju zrak",
+        "Svi su obnovljivi izvori energije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunce, vjetar i tekuća voda stalno se ponovno stvaraju u prirodi, pa su obnovljivi izvori.",
+      "savjet": "Razmisli mogu li se ti izvori potrošiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-046",
+      "tezina": "srednje",
+      "pitanje": "Zašto vjetroelektrana ne proizvodi svaki dan jednako mnogo električne energije?",
+      "ponudeni": [
+        "Vjetar se potroši",
+        "Vjetar ne puše svaki dan jednako jako",
+        "Noću nema Sunca",
+        "Za rad joj treba ugljen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjetroelektrana radi jače kad vjetar jače puše, a kad je tiho, proizvodi malo ili ništa.",
+      "savjet": "Razmisli je li vjetar svaki dan jednako jak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-047",
+      "tezina": "srednje",
+      "pitanje": "Čemu su ljudima nekada služile vjetrenjače i vodenice?",
+      "ponudeni": [
+        "Za mljevenje žita u brašno",
+        "Za grijanje kuća",
+        "Za rasvjetu ulica",
+        "Za pokretanje automobila"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vjetrenjače i vodenice bili su mlinovi. Snagom vjetra ili vode mljeli su žito u brašno.",
+      "savjet": "Sjeti se što se radi u mlinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-048",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s ugljenom nakon što izgori u peći?",
+      "ponudeni": [
+        "Ponovno naraste u peći",
+        "Pretvori se u naftu",
+        "Postane vjetar",
+        "Više se ne može upotrijebiti kao gorivo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad ugljen izgori, ostaju pepeo i dim. Taj se ugljen više ne može ponovno upotrijebiti.",
+      "savjet": "Razmisli što ostaje u peći kad vatra ugasi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-049",
+      "tezina": "srednje",
+      "pitanje": "Koji je primjer nepotrebnog trošenja energije?",
+      "ponudeni": [
+        "Isključivanje računala nakon rada",
+        "Sušenje rublja na suncu",
+        "Upaljeno svjetlo u praznoj sobi",
+        "Vožnja biciklom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svjetlo u praznoj sobi troši struju, a nikome ne koristi.",
+      "savjet": "Potraži postupak u kojem se energija troši, a nitko je ne koristi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-050",
+      "tezina": "srednje",
+      "pitanje": "Zašto su obnovljivi izvori energije važni za budućnost?",
+      "ponudeni": [
+        "Mogu se upotrijebiti samo jednom",
+        "Neće se potrošiti i manje onečišćuju okoliš",
+        "Ima ih samo u nekim zemljama",
+        "Stvaraju mnogo dima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obnovljivi izvori stalno se obnavljaju, a pri korištenju ne onečišćuju zrak kao nafta i ugljen.",
+      "savjet": "Razmisli po čemu se obnovljivi izvori razlikuju od nafte i ugljena."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-051",
+      "tezina": "srednje",
+      "pitanje": "Što je biljkama potrebno da bi stvarale hranu?",
+      "ponudeni": [
+        "Električna struja",
+        "Nafta",
+        "Zemni plin",
+        "Sunčeva svjetlost"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Biljke uz pomoć Sunčeve svjetlosti stvaraju hranu. Tako Sunčeva energija ulazi u biljke.",
+      "savjet": "Sjeti se gdje biljke najbolje rastu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-052",
+      "tezina": "srednje",
+      "pitanje": "Kad u kući štedimo struju, što se događa u elektranama koje spaljuju ugljen?",
+      "ponudeni": [
+        "Spaljuje se više ugljena",
+        "Spaljuje se manje ugljena",
+        "Ugljen se pretvara u vjetar",
+        "Elektrane počinju koristiti more"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Što manje struje trošimo, to je elektrane trebaju manje proizvesti, pa spaljuju manje ugljena.",
+      "savjet": "Razmisli koliko struje elektrana mora proizvesti kad je ljudi manje troše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-053",
+      "tezina": "srednje",
+      "pitanje": "Koja od navedenih elektrana onečišćuje zrak?",
+      "ponudeni": [
+        "Elektrana koja spaljuje ugljen",
+        "Vjetroelektrana",
+        "Sunčana elektrana",
+        "Hidroelektrana"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Elektrana koja spaljuje ugljen ispušta dim i štetne plinove. Ostale navedene elektrane ne spaljuju gorivo.",
+      "savjet": "Potraži elektranu u kojoj nešto izgara."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto se sunčane elektrane grade u krajevima s mnogo sunčanih dana?",
+      "ponudeni": [
+        "Ondje ne puše vjetar",
+        "Ondje ima više nafte",
+        "Ondje mogu proizvesti više energije",
+        "Ondje nema rijeka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Što je više sunčanih dana, to sunčane ploče dulje rade i proizvode više električne energije.",
+      "savjet": "Razmisli kada sunčane ploče rade."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-055",
+      "tezina": "srednje",
+      "pitanje": "Što je dobro koristiti u kući za štednju električne energije?",
+      "ponudeni": [
+        "Više žarulja nego što treba",
+        "Upaljena svjetla danju",
+        "Štedne žarulje",
+        "Stare uređaje koji troše mnogo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Štedne žarulje daju jednako svjetla, a troše manje električne energije.",
+      "savjet": "Sjeti se kakve žarulje troše manje struje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-056",
+      "tezina": "srednje",
+      "pitanje": "Zašto je bolje sušiti rublje na suncu nego u sušilici?",
+      "ponudeni": [
+        "Ne troši se električna energija",
+        "Rublje se brže uprlja",
+        "Sunce troši naftu",
+        "Sušilica ne treba struju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na suncu i vjetru rublje se suši besplatno, a sušilica troši električnu energiju.",
+      "savjet": "Razmisli što pokreće sušilicu, a što suši rublje vani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-057",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se razlikuju sunčana ploča i sunčani kolektor?",
+      "ponudeni": [
+        "Ploča grije vodu, a kolektor proizvodi struju",
+        "Ploča radi na vjetar, a kolektor na vodu",
+        "Ploča radi noću, a kolektor danju",
+        "Ploča proizvodi struju, a kolektor grije vodu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunčana ploča Sunčevu svjetlost pretvara u električnu energiju, a sunčani kolektor Sunčevom toplinom zagrijava vodu.",
+      "savjet": "Sjeti se za što se u kući koristi svaki od tih uređaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-058",
+      "tezina": "srednje",
+      "pitanje": "Gdje je na kući najbolje postaviti sunčane ploče?",
+      "ponudeni": [
+        "U podrum",
+        "Na dio krova koji je dugo na suncu",
+        "Na zid u sjeni visokog drveta",
+        "U garažu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sunčane ploče proizvode više energije što ih Sunce dulje obasjava.",
+      "savjet": "Razmisli što je pločama potrebno da bi radile."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-059",
+      "tezina": "srednje",
+      "pitanje": "Što trebaš učiniti s računalom kad završiš s radom?",
+      "ponudeni": [
+        "Ostaviti ga uključenog cijelu noć",
+        "Isključiti ga",
+        "Pojačati svjetlinu zaslona",
+        "Pustiti glazbu da svira"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Isključeno računalo ne troši električnu energiju bez potrebe.",
+      "savjet": "Razmisli troši li uređaj struju dok radi, a nitko ga ne koristi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-060",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dobro staviti poklopac na lonac dok se kuha?",
+      "ponudeni": [
+        "Voda brže zakuha i troši se manje energije",
+        "Voda nikako ne može zakuhati",
+        "Jelo postaje hladnije",
+        "Štednjak tada troši više energije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poklopac zadržava toplinu u loncu, pa voda brže zakuha i štednjak troši manje energije.",
+      "savjet": "Razmisli kamo odlazi toplina iz otvorenog lonca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-061",
+      "tezina": "tesko",
+      "pitanje": "Obitelj želi grijati vodu za tuširanje bez zemnog plina i bez struje iz mreže. Što bi im najviše pomoglo?",
+      "ponudeni": [
+        "Sunčani kolektor na krovu",
+        "Peć na ugljen",
+        "Veći električni bojler",
+        "Plinski štednjak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčani kolektor zagrijava vodu Sunčevom toplinom, pa nije potrebno ni gorivo ni struja iz mreže.",
+      "savjet": "Potraži uređaj koji vodu grije obnovljivim izvorom energije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-062",
+      "tezina": "tesko",
+      "pitanje": "Selo je na brdu gdje često puše jak vjetar, a u blizini nema rijeke. Koju elektranu ondje ima smisla graditi?",
+      "ponudeni": [
+        "Hidroelektranu",
+        "Elektranu na ugljen",
+        "Vjetroelektranu",
+        "Elektranu na naftu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na mjestu gdje često puše jak vjetar vjetroelektrana može proizvesti mnogo energije bez onečišćenja.",
+      "savjet": "Razmisli koji obnovljivi izvor na tom mjestu ima u izobilju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-063",
+      "tezina": "tesko",
+      "pitanje": "U planinskom kraju teče brza rijeka s mnogo vode. Koju je elektranu na njoj najbolje izgraditi?",
+      "ponudeni": [
+        "Vjetroelektranu",
+        "Hidroelektranu",
+        "Sunčanu elektranu",
+        "Elektranu na ugljen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brza rijeka s mnogo vode ima mnogo energije, a hidroelektrana koristi upravo energiju tekuće vode.",
+      "savjet": "Razmisli koji izvor energije ondje ima u izobilju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-064",
+      "tezina": "tesko",
+      "pitanje": "Ena je na sunce stavila dvije jednake boce s vodom, jednu crnu i jednu bijelu. Nakon sat vremena voda u crnoj boci bila je toplija. Što iz toga zaključuje?",
+      "ponudeni": [
+        "Bijele površine bolje upijaju Sunčevu toplinu",
+        "Boja boce ne utječe na zagrijavanje",
+        "Voda se grije samo u sjeni",
+        "Tamne površine bolje upijaju Sunčevu toplinu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tamne površine upijaju više Sunčeve topline od svijetlih. Zato su i sunčani kolektori tamne boje.",
+      "savjet": "Usporedi boce koje su se razlikovale samo po boji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-065",
+      "tezina": "tesko",
+      "pitanje": "Jakov puše u vjetrenjačicu od papira. Kad puše jače, ona se vrti brže. Što pokazuje taj pokus?",
+      "ponudeni": [
+        "Vjetrenjačica radi samo noću",
+        "Vjetar nema energije",
+        "Jači vjetar daje više energije za okretanje",
+        "Brzina puhanja ne utječe na vrtnju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Što je vjetar jači, to ima više energije i brže okreće lopatice. Isto vrijedi i za vjetroelektrane.",
+      "savjet": "Usporedi što se mijenjalo u pokusu i što se zbog toga dogodilo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-066",
+      "tezina": "tesko",
+      "pitanje": "Zašto bi bilo loše da ljudi za svu energiju koriste samo naftu?",
+      "ponudeni": [
+        "Nafta bi se tada počela obnavljati",
+        "Zrak bi postao čišći",
+        "Nafte bi bilo sve više",
+        "Nafta bi se brže potrošila, a zrak bio onečišćeniji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nafta je neobnovljiva, pa bi se brže potrošila, a njezinim izgaranjem onečišćuje se zrak.",
+      "savjet": "Sjeti se dvije loše strane neobnovljivih izvora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-067",
+      "tezina": "tesko",
+      "pitanje": "Zašto je dobro koristiti više obnovljivih izvora, a ne samo Sunčevu energiju?",
+      "ponudeni": [
+        "Sunce daje premalo svjetlosti danju",
+        "Kad nema Sunca, energiju mogu davati vjetar ili voda",
+        "Vjetar i voda su neobnovljivi",
+        "Sunčeva energija onečišćuje zrak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sunce ne sja noću ni kroz guste oblake. Tada energiju mogu davati vjetar i tekuća voda.",
+      "savjet": "Razmisli kada sunčane ploče ne rade."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-068",
+      "tezina": "tesko",
+      "pitanje": "Tijekom ljetne suše rijeke imaju malo vode. Što se tada događa s hidroelektranama?",
+      "ponudeni": [
+        "Proizvode manje električne energije",
+        "Proizvode više električne energije",
+        "Počinju raditi na vjetar",
+        "Rade jednako kao i inače"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hidroelektrana koristi energiju tekuće vode. Kad u rijeci ima malo vode, proizvodi manje energije.",
+      "savjet": "Sjeti se što pokreće strojeve u hidroelektrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-069",
+      "tezina": "tesko",
+      "pitanje": "Petra kaže: „Sunca ima dovoljno pa ne moramo gasiti svjetla.“ Zašto nije u pravu?",
+      "ponudeni": [
+        "Sunce će se sutra potrošiti",
+        "Velik dio struje još se dobiva iz neobnovljivih izvora",
+        "Žarulje rade samo na naftu",
+        "Gašenje svjetla troši više struje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mnoge elektrane još spaljuju ugljen, naftu ili zemni plin. Zato štednjom struje čuvamo i izvore i okoliš.",
+      "savjet": "Razmisli dobiva li se sva struja koju trošimo iz Sunca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-070",
+      "tezina": "tesko",
+      "pitanje": "Marko se vozi biciklom u školu umjesto da ga roditelji voze automobilom. Koje su koristi od toga?",
+      "ponudeni": [
+        "Troši se više nafte i zrak je čišći",
+        "Štedi se struja i grije se kuća",
+        "Pune se sunčane ploče i štedi se voda",
+        "Štedi se gorivo i zrak je čišći"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bicikl ne troši gorivo i ne ispušta plinove, pa se čuva nafta i zrak ostaje čišći.",
+      "savjet": "Usporedi što troši automobil, a što bicikl."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-071",
+      "tezina": "tesko",
+      "pitanje": "U učionici je zimi prevruće, a radijator jako grije. Što je najbolje učiniti?",
+      "ponudeni": [
+        "Otvoriti prozor na cijeli dan",
+        "Pojačati grijanje i otvoriti vrata",
+        "Smanjiti grijanje i nakratko prozračiti",
+        "Ostaviti sve kako jest"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Smanjenjem grijanja troši se manje energije, a kratkim prozračivanjem dobiva se svjež zrak bez gubitka topline.",
+      "savjet": "Razmisli kako dobiti ugodnu toplinu, a ne trošiti energiju uzalud."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-072",
+      "tezina": "tesko",
+      "pitanje": "Koja je kuća najbolji primjer korištenja obnovljivih izvora energije?",
+      "ponudeni": [
+        "Kuća sa sunčanim pločama i kolektorom na krovu",
+        "Kuća koja se grije na ugljen",
+        "Kuća grijana loživim uljem iz nafte",
+        "Kuća u kojoj su sva svjetla stalno upaljena"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčane ploče i sunčani kolektor koriste Sunčevu energiju, koja je obnovljiv izvor.",
+      "savjet": "Potraži kuću koja koristi izvor energije koji se ne troši."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-073",
+      "tezina": "tesko",
+      "pitanje": "Tin je jednu zdjelu s vodom stavio na sunce, a drugu jednaku u hlad. Nakon dva sata voda na suncu bila je toplija. Koji je zaključak?",
+      "ponudeni": [
+        "Voda se brže grije u hladu",
+        "Sunce zagrijava samo zrak, a ne vodu",
+        "Voda u hladu bila je toplija",
+        "Sunčeva toplina može zagrijati vodu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunce daje toplinu koja zagrijava vodu. Tu toplinu koriste i sunčani kolektori.",
+      "savjet": "Usporedi gdje su stajale zdjele i koja se voda više zagrijala."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-074",
+      "tezina": "tesko",
+      "pitanje": "Ivan tvrdi da je ugljen obnovljiv jer ga u rudnicima još ima mnogo. Što je točno?",
+      "ponudeni": [
+        "Ugljen je obnovljiv jer ga još ima",
+        "Ugljen je neobnovljiv jer potrošeni ugljen ne nastaje brzo",
+        "Ugljen se obnavlja nakon svake kiše",
+        "Ugljen je obnovljiv jer je crn"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iako ugljena još ima, on je nastajao jako dugo. Ono što potrošimo ne može se brzo ponovno stvoriti.",
+      "savjet": "Razmisli o tome koliko brzo ugljen nastaje, a ne koliko ga sada ima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-075",
+      "tezina": "tesko",
+      "pitanje": "Energija iz hrane koju jedemo potječe od Sunca. Zašto?",
+      "ponudeni": [
+        "Biljke uz pomoć Sunčeve svjetlosti stvaraju hranu",
+        "Hranu kuhamo na Suncu",
+        "Životinje jedu samo noću",
+        "Hrana se proizvodi u sunčanim elektranama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljke uz pomoć Sunčeve svjetlosti stvaraju hranu. Ljudi i životinje jedu biljke ili životinje koje su jele biljke.",
+      "savjet": "Sjeti se što biljke trebaju da bi rasle i stvarale hranu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-076",
+      "tezina": "tesko",
+      "pitanje": "Tko od navedenih najbolje štedi energiju?",
+      "ponudeni": [
+        "Lovro drži hladnjak otvoren dok razmišlja",
+        "Nina grije sobu s otvorenim prozorom",
+        "Dora isključuje uređaje koje ne koristi",
+        "Fran ostavlja upaljen televizor dok je vani"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dora isključuje uređaje koje ne koristi, pa ne troši energiju bez potrebe.",
+      "savjet": "Za svaku osobu razmisli troši li energiju uzalud."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto vrata hladnjaka ne treba dugo držati otvorenima?",
+      "ponudeni": [
+        "Hrana se tada brže ohladi",
+        "Ulazi topli zrak pa hladnjak troši više struje",
+        "Hladnjak se tada sam isključi",
+        "Hladnjak tada troši manje struje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kroz otvorena vrata u hladnjak ulazi topli zrak. Hladnjak ga zatim mora ponovno ohladiti, za što troši struju.",
+      "savjet": "Razmisli što hladnjak mora učiniti s toplim zrakom koji uđe unutra."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-078",
+      "tezina": "tesko",
+      "pitanje": "Kada sunčane ploče proizvode najviše električne energije?",
+      "ponudeni": [
+        "Za oblačnog zimskog jutra",
+        "Noću za punog Mjeseca",
+        "U podne za vedrog ljetnog dana",
+        "Za kišnog jesenskog popodneva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad je nebo vedro, a Sunce visoko, na ploče pada najviše Sunčeve svjetlosti.",
+      "savjet": "Razmisli kada na ploče pada najviše Sunčeve svjetlosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-079",
+      "tezina": "tesko",
+      "pitanje": "Kuća ima samo sunčane ploče. Kako može imati njihovu struju i noću?",
+      "ponudeni": [
+        "Ploče noću rade na mjesečinu",
+        "Ploče noću rade jače jer je hladno",
+        "Ploče noću skupljaju vjetar",
+        "Danju se višak struje spremi u baterije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Danju ploče proizvedu više struje nego što treba. Višak se spremi u baterije i koristi noću.",
+      "savjet": "Razmisli kako se energija može sačuvati za kasnije, kao u mobitelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-080",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o vjetroelektranama točna?",
+      "ponudeni": [
+        "Dok rade, ne onečišćuju zrak, ali trebaju vjetar",
+        "Rade bez vjetra jer imaju motor na naftu",
+        "Dok rade, ispuštaju mnogo dima",
+        "Rade samo kad je potpuno tiho"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vjetroelektrane ne spaljuju gorivo pa ne onečišćuju zrak, ali rade samo kad puše vjetar.",
+      "savjet": "Sjeti se što pokreće vjetroelektranu i izgara li u njoj nešto."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-081",
+      "tezina": "tesko",
+      "pitanje": "Zašto je tekuća voda obnovljiv izvor energije?",
+      "ponudeni": [
+        "Voda u rijekama nikad se ne pomiče",
+        "Rijeke se pune naftom",
+        "Kiša i snijeg stalno ponovno pune rijeke",
+        "Ljudi svaki dan dolijevaju vodu u rijeke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kiša i otopljeni snijeg stalno ponovno pune izvore i rijeke, pa tekuće vode u prirodi stalno ima.",
+      "savjet": "Sjeti se odakle rijekama stiže nova voda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-082",
+      "tezina": "tesko",
+      "pitanje": "Škola želi trošiti manje struje i pomoći okolišu. Koji je prijedlog najbolji?",
+      "ponudeni": [
+        "Sunčane ploče na krov i gašenje svjetla u praznim učionicama",
+        "Paljenje svih svjetala danju",
+        "Računala uključena preko noći",
+        "Grijanje hodnika s otvorenim vratima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčane ploče daju struju iz obnovljivog izvora, a gašenjem svjetla u praznim učionicama ne troši se struja uzalud.",
+      "savjet": "Potraži prijedlog koji i štedi energiju i koristi obnovljiv izvor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto je danju bolje razmaknuti zavjese nego upaliti svjetlo?",
+      "ponudeni": [
+        "Žarulja danju svijetli jače",
+        "Sunčeva svjetlost troši struju",
+        "Zavjese troše energiju",
+        "Sunčeva svjetlost besplatna je i štedi struju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Danju sobu može osvijetliti Sunce, pa ne trebamo trošiti električnu energiju za rasvjetu.",
+      "savjet": "Razmisli koji izvor svjetlosti danju ne troši struju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-084",
+      "tezina": "tesko",
+      "pitanje": "Otok ima sunčana ljeta i vjetrovite zime. Koja se dva izvora energije ondje dobro nadopunjuju?",
+      "ponudeni": [
+        "Ugljen i nafta",
+        "Sunce i vjetar",
+        "Nafta i zemni plin",
+        "Ugljen i zemni plin"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljeti je mnogo Sunca za sunčane ploče, a zimi puše vjetar za vjetroelektrane. Tako otok ima energije cijele godine.",
+      "savjet": "Za svako godišnje doba razmisli kojeg obnovljivog izvora ima najviše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-085",
+      "tezina": "tesko",
+      "pitanje": "Koji je točan redoslijed kojim Sunce u kući sa sunčanim pločama upali žarulju?",
+      "ponudeni": [
+        "Sunčeva svjetlost → ploča → struja → žarulja",
+        "Žarulja → struja → ploča → Sunčeva svjetlost",
+        "Ploča → žarulja → Sunčeva svjetlost → struja",
+        "Struja → Sunčeva svjetlost → žarulja → ploča"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunčeva svjetlost pada na ploču, ploča proizvodi struju, a struja kroz žice dolazi do žarulje.",
+      "savjet": "Kreni od izvora energije i prati što se s energijom događa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-086",
+      "tezina": "tesko",
+      "pitanje": "Koji je točan redoslijed dobivanja struje u hidroelektrani?",
+      "ponudeni": [
+        "Struja → rijeka → kiša → hidroelektrana",
+        "Hidroelektrana → kiša → struja → rijeka",
+        "Rijeka → struja → kiša → hidroelektrana",
+        "Kiša → rijeka → hidroelektrana → struja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kiša puni rijeku, tekuća voda pokreće strojeve u hidroelektrani, a oni proizvode struju.",
+      "savjet": "Kreni od onoga što puni rijeku vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto električni romobil u gradu manje onečišćuje zrak od automobila na benzin?",
+      "ponudeni": [
+        "Vozi na naftu",
+        "Ispušta više dima",
+        "Dok vozi, ne ispušta ispušne plinove",
+        "Vozi samo noću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Električni romobil radi na struju iz baterije, pa dok vozi ne ispušta ispušne plinove.",
+      "savjet": "Usporedi što izlazi iz automobila na benzin dok vozi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-088",
+      "tezina": "tesko",
+      "pitanje": "Obitelj kupuje novu perilicu rublja. Koju je najbolje izabrati?",
+      "ponudeni": [
+        "Onu koja troši najviše struje",
+        "Onu koja za isto pranje troši manje struje",
+        "Onu koja je najglasnija",
+        "Onu koja pere samo hladnom vodom pa ne pere dobro"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Perilica koja za isto pranje troši manje struje štedi energiju i novac.",
+      "savjet": "Razmisli koja je perilica bolja za okoliš ako jednako dobro pere."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-089",
+      "tezina": "tesko",
+      "pitanje": "Planinarski dom daleko je od naselja i nema struje. Što mu je najjednostavnije postaviti za rasvjetu?",
+      "ponudeni": [
+        "Hidroelektranu na krov",
+        "Rudnik ugljena",
+        "Naftnu bušotinu",
+        "Sunčane ploče na krov"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunčane ploče lako se postave na krov i daju struju od Sunčeve svjetlosti, bez goriva.",
+      "savjet": "Potraži nešto što je malo, jednostavno i koristi obnovljiv izvor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-obnovljivi-izvori-energije-090",
+      "tezina": "tesko",
+      "pitanje": "Zašto je za okoliš bolje kupovati voće iz svog kraja nego voće dovezeno izdaleka?",
+      "ponudeni": [
+        "Domaće voće raste bez Sunca",
+        "Za prijevoz se troši manje goriva",
+        "Kamioni ne trebaju gorivo",
+        "Daleki prijevoz čisti zrak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voće dovezeno izdaleka putuje kamionima, brodovima ili zrakoplovima, koji troše mnogo goriva.",
+      "savjet": "Razmisli kako voće putuje do trgovine i što se pritom troši."
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "zivotni-uvjeti-i-ziva-bica",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-001",
+      "tezina": "lagano",
+      "pitanje": "Što su životni uvjeti?",
+      "ponudeni": [
+        "Igre koje djeca igraju u prirodi",
+        "Uvjeti koje živa bića trebaju da bi živjela",
+        "Pravila ponašanja u školi",
+        "Imena biljaka i životinja u šumi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Životni uvjeti su sve ono što živa bića trebaju za život: svjetlost, toplina, voda, zrak i tlo.",
+      "savjet": "Razmisli što znači riječ uvjet i za što je on ovdje potreban."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-002",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenog životni uvjet?",
+      "ponudeni": [
+        "Staklo",
+        "Papir",
+        "Željezo",
+        "Zrak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zrak je životni uvjet jer ga živa bića trebaju za disanje. Bez zraka ne bi mogla živjeti.",
+      "savjet": "Sjeti se što svako živo biće treba stalno, svakoga trenutka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-003",
+      "tezina": "lagano",
+      "pitanje": "Koji niz sadrži svih pet životnih uvjeta?",
+      "ponudeni": [
+        "Svjetlost, toplina, voda, zrak i tlo",
+        "Svjetlost, toplina, voda, zrak i snijeg",
+        "Svjetlost, vjetar, voda, zrak i kamen",
+        "Svjetlost, toplina, led, zrak i pijesak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pet životnih uvjeta su svjetlost, toplina, voda, zrak i tlo. Sva su ih živa bića potrebna za život.",
+      "savjet": "Pomisli što sve biljka u vrtu treba: odozgo, odozdo i oko sebe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-004",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenog pripada živoj prirodi?",
+      "ponudeni": [
+        "Kamen",
+        "Voda",
+        "Gljiva",
+        "Zrak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gljiva je živo biće jer raste, hrani se i razmnožava. Kamen, voda i zrak pripadaju neživoj prirodi.",
+      "savjet": "Potraži ono što raste i razmnožava se."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-005",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenog pripada neživoj prirodi?",
+      "ponudeni": [
+        "Mačka",
+        "Stijena",
+        "Hrast",
+        "Leptir"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stijena pripada neživoj prirodi jer ne diše, ne hrani se i ne razmnožava se. Mačka, hrast i leptir su živa bića.",
+      "savjet": "Potraži ono što ne raste i nema potomke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-006",
+      "tezina": "lagano",
+      "pitanje": "Što je glavni izvor svjetlosti na Zemlji?",
+      "ponudeni": [
+        "Mjesec",
+        "Ulična rasvjeta",
+        "Zvijezde",
+        "Sunce"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunce je glavni izvor svjetlosti na Zemlji. Mjesec samo odbija Sunčevu svjetlost, a sam ne svijetli.",
+      "savjet": "Sjeti se što danju obasjava cijeli krajolik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-007",
+      "tezina": "lagano",
+      "pitanje": "Što biljke stvaraju uz pomoć Sunčeve svjetlosti?",
+      "ponudeni": [
+        "Hranu za sebe",
+        "Kamenje",
+        "Vjetar",
+        "Snijeg"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljke uz pomoć Sunčeve svjetlosti stvaraju hranu. Zato bez svjetlosti ne mogu rasti.",
+      "savjet": "Sjeti se zašto biljke ne mogu dugo živjeti u mraku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-008",
+      "tezina": "lagano",
+      "pitanje": "Koji plin iz zraka ljudi i životinje trebaju za disanje?",
+      "ponudeni": [
+        "Dušik",
+        "Kisik",
+        "Vodenu paru",
+        "Dim"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za disanje je potreban kisik. Udišemo zrak, a tijelo iz njega uzima kisik.",
+      "savjet": "Sjeti se plina bez kojeg se ne može disati."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-009",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove tamni, plodni dio tla koji nastaje od ostataka biljaka i životinja?",
+      "ponudeni": [
+        "Pijesak",
+        "Glina",
+        "Humus",
+        "Šljunak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Humus nastaje raspadanjem ostataka biljaka i životinja. Tamne je boje i čini tlo plodnim.",
+      "savjet": "Sjeti se dijela tla koji ga čini dobrim za uzgoj biljaka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-010",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo sve što nas okružuje, i živu i neživu prirodu?",
+      "ponudeni": [
+        "Okoliš",
+        "Vrt",
+        "Naselje",
+        "Zavičaj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Okoliš je sve što nas okružuje: biljke, životinje, ljudi, ali i voda, zrak, tlo, svjetlost i toplina.",
+      "savjet": "Riječ koju tražiš povezana je s riječju okolo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-011",
+      "tezina": "lagano",
+      "pitanje": "Kojim dijelom biljka upija vodu iz tla?",
+      "ponudeni": [
+        "Cvijetom",
+        "Listom",
+        "Plodom",
+        "Korijenom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Korijen upija vodu i hranjive tvari iz tla. Ujedno drži biljku čvrsto u tlu.",
+      "savjet": "Sjeti se koji je dio biljke skriven u tlu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-012",
+      "tezina": "lagano",
+      "pitanje": "Koje živo biće živi u tlu?",
+      "ponudeni": [
+        "Lastavica",
+        "Šaran",
+        "Kišna glista",
+        "Leptir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kišna glista živi u tlu i ondje pronalazi hranu. Lastavica i leptir lete zrakom, a šaran živi u vodi.",
+      "savjet": "Sjeti se koju životinju vidiš kad nakon kiše prekopavaš vrt."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-013",
+      "tezina": "lagano",
+      "pitanje": "Što nam Sunce daje osim svjetlosti?",
+      "ponudeni": [
+        "Kišu",
+        "Toplinu",
+        "Zrak",
+        "Tlo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sunce nam daje svjetlost i toplinu. Zato je danju na suncu toplije nego u hladu.",
+      "savjet": "Sjeti se kako se osjećaš kad ljeti stojiš na suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-014",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih životinja zimi spava zimski san?",
+      "ponudeni": [
+        "Vrabac",
+        "Srna",
+        "Lisica",
+        "Jež"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jež zimi spava zimski san jer je hladno i nema dovoljno hrane. Vrabac, srna i lisica zimi su budni.",
+      "savjet": "Sjeti se male bodljikave životinje koja se zimi skriva u lišću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-015",
+      "tezina": "lagano",
+      "pitanje": "Po čemu prepoznajemo živa bića?",
+      "ponudeni": [
+        "Hrane se, rastu i razmnožavaju se",
+        "Uvijek su zelene boje",
+        "Ne mijenjaju se tijekom života",
+        "Mogu se kretati samo po tlu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Živa bića dišu, hrane se, rastu i razmnožavaju se. Neživa priroda to ne čini.",
+      "savjet": "Usporedi štene i kamen: što štene radi, a kamen ne?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-016",
+      "tezina": "lagano",
+      "pitanje": "Kojem dijelu prirode pripadaju voda, zrak, tlo i svjetlost?",
+      "ponudeni": [
+        "Živoj prirodi",
+        "Samo biljnom svijetu",
+        "Neživoj prirodi",
+        "Samo životinjskom svijetu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Voda, zrak, tlo i svjetlost pripadaju neživoj prirodi. Oni ne rastu i ne razmnožavaju se, ali su živim bićima potrebni za život.",
+      "savjet": "Pitaj se rastu li i razmnožavaju li se voda i zrak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-017",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenog trebaju sva živa bića?",
+      "ponudeni": [
+        "Snijeg",
+        "Vodu",
+        "Tamu",
+        "Pijesak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vodu trebaju sve biljke, životinje i ljudi. Bez vode nijedno živo biće ne može dugo živjeti.",
+      "savjet": "Sjeti se što piju životinje, a čime zalijevamo biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-018",
+      "tezina": "lagano",
+      "pitanje": "Koja životinja živi u hladnim krajevima prekrivenima ledom i snijegom?",
+      "ponudeni": [
+        "Deva",
+        "Lav",
+        "Žirafa",
+        "Polarni medvjed"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Polarni medvjed živi na ledu i snijegu. Gusto krzno i debeli sloj masti štite ga od hladnoće.",
+      "savjet": "Sjeti se životinje s bijelim krznom koja lovi na ledu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-019",
+      "tezina": "lagano",
+      "pitanje": "Koja životinja dobro podnosi vrućinu i može dugo izdržati bez vode u pustinji?",
+      "ponudeni": [
+        "Deva",
+        "Pingvin",
+        "Žaba",
+        "Vjeverica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Deva živi u pustinji. Dobro podnosi vrućinu i dugo može izdržati bez vode.",
+      "savjet": "Sjeti se životinje s grbom koja nosi ljude kroz pijesak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-020",
+      "tezina": "lagano",
+      "pitanje": "Kojem dijelu prirode pripada čovjek?",
+      "ponudeni": [
+        "Neživoj prirodi",
+        "Ni živoj ni neživoj prirodi",
+        "Živoj prirodi",
+        "Samo okolišu grada"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čovjek pripada živoj prirodi jer diše, hrani se, raste i ima potomke.",
+      "savjet": "Provjeri ima li čovjek obilježja živih bića."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-021",
+      "tezina": "lagano",
+      "pitanje": "Što se u jesen događa s lišćem većine listopadnih stabala?",
+      "ponudeni": [
+        "Postaje sve zelenije",
+        "Žuti i opada",
+        "Pretvara se u cvjetove",
+        "Raste brže nego ljeti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U jesen je manje svjetlosti i topline pa lišće listopadnog drveća žuti i opada.",
+      "savjet": "Sjeti se kako izgledaju parkovi u listopadu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-022",
+      "tezina": "lagano",
+      "pitanje": "Zašto ljudi zimi nose toplu odjeću?",
+      "ponudeni": [
+        "Da bi bili brži",
+        "Da ih ne vidi Sunce",
+        "Da bi bolje vidjeli",
+        "Da se zaštite od hladnoće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Topla odjeća čuva toplinu tijela. Tako se ljudi zimi štite od hladnoće.",
+      "savjet": "Sjeti se kakvo je vrijeme zimi i što tijelo tada treba."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-023",
+      "tezina": "lagano",
+      "pitanje": "Što je od navedenog potrebno da bi sjemenka proklijala?",
+      "ponudeni": [
+        "Voda",
+        "Led",
+        "Sol",
+        "Buka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Da bi proklijala, sjemenka treba vodu i toplinu. Suha sjemenka ne klija.",
+      "savjet": "Sjeti se što učiniš sa zemljom u lončanici nakon što posadiš sjemenku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-024",
+      "tezina": "lagano",
+      "pitanje": "Kakvo je tlo najbolje za uzgoj povrća?",
+      "ponudeni": [
+        "Kamenito tlo bez humusa",
+        "Suhi pijesak s plaže",
+        "Plodno tlo bogato humusom",
+        "Tlo prekriveno asfaltom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Povrće najbolje raste u plodnom tlu bogatom humusom. U njemu ima dovoljno hranjivih tvari.",
+      "savjet": "Sjeti se što tlo čini plodnim."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-025",
+      "tezina": "lagano",
+      "pitanje": "Zašto zalijevamo biljke u lončanicama?",
+      "ponudeni": [
+        "Da bi bile teže",
+        "Jer im treba voda za život",
+        "Da bi promijenile boju cvijeta",
+        "Da se lončanica očisti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljke u lončanici ne dobivaju kišu pa ih zalijevamo. Bez vode bi se osušile.",
+      "savjet": "Sjeti se koji životni uvjet biljka u stanu ne može sama dobiti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-026",
+      "tezina": "lagano",
+      "pitanje": "Koje od navedenih živih bića stvara hranu uz pomoć Sunčeve svjetlosti?",
+      "ponudeni": [
+        "Pas",
+        "Vrabac",
+        "Puž",
+        "Maslačak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Maslačak je biljka, a biljke uz pomoć Sunčeve svjetlosti stvaraju hranu. Životinje hranu moraju pronaći.",
+      "savjet": "Potraži biljku među ponuđenim živim bićima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-027",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo ptice koje u jesen odlaze u toplije krajeve?",
+      "ponudeni": [
+        "Ptice selice",
+        "Ptice stanarice",
+        "Ptice grabljivice",
+        "Ptice pjevice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ptice selice u jesen odlaze u toplije krajeve, a u proljeće se vraćaju. Ptice stanarice ostaju cijelu godinu.",
+      "savjet": "Naziv je povezan s riječju seliti se."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-028",
+      "tezina": "lagano",
+      "pitanje": "Što se tijekom godišnjih doba mijenja i utječe na život biljaka i životinja?",
+      "ponudeni": [
+        "Broj kamenja u tlu",
+        "Boja neba noću",
+        "Količina svjetlosti i topline",
+        "Oblik planina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljeti je više svjetlosti i topline, a zimi manje. Zato se biljke i životinje ponašaju drukčije u svakom godišnjem dobu.",
+      "savjet": "Usporedi dan u srpnju i dan u siječnju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-029",
+      "tezina": "lagano",
+      "pitanje": "Za što je voda potrebna čovjeku?",
+      "ponudeni": [
+        "Samo za kupanje ljeti",
+        "Za piće, pripremu hrane i čistoću",
+        "Samo za zalijevanje cvijeća",
+        "Samo za igru na plaži"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čovjek vodu pije, koristi je za pripremu hrane te za pranje i čistoću. Bez vode ne bi mogao živjeti.",
+      "savjet": "Sjeti se kada sve tijekom dana koristiš vodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-030",
+      "tezina": "lagano",
+      "pitanje": "Što je tlo?",
+      "ponudeni": [
+        "Sloj leda na vrhu planine",
+        "Voda u rijekama i jezerima",
+        "Zrak koji okružuje Zemlju",
+        "Rahli površinski sloj Zemlje u kojem rastu biljke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tlo je rahli površinski sloj Zemlje. U njemu rastu biljke i žive mnoge životinje.",
+      "savjet": "Sjeti se u što sadimo biljke u vrtu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-031",
+      "tezina": "srednje",
+      "pitanje": "Biljka je dva tjedna stajala u zatvorenom ormaru. Kako će vjerojatno izgledati?",
+      "ponudeni": [
+        "Blijeda, žućkasta i slaba",
+        "Tamnozelena i snažna",
+        "Jednaka kao prije",
+        "Puna novih cvjetova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U ormaru nema svjetlosti pa biljka ne može stvarati hranu. Zato postaje blijeda i slaba.",
+      "savjet": "Sjeti se koji životni uvjet nedostaje u zatvorenom ormaru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-032",
+      "tezina": "srednje",
+      "pitanje": "Zašto se biljka na prozorskoj dasci naginje prema prozoru?",
+      "ponudeni": [
+        "Jer je prozor hladniji",
+        "Jer kroz prozor ulazi prašina",
+        "Jer raste prema svjetlosti",
+        "Jer je lončanica nakrivljena"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljke rastu prema svjetlosti jer im je potrebna za stvaranje hrane. Svjetlost ulazi kroz prozor.",
+      "savjet": "Sjeti se što ulazi u sobu kroz prozor tijekom dana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-033",
+      "tezina": "srednje",
+      "pitanje": "Kako ribe dobivaju kisik potreban za život?",
+      "ponudeni": [
+        "Ne trebaju kisik",
+        "Udišu ga plućima iznad vode",
+        "Dobivaju ga samo iz hrane",
+        "Uzimaju ga iz vode pomoću škrga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I ribe trebaju kisik. Uzimaju ga iz vode pomoću škrga.",
+      "savjet": "Sjeti se kojim dijelom tijela ribe dišu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-034",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dobro okopavati i rahliti tlo u vrtu?",
+      "ponudeni": [
+        "Da tlo postane tvrđe",
+        "Da u tlo lakše uđu zrak i voda",
+        "Da se istjeraju kišne gliste",
+        "Da tlo promijeni boju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U rahlo tlo lakše ulaze zrak i voda. Korijen ih treba da bi biljka dobro rasla.",
+      "savjet": "Razmisli što korijen treba osim vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-035",
+      "tezina": "srednje",
+      "pitanje": "Kako kišne gliste pomažu tlu?",
+      "ponudeni": [
+        "Isušuju tlo",
+        "Jedu korijenje zdravih biljaka",
+        "Rahle tlo i miješaju ga",
+        "Odnose humus iz tla"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gliste kopaju hodnike kroz tlo i miješaju ga. Tako u tlo lakše ulaze zrak i voda.",
+      "savjet": "Zamisli što ostaje u tlu nakon što glista prođe kroz njega."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto je lišće koje istrune na šumskom tlu korisno?",
+      "ponudeni": [
+        "Od njega nastaje humus koji tlo čini plodnim",
+        "Zaklanja tlo od kiše pa je tlo suho",
+        "Tjera sve životinje iz šume",
+        "Pretvara tlo u kamen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ostaci lišća raspadaju se i od njih nastaje humus. Humus tlo čini plodnim.",
+      "savjet": "Sjeti se od čega nastaje tamni, plodni dio tla."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-037",
+      "tezina": "srednje",
+      "pitanje": "Kako neživa priroda omogućuje život živim bićima?",
+      "ponudeni": [
+        "Daje im igračke i odjeću",
+        "Ne utječe na živa bića",
+        "Uzima im hranu",
+        "Daje im svjetlost, toplinu, vodu, zrak i tlo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Životni uvjeti dio su nežive prirode. Bez njih živa bića ne bi mogla živjeti.",
+      "savjet": "Sjeti se pet životnih uvjeta i kojem dijelu prirode pripadaju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-038",
+      "tezina": "srednje",
+      "pitanje": "Kako biljke pomažu da u zraku bude dovoljno kisika za disanje?",
+      "ponudeni": [
+        "Upijaju sav zrak u korijen",
+        "Ispuštaju kisik u zrak",
+        "Zaklanjaju Sunce",
+        "Stvaraju dim"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dok stvaraju hranu uz pomoć Sunčeve svjetlosti, biljke ispuštaju kisik u zrak. Taj kisik udišu ljudi i životinje.",
+      "savjet": "Sjeti se plina koji udišemo i odakle ga u zraku ima dovoljno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto u pustinji raste vrlo malo biljaka?",
+      "ponudeni": [
+        "Jer je ondje premalo svjetlosti",
+        "Jer je ondje prehladno",
+        "Jer ondje ima vrlo malo vode",
+        "Jer ondje nema zraka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U pustinji gotovo ne pada kiša pa je ondje vrlo malo vode. Zato ondje može preživjeti malo biljaka.",
+      "savjet": "Razmisli kakvo je vrijeme u pustinji i čega ondje nedostaje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-040",
+      "tezina": "srednje",
+      "pitanje": "Što bi se dogodilo s biljkama kad Sunce ne bi davalo svjetlost i toplinu?",
+      "ponudeni": [
+        "Ne bi mogle stvarati hranu i uginule bi",
+        "Rasle bi brže nego sada",
+        "Ništa se ne bi promijenilo",
+        "Hranu bi dobivale samo iz zraka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biljke uz pomoć Sunčeve svjetlosti stvaraju hranu, a trebaju i toplinu. Bez Sunca ne bi mogle živjeti.",
+      "savjet": "Sjeti se čemu biljkama služi Sunčeva svjetlost."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-041",
+      "tezina": "srednje",
+      "pitanje": "Što pomaže životinjama u vrlo hladnim krajevima da prežive?",
+      "ponudeni": [
+        "Tanka koža bez dlake",
+        "Duge i tanke noge",
+        "Velike uši koje hlade tijelo",
+        "Gusto krzno i debeli sloj masti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gusto krzno i debeli sloj masti čuvaju toplinu tijela. Tako životinje podnose hladnoću.",
+      "savjet": "Sjeti se što ljudi zimi nose da im ne bude hladno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-042",
+      "tezina": "srednje",
+      "pitanje": "Što pomaže kaktusu da preživi u suhom kraju?",
+      "ponudeni": [
+        "Velik i tanak list",
+        "Debela stabljika koja čuva vodu",
+        "Korijen koji ne upija vodu",
+        "Cvjetovi koji traju cijelu godinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kaktus u debeloj, mesnatoj stabljici sprema vodu. Umjesto listova ima bodlje pa gubi malo vode.",
+      "savjet": "Pomisli gdje kaktus može spremiti vodu za sušne dane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-043",
+      "tezina": "srednje",
+      "pitanje": "Zašto vjeverica u jesen skuplja i skriva orahe i žireve?",
+      "ponudeni": [
+        "Da ih posadi u proljeće",
+        "Jer ih ljeti ne voli jesti",
+        "Jer će zimi biti malo hrane",
+        "Da njima zagrije gnijezdo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi je hladno i u prirodi je malo hrane. Vjeverica zato u jesen skuplja zalihe.",
+      "savjet": "Razmisli kako se zimi mijenja količina hrane u šumi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-044",
+      "tezina": "srednje",
+      "pitanje": "Zašto lastavice u jesen odlaze u toplije krajeve?",
+      "ponudeni": [
+        "Zimi kod nas nema dovoljno kukaca za hranu",
+        "Ne vole kišu",
+        "Ljeti im je prevruće",
+        "Moraju naučiti letjeti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lastavice se hrane kukcima. Zimi je hladno i kukaca nema pa odlaze u toplije krajeve.",
+      "savjet": "Sjeti se čime se lastavice hrane i ima li toga zimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-045",
+      "tezina": "srednje",
+      "pitanje": "Zašto se većina povrća sije u proljeće?",
+      "ponudeni": [
+        "Jer je tada tlo smrznuto",
+        "Jer tada ima najmanje svjetlosti",
+        "Jer tada ptice ne jedu sjeme",
+        "Jer postaje toplije i ima više svjetlosti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U proljeće je sve toplije, dani su duži i ima dovoljno vode. Takvi uvjeti pogoduju klijanju i rastu.",
+      "savjet": "Usporedi svjetlost i toplinu u proljeće i zimi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-046",
+      "tezina": "srednje",
+      "pitanje": "Cijelo ljeto nije padala kiša. Što se dogodilo s travom na livadi?",
+      "ponudeni": [
+        "Postala je tamnozelena",
+        "Požutjela je i osušila se",
+        "Narasla je više nego inače",
+        "Nije se promijenila"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trava bez vode ne može živjeti pa se suši i žuti.",
+      "savjet": "Sjeti se koji je životni uvjet nedostajao travi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-047",
+      "tezina": "srednje",
+      "pitanje": "Kako čovjek ovisi o tlu?",
+      "ponudeni": [
+        "Iz tla dobiva kisik",
+        "Tlo mu daje svjetlost",
+        "U tlu uzgaja biljke za hranu",
+        "Tlo mu služi samo za igru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čovjek u tlu uzgaja žitarice, povrće i voće. Bez plodnog tla ne bi imao dovoljno hrane.",
+      "savjet": "Sjeti se odakle dolazi kruh i povrće na tvom stolu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-048",
+      "tezina": "srednje",
+      "pitanje": "Zašto zimi biljke u vrtu ne rastu?",
+      "ponudeni": [
+        "Hladno je i ima manje svjetlosti",
+        "Ima previše topline",
+        "Zrak je prečist",
+        "Tlo ima previše humusa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zimi je hladno, a dani su kratki pa je manje svjetlosti. Biljke tada miruju.",
+      "savjet": "Razmisli kojih je životnih uvjeta zimi manje nego ljeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-049",
+      "tezina": "srednje",
+      "pitanje": "Koja je tvrdnja o živoj i neživoj prirodi točna?",
+      "ponudeni": [
+        "Kamen raste i razmnožava se",
+        "Živa bića ne trebaju neživu prirodu",
+        "Voda i zrak su živa bića",
+        "Živa bića trebaju neživu prirodu za život"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Živa bića trebaju vodu, zrak, tlo, svjetlost i toplinu, a to je neživa priroda. Zato su živa i neživa priroda povezane.",
+      "savjet": "Sjeti se kojem dijelu prirode pripadaju životni uvjeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-050",
+      "tezina": "srednje",
+      "pitanje": "Koji životni uvjet biljci daje hranjive tvari i drži je uspravnom?",
+      "ponudeni": [
+        "Svjetlost",
+        "Tlo",
+        "Toplina",
+        "Zrak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U tlu je korijen biljke koji iz njega upija vodu i hranjive tvari. Tlo ujedno drži biljku da ne padne.",
+      "savjet": "Sjeti se u čemu se nalazi korijen."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-051",
+      "tezina": "srednje",
+      "pitanje": "Krtica gotovo cijeli život provodi pod zemljom. Što joj tlo pruža?",
+      "ponudeni": [
+        "Sunčevu svjetlost",
+        "Mnogo snijega",
+        "Zaklon i hranu",
+        "Morsku vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krtica u tlu kopa hodnike u kojima je skrivena. U tlu lovi gliste i ličinke kukaca.",
+      "savjet": "Razmisli gdje krtica živi i što ondje može pronaći."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto i zimi treba nakratko otvoriti prozor i prozračiti sobu?",
+      "ponudeni": [
+        "Da u sobu uđe svjež zrak",
+        "Da soba postane mračnija",
+        "Da biljke u sobi dobiju snijeg",
+        "Da se ugasi grijanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zatvorenoj sobi zrak postaje ustajao. Prozračivanjem ulazi svjež zrak s dovoljno kisika.",
+      "savjet": "Sjeti se koji životni uvjet stalno trošimo disanjem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-053",
+      "tezina": "srednje",
+      "pitanje": "Ljudi zimi griju svoje domove. Koji životni uvjet tako osiguravaju?",
+      "ponudeni": [
+        "Vodu",
+        "Tlo",
+        "Svjetlost",
+        "Toplinu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Grijanjem ljudi zimi osiguravaju toplinu koja im je potrebna za život.",
+      "savjet": "Razmisli čega zimi nedostaje vani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-054",
+      "tezina": "srednje",
+      "pitanje": "Što bi se dogodilo zečevima na livadi kad bi s nje nestale sve biljke?",
+      "ponudeni": [
+        "Imali bi više hrane",
+        "Ostali bi bez hrane",
+        "Ništa se ne bi promijenilo",
+        "Počeli bi stvarati hranu iz svjetlosti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zečevi se hrane biljkama. Bez biljaka ne bi imali hrane i morali bi otići ili bi uginuli.",
+      "savjet": "Sjeti se čime se zec hrani."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-055",
+      "tezina": "srednje",
+      "pitanje": "Zašto se snijeg na sjevernoj strani kuće zadrži duže nego na južnoj?",
+      "ponudeni": [
+        "Ondje pada više kiše",
+        "Ondje puše topliji vjetar",
+        "Ondje dopire manje Sunčeve svjetlosti i topline",
+        "Ondje je tlo bogatije humusom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sjeverna strana kuće je u sjeni. Do nje dopire manje Sunčeve topline pa se snijeg sporije topi.",
+      "savjet": "Razmisli koja je strana kuće više okrenuta Suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-056",
+      "tezina": "srednje",
+      "pitanje": "Zašto su ljudi od davnina rado gradili naselja u nizinama uz rijeke?",
+      "ponudeni": [
+        "Ondje ima vode i plodnog tla",
+        "Ondje nema svjetlosti",
+        "Ondje je uvijek snijeg",
+        "Ondje nema biljaka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uz rijeke ima dovoljno vode, a nizinsko tlo je plodno. To je dobro za život i uzgoj hrane.",
+      "savjet": "Razmisli koji su životni uvjeti važni za život i uzgoj hrane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-057",
+      "tezina": "srednje",
+      "pitanje": "Lokvanj raste u jezeru, a kadulja na suhom kamenjaru. Po kojem se životnom uvjetu njihova staništa najviše razlikuju?",
+      "ponudeni": [
+        "Po zraku",
+        "Po svjetlosti",
+        "Po boji tla",
+        "Po količini vode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lokvanj živi u vodi, a kadulja raste na suhom tlu s malo vode. Njihova se staništa najviše razlikuju po količini vode.",
+      "savjet": "Usporedi jezero i suhi kamenjar."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-058",
+      "tezina": "srednje",
+      "pitanje": "Kako čovjek može naštetiti životnim uvjetima?",
+      "ponudeni": [
+        "Sadnjom drveća",
+        "Onečišćenjem vode, zraka i tla",
+        "Razvrstavanjem otpada",
+        "Štednjom vode"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad čovjek onečisti vodu, zrak ili tlo, šteti biljkama, životinjama i samome sebi.",
+      "savjet": "Potraži postupak koji kvari vodu, zrak ili tlo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-059",
+      "tezina": "srednje",
+      "pitanje": "Zašto zimi postavljamo hranilice za ptice?",
+      "ponudeni": [
+        "Da ptice ne odlete na jug",
+        "Da ptice nauče pjevati",
+        "Jer snijeg i hladnoća otežavaju pronalazak hrane",
+        "Jer ptice zimi ne trebaju vodu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi snijeg prekrije tlo, a sjemenki i kukaca ima malo. Hranilice pomažu pticama stanaricama da prežive.",
+      "savjet": "Razmisli što ptice zimi teško pronalaze u prirodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-060",
+      "tezina": "srednje",
+      "pitanje": "Zašto ljeti, za vrućih dana, treba piti više vode?",
+      "ponudeni": [
+        "Jer tijelo znojenjem gubi više vode",
+        "Jer je voda ljeti hladnija",
+        "Jer ljeti manje jedemo",
+        "Jer zrak ljeti nema kisika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad je vruće, tijelo se hladi znojenjem i gubi vodu. Zato je ljeti treba piti više.",
+      "savjet": "Sjeti se što se događa s tvojim tijelom kad ti je vruće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-061",
+      "tezina": "tesko",
+      "pitanje": "Dvije jednake biljke jednako se zalijevaju. Jedna stoji na prozoru, a druga u mračnom ormaru. Nakon dva tjedna druga je blijeda i slaba. Što pokus pokazuje?",
+      "ponudeni": [
+        "Biljkama ne treba voda",
+        "Biljke bolje rastu u mraku",
+        "Biljkama je potrebna svjetlost",
+        "Ormar je pretopao za biljke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljke su se razlikovale samo po svjetlosti. Ona u mraku je oslabila, što pokazuje da biljkama treba svjetlost.",
+      "savjet": "Pronađi jedinu stvar po kojoj su se biljke razlikovale."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-062",
+      "tezina": "tesko",
+      "pitanje": "U dvije posude u sobi stavljene su sjemenke graha: u jednoj na suhu vatu, u drugoj na vlažnu. Proklijale su samo one na vlažnoj vati. Što pokus pokazuje?",
+      "ponudeni": [
+        "Sjemenkama za klijanje treba voda",
+        "Sjemenkama za klijanje treba tama",
+        "Vata je hrana za sjemenke",
+        "Sjemenke klijaju samo u tlu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posude su se razlikovale samo po vodi. Sjemenke su proklijale samo na vlažnoj vati pa im za klijanje treba voda.",
+      "savjet": "Usporedi što je bilo različito u dvije posude."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-063",
+      "tezina": "tesko",
+      "pitanje": "Ana želi pokusom provjeriti trebaju li biljke vodu. Kako treba postaviti pokus?",
+      "ponudeni": [
+        "Jednu biljku zalijevati na suncu, a drugu ne zalijevati u mraku",
+        "Zalijevati samo jednu biljku i ništa ne uspoređivati",
+        "Dvije biljke staviti u mrak i obje zalijevati",
+        "Dvije jednake biljke staviti na isto mjesto i zalijevati samo jednu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U dobrom pokusu mijenja se samo jedna stvar. Ako su biljke na istom mjestu, a razlikuju se samo po vodi, Ana zna da je razlika zbog vode.",
+      "savjet": "U pokusu se biljke trebaju razlikovati samo u onome što istražuješ."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-064",
+      "tezina": "tesko",
+      "pitanje": "Marko je jednu biljku zalijevao na prozoru, a drugu nije zalijevao i držao ju je u mraku. Druga se osušila. Zašto ne može znati što je uzrok?",
+      "ponudeni": [
+        "Jer je pokus trajao predugo",
+        "Jer je promijenio dvije stvari odjednom",
+        "Jer je koristio dvije biljke",
+        "Jer biljke ne trebaju ni vodu ni svjetlost"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Druga biljka nije imala ni vodu ni svjetlost. Zato Marko ne zna je li se osušila zbog manjka vode ili svjetlosti.",
+      "savjet": "Prebroji po koliko se stvari biljke razlikuju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-065",
+      "tezina": "tesko",
+      "pitanje": "Lončanica nema rupu na dnu pa voda stalno stoji u zemlji. Biljka vene iako ima mnogo vode. Zašto?",
+      "ponudeni": [
+        "Korijen ima previše svjetlosti",
+        "Zemlja je pretopla",
+        "Korijenu u mokroj zemlji nedostaje zraka",
+        "Biljci ne treba voda"
+      ],
+      "tocan": 2,
+      "objasnjenje": "I korijen treba zrak. Kad voda ispuni sve šupljine u zemlji, korijen nema zraka i počinje trunuti.",
+      "savjet": "Sjeti se da i korijen treba jedan životni uvjet osim vode."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-066",
+      "tezina": "tesko",
+      "pitanje": "Zašto visibabe i šumarice u listopadnoj šumi cvjetaju rano u proljeće?",
+      "ponudeni": [
+        "Jer im kasnije bude prehladno",
+        "Jer rano u proljeće ima najviše kukaca",
+        "Jer u jesen opada lišće",
+        "Jer do tla dopire svjetlost dok drveće još nije prolistalo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rano u proljeće drveće još nema lišća pa svjetlost dopire do tla. Kad krošnje prolistaju, na tlu je hladovina.",
+      "savjet": "Razmisli što se mijenja u šumi kad drveće prolista."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-067",
+      "tezina": "tesko",
+      "pitanje": "Zašto ljeti na tlu guste šume raste manje trave nego na livadi?",
+      "ponudeni": [
+        "Krošnje drveća zaklanjaju svjetlost",
+        "U šumi nema zraka",
+        "U šumi ne pada kiša",
+        "Šumsko tlo nema humusa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Guste krošnje propuštaju malo svjetlosti do tla. Trava zato slabije raste u šumi nego na otvorenoj livadi.",
+      "savjet": "Usporedi koliko svjetlosti dopire do tla u šumi i na livadi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-068",
+      "tezina": "tesko",
+      "pitanje": "Zašto polarni medvjed u zoološkom vrtu ljeti treba bazen s hladnom vodom i hlad?",
+      "ponudeni": [
+        "Jer ne podnosi svjetlost",
+        "Jer je prilagođen životu u hladnoći",
+        "Jer ne zna plivati",
+        "Jer u bazenu pronalazi kisik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Polarni medvjed ima gusto krzno i debeli sloj masti za život u hladnoći. Ljetna vrućina mu teško pada.",
+      "savjet": "Sjeti se odakle polarni medvjed potječe i kakvo je ondje vrijeme."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-069",
+      "tezina": "tesko",
+      "pitanje": "Mia svaki dan obilno zalijeva kaktus. Što će se vjerojatno dogoditi?",
+      "ponudeni": [
+        "Kaktus će brže narasti",
+        "Kaktus će dobiti listove",
+        "Ništa se neće promijeniti",
+        "Korijen će mu trunuti od previše vode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kaktus potječe iz suhih krajeva i treba malo vode. Od previše vode korijen mu trune.",
+      "savjet": "Sjeti se u kakvim krajevima kaktus prirodno raste."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-070",
+      "tezina": "tesko",
+      "pitanje": "Na strmoj padini posječena je šuma. Što se nakon jakih kiša može dogoditi s tlom?",
+      "ponudeni": [
+        "Postat će plodnije",
+        "Bit će prekriveno humusom",
+        "Kiša će ga lakše odnijeti",
+        "Pretvorit će se u pijesak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Korijenje drveća držalo je tlo. Bez drveća kiša lako odnosi tlo niz padinu.",
+      "savjet": "Razmisli što je prije držalo tlo na mjestu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-071",
+      "tezina": "tesko",
+      "pitanje": "Zašto se vinogradi često sade na južnim padinama brežuljaka?",
+      "ponudeni": [
+        "Ondje dobivaju više svjetlosti i topline",
+        "Ondje ima manje zraka",
+        "Ondje je tlo uvijek mokro",
+        "Ondje je najviše hlada"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Južne padine više su okrenute Suncu. Vinova loza ondje dobiva više svjetlosti i topline pa grožđe bolje dozrijeva.",
+      "savjet": "Razmisli koja je strana brežuljka okrenuta Suncu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-072",
+      "tezina": "tesko",
+      "pitanje": "Lea je dobila hrčka. Gdje je najbolje postaviti njegov kavez?",
+      "ponudeni": [
+        "Uz radijator, da mu bude toplo",
+        "Na svijetlo mjesto, ali ne na izravno sunce",
+        "U zatvoren ormar, da ga ništa ne smeta",
+        "Na balkon, preko cijele zime"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrčak treba svjetlost, svjež zrak i umjerenu toplinu. Uz radijator i na suncu bilo bi mu prevruće, u ormaru ne bi imao svjetlosti i zraka, a zimi na balkonu prehladno.",
+      "savjet": "Provjeri za svaki prijedlog ima li hrčak ondje sve životne uvjete u pravoj mjeri."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-073",
+      "tezina": "tesko",
+      "pitanje": "Učenici su posadili grah u dvije posude: jednu s vrtnom zemljom bogatom humusom, a drugu s pijeskom. Obje su na svjetlu i jednako se zalijevaju. Što očekuju?",
+      "ponudeni": [
+        "Grah će bolje rasti u pijesku",
+        "Grah neće rasti ni u jednoj posudi",
+        "Grah će bolje rasti u zemlji s humusom",
+        "Grah će u obje posude rasti jednako"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zemlja s humusom ima mnogo hranjivih tvari, a pijesak vrlo malo. Zato će grah bolje rasti u zemlji s humusom.",
+      "savjet": "Usporedi koliko hranjivih tvari ima u pijesku i u vrtnoj zemlji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-074",
+      "tezina": "tesko",
+      "pitanje": "Dvije sjemenke graha stoje na vlažnoj vati. Jedna je u sobi, a druga u hladnjaku. Koji životni uvjet učenici tako istražuju?",
+      "ponudeni": [
+        "Vodu",
+        "Tlo",
+        "Zrak",
+        "Toplinu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Obje sjemenke imaju vodu i zrak, a razlikuju se po toplini: soba je topla, a hladnjak hladan.",
+      "savjet": "Pronađi po čemu se soba i hladnjak razlikuju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-075",
+      "tezina": "tesko",
+      "pitanje": "Planinari primjećuju da pri vrhu visoke planine rastu samo trava i niske biljke. Zašto?",
+      "ponudeni": [
+        "Ondje je hladnije, puše jak vjetar i tla je malo",
+        "Ondje nema Sunčeve svjetlosti",
+        "Ondje nema zraka",
+        "Ondje je pretoplo za drveće"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Što je planina viša, to je hladnije, a vjetar je jači. Tlo je tanko pa ondje opstaju samo niske biljke.",
+      "savjet": "Sjeti se kakvo je vrijeme na vrhu planine u usporedbi s podnožjem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-076",
+      "tezina": "tesko",
+      "pitanje": "Želiš uzgajati biljke u podrumu bez prozora. Što im najprije moraš osigurati?",
+      "ponudeni": [
+        "Više kamenja",
+        "Svjetiljku koja zamjenjuje Sunčevu svjetlost",
+        "Hladnu prostoriju",
+        "Neprozirne vreće oko biljaka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U podrumu bez prozora nema svjetlosti, a biljke je trebaju za stvaranje hrane. Svjetiljka može zamijeniti Sunčevu svjetlost.",
+      "savjet": "Razmisli koji životni uvjet nedostaje u prostoriji bez prozora."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-077",
+      "tezina": "tesko",
+      "pitanje": "Nakon kiše voda na jednom dijelu vrta dugo stoji u lokvama, a na drugom brzo nestane. Što je vjerojatno uzrok?",
+      "ponudeni": [
+        "Na prvom dijelu ima više svjetlosti",
+        "Na drugom dijelu pada manje kiše",
+        "Tlo na prvom dijelu slabije propušta vodu",
+        "Na prvom dijelu ima više glista"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tla različito propuštaju vodu. Kroz tlo koje slabo propušta vodu, kao što je glinasto tlo, voda sporo prodire pa se stvaraju lokve.",
+      "savjet": "Razmisli kako voda prolazi kroz različite vrste tla."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-078",
+      "tezina": "tesko",
+      "pitanje": "Ivan kaže da tlo pripada neživoj prirodi, a Ema da u tlu ima i živih bića. Što je točno?",
+      "ponudeni": [
+        "Točno je samo ono što kaže Ivan",
+        "Točno je samo ono što kaže Ema",
+        "Tlo je živo biće",
+        "Tlo je neživa priroda u kojoj žive mnoga živa bića"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tlo pripada neživoj prirodi, ali u njemu žive gliste, krtice i mnoga druga živa bića. Oboje su u pravu.",
+      "savjet": "Odvoji samo tlo od onoga što u njemu živi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-079",
+      "tezina": "tesko",
+      "pitanje": "Sige u špilji polako postaju sve veće. Zašto ipak nisu živa bića?",
+      "ponudeni": [
+        "Ne hrane se, ne dišu i ne razmnožavaju se",
+        "Jer su u mraku",
+        "Jer su vlažne",
+        "Jer su tvrde i hladne"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sige rastu jer se na njih taloži kamenac iz vode koja kaplje. One se ne hrane, ne dišu i ne razmnožavaju pa nisu živa bića.",
+      "savjet": "Sjeti se svih obilježja živih bića, a ne samo rasta."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u staklenicima povrće može uzgajati i zimi?",
+      "ponudeni": [
+        "Jer u staklenik ne ulazi svjetlost",
+        "Jer je unutra toplije, a svjetlost prolazi kroz staklo",
+        "Jer biljke u stakleniku ne trebaju vodu",
+        "Jer u stakleniku nema zraka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Staklo propušta svjetlost, a staklenik čuva toplinu. Tako biljke i zimi imaju dovoljno svjetlosti i topline.",
+      "savjet": "Razmisli koje životne uvjete staklenik štiti od zime."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-081",
+      "tezina": "tesko",
+      "pitanje": "Ljudi su posjekli šumarak uz potok. Kako to može utjecati na životinje koje su ondje živjele?",
+      "ponudeni": [
+        "Dobit će više hrane",
+        "Neće osjetiti nikakvu promjenu",
+        "Ostat će bez zaklona i hrane",
+        "Postat će biljke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Drveće je životinjama davalo zaklon, mjesto za gnijezda i hranu. Kad šumarka nema, moraju otići ili ugibaju.",
+      "savjet": "Sjeti se što ptice i druge životinje dobivaju od drveća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-082",
+      "tezina": "tesko",
+      "pitanje": "Mačka zimi rado leži uz peć, a ljeti u hladu. Što to pokazuje?",
+      "ponudeni": [
+        "Mački ne treba toplina",
+        "Mačka ne voli svjetlost",
+        "Mačka zimi spava zimski san",
+        "Mačka traži njoj ugodnu toplinu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mačka zimi traži toplinu, a ljeti se sklanja od vrućine. Živa bića trebaju toplinu u pravoj mjeri.",
+      "savjet": "Usporedi što mački zimi nedostaje, a čega joj je ljeti previše."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-083",
+      "tezina": "tesko",
+      "pitanje": "Ana je otišla na ljetovanje i ostavila lončanice u zamračenoj sobi bez zalijevanja. Biljke su uvenule. Koja su im dva životna uvjeta nedostajala?",
+      "ponudeni": [
+        "Zrak i tlo",
+        "Svjetlost i voda",
+        "Toplina i zrak",
+        "Tlo i toplina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Soba je bila zamračena pa nije bilo svjetlosti, a biljke nitko nije zalijevao pa nije bilo vode.",
+      "savjet": "Pročitaj ponovno što sve nije bilo u sobi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-084",
+      "tezina": "tesko",
+      "pitanje": "Na Mjesecu nema zraka ni tekuće vode. Mogu li ondje živjeti biljke i životinje sa Zemlje?",
+      "ponudeni": [
+        "Mogu, jer ondje ima svjetlosti",
+        "Mogu, ako ondje ima kamenja",
+        "Ne mogu, jer im nedostaju zrak i voda",
+        "Mogu, ali samo noću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Živa bića trebaju sve životne uvjete. Bez zraka i vode ne bi mogla živjeti, iako ima svjetlosti.",
+      "savjet": "Sjeti se trebaju li živa bića samo jedan ili sve životne uvjete."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-085",
+      "tezina": "tesko",
+      "pitanje": "U akvariju bez vodenih biljaka pokvarila se pumpa za zrak. Ribe su se počele okupljati pri površini. Što im nedostaje?",
+      "ponudeni": [
+        "Kisik u vodi",
+        "Svjetlost",
+        "Hrana",
+        "Tlo na dnu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pumpa i vodene biljke donose kisik u vodu. Bez njih ribama ponestaje kisika pa traže zrak pri površini.",
+      "savjet": "Sjeti se što pumpa za zrak dodaje vodi u akvariju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-086",
+      "tezina": "tesko",
+      "pitanje": "Zašto vrtlari mlade rajčice presađuju u vrt tek u svibnju?",
+      "ponudeni": [
+        "Jer tada ima najmanje svjetlosti",
+        "Jer u svibnju ne pada kiša",
+        "Jer se tada tlo smrzava",
+        "Jer tada više nema mraza i dovoljno je toplo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mlade rajčice ne podnose hladnoću i mraz. U svibnju je obično dovoljno toplo da mogu rasti vani.",
+      "savjet": "Razmisli što bi se dogodilo s mladom biljkom za hladne noći u ožujku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-087",
+      "tezina": "tesko",
+      "pitanje": "Biljka na prozoru sve se više naginje prema staklu. Kako postići da raste uspravno?",
+      "ponudeni": [
+        "Prestati je zalijevati",
+        "Povremeno je okretati drugom stranom prema prozoru",
+        "Staviti je u mrak",
+        "Zaliti je hladnom vodom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Biljka raste prema svjetlosti. Ako je povremeno okrenemo, sve strane jednako dobivaju svjetlost pa raste uspravno.",
+      "savjet": "Sjeti se zašto se biljka uopće naginje prema prozoru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto je masline lakše uzgajati na obali Jadrana nego u Lici?",
+      "ponudeni": [
+        "U Lici nema svjetlosti",
+        "Na obali je tlo najplodnije u Hrvatskoj",
+        "Na obali su zime blaže, a maslina ne podnosi jaku hladnoću",
+        "U Lici nema zraka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Maslina treba mnogo topline i ne podnosi jake mrazove. Na obali su zime blage, a u Lici duge i hladne.",
+      "savjet": "Usporedi zime na moru i u gorskom kraju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-089",
+      "tezina": "tesko",
+      "pitanje": "Grad je u ulicama posadio drvorede. Kako to pomaže ljudima ljeti?",
+      "ponudeni": [
+        "Drveće daje hlad i ispušta kisik u zrak",
+        "Drveće zagrijava ulice",
+        "Drveće upija svu kišu pa ulice nisu mokre",
+        "Drveće tjera ptice iz grada"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krošnje stvaraju hlad pa je ljeti ugodnije. Drveće ispušta kisik u zrak koji udišemo.",
+      "savjet": "Sjeti se kako je stajati ispod krošnje za vrućeg dana."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivotni-uvjeti-i-ziva-bica-090",
+      "tezina": "tesko",
+      "pitanje": "Zašto proljeće u Gorskom kotaru stiže kasnije nego u Dalmaciji?",
+      "ponudeni": [
+        "U Gorskom kotaru ima više zraka",
+        "U Gorskom kotaru ima manje tla",
+        "U Dalmaciji je manje svjetlosti",
+        "U Gorskom kotaru je hladnije pa toplina stiže kasnije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gorski kotar je gorski kraj s dugim i hladnim zimama. Toplina potrebna biljkama ondje stiže kasnije nego na toplom jugu.",
+      "savjet": "Usporedi zime u gorskom i primorskom kraju."
+    }
+  ]
+}
