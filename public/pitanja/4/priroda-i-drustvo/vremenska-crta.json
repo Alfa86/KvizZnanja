@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "vremenska-crta",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-001",
+      "tezina": "lagano",
+      "pitanje": "Što prikazuje vremenska crta?",
+      "ponudeni": [
+        "Udaljenost između gradova",
+        "Redoslijed događaja u vremenu",
+        "Visinu planina i brežuljaka",
+        "Granice hrvatskih županija"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vremenska crta prikazuje događaje poredane onim redom kojim su se dogodili.",
+      "savjet": "Sjeti se što znači riječ „vremenska“ u njezinu nazivu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-002",
+      "tezina": "lagano",
+      "pitanje": "Koliko godina ima jedno stoljeće?",
+      "ponudeni": [
+        "10 godina",
+        "1000 godina",
+        "50 godina",
+        "100 godina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stoljeće je razdoblje od sto godina.",
+      "savjet": "Riječ stoljeće skriva u sebi jedan broj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-003",
+      "tezina": "lagano",
+      "pitanje": "Koliko godina ima jedno desetljeće?",
+      "ponudeni": [
+        "10 godina",
+        "100 godina",
+        "12 godina",
+        "1000 godina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Desetljeće je razdoblje od deset godina.",
+      "savjet": "Poslušaj kojim brojem počinje riječ desetljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-004",
+      "tezina": "lagano",
+      "pitanje": "Vremenska crta teče slijeva nadesno. Gdje se na njoj nalaze stariji događaji?",
+      "ponudeni": [
+        "Desno od novijih događaja",
+        "Iznad novijih događaja",
+        "Lijevo od novijih događaja",
+        "Ispod novijih događaja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na vremenskoj crti vrijeme teče slijeva nadesno, pa su stariji događaji lijevo, a noviji desno.",
+      "savjet": "Razmisli gdje vremenska crta počinje ako teče slijeva nadesno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se još naziva vremenska crta?",
+      "ponudeni": [
+        "Ruža vjetrova",
+        "Plan grada",
+        "Lenta vremena",
+        "Zemljovid"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vremensku crtu nazivamo i lentom vremena jer je poput dugačke vrpce na kojoj su poredani događaji.",
+      "savjet": "Drugi naziv također govori o vremenu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-006",
+      "tezina": "lagano",
+      "pitanje": "U kojem su stoljeću Hrvati doselili na područje današnje Hrvatske?",
+      "ponudeni": [
+        "U 7. stoljeću",
+        "U 10. stoljeću",
+        "U 12. stoljeću",
+        "U 19. stoljeću"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvati su doselili u 7. stoljeću i ondje osnovali dvije kneževine.",
+      "savjet": "Na vremenskoj crti hrvatske povijesti dolazak Hrvata stoji na samom početku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-007",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine Tomislav postao prvi hrvatski kralj?",
+      "ponudeni": [
+        "852. godine",
+        "1102. godine",
+        "1066. godine",
+        "925. godine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tomislav je postao prvi hrvatski kralj 925. godine i ujedinio Primorsku i Panonsku Hrvatsku.",
+      "savjet": "Prvi hrvatski kralj vladao je u 10. stoljeću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-008",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine nastala Trpimirova darovnica?",
+      "ponudeni": [
+        "925. godine",
+        "852. godine",
+        "879. godine",
+        "1493. godine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trpimirova darovnica nastala je 852. godine. U njoj se prvi put u domaćoj ispravi spominje hrvatsko ime.",
+      "savjet": "To je isprava kneza, a ne kralja, pa je starija od prvog kralja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-009",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine papa Ivan VIII. priznao Branimirovu Hrvatsku?",
+      "ponudeni": [
+        "925. godine",
+        "852. godine",
+        "1102. godine",
+        "879. godine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Papa Ivan VIII. priznao je Branimirovu Hrvatsku 879. godine. Bilo je to međunarodno priznanje.",
+      "savjet": "Sjeti se da je Branimir bio knez u 9. stoljeću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-010",
+      "tezina": "lagano",
+      "pitanje": "Kada je Hrvatska ušla u zajednicu s Ugarskom?",
+      "ponudeni": [
+        "U 7. stoljeću",
+        "Početkom 12. stoljeća",
+        "U 10. stoljeću",
+        "U 19. stoljeću"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Početkom 12. stoljeća, 1102. godine, Hrvatska je ušla u zajednicu s Ugarskom.",
+      "savjet": "Sjeti se godine 1102. i odredi kojem stoljeću pripada."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-011",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine bila Krbavska bitka?",
+      "ponudeni": [
+        "1566. godine",
+        "1593. godine",
+        "1493. godine",
+        "1671. godine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krbavska bitka bila je 1493. godine na Krbavskom polju.",
+      "savjet": "Sjeti se u kojem su stoljeću počele osmanlijske provale."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-012",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine Nikola Šubić Zrinski branio Siget?",
+      "ponudeni": [
+        "1566. godine",
+        "1493. godine",
+        "1593. godine",
+        "1102. godine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nikola Šubić Zrinski branio je Siget 1566. godine.",
+      "savjet": "Sigetska bitka bila je u 16. stoljeću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-013",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine bila bitka kod Siska?",
+      "ponudeni": [
+        "1593. godine",
+        "1493. godine",
+        "1566. godine",
+        "1671. godine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U bitki kod Siska 1593. godine odnesena je pobjeda nad Osmanlijama.",
+      "savjet": "Ta je pobjeda bila krajem 16. stoljeća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-014",
+      "tezina": "lagano",
+      "pitanje": "Koje su godine pogubljeni Petar Zrinski i Fran Krsto Frankopan?",
+      "ponudeni": [
+        "1593. godine",
+        "1848. godine",
+        "1671. godine",
+        "1566. godine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Petar Zrinski i Fran Krsto Frankopan pogubljeni su 1671. godine u Bečkom Novom Mjestu.",
+      "savjet": "Sjeti se grada Ozlja i velikaških obitelji Zrinski i Frankopan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-015",
+      "tezina": "lagano",
+      "pitanje": "U kojem je stoljeću bio hrvatski narodni preporod?",
+      "ponudeni": [
+        "U 16. stoljeću",
+        "U 19. stoljeću",
+        "U 12. stoljeću",
+        "U 20. stoljeću"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrvatski narodni preporod bio je u 19. stoljeću, 1830-ih i 1840-ih godina.",
+      "savjet": "Sjeti se Ljudevita Gaja i godina u kojima je djelovao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-016",
+      "tezina": "lagano",
+      "pitanje": "Kojeg je datuma hrvatski jezik postao službeni jezik?",
+      "ponudeni": [
+        "22. prosinca 1990.",
+        "25. lipnja 1991.",
+        "15. siječnja 1992.",
+        "23. listopada 1847."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatski sabor odlučio je 23. listopada 1847. da hrvatski jezik postaje službeni jezik.",
+      "savjet": "To se dogodilo u doba hrvatskog narodnog preporoda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-017",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine ban Josip Jelačić ukinuo kmetstvo?",
+      "ponudeni": [
+        "1847. godine",
+        "1848. godine",
+        "1866. godine",
+        "1835. godine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ban Josip Jelačić ukinuo je kmetstvo 1848. godine.",
+      "savjet": "Kmetstvo je ukinuto krajem 1840-ih godina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-018",
+      "tezina": "lagano",
+      "pitanje": "Kojeg je datuma Hrvatski sabor donio odluku o samostalnosti?",
+      "ponudeni": [
+        "25. lipnja 1991.",
+        "22. prosinca 1990.",
+        "15. siječnja 1992.",
+        "5. kolovoza 1995."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski sabor donio je odluku o samostalnosti 25. lipnja 1991. godine.",
+      "savjet": "Sjeti se da je odluka donesena nakon Božićnog ustava i referenduma."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-019",
+      "tezina": "lagano",
+      "pitanje": "Kojeg je datuma Republika Hrvatska međunarodno priznata?",
+      "ponudeni": [
+        "25. lipnja 1991.",
+        "22. svibnja 1992.",
+        "1. srpnja 2013.",
+        "15. siječnja 1992."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Republika Hrvatska međunarodno je priznata 15. siječnja 1992. godine.",
+      "savjet": "Priznanje je stiglo nakon odluke o samostalnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-020",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine Hrvatska postala članica Europske unije?",
+      "ponudeni": [
+        "1992. godine",
+        "1998. godine",
+        "2013. godine",
+        "1991. godine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatska je postala članica Europske unije 1. srpnja 2013. godine.",
+      "savjet": "Hrvatska je u Europsku uniju ušla mnogo godina nakon Domovinskog rata."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-021",
+      "tezina": "lagano",
+      "pitanje": "Kada je trajao Domovinski rat?",
+      "ponudeni": [
+        "Od 1990. do 1992. godine",
+        "Od 1995. do 1998. godine",
+        "Od 1848. do 1850. godine",
+        "Od 1991. do 1995. godine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Domovinski rat trajao je od 1991. do 1995. godine, kada su hrvatski branitelji obranili domovinu.",
+      "savjet": "Domovinski rat počeo je nakon odluke o samostalnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-022",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine bila vojno-redarstvena akcija Oluja?",
+      "ponudeni": [
+        "1991. godine",
+        "1992. godine",
+        "1995. godine",
+        "1998. godine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oluja je bila u kolovozu 1995. godine. Njome se približio kraj Domovinskog rata.",
+      "savjet": "Sjeti se da 5. kolovoza slavimo Dan pobjede i domovinske zahvalnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-023",
+      "tezina": "lagano",
+      "pitanje": "Kojeg datuma slavimo Dan državnosti?",
+      "ponudeni": [
+        "30. svibnja",
+        "25. lipnja",
+        "5. kolovoza",
+        "18. studenoga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dan državnosti Republike Hrvatske slavimo 30. svibnja.",
+      "savjet": "Sjeti se blagdana u kalendaru kojim slavimo hrvatsku državu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-024",
+      "tezina": "lagano",
+      "pitanje": "Kojeg je datuma donesen Božićni ustav?",
+      "ponudeni": [
+        "25. lipnja 1991.",
+        "22. prosinca 1990.",
+        "19. svibnja 1991.",
+        "15. siječnja 1992."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ustav Republike Hrvatske donesen je 22. prosinca 1990. Zbog blizine Božića zovemo ga Božićni ustav.",
+      "savjet": "Razmisli zašto se taj ustav zove Božićni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-025",
+      "tezina": "lagano",
+      "pitanje": "U kojem su stoljeću vladali kraljevi Petar Krešimir IV. i Dmitar Zvonimir?",
+      "ponudeni": [
+        "U 7. stoljeću",
+        "U 15. stoljeću",
+        "U 11. stoljeću",
+        "U 19. stoljeću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Petar Krešimir IV. i Dmitar Zvonimir bili su hrvatski kraljevi u 11. stoljeću.",
+      "savjet": "Sjeti se kada se u ispravi Petra Krešimira IV. prvi put spominje Šibenik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-026",
+      "tezina": "lagano",
+      "pitanje": "Od kojeg su stoljeća Osmanlije provaljivali u hrvatske krajeve?",
+      "ponudeni": [
+        "Od 7. stoljeća",
+        "Od 10. stoljeća",
+        "Od 20. stoljeća",
+        "Od 15. stoljeća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Osmanlije su počeli provaljivati u hrvatske krajeve u 15. stoljeću. Tada je bila i Krbavska bitka.",
+      "savjet": "Sjeti se u kojem je stoljeću bila Krbavska bitka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-027",
+      "tezina": "lagano",
+      "pitanje": "Kojeg je datuma održan referendum o samostalnosti Hrvatske?",
+      "ponudeni": [
+        "25. lipnja 1991.",
+        "19. svibnja 1991.",
+        "22. prosinca 1990.",
+        "15. siječnja 1992."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Referendum o samostalnosti održan je 19. svibnja 1991. godine.",
+      "savjet": "Sjeti se da su građani glasovali prije odluke Sabora o samostalnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-028",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine Ivan Kukuljević Sakcinski prvi put govorio u Saboru na hrvatskom jeziku?",
+      "ponudeni": [
+        "1843. godine",
+        "1847. godine",
+        "1835. godine",
+        "1866. godine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ivan Kukuljević Sakcinski prvi je govorio u Saboru na hrvatskom jeziku 1843. godine.",
+      "savjet": "Njegov govor bio je nekoliko godina prije nego što je hrvatski postao službeni jezik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-029",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine osnovana Akademija čiji je osnivač biskup Josip Juraj Strossmayer?",
+      "ponudeni": [
+        "1866. godine",
+        "1848. godine",
+        "1102. godine",
+        "1990. godine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Biskup Josip Juraj Strossmayer osnovao je Akademiju 1866. godine.",
+      "savjet": "Akademija je osnovana u 19. stoljeću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-030",
+      "tezina": "lagano",
+      "pitanje": "Kada je dovršena mirna reintegracija Hrvatskog Podunavlja?",
+      "ponudeni": [
+        "5. kolovoza 1995.",
+        "15. siječnja 1998.",
+        "15. siječnja 1992.",
+        "1. srpnja 2013."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mirna reintegracija Hrvatskog Podunavlja dovršena je 15. siječnja 1998. godine.",
+      "savjet": "Mirna reintegracija dovršena je nakon Domovinskog rata."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-031",
+      "tezina": "srednje",
+      "pitanje": "Trpimirova darovnica nastala je 852. godine. U kojem je to stoljeću?",
+      "ponudeni": [
+        "U 9. stoljeću",
+        "U 8. stoljeću",
+        "U 10. stoljeću",
+        "U 85. stoljeću"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Godine od 801. do 900. pripadaju 9. stoljeću, pa i godina 852.",
+      "savjet": "Stoljeće je za jedan veće od broja stotina u godini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-032",
+      "tezina": "srednje",
+      "pitanje": "Tomislav je postao kralj 925. godine. U kojem je to stoljeću?",
+      "ponudeni": [
+        "U 9. stoljeću",
+        "U 11. stoljeću",
+        "U 10. stoljeću",
+        "U 19. stoljeću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Godine od 901. do 1000. pripadaju 10. stoljeću, pa i godina 925.",
+      "savjet": "Pogledaj koliko stotina ima u godini i dodaj jedan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-033",
+      "tezina": "srednje",
+      "pitanje": "Šibenik se prvi put spominje 1066. godine. U kojem je to stoljeću?",
+      "ponudeni": [
+        "U 10. stoljeću",
+        "U 12. stoljeću",
+        "U 11. stoljeću",
+        "U 16. stoljeću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Godine od 1001. do 1100. pripadaju 11. stoljeću, pa i godina 1066.",
+      "savjet": "Prve dvije znamenke godine govore koliko je stotina prošlo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-034",
+      "tezina": "srednje",
+      "pitanje": "Krbavska bitka bila je 1493. godine. U kojem je to stoljeću?",
+      "ponudeni": [
+        "U 15. stoljeću",
+        "U 14. stoljeću",
+        "U 16. stoljeću",
+        "U 4. stoljeću"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Godine od 1401. do 1500. pripadaju 15. stoljeću, pa i godina 1493.",
+      "savjet": "Broj stotina u godini uvećaj za jedan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-035",
+      "tezina": "srednje",
+      "pitanje": "Sigetska bitka bila je 1566., a bitka kod Siska 1593. godine. U kojem su stoljeću bile obje bitke?",
+      "ponudeni": [
+        "U 15. stoljeću",
+        "U 17. stoljeću",
+        "U 6. stoljeću",
+        "U 16. stoljeću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Godine od 1501. do 1600. pripadaju 16. stoljeću, pa su obje bitke iz 16. stoljeća.",
+      "savjet": "Obje godine imaju isti broj stotina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-036",
+      "tezina": "srednje",
+      "pitanje": "Petar Zrinski i Fran Krsto Frankopan pogubljeni su 1671. U kojem je to stoljeću?",
+      "ponudeni": [
+        "U 16. stoljeću",
+        "U 17. stoljeću",
+        "U 18. stoljeću",
+        "U 7. stoljeću"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Godine od 1601. do 1700. pripadaju 17. stoljeću, pa i godina 1671.",
+      "savjet": "Koliko stotina ima u godini 1671.? Dodaj tome jedan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-037",
+      "tezina": "srednje",
+      "pitanje": "Hrvatski je jezik postao službeni 1847. godine. U kojem je to stoljeću?",
+      "ponudeni": [
+        "U 18. stoljeću",
+        "U 20. stoljeću",
+        "U 17. stoljeću",
+        "U 19. stoljeću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Godine od 1801. do 1900. pripadaju 19. stoljeću, pa i godina 1847.",
+      "savjet": "Sjeti se kojom godinom počinje i kojom završava svako stoljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-038",
+      "tezina": "srednje",
+      "pitanje": "Hrvatski sabor donio je odluku o samostalnosti 1991. godine. U kojem je to stoljeću?",
+      "ponudeni": [
+        "U 19. stoljeću",
+        "U 20. stoljeću",
+        "U 21. stoljeću",
+        "U 1. stoljeću"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Godine od 1901. do 2000. pripadaju 20. stoljeću, pa i godina 1991.",
+      "savjet": "Godine koje počinju s 19 pripadaju stoljeću koje ima broj za jedan veći."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-039",
+      "tezina": "srednje",
+      "pitanje": "Hrvatska je postala članica Europske unije 2013. godine. U kojem je to stoljeću?",
+      "ponudeni": [
+        "U 20. stoljeću",
+        "U 2. stoljeću",
+        "U 21. stoljeću",
+        "U 13. stoljeću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Godine od 2001. do 2100. pripadaju 21. stoljeću, pa i godina 2013.",
+      "savjet": "Broj stotina u godini uvećaj za jedan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-040",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio u 9. stoljeću?",
+      "ponudeni": [
+        "Papa je priznao Branimirovu Hrvatsku",
+        "Tomislav je postao prvi hrvatski kralj",
+        "Bila je Krbavska bitka",
+        "Nikola Šubić Zrinski branio je Siget"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Papa Ivan VIII. priznao je Branimirovu Hrvatsku 879. godine, a ta godina pripada 9. stoljeću.",
+      "savjet": "Devetom stoljeću pripadaju godine od 801. do 900."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-041",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio u 19. stoljeću?",
+      "ponudeni": [
+        "Ban Jelačić ukinuo je kmetstvo",
+        "Bila je Krbavska bitka",
+        "Nastala je Trpimirova darovnica",
+        "Hrvatska je ušla u Europsku uniju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ban Josip Jelačić ukinuo je kmetstvo 1848. godine, a to je 19. stoljeće.",
+      "savjet": "Devetnaestom stoljeću pripadaju godine od 1801. do 1900."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-042",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio u 20. stoljeću?",
+      "ponudeni": [
+        "Pogubljeni su Zrinski i Frankopan",
+        "Tomislav je postao kralj",
+        "Republika Hrvatska je međunarodno priznata",
+        "Kukuljević je prvi govorio hrvatski u Saboru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatska je međunarodno priznata 1992. godine, a ta godina pripada 20. stoljeću.",
+      "savjet": "Dvadesetom stoljeću pripadaju godine od 1901. do 2000."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-043",
+      "tezina": "srednje",
+      "pitanje": "Koji je vladar povezan s godinom 852.?",
+      "ponudeni": [
+        "Kralj Tomislav",
+        "Knez Trpimir",
+        "Knez Branimir",
+        "Kralj Petar Krešimir IV."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Knez Trpimir izdao je darovnicu 852. godine, u kojoj se spominje hrvatsko ime.",
+      "savjet": "Sjeti se po kojem je vladaru nazvana darovnica iz te godine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-044",
+      "tezina": "srednje",
+      "pitanje": "S kojom je godinom povezan knez Branimir?",
+      "ponudeni": [
+        "S 852. godinom",
+        "S 925. godinom",
+        "S 1066. godinom",
+        "S 879. godinom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Godine 879. papa Ivan VIII. priznao je Branimirovu Hrvatsku.",
+      "savjet": "Branimir je vladao između Trpimira i Tomislava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-045",
+      "tezina": "srednje",
+      "pitanje": "Koji je događaj povezan s godinom 1102.?",
+      "ponudeni": [
+        "Krunjenje kralja Tomislava",
+        "Ulazak Hrvatske u zajednicu s Ugarskom",
+        "Krbavska bitka",
+        "Pogubljenje Zrinskog i Frankopana"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Godine 1102. Hrvatska je ušla u zajednicu s Ugarskom, a zadržala je svoj Sabor i bana.",
+      "savjet": "Taj se događaj zbio početkom 12. stoljeća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-046",
+      "tezina": "srednje",
+      "pitanje": "Tko je od navedenih povezan s godinom 1566.?",
+      "ponudeni": [
+        "Nikola Šubić Zrinski",
+        "Ljudevit Gaj",
+        "Josip Jelačić",
+        "Petar Krešimir IV."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nikola Šubić Zrinski branio je Siget 1566. godine.",
+      "savjet": "Te je godine bila bitka u vrijeme osmanlijskih provala."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-047",
+      "tezina": "srednje",
+      "pitanje": "Tko je od navedenih povezan s godinom 1848.?",
+      "ponudeni": [
+        "Ivan Kukuljević Sakcinski",
+        "Knez Trpimir",
+        "Fran Krsto Frankopan",
+        "Ban Josip Jelačić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ban Josip Jelačić ukinuo je kmetstvo 1848. godine.",
+      "savjet": "Te je godine ukinuto kmetstvo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-048",
+      "tezina": "srednje",
+      "pitanje": "Tko je 1843. prvi put govorio u Hrvatskom saboru na hrvatskom jeziku?",
+      "ponudeni": [
+        "Ljudevit Gaj",
+        "Josip Juraj Strossmayer",
+        "Ivan Kukuljević Sakcinski",
+        "Josip Jelačić"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ivan Kukuljević Sakcinski održao je 1843. prvi govor u Saboru na hrvatskom jeziku.",
+      "savjet": "Sjeti se preporoditelja koji je govorio u Saboru, a ne pisao novine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-049",
+      "tezina": "srednje",
+      "pitanje": "U kojem je razdoblju Ljudevit Gaj pokrenuo novine i uredio latinicu?",
+      "ponudeni": [
+        "U doba dolaska Hrvata",
+        "U doba kralja Tomislava",
+        "U doba Domovinskog rata",
+        "U doba hrvatskog narodnog preporoda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ljudevit Gaj djelovao je u 19. stoljeću, u doba hrvatskog narodnog preporoda. Novine je pokrenuo 1835. godine.",
+      "savjet": "Sjeti se razdoblja u kojem se borilo za hrvatski jezik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-050",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio najranije?",
+      "ponudeni": [
+        "Tomislav je postao kralj",
+        "Nastala je Bašćanska ploča",
+        "Nastala je Trpimirova darovnica",
+        "Hrvatska je ušla u zajednicu s Ugarskom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trpimirova darovnica nastala je 852. godine, prije svih ostalih navedenih događaja.",
+      "savjet": "Sjeti se godina i potraži najmanji broj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-051",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio najkasnije?",
+      "ponudeni": [
+        "Hrvatska je ušla u Europsku uniju",
+        "Bila je akcija Oluja",
+        "Hrvatska je međunarodno priznata",
+        "Donesen je Božićni ustav"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatska je ušla u Europsku uniju 2013. godine, nakon svih ostalih navedenih događaja.",
+      "savjet": "Potraži događaj s najvećim brojem godine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-052",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja zbio najranije?",
+      "ponudeni": [
+        "Sigetska bitka",
+        "Krbavska bitka",
+        "Bitka kod Siska",
+        "Pogubljenje Zrinskog i Frankopana"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krbavska bitka bila je 1493., Sigetska 1566., bitka kod Siska 1593., a pogubljenje Zrinskog i Frankopana 1671. godine.",
+      "savjet": "Sjeti se godine svakog događaja i potraži najmanji broj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-053",
+      "tezina": "srednje",
+      "pitanje": "Koje godine pripadaju 19. stoljeću?",
+      "ponudeni": [
+        "Od 1901. do 2000.",
+        "Od 1800. do 1899.",
+        "Od 1801. do 1900.",
+        "Od 1701. do 1800."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stoljeće počinje godinom koja završava na 01, a završava okruglom stotinom, pa 19. stoljeće traje od 1801. do 1900.",
+      "savjet": "Prvo stoljeće počinje 1. godinom i završava 100. godinom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-054",
+      "tezina": "srednje",
+      "pitanje": "Koje godine pripadaju 20. stoljeću?",
+      "ponudeni": [
+        "Od 2001. do 2100.",
+        "Od 1801. do 1900.",
+        "Od 1900. do 1999.",
+        "Od 1901. do 2000."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dvadeseto stoljeće počinje 1901., a završava 2000. godinom.",
+      "savjet": "Stoljeće završava okruglom stotinom, a ne godinom prije nje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-055",
+      "tezina": "srednje",
+      "pitanje": "Koliko stoljeća ima jedno tisućljeće?",
+      "ponudeni": [
+        "100 stoljeća",
+        "10 stoljeća",
+        "1000 stoljeća",
+        "12 stoljeća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tisućljeće ima 1000 godina, a stoljeće 100 godina, pa tisućljeće ima 10 stoljeća.",
+      "savjet": "Razmisli koliko puta 100 godina stane u 1000 godina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-056",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio u 11. stoljeću?",
+      "ponudeni": [
+        "Šibenik se prvi put spominje u ispravi",
+        "Tomislav je postao prvi hrvatski kralj",
+        "Bila je Krbavska bitka",
+        "Papa je priznao Branimirovu Hrvatsku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Šibenik se prvi put spominje 1066. godine u ispravi Petra Krešimira IV., a to je 11. stoljeće.",
+      "savjet": "Jedanaestom stoljeću pripadaju godine od 1001. do 1100."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-057",
+      "tezina": "srednje",
+      "pitanje": "Koji je događaj povezan s godinom 1671.?",
+      "ponudeni": [
+        "Pogubljenje Zrinskog i Frankopana",
+        "Sigetska bitka",
+        "Krbavska bitka",
+        "Ukidanje kmetstva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Petar Zrinski i Fran Krsto Frankopan pogubljeni su 1671. godine u Bečkom Novom Mjestu.",
+      "savjet": "Sjeti se grada Ozlja i velikaških obitelji Zrinski i Frankopan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-058",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio 1990. godine?",
+      "ponudeni": [
+        "Održan je referendum o samostalnosti",
+        "Održani su prvi višestranački izbori",
+        "Hrvatska je međunarodno priznata",
+        "Bila je akcija Oluja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi višestranački izbori u Hrvatskoj održani su 1990. godine.",
+      "savjet": "Potraži događaj koji se zbio prije svih ostalih navedenih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-059",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio prvi?",
+      "ponudeni": [
+        "Odluka Sabora o samostalnosti",
+        "Međunarodno priznanje Hrvatske",
+        "Referendum o samostalnosti",
+        "Ulazak Hrvatske u UN"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Referendum je bio 19. svibnja 1991., odluka o samostalnosti 25. lipnja 1991., priznanje 15. siječnja 1992., a ulazak u UN 22. svibnja 1992.",
+      "savjet": "Sjeti se da su građani prvo glasovali, a Sabor je zatim donio odluku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-060",
+      "tezina": "srednje",
+      "pitanje": "Tko je od navedenih živio prije kralja Zvonimira?",
+      "ponudeni": [
+        "Ban Josip Jelačić",
+        "Nikola Šubić Zrinski",
+        "Ljudevit Gaj",
+        "Kralj Tomislav"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tomislav je bio kralj u 10. stoljeću, a Zvonimir u 11. stoljeću. Ostali su živjeli mnogo kasnije.",
+      "savjet": "Zvonimir je bio kralj u 11. stoljeću. Tko je od ponuđenih iz još starijeg doba?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-061",
+      "tezina": "tesko",
+      "pitanje": "Poredaj od najstarijeg: A – Tomislav postaje kralj, B – Trpimirova darovnica, C – papa priznaje Branimirovu Hrvatsku.",
+      "ponudeni": [
+        "B, C, A",
+        "A, B, C",
+        "C, B, A",
+        "B, A, C"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trpimirova darovnica je iz 852., priznanje Branimirove Hrvatske iz 879., a Tomislav je postao kralj 925. godine.",
+      "savjet": "Sjeti se godine svakog događaja i kreni od najmanjeg broja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-062",
+      "tezina": "tesko",
+      "pitanje": "Poredaj od najstarijeg: A – Sigetska bitka, B – pogubljenje Zrinskog i Frankopana, C – Krbavska bitka.",
+      "ponudeni": [
+        "A, C, B",
+        "C, B, A",
+        "B, A, C",
+        "C, A, B"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krbavska bitka bila je 1493., Sigetska 1566., a Zrinski i Frankopan pogubljeni su 1671. godine.",
+      "savjet": "Odredi stoljeće svakog događaja pa ih poredaj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-063",
+      "tezina": "tesko",
+      "pitanje": "Koji je događaj na vremenskoj crti između Božićnog ustava i akcije Oluja?",
+      "ponudeni": [
+        "Ulazak Hrvatske u Europsku uniju",
+        "Međunarodno priznanje Hrvatske",
+        "Dovršetak mirne reintegracije",
+        "Ukidanje kmetstva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Božićni ustav donesen je 1990., međunarodno priznanje bilo je 1992., a Oluja 1995. godine.",
+      "savjet": "Odredi godine obaju zadanih događaja pa potraži godinu između njih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-064",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od Trpimirove darovnice (852.) do Tomislavova krunjenja (925.)?",
+      "ponudeni": [
+        "63 godine",
+        "83 godine",
+        "27 godina",
+        "73 godine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od 852. do 925. prošlo je 925 − 852 = 73 godine.",
+      "savjet": "Od kasnije godine oduzmi raniju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-065",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od Sigetske bitke (1566.) do bitke kod Siska (1593.)?",
+      "ponudeni": [
+        "37 godina",
+        "27 godina",
+        "17 godina",
+        "33 godine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od 1566. do 1593. prošlo je 1593 − 1566 = 27 godina.",
+      "savjet": "Od kasnije godine oduzmi raniju godinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-066",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina nakon Kukuljevićeva govora u Saboru (1843.) hrvatski jezik postao službeni (1847.)?",
+      "ponudeni": [
+        "3 godine",
+        "5 godina",
+        "4 godine",
+        "14 godina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od 1843. do 1847. prošlo je 1847 − 1843 = 4 godine.",
+      "savjet": "Usporedi samo zadnje znamenke dviju godina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-067",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od međunarodnog priznanja Hrvatske (1992.) do ulaska u Europsku uniju (2013.)?",
+      "ponudeni": [
+        "21 godina",
+        "11 godina",
+        "31 godina",
+        "19 godina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od 1992. do 2013. prošlo je 2013 − 1992 = 21 godina.",
+      "savjet": "Izračunaj najprije koliko je godina do 2000., a zatim dodaj ostatak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-068",
+      "tezina": "tesko",
+      "pitanje": "Hrvati su doselili u 7. stoljeću, a Tomislav je postao kralj u 10. stoljeću. Za koliko je stoljeća 10. stoljeće kasnije od 7.?",
+      "ponudeni": [
+        "Za 3 stoljeća",
+        "Za 2 stoljeća",
+        "Za 4 stoljeća",
+        "Za 10 stoljeća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od 7. do 10. stoljeća razlika je 10 − 7 = 3 stoljeća.",
+      "savjet": "Oduzmi redne brojeve stoljeća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-069",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Tomislav je postao kralj prije Trpimirove darovnice.",
+        "Hrvatski je postao službeni jezik nakon ulaska u EU.",
+        "Krbavska bitka bila je prije Sigetske bitke.",
+        "Jelačić je ukinuo kmetstvo prije Krbavske bitke."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krbavska bitka bila je 1493., a Sigetska 1566. godine, pa je Krbavska bila prije.",
+      "savjet": "Za svaku tvrdnju prisjeti se godina obaju događaja i usporedi ih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-070",
+      "tezina": "tesko",
+      "pitanje": "Vremenska crta teče slijeva nadesno. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Krbavska bitka je desno od Sigetske bitke.",
+        "Tomislavovo krunjenje je lijevo od Bašćanske ploče.",
+        "Ulazak u EU je lijevo od akcije Oluja.",
+        "Trpimirova darovnica je desno od Tomislavova krunjenja."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tomislav je postao kralj 925., a Bašćanska ploča nastala je oko 1100. godine, pa je Tomislav lijevo od nje.",
+      "savjet": "Lijevo su stariji, a desno noviji događaji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-071",
+      "tezina": "tesko",
+      "pitanje": "Kojem stoljeću pripada godina 1900.?",
+      "ponudeni": [
+        "20. stoljeću",
+        "18. stoljeću",
+        "9. stoljeću",
+        "19. stoljeću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Godina 1900. zadnja je godina 19. stoljeća, jer ono traje od 1801. do 1900. godine.",
+      "savjet": "Sjeti se kojom godinom završava svako stoljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-072",
+      "tezina": "tesko",
+      "pitanje": "Kojem stoljeću pripada godina 1000.?",
+      "ponudeni": [
+        "11. stoljeću",
+        "10. stoljeću",
+        "1. stoljeću",
+        "100. stoljeću"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Godina 1000. zadnja je godina 10. stoljeća, jer ono traje od 901. do 1000. godine.",
+      "savjet": "Okrugla stotina zatvara stoljeće, a ne otvara novo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-073",
+      "tezina": "tesko",
+      "pitanje": "Na vremenskoj crti treba upisati događaj između Tomislavova krunjenja i Krbavske bitke. Koji?",
+      "ponudeni": [
+        "Ulazak Hrvatske u zajednicu s Ugarskom",
+        "Trpimirova darovnica",
+        "Sigetska bitka",
+        "Hrvatski narodni preporod"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tomislav je postao kralj 925., zajednica s Ugarskom počela je 1102., a Krbavska bitka bila je 1493. godine.",
+      "savjet": "Odredi stoljeće zadanih događaja pa potraži događaj iz stoljeća između njih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-074",
+      "tezina": "tesko",
+      "pitanje": "Koji je od ovih događaja na vremenskoj crti najbliži godini 1850.?",
+      "ponudeni": [
+        "Osnivanje Akademije",
+        "Pokretanje Gajevih novina",
+        "Pogubljenje Zrinskog i Frankopana",
+        "Ukidanje kmetstva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kmetstvo je ukinuto 1848., samo dvije godine prije 1850. Akademija je osnovana 1866., a Gajeve novine 1835. godine.",
+      "savjet": "Za svaki događaj izračunaj koliko je godina udaljen od 1850."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-075",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od ukidanja kmetstva (1848.) do osnivanja Akademije (1866.)?",
+      "ponudeni": [
+        "22 godine",
+        "8 godina",
+        "18 godina",
+        "28 godina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od 1848. do 1866. prošlo je 1866 − 1848 = 18 godina.",
+      "savjet": "Od kasnije godine oduzmi raniju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-076",
+      "tezina": "tesko",
+      "pitanje": "Zamisli da je 2025. godina. Prije koliko je godina Tomislav postao kralj (925.)?",
+      "ponudeni": [
+        "Prije 1000 godina",
+        "Prije 1200 godina",
+        "Prije 925 godina",
+        "Prije 1100 godina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od 925. do 2025. prošlo je 2025 − 925 = 1100 godina.",
+      "savjet": "Oduzmi godinu Tomislavova krunjenja od 2025."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-077",
+      "tezina": "tesko",
+      "pitanje": "Trpimirova darovnica je iz 9., a narodni preporod iz 19. stoljeća. Koliko stoljeća razlike je između njih?",
+      "ponudeni": [
+        "9 stoljeća",
+        "11 stoljeća",
+        "10 stoljeća",
+        "100 stoljeća"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Između 9. i 19. stoljeća razlika je 19 − 9 = 10 stoljeća.",
+      "savjet": "Oduzmi manji redni broj stoljeća od većeg."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-078",
+      "tezina": "tesko",
+      "pitanje": "Poredaj od najstarijeg: A – Kukuljevićev govor u Saboru, B – osnivanje Akademije, C – Gajeve novine, D – hrvatski postaje službeni jezik.",
+      "ponudeni": [
+        "C, A, D, B",
+        "A, C, D, B",
+        "C, D, A, B",
+        "C, A, B, D"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gajeve novine pokrenute su 1835., Kukuljević je govorio 1843., hrvatski je postao službeni 1847., a Akademija je osnovana 1866. godine.",
+      "savjet": "Sva su četiri događaja iz 19. stoljeća, pa usporedi točne godine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-079",
+      "tezina": "tesko",
+      "pitanje": "Koji se od ovih događaja iz 20. stoljeća dogodio prvi?",
+      "ponudeni": [
+        "Referendum o samostalnosti",
+        "Prvi višestranački izbori",
+        "Akcija Oluja",
+        "Dovršetak mirne reintegracije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi višestranački izbori bili su 1990., referendum 1991., Oluja 1995., a mirna reintegracija dovršena je 1998. godine.",
+      "savjet": "Sjeti se što je moralo biti prije stvaranja samostalne države."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-080",
+      "tezina": "tesko",
+      "pitanje": "Koja dva događaja pripadaju istom stoljeću?",
+      "ponudeni": [
+        "Krbavska bitka i Sigetska bitka",
+        "Tomislavovo krunjenje i Zvonimirova vladavina",
+        "Sigetska bitka i bitka kod Siska",
+        "Gajeve novine i ulazak u EU"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sigetska bitka (1566.) i bitka kod Siska (1593.) obje su iz 16. stoljeća.",
+      "savjet": "Za svaki par odredi stoljeća obaju događaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-081",
+      "tezina": "tesko",
+      "pitanje": "Neki se događaj zbio 36 godina prije ulaska Hrvatske u zajednicu s Ugarskom (1102.). Koji je to događaj?",
+      "ponudeni": [
+        "Tomislav postaje prvi hrvatski kralj",
+        "Papa priznaje Branimirovu Hrvatsku",
+        "Bila je Krbavska bitka",
+        "Šibenik se prvi put spominje u ispravi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od 1102 oduzmemo 36 i dobijemo 1066. Te se godine Šibenik prvi put spominje u ispravi Petra Krešimira IV.",
+      "savjet": "Izračunaj najprije godinu tog događaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-082",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od Tomislavova krunjenja (925.) do zajednice s Ugarskom (1102.)?",
+      "ponudeni": [
+        "187 godina",
+        "177 godina",
+        "77 godina",
+        "167 godina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od 925. do 1102. prošlo je 1102 − 925 = 177 godina.",
+      "savjet": "Izračunaj najprije koliko je godina od 925. do 1000., a zatim dodaj ostatak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-083",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od Krbavske bitke (1493.) do bitke kod Siska (1593.)?",
+      "ponudeni": [
+        "100 godina",
+        "90 godina",
+        "110 godina",
+        "1000 godina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od 1493. do 1593. prošlo je 1593 − 1493 = 100 godina, to jest jedno stoljeće.",
+      "savjet": "Usporedi znamenke dviju godina: razlikuje se samo jedna."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-084",
+      "tezina": "tesko",
+      "pitanje": "Koji je događaj na vremenskoj crti između Trpimirove darovnice i Tomislavova krunjenja?",
+      "ponudeni": [
+        "Papa priznaje Branimirovu Hrvatsku",
+        "Dolazak Hrvata",
+        "Nastanak Bašćanske ploče",
+        "Ulazak u zajednicu s Ugarskom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trpimirova darovnica je iz 852., priznanje Branimirove Hrvatske iz 879., a Tomislavovo krunjenje iz 925. godine.",
+      "savjet": "Sjeti se koji je vladar bio između Trpimira i Tomislava."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-085",
+      "tezina": "tesko",
+      "pitanje": "Zrinski i Frankopan pogubljeni su 1671. Koliko je godina prije toga bila Sigetska bitka (1566.)?",
+      "ponudeni": [
+        "95 godina",
+        "105 godina",
+        "115 godina",
+        "100 godina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od 1566. do 1671. prošlo je 1671 − 1566 = 105 godina.",
+      "savjet": "Od kasnije godine oduzmi raniju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-086",
+      "tezina": "tesko",
+      "pitanje": "Djevojčica je rođena 2015. godine. U kojem je stoljeću rođena?",
+      "ponudeni": [
+        "U 20. stoljeću",
+        "U 2. stoljeću",
+        "U 21. stoljeću",
+        "U 22. stoljeću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Godine od 2001. do 2100. pripadaju 21. stoljeću, pa i godina 2015.",
+      "savjet": "Broj stotina u godini uvećaj za jedan."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-087",
+      "tezina": "tesko",
+      "pitanje": "Koja je od ovih tvrdnji točna?",
+      "ponudeni": [
+        "Osmanlijske provale počele su prije dolaska Hrvata.",
+        "Ban Jelačić živio je prije kralja Tomislava.",
+        "Krbavska bitka bila je nakon Gajevih novina.",
+        "Narodni preporod bio je prije Domovinskog rata."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Narodni preporod bio je u 19. stoljeću, a Domovinski rat u 20. stoljeću.",
+      "savjet": "Za svaku tvrdnju odredi stoljeće obaju događaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-088",
+      "tezina": "tesko",
+      "pitanje": "Od ponuđenih događaja, koji je na vremenskoj crti odmah prije dovršetka mirne reintegracije (1998.)?",
+      "ponudeni": [
+        "Božićni ustav",
+        "Akcija Oluja",
+        "Međunarodno priznanje Hrvatske",
+        "Ulazak Hrvatske u Europsku uniju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oluja je bila 1995., a to je od ponuđenih događaja najbliže prije 1998. godine.",
+      "savjet": "Potraži događaj koji je prije 1998., ali što bliže toj godini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-089",
+      "tezina": "tesko",
+      "pitanje": "Koji je od ovih događaja na vremenskoj crti najbliži Krbavskoj bitci (1493.)?",
+      "ponudeni": [
+        "Ulazak u zajednicu s Ugarskom",
+        "Pogubljenje Zrinskog i Frankopana",
+        "Pokretanje Gajevih novina",
+        "Sigetska bitka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sigetska bitka bila je 1566., samo 73 godine nakon Krbavske bitke. Ostali su događaji mnogo udaljeniji.",
+      "savjet": "Za svaki događaj izračunaj koliko je godina udaljen od 1493."
+    },
+    {
+      "id": "4-priroda-i-drustvo-vremenska-crta-090",
+      "tezina": "tesko",
+      "pitanje": "Netko tvrdi da su Trpimirova darovnica (852.) i Tomislavovo krunjenje (925.) iz istog stoljeća. Zašto to nije točno?",
+      "ponudeni": [
+        "852. je u 9., a 925. u 10. stoljeću",
+        "Obje su godine u 8. stoljeću",
+        "852. je u 8., a 925. u 9. stoljeću",
+        "Obje su godine u 10. stoljeću"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Godina 852. pripada 9. stoljeću (801.–900.), a godina 925. 10. stoljeću (901.–1000.).",
+      "savjet": "Za svaku godinu odredi stoljeće: broju stotina dodaj jedan."
+    }
+  ]
+}

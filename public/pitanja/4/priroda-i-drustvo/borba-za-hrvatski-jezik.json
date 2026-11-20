@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "borba-za-hrvatski-jezik",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-001",
+      "tezina": "lagano",
+      "pitanje": "U kojem je stoljeću bio hrvatski narodni preporod?",
+      "ponudeni": [
+        "U 17. stoljeću",
+        "U 18. stoljeću",
+        "U 19. stoljeću",
+        "U 20. stoljeću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski narodni preporod bio je u 19. stoljeću, najviše 1830-ih i 1840-ih godina.",
+      "savjet": "Sjeti se stoljeća u kojem je djelovao Ljudevit Gaj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-002",
+      "tezina": "lagano",
+      "pitanje": "Tko je bio vođa hrvatskog narodnog preporoda?",
+      "ponudeni": [
+        "Josip Jelačić",
+        "Ljudevit Gaj",
+        "Marko Marulić",
+        "Petar Zrinski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudevit Gaj bio je vođa preporoda. Uredio je latinicu i pokrenuo novine.",
+      "savjet": "Sjeti se tko je uredio hrvatsku latinicu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-003",
+      "tezina": "lagano",
+      "pitanje": "Koje je pismo uredio Ljudevit Gaj kako bi se hrvatski lakše pisao?",
+      "ponudeni": [
+        "Glagoljicu",
+        "Ćirilicu",
+        "Latinicu",
+        "Grčko pismo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gaj je uredio latinicu. Tim pismom i danas pišemo.",
+      "savjet": "Razmisli kojim pismom pišeš u svojoj bilježnici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-004",
+      "tezina": "lagano",
+      "pitanje": "Koja su slova ušla u hrvatsku latinicu Gajevom reformom?",
+      "ponudeni": [
+        "č, ć, ž, š",
+        "q, w, x, y",
+        "ä, ö, ü, ß",
+        "α, β, γ, δ"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gaj je u latinicu uveo slova poput č, ć, ž i š. Njima zapisujemo glasove kojih nema u mnogim drugim jezicima.",
+      "savjet": "Potraži slova koja se nalaze u hrvatskoj abecedi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-005",
+      "tezina": "lagano",
+      "pitanje": "Kojeg je datuma hrvatski jezik postao službeni jezik u Hrvatskoj?",
+      "ponudeni": [
+        "25. lipnja 1991.",
+        "7. lipnja 879.",
+        "22. prosinca 1990.",
+        "23. listopada 1847."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatski sabor odlučio je 23. listopada 1847. da hrvatski postaje službeni jezik.",
+      "savjet": "Odluka je donesena u 19. stoljeću, u vrijeme preporoda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-006",
+      "tezina": "lagano",
+      "pitanje": "Tko je prvi održao govor na hrvatskom jeziku u Hrvatskom saboru?",
+      "ponudeni": [
+        "Ljudevit Gaj",
+        "Ivan Kukuljević Sakcinski",
+        "Josip Juraj Strossmayer",
+        "Josip Jelačić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ivan Kukuljević Sakcinski 1843. prvi je u Saboru govorio na hrvatskom jeziku.",
+      "savjet": "Sjeti se preporoditelja čije prezime ima dva dijela."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-007",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine Ivan Kukuljević Sakcinski prvi govorio na hrvatskom jeziku u Saboru?",
+      "ponudeni": [
+        "1835.",
+        "1843.",
+        "1866.",
+        "1925."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kukuljević je govorio u Saboru 1843., četiri godine prije nego što je hrvatski postao službeni jezik.",
+      "savjet": "Govor je bio malo prije 1847., kad je hrvatski postao službeni."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-008",
+      "tezina": "lagano",
+      "pitanje": "Tko je 1847. donio odluku da hrvatski jezik postane službeni jezik?",
+      "ponudeni": [
+        "Hrvatski sabor",
+        "Kralj Tomislav",
+        "Dubrovačka Republika",
+        "Gradsko vijeće Splita"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Odluku je donio Hrvatski sabor. Sabor je skupština koja donosi važne odluke za Hrvatsku.",
+      "savjet": "Sjeti se gdje je Kukuljević održao svoj poznati govor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-009",
+      "tezina": "lagano",
+      "pitanje": "Koji je jezik bio službeni jezik u Hrvatskom saboru prije 1847.?",
+      "ponudeni": [
+        "Hrvatski",
+        "Engleski",
+        "Latinski",
+        "Francuski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prije 1847. u Saboru se službeno koristio latinski jezik. Preporoditelji su htjeli da ga zamijeni hrvatski.",
+      "savjet": "Riječ je o starom jeziku kojim se nekad pisalo u crkvama i školama diljem Europe."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-010",
+      "tezina": "lagano",
+      "pitanje": "Koji je biskup osnovao hrvatsku Akademiju?",
+      "ponudeni": [
+        "Ljudevit Gaj",
+        "Ivan Kukuljević Sakcinski",
+        "Josip Jelačić",
+        "Josip Juraj Strossmayer"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Biskup Josip Juraj Strossmayer osnovao je Akademiju 1866. godine.",
+      "savjet": "Od ponuđenih osoba samo je jedna bila biskup."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-011",
+      "tezina": "lagano",
+      "pitanje": "Tko je bio Josip Jelačić?",
+      "ponudeni": [
+        "Hrvatski kralj",
+        "Biskup u Splitu",
+        "Hrvatski ban",
+        "Pjesnik koji je napisao „Juditu“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Josip Jelačić bio je hrvatski ban. Godine 1848. ukinuo je kmetstvo.",
+      "savjet": "Sjeti se kako se zove glavni trg u Zagrebu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-012",
+      "tezina": "lagano",
+      "pitanje": "Što je ban Josip Jelačić ukinuo 1848. godine?",
+      "ponudeni": [
+        "Hrvatski sabor",
+        "Kmetstvo",
+        "Latinicu",
+        "Novine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ban Jelačić ukinuo je kmetstvo. Seljaci tako više nisu morali raditi za vlastelina.",
+      "savjet": "Razmisli što je seljacima donijelo slobodu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-013",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine Ljudevit Gaj počeo izdavati novine?",
+      "ponudeni": [
+        "1566.",
+        "1102.",
+        "1990.",
+        "1835."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gaj je novine počeo izdavati 1835. godine, u vrijeme preporoda.",
+      "savjet": "Preporod je bio u 19. stoljeću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-014",
+      "tezina": "lagano",
+      "pitanje": "Što znači riječ „preporod“ u nazivu hrvatski narodni preporod?",
+      "ponudeni": [
+        "Narod se ponovno budi i jača svoj jezik i kulturu",
+        "Narod se seli u drugu zemlju",
+        "Narod dobiva prvog kralja",
+        "Narod zaboravlja svoj jezik"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Preporod znači ponovno buđenje. Hrvati su tada počeli više cijeniti i njegovati svoj jezik i kulturu.",
+      "savjet": "Riječ „preporod“ slična je riječi „ponovno rođenje“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-015",
+      "tezina": "lagano",
+      "pitanje": "Kako su se nazivali sudionici hrvatskog narodnog preporoda?",
+      "ponudeni": [
+        "Uskoci",
+        "Frankopani",
+        "Ilirci",
+        "Trpimirovići"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Preporoditelji su se nazivali ilircima, a njihov pokret ilirskim pokretom.",
+      "savjet": "Naziv dolazi od imena starog naroda koji je davno živio na ovim prostorima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-016",
+      "tezina": "lagano",
+      "pitanje": "Za što su se najviše zalagali hrvatski preporoditelji?",
+      "ponudeni": [
+        "Za zatvaranje škola",
+        "Za hrvatski jezik u javnom životu",
+        "Za gradnju novih dvoraca",
+        "Za uvođenje latinskog jezika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Preporoditelji su htjeli da se hrvatski govori i piše u školama, novinama i Saboru.",
+      "savjet": "Sjeti se kako se zove lekcija koju učiš."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-017",
+      "tezina": "lagano",
+      "pitanje": "Na kojem je jeziku Kukuljević Sakcinski 1843. govorio u Saboru?",
+      "ponudeni": [
+        "Na latinskom",
+        "Na njemačkom",
+        "Na talijanskom",
+        "Na hrvatskom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kukuljević je govorio na hrvatskom jeziku, i to prvi put u Saboru.",
+      "savjet": "Taj je govor bio važan korak u borbi za jedan jezik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-018",
+      "tezina": "lagano",
+      "pitanje": "U kojem je gradu bilo središte hrvatskog narodnog preporoda?",
+      "ponudeni": [
+        "U Dubrovniku",
+        "U Zagrebu",
+        "U Splitu",
+        "U Zadru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Središte preporoda bio je Zagreb. Ondje je Gaj izdavao novine i ondje je zasjedao Sabor.",
+      "savjet": "Sjeti se u kojem gradu zasjeda Hrvatski sabor."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-019",
+      "tezina": "lagano",
+      "pitanje": "Što znači da je neki jezik službeni jezik?",
+      "ponudeni": [
+        "Njime govore samo djeca",
+        "Uči se samo u crkvi",
+        "Samo se piše, a ne govori",
+        "Njime se pišu zakoni i služi se u državnim ustanovama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Službeni jezik koristi se u Saboru, uredima, školama i zakonima.",
+      "savjet": "Razmisli na kojem se jeziku pišu zakoni i dokumenti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-020",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine biskup Strossmayer osnovao Akademiju?",
+      "ponudeni": [
+        "1866.",
+        "1493.",
+        "1671.",
+        "1990."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Akademija je osnovana 1866. godine, u 19. stoljeću.",
+      "savjet": "Strossmayer je živio u istom stoljeću kao Gaj i Jelačić."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-021",
+      "tezina": "lagano",
+      "pitanje": "Što je Ljudevit Gaj počeo izdavati 1835. godine?",
+      "ponudeni": [
+        "Prvi ustav",
+        "Kovanice",
+        "Novine",
+        "Zemljovid Hrvatske"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gaj je 1835. počeo izdavati novine. Tako je hrvatski jezik stizao do mnogo ljudi.",
+      "savjet": "Razmisli kako su ljudi tada saznavali vijesti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-022",
+      "tezina": "lagano",
+      "pitanje": "Tko je bio Josip Juraj Strossmayer?",
+      "ponudeni": [
+        "Biskup",
+        "Ban",
+        "Kralj",
+        "Knez"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Josip Juraj Strossmayer bio je biskup i osnivač Akademije.",
+      "savjet": "Sjeti se tko je osnovao Akademiju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-023",
+      "tezina": "lagano",
+      "pitanje": "Tko je napisao pjesmu „Horvatska domovina“ koja je postala hrvatska himna?",
+      "ponudeni": [
+        "Ljudevit Gaj",
+        "Antun Mihanović",
+        "Marko Marulić",
+        "Ivan Kukuljević Sakcinski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pjesmu je napisao Antun Mihanović u vrijeme preporoda. Danas je pjevamo kao himnu „Lijepa naša domovino“.",
+      "savjet": "Pjesnik je bio preporoditelj, ali nije bio vođa preporoda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-024",
+      "tezina": "lagano",
+      "pitanje": "Kojim je pismom pisana Bašćanska ploča i mnoge stare hrvatske knjige?",
+      "ponudeni": [
+        "Latinicom",
+        "Ćirilicom",
+        "Grčkim pismom",
+        "Glagoljicom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bašćanska ploča pisana je glagoljicom, starim pismom kojim su se Hrvati dugo služili.",
+      "savjet": "To pismo je mnogo starije od Gajeve latinice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-025",
+      "tezina": "lagano",
+      "pitanje": "Tko se naziva „ocem hrvatske književnosti“?",
+      "ponudeni": [
+        "Ljudevit Gaj",
+        "Ivan Kukuljević Sakcinski",
+        "Marko Marulić",
+        "Josip Juraj Strossmayer"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Marko Marulić iz Splita naziva se ocem hrvatske književnosti. Napisao je „Juditu“.",
+      "savjet": "Sjeti se pisca iz Splita."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-026",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove razdoblje u 19. stoljeću kad su se Hrvati borili za svoj jezik i kulturu?",
+      "ponudeni": [
+        "Domovinski rat",
+        "Hrvatski narodni preporod",
+        "Doseljenje Hrvata",
+        "Hrvatsko-Ugarsko Kraljevstvo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To razdoblje zovemo hrvatski narodni preporod. Vodio ga je Ljudevit Gaj.",
+      "savjet": "Naziv govori o ponovnom buđenju naroda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-027",
+      "tezina": "lagano",
+      "pitanje": "Po kojem je banu nazvan glavni trg u Zagrebu?",
+      "ponudeni": [
+        "Po Josipu Jelačiću",
+        "Po Nikoli Šubiću Zrinskom",
+        "Po Petru Zrinskom",
+        "Po Ivanu Kukuljeviću Sakcinskom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glavni zagrebački trg zove se Trg bana Jelačića. Na njemu je i njegov kip na konju.",
+      "savjet": "Sjeti se bana koji je ukinuo kmetstvo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-028",
+      "tezina": "lagano",
+      "pitanje": "Koje je godine ban Jelačić ukinuo kmetstvo?",
+      "ponudeni": [
+        "1493.",
+        "1848.",
+        "1925.",
+        "1991."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ban Jelačić ukinuo je kmetstvo 1848., godinu dana nakon što je hrvatski postao službeni jezik.",
+      "savjet": "Jelačić je živio u vrijeme preporoda, u 19. stoljeću."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-029",
+      "tezina": "lagano",
+      "pitanje": "Kako se zvao književni prilog Gajevih novina u kojem su izlazile pjesme?",
+      "ponudeni": [
+        "Danica",
+        "Judita",
+        "Proljeće",
+        "Sloboda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uz Gajeve novine izlazila je „Danica“, u kojoj su objavljivane pjesme i priče na hrvatskom.",
+      "savjet": "Naziv je stara riječ za zvijezdu koja se vidi u zoru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-030",
+      "tezina": "lagano",
+      "pitanje": "Na kojem je jeziku Marko Marulić napisao „Juditu“?",
+      "ponudeni": [
+        "Na latinskom",
+        "Na hrvatskom",
+        "Na njemačkom",
+        "Na francuskom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Marulić je „Juditu“ napisao na hrvatskom jeziku, mnogo prije preporoda.",
+      "savjet": "Sjeti se zašto ga zovemo ocem hrvatske književnosti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-031",
+      "tezina": "srednje",
+      "pitanje": "Koji je par osobe i njezina djela točan?",
+      "ponudeni": [
+        "Ljudevit Gaj – uređenje latinice",
+        "Josip Jelačić – osnivanje Akademije",
+        "Josip Juraj Strossmayer – ukidanje kmetstva",
+        "Ivan Kukuljević Sakcinski – pisanje „Judite“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gaj je uredio latinicu. Akademiju je osnovao Strossmayer, kmetstvo je ukinuo Jelačić, a „Juditu“ je napisao Marulić.",
+      "savjet": "Za svaku osobu prisjeti se po čemu je najpoznatija."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-032",
+      "tezina": "srednje",
+      "pitanje": "Koje je djelo povezano s Josipom Jurjem Strossmayerom?",
+      "ponudeni": [
+        "Ukidanje kmetstva",
+        "Prvi govor na hrvatskom u Saboru",
+        "Osnivanje Akademije",
+        "Uređenje latinice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biskup Strossmayer osnovao je Akademiju 1866. kako bi se razvijale znanost i umjetnost.",
+      "savjet": "Strossmayer je bio biskup koji je mnogo pomagao obrazovanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-033",
+      "tezina": "srednje",
+      "pitanje": "Zašto je Gaj u latinicu uveo slova poput č, ž i š?",
+      "ponudeni": [
+        "Da pismo bude sličnije glagoljici",
+        "Da se lakše piše na engleskom",
+        "Da riječi budu što duže",
+        "Da se hrvatski glasovi pišu lako i svugdje jednako"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prije reforme ljudi su iste glasove pisali na različite načine. Gajeva slova omogućila su da svi pišu jednako.",
+      "savjet": "Razmisli kako bi zapisao riječ „čaša“ da nemaš slova č i š."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-034",
+      "tezina": "srednje",
+      "pitanje": "Kome je najviše koristila odluka bana Jelačića iz 1848. godine?",
+      "ponudeni": [
+        "Plemićima koji su imali mnogo zemlje",
+        "Seljacima koji su dotad bili kmetovi",
+        "Biskupima u crkvama",
+        "Trgovcima u Dubrovniku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jelačić je ukinuo kmetstvo, pa su kmetovi postali slobodni seljaci.",
+      "savjet": "Sjeti se što je Jelačić ukinuo i koga se to ticalo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-035",
+      "tezina": "srednje",
+      "pitanje": "Što je za kmetove značilo ukidanje kmetstva?",
+      "ponudeni": [
+        "Morali su se odseliti iz sela",
+        "Postali su plemići",
+        "Više nisu morali raditi za vlastelina",
+        "Morali su platiti novi porez kralju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kmetovi su dotad morali raditi za vlastelina i davati mu dio uroda. Nakon 1848. bili su slobodni.",
+      "savjet": "Razmisli što znači riječ „ukinuti“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-036",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio u 19. stoljeću?",
+      "ponudeni": [
+        "Krbavska bitka",
+        "Trpimirova darovnica",
+        "Hrvatski postaje službeni jezik",
+        "Sigetska bitka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski je postao službeni jezik 1847., a ta godina pripada 19. stoljeću. Ostali događaji su mnogo stariji.",
+      "savjet": "U 19. stoljeću su godine od 1801. do 1900."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-037",
+      "tezina": "srednje",
+      "pitanje": "U kojem je stoljeću Kukuljević Sakcinski prvi govorio na hrvatskom jeziku u Saboru?",
+      "ponudeni": [
+        "U 18. stoljeću",
+        "U 19. stoljeću",
+        "U 20. stoljeću",
+        "U 14. stoljeću"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kukuljević je govorio 1843. godine. Godine od 1801. do 1900. čine 19. stoljeće.",
+      "savjet": "Prvo se sjeti godine govora, a onda odredi stoljeće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-038",
+      "tezina": "srednje",
+      "pitanje": "Koji se od ovih događaja dogodio prije odluke Sabora iz 1847. godine?",
+      "ponudeni": [
+        "Jelačić ukida kmetstvo",
+        "Osnivanje Akademije",
+        "Osamostaljenje Hrvatske",
+        "Gaj počinje izdavati novine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gaj je novine počeo izdavati 1835., a to je prije 1847. Ostali događaji dogodili su se poslije.",
+      "savjet": "Prisjeti se godine svakog događaja i usporedi je s 1847."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto su preporoditelji izdavali novine na hrvatskom jeziku?",
+      "ponudeni": [
+        "Da što više ljudi čita i piše hrvatski",
+        "Da bi lakše trgovali morem",
+        "Da bi ljudi naučili latinski",
+        "Da bi zabavili kraljeve"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Novine su širile hrvatski jezik i vijesti među ljudima. Tako je jačala ljubav prema vlastitom jeziku.",
+      "savjet": "Razmisli što je bio glavni cilj preporoditelja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-040",
+      "tezina": "srednje",
+      "pitanje": "Zašto je govor Ivana Kukuljevića Sakcinskog u Saboru 1843. bio poseban?",
+      "ponudeni": [
+        "Prvi je put netko u Saboru govorio hrvatski",
+        "Bio je to prvi sastanak Sabora uopće",
+        "Tada je Hrvatska dobila prvog kralja",
+        "Govor je bio na latinskom jeziku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Saboru se tada govorilo latinski. Kukuljević je prvi progovorio na hrvatskom jeziku.",
+      "savjet": "Sjeti se koji se jezik tada službeno koristio u Saboru."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-041",
+      "tezina": "srednje",
+      "pitanje": "Koja je od ovih osoba bila hrvatski ban u vrijeme preporoda?",
+      "ponudeni": [
+        "Ljudevit Gaj",
+        "Josip Juraj Strossmayer",
+        "Josip Jelačić",
+        "Ivan Kukuljević Sakcinski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Josip Jelačić bio je ban. Gaj je vodio preporod, Strossmayer je bio biskup, a Kukuljević je govorio u Saboru.",
+      "savjet": "Sjeti se po kome je nazvan glavni trg u Zagrebu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-042",
+      "tezina": "srednje",
+      "pitanje": "Kako se zovu domoljubne pjesme preporoditelja koje su trebale „probuditi“ narod?",
+      "ponudeni": [
+        "Uspavanke",
+        "Ojkalice",
+        "Tužaljke",
+        "Budnice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Budnice su domoljubne pjesme. Trebale su probuditi ljubav prema domovini i hrvatskom jeziku.",
+      "savjet": "Naziv pjesme povezan je s glagolom „buditi“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-043",
+      "tezina": "srednje",
+      "pitanje": "Koju je poznatu budnicu napisao Ljudevit Gaj?",
+      "ponudeni": [
+        "„Još Hrvatska ni propala“",
+        "„Lijepa naša domovino“",
+        "„Judita“",
+        "„Sloboda se ne prodaje“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gaj je napisao budnicu „Još Hrvatska ni propala“. Njome je hrabrio Hrvate da čuvaju svoj jezik i domovinu.",
+      "savjet": "Budnica govori o tome da Hrvatska i dalje postoji i živi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-044",
+      "tezina": "srednje",
+      "pitanje": "Čemu je trebala služiti Akademija koju je osnovao Strossmayer?",
+      "ponudeni": [
+        "Obrani granica",
+        "Razvoju znanosti i umjetnosti",
+        "Trgovini morem",
+        "Gradnji cesta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Akademija okuplja znanstvenike i umjetnike. Danas se zove Hrvatska akademija znanosti i umjetnosti.",
+      "savjet": "Razmisli tko se okuplja u akademiji."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-045",
+      "tezina": "srednje",
+      "pitanje": "Koji je par godine i događaja točan?",
+      "ponudeni": [
+        "1847. – hrvatski postaje službeni jezik",
+        "1866. – prvi govor na hrvatskom u Saboru",
+        "1835. – ukidanje kmetstva",
+        "1843. – osnivanje Akademije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski je postao službeni jezik 1847. Kmetstvo je ukinuto 1848., govor je bio 1843., a Akademija je osnovana 1866.",
+      "savjet": "Prisjeti se najvažnije godine u borbi za hrvatski jezik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-046",
+      "tezina": "srednje",
+      "pitanje": "Koji se događaj dogodio godinu dana nakon što je hrvatski postao službeni jezik?",
+      "ponudeni": [
+        "Gaj počinje izdavati novine",
+        "Kukuljević govori u Saboru",
+        "Osnovana je Akademija",
+        "Jelačić ukida kmetstvo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatski je postao službeni 1847., a Jelačić je ukinuo kmetstvo 1848., godinu dana poslije.",
+      "savjet": "Godini 1847. dodaj jedan i potraži događaj iz te godine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-047",
+      "tezina": "srednje",
+      "pitanje": "Zašto je bilo važno da hrvatski postane službeni jezik?",
+      "ponudeni": [
+        "Hrvati su tada prestali učiti druge jezike",
+        "Ljudi su u Saboru, uredima i školama mogli koristiti svoj jezik",
+        "Latinski se više nigdje nije smio učiti",
+        "Hrvatska je tada dobila prvog kralja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Službeni jezik koristi se u državnim ustanovama. Hrvati su tako svoje poslove mogli obavljati na svom jeziku.",
+      "savjet": "Razmisli gdje se sve koristi službeni jezik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-048",
+      "tezina": "srednje",
+      "pitanje": "Marko Marulić pisao je na hrvatskom jeziku mnogo prije preporoda. Iz kojeg je grada bio?",
+      "ponudeni": [
+        "Iz Zagreba",
+        "Iz Dubrovnika",
+        "Iz Splita",
+        "Iz Osijeka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Marko Marulić bio je iz Splita. Zovemo ga ocem hrvatske književnosti.",
+      "savjet": "Sjeti se dalmatinskog grada u kojem je nastala „Judita“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-049",
+      "tezina": "srednje",
+      "pitanje": "Kako su preporoditelji širili hrvatski jezik među ljudima?",
+      "ponudeni": [
+        "Zabranjivali su knjige",
+        "Izdavali su novine i knjige na hrvatskom",
+        "Gradili su utvrde",
+        "Kovali su novac"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Preporoditelji su izdavali novine, knjige i pjesme na hrvatskom jeziku da ih ljudi čitaju.",
+      "savjet": "Sjeti se što je Gaj počeo izdavati 1835."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-050",
+      "tezina": "srednje",
+      "pitanje": "U kojem je stoljeću osnovana Akademija biskupa Strossmayera?",
+      "ponudeni": [
+        "U 18. stoljeću",
+        "U 20. stoljeću",
+        "U 19. stoljeću",
+        "U 17. stoljeću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Akademija je osnovana 1866. Ta godina je između 1801. i 1900., pa pripada 19. stoljeću.",
+      "savjet": "Sjeti se godine osnivanja i provjeri između kojih je godina stoljeća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-051",
+      "tezina": "srednje",
+      "pitanje": "Tko su bili kmetovi?",
+      "ponudeni": [
+        "Seljaci koji su obrađivali vlastelinovu zemlju i davali mu dio uroda",
+        "Plemići koji su imali dvorce",
+        "Vojnici koji su čuvali granicu",
+        "Svećenici koji su pisali glagoljicom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kmetovi su bili seljaci ovisni o vlastelinu. Za njega su radili i davali mu dio uroda.",
+      "savjet": "Sjeti se koga je oslobodio ban Jelačić."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-052",
+      "tezina": "srednje",
+      "pitanje": "Kojim su pismom pisane Gajeve novine?",
+      "ponudeni": [
+        "Latinicom",
+        "Glagoljicom",
+        "Ćirilicom",
+        "Grčkim pismom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gajeve novine pisane su latinicom, a s vremenom i slovima koja je Gaj uveo, poput č i š.",
+      "savjet": "Sjeti se koje je pismo Gaj uređivao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-053",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ovih ljudi živio u 19. stoljeću?",
+      "ponudeni": [
+        "Marko Marulić",
+        "Kralj Tomislav",
+        "Ljudevit Gaj",
+        "Knez Trpimir"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljudevit Gaj živio je u 19. stoljeću i vodio preporod. Ostali su živjeli mnogo ranije.",
+      "savjet": "Sjeti se tko je vodio preporod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-054",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ovih ljudi živio mnogo prije hrvatskog narodnog preporoda?",
+      "ponudeni": [
+        "Ljudevit Gaj",
+        "Ivan Kukuljević Sakcinski",
+        "Josip Jelačić",
+        "Marko Marulić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Marko Marulić živio je stoljećima prije preporoda. Gaj, Kukuljević i Jelačić živjeli su u 19. stoljeću.",
+      "savjet": "Tri osobe djelovale su u istom razdoblju, a jedna mnogo ranije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-055",
+      "tezina": "srednje",
+      "pitanje": "Zašto se preporod naziva „narodnim“?",
+      "ponudeni": [
+        "Vodio ga je hrvatski kralj",
+        "Borio se za jezik i kulturu cijelog hrvatskog naroda",
+        "Dogodio se samo u jednom selu",
+        "Zabranio je pisanje na hrvatskom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Preporod se borio za jezik, kulturu i prava cijeloga hrvatskog naroda.",
+      "savjet": "Razmisli za koga su se preporoditelji borili."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-056",
+      "tezina": "srednje",
+      "pitanje": "Koji je par osobe i godine točan?",
+      "ponudeni": [
+        "Ljudevit Gaj – 1866.",
+        "Josip Jelačić – 1835.",
+        "Ivan Kukuljević Sakcinski – 1843.",
+        "Josip Juraj Strossmayer – 1848."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kukuljević je 1843. govorio u Saboru. Gaj je vezan uz 1835., Jelačić uz 1848., a Strossmayer uz 1866.",
+      "savjet": "Za svaku osobu prisjeti se njezina najvažnijeg djela i godine."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-057",
+      "tezina": "srednje",
+      "pitanje": "Koja je zadaća Hrvatskog sabora?",
+      "ponudeni": [
+        "Izdavati novine",
+        "Graditi crkve",
+        "Voditi trgovinu",
+        "Donositi važne odluke i zakone za Hrvatsku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sabor donosi zakone i važne odluke. Tako je 1847. odlučio da hrvatski postane službeni jezik.",
+      "savjet": "Sjeti se kakvu je odluku Sabor donio 1847."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-058",
+      "tezina": "srednje",
+      "pitanje": "Zašto su preporoditelji smatrali da je jezik toliko važan?",
+      "ponudeni": [
+        "Jezik povezuje ljude jednog naroda",
+        "Jezik se može prodati za zlato",
+        "Jezik je važan samo u školi",
+        "Jezikom se služe samo pisci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zajednički jezik povezuje ljude i čuva njihovu kulturu. Zato su se preporoditelji borili za hrvatski.",
+      "savjet": "Razmisli što ljude jednog naroda povezuje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-059",
+      "tezina": "srednje",
+      "pitanje": "U koje razdoblje pripada Gajeva reforma latinice?",
+      "ponudeni": [
+        "U hrvatski narodni preporod",
+        "U vrijeme Domovinskog rata",
+        "U vrijeme hrvatskih narodnih vladara",
+        "U vrijeme osmanskih provala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gaj je uredio latinicu u vrijeme hrvatskog narodnog preporoda, u 19. stoljeću.",
+      "savjet": "Sjeti se kojem je pokretu Gaj bio na čelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-060",
+      "tezina": "srednje",
+      "pitanje": "Kad pišeš slova č, ć, ž i š, kojeg se preporoditelja možeš sjetiti?",
+      "ponudeni": [
+        "Ivana Kukuljevića Sakcinskog",
+        "Ljudevita Gaja",
+        "Josipa Jelačića",
+        "Antuna Mihanovića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudevit Gaj uredio je latinicu i uveo ta slova. Njima i danas pišemo.",
+      "savjet": "Sjeti se tko je uredio hrvatsku latinicu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-061",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od Kukuljevićeva govora u Saboru (1843.) do odluke da hrvatski postane službeni jezik (1847.)?",
+      "ponudeni": [
+        "3 godine",
+        "4 godine",
+        "5 godina",
+        "6 godina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od 1843. do 1847. prošle su 4 godine, jer je 1847 − 1843 = 4.",
+      "savjet": "Od veće godine oduzmi manju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-062",
+      "tezina": "tesko",
+      "pitanje": "Gaj je novine počeo izdavati 1835., a hrvatski je postao službeni jezik 1847. Koliko je godina prošlo između ta dva događaja?",
+      "ponudeni": [
+        "10 godina",
+        "11 godina",
+        "12 godina",
+        "13 godina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "1847 − 1835 = 12, pa je između ta dva događaja prošlo 12 godina.",
+      "savjet": "Od godine kasnijeg događaja oduzmi godinu ranijeg."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-063",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina nakon odluke Sabora iz 1847. osnovana Akademija biskupa Strossmayera?",
+      "ponudeni": [
+        "19 godina",
+        "21 godina",
+        "9 godina",
+        "29 godina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Akademija je osnovana 1866. godine, a 1866 − 1847 = 19.",
+      "savjet": "Prvo se sjeti godine osnivanja Akademije, a onda oduzmi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-064",
+      "tezina": "tesko",
+      "pitanje": "Poredaj događaje od najstarijeg: A) Kukuljević govori hrvatski u Saboru, B) Gaj počinje izdavati novine, C) hrvatski postaje službeni jezik.",
+      "ponudeni": [
+        "A, B, C",
+        "C, A, B",
+        "B, C, A",
+        "B, A, C"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gaj je novine počeo izdavati 1835., Kukuljević je govorio 1843., a hrvatski je postao službeni 1847.",
+      "savjet": "Uz svaki događaj zapiši godinu pa ih usporedi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-065",
+      "tezina": "tesko",
+      "pitanje": "Poredaj događaje od najstarijeg: A) Jelačić ukida kmetstvo, B) osnovana je Akademija, C) Gaj počinje izdavati novine.",
+      "ponudeni": [
+        "A, C, B",
+        "C, A, B",
+        "C, B, A",
+        "B, A, C"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gaj je novine počeo izdavati 1835., Jelačić je ukinuo kmetstvo 1848., a Akademija je osnovana 1866.",
+      "savjet": "Uz svaki događaj zapiši godinu pa ih poredaj od najmanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-066",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Ljudevit Gaj bio je hrvatski kralj.",
+        "Kukuljević Sakcinski osnovao je Akademiju.",
+        "Hrvatski je postao službeni jezik u 19. stoljeću.",
+        "Ban Jelačić uredio je latinicu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski je postao službeni 1847., u 19. stoljeću. Gaj je uredio latinicu, a Akademiju je osnovao Strossmayer.",
+      "savjet": "Provjeri svaku tvrdnju: odgovara li osoba onome što je stvarno učinila?"
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-067",
+      "tezina": "tesko",
+      "pitanje": "Koji je od ovih događaja najbliži našem vremenu?",
+      "ponudeni": [
+        "Gaj počinje izdavati novine",
+        "Kukuljević govori u Saboru",
+        "Hrvatski postaje službeni jezik",
+        "Osnivanje Akademije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Akademija je osnovana 1866., a to je najkasnija od ovih godina (1835., 1843., 1847., 1866.).",
+      "savjet": "Najbliži našem vremenu je događaj s najvećom godinom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-068",
+      "tezina": "tesko",
+      "pitanje": "Koji se od ovih događaja dogodio najranije?",
+      "ponudeni": [
+        "Gaj počinje izdavati novine",
+        "Jelačić ukida kmetstvo",
+        "Kukuljević govori u Saboru",
+        "Osnivanje Akademije"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gaj je novine počeo izdavati 1835., prije svih ostalih događaja (1843., 1848., 1866.).",
+      "savjet": "Najraniji događaj ima najmanju godinu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-069",
+      "tezina": "tesko",
+      "pitanje": "Hrvatski je postao službeni jezik 1847. Koja će se obljetnica tog događaja slaviti 2047. godine?",
+      "ponudeni": [
+        "100. obljetnica",
+        "150. obljetnica",
+        "200. obljetnica",
+        "250. obljetnica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "2047 − 1847 = 200, pa će se 2047. slaviti 200. obljetnica.",
+      "savjet": "Od 2047 oduzmi 1847."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-070",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od Gajevih prvih novina (1835.) do osnivanja Akademije (1866.)?",
+      "ponudeni": [
+        "21 godina",
+        "31 godina",
+        "29 godina",
+        "41 godina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1866 − 1835 = 31, pa je prošla 31 godina.",
+      "savjet": "Od kasnije godine oduzmi raniju, pa provjeri zbrajanjem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-071",
+      "tezina": "tesko",
+      "pitanje": "U jednoj staroj hrvatskoj knjizi pisanoj latinicom u 18. stoljeću nema slova č, ž ni š. Što je najvjerojatniji razlog?",
+      "ponudeni": [
+        "Ta su slova tada bila zabranjena",
+        "U 18. stoljeću nije bilo hrvatskog jezika",
+        "Knjigu je napisao Ljudevit Gaj",
+        "Knjiga je nastala prije Gajeve reforme latinice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gaj je ta slova uveo tek u 19. stoljeću. Prije toga glasovi su se pisali drukčije.",
+      "savjet": "Usporedi kada je knjiga nastala i kada je bio preporod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-072",
+      "tezina": "tesko",
+      "pitanje": "Kukuljević je 1843. govorio hrvatski u Saboru, iako hrvatski tada još nije bio službeni jezik. Što to pokazuje?",
+      "ponudeni": [
+        "Preporoditelji su se hrabro zalagali za svoj jezik",
+        "Kukuljević nije znao nijedan drugi jezik",
+        "Hrvatski je tada već bio službeni jezik",
+        "Sabor tada nije zasjedao"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kukuljević je hrabro progovorio hrvatski prije nego što je to bilo službeno. Četiri godine kasnije Sabor je hrvatski proglasio službenim.",
+      "savjet": "Razmisli zašto je taj govor bio hrabar korak."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-073",
+      "tezina": "tesko",
+      "pitanje": "Koja su se dva događaja dogodila u razmaku od samo četiri godine?",
+      "ponudeni": [
+        "Kukuljevićev govor i odluka o službenom jeziku",
+        "Gajeve prve novine i osnivanje Akademije",
+        "Ukidanje kmetstva i osnivanje Akademije",
+        "Gajeve prve novine i ukidanje kmetstva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kukuljević je govorio 1843., a odluka o službenom jeziku donesena je 1847. Razlika je 4 godine.",
+      "savjet": "Za svaki par izračunaj razliku između godina."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-074",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko Ljudevitu Gaju, Ivanu Kukuljeviću Sakcinskom i Josipu Jurju Strossmayeru?",
+      "ponudeni": [
+        "Svi su se u 19. stoljeću zalagali za hrvatski jezik i kulturu",
+        "Svi su bili biskupi",
+        "Svi su živjeli u 11. stoljeću",
+        "Svi su bili hrvatski banovi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sva trojica živjela su u 19. stoljeću i radila za hrvatski jezik, kulturu i znanost.",
+      "savjet": "Sjeti se što je svaki od njih učinio i u kojem je stoljeću živio."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-075",
+      "tezina": "tesko",
+      "pitanje": "Koji je od ovih događaja iz istog stoljeća kao Gajeva reforma latinice?",
+      "ponudeni": [
+        "Sigetska bitka",
+        "Trpimirova darovnica",
+        "Osnivanje Akademije",
+        "Krunidba kralja Tomislava"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gajeva reforma i osnivanje Akademije (1866.) pripadaju 19. stoljeću. Ostali su događaji mnogo stariji.",
+      "savjet": "Prvo odredi stoljeće Gajeve reforme, a onda potraži događaj iz istog stoljeća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-076",
+      "tezina": "tesko",
+      "pitanje": "Zašto godina 1847. pripada 19. stoljeću, a ne 18. stoljeću?",
+      "ponudeni": [
+        "Jer počinje brojkama 1 i 8",
+        "Jer 19. stoljeće čine godine od 1801. do 1900.",
+        "Jer se stoljeća broje od 1847.",
+        "Jer 19. stoljeće čine godine od 1900. do 1999."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stoljeće ima 100 godina. Godine od 1801. do 1900. čine 19. stoljeće, pa i 1847. pripada njemu.",
+      "savjet": "Sjeti se da je godina 2026. u 21. stoljeću, a ne u 20."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-077",
+      "tezina": "tesko",
+      "pitanje": "Zamisli da je 1840. godina i da u Zagrebu želiš čitati vijesti na hrvatskom. Što od ovoga tada već postoji?",
+      "ponudeni": [
+        "Akademija biskupa Strossmayera",
+        "Odluka da je hrvatski službeni jezik",
+        "Gajeve novine",
+        "Sloboda kmetova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gajeve novine izlazile su od 1835. Hrvatski je postao službeni 1847., kmetstvo je ukinuto 1848., a Akademija je osnovana 1866.",
+      "savjet": "Usporedi godinu svakog događaja s godinom 1840."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-078",
+      "tezina": "tesko",
+      "pitanje": "Zamisli da je 1850. godina. Što od ovoga tada još nije postojalo?",
+      "ponudeni": [
+        "Gajeva latinica",
+        "Hrvatski kao službeni jezik",
+        "Sloboda kmetova",
+        "Akademija biskupa Strossmayera"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Akademija je osnovana tek 1866. Gajeva latinica, službeni hrvatski (1847.) i sloboda kmetova (1848.) već su postojali.",
+      "savjet": "Potraži događaj čija je godina veća od 1850."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-079",
+      "tezina": "tesko",
+      "pitanje": "Kralj Tomislav okrunjen je 925., a hrvatski je postao službeni jezik 1847. Koliko je otprilike godina između ta dva događaja?",
+      "ponudeni": [
+        "Oko 500 godina",
+        "Više od 900 godina",
+        "Oko 100 godina",
+        "Više od 2000 godina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "1847 − 925 = 922, a to je više od 900 godina.",
+      "savjet": "Od 1847 oduzmi 925."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-080",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o borbi za hrvatski jezik točna?",
+      "ponudeni": [
+        "Kukuljevićev govor u Saboru bio je prije odluke o službenom jeziku.",
+        "Hrvatski je postao službeni prije Gajevih prvih novina.",
+        "Akademija je osnovana prije Kukuljevićeva govora.",
+        "Gajeve prve novine izašle su u 20. stoljeću."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kukuljević je govorio 1843., a hrvatski je postao službeni 1847. Ostale tvrdnje ne odgovaraju redoslijedu godina.",
+      "savjet": "Za svaku tvrdnju usporedi godine događaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-081",
+      "tezina": "tesko",
+      "pitanje": "Marko Marulić pisao je na hrvatskom jeziku stoljećima prije preporoda. Što nam to pokazuje?",
+      "ponudeni": [
+        "Hrvatski jezik nastao je tek u 19. stoljeću",
+        "Marulić je bio vođa preporoda",
+        "Marulić je uredio latinicu",
+        "Hrvati su na svom jeziku pisali i mnogo prije 19. stoljeća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatski se jezik pisao i prije preporoda. Preporoditelji su se borili da postane i službeni jezik.",
+      "savjet": "Razmisli je li hrvatski jezik postojao prije Gaja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-082",
+      "tezina": "tesko",
+      "pitanje": "Poredaj od najstarijeg: A) Gajeva reforma latinice, B) Bašćanska ploča, C) Marulićeva „Judita“.",
+      "ponudeni": [
+        "A, B, C",
+        "C, B, A",
+        "B, C, A",
+        "B, A, C"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bašćanska ploča nastala je oko 1100., Marulić je živio prije preporoda, a Gaj je uredio latinicu u 19. stoljeću.",
+      "savjet": "Sjeti se koje je od toga pisano glagoljicom, a koje je vezano uz preporod."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-083",
+      "tezina": "tesko",
+      "pitanje": "Razred izrađuje plakat „Velikani hrvatskog narodnog preporoda“. Koji par osoba pripada na plakat?",
+      "ponudeni": [
+        "Ljudevit Gaj i Ivan Kukuljević Sakcinski",
+        "Kralj Tomislav i Ljudevit Gaj",
+        "Marko Marulić i knez Trpimir",
+        "Kralj Zvonimir i Kukuljević Sakcinski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gaj i Kukuljević djelovali su u preporodu u 19. stoljeću. Tomislav, Zvonimir, Trpimir i Marulić živjeli su mnogo ranije.",
+      "savjet": "Obje osobe u paru moraju biti iz 19. stoljeća."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-084",
+      "tezina": "tesko",
+      "pitanje": "Koliko je godina prošlo od Jelačićeva ukidanja kmetstva (1848.) do osnivanja Akademije (1866.)?",
+      "ponudeni": [
+        "16 godina",
+        "28 godina",
+        "8 godina",
+        "18 godina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "1866 − 1848 = 18, pa je prošlo 18 godina.",
+      "savjet": "Oduzmi godine, a rezultat provjeri zbrajanjem."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-085",
+      "tezina": "tesko",
+      "pitanje": "Zašto se godina 1847. smatra velikom pobjedom u borbi za hrvatski jezik?",
+      "ponudeni": [
+        "Tada je osnovana Akademija",
+        "Tada je Gaj izdao prve novine",
+        "Sabor je tada odlučio da hrvatski postane službeni jezik",
+        "Tada je ukinuto kmetstvo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Godine 1847. Hrvatski sabor proglasio je hrvatski službenim jezikom umjesto latinskog.",
+      "savjet": "Sjeti se što su preporoditelji najviše željeli za svoj jezik."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-086",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se najbolje vidi da je hrvatski službeni jezik u Hrvatskoj?",
+      "ponudeni": [
+        "Djeca se igraju na hrvatskom",
+        "Zakoni i odluke Sabora pišu se na hrvatskom",
+        "Ljudi pjevaju pjesme na hrvatskom",
+        "Obitelji kod kuće govore hrvatski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Službeni jezik koristi se u državnim poslovima: u zakonima, Saboru i uredima.",
+      "savjet": "Razmisli po čemu se službeni jezik razlikuje od jezika kojim se govori kod kuće."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto su preporoditelji pisali budnice?",
+      "ponudeni": [
+        "Da bi u ljudima probudili ljubav prema domovini i jeziku",
+        "Da bi zabavili strane vojnike",
+        "Da bi ljudi lakše naučili latinski",
+        "Da bi uspavali djecu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Budnice su domoljubne pjesme. Trebale su probuditi narod da cijeni svoj jezik i domovinu.",
+      "savjet": "Naziv „budnica“ dolazi od glagola „buditi“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-088",
+      "tezina": "tesko",
+      "pitanje": "Učenik kaže: „Ban Jelačić ukinuo je kmetstvo prije nego što je hrvatski postao službeni jezik.“ Je li u pravu?",
+      "ponudeni": [
+        "Jest, kmetstvo je ukinuto godinu dana prije",
+        "Nije, kmetstvo je ukinuto stoljeće poslije",
+        "Nije, kmetstvo je ukinuto godinu dana poslije",
+        "Jest, kmetstvo je ukinuto 1835."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski je postao službeni 1847., a kmetstvo je ukinuto 1848., dakle godinu dana poslije.",
+      "savjet": "Usporedi godine 1847. i 1848."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-089",
+      "tezina": "tesko",
+      "pitanje": "Koja dva događaja dijeli točno jedna godina?",
+      "ponudeni": [
+        "Gajeve prve novine i Kukuljevićev govor",
+        "Kukuljevićev govor i osnivanje Akademije",
+        "Odluka o službenom jeziku i ukidanje kmetstva",
+        "Gajeve prve novine i osnivanje Akademije"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Odluka o službenom jeziku donesena je 1847., a kmetstvo je ukinuto 1848. Razlika je jedna godina.",
+      "savjet": "Uz svaki događaj zapiši godinu i izračunaj razlike."
+    },
+    {
+      "id": "4-priroda-i-drustvo-borba-za-hrvatski-jezik-090",
+      "tezina": "tesko",
+      "pitanje": "Što je preporoditeljima u 19. stoljeću najviše pomoglo da hrvatski jezik dođe do mnogo ljudi?",
+      "ponudeni": [
+        "Televizija",
+        "Internet",
+        "Radio",
+        "Tiskane novine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U 19. stoljeću nije bilo radija, televizije ni interneta. Vijesti i pjesme širile su se tiskanim novinama.",
+      "savjet": "Razmisli što je od ponuđenog postojalo u 19. stoljeću."
+    }
+  ]
+}

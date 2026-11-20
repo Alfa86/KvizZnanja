@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "zivot-u-proslosti",
+  "pitanja": [
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva zajednica u kojoj je nekad više obitelji živjelo i radilo zajedno?",
+      "ponudeni": [
+        "Općina",
+        "Zadruga",
+        "Škola",
+        "Udruga"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U obiteljskoj zadruzi više je srodnih obitelji živjelo pod istim krovom i zajedno obrađivalo zemlju.",
+      "savjet": "Sjeti se riječi koja dolazi od riječi „zajedno“ i „družiti se“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-002",
+      "tezina": "lagano",
+      "pitanje": "Tko je nekad vodio obiteljsku zadrugu?",
+      "ponudeni": [
+        "Učitelj",
+        "Svećenik",
+        "Načelnik",
+        "Domaćin"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zadrugu je vodio domaćin. On je raspoređivao poslove i brinuo se o cijelom imanju.",
+      "savjet": "Potraži osobu koja je živjela u zadruzi i bila glavna u kući."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-003",
+      "tezina": "lagano",
+      "pitanje": "Gdje je u prošlosti živjela većina stanovnika Hrvatske?",
+      "ponudeni": [
+        "Na selu",
+        "U velikim gradovima",
+        "Na brodovima",
+        "U dvorcima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nekad je većina ljudi živjela na selu i bavila se poljoprivredom i stočarstvom.",
+      "savjet": "Razmisli gdje su ljudi obrađivali polja i čuvali stoku."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove mjesto u staroj kući na kojem se ložila vatra i kuhalo jelo?",
+      "ponudeni": [
+        "Hladnjak",
+        "Električni štednjak",
+        "Ognjište",
+        "Mikrovalna pećnica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na ognjištu je gorjela vatra. Ono je grijalo kuću, a na njemu se i kuhalo.",
+      "savjet": "Sjeti se da nekad u kućama nije bilo struje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-005",
+      "tezina": "lagano",
+      "pitanje": "Čime su ljudi nekad navečer osvjetljavali kuće?",
+      "ponudeni": [
+        "Električnim žaruljama",
+        "Svijećama i petrolejkama",
+        "Džepnim svjetiljkama",
+        "Uličnim svjetiljkama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prije struje ljudi su svjetlo dobivali od plamena svijeća i petrolejki.",
+      "savjet": "Potraži svjetlo koje gori plamenom, a ne radi na struju ili baterije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-006",
+      "tezina": "lagano",
+      "pitanje": "Odakle su ljudi na selu nekad najčešće donosili vodu?",
+      "ponudeni": [
+        "Iz bunara ili izvora",
+        "Iz slavine u kupaonici",
+        "Iz trgovine u bocama",
+        "Iz vodovoda u svakoj sobi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U kućama nekad nije bilo vodovoda, pa se voda nosila iz bunara, izvora ili potoka.",
+      "savjet": "Sjeti se da nekad u kućama nije bilo cijevi s vodom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-007",
+      "tezina": "lagano",
+      "pitanje": "Kojim su se prijevozom ljudi na selu nekad najčešće služili?",
+      "ponudeni": [
+        "Automobilom",
+        "Brzim vlakom",
+        "Zrakoplovom",
+        "Kolima koja vuku konji ili volovi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Seljaci nekad nisu imali automobile, pa su se vozili kolima koja su vukle domaće životinje.",
+      "savjet": "Razmisli koje su domaće životinje mogle vući teret."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-008",
+      "tezina": "lagano",
+      "pitanje": "Od čega su ljudi nekad sami izrađivali tkaninu za odjeću?",
+      "ponudeni": [
+        "Od plastike",
+        "Od lana, konoplje i vune",
+        "Od stakla",
+        "Od papira"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudi su uzgajali lan i konoplju i držali ovce. Od njihovih niti izrađivali su tkaninu.",
+      "savjet": "Razmisli što se moglo uzgojiti na polju ili dobiti od ovaca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-009",
+      "tezina": "lagano",
+      "pitanje": "Na čemu su žene nekad tkale platno?",
+      "ponudeni": [
+        "Na šivaćem stroju",
+        "Na računalu",
+        "Na tkalačkom stanu",
+        "U mlinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Platno se tkalo na drvenom tkalačkom stanu, nit po nit.",
+      "savjet": "Potraži napravu čiji naziv dolazi od riječi „tkati“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-010",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove običaj zimskih večernjih okupljanja na kojima su žene prele vunu, pjevale i pričale?",
+      "ponudeni": [
+        "Žetva",
+        "Berba",
+        "Prelo",
+        "Sajam"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prelo je dobilo ime po predenju. Zimi su se ljudi okupljali, prele vunu ili lan, pjevali i pričali.",
+      "savjet": "Naziv običaja sličan je glagolu kojim se kaže kako se od vune radi nit."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-011",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva skupljanje zrelog grožđa u jesen?",
+      "ponudeni": [
+        "Žetva",
+        "Berba",
+        "Kosidba",
+        "Sjetva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Berba je skupljanje zrelog grožđa i drugih plodova. Nekad je bila prilika za zajednički rad i veselje.",
+      "savjet": "Sjeti se glagola koji kažemo kad skupljamo plodove s biljke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-012",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva skupljanje zrelog žita ljeti?",
+      "ponudeni": [
+        "Berba",
+        "Sjetva",
+        "Žetva",
+        "Oranje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Žetva je skupljanje zrelog žita. Nekad se žito želo ručno, srpom.",
+      "savjet": "Razmisli kojim se glagolom kaže rezanje zrelog žita."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-013",
+      "tezina": "lagano",
+      "pitanje": "Kojim su alatom ljudi nekad ručno želi žito?",
+      "ponudeni": [
+        "Srpom",
+        "Kombajnom",
+        "Traktorom",
+        "Motornom pilom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Srp je zakrivljeni nož kojim se rukom želo žito. Strojevi su došli mnogo kasnije.",
+      "savjet": "Potraži alat koji se drži u ruci i ne treba gorivo ni struju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-014",
+      "tezina": "lagano",
+      "pitanje": "Kako su se nekad obavljali poslovi na selu?",
+      "ponudeni": [
+        "Uz pomoć strojeva na struju",
+        "Radom tvorničkih radnika iz grada",
+        "Uz pomoć robota i traktora",
+        "Ručno i uz pomoć životinja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nekad nije bilo strojeva, pa su ljudi radili rukama, a teške terete vukli su volovi i konji.",
+      "savjet": "Sjeti se da nekad na selu nije bilo struje ni strojeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-015",
+      "tezina": "lagano",
+      "pitanje": "Gdje se nekad žito mljelo u brašno?",
+      "ponudeni": [
+        "U mlinu (vodenici)",
+        "U pekarnici u gradu",
+        "U kovačnici",
+        "U trgovini"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Žito se nosilo u mlin. Vodenicu je pokretala voda potoka ili rijeke.",
+      "savjet": "Sjeti se građevine uz potok čije je kamenje usitnjavalo zrnje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-016",
+      "tezina": "lagano",
+      "pitanje": "Koja je domaća životinja nekad često vukla plug pri oranju?",
+      "ponudeni": [
+        "Mačka",
+        "Vol",
+        "Ovca",
+        "Koza"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Volovi su snažni i izdržljivi, pa su vukli plug i teška kola.",
+      "savjet": "Potraži najsnažniju životinju među ponuđenima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju načini slavlja i ponašanja koji se u nekom kraju prenose s naraštaja na naraštaj?",
+      "ponudeni": [
+        "Zakoni",
+        "Propisi",
+        "Izumi",
+        "Običaji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Običaji su ustaljeni načini slavlja i ponašanja koje mlađi nauče od starijih.",
+      "savjet": "Sjeti se riječi kojom opisujemo ono što se „obično“ radi za blagdane."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-018",
+      "tezina": "lagano",
+      "pitanje": "Što je prošlost?",
+      "ponudeni": [
+        "Ono što će se tek dogoditi",
+        "Ono što se upravo događa",
+        "Ono što se već dogodilo",
+        "Ono što se samo zamišlja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prošlost je vrijeme koje je već prošlo. Ono što se događa sada je sadašnjost, a ono što će doći budućnost.",
+      "savjet": "Riječ prošlost dolazi od glagola „proći“."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-019",
+      "tezina": "lagano",
+      "pitanje": "Tko je nekad najčešće živio zajedno u jednoj seoskoj kući?",
+      "ponudeni": [
+        "Djedovi, bake, roditelji i djeca",
+        "Samo roditelji i jedno dijete",
+        "Samo djeca bez odraslih",
+        "Samo djedovi i bake"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nekad je u istoj kući živjelo više naraštaja: djedovi i bake, roditelji i djeca.",
+      "savjet": "Sjeti se da su seoske obitelji nekad bile vrlo velike."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-020",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove tradicionalna odjeća nekog kraja koja se danas nosi na smotrama folklora?",
+      "ponudeni": [
+        "Trenirka",
+        "Školska uniforma",
+        "Kišna kabanica",
+        "Narodna nošnja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Narodnu nošnju ljudi su nekad sami izrađivali. Danas je nose folklorne skupine na nastupima.",
+      "savjet": "Sjeti se odjeće koju nose plesači kola i drugih narodnih plesova."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-021",
+      "tezina": "lagano",
+      "pitanje": "Kako se nekad pralo rublje?",
+      "ponudeni": [
+        "U perilici rublja",
+        "U kemijskoj čistionici",
+        "Ručno, u potoku ili koritu",
+        "U perilici posuđa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bez struje i vodovoda rublje se pralo rukama, u potoku ili u drvenom koritu.",
+      "savjet": "Sjeti se da nekad u kućama nije bilo struje ni vodovoda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-022",
+      "tezina": "lagano",
+      "pitanje": "Gdje se u seoskoj kući nekad pekao kruh?",
+      "ponudeni": [
+        "U tosteru",
+        "U krušnoj peći",
+        "U mikrovalnoj pećnici",
+        "U pekarnici trgovačkog centra"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kruh se pekao kod kuće, u krušnoj peći koja se grijala drvima.",
+      "savjet": "Potraži mjesto koje se grijalo vatrom, a ne strujom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-023",
+      "tezina": "lagano",
+      "pitanje": "Koji su posao djeca na selu nekad često obavljala?",
+      "ponudeni": [
+        "Čuvala su stoku na pašnjaku",
+        "Vozila su traktor",
+        "Radila su u tvornici automobila",
+        "Popravljala su računala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djeca su pomagala obitelji, a jedan od čestih poslova bio je čuvanje ovaca, koza ili krava.",
+      "savjet": "Razmisli koji je posao na selu bio lagan i prikladan za dijete."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-024",
+      "tezina": "lagano",
+      "pitanje": "U koje se godišnje doba nekad, kao i danas, bere grožđe?",
+      "ponudeni": [
+        "U proljeće",
+        "Ljeti",
+        "U jesen",
+        "Zimi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Grožđe dozrije krajem ljeta i u jesen, pa se tada obavlja berba.",
+      "savjet": "Sjeti se kad dozrijevaju plodovi voćaka i vinove loze."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-025",
+      "tezina": "lagano",
+      "pitanje": "Kojim su alatom ljudi nekad kosili travu za sijeno?",
+      "ponudeni": [
+        "Lopatom",
+        "Čekićem",
+        "Pilom",
+        "Kosom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Travu su kosci kosili kosom. Osušena trava, sijeno, bila je zimska hrana za stoku.",
+      "savjet": "Naziv alata sličan je glagolu kojim se kaže rezanje trave."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-026",
+      "tezina": "lagano",
+      "pitanje": "Od čega su djeca na selu nekad često izrađivala igračke?",
+      "ponudeni": [
+        "Od drva, krpa i kukuruzovine",
+        "Od plastike iz tvornice",
+        "Od dijelova mobitela",
+        "Od dijelova računala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Igračke se nisu kupovale. Djeca su ih sama izrađivala od onoga što su našla oko kuće.",
+      "savjet": "Razmisli što se moglo naći u dvorištu i na polju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-027",
+      "tezina": "lagano",
+      "pitanje": "Koji se veliki blagdan, uz brojne stare običaje, slavi 25. prosinca?",
+      "ponudeni": [
+        "Uskrs",
+        "Božić",
+        "Nova godina",
+        "Dan državnosti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Božić se slavi 25. prosinca. Nekad su se uz njega držali mnogi običaji, primjerice unošenje badnjaka i slame u kuću.",
+      "savjet": "Sjeti se blagdana koji se slavi na kraju godine, uz bor i jaslice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-028",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva hrana koju su ljudi u jesen spremali za zimu?",
+      "ponudeni": [
+        "Užina",
+        "Poslastica",
+        "Brza hrana",
+        "Zimnica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zimnica je hrana spremljena za zimu, primjerice kiseli kupus, sušeno voće i ukiseljeno povrće.",
+      "savjet": "Naziv te hrane sličan je nazivu godišnjeg doba za koje se sprema."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-029",
+      "tezina": "lagano",
+      "pitanje": "Kakve su bile seoske kuće nekad?",
+      "ponudeni": [
+        "Neboderi od stakla i betona",
+        "Velike kuće s dizalom",
+        "Male kuće od drva, kamena ili zemlje",
+        "Kuće od plastike"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Seoske kuće bile su skromne i građene od materijala koji se mogao naći u blizini.",
+      "savjet": "Razmisli od čega su ljudi mogli graditi bez tvornica i dizalica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-030",
+      "tezina": "lagano",
+      "pitanje": "Kako su članovi zadruge radili na poljima?",
+      "ponudeni": [
+        "Zajedno, a poslove su dijelili",
+        "Svatko samo za sebe",
+        "Uopće nisu radili",
+        "Umjesto njih radili su strojevi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zadruzi su svi radili zajedno. Domaćin je dijelio poslove, a plodovi rada bili su zajednički.",
+      "savjet": "Sjeti se što znači riječ zadruga."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-031",
+      "tezina": "srednje",
+      "pitanje": "Zašto je nekad više obitelji živjelo zajedno u zadruzi?",
+      "ponudeni": [
+        "Zakon je zabranjivao male kuće",
+        "Željeli su živjeti u gradu",
+        "Zajedno su lakše obavljali teške poslove",
+        "Nisu znali graditi kuće"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poslovi na polju i sa stokom bili su teški i radili su se ručno. Kad je više ljudi radilo zajedno, posao je bio lakši.",
+      "savjet": "Razmisli koliko je ruku trebalo za ručni rad na velikom imanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-032",
+      "tezina": "srednje",
+      "pitanje": "Koja je bila zadaća domaćina zadruge?",
+      "ponudeni": [
+        "Raspoređivao je poslove i brinuo se o imanju",
+        "Podučavao je djecu u školi",
+        "Prodavao je robu u gradskoj trgovini",
+        "Upravljao je cijelom državom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Domaćin je odlučivao tko će što raditi i brinuo se da zadruga ima dovoljno hrane i svega potrebnog.",
+      "savjet": "Sjeti se da je domaćin bio glavni u zadruzi, a ne u školi ili državi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-033",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se život na selu nekad najviše razlikovao od današnjeg?",
+      "ponudeni": [
+        "Ljudi nisu imali obitelji",
+        "Nije bilo struje, a mnogo se radilo ručno",
+        "Nije bilo blagdana ni običaja",
+        "Ljudi nisu uzgajali hranu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nekad na selu nije bilo struje ni strojeva, pa su ljudi većinu poslova radili rukama.",
+      "savjet": "Razmisli što danas olakšava gotovo svaki posao u kući i na polju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-034",
+      "tezina": "srednje",
+      "pitanje": "Koji su poslovi na selu nekad pripadali proljeću?",
+      "ponudeni": [
+        "Berba grožđa",
+        "Kolinje",
+        "Prelo",
+        "Oranje i sjetva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U proljeće se zemlja ore i sije, da bi do ljeta i jeseni urod dozrio.",
+      "savjet": "Razmisli što treba napraviti prije nego što biljke mogu rasti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-035",
+      "tezina": "srednje",
+      "pitanje": "Koji su se poslovi na selu nekad obično radili zimi?",
+      "ponudeni": [
+        "Žetva žita",
+        "Sjetva kukuruza",
+        "Kolinje i popravak alata",
+        "Berba grožđa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zimi na polju nema posla, pa se radilo kolinje, popravljao alat i izrađivale stvari za kuću.",
+      "savjet": "Razmisli što se može raditi kad je polje pokriveno snijegom."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-036",
+      "tezina": "srednje",
+      "pitanje": "Zašto su se prela održavala upravo zimi?",
+      "ponudeni": [
+        "Zimi je bilo najviše posla na polju",
+        "Zimi je bilo manje posla vani, a večeri su bile duge",
+        "Zimi su ovce davale najviše mlijeka",
+        "Zimi su djeca išla u školu cijeli dan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zimi nije bilo poslova na polju, a večeri su bile duge, pa su se ljudi okupljali uz ručni rad i pjesmu.",
+      "savjet": "Usporedi koliko je posla na polju zimi, a koliko ljeti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-037",
+      "tezina": "srednje",
+      "pitanje": "Što se nekad radilo sa žitom nakon žetve?",
+      "ponudeni": [
+        "Vršilo se, da bi se zrnje odvojilo od klasja",
+        "Bacalo se, jer nije bilo potrebno",
+        "Sadilo se odmah natrag u zemlju",
+        "Davalo se samo kao ukras za kuću"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nakon žetve žito se vršilo. Zrnje se odvajalo od klasja, a zatim se nosilo u mlin.",
+      "savjet": "Razmisli koji dio žita treba za brašno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-038",
+      "tezina": "srednje",
+      "pitanje": "Zašto su djeca na selu nekad rano počinjala pomagati u poslovima?",
+      "ponudeni": [
+        "Škola je bila zabranjena",
+        "Djeca su morala zaraditi za automobil",
+        "Obitelji je trebala svaka pomoć",
+        "Djeca se nisu voljela igrati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gotovo sve se radilo ručno, pa je obitelji trebala pomoć svakog člana, i djece.",
+      "savjet": "Sjeti se koliko je posla bilo na selu bez strojeva."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-039",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko životu nekad i danas?",
+      "ponudeni": [
+        "Svi putuju kolima s konjima",
+        "Voda se nosi iz bunara",
+        "Kuha se samo na ognjištu",
+        "Obitelj se okuplja za blagdane"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Obitelji su se i nekad i danas okupljale za blagdane. Ostali odgovori opisuju samo život u prošlosti.",
+      "savjet": "Potraži nešto što i tvoja obitelj danas radi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-040",
+      "tezina": "srednje",
+      "pitanje": "Koji je današnji predmet zamijenio petrolejku?",
+      "ponudeni": [
+        "Hladnjak",
+        "Televizor",
+        "Perilica rublja",
+        "Električna žarulja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Petrolejka je davala svjetlo. Danas tu zadaću ima električna žarulja.",
+      "savjet": "Sjeti se čemu je služila petrolejka."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-041",
+      "tezina": "srednje",
+      "pitanje": "Koji je današnji stroj zamijenio srp u žetvi?",
+      "ponudeni": [
+        "Perilica rublja",
+        "Usisavač",
+        "Kombajn",
+        "Hladnjak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kombajn danas žanje žito i odvaja zrnje, a nekad se to radilo srpom i ručno.",
+      "savjet": "Potraži stroj koji radi na polju, a ne u kući."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-042",
+      "tezina": "srednje",
+      "pitanje": "Kako se nekad čuvalo meso kad nije bilo hladnjaka?",
+      "ponudeni": [
+        "Zamrzavalo se u zamrzivaču",
+        "Kupovalo se svaki dan u trgovini",
+        "Ostavljalo se na suncu u loncu",
+        "Solilo se, sušilo i dimilo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Soljenjem, sušenjem i dimljenjem meso se dugo moglo čuvati i bez hladnjaka.",
+      "savjet": "Razmisli kako se hrana može sačuvati bez struje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-043",
+      "tezina": "srednje",
+      "pitanje": "Zašto su ljudi na selu nekad većinu stvari izrađivali sami?",
+      "ponudeni": [
+        "Voljeli su samo skupe stvari",
+        "Trgovina je bilo malo, a novca još manje",
+        "Bilo je zabranjeno kupovati",
+        "Stvari iz trgovine bile su besplatne"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trgovine su bile daleko, a obitelji su imale malo novca, pa su odjeću, alat i hranu uglavnom radile same.",
+      "savjet": "Razmisli koliko je trgovina bilo u selu i koliko su ljudi imali novca."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-044",
+      "tezina": "srednje",
+      "pitanje": "Kako su djeca nekad najčešće učila seoske poslove?",
+      "ponudeni": [
+        "Gledala su starije i radila uz njih",
+        "Učila su iz knjiga u knjižnici",
+        "Gledala su upute na internetu",
+        "Išla su na tečaj u grad"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Znanje se prenosilo s koljena na koljeno: stariji su pokazivali, a mlađi su učili radeći uz njih.",
+      "savjet": "Sjeti se da nekad nije bilo interneta, a knjiga je bilo malo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-045",
+      "tezina": "srednje",
+      "pitanje": "Zašto su sela nekad često nastajala uz rijeke i potoke?",
+      "ponudeni": [
+        "Zbog kupanja turista",
+        "Ljudima je trebala voda za piće, stoku i mlinove",
+        "Zbog plovidbe velikih brodova",
+        "Jer uz vodu nema komaraca"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voda je bila potrebna za piće, kuhanje, stoku i pranje, a pokretala je i vodenice.",
+      "savjet": "Razmisli za koje je sve poslove na selu trebala voda."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-046",
+      "tezina": "srednje",
+      "pitanje": "Odakle je nekad dolazila većina hrane seoske obitelji?",
+      "ponudeni": [
+        "Iz restorana",
+        "Iz trgovine, kao gotova jela",
+        "Iz vlastitog polja, vrta i od svoje stoke",
+        "Dostavom iz grada"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Obitelji su same uzgajale žito, povrće i voće i držale stoku, pa su hranu uglavnom imale od svog rada.",
+      "savjet": "Sjeti se čime su se bavili ljudi na selu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-047",
+      "tezina": "srednje",
+      "pitanje": "Kako su ljudi na selu nekad najčešće saznavali novosti?",
+      "ponudeni": [
+        "Razgovorom na okupljanjima i sajmovima",
+        "Gledanjem televizije",
+        "Porukama na mobitelu",
+        "Čitanjem vijesti na internetu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nekad nije bilo televizije ni interneta, pa su se novosti prenosile razgovorom kad bi se ljudi okupili.",
+      "savjet": "Sjeti se koji su izumi današnjeg vremena i nisu postojali nekad."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-048",
+      "tezina": "srednje",
+      "pitanje": "Zašto je berba nekad bila i prilika za druženje?",
+      "ponudeni": [
+        "Grožđe su brali samo putnici iz grada",
+        "Berba je trajala samo pet minuta",
+        "Berba se održavala u školi",
+        "Susjedi su pomagali jedni drugima, a posao je završavao veseljem"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na berbu su dolazili rođaci i susjedi. Nakon posla zajedno su jeli, pjevali i veselili se.",
+      "savjet": "Razmisli tko je sve pomagao kad je trebalo brzo obrati mnogo grožđa."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-049",
+      "tezina": "srednje",
+      "pitanje": "Kako se zvala dobrovoljna pomoć susjeda u velikom poslu, nakon koje bi domaćin pripremio zajednički obrok?",
+      "ponudeni": [
+        "Sajam",
+        "Moba",
+        "Prelo",
+        "Kolinje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Moba je bila zajednički rad susjeda, primjerice pri košnji ili gradnji kuće, a domaćin bi ih zatim počastio.",
+      "savjet": "Razmisli kako se zvao zajednički rad više kuća na jednom imanju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-050",
+      "tezina": "srednje",
+      "pitanje": "U zadruzi je nekad živjelo i dvadesetak ljudi. Kakve su obitelji danas?",
+      "ponudeni": [
+        "Uglavnom imaju manje članova",
+        "Uglavnom imaju više od 50 članova",
+        "Uopće ne postoje",
+        "Uvijek žive s cijelim selom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Danas obitelji najčešće čine roditelji i djeca, pa su manje od nekadašnjih zadruga.",
+      "savjet": "Razmisli koliko ljudi živi u tvojem domu ili domu tvojih prijatelja."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-051",
+      "tezina": "srednje",
+      "pitanje": "Što je pokretalo vodenicu?",
+      "ponudeni": [
+        "Struja",
+        "Benzin",
+        "Snaga ljudi na biciklu",
+        "Snaga tekuće vode"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voda potoka ili rijeke okretala je kotač vodenice, a on je pokretao kamen koji je mljeo žito.",
+      "savjet": "Pogledaj od koje je riječi nastao naziv vodenica."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-052",
+      "tezina": "srednje",
+      "pitanje": "Koji su predmeti nekad služili za izradu niti od vune ili lana?",
+      "ponudeni": [
+        "Srp i kosa",
+        "Plug i brana",
+        "Preslica i vreteno",
+        "Kola i jaram"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na preslicu se stavljala vuna ili lan, a vretenom se predenjem izvlačila nit.",
+      "savjet": "Potraži predmete koje su žene držale u rukama na prelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-053",
+      "tezina": "srednje",
+      "pitanje": "Koji je alat nekad služio za obradu zemlje?",
+      "ponudeni": [
+        "Preslica",
+        "Plug",
+        "Tkalački stan",
+        "Vreteno"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plugom se orala zemlja prije sjetve. Ostali predmeti služili su za izradu niti i tkanine.",
+      "savjet": "Razmisli koji predmet pripada polju, a koji kući."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-054",
+      "tezina": "srednje",
+      "pitanje": "Zašto se kaže da je život na selu nekad bio teži nego danas?",
+      "ponudeni": [
+        "Ljudi nisu imali obitelji",
+        "Nije bilo blagdana",
+        "Ljudi nisu imali prijatelje",
+        "Mnogi su se poslovi radili ručno i dugo trajali"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bez struje, vodovoda i strojeva i najjednostavniji poslovi trajali su dugo i zahtijevali mnogo snage.",
+      "savjet": "Razmisli koliko bi trajalo pranje rublja bez perilice."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-055",
+      "tezina": "srednje",
+      "pitanje": "Kako su ljudi nekad koristili vunu svojih ovaca?",
+      "ponudeni": [
+        "Od nje su predenjem dobivali nit i izrađivali odjeću",
+        "Bacali su je jer nije bila korisna",
+        "Prodavali su je samo za igračke",
+        "Od nje su izrađivali posuđe"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vuna se prala, prela u nit, a od niti se tkalo ili pletlo, pa su nastajali odjeća i pokrivači.",
+      "savjet": "Sjeti se što su žene radile na prelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-056",
+      "tezina": "srednje",
+      "pitanje": "Zašto je ognjište nekad bilo najvažnije mjesto u kući?",
+      "ponudeni": [
+        "Na njemu su se čuvale knjige",
+        "Grijalo je, davalo svjetlo i na njemu se kuhalo",
+        "Na njemu su spavala djeca",
+        "Služilo je samo kao ukras"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vatra na ognjištu grijala je i osvjetljavala prostoriju, a na njoj se pripremala hrana. Oko nje se okupljala obitelj.",
+      "savjet": "Razmisli što sve vatra može dati ljudima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-057",
+      "tezina": "srednje",
+      "pitanje": "Kako su se nekad na selu slavili blagdani?",
+      "ponudeni": [
+        "Svatko je slavio sam u svojoj sobi",
+        "Blagdani se nisu slavili",
+        "Zajednica se okupljala uz običaje, pjesmu i obrok",
+        "Slavilo se samo u gradskim restoranima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Blagdani su okupljali obitelj i cijelo selo. Uz njih su se držali običaji, pjevalo se i zajedno jelo.",
+      "savjet": "Sjeti se koliko je važna bila zajednica u životu na selu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-058",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ovih poslova nekad bio ljetni?",
+      "ponudeni": [
+        "Žetva žita",
+        "Berba grožđa",
+        "Prelo",
+        "Kolinje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Žito dozrije ljeti, pa se tada obavlja žetva. Berba je u jesen, a prelo i kolinje zimi.",
+      "savjet": "Razmisli koja biljka prva dozrije u godini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-059",
+      "tezina": "srednje",
+      "pitanje": "Zašto su gotovo sve seoske obitelji nekad držale stoku?",
+      "ponudeni": [
+        "Stoka je služila samo za ukras",
+        "Stoku su držali samo za igru djece",
+        "Stoka se nije smjela prodavati",
+        "Davala im je hranu, vunu i snagu za rad"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stoka je davala mlijeko, meso i vunu, a volovi i konji vukli su plug i kola.",
+      "savjet": "Razmisli što sve daju krave, ovce i volovi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-060",
+      "tezina": "srednje",
+      "pitanje": "Što je narodna nošnja bila ljudima nekad?",
+      "ponudeni": [
+        "Odjeća kupljena u gradskoj trgovini",
+        "Svakodnevna i svečana odjeća, različita od kraja do kraja",
+        "Odjeća samo za kraljeve",
+        "Sportska odjeća za natjecanja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Narodnu nošnju ljudi su sami izrađivali i nosili. Svaki je kraj imao svoju nošnju.",
+      "savjet": "Sjeti se tko je izrađivao odjeću na selu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-061",
+      "tezina": "tesko",
+      "pitanje": "Marko u priči živi s roditeljima, bakom, djedom i obitelji svojega strica. Svi zajedno rade na imanju, a poslove dijeli djed. Kako se zove takva zajednica?",
+      "ponudeni": [
+        "Mala obitelj",
+        "Školski razred",
+        "Sportski klub",
+        "Obiteljska zadruga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Više srodnih obitelji koje žive i rade zajedno pod vodstvom domaćina čine obiteljsku zadrugu.",
+      "savjet": "Prebroji koliko obitelji živi zajedno i tko ih vodi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-062",
+      "tezina": "tesko",
+      "pitanje": "Kojim su redom nekad tekli poslovi sa žitom, od polja do kruha?",
+      "ponudeni": [
+        "Žetva, sjetva, mljevenje, vršidba, pečenje",
+        "Sjetva, žetva, vršidba, mljevenje, pečenje",
+        "Sjetva, mljevenje, žetva, vršidba, pečenje",
+        "Vršidba, sjetva, žetva, pečenje, mljevenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Žito se najprije posije, zatim požanje, pa se vršidbom odvoji zrnje, ono se samelje u brašno, a od brašna se peče kruh.",
+      "savjet": "Kreni od praznog polja i razmisli što mora biti gotovo prije svakoga sljedećeg posla."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-063",
+      "tezina": "tesko",
+      "pitanje": "Kojim se redom nekad od lana dobivala košulja?",
+      "ponudeni": [
+        "Tkanje, uzgoj lana, šivanje, predenje",
+        "Predenje, tkanje, uzgoj lana, šivanje",
+        "Uzgoj lana, predenje, tkanje, šivanje",
+        "Uzgoj lana, šivanje, predenje, tkanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lan se najprije uzgoji, od njegovih vlakana ispredu se niti, od niti se tka platno, a od platna se šije košulja.",
+      "savjet": "Razmisli što je potrebno za tkanje, a što za šivanje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-064",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o obiteljskoj zadruzi točna?",
+      "ponudeni": [
+        "Članovi su zajedno radili i dijelili ono što su proizveli",
+        "Svaki je član imao vlastitu kuću u drugom selu",
+        "Zadrugu je vodio učitelj iz grada",
+        "U zadruzi su živjela samo djeca"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zadruzi su imanje, rad i urod bili zajednički, a vodio ju je domaćin.",
+      "savjet": "Sjeti se tko je vodio zadrugu i čije je bilo ono što se proizvelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-065",
+      "tezina": "tesko",
+      "pitanje": "Djed priča: „U jesen smo s rođacima i susjedima cijeli dan brali grožđe, a navečer se pjevalo.“ O kojem je poslu riječ?",
+      "ponudeni": [
+        "O žetvi",
+        "O sjetvi",
+        "O prelu",
+        "O berbi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Skupljanje grožđa u jesen zove se berba. Nakon posla ljudi su se zajedno veselili.",
+      "savjet": "Obrati pozornost na godišnje doba i na plod koji se skupljao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-066",
+      "tezina": "tesko",
+      "pitanje": "Obitelj je nekad nakon kolinja imala mnogo mesa, a hladnjaka nije bilo. Što je bilo najpametnije učiniti?",
+      "ponudeni": [
+        "Ostaviti meso na stolu do proljeća",
+        "Odnijeti meso u trgovinu na čuvanje",
+        "Posoliti i dimiti meso",
+        "Baciti meso koje se ne pojede odmah"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Soljeno i dimljeno meso moglo se čuvati mjesecima, pa je obitelj imala hrane za cijelu zimu.",
+      "savjet": "Sjeti se kako se nekad hrana čuvala bez struje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-067",
+      "tezina": "tesko",
+      "pitanje": "Zamisli da u tvojem selu tjedan dana nema struje. Na čemu bi se tada moglo kuhati?",
+      "ponudeni": [
+        "Na električnom štednjaku",
+        "Na peći na drva",
+        "U mikrovalnoj pećnici",
+        "U električnom tosteru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Peć na drva, kao nekad ognjište, ne treba struju, pa se na njoj može kuhati i kad struje nema.",
+      "savjet": "Potraži jedini uređaj koji radi bez struje."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-068",
+      "tezina": "tesko",
+      "pitanje": "Zašto danas na selu živi manje ljudi nego nekad, a u gradovima više?",
+      "ponudeni": [
+        "Na selu je zabranjeno živjeti",
+        "U gradovima nema prometa",
+        "Sela su postala veća od gradova",
+        "Mnogi su otišli raditi u tvornice i urede u gradovima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad su strojevi olakšali rad na polju, a u gradovima se otvorilo mnogo radnih mjesta, mnogi su se preselili u grad.",
+      "savjet": "Razmisli gdje su ljudi mogli pronaći novi posao."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-069",
+      "tezina": "tesko",
+      "pitanje": "U kojem je paru prvi predmet iz prošlosti, a drugi današnji predmet iste namjene?",
+      "ponudeni": [
+        "petrolejka – žarulja",
+        "kombajn – srp",
+        "hladnjak – bunar",
+        "perilica rublja – korito"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Petrolejka je nekad davala svjetlo, a danas to radi žarulja. U ostalim parovima redoslijed je obrnut ili predmeti nemaju istu namjenu.",
+      "savjet": "Za svaki par provjeri dvije stvari: što je starije i služe li predmeti istoj svrsi."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-070",
+      "tezina": "tesko",
+      "pitanje": "Kojim su redom nekad tekli poslovi tijekom godine, počevši od proljeća?",
+      "ponudeni": [
+        "Sjetva, žetva, berba grožđa, prelo",
+        "Žetva, sjetva, prelo, berba grožđa",
+        "Prelo, berba grožđa, sjetva, žetva",
+        "Sjetva, berba grožđa, žetva, prelo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U proljeće se sije, ljeti se žanje žito, u jesen se bere grožđe, a zimi se ide na prelo.",
+      "savjet": "Svakom poslu pridruži godišnje doba pa ih poredaj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-071",
+      "tezina": "tesko",
+      "pitanje": "Zašto se kolinje nekad obavljalo kad zahladi, a ne usred ljeta?",
+      "ponudeni": [
+        "Ljeti nije bilo svinja",
+        "Zimi su djeca bila u školi",
+        "Ljeti je bilo zabranjeno jesti meso",
+        "Na hladnoći se meso ne kvari tako brzo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bez hladnjaka meso se na ljetnoj vrućini brzo pokvari, a na hladnoći ga se stigne posoliti i osušiti.",
+      "savjet": "Razmisli što se s hranom događa na vrućini."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-072",
+      "tezina": "tesko",
+      "pitanje": "Zašto je prelo bilo korisno i za posao i za druženje?",
+      "ponudeni": [
+        "Uz ručni rad ljudi su pjevali, pričali i družili se",
+        "Na prelu se samo spavalo",
+        "Na prelu se kupovala odjeća",
+        "Prelo se održavalo na polju za vrijeme žetve"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na prelu se prela vuna i lan, a uz posao se pjevalo, pričale priče i sklapala prijateljstva.",
+      "savjet": "Sjeti se što su ljudi radili rukama, a što glasom na prelu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-073",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o djeci na selu nekad točna?",
+      "ponudeni": [
+        "Svako je dijete imalo vlastiti mobitel",
+        "Djeca uopće nisu imala igre",
+        "Uz igru su mnoga djeca pomagala u poslovima",
+        "Sva su djeca svaki dan putovala autobusom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djeca su čuvala stoku i pomagala u kući, ali su se i igrala igračkama koje su sama izradila.",
+      "savjet": "Sjeti se kako su djeca na selu provodila dan i od čega su radila igračke."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-074",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o seoskim kućama nekad točna?",
+      "ponudeni": [
+        "Sve su kuće imale centralno grijanje",
+        "Kuće su se gradile od materijala iz okolice",
+        "Kuće su se gradile od stakla",
+        "Sve su kuće imale kupaonicu s tušem"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljudi su gradili od onoga što su imali blizu: drva, kamena, zemlje ili slame.",
+      "savjet": "Razmisli kako se nekad mogao prevesti težak građevni materijal."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-075",
+      "tezina": "tesko",
+      "pitanje": "Zašto su se stare kuće u primorskim krajevima najčešće gradile od kamena?",
+      "ponudeni": [
+        "Drvo je ondje bilo zabranjeno",
+        "Kamen se dovozio vlakom iz Slavonije",
+        "Gradilo se od onoga čega je u kraju bilo najviše",
+        "Kamene kuće bile su najjeftinije u trgovini"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U primorskim krajevima ima mnogo kamena, pa su ljudi od njega gradili kuće, zidove i ograde.",
+      "savjet": "Sjeti se kakav je krajolik u primorskim krajevima."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-076",
+      "tezina": "tesko",
+      "pitanje": "Nekad su susjedi besplatno pomagali jedni drugima u velikim poslovima. Što danas najviše podsjeća na taj običaj?",
+      "ponudeni": [
+        "Kupnja u trgovini",
+        "Gledanje filma kod kuće",
+        "Vožnja automobilom na posao",
+        "Susjedi zajedno čiste park ili pomažu nakon poplave"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kao nekad, i danas ljudi zajedničkim radom pomažu jedni drugima i svojoj zajednici.",
+      "savjet": "Potraži primjer u kojem više ljudi zajedno i dobrovoljno radi za druge."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto su ljudi sa sela nekad odlazili na sajmove?",
+      "ponudeni": [
+        "Da gledaju kino",
+        "Da prodaju i kupe stoku, alat i drugu robu",
+        "Da se upišu u školu",
+        "Da se voze vlakom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na sajmu se prodavalo ono što se proizvelo kod kuće, a kupovalo ono što se nije moglo samo izraditi. Ondje su se ljudi i susretali.",
+      "savjet": "Razmisli kako su seljaci dolazili do stvari koje nisu mogli sami napraviti."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-078",
+      "tezina": "tesko",
+      "pitanje": "Što je za seosku obitelj nekad značila dobra žetva?",
+      "ponudeni": [
+        "Dovoljno kruha i hrane do sljedeće godine",
+        "Novi automobil za obitelj",
+        "Više vremena za gledanje televizije",
+        "Odlazak na ljetovanje na more"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obitelj je živjela od svog uroda. Dobra žetva značila je da će biti dovoljno brašna i hrane cijelu godinu.",
+      "savjet": "Sjeti se odakle je seoska obitelj dobivala brašno."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-079",
+      "tezina": "tesko",
+      "pitanje": "Zašto etnografski muzeji čuvaju stare predmete poput preslica, srpova i narodnih nošnji?",
+      "ponudeni": [
+        "Da bi ih prodali za ogrjev",
+        "Jer su ti predmeti potpuno novi",
+        "Da bi mlađi naraštaji upoznali kako se nekad živjelo",
+        "Jer se njima danas svi koriste svaki dan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Muzeji čuvaju predmete iz prošlosti kako bi ljudi i danas mogli vidjeti i razumjeti kako su živjeli njihovi preci.",
+      "savjet": "Razmisli što možeš naučiti kad u muzeju vidiš stari predmet."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-080",
+      "tezina": "tesko",
+      "pitanje": "Želiš saznati kako je tvoja obitelj živjela prije 70 godina. Što će ti najviše pomoći?",
+      "ponudeni": [
+        "Gledanje crtanog filma",
+        "Razgovor s bakom i djedom i stare fotografije",
+        "Današnja vremenska prognoza",
+        "Današnje novine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Baka i djed mogu ispričati što su sami doživjeli, a stare fotografije pokazuju kako su ljudi tada izgledali i živjeli.",
+      "savjet": "Potraži izvor koji potječe iz toga vremena ili od ljudi koji su ga doživjeli."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-081",
+      "tezina": "tesko",
+      "pitanje": "Što se promijenilo kad je u sela stigla struja?",
+      "ponudeni": [
+        "Ljudi su mogli koristiti žarulje i električne uređaje",
+        "Ljudi su počeli češće nositi vodu iz bunara",
+        "Prestali su se slaviti blagdani",
+        "Djeca su prestala ići u školu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sa strujom su u kuće stigle žarulje, a kasnije i uređaji koji su olakšali svakodnevne poslove.",
+      "savjet": "Razmisli koji predmeti u kući rade na struju."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-082",
+      "tezina": "tesko",
+      "pitanje": "Djed kaže: „Moj je otac orao zemlju s dva vola, a ja orem traktorom.“ Što to pokazuje?",
+      "ponudeni": [
+        "Volovi su brži od traktora",
+        "Zemlja se više ne mora orati",
+        "Traktor je stariji od pluga",
+        "Strojevi su olakšali rad na polju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Traktor obavi posao brže i uz manje truda nego volovi, pa je rad na polju danas lakši.",
+      "savjet": "Usporedi rad nekad i danas u djedovoj rečenici."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-083",
+      "tezina": "tesko",
+      "pitanje": "Što je od navedenoga primjer običaja?",
+      "ponudeni": [
+        "Autobus kreće u 7 sati",
+        "Trgovina radi do 20 sati",
+        "Na Badnjak se u kuću unosi slama",
+        "Ujutro se otvara prozor"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Unošenje slame u kuću na Badnjak star je božićni običaj koji se prenosi s naraštaja na naraštaj.",
+      "savjet": "Potraži radnju koja je vezana uz blagdan i prenosi se od starijih."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-084",
+      "tezina": "tesko",
+      "pitanje": "Zašto je u zadruzi bilo važno da svaki član obavi svoj posao?",
+      "ponudeni": [
+        "Svi su ovisili o zajedničkom radu i urodu",
+        "Domaćin je sam obavljao sve poslove",
+        "U zadruzi nije bilo posla",
+        "Poslove su obavljali strojevi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrana i sve potrebno nastajali su zajedničkim radom. Kad bi netko zakazao, cijela zadruga bi to osjetila.",
+      "savjet": "Razmisli čije je bilo ono što se u zadruzi proizvelo."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-085",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko nekadašnjoj zadruzi i današnjoj obitelji?",
+      "ponudeni": [
+        "Imaju više od 30 članova",
+        "Članovi brinu jedni o drugima",
+        "Sve poslove rade samo ručno",
+        "Žive bez struje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "I nekad i danas članovi obitelji pomažu jedni drugima i brinu se jedni za druge.",
+      "savjet": "Potraži nešto što vrijedi i za tvoju obitelj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-086",
+      "tezina": "tesko",
+      "pitanje": "U jesen su se susjedi okupljali navečer i zajedno skidali suho lišće s klipova kukuruza. Kako se zove taj posao?",
+      "ponudeni": [
+        "Žetva",
+        "Sjetva",
+        "Komušanje",
+        "Kosidba"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Komušanje je skidanje lišća (komušine) s klipova kukuruza. Uz taj posao ljudi su se družili i pjevali.",
+      "savjet": "Naziv posla dolazi od riječi kojom se zove lišće oko klipa kukuruza."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto su ljudi sa sela nekad većinu puteva prelazili pješice?",
+      "ponudeni": [
+        "Hodanje je bilo propisano zakonom",
+        "Ceste su bile samo za automobile",
+        "Vlakovi su vozili do svakog sela",
+        "Automobila nije bilo, a konja i kola nisu imali svi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Seljaci nisu imali automobile, a konje i kola imali su samo neki, pa se većinom hodalo.",
+      "savjet": "Sjeti se kojih prijevoznih sredstava nekad nije bilo na selu."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-088",
+      "tezina": "tesko",
+      "pitanje": "Ivo tvrdi da se život danas nimalo ne razlikuje od života nekad. Koja rečenica pokazuje da nije u pravu?",
+      "ponudeni": [
+        "I nekad su se slavili blagdani",
+        "Nekad se rublje pralo ručno u potoku",
+        "I nekad su djeca imala roditelje",
+        "I nekad se jeo kruh"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Danas rublje pere perilica, a nekad se pralo ručno. Ta razlika pokazuje da se život promijenio.",
+      "savjet": "Potraži rečenicu koja opisuje nešto što se danas radi drukčije."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-089",
+      "tezina": "tesko",
+      "pitanje": "Koji red pokazuje izvore svjetla u kući od najstarijeg do najnovijeg?",
+      "ponudeni": [
+        "Ognjište, petrolejka, električna žarulja",
+        "Električna žarulja, petrolejka, ognjište",
+        "Petrolejka, električna žarulja, ognjište",
+        "Ognjište, električna žarulja, petrolejka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije je svjetlo davala vatra na ognjištu, zatim petrolejka, a danas električna žarulja.",
+      "savjet": "Kreni od izvora svjetla koji je najjednostavniji i ne treba nikakav uređaj."
+    },
+    {
+      "id": "4-priroda-i-drustvo-zivot-u-proslosti-090",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o životu na selu nekad točna?",
+      "ponudeni": [
+        "Ljudi su sve potrebno kupovali u trgovini",
+        "Svaka je obitelj živjela potpuno sama",
+        "Ljudi su se mnogo oslanjali na susjede i zajednicu",
+        "Poslovi su se radili samo strojevima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na selu su ljudi pomagali jedni drugima u poslovima, zajedno slavili blagdane i dijelili brige.",
+      "savjet": "Sjeti se mobe, prela i berbe."
+    }
+  ]
+}
