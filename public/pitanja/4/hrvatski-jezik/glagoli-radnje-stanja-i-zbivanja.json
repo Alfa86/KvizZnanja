@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "glagoli-radnje-stanja-i-zbivanja",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-001",
+      "tezina": "lagano",
+      "pitanje": "Što izriču glagoli?",
+      "ponudeni": [
+        "Radnju, stanje ili zbivanje",
+        "Imena ljudi, životinja i stvari",
+        "Kakvo je neko biće ili stvar",
+        "Čije je neko biće ili stvar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagoli su riječi koje izriču radnju (trči), stanje (spava) ili zbivanje (grmi).",
+      "savjet": "Sjeti se riječi trči, spava i grmi. Što one kazuju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-002",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Mala Ema crta kuću.“?",
+      "ponudeni": [
+        "Mala",
+        "Ema",
+        "kuću",
+        "crta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ crta kazuje što Ema radi, pa je glagol.",
+      "savjet": "Pitaj se: Što Ema radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-003",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Stari ribar lovi ribu.“?",
+      "ponudeni": [
+        "Stari",
+        "lovi",
+        "ribar",
+        "ribu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ lovi kazuje što ribar radi, pa je glagol.",
+      "savjet": "Pitaj se: Što ribar radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-004",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Siva mačka spava u košari.“?",
+      "ponudeni": [
+        "Siva",
+        "mačka",
+        "spava",
+        "košari"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ spava kazuje u kakvom je stanju mačka, pa je glagol.",
+      "savjet": "Pitaj se: U kakvom je stanju mačka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-005",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Vani pada gusti snijeg.“?",
+      "ponudeni": [
+        "Vani",
+        "pada",
+        "gusti",
+        "snijeg"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ pada kazuje što se događa sa snijegom, pa je glagol.",
+      "savjet": "Pitaj se: Što se događa vani?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-006",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih riječi o kiši glagol?",
+      "ponudeni": [
+        "kiša",
+        "kišni",
+        "kišiti",
+        "kišobran"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kišiti kazuje što se događa, pa je glagol. Kiša i kišobran su imenice, a kišni je pridjev.",
+      "savjet": "Koja od ovih riječi kazuje što se događa?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih riječi o pisanju glagol?",
+      "ponudeni": [
+        "pismo",
+        "pisac",
+        "pisaljka",
+        "pisati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pisati kazuje što netko radi, pa je glagol. Ostale riječi su imenice.",
+      "savjet": "Koja od ovih riječi kazuje što netko radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-008",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih riječi o snijegu glagol?",
+      "ponudeni": [
+        "sniježiti",
+        "snijeg",
+        "snježni",
+        "snjegović"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sniježiti kazuje što se događa u prirodi, pa je glagol.",
+      "savjet": "Koja riječ kazuje što se događa, a ne imenuje stvar?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-009",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih riječi o crtanju glagol?",
+      "ponudeni": [
+        "crtež",
+        "crtati",
+        "crtić",
+        "crtanka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Crtati kazuje što netko radi, pa je glagol. Ostale riječi su imenice.",
+      "savjet": "Uz koju riječ možeš pitati što netko radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-010",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih riječi o plivanju glagol?",
+      "ponudeni": [
+        "plivač",
+        "bazen",
+        "plivački",
+        "plivati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plivati kazuje što netko radi, pa je glagol.",
+      "savjet": "Koja riječ kazuje radnju, a ne osobu, mjesto ili osobinu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-011",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol „spavati“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad netko spava, on ništa ne radi, nego je u nekom stanju. Zato spavati izriče stanje.",
+      "savjet": "Radi li onaj tko spava nešto ili je samo u nekom stanju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-012",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol „trčati“?",
+      "ponudeni": [
+        "Stanje",
+        "Zbivanje",
+        "Osobinu",
+        "Radnju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trčati je nešto što netko radi, pa taj glagol izriče radnju.",
+      "savjet": "Radi li onaj tko trči nešto svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-013",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol „grmjeti“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Grmljavina se događa sama od sebe u prirodi, nitko je ne radi. Zato grmjeti izriče zbivanje.",
+      "savjet": "Radi li netko grmljavinu ili se ona sama događa?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-014",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol „ležati“?",
+      "ponudeni": [
+        "Stanje",
+        "Radnju",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Onaj tko leži ništa ne radi, nego je u nekom stanju. Zato ležati izriče stanje.",
+      "savjet": "Radi li onaj tko leži nešto ili samo miruje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-015",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol „kuhati“?",
+      "ponudeni": [
+        "Zbivanje",
+        "Radnju",
+        "Stanje",
+        "Osobinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kuhati je nešto što netko radi, pa taj glagol izriče radnju.",
+      "savjet": "Zamisli nekoga tko kuha. Radi li ta osoba nešto?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-016",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol „sijevati“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Osobinu",
+        "Zbivanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Munje sijevaju same od sebe u prirodi, pa sijevati izriče zbivanje.",
+      "savjet": "Tko radi munje? Ili se one same događaju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-017",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol „šutjeti“?",
+      "ponudeni": [
+        "Radnju",
+        "Zbivanje",
+        "Stanje",
+        "Osobinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Onaj tko šuti ne izvodi nikakvu radnju, nego je u stanju tišine. Zato šutjeti izriče stanje.",
+      "savjet": "Radi li onaj tko šuti nešto ili je samo u nekom stanju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-018",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol „graditi“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Graditi je nešto što netko radi, pa taj glagol izriče radnju.",
+      "savjet": "Zamisli nekoga tko gradi kuću. Što ta osoba čini?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-019",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo riječi koje izriču radnju, stanje ili zbivanje?",
+      "ponudeni": [
+        "Imenice",
+        "Pridjevi",
+        "Glagoli",
+        "Brojevi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi koje izriču radnju, stanje ili zbivanje zovemo glagolima.",
+      "savjet": "Kojoj vrsti riječi pripadaju trčati, spavati i grmjeti?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-020",
+      "tezina": "lagano",
+      "pitanje": "Koji od glagola spavati, plivati, grmjeti i ležati izriče radnju?",
+      "ponudeni": [
+        "spavati",
+        "plivati",
+        "grmjeti",
+        "ležati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plivati je nešto što netko radi, pa izriče radnju. Spavati i ležati izriču stanje, a grmjeti zbivanje.",
+      "savjet": "Radnju netko svjesno vrši. Koji od ovih glagola to kazuje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-021",
+      "tezina": "lagano",
+      "pitanje": "Koji od glagola skakati, sijevati, sjediti i pisati izriče stanje?",
+      "ponudeni": [
+        "skakati",
+        "sijevati",
+        "pisati",
+        "sjediti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Onaj tko sjedi ne izvodi radnju, nego je u nekom stanju. Skakati i pisati izriču radnju, a sijevati zbivanje.",
+      "savjet": "Koji glagol kazuje da netko samo miruje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-022",
+      "tezina": "lagano",
+      "pitanje": "Koji od glagola crtati, stajati, kuhati i kišiti izriče zbivanje?",
+      "ponudeni": [
+        "kišiti",
+        "crtati",
+        "stajati",
+        "kuhati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kiša pada sama od sebe, pa kišiti izriče zbivanje. Crtati i kuhati izriču radnju, a stajati stanje.",
+      "savjet": "Što se događa samo od sebe u prirodi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-023",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol u rečenici „Ivan pliva.“?",
+      "ponudeni": [
+        "Stanje",
+        "Radnju",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ivan pliva svojom voljom, on nešto radi. Zato pliva izriče radnju.",
+      "savjet": "Radi li Ivan nešto?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-024",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol u rečenici „Beba spava.“?",
+      "ponudeni": [
+        "Radnju",
+        "Zbivanje",
+        "Osobinu",
+        "Stanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Beba koja spava ništa ne radi, nego je u nekom stanju. Zato spava izriče stanje.",
+      "savjet": "Radi li beba nešto ili je u nekom stanju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-025",
+      "tezina": "lagano",
+      "pitanje": "Što izriče glagol u rečenici „Jutros sniježi.“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Snijeg pada sam od sebe, nitko to ne radi. Zato sniježi izriče zbivanje.",
+      "savjet": "Radi li netko snijeg ili se to događa samo od sebe?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-026",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Vrijedna pčela skuplja med.“?",
+      "ponudeni": [
+        "skuplja",
+        "Vrijedna",
+        "pčela",
+        "med"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ skuplja kazuje što pčela radi, pa je glagol.",
+      "savjet": "Pitaj se: Što pčela radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-027",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Umorni djed sjedi u hladu.“?",
+      "ponudeni": [
+        "Umorni",
+        "djed",
+        "hladu",
+        "sjedi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ sjedi kazuje u kakvom je stanju djed, pa je glagol.",
+      "savjet": "Pitaj se: U kakvom je stanju djed?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-028",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara glagol?",
+      "ponudeni": [
+        "Tko? Što?",
+        "Kakav? Kakva?",
+        "Što radi? Što se događa?",
+        "Čiji? Čija?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagol odgovara na pitanja što netko radi, što se događa ili u kakvom je tko stanju.",
+      "savjet": "Sjeti se kako pronalaziš riječ trči u rečenici „Pas trči.“"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-029",
+      "tezina": "lagano",
+      "pitanje": "U kojem su nizu samo glagoli?",
+      "ponudeni": [
+        "trava, pjevati, skakati",
+        "trčati, pjevati, skakati",
+        "brz, trčati, plesati",
+        "lopta, cvijet, nebo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trčati, pjevati i skakati kazuju što netko radi, pa su sve tri riječi glagoli.",
+      "savjet": "Provjeri svaku riječ u nizu: kazuje li što netko radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-030",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Suho lišće pada s grane.“?",
+      "ponudeni": [
+        "pada",
+        "Suho",
+        "lišće",
+        "grane"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ pada kazuje što se događa s lišćem, pa je glagol.",
+      "savjet": "Pitaj se: Što se događa s lišćem?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-031",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „U vrtu cvjeta ruža.“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ruža cvjeta sama od sebe, ne radi to namjerno. Zato cvjeta izriče zbivanje.",
+      "savjet": "Cvjeta li ruža svojom voljom ili se to događa samo od sebe?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-032",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Voda u loncu ključa.“?",
+      "ponudeni": [
+        "Zbivanje",
+        "Radnju",
+        "Stanje",
+        "Osobinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Voda ne ključa namjerno, to se događa samo od sebe kad se zagrije. Zato ključa izriče zbivanje.",
+      "savjet": "Može li voda nešto raditi svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-033",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Ana leži u krevetu.“?",
+      "ponudeni": [
+        "Radnju",
+        "Zbivanje",
+        "Osobinu",
+        "Stanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ana ne izvodi nikakvu radnju, nego je u stanju mirovanja. Zato leži izriče stanje.",
+      "savjet": "Radi li Ana nešto ili samo miruje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-034",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Tata gradi kućicu za ptice.“?",
+      "ponudeni": [
+        "Stanje",
+        "Radnju",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tata svjesno nešto radi, pa glagol gradi izriče radnju.",
+      "savjet": "Radi li tata nešto svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-035",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Cvijeće u vazi vene.“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Osobinu",
+        "Zbivanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Cvijeće ne vene namjerno, to se događa samo od sebe. Zato vene izriče zbivanje.",
+      "savjet": "Radi li cvijeće to svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-036",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Pas stoji kraj vrata.“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pas koji stoji ne izvodi radnju, nego je u nekom stanju. Zato stoji izriče stanje.",
+      "savjet": "Kreće li se pas i radi li nešto ili samo miruje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-037",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Rijeka se zimi smrzava.“?",
+      "ponudeni": [
+        "Stanje",
+        "Radnju",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rijeka se smrzava sama od sebe zbog hladnoće. Zato smrzava se izriče zbivanje.",
+      "savjet": "Može li rijeka nešto raditi namjerno?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-038",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Svi učenici šute.“?",
+      "ponudeni": [
+        "Stanje",
+        "Radnju",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Učenici koji šute ne izvode radnju, nego su u stanju tišine. Zato šute izriče stanje.",
+      "savjet": "Izvode li učenici nešto ili su samo u nekom stanju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-039",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Sestra piše pismo baki.“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sestra svjesno nešto radi, pa glagol piše izriče radnju.",
+      "savjet": "Radi li sestra nešto svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-040",
+      "tezina": "srednje",
+      "pitanje": "U kojoj rečenici o životinjama i ljudima glagol izriče stanje?",
+      "ponudeni": [
+        "Ivan skače preko lokve.",
+        "Djeca grade dvorac od pijeska.",
+        "Mačka leži na suncu.",
+        "Baka mijesi tijesto."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mačka koja leži ne izvodi radnju, nego je u nekom stanju. Ostali glagoli izriču radnju.",
+      "savjet": "U kojoj rečenici netko ništa ne radi, nego samo miruje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-041",
+      "tezina": "srednje",
+      "pitanje": "U kojoj rečenici o jeseni glagol izriče zbivanje?",
+      "ponudeni": [
+        "Lišće na drvetu žuti.",
+        "Baka plete šal.",
+        "Djed spava u fotelji.",
+        "Lana crta jabuku."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lišće žuti samo od sebe, nitko to ne radi. Zato žuti izriče zbivanje.",
+      "savjet": "U kojoj se rečenici nešto događa samo od sebe, bez nekoga tko to radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-042",
+      "tezina": "srednje",
+      "pitanje": "U kojoj rečenici o kući glagol izriče radnju?",
+      "ponudeni": [
+        "Beba spava u kolijevci.",
+        "Pas leži pod stolom.",
+        "Voda u čajniku ključa.",
+        "Marko pere suđe."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Marko svjesno nešto radi, pa pere izriče radnju. Spava i leži izriču stanje, a ključa zbivanje.",
+      "savjet": "U kojoj rečenici netko nešto radi svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-043",
+      "tezina": "srednje",
+      "pitanje": "Kojim glagolom koji izriče stanje možeš dopuniti rečenicu „Baka ___ na klupi.“?",
+      "ponudeni": [
+        "pleše",
+        "sjedi",
+        "piše",
+        "pjeva"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sjedi izriče stanje jer baka pritom ništa ne radi. Pleše, piše i pjeva izriču radnju.",
+      "savjet": "Koji glagol kazuje da baka samo miruje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-044",
+      "tezina": "srednje",
+      "pitanje": "Kojim glagolom koji izriče zbivanje možeš dopuniti rečenicu „Vani ___.“?",
+      "ponudeni": [
+        "spava",
+        "crta",
+        "sniježi",
+        "trči"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sniježi izriče zbivanje jer se događa samo od sebe u prirodi.",
+      "savjet": "Koji se od ovih glagola događa u prirodi bez ičije volje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-045",
+      "tezina": "srednje",
+      "pitanje": "Kojim glagolom koji izriče radnju možeš dopuniti rečenicu „Lucija ___ u bazenu.“?",
+      "ponudeni": [
+        "stoji",
+        "šuti",
+        "miruje",
+        "roni"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Roni izriče radnju jer Lucija nešto radi. Stoji, šuti i miruje izriču stanje.",
+      "savjet": "Koji glagol kazuje da Lucija nešto radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-046",
+      "tezina": "srednje",
+      "pitanje": "Koji je glagol u rečenici „Suhi listovi padaju na tlo.“ i što izriče?",
+      "ponudeni": [
+        "padaju – zbivanje",
+        "padaju – radnju",
+        "listovi – zbivanje",
+        "suhi – stanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol je padaju. Listovi padaju sami od sebe, pa glagol izriče zbivanje.",
+      "savjet": "Prvo pronađi glagol, a zatim se pitaj događa li se to samo od sebe."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-047",
+      "tezina": "srednje",
+      "pitanje": "Koji je glagol u rečenici „Dječak vozi bicikl.“ i što izriče?",
+      "ponudeni": [
+        "vozi – stanje",
+        "vozi – radnju",
+        "bicikl – radnju",
+        "dječak – stanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol je vozi. Dječak nešto radi, pa glagol izriče radnju.",
+      "savjet": "Prvo pronađi glagol, a zatim se pitaj radi li dječak nešto."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-048",
+      "tezina": "srednje",
+      "pitanje": "Koji je glagol u rečenici „Mačak spava na prozoru.“ i što izriče?",
+      "ponudeni": [
+        "mačak – radnju",
+        "spava – radnju",
+        "prozoru – stanje",
+        "spava – stanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagol je spava. Mačak ništa ne radi, nego je u nekom stanju.",
+      "savjet": "Prvo pronađi glagol, a zatim se pitaj radi li mačak nešto."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-049",
+      "tezina": "srednje",
+      "pitanje": "Koji je glagol u rečenici „Iznad mora sijevaju munje.“ i što izriče?",
+      "ponudeni": [
+        "munje – zbivanje",
+        "sijevaju – stanje",
+        "sijevaju – zbivanje",
+        "sijevaju – radnju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagol je sijevaju. Munje sijevaju same od sebe, pa glagol izriče zbivanje.",
+      "savjet": "Prvo pronađi glagol, a zatim se pitaj radi li to netko namjerno."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-050",
+      "tezina": "srednje",
+      "pitanje": "Koji par glagola izriče dva zbivanja?",
+      "ponudeni": [
+        "pisati i grmjeti",
+        "kišiti i grmjeti",
+        "spavati i kišiti",
+        "sjediti i ležati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kišiti i grmjeti događaju se sami od sebe u prirodi, pa oba izriču zbivanje.",
+      "savjet": "Provjeri oba glagola u paru: događaju li se sami od sebe?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-051",
+      "tezina": "srednje",
+      "pitanje": "Koji par glagola izriče dva stanja?",
+      "ponudeni": [
+        "sjediti i skakati",
+        "stajati i sijevati",
+        "crtati i plivati",
+        "sjediti i ležati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Onaj tko sjedi ili leži ništa ne radi, nego je u nekom stanju.",
+      "savjet": "Provjeri oba glagola u paru: kazuju li da netko samo miruje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-052",
+      "tezina": "srednje",
+      "pitanje": "Koji par glagola izriče dvije radnje?",
+      "ponudeni": [
+        "crtati i plivati",
+        "kuhati i spavati",
+        "pjevati i sniježiti",
+        "ležati i šutjeti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Crtati i plivati kazuju što netko svjesno radi, pa oba izriču radnju.",
+      "savjet": "Provjeri oba glagola u paru: radi li ih netko svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-053",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Puše hladan vjetar.“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vjetar puše sam od sebe u prirodi, pa puše izriče zbivanje.",
+      "savjet": "Puše li vjetar zato što to netko želi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-054",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Ribar stoji na obali.“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ribar koji stoji ne izvodi radnju, nego je u nekom stanju. Zato stoji izriče stanje.",
+      "savjet": "Radi li ribar nešto ili samo miruje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-055",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol u rečenici „Djeca skaču preko užeta.“?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Zbivanje",
+        "Osobinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djeca svjesno nešto rade, pa glagol skaču izriče radnju.",
+      "savjet": "Rade li djeca nešto svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-056",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol kad se nešto događa samo od sebe, bez nekoga tko to namjerno radi?",
+      "ponudeni": [
+        "Radnju",
+        "Stanje",
+        "Osobinu",
+        "Zbivanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad se nešto događa samo od sebe, npr. grmi ili kiši, glagol izriče zbivanje.",
+      "savjet": "Sjeti se glagola grmi i kiši. Kako zovemo ono što oni izriču?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-057",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol kad biće ništa ne radi, nego samo miruje, kao u rečenici „Pas leži.“?",
+      "ponudeni": [
+        "Radnju",
+        "Zbivanje",
+        "Stanje",
+        "Osobinu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad biće ništa ne radi, nego je u nekom položaju ili miruje, glagol izriče stanje.",
+      "savjet": "Sjeti se glagola spava, sjedi i leži. Kako zovemo ono što oni izriču?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-058",
+      "tezina": "srednje",
+      "pitanje": "Koji glagol izriče radnju u rečenici „Baka sjedi na klupi i plete šal.“?",
+      "ponudeni": [
+        "sjedi",
+        "plete",
+        "klupi",
+        "šal"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plete kazuje što baka radi, pa izriče radnju. Sjedi je također glagol, ali izriče stanje.",
+      "savjet": "U rečenici su dva glagola. Koji kazuje da baka nešto radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-059",
+      "tezina": "srednje",
+      "pitanje": "Koji glagol izriče zbivanje u rečenici „Dok pada kiša, Ivo spava.“?",
+      "ponudeni": [
+        "pada",
+        "spava",
+        "kiša",
+        "Ivo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pada kazuje što se događa s kišom samo od sebe, pa izriče zbivanje. Spava izriče stanje.",
+      "savjet": "U rečenici su dva glagola. Koji kazuje što se događa u prirodi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-060",
+      "tezina": "srednje",
+      "pitanje": "Koji glagol izriče stanje u rečenici „Mama kuha, a beba spava.“?",
+      "ponudeni": [
+        "kuha",
+        "mama",
+        "beba",
+        "spava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Beba koja spava ništa ne radi, pa spava izriče stanje. Kuha izriče radnju.",
+      "savjet": "U rečenici su dva glagola. Koji kazuje da netko ništa ne radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-061",
+      "tezina": "tesko",
+      "pitanje": "Koji glagol ne pripada skupini: trčati, pisati, spavati, crtati?",
+      "ponudeni": [
+        "trčati",
+        "pisati",
+        "spavati",
+        "crtati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trčati, pisati i crtati izriču radnju, a spavati izriče stanje.",
+      "savjet": "Za svaki glagol odredi izriče li radnju, stanje ili zbivanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-062",
+      "tezina": "tesko",
+      "pitanje": "Koji glagol ne pripada skupini: sjediti, ležati, stajati, plivati?",
+      "ponudeni": [
+        "sjediti",
+        "ležati",
+        "stajati",
+        "plivati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sjediti, ležati i stajati izriču stanje, a plivati izriče radnju.",
+      "savjet": "Tri glagola imaju nešto zajedničko. Koji se od njih razlikuje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-063",
+      "tezina": "tesko",
+      "pitanje": "Koji glagol ne pripada skupini: kišiti, grmjeti, kuhati, sijevati?",
+      "ponudeni": [
+        "kuhati",
+        "kišiti",
+        "grmjeti",
+        "sijevati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kišiti, grmjeti i sijevati izriču zbivanje u prirodi, a kuhati izriče radnju.",
+      "savjet": "Koji se od ovih glagola ne događa sam od sebe?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-064",
+      "tezina": "tesko",
+      "pitanje": "Koji glagol ne pripada skupini: sniježiti, šutjeti, grmjeti, kišiti?",
+      "ponudeni": [
+        "sniježiti",
+        "šutjeti",
+        "grmjeti",
+        "kišiti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sniježiti, grmjeti i kišiti izriču zbivanje, a šutjeti izriče stanje.",
+      "savjet": "Tri glagola govore o vremenu u prirodi. Koji je drugačiji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-065",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ne pripada skupini: graditi, pjevati, kuća, plesati?",
+      "ponudeni": [
+        "graditi",
+        "pjevati",
+        "plesati",
+        "kuća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Graditi, pjevati i plesati su glagoli, a kuća je imenica.",
+      "savjet": "Provjeri je li svaka riječ uopće glagol."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-066",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ne pripada skupini: spavati, sjediti, mekan, ležati?",
+      "ponudeni": [
+        "spavati",
+        "mekan",
+        "sjediti",
+        "ležati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Spavati, sjediti i ležati su glagoli koji izriču stanje, a mekan je pridjev.",
+      "savjet": "Provjeri koja riječ ne izriče ni radnju, ni stanje, ni zbivanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-067",
+      "tezina": "tesko",
+      "pitanje": "Koliko glagola ima u rečenici „Luka trči, skače i pjeva.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagoli su trči, skače i pjeva, dakle tri glagola.",
+      "savjet": "Pronađi sve riječi koje kazuju što Luka radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-068",
+      "tezina": "tesko",
+      "pitanje": "Koliko glagola ima u rečenici „Mama čita, a tata spava.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagoli su čita i spava, dakle dva glagola.",
+      "savjet": "Pronađi riječi koje kazuju što tko radi ili u kakvom je stanju."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-069",
+      "tezina": "tesko",
+      "pitanje": "Koliko glagola ima u rečenici „Grmi, sijeva i pada kiša.“?",
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagoli su grmi, sijeva i pada, dakle tri glagola. Kiša je imenica.",
+      "savjet": "Pronađi sve riječi koje kazuju što se događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-070",
+      "tezina": "tesko",
+      "pitanje": "Koliko glagola koji izriču radnju ima u rečenici „Ana piše, Ivan crta, a mačka spava.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Radnju izriču piše i crta. Spava je glagol, ali izriče stanje.",
+      "savjet": "Pronađi sve glagole, a zatim za svaki provjeri izriče li radnju."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-071",
+      "tezina": "tesko",
+      "pitanje": "Koliko glagola koji izriču stanje ima u rečenici „Djed sjedi, baka leži, a pas skače.“?",
+      "ponudeni": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stanje izriču sjedi i leži. Skače je glagol, ali izriče radnju.",
+      "savjet": "Pronađi sve glagole, a zatim za svaki provjeri izriče li stanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-072",
+      "tezina": "tesko",
+      "pitanje": "Koliko glagola koji izriču zbivanje ima u rečenici „Vani sniježi, a djeca grade snjegovića i kliču.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zbivanje izriče samo sniježi. Grade i kliču izriču radnju jer to djeca rade.",
+      "savjet": "Pronađi sve glagole, a zatim za svaki provjeri događa li se samo od sebe."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-073",
+      "tezina": "tesko",
+      "pitanje": "Koliko glagola ima u rečenici „Puše vjetar, lišće pada, a ptice pjevaju na grani.“?",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagoli su puše, pada i pjevaju, dakle tri glagola.",
+      "savjet": "Rečenica ima tri dijela. U svakom potraži glagol."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-074",
+      "tezina": "tesko",
+      "pitanje": "Što redom izriču glagoli u rečenici „Pas leži, a vani grmi.“?",
+      "ponudeni": [
+        "stanje i zbivanje",
+        "radnju i zbivanje",
+        "stanje i radnju",
+        "zbivanje i stanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Leži izriče stanje, a grmi izriče zbivanje.",
+      "savjet": "Odredi posebno prvi glagol, a zatim drugi."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-075",
+      "tezina": "tesko",
+      "pitanje": "Što redom izriču glagoli u rečenici „Tata kosi travu, a beba spava.“?",
+      "ponudeni": [
+        "stanje i radnju",
+        "radnju i zbivanje",
+        "zbivanje i stanje",
+        "radnju i stanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kosi izriče radnju jer tata nešto radi, a spava izriče stanje.",
+      "savjet": "Pazi na redoslijed: prvo odredi glagol uz tatu, zatim uz bebu."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-076",
+      "tezina": "tesko",
+      "pitanje": "Što redom izriču glagoli u rečenici „Sijeva, a djeca sjede u kući.“?",
+      "ponudeni": [
+        "radnju i stanje",
+        "zbivanje i stanje",
+        "stanje i zbivanje",
+        "zbivanje i radnju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sijeva izriče zbivanje, a sjede izriče stanje jer djeca samo miruju.",
+      "savjet": "Pazi na redoslijed glagola u rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-077",
+      "tezina": "tesko",
+      "pitanje": "Što redom izriču glagoli u rečenici „Kiši, a Lea crta u sobi.“?",
+      "ponudeni": [
+        "zbivanje i stanje",
+        "radnju i zbivanje",
+        "zbivanje i radnju",
+        "stanje i radnju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kiši izriče zbivanje, a crta izriče radnju jer Lea nešto radi.",
+      "savjet": "Odredi posebno prvi glagol, a zatim drugi."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-078",
+      "tezina": "tesko",
+      "pitanje": "Ivo kaže da glagol u rečenici „Mačka spava.“ izriče radnju. Što je točno?",
+      "ponudeni": [
+        "Glagol izriče zbivanje, a ne radnju.",
+        "Ivo ima pravo, glagol izriče radnju.",
+        "Glagol izriče stanje, a ne radnju.",
+        "Riječ spava nije glagol."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mačka koja spava ništa ne radi, nego je u nekom stanju. Zato spava izriče stanje.",
+      "savjet": "Radi li mačka koja spava nešto svojom voljom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-079",
+      "tezina": "tesko",
+      "pitanje": "Lana kaže da glagol u rečenici „Grmi iznad grada.“ izriče stanje. Što je točno?",
+      "ponudeni": [
+        "Glagol izriče radnju, a ne stanje.",
+        "Lana ima pravo, glagol izriče stanje.",
+        "Riječ grmi nije glagol.",
+        "Glagol izriče zbivanje, a ne stanje."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Grmljavina se događa sama od sebe u prirodi, pa grmi izriče zbivanje.",
+      "savjet": "Radi li netko grmljavinu ili se ona sama događa?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-080",
+      "tezina": "tesko",
+      "pitanje": "Petar kaže da riječ „kiša“ u rečenici „Pada kiša.“ izriče zbivanje. Što je točno?",
+      "ponudeni": [
+        "Kiša je imenica, a zbivanje izriče pada.",
+        "Petar ima pravo, kiša izriče zbivanje.",
+        "Kiša je glagol koji izriče radnju.",
+        "Kiša je imenica, a pada izriče stanje."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kiša imenuje pojavu, pa je imenica. Glagol je pada i on izriče zbivanje.",
+      "savjet": "Prvo odredi koja je riječ u rečenici glagol."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-081",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica ima jedan glagol koji izriče radnju i jedan koji izriče stanje?",
+      "ponudeni": [
+        "Ema pjeva, a Ivan pleše.",
+        "Ema pjeva, a Ivan sjedi.",
+        "Grmi i sijeva.",
+        "Ivan sjedi, a pas leži."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pjeva izriče radnju, a sjedi izriče stanje.",
+      "savjet": "U svakoj rečenici odredi oba glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-082",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica ima jedan glagol koji izriče zbivanje i jedan koji izriče radnju?",
+      "ponudeni": [
+        "Pada snijeg, a pas spava.",
+        "Djeca sjede i šute.",
+        "Pada snijeg, a djeca se sanjkaju.",
+        "Grmi i kiši."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pada izriče zbivanje, a sanjkaju se izriče radnju jer djeca to rade.",
+      "savjet": "U svakoj rečenici odredi oba glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-083",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici oba glagola izriču stanje?",
+      "ponudeni": [
+        "Baka sjedi, a djed kuha.",
+        "Baka plete, a djed čita.",
+        "Sniježi, a djed leži.",
+        "Baka sjedi, a djed leži."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sjedi i leži izriču stanje jer baka i djed pritom ništa ne rade.",
+      "savjet": "Provjeri oba glagola u svakoj rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-084",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici svi glagoli izriču zbivanje?",
+      "ponudeni": [
+        "Grmi, sijeva i kiši.",
+        "Grmi, a Mia spava.",
+        "Sijeva, a Ivo trči.",
+        "Mia crta i pjeva."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Grmi, sijeva i kiši događaju se sami od sebe u prirodi, pa svi izriču zbivanje.",
+      "savjet": "Provjeri svaki glagol u rečenici, ne samo prvi."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-085",
+      "tezina": "tesko",
+      "pitanje": "Kojim glagolom treba zamijeniti „trči“ u rečenici „Pas trči u dvorištu.“ da glagol izriče stanje?",
+      "ponudeni": [
+        "leži",
+        "skače",
+        "laje",
+        "kopa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Leži izriče stanje. Skače, laje i kopa izriču radnju.",
+      "savjet": "Koji glagol kazuje da pas ništa ne radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-086",
+      "tezina": "tesko",
+      "pitanje": "Kojim glagolom treba zamijeniti „sjedi“ u rečenici „Dječak sjedi na obali.“ da glagol izriče radnju?",
+      "ponudeni": [
+        "stoji",
+        "leži",
+        "šuti",
+        "peca"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Peca izriče radnju jer dječak nešto radi. Stoji, leži i šuti izriču stanje.",
+      "savjet": "Koji glagol kazuje da dječak nešto radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-087",
+      "tezina": "tesko",
+      "pitanje": "Koji glagol izriče stanje u rečenici „Dok grmi, mačka leži pod krevetom, a Ana čita.“?",
+      "ponudeni": [
+        "grmi",
+        "čita",
+        "leži",
+        "krevetom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Leži izriče stanje. Grmi izriče zbivanje, a čita radnju.",
+      "savjet": "U rečenici su tri glagola. Za svaki odredi što izriče."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-088",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu glagoli poredani redom: radnja, stanje, zbivanje?",
+      "ponudeni": [
+        "sjediti, pisati, grmjeti",
+        "pisati, sjediti, grmjeti",
+        "grmjeti, sjediti, pisati",
+        "pisati, grmjeti, sjediti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pisati izriče radnju, sjediti stanje, a grmjeti zbivanje.",
+      "savjet": "Prvo odredi što izriče svaki glagol, a zatim provjeri redoslijed."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-089",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu glagoli poredani redom: zbivanje, radnja, stanje?",
+      "ponudeni": [
+        "plivati, kišiti, ležati",
+        "kišiti, ležati, plivati",
+        "ležati, plivati, kišiti",
+        "kišiti, plivati, ležati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kišiti izriče zbivanje, plivati radnju, a ležati stanje.",
+      "savjet": "Pronađi najprije glagol koji se događa sam od sebe."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagoli-radnje-stanja-i-zbivanja-090",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu glagoli poredani redom: stanje, zbivanje, radnja?",
+      "ponudeni": [
+        "spavati, sijevati, kuhati",
+        "kuhati, sijevati, spavati",
+        "spavati, kuhati, sijevati",
+        "sijevati, spavati, kuhati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Spavati izriče stanje, sijevati zbivanje, a kuhati radnju.",
+      "savjet": "Pronađi najprije glagol koji kazuje da netko miruje."
+    }
+  ]
+}

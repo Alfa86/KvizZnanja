@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "imenice-rod-i-broj",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-001",
+      "tezina": "lagano",
+      "pitanje": "Što su imenice?",
+      "ponudeni": [
+        "Riječi koje imenuju bića, stvari i pojave",
+        "Riječi koje izriču radnju ili stanje",
+        "Riječi koje opisuju kakvo je nešto",
+        "Riječi koje kazuju koliko čega ima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imenice su riječi kojima imenujemo bića (mama, pas), stvari (stol, olovka) i pojave (kiša, radost).",
+      "savjet": "Sjeti se odakle dolazi naziv imenica – od riječi ime."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-002",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi imenuje stvar?",
+      "ponudeni": [
+        "skakati",
+        "zelen",
+        "olovka",
+        "veseo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Olovka je stvar, a riječ olovka je imenica. Skakati izriče radnju, a zelen i veseo opisuju.",
+      "savjet": "Postavi pitanje što? i potraži riječ koja daje ime nekom predmetu."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-003",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi imenuje biće?",
+      "ponudeni": [
+        "hladan",
+        "pjevati",
+        "visok",
+        "pas"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pas je živo biće, pa je riječ pas imenica.",
+      "savjet": "Postavi pitanje tko? i potraži riječ koja imenuje nešto živo."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-004",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi imenuje pojavu u prirodi?",
+      "ponudeni": [
+        "crven",
+        "kiša",
+        "plivati",
+        "malen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kiša je pojava u prirodi, a riječ kiša je imenica.",
+      "savjet": "Pomisli na ono što se događa na nebu ili u vremenu oko nas."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-005",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi imenuje osjećaj?",
+      "ponudeni": [
+        "sretan",
+        "smijati se",
+        "radost",
+        "velik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Radost je osjećaj, a riječ radost je imenica. I osjećaji su pojave koje imenujemo imenicama.",
+      "savjet": "Potraži riječ ispred koje možeš reći ta, taj ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-006",
+      "tezina": "lagano",
+      "pitanje": "Kojim riječima možemo provjeriti rod imenice?",
+      "ponudeni": [
+        "„taj, ta, to“",
+        "„ja, ti, on“",
+        "„jedan, dva, tri“",
+        "„gdje, kada, kako“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rod imenice provjeravamo riječima taj (muški rod), ta (ženski rod) i to (srednji rod).",
+      "savjet": "Pomisli kako kažeš: … stol, … kuća, … more."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-007",
+      "tezina": "lagano",
+      "pitanje": "Kojega je roda imenica „stol“?",
+      "ponudeni": [
+        "Ženski rod",
+        "Muški rod",
+        "Srednji rod",
+        "Imenica nema roda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo „taj stol“, pa je imenica stol muškoga roda.",
+      "savjet": "Stavi ispred imenice riječ taj, ta ili to i poslušaj što zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-008",
+      "tezina": "lagano",
+      "pitanje": "Kojega je roda imenica „kuća“?",
+      "ponudeni": [
+        "Muški rod",
+        "Srednji rod",
+        "Imenica nema roda",
+        "Ženski rod"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kažemo „ta kuća“, pa je imenica kuća ženskoga roda.",
+      "savjet": "Reci imenicu uz riječ jedan, jedna ili jedno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-009",
+      "tezina": "lagano",
+      "pitanje": "Kojega je roda imenica „more“?",
+      "ponudeni": [
+        "Srednji rod",
+        "Muški rod",
+        "Ženski rod",
+        "Imenica nema roda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kažemo „to more“, pa je imenica more srednjega roda.",
+      "savjet": "Stavi ispred imenice riječ taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-010",
+      "tezina": "lagano",
+      "pitanje": "Kojega je roda imenica „mačka“?",
+      "ponudeni": [
+        "Muški rod",
+        "Ženski rod",
+        "Srednji rod",
+        "Imenica nema roda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo „ta mačka“, pa je imenica mačka ženskoga roda.",
+      "savjet": "Pokušaj reći jedan, jedna ili jedno ispred imenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-011",
+      "tezina": "lagano",
+      "pitanje": "Kojega je roda imenica „selo“?",
+      "ponudeni": [
+        "Muški rod",
+        "Ženski rod",
+        "Imenica nema roda",
+        "Srednji rod"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kažemo „to selo“, pa je imenica selo srednjega roda.",
+      "savjet": "Stavi ispred imenice riječ taj, ta ili to i poslušaj što zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-012",
+      "tezina": "lagano",
+      "pitanje": "Kojega je roda imenica „brat“?",
+      "ponudeni": [
+        "Srednji rod",
+        "Ženski rod",
+        "Muški rod",
+        "Imenica nema roda"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažemo „taj brat“, pa je imenica brat muškoga roda.",
+      "savjet": "Reci imenicu uz riječ jedan, jedna ili jedno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-013",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih imenica muškoga roda?",
+      "ponudeni": [
+        "kuća",
+        "sunce",
+        "grad",
+        "knjiga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažemo „taj grad“, pa je grad muškoga roda. Kuća i knjiga su ženskoga, a sunce srednjega roda.",
+      "savjet": "Ispred svake imenice reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-014",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih imenica ženskoga roda?",
+      "ponudeni": [
+        "olovka",
+        "prozor",
+        "nebo",
+        "pas"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kažemo „ta olovka“, pa je olovka ženskoga roda. Prozor i pas su muškoga, a nebo srednjega roda.",
+      "savjet": "Ispred svake imenice reci jedan, jedna ili jedno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-015",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih imenica srednjega roda?",
+      "ponudeni": [
+        "vjetar",
+        "sunce",
+        "ruka",
+        "cvijet"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo „to sunce“, pa je sunce srednjega roda. Vjetar i cvijet su muškoga, a ruka ženskoga roda.",
+      "savjet": "Ispred svake imenice reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-016",
+      "tezina": "lagano",
+      "pitanje": "Što nam kazuje broj imenice?",
+      "ponudeni": [
+        "Kojem rodu pripada imenica",
+        "Kojim se slovom imenica piše",
+        "Koju radnju imenica izriče",
+        "Imenuje li imenica jedno ili više"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Broj imenice kazuje imenuje li ona jedno biće, stvar ili pojavu (jednina) ili više njih (množina).",
+      "savjet": "Sjeti se po čemu se razlikuju riječi stol i stolovi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-017",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo broj imenice koja imenuje samo jedno biće, stvar ili pojavu?",
+      "ponudeni": [
+        "Množina",
+        "Jednina",
+        "Mnoštvo",
+        "Rod"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad imenica imenuje jedno biće, stvar ili pojavu, ona je u jednini, npr. kuća.",
+      "savjet": "Naziv ovog broja sličan je riječi jedan."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-018",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo broj imenice koja imenuje više bića, stvari ili pojava?",
+      "ponudeni": [
+        "Jednina",
+        "Mnoštvo",
+        "Množina",
+        "Zbirka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad imenica imenuje više bića, stvari ili pojava, ona je u množini, npr. kuće.",
+      "savjet": "Naziv ovog broja sličan je riječi mnogo."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-019",
+      "tezina": "lagano",
+      "pitanje": "U kojem je broju imenica „stolovi“?",
+      "ponudeni": [
+        "U množini",
+        "U jednini",
+        "Imenica nema broja",
+        "U srednjem broju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ stolovi imenuje više stolova, pa je u množini.",
+      "savjet": "Pitaj se je li riječ o jednom stolu ili o više njih."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-020",
+      "tezina": "lagano",
+      "pitanje": "U kojem je broju imenica „knjiga“?",
+      "ponudeni": [
+        "U množini",
+        "Imenica nema broja",
+        "U jednini",
+        "U srednjem broju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ knjiga imenuje jednu knjigu, pa je u jednini.",
+      "savjet": "Pitaj se je li riječ o jednoj stvari ili o više njih."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-021",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih imenica u množini?",
+      "ponudeni": [
+        "kuća",
+        "olovke",
+        "more",
+        "grad"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Olovke znači više olovaka, pa je ta imenica u množini.",
+      "savjet": "Potraži riječ ispred koje možeš reći „ovo su“."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-022",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih imenica u jednini?",
+      "ponudeni": [
+        "prozori",
+        "stolovi",
+        "kuće",
+        "cvijet"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Cvijet imenuje samo jedan cvijet, pa je u jednini. Ostale imenice imenuju više stvari.",
+      "savjet": "Potraži riječ ispred koje možeš reći „ovo je jedan“."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-023",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ imenica u rečenici „Mali pas veselo laje.“?",
+      "ponudeni": [
+        "Mali",
+        "pas",
+        "veselo",
+        "laje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pas imenuje biće, pa je imenica. Laje izriče radnju, a mali opisuje psa.",
+      "savjet": "Pitaj se tko laje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-024",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ imenica u rečenici „Jutros je padala hladna kiša.“?",
+      "ponudeni": [
+        "Jutros",
+        "padala",
+        "hladna",
+        "kiša"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kiša imenuje pojavu u prirodi, pa je imenica.",
+      "savjet": "Pitaj se što je padalo."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-025",
+      "tezina": "lagano",
+      "pitanje": "Koju riječ stavljamo ispred imenice „grad“ kad provjeravamo njezin rod?",
+      "ponudeni": [
+        "ta",
+        "to",
+        "taj",
+        "te"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažemo „taj grad“, jer je grad imenica muškoga roda.",
+      "savjet": "Izgovori sve mogućnosti uz imenicu i poslušaj koja zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-026",
+      "tezina": "lagano",
+      "pitanje": "Koju riječ stavljamo ispred imenice „sunce“ kad provjeravamo njezin rod?",
+      "ponudeni": [
+        "taj",
+        "to",
+        "ta",
+        "ti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo „to sunce“, jer je sunce imenica srednjega roda.",
+      "savjet": "Izgovori sve mogućnosti uz imenicu i poslušaj koja zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-027",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi imenuje biljku?",
+      "ponudeni": [
+        "mirisan",
+        "rasti",
+        "žut",
+        "ruža"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ruža je biljka, a riječ ruža je imenica.",
+      "savjet": "Postavi pitanje što? i potraži ime nečega što raste u vrtu."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-028",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi imenuje životinju?",
+      "ponudeni": [
+        "lisica",
+        "brz",
+        "loviti",
+        "riđ"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lisica je životinja, a riječ lisica je imenica.",
+      "savjet": "Postavi pitanje tko? i potraži ime živog bića."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-029",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi imenuje osobu?",
+      "ponudeni": [
+        "učiti",
+        "pametan",
+        "učiteljica",
+        "školski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Učiteljica je osoba, a riječ učiteljica je imenica.",
+      "savjet": "Postavi pitanje tko? i potraži riječ koja imenuje čovjeka."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-030",
+      "tezina": "lagano",
+      "pitanje": "Kojega je roda imenica „jabuka“?",
+      "ponudeni": [
+        "Ženski rod",
+        "Muški rod",
+        "Srednji rod",
+        "Imenica nema roda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kažemo „ta jabuka“, pa je imenica jabuka ženskoga roda.",
+      "savjet": "Stavi ispred imenice riječ taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-031",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi množina imenice „stol“ u rečenici „Ovo su novi ___.“?",
+      "ponudeni": [
+        "stoli",
+        "stolovi",
+        "stola",
+        "stole"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Množina imenice stol glasi stolovi: Ovo su novi stolovi.",
+      "savjet": "Sjeti se kako kažeš kad u učionici ima mnogo stolova: ovo su …"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-032",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi množina imenice „kuća“ u rečenici „Ovo su visoke ___.“?",
+      "ponudeni": [
+        "kuća",
+        "kućovi",
+        "kuće",
+        "kući"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množina imenice kuća glasi kuće: Ovo su visoke kuće.",
+      "savjet": "Izgovori cijelu rečenicu sa svakom riječi i poslušaj koja zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-033",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi množina imenice „selo“ u rečenici „Ovo su mala ___.“?",
+      "ponudeni": [
+        "sela",
+        "selovi",
+        "sele",
+        "selu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Množina imenice selo glasi sela: Ovo su mala sela.",
+      "savjet": "Sjeti se kako glasi množina slične imenice more."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-034",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi množina imenice „olovka“ u rečenici „Ovo su šarene ___.“?",
+      "ponudeni": [
+        "olovki",
+        "olovka",
+        "olovkovi",
+        "olovke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Množina imenice olovka glasi olovke: Ovo su šarene olovke.",
+      "savjet": "Sjeti se kako glasi množina slične imenice knjiga."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-035",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi jednina imenice „prozori“ u rečenici „Ovo je jedan ___.“?",
+      "ponudeni": [
+        "prozora",
+        "prozor",
+        "prozore",
+        "prozoru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jednina imenice prozori glasi prozor: Ovo je jedan prozor.",
+      "savjet": "Izgovori cijelu rečenicu sa svakom riječi i poslušaj koja zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-036",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi jednina imenice „knjige“ u rečenici „Ovo je jedna ___.“?",
+      "ponudeni": [
+        "knjige",
+        "knjigu",
+        "knjiga",
+        "knjizi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jednina imenice knjige glasi knjiga: Ovo je jedna knjiga.",
+      "savjet": "Izgovori cijelu rečenicu sa svakom riječi i poslušaj koja zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-037",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi jednina imenice „mora“ u rečenici „Ovo je jedno ___.“?",
+      "ponudeni": [
+        "mora",
+        "moru",
+        "morem",
+        "more"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jednina imenice mora glasi more: Ovo je jedno more.",
+      "savjet": "Pomisli kako se zove velika slana voda uz koju ljeti putuješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-038",
+      "tezina": "srednje",
+      "pitanje": "Kojega je roda imenica „noć“?",
+      "ponudeni": [
+        "Ženski rod",
+        "Muški rod",
+        "Srednji rod",
+        "Imenica nema roda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kažemo „ta noć“, pa je noć ženskoga roda, iako završava suglasnikom.",
+      "savjet": "Ne gledaj kojim slovom imenica završava, nego reci taj, ta ili to ispred nje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-039",
+      "tezina": "srednje",
+      "pitanje": "Kojega je roda imenica „ljubav“?",
+      "ponudeni": [
+        "Muški rod",
+        "Srednji rod",
+        "Ženski rod",
+        "Imenica nema roda"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažemo „ta ljubav“, pa je ljubav ženskoga roda, iako završava suglasnikom.",
+      "savjet": "Ne gledaj kojim slovom imenica završava, nego reci jedan, jedna ili jedno ispred nje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-040",
+      "tezina": "srednje",
+      "pitanje": "Kojega je roda imenica „dijete“?",
+      "ponudeni": [
+        "Muški rod",
+        "Srednji rod",
+        "Ženski rod",
+        "Imenica nema roda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo „to dijete“, pa je imenica dijete srednjega roda.",
+      "savjet": "Stavi ispred imenice riječ taj, ta ili to i poslušaj što zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-041",
+      "tezina": "srednje",
+      "pitanje": "Kojega je roda imenica „pile“?",
+      "ponudeni": [
+        "Ženski rod",
+        "Muški rod",
+        "Imenica nema roda",
+        "Srednji rod"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kažemo „to pile“, pa je imenica pile srednjega roda.",
+      "savjet": "Reci imenicu uz riječ jedan, jedna ili jedno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-042",
+      "tezina": "srednje",
+      "pitanje": "U kojem su rodu i broju imenica „stolovi“?",
+      "ponudeni": [
+        "Muški rod, množina",
+        "Muški rod, jednina",
+        "Ženski rod, množina",
+        "Srednji rod, množina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stol je muškoga roda (taj stol), a stolovi znači više stolova, pa je to množina.",
+      "savjet": "Najprije odredi rod u jednini, a onda provjeri je li riječ o jednom ili više."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-043",
+      "tezina": "srednje",
+      "pitanje": "U kojem su rodu i broju imenica „kuće“?",
+      "ponudeni": [
+        "Ženski rod, jednina",
+        "Srednji rod, množina",
+        "Ženski rod, množina",
+        "Muški rod, množina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kuća je ženskoga roda (ta kuća), a kuće znači više kuća, pa je to množina.",
+      "savjet": "Najprije odredi rod u jednini, a onda provjeri je li riječ o jednom ili više."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-044",
+      "tezina": "srednje",
+      "pitanje": "U kojem su rodu i broju imenica „jezera“ u rečenici „Jezera su puna ribe.“?",
+      "ponudeni": [
+        "Srednji rod, jednina",
+        "Ženski rod, množina",
+        "Muški rod, množina",
+        "Srednji rod, množina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jezero je srednjega roda (to jezero), a jezera u ovoj rečenici znači više jezera, pa je to množina.",
+      "savjet": "Pogledaj glagol su: govori li rečenica o jednom ili o više jezera?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-045",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo imenice ženskoga roda?",
+      "ponudeni": [
+        "stol, ruka, more",
+        "kuća, ruža, noć",
+        "selo, mačka, brat",
+        "olovka, prozor, sunce"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo ta kuća, ta ruža i ta noć, pa su sve tri imenice ženskoga roda.",
+      "savjet": "Ispred svake imenice u nizu reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-046",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo imenice srednjega roda?",
+      "ponudeni": [
+        "more, kuća, pile",
+        "nebo, grad, selo",
+        "more, sunce, pile",
+        "sunce, cvijet, ruža"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažemo to more, to sunce i to pile, pa su sve tri imenice srednjega roda.",
+      "savjet": "Ispred svake imenice u nizu reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-047",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo imenice muškoga roda?",
+      "ponudeni": [
+        "stol, kuća, grad",
+        "pas, nebo, prozor",
+        "brat, sestra, grad",
+        "stol, pas, grad"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kažemo taj stol, taj pas i taj grad, pa su sve tri imenice muškoga roda.",
+      "savjet": "Ispred svake imenice u nizu reci jedan, jedna ili jedno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-048",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo imenice u množini?",
+      "ponudeni": [
+        "stolovi, kuće, prozori",
+        "stol, kuće, prozori",
+        "stolovi, kuća, prozori",
+        "stolovi, kuće, prozor"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stolovi, kuće i prozori imenuju više stvari, pa su sve tri imenice u množini.",
+      "savjet": "Provjeri svaku riječ: imenuje li jednu stvar ili više njih?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-049",
+      "tezina": "srednje",
+      "pitanje": "Koja je imenica u množini u rečenici „Baka bere jabuke u voćnjaku.“?",
+      "ponudeni": [
+        "Baka",
+        "bere",
+        "jabuke",
+        "voćnjaku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jabuke znači više jabuka, pa je ta imenica u množini. Baka i voćnjak su u jednini.",
+      "savjet": "Pitaj se čega u rečenici ima više od jednoga."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-050",
+      "tezina": "srednje",
+      "pitanje": "Koja je imenica srednjega roda u rečenici „Sunce grije livadu i šumu.“?",
+      "ponudeni": [
+        "Sunce",
+        "grije",
+        "livadu",
+        "šumu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kažemo „to sunce“, pa je sunce srednjega roda. Livada i šuma su ženskoga roda.",
+      "savjet": "Pronađi imenice pa ispred svake reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-051",
+      "tezina": "srednje",
+      "pitanje": "Koja je imenica muškoga roda u rečenici „Mačka spava na stolu.“?",
+      "ponudeni": [
+        "Mačka",
+        "spava",
+        "na",
+        "stolu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ stolu dolazi od imenice stol, a kažemo „taj stol“, pa je muškoga roda. Mačka je ženskoga roda.",
+      "savjet": "Pronađi imenice, sjeti se kako glase u osnovnom obliku i reci ispred njih taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-052",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje izraz „___ pas“?",
+      "ponudeni": [
+        "jedna",
+        "jedan",
+        "jedno",
+        "jedni"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo „jedan pas“, jer je pas imenica muškoga roda u jednini.",
+      "savjet": "Odredi rod imenice pas pa izaberi riječ koja uz taj rod pristaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-053",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu „___ olovka je plava.“?",
+      "ponudeni": [
+        "Taj",
+        "To",
+        "Ti",
+        "Ta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Olovka je imenica ženskoga roda, pa kažemo „Ta olovka je plava.“",
+      "savjet": "Odredi rod imenice olovka."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-054",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu „___ nebo je vedro.“?",
+      "ponudeni": [
+        "Taj",
+        "Ta",
+        "To",
+        "Te"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nebo je imenica srednjega roda, pa kažemo „To nebo je vedro.“",
+      "savjet": "Odredi rod imenice nebo."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-055",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu „___ prozor je otvoren.“?",
+      "ponudeni": [
+        "Taj",
+        "Ta",
+        "To",
+        "Te"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prozor je imenica muškoga roda, pa kažemo „Taj prozor je otvoren.“",
+      "savjet": "Odredi rod imenice prozor."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-056",
+      "tezina": "srednje",
+      "pitanje": "Kojoj od ovih imenica u množini dodajemo -ovi?",
+      "ponudeni": [
+        "kuća",
+        "more",
+        "grad",
+        "olovka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množina imenice grad glasi gradovi. Kuća i olovka u množini glase kuće i olovke, a more glasi mora.",
+      "savjet": "Izgovori množinu svake imenice: ovo su …"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-057",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi množina imenice „jabuka“ u rečenici „Ovo su crvene ___.“?",
+      "ponudeni": [
+        "jabuka",
+        "jabuke",
+        "jabukovi",
+        "jabuki"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Množina imenice jabuka glasi jabuke: Ovo su crvene jabuke.",
+      "savjet": "Izgovori cijelu rečenicu sa svakom riječi i poslušaj koja zvuči pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-058",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi množina imenice „jezero“ u rečenici „Ovo su duboka ___.“?",
+      "ponudeni": [
+        "jezera",
+        "jezere",
+        "jezerovi",
+        "jezeri"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Množina imenice jezero glasi jezera: Ovo su duboka jezera.",
+      "savjet": "Sjeti se kako glasi množina slične imenice selo."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-059",
+      "tezina": "srednje",
+      "pitanje": "Koja je imenica istoga roda kao imenica „more“?",
+      "ponudeni": [
+        "kuća",
+        "sunce",
+        "grad",
+        "ruža"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo to more i to sunce, pa su obje imenice srednjega roda.",
+      "savjet": "Najprije odredi rod imenice more, a onda ga usporedi s ostalima."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-060",
+      "tezina": "srednje",
+      "pitanje": "Koja je imenica istoga roda kao imenica „ruža“?",
+      "ponudeni": [
+        "jabuka",
+        "cvijet",
+        "polje",
+        "vrt"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kažemo ta ruža i ta jabuka, pa su obje imenice ženskoga roda.",
+      "savjet": "Najprije odredi rod imenice ruža, a onda ga usporedi s ostalima."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-061",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica u rečenici „Tata i mama kupuju kruh i mlijeko.“?",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imenice su tata, mama, kruh i mlijeko, dakle četiri. Kupuju je glagol, a i nije imenica.",
+      "savjet": "Uz svaku riječ postavi pitanje tko? ili što?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-062",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica u rečenici „Marko čita knjigu u sobi.“?",
+      "ponudeni": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imenice su Marko, knjigu i sobi, dakle tri. I ime osobe je imenica.",
+      "savjet": "Ne zaboravi da su i imena ljudi imenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-063",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica u množini u rečenici „Ptice pjevaju na granama starog hrasta.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U množini su ptice i granama, dakle dvije imenice. Hrasta je u jednini jer je riječ o jednom hrastu.",
+      "savjet": "Najprije pronađi sve imenice, a onda provjeri imenuje li svaka jedno ili više."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-064",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica ženskoga roda u rečenici „Baka i unuka sade ruže u vrtu.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ženskoga su roda baka, unuka i ruže (ta ruža), dakle tri. Vrt je muškoga roda.",
+      "savjet": "Pronađi imenice i za svaku u jednini reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-065",
+      "tezina": "tesko",
+      "pitanje": "Koja imenica po rodu ne pripada nizu „stol, grad, kuća, prozor“?",
+      "ponudeni": [
+        "stol",
+        "grad",
+        "kuća",
+        "prozor"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stol, grad i prozor su muškoga roda, a kuća je ženskoga roda (ta kuća).",
+      "savjet": "Odredi rod svake imenice i pronađi onu koja se razlikuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-066",
+      "tezina": "tesko",
+      "pitanje": "Koja imenica po rodu ne pripada nizu „more, sunce, nebo, ruka“?",
+      "ponudeni": [
+        "more",
+        "sunce",
+        "nebo",
+        "ruka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "More, sunce i nebo su srednjega roda, a ruka je ženskoga roda (ta ruka).",
+      "savjet": "Odredi rod svake imenice i pronađi onu koja se razlikuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-067",
+      "tezina": "tesko",
+      "pitanje": "Koja imenica po rodu ne pripada nizu „mačka, noć, selo, olovka“?",
+      "ponudeni": [
+        "selo",
+        "mačka",
+        "noć",
+        "olovka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mačka, noć i olovka su ženskoga roda, a selo je srednjega roda (to selo).",
+      "savjet": "Ne gledaj samo završno slovo, nego ispred svake imenice reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-068",
+      "tezina": "tesko",
+      "pitanje": "Koja imenica po broju ne pripada nizu „kuće, stolovi, prozor, olovke“?",
+      "ponudeni": [
+        "kuće",
+        "prozor",
+        "stolovi",
+        "olovke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kuće, stolovi i olovke su u množini, a prozor je u jednini.",
+      "savjet": "Za svaku imenicu provjeri imenuje li jednu stvar ili više njih."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-069",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici imenica „knjiga“ upotrijebljena u množini?",
+      "ponudeni": [
+        "Na stolu je knjiga.",
+        "Na polici su knjige.",
+        "Ivana čita knjigu.",
+        "Ova knjiga je nova."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U rečenici „Na polici su knjige.“ riječ knjige znači više knjiga, pa je u množini.",
+      "savjet": "Potraži rečenicu u kojoj je riječ o više knjiga."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-070",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici sve imenice srednjega roda?",
+      "ponudeni": [
+        "Sunce obasjava more.",
+        "Mjesec obasjava more.",
+        "Sunce obasjava rijeku.",
+        "Zvijezda obasjava selo."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kažemo to sunce i to more, pa su obje imenice srednjega roda. Mjesec je muškoga, a rijeka i zvijezda ženskoga roda.",
+      "savjet": "U svakoj rečenici odredi rod obiju imenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-071",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici sve imenice muškoga roda?",
+      "ponudeni": [
+        "Pas trči po livadi.",
+        "Dječak baca loptu.",
+        "Brat gleda film.",
+        "Mačka lovi miša."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažemo taj brat i taj film, pa su obje imenice muškoga roda. Livada, lopta i mačka su ženskoga roda.",
+      "savjet": "U svakoj rečenici odredi rod obiju imenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-072",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici sve imenice ženskoga roda?",
+      "ponudeni": [
+        "Sestra nosi torbu.",
+        "Mama kuha ručak.",
+        "Baka gleda more.",
+        "Vjetar nosi lišće."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kažemo ta sestra i ta torba, pa su obje imenice ženskoga roda. Ručak i vjetar su muškoga, a more i lišće srednjega roda.",
+      "savjet": "U svakoj rečenici odredi rod obiju imenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-073",
+      "tezina": "tesko",
+      "pitanje": "U rečenici „Ta selo je malo.“ jedna je riječ pogrešna. Kako glasi ispravna rečenica?",
+      "ponudeni": [
+        "Taj selo je malo.",
+        "Ta selo je mala.",
+        "Ti selo je malo.",
+        "To selo je malo."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Selo je imenica srednjega roda, pa kažemo „To selo je malo.“",
+      "savjet": "Odredi rod imenice selo i provjeri riječ ispred nje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-074",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o kući pravilno napisana?",
+      "ponudeni": [
+        "Taj kuća je velika.",
+        "Ta kuća je velika.",
+        "To kuća je velika.",
+        "Taj kuća je veliki."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kuća je imenica ženskoga roda, pa kažemo „Ta kuća je velika.“",
+      "savjet": "Odredi rod imenice kuća i pazi da joj riječi oko nje odgovaraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-075",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Prozor je otvoren.“ kad imenicu „prozor“ staviš u množinu?",
+      "ponudeni": [
+        "Prozori su otvoreni.",
+        "Prozori je otvoren.",
+        "Prozora su otvorena.",
+        "Prozore su otvoreni."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Množina od prozor glasi prozori, a s njom se mijenjaju i ostale riječi: Prozori su otvoreni.",
+      "savjet": "Kad imenica prijeđe u množinu, i ostale riječi u rečenici moraju se promijeniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-076",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Olovka je nova.“ kad imenicu „olovka“ staviš u množinu?",
+      "ponudeni": [
+        "Olovke je nova.",
+        "Olovka su nove.",
+        "Olovke su nove.",
+        "Olovki su novi."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množina od olovka glasi olovke, a s njom se mijenjaju i ostale riječi: Olovke su nove.",
+      "savjet": "Kad imenica prijeđe u množinu, i ostale riječi u rečenici moraju se promijeniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-077",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Kuće su visoke.“ kad imenicu „kuće“ staviš u jedninu?",
+      "ponudeni": [
+        "Kuća su visoke.",
+        "Kuće je visoka.",
+        "Kuća je visoke.",
+        "Kuća je visoka."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jednina od kuće glasi kuća, a s njom se mijenjaju i ostale riječi: Kuća je visoka.",
+      "savjet": "Kad imenica prijeđe u jedninu, i ostale riječi u rečenici moraju se promijeniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-078",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Sela su mirna.“ kad imenicu „sela“ staviš u jedninu?",
+      "ponudeni": [
+        "Selo su mirna.",
+        "Selo je mirno.",
+        "Sela je mirno.",
+        "Selo je mirna."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jednina od sela glasi selo, a s njom se mijenjaju i ostale riječi: Selo je mirno.",
+      "savjet": "Kad imenica prijeđe u jedninu, i ostale riječi u rečenici moraju se promijeniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-079",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica srednjega roda u rečenici „Pile i tele spavaju na sijenu u štali.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srednjega su roda pile, tele i sijeno (to sijeno), dakle tri. Štala je ženskoga roda.",
+      "savjet": "Pronađi imenice i za svaku u osnovnom obliku reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-080",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica muškoga roda u rečenici „Djed i unuk hrane konja u dvorištu.“?",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Muškoga su roda djed, unuk i konj, dakle tri. Dvorište je srednjega roda.",
+      "savjet": "Pronađi imenice i za svaku u osnovnom obliku reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-081",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o imenici „noć“ točna?",
+      "ponudeni": [
+        "Muškoga je roda jer završava suglasnikom.",
+        "Ženskoga je roda jer kažemo „ta noć“.",
+        "Srednjega je roda jer kažemo „to noć“.",
+        "Nema roda jer imenuje pojavu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rod ne određujemo po završnom slovu, nego riječima taj, ta, to. Kažemo „ta noć“, pa je noć ženskoga roda.",
+      "savjet": "Sjeti se kako se pouzdano provjerava rod imenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-082",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o imenici „dijete“ točna?",
+      "ponudeni": [
+        "Ženskoga je roda jer završava na -e.",
+        "Muškoga je roda jer kažemo „taj dijete“.",
+        "Srednjega je roda jer kažemo „to dijete“.",
+        "Nema roda jer imenuje osobu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažemo „to dijete“, pa je imenica dijete srednjega roda.",
+      "savjet": "Sjeti se kako se pouzdano provjerava rod imenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-083",
+      "tezina": "tesko",
+      "pitanje": "Koja imenica imenuje pojavu u prirodi i ženskoga je roda?",
+      "ponudeni": [
+        "vjetar",
+        "kiša",
+        "sunce",
+        "oblak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kiša je pojava u prirodi, a kažemo „ta kiša“, pa je ženskoga roda. Vjetar i oblak su muškoga, a sunce srednjega roda.",
+      "savjet": "Provjeri oba uvjeta: što imenica imenuje i kojega je roda."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-084",
+      "tezina": "tesko",
+      "pitanje": "Koja imenica imenuje biće i srednjega je roda?",
+      "ponudeni": [
+        "pile",
+        "mačka",
+        "pas",
+        "ptica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pile je biće, a kažemo „to pile“, pa je srednjega roda. Mačka i ptica su ženskoga, a pas muškoga roda.",
+      "savjet": "Sve su to bića, zato ispred svake imenice reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-085",
+      "tezina": "tesko",
+      "pitanje": "Koja imenica imenuje stvar i muškoga je roda?",
+      "ponudeni": [
+        "olovka",
+        "more",
+        "knjiga",
+        "stol"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stol je stvar, a kažemo „taj stol“, pa je muškoga roda. Olovka i knjiga su ženskoga, a more srednjega roda.",
+      "savjet": "Provjeri oba uvjeta: što imenica imenuje i kojega je roda."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-086",
+      "tezina": "tesko",
+      "pitanje": "U kojem je paru uz jedninu napisana pravilna množina?",
+      "ponudeni": [
+        "kuća – kućovi",
+        "selo – sele",
+        "stol – stolovi",
+        "olovka – olovki"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množina od stol glasi stolovi. Pravilno je kuća – kuće, selo – sela i olovka – olovke.",
+      "savjet": "Za svaki par izgovori: ovo je jedan … , ovo su …"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-087",
+      "tezina": "tesko",
+      "pitanje": "U kojem je paru množina napisana pogrešno?",
+      "ponudeni": [
+        "grad – gradovi",
+        "knjiga – knjige",
+        "more – morovi",
+        "prozor – prozori"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Množina od more glasi mora, a ne morovi. Ostali su parovi napisani pravilno.",
+      "savjet": "Za svaki par izgovori: ovo je jedno … , ovo su …"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-088",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica u množini u rečenici „Na stolu su tanjuri, čaše i žlice.“?",
+      "ponudeni": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U množini su tanjuri, čaše i žlice, dakle tri imenice. Stolu je u jednini jer je riječ o jednom stolu.",
+      "savjet": "Najprije pronađi sve imenice, a onda provjeri imenuje li svaka jedno ili više."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-089",
+      "tezina": "tesko",
+      "pitanje": "Koja imenica pravilno dopunjuje rečenicu „To ___ je staro.“?",
+      "ponudeni": [
+        "stablo",
+        "hrast",
+        "kuća",
+        "grad"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječi to i staro pristaju uz imenicu srednjega roda, a stablo je srednjega roda (to stablo).",
+      "savjet": "Pogledaj riječ to i odredi koji rod mora imati imenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-rod-i-broj-090",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica u rečenici „Vjetar nosi lišće preko polja i livade.“?",
+      "ponudeni": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Imenice su vjetar, lišće, polja i livade, dakle četiri. Nosi je glagol, a preko i i nisu imenice.",
+      "savjet": "Uz svaku riječ postavi pitanje tko? ili što?"
+    }
+  ]
+}

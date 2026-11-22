@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "pridjevi-opisni-posvojni-i-gradivni",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-001",
+      "tezina": "lagano",
+      "pitanje": "Koje riječi nazivamo pridjevima?",
+      "ponudeni": [
+        "Riječi koje opisuju imenicu",
+        "Riječi koje imenuju bića i stvari",
+        "Riječi koje izriču radnju",
+        "Riječi koje povezuju rečenice"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pridjevi opisuju imenicu: kazuju kakva je, čija je ili od čega je.",
+      "savjet": "Sjeti se što riječ crven radi u izrazu crven balon."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-002",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara opisni pridjev?",
+      "ponudeni": [
+        "Čiji?",
+        "Kakav?",
+        "Od čega?",
+        "Tko?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opisni pridjevi kazuju kakvo je nešto, npr. velik, brz, lijep.",
+      "savjet": "Opisni pridjev opisuje izgled ili osobinu imenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-003",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara posvojni pridjev?",
+      "ponudeni": [
+        "Kakav?",
+        "Od čega?",
+        "Čiji?",
+        "Što radi?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Posvojni pridjevi kazuju komu nešto pripada, npr. mamin, Ivanov.",
+      "savjet": "Posvojiti znači imati nešto svoje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-004",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara gradivni pridjev?",
+      "ponudeni": [
+        "Čiji?",
+        "Kakav?",
+        "Što?",
+        "Od čega?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gradivni pridjevi kazuju od kojeg je gradiva nešto napravljeno, npr. drveni, kameni.",
+      "savjet": "Gradivo je materijal od kojeg se nešto izrađuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-005",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ponuđenih riječi pridjev?",
+      "ponudeni": [
+        "visok",
+        "kuća",
+        "trčati",
+        "prozor"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Visok je pridjev jer opisuje kakvo je nešto, npr. visok toranj.",
+      "savjet": "Pokušaj uz svaku riječ postaviti pitanje kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-006",
+      "tezina": "lagano",
+      "pitanje": "Koji je pridjev u rečenici „Mačka ima meko krzno.“?",
+      "ponudeni": [
+        "Mačka",
+        "meko",
+        "ima",
+        "krzno"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ meko opisuje kakvo je krzno, pa je pridjev.",
+      "savjet": "Pronađi riječ koja kazuje kakvo je krzno."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-007",
+      "tezina": "lagano",
+      "pitanje": "Koji je pridjev u rečenici „Baka je ispekla ukusan kolač.“?",
+      "ponudeni": [
+        "Baka",
+        "ispekla",
+        "ukusan",
+        "kolač"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ ukusan opisuje kakav je kolač, pa je pridjev.",
+      "savjet": "Pitaj se kakav je kolač."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-008",
+      "tezina": "lagano",
+      "pitanje": "Koji je pridjev u rečenici „Ivan nosi tatin šešir.“?",
+      "ponudeni": [
+        "Ivan",
+        "nosi",
+        "šešir",
+        "tatin"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ tatin kazuje čiji je šešir, pa je posvojni pridjev.",
+      "savjet": "Pitaj se čiji je šešir."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-009",
+      "tezina": "lagano",
+      "pitanje": "Koji je pridjev u rečenici „Na stolu je staklena čaša.“?",
+      "ponudeni": [
+        "staklena",
+        "stolu",
+        "je",
+        "čaša"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ staklena kazuje od čega je čaša, pa je gradivni pridjev.",
+      "savjet": "Pitaj se od čega je napravljena čaša."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-010",
+      "tezina": "lagano",
+      "pitanje": "Koja je vrsta pridjeva riječ „crven“?",
+      "ponudeni": [
+        "Posvojni pridjev",
+        "Opisni pridjev",
+        "Gradivni pridjev",
+        "Nije pridjev"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Crven kazuje kakvo je nešto, npr. crven balon, pa je opisni pridjev.",
+      "savjet": "Zamisli imenicu uz tu riječ i postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-011",
+      "tezina": "lagano",
+      "pitanje": "Koja je vrsta pridjeva riječ „mamin“?",
+      "ponudeni": [
+        "Opisni pridjev",
+        "Gradivni pridjev",
+        "Posvojni pridjev",
+        "Nije pridjev"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mamin kazuje čije je nešto, npr. mamin kaput, pa je posvojni pridjev.",
+      "savjet": "Zamisli imenicu uz tu riječ i postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-012",
+      "tezina": "lagano",
+      "pitanje": "Koja je vrsta pridjeva riječ „vuneni“?",
+      "ponudeni": [
+        "Opisni pridjev",
+        "Posvojni pridjev",
+        "Nije pridjev",
+        "Gradivni pridjev"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vuneni kazuje od čega je nešto napravljeno, npr. vuneni šal, pa je gradivni pridjev.",
+      "savjet": "Sjeti se od čega se pletu šalovi i kape."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-013",
+      "tezina": "lagano",
+      "pitanje": "Koja je vrsta pridjeva riječ „Marijin“?",
+      "ponudeni": [
+        "Posvojni pridjev",
+        "Opisni pridjev",
+        "Gradivni pridjev",
+        "Nije pridjev"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Marijin kazuje čije je nešto, npr. Marijin pas, pa je posvojni pridjev.",
+      "savjet": "Riječ je nastala od imena osobe."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-014",
+      "tezina": "lagano",
+      "pitanje": "Koja je vrsta pridjeva riječ „hladan“?",
+      "ponudeni": [
+        "Gradivni pridjev",
+        "Opisni pridjev",
+        "Posvojni pridjev",
+        "Nije pridjev"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hladan kazuje kakvo je nešto, npr. hladan vjetar, pa je opisni pridjev.",
+      "savjet": "Zamisli imenicu uz tu riječ i postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-015",
+      "tezina": "lagano",
+      "pitanje": "Koja je vrsta pridjeva riječ „kameni“?",
+      "ponudeni": [
+        "Opisni pridjev",
+        "Posvojni pridjev",
+        "Gradivni pridjev",
+        "Nije pridjev"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kameni kazuje od čega je nešto napravljeno, npr. kameni most, pa je gradivni pridjev.",
+      "savjet": "Zamisli imenicu uz tu riječ i postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-016",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ponuđenih pridjeva posvojni?",
+      "ponudeni": [
+        "brz",
+        "drveni",
+        "lijep",
+        "bakin"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bakin kazuje čije je nešto, npr. bakin vrt, pa je posvojni pridjev.",
+      "savjet": "Potraži pridjev koji odgovara na pitanje čiji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-017",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ponuđenih pridjeva gradivni?",
+      "ponudeni": [
+        "zlatni",
+        "velik",
+        "sestrin",
+        "veseo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zlatni kazuje od čega je nešto napravljeno, npr. zlatni prsten, pa je gradivni pridjev.",
+      "savjet": "Potraži pridjev koji odgovara na pitanje od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-018",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ponuđenih pridjeva opisni?",
+      "ponudeni": [
+        "Ivanov",
+        "visok",
+        "papirnati",
+        "djedov"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Visok kazuje kakvo je nešto, npr. visok toranj, pa je opisni pridjev.",
+      "savjet": "Potraži pridjev koji odgovara na pitanje kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-019",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara pridjev u izrazu „kožna torba“?",
+      "ponudeni": [
+        "Čija?",
+        "Što radi?",
+        "Od čega?",
+        "Tko?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kožna torba napravljena je od kože, pa pridjev kožna odgovara na pitanje od čega?",
+      "savjet": "Razmisli što kožna kazuje o torbi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-020",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara pridjev u izrazu „bratov bicikl“?",
+      "ponudeni": [
+        "Od čega?",
+        "Što radi?",
+        "Gdje?",
+        "Čiji?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bicikl pripada bratu, pa pridjev bratov odgovara na pitanje čiji?",
+      "savjet": "Razmisli što bratov kazuje o biciklu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-021",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara pridjev u izrazu „tiha glazba“?",
+      "ponudeni": [
+        "Kakva?",
+        "Čija?",
+        "Od čega?",
+        "Tko?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tiha opisuje kakva je glazba, pa je to opisni pridjev.",
+      "savjet": "Razmisli što tiha kazuje o glazbi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-022",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ u rečenici „Luka ima novu loptu.“ odgovara na pitanje kakvu?",
+      "ponudeni": [
+        "Luka",
+        "novu",
+        "ima",
+        "loptu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Luka ima novu loptu, pa riječ novu kazuje kakva je lopta.",
+      "savjet": "Pitaj se kakvu loptu Luka ima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-023",
+      "tezina": "lagano",
+      "pitanje": "Od čega je napravljena čaša u izrazu „plastična čaša“?",
+      "ponudeni": [
+        "Od stakla",
+        "Od papira",
+        "Od plastike",
+        "Od gline"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gradivni pridjev plastična kazuje da je čaša od plastike.",
+      "savjet": "Gradivni pridjev nastaje od imena gradiva."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-024",
+      "tezina": "lagano",
+      "pitanje": "Komu pripada šal u izrazu „sestrin šal“?",
+      "ponudeni": [
+        "Bratu",
+        "Mami",
+        "Baki",
+        "Sestri"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Posvojni pridjev sestrin kazuje da šal pripada sestri.",
+      "savjet": "Posvojni pridjev nastaje od imena onoga komu nešto pripada."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-025",
+      "tezina": "lagano",
+      "pitanje": "Koji je pridjev gradivni u rečenici „Mama je kupila crvenu vunenu kapu.“?",
+      "ponudeni": [
+        "vunenu",
+        "crvenu",
+        "kapu",
+        "kupila"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vunenu kazuje od čega je kapa napravljena, a crvenu samo kakva je.",
+      "savjet": "Pitaj se od čega je kapa napravljena."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-026",
+      "tezina": "lagano",
+      "pitanje": "Koji je pridjev opisni u rečenici „Anin pas ima dugi rep.“?",
+      "ponudeni": [
+        "Anin",
+        "dugi",
+        "pas",
+        "rep"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dugi kazuje kakav je rep, pa je opisni pridjev. Anin je posvojni pridjev.",
+      "savjet": "Pitaj se kakav je rep."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-027",
+      "tezina": "lagano",
+      "pitanje": "Koji je pridjev posvojni u rečenici „Na stolu je bakina drvena kutija.“?",
+      "ponudeni": [
+        "drvena",
+        "stolu",
+        "bakina",
+        "kutija"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bakina kazuje čija je kutija, pa je posvojni pridjev. Drvena je gradivni pridjev.",
+      "savjet": "Pitaj se čija je kutija."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-028",
+      "tezina": "lagano",
+      "pitanje": "Pridjev „zlatni“ kazuje od čega je nešto napravljeno. Kako se zove takav pridjev?",
+      "ponudeni": [
+        "Opisni pridjev",
+        "Posvojni pridjev",
+        "Imenica",
+        "Gradivni pridjev"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pridjevi koji kazuju od kojeg je gradiva nešto napravljeno zovu se gradivni pridjevi.",
+      "savjet": "Materijal od kojeg se nešto izrađuje zove se i gradivo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-029",
+      "tezina": "lagano",
+      "pitanje": "Pridjev „Petrov“ kazuje čije je nešto. Kako se zove takav pridjev?",
+      "ponudeni": [
+        "Posvojni pridjev",
+        "Opisni pridjev",
+        "Gradivni pridjev",
+        "Imenica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pridjevi koji kazuju komu nešto pripada zovu se posvojni pridjevi.",
+      "savjet": "Kad nešto posjeduješ, to je tvoje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-030",
+      "tezina": "lagano",
+      "pitanje": "Pridjev „širok“ kazuje kakvo je nešto. Kako se zove takav pridjev?",
+      "ponudeni": [
+        "Gradivni pridjev",
+        "Opisni pridjev",
+        "Posvojni pridjev",
+        "Imenica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pridjevi koji kazuju kakvo je nešto zovu se opisni pridjevi.",
+      "savjet": "Takav pridjev opisuje izgled ili osobinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-031",
+      "tezina": "srednje",
+      "pitanje": "Koji oblik pridjeva „velik“ pravilno dopunjuje izraz „___ kuća“?",
+      "ponudeni": [
+        "velika",
+        "velik",
+        "veliko",
+        "veliki"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kuća je ženskog roda (ta kuća), pa pridjev glasi velika.",
+      "savjet": "Odredi rod imenice s pomoću riječi taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-032",
+      "tezina": "srednje",
+      "pitanje": "Koji oblik pridjeva „plav“ pravilno dopunjuje izraz „___ more“?",
+      "ponudeni": [
+        "plav",
+        "plavo",
+        "plava",
+        "plave"
+      ],
+      "tocan": 1,
+      "objasnjenje": "More je srednjeg roda (to more), pa pridjev glasi plavo.",
+      "savjet": "Pridjev se slaže s imenicom u rodu i broju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-033",
+      "tezina": "srednje",
+      "pitanje": "Koji oblik pridjeva „visok“ pravilno dopunjuje izraz „___ stolovi“?",
+      "ponudeni": [
+        "visok",
+        "visoka",
+        "visoki",
+        "visoko"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stolovi su muškog roda i u množini, pa pridjev glasi visoki.",
+      "savjet": "Pazi na to je li imenica u jednini ili množini."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-034",
+      "tezina": "srednje",
+      "pitanje": "Koji oblik pridjeva „crven“ pravilno dopunjuje izraz „___ jabuke“?",
+      "ponudeni": [
+        "crven",
+        "crveno",
+        "crvena",
+        "crvene"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jabuke su ženskog roda i u množini, pa pridjev glasi crvene.",
+      "savjet": "Pazi na rod i broj imenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-035",
+      "tezina": "srednje",
+      "pitanje": "Koji oblik pridjeva pravilno dopunjuje rečenicu „Na livadi su ___ klupe.“ ako su klupe od drveta?",
+      "ponudeni": [
+        "drvene",
+        "drveni",
+        "drveno",
+        "drven"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Klupe su ženskog roda i u množini, pa pridjev glasi drvene.",
+      "savjet": "Pridjev mora pristajati imenici klupe u rodu i broju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-036",
+      "tezina": "srednje",
+      "pitanje": "Koji pridjev pravilno dopunjuje rečenicu „Ovo je ___ olovka.“ ako olovka pripada Ani?",
+      "ponudeni": [
+        "Anin",
+        "Anina",
+        "Anino",
+        "Anini"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Olovka je ženskog roda u jednini, pa posvojni pridjev glasi Anina.",
+      "savjet": "Posvojni pridjev se slaže s imenicom olovka."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-037",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi posvojni pridjev od imenice „mama“ u izrazu „___ kaput“?",
+      "ponudeni": [
+        "mamina",
+        "mamino",
+        "mamin",
+        "mami"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kaput je muškog roda (taj kaput), pa kažemo mamin kaput.",
+      "savjet": "Odredi rod imenice kaput."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-038",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi posvojni pridjev od imena „Ivan“ u izrazu „___ lopta“?",
+      "ponudeni": [
+        "Ivanov",
+        "Ivanovo",
+        "Ivanovi",
+        "Ivanova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lopta je ženskog roda u jednini, pa kažemo Ivanova lopta.",
+      "savjet": "Odredi rod imenice lopta."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-039",
+      "tezina": "srednje",
+      "pitanje": "Kako izraz „prsten od zlata“ glasi s gradivnim pridjevom?",
+      "ponudeni": [
+        "zlatni prsten",
+        "zlatov prsten",
+        "zlatin prsten",
+        "zlatski prsten"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gradivni pridjev od imenice zlato glasi zlatni, pa kažemo zlatni prsten.",
+      "savjet": "Gradivni pridjev kazuje od čega je nešto; sjeti se kako kažeš za prsten od srebra."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-040",
+      "tezina": "srednje",
+      "pitanje": "Kako izraz „čaša od stakla“ glasi s gradivnim pridjevom?",
+      "ponudeni": [
+        "staklova čaša",
+        "staklena čaša",
+        "staklina čaša",
+        "staklinska čaša"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Gradivni pridjev od imenice staklo glasi staklen, staklena, pa kažemo staklena čaša.",
+      "savjet": "Sjeti se kako kažeš za vrata od stakla."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-041",
+      "tezina": "srednje",
+      "pitanje": "Kako izraz „kapa od vune“ glasi s gradivnim pridjevom?",
+      "ponudeni": [
+        "vunina kapa",
+        "vunova kapa",
+        "vunena kapa",
+        "vunjeva kapa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gradivni pridjev od imenice vuna glasi vunen, vunena, pa kažemo vunena kapa.",
+      "savjet": "Sjeti se kako kažeš za čarape od vune."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-042",
+      "tezina": "srednje",
+      "pitanje": "Kako izraz „lonac od gline“ glasi s gradivnim pridjevom?",
+      "ponudeni": [
+        "glinin lonac",
+        "glinov lonac",
+        "glinski lonac",
+        "glineni lonac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gradivni pridjev od imenice glina glasi glineni, pa kažemo glineni lonac.",
+      "savjet": "Gradivni pridjevi često završavaju kao drveni i kameni."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-043",
+      "tezina": "srednje",
+      "pitanje": "Kako izraz „knjiga koja pripada sestri“ glasi s posvojnim pridjevom?",
+      "ponudeni": [
+        "sestrina knjiga",
+        "sestrin knjiga",
+        "sestrino knjiga",
+        "sestrena knjiga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Knjiga je ženskog roda, pa posvojni pridjev glasi sestrina.",
+      "savjet": "Posvojni pridjev mora pristajati imenici knjiga u rodu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-044",
+      "tezina": "srednje",
+      "pitanje": "Kako izraz „bicikl koji pripada djedu“ glasi s posvojnim pridjevom?",
+      "ponudeni": [
+        "djedova bicikl",
+        "djedov bicikl",
+        "djedovo bicikl",
+        "djedni bicikl"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bicikl je muškog roda, pa posvojni pridjev glasi djedov.",
+      "savjet": "Posvojni pridjev mora pristajati imenici bicikl u rodu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-045",
+      "tezina": "srednje",
+      "pitanje": "Koja je vrsta pridjeva u izrazu „papirnati zmaj“?",
+      "ponudeni": [
+        "Opisni pridjev",
+        "Posvojni pridjev",
+        "Gradivni pridjev",
+        "Nije pridjev"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Papirnati zmaj napravljen je od papira, pa je papirnati gradivni pridjev.",
+      "savjet": "Postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-046",
+      "tezina": "srednje",
+      "pitanje": "Koja je vrsta pridjeva u izrazu „susjedov vrt“?",
+      "ponudeni": [
+        "Opisni pridjev",
+        "Gradivni pridjev",
+        "Nije pridjev",
+        "Posvojni pridjev"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrt pripada susjedu, pa je susjedov posvojni pridjev.",
+      "savjet": "Postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-047",
+      "tezina": "srednje",
+      "pitanje": "Koja je vrsta pridjeva u izrazu „tamna šuma“?",
+      "ponudeni": [
+        "Opisni pridjev",
+        "Posvojni pridjev",
+        "Gradivni pridjev",
+        "Nije pridjev"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tamna kazuje kakva je šuma, pa je opisni pridjev.",
+      "savjet": "Postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-048",
+      "tezina": "srednje",
+      "pitanje": "U kojem je izrazu uz imenicu „torba“ gradivni pridjev?",
+      "ponudeni": [
+        "mamina torba",
+        "kožna torba",
+        "velika torba",
+        "nova torba"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kožna kazuje od čega je torba napravljena, pa je gradivni pridjev.",
+      "savjet": "Potraži pridjev koji odgovara na pitanje od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-049",
+      "tezina": "srednje",
+      "pitanje": "U kojem je izrazu uz imenicu „kuća“ posvojni pridjev?",
+      "ponudeni": [
+        "kamena kuća",
+        "mala kuća",
+        "bakina kuća",
+        "bijela kuća"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bakina kazuje čija je kuća, pa je posvojni pridjev.",
+      "savjet": "Potraži pridjev koji odgovara na pitanje čiji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-050",
+      "tezina": "srednje",
+      "pitanje": "U kojem je izrazu uz imenicu „stol“ opisni pridjev?",
+      "ponudeni": [
+        "drveni stol",
+        "tatin stol",
+        "stakleni stol",
+        "okrugli stol"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Okrugli kazuje kakav je stol, pa je opisni pridjev.",
+      "savjet": "Potraži pridjev koji odgovara na pitanje kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-051",
+      "tezina": "srednje",
+      "pitanje": "Koji je pridjev posvojni u rečenici „Marko je obukao očevu vunenu jaknu.“?",
+      "ponudeni": [
+        "očevu",
+        "vunenu",
+        "jaknu",
+        "obukao"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Očevu kazuje čija je jakna, a vunenu od čega je napravljena.",
+      "savjet": "Pitaj se čiju je jaknu Marko obukao."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-052",
+      "tezina": "srednje",
+      "pitanje": "Koji je pridjev opisni u rečenici „Lucijina mačka spava na mekom jastuku.“?",
+      "ponudeni": [
+        "Lucijina",
+        "mekom",
+        "mačka",
+        "jastuku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mekom kazuje kakav je jastuk, pa je opisni pridjev. Lucijina je posvojni pridjev.",
+      "savjet": "Pitaj se na kakvom jastuku spava mačka."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-053",
+      "tezina": "srednje",
+      "pitanje": "Koji je pridjev gradivni u rečenici „Tetin srebrni lančić leži u maloj kutiji.“?",
+      "ponudeni": [
+        "Tetin",
+        "maloj",
+        "srebrni",
+        "kutiji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Srebrni kazuje od čega je lančić napravljen, pa je gradivni pridjev.",
+      "savjet": "Pitaj se od čega je lančić."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-054",
+      "tezina": "srednje",
+      "pitanje": "Uz koju imenicu pravilno stoji pridjev „hladno“?",
+      "ponudeni": [
+        "čaj",
+        "juha",
+        "voda",
+        "more"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hladno je u srednjem rodu, a srednjeg je roda imenica more (to more).",
+      "savjet": "Uz svaku imenicu reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-055",
+      "tezina": "srednje",
+      "pitanje": "Uz koju imenicu pravilno stoji pridjev „brza“?",
+      "ponudeni": [
+        "rijeka",
+        "potok",
+        "vlak",
+        "more"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brza je u ženskom rodu, a ženskog je roda imenica rijeka (ta rijeka).",
+      "savjet": "Uz svaku imenicu reci taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-056",
+      "tezina": "srednje",
+      "pitanje": "Uz koju imenicu pravilno stoji pridjev „vesele“?",
+      "ponudeni": [
+        "dječak",
+        "djevojčice",
+        "dijete",
+        "škola"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vesele je ženski rod množine, pa pristaje imenici djevojčice.",
+      "savjet": "Pazi na rod i na to je li imenica u jednini ili množini."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-057",
+      "tezina": "srednje",
+      "pitanje": "U kojem se izrazu pridjev pravilno slaže s imenicom?",
+      "ponudeni": [
+        "žuta cvijet",
+        "mali kuće",
+        "zeleno polje",
+        "plavi knjiga"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Polje je srednjeg roda, pa je pravilno zeleno polje.",
+      "savjet": "Za svaku imenicu odredi rod i broj, pa provjeri pridjev."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-058",
+      "tezina": "srednje",
+      "pitanje": "Koji oblik pridjeva „lijep“ pravilno stoji uz imenicu „sela“?",
+      "ponudeni": [
+        "lijep",
+        "lijepe",
+        "lijepi",
+        "lijepa"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sela su srednjeg roda u množini, pa kažemo lijepa sela.",
+      "savjet": "Sjeti se kako se kaže selo u jednini i kojeg je roda."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-059",
+      "tezina": "srednje",
+      "pitanje": "Koji pridjev odgovara na pitanje od čega? u rečenici „Ivo ima novi kožni remen.“?",
+      "ponudeni": [
+        "kožni",
+        "novi",
+        "Ivo",
+        "remen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kožni kazuje od čega je remen napravljen, a novi kakav je.",
+      "savjet": "Potraži riječ koja kazuje gradivo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-060",
+      "tezina": "srednje",
+      "pitanje": "Koji pridjev odgovara na pitanje čiji? u rečenici „Bakin stari sat visi na zidu.“?",
+      "ponudeni": [
+        "stari",
+        "Bakin",
+        "sat",
+        "zidu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bakin kazuje čiji je sat, a stari kakav je.",
+      "savjet": "Potraži riječ koja kazuje vlasnika."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-061",
+      "tezina": "tesko",
+      "pitanje": "Koliko pridjeva ima rečenica „Mala smeđa vjeverica skače po visokom stablu.“?",
+      "ponudeni": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pridjevi su mala, smeđa i visokom, dakle tri.",
+      "savjet": "Uz svaku imenicu potraži riječi koje je opisuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-062",
+      "tezina": "tesko",
+      "pitanje": "Koliko pridjeva ima rečenica „Tatin crveni auto stoji pred garažom.“?",
+      "ponudeni": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pridjevi su tatin i crveni, dakle dva. Imenica garažom nema pridjeva uz sebe.",
+      "savjet": "Postavi pitanja kakav? čiji? i od čega? uz svaku imenicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-063",
+      "tezina": "tesko",
+      "pitanje": "Koliko je gradivnih pridjeva u rečenici „Na drvenom stolu stoje staklena vaza i bakin zlatni prsten.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gradivni su drvenom, staklena i zlatni. Bakin je posvojni pridjev.",
+      "savjet": "Broji samo pridjeve koji odgovaraju na pitanje od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-064",
+      "tezina": "tesko",
+      "pitanje": "Koliko je posvojnih pridjeva u rečenici „Ivanova sestra nosi maminu plavu torbu.“?",
+      "ponudeni": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Posvojni su Ivanova i maminu. Plavu je opisni pridjev.",
+      "savjet": "Broji samo pridjeve koji odgovaraju na pitanje čiji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-065",
+      "tezina": "tesko",
+      "pitanje": "Koji pridjev ne pripada skupini gradivnih pridjeva?",
+      "ponudeni": [
+        "Lukin",
+        "drveni",
+        "kameni",
+        "stakleni"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lukin kazuje čije je nešto, pa je posvojni, a ostali kazuju od čega je nešto.",
+      "savjet": "Za svaki pridjev postavi pitanje od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-066",
+      "tezina": "tesko",
+      "pitanje": "Koji pridjev ne pripada skupini posvojnih pridjeva?",
+      "ponudeni": [
+        "mamin",
+        "svileni",
+        "Anin",
+        "djedov"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svileni kazuje od čega je nešto, pa je gradivni, a ostali kazuju čije je nešto.",
+      "savjet": "Za svaki pridjev postavi pitanje čiji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-067",
+      "tezina": "tesko",
+      "pitanje": "Koji pridjev ne pripada skupini opisnih pridjeva?",
+      "ponudeni": [
+        "tužan",
+        "nizak",
+        "sestrin",
+        "mekan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sestrin kazuje čije je nešto, pa je posvojni, a ostali kazuju kakvo je nešto.",
+      "savjet": "Za svaki pridjev postavi pitanje kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-068",
+      "tezina": "tesko",
+      "pitanje": "U kojem je izrazu pridjev pogrešno složen s imenicom?",
+      "ponudeni": [
+        "plava olovka",
+        "veliki grad",
+        "zeleno more",
+        "visoka toranj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Toranj je muškog roda (taj toranj), pa treba reći visok toranj.",
+      "savjet": "Za svaku imenicu odredi rod s pomoću taj, ta ili to."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-069",
+      "tezina": "tesko",
+      "pitanje": "Kako treba ispraviti rečenicu „Na stolu je kameni zdjela.“?",
+      "ponudeni": [
+        "Na stolu je kamena zdjela.",
+        "Na stolu je kameno zdjela.",
+        "Na stolu je kamen zdjela.",
+        "Na stolu je kamenu zdjela."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zdjela je ženskog roda (ta zdjela), pa gradivni pridjev glasi kamena.",
+      "savjet": "Odredi rod imenice zdjela."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-070",
+      "tezina": "tesko",
+      "pitanje": "U kojem su izrazu opisni, posvojni i gradivni pridjev zajedno?",
+      "ponudeni": [
+        "velika crvena lopta",
+        "bakin topli vuneni šal",
+        "Anin novi bicikl",
+        "stari kameni most"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bakin je posvojni, topli opisni, a vuneni gradivni pridjev.",
+      "savjet": "Za svaki pridjev odredi vrstu, pa provjeri jesu li sve tri vrste tu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-071",
+      "tezina": "tesko",
+      "pitanje": "U kojem su izrazu oba pridjeva gradivna?",
+      "ponudeni": [
+        "mali drveni brod",
+        "Markov plastični auto",
+        "stakleni i kameni kipovi",
+        "bijeli i plavi baloni"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stakleni i kameni oba kazuju od čega su kipovi napravljeni.",
+      "savjet": "Oba pridjeva moraju odgovarati na pitanje od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-072",
+      "tezina": "tesko",
+      "pitanje": "Na polici je knjiga koja pripada Petri. Kako to kažemo s posvojnim pridjevom?",
+      "ponudeni": [
+        "Petrova knjiga",
+        "Petrov knjiga",
+        "Petrino knjiga",
+        "Petrina knjiga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od imena Petra posvojni pridjev glasi Petrin, a uz knjigu Petrina.",
+      "savjet": "Pazi od kojeg imena nastaje pridjev i kojeg je roda knjiga."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-073",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Ograda od željeza je visoka.“ s gradivnim pridjevom?",
+      "ponudeni": [
+        "Željezna ograda je visoka.",
+        "Željezni ograda je visoka.",
+        "Željezova ograda je visoka.",
+        "Željezno ograda je visoka."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gradivni pridjev od željeza glasi željezni, a uz ogradu ženskog roda željezna.",
+      "savjet": "Pazi i na oblik gradivnog pridjeva i na rod imenice ograda."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-074",
+      "tezina": "tesko",
+      "pitanje": "Koliko opisnih pridjeva ima rečenica „Djedov stari pas leži na toplom suncu.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opisni su stari i toplom. Djedov je posvojni pridjev.",
+      "savjet": "Broji samo pridjeve koji odgovaraju na pitanje kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-075",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici pridjev pogrešno složen s imenicom?",
+      "ponudeni": [
+        "Sunce je toplo.",
+        "Rijeka je duboka.",
+        "Brdo je visok.",
+        "Noć je tamna."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brdo je srednjeg roda (to brdo), pa treba reći Brdo je visoko.",
+      "savjet": "Odredi rod svake imenice i provjeri pristaje li joj pridjev."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-076",
+      "tezina": "tesko",
+      "pitanje": "Koje su vrste redom pridjevi u rečenici „Anina zlatna ogrlica je sjajna.“?",
+      "ponudeni": [
+        "opisni, gradivni, posvojni",
+        "posvojni, opisni, gradivni",
+        "gradivni, posvojni, opisni",
+        "posvojni, gradivni, opisni"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Anina kazuje čija je ogrlica, zlatna od čega je, a sjajna kakva je.",
+      "savjet": "Za svaki pridjev redom postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-077",
+      "tezina": "tesko",
+      "pitanje": "U kojem je izrazu posvojni pridjev pogrešno napisan?",
+      "ponudeni": [
+        "ivanov kaput",
+        "bakin kaput",
+        "Lukin kaput",
+        "tatin kaput"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posvojni pridjev od imena osobe piše se velikim početnim slovom: Ivanov.",
+      "savjet": "Sjeti se kada posvojni pridjev pišemo velikim početnim slovom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-078",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici posvojni pridjev pravilno napisan?",
+      "ponudeni": [
+        "Ovo je Bratov bicikl.",
+        "Ovo je Anin bicikl.",
+        "Ovo je lukin bicikl.",
+        "Ovo je Tatin bicikl."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Anin je nastao od imena Ana, pa se piše velikim slovom. Bratov i tatin pišu se malim, a Lukin velikim slovom.",
+      "savjet": "Provjeri je li pridjev nastao od imena osobe ili od opće imenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-079",
+      "tezina": "tesko",
+      "pitanje": "Koliko pridjeva ima rečenica „Bakina mala crna mačka spava na mekanom jastuku.“?",
+      "ponudeni": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pridjevi su bakina, mala, crna i mekanom, dakle četiri.",
+      "savjet": "Uz svaku imenicu potraži sve riječi koje je opisuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-080",
+      "tezina": "tesko",
+      "pitanje": "Kojim gradivnim pridjevom možeš dopuniti rečenicu „Mama je skuhala juhu u ___ loncu.“?",
+      "ponudeni": [
+        "velikom",
+        "bakinom",
+        "starom",
+        "glinenom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glinenom kazuje od čega je lonac napravljen, pa je gradivni pridjev.",
+      "savjet": "Gradivni pridjev kazuje od kojeg je materijala lonac."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-081",
+      "tezina": "tesko",
+      "pitanje": "Koju riječ treba ispraviti u rečenici „Visoki drveće raste u parku.“?",
+      "ponudeni": [
+        "Visoki",
+        "drveće",
+        "raste",
+        "parku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Drveće je srednjeg roda (to drveće), pa treba reći Visoko drveće raste u parku.",
+      "savjet": "Odredi rod imenice drveće i provjeri pridjev uz nju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-082",
+      "tezina": "tesko",
+      "pitanje": "Koju riječ treba ispraviti u rečenici „Ana nosi crveni haljinu.“?",
+      "ponudeni": [
+        "Ana",
+        "crveni",
+        "nosi",
+        "haljinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Haljina je ženskog roda, pa treba reći Ana nosi crvenu haljinu.",
+      "savjet": "Provjeri pristaje li pridjev imenici uz koju stoji."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-083",
+      "tezina": "tesko",
+      "pitanje": "Koju riječ treba ispraviti u rečenici „Bakin kuća ima veliki vrt.“?",
+      "ponudeni": [
+        "kuća",
+        "ima",
+        "Bakin",
+        "vrt"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kuća je ženskog roda, pa treba reći Bakina kuća ima veliki vrt.",
+      "savjet": "Provjeri slaže li se svaki pridjev sa svojom imenicom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-084",
+      "tezina": "tesko",
+      "pitanje": "Koji pridjev ne može stajati uz imenicu „prozori“?",
+      "ponudeni": [
+        "veliki",
+        "stakleni",
+        "čisti",
+        "otvorena"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prozori su muškog roda u množini, pa je pravilno otvoreni prozori, a ne otvorena.",
+      "savjet": "Uz svaki pridjev izgovori imenicu prozori i poslušaj kako zvuči."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-085",
+      "tezina": "tesko",
+      "pitanje": "Koja su dva pridjeva opisna u rečenici „Lukin vuneni džemper je mekan i topao.“?",
+      "ponudeni": [
+        "mekan i topao",
+        "Lukin i vuneni",
+        "vuneni i mekan",
+        "Lukin i topao"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mekan i topao kazuju kakav je džemper. Lukin je posvojni, a vuneni gradivni pridjev.",
+      "savjet": "Za svaki pridjev postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-086",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu samo posvojni pridjevi?",
+      "ponudeni": [
+        "mamin, kameni, Ivanov",
+        "djedov, Anin, tetin",
+        "bratov, sretan, Lukin",
+        "sestrin, vuneni, bakin"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djedov, Anin i tetin svi kazuju čije je nešto. U ostalim nizovima ima opisnih ili gradivnih pridjeva.",
+      "savjet": "Provjeri svaki pridjev u nizu, ne samo prvi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-087",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu samo gradivni pridjevi?",
+      "ponudeni": [
+        "drveni, mamin, zlatni",
+        "topao, kožni, metalni",
+        "svileni, glineni, papirnati",
+        "plastični, Petrov, kameni"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svileni, glineni i papirnati svi kazuju od čega je nešto napravljeno.",
+      "savjet": "Uz svaki pridjev u nizu postavi pitanje od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-088",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu samo opisni pridjevi?",
+      "ponudeni": [
+        "visok, srebrni, tih",
+        "bratov, lijep, mekan",
+        "drveni, velik, žut",
+        "sretan, tužan, hrabar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sretan, tužan i hrabar svi kazuju kakav je netko. U ostalim nizovima ima posvojnih ili gradivnih pridjeva.",
+      "savjet": "Uz svaki pridjev u nizu postavi pitanje kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-089",
+      "tezina": "tesko",
+      "pitanje": "Ivan ima kapu od kože. Koji izraz to kazuje posvojnim i gradivnim pridjevom?",
+      "ponudeni": [
+        "Ivanova kožna kapa",
+        "Ivanov kožna kapa",
+        "Ivanova kožni kapa",
+        "Ivanovo kožno kapa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kapa je ženskog roda, pa se s njom slažu oba pridjeva: Ivanova kožna kapa.",
+      "savjet": "Oba pridjeva moraju pristajati imenici kapa u rodu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pridjevi-opisni-posvojni-i-gradivni-090",
+      "tezina": "tesko",
+      "pitanje": "Lopta je od gume i pripada Marku. Koji izraz to kazuje s dva pridjeva?",
+      "ponudeni": [
+        "Marko gumena lopta",
+        "Markova gumena lopta",
+        "Markov gumeni lopta",
+        "Markovo gumeno lopta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Markova kazuje čija je lopta, a gumena od čega je, i oba se slažu s imenicom lopta.",
+      "savjet": "Pazi da oba pridjeva pristaju imenici lopta u rodu."
+    }
+  ]
+}

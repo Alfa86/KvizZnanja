@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "imenice-glagoli-i-pridjevi",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-001",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Veseli dječak čita knjigu.“?",
+      "ponudeni": [
+        "čita",
+        "veseli",
+        "dječak",
+        "knjigu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ čita izriče što dječak radi, pa je glagol.",
+      "savjet": "Pitaj se: što netko u rečenici radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-002",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ pridjev u rečenici „Mala ptica pjeva pjesmu.“?",
+      "ponudeni": [
+        "ptica",
+        "mala",
+        "pjeva",
+        "pjesmu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ mala opisuje pticu i odgovara na pitanje kakva je ptica, pa je pridjev.",
+      "savjet": "Koja riječ odgovara na pitanje kakva?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-003",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ imenica u rečenici „Mali smeđi pas laje.“?",
+      "ponudeni": [
+        "mali",
+        "smeđi",
+        "pas",
+        "laje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ pas imenuje životinju i odgovara na pitanje tko?, pa je imenica.",
+      "savjet": "Imenica imenuje biće, stvar ili pojavu. Pitaj se: tko laje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-004",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Bistra hladna voda teče.“?",
+      "ponudeni": [
+        "bistra",
+        "hladna",
+        "voda",
+        "teče"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ teče kazuje što se događa s vodom, pa je glagol.",
+      "savjet": "Pitaj se: što se događa s vodom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-005",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ pridjev u rečenici „Baka peče slatki kolač.“?",
+      "ponudeni": [
+        "slatki",
+        "baka",
+        "peče",
+        "kolač"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ slatki kazuje kakav je kolač, pa je pridjev.",
+      "savjet": "Pitaj se: kakav je kolač?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-006",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Sestra nosi novu haljinu.“?",
+      "ponudeni": [
+        "sestra",
+        "nosi",
+        "novu",
+        "haljinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ nosi izriče što sestra radi, pa je glagol.",
+      "savjet": "Pitaj se: što sestra radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ imenica u rečenici „Mala brza vjeverica skače.“?",
+      "ponudeni": [
+        "mala",
+        "brza",
+        "vjeverica",
+        "skače"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ vjeverica imenuje životinju, pa je imenica.",
+      "savjet": "Pitaj se: tko skače?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-008",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti riječi pripada riječ „trčati“?",
+      "ponudeni": [
+        "imenica",
+        "pridjev",
+        "broj",
+        "glagol"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trčati izriče radnju, a riječi koje izriču radnju, stanje ili zbivanje su glagoli.",
+      "savjet": "Izriče li ta riječ ime, osobinu ili ono što netko radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-009",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti riječi pripada riječ „livada“?",
+      "ponudeni": [
+        "imenica",
+        "glagol",
+        "pridjev",
+        "broj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Livada je ime za dio prirode, odgovara na pitanje što?, pa je imenica.",
+      "savjet": "Odgovara li ta riječ na pitanje tko? što?, što radi? ili kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-010",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti riječi pripada riječ „hrabar“?",
+      "ponudeni": [
+        "glagol",
+        "pridjev",
+        "imenica",
+        "broj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrabar kazuje kakav je netko, pa je pridjev.",
+      "savjet": "Pokušaj tu riječ staviti uz neku imenicu, na primjer dječak."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-011",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti riječi pripada riječ „drveni“?",
+      "ponudeni": [
+        "imenica",
+        "glagol",
+        "pridjev",
+        "broj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Drveni kazuje od čega je nešto napravljeno, pa je pridjev.",
+      "savjet": "Zamisli tu riječ uz imenicu stol i pitaj se na koje pitanje odgovara."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-012",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti riječi pripada riječ „kiša“?",
+      "ponudeni": [
+        "glagol",
+        "pridjev",
+        "broj",
+        "imenica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kiša je ime pojave u prirodi, a riječi koje imenuju pojave su imenice.",
+      "savjet": "Odgovara li ta riječ na pitanje što?, što radi? ili kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-013",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti riječi pripada riječ „spavati“?",
+      "ponudeni": [
+        "glagol",
+        "imenica",
+        "pridjev",
+        "broj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Spavati izriče stanje u kojem netko jest, a takve su riječi glagoli.",
+      "savjet": "Upotrijebi tu riječ u kratkoj rečenici o mački i vidi na koje pitanje odgovara."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-014",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara imenica?",
+      "ponudeni": [
+        "kakav?",
+        "tko? što?",
+        "čiji?",
+        "što radi?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Imenice imenuju bića, stvari i pojave, pa odgovaraju na pitanje tko? ili što?.",
+      "savjet": "Sjeti se što imenice imenuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-015",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara pridjev u izrazu „mamina torba“?",
+      "ponudeni": [
+        "tko?",
+        "što radi?",
+        "čija?",
+        "kada?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mamina kazuje kome torba pripada, pa odgovara na pitanje čija?.",
+      "savjet": "Razmisli kazuje li ta riječ kome torba pripada ili kakva je."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-016",
+      "tezina": "lagano",
+      "pitanje": "Što izriču glagoli?",
+      "ponudeni": [
+        "osobine bića i stvari",
+        "imena bića, stvari i pojava",
+        "mjesto gdje se nešto događa",
+        "radnju, stanje ili zbivanje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagoli izriču radnju (piše), stanje (spava) ili zbivanje (grmi).",
+      "savjet": "Sjeti se riječi kao što su piše, spava i grmi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-017",
+      "tezina": "lagano",
+      "pitanje": "Što imenuju imenice?",
+      "ponudeni": [
+        "bića, stvari i pojave",
+        "radnje, stanja i zbivanja",
+        "osobine bića i stvari",
+        "vrijeme kada se nešto događa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imenice imenuju bića (mačka), stvari (stol) i pojave (vjetar).",
+      "savjet": "Sjeti se riječi kao što su mačka, stol i vjetar."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-018",
+      "tezina": "lagano",
+      "pitanje": "Što pridjevi kazuju o imenicama?",
+      "ponudeni": [
+        "što rade",
+        "kakve su, čije su ili od čega su",
+        "gdje se nalaze",
+        "kada se nešto događa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pridjevi opisuju imenice: kazuju kakve su (crvena), čije su (bakina) ili od čega su (vunena).",
+      "savjet": "Sjeti se izraza crvena kapa, bakina kapa i vunena kapa."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-019",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ imenica u nizu „pisati, skakati, olovka, crtati“?",
+      "ponudeni": [
+        "pisati",
+        "skakati",
+        "olovka",
+        "crtati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Olovka je ime stvari, a ostale riječi izriču radnje.",
+      "savjet": "Koja riječ odgovara na pitanje što?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-020",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u nizu „sretan, žut, plivati, nizak“?",
+      "ponudeni": [
+        "sretan",
+        "žut",
+        "nizak",
+        "plivati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plivati izriče radnju, a ostale riječi opisuju kakvo je nešto.",
+      "savjet": "Koja riječ kazuje što netko radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-021",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ pridjev u nizu „sunce, more, zelen, grad“?",
+      "ponudeni": [
+        "zelen",
+        "sunce",
+        "more",
+        "grad"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zelen kazuje kakvo je nešto, a ostale riječi su imena stvari i mjesta.",
+      "savjet": "Koja riječ odgovara na pitanje kakav?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-022",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Teta kuha ukusnu juhu.“?",
+      "ponudeni": [
+        "teta",
+        "kuha",
+        "ukusnu",
+        "juhu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ kuha izriče što teta radi, pa je glagol.",
+      "savjet": "Pitaj se: što teta radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-023",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ imenica u rečenici „Tatin crni auto stoji.“?",
+      "ponudeni": [
+        "tatin",
+        "crni",
+        "auto",
+        "stoji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Auto je ime stvari i odgovara na pitanje što?, pa je imenica.",
+      "savjet": "Pitaj se: što stoji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-024",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ pridjev u rečenici „Sunce grije zelenu livadu.“?",
+      "ponudeni": [
+        "sunce",
+        "grije",
+        "livadu",
+        "zelenu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ zelenu kazuje kakvu livadu sunce grije, pa je pridjev.",
+      "savjet": "Pitaj se: kakvu livadu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-025",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ glagol u rečenici „Marko piše plavom olovkom.“?",
+      "ponudeni": [
+        "piše",
+        "Marko",
+        "plavom",
+        "olovkom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ piše izriče što Marko radi, pa je glagol.",
+      "savjet": "Pitaj se: što Marko radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-026",
+      "tezina": "lagano",
+      "pitanje": "Koja od riječi „snijeg, hladan, padati, zima“ odgovara na pitanje kakav?",
+      "ponudeni": [
+        "snijeg",
+        "hladan",
+        "padati",
+        "zima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hladan je pridjev i kazuje kakav je, na primjer, dan ili vjetar.",
+      "savjet": "Na pitanje kakav? odgovaraju riječi koje opisuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-027",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ u rečenici „Mačka pije toplo mlijeko.“ odgovara na pitanje što radi?",
+      "ponudeni": [
+        "mačka",
+        "toplo",
+        "pije",
+        "mlijeko"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ pije kazuje što mačka radi, pa je glagol.",
+      "savjet": "Na pitanje što radi? odgovara glagol."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-028",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ imenica u rečenici „Bakin veliki vrt cvjeta.“?",
+      "ponudeni": [
+        "bakin",
+        "veliki",
+        "cvjeta",
+        "vrt"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrt je ime mjesta i odgovara na pitanje što?, pa je imenica.",
+      "savjet": "Pitaj se: što cvjeta?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-029",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ pridjev u rečenici „Djed sjedi na drvenoj klupi.“?",
+      "ponudeni": [
+        "drvenoj",
+        "djed",
+        "sjedi",
+        "klupi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ drvenoj kazuje od čega je klupa, pa je pridjev.",
+      "savjet": "Pitaj se: od čega je klupa?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-030",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti riječi pripada riječ „vjetar“ u rečenici „Jak vjetar puše.“?",
+      "ponudeni": [
+        "glagol",
+        "imenica",
+        "pridjev",
+        "broj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjetar je ime pojave u prirodi i odgovara na pitanje što puše?, pa je imenica.",
+      "savjet": "Pitaj se: što puše?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-031",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol „pada“ u rečenici „Kiša pada.“?",
+      "ponudeni": [
+        "zbivanje",
+        "radnju",
+        "stanje",
+        "osobinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kiša ne pada namjerno, to se događa samo od sebe, pa glagol izriče zbivanje.",
+      "savjet": "Radi li kiša to namjerno ili se to samo događa?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-032",
+      "tezina": "srednje",
+      "pitanje": "Koji pridjev pravilno dopunjuje rečenicu „Na stolu je ___ vaza.“?",
+      "ponudeni": [
+        "stakleni",
+        "staklena",
+        "stakleno",
+        "staklene"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vaza je ženskog roda i u jednini je, pa kažemo staklena vaza.",
+      "savjet": "Pridjev se slaže s imenicom u rodu i broju. Reci: ta vaza."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-033",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu riječi poredane redom: imenica, glagol, pridjev?",
+      "ponudeni": [
+        "crvena, ruža, cvjeta",
+        "cvjeta, crvena, ruža",
+        "ruža, cvjeta, crvena",
+        "ruža, crvena, cvjeta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ruža je imenica, cvjeta je glagol, a crvena je pridjev.",
+      "savjet": "Za svaku riječ odredi vrstu pa provjeri redoslijed."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-034",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo glagoli?",
+      "ponudeni": [
+        "crtež, bazen, lopta",
+        "visok, plivati, more",
+        "brz, spor, skakati",
+        "crtati, plivati, skakati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Crtati, plivati i skakati izriču radnje, pa su sve tri riječi glagoli.",
+      "savjet": "U traženom nizu svaka riječ kazuje što netko radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-035",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo pridjevi?",
+      "ponudeni": [
+        "tih, mekan, vuneni",
+        "tišina, mekan, vuna",
+        "šutjeti, mekan, vuneni",
+        "tih, jastuk, vuna"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tih i mekan kazuju kakvo je nešto, a vuneni od čega je, pa su sve tri riječi pridjevi.",
+      "savjet": "Uz svaku riječ postavi pitanje kakav? čiji? ili od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-036",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo imenice?",
+      "ponudeni": [
+        "prijatelj, veseo, oblak",
+        "prijatelj, radost, oblak",
+        "pjevati, radost, oblak",
+        "prijatelj, radost, letjeti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prijatelj je biće, radost je osjećaj, a oblak je pojava, pa su sve tri riječi imenice.",
+      "savjet": "Imenice imenuju i ono što ne možemo dodirnuti, kao što su osjećaji."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-037",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u rečenici „Pospana djevojčica leži u krevetu.“ kazuje kakva je djevojčica?",
+      "ponudeni": [
+        "djevojčica",
+        "leži",
+        "pospana",
+        "krevetu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ pospana opisuje djevojčicu, pa je pridjev.",
+      "savjet": "Traži riječ koja opisuje imenicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-038",
+      "tezina": "srednje",
+      "pitanje": "Na koje pitanje odgovara riječ „bratov“ u rečenici „Bratov pas spava.“?",
+      "ponudeni": [
+        "kakav?",
+        "tko?",
+        "što radi?",
+        "čiji?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bratov kazuje kome pas pripada, pa odgovara na pitanje čiji?.",
+      "savjet": "Kazuje li ta riječ kakav je pas ili kome pripada?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-039",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu „Ptice ___ na grani.“?",
+      "ponudeni": [
+        "pjevaju",
+        "pjeva",
+        "pjevač",
+        "pjevanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenici nedostaje glagol, a ptica je više, pa kažemo pjevaju.",
+      "savjet": "Rečenici nedostaje riječ koja kazuje što ptice rade. Pazi koliko je ptica."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-040",
+      "tezina": "srednje",
+      "pitanje": "Koja je imenica srodna pridjevu „sretan“?",
+      "ponudeni": [
+        "sretna",
+        "sreća",
+        "usrećiti",
+        "sretno"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sreća je imenica jer imenuje osjećaj i odgovara na pitanje što?.",
+      "savjet": "Traži riječ koja imenuje osjećaj i odgovara na pitanje što?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-041",
+      "tezina": "srednje",
+      "pitanje": "Koji je glagol srodan imenici „pjesma“?",
+      "ponudeni": [
+        "pjevač",
+        "pjevački",
+        "pjevati",
+        "pjesmica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pjevati izriče radnju, pa je glagol, a pjevač i pjesmica su imenice, pjevački pridjev.",
+      "savjet": "Traži riječ koja kazuje što netko radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-042",
+      "tezina": "srednje",
+      "pitanje": "Koji je pridjev srodan imenici „zlato“?",
+      "ponudeni": [
+        "zlatar",
+        "pozlatiti",
+        "zlatnik",
+        "zlatni"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zlatni kazuje od čega je nešto, na primjer zlatni prsten, pa je pridjev.",
+      "savjet": "Traži riječ koja može stajati uz imenicu prsten."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-043",
+      "tezina": "srednje",
+      "pitanje": "Koji pridjev u rečenici „Baka plete ___ šal.“ kazuje od čega je šal?",
+      "ponudeni": [
+        "vuneni",
+        "topli",
+        "mamin",
+        "dugi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vuneni kazuje da je šal od vune, pa odgovara na pitanje od čega?.",
+      "savjet": "Pitaj se od kojeg je materijala šal napravljen."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-044",
+      "tezina": "srednje",
+      "pitanje": "Koji pridjev pravilno dopunjuje rečenicu „U parku rastu ___ stabla.“?",
+      "ponudeni": [
+        "visoki",
+        "visoka",
+        "visoke",
+        "visok"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stablo je srednjeg roda, a stabla su u množini, pa kažemo visoka stabla.",
+      "savjet": "Odredi rod i broj imenice stabla pa uskladi pridjev."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-045",
+      "tezina": "srednje",
+      "pitanje": "Koji pridjev pravilno dopunjuje rečenicu „Na livadi pasu ___ krave.“?",
+      "ponudeni": [
+        "smeđa",
+        "smeđi",
+        "smeđe",
+        "smeđu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Krava je ženskog roda, a krave su u množini, pa kažemo smeđe krave.",
+      "savjet": "Odredi rod i broj imenice krave pa uskladi pridjev."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-046",
+      "tezina": "srednje",
+      "pitanje": "Koja je riječ u rečenici „Bijeli snijeg prekriva krovove.“ imenica u množini?",
+      "ponudeni": [
+        "bijeli",
+        "snijeg",
+        "prekriva",
+        "krovove"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Krovove je imenica i označava više krovova, pa je u množini.",
+      "savjet": "Najprije pronađi imenice, a onda provjeri koja označava više stvari."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-047",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u rečenici „Umorni dječak sjedi na klupi.“ izriče stanje?",
+      "ponudeni": [
+        "sjedi",
+        "umorni",
+        "dječak",
+        "klupi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sjedi je glagol koji kazuje u kakvom je stanju dječak.",
+      "savjet": "Stanje izriče glagol. Pronađi najprije glagol."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-048",
+      "tezina": "srednje",
+      "pitanje": "Što izriče glagol „gradi“ u rečenici „Petra gradi kulu od pijeska.“?",
+      "ponudeni": [
+        "stanje",
+        "radnju",
+        "zbivanje",
+        "osobinu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Petra namjerno nešto radi, pa glagol gradi izriče radnju.",
+      "savjet": "Radi li Petra to namjerno ili se to samo događa?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-049",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u rečenici „Hrabri vatrogasac spašava mače.“ kazuje kakav je vatrogasac?",
+      "ponudeni": [
+        "vatrogasac",
+        "spašava",
+        "hrabri",
+        "mače"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ hrabri opisuje vatrogasca, pa je pridjev.",
+      "savjet": "Traži riječ koja stoji uz imenicu i opisuje je."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-050",
+      "tezina": "srednje",
+      "pitanje": "Koja su vrsta riječi „ljubav, sreća, tuga“?",
+      "ponudeni": [
+        "glagoli",
+        "pridjevi",
+        "brojevi",
+        "imenice"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Te riječi imenuju osjećaje i odgovaraju na pitanje što?, pa su imenice.",
+      "savjet": "Odgovaraju li te riječi na pitanje tko? što?, kakav? ili što radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-051",
+      "tezina": "srednje",
+      "pitanje": "Koja su vrsta riječi „tužan, sretan, ljut“?",
+      "ponudeni": [
+        "pridjevi",
+        "imenice",
+        "glagoli",
+        "brojevi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Te riječi kazuju kakav je netko, pa su pridjevi.",
+      "savjet": "Stavi te riječi uz imenicu dječak. Na koje pitanje odgovaraju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-052",
+      "tezina": "srednje",
+      "pitanje": "Koja su vrsta riječi „tugovati, radovati se, ljutiti se“?",
+      "ponudeni": [
+        "imenice",
+        "glagoli",
+        "pridjevi",
+        "brojevi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Te riječi kazuju što netko radi ili u kakvom je stanju, pa su glagoli.",
+      "savjet": "Odgovaraju li te riječi na pitanje što netko radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-053",
+      "tezina": "srednje",
+      "pitanje": "Koja je riječ pridjev u rečenici „Sestrina mačka lovi miša.“?",
+      "ponudeni": [
+        "mačka",
+        "lovi",
+        "sestrina",
+        "miša"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sestrina kazuje čija je mačka, pa je posvojni pridjev.",
+      "savjet": "Pitaj se: čija je mačka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-054",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu „Mali zec ___ preko polja.“?",
+      "ponudeni": [
+        "trče",
+        "trčimo",
+        "trkač",
+        "trči"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenici nedostaje glagol, a zec je jedan, pa kažemo trči.",
+      "savjet": "Rečenici nedostaje riječ koja kazuje što zec radi. Pazi koliko je zečeva."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-055",
+      "tezina": "srednje",
+      "pitanje": "Koja imenica pravilno dopunjuje rečenicu „Žuta ___ cvjeta u vrtu.“?",
+      "ponudeni": [
+        "ruža",
+        "cvijet",
+        "tulipani",
+        "mirisna"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pridjev žuta i glagol cvjeta traže imenicu ženskog roda u jednini, a to je ruža.",
+      "savjet": "Pogledaj pridjev žuta: kojeg je roda i broja imenica uz njega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-056",
+      "tezina": "srednje",
+      "pitanje": "Koji se izraz sastoji od pridjeva i imenice?",
+      "ponudeni": [
+        "zima dolazi",
+        "hladna zima",
+        "pada snijeg",
+        "sanjkati se"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hladna je pridjev, a zima imenica, pa izraz hladna zima čine pridjev i imenica.",
+      "savjet": "U traženom izrazu jedna riječ opisuje drugu."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-057",
+      "tezina": "srednje",
+      "pitanje": "Koji se izraz sastoji od imenice i glagola?",
+      "ponudeni": [
+        "brza ptica",
+        "bakina ptica",
+        "ptica leti",
+        "malena ptica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ptica je imenica, a leti glagol, pa izraz ptica leti čine imenica i glagol.",
+      "savjet": "U traženom izrazu jedna riječ kazuje što ptica radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-058",
+      "tezina": "srednje",
+      "pitanje": "Koji pridjev pravilno dopunjuje rečenicu „Ovo je bilo ___ ljeto.“?",
+      "ponudeni": [
+        "vruć",
+        "vruća",
+        "vrući",
+        "vruće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ljeto je srednjeg roda i u jednini je, pa kažemo vruće ljeto.",
+      "savjet": "Reci: taj, ta ili to ljeto? Prema tome uskladi pridjev."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-059",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u rečenici „Ujak vozi novi kamion.“ odgovara na pitanje što radi?",
+      "ponudeni": [
+        "vozi",
+        "ujak",
+        "novi",
+        "kamion"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ vozi kazuje što ujak radi, pa je glagol.",
+      "savjet": "Na pitanje što radi? odgovara glagol."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-060",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u rečenici „Kameni most stoji iznad rijeke.“ kazuje od čega je most?",
+      "ponudeni": [
+        "most",
+        "kameni",
+        "stoji",
+        "rijeke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kameni kazuje da je most od kamena, pa je gradivni pridjev.",
+      "savjet": "Traži pridjev koji kazuje od kojeg je materijala most."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-061",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica u rečenici „Mala djevojčica hrani gladnu mačku.“?",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imenice su djevojčica i mačku. Mala i gladnu su pridjevi, a hrani je glagol.",
+      "savjet": "Za svaku riječ pitaj se odgovara li na pitanje tko? ili što?."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-062",
+      "tezina": "tesko",
+      "pitanje": "Koliko je pridjeva u rečenici „Stari ribar lovi veliku srebrnu ribu.“?",
+      "ponudeni": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pridjevi su stari, veliku i srebrnu. Ribar i ribu su imenice, a lovi je glagol.",
+      "savjet": "Uz svaku imenicu provjeri koje je riječi opisuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-063",
+      "tezina": "tesko",
+      "pitanje": "Koliko je glagola u rečenici „Dječak pjeva, a sestra pleše.“?",
+      "ponudeni": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagoli su pjeva i pleše. Dječak i sestra su imenice.",
+      "savjet": "Pronađi što radi dječak, a što sestra."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-064",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica u rečenici „Baka i djed sade mrkvu u vrtu.“?",
+      "ponudeni": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Imenice su baka, djed, mrkvu i vrtu. Sade je glagol, a i i u nisu imenice.",
+      "savjet": "Pazi na imenice i na kraju rečenice, ne samo na početku."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-065",
+      "tezina": "tesko",
+      "pitanje": "Koliko je pridjeva u rečenici „Zeleni gušter leži na toplom kamenu.“?",
+      "ponudeni": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pridjevi su zeleni i toplom. Gušter i kamenu su imenice, a leži je glagol.",
+      "savjet": "Pronađi imenice pa provjeri koje ih riječi opisuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-066",
+      "tezina": "tesko",
+      "pitanje": "Koliko je glagola u rečenici „Ivana čita, piše i crta.“?",
+      "ponudeni": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagoli su čita, piše i crta jer sva tri kazuju što Ivana radi.",
+      "savjet": "Nabroji sve što Ivana radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-067",
+      "tezina": "tesko",
+      "pitanje": "Koje su riječi imenice u rečenici „Tatin pas čuva veliku kuću.“?",
+      "ponudeni": [
+        "tatin, pas",
+        "čuva, kuću",
+        "pas, kuću",
+        "tatin, veliku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pas i kuću su imenice. Tatin i veliku su pridjevi, a čuva je glagol.",
+      "savjet": "Imenice odgovaraju na pitanje tko? ili što?. Pazi na riječi koje ih samo opisuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-068",
+      "tezina": "tesko",
+      "pitanje": "Koje su riječi pridjevi u rečenici „Mamina plava haljina visi u ormaru.“?",
+      "ponudeni": [
+        "plava, haljina",
+        "haljina, ormaru",
+        "visi, plava",
+        "mamina, plava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mamina kazuje čija je haljina, a plava kakva je, pa su obje riječi pridjevi.",
+      "savjet": "Uz imenicu haljina postavi pitanja kakva? i čija?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-069",
+      "tezina": "tesko",
+      "pitanje": "Koje su riječi glagoli u rečenici „Pas laje, mačka sikće, a miš bježi.“?",
+      "ponudeni": [
+        "laje, sikće, bježi",
+        "pas, mačka, miš",
+        "laje, bježi",
+        "sikće, miš, bježi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Laje, sikće i bježi kazuju što rade pas, mačka i miš, pa su glagoli.",
+      "savjet": "Za svaku životinju pronađi što radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-070",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ne pripada nizu „stol, olovka, pisati, bilježnica“?",
+      "ponudeni": [
+        "stol",
+        "pisati",
+        "olovka",
+        "bilježnica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pisati je glagol, a ostale tri riječi su imenice.",
+      "savjet": "Odredi vrstu riječi za svaku riječ u nizu."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-071",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ne pripada nizu „hladan, mokar, oblak, taman“?",
+      "ponudeni": [
+        "hladan",
+        "mokar",
+        "oblak",
+        "taman"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oblak je imenica, a hladan, mokar i taman su pridjevi.",
+      "savjet": "Tri riječi odgovaraju na isto pitanje, a jedna na drugo."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-072",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ne pripada nizu „plivati, roniti, more, skakati“?",
+      "ponudeni": [
+        "plivati",
+        "roniti",
+        "skakati",
+        "more"
+      ],
+      "tocan": 3,
+      "objasnjenje": "More je imenica, a plivati, roniti i skakati su glagoli.",
+      "savjet": "Nemoj gledati značenje, nego vrstu riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-073",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ne pripada nizu „sreća, radost, veseo, tuga“?",
+      "ponudeni": [
+        "veseo",
+        "sreća",
+        "radost",
+        "tuga"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Veseo je pridjev jer kazuje kakav je netko, a sreća, radost i tuga su imenice.",
+      "savjet": "Sve riječi govore o osjećajima, ali nisu sve iste vrste."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-074",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ne pripada nizu „spavati, trčati, kišiti, brz“?",
+      "ponudeni": [
+        "spavati",
+        "brz",
+        "trčati",
+        "kišiti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brz je pridjev, a spavati, trčati i kišiti su glagoli.",
+      "savjet": "Sjeti se da glagoli izriču radnju, stanje ili zbivanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-075",
+      "tezina": "tesko",
+      "pitanje": "Rečenica „Velika more šumi.“ ima pogrešku. Kako glasi ispravno?",
+      "ponudeni": [
+        "Velika more šumi.",
+        "Veliki more šumi.",
+        "Veliko more šumi.",
+        "Velike more šumi."
+      ],
+      "tocan": 2,
+      "objasnjenje": "More je srednjeg roda i u jednini je, pa pridjev glasi veliko.",
+      "savjet": "Reci: taj, ta ili to more? Pridjev se mora složiti s imenicom."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-076",
+      "tezina": "tesko",
+      "pitanje": "Rečenica „Žuti lišće pada s grana.“ ima pogrešku. Kako glasi ispravno?",
+      "ponudeni": [
+        "Žuti lišće pada s grana.",
+        "Žuta lišće pada s grana.",
+        "Žute lišće pada s grana.",
+        "Žuto lišće pada s grana."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lišće je srednjeg roda, pa pridjev glasi žuto.",
+      "savjet": "Reci: taj, ta ili to lišće? Prema tome uskladi pridjev."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-077",
+      "tezina": "tesko",
+      "pitanje": "Rečenica „Male mačići spavaju.“ ima pogrešku. Kako glasi ispravno?",
+      "ponudeni": [
+        "Mali mačići spavaju.",
+        "Male mačići spavaju.",
+        "Malo mačići spavaju.",
+        "Mala mačići spavaju."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mačići su muškog roda i u množini, pa pridjev glasi mali.",
+      "savjet": "Odredi rod imenice mačić pa pazi da ih je više."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-078",
+      "tezina": "tesko",
+      "pitanje": "Rečenica „Ptice pjeva na grani.“ ima pogrešku. Kako glasi ispravno?",
+      "ponudeni": [
+        "Ptice pjeva na grani.",
+        "Ptice pjevaju na grani.",
+        "Ptice pjevam na grani.",
+        "Ptice pjevaš na grani."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ptica je više, pa i glagol mora biti u množini: pjevaju.",
+      "savjet": "I glagol se mora slagati s imenicom. Koliko je ptica?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-079",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica ima dvije imenice, jedan glagol i jedan pridjev?",
+      "ponudeni": [
+        "Mali brat čita zanimljivu knjigu.",
+        "Brat čita knjigu.",
+        "Brat čita zanimljivu knjigu.",
+        "Brat čita i piše."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U toj su rečenici imenice brat i knjigu, glagol čita i pridjev zanimljivu.",
+      "savjet": "U svakoj rečenici prebroji imenice, glagole i pridjeve posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-080",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica ima jednu imenicu, jedan glagol i dva pridjeva?",
+      "ponudeni": [
+        "Mali miš trči.",
+        "Mali miš trči kućom.",
+        "Sivi miš trči i skače.",
+        "Mali sivi miš trči."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U toj je rečenici imenica miš, glagol trči i pridjevi mali i sivi.",
+      "savjet": "Najprije pronađi rečenice s jednom imenicom, a onda broji pridjeve."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-081",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica nema nijedan pridjev?",
+      "ponudeni": [
+        "Mačka lovi miša.",
+        "Crna mačka lovi miša.",
+        "Mačka lovi malog miša.",
+        "Susjedova mačka lovi miša."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U rečenici Mačka lovi miša. nema riječi koja kazuje kakva je ili čija je mačka ili miš.",
+      "savjet": "Pitaj se: kakav? čiji? ili od čega? Ne zaboravi na posvojne pridjeve."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-082",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici glagol izriče zbivanje?",
+      "ponudeni": [
+        "Lana crta kuću.",
+        "Iznad grada grmi.",
+        "Mačak spava na fotelji.",
+        "Tata kuha ručak."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Grmi se događa samo od sebe, bez nekoga tko to radi, pa izriče zbivanje.",
+      "savjet": "Zbivanje se događa samo od sebe, a radnju netko radi namjerno."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-083",
+      "tezina": "tesko",
+      "pitanje": "Koje su riječi imenice u rečenici „Plavi auto stoji pred kućom.“?",
+      "ponudeni": [
+        "plavi, auto",
+        "stoji, kućom",
+        "auto, kućom",
+        "auto, pred"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Auto i kućom su imenice. Plavi je pridjev, stoji glagol, a pred nije ni jedno od toga.",
+      "savjet": "Imenice imenuju stvari i mjesta. Pazi na kratke riječi koje nisu imenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-084",
+      "tezina": "tesko",
+      "pitanje": "Koliko je imenica, a koliko glagola u rečenici „Sunce sja i ptice pjevaju.“?",
+      "ponudeni": [
+        "1 imenica i 3 glagola",
+        "3 imenice i 1 glagol",
+        "2 imenice i 1 glagol",
+        "2 imenice i 2 glagola"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Imenice su sunce i ptice, a glagoli sja i pjevaju.",
+      "savjet": "Prvo pronađi imenice, a zatim što svaka od njih radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-085",
+      "tezina": "tesko",
+      "pitanje": "Koliko je pridjeva u rečenici „Bakina topla vunena kapa leži na stolu.“?",
+      "ponudeni": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pridjevi su bakina (čija?), topla (kakva?) i vunena (od čega?).",
+      "savjet": "Uz imenicu kapa postavi sva tri pitanja: kakva? čija? od čega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-086",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica ima jednako mnogo imenica i pridjeva?",
+      "ponudeni": [
+        "Mali dječak hrani patke.",
+        "Mali dječak hrani gladne patke.",
+        "Dječak hrani gladne patke.",
+        "Dječak hrani patke."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U toj su rečenici dvije imenice (dječak, patke) i dva pridjeva (mali, gladne).",
+      "savjet": "U svakoj rečenici posebno prebroji imenice i pridjeve pa ih usporedi."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-087",
+      "tezina": "tesko",
+      "pitanje": "Kojom vrstom riječi treba dopuniti rečenicu „Mali ___ trči livadom.“?",
+      "ponudeni": [
+        "glagolom",
+        "pridjevom",
+        "imenicom",
+        "brojem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U rečenici nedostaje onaj tko trči, na primjer zec, a to je imenica.",
+      "savjet": "Pitaj se što u rečenici nedostaje: tko, što radi ili kakav."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-088",
+      "tezina": "tesko",
+      "pitanje": "Kojom vrstom riječi treba dopuniti rečenicu „Sestra ___ pismo.“?",
+      "ponudeni": [
+        "imenicom",
+        "pridjevom",
+        "brojem",
+        "glagolom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U rečenici nedostaje što sestra radi, na primjer piše, a to je glagol.",
+      "savjet": "Postoji li u rečenici riječ koja kazuje što sestra radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-089",
+      "tezina": "tesko",
+      "pitanje": "Kojom vrstom riječi treba dopuniti rečenicu „Na grani sjedi ___ vrabac.“?",
+      "ponudeni": [
+        "pridjevom",
+        "imenicom",
+        "glagolom",
+        "brojem"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U rečenici već postoje imenica vrabac i glagol sjedi, a nedostaje riječ koja kazuje kakav je vrabac.",
+      "savjet": "Pogledaj što u rečenici već postoji, a što nedostaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-imenice-glagoli-i-pridjevi-090",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ne pripada nizu „skok, skakati, skakač, skakaonica“?",
+      "ponudeni": [
+        "skok",
+        "skakati",
+        "skakač",
+        "skakaonica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Skakati je glagol, a skok, skakač i skakaonica su imenice.",
+      "savjet": "Riječi su srodne, ali nisu sve iste vrste."
+    }
+  ]
+}

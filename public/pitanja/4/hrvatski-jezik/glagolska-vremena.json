@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "glagolska-vremena",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-001",
+      "tezina": "lagano",
+      "pitanje": "Što kazuje glagolsko vrijeme?",
+      "ponudeni": [
+        "Kada se radnja događa",
+        "Tko izvršava radnju",
+        "Gdje se radnja događa",
+        "Koliko dugo traje radnja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagolsko vrijeme kazuje kada se radnja događa: prije, sada ili poslije.",
+      "savjet": "Sjeti se što se mijenja kad kažeš čitao sam, čitam i čitat ću."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-002",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo glagolsko vrijeme koje kazuje da se radnja događa upravo sada?",
+      "ponudeni": [
+        "Prošlo vrijeme",
+        "Buduće vrijeme",
+        "Sadašnje vrijeme",
+        "Davno vrijeme"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Radnja koja se događa sada izriče se sadašnjim vremenom, npr. Sada čitam.",
+      "savjet": "Naziv ovog vremena sličan je riječi koja znači ovaj trenutak."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-003",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo glagolsko vrijeme koje kazuje da će se radnja dogoditi poslije?",
+      "ponudeni": [
+        "Sadašnje vrijeme",
+        "Prošlo vrijeme",
+        "Sljedeće vrijeme",
+        "Buduće vrijeme"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Radnja koja će se tek dogoditi izriče se budućim vremenom, npr. Sutra ću čitati.",
+      "savjet": "Kako zovemo vrijeme koje tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-004",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo glagolsko vrijeme koje kazuje da se radnja već dogodila?",
+      "ponudeni": [
+        "Prošlo vrijeme",
+        "Buduće vrijeme",
+        "Sadašnje vrijeme",
+        "Kasno vrijeme"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Radnja koja se dogodila prije izriče se prošlim vremenom, npr. Jučer sam čitao.",
+      "savjet": "Ono što je već prošlo pripada kojem vremenu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-005",
+      "tezina": "lagano",
+      "pitanje": "U kojem je vremenu glagol u rečenici „Jučer sam pisala pismo baki.“?",
+      "ponudeni": [
+        "U sadašnjem vremenu",
+        "U prošlom vremenu",
+        "U budućem vremenu",
+        "Rečenica nema glagola."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol sam pisala kazuje da se radnja već dogodila, pa je u prošlom vremenu.",
+      "savjet": "Koja riječ u rečenici kazuje kada se to dogodilo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-006",
+      "tezina": "lagano",
+      "pitanje": "U kojem je vremenu glagol u rečenici „Sutra ćemo plivati u bazenu.“?",
+      "ponudeni": [
+        "U prošlom vremenu",
+        "U sadašnjem vremenu",
+        "Rečenica nema glagola.",
+        "U budućem vremenu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagol ćemo plivati kazuje da će se radnja tek dogoditi, pa je u budućem vremenu.",
+      "savjet": "Pogledaj riječ sutra. Je li to već bilo ili tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-007",
+      "tezina": "lagano",
+      "pitanje": "U kojem je vremenu glagol u rečenici „Luka sada crta dvorac.“?",
+      "ponudeni": [
+        "U sadašnjem vremenu",
+        "U budućem vremenu",
+        "U prošlom vremenu",
+        "Rečenica nema glagola."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol crta kazuje da se radnja događa sada, pa je u sadašnjem vremenu.",
+      "savjet": "Koja riječ u rečenici kazuje kada Luka crta?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-008",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih oblika glagola pjevati u prošlom vremenu?",
+      "ponudeni": [
+        "pjevam",
+        "pjevat ću",
+        "pjevala sam",
+        "pjevaj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oblik pjevala sam kazuje da se pjevanje već dogodilo, pa je u prošlom vremenu.",
+      "savjet": "Sjeti se kako se gradi prošlo vrijeme."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-009",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih oblika glagola igrati u budućem vremenu?",
+      "ponudeni": [
+        "igrao sam",
+        "igrat ću",
+        "igram",
+        "igrali smo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oblik igrat ću kazuje da će se igra tek dogoditi, pa je u budućem vremenu.",
+      "savjet": "Sjeti se kako se gradi buduće vrijeme."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-010",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih oblika glagola učiti u sadašnjem vremenu?",
+      "ponudeni": [
+        "učio sam",
+        "učit ću",
+        "učila je",
+        "učim"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oblik učim kazuje da se radnja događa sada, pa je u sadašnjem vremenu.",
+      "savjet": "Koji bi oblik rekao da nekomu kažeš što radiš upravo ovaj čas?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-011",
+      "tezina": "lagano",
+      "pitanje": "Koja vremenska riječ kazuje da se nešto dogodilo u prošlosti?",
+      "ponudeni": [
+        "sutra",
+        "jučer",
+        "prekosutra",
+        "sada"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jučer je dan prije današnjega, pa ta riječ kazuje prošlost.",
+      "savjet": "Koji je dan već prošao?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-012",
+      "tezina": "lagano",
+      "pitanje": "Koja vremenska riječ kazuje da će se nešto dogoditi u budućnosti?",
+      "ponudeni": [
+        "prekjučer",
+        "lani",
+        "sutra",
+        "upravo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sutra je dan poslije današnjega, pa ta riječ kazuje budućnost.",
+      "savjet": "Koji dan tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-013",
+      "tezina": "lagano",
+      "pitanje": "Koja vremenska riječ kazuje da se nešto događa u sadašnjosti?",
+      "ponudeni": [
+        "jučer",
+        "sutra",
+        "lani",
+        "sada"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ sada kazuje da se radnja događa u ovom trenutku.",
+      "savjet": "Koja riječ znači u ovom trenutku?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-014",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici glagol u budućem vremenu?",
+      "ponudeni": [
+        "Mia je pjevala u zboru.",
+        "Mia pjeva u zboru.",
+        "Mia će pjevati u zboru.",
+        "Mia je jučer pjevala."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U rečenici Mia će pjevati u zboru glagol kazuje radnju koja će se tek dogoditi.",
+      "savjet": "Koja rečenica kazuje ono što tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-015",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici glagol u prošlom vremenu?",
+      "ponudeni": [
+        "Marko trči u parku.",
+        "Marko je trčao u parku.",
+        "Marko će trčati u parku.",
+        "Marko trči sa psom."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol je trčao kazuje da se trčanje već dogodilo, pa je u prošlom vremenu.",
+      "savjet": "Glagol u prošlom vremenu često završava na -o, -la ili -li."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-016",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici glagol u sadašnjem vremenu?",
+      "ponudeni": [
+        "Ana je gledala crtić.",
+        "Ana će gledati crtić.",
+        "Ana je jučer gledala film.",
+        "Ana gleda crtić."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagol gleda kazuje da se radnja događa sada, pa je u sadašnjem vremenu.",
+      "savjet": "Koja rečenica kazuje što Ana radi u ovom trenutku?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-017",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ u rečenici „Prekjučer smo kuhali juhu.“ kazuje kada se radnja dogodila?",
+      "ponudeni": [
+        "Prekjučer",
+        "smo",
+        "kuhali",
+        "juhu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ prekjučer je vremenska riječ i kazuje da se kuhanje dogodilo dva dana prije.",
+      "savjet": "Vremenska riječ odgovara na pitanje kada?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-018",
+      "tezina": "lagano",
+      "pitanje": "Koji dio rečenice „Iduće ljeto putovat ćemo u Split.“ kazuje kada će se radnja dogoditi?",
+      "ponudeni": [
+        "putovat ćemo",
+        "u Split",
+        "Iduće ljeto",
+        "ćemo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi iduće ljeto odgovaraju na pitanje kada? i kazuju budućnost.",
+      "savjet": "Postavi pitanje kada? i potraži odgovor u rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-019",
+      "tezina": "lagano",
+      "pitanje": "U kojem je vremenu glagol u rečenici „Prošlo ljeto djevojčice su plivale u jezeru.“?",
+      "ponudeni": [
+        "U budućem vremenu",
+        "U sadašnjem vremenu",
+        "Rečenica nema glagola.",
+        "U prošlom vremenu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagol su plivale kazuje da se plivanje već dogodilo, pa je u prošlom vremenu.",
+      "savjet": "Je li to ljeto već bilo ili tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-020",
+      "tezina": "lagano",
+      "pitanje": "U kojem je vremenu glagol u rečenici „Mi upravo jedemo ručak.“?",
+      "ponudeni": [
+        "U prošlom vremenu",
+        "U sadašnjem vremenu",
+        "U budućem vremenu",
+        "Rečenica nema glagola."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol jedemo kazuje da se radnja događa sada, pa je u sadašnjem vremenu.",
+      "savjet": "Događa li se jelo prije, sada ili poslije?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-021",
+      "tezina": "lagano",
+      "pitanje": "U kojem je vremenu glagol u rečenici „Luka će prekosutra doći k nama.“?",
+      "ponudeni": [
+        "U budućem vremenu",
+        "U prošlom vremenu",
+        "U sadašnjem vremenu",
+        "Rečenica nema glagola."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol će doći kazuje da će se radnja tek dogoditi, pa je u budućem vremenu.",
+      "savjet": "Pogledaj riječ prekosutra. Je li taj dan već prošao?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-022",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih oblika glagola čitati u prošlom vremenu?",
+      "ponudeni": [
+        "čitam",
+        "čitao je",
+        "čitat će",
+        "čitaj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oblik čitao je kazuje da se čitanje već dogodilo, pa je u prošlom vremenu.",
+      "savjet": "Oblik prošlog vremena često završava na -o, -la ili -li."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-023",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih oblika glagola ići u budućem vremenu?",
+      "ponudeni": [
+        "išao sam",
+        "idem",
+        "ići ću",
+        "išla je"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oblik ići ću kazuje da će se radnja tek dogoditi, pa je u budućem vremenu.",
+      "savjet": "Sjeti se kako kažeš što ćeš raditi sutra."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-024",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih oblika glagola pisati u sadašnjem vremenu?",
+      "ponudeni": [
+        "pišemo",
+        "pisali smo",
+        "pisat ćemo",
+        "pisala sam"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oblik pišemo kazuje da se pisanje događa sada, pa je u sadašnjem vremenu.",
+      "savjet": "Kako kažemo što mi radimo upravo sada?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-025",
+      "tezina": "lagano",
+      "pitanje": "Koja skupina riječi kazuje prošlost?",
+      "ponudeni": [
+        "sutra, prekosutra",
+        "sada, upravo",
+        "za tjedan dana, iduće ljeto",
+        "jučer, prekjučer"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jučer i prekjučer su dani koji su već prošli, pa te riječi kazuju prošlost.",
+      "savjet": "Koji su dani već iza nas?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-026",
+      "tezina": "lagano",
+      "pitanje": "Koja skupina riječi kazuje budućnost?",
+      "ponudeni": [
+        "lani, prošli tjedan",
+        "sutra, iduće ljeto",
+        "sada, ovaj čas",
+        "jučer, nekad"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sutra i iduće ljeto tek dolaze, pa te riječi kazuju budućnost.",
+      "savjet": "Koje vrijeme tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-027",
+      "tezina": "lagano",
+      "pitanje": "Kojim glagolom treba dopuniti rečenicu „Ja sada ___ crtić.“?",
+      "ponudeni": [
+        "gledao sam",
+        "gledat ću",
+        "gledala sam",
+        "gledam"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ sada traži sadašnje vrijeme, pa je točno: Ja sada gledam crtić.",
+      "savjet": "Riječ sada kazuje kada se radnja događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-028",
+      "tezina": "lagano",
+      "pitanje": "Koji je glagol u rečenici „Marko je pio sok, a sada jede kolač.“ u prošlom vremenu?",
+      "ponudeni": [
+        "jede",
+        "je pio",
+        "sok",
+        "sada"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol je pio kazuje da se radnja već dogodila, a jede kazuje što se događa sada.",
+      "savjet": "Rečenica ima dva glagola. Koji kazuje što je već bilo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-029",
+      "tezina": "lagano",
+      "pitanje": "Koji je glagol u rečenici „Ana sada spava, a poslije će kuhati.“ u budućem vremenu?",
+      "ponudeni": [
+        "spava",
+        "sada",
+        "će kuhati",
+        "Ana"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagol će kuhati kazuje radnju koja će se tek dogoditi, pa je u budućem vremenu.",
+      "savjet": "Rečenica ima dva glagola. Koji kazuje što će tek biti?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-030",
+      "tezina": "lagano",
+      "pitanje": "Što znači da je glagol u sadašnjem vremenu?",
+      "ponudeni": [
+        "Radnja se događa sada.",
+        "Radnja se dogodila jučer.",
+        "Radnja će se dogoditi sutra.",
+        "Radnja se nikad ne događa."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol u sadašnjem vremenu kazuje radnju koja se događa sada, npr. pišem, čitam.",
+      "savjet": "Sjeti se što znači riječ sadašnji."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-031",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Jučer je Marko ___ nogomet.“?",
+      "ponudeni": [
+        "igra",
+        "igrao",
+        "igrat će",
+        "igrati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jučer traži prošlo vrijeme, a uz je ide oblik igrao: Jučer je Marko igrao nogomet.",
+      "savjet": "Riječ jučer kazuje da se radnja već dogodila."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-032",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Sutra ćemo ___ u kino.“?",
+      "ponudeni": [
+        "išli",
+        "idemo",
+        "ići",
+        "išle"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Buduće vrijeme gradi se od ćemo i neodređenog oblika glagola: Sutra ćemo ići u kino.",
+      "savjet": "Uz ćemo ide oblik glagola koji nalaziš u rječniku."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-033",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Djevojčice sada ___ pjesmu.“?",
+      "ponudeni": [
+        "pjevaju",
+        "su pjevale",
+        "će pjevati",
+        "pjevale"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ sada traži sadašnje vrijeme: Djevojčice sada pjevaju pjesmu.",
+      "savjet": "Riječ sada kazuje kada se radnja događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-034",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Ana piše zadaću.“ u prošlom vremenu?",
+      "ponudeni": [
+        "Ana je pisao zadaću.",
+        "Ana će pisati zadaću.",
+        "Ana je pisala zadaću.",
+        "Ana je pisati zadaću."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U prošlom vremenu Ana je pisala zadaću; Ana je djevojčica, pa glagol završava na -la.",
+      "savjet": "Pazi da oblik glagola pristaje Ani."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-035",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Luka čita stripove.“ u budućem vremenu?",
+      "ponudeni": [
+        "Luka je čitao stripove.",
+        "Luka će čitati stripove.",
+        "Luka ću čitati stripove.",
+        "Luka će čitao stripove."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Buduće vrijeme za Luku glasi Luka će čitati stripove.",
+      "savjet": "Uz Luku ide će, a iza nje neodređeni oblik glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-036",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Mi smo gledali utakmicu.“ u sadašnjem vremenu?",
+      "ponudeni": [
+        "Mi gledamo utakmicu.",
+        "Mi ćemo gledati utakmicu.",
+        "Mi gledaju utakmicu.",
+        "Mi smo gledale utakmicu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U sadašnjem vremenu za mi kažemo gledamo: Mi gledamo utakmicu.",
+      "savjet": "Kako kažemo što mi radimo upravo sada?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-037",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Marko je jeo jabuku.“ u sadašnjem vremenu?",
+      "ponudeni": [
+        "Marko jedu jabuku.",
+        "Marko će jesti jabuku.",
+        "Marko jede jabuku.",
+        "Marko jedem jabuku."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U sadašnjem vremenu za Marka kažemo jede: Marko jede jabuku.",
+      "savjet": "Sadašnje vrijeme kazuje što Marko radi upravo sada."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-038",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Mia sluša glazbu.“ u budućem vremenu?",
+      "ponudeni": [
+        "Mia će slušati glazbu.",
+        "Mia je slušala glazbu.",
+        "Mia ćeš slušati glazbu.",
+        "Mia će slušala glazbu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Buduće vrijeme za Miju glasi Mia će slušati glazbu.",
+      "savjet": "Uz Miju ide će, a iza nje neodređeni oblik glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-039",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Dječaci trče oko škole.“ u prošlom vremenu?",
+      "ponudeni": [
+        "Dječaci je trčao oko škole.",
+        "Dječaci su trčale oko škole.",
+        "Dječaci će trčati oko škole.",
+        "Dječaci su trčali oko škole."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za dječake u prošlom vremenu kažemo su trčali: Dječaci su trčali oko škole.",
+      "savjet": "Dječaka je više, pa pazi na riječ su i završetak glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-040",
+      "tezina": "srednje",
+      "pitanje": "Koja vremenska riječ pristaje rečenici „___ ćemo crtati životinje.“?",
+      "ponudeni": [
+        "Jučer",
+        "Prekjučer",
+        "Sutra",
+        "Lani"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagol ćemo crtati je u budućem vremenu, a uz njega pristaje riječ sutra.",
+      "savjet": "U kojem je vremenu glagol ćemo crtati?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-041",
+      "tezina": "srednje",
+      "pitanje": "Koja vremenska riječ pristaje rečenici „___ sam plivao u moru.“?",
+      "ponudeni": [
+        "Lani",
+        "Sutra",
+        "Prekosutra",
+        "Iduće ljeto"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol sam plivao je u prošlom vremenu, a uz njega pristaje riječ lani.",
+      "savjet": "U kojem je vremenu glagol sam plivao?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-042",
+      "tezina": "srednje",
+      "pitanje": "Koja vremenska riječ pristaje rečenici „Beba ___ spava.“?",
+      "ponudeni": [
+        "jučer",
+        "sutra",
+        "lani",
+        "sada"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagol spava je u sadašnjem vremenu, a uz njega pristaje riječ sada.",
+      "savjet": "U kojem je vremenu glagol spava?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-043",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Prošli tjedan Ana je ___ baku.“?",
+      "ponudeni": [
+        "vidi",
+        "vidjela",
+        "vidjet će",
+        "vidila"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uz prošli tjedan ide prošlo vrijeme: Ana je vidjela baku. Piše se vidjela, s je.",
+      "savjet": "Pazi na vrijeme i na to piše li se ije, je ili i."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-044",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Iduće ljeto ćemo ___ na more.“?",
+      "ponudeni": [
+        "putovati",
+        "putujemo",
+        "putovali",
+        "putovat"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uz ćemo ide neodređeni oblik glagola: Iduće ljeto ćemo putovati na more.",
+      "savjet": "Kad je ćemo ispred glagola, kakav je oblik glagola iza nje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-045",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Djevojčice su crtale cvijeće.“ u budućem vremenu?",
+      "ponudeni": [
+        "Djevojčice crtaju cvijeće.",
+        "Djevojčice ćemo crtati cvijeće.",
+        "Djevojčice su crtati cvijeće.",
+        "Djevojčice će crtati cvijeće."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Buduće vrijeme za djevojčice glasi Djevojčice će crtati cvijeće.",
+      "savjet": "Za njih kažemo oni će ili one će."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-046",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Luka će spavati kod bake.“ u prošlom vremenu?",
+      "ponudeni": [
+        "Luka spava kod bake.",
+        "Luka je spavala kod bake.",
+        "Luka su spavali kod bake.",
+        "Luka je spavao kod bake."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Luka je dječak, pa u prošlom vremenu kažemo Luka je spavao kod bake.",
+      "savjet": "Pazi da oblik glagola pristaje dječaku."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-047",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Mi ćemo kuhati juhu.“ u sadašnjem vremenu?",
+      "ponudeni": [
+        "Mi kuhamo juhu.",
+        "Mi smo kuhali juhu.",
+        "Mi kuhaju juhu.",
+        "Mi kuham juhu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U sadašnjem vremenu za mi kažemo kuhamo: Mi kuhamo juhu.",
+      "savjet": "Kako kažemo što mi kuhamo upravo sada?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-048",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Marko sada ___ u školu.“?",
+      "ponudeni": [
+        "je išao",
+        "ide",
+        "će ići",
+        "išao"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ sada traži sadašnje vrijeme: Marko sada ide u školu.",
+      "savjet": "Riječ sada kazuje kada se radnja događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-049",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Prekjučer je Mia ___ k nama.“?",
+      "ponudeni": [
+        "dođe",
+        "došao",
+        "došla",
+        "doći će"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prekjučer traži prošlo vrijeme, a Mia je djevojčica: Prekjučer je Mia došla k nama.",
+      "savjet": "Pazi na vremensku riječ i na to tko je došao k nama."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-050",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Ana će prekosutra ___ tortu.“?",
+      "ponudeni": [
+        "jela",
+        "jede",
+        "jesti",
+        "jedla"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uz će ide neodređeni oblik glagola: Ana će prekosutra jesti tortu.",
+      "savjet": "Kakav oblik glagola stoji iza će?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-051",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica s riječju prekosutra pravilno složena?",
+      "ponudeni": [
+        "Prekosutra smo igrali košarku.",
+        "Prekosutra ćemo igrati košarku.",
+        "Prekosutra igrali smo košarku.",
+        "Prekosutra su igrali košarku."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prekosutra tek dolazi, pa uz tu riječ ide buduće vrijeme: Prekosutra ćemo igrati košarku.",
+      "savjet": "Je li prekosutra već bilo ili tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-052",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica s riječju lani pravilno složena?",
+      "ponudeni": [
+        "Lani ćemo putovati u Zagreb.",
+        "Lani ću putovati u Zagreb.",
+        "Lani smo putovali u Zagreb.",
+        "Lani će putovati u Zagreb."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lani znači prošle godine, pa uz tu riječ ide prošlo vrijeme: Lani smo putovali u Zagreb.",
+      "savjet": "Sjeti se što znači riječ lani."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-053",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom treba dopuniti rečenicu „Za tjedan dana Luka će ___ more.“?",
+      "ponudeni": [
+        "vidjeti",
+        "vidio",
+        "viditi",
+        "vidi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uz će ide neodređeni oblik glagola vidjeti: Luka će vidjeti more.",
+      "savjet": "Iza će dolazi oblik glagola kakav nalaziš u rječniku."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-054",
+      "tezina": "srednje",
+      "pitanje": "Mia kaže: „Ja ću piti mlijeko.“ Kako će to reći u prošlom vremenu?",
+      "ponudeni": [
+        "Ja sam pio mlijeko.",
+        "Ja pijem mlijeko.",
+        "Ja sam pila mlijeko.",
+        "Ja je pila mlijeko."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mia je djevojčica, pa u prošlom vremenu kaže: Ja sam pila mlijeko.",
+      "savjet": "Uz ja ide sam, a završetak glagola mora pristajati djevojčici."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-055",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Oni rade u vrtu.“ u budućem vremenu?",
+      "ponudeni": [
+        "Oni su radili u vrtu.",
+        "Oni ćemo raditi u vrtu.",
+        "Oni će radili u vrtu.",
+        "Oni će raditi u vrtu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Buduće vrijeme za oni glasi Oni će raditi u vrtu.",
+      "savjet": "Uz oni ide će, a iza nje neodređeni oblik glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-056",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Mi smo sjedili u prvoj klupi.“ u sadašnjem vremenu?",
+      "ponudeni": [
+        "Mi sjedimo u prvoj klupi.",
+        "Mi ćemo sjediti u prvoj klupi.",
+        "Mi sjede u prvoj klupi.",
+        "Mi sjedim u prvoj klupi."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U sadašnjem vremenu za mi kažemo sjedimo: Mi sjedimo u prvoj klupi.",
+      "savjet": "Kako kažemo gdje mi sjedimo upravo sada?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-057",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ nedostaje u rečenici „Sutra ___ učiti matematiku.“?",
+      "ponudeni": [
+        "sam",
+        "ću",
+        "je",
+        "smo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sutra traži buduće vrijeme, a ono se gradi s ću: Sutra ću učiti matematiku.",
+      "savjet": "Koja od ponuđenih riječi pripada budućem vremenu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-058",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ nedostaje u rečenici „Jučer ___ gledali film.“?",
+      "ponudeni": [
+        "ćemo",
+        "smo",
+        "će",
+        "ćete"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jučer traži prošlo vrijeme, a uz gledali ide smo: Jučer smo gledali film.",
+      "savjet": "Koja od ponuđenih riječi pripada prošlom vremenu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-059",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Mia je plivala u bazenu.“ u budućem vremenu?",
+      "ponudeni": [
+        "Mia pliva u bazenu.",
+        "Mia ćeš plivati u bazenu.",
+        "Mia će plivala u bazenu.",
+        "Mia će plivati u bazenu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Buduće vrijeme za Miju glasi Mia će plivati u bazenu.",
+      "savjet": "Iza će dolazi neodređeni oblik glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-060",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi rečenica „Ana i Mia čitaju bajke.“ u prošlom vremenu?",
+      "ponudeni": [
+        "Ana i Mia su čitali bajke.",
+        "Ana i Mia je čitala bajke.",
+        "Ana i Mia čitat će bajke.",
+        "Ana i Mia su čitale bajke."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ana i Mia su dvije djevojčice, pa kažemo: Ana i Mia su čitale bajke.",
+      "savjet": "Djevojčica je više od jedne. Kako onda završava glagol?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-061",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica nije dobro složena jer glagol ne pristaje vremenskoj riječi: jučer, sutra, prekjučer ili sada?",
+      "ponudeni": [
+        "Jučer smo igrali šah.",
+        "Sutra ćemo igrati šah.",
+        "Prekjučer ćemo igrati šah.",
+        "Sada igramo šah."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prekjučer je već prošao, pa uz tu riječ ne može stajati buduće vrijeme ćemo igrati.",
+      "savjet": "Za svaku rečenicu provjeri pristaje li vremenska riječ glagolu."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-062",
+      "tezina": "tesko",
+      "pitanje": "U kojoj se rečenici o Lukinu putovanju vremenska riječ i glagol ne slažu?",
+      "ponudeni": [
+        "Lani je Luka išao na more.",
+        "Iduće ljeto Luka je išao na more.",
+        "Iduće ljeto Luka će ići na more.",
+        "Prošlo ljeto Luka je išao na more."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iduće ljeto tek dolazi, pa uz tu riječ ne pristaje prošlo vrijeme je išao.",
+      "savjet": "Pitaj se za svaku rečenicu: je li to ljeto već bilo ili tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-063",
+      "tezina": "tesko",
+      "pitanje": "Koji je oblik budućeg vremena glagola pisati ispravno napisan?",
+      "ponudeni": [
+        "pisati ću",
+        "pisatću",
+        "pisat ću",
+        "pisaću"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad je glagol na -ti ispred ću, gubi -i i piše se odvojeno: pisat ću.",
+      "savjet": "Što se događa sa završnim -i kad glagol stoji ispred ću?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-064",
+      "tezina": "tesko",
+      "pitanje": "Kako se ispravno piše riječ koja nedostaje u rečenici „Sutra ___ priču.“, ako je glagol čitati?",
+      "ponudeni": [
+        "čitati ćemo",
+        "čitat ćemo",
+        "čitatćemo",
+        "čitaćemo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol na -ti ispred ćemo gubi -i i piše se odvojeno: čitat ćemo.",
+      "savjet": "Sjeti se kako se piše pisat ću."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-065",
+      "tezina": "tesko",
+      "pitanje": "Koji je oblik budućeg vremena glagola ići ispravno napisan?",
+      "ponudeni": [
+        "ić ću",
+        "ićću",
+        "ićiću",
+        "ići ću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagoli na -ći zadržavaju cijeli oblik i pišu se odvojeno: ići ću.",
+      "savjet": "Gube li glagoli na -ći završno slovo kao glagoli na -ti?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-066",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici s glagolom igrati buduće vrijeme ispravno napisano?",
+      "ponudeni": [
+        "Igrati ćemo se u parku.",
+        "Igrat ćemo se u parku.",
+        "Igratćemo se u parku.",
+        "Igraćemo se u parku."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol na -ti ispred ćemo gubi -i i piše se odvojeno: Igrat ćemo se u parku.",
+      "savjet": "Sjeti se pravila za glagole na -ti ispred ću, ćeš, će…"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-067",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica s glagolom doći ispravno napisana?",
+      "ponudeni": [
+        "Doć ćeš k nama sutra.",
+        "Doćićeš k nama sutra.",
+        "Doći ćeš k nama sutra.",
+        "Doćeš k nama sutra."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagoli na -ći ne gube završno -i i pišu se odvojeno: Doći ćeš k nama sutra.",
+      "savjet": "Glagol doći završava na -ći. Mijenja li se kad stoji ispred ćeš?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-068",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Marko crta i pjeva.“ u prošlom vremenu?",
+      "ponudeni": [
+        "Marko je crtao i pjevao.",
+        "Marko je crtala i pjevala.",
+        "Marko će crtati i pjevati.",
+        "Marko je crtao i pjeva."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oba glagola treba prebaciti u prošlo vrijeme i pazi na Marka: Marko je crtao i pjevao.",
+      "savjet": "Rečenica ima dva glagola. Moraju li se promijeniti oba?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-069",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Ana čita i sluša glazbu.“ u budućem vremenu?",
+      "ponudeni": [
+        "Ana će čitati i slušala glazbu.",
+        "Ana je čitala i slušala glazbu.",
+        "Ana će čitati i slušati glazbu.",
+        "Ana ćeš čitati i slušati glazbu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oba glagola su u budućem vremenu: Ana će čitati i slušati glazbu.",
+      "savjet": "Provjeri jesu li oba glagola u istom vremenu i pristaje li će Ani."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-070",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Mi smo jeli kolače i pili sok.“ u sadašnjem vremenu?",
+      "ponudeni": [
+        "Mi jedemo kolače i pili smo sok.",
+        "Mi jedemo kolače i pijemo sok.",
+        "Mi ćemo jesti kolače i piti sok.",
+        "Mi jedu kolače i piju sok."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U sadašnjem vremenu za mi kažemo jedemo i pijemo: Mi jedemo kolače i pijemo sok.",
+      "savjet": "Promijeni oba glagola i pazi da pristaju riječi mi."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-071",
+      "tezina": "tesko",
+      "pitanje": "Koja je preoblika rečenice „Luka gleda film.“ u prošlo vrijeme točna?",
+      "ponudeni": [
+        "Luka je gledala film.",
+        "Luka su gledali film.",
+        "Luka će gledati film.",
+        "Luka je gledao film."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Luka je jedan dječak, pa u prošlom vremenu kažemo Luka je gledao film.",
+      "savjet": "Pazi na vrijeme, ali i na to da glagol pristaje Luki."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-072",
+      "tezina": "tesko",
+      "pitanje": "Rečenicu „Ti pišeš pismo.“ treba preoblikovati u buduće vrijeme. Koja je preoblika točna?",
+      "ponudeni": [
+        "Ti ćeš pisati pismo.",
+        "Ti će pisati pismo.",
+        "Ti ću pisati pismo.",
+        "Ja ću pisati pismo."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uz ti ide ćeš: Ti ćeš pisati pismo. Osoba ostaje ista, mijenja se samo vrijeme.",
+      "savjet": "Pri preoblikovanju osoba ostaje ista. Koja riječ ide uz ti?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-073",
+      "tezina": "tesko",
+      "pitanje": "Rečenicu „Vi ste učili pjesmu.“ treba preoblikovati u sadašnje vrijeme. Koja je preoblika točna?",
+      "ponudeni": [
+        "Vi ćete učiti pjesmu.",
+        "Vi uče pjesmu.",
+        "Mi učimo pjesmu.",
+        "Vi učite pjesmu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U sadašnjem vremenu za vi kažemo učite: Vi učite pjesmu.",
+      "savjet": "Osoba vi mora ostati ista, mijenja se samo vrijeme."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-074",
+      "tezina": "tesko",
+      "pitanje": "Rečenicu „Djevojčice će pjevati na priredbi.“ treba preoblikovati u prošlo vrijeme. Koja je preoblika točna?",
+      "ponudeni": [
+        "Djevojčice su pjevali na priredbi.",
+        "Djevojčice pjevaju na priredbi.",
+        "Djevojčica je pjevala na priredbi.",
+        "Djevojčice su pjevale na priredbi."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za više djevojčica u prošlom vremenu kažemo su pjevale: Djevojčice su pjevale na priredbi.",
+      "savjet": "Pazi da ostane više djevojčica i da glagol pristaje njima."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-075",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu oblici glagola pisati poredani redom: prošlo, sadašnje, buduće vrijeme?",
+      "ponudeni": [
+        "pisao sam, pišem, pisat ću",
+        "pišem, pisao sam, pisat ću",
+        "pisat ću, pišem, pisao sam",
+        "pisao sam, pisat ću, pišem"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pisao sam je prošlo, pišem sadašnje, a pisat ću buduće vrijeme.",
+      "savjet": "Za svaki oblik u nizu odredi vrijeme, pa provjeri redoslijed."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-076",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu svi glagoli u prošlom vremenu?",
+      "ponudeni": [
+        "igrao je, igra, igrali su",
+        "igrali smo, crtala je, pjevao sam",
+        "crtat ćemo, crtala je, crtali smo",
+        "pjevamo, pjevali smo, pjevao je"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Igrali smo, crtala je i pjevao sam kazuju radnje koje su se već dogodile.",
+      "savjet": "Pregledaj svaki glagol u nizu, jedan krivi oblik kvari cijeli niz."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-077",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu svi glagoli u budućem vremenu?",
+      "ponudeni": [
+        "učit ću, ići ćemo, čitat će",
+        "učit ću, idemo, čitat će",
+        "učio sam, ići ćemo, čitat će",
+        "učit ću, ići ćemo, čitao je"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Učit ću, ići ćemo i čitat će kazuju radnje koje će se tek dogoditi.",
+      "savjet": "Pregledaj svaki glagol u nizu, jedan krivi oblik kvari cijeli niz."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-078",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu svi oblici budućeg vremena ispravno napisani?",
+      "ponudeni": [
+        "pisat ću, ići ćemo, igrati će",
+        "pisat ću, ić ćemo, igrat će",
+        "pisat ću, ići ćemo, igrat će",
+        "pisati ću, ići ćemo, igrat će"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagoli na -ti gube -i (pisat ću, igrat će), a glagoli na -ći ga zadržavaju (ići ćemo).",
+      "savjet": "Razlikuj glagole na -ti od glagola na -ći."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-079",
+      "tezina": "tesko",
+      "pitanje": "Koji nastavak pravilno završava rečenicu „Prošle subote…“?",
+      "ponudeni": [
+        "…ćemo kuhati ručak.",
+        "…kuhat ćemo ručak.",
+        "…smo kuhali ručak.",
+        "…ćete kuhati ručak."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prošla subota je već bila, pa rečenicu završavamo prošlim vremenom: smo kuhali ručak.",
+      "savjet": "Je li prošla subota već bila ili tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-080",
+      "tezina": "tesko",
+      "pitanje": "U rečenici „Jučer ćemo ići u kazalište.“ glagol ne pristaje vremenskoj riječi. Kako glasi ispravljena rečenica?",
+      "ponudeni": [
+        "Jučer smo išli u kazalište.",
+        "Jučer idemo u kazalište.",
+        "Jučer ćemo išli u kazalište.",
+        "Jučer smo ići u kazalište."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jučer traži prošlo vrijeme, pa je ispravno: Jučer smo išli u kazalište.",
+      "savjet": "Koje vrijeme traži riječ jučer?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-081",
+      "tezina": "tesko",
+      "pitanje": "U rečenici „Sutra je Mia crtala dinosaura.“ glagol ne pristaje vremenskoj riječi. Kako glasi ispravljena rečenica?",
+      "ponudeni": [
+        "Sutra je Mia crtat dinosaura.",
+        "Sutra će Mia crtala dinosaura.",
+        "Sutra crtala će Mia dinosaura.",
+        "Sutra će Mia crtati dinosaura."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sutra traži buduće vrijeme, pa je ispravno: Sutra će Mia crtati dinosaura.",
+      "savjet": "Koje vrijeme traži riječ sutra i kako se ono gradi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-082",
+      "tezina": "tesko",
+      "pitanje": "Luka priča što je radio prošli vikend. Koja rečenica pristaje njegovoj priči?",
+      "ponudeni": [
+        "Igrat ću nogomet s prijateljima.",
+        "Igram nogomet s prijateljima.",
+        "Igrao sam nogomet s prijateljima.",
+        "Igrat ćemo nogomet s prijateljima."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prošli vikend je već bio, pa Luka priča u prošlom vremenu: Igrao sam nogomet.",
+      "savjet": "Je li prošli vikend već bio ili tek dolazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-083",
+      "tezina": "tesko",
+      "pitanje": "Ana priča što planira raditi za praznike. Koja rečenica pristaje njezinoj priči?",
+      "ponudeni": [
+        "Putovala sam k baki u Osijek.",
+        "Putovali smo k baki u Osijek.",
+        "Putovat ću k baki u Osijek.",
+        "Putovao je k baki u Osijek."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plan je nešto što će se tek dogoditi, pa Ana govori u budućem vremenu: Putovat ću k baki.",
+      "savjet": "Kada se događa ono što planiramo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-084",
+      "tezina": "tesko",
+      "pitanje": "Koja je točna preoblika rečenice „Ja idem u knjižnicu.“ u buduće vrijeme?",
+      "ponudeni": [
+        "Ja ću ići u knjižnicu.",
+        "Ja sam išao u knjižnicu.",
+        "Ja ću ić u knjižnicu.",
+        "Ja ćeš ići u knjižnicu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uz ja ide ću, a glagol ići zadržava cijeli oblik: Ja ću ići u knjižnicu.",
+      "savjet": "Koja riječ ide uz ja i kako se piše glagol ići?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-085",
+      "tezina": "tesko",
+      "pitanje": "Rečenica „Sutra ću pisati zadaću.“ može početi glagolom. Kako se tada ispravno piše?",
+      "ponudeni": [
+        "Pisati ću sutra zadaću.",
+        "Pisat ću sutra zadaću.",
+        "Pisatću sutra zadaću.",
+        "Pisaću sutra zadaću."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad glagol na -ti stoji ispred ću, gubi -i i piše se odvojeno: Pisat ću sutra zadaću.",
+      "savjet": "Što se događa s glagolom na -ti kad stoji ispred ću?"
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-086",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi rečenica „Ići ćemo u park i igrat ćemo se.“ u prošlom vremenu?",
+      "ponudeni": [
+        "Išli smo u park i igrali smo se.",
+        "Išli smo u park i igrat ćemo se.",
+        "Idemo u park i igramo se.",
+        "Išle su u park i igrali smo se."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oba glagola treba prebaciti u prošlo vrijeme, a osoba mi ostaje: Išli smo u park i igrali smo se.",
+      "savjet": "Rečenica ima dva glagola. Promijeni oba i zadrži istu osobu."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-087",
+      "tezina": "tesko",
+      "pitanje": "Mia kaže: „Jučer sam ___ baku i ___ kolače.“ Koji par riječi pristaje?",
+      "ponudeni": [
+        "vidim, jedem",
+        "vidjet ću, jesti",
+        "vidila, jela",
+        "vidjela, jela"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jučer traži prošlo vrijeme, Mia je djevojčica, a piše se vidjela: Jučer sam vidjela baku i jela kolače.",
+      "savjet": "Pazi na vremensku riječ, na to tko govori i na pisanje ije/je."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-088",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici glagol u prošlom vremenu ispravno složen s osobom?",
+      "ponudeni": [
+        "Mia je došao kući.",
+        "Marko je došla kući.",
+        "Vi smo došli kući.",
+        "Mi smo došli kući."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uz mi idu smo i oblik došli: Mi smo došli kući.",
+      "savjet": "Provjeri pristaju li osobi i riječ uz glagol i završetak glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o rečenici „Lani smo živjeli u Rijeci, a sada živimo u Zadru.“ točna?",
+      "ponudeni": [
+        "Oba su glagola u prošlom vremenu.",
+        "Prvi je glagol u prošlom, a drugi u sadašnjem vremenu.",
+        "Prvi je glagol u sadašnjem, a drugi u budućem vremenu.",
+        "Oba su glagola u sadašnjem vremenu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Smo živjeli je prošlo vrijeme (lani), a živimo sadašnje vrijeme (sada).",
+      "savjet": "Odredi vrijeme svakog glagola posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-glagolska-vremena-090",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o rečenici „Sada učimo, a poslije ćemo gledati crtić.“ točna?",
+      "ponudeni": [
+        "Oba su glagola u budućem vremenu.",
+        "Prvi je glagol u prošlom, a drugi u budućem vremenu.",
+        "Prvi je glagol u sadašnjem, a drugi u prošlom vremenu.",
+        "Prvi je glagol u sadašnjem, a drugi u budućem vremenu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Učimo je sadašnje vrijeme (sada), a ćemo gledati buduće vrijeme (poslije).",
+      "savjet": "Odredi vrijeme svakog glagola posebno."
+    }
+  ]
+}
