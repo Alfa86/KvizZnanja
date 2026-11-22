@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "pismo",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-pismo-001",
+      "tezina": "lagano",
+      "pitanje": "Koji dio pisma pišemo na samom početku, gore desno?",
+      "ponudeni": [
+        "Pozdrav",
+        "Potpis",
+        "Mjesto i datum",
+        "Sadržaj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pismo počinje mjestom i datumom koji se pišu gore desno, npr. „U Zagrebu, 22. studenoga 2026.“",
+      "savjet": "Sjeti se što primatelj treba znati prije svega: odakle mu pišeš i kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dio pisma u kojem se obraćamo osobi kojoj pišemo, npr. „Draga bako,“?",
+      "ponudeni": [
+        "Oslovljavanje",
+        "Potpis",
+        "Predmet",
+        "Pozdrav"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oslovljavanjem se na početku pisma obraćamo primatelju, npr. „Draga bako,“ ili „Dragi Marko,“.",
+      "savjet": "Razmisli kako se zove riječ kojom nekoga zazivaš kad mu se obraćaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-003",
+      "tezina": "lagano",
+      "pitanje": "Što pišemo na samom kraju pisma, ispod pozdrava?",
+      "ponudeni": [
+        "Oslovljavanje",
+        "Mjesto i datum",
+        "Predmet",
+        "Potpis"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pismo završava potpisom, tako primatelj zna tko mu je pisao.",
+      "savjet": "Kako će primatelj znati od koga je pismo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove glavni dio pisma u kojem pišemo ono što želimo reći?",
+      "ponudeni": [
+        "Pozdrav",
+        "Sadržaj",
+        "Potpis",
+        "Oslovljavanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sadržaj je glavni dio pisma. U njemu pišemo vijesti, pitanja i sve što želimo poručiti.",
+      "savjet": "Taj je dio najduži i nalazi se između oslovljavanja i pozdrava."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-005",
+      "tezina": "lagano",
+      "pitanje": "Kome pišemo privatno pismo?",
+      "ponudeni": [
+        "Gradskoj knjižnici",
+        "Prijatelju ili članu obitelji",
+        "Turističkoj zajednici",
+        "Ravnatelju nepoznate škole"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Privatno pismo pišemo bliskim osobama: obitelji i prijateljima.",
+      "savjet": "Privatno je ono što dijeliš s osobama koje dobro poznaješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-006",
+      "tezina": "lagano",
+      "pitanje": "Kome pišemo službeno pismo?",
+      "ponudeni": [
+        "Baki i djedu",
+        "Najboljem prijatelju",
+        "Sestrični na moru",
+        "Ustanovi, npr. muzeju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Službeno pismo pišemo ustanovama ili odraslim osobama koje ne poznajemo.",
+      "savjet": "Službeno pismo ne pišemo osobama koje su nam bliske."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-007",
+      "tezina": "lagano",
+      "pitanje": "Gdje na omotnici pišemo adresu primatelja?",
+      "ponudeni": [
+        "Dolje desno",
+        "Gore lijevo",
+        "Gore desno",
+        "Na stražnjoj strani"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Adresa primatelja piše se dolje desno na omotnici.",
+      "savjet": "Adresa primatelja mora biti najuočljivija jer prema njoj poštar nosi pismo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-008",
+      "tezina": "lagano",
+      "pitanje": "Gdje na omotnici lijepimo poštansku marku?",
+      "ponudeni": [
+        "Dolje desno",
+        "Gore lijevo",
+        "Gore desno",
+        "Dolje lijevo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poštanska marka lijepi se u gornji desni kut omotnice.",
+      "savjet": "Zamisli omotnicu: marka i podaci pošiljatelja dijele gornji rub."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-009",
+      "tezina": "lagano",
+      "pitanje": "Gdje na omotnici pišemo ime i adresu pošiljatelja?",
+      "ponudeni": [
+        "Dolje desno",
+        "Gore desno",
+        "U sredini",
+        "Gore lijevo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pošiljatelj piše svoje ime i adresu u gornjem lijevom kutu omotnice.",
+      "savjet": "Zamisli omotnicu: podaci pošiljatelja i marka dijele gornji rub."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-010",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove osoba koja šalje pismo?",
+      "ponudeni": [
+        "Primatelj",
+        "Pošiljatelj",
+        "Poštar",
+        "Čitatelj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pošiljatelj je osoba koja piše i šalje pismo.",
+      "savjet": "Pismo putuje od jedne osobe do druge. Kako se zove osoba na početku toga puta?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-011",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove osoba kojoj je pismo upućeno?",
+      "ponudeni": [
+        "Pošiljatelj",
+        "Poštar",
+        "Primatelj",
+        "Pisac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Primatelj je osoba koja pismo dobiva i čita.",
+      "savjet": "Pismo putuje od jedne osobe do druge. Kako se zove osoba na kraju toga puta?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-012",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih redaka oslovljavanje?",
+      "ponudeni": [
+        "„Dragi Ivane,“",
+        "„Srdačan pozdrav“",
+        "„U Splitu, 3. ožujka 2026.“",
+        "„Tvoja Lana“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "„Dragi Ivane,“ je oslovljavanje jer se njime obraćamo primatelju na početku pisma.",
+      "savjet": "Oslovljavanjem se na početku pisma obraćaš osobi kojoj pišeš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-013",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih redaka pozdrav na kraju pisma?",
+      "ponudeni": [
+        "„Puno pozdrava“",
+        "„Draga teta,“",
+        "„U Osijeku, 8. svibnja 2026.“",
+        "„Kako si?“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "„Puno pozdrava“ je pozdrav kojim se opraštamo od primatelja prije potpisa.",
+      "savjet": "Pozdravom se na kraju pisma opraštaš od osobe kojoj pišeš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-014",
+      "tezina": "lagano",
+      "pitanje": "Koji redak u pismu pokazuje mjesto i datum?",
+      "ponudeni": [
+        "„Dragi Luka,“",
+        "„Voli te tvoj brat“",
+        "„U Rijeci, 14. listopada 2026.“",
+        "„Ovdje je lijepo.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„U Rijeci, 14. listopada 2026.“ kazuje gdje je i kada pismo napisano.",
+      "savjet": "Potraži redak koji kazuje gdje i kada je pismo napisano."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-015",
+      "tezina": "lagano",
+      "pitanje": "Što pišemo u redak „Predmet“ u e-poruci?",
+      "ponudeni": [
+        "Cijeli sadržaj poruke",
+        "Kratko o čemu je poruka",
+        "Samo ime pošiljatelja",
+        "Popis svih privitaka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Predmet u nekoliko riječi kazuje o čemu je poruka, npr. „Zadaća iz prirode“.",
+      "savjet": "Predmet primatelj vidi prije nego što otvori poruku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-016",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove datoteka, npr. fotografija, koju dodajemo e-poruci?",
+      "ponudeni": [
+        "Predmet",
+        "Potpis",
+        "Adresa",
+        "Privitak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Privitak je datoteka (fotografija, crtež, dokument) koju dodajemo e-poruci.",
+      "savjet": "U programu za e-poštu taj dio često označava sličica spajalice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-017",
+      "tezina": "lagano",
+      "pitanje": "Bez čega e-poruka ne može stići primatelju?",
+      "ponudeni": [
+        "Bez predmeta poruke",
+        "Bez pozdrava na kraju",
+        "Bez adrese e-pošte primatelja",
+        "Bez privitka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Računalo mora znati kamo poslati poruku, zato je potrebna adresa e-pošte primatelja.",
+      "savjet": "I pismo na papiru stiže samo ako poštar zna kamo ga treba odnijeti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-018",
+      "tezina": "lagano",
+      "pitanje": "Što znači kad netko u e-poruci piše SVE VELIKIM SLOVIMA?",
+      "ponudeni": [
+        "Kao da piše pristojnije",
+        "Kao da šapće",
+        "Kao da piše kraće",
+        "Kao da viče"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tekst napisan samo velikim slovima doživljavamo kao vikanje, zato tako ne pišemo.",
+      "savjet": "Zamisli kako bi zvučala osoba koja tako govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-019",
+      "tezina": "lagano",
+      "pitanje": "Stigla ti je e-poruka s privitkom od nepoznatog pošiljatelja. Što je pametno učiniti?",
+      "ponudeni": [
+        "Ne otvarati privitak",
+        "Odmah otvoriti privitak",
+        "Poslati mu svoju adresu",
+        "Proslijediti je prijateljima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poruke i privitke nepoznatih pošiljatelja ne otvaramo jer mogu biti opasni.",
+      "savjet": "Razmisli što je sigurno kad ne znaš tko ti piše."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-020",
+      "tezina": "lagano",
+      "pitanje": "Kojim oslovljavanjem počinješ pismo baki?",
+      "ponudeni": [
+        "„Poštovana gospođo,“",
+        "„Draga bako,“",
+        "„Poštovani,“",
+        "„Hej, ti,“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Baki pišemo privatno pismo i oslovljavamo je toplo: „Draga bako,“.",
+      "savjet": "Pismo baki je privatno. Kako se obraćaš bliskoj osobi koju voliš?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-021",
+      "tezina": "lagano",
+      "pitanje": "Kojim oslovljavanjem počinješ pismo ravnateljici škole?",
+      "ponudeni": [
+        "„Draga moja,“",
+        "„Poštovana ravnateljice,“",
+        "„Bok, ravnateljice,“",
+        "„Hej, ti,“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ravnateljici pišemo službeno, pa je oslovljavamo s poštovanjem: „Poštovana ravnateljice,“.",
+      "savjet": "Službenom pismu pristaje pristojnije oslovljavanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-022",
+      "tezina": "lagano",
+      "pitanje": "Kakvo je pismo koje pišeš prijateljici dok je na moru?",
+      "ponudeni": [
+        "Privatno pismo",
+        "Službeno pismo",
+        "Pismo ustanovi",
+        "Pismo nepoznatoj osobi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pismo prijateljici je privatno jer ga pišemo bliskoj osobi.",
+      "savjet": "Razmisli je li prijateljica bliska osoba ili ustanova."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-023",
+      "tezina": "lagano",
+      "pitanje": "Pismo završava riječima „Puno pozdrava“, a ispod piše „Ema“. Koji je dio pisma „Ema“?",
+      "ponudeni": [
+        "Oslovljavanje",
+        "Mjesto i datum",
+        "Sadržaj",
+        "Potpis"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ime pošiljatelja ispod pozdrava je potpis.",
+      "savjet": "Što dolazi u pismu odmah nakon pozdrava?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-024",
+      "tezina": "lagano",
+      "pitanje": "Gdje se u pismu nalazi pozdrav?",
+      "ponudeni": [
+        "Na početku, prije oslovljavanja",
+        "Gore desno, uz datum",
+        "Nakon sadržaja, prije potpisa",
+        "Ispod potpisa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pozdrav pišemo kad završimo sadržaj, a ispod njega se potpisujemo.",
+      "savjet": "Pozdravom se opraštamo, a to se čini kad je sve rečeno."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-025",
+      "tezina": "lagano",
+      "pitanje": "Gdje se u pismu nalazi oslovljavanje?",
+      "ponudeni": [
+        "Na kraju, ispod potpisa",
+        "Nakon pozdrava",
+        "U sredini sadržaja",
+        "Ispod mjesta i datuma, prije sadržaja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oslovljavanje dolazi ispod mjesta i datuma, a nakon njega počinje sadržaj.",
+      "savjet": "Osobi se obraćamo prije nego što joj počnemo pričati novosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-026",
+      "tezina": "lagano",
+      "pitanje": "Što je dobro učiniti prije nego što pošalješ e-poruku?",
+      "ponudeni": [
+        "Izbrisati predmet",
+        "Prepisati je velikim slovima",
+        "Provjeriti adresu primatelja",
+        "Ukloniti pozdrav"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prije slanja provjeravamo adresu primatelja da poruka stigne pravoj osobi.",
+      "savjet": "Što se dogodi ako se u adresi pogriješi samo jedno slovo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-027",
+      "tezina": "lagano",
+      "pitanje": "Kakva treba biti e-poruka?",
+      "ponudeni": [
+        "Duga i bez reda",
+        "Pristojna, kratka i jasna",
+        "Bez pozdrava i potpisa",
+        "Napisana velikim slovima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dobra e-poruka je pristojna, kratka i jasna, s pozdravom i potpisom.",
+      "savjet": "Zamisli kakvu bi poruku najradije čitao svaki primatelj: lako i bez muke."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-028",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pišemo u adresu primatelja na omotnici?",
+      "ponudeni": [
+        "Poštanski broj i mjesto",
+        "Datum pisanja pisma",
+        "Pozdrav primatelju",
+        "Naslov pisma"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Adresa primatelja sadrži ime i prezime, ulicu i kućni broj te poštanski broj i mjesto.",
+      "savjet": "Adresa mora poštaru reći kamo točno treba odnijeti pismo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-029",
+      "tezina": "lagano",
+      "pitanje": "Koji dio e-poruke ne postoji u pismu na papiru?",
+      "ponudeni": [
+        "Predmet",
+        "Oslovljavanje",
+        "Pozdrav",
+        "Potpis"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Predmet je redak samo u e-poruci. Oslovljavanje, pozdrav i potpis imaju i pismo i e-poruka.",
+      "savjet": "Sjeti se dijelova pisma na papiru pa potraži onaj koji nije među njima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-030",
+      "tezina": "lagano",
+      "pitanje": "Pismo baki šalješ poštom. U što ga stavljaš?",
+      "ponudeni": [
+        "U privitak",
+        "U omotnicu",
+        "U predmet",
+        "U potpis"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pismo na papiru stavljamo u omotnicu na koju pišemo adresu i lijepimo marku.",
+      "savjet": "Na tu stvar pišemo adresu i lijepimo poštansku marku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-031",
+      "tezina": "srednje",
+      "pitanje": "Lea piše: „Dragi Tome, jedva čekam da se vidimo ljeti. Tvoja Lea“. Kojem dijelu pisma pripada rečenica „Jedva čekam da se vidimo ljeti.“?",
+      "ponudeni": [
+        "Oslovljavanju",
+        "Pozdravu",
+        "Sadržaju",
+        "Potpisu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ta rečenica donosi poruku prijatelju, pa pripada sadržaju pisma.",
+      "savjet": "Razmisli u kojem dijelu pisma pričamo ono što želimo reći."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-032",
+      "tezina": "srednje",
+      "pitanje": "Lena piše pismo teti. Koji redak treba napisati gore desno?",
+      "ponudeni": [
+        "„U Zadru, 2. veljače 2026.“",
+        "„Draga teto,“",
+        "„Tvoja Lena“",
+        "„Kako si?“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gore desno pišemo mjesto i datum, npr. „U Zadru, 2. veljače 2026.“",
+      "savjet": "Sjeti se koji je prvi dio pisma i gdje se piše."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-033",
+      "tezina": "srednje",
+      "pitanje": "Kojim oslovljavanjem počinješ službeno pismo gradskoj knjižnici?",
+      "ponudeni": [
+        "„Dragi moji,“",
+        "„Bok, knjižnico,“",
+        "„Ej, ljudi,“",
+        "„Poštovani,“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U službenom pismu ustanovi pišemo pristojno oslovljavanje „Poštovani,“.",
+      "savjet": "Ustanovi se obraćamo s poštovanjem, a ne kao prijatelju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-034",
+      "tezina": "srednje",
+      "pitanje": "Kojim pozdravom završavaš službeno pismo muzeju?",
+      "ponudeni": [
+        "„Voli te tvoja unuka“",
+        "„Srdačan pozdrav“",
+        "„Pusa velika“",
+        "„Vidimo se, bok“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Službeno pismo završava pristojnim pozdravom, npr. „Srdačan pozdrav“.",
+      "savjet": "Muzej je ustanova. Koji pozdrav ne bi pisao samo nekome iz obitelji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-035",
+      "tezina": "srednje",
+      "pitanje": "Koji redak može biti pozdrav na kraju pisma djedu?",
+      "ponudeni": [
+        "„Poštovani gospodine,“",
+        "„Voli te tvoj unuk“",
+        "„U Puli, 4. lipnja 2026.“",
+        "„Predmet: Posjet“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Voli te tvoj unuk“ je topao pozdrav za privatno pismo djedu.",
+      "savjet": "Pozdrav dolazi na kraju i njime se opraštaš od primatelja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-036",
+      "tezina": "srednje",
+      "pitanje": "Ivo želi pitati muzej u koliko je sati otvoren. Kakvo pismo piše?",
+      "ponudeni": [
+        "Privatno pismo",
+        "Pismo prijatelju",
+        "Pismo obitelji",
+        "Službeno pismo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Muzej je ustanova, pa mu pišemo službeno pismo.",
+      "savjet": "Razmisli piše li Ivo bliskoj osobi ili ustanovi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-037",
+      "tezina": "srednje",
+      "pitanje": "Mia šalje učiteljici fotografije s izleta. Koji je najbolji predmet e-poruke?",
+      "ponudeni": [
+        "„Fotografije s izleta“",
+        "„Bok“",
+        "„Hitno!!!“",
+        "„Pročitaj ovo“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dobar predmet kratko kazuje o čemu je poruka, npr. „Fotografije s izleta“.",
+      "savjet": "Predmet treba odmah reći primatelju o čemu je poruka."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-038",
+      "tezina": "srednje",
+      "pitanje": "Mia uz e-poruku želi poslati i fotografije. Kako ih šalje?",
+      "ponudeni": [
+        "Upiše ih u predmet",
+        "Napiše ih u potpis",
+        "Doda ih kao privitak",
+        "Stavi ih u adresu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Fotografije i druge datoteke dodajemo e-poruci kao privitak.",
+      "savjet": "Sjeti se kako se zovu datoteke koje se dodaju uz poruku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-039",
+      "tezina": "srednje",
+      "pitanje": "S nepoznate adrese stigla je poruka: „Čestitamo, dobivate nagradu! Otvorite privitak.“ Što je najbolje učiniti?",
+      "ponudeni": [
+        "Otvoriti privitak",
+        "Odgovoriti i poslati adresu",
+        "Proslijediti je prijateljima",
+        "Ne otvarati privitak i reći roditelju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Privitke nepoznatih pošiljatelja ne otvaramo jer mogu biti opasni, a o takvoj poruci kažemo odrasloj osobi.",
+      "savjet": "Znaš li tko je poslao tu poruku? Razmisli što je sigurno."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-040",
+      "tezina": "srednje",
+      "pitanje": "Nepoznata osoba u e-poruci traži tvoju kućnu adresu i broj telefona. Što trebaš učiniti?",
+      "ponudeni": [
+        "Odmah poslati podatke",
+        "Ne slati podatke",
+        "Poslati samo adresu",
+        "Poslati samo broj telefona"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osobne podatke nikada ne šaljemo nepoznatim osobama.",
+      "savjet": "Adresa i broj telefona su osobni podaci. Komu ih smiješ dati?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-041",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica u e-poruci prijatelju napisana pristojno?",
+      "ponudeni": [
+        "„POŠALJI MI RASPORED!“",
+        "„Raspored, odmah.“",
+        "„Molim te, pošalji mi raspored treninga.“",
+        "„Što čekaš? Šalji!“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pristojna molba sadrži čarobnu riječ molim i ne viče velikim slovima.",
+      "savjet": "Potraži rečenicu s čarobnom riječi i bez vikanja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-042",
+      "tezina": "srednje",
+      "pitanje": "Ana je poslala e-poruku prijateljici, ali poruka nije stigla. Što je najvjerojatnije pogrešno?",
+      "ponudeni": [
+        "Upisana adresa primatelja",
+        "Predmet poruke",
+        "Pozdrav na kraju",
+        "Duljina sadržaja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ako je adresa pogrešno upisana, poruka ne stigne pravoj osobi.",
+      "savjet": "Razmisli koji podatak određuje kamo poruka putuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-043",
+      "tezina": "srednje",
+      "pitanje": "Pismo glasi: „U Varaždinu, 10. ožujka 2026. / Draga Petra, / u subotu smo bili na izletu. / Puno pozdrava“. Koji dio pisma nedostaje?",
+      "ponudeni": [
+        "Potpis",
+        "Oslovljavanje",
+        "Mjesto i datum",
+        "Sadržaj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nakon pozdrava nedostaje potpis, pa Petra ne zna tko joj piše.",
+      "savjet": "Prođi redom kroz svih pet dijelova pisma i provjeri koji nisi pronašao."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-044",
+      "tezina": "srednje",
+      "pitanje": "Pismo glasi: „U Zadru, 6. travnja 2026. / Jučer sam dobio novi bicikl. / Srdačan pozdrav / Karlo“. Koji dio pisma nedostaje?",
+      "ponudeni": [
+        "Potpis",
+        "Pozdrav",
+        "Oslovljavanje",
+        "Mjesto i datum"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Karlo se nije obratio primatelju, pa nedostaje oslovljavanje.",
+      "savjet": "Pogledaj što dolazi između mjesta i datuma i sadržaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-045",
+      "tezina": "srednje",
+      "pitanje": "Pismo glasi: „Dragi djede, / hvala ti na knjizi. / Puno pozdrava / Nina“. Koji dio pisma nedostaje?",
+      "ponudeni": [
+        "Potpis",
+        "Mjesto i datum",
+        "Oslovljavanje",
+        "Pozdrav"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pismo nema mjesto i datum koji se pišu gore desno na početku.",
+      "savjet": "Pogledaj čime pismo počinje i sjeti se što bi trebalo biti na samom vrhu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-046",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica pripada sadržaju pisma prijateljici?",
+      "ponudeni": [
+        "„Draga Maja,“",
+        "„Tvoja Iva“",
+        "„U Šibeniku, 9. srpnja 2026.“",
+        "„Ovog ljeta naučila sam plivati.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sadržaj donosi vijesti i misli, npr. „Ovog ljeta naučila sam plivati.“",
+      "savjet": "Sadržaj je dio u kojem pričaš novosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-047",
+      "tezina": "srednje",
+      "pitanje": "Lucija piše pismo prijateljici. Gdje će napisati „U Karlovcu, 5. svibnja 2026.“?",
+      "ponudeni": [
+        "Na kraju, ispod potpisa",
+        "Ispod oslovljavanja",
+        "Gore desno, na početku",
+        "U sredini sadržaja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mjesto i datum pišu se na početku pisma, gore desno.",
+      "savjet": "Taj je redak prvi dio pisma."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-048",
+      "tezina": "srednje",
+      "pitanje": "Šalješ pismo prijatelju Marku Horvatu. Što pišeš dolje desno na omotnici?",
+      "ponudeni": [
+        "Svoje ime i adresu",
+        "Poštansku marku",
+        "Datum pisanja",
+        "Markovo ime i adresu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dolje desno piše se adresa primatelja, a primatelj je Marko.",
+      "savjet": "Razmisli tko je u ovom slučaju primatelj, a tko pošiljatelj."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-049",
+      "tezina": "srednje",
+      "pitanje": "Šalješ pismo i na omotnicu pišeš svoje ime i adresu. Gdje ih pišeš?",
+      "ponudeni": [
+        "Gore lijevo",
+        "Dolje desno",
+        "Gore desno",
+        "Na sredini"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ti si pošiljatelj, a pošiljatelj se piše gore lijevo.",
+      "savjet": "Kad šalješ pismo, ti si pošiljatelj. Sjeti se gdje se on piše."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-050",
+      "tezina": "srednje",
+      "pitanje": "Koji redak adrese na omotnici pokazuje ulicu i kućni broj?",
+      "ponudeni": [
+        "„Zagreb“",
+        "„Ilica 15“",
+        "„Ana Kovač“",
+        "„Hrvatska“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Ilica 15“ je ulica i kućni broj.",
+      "savjet": "Potraži redak u kojem je ime ulice, a uz njega broj kuće."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-051",
+      "tezina": "srednje",
+      "pitanje": "U zadnjem retku adrese primatelja na omotnici pišu se dva podatka. Koji?",
+      "ponudeni": [
+        "Ulica i kućni broj",
+        "Poštanski broj i mjesto",
+        "Ime i prezime",
+        "Datum i potpis"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U zadnji redak adrese pišemo poštanski broj i ime mjesta.",
+      "savjet": "Svako mjesto ima svoj broj koji pomaže pošti razvrstati pisma."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-052",
+      "tezina": "srednje",
+      "pitanje": "Pišeš e-poruku voditelju ljetnoga kampa kojega ne poznaješ. Kojim oslovljavanjem počinješ?",
+      "ponudeni": [
+        "„Poštovani voditelju,“",
+        "„Dragi moj,“",
+        "„Bok, frende,“",
+        "„Hej,“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nepoznatoj odrasloj osobi pišemo službeno i oslovljavamo je s „Poštovani“.",
+      "savjet": "Nepoznatoj odrasloj osobi obraćaš se pristojnije nego prijatelju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-053",
+      "tezina": "srednje",
+      "pitanje": "Koji redak e-poruke prijateljici može biti predmet?",
+      "ponudeni": [
+        "„Draga Nina,“",
+        "„Puno pozdrava“",
+        "„Rođendanska zabava u subotu“",
+        "„Tvoja Ela“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Predmet kratko kazuje o čemu je poruka, npr. „Rođendanska zabava u subotu“.",
+      "savjet": "Predmet kazuje temu poruke, a ne pozdravlja i ne potpisuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-054",
+      "tezina": "srednje",
+      "pitanje": "Želiš zahvaliti teti na poklonu, a ona živi daleko. Što ćeš joj napisati?",
+      "ponudeni": [
+        "Službeno pismo",
+        "Obavijest",
+        "Izvješće",
+        "Privatno pismo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Teta je član obitelji, pa joj pišemo privatno pismo.",
+      "savjet": "Razmisli kome pišeš i koliko ti je ta osoba bliska."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-055",
+      "tezina": "srednje",
+      "pitanje": "Koja je e-poruka prijatelju kratka i jasna?",
+      "ponudeni": [
+        "„Ono znaš već, vidimo se tamo.“",
+        "„TRENING JE SUTRA!!!“",
+        "„Trening je sutra u 17 sati. Ponesi loptu.“",
+        "„Bilo je ovo, pa ono, i još nešto…“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jasna poruka kaže što, kada i što treba učiniti, bez vikanja i bez nejasnih riječi.",
+      "savjet": "Hoće li prijatelj nakon čitanja točno znati što i kada?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-056",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica prikladna za sadržaj službenog pisma knjižnici?",
+      "ponudeni": [
+        "„Ej, kad radite?“",
+        "„Molim da mi javite radno vrijeme knjižnice.“",
+        "„Pusa svima u knjižnici!“",
+        "„JAVITE MI ODMAH!“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Službeno pismo piše se pristojno i jasno, kao u rečenici s molbom za radno vrijeme.",
+      "savjet": "Službeno pismo je pristojno: bez vikanja i bez riječi koje pišemo samo prijateljima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-057",
+      "tezina": "srednje",
+      "pitanje": "Pismo počinje oslovljavanjem „Poštovani gospodine ravnatelju,“. Kakvo je to pismo?",
+      "ponudeni": [
+        "Službeno pismo",
+        "Privatno pismo",
+        "Pismo prijatelju",
+        "Pismo obitelji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oslovljavanje „Poštovani“ i pisanje ravnatelju pokazuju da je pismo službeno.",
+      "savjet": "Pogledaj komu je pismo upućeno i kakvo je oslovljavanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-058",
+      "tezina": "srednje",
+      "pitanje": "Pismo završava pozdravom „Voli te tvoja sestrična Dora“. Kome je najvjerojatnije pisano?",
+      "ponudeni": [
+        "Članu obitelji",
+        "Ravnatelju škole",
+        "Gradskom muzeju",
+        "Nepoznatoj osobi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječi „voli te“ i „sestrična“ pokazuju da je to privatno pismo nekome iz obitelji.",
+      "savjet": "Riječ sestrična otkriva u kakvoj su vezi pošiljateljica i primatelj."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-059",
+      "tezina": "srednje",
+      "pitanje": "Luka je poslao e-poruku bez predmeta. Što primatelj ne može vidjeti prije otvaranja poruke?",
+      "ponudeni": [
+        "Kome je poruka poslana",
+        "O čemu je poruka",
+        "Kada je poruka stigla",
+        "Tko je poslao poruku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Predmet kratko kazuje o čemu je poruka. Bez njega primatelj to ne zna dok je ne otvori.",
+      "savjet": "Sjeti se čemu služi redak „Predmet“."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-060",
+      "tezina": "srednje",
+      "pitanje": "Pismo pišeš u Zagrebu 22. studenoga 2026. Što pišeš gore desno?",
+      "ponudeni": [
+        "„Dragi Zagrebe, 2026.“",
+        "„Srdačan pozdrav iz Zagreba“",
+        "„Predmet: Zagreb“",
+        "„U Zagrebu, 22. studenoga 2026.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Gore desno pišu se mjesto i datum: „U Zagrebu, 22. studenoga 2026.“",
+      "savjet": "Gore desno pišu se dva podatka: gdje i kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-061",
+      "tezina": "tesko",
+      "pitanje": "Kojim redom idu dijelovi pisma?",
+      "ponudeni": [
+        "Oslovljavanje, mjesto i datum, sadržaj, potpis, pozdrav",
+        "Sadržaj, oslovljavanje, pozdrav, potpis, mjesto i datum",
+        "Mjesto i datum, oslovljavanje, sadržaj, pozdrav, potpis",
+        "Pozdrav, sadržaj, oslovljavanje, mjesto i datum, potpis"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pismo počinje mjestom i datumom, slijedi oslovljavanje, zatim sadržaj, pozdrav i na kraju potpis.",
+      "savjet": "Kreni od prvog retka gore desno i završi imenom pošiljatelja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-062",
+      "tezina": "tesko",
+      "pitanje": "Kojim redom pišeš dijelove e-poruke?",
+      "ponudeni": [
+        "Adresa, predmet, oslovljavanje, sadržaj, pozdrav, potpis",
+        "Predmet, potpis, sadržaj, adresa, oslovljavanje, pozdrav",
+        "Oslovljavanje, adresa, pozdrav, sadržaj, predmet, potpis",
+        "Sadržaj, predmet, potpis, pozdrav, adresa, oslovljavanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije upisujemo adresu i predmet, a zatim pišemo kao u pismu: oslovljavanje, sadržaj, pozdrav i potpis.",
+      "savjet": "Prvo odredi kamo poruka ide i o čemu je, a zatim sjeti se reda dijelova pisma."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-063",
+      "tezina": "tesko",
+      "pitanje": "Mia je napisala: „U Puli, 3. lipnja 2026. / Puno pozdrava / ovdje je lijepo i toplo. / Draga bako / Mia“. Što treba popraviti?",
+      "ponudeni": [
+        "Premjestiti datum na kraj",
+        "Izbrisati potpis",
+        "Dodati predmet",
+        "Zamijeniti mjesta pozdravu i oslovljavanju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oslovljavanje „Draga bako“ mora biti prije sadržaja, a pozdrav „Puno pozdrava“ nakon njega.",
+      "savjet": "Provjeri koji dio dolazi prije sadržaja, a koji poslije."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-064",
+      "tezina": "tesko",
+      "pitanje": "Lea piše pismo gradskom muzeju i počinje ga riječima „Hej, dragi moji,“. Čime to treba zamijeniti?",
+      "ponudeni": [
+        "„Bok, ekipa,“",
+        "„Poštovani,“",
+        "„Dragi muzeju,“",
+        "„Hej, ljudi,“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pismo muzeju je službeno, pa mu pristaje pristojno oslovljavanje „Poštovani,“.",
+      "savjet": "Muzej je ustanova, a ustanovi pišemo službeno pismo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-065",
+      "tezina": "tesko",
+      "pitanje": "Lea službeno pismo muzeju završava riječima „Pusa, Lea“. Što treba promijeniti?",
+      "ponudeni": [
+        "Dodati još jednu pusu",
+        "Pozdrav u „Srdačan pozdrav“",
+        "Potpis napisati velikim slovima",
+        "Izbrisati svoje ime"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Pusa“ je pozdrav za bliske osobe. U službenom pismu pišemo npr. „Srdačan pozdrav“.",
+      "savjet": "Potpis je u redu. Razmisli pristaje li pozdrav službenom pismu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-066",
+      "tezina": "tesko",
+      "pitanje": "Ivan je na omotnici svoju adresu napisao dolje desno, a bakinu gore lijevo. Što se može dogoditi?",
+      "ponudeni": [
+        "Pismo će stići brže",
+        "Marka neće vrijediti",
+        "Baka ga neće moći pročitati",
+        "Pismo bi moglo stići Ivanu, a ne baki"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pošta pismo nosi na adresu dolje desno, a ondje je Ivanova adresa.",
+      "savjet": "Sjeti se na čiju adresu pošta nosi pismo i gdje je ona napisana."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-067",
+      "tezina": "tesko",
+      "pitanje": "Na omotnici piše adresa: „Ana Kovač / Cvjetna 7 / Split“. Što nedostaje?",
+      "ponudeni": [
+        "Poštanski broj",
+        "Ime i prezime",
+        "Ulica i kućni broj",
+        "Mjesto"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ispred imena mjesta treba napisati poštanski broj, inače adresa nije potpuna.",
+      "savjet": "Provjeri jesu li u zadnjem retku oba podatka koja se ondje pišu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-068",
+      "tezina": "tesko",
+      "pitanje": "Na omotnici su napisani ime i prezime primatelja te poštanski broj i mjesto. Što još nedostaje?",
+      "ponudeni": [
+        "Poštanski broj",
+        "Ime i prezime",
+        "Ulica i kućni broj",
+        "Mjesto"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bez ulice i kućnoga broja poštar ne zna u koju kuću u tom mjestu treba odnijeti pismo.",
+      "savjet": "Adresa ima tri retka. Prebroji koja su već napisana."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-069",
+      "tezina": "tesko",
+      "pitanje": "E-poruka: Predmet: „Bok“ / „Poštovana učiteljice, u privitku šaljem zadaću iz prirode. Srdačan pozdrav, Mia“. Što treba popraviti?",
+      "ponudeni": [
+        "Oslovljavanje",
+        "Pozdrav",
+        "Potpis",
+        "Predmet"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Predmet „Bok“ ne kazuje o čemu je poruka. Bolje je npr. „Zadaća iz prirode“.",
+      "savjet": "Provjeri svaki dio: kazuje li svaki ono što treba?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-070",
+      "tezina": "tesko",
+      "pitanje": "Mia je u e-poruci napisala da šalje plakat, ali učiteljica plakat nije dobila. Što je Mia zaboravila?",
+      "ponudeni": [
+        "Napisati predmet",
+        "Dodati privitak",
+        "Napisati potpis",
+        "Pozdraviti učiteljicu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Poruka je stigla, ali plakat nije, jer ga je trebalo dodati kao privitak.",
+      "savjet": "Poruka je stigla. Razmisli kako se uz poruku šalje datoteka."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-071",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica traži da joj sastavak pošalješ e-poštom. Što trebaš učiniti?",
+      "ponudeni": [
+        "Upisati samo predmet i odmah poslati",
+        "Prepisati sastavak velikim slovima",
+        "Upisati adresu i predmet te priložiti sastavak",
+        "Poslati poruku bez adrese primatelja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba upisati učiteljičinu adresu, napisati predmet i dodati sastavak kao privitak.",
+      "savjet": "Razmisli što poruci treba da stigne pravoj osobi i da sastavak bude uz nju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-072",
+      "tezina": "tesko",
+      "pitanje": "Lana je napisala: „Poštovani voditelju, SUTRA NE MOGU DOĆI NA PROBU. Srdačan pozdrav, Lana“. Koje je pravilo prekršila?",
+      "ponudeni": [
+        "Sadržaj je napisan velikim slovima",
+        "Nema oslovljavanja",
+        "Nema pozdrava",
+        "Nema potpisa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oslovljavanje, pozdrav i potpis postoje, ali sadržaj je napisan velikim slovima, kao da viče.",
+      "savjet": "Pronađi svaki dio poruke pa pogledaj kako je napisan."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-073",
+      "tezina": "tesko",
+      "pitanje": "Pišeš nepoznatoj gospođi iz turističke zajednice. Koji su oslovljavanje i pozdrav prikladni?",
+      "ponudeni": [
+        "„Draga gospođo,“ i „Pusa“",
+        "„Hej,“ i „Bok“",
+        "„Poštovana gospođo,“ i „Voli te tvoja unuka“",
+        "„Poštovana gospođo,“ i „Srdačan pozdrav“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nepoznatoj osobi pišemo službeno, pa i oslovljavanje i pozdrav moraju biti pristojni.",
+      "savjet": "Oba dijela moraju pristajati službenom pismu, ne samo jedan."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-074",
+      "tezina": "tesko",
+      "pitanje": "Luka piše pismo baki. Koji su oslovljavanje i pozdrav prikladni?",
+      "ponudeni": [
+        "„Poštovana gospođo,“ i „Srdačan pozdrav“",
+        "„Poštovani,“ i „Puno pozdrava“",
+        "„Draga bako,“ i „Voli te tvoj unuk“",
+        "„Dragi Marko,“ i „Voli te tvoj unuk“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Baki pišemo privatno pismo, pa je oslovljavamo „Draga bako,“ i pozdravljamo toplo.",
+      "savjet": "Provjeri obraća li se oslovljavanje baš baki i je li pismo privatno."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-075",
+      "tezina": "tesko",
+      "pitanje": "Marin 15. siječnja 2026. u Vukovaru piše pismo prijatelju Juri. Kako treba početi pismo?",
+      "ponudeni": [
+        "„Dragi Jure,“ pa „U Vukovaru, 15. siječnja 2026.“",
+        "„U Vukovaru, 15. siječnja 2026.“ pa „Dragi Marine,“",
+        "„Srdačan pozdrav“ pa „Dragi Jure,“",
+        "„U Vukovaru, 15. siječnja 2026.“ pa „Dragi Jure,“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najprije se pišu mjesto i datum, a zatim oslovljavanje primatelja, a to je Jure.",
+      "savjet": "Provjeri redoslijed i to komu se Marin obraća."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-076",
+      "tezina": "tesko",
+      "pitanje": "Koje je od ovih pisama službeno?",
+      "ponudeni": [
+        "„Draga seko, jučer sam bila u kinu.“",
+        "„Dragi Ivo, hvala na čestitki.“",
+        "„Poštovani, molim podatke o upisu u glazbenu školu.“",
+        "„Draga bako, nedostaješ mi.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pismo s oslovljavanjem „Poštovani“ i molbom ustanovi je službeno.",
+      "savjet": "Pogledaj oslovljavanje i komu je pismo upućeno."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-077",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko pismu na papiru i e-poruci?",
+      "ponudeni": [
+        "Poštanska marka i omotnica",
+        "Predmet i adresa e-pošte",
+        "Privitak i predmet",
+        "Oslovljavanje, sadržaj, pozdrav i potpis"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I pismo i e-poruka imaju oslovljavanje, sadržaj, pozdrav i potpis.",
+      "savjet": "Izdvoji ono što postoji samo na papiru i ono što postoji samo na računalu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-078",
+      "tezina": "tesko",
+      "pitanje": "Leonovo pismo glasi: „Sutra idemo na izlet. / Puno pozdrava / Leon“. Što nedostaje na početku pisma?",
+      "ponudeni": [
+        "Pozdrav i potpis",
+        "Sadržaj i potpis",
+        "Mjesto i datum te oslovljavanje",
+        "Predmet i privitak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pismo počinje odmah sadržajem, a prije njega trebaju biti mjesto i datum te oslovljavanje.",
+      "savjet": "Sjeti se koja dva dijela dolaze prije sadržaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-079",
+      "tezina": "tesko",
+      "pitanje": "Upisane su adresa i predmet, a napisano je i oslovljavanje. Što u e-poruci pišeš sljedeće?",
+      "ponudeni": [
+        "Sadržaj",
+        "Potpis",
+        "Pozdrav",
+        "Privitak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nakon oslovljavanja dolazi sadržaj, a tek zatim pozdrav i potpis.",
+      "savjet": "E-poruka nakon oslovljavanja ide istim redom kao pismo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-080",
+      "tezina": "tesko",
+      "pitanje": "Ema je pozivnicu poslala na adresu „lucija.mar@primjer.hr“, a Lucijina je adresa „lucija.mak@primjer.hr“. Što će se dogoditi?",
+      "ponudeni": [
+        "Lucija će dobiti dvije poruke",
+        "Lucija neće dobiti pozivnicu",
+        "Pozivnica će stići bez predmeta",
+        "Privitak će se izbrisati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Adrese se razlikuju u jednom slovu, pa poruka ne stiže Luciji.",
+      "savjet": "Usporedi obje adrese slovo po slovo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-081",
+      "tezina": "tesko",
+      "pitanje": "Koji pozdrav možeš napisati i u privatnom i u službenom pismu?",
+      "ponudeni": [
+        "„Srdačan pozdrav“",
+        "„Voli te tvoja unuka“",
+        "„Pusa velika“",
+        "„Bok, stari“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "„Srdačan pozdrav“ je pristojan pozdrav koji pristaje i prijatelju i ustanovi.",
+      "savjet": "Potraži pozdrav koji ne bi bio neobičan ni u pismu ustanovi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-082",
+      "tezina": "tesko",
+      "pitanje": "E-poruka: Predmet: „Posudba knjige“ / „Poštovana knjižničarko, mogu li knjigu zadržati još tjedan dana?“ Što nedostaje?",
+      "ponudeni": [
+        "Predmet",
+        "Oslovljavanje",
+        "Sadržaj",
+        "Pozdrav i potpis"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poruka ima predmet, oslovljavanje i sadržaj, ali na kraju nema pozdrava ni potpisa.",
+      "savjet": "Pogledaj čime poruka završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-083",
+      "tezina": "tesko",
+      "pitanje": "Kojim se redom pišu podaci u adresi primatelja na omotnici?",
+      "ponudeni": [
+        "Poštanski broj i mjesto, ime i prezime, ulica i broj",
+        "Ulica i broj, ime i prezime, poštanski broj i mjesto",
+        "Ime i prezime, ulica i broj, poštanski broj i mjesto",
+        "Ime i prezime, poštanski broj i mjesto, ulica i broj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Redom se pišu ime i prezime, ulica i kućni broj te poštanski broj i mjesto.",
+      "savjet": "Kreni od onoga što je najuže (osoba) prema onome što je najšire."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-084",
+      "tezina": "tesko",
+      "pitanje": "Koja je e-poruka učitelju napisana najbolje?",
+      "ponudeni": [
+        "„ŠALJEM ZADAĆU. IVO“",
+        "„Poštovani učitelju, zadaću šaljem u privitku. Srdačan pozdrav, Ivo“",
+        "„Ej, evo ti to.“",
+        "„Poštovani učitelju, zadaća. Pusa“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dobra poruka ima pristojno oslovljavanje, jasan sadržaj, pozdrav i potpis.",
+      "savjet": "Provjeri ima li poruka sve dijelove i je li pristojna od početka do kraja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-085",
+      "tezina": "tesko",
+      "pitanje": "Razred želi pitati zoološki vrt smije li doći u posjet. Kakvo pismo piše i kojim oslovljavanjem počinje?",
+      "ponudeni": [
+        "Službeno, „Poštovani,“",
+        "Privatno, „Dragi zoo,“",
+        "Službeno, „Hej, ljudi,“",
+        "Privatno, „Poštovani,“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zoološki vrt je ustanova, pa mu pišemo službeno pismo s oslovljavanjem „Poštovani,“.",
+      "savjet": "Odluči najprije kakvo je pismo pa provjeri pristaje li mu oslovljavanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-086",
+      "tezina": "tesko",
+      "pitanje": "Pismo završava pozdravom „Voli te tvoja unuka Sara“. Kojim je oslovljavanjem najvjerojatnije počelo?",
+      "ponudeni": [
+        "„Draga bako,“",
+        "„Poštovani,“",
+        "„Draga Sara,“",
+        "„Poštovana gospođo,“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sara je unuka koja piše, pa se obraća baki: „Draga bako,“.",
+      "savjet": "Tko piše pismo, a kome se unuka najčešće obraća?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-087",
+      "tezina": "tesko",
+      "pitanje": "Iva u pismu piše: „Prošloga tjedna bila sam na izletu.“ Koji dio pisma pomaže primatelju znati kada je to bilo?",
+      "ponudeni": [
+        "Oslovljavanje",
+        "Pozdrav",
+        "Potpis",
+        "Mjesto i datum"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iz datuma pisma primatelj zna od kojega dana treba računati prošli tjedan.",
+      "savjet": "Pismo može stići i nekoliko dana kasnije. Koji dio pokazuje kada je napisano?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-088",
+      "tezina": "tesko",
+      "pitanje": "Pismo: „U Zadru, 4. srpnja 2026. / ___ / ovdje je more toplo. / Puno pozdrava / Nika“. Što treba upisati umjesto crte?",
+      "ponudeni": [
+        "„Srdačan pozdrav“",
+        "„Tvoja Nika“",
+        "„Dragi Toni,“",
+        "„U Zadru, 5. srpnja“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Između mjesta i datuma i sadržaja dolazi oslovljavanje, npr. „Dragi Toni,“.",
+      "savjet": "Pogledaj koji dio pisma inače dolazi odmah ispod datuma."
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-089",
+      "tezina": "tesko",
+      "pitanje": "Pismo počinje oslovljavanjem „Draga Klara,“, a završava „Voli te tvoja Rita“. Tko je pošiljatelj?",
+      "ponudeni": [
+        "Klara",
+        "Rita",
+        "Poštar",
+        "Klarina baka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rita se potpisala na kraju, pa je ona pošiljateljica, a Klara je primateljica.",
+      "savjet": "Oslovljavanjem se obraćamo primatelju. Gdje se potpisuje pošiljatelj?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pismo-090",
+      "tezina": "tesko",
+      "pitanje": "Lovro je nepoznatoj osobi iz igrice e-porukom poslao svoju kućnu adresu. Koje je pravilo prekršio?",
+      "ponudeni": [
+        "Pisati kratko i jasno",
+        "Ne slati osobne podatke nepoznatima",
+        "Uvijek napisati predmet",
+        "Ne pisati velikim slovima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kućna adresa je osobni podatak, a osobne podatke ne šaljemo nepoznatim osobama.",
+      "savjet": "Razmisli kakav je podatak kućna adresa i komu ju je Lovro poslao."
+    }
+  ]
+}

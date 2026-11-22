@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "biljeske-i-sazetak",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-001",
+      "tezina": "lagano",
+      "pitanje": "Što je bilješka?",
+      "ponudeni": [
+        "Cijeli tekst prepisan od riječi do riječi",
+        "Pjesma napisana o pročitanom tekstu",
+        "Kratko zapisani bitni podaci iz teksta",
+        "Crtež kojim ukrašavamo tekst"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bilješka je kratak zapis bitnih podataka iz teksta ili predavanja.",
+      "savjet": "Sjeti se što zapisuješ u bilježnicu kad želiš zapamtiti samo ono najvažnije."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-002",
+      "tezina": "lagano",
+      "pitanje": "Što je natuknica?",
+      "ponudeni": [
+        "Riječ ili kratak izraz koji podsjeća na bitno",
+        "Duga rečenica s mnogo pojedinosti",
+        "Naslov cijele knjige",
+        "Odlomak prepisan iz teksta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Natuknica je riječ ili kratak izraz, a ne cijela rečenica. Podsjeća nas na bitan podatak.",
+      "savjet": "Natuknica je kratka – razmisli koliko riječi treba da se nečega prisjetiš."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-003",
+      "tezina": "lagano",
+      "pitanje": "Što je sažetak?",
+      "ponudeni": [
+        "Duži tekst s dodanim pojedinostima",
+        "Popis nepoznatih riječi iz teksta",
+        "Pjesma o događaju iz teksta",
+        "Kratak tekst sa samo bitnim podacima izvornog teksta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sažetak je kratak tekst koji sadrži samo bitne podatke izvornog teksta.",
+      "savjet": "U samoj riječi sažetak krije se glagol sažeti. Što znači nešto sažeti?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-004",
+      "tezina": "lagano",
+      "pitanje": "Što znači prepričati tekst?",
+      "ponudeni": [
+        "Pročitati ga naglas od riječi do riječi",
+        "Ispričati ga vlastitim riječima istim redoslijedom",
+        "Izmisliti mu potpuno novi kraj",
+        "Prepisati ga u bilježnicu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad prepričavamo, tekst kazujemo vlastitim riječima i držimo se redoslijeda događaja.",
+      "savjet": "Razmisli po čemu se prepričavanje razlikuje od čitanja i prepisivanja."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-005",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih zapisa natuknica?",
+      "ponudeni": [
+        "Jež zimi spava u hrpi suhog lišća.",
+        "zimski san",
+        "Jež je malena životinja koja živi u vrtu.",
+        "U jesen jež jede mnogo kukaca."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zimski san je kratak izraz, a ne cijela rečenica, pa je to natuknica.",
+      "savjet": "Potraži zapis koji nije cijela rečenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-006",
+      "tezina": "lagano",
+      "pitanje": "Na koja pitanja odgovaraju bitni podaci u tekstu?",
+      "ponudeni": [
+        "Koliko stranica ima tekst i koje je boje naslov?",
+        "Tko je tiskao knjigu i koliko košta?",
+        "Koliko riječi ima najduža rečenica?",
+        "Tko? Što? Gdje? Kada? Zašto? Kako?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bitni podaci odgovaraju na glavna pitanja: tko, što, gdje, kada, zašto i kako.",
+      "savjet": "Bitni podaci govore o samom događaju ili temi, a ne o izgledu knjige."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-007",
+      "tezina": "lagano",
+      "pitanje": "Što su nebitni podaci u tekstu?",
+      "ponudeni": [
+        "Ukrasni detalji bez kojih se razumije bit",
+        "Odgovori na pitanja tko, što i gdje",
+        "Najvažniji događaji u tekstu",
+        "Glavna misao cijelog teksta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nebitni podaci su ukrasni detalji. Bez njih i dalje razumijemo o čemu tekst govori.",
+      "savjet": "Zamisli da neki podatak izbaciš iz teksta. Kada bi tekst i dalje bio jasan?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-008",
+      "tezina": "lagano",
+      "pitanje": "Čemu služe bilješke?",
+      "ponudeni": [
+        "Da tekst postane duži nego što jest",
+        "Da ukrasimo stranicu bilježnice",
+        "Da se lakše prisjetimo bitnoga iz teksta",
+        "Da tekst zapišemo od riječi do riječi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bilješke nam pomažu da se lakše prisjetimo bitnih podataka iz teksta ili predavanja.",
+      "savjet": "Sjeti se kada ti zapisano pomaže pri učenju i ponavljanju."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-009",
+      "tezina": "lagano",
+      "pitanje": "Kakav je sažetak u odnosu na izvorni tekst?",
+      "ponudeni": [
+        "Duži od izvornog teksta",
+        "Jednako dug kao izvorni tekst",
+        "Napisan u stihovima",
+        "Kraći od izvornog teksta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sažetak sadrži samo bitne podatke pa je kraći od izvornog teksta.",
+      "savjet": "Razmisli što se događa s tekstom kad iz njega izostaviš nebitno."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-010",
+      "tezina": "lagano",
+      "pitanje": "Što izostavljamo kad pišemo sažetak?",
+      "ponudeni": [
+        "Glavne događaje",
+        "Ukrasne pojedinosti",
+        "Bitne podatke",
+        "Odgovor na pitanje tko"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U sažetku ostaju samo bitni podaci, a ukrasne pojedinosti izostavljamo.",
+      "savjet": "Sažetak čuva ono bez čega se tekst ne bi mogao razumjeti."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-011",
+      "tezina": "lagano",
+      "pitanje": "Kako se pišu natuknice?",
+      "ponudeni": [
+        "Dugim rečenicama s puno pojedinosti",
+        "U stihovima koji se rimuju",
+        "Kratko, jednom riječju ili izrazom",
+        "Kao odlomak od pet rečenica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Natuknice pišemo kratko: jednom riječju ili kratkim izrazom.",
+      "savjet": "Natuknica samo podsjeća na bitno, ne prepričava sve."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-012",
+      "tezina": "lagano",
+      "pitanje": "Što nam pomaže da tekst prepričamo pravilnim redoslijedom?",
+      "ponudeni": [
+        "Bilješke koje smo zapisali",
+        "Rječnik stranih riječi",
+        "Zidni kalendar",
+        "Zemljovid Hrvatske"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bilješke čuvaju bitne podatke redom kojim su u tekstu pa nam pomažu pri prepričavanju.",
+      "savjet": "Sjeti se što zapisujemo dok čitamo tekst."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-013",
+      "tezina": "lagano",
+      "pitanje": "Kojim redoslijedom prepričavamo događaje iz teksta?",
+      "ponudeni": [
+        "Istim redoslijedom kao u tekstu",
+        "Od kraja prema početku",
+        "Bilo kojim redom",
+        "Abecednim redom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Događaje prepričavamo istim redoslijedom kojim su se dogodili u tekstu.",
+      "savjet": "Razmisli bi li slušatelj razumio priču da joj zamijeniš dijelove."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-014",
+      "tezina": "lagano",
+      "pitanje": "Kojim riječima prepričavamo tekst?",
+      "ponudeni": [
+        "Riječima iz teksta naučenima napamet",
+        "Samo stranim riječima",
+        "Vlastitim riječima",
+        "Riječima u stihovima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad prepričavamo, tekst kazujemo vlastitim riječima.",
+      "savjet": "Prepričavanje nije recitiranje. Čije riječi tada koristiš?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-015",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara podatak „u ponedjeljak ujutro“?",
+      "ponudeni": [
+        "Gdje?",
+        "Kada?",
+        "Tko?",
+        "Zašto?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Podatak „u ponedjeljak ujutro“ kazuje vrijeme pa odgovara na pitanje kada.",
+      "savjet": "Razmisli govori li taj podatak o mjestu, osobi, razlogu ili vremenu."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-016",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara podatak „u školskom vrtu“?",
+      "ponudeni": [
+        "Kada?",
+        "Zašto?",
+        "Tko?",
+        "Gdje?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Podatak „u školskom vrtu“ kazuje mjesto pa odgovara na pitanje gdje.",
+      "savjet": "Razmisli govori li taj podatak o vremenu, osobi, razlogu ili mjestu."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-017",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara podatak „jer je padala kiša“?",
+      "ponudeni": [
+        "Gdje?",
+        "Kada?",
+        "Zašto?",
+        "Tko?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Podatak „jer je padala kiša“ kazuje razlog pa odgovara na pitanje zašto.",
+      "savjet": "Riječ jer uvodi nešto. Je li to mjesto, vrijeme, osoba ili razlog?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-018",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara podatak „učenici četvrtog razreda“?",
+      "ponudeni": [
+        "Gdje?",
+        "Kada?",
+        "Kako?",
+        "Tko?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Podatak „učenici četvrtog razreda“ kazuje o kome je riječ pa odgovara na pitanje tko.",
+      "savjet": "Razmisli govori li taj podatak o osobama, mjestu, vremenu ili načinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-019",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove riječ ili kratak izraz koji nas podsjeća na bitan podatak?",
+      "ponudeni": [
+        "Natuknica",
+        "Odlomak",
+        "Kitica",
+        "Dijalog"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ ili kratak izraz koji podsjeća na bitan podatak zove se natuknica.",
+      "savjet": "Taj se zapis koristi u bilješkama."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-020",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove kratak tekst koji sadrži samo bitne podatke izvornog teksta?",
+      "ponudeni": [
+        "Opis",
+        "Sažetak",
+        "Dijalog",
+        "Pjesma"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kratak tekst sa samo bitnim podacima izvornog teksta zove se sažetak.",
+      "savjet": "Razmisli kako se zove tekst koji pišeš kad dugu priču skratiš na najvažnije."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-021",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove kazivanje pročitanog teksta vlastitim riječima?",
+      "ponudeni": [
+        "Prepisivanje",
+        "Prepričavanje",
+        "Diktat",
+        "Recitiranje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad pročitani tekst kazujemo vlastitim riječima, prepričavamo ga.",
+      "savjet": "Pazi na riječ vlastitim. Pri kojoj radnji ne ponavljaš tuđe riječi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-022",
+      "tezina": "lagano",
+      "pitanje": "Što učiniš prije nego što napišeš bilješke o tekstu?",
+      "ponudeni": [
+        "Pažljivo pročitaš tekst",
+        "Napišeš novi kraj priče",
+        "Nacrtaš naslovnicu",
+        "Naučiš tekst napamet"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Da bismo izdvojili bitne podatke, tekst najprije moramo pažljivo pročitati.",
+      "savjet": "Bitno možeš izdvojiti tek kad znaš o čemu tekst govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-023",
+      "tezina": "lagano",
+      "pitanje": "Kakve su dobre bilješke?",
+      "ponudeni": [
+        "Duge i opširne",
+        "Pune ukrasnih riječi",
+        "Napisane bez reda",
+        "Kratke i pregledne"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobre bilješke su kratke i pregledne pa se iz njih brzo prisjetimo bitnoga.",
+      "savjet": "Zamisli da bilješke čitaš dan prije ispita. Kakve bi ti najviše pomogle?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-024",
+      "tezina": "lagano",
+      "pitanje": "Koji je zapis bilješka iz teksta o mravima?",
+      "ponudeni": [
+        "Jučer sam u parku dugo sjedio na klupi.",
+        "Mravi su, kako kaže moj djed, baš zanimljivi.",
+        "mravi – mravinjak, rad u skupini",
+        "Volim gledati kako pada kiša."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bilješka kratko bilježi bitne podatke o temi: gdje mravi žive i kako rade.",
+      "savjet": "Bilješka je kratka i govori o temi teksta."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-025",
+      "tezina": "lagano",
+      "pitanje": "Što zapisuješ u bilješke dok slušaš predavanje?",
+      "ponudeni": [
+        "Svaku izgovorenu riječ",
+        "Samo šale koje čuješ",
+        "Imena svih učenika u razredu",
+        "Najvažnije podatke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dok slušamo predavanje, zapisujemo samo najvažnije podatke.",
+      "savjet": "Bilješke moraš stići pisati dok predavač govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-026",
+      "tezina": "lagano",
+      "pitanje": "Zašto pišemo sažetak?",
+      "ponudeni": [
+        "Da tekst produljimo",
+        "Da dodamo nove događaje",
+        "Da ukratko ponovimo bit teksta",
+        "Da promijenimo kraj priče"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sažetkom ukratko ponavljamo ono najvažnije iz teksta.",
+      "savjet": "Sjeti se što znači sažeti nešto."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-027",
+      "tezina": "lagano",
+      "pitanje": "Kada je podatak u tekstu nebitan?",
+      "ponudeni": [
+        "Kad odgovara na pitanje tko",
+        "Kad bez njega i dalje razumijemo bit teksta",
+        "Kad kazuje gdje se nešto dogodilo",
+        "Kad kazuje zašto se nešto dogodilo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Podatak je nebitan ako bez njega i dalje razumijemo o čemu tekst govori.",
+      "savjet": "Sjeti se glavnih pitanja na koja odgovaraju bitni podaci."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-028",
+      "tezina": "lagano",
+      "pitanje": "Iz čega nastaje sažetak?",
+      "ponudeni": [
+        "Iz izvornog teksta koji smo pročitali",
+        "Iz slike na naslovnici",
+        "Iz naslova knjige",
+        "Iz popisa nepoznatih riječi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sažetak nastaje iz izvornog teksta tako da izdvojimo njegove bitne podatke.",
+      "savjet": "Sažetak skraćuje nešto što već postoji."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-029",
+      "tezina": "lagano",
+      "pitanje": "Kako najkraće zapisuješ ono što želiš zapamtiti iz teksta?",
+      "ponudeni": [
+        "Natuknicama",
+        "Pjesmom",
+        "Pismom",
+        "Dugim sastavkom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Natuknice su riječi ili kratki izrazi pa su najkraći zapis bitnoga.",
+      "savjet": "Traži zapis od jedne riječi ili kratkog izraza."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-030",
+      "tezina": "lagano",
+      "pitanje": "Kako možemo prepričati tekst?",
+      "ponudeni": [
+        "Samo crtežom",
+        "Usmeno ili pisano",
+        "Samo pjevanjem",
+        "Samo pokretima tijela"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tekst možemo prepričati usmeno, govoreći, ili pisano, zapisujući ga.",
+      "savjet": "Razmisli kako prenosimo riječi drugima."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-031",
+      "tezina": "srednje",
+      "pitanje": "Tekst: „Lisica živi u šumi. Ima riđe krzno i dug rep. Hrani se miševima i pticama.“ Koja je natuknica za podatak o hrani?",
+      "ponudeni": [
+        "šuma",
+        "riđe krzno",
+        "miševi, ptice",
+        "dug rep"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treća rečenica govori o hrani, a natuknica „miševi, ptice“ to kratko bilježi.",
+      "savjet": "Pronađi rečenicu u kojoj piše čime se lisica hrani."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-032",
+      "tezina": "srednje",
+      "pitanje": "Tekst: „Sunčica je posadila grah u vrtu. Svaki ga je dan zalijevala. Nakon tjedan dana grah je proklijao.“ Koja je natuknica za drugu rečenicu?",
+      "ponudeni": [
+        "svakodnevno zalijevanje",
+        "grah je proklijao",
+        "sadnja u vrtu",
+        "Sunčica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Druga rečenica govori o tome da je Sunčica grah zalijevala svaki dan.",
+      "savjet": "Najprije pronađi drugu rečenicu, a onda je skrati na nekoliko riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-033",
+      "tezina": "srednje",
+      "pitanje": "Tekst o dabrovima: „Dabrovi grade brane od granja i blata. Lijepo je gledati rijeku za sunčana dana. Brane im služe kao zaštita. Dabrovi su dobri plivači.“ Koja je rečenica nebitna?",
+      "ponudeni": [
+        "Dabrovi grade brane od granja i blata.",
+        "Brane im služe kao zaštita.",
+        "Dabrovi su dobri plivači.",
+        "Lijepo je gledati rijeku za sunčana dana."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica o gledanju rijeke ne govori ništa o dabrovima pa je nebitna.",
+      "savjet": "Tema teksta su dabrovi. Koja rečenica ne govori o njima?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-034",
+      "tezina": "srednje",
+      "pitanje": "Tekst o kitu: „Kit je najveća životinja na Zemlji. Diše plućima. Moja sestra ima plišanog kita. Kit živi u moru.“ Koja je rečenica nebitna?",
+      "ponudeni": [
+        "Kit je najveća životinja na Zemlji.",
+        "Moja sestra ima plišanog kita.",
+        "Diše plućima.",
+        "Kit živi u moru."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plišana igračka nije podatak o kitu kao životinji, pa je ta rečenica nebitna.",
+      "savjet": "Pitaj se koja rečenica ne daje podatak o pravom kitu."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-035",
+      "tezina": "srednje",
+      "pitanje": "U tekstu piše: „Vjeverica u jesen skuplja lješnjake i skriva ih u rupe.“ Koja je natuknica najbolja?",
+      "ponudeni": [
+        "vjeverica ima čupav rep",
+        "skuplja i skriva lješnjake",
+        "jesen je lijepa",
+        "rupe u zemlji"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Natuknica „skuplja i skriva lješnjake“ kratko kazuje ono najvažnije iz rečenice.",
+      "savjet": "Natuknica mora podsjetiti na glavno što vjeverica radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-036",
+      "tezina": "srednje",
+      "pitanje": "Na koje pitanje odgovara bitan podatak „zbog jake bure“ u rečenici „Trajekt nije isplovio zbog jake bure.“?",
+      "ponudeni": [
+        "Kada?",
+        "Gdje?",
+        "Tko?",
+        "Zašto?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Podatak „zbog jake bure“ kazuje razlog pa odgovara na pitanje zašto.",
+      "savjet": "Razmisli kazuje li taj podatak vrijeme, mjesto, osobu ili razlog."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-037",
+      "tezina": "srednje",
+      "pitanje": "Tekst: „Marta je izgubila ključ. Tražila ga je po cijeloj kući. Napokon ga je našla u džepu jakne.“ Koji je najbolji sažetak?",
+      "ponudeni": [
+        "Marta je izgubljeni ključ našla u džepu jakne.",
+        "Marta ima kuću s mnogo soba.",
+        "Marta je po kući tražila jaknu.",
+        "Martin ključ bio je u ladici."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Taj sažetak u jednoj rečenici kazuje što se dogodilo i kako je završilo.",
+      "savjet": "Dobar sažetak kazuje što se dogodilo, a ne dodaje ništa čega u tekstu nema."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-038",
+      "tezina": "srednje",
+      "pitanje": "Bilješke za prepričavanje: „polazak autobusom – šetnja šumom – ručak na livadi – povratak“. Što prepričavaš odmah nakon šetnje šumom?",
+      "ponudeni": [
+        "Polazak autobusom",
+        "Povratak kući",
+        "Ručak na livadi",
+        "Kupanje u rijeci"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prepričavamo redom kojim su bilješke zapisane, a nakon šetnje dolazi ručak na livadi.",
+      "savjet": "Prati natuknice slijeva nadesno."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-039",
+      "tezina": "srednje",
+      "pitanje": "Učiteljica kaže: „Voda se pri 0 °C smrzava i postaje led.“ Koja je bilješka najbolja?",
+      "ponudeni": [
+        "učiteljica govori o vodi",
+        "led je hladan i sklizak",
+        "volim piti vodu",
+        "voda – 0 °C – led"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bilješka „voda – 0 °C – led“ kratko čuva sve bitne podatke iz rečenice.",
+      "savjet": "Dobra bilješka čuva brojke i pojmove koje je učiteljica izrekla."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-040",
+      "tezina": "srednje",
+      "pitanje": "Tekst o tvrđavi: „Tvrđava je sagrađena prije 500 godina. Ima četiri kule. Pred njom prodaju sladoled. Zidovi su joj od kamena.“ Koji je podatak nebitan?",
+      "ponudeni": [
+        "Sagrađena je prije 500 godina.",
+        "Pred njom prodaju sladoled.",
+        "Ima četiri kule.",
+        "Zidovi su joj od kamena."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prodaja sladoleda ne govori ništa o samoj tvrđavi pa je to nebitan podatak.",
+      "savjet": "Tema teksta je tvrđava. Što ne opisuje nju samu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-041",
+      "tezina": "srednje",
+      "pitanje": "Koji podatak u rečenici „Ivan je u subotu u parku hranio patke.“ odgovara na pitanje gdje?",
+      "ponudeni": [
+        "u subotu",
+        "Ivan",
+        "u parku",
+        "hranio patke"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na pitanje gdje odgovara podatak o mjestu, a to je „u parku“.",
+      "savjet": "Traži podatak koji kazuje mjesto."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-042",
+      "tezina": "srednje",
+      "pitanje": "Koji podatak u rečenici „Učenici su u svibnju posadili drveće u dvorištu škole.“ odgovara na pitanje kada?",
+      "ponudeni": [
+        "u svibnju",
+        "učenici",
+        "drveće",
+        "u dvorištu škole"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na pitanje kada odgovara podatak o vremenu, a to je „u svibnju“.",
+      "savjet": "Traži podatak koji kazuje vrijeme."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-043",
+      "tezina": "srednje",
+      "pitanje": "Koji je dio rečenice „Lea je u novoj ružičastoj majici pobijedila na školskom natjecanju iz šaha.“ nebitan detalj?",
+      "ponudeni": [
+        "u novoj ružičastoj majici",
+        "pobijedila je",
+        "na natjecanju iz šaha",
+        "Lea"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bitno je tko je pobijedio i na kojem natjecanju. Boja majice je ukrasni detalj.",
+      "savjet": "Zamisli da izbaciš jedan dio. Bez kojeg bi rečenica i dalje kazivala bit?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-044",
+      "tezina": "srednje",
+      "pitanje": "Luka je pročitao priču i ispričao je napamet, istim riječima. Je li Luka priču prepričao?",
+      "ponudeni": [
+        "Jest, jer je ponovio sve riječi.",
+        "Jest, jer je govorio glasno i jasno.",
+        "Nije, jer prepričavamo vlastitim riječima.",
+        "Nije, jer je pazio na redoslijed."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prepričati znači ispričati tekst vlastitim riječima, a Luka je ponovio tuđe riječi.",
+      "savjet": "Sjeti se čijim se riječima služiš kad prepričavaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-045",
+      "tezina": "srednje",
+      "pitanje": "Ana je prepričavala priču, ali je kraj ispričala na početku. Što je pogriješila?",
+      "ponudeni": [
+        "Govorila je vlastitim riječima.",
+        "Nije poštovala redoslijed događaja.",
+        "Služila se bilješkama.",
+        "Izostavila je nebitne pojedinosti."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pri prepričavanju treba poštovati redoslijed događaja iz teksta.",
+      "savjet": "Razmisli što je u Aninu prepričavanju bilo na krivom mjestu."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-046",
+      "tezina": "srednje",
+      "pitanje": "Tekst: „Pčele žive u košnici. Skupljaju nektar s cvijeća. Od nektara rade med.“ Koja je bilješka najbolja?",
+      "ponudeni": [
+        "pčele su male i žute",
+        "cvijeće je šareno",
+        "med je sladak i ljepljiv",
+        "košnica – nektar – med"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bilješka „košnica – nektar – med“ redom čuva bitne podatke iz sve tri rečenice.",
+      "savjet": "Dobra bilješka sadrži podatke koji su u tekstu, a ne nešto što samo znaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-047",
+      "tezina": "srednje",
+      "pitanje": "Mia piše sažetak priče: „Dječak je spasio mače s drveta. Bio je to vjetrovit dan s mnogo oblaka. Mače je odnio kući. Ondje ga je nahranio.“ Koju rečenicu izostavlja?",
+      "ponudeni": [
+        "Dječak je spasio mače s drveta.",
+        "Mače je odnio kući.",
+        "Bio je to vjetrovit dan s mnogo oblaka.",
+        "Ondje ga je nahranio."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Opis vremena je ukrasni detalj. Bez njega i dalje znamo što se dogodilo.",
+      "savjet": "U sažetku ostaje ono što kazuje što se dogodilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-048",
+      "tezina": "srednje",
+      "pitanje": "U tekstu piše: „Rijeka Kupa izvire u Gorskom kotaru.“ Koja je natuknica najbolja?",
+      "ponudeni": [
+        "rijeka je hladna",
+        "Gorski kotar ima šume",
+        "kupanje ljeti",
+        "Kupa – izvor u Gorskom kotaru"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Natuknica čuva bitne podatke iz rečenice: koja rijeka i gdje izvire.",
+      "savjet": "Natuknica mora podsjećati na ono što u rečenici piše."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-049",
+      "tezina": "srednje",
+      "pitanje": "Kako se rečenica „Sunce je zvijezda koja nam daje svjetlost i toplinu.“ zapisuje u natuknicama?",
+      "ponudeni": [
+        "Sunce – zvijezda, svjetlost, toplina",
+        "Sunce je zvijezda koja nam daje svjetlost.",
+        "Sunce je jako lijepo.",
+        "zvijezde noću"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Natuknice čuvaju sve bitne pojmove iz rečenice, ali bez cijele rečenice.",
+      "savjet": "Natuknice nisu rečenice, ali moraju sačuvati sve bitno."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-050",
+      "tezina": "srednje",
+      "pitanje": "Tekst: „Robert je u utorak posjetio knjižnicu. Posudio je knjigu o dinosaurima.“ Koji podaci odgovaraju na pitanja kada i gdje?",
+      "ponudeni": [
+        "Robert, knjiga",
+        "u utorak, u knjižnici",
+        "knjiga, dinosauri",
+        "posjetio, posudio"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„U utorak“ kazuje vrijeme, a „u knjižnici“ mjesto.",
+      "savjet": "Jedan podatak kazuje vrijeme, a drugi mjesto."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-051",
+      "tezina": "srednje",
+      "pitanje": "Što je od navedenog prepričavanje?",
+      "ponudeni": [
+        "Ema pročitanu priču prepiše u bilježnicu.",
+        "Ema prijatelju svojim riječima ispriča pročitanu priču.",
+        "Ema pročitanu priču čita naglas.",
+        "Ema nacrta glavnog lika priče."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prepričavanje je kazivanje teksta vlastitim riječima, a to radi Ema.",
+      "savjet": "Traži radnju u kojoj Ema koristi vlastite riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-052",
+      "tezina": "srednje",
+      "pitanje": "Što je od navedenog pisanje sažetka?",
+      "ponudeni": [
+        "Niko izdvoji bitne rečenice teksta i od njih napiše kratak tekst.",
+        "Niko prepiše cijeli tekst od prve do zadnje riječi.",
+        "Niko tekstu doda nove događaje i duži kraj.",
+        "Niko podcrta sve nepoznate riječi u tekstu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sažetak nastaje izdvajanjem bitnih rečenica u kratak tekst.",
+      "savjet": "Sažetak je kraći od izvornog teksta i sadrži samo bitno."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-053",
+      "tezina": "srednje",
+      "pitanje": "Što je od navedenog pisanje bilježaka?",
+      "ponudeni": [
+        "Petra crta cvjetiće po rubu bilježnice.",
+        "Petra zapisuje svaku riječ koju učiteljica izgovori.",
+        "Petra piše pismo prijateljici.",
+        "Petra dok sluša predavanje zapisuje bitne podatke u nekoliko riječi."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bilješke su kratko zapisani bitni podaci, a to Petra radi dok sluša.",
+      "savjet": "Bilješke su kratke i sadrže samo bitno."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-054",
+      "tezina": "srednje",
+      "pitanje": "Tekst: „Na Plitvičkim jezerima ima 16 većih jezera. Jezera su povezana slapovima. Ondje sam jela sendvič. Jezera su nacionalni park.“ Koja rečenica ne ide u sažetak?",
+      "ponudeni": [
+        "Na Plitvičkim jezerima ima 16 većih jezera.",
+        "Jezera su povezana slapovima.",
+        "Ondje sam jela sendvič.",
+        "Jezera su nacionalni park."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sendvič ne govori ništa o jezerima pa ta rečenica ne ide u sažetak.",
+      "savjet": "Tema teksta su jezera. Koja rečenica govori o nečemu drugom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-055",
+      "tezina": "srednje",
+      "pitanje": "Bilješka glasi: „sova – lovi noću – miševi“. Što iz bilješke saznaješ o tome kada sova lovi?",
+      "ponudeni": [
+        "Ujutro",
+        "U podne",
+        "Zimi",
+        "Noću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U bilješci piše „lovi noću“, dakle sova lovi noću.",
+      "savjet": "Pročitaj srednju natuknicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-056",
+      "tezina": "srednje",
+      "pitanje": "Rečenica: „Prekjučer, dok je padala sitna kiša, vatrogasci su ugasili požar u skladištu.“ Koji podatak odgovara na pitanje što se dogodilo?",
+      "ponudeni": [
+        "padala je sitna kiša",
+        "prekjučer",
+        "vatrogasci su ugasili požar",
+        "u skladištu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glavni događaj je da su vatrogasci ugasili požar. Ostali podaci kazuju vrijeme i mjesto.",
+      "savjet": "Traži podatak koji kazuje sam događaj, a ne kada ili gdje se zbio."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-057",
+      "tezina": "srednje",
+      "pitanje": "Učiteljica kaže: „Biljke za život trebaju vodu, svjetlost i zrak.“ Koja je bilješka najbolja?",
+      "ponudeni": [
+        "biljke su zelene i lijepe",
+        "biljke – voda, svjetlost, zrak",
+        "učiteljica voli biljke",
+        "zalijevati cvijeće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bilješka „biljke – voda, svjetlost, zrak“ čuva sve bitne podatke iz rečenice.",
+      "savjet": "Dobra bilješka čuva sve što je u rečenici bitno, kratko."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-058",
+      "tezina": "srednje",
+      "pitanje": "Zašto zapis „Bio je to jedan stvarno jako, jako dug i zanimljiv sat.“ nije dobra natuknica?",
+      "ponudeni": [
+        "Jer je cijela rečenica s nebitnim riječima.",
+        "Jer je prekratak i nejasan.",
+        "Jer je napisan malim slovima.",
+        "Jer u njemu nema riječi sat."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Natuknica je riječ ili kratak izraz, a ovaj zapis je duga rečenica s ukrasnim riječima.",
+      "savjet": "Sjeti se kakve su natuknice po duljini i obliku."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-059",
+      "tezina": "srednje",
+      "pitanje": "Rečenica: „Mrav nosi hranu tako da je drži čeljustima.“ Na koje pitanje odgovara podatak „tako da je drži čeljustima“?",
+      "ponudeni": [
+        "Kako?",
+        "Gdje?",
+        "Kada?",
+        "Tko?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Taj podatak kazuje način na koji mrav nosi hranu pa odgovara na pitanje kako.",
+      "savjet": "Razmisli kazuje li taj podatak mjesto, vrijeme, osobu ili način."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-060",
+      "tezina": "srednje",
+      "pitanje": "Tekst: „Grad je dobio novi park. Park ima igralište i stazu za bicikle. Klupe su obojene zeleno.“ Koja rečenica kazuje o čemu je cijeli tekst?",
+      "ponudeni": [
+        "Park ima igralište i stazu za bicikle.",
+        "Grad je dobio novi park.",
+        "Klupe su obojene zeleno.",
+        "Djeca se vole ljuljati."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prva rečenica kazuje glavnu misao, a ostale samo dodaju pojedinosti o parku.",
+      "savjet": "Traži rečenicu na koju se sve ostale nadovezuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-061",
+      "tezina": "tesko",
+      "pitanje": "Priča: „Tin je zaboravio torbu. Vratio se kući po nju. Zakasnio je u školu.“ Koje natuknice prate redoslijed događaja?",
+      "ponudeni": [
+        "kašnjenje – torba – povratak",
+        "povratak – kašnjenje – torba",
+        "zaboravljena torba – povratak – kašnjenje",
+        "torba – kašnjenje – povratak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Natuknice moraju pratiti redoslijed: najprije zaboravljena torba, zatim povratak, na kraju kašnjenje.",
+      "savjet": "Pitaj se što se dogodilo prvo, a što na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-062",
+      "tezina": "tesko",
+      "pitanje": "Tekst: „U subotu su učenici čistili obalu rijeke. Skupili su dvadeset vreća smeća. Bilo je vruće pa su pili limunadu.“ Koji je sažetak najbolji?",
+      "ponudeni": [
+        "Učenici su u subotu čistili obalu i skupili dvadeset vreća smeća.",
+        "Učenici su pili limunadu jer je bilo vruće.",
+        "U subotu je uz rijeku bilo jako vruće.",
+        "Učenici su skupljali smeće i pili limunadu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najbolji sažetak čuva tko, kada, što su radili i rezultat, a izostavlja limunadu.",
+      "savjet": "Usporedi koji zapis ima sve bitne podatke i nijedan nebitni."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-063",
+      "tezina": "tesko",
+      "pitanje": "Tekst: „Rode zimi odlaze u Afriku. Ondje je toplo i ima hrane. U proljeće se vraćaju.“ Koje su natuknice najbolje?",
+      "ponudeni": [
+        "rode imaju duge noge i crvene kljunove",
+        "Afrika – proljeće – zima – hrana",
+        "Rode zimi odlaze u Afriku jer je ondje toplo.",
+        "zimi u Afriku – toplo, hrana – povratak u proljeće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Te natuknice redom čuvaju sve bitno: kamo i kada rode odlaze, zašto i kada se vraćaju.",
+      "savjet": "Dobre natuknice su kratke, prate redoslijed teksta i ne izostavljaju bitno."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-064",
+      "tezina": "tesko",
+      "pitanje": "Bilješka glasi: „Lana – utorak – knjižnica – knjiga o svemiru“. Na koje pitanje bilješka ne daje odgovor?",
+      "ponudeni": [
+        "Tko je otišao u knjižnicu?",
+        "Zašto je Lana otišla u knjižnicu?",
+        "Kada je Lana bila u knjižnici?",
+        "O čemu je bila knjiga?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bilješka kazuje tko, kada, gdje i o čemu je knjiga, ali ne kazuje razlog.",
+      "savjet": "Uz svaku natuknicu pomisli na koje pitanje odgovara."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-065",
+      "tezina": "tesko",
+      "pitanje": "Tekst: „Jučer je u školi održan sajam jabuka. Sajam je bio u školskoj dvorani. Prodavačica je imala crveni šal.“ Koja bilješka sadrži sve bitno?",
+      "ponudeni": [
+        "sajam – crveni šal",
+        "sajam jabuka – jučer – školska dvorana",
+        "jabuke – prodavačica – šal",
+        "škola – jučer"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bilješka kazuje što se održalo, kada i gdje, a izostavlja nebitan šal.",
+      "savjet": "Provjeri ima li bilješka odgovore na pitanja što, kada i gdje."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-066",
+      "tezina": "tesko",
+      "pitanje": "Bilješke: „Maja nađe ptića – odnese ga veterinaru – ptić ozdravi – puste ga“. Koje je prepričavanje dobro?",
+      "ponudeni": [
+        "Ptić je ozdravio, a Maja ga je zatim našla i odnijela veterinaru.",
+        "Maja je našla ptića i pustila ga, a onda ga je odnijela veterinaru.",
+        "Maja je pustila ptića pa ga je odnijela veterinaru jer je bio bolestan.",
+        "Maja je našla ptića i odnijela ga veterinaru, a kad je ozdravio, pustili su ga."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobro prepričavanje prati redoslijed iz bilježaka: nalazak, veterinar, ozdravljenje, puštanje.",
+      "savjet": "Usporedi redoslijed događaja u svakom odgovoru s bilješkama."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-067",
+      "tezina": "tesko",
+      "pitanje": "Luka je napisao sažetak koji je duži od izvornog teksta. Što je najvjerojatnije pogriješio?",
+      "ponudeni": [
+        "Dodao je nebitne pojedinosti umjesto da ih izostavi.",
+        "Izostavio je sve ukrasne detalje.",
+        "Zadržao je samo bitne rečenice.",
+        "Pisao je istim redoslijedom kao u tekstu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sažetak je kraći od teksta jer izostavlja nebitno. Ako je duži, Luka je dodao suvišno.",
+      "savjet": "Razmisli što sažetak čini kraćim od izvornog teksta."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-068",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se sažetak razlikuje od natuknica?",
+      "ponudeni": [
+        "Sažetak sadrži nebitne podatke, a natuknice bitne.",
+        "Sažetak je uvijek duži od izvornog teksta.",
+        "Sažetak je kratak tekst u rečenicama, a natuknice su riječi ili izrazi.",
+        "Natuknice su cijele rečenice, a sažetak su pojedine riječi."
+      ],
+      "tocan": 2,
+      "objasnjenje": "I sažetak i natuknice čuvaju bitno, ali sažetak je pisan rečenicama, a natuknice su kratki izrazi.",
+      "savjet": "Usporedi oblik zapisa: što je pisano rečenicama, a što kratkim izrazima?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-069",
+      "tezina": "tesko",
+      "pitanje": "Tekst: „Ježevi su korisni u vrtu. Jedu puževe i kukce. Tako štite povrće.“ Koja jedna natuknica kazuje glavnu misao?",
+      "ponudeni": [
+        "puževi su spori",
+        "povrće je zdravo",
+        "ježevi imaju bodlje",
+        "jež – koristan u vrtu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Cijeli tekst objašnjava zašto je jež koristan u vrtu, pa je to glavna misao.",
+      "savjet": "Glavna misao obuhvaća sve rečenice teksta, a ne samo jedan detalj."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-070",
+      "tezina": "tesko",
+      "pitanje": "Ena je u bilješke zapisala: „Bilo je to jednog lijepog sunčanog jutra kad su ptičice veselo pjevale…“ Zašto to nije dobra bilješka?",
+      "ponudeni": [
+        "Jer je prekratka da bi se razumjela.",
+        "Jer sadrži ukrasne detalje umjesto bitnih podataka.",
+        "Jer je napisana vlastitim riječima.",
+        "Jer je zapisana u bilježnicu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bilješka treba sadržavati kratko zapisane bitne podatke, a ne ukrasne opise.",
+      "savjet": "Sjeti se što bilješka mora sadržavati, a što izostavlja."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-071",
+      "tezina": "tesko",
+      "pitanje": "Kojim redom pišeš sažetak?",
+      "ponudeni": [
+        "napišeš kratak tekst → pročitaš tekst → izdvojiš bitno",
+        "izdvojiš bitne rečenice → napišeš kratak tekst → pročitaš tekst",
+        "pročitaš tekst → izdvojiš bitne rečenice → napišeš kratak tekst",
+        "napišeš kratak tekst → izdvojiš bitno → pročitaš tekst"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najprije čitamo tekst, zatim izdvajamo bitne rečenice i od njih pišemo sažetak.",
+      "savjet": "Razmisli možeš li izdvojiti bitno prije nego što znaš o čemu je tekst."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-072",
+      "tezina": "tesko",
+      "pitanje": "Kojim redom pripremaš prepričavanje?",
+      "ponudeni": [
+        "pročitaš tekst → zapišeš bilješke → prepričaš prema bilješkama",
+        "prepričaš tekst → zapišeš bilješke → pročitaš tekst",
+        "zapišeš bilješke → pročitaš tekst → prepričaš tekst",
+        "prepričaš tekst → pročitaš tekst → zapišeš bilješke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tekst najprije pročitamo, zatim zapišemo bilješke i prema njima prepričamo.",
+      "savjet": "Bilješke služe kao pomoć pri prepričavanju, pa razmisli kada nastaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-073",
+      "tezina": "tesko",
+      "pitanje": "Bilješka glasi: „izlet – zoološki vrt – učenici 4. b“. Koji podatak treba dodati da bilješka odgovori i na pitanje kada?",
+      "ponudeni": [
+        "u petak, 12. svibnja",
+        "autobusom",
+        "s učiteljicom",
+        "jer su učili o životinjama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na pitanje kada odgovara podatak o vremenu, a to je datum izleta.",
+      "savjet": "Uz svaki ponuđeni podatak pomisli na koje pitanje odgovara."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-074",
+      "tezina": "tesko",
+      "pitanje": "Petar prepričava: „Na kraju su djeca našla psa. Pas je pobjegao iz dvorišta. Djeca su ga tražila po ulicama.“ Što treba popraviti?",
+      "ponudeni": [
+        "Dodati više ukrasnih pridjeva.",
+        "Upotrijebiti iste riječi kao u tekstu.",
+        "Ispričati događaje redom kojim su se dogodili.",
+        "Izostaviti da je pas pobjegao."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Petar je kraj ispričao na početku. Događaje treba prepričati redom kojim su se dogodili.",
+      "savjet": "Pogledaj što se dogodilo prvo, a što Petar kaže prvo."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-075",
+      "tezina": "tesko",
+      "pitanje": "Tekst: „Mlin je radio na rijeci. Voda je okretala kolo. Kolo je pokretalo kamen koji je mljeo žito.“ Koje su natuknice najbolje?",
+      "ponudeni": [
+        "mlinar ima velike brkove",
+        "mlin na rijeci – voda okreće kolo – kamen melje žito",
+        "žito – kamen – voda – kolo – mlin",
+        "rijeka je bistra i hladna"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Te natuknice redom čuvaju bitne podatke o tome kako mlin radi.",
+      "savjet": "Natuknice trebaju pratiti tekst redom i ne dodavati ono čega u njemu nema."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-076",
+      "tezina": "tesko",
+      "pitanje": "Učenik piše sažetak teksta o vulkanima. Koja rečenica ulazi u sažetak?",
+      "ponudeni": [
+        "Moj prijatelj ima sliku vulkana.",
+        "Vulkane često crtam crvenom bojom.",
+        "Riječ vulkan teško mi je izgovoriti.",
+        "Vulkan izbacuje lavu, pepeo i plinove."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U sažetak ulazi bitan podatak o samim vulkanima, a ne osobni nebitni detalji.",
+      "savjet": "Traži rečenicu koja daje podatak o temi, a ne o piscu."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-077",
+      "tezina": "tesko",
+      "pitanje": "Koja je natuknica nastala pravilnim skraćivanjem rečenice „Galeb se hrani ribom koju lovi u moru.“?",
+      "ponudeni": [
+        "galeb – bijela ptica",
+        "Galeb se hrani ribom.",
+        "galeb – riba iz mora",
+        "more je slano"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Natuknica „galeb – riba iz mora“ kratko čuva bitne podatke iz rečenice.",
+      "savjet": "Natuknica nije cijela rečenica i ne dodaje ono čega u rečenici nema."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-078",
+      "tezina": "tesko",
+      "pitanje": "Što ne valja u bilješkama „Marko – škola – Marko – škola – ponedjeljak“?",
+      "ponudeni": [
+        "Natuknice su prekratke.",
+        "Nema ukrasnih detalja.",
+        "Pisane su riječima, a ne rečenicama.",
+        "Podaci se nepotrebno ponavljaju."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobre bilješke su kratke i pregledne, a ovdje se isti podaci zapisuju dvaput.",
+      "savjet": "Pročitaj bilješke polako i pazi koje se riječi pojavljuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-079",
+      "tezina": "tesko",
+      "pitanje": "Tekst: „Knjižnica je od ponedjeljka zatvorena. Razlog su radovi na krovu. Ponovno se otvara 1. ožujka.“ Koja bilješka odgovara na pitanja što, zašto i kada?",
+      "ponudeni": [
+        "zatvorena knjižnica – radovi na krovu – otvara se 1. ožujka",
+        "knjižnica – krov – radovi",
+        "1. ožujka – knjižnica je lijepa",
+        "zatvorena knjižnica – ponedjeljak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ta bilješka kazuje što se dogodilo, zašto i kada se knjižnica ponovno otvara.",
+      "savjet": "Provjeri ima li bilješka sva tri tražena podatka."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-080",
+      "tezina": "tesko",
+      "pitanje": "Bilješka glasi: „baka – ispekla kolače – za susjede – za Božić“. Koja je rečenica dobro prepričana prema bilješci?",
+      "ponudeni": [
+        "Susjedi su baki za rođendan donijeli kolače.",
+        "Baka je za Božić ispekla kolače za susjede.",
+        "Baka je za Božić dobila kolače od susjeda.",
+        "Baka je susjedima za Uskrs ispekla kruh."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ta rečenica sadrži sve podatke iz bilješke: tko, što, za koga i kada.",
+      "savjet": "Provjeri svaki podatak iz bilješke u svakoj rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-081",
+      "tezina": "tesko",
+      "pitanje": "Ana je u bilješke zapisala „mačka – lovi noću – dobar vid“, a Ivo je prepisao cijeli odlomak. Čije su bilješke dobre i zašto?",
+      "ponudeni": [
+        "Ivine, jer imaju sve riječi iz teksta.",
+        "Anine, jer su kratke i sadrže bitno.",
+        "Ivine, jer su duže i ljepše.",
+        "Anine, jer su pisane cijelim rečenicama."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bilješke su kratko zapisani bitni podaci, a takve je napisala Ana.",
+      "savjet": "Sjeti se kakve moraju biti dobre bilješke."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-082",
+      "tezina": "tesko",
+      "pitanje": "Tekst: „Dupini su sisavci. Dišu plućima i doje mladunčad. Često se igraju uz brodove.“ Koji je sažetak od jedne rečenice najbolji?",
+      "ponudeni": [
+        "Dupini su sisavci koji dišu plućima i doje mladunčad.",
+        "Dupini se često igraju uz brodove.",
+        "Brodovi plove morem u kojem žive dupini.",
+        "Dupini doje mladunčad uz brodove."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najbolji sažetak čuva glavne podatke o dupinima, a izostavlja igru uz brodove.",
+      "savjet": "Dobar sažetak ne smije promijeniti značenje teksta."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-083",
+      "tezina": "tesko",
+      "pitanje": "Koje ti pitanje ne pomaže pronaći bitan podatak u priči?",
+      "ponudeni": [
+        "Tko je glavni lik priče?",
+        "Gdje se događaj zbio?",
+        "Zašto se to dogodilo?",
+        "Koje je boje olovka kojom je priča napisana?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bitni podaci odgovaraju na pitanja tko, što, gdje, kada, zašto i kako, a boja olovke nije dio priče.",
+      "savjet": "Bitna pitanja odnose se na sam događaj u priči."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-084",
+      "tezina": "tesko",
+      "pitanje": "Natuknice o žitu su izmiješane: „žetva – sjetva – rast“. Kojim redom ih treba zapisati?",
+      "ponudeni": [
+        "žetva – rast – sjetva",
+        "rast – sjetva – žetva",
+        "sjetva – rast – žetva",
+        "rast – žetva – sjetva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Žito se najprije posije, zatim raste, a na kraju se žanje.",
+      "savjet": "Razmisli što se sa žitom događa najprije, a što na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-085",
+      "tezina": "tesko",
+      "pitanje": "Iva prepričava tekst o Velebitu i dodaje da je ondje vidjela zmaja. Što je pogriješila?",
+      "ponudeni": [
+        "Pričala je vlastitim riječima.",
+        "Držala se redoslijeda iz teksta.",
+        "Izostavila je nebitne pojedinosti.",
+        "Dodala je izmišljen podatak kojeg nema u tekstu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prepričavanje kazuje ono što je u tekstu, a ne dodaje izmišljene podatke.",
+      "savjet": "Razmisli smije li se pri prepričavanju dodavati nešto novo."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-086",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica kaže: „Državni simboli Republike Hrvatske su grb, zastava i himna.“ Koja bilješka sadrži sve što je rekla?",
+      "ponudeni": [
+        "grb i zastava",
+        "himna se pjeva stojeći",
+        "državni simboli – grb, zastava, himna",
+        "Hrvatska – država"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bilješka je potpuna jer navodi pojam i sva tri državna simbola.",
+      "savjet": "Prebroji koliko je simbola učiteljica navela."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-087",
+      "tezina": "tesko",
+      "pitanje": "Koji je od navedenih zapisa sažetak, a ne natuknice?",
+      "ponudeni": [
+        "snijeg – zima – snjegović",
+        "Snijeg pada zimi kad je hladno. Od snijega djeca rade snjegovića.",
+        "snijeg, hladno",
+        "zima – snjegović – sanjke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sažetak je kratak tekst u rečenicama, a natuknice su riječi i kratki izrazi.",
+      "savjet": "Pogledaj oblik zapisa: rečenice ili kratki izrazi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-088",
+      "tezina": "tesko",
+      "pitanje": "Na satu: „Sat je počeo u osam. Učiteljica je imala nove naočale. Učili smo o Mjesecu.“ Koje su natuknice dobre za bilješke sa sata?",
+      "ponudeni": [
+        "sat u osam – učili o Mjesecu",
+        "nove naočale – Mjesec",
+        "učiteljica – naočale",
+        "osam – naočale – sat"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bitno je kada je sat počeo i što se učilo. Naočale su nebitan detalj.",
+      "savjet": "Bilješke sa sata čuvaju ono što je važno za učenje."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-089",
+      "tezina": "tesko",
+      "pitanje": "Što se dogodi sa smislom teksta kad iz njega izostaviš nebitnu rečenicu?",
+      "ponudeni": [
+        "Smisao ostaje isti.",
+        "Tekst postane nerazumljiv.",
+        "Promijeni se glavni lik.",
+        "Promijeni se kraj događaja."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nebitna rečenica sadrži ukrasne detalje pa bez nje smisao teksta ostaje isti.",
+      "savjet": "Sjeti se po čemu prepoznaješ da je rečenica nebitna."
+    },
+    {
+      "id": "4-hrvatski-jezik-biljeske-i-sazetak-090",
+      "tezina": "tesko",
+      "pitanje": "Tekst: „Šimun je cijelu godinu trenirao plivanje. Na natjecanju je bio prvi. Dobio je zlatnu medalju.“ Koji je sažetak od jedne rečenice najbolji?",
+      "ponudeni": [
+        "Šimun je dobio medalju jer jako voli vodu.",
+        "Šimun je nakon godinu dana treninga pobijedio na natjecanju u plivanju.",
+        "Šimun je cijelu godinu išao na bazen.",
+        "Na natjecanju u plivanju bilo je mnogo djece."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Taj sažetak povezuje bitno iz sve tri rečenice: trening, natjecanje i pobjedu.",
+      "savjet": "Dobar sažetak obuhvaća cijeli tekst, a ne samo jedan dio."
+    }
+  ]
+}

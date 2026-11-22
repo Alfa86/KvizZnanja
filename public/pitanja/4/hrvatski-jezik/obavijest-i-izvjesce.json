@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "obavijest-i-izvjesce",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-001",
+      "tezina": "lagano",
+      "pitanje": "Što je obavijest?",
+      "ponudeni": [
+        "Priča o izmišljenom događaju",
+        "Pismo baki o ljetovanju",
+        "Kratak tekst koji najavljuje neki događaj",
+        "Opis izgleda najboljeg prijatelja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Obavijest je kratak tekst kojim ljude obavještavamo o događaju koji se sprema.",
+      "savjet": "Sjeti se što piše na oglasnoj ploči u školskom predvorju."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-002",
+      "tezina": "lagano",
+      "pitanje": "Što je izvješće?",
+      "ponudeni": [
+        "Prikaz obavljenog zadatka ili događaja",
+        "Poziv na događaj koji tek dolazi",
+        "Pjesma o školskom izletu",
+        "Popis stvari za ponijeti na izlet"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izvješće je kratak pisani ili usmeni prikaz o obavljenom zadatku ili događaju.",
+      "savjet": "Izvješće je u rodu s riječju izvijestiti, a to znači nekome ispričati što se zbilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-003",
+      "tezina": "lagano",
+      "pitanje": "Na koja pitanja mora odgovoriti svaka obavijest?",
+      "ponudeni": [
+        "Zašto, kako i s kim?",
+        "Koliko, čiji i koji?",
+        "Kakav, čemu i otkud?",
+        "Tko, što, gdje i kada?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Obavijest kazuje tko poziva, što se događa, gdje i kada.",
+      "savjet": "Zamisli da želiš doći na događaj. Što sve moraš znati da stigneš na pravo mjesto?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-004",
+      "tezina": "lagano",
+      "pitanje": "Gdje se u školi najčešće stavlja obavijest?",
+      "ponudeni": [
+        "U dnevnik čitanja",
+        "Na oglasnu ploču",
+        "U pernicu",
+        "U bilježnicu za zadaću"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obavijest se stavlja na oglasnu ploču da je pročita što više ljudi.",
+      "savjet": "Obavijest treba vidjeti mnogo ljudi, a ne samo jedan učenik."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-005",
+      "tezina": "lagano",
+      "pitanje": "Kakva mora biti dobra obavijest?",
+      "ponudeni": [
+        "Duga i šaljiva",
+        "Puna ukrasnih opisa",
+        "Napisana u stihovima",
+        "Kratka i jasna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobra obavijest je kratka i jasna, bez nebitnih podataka.",
+      "savjet": "Obavijest se često čita u prolazu. Kakva treba biti da je svatko brzo razumije?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-006",
+      "tezina": "lagano",
+      "pitanje": "O kakvom događaju govori obavijest?",
+      "ponudeni": [
+        "O događaju koji se dogodio prošle godine",
+        "O događaju koji će se tek dogoditi",
+        "O događaju koji se dogodio jučer",
+        "O događaju koji se nikad nije dogodio"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obavijest najavljuje događaj, dakle govori o onome što će tek biti.",
+      "savjet": "Obavijest čitamo da bismo mogli doći na neki događaj."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-007",
+      "tezina": "lagano",
+      "pitanje": "O kakvom događaju govori izvješće?",
+      "ponudeni": [
+        "O događaju koji će biti idući tjedan",
+        "O događaju koji smo izmislili",
+        "O događaju koji je već bio",
+        "O događaju koji tek planiramo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izvješće izvještava o onome što se već dogodilo, na primjer o izletu.",
+      "savjet": "Razmisli može li se izvijestiti o nečemu što još nismo doživjeli."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-008",
+      "tezina": "lagano",
+      "pitanje": "U kojem se glagolskom vremenu najčešće piše izvješće?",
+      "ponudeni": [
+        "U prošlom vremenu",
+        "U budućem vremenu",
+        "U sadašnjem vremenu",
+        "U obliku pitanja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izvješće govori o onome što je bilo pa se piše u prošlom vremenu.",
+      "savjet": "Sjeti se kada se dogodio događaj o kojem izvješćuješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-009",
+      "tezina": "lagano",
+      "pitanje": "Koji podatak u obavijesti o priredbi odgovara na pitanje „gdje?“",
+      "ponudeni": [
+        "U petak, 8. svibnja",
+        "Učenici 4. razreda",
+        "Priredba za Majčin dan",
+        "U školskoj dvorani"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na pitanje gdje odgovara mjesto događaja, a to je školska dvorana.",
+      "savjet": "Pitanje gdje traži mjesto."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-010",
+      "tezina": "lagano",
+      "pitanje": "Koji podatak u obavijesti o predstavi odgovara na pitanje „kada?“",
+      "ponudeni": [
+        "Na školskom igralištu",
+        "U srijedu u 10 sati",
+        "Dramska skupina",
+        "Predstava o jeseni"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na pitanje kada odgovaraju dan i sat događaja.",
+      "savjet": "Pitanje kada traži vrijeme događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-011",
+      "tezina": "lagano",
+      "pitanje": "Koji podatak u obavijesti o utrci odgovara na pitanje „tko?“",
+      "ponudeni": [
+        "U ponedjeljak u 14 sati",
+        "U gradskom parku",
+        "Školski sportski klub",
+        "Utrka u trčanju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Na pitanje tko odgovara onaj tko poziva ili organizira, ovdje školski sportski klub.",
+      "savjet": "Pitanje tko traži osobu ili skupinu koja nešto organizira."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-012",
+      "tezina": "lagano",
+      "pitanje": "Koji podatak u obavijesti o sajmu odgovara na pitanje „što?“",
+      "ponudeni": [
+        "Sajam jesenskih plodova",
+        "U subotu u 9 sati",
+        "U školskom predvorju",
+        "Učenici 3. razreda"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na pitanje što odgovara sam događaj, a to je sajam jesenskih plodova.",
+      "savjet": "Pitanje što traži naziv događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se može podnijeti izvješće?",
+      "ponudeni": [
+        "Samo crtežom",
+        "Samo pjesmom",
+        "Pisano ili usmeno",
+        "Samo pantomimom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izvješće može biti pisano, na papiru, ili usmeno, kad ga izgovorimo pred razredom.",
+      "savjet": "Izvješće se može napisati, ali razmisli može li se i ispričati."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-014",
+      "tezina": "lagano",
+      "pitanje": "O čemu se može napisati izvješće?",
+      "ponudeni": [
+        "O priredbi koja će biti idući tjedan",
+        "O zmaju kojeg smo izmislili",
+        "O izgledu najbolje prijateljice",
+        "O izletu na koji je razred išao"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izvješće se piše o stvarnom događaju koji je već bio, na primjer o izletu.",
+      "savjet": "Izvješće prikazuje stvaran događaj koji je završio."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-015",
+      "tezina": "lagano",
+      "pitanje": "O čemu se piše obavijest?",
+      "ponudeni": [
+        "O sajmu koji će biti idući petak",
+        "O tome kako je protekla akcija sadnje",
+        "O onome što smo vidjeli na jučerašnjem izletu",
+        "O bakinu vrtu punom cvijeća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obavijest najavljuje događaj koji tek slijedi, kao što je sajam idući petak.",
+      "savjet": "Obavijest poziva ljude na nešto. Na što se još može doći?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-016",
+      "tezina": "lagano",
+      "pitanje": "Što je bitna informacija u obavijesti?",
+      "ponudeni": [
+        "Šala koja nasmijava čitatelje",
+        "Podatak potreban da bi se došlo na događaj",
+        "Ime učiteljičina psa",
+        "Opis vremena od prošle godine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bitni su podatci bez kojih ne bismo znali tko poziva, na što, gdje i kada.",
+      "savjet": "Bitno je ono bez čega obavijest ne bi imala smisla."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-017",
+      "tezina": "lagano",
+      "pitanje": "Koji je podatak nebitan u obavijesti o školskoj priredbi?",
+      "ponudeni": [
+        "Priredba je u petak u 18 sati.",
+        "Priredba je u školskoj dvorani.",
+        "Priredbu priprema dramska skupina.",
+        "Učiteljica voli ruže."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Podatak o ružama ne pomaže nikome da dođe na priredbu pa je nebitan.",
+      "savjet": "Provjeri koji podatak ne odgovara ni na tko, ni na što, ni na gdje, ni na kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-018",
+      "tezina": "lagano",
+      "pitanje": "Zašto se piše obavijest?",
+      "ponudeni": [
+        "Da bi se opisao izgled nekog lika",
+        "Da bi se ispričala izmišljena priča",
+        "Da bi ljudi saznali za neki događaj",
+        "Da bi se zahvalilo baki na daru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Obavijest pišemo da bi ljudi saznali za događaj i mogli doći na njega.",
+      "savjet": "Pomisli na riječ obavijestiti. Što to znači?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-019",
+      "tezina": "lagano",
+      "pitanje": "Zašto se piše izvješće?",
+      "ponudeni": [
+        "Da bi drugi saznali kako je protekao događaj",
+        "Da bi se ljude pozvalo na događaj",
+        "Da bi se slikovito opisao krajolik",
+        "Da bi se napisala pjesma o prirodi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izvješćem drugima prikazujemo što se radilo i kako je događaj protekao.",
+      "savjet": "Izvješće pišemo nakon nekog događaja. Kome i zašto?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-020",
+      "tezina": "lagano",
+      "pitanje": "Izvješće mora biti točno. Što to znači?",
+      "ponudeni": [
+        "Smiju se dodati izmišljeni događaji.",
+        "Piše se samo ono što se stvarno dogodilo.",
+        "Piše se ono što se moglo dogoditi.",
+        "Piše se kako bismo željeli da bude."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U izvješću nema izmišljanja, piše se samo ono što se stvarno dogodilo.",
+      "savjet": "Izvješće čitaju oni koji nisu bili ondje i žele znati istinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-021",
+      "tezina": "lagano",
+      "pitanje": "Kojim se redom u izvješću pišu događaji?",
+      "ponudeni": [
+        "Od kraja prema početku",
+        "Bilo kojim redom",
+        "Abecednim redom",
+        "Redom kako su se zbivali"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U izvješću događaje pišemo redom kako su se događali, od početka do kraja.",
+      "savjet": "Zamisli da nekome pričaš o izletu tako da te lako prati."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-022",
+      "tezina": "lagano",
+      "pitanje": "Koja se vrsta teksta piše prije događaja da bi ga najavila?",
+      "ponudeni": [
+        "Izvješće",
+        "Obavijest",
+        "Opis lika",
+        "Prepričavanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obavijest se piše prije događaja jer ga najavljuje.",
+      "savjet": "Koji tekst čitaš na oglasnoj ploči da saznaš što se sprema?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-023",
+      "tezina": "lagano",
+      "pitanje": "Koja se vrsta teksta piše poslije događaja da bi se prikazalo kako je bilo?",
+      "ponudeni": [
+        "Obavijest",
+        "Uputa za igru",
+        "Izvješće",
+        "Pjesma o jeseni"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izvješće se piše poslije događaja i prikazuje kako je protekao.",
+      "savjet": "Riječ izvijestiti pomoći će ti da odabereš."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-024",
+      "tezina": "lagano",
+      "pitanje": "Gdje se još može objaviti obavijest osim na oglasnoj ploči?",
+      "ponudeni": [
+        "U dnevniku čitanja",
+        "U udžbeniku matematike",
+        "Na poleđini crteža",
+        "Na web-stranici škole"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Obavijest se objavljuje i na web-stranici škole ili u školskom listu, gdje je mnogi mogu pročitati.",
+      "savjet": "Obavijest se objavljuje ondje gdje je mogu pročitati svi učenici i roditelji."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-025",
+      "tezina": "lagano",
+      "pitanje": "Koji podatak mora sadržavati obavijest o nogometnoj utakmici?",
+      "ponudeni": [
+        "Boju sudačkih dresova",
+        "Datum i sat utakmice",
+        "Ime trenerova psa",
+        "Što su igrači jeli za ručak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Datum i sat odgovaraju na pitanje kada, a to je bitan podatak obavijesti.",
+      "savjet": "Bez kojeg podatka gledatelji ne bi znali kad doći na utakmicu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-026",
+      "tezina": "lagano",
+      "pitanje": "Što piše u izvješću o razrednom izletu?",
+      "ponudeni": [
+        "Kamo smo išli i što smo vidjeli",
+        "Što ćemo raditi idućeg ljeta",
+        "Izmišljeni susret sa zmajem",
+        "Popis želja za rođendan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izvješće o izletu kazuje kamo se išlo i što se radilo i vidjelo.",
+      "savjet": "Izvješće prikazuje stvarni događaj koji je već završio."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-027",
+      "tezina": "lagano",
+      "pitanje": "Koja je rečenica napisana u prošlom vremenu, kao u izvješću?",
+      "ponudeni": [
+        "Posadit ćemo deset sadnica.",
+        "Sadimo deset sadnica.",
+        "Posadili smo deset sadnica.",
+        "Sadite deset sadnica!"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica „Posadili smo deset sadnica.“ govori o onome što je već obavljeno.",
+      "savjet": "Pronađi rečenicu koja govori o poslu koji je gotov."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-028",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica zvuči kao rečenica iz obavijesti?",
+      "ponudeni": [
+        "Kino-predstava bit će u četvrtak u 11 sati.",
+        "Na izletu je bilo zabavno.",
+        "Svi smo se jako umorili.",
+        "Posjetili smo muzej."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obavijest najavljuje događaj i kazuje kada će biti.",
+      "savjet": "Obavijest govori o onome što tek dolazi."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-029",
+      "tezina": "lagano",
+      "pitanje": "Što znači da je obavijest jasna?",
+      "ponudeni": [
+        "Napisana je sitnim slovima.",
+        "Ima puno teških riječi.",
+        "Duga je cijelu stranicu.",
+        "Svatko je lako razumije."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jasna obavijest je ona koju svatko lako i brzo razumije.",
+      "savjet": "Kad je nešto jasno, onda nije zbunjujuće."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-030",
+      "tezina": "lagano",
+      "pitanje": "Što treba sadržavati izvješće o istraživanju?",
+      "ponudeni": [
+        "Što bi se moglo dogoditi za sto godina",
+        "Kakvu kosu ima učitelj",
+        "Što je istraživanje pokazalo",
+        "Koja je tvoja omiljena pjesma"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izvješće o istraživanju kazuje što se radilo i koji je rezultat.",
+      "savjet": "Svako istraživanje ima neki ishod."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-031",
+      "tezina": "srednje",
+      "pitanje": "Obavijest: „Učenici 4. razreda organiziraju sajam kolača u školskom predvorju.“ Koji podatak nedostaje?",
+      "ponudeni": [
+        "Tko organizira sajam",
+        "Kada je sajam",
+        "Gdje je sajam",
+        "Što se organizira"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U obavijesti nema datuma ni sata pa nitko ne zna kada doći na sajam.",
+      "savjet": "Pronađi u obavijesti redom odgovore na tko, što, gdje i kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-032",
+      "tezina": "srednje",
+      "pitanje": "Obavijest: „Dramska skupina poziva vas na predstavu u petak, 15. svibnja, u 18 sati.“ Koji podatak nedostaje?",
+      "ponudeni": [
+        "Tko poziva",
+        "Na što poziva",
+        "Kada je predstava",
+        "Gdje je predstava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U obavijesti nije napisano mjesto pa nitko ne zna kamo treba doći.",
+      "savjet": "Provjeri za svako pitanje, tko, što, gdje i kada, piše li odgovor u obavijesti."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-033",
+      "tezina": "srednje",
+      "pitanje": "Obavijest: „Školski zbor održat će koncert u školskoj dvorani u 17 sati.“ Koji podatak nedostaje?",
+      "ponudeni": [
+        "Datum koncerta",
+        "Sat koncerta",
+        "Mjesto koncerta",
+        "Tko nastupa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sat je napisan, ali nedostaje dan, pa se ne zna kojeg je dana koncert.",
+      "savjet": "Pitanje kada ima dva dijela. Provjeri jesu li oba napisana."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-034",
+      "tezina": "srednje",
+      "pitanje": "Obavijest: „Sportsko natjecanje bit će 3. lipnja u 9 sati na školskom igralištu.“ Koji podatak nedostaje?",
+      "ponudeni": [
+        "Kada je natjecanje",
+        "Gdje je natjecanje",
+        "Tko organizira natjecanje",
+        "Što se održava"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Obavijest ne kazuje tko organizira natjecanje.",
+      "savjet": "Uz svaki od četiri podatka obavijesti potraži riječi u tekstu."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-035",
+      "tezina": "srednje",
+      "pitanje": "Obavijest: „Eko-grupa poziva na čišćenje parka. Akcija je u subotu, 9. svibnja, u 10 sati. Nađimo se kod fontane. Fontanu su obojili prošle godine.“ Koja je rečenica nebitna?",
+      "ponudeni": [
+        "Eko-grupa poziva na čišćenje parka.",
+        "Akcija je u subotu, 9. svibnja, u 10 sati.",
+        "Nađimo se kod fontane.",
+        "Fontanu su obojili prošle godine."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Podatak o bojenju fontane ne pomaže nikome da dođe na akciju pa je nebitan.",
+      "savjet": "Za svaku rečenicu zapitaj se odgovara li na tko, što, gdje ili kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-036",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica pripada izvješću o izletu?",
+      "ponudeni": [
+        "Na izlet idemo u utorak u 8 sati.",
+        "Na izletu smo posjetili stari mlin.",
+        "Ponesite kabanicu i užinu.",
+        "Polazak je ispred škole."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izvješće govori o onome što se već dogodilo, kao posjet starom mlinu.",
+      "savjet": "Izvješće se piše kad se izletnici već vrate kući."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-037",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica pripada obavijesti o izletu?",
+      "ponudeni": [
+        "Na izletu smo vidjeli srne.",
+        "Vratili smo se umorni, ali sretni.",
+        "Okupljanje je ispred škole u 7.30.",
+        "Ručali smo na livadi."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Obavijest kazuje gdje i kada se okupljamo prije izleta.",
+      "savjet": "Obavijest se čita prije izleta, a ne poslije njega."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-038",
+      "tezina": "srednje",
+      "pitanje": "Obavijest: „Knjižničarka poziva na radionicu izrade ukrasa u ponedjeljak u 13 sati u knjižnici.“ Koji dio odgovara na pitanje „gdje?“",
+      "ponudeni": [
+        "u knjižnici",
+        "knjižničarka",
+        "u ponedjeljak u 13 sati",
+        "radionica izrade ukrasa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mjesto radionice je knjižnica, a mjesto odgovara na pitanje gdje.",
+      "savjet": "Pitanje gdje traži mjesto, a ne osobu."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-039",
+      "tezina": "srednje",
+      "pitanje": "Rečenica iz obavijesti glasi: „Učenici će posaditi drveće.“ Kako će ta rečenica glasiti u izvješću?",
+      "ponudeni": [
+        "Učenici sade drveće.",
+        "Učenici će saditi drveće.",
+        "Učenici, posadite drveće!",
+        "Učenici su posadili drveće."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izvješće se piše u prošlom vremenu jer je posao već obavljen.",
+      "savjet": "Kad pišeš izvješće, sadnja je već gotova."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-040",
+      "tezina": "srednje",
+      "pitanje": "Iz koje je vrste teksta rečenica: „U subotu smo očistili obalu rijeke.“?",
+      "ponudeni": [
+        "Iz obavijesti",
+        "Iz izvješća",
+        "Iz opisa lika",
+        "Iz pjesme"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica govori o obavljenom poslu u prošlom vremenu pa pripada izvješću.",
+      "savjet": "Pogledaj u kojem je vremenu glagol."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-041",
+      "tezina": "srednje",
+      "pitanje": "Iz koje je vrste teksta rečenica: „Utakmica počinje u 16 sati na gradskom stadionu.“?",
+      "ponudeni": [
+        "Iz izvješća",
+        "Iz opisa lika",
+        "Iz obavijesti",
+        "Iz pjesme"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica kazuje kada i gdje počinje utakmica, kao u obavijesti.",
+      "savjet": "Rečenica govori gdje i kada treba doći."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-042",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica iz izvješća o akciji sadnje govori o rezultatu akcije?",
+      "ponudeni": [
+        "Akcija je počela u 9 sati.",
+        "Sudjelovali su učenici 4. razreda.",
+        "Okupili smo se kod škole.",
+        "Na kraju je u parku bilo dvadeset novih sadnica."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rezultat je ono što je nastalo akcijom, a to je dvadeset novih sadnica.",
+      "savjet": "Rezultat je ono što ostaje kad se posao završi."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-043",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica iz izvješća odgovara na pitanje tko je sudjelovao?",
+      "ponudeni": [
+        "U akciji su sudjelovali učenici i roditelji.",
+        "Akcija je trajala tri sata.",
+        "Održana je u gradskom parku.",
+        "Skupili smo deset vreća smeća."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica nabraja učenike i roditelje, a to su sudionici akcije.",
+      "savjet": "Pitanje tko traži ljude."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-044",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica iz izvješća kazuje kako je događaj protekao?",
+      "ponudeni": [
+        "Natjecanje je bilo u subotu.",
+        "Sve je proteklo veselo i bez problema.",
+        "Održano je u sportskoj dvorani.",
+        "Organizirao ga je sportski klub."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica opisuje kako je bilo na događaju, veselo i bez problema.",
+      "savjet": "Kako je nešto proteklo kazuju riječi koje govore je li bilo dobro ili loše."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-045",
+      "tezina": "srednje",
+      "pitanje": "Luka je u izvješće o izletu napisao: „Na izletu smo vidjeli pravog zmaja.“ Zašto ta rečenica ne pripada izvješću?",
+      "ponudeni": [
+        "Rečenica je preduga.",
+        "Napisana je u prošlom vremenu.",
+        "Izvješće mora biti točno, bez izmišljanja.",
+        "U rečenici nema datuma."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zmajevi ne postoje, a u izvješću se piše samo ono što se stvarno dogodilo.",
+      "savjet": "Razmisli je li se to moglo stvarno dogoditi."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-046",
+      "tezina": "srednje",
+      "pitanje": "Koja obavijest ima sva četiri bitna podatka: tko, što, gdje i kada?",
+      "ponudeni": [
+        "Zbor nastupa u petak u 18 sati.",
+        "Zbor nastupa u dvorani.",
+        "Koncert je u dvorani u petak u 18 sati.",
+        "Zbor nastupa u dvorani u petak u 18 sati."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Samo ta obavijest kazuje tko nastupa, što je, gdje i kada.",
+      "savjet": "Za svaku obavijest prebroji koliko od četiri podatka ima."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-047",
+      "tezina": "srednje",
+      "pitanje": "Koji je podatak nepotreban u obavijesti o školskom maskenbalu?",
+      "ponudeni": [
+        "Maskenbal je u utorak u 10 sati.",
+        "Održava se u školskoj dvorani.",
+        "Prošle godine padala je kiša.",
+        "Organizira ga Vijeće učenika."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijeme od prošle godine ne pomaže nikome da dođe na maskenbal.",
+      "savjet": "Nepotreban podatak ne odgovara ni na jedno od četiri pitanja obavijesti."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-048",
+      "tezina": "srednje",
+      "pitanje": "Gdje će obavijest o školskom sajmu vidjeti najviše učenika?",
+      "ponudeni": [
+        "Na oglasnoj ploči u predvorju",
+        "U ormaru u zbornici",
+        "U učiteljičinoj torbi",
+        "Ispod klupe u razredu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oglasna ploča u predvorju je na mjestu kuda prolaze svi učenici.",
+      "savjet": "Kuda svaki dan prolaze gotovo svi učenici škole?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-049",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica dolazi prva u izvješću o izletu?",
+      "ponudeni": [
+        "Navečer smo se umorni vratili kući.",
+        "Ujutro smo se okupili ispred škole.",
+        "Poslije ručka posjetili smo muzej.",
+        "Na povratku smo pjevali u autobusu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Događaji se pišu redom kako su se zbivali, a izlet počinje okupljanjem.",
+      "savjet": "Pronađi rečenicu koja govori o samom početku dana."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-050",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica dolazi posljednja u izvješću o posjetu kazalištu?",
+      "ponudeni": [
+        "Ujutro smo autobusom krenuli u grad.",
+        "Ispred kazališta dočekala nas je glumica.",
+        "Predstava je počela u 10 sati.",
+        "U školu smo se vratili u podne."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Povratak u školu dogodio se na kraju pa se piše posljednji.",
+      "savjet": "Posloži događaje redom kako su se dogodili."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-051",
+      "tezina": "srednje",
+      "pitanje": "Ivana piše obavijest o izložbi dječjih crteža u predvorju. Koji njezin podatak odgovara na pitanje „što?“",
+      "ponudeni": [
+        "U četvrtak u 12 sati",
+        "Izložba dječjih crteža",
+        "U školskom predvorju",
+        "Likovna skupina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na pitanje što odgovara naziv događaja, a to je izložba crteža.",
+      "savjet": "Pitanje što traži sam događaj."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-052",
+      "tezina": "srednje",
+      "pitanje": "Koja je obavijest kratka i jasna?",
+      "ponudeni": [
+        "Hej, možda bismo se mogli naći nekad, negdje, ako vam odgovara.",
+        "Sastanak je, mislim, nekad idući tjedan, ne znam točno gdje.",
+        "Eko-grupa ima sastanak u utorak u 13 sati u učionici 5.",
+        "Sastanak bi mogao biti u školi ili u parku, javit ćemo."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ta obavijest jasno kazuje tko, što, gdje i kada.",
+      "savjet": "Jasna obavijest ne ostavlja čitatelja da pogađa."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-053",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica ne pripada izvješću o izletu jer je izmišljena?",
+      "ponudeni": [
+        "Na izletu nas je pozdravio leteći konj.",
+        "Na izletu smo posjetili zoološki vrt.",
+        "Vodič nam je pokazao lavove.",
+        "Užinali smo kraj jezera."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Leteći konji ne postoje, a izvješće govori samo o onome što se stvarno dogodilo.",
+      "savjet": "Pronađi ono što se u stvarnosti ne može dogoditi."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-054",
+      "tezina": "srednje",
+      "pitanje": "Ana razredu usmeno izvješćuje o svojem istraživanju. Što treba reći?",
+      "ponudeni": [
+        "Kakvo će vrijeme biti sutra",
+        "Što bi voljela dobiti za rođendan",
+        "Kada će biti sljedeći sajam",
+        "Što je istraživala i što je otkrila"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izvješće o istraživanju kazuje što se radilo i koji je rezultat.",
+      "savjet": "Izvješće o istraživanju prikazuje obavljen posao."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-055",
+      "tezina": "srednje",
+      "pitanje": "Obavijest: „Učenici 4. razreda skupljaju stari papir od 4. do 8. svibnja.“ Koji podatak nedostaje?",
+      "ponudeni": [
+        "Kada je akcija",
+        "Gdje se papir donosi",
+        "Tko organizira akciju",
+        "Što se skuplja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obavijest ne kazuje mjesto pa se ne zna kamo treba donijeti papir.",
+      "savjet": "Provjeri redom tko, što, gdje i kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-056",
+      "tezina": "srednje",
+      "pitanje": "Rečenica iz obavijesti glasi: „Izlet će biti 12. svibnja.“ Kako glasi ta rečenica u izvješću?",
+      "ponudeni": [
+        "Izlet je 12. svibnja.",
+        "Izlet bi bio 12. svibnja.",
+        "Izlet je bio 12. svibnja.",
+        "Izlet će biti 12. svibnja."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U izvješću pišemo u prošlom vremenu jer je izlet već bio.",
+      "savjet": "Izvješće se piše nakon izleta."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-057",
+      "tezina": "srednje",
+      "pitanje": "Na koje pitanje odgovara rečenica iz izvješća: „Natjecanje je održano u gradskoj sportskoj dvorani.“?",
+      "ponudeni": [
+        "Gdje?",
+        "Kada?",
+        "Tko?",
+        "Kako je proteklo?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gradska sportska dvorana je mjesto natjecanja, a mjesto odgovara na pitanje gdje.",
+      "savjet": "Pogledaj o čemu govori dio rečenice nakon glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-058",
+      "tezina": "srednje",
+      "pitanje": "Na koje pitanje odgovara rečenica iz izvješća: „Utrka je održana u subotu, 16. svibnja.“?",
+      "ponudeni": [
+        "Tko?",
+        "Gdje?",
+        "Što je rezultat?",
+        "Kada?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dan i datum odgovaraju na pitanje kada je utrka bila.",
+      "savjet": "Pogledaj koji podatak stoji iza glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-059",
+      "tezina": "srednje",
+      "pitanje": "Koji naslov odgovara obavijesti?",
+      "ponudeni": [
+        "Kako smo proveli izlet",
+        "Moja baka",
+        "Poziv na školski sajam",
+        "Jesen u mojem gradu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Obavijest poziva na događaj koji tek dolazi, kao što je sajam.",
+      "savjet": "Obavijest najavljuje događaj."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-060",
+      "tezina": "srednje",
+      "pitanje": "Koji naslov odgovara izvješću?",
+      "ponudeni": [
+        "Kako smo čistili školsko dvorište",
+        "Poziv na čišćenje dvorišta",
+        "Pridružite se akciji!",
+        "Čišćenje je u subotu u 9 sati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Taj naslov govori o akciji koja je već obavljena, a o njoj se piše izvješće.",
+      "savjet": "Izvješće govori o poslu koji je već gotov."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-061",
+      "tezina": "tesko",
+      "pitanje": "Poredaj rečenice izvješća: A) Posadili smo 15 sadnica. B) Okupili smo se u 9 sati u parku. C) Na kraju smo sadnice zalili.",
+      "ponudeni": [
+        "A, B, C",
+        "C, B, A",
+        "B, A, C",
+        "A, C, B"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo smo se okupili, zatim sadili, a na kraju zalijevali sadnice.",
+      "savjet": "Pronađi što se dogodilo prije sadnje, a što poslije nje."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-062",
+      "tezina": "tesko",
+      "pitanje": "Obavijest: „Školski zbor poziva vas na koncert. Koncert je bio u petak u 18 sati u dvorani.“ Što u njoj treba ispraviti?",
+      "ponudeni": [
+        "Glagol „bio“ treba zamijeniti s „bit će“.",
+        "Treba izbaciti sat koncerta.",
+        "Treba dodati što su pjevali.",
+        "Treba izbaciti tko poziva."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obavijest najavljuje događaj koji tek dolazi pa ne smije biti u prošlom vremenu.",
+      "savjet": "Razmisli kojem vremenu pripada događaj o kojem obavještavamo."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-063",
+      "tezina": "tesko",
+      "pitanje": "Izvješće: „Jučer ćemo posjetiti zoološki vrt. Vidjet ćemo lavove i žirafe.“ Što treba ispraviti?",
+      "ponudeni": [
+        "Treba dodati izmišljene životinje.",
+        "Treba ga pisati u prošlom vremenu.",
+        "Treba izbaciti riječ „jučer“.",
+        "Treba ga pretvoriti u pjesmu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izvješće govori o onome što je bilo pa se piše u prošlom vremenu: posjetili smo, vidjeli smo.",
+      "savjet": "Riječ jučer i glagoli u tekstu ne slažu se. Što od toga pripada izvješću?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-064",
+      "tezina": "tesko",
+      "pitanje": "Koja je obavijest najbolja: ima sve bitne podatke i nijedan nebitan?",
+      "ponudeni": [
+        "Zbor pjeva u dvorani 5. lipnja. Dvorana je nova.",
+        "Koncert je u dvorani 5. lipnja u 18 sati. Dođite!",
+        "Zbor pjeva 5. lipnja u 18 sati. Bit će lijepo.",
+        "Zbor pjeva u dvorani 5. lipnja u 18 sati."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Samo ta obavijest kazuje tko, što, gdje i kada, a nema ništa suvišno.",
+      "savjet": "Kod svake obavijesti potraži podatak koji nedostaje i rečenicu koja je suvišna."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-065",
+      "tezina": "tesko",
+      "pitanje": "Obavijest: „Učenici 4. razreda sadit će cvijeće u školskom vrtu u petak u 10 sati.“ Koja rečenica točno izvješćuje o tom događaju?",
+      "ponudeni": [
+        "Učenici 4. razreda sadit će cvijeće u petak.",
+        "U petak su učenici 4. razreda posadili cvijeće u školskom vrtu.",
+        "U petak su učenici posadili drveće u parku.",
+        "Cvijeće je lijepo i mirisno."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ta rečenica je u prošlom vremenu i točno ponavlja podatke iz obavijesti.",
+      "savjet": "Izvješće mora biti u pravom vremenu i s točnim podatcima."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-066",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica nebitna u izvješću o natjecanju?",
+      "ponudeni": [
+        "Natjecanje je održano u subotu u gradskoj dvorani.",
+        "Sudjelovalo je šest škola.",
+        "Naša je ekipa osvojila drugo mjesto.",
+        "Jedna djevojčica imala je crvene tenisice."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Boja tenisica ne govori ništa o tome kako je natjecanje proteklo pa je nebitna.",
+      "savjet": "Bitne rečenice odgovaraju na kada, gdje, tko je sudjelovao i kakav je rezultat."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-067",
+      "tezina": "tesko",
+      "pitanje": "Koji podatak ima izvješće, a ne može ga imati obavijest?",
+      "ponudeni": [
+        "Gdje je događaj",
+        "Kada je događaj",
+        "Kako je događaj protekao",
+        "Tko organizira događaj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Obavijest se piše prije događaja pa još nitko ne zna kako će proteći.",
+      "savjet": "Sjeti se kada se piše obavijest, a kada izvješće."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-068",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica traži kratko izvješće o posjetu knjižnici. Koja je rečenica najbolji početak?",
+      "ponudeni": [
+        "U utorak, 10. ožujka, naš je razred posjetio gradsku knjižnicu.",
+        "Jednom davno u dalekoj knjižnici živio je zmaj.",
+        "U utorak ćemo posjetiti gradsku knjižnicu.",
+        "Knjižnice su lijepe i volim čitati."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dobar početak izvješća kazuje kada, tko i kamo, u prošlom vremenu i bez izmišljanja.",
+      "savjet": "Početak izvješća uvodi čitatelja u ono što se stvarno dogodilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-069",
+      "tezina": "tesko",
+      "pitanje": "Kada se piše obavijest, a kada izvješće?",
+      "ponudeni": [
+        "Obavijest poslije događaja, izvješće prije",
+        "Obje se pišu prije događaja",
+        "Obje se pišu poslije događaja",
+        "Obavijest prije događaja, izvješće poslije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Obavijest najavljuje događaj, a izvješće izvještava o onome što je bilo.",
+      "savjet": "Razmisli koji od tih tekstova poziva ljude, a koji prikazuje obavljeno."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-070",
+      "tezina": "tesko",
+      "pitanje": "Ana je pročitala obavijest: „Dramska skupina poziva na predstavu u kino-dvorani u petak, 29. svibnja.“ Što Ana ne zna pa može zakasniti?",
+      "ponudeni": [
+        "Tko izvodi predstavu",
+        "Gdje je predstava",
+        "U koliko sati predstava počinje",
+        "Kojeg je dana predstava"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dan je napisan, ali sat nije, pa Ana ne zna kada točno treba doći.",
+      "savjet": "Usporedi što je sve napisano uz pitanje kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-071",
+      "tezina": "tesko",
+      "pitanje": "Koji podatak o školskom sajmu možeš napisati tek nakon sajma?",
+      "ponudeni": [
+        "Koliko je ljudi došlo na sajam",
+        "Gdje će se sajam održati",
+        "Kada sajam počinje",
+        "Tko organizira sajam"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Broj posjetitelja zna se tek kad sajam završi pa taj podatak pripada izvješću.",
+      "savjet": "Sjeti se što izvješće može imati, a obavijest ne može."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-072",
+      "tezina": "tesko",
+      "pitanje": "Učenici su tjedan dana mjerili temperaturu zraka. Koja rečenica iz njihova izvješća kazuje rezultat?",
+      "ponudeni": [
+        "Mjerili smo svako jutro u 8 sati.",
+        "Najtoplije je bilo u četvrtak.",
+        "Termometar smo stavili na prozor.",
+        "Istraživanje je trajalo tjedan dana."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rezultat je ono što su učenici mjerenjem otkrili, a to je najtopliji dan.",
+      "savjet": "Razlikuj kako se radilo od onoga što se otkrilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-073",
+      "tezina": "tesko",
+      "pitanje": "Izvješće: „Brodom smo plovili do otoka. Vidjeli smo dupine. Jedan dupin pričao nam je o moru. Vratili smo se u 17 sati.“ Koju rečenicu treba izbaciti?",
+      "ponudeni": [
+        "Brodom smo plovili do otoka.",
+        "Vidjeli smo dupine.",
+        "Vratili smo se u 17 sati.",
+        "Jedan dupin pričao nam je o moru."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dupini ne govore, a izvješće mora biti točno i bez izmišljanja.",
+      "savjet": "Potraži rečenicu koja se u stvarnosti ne može dogoditi."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-074",
+      "tezina": "tesko",
+      "pitanje": "Obavijest: „Vijeće učenika poziva na maskenbal u školskoj dvorani u utorak, 17. veljače, u 10 sati. Lani je pobijedio gusar.“ Kako je treba popraviti?",
+      "ponudeni": [
+        "Dodati gdje je maskenbal",
+        "Izbaciti rečenicu o gusaru",
+        "Dodati tko organizira",
+        "Dodati sat početka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obavijest ima sve bitne podatke, ali rečenica o gusaru je nebitna.",
+      "savjet": "Najprije provjeri ima li sva četiri bitna podatka, a onda potraži suvišno."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-075",
+      "tezina": "tesko",
+      "pitanje": "Što je dobro učiniti prije pisanja izvješća o izletu?",
+      "ponudeni": [
+        "Izmisliti nekoliko zanimljivih događaja",
+        "Napisati pozivnicu za izlet",
+        "Prisjetiti se što se događalo i kojim redom",
+        "Smisliti rimu za svaki dio"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izvješće je točno i ide redom kako se događalo pa se toga treba najprije prisjetiti.",
+      "savjet": "Sjeti se dvaju pravila izvješća: točnost i redoslijed."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-076",
+      "tezina": "tesko",
+      "pitanje": "Obavijest: „Izlet u Plitvice bit će u srijedu, 13. svibnja. Polazak je ispred škole.“ Koji podatak treba dodati da učenici ne zakasne?",
+      "ponudeni": [
+        "Sat polaska",
+        "Mjesto polaska",
+        "Kamo se ide",
+        "Datum izleta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bez sata polaska učenici ne znaju kada točno trebaju biti ispred škole.",
+      "savjet": "Pogledaj koji je dio odgovora na pitanje kada napisan, a koji nije."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-077",
+      "tezina": "tesko",
+      "pitanje": "Marko je napisao izvješće: „Bio je izlet. Bilo je lijepo.“ Što mu najviše nedostaje?",
+      "ponudeni": [
+        "Više rima",
+        "Izmišljeni likovi",
+        "Pozdrav i potpis",
+        "Kada, gdje i što se radilo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izvješće treba kazati kada i gdje je bio događaj i što se radilo.",
+      "savjet": "Sjeti se na koja pitanja odgovara dobro izvješće."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-078",
+      "tezina": "tesko",
+      "pitanje": "Koji je plan dobar za izvješće o akciji sadnje?",
+      "ponudeni": [
+        "izgled → ponašanje → osobine",
+        "kada i gdje → što smo radili → rezultat",
+        "oslovljavanje → sadržaj → potpis",
+        "poziv → sat → mjesto"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izvješće kazuje kada i gdje se nešto radilo, što se radilo redom i kakav je rezultat.",
+      "savjet": "Sjeti se na koja pitanja odgovara izvješće o obavljenom poslu."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-079",
+      "tezina": "tesko",
+      "pitanje": "Koje natuknice trebaš pripremiti da napišeš obavijest?",
+      "ponudeni": [
+        "izgled, ponašanje, govor, osobine",
+        "uvod, razrada, zaključak",
+        "organizator, događaj, mjesto, datum i sat",
+        "mjesto i datum, oslovljavanje, pozdrav"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Te natuknice odgovaraju na pitanja tko, što, gdje i kada.",
+      "savjet": "Sjeti se četiri pitanja na koja odgovara svaka obavijest."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-080",
+      "tezina": "tesko",
+      "pitanje": "Izvješće: „Okupili smo se u 8 sati. Autobus je krenuo u 8.15. Stići ćemo u muzej u 10 sati. Vodič nam je pokazao stare novce.“ Koja rečenica nije dobro napisana?",
+      "ponudeni": [
+        "Okupili smo se u 8 sati.",
+        "Autobus je krenuo u 8.15.",
+        "Vodič nam je pokazao stare novce.",
+        "Stići ćemo u muzej u 10 sati."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ta je rečenica u budućem vremenu, a izvješće se piše u prošlom: stigli smo.",
+      "savjet": "Provjeri glagolsko vrijeme u svakoj rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-081",
+      "tezina": "tesko",
+      "pitanje": "Ema je jučer bila na sajmu i o njemu piše za školski list. Što piše i u kojem vremenu?",
+      "ponudeni": [
+        "Izvješće, u prošlom vremenu",
+        "Obavijest, u budućem vremenu",
+        "Izvješće, u budućem vremenu",
+        "Obavijest, u prošlom vremenu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sajam je već bio pa Ema piše izvješće, i to u prošlom vremenu.",
+      "savjet": "Odredi najprije je li sajam već prošao ili tek dolazi."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-082",
+      "tezina": "tesko",
+      "pitanje": "Razred priprema sajam za idući mjesec. Koja je rečenica dobra za njihovu obavijest?",
+      "ponudeni": [
+        "Sajam se održao 20. svibnja u 10 sati.",
+        "Sajam će se održati 20. svibnja u 10 sati.",
+        "Na sajmu smo prodali sve kolače.",
+        "Sajam je bio vrlo uspješan."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sajam tek dolazi pa obavijest govori o budućnosti i kazuje kada će biti.",
+      "savjet": "Obavijest se piše prije sajma. Koja rečenica to poštuje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-083",
+      "tezina": "tesko",
+      "pitanje": "Obavijest: „Planinarsko društvo poziva na izlet na Sljeme u nedjelju, 10. svibnja. Sljeme je lijepo.“ Kako je treba popraviti?",
+      "ponudeni": [
+        "Dodati još rečenica o ljepoti Sljemena",
+        "Izbaciti datum i dodati opis šume",
+        "Izbaciti drugu rečenicu i dodati sat polaska",
+        "Prepisati je u prošlom vremenu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica o ljepoti Sljemena je nebitna, a nedostaje sat polaska.",
+      "savjet": "Potraži jedan nebitan podatak i jedan podatak koji nedostaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-084",
+      "tezina": "tesko",
+      "pitanje": "Poredaj rečenice izvješća: A) Vratili smo se kući. B) Razgledali smo dvorac. C) Krenuli smo autobusom. D) Nakon razgledanja ručali smo u parku.",
+      "ponudeni": [
+        "B, C, D, A",
+        "C, D, B, A",
+        "A, B, C, D",
+        "C, B, D, A"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najprije smo krenuli, zatim razgledali dvorac, poslije ručali, a na kraju se vratili.",
+      "savjet": "Pronađi prvi i posljednji događaj, a za srednje pazi na riječ nakon."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-085",
+      "tezina": "tesko",
+      "pitanje": "Priredba tek dolazi, a rečenica glasi: „Učenici 4. b održali su priredbu u dvorani u petak u 17 sati.“ Kako treba glasiti u obavijesti?",
+      "ponudeni": [
+        "Učenici 4. b održat će priredbu u dvorani u petak u 17 sati.",
+        "Učenici 4. b održavali su priredbu u dvorani u petak u 17 sati.",
+        "Priredba je bila u dvorani u petak u 17 sati.",
+        "Učenici 4. b bili su na priredbi u dvorani u petak."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obavijest najavljuje priredbu pa glagol mora biti u budućem vremenu.",
+      "savjet": "Obavijest govori o onome što će tek biti."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-086",
+      "tezina": "tesko",
+      "pitanje": "Luka razredu ukratko izvješćuje o posjetu vatrogasnoj postaji. Koja je rečenica najbolja za njegovo izvješće?",
+      "ponudeni": [
+        "Vatrogasci su hrabri i jednom ću i ja biti vatrogasac.",
+        "U ponedjeljak smo posjetili vatrogasce i vidjeli njihovu opremu.",
+        "U ponedjeljak ćemo posjetiti vatrogasce u njihovoj postaji.",
+        "Vatrogasna kola su crvena i imaju glasnu sirenu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ta rečenica kazuje kada je posjet bio i što se radilo, u prošlom vremenu.",
+      "savjet": "Izvješće prikazuje što se radilo i kada, a ne želje ni opis stvari."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-087",
+      "tezina": "tesko",
+      "pitanje": "Poruka: „Bok svima! Ja sam Iva i jako volim knjige. Razred 4. a u srijedu, 20. svibnja, u 12 sati u knjižnici predstavlja svoje slikovnice.“ Koje su natuknice bitne za obavijest?",
+      "ponudeni": [
+        "Iva, voli knjige, knjižnica, srijeda",
+        "Bok svima, Iva, knjige, slikovnice",
+        "4. a, Iva, voli knjige, srijeda",
+        "4. a, slikovnice, knjižnica, 20. svibnja u 12 sati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Te natuknice odgovaraju na tko, što, gdje i kada, a Ivina ljubav prema knjigama nije bitna.",
+      "savjet": "Izdvoji samo ono što odgovara na četiri pitanja obavijesti."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-088",
+      "tezina": "tesko",
+      "pitanje": "Koje je kratko izvješće o akciji čišćenja najbolje?",
+      "ponudeni": [
+        "U subotu ćemo očistiti park i skupiti puno smeća.",
+        "Park je zelen i u njemu rastu stara stabla.",
+        "U subotu smo očistili park i skupili deset vreća smeća.",
+        "Čistilo se nekad, negdje, i bilo je dosta smeća."
+      ],
+      "tocan": 2,
+      "objasnjenje": "To izvješće je u prošlom vremenu, kazuje kada se radilo, što se radilo i rezultat.",
+      "savjet": "Dobro izvješće je točno, jasno i govori o obavljenom poslu."
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-089",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica ne pripada izvješću o izletu?",
+      "ponudeni": [
+        "Ponesite kabanicu i užinu!",
+        "Krenuli smo u 8 sati.",
+        "Posjetili smo špilju.",
+        "Kući smo stigli navečer."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ta rečenica upućuje što ponijeti prije izleta pa pripada obavijesti, a ne izvješću.",
+      "savjet": "Izvješće se piše nakon izleta. Koja rečenica ima smisla samo prije njega?"
+    },
+    {
+      "id": "4-hrvatski-jezik-obavijest-i-izvjesce-090",
+      "tezina": "tesko",
+      "pitanje": "Na koja pitanja odgovara obavijest: „Susret s piscem bit će u četvrtak u 11 sati.“?",
+      "ponudeni": [
+        "Tko i gdje",
+        "Što i kada",
+        "Tko, što i kada",
+        "Što, gdje i kada"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obavijest kazuje što će biti i kada, ali ne kazuje tko poziva ni gdje je susret.",
+      "savjet": "Za svako od četiri pitanja potraži odgovor u rečenici."
+    }
+  ]
+}

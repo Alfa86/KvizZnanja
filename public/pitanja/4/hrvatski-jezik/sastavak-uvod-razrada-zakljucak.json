@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "sastavak-uvod-razrada-zakljucak",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko dijelova ima sastavak?",
+      "ponudeni": [
+        "Dva dijela",
+        "Četiri dijela",
+        "Tri dijela",
+        "Pet dijelova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sastavak ima tri dijela: uvod, razradu i zaključak.",
+      "savjet": "Sjeti se kako se zove svaki dio sastavka i prebroji ih."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove prvi dio sastavka?",
+      "ponudeni": [
+        "Uvod",
+        "Zaključak",
+        "Razrada",
+        "Vrhunac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sastavak počinje uvodom, koji čitatelja uvodi u temu.",
+      "savjet": "Prisjeti se redoslijeda dijelova u planu pripovijedanja."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove završni dio sastavka?",
+      "ponudeni": [
+        "Uvod",
+        "Razrada",
+        "Glavni dio",
+        "Zaključak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sastavak završava zaključkom, u kojem saznajemo kraj događaja i dojam.",
+      "savjet": "Razmisli kako se zove dio u kojem priča dolazi do kraja."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se još naziva razrada sastavka?",
+      "ponudeni": [
+        "Uvod",
+        "Glavni dio",
+        "Zaključak",
+        "Naslov"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razrada se naziva i glavni dio jer se u njoj pripovijedaju najvažniji događaji.",
+      "savjet": "Taj drugi naziv govori koliko je taj dio sastavka važan."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-005",
+      "tezina": "lagano",
+      "pitanje": "Koji je dio sastavka najduži?",
+      "ponudeni": [
+        "Uvod",
+        "Razrada",
+        "Zaključak",
+        "Naslov"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razrada je najduži dio jer se u njoj redom pripovijedaju svi važni događaji.",
+      "savjet": "Razmisli u kojem se dijelu pripovijeda najviše događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-006",
+      "tezina": "lagano",
+      "pitanje": "Što kazuje naslov sastavka?",
+      "ponudeni": [
+        "Kraj događaja",
+        "Ime autora",
+        "Broj odlomaka",
+        "Temu sastavka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Naslov u nekoliko riječi kazuje o čemu se u sastavku piše, tj. temu.",
+      "savjet": "Naslov čitatelju prvi otkriva o čemu ćeš pisati."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-007",
+      "tezina": "lagano",
+      "pitanje": "U kojem dijelu sastavka kratko saznajemo tko sudjeluje u događaju, gdje i kada?",
+      "ponudeni": [
+        "U uvodu",
+        "U razradi",
+        "U zaključku",
+        "U naslovu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uvod kratko kazuje tko sudjeluje u događaju, gdje se i kada zbio.",
+      "savjet": "To su podaci koje čitatelj treba znati prije nego što priča krene."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-008",
+      "tezina": "lagano",
+      "pitanje": "U kojem se dijelu sastavka pripovijedaju najvažniji događaji?",
+      "ponudeni": [
+        "U uvodu",
+        "U naslovu",
+        "U razradi",
+        "U zaključku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najvažniji događaji pripovijedaju se u razradi, glavnom dijelu sastavka.",
+      "savjet": "Traži dio koji je najduži i u kojem se najviše toga dogodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-009",
+      "tezina": "lagano",
+      "pitanje": "U kojem dijelu sastavka iznosimo dojam, misao ili pouku?",
+      "ponudeni": [
+        "U uvodu",
+        "U naslovu",
+        "U razradi",
+        "U zaključku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dojam, misao ili pouku iznosimo u zaključku, kad je događaj završio.",
+      "savjet": "Dojam i pouku iznosimo tek kad je događaj već završio."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-010",
+      "tezina": "lagano",
+      "pitanje": "Što je vrhunac priče?",
+      "ponudeni": [
+        "Prva rečenica sastavka",
+        "Naslov priče",
+        "Najnapetiji trenutak događaja",
+        "Popis likova u priči"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrhunac je najnapetiji i najzanimljiviji trenutak događaja, a nalazi se u razradi.",
+      "savjet": "Vrhunac se nalazi u glavnom dijelu, kad je priča najzanimljivija."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-011",
+      "tezina": "lagano",
+      "pitanje": "Čime počinje svaki dio sastavka?",
+      "ponudeni": [
+        "Upitnikom",
+        "Novim odlomkom",
+        "Novim naslovom",
+        "Crtežom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uvod, razrada i zaključak počinju novim odlomkom, u novom redu.",
+      "savjet": "Sjeti se kako se u tekstu vidi gdje završava jedan dio, a počinje drugi."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-012",
+      "tezina": "lagano",
+      "pitanje": "Što je plan pripovijedanja?",
+      "ponudeni": [
+        "Kratke natuknice o tome što ćemo pisati",
+        "Zadnja rečenica sastavka",
+        "Naslov priče",
+        "Popis pravopisnih pravila"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plan pripovijedanja čine kratke natuknice za uvod, razradu i zaključak.",
+      "savjet": "Plan pomaže da posložiš misli o onome što ćeš ispripovijedati."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-013",
+      "tezina": "lagano",
+      "pitanje": "Kada pišemo plan pripovijedanja?",
+      "ponudeni": [
+        "Prije pisanja sastavka",
+        "Nakon zaključka",
+        "Dok pišemo naslov",
+        "Nakon što učitelj pregleda sastavak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plan pišemo prije pisanja da znamo što ćemo pisati u kojem dijelu.",
+      "savjet": "Plan je kao karta koju pogledaš prije nego što kreneš na put."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-014",
+      "tezina": "lagano",
+      "pitanje": "Kojim redom dolaze dijelovi sastavka?",
+      "ponudeni": [
+        "Razrada, uvod, zaključak",
+        "Uvod, razrada, zaključak",
+        "Zaključak, uvod, razrada",
+        "Uvod, zaključak, razrada"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sastavak počinje uvodom, nastavlja se razradom i završava zaključkom.",
+      "savjet": "Razmisli kako priča počinje, kako se razvija i kako završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-015",
+      "tezina": "lagano",
+      "pitanje": "Kojim se redom pripovijedaju događaji u razradi?",
+      "ponudeni": [
+        "Od najkraćega do najduljega",
+        "Abecednim redom",
+        "Bez ikakva reda",
+        "Redom kako su se dogodili"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Događaje pripovijedamo vremenskim redoslijedom, kako su se dogodili jedan za drugim.",
+      "savjet": "Čitatelj najlakše prati priču koja teče kao sat."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-016",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove događaj koji smo sami doživjeli?",
+      "ponudeni": [
+        "Zamišljeni događaj",
+        "Izmišljeni događaj",
+        "Stvarni događaj",
+        "Bajkoviti događaj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Događaj koji smo doživjeli je stvarni događaj.",
+      "savjet": "Razmisli razlikuje li se doživljeno od onoga što smo smislili u mašti."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove događaj koji smo smislili u mašti?",
+      "ponudeni": [
+        "Stvarni događaj",
+        "Doživljeni događaj",
+        "Zamišljeni događaj",
+        "Istiniti događaj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Događaj koji smo izmislili je zamišljeni događaj.",
+      "savjet": "Taj se događaj nije zbio, nego postoji samo u našim mislima."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-018",
+      "tezina": "lagano",
+      "pitanje": "Što pišemo iznad sastavka, prije uvoda?",
+      "ponudeni": [
+        "Zaključak",
+        "Potpis",
+        "Pouku",
+        "Naslov"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iznad sastavka pišemo naslov, koji kazuje temu.",
+      "savjet": "Taj kratki dio kazuje temu i stoji na samom vrhu."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-019",
+      "tezina": "lagano",
+      "pitanje": "U kojem se dijelu sastavka nalazi vrhunac?",
+      "ponudeni": [
+        "U razradi",
+        "U uvodu",
+        "U naslovu",
+        "U zaključku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrhunac je najnapetiji trenutak događaja i nalazi se u razradi.",
+      "savjet": "Napetost raste dok se događaji nižu jedan za drugim."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-020",
+      "tezina": "lagano",
+      "pitanje": "Što pišemo u zaključku?",
+      "ponudeni": [
+        "Tko sudjeluje u događaju",
+        "Kako je događaj završio i kakav je dojam",
+        "Gdje se događaj zbio",
+        "Kada je događaj počeo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U zaključku pišemo kraj događaja i dojam, misao ili pouku.",
+      "savjet": "Zaključak dolazi na samom kraju sastavka."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-021",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pripada uvodu?",
+      "ponudeni": [
+        "Kako je sve završilo",
+        "Kada i gdje se događaj zbio",
+        "Što smo naučili iz događaja",
+        "Najnapetiji trenutak priče"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uvod kratko kazuje tko sudjeluje, gdje se i kada događaj zbio.",
+      "savjet": "Uvod čitatelju daje kratke podatke da se snađe u priči."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-022",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pripada zaključku?",
+      "ponudeni": [
+        "Misao ili pouka o događaju",
+        "Gdje se događaj zbio",
+        "Tko su likovi priče",
+        "Prvi događaj u priči"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zaključku iznosimo dojam, misao ili pouku o događaju.",
+      "savjet": "Razmisli o čemu pišemo kad je priča već gotova."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-023",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pripada razradi?",
+      "ponudeni": [
+        "Naslov sastavka",
+        "Dojam o događaju",
+        "Događaji redom kako su se zbili",
+        "Kada se sve dogodilo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U razradi redom pripovijedamo događaje kako su se zbili.",
+      "savjet": "Razrada je glavni dio u kojem se priča odvija."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-024",
+      "tezina": "lagano",
+      "pitanje": "Kakav treba biti uvod sastavka?",
+      "ponudeni": [
+        "Najduži dio sastavka",
+        "Bez podataka o likovima",
+        "Jednak zaključku",
+        "Kratak i jasan"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uvod je kratak: samo uvodi u temu i kazuje tko, gdje i kada.",
+      "savjet": "Uvod samo otvara priču, a događaji dolaze poslije."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-025",
+      "tezina": "lagano",
+      "pitanje": "Što pomaže da sastavak bude dobro posložen?",
+      "ponudeni": [
+        "Što duži naslov",
+        "Pisanje bez odlomaka",
+        "Preskakanje uvoda",
+        "Plan pripovijedanja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Plan pripovijedanja pomaže da unaprijed znamo što ide u uvod, razradu i zaključak.",
+      "savjet": "Razmisli što možeš napraviti prije nego što počneš pisati."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-026",
+      "tezina": "lagano",
+      "pitanje": "Kako se u tekstu vidi da počinje novi odlomak?",
+      "ponudeni": [
+        "Rečenica završava upitnikom",
+        "Tekst kreće u novom redu",
+        "Sva su slova velika",
+        "Tekst je podcrtan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Novi odlomak počinje u novom redu, uvučen ili odvojen razmakom.",
+      "savjet": "Pogledaj kako izgleda stranica u tvojoj čitanci kad počinje novi dio teksta."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-027",
+      "tezina": "lagano",
+      "pitanje": "Pišeš sastavak o izletu. U kojem ćeš dijelu napisati kamo je razred išao i kojeg dana?",
+      "ponudeni": [
+        "U zaključku",
+        "U naslovu",
+        "U uvodu",
+        "U razradi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mjesto i vrijeme događaja kratko kazujemo u uvodu.",
+      "savjet": "Kamo i kada su podaci koje čitatelj treba znati na početku."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-028",
+      "tezina": "lagano",
+      "pitanje": "U kojem dijelu sastavka o rođendanu pišeš kakav je dojam na tebe ostavio cijeli dan?",
+      "ponudeni": [
+        "U zaključku",
+        "U uvodu",
+        "U razradi",
+        "U naslovu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dojam o cijelom događaju iznosimo u zaključku.",
+      "savjet": "O cijelom danu možeš suditi tek kad je dan prošao."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-029",
+      "tezina": "lagano",
+      "pitanje": "Što je razrada?",
+      "ponudeni": [
+        "Glavni dio sastavka s najvažnijim događajima",
+        "Prva rečenica sastavka",
+        "Popis likova i mjesta",
+        "Naslov i potpis"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razrada je glavni i najduži dio sastavka u kojem se pripovijedaju najvažniji događaji.",
+      "savjet": "Razrada se nalazi između uvoda i zaključka."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-030",
+      "tezina": "lagano",
+      "pitanje": "Na koja pitanja kratko odgovara uvod?",
+      "ponudeni": [
+        "Kako je sve završilo?",
+        "Što smo naučili?",
+        "Tko, gdje i kada?",
+        "Koji je bio vrhunac?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uvod kratko kazuje tko sudjeluje u događaju, gdje se i kada zbio.",
+      "savjet": "Razmisli što čitatelj mora znati prije nego što priča počne."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-031",
+      "tezina": "srednje",
+      "pitanje": "„Bilo je subotnje jutro kad smo Ana i ja krenuli na rijeku.“ U kojem dijelu sastavka stoji ta rečenica?",
+      "ponudeni": [
+        "U zaključku",
+        "U uvodu",
+        "U razradi",
+        "U naslovu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica kazuje kada je bilo, tko sudjeluje i kamo idu, pa pripada uvodu.",
+      "savjet": "Pogledaj sadrži li rečenica podatke o vremenu, mjestu i likovima."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-032",
+      "tezina": "srednje",
+      "pitanje": "„Od tog dana uvijek pažljivo prelazim cestu.“ U kojem dijelu sastavka stoji ta rečenica?",
+      "ponudeni": [
+        "U uvodu",
+        "U naslovu",
+        "U razradi",
+        "U zaključku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica iznosi pouku nakon događaja, pa pripada zaključku.",
+      "savjet": "Razmisli kaže li rečenica što se dogodilo ili što je netko naučio iz događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-033",
+      "tezina": "srednje",
+      "pitanje": "„Odjednom se pas otrgnuo s uzice i potrčao prema jezeru.“ U kojem dijelu sastavka stoji ta rečenica?",
+      "ponudeni": [
+        "U razradi",
+        "U uvodu",
+        "U zaključku",
+        "U naslovu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica pripovijeda napet događaj usred priče, pa pripada razradi.",
+      "savjet": "Razmisli je li to podatak o mjestu i vremenu, dio radnje ili misao o kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-034",
+      "tezina": "srednje",
+      "pitanje": "„Bio je to najljepši izlet u mom životu.“ U kojem dijelu sastavka stoji ta rečenica?",
+      "ponudeni": [
+        "U uvodu",
+        "U razradi",
+        "U zaključku",
+        "U naslovu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica iznosi dojam o cijelom izletu, pa pripada zaključku.",
+      "savjet": "Rečenica govori o dojmu koji je događaj ostavio."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-035",
+      "tezina": "srednje",
+      "pitanje": "Koji je naslov najbolji za sastavak o tome kako je razred posadio drvo ispred škole?",
+      "ponudeni": [
+        "Moja škola",
+        "Jedan dan",
+        "Sadnja drveta ispred škole",
+        "Zima u gradu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dobar naslov kazuje temu sastavka, a tema je sadnja drveta.",
+      "savjet": "Dobar naslov čitatelju jasno kaže o čemu je sastavak."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-036",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica može biti uvod sastavka „Izgubljeni ključ“?",
+      "ponudeni": [
+        "„Prošlog utorka vratila sam se iz škole i otkrila da nemam ključ.“",
+        "„Ključ se našao pod otiračem i svi smo se nasmijali.“",
+        "„Pretražila sam torbu, džepove i cijelo dvorište.“",
+        "„Otada ključ nosim oko vrata.“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ta rečenica kazuje kada je bilo i kome se što dogodilo, pa uvodi u događaj.",
+      "savjet": "Potraži rečenicu koja čitatelja tek uvodi u događaj."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-037",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica može biti zaključak sastavka „Prvi put na klizalištu“?",
+      "ponudeni": [
+        "„Bilo je hladno prosinačko poslijepodne.“",
+        "„Sad se veselim svakom odlasku na klizalište.“",
+        "„Na ledu sam se poskliznuo i pao.“",
+        "„Tata mi je pružio ruku i pomogao mi ustati.“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ta rečenica iznosi dojam nakon događaja, pa je dobar zaključak.",
+      "savjet": "Zaključak donosi dojam ili misao nakon događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-038",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica pripada razradi sastavka „Rođendan iznenađenja“?",
+      "ponudeni": [
+        "„Bila je subota, dan moga rođendana.“",
+        "„Taj rođendan nikad neću zaboraviti.“",
+        "„Imam najbolje prijatelje na svijetu.“",
+        "„Kad sam otvorila vrata, svi su iskočili i zapjevali.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ta rečenica pripovijeda događaj, i to iznenađenje, pa pripada razradi.",
+      "savjet": "Razrada pripovijeda što se dogodilo, korak po korak."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-039",
+      "tezina": "srednje",
+      "pitanje": "Plan sastavka „Izlet na Medvednicu“: 1. okupljanje ispred škole, 2. šetnja do vrha i ručak, 3. ? Koja rečenica pripada trećoj točki?",
+      "ponudeni": [
+        "„Umorni, ali sretni vratili smo se kući.“",
+        "„Ujutro smo se okupili ispred škole.“",
+        "„Na vrhu smo jeli sendviče.“",
+        "„Autobus je krenuo u 8 sati.“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Treća točka je zaključak, a ta rečenica kazuje kraj izleta i dojam.",
+      "savjet": "Treća točka plana je zadnji dio sastavka."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-040",
+      "tezina": "srednje",
+      "pitanje": "Luka je napisao naslov, uvod i zaključak. Koji dio nedostaje njegovu sastavku?",
+      "ponudeni": [
+        "Plan",
+        "Potpis",
+        "Datum",
+        "Razrada"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sastavak ima uvod, razradu i zaključak, pa Luki nedostaje razrada.",
+      "savjet": "Nabroji tri dijela sastavka i provjeri koji Luka nije napisao."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-041",
+      "tezina": "srednje",
+      "pitanje": "„Kiša je počela padati baš kad smo stigli na vrh brda.“ U kojem dijelu sastavka stoji ta rečenica?",
+      "ponudeni": [
+        "U uvodu",
+        "U naslovu",
+        "U zaključku",
+        "U razradi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica pripovijeda događaj koji se zbio usred izleta, pa pripada razradi.",
+      "savjet": "Razmisli je li riječ o početku, o nečemu što se dogodilo usput ili o kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-042",
+      "tezina": "srednje",
+      "pitanje": "„Ovoga ljeta moja je obitelj boravila kod bake na otoku.“ U kojem dijelu sastavka stoji ta rečenica?",
+      "ponudeni": [
+        "U uvodu",
+        "U razradi",
+        "U zaključku",
+        "U naslovu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica kazuje tko, gdje i kada, pa pripada uvodu.",
+      "savjet": "Provjeri na koja pitanja odgovara ta rečenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-043",
+      "tezina": "srednje",
+      "pitanje": "Koja natuknica plana sastavka „Ribolov s djedom“ pripada uvodu?",
+      "ponudeni": [
+        "riba trgne štap",
+        "Nina i djed, jutro, rijeka",
+        "riba pobjegne u vodu",
+        "važnije je druženje od ulova"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Natuknica kazuje tko sudjeluje, kada i gdje, pa pripada uvodu.",
+      "savjet": "Uvodna natuknica predstavlja likove, vrijeme i mjesto."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-044",
+      "tezina": "srednje",
+      "pitanje": "Koja natuknica plana sastavka „Moj prvi nastup“ pripada zaključku?",
+      "ponudeni": [
+        "dvorana, petak navečer",
+        "trema prije nastupa",
+        "ponos i želja za novim nastupom",
+        "pjevam pred publikom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Natuknica iznosi dojam nakon nastupa, pa pripada zaključku.",
+      "savjet": "Zaključak iznosi dojam kad je događaj gotov."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-045",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ovih događaja zamišljen?",
+      "ponudeni": [
+        "Let na leđima zmaja",
+        "Izlet u zoološki vrt",
+        "Rođendan kod prijatelja",
+        "Prvi dan u školi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Let na zmaju ne može se doživjeti, nego samo zamisliti.",
+      "savjet": "Potraži događaj koji se ne bi mogao dogoditi u stvarnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-046",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ovih događaja stvaran, onakav kakav se može doživjeti?",
+      "ponudeni": [
+        "Razgovor s Mjesecom",
+        "Put u središte Zemlje",
+        "Vožnja na leđima kita",
+        "Posjet baki na selu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Posjet baki je događaj koji se stvarno može doživjeti, a ostali su zamišljeni.",
+      "savjet": "Razmisli koji bi se od tih događaja mogao dogoditi tebi ili prijatelju."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-047",
+      "tezina": "srednje",
+      "pitanje": "Ema je u uvodu napisala gotovo cijeli događaj, a razrada joj ima samo jednu rečenicu. Što treba popraviti?",
+      "ponudeni": [
+        "Uvod treba još produljiti",
+        "Razradu treba izbaciti",
+        "Treba dodati još jedan naslov",
+        "Glavne događaje treba premjestiti u razradu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uvod treba biti kratak, a glavni događaji pripovijedaju se u razradi.",
+      "savjet": "Sjeti se koji je dio sastavka kratak, a koji najduži."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-048",
+      "tezina": "srednje",
+      "pitanje": "Kojim redom treba pripovijedati ove događaje? (1) Iva je otišla u školu. (2) Iva se probudila. (3) Iva je doručkovala.",
+      "ponudeni": [
+        "2, 3, 1",
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 1, 3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iva se prvo probudila, zatim doručkovala i onda otišla u školu.",
+      "savjet": "Zamisli Ivino jutro i poredaj događaje kako idu jedan za drugim."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-049",
+      "tezina": "srednje",
+      "pitanje": "Uvod glasi: „Jednog dana dogodilo se nešto neobično.“ Što nedostaje tom uvodu?",
+      "ponudeni": [
+        "Pouka događaja",
+        "Tko sudjeluje i gdje se to dogodilo",
+        "Najnapetiji trenutak",
+        "Dojam o događaju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uvod treba kazati tko sudjeluje, gdje i kada, a ovaj to ne kazuje.",
+      "savjet": "Sjeti se na koja pitanja treba odgovoriti dobar uvod."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-050",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica vrhunac priče o izgubljenom psu?",
+      "ponudeni": [
+        "„Naš pas zove se Žućo.“",
+        "„Sretni smo krenuli kući.“",
+        "„Kad smo izgubili nadu, iz grma se začuo lavež.“",
+        "„Bilo je hladno jutro.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrhunac je najnapetiji trenutak, a to je kad se nakon duge potrage začuje lavež.",
+      "savjet": "Potraži trenutak u kojem je priča najnapetija."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-051",
+      "tezina": "srednje",
+      "pitanje": "Mia piše sastavak „Snježni dan“. Koja rečenica najbolje pristaje u uvod?",
+      "ponudeni": [
+        "„Snjegović nam se do večeri istopio.“",
+        "„Gađali smo se grudama dok nisam pala.“",
+        "„Ujutro me probudila tišina, a vani je sve bilo bijelo.“",
+        "„Tog sam dana shvatila da je zima čarobna.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ta rečenica kazuje kada je bilo i uvodi u snježni dan, pa pristaje u uvod.",
+      "savjet": "Uvod otvara priču i smješta je u vrijeme i mjesto."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-052",
+      "tezina": "srednje",
+      "pitanje": "Zašto svaki dio sastavka počinje novim odlomkom?",
+      "ponudeni": [
+        "Da sastavak bude dulji",
+        "Da se lakše vidi gdje počinje novi dio",
+        "Da se ne mora pisati naslov",
+        "Da učitelj ne mora čitati uvod"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Odlomci pomažu čitatelju da vidi gdje su uvod, razrada i zaključak.",
+      "savjet": "Razmisli kako odlomci pomažu onome tko čita tekst."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-053",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica dobar zaključak sastavka „Moj prvi dan u novoj školi“?",
+      "ponudeni": [
+        "„Bilo je rujansko jutro, moj prvi dan u novoj školi.“",
+        "„Ušla sam u učionicu i svi su me pogledali.“",
+        "„Učiteljica me posjela pokraj Mateja.“",
+        "„Na kraju dana znala sam da ću ovdje biti sretna.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ta rečenica kazuje kraj dana i dojam, pa je dobar zaključak.",
+      "savjet": "Potraži rečenicu koja govori kako se sve završilo i što se misli o tom danu."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-054",
+      "tezina": "srednje",
+      "pitanje": "„Kad sam otvorio ormar, iz njega je izašao patuljak i pozdravio me.“ Kakav je to događaj?",
+      "ponudeni": [
+        "Zamišljeni",
+        "Stvarni",
+        "Doživljeni",
+        "Istiniti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Patuljak iz ormara postoji samo u mašti, pa je događaj zamišljen.",
+      "savjet": "Razmisli može li se to dogoditi u stvarnom životu."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-055",
+      "tezina": "srednje",
+      "pitanje": "Kako se zapisuje točka plana pripovijedanja?",
+      "ponudeni": [
+        "Kratkom natuknicom",
+        "Cijelim odlomkom",
+        "Samo crtežom",
+        "Pjesmom u kiticama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plan čine natuknice, kratki izrazi koji podsjećaju što ćemo pisati.",
+      "savjet": "Plan treba biti kratak, a cijeli tekst pišeš tek poslije."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-056",
+      "tezina": "srednje",
+      "pitanje": "U sastavku „Kolač za mamu“ treba poredati događaje. Koji događaj dolazi prvi?",
+      "ponudeni": [
+        "Kolač se peče u pećnici",
+        "Mama kuša kolač",
+        "Miješamo brašno i jaja",
+        "Ukrašavamo kolač"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvo miješamo sastojke, a tek onda pečemo, ukrašavamo i kušamo kolač.",
+      "savjet": "Zamisli kako se kolač radi od samog početka."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-057",
+      "tezina": "srednje",
+      "pitanje": "„Tog sam dana naučio da prijateljima treba vjerovati.“ Što izriče ta rečenica iz zaključka?",
+      "ponudeni": [
+        "Mjesto događaja",
+        "Vrijeme događaja",
+        "Vrhunac događaja",
+        "Pouku događaja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica kazuje što je netko naučio iz događaja, a to je pouka.",
+      "savjet": "Obrati pozornost na riječ naučio."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-058",
+      "tezina": "srednje",
+      "pitanje": "Što čitatelj treba saznati iz uvoda sastavka „Noć u šatoru“?",
+      "ponudeni": [
+        "Kako je noć završila",
+        "Tko je spavao u šatoru, gdje i kada",
+        "Što su likovi naučili",
+        "Najstrašniji trenutak noći"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uvod kratko kazuje tko sudjeluje, gdje i kada.",
+      "savjet": "Uvod priprema čitatelja na priču koja tek slijedi."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-059",
+      "tezina": "srednje",
+      "pitanje": "Koji izraz u razradi najčešće najavljuje iznenadni, napeti trenutak?",
+      "ponudeni": [
+        "„Jednog sunčanog jutra“",
+        "„Iznenada“",
+        "„Na kraju“",
+        "„Otada“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi poput iznenada i odjednom najavljuju nagli, napeti događaj.",
+      "savjet": "Sjeti se kojim riječima u pričama počinje nešto neočekivano."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-060",
+      "tezina": "srednje",
+      "pitanje": "Koji dio sastavka dolazi odmah nakon uvoda?",
+      "ponudeni": [
+        "Zaključak",
+        "Naslov",
+        "Razrada s glavnim događajima",
+        "Pouka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon uvoda dolazi razrada, a sastavak završava zaključkom.",
+      "savjet": "Sastavak ima tri dijela, a ovdje se traži srednji."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-061",
+      "tezina": "tesko",
+      "pitanje": "Poredaj natuknice plana: (1) mačić zapne na drvetu, (2) radost i zahvalnost, (3) jutro u dvorištu, Maja i mačić, (4) vatrogasci spuste mačića.",
+      "ponudeni": [
+        "1, 3, 4, 2",
+        "3, 1, 4, 2",
+        "3, 4, 1, 2",
+        "2, 3, 1, 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uvod je jutro u dvorištu (3), zatim slijede događaji (1, 4), a zaključak je radost (2).",
+      "savjet": "Prvo nađi natuknicu za uvod, a zatim onu za zaključak."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-062",
+      "tezina": "tesko",
+      "pitanje": "Sastavak „Pad s bicikla“: „Prošle nedjelje bili smo u parku. Brat je vozio bicikl sve brže. Odjednom je udario u kamen i pao.“ Koji dio sastavku nedostaje?",
+      "ponudeni": [
+        "Uvod",
+        "Razrada",
+        "Naslov",
+        "Zaključak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tekst ima naslov, uvod i događaje, ali ne kazuje kako je sve završilo ni kakav je dojam.",
+      "savjet": "Provjeri znaš li nakon čitanja kako je događaj završio."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-063",
+      "tezina": "tesko",
+      "pitanje": "Uvod glasi: „Bilo je ljetno jutro na moru. Bila sam sa sestrom i roditeljima. Otada uvijek nosim šešir. Sunce je jako grijalo.“ Koja rečenica ne pripada uvodu?",
+      "ponudeni": [
+        "„Bilo je ljetno jutro na moru.“",
+        "„Bila sam sa sestrom i roditeljima.“",
+        "„Otada uvijek nosim šešir.“",
+        "„Sunce je jako grijalo.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ta rečenica govori o onome što je uslijedilo nakon događaja, pa pripada zaključku.",
+      "savjet": "Provjeri koja rečenica ne govori o tome tko je bio, gdje i kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-064",
+      "tezina": "tesko",
+      "pitanje": "Ivan je cijeli sastavak napisao u jednom odlomku. Kako ga je najbolje popraviti?",
+      "ponudeni": [
+        "Uvod, razradu i zaključak započeti novim odlomkom",
+        "Dodati još nekoliko rečenica",
+        "Izbaciti naslov",
+        "Napisati ga velikim tiskanim slovima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki dio sastavka počinje novim odlomkom, pa se tako jasno vidi gdje je koji dio.",
+      "savjet": "Razmisli kako čitatelj vidi gdje završava jedan dio sastavka."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-065",
+      "tezina": "tesko",
+      "pitanje": "Koji je naslov najbolji za sastavak u kojem Sara pronalazi izgubljenog psića i vraća ga vlasniku?",
+      "ponudeni": [
+        "„Psić se vratio kući“",
+        "„Moja ulica“",
+        "„Ljetni praznici“",
+        "„Kišni dan“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Naslov kazuje temu, a tema je izgubljeni psić koji se vraća vlasniku.",
+      "savjet": "Pitaj se o čemu je cijela priča i koji naslov baš to kazuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-066",
+      "tezina": "tesko",
+      "pitanje": "U kojem je planu sastavka redoslijed natuknica ispravan?",
+      "ponudeni": [
+        "pečemo kolače → nedjelja kod bake → najslađi dan",
+        "najslađi dan → pečemo kolače → nedjelja kod bake",
+        "nedjelja kod bake → pečemo kolače → najslađi dan",
+        "nedjelja kod bake → najslađi dan → pečemo kolače"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uvod kazuje gdje i kada (nedjelja kod bake), razrada događaj (pečemo kolače), a zaključak dojam.",
+      "savjet": "Odredi koja natuknica kazuje vrijeme i mjesto, koja događaj, a koja dojam."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-067",
+      "tezina": "tesko",
+      "pitanje": "„Krenuli smo u šumu po gljive. Dugo smo hodali. Odjednom smo shvatili da smo se izgubili. Djed nas je pronašao prije mraka.“ Koja je rečenica vrhunac?",
+      "ponudeni": [
+        "„Krenuli smo u šumu po gljive.“",
+        "„Dugo smo hodali.“",
+        "„Djed nas je pronašao prije mraka.“",
+        "„Odjednom smo shvatili da smo se izgubili.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najnapetiji je trenutak kad djeca shvate da su se izgubila, a poslije napetost popušta.",
+      "savjet": "Razmisli u kojem je trenutku bilo najviše straha i napetosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-068",
+      "tezina": "tesko",
+      "pitanje": "Uvod glasi: „Prošlog ljeta s obitelji sam bila na Plitvicama.“ Kojom rečenicom najbolje počinje razrada?",
+      "ponudeni": [
+        "„Bio je to nezaboravan izlet.“",
+        "„Hodali smo drvenim stazama uz slapove.“",
+        "„Svima preporučujem taj izlet.“",
+        "„Kući smo se vratili navečer.“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razrada pripovijeda događaje, a ta rečenica kazuje što se prvo radilo na izletu.",
+      "savjet": "Razmisli što čitatelj želi saznati odmah nakon uvoda."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-069",
+      "tezina": "tesko",
+      "pitanje": "Sastavak završava rečenicom „I to je to.“ Koja bi rečenica bila bolji zaključak?",
+      "ponudeni": [
+        "„Bilo je jutro i krenuli smo.“",
+        "„Zatim smo ušli u dvoranu.“",
+        "„Tog sam dana shvatio koliko je važno biti strpljiv.“",
+        "„Moj brat ima deset godina.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dobar zaključak iznosi misao ili pouku o događaju, a ta rečenica to čini.",
+      "savjet": "Zaključak treba reći nešto o tome što je događaj značio."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-070",
+      "tezina": "tesko",
+      "pitanje": "Uvod glasi: „Na kraju smo se svi nasmijali i otišli kući.“ Što ne valja u tom uvodu?",
+      "ponudeni": [
+        "Uvod je predug",
+        "Kazuje kraj događaja umjesto da uvede u temu",
+        "Uvod je napisan u prošlom vremenu",
+        "Uvod ne smije spominjati likove"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ta rečenica kazuje kraj događaja, a on pripada zaključku, ne uvodu.",
+      "savjet": "Razmisli u koji dio sastavka zapravo pripada ta rečenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-071",
+      "tezina": "tesko",
+      "pitanje": "Natuknice za sastavak „Moj prvi let avionom“ su: polijetanje, slijetanje, zračna luka i obitelj, ukrcaj. Koji je redoslijed ispravan?",
+      "ponudeni": [
+        "zračna luka i obitelj, ukrcaj, polijetanje, slijetanje",
+        "ukrcaj, zračna luka i obitelj, slijetanje, polijetanje",
+        "polijetanje, ukrcaj, zračna luka i obitelj, slijetanje",
+        "slijetanje, polijetanje, ukrcaj, zračna luka i obitelj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Uvod predstavlja mjesto i likove, a zatim događaji idu redom kojim se zbivaju na putovanju.",
+      "savjet": "Zamisli putovanje avionom od dolaska na aerodrom do kraja leta."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-072",
+      "tezina": "tesko",
+      "pitanje": "Razrada glasi: „Na kraju smo ručali. Ujutro smo stigli u zoološki vrt. Zatim smo vidjeli žirafe.“ Koja je pogreška u toj razradi?",
+      "ponudeni": [
+        "Nema nijednog lika",
+        "Rečenice su preduge",
+        "Nedostaje naslov",
+        "Događaji nisu poredani redom kako su se dogodili"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ručak je napisan prvi iako se dogodio zadnji, pa redoslijed događaja nije dobar.",
+      "savjet": "Obrati pozornost na riječi ujutro, zatim i na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-073",
+      "tezina": "tesko",
+      "pitanje": "Toma želi napisati zamišljenu priču. Koji plan tomu odgovara?",
+      "ponudeni": [
+        "škola, sat matematike, odmor",
+        "posjet zubaru, pregled, povratak kući",
+        "izlet na more, kupanje, povratak",
+        "noć u muzeju, kipovi ožive, ujutro sve mirno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kipovi koji ožive postoje samo u mašti, pa je to plan zamišljene priče.",
+      "savjet": "Potraži plan s događajem koji se ne bi mogao stvarno dogoditi."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-074",
+      "tezina": "tesko",
+      "pitanje": "Netko je vrhunac priče napisao već u uvodu. Zašto to nije dobro?",
+      "ponudeni": [
+        "Čitatelj odmah dozna najnapetiji dio, pa priča gubi napetost",
+        "Uvod mora biti najduži dio",
+        "Vrhunac pripada naslovu",
+        "Vrhunac se piše samo u zaključku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrhunac pripada razradi; ako je u uvodu, čitatelj ga dozna prerano i priča nije zanimljiva.",
+      "savjet": "Zamisli da ti netko na početku filma ispriča najuzbudljiviji dio."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-075",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica najbolji zaključak sastavka „Spašavanje ptića“?",
+      "ponudeni": [
+        "„Ptići se hrane gusjenicama i sjemenkama.“",
+        "„Moja sestra jako voli životinje.“",
+        "„Ptić je ojačao i odletio, a mi smo bili ponosni što smo pomogli.“",
+        "„Bio je to običan četvrtak.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ta rečenica kazuje kraj događaja i dojam, i povezana je s temom iz naslova.",
+      "savjet": "Dobar zaključak govori o kraju baš ovoga događaja i o dojmu."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-076",
+      "tezina": "tesko",
+      "pitanje": "Koja natuknica ne pripada planu sastavka „Utakmica u školskoj dvorani“?",
+      "ponudeni": [
+        "okupljanje u dvorani",
+        "recept za palačinke",
+        "napet kraj i pobjeda",
+        "veselje cijelog razreda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Recept za palačinke nema veze s utakmicom, a sve natuknice moraju pratiti temu.",
+      "savjet": "Svaka natuknica mora biti povezana s temom iz naslova."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-077",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica najbolji uvod sastavka „Izgubljena na sajmu“?",
+      "ponudeni": [
+        "„Bilo je jednom.“",
+        "„Prošle subote s mamom sam otišla na sajam u gradu.“",
+        "„Bilo je strašno.“",
+        "„Mamu sam pronašla kod fontane.“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ta rečenica kazuje kada, tko i gdje, a to je zadatak uvoda.",
+      "savjet": "Usporedi koliko podataka o vremenu, mjestu i likovima daje svaka rečenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-078",
+      "tezina": "tesko",
+      "pitanje": "„Bilo je to u petak navečer, u kući moje bake na selu.“ Na koja pitanja uvoda odgovara ta rečenica?",
+      "ponudeni": [
+        "Tko i zašto?",
+        "Kako je završilo?",
+        "Kada i gdje?",
+        "Što smo naučili?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„U petak navečer“ kazuje kada, a „u kući moje bake na selu“ kazuje gdje.",
+      "savjet": "Podijeli rečenicu na dva dijela i za svaki se zapitaj što kazuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-079",
+      "tezina": "tesko",
+      "pitanje": "Plan „Sanjkanje na Sljemenu“: uvod – subota, razred, Sljeme; razrada – snijeg, sanjkanje, pad u snijeg; zaključak – ? Koja natuknica dolazi na kraj?",
+      "ponudeni": [
+        "polazak autobusom",
+        "sanjkanje niz brijeg",
+        "subota ujutro ispred škole",
+        "umorni i veseli kući"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zaključak kazuje kraj događaja i dojam, a to je povratak kući umornih i veselih.",
+      "savjet": "Natuknica za kraj treba reći kako je dan završio i kakav je dojam."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-080",
+      "tezina": "tesko",
+      "pitanje": "Koji izraz najbolje povezuje dva događaja u razradi vremenskim redom?",
+      "ponudeni": [
+        "„Nakon toga“",
+        "„Zato što“",
+        "„Na primjer“",
+        "„Bilo jednom“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izrazi poput nakon toga, zatim i poslije kazuju da jedan događaj slijedi iza drugoga.",
+      "savjet": "Traži izraz koji kazuje da se nešto dogodilo poslije nečega drugog."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-081",
+      "tezina": "tesko",
+      "pitanje": "Sastavak ima pet odlomaka. Prvi uvodi u temu, a zadnji iznosi dojam. Kojem dijelu sastavka pripadaju tri srednja odlomka?",
+      "ponudeni": [
+        "Razradi",
+        "Uvodu",
+        "Zaključku",
+        "Naslovu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razrada je najduži dio, pa može imati i više odlomaka između uvoda i zaključka.",
+      "savjet": "Sjeti se koji je dio sastavka najduži i gdje se nalazi."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-082",
+      "tezina": "tesko",
+      "pitanje": "Zašto je razrada najduži dio sastavka?",
+      "ponudeni": [
+        "U njoj je samo naslov",
+        "U njoj je samo pouka",
+        "U njoj su samo podaci o mjestu",
+        "U njoj se pripovijedaju svi važni događaji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U razradi redom pripovijedamo sve važne događaje i vrhunac, pa je najduža.",
+      "savjet": "Razmisli što sve treba ispripovijedati u glavnom dijelu."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-083",
+      "tezina": "tesko",
+      "pitanje": "Natuknice su: „vratili se kući sretni“, „kiša prekida piknik“, „nedjelja, park, obitelj“, „sklonili se pod sjenicu“. Koja je natuknica za uvod?",
+      "ponudeni": [
+        "„kiša prekida piknik“",
+        "„nedjelja, park, obitelj“",
+        "„vratili se kući sretni“",
+        "„sklonili se pod sjenicu“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ta natuknica kazuje kada, gdje i tko, pa pripada uvodu.",
+      "savjet": "Potraži natuknicu u kojoj se još ništa ne događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-084",
+      "tezina": "tesko",
+      "pitanje": "Zaključak glasi: „Zatim smo otišli na sladoled, a onda smo se igrali u parku.“ Što ne valja u tom zaključku?",
+      "ponudeni": [
+        "Zaključak je predug",
+        "Nema naslova",
+        "Donosi nove događaje umjesto kraja i dojma",
+        "U zaključku se ne spominju ljudi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U zaključku pišemo kraj i dojam, a nove događaje pripovijedamo u razradi.",
+      "savjet": "Obrati pozornost na riječi zatim i onda."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-085",
+      "tezina": "tesko",
+      "pitanje": "Koje je pitanje najkorisnije postaviti sebi dok pišeš razradu?",
+      "ponudeni": [
+        "„Kako se zove pisac?“",
+        "„Koliko imam stranica?“",
+        "„Što se dogodilo zatim?“",
+        "„Koji je danas dan?“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U razradi događaji idu jedan za drugim, pa se pitamo što je slijedilo.",
+      "savjet": "Razrada pripovijeda događaje redom kako su se zbili."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-086",
+      "tezina": "tesko",
+      "pitanje": "Koji je plan sastavka potpun?",
+      "ponudeni": [
+        "uvod: rođendan kod Lane; razrada: igre i torta; zaključak: veseo dan",
+        "uvod: rođendan kod Lane; razrada: igre i torta",
+        "razrada: igre i torta; zaključak: veseo dan",
+        "uvod: rođendan kod Lane; zaključak: veseo dan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Potpun plan ima sva tri dijela: uvod, razradu i zaključak.",
+      "savjet": "Prebroji koliko dijelova ima svaki plan."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-087",
+      "tezina": "tesko",
+      "pitanje": "Poredaj rečenice: (1) Na kraju je sve dobro završilo. (2) U subotu smo bili na jezeru. (3) Brat je pao u vodu. (4) Tata ga je izvukao.",
+      "ponudeni": [
+        "2, 4, 3, 1",
+        "2, 3, 4, 1",
+        "3, 2, 4, 1",
+        "1, 2, 3, 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uvod (2) kazuje kada i gdje, zatim brat pada (3) i tata ga izvlači (4), a kraj je (1).",
+      "savjet": "Nađi uvod i zaključak, a zatim razmisli što se moralo dogoditi prije čega."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-088",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica dobar uvod za zamišljenu priču o plišanom medi?",
+      "ponudeni": [
+        "„Ujutro je medo opet bio samo igračka.“",
+        "„Kad je medo progovorio, vrisnula sam.“",
+        "„Otada medu čuvam kao najboljeg prijatelja.“",
+        "„Bila je mirna noć, a plišani medo sjedio je na polici.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ta rečenica kazuje kada je bilo i gdje je medo, a čudni događaji tek slijede.",
+      "savjet": "I zamišljena priča počinje uvodom koji kazuje vrijeme, mjesto i likove."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-089",
+      "tezina": "tesko",
+      "pitanje": "Razrada glasi: „Penjali smo se prema vrhu. Odjednom je počelo grmjeti. Sklonili smo se u planinarski dom.“ Koja je rečenica dobar zaključak?",
+      "ponudeni": [
+        "„Ujutro smo krenuli u planine.“",
+        "„Grmljavina je bila sve jača.“",
+        "„Planine su visoke.“",
+        "„Sutradan smo sretno sišli i dugo pamtili tu oluju.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ta rečenica kazuje kraj događaja i dojam koji je ostao, pa je dobar zaključak.",
+      "savjet": "Zaključak treba zatvoriti priču koja je u razradi ostala nedovršena."
+    },
+    {
+      "id": "4-hrvatski-jezik-sastavak-uvod-razrada-zakljucak-090",
+      "tezina": "tesko",
+      "pitanje": "Plan sastavka: „ljeto na moru, tata i ja“ → „prvi pokušaji plivanja“ → ? Koja natuknica završava plan?",
+      "ponudeni": [
+        "more, srpanj, obitelj",
+        "ponos jer sam naučila plivati",
+        "kupujemo kupaći kostim",
+        "skok u more s mola"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zadnja natuknica pripada zaključku, a on iznosi dojam nakon događaja.",
+      "savjet": "Treća točka plana treba iznijeti dojam o cijelom događaju."
+    }
+  ]
+}

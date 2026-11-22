@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "opis-lika",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-opis-lika-001",
+      "tezina": "lagano",
+      "pitanje": "Što radimo kad pišemo opis lika?",
+      "ponudeni": [
+        "Pišemo kako izgleda neki krajolik",
+        "Pišemo upute za neku igru",
+        "Pišemo kakva je neka osoba",
+        "Pišemo kakvo je bilo vrijeme"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U opisu lika pišemo kako neka osoba izgleda, kako se ponaša, kako govori i kakva je.",
+      "savjet": "Sjeti se što znači riječ lik u priči."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-002",
+      "tezina": "lagano",
+      "pitanje": "Što je plan opisa lika?",
+      "ponudeni": [
+        "Redoslijed onoga što ćemo opisati",
+        "Popis riječi koje ne smijemo koristiti",
+        "Naslov koji stavljamo na kraj",
+        "Crtež lika umjesto teksta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plan opisa kazuje što ćemo i kojim redom opisati: izgled, ponašanje, govor i osobine.",
+      "savjet": "Plan pomaže da ništa ne zaboravimo i da opis bude uredan."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-003",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pripada vanjskom izgledu lika?",
+      "ponudeni": [
+        "Strpljivost",
+        "Hrabrost",
+        "Marljivost",
+        "Boja kose"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vanjski izgled je ono što vidimo očima, primjerice kosa, oči, visina i odjeća.",
+      "savjet": "Vanjski izgled možeš vidjeti čim ugledaš osobu."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-004",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ opisuje osobinu lika?",
+      "ponudeni": [
+        "Visok",
+        "Hrabar",
+        "Plavokos",
+        "Kovrčav"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Hrabar je osobina, ona govori kakav je lik iznutra. Ostale riječi opisuju izgled.",
+      "savjet": "Osobina se ne vidi na prvi pogled, nego je upoznajemo s vremenom."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-005",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga vidiš kad prvi put ugledaš neku osobu?",
+      "ponudeni": [
+        "Njezinu dobrotu",
+        "Njezinu odjeću",
+        "Njezino strpljenje",
+        "Njezinu marljivost"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Odjeća pripada vanjskom izgledu i vidi se odmah. Dobrotu, strpljenje i marljivost upoznajemo kasnije.",
+      "savjet": "Razmisli što se može vidjeti očima, a što tek kad nekoga bolje upoznaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-006",
+      "tezina": "lagano",
+      "pitanje": "Po čemu upoznajemo osobine nekog lika?",
+      "ponudeni": [
+        "Po boji njegove odjeće",
+        "Po njegovoj visini",
+        "Po boji njegovih očiju",
+        "Po njegovu ponašanju i govoru"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kakav je netko iznutra saznajemo iz onoga što radi i kako govori.",
+      "savjet": "Osobine se ne vide na licu, nego u onome što lik čini."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-007",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo opis koji kazuje točno kako nešto jest, bez ukrasa?",
+      "ponudeni": [
+        "Stvarni opis",
+        "Slikoviti opis",
+        "Šaljivi opis",
+        "Tajni opis"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stvarni opis je točan i kazuje kako nešto jest, bez usporedbi i ukrasa.",
+      "savjet": "Sjeti se koji opis govori samo činjenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-008",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo opis s usporedbama koji pokazuje osjećaje onoga tko opisuje?",
+      "ponudeni": [
+        "Stvarni opis",
+        "Kratki opis",
+        "Slikoviti opis",
+        "Točni opis"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Slikoviti opis ima usporedbe i slikovite izraze pa u mislima stvara sliku.",
+      "savjet": "Takav opis u glavi čitatelja stvara živu sliku."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-009",
+      "tezina": "lagano",
+      "pitanje": "Kakav je opis rečenica „Luka ima smeđu kosu i zelene oči.“?",
+      "ponudeni": [
+        "Slikoviti opis",
+        "Opis krajolika",
+        "Opis predmeta",
+        "Stvarni opis"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica točno kazuje kakva je Lukina kosa i kakve su mu oči, bez usporedbe.",
+      "savjet": "Provjeri ima li u rečenici usporedbe."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-010",
+      "tezina": "lagano",
+      "pitanje": "Kakav je opis rečenica „Oči su joj sjajne kao zvijezde.“?",
+      "ponudeni": [
+        "Stvarni opis",
+        "Slikoviti opis",
+        "Opis vremena",
+        "Opis prostorije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oči su uspoređene sa zvijezdama, a usporedba je znak slikovitog opisa.",
+      "savjet": "Potraži riječ kojom se nešto s nečim uspoređuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-011",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ opisuje vanjski izgled lika?",
+      "ponudeni": [
+        "Strpljiv",
+        "Marljiv",
+        "Visok",
+        "Znatiželjan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Visina se vidi pa pripada vanjskom izgledu. Ostale riječi su osobine.",
+      "savjet": "Odaberi ono što možeš vidjeti očima."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-012",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pripada dijelu plana opisa o govoru?",
+      "ponudeni": [
+        "Govori li lik glasno ili tiho",
+        "Kakve je boje njegova kosa",
+        "Koliko je lik visok",
+        "Kakvu odjeću lik nosi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U dijelu o govoru pišemo kako lik govori: glasno ili tiho, brzo ili polako.",
+      "savjet": "Zamisli da zatvoriš oči i samo slušaš lika."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-013",
+      "tezina": "lagano",
+      "pitanje": "Što opisujemo u dijelu plana opisa o ponašanju?",
+      "ponudeni": [
+        "Što lik radi i kako se ponaša",
+        "Kakve su liku oči",
+        "Kakvu kosu lik ima",
+        "Koliko je lik visok"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U dijelu o ponašanju pišemo što lik radi i kako se ponaša prema drugima.",
+      "savjet": "Ponašanje se vidi u postupcima, a ne na licu."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-014",
+      "tezina": "lagano",
+      "pitanje": "Koji dijelovi čine plan opisa lika?",
+      "ponudeni": [
+        "Uvod, ime, adresa, potpis",
+        "Naslov, pozdrav, datum, potpis",
+        "Izgled, ponašanje, govor, osobine",
+        "Mjesto, vrijeme, boja, oblik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plan opisa lika ima četiri dijela: vanjski izgled, ponašanje, govor i osobine.",
+      "savjet": "Sjeti se što sve možemo reći o jednoj osobi, izvana i iznutra."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-015",
+      "tezina": "lagano",
+      "pitanje": "Koji izraz opisuje odjeću lika?",
+      "ponudeni": [
+        "Dobra srca",
+        "Prugasta majica",
+        "Strpljiv",
+        "Znatiželjan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prugasta majica je odjeća, a odjeća pripada vanjskom izgledu.",
+      "savjet": "Odjeća je ono što lik nosi na sebi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-016",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo lika koji rado uči i trudi se?",
+      "ponudeni": [
+        "Lijen",
+        "Plašljiv",
+        "Nestrpljiv",
+        "Marljiv"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Marljiv je onaj tko se trudi i rado radi.",
+      "savjet": "Zamisli učenika koji svaki dan uredno piše zadaću."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-017",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo osobu koja sve želi saznati i stalno pita?",
+      "ponudeni": [
+        "Strpljiva",
+        "Znatiželjna",
+        "Šutljiva",
+        "Umorna"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znatiželjna osoba želi znati mnogo toga pa često postavlja pitanja.",
+      "savjet": "Razmisli zašto netko postavlja toliko pitanja."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-018",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo osobu koja mirno čeka i ne ljuti se kad nešto dugo traje?",
+      "ponudeni": [
+        "Strpljiva",
+        "Hrabra",
+        "Brza",
+        "Znatiželjna"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Strpljiva osoba može mirno čekati i ne ljuti se.",
+      "savjet": "Razmisli koja osobina pomaže kad dugo čekaš u redu."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-019",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo lika koji se ne boji pomoći drugome u opasnosti?",
+      "ponudeni": [
+        "Plašljiv",
+        "Pospan",
+        "Šutljiv",
+        "Hrabar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrabar je onaj tko se ne boji i usudi se pomoći.",
+      "savjet": "Zamisli kako se osjeća onaj tko pomaže u opasnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-020",
+      "tezina": "lagano",
+      "pitanje": "Koji izraz opisuje kosu lika?",
+      "ponudeni": [
+        "Glasan i brz",
+        "Dobar i pošten",
+        "Duga i ravna",
+        "Tih i spor"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Duga i ravna kosa dio je vanjskog izgleda.",
+      "savjet": "Zamisli kosu i pitaj se koje riječi uz nju pristaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-021",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga opisuje govor lika?",
+      "ponudeni": [
+        "Nosi crvenu kapu",
+        "Ima kratku kosu",
+        "Govori brzo i veselo",
+        "Visoka je i vitka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Govori brzo i veselo kazuje kako lik govori.",
+      "savjet": "Potraži izraz koji se odnosi na riječi i glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-022",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga opisuje ponašanje lika?",
+      "ponudeni": [
+        "Ima plave oči",
+        "Nosi naočale",
+        "Kosa mu je crna",
+        "Svako jutro zalijeva cvijeće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zalijevanje cvijeća je radnja, a radnje pokazuju ponašanje.",
+      "savjet": "Ponašanje kazuje što lik radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-023",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica opisuje vanjski izgled lika?",
+      "ponudeni": [
+        "Nosi žutu kabanicu i čizme.",
+        "Rado pomaže susjedima.",
+        "Govori tiho i polako.",
+        "Vrlo je strpljiva."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kabanica i čizme su odjeća, a odjeća pripada vanjskom izgledu.",
+      "savjet": "Odaberi rečenicu koja opisuje ono što se vidi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-024",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica opisuje osobinu lika?",
+      "ponudeni": [
+        "Mia ima dugu kosu.",
+        "Mia je vrlo strpljiva.",
+        "Mia nosi plavu haljinu.",
+        "Mia je niska rasta."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strpljivost je osobina. Kosa, haljina i visina pripadaju vanjskom izgledu.",
+      "savjet": "Osobina kazuje kakav je netko iznutra."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-025",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ u rečenici „Oči su mu plave kao more.“ uvodi usporedbu?",
+      "ponudeni": [
+        "kao",
+        "oči",
+        "plave",
+        "mu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ kao povezuje dvije stvari koje uspoređujemo: oči i more.",
+      "savjet": "Usporedba povezuje dvije stvari koje su po nečemu slične."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-026",
+      "tezina": "lagano",
+      "pitanje": "Što slikoviti opis pokazuje osim izgleda lika?",
+      "ponudeni": [
+        "Adresu lika",
+        "Osjećaje onoga tko opisuje",
+        "Točan broj godina lika",
+        "Datum rođenja lika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Slikoviti opis otkriva i što onaj tko opisuje osjeća prema liku.",
+      "savjet": "Razmisli što opisivač želi podijeliti kad bira lijepe usporedbe."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-027",
+      "tezina": "lagano",
+      "pitanje": "Što opisujemo kad opisujemo odjeću lika?",
+      "ponudeni": [
+        "Kako lik govori",
+        "Što lik misli",
+        "Što lik nosi",
+        "Kakav je lik prijatelj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Odjeća je ono što lik nosi, primjerice jakna, haljina ili kapa.",
+      "savjet": "Sjeti se što jutrom odijevaš prije škole."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-028",
+      "tezina": "lagano",
+      "pitanje": "Kakvo je dijete koje uvijek kaže istinu?",
+      "ponudeni": [
+        "Nestašno",
+        "Pospano",
+        "Glasno",
+        "Iskreno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iskrena osoba govori istinu i ne laže.",
+      "savjet": "Ta osobina suprotna je laganju."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-029",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo osobu koja rado dijeli svoje stvari s drugima?",
+      "ponudeni": [
+        "Darežljiva",
+        "Škrta",
+        "Lijena",
+        "Plašljiva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Darežljiva osoba rado daje i dijeli s drugima.",
+      "savjet": "Razmisli što takva osoba radi sa svojim stvarima."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-030",
+      "tezina": "lagano",
+      "pitanje": "Koji dio plana opisa kazuje kakav je lik iznutra?",
+      "ponudeni": [
+        "Odjeća",
+        "Osobine",
+        "Visina",
+        "Frizura"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osobine kazuju kakav je lik iznutra, primjerice dobar ili hrabar.",
+      "savjet": "Iznutra znači ono što se ne vidi na prvi pogled."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-031",
+      "tezina": "srednje",
+      "pitanje": "Kojem dijelu plana opisa pripada rečenica „Teta Vesna govori tiho i polako.“?",
+      "ponudeni": [
+        "Vanjski izgled",
+        "Ponašanje",
+        "Osobine",
+        "Govor"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica kazuje kako teta Vesna govori pa pripada dijelu o govoru.",
+      "savjet": "Pogledaj glagol u rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-032",
+      "tezina": "srednje",
+      "pitanje": "Kojem dijelu plana opisa pripada rečenica „Djed Ante svako jutro hrani ptice u parku.“?",
+      "ponudeni": [
+        "Govor",
+        "Ponašanje",
+        "Vanjski izgled",
+        "Odjeća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica kazuje što djed radi, a to je ponašanje.",
+      "savjet": "Razmisli kazuje li rečenica kako djed izgleda, kako govori ili što radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-033",
+      "tezina": "srednje",
+      "pitanje": "Kojem dijelu plana opisa pripada rečenica „Sestra Ena je niska i ima kratku crnu kosu.“?",
+      "ponudeni": [
+        "Vanjski izgled",
+        "Ponašanje",
+        "Govor",
+        "Osobine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Visina i kosa vide se očima pa pripadaju vanjskom izgledu.",
+      "savjet": "Zapitaj se može li se to što rečenica kazuje vidjeti."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-034",
+      "tezina": "srednje",
+      "pitanje": "Kojem dijelu plana opisa pripada rečenica „Marko je vrlo strpljiv i pošten.“?",
+      "ponudeni": [
+        "Vanjski izgled",
+        "Govor",
+        "Osobine",
+        "Ponašanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Strpljiv i pošten su osobine, one kazuju kakav je Marko iznutra.",
+      "savjet": "Pogledaj pridjeve u rečenici i razmisli vide li se očima."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-035",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica primjer slikovitog opisa?",
+      "ponudeni": [
+        "Kosa joj je duga i plava.",
+        "Ima smeđe oči i ravan nos.",
+        "Kosa joj je žuta kao zrelo žito.",
+        "Nosi zelenu jaknu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kosa je uspoređena sa zrelim žitom, a usporedba je obilježje slikovitog opisa.",
+      "savjet": "Potraži rečenicu u kojoj se nešto s nečim uspoređuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-036",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica primjer stvarnog opisa?",
+      "ponudeni": [
+        "Djed ima sijedu kosu i brkove.",
+        "Djedova kosa bijela je kao snijeg.",
+        "Brkovi su mu mekani kao vata.",
+        "Ruke su mu tople kao sunce."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica točno kazuje kakav je djed, bez usporedbe.",
+      "savjet": "Stvarni opis govori kako jest, bez ukrasa."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-037",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica stvarnim opisom kazuje isto što i „Oči su joj plave kao more.“?",
+      "ponudeni": [
+        "Oči su joj kao dva jezera.",
+        "Ima plave oči.",
+        "Oči joj sjaje kao zvijezde.",
+        "Oči su joj kao nebo."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stvarni opis samo kazuje boju očiju, bez usporedbe.",
+      "savjet": "Makni usporedbu i ostavi samo ono što je točno."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-038",
+      "tezina": "srednje",
+      "pitanje": "Iva često pita „Zašto?“ i „Kako to radi?“. Kakva je Iva?",
+      "ponudeni": [
+        "Šutljiva",
+        "Nestrpljiva",
+        "Lijena",
+        "Znatiželjna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tko mnogo pita, želi nešto saznati, dakle znatiželjan je.",
+      "savjet": "Što Iva želi postići svojim pitanjima?"
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-039",
+      "tezina": "srednje",
+      "pitanje": "Lovro svaki dan uredno napiše zadaću i vježba sviranje. Kakav je Lovro?",
+      "ponudeni": [
+        "Marljiv",
+        "Lijen",
+        "Rastresen",
+        "Plašljiv"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lovro redovito i uredno radi svoje zadatke, a to pokazuje marljivost.",
+      "savjet": "Iz Lovrina ponašanja zaključi kakav je iznutra."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-040",
+      "tezina": "srednje",
+      "pitanje": "Ana je izgubila utakmicu, ali je pobjednicima pružila ruku i čestitala im. Kakva je Ana?",
+      "ponudeni": [
+        "Ljutita",
+        "Hvalisava",
+        "Pristojna",
+        "Plašljiva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čestitati pobjedniku nakon poraza znak je pristojnosti.",
+      "savjet": "Razmisli što Anin postupak govori o njoj."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-041",
+      "tezina": "srednje",
+      "pitanje": "Noa je prvi pritrčao pomoći prijatelju koji je upao u plitki potok. Kakav je Noa?",
+      "ponudeni": [
+        "Plašljiv",
+        "Lijen",
+        "Neuredan",
+        "Hrabar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Noa se nije bojao i odmah je pomogao, a to pokazuje hrabrost.",
+      "savjet": "Zamisli kako bi se ponio netko tko se boji."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-042",
+      "tezina": "srednje",
+      "pitanje": "Kojem dijelu plana opisa pripada rečenica „Nosi naočale s crvenim okvirom.“?",
+      "ponudeni": [
+        "Govor",
+        "Vanjski izgled",
+        "Osobine",
+        "Ponašanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Naočale se vide pa pripadaju vanjskom izgledu.",
+      "savjet": "Zapitaj se vidiš li to odmah kad ugledaš osobu."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-043",
+      "tezina": "srednje",
+      "pitanje": "Što opisuje rečenica „Kad se raduje, skakuće i pljeska rukama.“?",
+      "ponudeni": [
+        "Odjeću lika",
+        "Ponašanje lika",
+        "Visinu lika",
+        "Boju očiju lika"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Skakutanje i pljeskanje su radnje, a radnje pokazuju ponašanje.",
+      "savjet": "Pogledaj glagole u rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-044",
+      "tezina": "srednje",
+      "pitanje": "Što opisuje rečenica „Govori kao da pjeva, a riječi mu teku kao potočić.“ i kakav je to opis?",
+      "ponudeni": [
+        "Govor, stvarni opis",
+        "Izgled, slikoviti opis",
+        "Izgled, stvarni opis",
+        "Govor, slikoviti opis"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica opisuje govor, a usporedbe s pjesmom i potočićem čine je slikovitom.",
+      "savjet": "Odgovori na dva pitanja: o čemu je riječ i ima li usporedbe."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-045",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica sadrži usporedbu?",
+      "ponudeni": [
+        "Trči vrlo brzo.",
+        "Trči svako jutro.",
+        "Trči brzo kao vjetar.",
+        "Trči do škole."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trčanje je uspoređeno s vjetrom, a riječ kao uvodi usporedbu.",
+      "savjet": "Usporedba povezuje dvije različite stvari."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-046",
+      "tezina": "srednje",
+      "pitanje": "Ema piše opis prijateljice. Koju će rečenicu napisati u dijelu o govoru?",
+      "ponudeni": [
+        "Govori razgovijetno i veselo.",
+        "Ima pletenice i šiltericu.",
+        "Rado crta i igra nogomet.",
+        "Pomaže mlađem bratu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica kazuje kako prijateljica govori pa pripada dijelu o govoru.",
+      "savjet": "Dio o govoru opisuje glas i način govorenja."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-047",
+      "tezina": "srednje",
+      "pitanje": "Toma u opisu brata piše dio o vanjskom izgledu. Koja rečenica tu pripada?",
+      "ponudeni": [
+        "Govori glasno i brzo.",
+        "Voli igrati šah.",
+        "Ima kratku smeđu kosu i pjegice.",
+        "Uvijek je dobre volje."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kosa i pjegice vide se pa pripadaju vanjskom izgledu.",
+      "savjet": "U dio o izgledu ide samo ono što se vidi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-048",
+      "tezina": "srednje",
+      "pitanje": "Sara opisuje susjedu. Koja rečenica pripada dijelu o ponašanju?",
+      "ponudeni": [
+        "Ima sive oči.",
+        "Svako popodne šeće psa uz rijeku.",
+        "Govori mekim glasom.",
+        "Nosi dugi kaput."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šetanje psa je radnja, a radnje opisuju ponašanje.",
+      "savjet": "Ponašanje kazuje što osoba radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-049",
+      "tezina": "srednje",
+      "pitanje": "Kakav je opis „Sestrica je mala i lagana kao pahuljica.“?",
+      "ponudeni": [
+        "Slikoviti opis jer ima usporedbu",
+        "Stvarni opis jer ima usporedbu",
+        "Stvarni opis jer je kratak",
+        "Slikoviti opis jer nema pridjeva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sestrica je uspoređena s pahuljicom, a usporedba čini opis slikovitim.",
+      "savjet": "Pazi i na vrstu opisa i na razlog koji je naveden."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-050",
+      "tezina": "srednje",
+      "pitanje": "Kakav je opis „Dino je visok 140 centimetara i nosi sivu trenirku.“?",
+      "ponudeni": [
+        "Slikoviti opis jer ima usporedbu",
+        "Slikoviti opis jer pokazuje osjećaje",
+        "Stvarni opis jer ima usporedbu",
+        "Stvarni opis jer točno kazuje kako jest"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica donosi točne podatke bez usporedbe, pa je to stvarni opis.",
+      "savjet": "Provjeri ima li u rečenici riječ kao i neka usporedba."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-051",
+      "tezina": "srednje",
+      "pitanje": "Iz koje rečenice možeš zaključiti kakav je Patrik iznutra?",
+      "ponudeni": [
+        "Patrik ima crvenu kapu.",
+        "Patrik je visok i vitak.",
+        "Patrik ima zelene oči.",
+        "Patrik je mlađem bratu dao pola svoje jabuke."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Postupak s jabukom pokazuje da je Patrik darežljiv. Ostale rečenice opisuju izgled.",
+      "savjet": "Osobine upoznajemo po onome što lik radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-052",
+      "tezina": "srednje",
+      "pitanje": "Lea u razredu tiho kaže: „Oprostite, mogu li nešto pitati?“ Što saznaješ o Lei iz njezina govora?",
+      "ponudeni": [
+        "Da je pristojna",
+        "Da je visoka",
+        "Da ima dugu kosu",
+        "Da nosi naočale"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lea govori pristojno i koristi riječ oprostite, pa zaključujemo da je pristojna.",
+      "savjet": "Iz govora ne vidimo izgled, nego nešto drugo."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-053",
+      "tezina": "srednje",
+      "pitanje": "Kojom riječju treba dovršiti slikoviti opis „Kosa mu je crna kao…“?",
+      "ponudeni": [
+        "mlijeko",
+        "ugljen",
+        "snijeg",
+        "maslačak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ugljen je crn, pa je usporedba s ugljenom točna.",
+      "savjet": "Usporedba mora imati nešto zajedničko s kosom."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-054",
+      "tezina": "srednje",
+      "pitanje": "Kojom riječju treba dovršiti slikoviti opis „Obrazi su joj crveni kao…“?",
+      "ponudeni": [
+        "trava",
+        "oblak",
+        "jabuka",
+        "limun"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jabuka može biti crvena, pa usporedba odgovara crvenim obrazima.",
+      "savjet": "Zamisli boju svakoga od ponuđenih predmeta."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-055",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica pokazuje osjećaje onoga tko opisuje?",
+      "ponudeni": [
+        "Baka ima sijedu kosu.",
+        "Bakin glas mi je mio kao uspavanka.",
+        "Baka nosi plavu pregaču.",
+        "Baka ima sedamdeset godina."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Usporedba s uspavankom i riječ mio pokazuju koliko opisivač voli baku.",
+      "savjet": "Potraži rečenicu u kojoj se čuje ljubav prema baki."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-056",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u rečenici „Vrijedni Ivan nosi zeleni šal.“ kazuje osobinu?",
+      "ponudeni": [
+        "zeleni",
+        "nosi",
+        "vrijedni",
+        "šal"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijedan je osobina. Zeleni šal pripada odjeći.",
+      "savjet": "Osobina se odnosi na Ivana, a ne na njegovu odjeću."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-057",
+      "tezina": "srednje",
+      "pitanje": "Koji dio rečenice „Mali Jan hrabro je ušao u mračni podrum.“ pokazuje Janovu osobinu?",
+      "ponudeni": [
+        "mali",
+        "mračni podrum",
+        "Jan",
+        "hrabro je ušao"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječi hrabro je ušao pokazuju da je Jan hrabar.",
+      "savjet": "Potraži dio rečenice koji kazuje kako se Jan ponio."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-058",
+      "tezina": "srednje",
+      "pitanje": "Na što trebaš paziti kad opisuješ govor lika?",
+      "ponudeni": [
+        "Kako lik izgovara riječi",
+        "Kakvu odjeću lik nosi",
+        "Koliko je lik visok",
+        "Kakve je boje kosa lika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kod govora pratimo kako lik govori: glasno, tiho, brzo ili polako.",
+      "savjet": "Govor se čuje, a ne vidi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-059",
+      "tezina": "srednje",
+      "pitanje": "Lik kaže: „Ne brini, pričekat ću te koliko god treba.“ Kakav je taj lik?",
+      "ponudeni": [
+        "Nestrpljiv",
+        "Strpljiv",
+        "Hvalisav",
+        "Lijen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tko je spreman čekati koliko god treba, taj je strpljiv.",
+      "savjet": "Iz onoga što lik kaže zaključi kakav je."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-060",
+      "tezina": "srednje",
+      "pitanje": "Koja usporedba pristaje nekomu tko je vrlo brz?",
+      "ponudeni": [
+        "Brz je kao puž.",
+        "Brz je kao kamen.",
+        "Brz je kao munja.",
+        "Brz je kao kornjača."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Munja je vrlo brza, pa usporedba pristaje brzoj osobi.",
+      "savjet": "Zamisli kako se kreće svako od navedenoga."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-061",
+      "tezina": "tesko",
+      "pitanje": "Koji redoslijed plana opisa lika ide od onoga što vidimo prema onome što upoznajemo kasnije?",
+      "ponudeni": [
+        "izgled → ponašanje → govor → osobine",
+        "osobine → govor → izgled → ponašanje",
+        "govor → osobine → ponašanje → izgled",
+        "ponašanje → izgled → osobine → govor"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izgled vidimo odmah, a osobine upoznajemo po ponašanju i govoru, pa dolaze na kraju.",
+      "savjet": "Razmisli što prvo uočiš kod osobe, a što saznaš tek kad je bolje upoznaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-062",
+      "tezina": "tesko",
+      "pitanje": "Zašto osobine u opisu lika pišemo nakon ponašanja i govora?",
+      "ponudeni": [
+        "Jer su osobine manje važne od odjeće",
+        "Jer se osobine vide prve",
+        "Jer osobine upoznajemo po ponašanju i govoru",
+        "Jer osobine opisuju boju kose"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Iz onoga što lik radi i govori zaključujemo kakav je, pa osobine dolaze nakon toga.",
+      "savjet": "Kako zapravo saznaješ je li netko dobar ili hrabar?"
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-063",
+      "tezina": "tesko",
+      "pitanje": "Dio opisa o izgledu: „Ima plavu kosu. Rado čita knjige. Nosi crvene tenisice. Oči su mu sive.“ Koja rečenica ne pripada tom dijelu?",
+      "ponudeni": [
+        "Ima plavu kosu.",
+        "Rado čita knjige.",
+        "Nosi crvene tenisice.",
+        "Oči su mu sive."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čitanje je radnja i pripada ponašanju. Ostale rečenice opisuju ono što se vidi.",
+      "savjet": "Za svaku rečenicu provjeri može li se to vidjeti."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-064",
+      "tezina": "tesko",
+      "pitanje": "Dio opisa o govoru: „Govori polako. Ima kovrče. Riječi izgovara razgovijetno. Glas mu je dubok.“ Koja rečenica ne pripada tom dijelu?",
+      "ponudeni": [
+        "Govori polako.",
+        "Riječi izgovara razgovijetno.",
+        "Glas mu je dubok.",
+        "Ima kovrče."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kovrče su dio vanjskog izgleda, a ostale rečenice opisuju govor.",
+      "savjet": "Za svaku rečenicu provjeri odnosi li se na glas i riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-065",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica stvarnim opisom kazuje isto što i „Ruke su mu velike kao lopate.“?",
+      "ponudeni": [
+        "Ruke su mu kao dvije lopate.",
+        "Ruke mu rade kao strojevi.",
+        "Ima male ruke.",
+        "Ima velike ruke."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stvarni opis zadržava značenje, ali bez usporedbe: ruke su velike.",
+      "savjet": "Zadrži ono što je točno, a makni usporedbu."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-066",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica slikovito kazuje isto što i stvarna rečenica „Ima tih glas.“?",
+      "ponudeni": [
+        "Glas joj je glasan kao truba.",
+        "Glas joj je tih kao šapat lišća.",
+        "Ima vrlo tih glas.",
+        "Govori tiho."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica zadržava značenje tihog glasa i dodaje usporedbu, pa je slikovita.",
+      "savjet": "Traži rečenicu koja ima usporedbu, ali ne mijenja značenje."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-067",
+      "tezina": "tesko",
+      "pitanje": "Mila je napisala: „Dora ima kratku kosu. Uvijek je dobre volje. Nosi traperice. Strpljivo mi objašnjava zadatke.“ Što treba popraviti?",
+      "ponudeni": [
+        "Izbaciti sve rečenice o izgledu",
+        "Dodati usporedbu u svaku rečenicu",
+        "Poredati rečenice prema planu opisa",
+        "Napisati sve u jednoj rečenici"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenice o izgledu su razbacane; prema planu ide prvo izgled, a zatim ostali dijelovi.",
+      "savjet": "Označi rečenice o izgledu i pogledaj stoje li zajedno."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-068",
+      "tezina": "tesko",
+      "pitanje": "Koji je opis napisan prema planu opisa lika?",
+      "ponudeni": [
+        "Visok je. Pomaže svima. Govori tiho. Dobar je.",
+        "Dobar je. Visok je. Govori tiho. Pomaže svima.",
+        "Govori tiho. Dobar je. Pomaže svima. Visok je.",
+        "Pomaže svima. Dobar je. Visok je. Govori tiho."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prema planu ide izgled, ponašanje, govor pa osobine.",
+      "savjet": "Opis lika počinje onim što vidimo, a završava onim što o liku zaključujemo."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-069",
+      "tezina": "tesko",
+      "pitanje": "„Kad Filip vidi da netko plače, sjedne kraj njega i utješi ga.“ Koju osobinu upoznajemo po tom ponašanju?",
+      "ponudeni": [
+        "Znatiželju",
+        "Dobrotu",
+        "Marljivost",
+        "Hrabrost"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tko tješi onoga koji plače, pokazuje da je dobar i brine za druge.",
+      "savjet": "Razmisli zašto bi netko sjeo kraj tužnog prijatelja."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-070",
+      "tezina": "tesko",
+      "pitanje": "Što treba izbjegavati u opisu stvarne osobe?",
+      "ponudeni": [
+        "Opisivanje boje kose",
+        "Navođenje osobina",
+        "Usporedbe koje pokazuju ljubav",
+        "Ruganje izgledu osobe"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opis treba biti ljubazan; ne rugamo se tuđem izgledu.",
+      "savjet": "Zamisli da osoba čita opis o sebi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-071",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica najbolje pokazuje da je opisivač zavolio lika?",
+      "ponudeni": [
+        "Bakin zagrljaj topao je kao vunena deka.",
+        "Baka ima vunenu deku.",
+        "Baka je niska i nosi naočale.",
+        "Baka živi u kući uz more."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Usporedba zagrljaja s toplom dekom pokazuje nježne osjećaje opisivača.",
+      "savjet": "Osjećaje opisivača najčešće otkriva slikoviti opis."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-072",
+      "tezina": "tesko",
+      "pitanje": "„Zvonimir rado posuđuje svoje bojice i dijeli užinu.“ Koju osobinu možeš zaključiti iz toga?",
+      "ponudeni": [
+        "Zvonimir je visok.",
+        "Zvonimir je znatiželjan.",
+        "Zvonimir je darežljiv.",
+        "Zvonimir je plašljiv."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tko rado posuđuje i dijeli, taj je darežljiv.",
+      "savjet": "Iz ponašanja zaključi kakav je Zvonimir iznutra."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-073",
+      "tezina": "tesko",
+      "pitanje": "Učenik je u dio o osobinama napisao: „Ana ima zelene oči.“ Kamo ta rečenica pripada?",
+      "ponudeni": [
+        "U dio o govoru",
+        "U dio o ponašanju",
+        "U dio o vanjskom izgledu",
+        "Ostaje u dijelu o osobinama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Boja očiju vidi se pa pripada vanjskom izgledu, a ne osobinama.",
+      "savjet": "Zapitaj se može li se to vidjeti očima."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-074",
+      "tezina": "tesko",
+      "pitanje": "Učenik je u dio o vanjskom izgledu napisao: „Jakov govori promuklim glasom.“ Kamo ta rečenica pripada?",
+      "ponudeni": [
+        "U dio o govoru",
+        "U dio o osobinama",
+        "U dio o ponašanju",
+        "Ostaje u dijelu o izgledu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica kazuje kako Jakov govori pa pripada dijelu o govoru.",
+      "savjet": "Razmisli čuje li se to ili vidi."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-075",
+      "tezina": "tesko",
+      "pitanje": "Koji je dio rečenice „Vedrana je hrabra kao lavica.“ slikoviti izraz?",
+      "ponudeni": [
+        "Vedrana je",
+        "je hrabra",
+        "Vedrana",
+        "hrabra kao lavica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Usporedba s lavicom čini izraz slikovitim.",
+      "savjet": "Sjeti se što izraz čini slikovitim."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-076",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica slikovito kazuje isto što i „Ima kovrčavu kosu.“?",
+      "ponudeni": [
+        "Kosa joj je ravna kao konac.",
+        "Kosa joj je kovrčava kao janjeće runo.",
+        "Kosa joj je kratka.",
+        "Kosa joj je crna kao noć."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica zadržava kovrčavu kosu i dodaje usporedbu s runom.",
+      "savjet": "Rečenica mora imati usporedbu i govoriti baš o kovrčama."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-077",
+      "tezina": "tesko",
+      "pitanje": "Koji niz sadrži samo osobine?",
+      "ponudeni": [
+        "visok, strpljiv, plavook",
+        "marljiv, kovrčav, hrabar",
+        "pjegav, nizak, dobar",
+        "dobar, strpljiv, marljiv"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobar, strpljiv i marljiv su osobine. U ostalim nizovima ima i riječi o izgledu.",
+      "savjet": "Provjeri svaku riječ u nizu, a ne samo prvu."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-078",
+      "tezina": "tesko",
+      "pitanje": "Koji niz sadrži samo riječi o vanjskom izgledu?",
+      "ponudeni": [
+        "hrabar, visok, smeđook",
+        "strpljiv, kovrčav, nizak",
+        "visok, plavokos, pjegav",
+        "znatiželjan, dobar, vitak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Visina, kosa i pjegice vide se. U ostalim nizovima ima i osobina.",
+      "savjet": "Provjeri svaku riječ u nizu, a ne samo prvu."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-079",
+      "tezina": "tesko",
+      "pitanje": "„Ivana je niska i ima riđu kosu. Svaki dan trenira plivanje. Govori brzo i veselo. Vrlo je uporna.“ Kojim su redom opisani dijelovi?",
+      "ponudeni": [
+        "osobine, govor, izgled, ponašanje",
+        "izgled, ponašanje, govor, osobine",
+        "izgled, govor, osobine, ponašanje",
+        "ponašanje, izgled, govor, osobine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prva rečenica opisuje izgled, druga ponašanje, treća govor, a četvrta osobinu.",
+      "savjet": "Odredi dio plana za svaku rečenicu posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-080",
+      "tezina": "tesko",
+      "pitanje": "Opis kaže: „Svaki dan pomaže baki nositi vrećice.“ Koja rečenica iz toga zaključuje osobinu?",
+      "ponudeni": [
+        "Zato znam da je brižan i dobar.",
+        "Zato znam da ima smeđu kosu.",
+        "Zato znam da je visok.",
+        "Zato znam da govori tiho."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pomaganje baki pokazuje brižnost i dobrotu, a to su osobine.",
+      "savjet": "Iz ponašanja se ne može saznati izgled, nego nešto drugo."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-081",
+      "tezina": "tesko",
+      "pitanje": "Petra kaže: „Opis je stvaran ako u njemu ima puno usporedbi.“ Kako treba ispraviti Petru?",
+      "ponudeni": [
+        "Usporedbe pripadaju slikovitom opisu.",
+        "Stvarni opis mora imati tri usporedbe.",
+        "Usporedbe pripadaju samo opisu odjeće.",
+        "Stvarni opis piše se samo u stihovima."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stvarni opis je bez ukrasa, a usporedbe su obilježje slikovitog opisa.",
+      "savjet": "Sjeti se po čemu se razlikuju stvarni i slikoviti opis."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-082",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica spaja stvarni i slikoviti opis?",
+      "ponudeni": [
+        "Ima smeđe oči i dugu kosu.",
+        "Ima smeđe oči, a kosa joj je mekana kao svila.",
+        "Oči su joj kao lješnjaci, a kosa kao svila.",
+        "Ima smeđe oči i ravnu kosu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi dio točno kazuje boju očiju, a drugi ima usporedbu sa svilom.",
+      "savjet": "Provjeri svaki dio rečenice posebno: ima li usporedbu ili ne."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-083",
+      "tezina": "tesko",
+      "pitanje": "Luka je u opisu prijatelja napisao samo kako izgleda i što nosi. Što još treba dodati prema planu opisa?",
+      "ponudeni": [
+        "Samo boju očiju",
+        "Naslov i potpis",
+        "Ponašanje, govor i osobine",
+        "Mjesto i datum"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plan opisa ima četiri dijela; Luka je opisao samo izgled.",
+      "savjet": "Nabroji sve dijelove plana i provjeri koje je Luka preskočio."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-084",
+      "tezina": "tesko",
+      "pitanje": "Koja usporedba opisuje govor lika?",
+      "ponudeni": [
+        "Visok je kao jablan.",
+        "Kosa mu je žuta kao sunce.",
+        "Oči su mu zelene kao trava.",
+        "Priča brzo kao da trči utrku."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Usporedba se odnosi na način pričanja, a to je govor.",
+      "savjet": "Pitaj se na što se odnosi svaka usporedba."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-085",
+      "tezina": "tesko",
+      "pitanje": "Koja usporedba opisuje osobinu lika?",
+      "ponudeni": [
+        "Visok je kao toranj.",
+        "Oči su mu plave kao nebo.",
+        "Hrabar je kao lav.",
+        "Kosa mu je kovrčava kao runo."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrabrost je osobina, a ostale usporedbe opisuju izgled.",
+      "savjet": "Pitaj se odnosi li se usporedba na nešto vidljivo."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-086",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica u opisu prijatelja kroz govor pokazuje njegovu osobinu?",
+      "ponudeni": [
+        "Ima smeđu jaknu.",
+        "Visok je i vitak.",
+        "Svako jutro trči u parku.",
+        "Često kaže: „Ne brini, pomoći ću ti.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječi koje prijatelj izgovara pokazuju da je spreman pomoći, dakle dobar je.",
+      "savjet": "Potraži rečenicu u kojoj lik nešto izgovara."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-087",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica opisuje mjesto, a ne lika?",
+      "ponudeni": [
+        "Dvorište je puno cvijeća.",
+        "Ima crvenu kosu.",
+        "Rado pjeva.",
+        "Vrlo je pažljiva."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica o dvorištu opisuje mjesto, a ostale opisuju osobu.",
+      "savjet": "Za svaku rečenicu pitaj se o kome ili o čemu govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-088",
+      "tezina": "tesko",
+      "pitanje": "Mateo je napisao: „Moj tata je najbolji tata na svijetu. Najbolji je. Volim ga.“ Što nedostaje tom opisu?",
+      "ponudeni": [
+        "Još više riječi najbolji",
+        "Opis izgleda, ponašanja i govora",
+        "Uskličnici na kraju rečenica",
+        "Naslov na kraju teksta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Opis ponavlja jednu misao, a nedostaju mu dijelovi plana opisa.",
+      "savjet": "Usporedi tekst s dijelovima plana opisa lika."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-089",
+      "tezina": "tesko",
+      "pitanje": "Kojom usporedbom slikovito kazuješ da je netko vrlo miran?",
+      "ponudeni": [
+        "Miran je kao oluja.",
+        "Miran je kao vatromet.",
+        "Miran je kao jezero bez vjetra.",
+        "Miran je kao bubanj."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jezero bez vjetra je mirno, pa usporedba pristaje mirnoj osobi.",
+      "savjet": "Zamisli kako izgleda ili zvuči svaka od tih stvari."
+    },
+    {
+      "id": "4-hrvatski-jezik-opis-lika-090",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o stvarnom i slikovitom opisu točna?",
+      "ponudeni": [
+        "Stvarni ima usporedbe, a slikoviti ih nema.",
+        "Oba opisa moraju imati usporedbe.",
+        "Slikoviti opis ne smije pokazati osjećaje.",
+        "Stvarni kazuje kako jest, a slikoviti dodaje usporedbe."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stvarni opis je točan i bez ukrasa, a slikoviti ima usporedbe i pokazuje osjećaje.",
+      "savjet": "Sjeti se primjera „plave oči“ i „oči plave kao more“."
+    }
+  ]
+}
