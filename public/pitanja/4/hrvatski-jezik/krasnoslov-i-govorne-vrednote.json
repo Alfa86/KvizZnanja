@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "krasnoslov-i-govorne-vrednote",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-001",
+      "tezina": "lagano",
+      "pitanje": "Što su govorne vrednote?",
+      "ponudeni": [
+        "Sredstva koja pomažu da nas slušatelj razumije",
+        "Pravila za pisanje velikog početnog slova",
+        "Dijelovi pjesme poput kitica i stihova",
+        "Vrste rečenica prema broju riječi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Govorne vrednote pomažu da nas slušatelj razumije i da u govoru izrazimo osjećaje.",
+      "savjet": "Sjeti se da riječ govorne dolazi od riječi govor, a ne od pisanja."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-002",
+      "tezina": "lagano",
+      "pitanje": "Što je krasnoslov?",
+      "ponudeni": [
+        "Tiho čitanje pjesme u sebi",
+        "Izražajno kazivanje pjesme napamet",
+        "Prepisivanje pjesme lijepim rukopisom",
+        "Pisanje vlastite pjesme u bilježnicu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krasnoslov je izražajno kazivanje teksta, najčešće pjesme, napamet i uz govorne vrednote.",
+      "savjet": "Krasnoslov se izvodi pred slušateljima i bez papira u ruci."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-003",
+      "tezina": "lagano",
+      "pitanje": "Što je izražajno čitanje?",
+      "ponudeni": [
+        "Čitanje u sebi bez pomicanja usana",
+        "Brzo čitanje samo naslova i podnaslova",
+        "Čitanje naglas uz govorne vrednote",
+        "Kazivanje pjesme napamet bez teksta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izražajno čitanje je čitanje naglas pri kojem se koriste govorne vrednote, tako da tekst oživi.",
+      "savjet": "Razmisli što znači čitati s izrazom i treba li pritom gledati u tekst."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-004",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih riječi naziv govorne vrednote?",
+      "ponudeni": [
+        "Rima",
+        "Kitica",
+        "Rukopis",
+        "Stanka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stanka je govorna vrednota, a rima, kitica i rukopis nisu.",
+      "savjet": "Traži pojam koji se čuje kad netko govori, a ne vidi se na papiru."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-005",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga ubrajamo u govorne vrednote?",
+      "ponudeni": [
+        "Veliko slovo",
+        "Jakost glasa",
+        "Pravopis",
+        "Naslov pjesme"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jakost glasa je govorna vrednota jer opisuje govorimo li glasno ili tiho.",
+      "savjet": "Govorne vrednote opisuju kako zvuči naš glas dok govorimo."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-006",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo govornu vrednotu koja kazuje govorimo li glasno ili tiho?",
+      "ponudeni": [
+        "Jakost glasa",
+        "Stanka",
+        "Intonacija",
+        "Brzina govora"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jakost glasa kazuje koliko glasno ili tiho govorimo.",
+      "savjet": "Sjeti se riječi koja znači snaga, kao kad kažeš da je netko snažan."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-007",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo kratki prekid govora?",
+      "ponudeni": [
+        "Intonacija",
+        "Jakost glasa",
+        "Brzina govora",
+        "Stanka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stanka je kratki prekid govora, primjerice na mjestu zareza ili točke.",
+      "savjet": "Razmisli kako se zove trenutak kad govornik na čas zastane."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-008",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo melodiju rečenice po kojoj čujemo je li rečenica izjavna, upitna ili usklična?",
+      "ponudeni": [
+        "Stanka",
+        "Jakost glasa",
+        "Intonacija",
+        "Kitica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Intonacija je melodija rečenice; po njoj razlikujemo izjavnu, upitnu i uskličnu rečenicu.",
+      "savjet": "Sjeti se kako glas zvuči drukčije kad pitaš, a drukčije kad uzvikneš."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-009",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo govornu vrednotu koja kazuje govorimo li brzo ili sporo?",
+      "ponudeni": [
+        "Jakost glasa",
+        "Stanka",
+        "Brzina govora",
+        "Intonacija"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brzina govora kazuje govorimo li brzo ili sporo.",
+      "savjet": "Sjeti se kako opisujemo govor nekoga tko se žuri."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-010",
+      "tezina": "lagano",
+      "pitanje": "Kako se pjesma izvodi pri krasnoslovu?",
+      "ponudeni": [
+        "Čita se s papira",
+        "Prepisuje se na ploču",
+        "Pjeva se uz glazbu",
+        "Kazuje se napamet"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pri krasnoslovu pjesmu kazujemo napamet, izražajno i uz govorne vrednote.",
+      "savjet": "Sjeti se treba li pjesmu prije krasnoslova naučiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-011",
+      "tezina": "lagano",
+      "pitanje": "Koji tekst najčešće kazujemo krasnoslovom?",
+      "ponudeni": [
+        "Pjesmu",
+        "Recept za kolač",
+        "Popis za kupovinu",
+        "Raspored sati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krasnoslovom se najčešće kazuje pjesma, napamet i izražajno.",
+      "savjet": "Razmisli koji se tekst uči napamet da bi se lijepo izgovorio pred publikom."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-012",
+      "tezina": "lagano",
+      "pitanje": "Na kojim mjestima u tekstu pri čitanju naglas obično radimo stanku?",
+      "ponudeni": [
+        "Iza svakog slova",
+        "Kod zareza i točke",
+        "Usred svake riječi",
+        "Samo na kraju cijelog teksta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stanku obično radimo na mjestu zareza i točke, jer ondje završava dio misli.",
+      "savjet": "Pogledaj koji nam znakovi u tekstu pokazuju gdje završava dio rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-013",
+      "tezina": "lagano",
+      "pitanje": "Kakvim glasom obično čitamo tužan dio teksta?",
+      "ponudeni": [
+        "Glasnijim i bržim",
+        "Vrlo glasnim, kao da vičemo",
+        "Brzim, kao da se žurimo",
+        "Tišim i sporijim"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tužan sadržaj obično čitamo tiše i sporije, tako da slušatelj osjeti tugu.",
+      "savjet": "Sjeti se kako govori netko tko je tužan."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-014",
+      "tezina": "lagano",
+      "pitanje": "Kako obično čitamo veseo i uzbudljiv dio priče?",
+      "ponudeni": [
+        "Šapatom i vrlo sporo",
+        "Jednolično, bez promjena",
+        "Življe i brže",
+        "Tužnim i sporim glasom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Veseo i uzbudljiv sadržaj obično čitamo življe i brže.",
+      "savjet": "Sjeti se kako govoriš kad jedva čekaš nešto ispričati."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-015",
+      "tezina": "lagano",
+      "pitanje": "Zašto pri čitanju naglas koristimo govorne vrednote?",
+      "ponudeni": [
+        "Da čitanje što prije završi",
+        "Da slušatelj bolje razumije i osjeti tekst",
+        "Da ne moramo gledati u tekst",
+        "Da tekst postane kraći"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Govorne vrednote pomažu slušatelju da razumije tekst i osjeti njegovo raspoloženje.",
+      "savjet": "Razmisli komu je namijenjeno čitanje naglas."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-016",
+      "tezina": "lagano",
+      "pitanje": "Učiteljica kaže učeniku: „Govori malo glasnije, ne čujemo te.“ Na koju govornu vrednotu misli?",
+      "ponudeni": [
+        "Na jakost glasa",
+        "Na stanku",
+        "Na intonaciju",
+        "Na brzinu govora"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glasno ili tiho govorenje odnosi se na jakost glasa.",
+      "savjet": "Razmisli što učiteljica želi da se promijeni u učenikovu glasu."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-017",
+      "tezina": "lagano",
+      "pitanje": "Prijatelj priča toliko brzo da ga ne razumiješ. Što bi mu trebalo savjetovati?",
+      "ponudeni": [
+        "Da govori sporije",
+        "Da promijeni rimu",
+        "Da piše većim slovima",
+        "Da ljepše piše"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prebrz govor teško se razumije, pa treba usporiti, odnosno promijeniti brzinu govora.",
+      "savjet": "Uoči što u prijateljevu govoru smeta slušatelju."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-018",
+      "tezina": "lagano",
+      "pitanje": "Po čemu u govoru prepoznajemo da netko postavlja pitanje?",
+      "ponudeni": [
+        "Po veličini slova",
+        "Po broju riječi",
+        "Po intonaciji glasa",
+        "Po ljepoti rukopisa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Upitnu rečenicu u govoru prepoznajemo po intonaciji, odnosno melodiji rečenice.",
+      "savjet": "U govoru nema slova ni znakova, pa razmisli što zapravo čujemo."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-019",
+      "tezina": "lagano",
+      "pitanje": "Koju od navedenih rečenica izgovaramo upitnom intonacijom?",
+      "ponudeni": [
+        "„Predstava počinje u osam.“",
+        "„Kakva lijepa predstava!“",
+        "„Sjedni u prvi red.“",
+        "„Kada počinje predstava?“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica „Kada počinje predstava?“ je upitna, pa je izgovaramo upitnom intonacijom.",
+      "savjet": "Pogledaj kojim znakom završava svaka rečenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-020",
+      "tezina": "lagano",
+      "pitanje": "Koju od navedenih rečenica izgovaramo uskličnom intonacijom, s mnogo osjećaja?",
+      "ponudeni": [
+        "„Danas je utorak.“",
+        "„Jao, kako je ovo divno!“",
+        "„Gdje je moja torba?“",
+        "„Knjiga je na stolu.“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica „Jao, kako je ovo divno!“ je usklična i izriče snažan osjećaj.",
+      "savjet": "Potraži rečenicu koja izražava čuđenje ili oduševljenje."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-021",
+      "tezina": "lagano",
+      "pitanje": "Što učenik treba učiniti prije nastupa s krasnoslovom?",
+      "ponudeni": [
+        "Sakriti pjesmu od učiteljice",
+        "Smisliti pjesmi novi kraj",
+        "Naučiti pjesmu napamet",
+        "Naučiti samo naslov pjesme"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Za krasnoslov pjesmu treba naučiti napamet, a zatim uvježbati izražajno kazivanje.",
+      "savjet": "Sjeti se drži li učenik pri krasnoslovu tekst u rukama."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-022",
+      "tezina": "lagano",
+      "pitanje": "Kamo je dobro gledati dok kazuješ pjesmu pred razredom?",
+      "ponudeni": [
+        "U pod",
+        "U strop",
+        "Kroz prozor",
+        "Prema slušateljima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dobro je gledati prema slušateljima, jer tako ih uključujemo u ono što kazujemo.",
+      "savjet": "Razmisli komu je namijenjeno ono što kazuješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-023",
+      "tezina": "lagano",
+      "pitanje": "Što znači dio riječi krasno u riječi krasnoslov?",
+      "ponudeni": [
+        "Lijepo",
+        "Brzo",
+        "Tiho",
+        "Kratko"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krasno znači lijepo, pa krasnoslov znači lijepo, izražajno kazivanje.",
+      "savjet": "Sjeti se što kažemo kad nam se nešto jako svidi: „Kako krasno!“"
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-024",
+      "tezina": "lagano",
+      "pitanje": "Koliko je govornih vrednota u nizu: stanka, rima, intonacija, kitica?",
+      "ponudeni": [
+        "Jedna",
+        "Dvije",
+        "Tri",
+        "Četiri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Govorne vrednote u tom nizu su stanka i intonacija, a rima i kitica pojmovi su iz pjesme.",
+      "savjet": "Za svaku riječ provjeri opisuje li kako zvuči naš govor."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-025",
+      "tezina": "lagano",
+      "pitanje": "Koji od navedenih pojmova nije govorna vrednota?",
+      "ponudeni": [
+        "Stanka",
+        "Intonacija",
+        "Jakost glasa",
+        "Kitica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kitica je dio pjesme, a stanka, intonacija i jakost glasa su govorne vrednote.",
+      "savjet": "Traži pojam koji se može vidjeti na papiru, a ne čuti u govoru."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-026",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pomaže pri dobrom krasnoslovu?",
+      "ponudeni": [
+        "Jasan i razgovijetan izgovor",
+        "Gutanje krajeva riječi",
+        "Govor sa žvakaćom u ustima",
+        "Okretanje leđima publici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jasan i razgovijetan izgovor pomaže slušateljima da razumiju svaku riječ.",
+      "savjet": "Zamisli da sjediš u publici: što bi ti pomoglo da sve razumiješ?"
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-027",
+      "tezina": "lagano",
+      "pitanje": "Kako stanka pomaže slušatelju?",
+      "ponudeni": [
+        "Tekst prije završi",
+        "Ne čuje kraj rečenice",
+        "Lakše prati i razumije tekst",
+        "Zaboravi početak rečenice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stanka dijeli govor na dijelove, pa ga slušatelj lakše prati i razumije.",
+      "savjet": "Zamisli kako bi zvučao dug tekst izgovoren u jednom dahu."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-028",
+      "tezina": "lagano",
+      "pitanje": "Je li dobro čitati cijelu priču istim glasom, bez ikakvih promjena?",
+      "ponudeni": [
+        "Da, tako se najbolje izražavaju osjećaji",
+        "Ne, jer je takvo čitanje jednolično",
+        "Da, jer stanke smetaju slušatelju",
+        "Da, jer intonacija nije važna"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čitanje bez promjena glasa je jednolično, a govorne vrednote čine ga zanimljivim i jasnim.",
+      "savjet": "Sjeti se zašto uopće koristimo govorne vrednote."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-029",
+      "tezina": "lagano",
+      "pitanje": "Kakvim glasom obično čitamo dio priče u kojem netko doziva u pomoć?",
+      "ponudeni": [
+        "Šapatom",
+        "Vrlo tihim i sporim",
+        "Pospanim i tihim",
+        "Glasnijim"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dozivanje u pomoć čitamo glasnije, jer tako slušatelj osjeti hitnost.",
+      "savjet": "Kako bi zvučao netko tko želi da ga čuju izdaleka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-030",
+      "tezina": "lagano",
+      "pitanje": "Kakva je rečenica „Pazi, auto!“ i kako je izgovaramo?",
+      "ponudeni": [
+        "Upitna, kao da nešto pitamo",
+        "Usklična, jačim i uzbuđenim glasom",
+        "Izjavna, mirnim i ravnim glasom",
+        "Upitna, tihim šapatom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Pazi, auto!“ je usklična rečenica i upozorenje, pa je izgovaramo jače i uzbuđeno.",
+      "savjet": "Pogledaj znak na kraju rečenice i zamisli kada bi je netko izgovorio."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-031",
+      "tezina": "srednje",
+      "pitanje": "Kako je najbolje pročitati rečenicu „Mali mačić tužno je mijaukao na kiši.“?",
+      "ponudeni": [
+        "Glasno i brzo, kao da se veseliš",
+        "Tiše i sporije",
+        "Vičući svaku riječ",
+        "Brzo, bez ijedne stanke"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica govori o tužnom događaju, pa je obično čitamo tiše i sporije.",
+      "savjet": "Pronađi riječ koja otkriva raspoloženje rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-032",
+      "tezina": "srednje",
+      "pitanje": "Kako je najbolje pročitati rečenicu „Hura, sutra idemo na izlet!“?",
+      "ponudeni": [
+        "Tužno i vrlo sporo",
+        "Šapatom i bez osjećaja",
+        "Veselo, življe i brže",
+        "Jednolično, kao popis riječi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica izražava radost i uzbuđenje, pa je čitamo veselo, življe i brže.",
+      "savjet": "Zamisli kako se osjeća netko tko to kaže."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-033",
+      "tezina": "srednje",
+      "pitanje": "Što pojačava napetost pri čitanju rečenice „Polako je otvorio vrata, a iza njih – tišina.“?",
+      "ponudeni": [
+        "Brzo čitanje bez zastajanja",
+        "Vikanje cijele rečenice",
+        "Preskakanje zadnje riječi",
+        "Stanka prije zadnje riječi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stanka prije zadnje riječi stvara iščekivanje i pojačava napetost.",
+      "savjet": "Razmisli kako učiniti da slušatelj napeto čeka što slijedi."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-034",
+      "tezina": "srednje",
+      "pitanje": "Gdje je prirodno napraviti stanku u rečenici „Kad je stigla jesen, lišće je počelo padati.“?",
+      "ponudeni": [
+        "Iza riječi jesen",
+        "Iza riječi Kad",
+        "Iza riječi lišće",
+        "Iza riječi počelo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iza riječi jesen nalazi se zarez, a na mjestu zareza obično radimo kratku stanku.",
+      "savjet": "Pogledaj gdje se u rečenici nalazi znak koji nam pomaže pri stanci."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-035",
+      "tezina": "srednje",
+      "pitanje": "Rečenice „Ideš u kino.“ i „Ideš u kino?“ imaju iste riječi. Po čemu ih razlikujemo kad ih čujemo?",
+      "ponudeni": [
+        "Po broju riječi",
+        "Po redu riječi",
+        "Po intonaciji",
+        "Po veličini slova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi su iste, ali rečenice izgovaramo različitom melodijom, odnosno intonacijom.",
+      "savjet": "Riječi i njihov red jednaki su, pa razmisli što se ipak mijenja u glasu."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-036",
+      "tezina": "srednje",
+      "pitanje": "Kojom intonacijom izgovaramo rečenicu „Koliko je sati?“?",
+      "ponudeni": [
+        "Izjavnom",
+        "Upitnom",
+        "Uskličnom",
+        "Nikakvom, bez melodije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica „Koliko je sati?“ je pitanje, pa je izgovaramo upitnom intonacijom.",
+      "savjet": "Razmisli što ta rečenica traži od sugovornika."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-037",
+      "tezina": "srednje",
+      "pitanje": "Kako izgovaramo rečenicu „Kakav prekrasan zalazak sunca!“?",
+      "ponudeni": [
+        "Uskličnom intonacijom, s divljenjem",
+        "Upitnom intonacijom, kao da pitamo",
+        "Mirno, kao običnu obavijest",
+        "Šapatom, bez ikakvog osjećaja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica izražava divljenje i završava uskličnikom, pa je izgovaramo uskličnom intonacijom.",
+      "savjet": "Pogledaj znak na kraju i razmisli koji osjećaj rečenica izražava."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-038",
+      "tezina": "srednje",
+      "pitanje": "Pjesma opisuje oluju koja je sve jača. Kako glasom dočarati da oluja raste?",
+      "ponudeni": [
+        "Postupno stišavati glas do šapta",
+        "Govoriti jednolično od početka do kraja",
+        "Preskočiti stihove o oluji",
+        "Postupno pojačavati glas"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad oluja postaje sve jača, glas se može postupno pojačavati, tako da slušatelj osjeti kako raste.",
+      "savjet": "Razmisli koja govorna vrednota može rasti zajedno s olujom."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-039",
+      "tezina": "srednje",
+      "pitanje": "Stihovi opisuju bebu koja mirno spava. Kako ih je najbolje kazivati?",
+      "ponudeni": [
+        "Glasno i brzo",
+        "Vičući",
+        "Užurbano, bez stanki",
+        "Tiho i mirno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mirna slika uspavane bebe najbolje se dočara tihim i mirnim glasom.",
+      "savjet": "Sjeti se kako govoriš kad u sobi netko spava."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-040",
+      "tezina": "srednje",
+      "pitanje": "Što će se vjerojatno dogoditi ako netko kazuje pjesmu vrlo brzo i bez stanki?",
+      "ponudeni": [
+        "Slušatelji će ga teže razumjeti",
+        "Slušatelji će ga lakše pratiti",
+        "Pjesma će zvučati tužnije",
+        "Pjesma će dobiti više kitica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prebrz govor bez stanki teško je pratiti, pa ga slušatelji slabije razumiju.",
+      "savjet": "Sjeti se čemu služe stanke i umjerena brzina govora."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-041",
+      "tezina": "srednje",
+      "pitanje": "Što će se vjerojatno dogoditi ako učenik u velikoj dvorani kazuje pjesmu pretiho?",
+      "ponudeni": [
+        "Svi će ga savršeno čuti",
+        "Slušatelji u zadnjim redovima neće ga čuti",
+        "Pjesma će postati kraća",
+        "Slušatelji će čuti više rime"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pretih glas ne čuje se daleko, pa ga slušatelji u zadnjim redovima ne mogu čuti.",
+      "savjet": "Zamisli da sjediš u posljednjem redu velike dvorane."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-042",
+      "tezina": "srednje",
+      "pitanje": "Kako se izgovor rečenice „Mama je stigla!“ razlikuje od izgovora rečenice „Mama je stigla.“?",
+      "ponudeni": [
+        "Izgovara se kao pitanje",
+        "Izgovara se potpuno jednako",
+        "Izgovara se s više osjećaja i uzbuđenja",
+        "Izgovara se šapatom, bez osjećaja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Usklična rečenica izgovara se s više osjećaja, primjerice s radošću ili uzbuđenjem.",
+      "savjet": "Usporedi znakove na kraju dviju rečenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-043",
+      "tezina": "srednje",
+      "pitanje": "Ana je kazivala pjesmu tako da su je čuli i u zadnjem redu. Na koju se govornu vrednotu to odnosi?",
+      "ponudeni": [
+        "Na jakost glasa",
+        "Na stanku",
+        "Na intonaciju",
+        "Na rimu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Da se glas čuje i daleko, ovisi o jakosti glasa.",
+      "savjet": "Razmisli što određuje koliko se daleko čuje glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-044",
+      "tezina": "srednje",
+      "pitanje": "Luka je zastao prije posljednje riječi pjesme da bi je istaknuo. Koju je govornu vrednotu upotrijebio?",
+      "ponudeni": [
+        "Rimu",
+        "Kiticu",
+        "Intonaciju",
+        "Stanku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kratki prekid govora je stanka, a stanka prije važne riječi ističe tu riječ.",
+      "savjet": "Što se dogodilo s Lukinim govorom prije posljednje riječi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-045",
+      "tezina": "srednje",
+      "pitanje": "Ema je pjesmu o igri na snijegu kazivala brže nego pjesmu o rastanku. Koju je govornu vrednotu mijenjala?",
+      "ponudeni": [
+        "Rimu",
+        "Kiticu",
+        "Brzinu govora",
+        "Naslov"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad nešto kazujemo brže ili sporije, mijenjamo brzinu govora.",
+      "savjet": "Razmisli po čemu se razlikuje kazivanje veseloga i tužnoga sadržaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-046",
+      "tezina": "srednje",
+      "pitanje": "Kakva je obično stanka kod točke u usporedbi sa stankom kod zareza?",
+      "ponudeni": [
+        "Kod zareza je stanka dulja nego kod točke",
+        "Kod točke je stanka obično dulja nego kod zareza",
+        "Kod točke se uopće ne zastaje",
+        "Kod točke i zareza se viče"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Točka označava kraj rečenice, pa je ondje stanka obično dulja nego kod zareza.",
+      "savjet": "Sjeti se koji znak označava kraj cijele rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-047",
+      "tezina": "srednje",
+      "pitanje": "Iva čita izjavnu, upitnu i uskličnu rečenicu, svaku drukčijom melodijom. Koju govornu vrednotu najviše koristi?",
+      "ponudeni": [
+        "Rimu",
+        "Intonaciju",
+        "Kiticu",
+        "Pravopis"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Melodija rečenice je intonacija, a njome razlikujemo izjavnu, upitnu i uskličnu rečenicu.",
+      "savjet": "Sjeti se kako se zove melodija rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-048",
+      "tezina": "srednje",
+      "pitanje": "Pjesma govori o djevojčici koja se boji mraka i oprezno hoda hodnikom. Što najbolje pomaže dočarati strah?",
+      "ponudeni": [
+        "Glasan smijeh",
+        "Brzo i veselo čitanje",
+        "Pjevanje vesele melodije",
+        "Stanke i tiši glas"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strah i napetost dobro se dočaravaju stankama i tišim glasom.",
+      "savjet": "Zamisli kako zvuči netko tko se oprezno šulja u mraku."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-049",
+      "tezina": "srednje",
+      "pitanje": "Kako je najbolje pročitati rečenicu „Ššš, svi spavaju.“?",
+      "ponudeni": [
+        "Tiho, gotovo šapatom",
+        "Što glasnije",
+        "Veselo i brzo",
+        "Uskličnim povikom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica nekoga upozorava da bude tiho, pa je i čitamo tiho, gotovo šapatom.",
+      "savjet": "Što znači glas „ššš“ na početku rečenice?"
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-050",
+      "tezina": "srednje",
+      "pitanje": "Kako je najbolje pročitati rečenice „Gol! Pobijedili smo!“?",
+      "ponudeni": [
+        "Tiho i tužno",
+        "Sporo i umorno",
+        "Glasno i radosno",
+        "Jednolično i ravno"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenice izražavaju veliku radost, pa ih čitamo glasno i radosno.",
+      "savjet": "Zamisli kako navijači viču kad njihova momčad zabije."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-051",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se krasnoslov razlikuje od izražajnog čitanja?",
+      "ponudeni": [
+        "Pri krasnoslovu ne koristimo govorne vrednote",
+        "Krasnoslov se izvodi tiho, u sebi",
+        "Pri izražajnom čitanju ne gledamo u tekst",
+        "Pri krasnoslovu tekst kazujemo napamet"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I krasnoslov i izražajno čitanje koriste govorne vrednote, ali krasnoslov se kazuje napamet.",
+      "savjet": "Razmisli u kojem od ta dva nastupa govornik drži tekst pred sobom."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-052",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko krasnoslovu i izražajnom čitanju?",
+      "ponudeni": [
+        "Oba koriste govorne vrednote",
+        "Oba se izvode napamet",
+        "Oba se izvode tiho, u sebi",
+        "Oba služe za pisanje teksta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U oba slučaja govorimo naglas i koristimo govorne vrednote: jakost, brzinu, stanku i intonaciju.",
+      "savjet": "Sjeti se što čini čitanje ili kazivanje izražajnim."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-053",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove čitanje naglas pri kojem pazimo na jakost glasa, brzinu, stanke i intonaciju?",
+      "ponudeni": [
+        "Prepisivanje teksta",
+        "Izražajno čitanje",
+        "Diktat",
+        "Čitanje u sebi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čitanje naglas uz govorne vrednote zove se izražajno čitanje.",
+      "savjet": "Sjeti se kako se na satu zove čitanje pri kojem tekst oživi."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-054",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica dobro spojena s načinom čitanja?",
+      "ponudeni": [
+        "„Imam rođendan!“ – tužno i sporo",
+        "„Upomoć!“ – tiho i mirno",
+        "„Izgubio sam psa.“ – tužno i sporije",
+        "„Beba spava.“ – glasno i brzo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gubitak psa je tužan događaj, pa takvu rečenicu obično čitamo tužno i sporije.",
+      "savjet": "Za svaku rečenicu zamisli koji osjećaj izražava."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-055",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dobro napraviti kratku stanku prije važne riječi?",
+      "ponudeni": [
+        "Da slušatelj na nju obrati pozornost",
+        "Da je slušatelj ne čuje",
+        "Da govornik može preskočiti tu riječ",
+        "Da rečenica bude kraća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stanka prije važne riječi stvara iščekivanje, pa slušatelj tu riječ bolje zapamti.",
+      "savjet": "Što osjetiš kad govornik na trenutak zastane?"
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-056",
+      "tezina": "srednje",
+      "pitanje": "Pjesma ima tri kitice: prva je vesela, druga tužna, a treća opet vesela. Kako je dobro mijenjati brzinu govora?",
+      "ponudeni": [
+        "Sporo, brzo, pa opet sporo",
+        "Brže, sporije, pa opet brže",
+        "Sve kitice jednako brzo",
+        "Brzo, brže, pa najbrže"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vesele dijelove obično kazujemo brže, a tužne sporije, pa se brzina mijenja s raspoloženjem.",
+      "savjet": "Za svaku kiticu posebno razmisli kakav joj glas pristaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-057",
+      "tezina": "srednje",
+      "pitanje": "Kako je najbolje pročitati rečenicu „Djed je polako i umorno sjeo na klupu.“?",
+      "ponudeni": [
+        "Brzo i uzbuđeno",
+        "Vičući",
+        "Pjevajući",
+        "Sporije i mirnije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica opisuje umor i sporost, pa je čitamo sporije i mirnije.",
+      "savjet": "Pronađi riječi koje opisuju kako je djed sjeo."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-058",
+      "tezina": "srednje",
+      "pitanje": "Učiteljica kaže: „Kad čitaš pitanje, neka se čuje da pitaš.“ Na koju govornu vrednotu misli?",
+      "ponudeni": [
+        "Na rukopis",
+        "Na rimu",
+        "Na intonaciju",
+        "Na veliko slovo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Po intonaciji, odnosno melodiji rečenice, čujemo da netko pita.",
+      "savjet": "Razmisli što se u glasu mijenja kad nešto pitamo."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-059",
+      "tezina": "srednje",
+      "pitanje": "Koja situacija opisuje krasnoslov?",
+      "ponudeni": [
+        "Petra na priredbi napamet kazuje pjesmu i mijenja glas prema osjećajima",
+        "Petra tiho čita pjesmu u sebi",
+        "Petra prepisuje pjesmu u bilježnicu",
+        "Petra čita pjesmu s papira jednoličnim glasom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Krasnoslov je kazivanje pjesme napamet pred slušateljima, uz govorne vrednote.",
+      "savjet": "Sjeti se dviju stvari koje su potrebne za krasnoslov."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-060",
+      "tezina": "srednje",
+      "pitanje": "Zašto je dobro prije krasnoslova pjesmu nekoliko puta izgovoriti naglas?",
+      "ponudeni": [
+        "Da se tekst zaboravi",
+        "Da pjesma postane kraća",
+        "Da se uvježba korištenje govornih vrednota",
+        "Da ne treba gledati publiku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vježbanjem naglas govornik isproba kako će koristiti jakost, brzinu, stanke i intonaciju.",
+      "savjet": "Razmisli što se može uvježbati samo kad govoriš, a ne kad čitaš u sebi."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-061",
+      "tezina": "tesko",
+      "pitanje": "Kako je najbolje pročitati: „Čekali smo cijelu noć, a onda se začulo – kucanje!“?",
+      "ponudeni": [
+        "Bez stanki, jednolično",
+        "Veselo i brzo, kao šalu",
+        "Sa stankom prije riječi kucanje, koju zatim izgovorimo jače",
+        "Bez riječi kucanje, da ostane tajna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stanka prije riječi kucanje stvara napetost, a jače izgovorena riječ iznenadi slušatelja.",
+      "savjet": "Razmisli kako učiniti da slušatelj zadrži dah prije iznenađenja."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-062",
+      "tezina": "tesko",
+      "pitanje": "Kako je najbolje kazivati stih „Evo ga, vlak stiže, a u njemu baka!“?",
+      "ponudeni": [
+        "Tužno, tiše i sporije",
+        "Ljutito i vrlo oštro",
+        "Pospano, šapatom",
+        "Radosno, življe i brže"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stih izražava radost i uzbuđenje zbog bakina dolaska, pa ga kazujemo radosno, življe i brže.",
+      "savjet": "Zamisli kako se osjeća dijete koje na kolodvoru čeka baku."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-063",
+      "tezina": "tesko",
+      "pitanje": "Marko kazuje pjesmu o veselom proljeću tužnim i sporim glasom. Što nije dobro?",
+      "ponudeni": [
+        "Način kazivanja ne odgovara veselom sadržaju",
+        "Pjesma ima previše kitica",
+        "Trebao bi govoriti još sporije",
+        "Proljeće nije prikladna tema za pjesmu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Govorne vrednote treba prilagoditi sadržaju, a veseloj pjesmi više pristaje živahniji glas.",
+      "savjet": "Usporedi raspoloženje pjesme i način na koji je Marko kazuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-064",
+      "tezina": "tesko",
+      "pitanje": "Četvero učenika čita rečenicu „Gdje si bio cijeli dan?“. Tko je čita najbolje?",
+      "ponudeni": [
+        "Ivan, kao da nešto izjavljuje",
+        "Lana, upitnom intonacijom",
+        "Tea, jednolično i bez melodije",
+        "Ante, preskačući pojedine riječi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica je pitanje, pa je treba pročitati upitnom intonacijom.",
+      "savjet": "Pogledaj kojim znakom rečenica završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-065",
+      "tezina": "tesko",
+      "pitanje": "Koju je rečenicu najprikladnije pročitati tiho i sa stankama?",
+      "ponudeni": [
+        "„Hura, praznici su počeli!“",
+        "„Dođite svi na igralište!“",
+        "„Navijajmo svi zajedno!“",
+        "„Netko se tiho šulja hodnikom…“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica o šuljanju stvara napetost, a nju dočaravamo tišim glasom i stankama.",
+      "savjet": "Potraži rečenicu u kojoj se osjeća napetost, a ne radost."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-066",
+      "tezina": "tesko",
+      "pitanje": "Koju rečenicu pri čitanju treba izgovoriti najjačim glasom?",
+      "ponudeni": [
+        "„Laku noć, maleni.“",
+        "„Kiša tiho kapa.“",
+        "„Požar! Bježite van!“",
+        "„Zamislila se nad knjigom.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Upozorenje na opasnost izgovaramo glasno, da ga svi čuju.",
+      "savjet": "Razmisli koju bi rečenicu netko izgovorio kad je u opasnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-067",
+      "tezina": "tesko",
+      "pitanje": "Priča počinje veselom igrom, a završava kad se umorna djeca vrate kući i zaspu. Kako je mijenjati glas?",
+      "ponudeni": [
+        "Početi tiho i sporo, a završiti glasno i brzo",
+        "Početi življe i brže, a završiti tiše i sporije",
+        "Cijelu priču čitati jednako",
+        "Početi šapatom, a završiti vičući"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vesela igra traži življi i brži glas, a umor i san tiši i sporiji.",
+      "savjet": "Posebno razmisli o raspoloženju na početku, a posebno na kraju priče."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-068",
+      "tezina": "tesko",
+      "pitanje": "Ivo kaže: „Krasnoslov je dobar čim znaš pjesmu napamet.“ Zašto nije posve u pravu?",
+      "ponudeni": [
+        "Pjesmu treba kazivati i izražajno, uz govorne vrednote",
+        "Krasnoslov se čita s papira",
+        "Pjesmu za krasnoslov ne treba znati napamet",
+        "Krasnoslov se izvodi bez slušatelja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Za krasnoslov nije dovoljno znati pjesmu napamet; treba je i izražajno kazivati uz govorne vrednote.",
+      "savjet": "Sjeti se što sve uključuje krasnoslov osim pamćenja."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-069",
+      "tezina": "tesko",
+      "pitanje": "Sara ima tremu pa kazuje pjesmu sve brže i bez zastajanja. Koji joj je savjet najbolji?",
+      "ponudeni": [
+        "Neka uspori i zastane na kraju rečenica",
+        "Neka govori još brže da prije završi",
+        "Neka šapće da je nitko ne čuje",
+        "Neka preskoči teže stihove"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sporiji govor i stanke pomažu da slušatelji razumiju pjesmu, a i govorniku je lakše.",
+      "savjet": "Razmisli koje su dvije govorne vrednote Sari izmaknule kontroli."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-070",
+      "tezina": "tesko",
+      "pitanje": "Kako je najbolje pročitati obavijest „Sutra nastava počinje u osam sati.“?",
+      "ponudeni": [
+        "Uskličnim povikom, kao da je opasnost",
+        "Jasno i mirno, izjavnom intonacijom",
+        "Kao pitanje",
+        "Šapatom, da je nitko ne čuje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obavijest je izjavna rečenica bez snažnih osjećaja, pa je čitamo jasno i mirno.",
+      "savjet": "Razmisli što ta rečenica radi: pita, upozorava ili obavještava."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-071",
+      "tezina": "tesko",
+      "pitanje": "Mirna kazuje tužnu pjesmu o ozlijeđenoj ptici. Koji je postupak najprikladniji?",
+      "ponudeni": [
+        "Govoriti glasno i brzo",
+        "Smijati se na tužnim stihovima",
+        "Govoriti tiše i sporije, sa stankama",
+        "Kazivati jednolično, bez stanki"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tužan sadržaj najbolje se dočara tišim i sporijim glasom te stankama.",
+      "savjet": "Kakvo raspoloženje ima pjesma i kako ga glas može prenijeti?"
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-072",
+      "tezina": "tesko",
+      "pitanje": "Koji od ovih postupaka pri krasnoslovu ne pomaže slušateljima?",
+      "ponudeni": [
+        "Govoriti dovoljno glasno",
+        "Zastati na kraju rečenice",
+        "Mijenjati glas prema osjećaju",
+        "Govoriti vrlo brzo, bez ijedne stanke"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prebrz govor bez stanki slušatelji teško prate, a ostali postupci pomažu razumijevanju.",
+      "savjet": "Za svaki postupak zamisli kako bi ga doživio slušatelj."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-073",
+      "tezina": "tesko",
+      "pitanje": "Na natjecanju u krasnoslovu nastupaju četiri učenika. Čiji je nastup najbolji?",
+      "ponudeni": [
+        "Toni čita s papira, brzo i jednolično",
+        "Ena kazuje napamet, jasno i s osjećajem",
+        "Marta kazuje napamet, ali tako tiho da je nitko ne čuje",
+        "Bruno kazuje napamet, ali gleda u pod i guta riječi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dobar krasnoslov je napamet, jasan i izražajan, s govornim vrednotama prilagođenim pjesmi.",
+      "savjet": "Za svakog učenika provjeri ima li njegov nastup neki nedostatak."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-074",
+      "tezina": "tesko",
+      "pitanje": "Kako je najbolje izgovoriti rečenicu „Pogledaj, pada prvi snijeg!“?",
+      "ponudeni": [
+        "Uskličnom intonacijom i radosnim glasom",
+        "Upitnom intonacijom i tužnim glasom",
+        "Izjavnom intonacijom i vrlo sporo",
+        "Šapatom, sa stankom iza svake riječi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica je usklična i izražava radost, pa joj pristaju usklična intonacija i radostan glas.",
+      "savjet": "Odredi vrstu rečenice i osjećaj koji izražava."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-075",
+      "tezina": "tesko",
+      "pitanje": "Dora je rečenicu „Gdje je moja lopta?“ pročitala ravno, kao obavijest. Što nije dobro upotrijebila?",
+      "ponudeni": [
+        "Pravopis",
+        "Rimu",
+        "Naslov",
+        "Intonaciju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pitanje treba izgovoriti upitnom intonacijom, a Dora ga je izgovorila kao izjavnu rečenicu.",
+      "savjet": "Razmisli po čemu bi slušatelj prepoznao da Dora nešto pita."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-076",
+      "tezina": "tesko",
+      "pitanje": "Koji redoslijed najbolje opisuje pripremu za krasnoslov?",
+      "ponudeni": [
+        "Uvježbati kazivanje, pročitati pjesmu, pa je razumjeti",
+        "Nastupiti, naučiti pjesmu napamet, pa je pročitati",
+        "Pročitati i razumjeti pjesmu, naučiti je napamet, uvježbati kazivanje",
+        "Naučiti napamet bez čitanja, pa pjesmu razumjeti nakon nastupa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najprije pjesmu treba razumjeti, zatim naučiti napamet, a onda uvježbati izražajno kazivanje.",
+      "savjet": "Razmisli što od toga treba napraviti prvo, a što zadnje prije nastupa."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-077",
+      "tezina": "tesko",
+      "pitanje": "Četvero učenika čita isti tekst naglas. Tko je dobro upotrijebio stanku?",
+      "ponudeni": [
+        "Nika, koja je zastajala usred riječi",
+        "Fran, koji je čitao bez ijednog zastoja",
+        "Leo, koji je zastao kod zareza i na kraju rečenice",
+        "Iva, koja je zastajala iza svakog slova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stanku obično radimo kod zareza i točke, a ne usred riječi ili iza svakog slova.",
+      "savjet": "Sjeti se na kojim mjestima u tekstu prirodno zastajemo."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-078",
+      "tezina": "tesko",
+      "pitanje": "Kako je najbolje kazivati pjesmu o mačku koji se polako šulja prema mišu i na kraju skoči?",
+      "ponudeni": [
+        "Tiše i polaganije, sa stankama, a glasnije kad mačak skoči",
+        "Glasno i brzo od početka do kraja",
+        "Jednolično, bez ikakvih promjena",
+        "Veselo pjevajući cijelu pjesmu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Šuljanje se dočara tišim, polaganim glasom i stankama, a iznenadni skok jačim glasom.",
+      "savjet": "Razmisli mijenja li se raspoloženje pjesme od početka do kraja."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-079",
+      "tezina": "tesko",
+      "pitanje": "Zašto bi čitač napravio kratku stanku prije riječi nikad u rečenici „Taj dan nikad neću zaboraviti.“?",
+      "ponudeni": [
+        "Da se odmori jer je rečenica preduga",
+        "Da istakne važnu riječ",
+        "Da slušatelji ne čuju tu riječ",
+        "Jer se ondje nalazi upitnik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stanka prije riječi nikad privlači pozornost slušatelja upravo na tu riječ.",
+      "savjet": "Sjeti se čemu služi stanka prije neke riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-080",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je situaciji glasan govor najmanje prikladan?",
+      "ponudeni": [
+        "Kad dozivaš prijatelja preko igrališta",
+        "Kad upozoravaš: „Pazi, vlak!“",
+        "Kad navijaš na utakmici",
+        "Kad pjevušiš uspavanku bratu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uspavanka treba smiriti i uspavati, pa joj pristaje tih glas.",
+      "savjet": "Razmisli u kojoj je situaciji cilj da netko zaspi."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-081",
+      "tezina": "tesko",
+      "pitanje": "Lovro čita priču tako da sve likove izgovara istim, ravnim glasom. Što bi najviše popravilo njegovo čitanje?",
+      "ponudeni": [
+        "Mijenjati glas prema likovima i njihovim osjećajima",
+        "Čitati još brže",
+        "Preskočiti razgovore likova",
+        "Pročitati samo naslov priče"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mijenjanjem jakosti, brzine i intonacije likovi oživljavaju, a čitanje postaje izražajno.",
+      "savjet": "Sjeti se što čitanje čini izražajnim, a ne jednoličnim."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-082",
+      "tezina": "tesko",
+      "pitanje": "Kako je najbolje pročitati rečenicu „Za izlet nosim sendvič, jabuku, vodu i kapu.“?",
+      "ponudeni": [
+        "Bez stanki, sve u jednom dahu",
+        "S kratkom stankom kod svakog zareza",
+        "S dugom stankom iza svake riječi",
+        "Upitnom intonacijom na kraju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kod zareza u nabrajanju radimo kratke stanke, pa slušatelj jasno čuje svaku stvar.",
+      "savjet": "Pogledaj koji se znakovi ponavljaju u rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-083",
+      "tezina": "tesko",
+      "pitanje": "Na priredbi je dvorana velika, a mikrofona nema. Na što učenik koji kazuje pjesmu treba posebno paziti?",
+      "ponudeni": [
+        "Da govori što tiše",
+        "Da govori što brže",
+        "Da govori dovoljno glasno i razgovijetno",
+        "Da gleda u pod"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bez mikrofona glas treba biti dovoljno jak i jasan da ga čuju svi u dvorani.",
+      "savjet": "Zamisli što je potrebno da te čuje i netko u zadnjem redu."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-084",
+      "tezina": "tesko",
+      "pitanje": "Dva učenika čitaju isti tekst bez greške. Prvi čita jednolično, a drugi mijenja glas prema sadržaju. Tko čita izražajno?",
+      "ponudeni": [
+        "Prvi, jer je jednoličnost najvažnija",
+        "Obojica jednako izražajno",
+        "Nijedan, jer čitaju naglas",
+        "Drugi, jer koristi govorne vrednote"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izražajno čita onaj tko koristi govorne vrednote i prilagođava glas sadržaju.",
+      "savjet": "Nije dovoljno čitati bez greške; sjeti se što još traži izražajno čitanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-085",
+      "tezina": "tesko",
+      "pitanje": "Ana je rečenicu „Napokon su stigli praznici!“ pročitala tiho i sporo. Kako bi bilo prikladnije?",
+      "ponudeni": [
+        "Još tiše i sporije",
+        "Glasnije i življe, uskličnom intonacijom",
+        "Upitnom intonacijom",
+        "Šapatom, s dugim stankama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica izražava radost i završava uskličnikom, pa joj pristaje glasniji i življi govor.",
+      "savjet": "Odredi koji osjećaj izražava rečenica i kojim znakom završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-086",
+      "tezina": "tesko",
+      "pitanje": "Koji je dio priče najprikladnije čitati brže?",
+      "ponudeni": [
+        "Opis mirnog sjedenja uz prozor",
+        "Opis bake koja polako plete",
+        "Opis bijega pred razigranim psom",
+        "Opis mačke koja spava na suncu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bijeg je uzbudljiv i pun pokreta, pa ga čitamo brže, a mirne prizore sporije.",
+      "savjet": "Potraži dio priče u kojem se nešto događa užurbano."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-087",
+      "tezina": "tesko",
+      "pitanje": "Zašto se pjesma pri krasnoslovu kazuje napamet, a ne čita s papira?",
+      "ponudeni": [
+        "Da može gledati slušatelje i posvetiti se izražajnom kazivanju",
+        "Da pjesma bude kraća",
+        "Jer je papir u školi zabranjen",
+        "Da ne treba koristiti govorne vrednote"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad zna pjesmu napamet, govornik može gledati slušatelje i potpuno se posvetiti izražajnom kazivanju.",
+      "savjet": "Razmisli kamo gleda onaj tko čita s papira."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-088",
+      "tezina": "tesko",
+      "pitanje": "Koji je stih najprirodnije izgovoriti polako i tiho?",
+      "ponudeni": [
+        "„Trči, trči, vlak već kreće!“",
+        "„Bravo, opet smo pobijedili!“",
+        "„Svi u napad, gol je blizu!“",
+        "„Zvijezde se pale, grad tone u san.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stih o večeri i snu je miran, pa ga kazujemo polako i tiho.",
+      "savjet": "Potraži stih koji opisuje miran prizor."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-089",
+      "tezina": "tesko",
+      "pitanje": "Kako je najbolje pročitati rečenicu: „Stani!“ viknuo je stražar.",
+      "ponudeni": [
+        "Cijelu rečenicu šapatom",
+        "Riječ Stani glasno i oštro, a ostatak mirnije",
+        "Riječ Stani kao pitanje",
+        "Sve jednolično i sporo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stražar viče, pa riječ Stani izgovaramo glasno, a riječi pripovjedača mirnije.",
+      "savjet": "Razlikuj riječi koje izgovara stražar od riječi pripovjedača."
+    },
+    {
+      "id": "4-hrvatski-jezik-krasnoslov-i-govorne-vrednote-090",
+      "tezina": "tesko",
+      "pitanje": "Trener kaže: „Jedan, dva, tri – krećemo!“ Kako je najbolje pročitati njegove riječi?",
+      "ponudeni": [
+        "Sve tiho, šapatom",
+        "Bez brojeva, samo zadnju riječ",
+        "Kao pitanje",
+        "Brojeve odmjereno, sa stankama, a riječ krećemo glasno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Odbrojavanje sa stankama stvara iščekivanje, a glasna riječ krećemo daje znak za početak.",
+      "savjet": "Zamisli kako zvuči odbrojavanje prije početka utrke."
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "narjecja-i-standardni-jezik",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-001",
+      "tezina": "lagano",
+      "pitanje": "Koliko narječja ima hrvatski jezik?",
+      "ponudeni": [
+        "Dva",
+        "Četiri",
+        "Tri",
+        "Pet"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski jezik ima tri narječja: kajkavsko, čakavsko i štokavsko.",
+      "savjet": "Sjeti se kako se u različitim krajevima kaže „što“."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-002",
+      "tezina": "lagano",
+      "pitanje": "Prema kojoj su riječi hrvatska narječja dobila imena?",
+      "ponudeni": [
+        "Prema riječi za „što“",
+        "Prema riječi za „tko“",
+        "Prema riječi za „gdje“",
+        "Prema riječi za „kada“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Narječja su nazvana prema riječi za „što“: kaj, ča i što.",
+      "savjet": "Izgovori naglas nazive narječja i poslušaj kojom riječju počinju."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-003",
+      "tezina": "lagano",
+      "pitanje": "U kojem se narječju za „što“ kaže „ča“?",
+      "ponudeni": [
+        "U kajkavskom narječju",
+        "U čakavskom narječju",
+        "U štokavskom narječju",
+        "U standardnom jeziku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čakavsko narječje dobilo je ime po riječi „ča“, kojom čakavci kažu „što“.",
+      "savjet": "Sjeti se prema čemu su narječja dobila imena."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-004",
+      "tezina": "lagano",
+      "pitanje": "U kojem se narječju za „što“ kaže „kaj“?",
+      "ponudeni": [
+        "U čakavskom narječju",
+        "U štokavskom narječju",
+        "U standardnom jeziku",
+        "U kajkavskom narječju"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kajkavsko narječje dobilo je ime po riječi „kaj“, kojom kajkavci kažu „što“.",
+      "savjet": "Usporedi riječ „kaj“ s početkom naziva svakog narječja."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-005",
+      "tezina": "lagano",
+      "pitanje": "Koju riječ za „što“ upotrebljava štokavsko narječje?",
+      "ponudeni": [
+        "kaj",
+        "ča",
+        "kak",
+        "što"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Štokavci za „što“ kažu „što“ ili „šta“, pa je narječje po tome dobilo ime.",
+      "savjet": "Ime narječja skriva riječ kojom se pita za stvari."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-006",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih jedno od tri hrvatska narječja?",
+      "ponudeni": [
+        "Gradsko narječje",
+        "Čakavsko narječje",
+        "Školsko narječje",
+        "Morsko narječje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tri hrvatska narječja su kajkavsko, čakavsko i štokavsko.",
+      "savjet": "Hrvatska narječja nazvana su prema riječi za „što“."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-007",
+      "tezina": "lagano",
+      "pitanje": "Na čemu se temelji hrvatski standardni jezik?",
+      "ponudeni": [
+        "Na kajkavskom narječju",
+        "Na čakavskom narječju",
+        "Na štokavskom narječju",
+        "Na latinskom jeziku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hrvatski standardni jezik temelji se na štokavskom narječju.",
+      "savjet": "Sjeti se kako se u standardnom jeziku kaže „što“."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-008",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo govor kraja ili mjesta u kojem živimo?",
+      "ponudeni": [
+        "Standardni jezik",
+        "Strani jezik",
+        "Pisani jezik",
+        "Zavičajni govor"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Govor kraja ili mjesta u kojem živimo zove se zavičajni ili mjesni govor.",
+      "savjet": "Kraj u kojem smo rođeni i odrasli zovemo još jednom posebnom riječju."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-009",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo jezik koji učimo u školi i koji je zajednički svim Hrvatima?",
+      "ponudeni": [
+        "Hrvatski standardni jezik",
+        "Zavičajni govor",
+        "Mjesni govor",
+        "Kajkavsko narječje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski standardni jezik zajednički je svim Hrvatima i uči se u školi.",
+      "savjet": "Traži naziv koji ne pripada samo jednom kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-010",
+      "tezina": "lagano",
+      "pitanje": "Kojim se jezikom govori u vijestima na televiziji?",
+      "ponudeni": [
+        "Zavičajnim govorom",
+        "Hrvatskim standardnim jezikom",
+        "Mjesnim govorom jednog sela",
+        "Stranim jezikom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vijesti slušaju ljudi iz cijele Hrvatske, pa se govore standardnim jezikom.",
+      "savjet": "Razmisli koji jezik razumiju gledatelji iz svih krajeva."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-011",
+      "tezina": "lagano",
+      "pitanje": "U kojem se narječju za „što“ kaže „što“ ili „šta“?",
+      "ponudeni": [
+        "U kajkavskom narječju",
+        "U čakavskom narječju",
+        "U štokavskom narječju",
+        "Samo u standardnom jeziku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Štokavsko narječje dobilo je ime po riječi „što“, koja se izgovara i „šta“.",
+      "savjet": "Izgovori polako naziv svakog narječja i poslušaj njegov početak."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-012",
+      "tezina": "lagano",
+      "pitanje": "Koju riječ za „što“ upotrebljavaju kajkavci?",
+      "ponudeni": [
+        "ča",
+        "kaj",
+        "što",
+        "šta"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kajkavci za „što“ kažu „kaj“, pa se njihovo narječje zove kajkavsko.",
+      "savjet": "Sjeti se kako za „što“ kažu ljudi u Hrvatskom zagorju."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-013",
+      "tezina": "lagano",
+      "pitanje": "Koju riječ za „što“ upotrebljavaju čakavci?",
+      "ponudeni": [
+        "kaj",
+        "što",
+        "šta",
+        "ča"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Čakavci za „što“ kažu „ča“, pa se njihovo narječje zove čakavsko.",
+      "savjet": "Sjeti se kako za „što“ kažu ljudi u Istri."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-014",
+      "tezina": "lagano",
+      "pitanje": "Kako još nazivamo zavičajni govor?",
+      "ponudeni": [
+        "Mjesni govor",
+        "Standardni govor",
+        "Službeni govor",
+        "Pisani govor"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zavičajni govor zove se i mjesni govor jer je to govor mjesta u kojem živimo.",
+      "savjet": "Zavičajni govor pripada jednom selu, gradu ili kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-015",
+      "tezina": "lagano",
+      "pitanje": "Gdje se upotrebljava hrvatski standardni jezik?",
+      "ponudeni": [
+        "Samo u jednom selu",
+        "Samo u Hrvatskom zagorju",
+        "U školskim udžbenicima",
+        "Samo u Istri"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Standardni jezik koristi se u udžbenicima jer ga razumiju učenici iz cijele Hrvatske.",
+      "savjet": "Standardni jezik nije vezan uz jedan kraj."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-016",
+      "tezina": "lagano",
+      "pitanje": "Kada najčešće govorimo zavičajnim govorom?",
+      "ponudeni": [
+        "Kad pišemo školski sastavak",
+        "Kad razgovaramo s obitelji i prijateljima iz svog mjesta",
+        "Kad pišemo službeno pismo",
+        "Kad čitamo vijesti na radiju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zavičajnim govorom razgovaramo s obitelji i prijateljima iz svog mjesta.",
+      "savjet": "Sjeti se kako razgovaraš kod kuće i u svom susjedstvu."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se treba odnositi prema zavičajnom govoru?",
+      "ponudeni": [
+        "Treba ga se sramiti.",
+        "Treba ga zaboraviti.",
+        "Treba ga čuvati jer je vrijedan.",
+        "Treba ga izbjegavati i kod kuće."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zavičajni govor dio je baštine našeg kraja, vrijedan je i treba ga čuvati.",
+      "savjet": "Razmisli što zavičajni govor znači za tvoju obitelj i tvoj kraj."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-018",
+      "tezina": "lagano",
+      "pitanje": "Kome je zajednički hrvatski standardni jezik?",
+      "ponudeni": [
+        "Samo Slavoncima",
+        "Samo Istranima",
+        "Samo Zagorcima",
+        "Svim Hrvatima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatski standardni jezik zajednički je svim Hrvatima, iz kojeg god kraja bili.",
+      "savjet": "Standardni jezik služi da bi se ljudi iz različitih krajeva razumjeli."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-019",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo ljude koji govore kajkavskim narječjem?",
+      "ponudeni": [
+        "Kajkavci",
+        "Štokavci",
+        "Čakavci",
+        "Kakavci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljudi koji govore kajkavskim narječjem zovu se kajkavci.",
+      "savjet": "Naziv govornika nastaje od naziva narječja."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-020",
+      "tezina": "lagano",
+      "pitanje": "Koji od navedenih naziva nije naziv hrvatskog narječja?",
+      "ponudeni": [
+        "Kajkavsko narječje",
+        "Čakavsko narječje",
+        "Štokavsko narječje",
+        "Tkavsko narječje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hrvatski jezik ima samo kajkavsko, čakavsko i štokavsko narječje.",
+      "savjet": "Hrvatska narječja nazvana su prema riječi za „što“, a ne za „tko“."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-021",
+      "tezina": "lagano",
+      "pitanje": "Govore li ljudi u svim krajevima Hrvatske jednako?",
+      "ponudeni": [
+        "Da, u svakom kraju govori se jednako.",
+        "Ne, krajevi imaju različite zavičajne govore.",
+        "Da, ali samo u gradovima.",
+        "Ne, jer u Hrvatskoj nema narječja."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svaki kraj ima svoj zavičajni govor, a govori se dijele na tri narječja.",
+      "savjet": "Sjeti se kako za „što“ kažu ljudi u različitim krajevima."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-022",
+      "tezina": "lagano",
+      "pitanje": "Koju riječ za „što“ upotrebljavamo kad govorimo hrvatskim standardnim jezikom?",
+      "ponudeni": [
+        "kaj",
+        "ča",
+        "što",
+        "kak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U standardnom jeziku kažemo „što“, jednako kao u štokavskom narječju.",
+      "savjet": "Sjeti se na kojem se narječju temelji standardni jezik."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-023",
+      "tezina": "lagano",
+      "pitanje": "Kojim jezikom pišemo domaću zadaću iz Hrvatskoga jezika?",
+      "ponudeni": [
+        "Hrvatskim standardnim jezikom",
+        "Samo kajkavskim narječjem",
+        "Samo čakavskim narječjem",
+        "Bilo kojim stranim jezikom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U školi učimo i pišemo hrvatskim standardnim jezikom.",
+      "savjet": "Razmisli kojim su jezikom napisani tvoji udžbenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-024",
+      "tezina": "lagano",
+      "pitanje": "Kojim se jezikom govori u službenim prilikama, na primjer na svečanosti u školi?",
+      "ponudeni": [
+        "Zavičajnim govorom sela",
+        "Mjesnim govorom",
+        "Hrvatskim standardnim jezikom",
+        "Stranim jezikom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U službenim prilikama govorimo standardnim jezikom koji razumiju svi.",
+      "savjet": "Na svečanosti mogu biti gosti iz različitih krajeva."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-025",
+      "tezina": "lagano",
+      "pitanje": "Koja su tri narječja hrvatskoga jezika?",
+      "ponudeni": [
+        "kajkavsko, čakavsko i štokavsko",
+        "kajkavsko, zagorsko i istarsko",
+        "štokavsko, slavonsko i dalmatinsko",
+        "čakavsko, gradsko i seosko"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski jezik ima kajkavsko, čakavsko i štokavsko narječje.",
+      "savjet": "Svako narječje nazvano je prema riječi za „što“."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-026",
+      "tezina": "lagano",
+      "pitanje": "Kojim jezikom učiteljica govori dok na satu objašnjava novo gradivo?",
+      "ponudeni": [
+        "Kajkavskim narječjem",
+        "Čakavskim narječjem",
+        "Stranim jezikom",
+        "Hrvatskim standardnim jezikom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na nastavi se govori standardnim jezikom jer je to jezik škole.",
+      "savjet": "Sjeti se koji se jezik koristi u školi i udžbenicima."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-027",
+      "tezina": "lagano",
+      "pitanje": "Što su kajkavsko, čakavsko i štokavsko?",
+      "ponudeni": [
+        "Strani jezici",
+        "Hrvatska narječja",
+        "Vrste riječi",
+        "Hrvatski gradovi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kajkavsko, čakavsko i štokavsko su tri narječja hrvatskoga jezika.",
+      "savjet": "Sjeti se što znače riječi kaj, ča i što."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-028",
+      "tezina": "lagano",
+      "pitanje": "Kojim se jezikom pišu novine koje se čitaju u cijeloj Hrvatskoj?",
+      "ponudeni": [
+        "Zavičajnim govorom jednog sela",
+        "Samo čakavskim narječjem",
+        "Hrvatskim standardnim jezikom",
+        "Samo kajkavskim narječjem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Novine za cijelu Hrvatsku pišu se standardnim jezikom da ih svi razumiju.",
+      "savjet": "Čitatelji tih novina dolaze iz svih krajeva."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-029",
+      "tezina": "lagano",
+      "pitanje": "Koja je tvrdnja o hrvatskim narječjima točna?",
+      "ponudeni": [
+        "Hrvatski jezik ima tri narječja.",
+        "Hrvatski jezik ima jedno narječje.",
+        "Narječja su strani jezici.",
+        "Narječja postoje samo u knjigama."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski jezik ima tri narječja, a njima ljudi i danas govore u svojim krajevima.",
+      "savjet": "Prebroji riječi za „što“ u različitim krajevima Hrvatske."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-030",
+      "tezina": "lagano",
+      "pitanje": "Koja je tvrdnja o zavičajnom govoru točna?",
+      "ponudeni": [
+        "To je govor mjesta ili kraja u kojem živimo.",
+        "To je jezik svih udžbenika.",
+        "To je jezik vijesti na televiziji.",
+        "To je strani jezik."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zavičajni govor je govor mjesta ili kraja u kojem živimo.",
+      "savjet": "Riječ zavičaj označava kraj u kojem smo rođeni ili odrasli."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-031",
+      "tezina": "srednje",
+      "pitanje": "Kojem narječju pripadaju zavičajni govori Hrvatskog zagorja?",
+      "ponudeni": [
+        "Čakavskom narječju",
+        "Kajkavskom narječju",
+        "Štokavskom narječju",
+        "Standardnom jeziku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Hrvatskom zagorju govori se kajkavskim narječjem.",
+      "savjet": "Sjeti se kako za „što“ kažu ljudi na sjeveru Hrvatske."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-032",
+      "tezina": "srednje",
+      "pitanje": "Kojim se narječjem govori u Istri?",
+      "ponudeni": [
+        "Štokavskim narječjem",
+        "Kajkavskim narječjem",
+        "Standardnim jezikom",
+        "Čakavskim narječjem"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U Istri se govori čakavskim narječjem, u kojem se za „što“ kaže „ča“.",
+      "savjet": "Istra je poluotok na zapadu Hrvatske, uz more."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-033",
+      "tezina": "srednje",
+      "pitanje": "Kojim se narječjem govori u Baranji?",
+      "ponudeni": [
+        "Štokavskim narječjem",
+        "Kajkavskim narječjem",
+        "Čakavskim narječjem",
+        "Standardnim jezikom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U Baranji, na istoku Hrvatske, govori se štokavskim narječjem.",
+      "savjet": "Baranja je na istoku Hrvatske, blizu Slavonije."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-034",
+      "tezina": "srednje",
+      "pitanje": "U kojem se kraju govori kajkavskim narječjem?",
+      "ponudeni": [
+        "U Istri",
+        "U Slavoniji",
+        "U Međimurju",
+        "U Dubrovniku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Međimurje je na sjeveru Hrvatske i ondje se govori kajkavskim narječjem.",
+      "savjet": "Kajkavsko narječje govori se na sjeveru Hrvatske."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-035",
+      "tezina": "srednje",
+      "pitanje": "U kojem se kraju govori štokavskim narječjem?",
+      "ponudeni": [
+        "Na otoku Krku",
+        "U Hrvatskom zagorju",
+        "U Slavoniji",
+        "U Međimurju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Slavoniji se govori štokavskim narječjem, u kojem se kaže „što“ ili „šta“.",
+      "savjet": "Štokavsko narječje govori se i na istoku Hrvatske."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-036",
+      "tezina": "srednje",
+      "pitanje": "Kojim se narječjem govori na otocima Krku, Cresu i Rabu?",
+      "ponudeni": [
+        "Kajkavskim narječjem",
+        "Čakavskim narječjem",
+        "Štokavskim narječjem",
+        "Standardnim jezikom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na kvarnerskim otocima Krku, Cresu i Rabu govori se čakavskim narječjem.",
+      "savjet": "To su otoci u Kvarneru, blizu Istre."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-037",
+      "tezina": "srednje",
+      "pitanje": "Kojim se narječjem govori u Dubrovniku?",
+      "ponudeni": [
+        "Kajkavskim narječjem",
+        "Čakavskim narječjem",
+        "Standardnim jezikom",
+        "Štokavskim narječjem"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U Dubrovniku se govori štokavskim narječjem.",
+      "savjet": "Dubrovnik je na jugu Hrvatske, daleko od Istre i Zagorja."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-038",
+      "tezina": "srednje",
+      "pitanje": "Kojem narječju pripada zavičajni govor Varaždina?",
+      "ponudeni": [
+        "Kajkavskom narječju",
+        "Čakavskom narječju",
+        "Štokavskom narječju",
+        "Standardnom jeziku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Varaždin je na sjeveru Hrvatske, a ondje se govori kajkavskim narječjem.",
+      "savjet": "Varaždin je blizu Međimurja i Hrvatskog zagorja."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-039",
+      "tezina": "srednje",
+      "pitanje": "Marko na izletu čuje kako ljudi za „što“ kažu „ča“. U kojem je kraju najvjerojatnije?",
+      "ponudeni": [
+        "U Slavoniji",
+        "U Istri",
+        "U Međimurju",
+        "U Baranji"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Ča“ je čakavska riječ, a čakavskim narječjem govori se u Istri.",
+      "savjet": "Najprije odredi narječje, a onda se sjeti gdje se njime govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-040",
+      "tezina": "srednje",
+      "pitanje": "Ana je na putovanju čula kako djeca za „što“ kažu „kaj“. U kojem je kraju najvjerojatnije?",
+      "ponudeni": [
+        "U Dubrovniku",
+        "Na otoku Cresu",
+        "U Hrvatskom zagorju",
+        "U Slavoniji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Kaj“ je kajkavska riječ, a kajkavskim narječjem govori se u Hrvatskom zagorju.",
+      "savjet": "Kajkavsko narječje govori se na sjeveru Hrvatske."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-041",
+      "tezina": "srednje",
+      "pitanje": "Riječ „kak“ znači „kako“. Kojem narječju pripada?",
+      "ponudeni": [
+        "Kajkavskom narječju",
+        "Čakavskom narječju",
+        "Štokavskom narječju",
+        "Standardnom jeziku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "„Kak“ je kajkavska riječ za „kako“, kao što je „kaj“ kajkavska riječ za „što“.",
+      "savjet": "Usporedi riječ „kak“ s riječima kaj, ča i što."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-042",
+      "tezina": "srednje",
+      "pitanje": "Kajkavci kažu „kak“. Kako se ta riječ kaže u hrvatskom standardnom jeziku?",
+      "ponudeni": [
+        "kak",
+        "kako",
+        "kaj",
+        "ča"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kajkavskoj riječi „kak“ u standardnom jeziku odgovara riječ „kako“.",
+      "savjet": "Kojom riječju pitaš na koji se način nešto radi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-043",
+      "tezina": "srednje",
+      "pitanje": "Luka na satu odgovara na učiteljičino pitanje. Kojim bi jezikom trebao govoriti?",
+      "ponudeni": [
+        "Zavičajnim govorom svog sela",
+        "Govorom kojim razgovara s djedom",
+        "Govorom prijatelja iz svoje ulice",
+        "Hrvatskim standardnim jezikom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na nastavi govorimo standardnim jezikom jer je to jezik škole.",
+      "savjet": "Razmisli razlikuje li se razgovor na satu od razgovora kod kuće."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-044",
+      "tezina": "srednje",
+      "pitanje": "Petra s bakom i djedom razgovara onako kako se govori u njihovu selu. Kako se zove taj govor?",
+      "ponudeni": [
+        "Zavičajni govor",
+        "Standardni jezik",
+        "Strani jezik",
+        "Jezik udžbenika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Govor sela ili kraja u kojem živimo zove se zavičajni govor.",
+      "savjet": "Taj govor pripada samo jednom mjestu."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-045",
+      "tezina": "srednje",
+      "pitanje": "Koju riječ za „što“ čuješ u zavičajnom govoru Slavonije?",
+      "ponudeni": [
+        "kaj",
+        "što",
+        "ča",
+        "kak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Slavoniji se govori štokavskim narječjem, pa ondje za „što“ kažu „što“ ili „šta“.",
+      "savjet": "Najprije se sjeti kojim se narječjem govori u Slavoniji."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-046",
+      "tezina": "srednje",
+      "pitanje": "Zašto nam je potreban hrvatski standardni jezik?",
+      "ponudeni": [
+        "Da bismo zaboravili zavičajni govor",
+        "Da bi svaki kraj imao drukčiji jezik",
+        "Da bi se svi Hrvati mogli lako sporazumjeti",
+        "Da bismo svi govorili samo kajkavski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Standardni jezik zajednički je svim Hrvatima, pa se njime lako sporazumiju ljudi iz različitih krajeva.",
+      "savjet": "Zamisli razgovor dvoje djece iz krajeva koji su jako udaljeni."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-047",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko riječima „kaj“, „ča“ i „što“?",
+      "ponudeni": [
+        "Sve su imena gradova.",
+        "Sve znače „kako“.",
+        "Sve su strane riječi.",
+        "Sve znače „što“."
+      ],
+      "tocan": 3,
+      "objasnjenje": "„Kaj“, „ča“ i „što“ znače isto, a po njima su nazvana tri hrvatska narječja.",
+      "savjet": "Sjeti se po čemu su narječja dobila imena."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-048",
+      "tezina": "srednje",
+      "pitanje": "Kako se treba odnositi prema prijatelju koji govori drukčijim zavičajnim govorom?",
+      "ponudeni": [
+        "Poštovati njegov govor",
+        "Ismijavati njegov govor",
+        "Ispravljati svaku njegovu riječ",
+        "Ne razgovarati s njim"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaki zavičajni govor je vrijedan, pa poštujemo i govor drugih ljudi.",
+      "savjet": "Zamisli kako je doći u novi kraj i govoriti drukčije od drugih."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-049",
+      "tezina": "srednje",
+      "pitanje": "Na kojem se narječju temelji standardni jezik i kako se u tom narječju kaže „što“?",
+      "ponudeni": [
+        "Na kajkavskom, kaže se „kaj“",
+        "Na čakavskom, kaže se „ča“",
+        "Na štokavskom, kaže se „što“",
+        "Na štokavskom, kaže se „ča“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Standardni jezik temelji se na štokavskom narječju, u kojem se kaže „što“.",
+      "savjet": "Provjeri oba dijela odgovora: i narječje i riječ moraju pristajati."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-050",
+      "tezina": "srednje",
+      "pitanje": "Kada je sasvim prikladno govoriti zavičajnim govorom?",
+      "ponudeni": [
+        "Kad pišeš školski test",
+        "Kad razgovaraš s obitelji kod kuće",
+        "Kad čitaš vijesti na radiju",
+        "Kad pišeš službeno pismo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zavičajnim govorom razgovaramo kod kuće, s obitelji i prijateljima.",
+      "savjet": "Odvoji službene prilike od svakodnevnih razgovora."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-051",
+      "tezina": "srednje",
+      "pitanje": "U kojoj se prilici očekuje hrvatski standardni jezik?",
+      "ponudeni": [
+        "U igri s prijateljima u dvorištu",
+        "U razgovoru s bakom u kuhinji",
+        "U pisanom testu iz Hrvatskoga jezika",
+        "U šali s bratom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Školski testovi pišu se standardnim jezikom, a kod kuće i u igri možemo govoriti zavičajno.",
+      "savjet": "Potraži službenu ili školsku prigodu."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-052",
+      "tezina": "srednje",
+      "pitanje": "Koja dva kraja pripadaju istom narječju?",
+      "ponudeni": [
+        "Istra i Slavonija",
+        "Međimurje i Hrvatsko zagorje",
+        "Dubrovnik i Istra",
+        "Baranja i Međimurje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Međimurju i Hrvatskom zagorju govori se kajkavskim narječjem.",
+      "savjet": "Za svaki kraj najprije odredi narječje, pa usporedi parove."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-053",
+      "tezina": "srednje",
+      "pitanje": "U kojem se paru krajeva u oba kraja govori štokavskim narječjem?",
+      "ponudeni": [
+        "Istra i Međimurje",
+        "Hrvatsko zagorje i Krk",
+        "Varaždin i Cres",
+        "Slavonija i Baranja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slavonija i Baranja nalaze se na istoku Hrvatske i ondje se govori štokavskim narječjem.",
+      "savjet": "Štokavsko narječje govori se na istoku i na jugu Hrvatske."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-054",
+      "tezina": "srednje",
+      "pitanje": "Koji par točno povezuje narječje i riječ za „što“?",
+      "ponudeni": [
+        "kajkavsko – ča",
+        "čakavsko – kaj",
+        "štokavsko – kaj",
+        "čakavsko – ča"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Čakavsko narječje dobilo je ime po riječi „ča“.",
+      "savjet": "Usporedi početak naziva narječja s riječju u paru."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-055",
+      "tezina": "srednje",
+      "pitanje": "Koji par točno povezuje narječje i kraj u kojem se njime govori?",
+      "ponudeni": [
+        "kajkavsko – Međimurje",
+        "kajkavsko – Istra",
+        "čakavsko – Slavonija",
+        "štokavsko – Međimurje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kajkavskim narječjem govori se u Međimurju, na sjeveru Hrvatske.",
+      "savjet": "Za svaki kraj sjeti se kako ondje ljudi kažu „što“."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-056",
+      "tezina": "srednje",
+      "pitanje": "Koji kraj ne pripada istom narječju kao ostala tri: Međimurje, Varaždin, Hrvatsko zagorje, Istra?",
+      "ponudeni": [
+        "Međimurje",
+        "Varaždin",
+        "Hrvatsko zagorje",
+        "Istra"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Istra pripada čakavskom narječju, a ostala tri kraja kajkavskom.",
+      "savjet": "Pronađi tri kraja na sjeveru Hrvatske koji su blizu jedan drugome."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-057",
+      "tezina": "srednje",
+      "pitanje": "Mia iz Varaždina i Ivan iz Dubrovnika izrađuju zajednički školski plakat. Kojim jezikom trebaju pisati?",
+      "ponudeni": [
+        "Kajkavskim narječjem, jer je Mia iz Varaždina",
+        "Štokavskim govorom Dubrovnika",
+        "Hrvatskim standardnim jezikom",
+        "Svatko svojim zavičajnim govorom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Školski plakat piše se standardnim jezikom, koji je zajednički svim učenicima.",
+      "savjet": "Razmisli koji jezik pripada školi i svim Hrvatima."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-058",
+      "tezina": "srednje",
+      "pitanje": "Ime čakavskog narječja dolazi od riječi „ča“. Što ta riječ znači?",
+      "ponudeni": [
+        "što",
+        "kako",
+        "tko",
+        "gdje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "„Ča“ je čakavska riječ za „što“.",
+      "savjet": "Sva tri narječja nazvana su prema riječi s istim značenjem."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-059",
+      "tezina": "srednje",
+      "pitanje": "Koja je razlika između zavičajnog govora i hrvatskoga standardnog jezika?",
+      "ponudeni": [
+        "Zavičajni govor pripada jednom kraju, a standardni jezik zajednički je svima.",
+        "Zavičajni govor koristi se u novinama, a standardni samo kod kuće.",
+        "Zavičajni govor je strani jezik, a standardni je hrvatski.",
+        "Zavičajni govor i standardni jezik su potpuno isti."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zavičajni govor je govor jednog mjesta ili kraja, a standardni jezik zajednički je svim Hrvatima.",
+      "savjet": "Razmisli tko sve govori jednim, a tko drugim."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-060",
+      "tezina": "srednje",
+      "pitanje": "Koji kraj ne pripada istom narječju kao ostala tri: Istra, Krk, Slavonija, Cres?",
+      "ponudeni": [
+        "Istra",
+        "Krk",
+        "Slavonija",
+        "Cres"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Slavoniji se govori štokavskim narječjem, a u Istri, na Krku i na Cresu čakavskim.",
+      "savjet": "Tri od ovih krajeva nalaze se uz more, blizu jedan drugome."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-061",
+      "tezina": "tesko",
+      "pitanje": "Lana primijeti da djed za „što“ kaže „kaj“, a za „kako“ kaže „kak“. Iz kojeg je kraja djed najvjerojatnije?",
+      "ponudeni": [
+        "Iz Istre",
+        "Iz Slavonije",
+        "Iz Međimurja",
+        "Iz Dubrovnika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Kaj“ i „kak“ su kajkavske riječi, a kajkavskim narječjem govori se u Međimurju.",
+      "savjet": "Odredi narječje prema riječima, a onda potraži kraj tog narječja."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-062",
+      "tezina": "tesko",
+      "pitanje": "Ivo za „što“ kaže „ča“, Maja „kaj“, Ena „kaj“, a Tin „što“. Tko govori narječjem na kojem se temelji standardni jezik?",
+      "ponudeni": [
+        "Ivo",
+        "Maja",
+        "Ena",
+        "Tin"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tin govori štokavski, a hrvatski standardni jezik temelji se na štokavskom narječju.",
+      "savjet": "Najprije se sjeti na kojem se narječju temelji standardni jezik."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-063",
+      "tezina": "tesko",
+      "pitanje": "Učenik iz Istre piše odgovore na ispitu iz Prirode i društva. Kojim jezikom treba pisati?",
+      "ponudeni": [
+        "Hrvatskim standardnim jezikom",
+        "Čakavskim narječjem, jer je iz Istre",
+        "Kajkavskim narječjem",
+        "Svaku rečenicu drugim narječjem"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ispiti u školi pišu se standardnim jezikom, bez obzira na to iz kojeg je kraja učenik.",
+      "savjet": "Razmisli vrijedi li isto pravilo za sve učenike u Hrvatskoj."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-064",
+      "tezina": "tesko",
+      "pitanje": "Sanja kaže: „Govor mog sela je loš, treba govoriti samo standardnim jezikom.“ Koji je odgovor točan?",
+      "ponudeni": [
+        "Sanja je u pravu.",
+        "Zavičajni govor je vrijedan, a standardni se koristi u školi i službeno.",
+        "Zavičajnim govorom treba pisati sve udžbenike.",
+        "Standardni jezik treba koristiti samo kod kuće."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zavičajni govor nije loš, vrijedan je i treba ga čuvati; standardni jezik koristimo u drugim prilikama.",
+      "savjet": "Sjeti se gdje se koristi koji govor i treba li se ijednog sramiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-065",
+      "tezina": "tesko",
+      "pitanje": "Dječak iz Slavonije i djevojčica iz Međimurja slabo razumiju zavičajni govor onog drugog. Kako će se najlakše sporazumjeti?",
+      "ponudeni": [
+        "Svatko svojim zavičajnim govorom",
+        "Samo kajkavskim narječjem",
+        "Hrvatskim standardnim jezikom",
+        "Samo čakavskim narječjem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Standardni jezik zajednički je svim Hrvatima, pa njime razgovaraju ljudi iz različitih krajeva.",
+      "savjet": "Potraži jezik koji su oboje učili u školi."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-066",
+      "tezina": "tesko",
+      "pitanje": "Voditeljica vijesti na televiziji rodom je s otoka Krka. Kojim jezikom čita vijesti za cijelu Hrvatsku?",
+      "ponudeni": [
+        "Čakavskim narječjem, jer je s Krka",
+        "Kajkavskim narječjem",
+        "Štokavskim govorom Dubrovnika",
+        "Hrvatskim standardnim jezikom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vijesti za cijelu Hrvatsku čitaju se standardnim jezikom, bez obzira na to odakle je voditeljica.",
+      "savjet": "Važno je tko sluša vijesti, a ne odakle je voditeljica."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-067",
+      "tezina": "tesko",
+      "pitanje": "U kojoj će prilici Ema iz Hrvatskog zagorja najvjerojatnije reći „kaj“?",
+      "ponudeni": [
+        "Dok čita obavijesti na školskom radiju",
+        "Dok piše test iz Hrvatskoga jezika",
+        "Dok se igra s rođakom u svom selu",
+        "Dok odgovara na satu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Kaj“ pripada Eminu zavičajnom govoru, a njime govori kod kuće i s bliskim ljudima.",
+      "savjet": "Odvoji školske prilike od svakodnevnog druženja."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-068",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica točno opisuje vezu štokavskog narječja i hrvatskoga standardnog jezika?",
+      "ponudeni": [
+        "Standardni jezik nastao je na temelju štokavskog narječja.",
+        "Štokavsko narječje nastalo je od kajkavskog narječja.",
+        "Standardni jezik temelji se na čakavskom narječju.",
+        "Štokavskim narječjem govori se samo u Istri."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatski standardni jezik temelji se na štokavskom narječju.",
+      "savjet": "Usporedi kako se kaže „što“ u standardnom jeziku i u narječjima."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-069",
+      "tezina": "tesko",
+      "pitanje": "Baka s Raba i djed iz Varaždina pričaju kako u svojim krajevima kažu „što“. Koje riječi čuješ?",
+      "ponudeni": [
+        "Baka „kaj“, djed „ča“",
+        "Baka „ča“, djed „kaj“",
+        "Baka „što“, djed „ča“",
+        "Baka „kaj“, djed „što“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Na Rabu se govori čakavski, a u Varaždinu kajkavski.",
+      "savjet": "Za svaki kraj posebno odredi narječje."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-070",
+      "tezina": "tesko",
+      "pitanje": "Koje će dijete u svom zavičajnom govoru za „što“ najvjerojatnije reći „ča“?",
+      "ponudeni": [
+        "Pero iz Slavonije",
+        "Nina iz Istre",
+        "Lea iz Međimurja",
+        "Ana iz Baranje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Ča“ je čakavska riječ, a čakavskim narječjem govori se u Istri.",
+      "savjet": "Najprije odredi narječje kojem pripada riječ „ča“."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-071",
+      "tezina": "tesko",
+      "pitanje": "Dino za „što“ kaže „šta“, a Iva kaže „ča“. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Dino govori štokavski, a Iva čakavski.",
+        "Dino govori kajkavski, a Iva štokavski.",
+        "Oboje govore čakavski.",
+        "Dino govori čakavski, a Iva kajkavski."
+      ],
+      "tocan": 0,
+      "objasnjenje": "„Šta“ je drugi oblik riječi „što“ u štokavskom narječju, a „ča“ je čakavska riječ.",
+      "savjet": "Riječ „šta“ zvuči vrlo slično jednoj od riječi po kojima su narječja nazvana."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-072",
+      "tezina": "tesko",
+      "pitanje": "Pišeš pozivnicu za školsku priredbu koju će čitati roditelji iz raznih krajeva. Kojim ćeš je jezikom napisati?",
+      "ponudeni": [
+        "Zavičajnim govorom, jer je to službeno",
+        "Kajkavskim, jer ga svi govore",
+        "Čakavskim, jer se tako piše u školi",
+        "Standardnim jezikom, jer ga razumiju svi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pozivnicu pišemo standardnim jezikom jer ga razumiju svi; ostali odgovori navode pogrešne razloge.",
+      "savjet": "Provjeri i jezik i razlog koji je naveden uz njega."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-073",
+      "tezina": "tesko",
+      "pitanje": "Lucija s djedom govori zavičajnim govorom, a na satu standardnim jezikom. Kako to treba ocijeniti?",
+      "ponudeni": [
+        "Ispravno, svaki se govor koristi u svojoj prilici.",
+        "Pogrešno, treba uvijek govoriti zavičajnim govorom.",
+        "Pogrešno, treba zaboraviti zavičajni govor.",
+        "Pogrešno, na satu treba govoriti kajkavski."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zavičajnim govorom govorimo s obitelji, a standardnim jezikom u školi, pa Lucija postupa ispravno.",
+      "savjet": "Sjeti se gdje se koristi zavičajni govor, a gdje standardni jezik."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-074",
+      "tezina": "tesko",
+      "pitanje": "Koja je od ovih tvrdnji o narječjima i krajevima točna?",
+      "ponudeni": [
+        "Kajkavskim narječjem govori se u Slavoniji.",
+        "Čakavskim narječjem govori se u Istri.",
+        "Štokavskim narječjem govori se u Međimurju.",
+        "Kajkavskim narječjem govori se na Krku."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U Istri se govori čakavskim narječjem; ostale tvrdnje pogrešno povezuju narječje i kraj.",
+      "savjet": "Provjeri svaku tvrdnju: je li to narječje doista u tom kraju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-075",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o hrvatskom standardnom jeziku točna?",
+      "ponudeni": [
+        "Govori se samo u Slavoniji.",
+        "Koristi se samo kod kuće.",
+        "Zajednički je svim Hrvatima i temelji se na štokavskom narječju.",
+        "Temelji se na kajkavskom narječju."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Standardni jezik zajednički je svim Hrvatima, a temelji se na štokavskom narječju.",
+      "savjet": "Sjeti se gdje se standardni jezik koristi i kako se u njemu kaže „što“."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-076",
+      "tezina": "tesko",
+      "pitanje": "Ivana je iz Dubrovnika, a Marin iz Istre. Koja je tvrdnja o njihovim zavičajnim govorima točna?",
+      "ponudeni": [
+        "Ivana je čakavka, a Marin kajkavac.",
+        "Oboje su kajkavci.",
+        "Ivana je kajkavka, a Marin štokavac.",
+        "Ivana je štokavka, a Marin čakavac."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U Dubrovniku se govori štokavski, a u Istri čakavski.",
+      "savjet": "Za svaki grad ili kraj posebno se sjeti kojem narječju pripada."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-077",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo kad bi se svaki udžbenik pisao zavičajnim govorom kraja u kojem je nastao?",
+      "ponudeni": [
+        "Učenicima iz drugih krajeva bilo bi ga teže razumjeti.",
+        "Svi bi učenici lakše učili.",
+        "Svi bi ljudi počeli govoriti jednako.",
+        "Narječja bi odmah nestala."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zavičajni govor pripada jednom kraju, a standardni jezik razumiju svi, zato se udžbenici pišu standardnim jezikom.",
+      "savjet": "Zamisli da učiš iz knjige pisane govorom kraja koji je daleko od tvog."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-078",
+      "tezina": "tesko",
+      "pitanje": "Sara se iz Hrvatskog zagorja preselila u Slavoniju. Koju će riječ za „što“ češće čuti u zavičajnom govoru novog kraja?",
+      "ponudeni": [
+        "kaj",
+        "ča",
+        "što",
+        "kak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U Slavoniji se govori štokavskim narječjem, pa će Sara češće čuti „što“ ili „šta“.",
+      "savjet": "Važno je narječje novog kraja, a ne kraja iz kojeg je Sara došla."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-079",
+      "tezina": "tesko",
+      "pitanje": "Novinar snima priču o starim običajima u Međimurju i moli baku da govori kao u svom selu. Kojim će govorom baka govoriti?",
+      "ponudeni": [
+        "Zavičajnim čakavskim govorom",
+        "Zavičajnim kajkavskim govorom",
+        "Standardnim jezikom kao u vijestima",
+        "Štokavskim govorom Slavonije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Baka će govoriti zavičajnim govorom svog sela, a u Međimurju je to kajkavski govor.",
+      "savjet": "Pazi na dvije stvari: koju vrstu govora novinar traži i gdje je selo."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-080",
+      "tezina": "tesko",
+      "pitanje": "Učenik tvrdi: „Kajkavci, čakavci i štokavci govore tri različita jezika.“ Što je točno?",
+      "ponudeni": [
+        "Učenik je u pravu.",
+        "Oni govore tri strana jezika.",
+        "Samo štokavci govore hrvatski.",
+        "Svi govore hrvatskim jezikom, samo različitim narječjima."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kajkavsko, čakavsko i štokavsko su narječja istog, hrvatskoga jezika.",
+      "savjet": "Sjeti se čega su narječja dio."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-081",
+      "tezina": "tesko",
+      "pitanje": "Dopisuju se tri učenika: iz Varaždina, s Raba i iz Baranje. Koliko različitih narječja ima u njihovim zavičajnim govorima?",
+      "ponudeni": [
+        "Jedno",
+        "Dva",
+        "Tri",
+        "Četiri"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Varaždin je kajkavski, Rab čakavski, a Baranja štokavska, pa su to tri različita narječja.",
+      "savjet": "Za svako mjesto odredi narječje, pa prebroji različita."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-082",
+      "tezina": "tesko",
+      "pitanje": "U razredu su učenici iz Međimurja, Varaždina i s Krka. Koliko različitih narječja ima u njihovim zavičajnim govorima?",
+      "ponudeni": [
+        "Jedno",
+        "Dva",
+        "Tri",
+        "Četiri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Međimurje i Varaždin su kajkavski, a Krk čakavski, pa su to dva narječja.",
+      "savjet": "Pazi: različita mjesta mogu pripadati istom narječju."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-083",
+      "tezina": "tesko",
+      "pitanje": "Ana iz Slavonije i Ivo iz Dubrovnika uspoređuju svoje zavičajne govore. Koje im je narječje zajedničko?",
+      "ponudeni": [
+        "Kajkavsko narječje",
+        "Čakavsko narječje",
+        "Nijedno, jer su iz različitih krajeva",
+        "Štokavsko narječje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I u Slavoniji i u Dubrovniku govori se štokavskim narječjem, iako su ti krajevi udaljeni.",
+      "savjet": "Udaljeni krajevi mogu pripadati istom narječju."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-084",
+      "tezina": "tesko",
+      "pitanje": "Što bi se dogodilo kad nitko više ne bi govorio zavičajnim govorom jednog sela?",
+      "ponudeni": [
+        "Nestao bi vrijedan dio baštine tog sela.",
+        "Svi bi ljudi odmah bolje govorili.",
+        "Standardni jezik bi nestao.",
+        "Nastalo bi novo narječje."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zavičajni govor je vrijedan dio baštine kraja, zato ga treba čuvati.",
+      "savjet": "Sjeti se zašto zavičajni govor treba čuvati."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-085",
+      "tezina": "tesko",
+      "pitanje": "Koji niz riječi za „što“ redom pripada kajkavskom, čakavskom i štokavskom narječju?",
+      "ponudeni": [
+        "ča, kaj, što",
+        "što, ča, kaj",
+        "kaj, što, ča",
+        "kaj, ča, što"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kajkavci kažu „kaj“, čakavci „ča“, a štokavci „što“.",
+      "savjet": "Pazi na redoslijed narječja u pitanju."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-086",
+      "tezina": "tesko",
+      "pitanje": "Koji niz krajeva redom pripada kajkavskom, čakavskom i štokavskom narječju?",
+      "ponudeni": [
+        "Hrvatsko zagorje, Istra, Slavonija",
+        "Istra, Hrvatsko zagorje, Slavonija",
+        "Slavonija, Istra, Hrvatsko zagorje",
+        "Hrvatsko zagorje, Slavonija, Istra"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatsko zagorje je kajkavsko, Istra čakavska, a Slavonija štokavska.",
+      "savjet": "Kreni od prvog narječja i za svaki kraj provjeri pristaje li."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-087",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica traži primjer zavičajnog govora. Koji je primjer dobar?",
+      "ponudeni": [
+        "Vijesti na televiziji",
+        "Tekst u udžbeniku",
+        "Razgovor bake i susjede u međimurskom selu",
+        "Članak u novinama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Baka i susjeda razgovaraju govorom svog sela, a to je zavičajni govor.",
+      "savjet": "Potraži svakodnevni razgovor ljudi iz istog mjesta."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-088",
+      "tezina": "tesko",
+      "pitanje": "Učitelj traži primjer hrvatskoga standardnog jezika. Koji je primjer dobar?",
+      "ponudeni": [
+        "Razgovor djeda i unuka u selu na Cresu",
+        "Šala među prijateljima u Hrvatskom zagorju",
+        "Razgovor bake i susjede u Baranji",
+        "Tekst u udžbeniku iz Prirode i društva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Udžbenici se pišu standardnim jezikom, a razgovori u selu vode se zavičajnim govorom.",
+      "savjet": "Potraži nešto što čitaju učenici iz cijele Hrvatske."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-089",
+      "tezina": "tesko",
+      "pitanje": "Zašto se riječ „ča“ nalazi u nazivu čakavskog narječja?",
+      "ponudeni": [
+        "Jer je to ime jednog mjesta u Istri",
+        "Jer čakavci tom riječju kažu „što“",
+        "Jer ta riječ znači „kako“",
+        "Jer je to prva riječ u svakom udžbeniku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Narječja su nazvana prema riječi za „što“, a čakavci za „što“ kažu „ča“.",
+      "savjet": "Sjeti se prema čemu su nazvana i druga dva narječja."
+    },
+    {
+      "id": "4-hrvatski-jezik-narjecja-i-standardni-jezik-090",
+      "tezina": "tesko",
+      "pitanje": "Petar kod kuće govori kajkavski. Koja je tvrdnja točna?",
+      "ponudeni": [
+        "U školi uči standardni jezik, a kod kuće može govoriti zavičajno.",
+        "Mora prestati govoriti kajkavski.",
+        "U školi treba pisati kajkavski.",
+        "Ne može naučiti standardni jezik."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Petar može čuvati svoj kajkavski govor kod kuće i u školi naučiti standardni jezik.",
+      "savjet": "Razmisli može li netko znati i zavičajni govor i standardni jezik."
+    }
+  ]
+}

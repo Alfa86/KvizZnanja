@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "pristojna-komunikacija-i-rasprava",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-001",
+      "tezina": "lagano",
+      "pitanje": "Što kažeš prijatelju koji ti je posudio bojicu?",
+      "ponudeni": [
+        "„Daj!“",
+        "„Brzo!“",
+        "„Hvala.“",
+        "„Moje je.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad nam netko nešto da ili pomogne, zahvalimo mu riječju hvala.",
+      "savjet": "Sjeti se čarobnih riječi kojima pokazujemo da cijenimo tuđu pomoć."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-002",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih riječi pripada čarobnim riječima?",
+      "ponudeni": [
+        "Molim",
+        "Odmah",
+        "Ajde",
+        "Zato"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Molim je čarobna riječ. Čarobne riječi su i hvala, izvoli i oprosti.",
+      "savjet": "Čarobne riječi čine razgovor ugodnijim i pokazuju poštovanje prema drugima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-003",
+      "tezina": "lagano",
+      "pitanje": "Koju riječ izgovaraš kad nekoga slučajno gurneš u hodniku?",
+      "ponudeni": [
+        "„Pazi!“",
+        "„Makni se.“",
+        "„Što je?“",
+        "„Oprosti.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad nekoga slučajno povrijedimo ili mu smetamo, ispričamo se riječju oprosti.",
+      "savjet": "Kojom čarobnom riječju popravljaš ono što ti se dogodilo slučajno?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-004",
+      "tezina": "lagano",
+      "pitanje": "Kojom riječju pristojno pružaš nekome tanjur s kolačima?",
+      "ponudeni": [
+        "„Drži!“",
+        "„Izvoli.“",
+        "„Nemoj.“",
+        "„Brže!“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad nekome nešto nudimo ili pružamo, kažemo izvoli.",
+      "savjet": "Postoji čarobna riječ koju kažeš baš u trenutku kad nešto daješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-005",
+      "tezina": "lagano",
+      "pitanje": "Kojim pozdravom pozdravljaš učiteljicu kad ujutro uđeš u razred?",
+      "ponudeni": [
+        "„Bok!“",
+        "„Dobro jutro!“",
+        "„Laku noć!“",
+        "„Ćao!“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Odrasle pozdravljamo pozdravom koji odgovara dobu dana. Pozdrav bok kažemo samo prijateljima.",
+      "savjet": "Odaberi pozdrav koji odgovara i odrasloj osobi i jutru."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-006",
+      "tezina": "lagano",
+      "pitanje": "Komu je primjereno reći „Bok!“?",
+      "ponudeni": [
+        "Ravnatelju škole",
+        "Nepoznatoj gospođi",
+        "Liječnici",
+        "Prijatelju iz razreda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bok je opušten pozdrav koji koristimo s prijateljima i vršnjacima, a ne s nepoznatima i odraslima.",
+      "savjet": "Taj pozdrav pripada opuštenom razgovoru s osobama koje dobro poznaješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-007",
+      "tezina": "lagano",
+      "pitanje": "Kojim se pozdravom pozdravljaš kad odlaziš iz trgovine?",
+      "ponudeni": [
+        "„Doviđenja!“",
+        "„Dobro jutro!“",
+        "„Izvolite!“",
+        "„Molim!“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad odlazimo, pozdravljamo se riječju doviđenja.",
+      "savjet": "Razmisli koji se pozdrav kaže na rastanku, a ne na dolasku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se na satu javljaš kad želiš nešto reći?",
+      "ponudeni": [
+        "Viknem odgovor",
+        "Lupam po klupi",
+        "Dignem ruku",
+        "Ustanem i počnem govoriti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U razredu se za riječ javljamo dizanjem ruke i čekamo da nas učitelj prozove.",
+      "savjet": "Razmisli kako možeš tiho pokazati da želiš govoriti, a da nikoga ne prekineš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-009",
+      "tezina": "lagano",
+      "pitanje": "Što znači kad netko kima glavom gore-dolje?",
+      "ponudeni": [
+        "„Ne“",
+        "„Ne znam“",
+        "„Doviđenja“",
+        "„Da“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kimanje glavom gore-dolje je gesta kojom bez riječi kažemo da.",
+      "savjet": "Pokušaj sam kimnuti glavom i razmisli što time obično poručuješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-010",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo sporazumijevanje bez riječi, npr. izrazom lica, gestama i držanjem tijela?",
+      "ponudeni": [
+        "Rasprava",
+        "Diktat",
+        "Neverbalna komunikacija",
+        "Pravopis"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Neverbalna komunikacija je sporazumijevanje bez riječi: izrazom lica, gestama i držanjem tijela.",
+      "savjet": "Verbalno znači riječima. Što se dogodi kad ispred toga dodaš „ne“?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-011",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih znakova zvučni znak?",
+      "ponudeni": [
+        "Prometni znak",
+        "Školsko zvono",
+        "Semafor",
+        "Znak za izlaz"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Školsko zvono čujemo, pa je to zvučni znak. Ostali se znakovi vide.",
+      "savjet": "Zvučni znak primamo ušima, a ne očima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-012",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih znakova vizualni znak?",
+      "ponudeni": [
+        "Prometni znak",
+        "Zviždaljka",
+        "Pljesak",
+        "Budilica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prometni znak vidimo očima, pa je to vizualni znak. Ostali se znakovi čuju.",
+      "savjet": "Vizualni znak primamo očima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-013",
+      "tezina": "lagano",
+      "pitanje": "Što je rasprava?",
+      "ponudeni": [
+        "Razgovor u kojem sudionici iznose i obrazlažu mišljenje o temi",
+        "Glasno čitanje teksta iz čitanke",
+        "Pisanje sastavka o praznicima",
+        "Razgovor u kojem svi govore istodobno"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U raspravi sudionici razgovaraju o temi, iznose svoje mišljenje i obrazlažu ga razlozima.",
+      "savjet": "Sjeti se što radite kad u razredu razgovarate o tome tko što misli o nekoj temi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-014",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo razloge kojima u raspravi objašnjavamo svoje mišljenje?",
+      "ponudeni": [
+        "Pozdravi",
+        "Naslovi",
+        "Argumenti",
+        "Odlomci"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Argumenti su razlozi kojima objašnjavamo zašto nešto mislimo.",
+      "savjet": "To je ono što slijedi nakon riječi „jer“ kad iznosiš mišljenje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-015",
+      "tezina": "lagano",
+      "pitanje": "Tko u raspravi daje riječ sudionicima?",
+      "ponudeni": [
+        "Najglasniji učenik",
+        "Onaj tko prvi vikne",
+        "Svatko sam sebi",
+        "Voditelj rasprave"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Voditelj (moderator) rasprave daje riječ sudionicima i pazi da svi dođu na red.",
+      "savjet": "U raspravi jedna osoba pazi na red govorenja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-016",
+      "tezina": "lagano",
+      "pitanje": "Kako se pristojno obraćamo nepoznatoj odrasloj osobi?",
+      "ponudeni": [
+        "Sa „ti“",
+        "Sa „Vi“",
+        "Nadimkom",
+        "Bez pozdrava"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Odraslima i nepoznatima obraćamo se s Vi, npr. „Oprostite, izvolite.“",
+      "savjet": "Sjeti se kako se obraćaš liječnici ili prodavaču u trgovini."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se ponašaš dok ti prijatelj priča o svojem izletu?",
+      "ponudeni": [
+        "Prekidam ga",
+        "Gledam u mobitel",
+        "Slušam ga i gledam",
+        "Okrenem se drugima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dobar sugovornik pozorno sluša i gleda onoga tko govori.",
+      "savjet": "Razmisli kako je kad te netko ne sluša dok mu nešto pričaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-018",
+      "tezina": "lagano",
+      "pitanje": "Što obično znači palac podignut prema gore?",
+      "ponudeni": [
+        "Ljut sam",
+        "Nešto je dobro ili u redu",
+        "Idem kući",
+        "Ne razumijem"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Podignut palac je gesta kojom pokazujemo da je nešto dobro ili u redu.",
+      "savjet": "Sjeti se kada sportaši pokazuju tu gestu nakon uspjeha."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-019",
+      "tezina": "lagano",
+      "pitanje": "Što obično pokazuje osmijeh na licu?",
+      "ponudeni": [
+        "Radost i prijaznost",
+        "Ljutnju",
+        "Tugu",
+        "Strah"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Osmijehom bez riječi pokazujemo da smo veseli i prijazni.",
+      "savjet": "Kakvo je raspoloženje osobe koja se smiješi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-020",
+      "tezina": "lagano",
+      "pitanje": "Kojom gestom pozdravljamo nekoga izdaleka?",
+      "ponudeni": [
+        "Mrštenjem",
+        "Lupkanjem nogom",
+        "Zijevanjem",
+        "Mahanjem rukom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad smo daleko od nekoga, pozdravljamo ga mahanjem rukom.",
+      "savjet": "Gesta je pokret, najčešće rukom ili glavom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-021",
+      "tezina": "lagano",
+      "pitanje": "Koji zvučni znak javlja da je počeo ili završio školski sat?",
+      "ponudeni": [
+        "Sirena",
+        "Školsko zvono",
+        "Budilica",
+        "Zviždaljka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Školsko zvono zvonjavom javlja početak i kraj sata.",
+      "savjet": "Sjeti se što čuješ u školi prije odmora."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-022",
+      "tezina": "lagano",
+      "pitanje": "Što pješaku poručuje crveno svjetlo na semaforu?",
+      "ponudeni": [
+        "Stani i čekaj",
+        "Prijeđi ulicu",
+        "Trči preko ceste",
+        "Hodaj polako preko"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Crveno svjetlo na semaforu je vizualni znak koji kaže da treba stati i čekati.",
+      "savjet": "Sjeti se pravila koja učiš o sigurnom prelasku ceste."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-023",
+      "tezina": "lagano",
+      "pitanje": "Kad nekoga nazoveš telefonom, što kažeš odmah nakon pozdrava?",
+      "ponudeni": [
+        "„Pogodi tko je!“",
+        "„Doviđenja!“",
+        "Kako se zoveš",
+        "Ništa, nego čekaš"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon pozdrava se predstavimo kako bi sugovornik znao tko ga zove.",
+      "savjet": "Osoba s druge strane ne vidi te, pa ne zna tko zove."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-024",
+      "tezina": "lagano",
+      "pitanje": "Koje riječi treba umetnuti u rečenicu „Dodaj mi, ___, ravnalo.“?",
+      "ponudeni": [
+        "hvala ti",
+        "izvoli",
+        "doviđenja",
+        "molim te"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad nekoga nešto tražimo, kažemo molim te.",
+      "savjet": "Koju čarobnu riječ koristimo kad nešto tražimo, a ne kad nešto dobijemo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-025",
+      "tezina": "lagano",
+      "pitanje": "Koje je od navedenih pravila rasprave?",
+      "ponudeni": [
+        "Govoriti što glasnije",
+        "Ismijavati tuđe mišljenje",
+        "Govoriti o bilo čemu",
+        "Ne prekidati druge"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U raspravi ne prekidamo druge, nego čekamo svoj red.",
+      "savjet": "Pravila rasprave pomažu da svi budu saslušani i da se nitko ne osjeća loše."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-026",
+      "tezina": "lagano",
+      "pitanje": "Što znači odmahivanje glavom lijevo-desno?",
+      "ponudeni": [
+        "„Ne“",
+        "„Da“",
+        "„Hvala“",
+        "„Dođi“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Odmahivanjem glavom lijevo-desno bez riječi kažemo ne.",
+      "savjet": "Pokušaj odmahnuti glavom i razmisli kad to obično radiš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-027",
+      "tezina": "lagano",
+      "pitanje": "Što javlja sirena vozila hitne pomoći?",
+      "ponudeni": [
+        "Da počinje odmor",
+        "Da vozilo žuri i treba ga propustiti",
+        "Da je netko na vratima",
+        "Da je vrijeme za buđenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sirena je zvučni znak kojim vozilo hitne pomoći javlja da žuri pomoći nekome.",
+      "savjet": "Razmisli kamo vozi hitna pomoć i zašto joj je važno vrijeme."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-028",
+      "tezina": "lagano",
+      "pitanje": "Kojim zvučnim znakom sudac na nogometnoj utakmici zaustavlja igru?",
+      "ponudeni": [
+        "Pljeskom",
+        "Budilicom",
+        "Zviždaljkom",
+        "Zvonom na vratima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sudac zviždaljkom daje zvučni znak igračima da stanu.",
+      "savjet": "Taj predmet sudac obično nosi oko vrata."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-029",
+      "tezina": "lagano",
+      "pitanje": "Što sudionici donose na kraju rasprave?",
+      "ponudeni": [
+        "Zaključak",
+        "Naslov",
+        "Pjesmu",
+        "Diktat"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na kraju rasprave donosi se zaključak, odnosno odluka ili sažetak onoga što se dogovorilo.",
+      "savjet": "Razmisli čime završava razgovor u kojem se trebate nešto dogovoriti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-030",
+      "tezina": "lagano",
+      "pitanje": "Ne čuješ dobro što je učiteljica upravo rekla. Što je pristojno reći?",
+      "ponudeni": [
+        "„Što?!“",
+        "„Oprostite, možete li ponoviti?“",
+        "„Ha?“",
+        "„Ne čujem te!“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Učiteljici se obraćamo s Vi i pristojno je zamolimo da ponovi.",
+      "savjet": "Odrasloj osobi obraćaš se s Vi i koristiš čarobne riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-031",
+      "tezina": "srednje",
+      "pitanje": "Susjeda ti pridrži vrata zgrade dok nosiš veliku torbu. Što joj kažeš?",
+      "ponudeni": [
+        "„Izvolite.“",
+        "„Bok!“",
+        "„Hvala lijepa!“",
+        "„Oprostite.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad nam netko pomogne, zahvalimo mu. Susjedi kao odrasloj osobi ne kažemo bok.",
+      "savjet": "Razmisli što ti je susjeda učinila i kako na to odgovaraš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-032",
+      "tezina": "srednje",
+      "pitanje": "Prodavačica ti pruža vrećicu s kruhom. Kojim odgovorom pokazuješ pristojnost?",
+      "ponudeni": [
+        "„Hvala, doviđenja!“",
+        "„Daj to!“",
+        "„Konačno!“",
+        "„Stavi tu.“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prodavačici zahvalimo i pozdravimo je na odlasku.",
+      "savjet": "Prisjeti se čarobnih riječi i pozdrava na rastanku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-033",
+      "tezina": "srednje",
+      "pitanje": "Prijatelj te zamoli gumicu. Što mu kažeš dok mu je pružaš?",
+      "ponudeni": [
+        "„Hvala.“",
+        "„Oprosti.“",
+        "„Doviđenja.“",
+        "„Izvoli.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad nekome nešto dajemo, kažemo izvoli. Hvala kaže onaj tko nešto dobije.",
+      "savjet": "Ti ovdje nešto daješ, a ne primaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-034",
+      "tezina": "srednje",
+      "pitanje": "Slučajno proliješ sok po prijateljičinoj klupi. Što je najprikladnije reći?",
+      "ponudeni": [
+        "„Pazi malo!“",
+        "„Oprosti, pomoći ću ti obrisati.“",
+        "„To se samo dogodilo.“",
+        "„Baš smiješno!“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad pogriješimo, ispričamo se i pokušamo popraviti štetu.",
+      "savjet": "Pristojna isprika ima dva dijela: riječ i djelo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-035",
+      "tezina": "srednje",
+      "pitanje": "Na ulici trebaš pitati nepoznatu gospođu gdje je pošta. Kako ćeš početi?",
+      "ponudeni": [
+        "„Ej, gdje je pošta?“",
+        "„Oprostite, možete li mi reći gdje je pošta?“",
+        "„Reci mi gdje je pošta.“",
+        "„Gdje je pošta, brzo!“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nepoznatoj odrasloj osobi obraćamo se s Vi i počinjemo pristojno, npr. riječju oprostite.",
+      "savjet": "Kako se obraćamo nepoznatim odraslim osobama?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-036",
+      "tezina": "srednje",
+      "pitanje": "Navečer ulaziš u ljekarnu. Kojim pozdravom pozdravljaš ljekarnicu?",
+      "ponudeni": [
+        "„Dobro jutro!“",
+        "„Bok!“",
+        "„Laku noć!“",
+        "„Dobra večer!“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pri ulasku navečer odraslu osobu pozdravljamo s dobra večer.",
+      "savjet": "Pozdrav treba odgovarati dobu dana, a laku noć kažemo kad idemo spavati."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-037",
+      "tezina": "srednje",
+      "pitanje": "Učenik se mršti dok sluša objašnjenje. Što nam to najvjerojatnije pokazuje?",
+      "ponudeni": [
+        "Da nešto ne razumije ili mu se ne sviđa",
+        "Da je vrlo sretan",
+        "Da se potpuno slaže",
+        "Da se želi igrati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mrštenje je izraz lica koji često pokazuje nerazumijevanje, brigu ili nezadovoljstvo.",
+      "savjet": "Izraz lica može reći mnogo i bez riječi. Kako izgleda lice kad nešto nije u redu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-038",
+      "tezina": "srednje",
+      "pitanje": "Na vratima učionice je slika prekrižene čaše sa sokom. Što ona poručuje?",
+      "ponudeni": [
+        "Ovdje se dijeli sok",
+        "Čaše su u ormaru",
+        "Sok je besplatan",
+        "U učionicu se ne unosi piće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Takva slika je piktogram, a prekrižen predmet znači da nešto nije dopušteno.",
+      "savjet": "Razmisli što obično znači kad je nešto na znaku prekriženo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-039",
+      "tezina": "srednje",
+      "pitanje": "Iznad vrata je zeleni znak s likom koji trči prema vratima. Što on označava?",
+      "ponudeni": [
+        "Igralište",
+        "Sportsku dvoranu",
+        "Izlaz",
+        "Zabranu trčanja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zeleni znak s likom koji trči prema vratima označava izlaz, važan u slučaju opasnosti.",
+      "savjet": "Taj znak pomaže ljudima da brzo pronađu put van iz zgrade."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-040",
+      "tezina": "srednje",
+      "pitanje": "Ujutro zazvoni budilica. Što ti javlja taj zvučni znak?",
+      "ponudeni": [
+        "Da je netko na vratima",
+        "Da je vrijeme za ustajanje",
+        "Da počinje utakmica",
+        "Da se treba skloniti s ceste"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Budilica zvukom javlja da je vrijeme za buđenje i ustajanje.",
+      "savjet": "Razmisli zašto ljudi navečer namještaju budilicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-041",
+      "tezina": "srednje",
+      "pitanje": "Usred nogometne utakmice sudac snažno zazviždi. Što to najčešće znači?",
+      "ponudeni": [
+        "Gledatelji idu kući",
+        "Lopta je nova",
+        "Igrači trebaju trčati brže",
+        "Igra se prekida"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zviždaljka je zvučni znak kojim sudac zaustavlja igru, npr. zbog prekršaja.",
+      "savjet": "Sudac zviždaljkom upravlja igrom. Što se događa nakon zvižduka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-042",
+      "tezina": "srednje",
+      "pitanje": "Nakon nastupa zbora publika dugo plješće. Što time poručuje?",
+      "ponudeni": [
+        "Da joj se nastup svidio",
+        "Da je nastup bio predug",
+        "Da svi trebaju biti tiho",
+        "Da je vrijeme za ručak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pljesak je zvučni znak kojim publika pokazuje da joj se nešto svidjelo.",
+      "savjet": "Sjeti se kad ti plješćeš i što tada osjećaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-043",
+      "tezina": "srednje",
+      "pitanje": "Netko zvoni na vrata vašeg stana. Što ti javlja taj zvučni znak?",
+      "ponudeni": [
+        "Da je požar",
+        "Da je vrijeme za spavanje",
+        "Da je netko došao",
+        "Da je završio sat"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zvono na vratima javlja da je netko došao i želi ući.",
+      "savjet": "Gdje se nalazi to zvono i tko ga pritisne?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-044",
+      "tezina": "srednje",
+      "pitanje": "U raspravi Ivan kaže samo: „Mislim da bismo trebali imati duži odmor.“ Što mu nedostaje?",
+      "ponudeni": [
+        "Glasniji glas",
+        "Pozdrav",
+        "Naslov",
+        "Argument, odnosno razlog"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ivan je iznio mišljenje, ali nije rekao zašto tako misli. Nedostaje mu argument.",
+      "savjet": "Dobro mišljenje u raspravi glasi „Mislim da… jer…“. Što je Ivan izostavio?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-045",
+      "tezina": "srednje",
+      "pitanje": "Kojim riječima u raspravi obično počinjemo iznositi svoje mišljenje?",
+      "ponudeni": [
+        "„Bio jednom…“",
+        "„Doviđenja…“",
+        "„Hvala…“",
+        "„Mislim da…“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mišljenje najčešće uvodimo riječima mislim da, a zatim ga obrazlažemo.",
+      "savjet": "Mišljenje kazuje što ti misliš o temi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-046",
+      "tezina": "srednje",
+      "pitanje": "Ana se u raspravi ne slaže s Markom. Kako to treba reći?",
+      "ponudeni": [
+        "„Ne slažem se s tobom jer…“",
+        "„Šuti, nemaš pojma!“",
+        "„To je najgluplja ideja.“",
+        "„Opet ti s tim!“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Neslaganje izražavamo pristojno i obrazlažemo ga, a ne vrijeđamo sugovornika.",
+      "savjet": "U raspravi se možemo ne slagati, ali uvijek poštujemo drugoga."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-047",
+      "tezina": "srednje",
+      "pitanje": "Kako u razrednoj raspravi tražiš riječ?",
+      "ponudeni": [
+        "Počnem govoriti dok drugi govori",
+        "Podignem ruku i čekam da me voditelj prozove",
+        "Lupam po klupi",
+        "Viknem svoje ime"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Za riječ se javljamo dizanjem ruke, a voditelj rasprave daje riječ.",
+      "savjet": "Sjeti se tko u raspravi određuje red govorenja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-048",
+      "tezina": "srednje",
+      "pitanje": "Zašto u raspravi ne prekidamo drugoga dok govori?",
+      "ponudeni": [
+        "Jer je rasprava tada brža",
+        "Jer drugi uvijek ima pravo",
+        "Jer tako poštujemo sugovornika i čujemo njegovo mišljenje",
+        "Jer u raspravi nitko ne smije govoriti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad ne prekidamo, pokazujemo poštovanje i možemo čuti cijelo mišljenje drugoga.",
+      "savjet": "Razmisli kako se osjećaš kad te netko prekine usred rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-049",
+      "tezina": "srednje",
+      "pitanje": "Koji je pravilan redoslijed telefonskog razgovora?",
+      "ponudeni": [
+        "Razlog poziva, pozdrav, predstavljanje, zahvala",
+        "Predstavljanje, zahvala, razlog poziva, pozdrav",
+        "Zahvala, razlog poziva, pozdrav, predstavljanje",
+        "Pozdrav, predstavljanje, razlog poziva, zahvala i pozdrav"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Najprije pozdravimo i predstavimo se, zatim kažemo zašto zovemo, a na kraju zahvalimo i pozdravimo.",
+      "savjet": "Zamisli da nekoga sretneš: čime počinješ razgovor, a čime ga završavaš?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-050",
+      "tezina": "srednje",
+      "pitanje": "Nazoveš prijateljicu Saru, a javi se njezina mama. Što prvo kažeš?",
+      "ponudeni": [
+        "„Daj mi Saru.“",
+        "„Je li Sara tu?“",
+        "„Dobar dan, ovdje Luka. Mogu li, molim Vas, razgovarati sa Sarom?“",
+        "„Tko je to?“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Odraslu osobu pozdravimo, predstavimo se i pristojno kažemo zašto zovemo.",
+      "savjet": "Sjeti se tri koraka na početku telefonskog razgovora."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-051",
+      "tezina": "srednje",
+      "pitanje": "Pitaš brata „Želiš li sok?“, a on odmahne glavom lijevo-desno. Što ti je odgovorio?",
+      "ponudeni": [
+        "Da želi dva soka",
+        "Da ne želi sok",
+        "Da je jako žedan",
+        "Da ne čuje pitanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Odmahivanje glavom je gesta kojom bez riječi kažemo ne.",
+      "savjet": "Koju riječ zamjenjuje odmahivanje glavom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-052",
+      "tezina": "srednje",
+      "pitanje": "Učiteljica stavi kažiprst na usne i pogleda razred. Što time poručuje?",
+      "ponudeni": [
+        "Neka svi pjevaju",
+        "Neka svi izađu",
+        "Neka svi budu tiho",
+        "Neka svi podignu ruku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažiprst na usnama je gesta koja znači da treba biti tiho.",
+      "savjet": "Gesta ide uz usta. Što bi učiteljica htjela da učenici učine ustima?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-053",
+      "tezina": "srednje",
+      "pitanje": "Dok mu nešto pričaš, sugovornik gleda kroz prozor i zijeva. Što time poručuje?",
+      "ponudeni": [
+        "Da pažljivo sluša",
+        "Da se jako veseli",
+        "Da se slaže sa svime",
+        "Da ga razgovor ne zanima"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pogled u stranu i zijevanje govore bez riječi da sugovornik ne prati razgovor.",
+      "savjet": "Gdje gleda osoba koja te zaista sluša?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-054",
+      "tezina": "srednje",
+      "pitanje": "Učenik sjedi uspravno, okrenut je prema govorniku i gleda ga. Što pokazuje takvo držanje?",
+      "ponudeni": [
+        "Da mu je dosadno",
+        "Da pozorno sluša",
+        "Da se ljuti",
+        "Da želi otići"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uspravno držanje i pogled prema govorniku pokazuju pozornost i zanimanje.",
+      "savjet": "I držanje tijela nešto govori. Kamo je okrenut taj učenik?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-055",
+      "tezina": "srednje",
+      "pitanje": "Zakasniš na sat. Kojim se riječima pristojno ispričavaš učiteljici?",
+      "ponudeni": [
+        "„Evo me.“",
+        "„Što ste počeli bez mene?“",
+        "„Oprostite što kasnim.“",
+        "„Ma nije bitno.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Učiteljici se ispričavamo riječju oprostite jer joj se obraćamo s Vi.",
+      "savjet": "Isprika odrasloj osobi sadrži čarobnu riječ u obliku za Vi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-056",
+      "tezina": "srednje",
+      "pitanje": "Pomogneš prijatelju nositi knjige, a on ti kaže „Hvala!“. Što mu možeš odgovoriti?",
+      "ponudeni": [
+        "„Nema na čemu.“",
+        "„Oprosti.“",
+        "„Dobro jutro.“",
+        "„Pazi se.“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na zahvalu pristojno odgovaramo riječima nema na čemu ili molim.",
+      "savjet": "Razmisli kako odgovoriti nekome tko ti zahvaljuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-057",
+      "tezina": "srednje",
+      "pitanje": "U razrednoj raspravi o izletu Tea je voditeljica. Što je njezin zadatak?",
+      "ponudeni": [
+        "Davati riječ sudionicima i paziti na red",
+        "Govoriti umjesto svih",
+        "Sama odlučiti o svemu",
+        "Prekidati one s kojima se ne slaže"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Voditelj rasprave daje riječ, pazi na red i da se govori o temi.",
+      "savjet": "Voditelj se brine da rasprava teče mirno i da svi dođu na red."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-058",
+      "tezina": "srednje",
+      "pitanje": "Ema pozorno sluša Petrovo mišljenje iako se s njim ne slaže. Što Ema time pokazuje?",
+      "ponudeni": [
+        "Da želi promijeniti temu",
+        "Da vrijeđa sugovornika",
+        "Da poštuje tuđe mišljenje",
+        "Da govori bez reda"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Slušati i onoga s kim se ne slažemo znači poštovati tuđe mišljenje.",
+      "savjet": "Razmisli što znači saslušati nekoga do kraja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-059",
+      "tezina": "srednje",
+      "pitanje": "Na kutiji za selidbu nacrtana je čaša. Što takav znak obično poručuje?",
+      "ponudeni": [
+        "Sadržaj je lomljiv i treba paziti",
+        "Kutija je puna soka",
+        "Kutiju treba baciti",
+        "U kutiji su igračke"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Čaša na kutiji je piktogram koji upozorava da je sadržaj lomljiv.",
+      "savjet": "Razmisli što se dogodi kad čaša padne na pod."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-060",
+      "tezina": "srednje",
+      "pitanje": "Nova susjeda ti pruži ruku i kaže „Drago mi je!“. Što je pristojno učiniti?",
+      "ponudeni": [
+        "Okrenuti se",
+        "Pružiti joj ruku i reći svoje ime",
+        "Sakriti ruke iza leđa",
+        "Šutke otići"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad nam netko pruži ruku pri upoznavanju, pružimo i mi ruku i predstavimo se.",
+      "savjet": "Upoznavanje je i susret riječima i gestom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-061",
+      "tezina": "tesko",
+      "pitanje": "Lana kaže: „Mobitel ne treba nositi u školu jer ometa učenje.“ Koji je dio rečenice argument?",
+      "ponudeni": [
+        "„Mobitel“",
+        "„u školu“",
+        "„jer ometa učenje“",
+        "„ne treba nositi“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Argument je razlog mišljenja. Lana ga uvodi riječju jer.",
+      "savjet": "Argument odgovara na pitanje zašto netko nešto misli."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-062",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica u raspravi o školskim uniformama dobro obrazloženo mišljenje?",
+      "ponudeni": [
+        "„Mislim da su uniforme dobre jer ujutro ne moramo birati odjeću.“",
+        "„Uniforme su glupe.“",
+        "„Tako kažem i gotovo.“",
+        "„Svi koji misle drukčije nemaju pojma.“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obrazloženo mišljenje sadrži i stav i razlog, kao u obliku „Mislim da… jer…“.",
+      "savjet": "Potraži rečenicu u kojoj se vidi i što netko misli i zašto to misli."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-063",
+      "tezina": "tesko",
+      "pitanje": "Dok Mia iznosi mišljenje, Filip joj upadne u riječ: „Čekaj, sad ja!“ Koje je pravilo Filip prekršio?",
+      "ponudeni": [
+        "Predstaviti se na telefonu",
+        "Pozdraviti pri ulasku u trgovinu",
+        "Zahvaliti za poklon",
+        "Ne prekidati onoga tko govori"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Filip je prekinuo Miju. U raspravi čekamo da govornik završi.",
+      "savjet": "Pogledaj što je Filip učinio dok je Mia još govorila."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-064",
+      "tezina": "tesko",
+      "pitanje": "Raspravlja se o uređenju školskog vrta, a Toni počne pričati o jučerašnjoj utakmici. Koje pravilo krši?",
+      "ponudeni": [
+        "Ne vrijeđati druge sudionike",
+        "Govoriti o temi rasprave",
+        "Pozdraviti pri odlasku",
+        "Zahvaliti na pomoći"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Toni je skrenuo s teme. U raspravi govorimo o zadanoj temi.",
+      "savjet": "Usporedi o čemu se raspravlja i o čemu Toni govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-065",
+      "tezina": "tesko",
+      "pitanje": "Nikola u raspravi kaže Ivi: „Tvoja ideja je smiješna, kao i ti.“ Što Nikola radi pogrešno?",
+      "ponudeni": [
+        "Previše hvali sugovornika",
+        "Predugo šuti",
+        "Govori samo o temi",
+        "Vrijeđa sugovornika umjesto da iznese argument"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nikola ne objašnjava zašto se ne slaže, nego vrijeđa Ivu, a to se u raspravi ne smije.",
+      "savjet": "Pogledaj o čemu Nikola govori: o ideji ili o osobi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-066",
+      "tezina": "tesko",
+      "pitanje": "Ana zove knjižnicu da pita radi li u subotu. Koji je razgovor najpristojniji?",
+      "ponudeni": [
+        "„Radite li u subotu?“",
+        "„Halo, tko je? Subota?“",
+        "„Ovdje Ana. Radite u subotu? Bok.“",
+        "„Dobar dan, ovdje Ana. Radite li u subotu? Hvala, doviđenja!“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pristojan razgovor ima pozdrav, predstavljanje, razlog poziva, zahvalu i pozdrav na kraju.",
+      "savjet": "Provjeri koji razgovor ima sve dijelove pravilnog telefonskog razgovora."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-067",
+      "tezina": "tesko",
+      "pitanje": "Ivo kaže: „Mislim da je bolje ići na izlet u park jer je blizu i ne treba nam autobus.“ Što je Ivo učinio dobro?",
+      "ponudeni": [
+        "Prekinuo je druge",
+        "Promijenio je temu",
+        "Uvrijedio je sugovornika",
+        "Iznio je mišljenje i obrazložio ga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ivo je rekao što misli i naveo razloge, a to je dobro obrazloženo mišljenje.",
+      "savjet": "Pogledaj što Ivo kaže prije, a što poslije riječi „jer“."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-068",
+      "tezina": "tesko",
+      "pitanje": "Lovro se ne slaže s Martinim prijedlogom. Koja je njegova rečenica primjerena raspravi?",
+      "ponudeni": [
+        "„Razumijem tvoje mišljenje, ali ja mislim drukčije jer…“",
+        "„Opet pričaš gluposti.“",
+        "„Ne želim te slušati.“",
+        "„Ja sam u pravu, točka.“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Primjereno je pokazati da smo čuli drugoga, a zatim pristojno obrazložiti svoje mišljenje.",
+      "savjet": "Potraži rečenicu koja poštuje sugovornika i sadrži razlog."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-069",
+      "tezina": "tesko",
+      "pitanje": "Učenici su raspravljali hoće li razredna zabava biti u petak ili u subotu. Što još trebaju učiniti?",
+      "ponudeni": [
+        "Početi raspravu o drugoj temi",
+        "Donijeti zaključak",
+        "Otići bez dogovora",
+        "Posvađati se"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rasprava završava zaključkom, ovdje odlukom o danu zabave.",
+      "savjet": "Razmisli što je bio cilj ove rasprave."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-070",
+      "tezina": "tesko",
+      "pitanje": "Turist koji ne govori hrvatski pita te gdje je kolodvor. Kako mu najbolje možeš pomoći?",
+      "ponudeni": [
+        "Šutke otići",
+        "Pokazati rukom smjer i nacrtati put",
+        "Ponoviti isto glasnije na hrvatskome",
+        "Slegnuti ramenima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad nemamo zajednički jezik, pomažu geste i crteži, tj. neverbalna komunikacija.",
+      "savjet": "Kako se možeš sporazumjeti s nekim bez zajedničkih riječi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-071",
+      "tezina": "tesko",
+      "pitanje": "Gluha osoba ne čuje zvono na vratima. Koji bi joj znak najbolje javio da je netko došao?",
+      "ponudeni": [
+        "Svjetlo koje zatreperi",
+        "Glasnije zvono",
+        "Zviždaljka",
+        "Sirena"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Osoba koja ne čuje može primiti vizualni znak, npr. treperenje svjetla.",
+      "savjet": "Ako netko ne može primiti zvučni znak, koja mu vrsta znakova ostaje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-072",
+      "tezina": "tesko",
+      "pitanje": "Vozač čuje sirenu i u retrovizoru vidi vozilo hitne pomoći. Što treba učiniti?",
+      "ponudeni": [
+        "Ubrzati i ne propustiti ga",
+        "Zaustaviti se nasred ceste",
+        "Skloniti se i propustiti vozilo",
+        "Zatrubiti mu natrag"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sirena javlja da hitna pomoć žuri, pa joj drugi vozači oslobađaju put.",
+      "savjet": "Razmisli što sirena poručuje drugim sudionicima u prometu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-073",
+      "tezina": "tesko",
+      "pitanje": "Tijekom školske priredbe gledatelju počne glasno zvoniti mobitel. Što je pristojno učiniti?",
+      "ponudeni": [
+        "Glasno se javiti",
+        "Pustiti da zvoni",
+        "Izaći iz dvorane vičući",
+        "Odmah ga utišati i tiho se ispričati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zvonjava ometa izvođače i publiku, pa mobitel treba odmah utišati.",
+      "savjet": "Razmisli kako zvuk mobitela djeluje na one koji nastupaju i slušaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-074",
+      "tezina": "tesko",
+      "pitanje": "Petra na pitanje „Je li ti se svidio film?“ samo kimne i nasmiješi se. Što je odgovorila?",
+      "ponudeni": [
+        "Da joj se nije svidio",
+        "Da joj se svidio",
+        "Da nije gledala film",
+        "Da ne razumije pitanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kimanje znači da, a osmijeh pokazuje zadovoljstvo, pa joj se film svidio.",
+      "savjet": "Spoji značenje geste i izraza lica."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-075",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica postavi pitanje, a Karlo odmah uzvikne odgovor bez dizanja ruke. Što je trebao učiniti?",
+      "ponudeni": [
+        "Uzviknuti još glasnije",
+        "Šapnuti odgovor susjedu",
+        "Podići ruku i pričekati da ga prozove",
+        "Napisati odgovor na ploču"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Javljanjem dizanjem ruke dajemo priliku i drugima te ne stvaramo buku.",
+      "savjet": "Sjeti se kako se na satu traži riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-076",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica argument za to da učenici sami biraju knjige za čitanje?",
+      "ponudeni": [
+        "„Ja to kažem.“",
+        "„Tako je i gotovo.“",
+        "„Ne sviđa mi se tvoja majica.“",
+        "„Kad sami biramo, radije čitamo.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Argument je razlog koji podupire mišljenje: djeca radije čitaju ono što sama izaberu.",
+      "savjet": "Argument objašnjava zašto bi nešto bilo dobro."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-077",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica obrazlaže mišljenje da se školski odmor ne treba produljiti?",
+      "ponudeni": [
+        "„Ne treba i točka.“",
+        "„Ne treba jer bismo onda kasnije išli kući.“",
+        "„Odmor je zabavan.“",
+        "„Volim sladoled.“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Samo ta rečenica daje razlog zašto odmor ne treba produljiti.",
+      "savjet": "Potraži rečenicu koja govori o temi i navodi razlog."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-078",
+      "tezina": "tesko",
+      "pitanje": "Teta ti nudi kolač koji ne voliš. Kako ćeš pristojno odbiti?",
+      "ponudeni": [
+        "„Fuj, to ne jedem!“",
+        "„Makni to od mene.“",
+        "„Ne, hvala, ne bih.“",
+        "„Daj nešto drugo.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "I kad odbijamo, govorimo pristojno i zahvalimo na ponudi.",
+      "savjet": "Čarobne riječi koristimo i kad nešto ne prihvaćamo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-079",
+      "tezina": "tesko",
+      "pitanje": "Novi učenik u razredu nikoga ne poznaje. Kako mu bez riječi možeš pokazati da je dobrodošao?",
+      "ponudeni": [
+        "Nasmiješiš mu se i mahneš",
+        "Okreneš mu leđa",
+        "Namrštiš se",
+        "Pokažeš prstom na njega"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Osmijeh i mahanje su neverbalni znakovi prijaznosti i dobrodošlice.",
+      "savjet": "Koji izraz lica i koja gesta pokazuju prijateljstvo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-080",
+      "tezina": "tesko",
+      "pitanje": "Lea priča o svojem putovanju, a Ivan joj stalno upada u riječ pričajući o svojem. Što Ivan treba promijeniti?",
+      "ponudeni": [
+        "Govoriti još brže",
+        "Otići iz razgovora",
+        "Šutjeti cijeli dan",
+        "Saslušati Leu do kraja pa onda govoriti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U razgovoru se izmjenjujemo: najprije saslušamo drugoga, a onda govorimo mi.",
+      "savjet": "Dobar razgovor je kao igra u kojoj se igrači izmjenjuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-081",
+      "tezina": "tesko",
+      "pitanje": "Dvoje učenika u raspravi istodobno počne govoriti. Što bi voditelj rasprave trebao učiniti?",
+      "ponudeni": [
+        "Pustiti ih da se nadglasavaju",
+        "Dati riječ jednomu, a drugomu nakon njega",
+        "Prekinuti raspravu",
+        "Poslati oboje iz razreda"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Voditelj određuje red govorenja, tako da svatko bude saslušan.",
+      "savjet": "Sjeti se koji je zadatak voditelja rasprave."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-082",
+      "tezina": "tesko",
+      "pitanje": "Nazoveš broj, a javi se nepoznata osoba. Shvatiš da je to krivi broj. Što kažeš?",
+      "ponudeni": [
+        "Spustiš slušalicu bez riječi",
+        "„A tko ste Vi?“",
+        "„Oprostite, ovo je krivi broj. Doviđenja!“",
+        "„Ma dajte, opet krivo!“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad pogriješimo broj, ispričamo se i pozdravimo, jer smo uznemirili drugu osobu.",
+      "savjet": "Pogreška je ovdje tvoja. Kako se to pristojno popravlja?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-083",
+      "tezina": "tesko",
+      "pitanje": "Većina je u raspravi odlučila da izlet bude u muzej, a Dora je željela u zoološki vrt. Kako se Dora treba ponašati?",
+      "ponudeni": [
+        "Prihvatiti zaključak iako se ne slaže",
+        "Uvrijediti one koji su za muzej",
+        "Ne razgovarati ni s kim",
+        "Nastaviti se svađati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poštujemo zaključak rasprave i tuđe mišljenje i kad nije isto kao naše.",
+      "savjet": "Sjeti se kako rasprava završava i što to znači za sve sudionike."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-084",
+      "tezina": "tesko",
+      "pitanje": "Koja od ovih rečenica u raspravi o školskoj kantini pokazuje poštovanje tuđeg mišljenja?",
+      "ponudeni": [
+        "„Zanimljiva ideja, ali ja mislim drukčije jer…“",
+        "„Tvoja ideja je besmislena.“",
+        "„Nitko te ništa nije pitao.“",
+        "„Prestani pričati.“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ta rečenica uvažava sugovornika, a ipak iznosi drukčije mišljenje s razlogom.",
+      "savjet": "Kako se ne slagati, a da se sugovornik ne osjeća loše?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-085",
+      "tezina": "tesko",
+      "pitanje": "Dječak kaže „Ne ljutim se!“, ali pritom viče i mršti se. Što poručuje njegovo neverbalno ponašanje?",
+      "ponudeni": [
+        "Radost i veselje",
+        "Smirenost",
+        "Ljutnju, iako riječi govore drukčije",
+        "Pospanost"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vikanje i mrštenje pokazuju ljutnju, pa njegove riječi i ponašanje nisu u skladu.",
+      "savjet": "Ne slušaj samo riječi, nego pogledaj i lice i glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-086",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je situaciji najprimjerenije šutjeti i pozorno slušati?",
+      "ponudeni": [
+        "Kad te voditelj rasprave prozove",
+        "Kad te netko pozdravi",
+        "Kad ti netko nešto pokloni",
+        "Dok druga osoba iznosi mišljenje u raspravi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dok drugi iznosi mišljenje, slušamo ga i ne prekidamo.",
+      "savjet": "U ostalim situacijama od tebe se očekuje da nešto kažeš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-087",
+      "tezina": "tesko",
+      "pitanje": "Na ulazu u kino je piktogram prekriženog mobitela. Što trebaš učiniti?",
+      "ponudeni": [
+        "Snimati film mobitelom",
+        "Isključiti ili utišati mobitel",
+        "Glasno telefonirati",
+        "Igrati igrice sa zvukom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prekriženi mobitel znači da se mobitel ne smije koristiti, pa ga isključimo ili utišamo.",
+      "savjet": "Prekriženo na znaku znači da nešto nije dopušteno."
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-088",
+      "tezina": "tesko",
+      "pitanje": "Na pješačkom prijelazu bez semafora vozač ti mahne rukom da prijeđeš. Kako se vozač sporazumio s tobom?",
+      "ponudeni": [
+        "Zvučnim znakom",
+        "Pisanim znakom",
+        "Gestom, bez riječi",
+        "Prometnim znakom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mahanje rukom je gesta, dio neverbalne komunikacije.",
+      "savjet": "Vozač nije ništa rekao ni zatrubio. Čime je poslao poruku?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-089",
+      "tezina": "tesko",
+      "pitanje": "Ana kaže: „Posadimo cvijeće jer će dvorište biti ljepše.“ Marko doda: „Slažem se, a cvijeće privlači i pčele.“ Što je Marko učinio?",
+      "ponudeni": [
+        "Dodao je novi argument",
+        "Uvrijedio je Anu",
+        "Promijenio je temu",
+        "Prekinuo je Anu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Marko se složio s Anom i dodao još jedan razlog za sadnju cvijeća.",
+      "savjet": "Usporedi Anin i Markov razlog: jesu li isti ili različiti?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pristojna-komunikacija-i-rasprava-090",
+      "tezina": "tesko",
+      "pitanje": "Na satu tjelesnog učiteljica puhne u zviždaljku i podigne ruku. Što najvjerojatnije poručuje?",
+      "ponudeni": [
+        "Neka svi trče brže",
+        "Neka svi stanu i pogledaju je",
+        "Neka svi idu kući",
+        "Neka svi viču"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zviždaljka i podignuta ruka su znakovi da treba stati i obratiti pozornost.",
+      "savjet": "Spoji značenje zvučnog znaka i geste učiteljice."
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "poslovice-i-izreke",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-001",
+      "tezina": "lagano",
+      "pitanje": "Što je poslovica?",
+      "ponudeni": [
+        "Kratka narodna mudrost s poukom",
+        "Duga priča o životinjama",
+        "Pjesma s rimom i kiticama",
+        "Rečenica koja opisuje vrijeme"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poslovica je kratka narodna mudrost koja u sebi nosi pouku.",
+      "savjet": "Sjeti se koliko je poslovica duga i čemu nas uči."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-002",
+      "tezina": "lagano",
+      "pitanje": "Tko je autor narodne poslovice?",
+      "ponudeni": [
+        "Pisac iz čitanke",
+        "Autor nije poznat",
+        "Učitelj hrvatskoga jezika",
+        "Prvi hrvatski kralj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Poslovice je stvorio narod, a ime njihova autora ne znamo.",
+      "savjet": "Razmisli što znači riječ narodna u nazivu narodna poslovica."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-003",
+      "tezina": "lagano",
+      "pitanje": "Kako su se poslovice nekada prenosile s koljena na koljeno?",
+      "ponudeni": [
+        "Putem televizije",
+        "Putem interneta",
+        "Usmeno, pričanjem",
+        "Samo pismima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljudi su poslovice prenosili usmeno, pričajući ih mlađima.",
+      "savjet": "Sjeti se da su poslovice mnogo starije od tiskanih knjiga, radija i računala."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-004",
+      "tezina": "lagano",
+      "pitanje": "Čime se mudra izreka razlikuje od poslovice?",
+      "ponudeni": [
+        "Izreka se piše u stihovima",
+        "Izreka nema nikakvo značenje",
+        "Izreka je dulja od priče",
+        "Kod izreke se zna tko je autor"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mudra izreka misao je poznate osobe, pa joj znamo autora, a autor poslovice nije poznat.",
+      "savjet": "Usporedi tko je smislio poslovicu, a tko mudru izreku."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-005",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih rečenica poslovica?",
+      "ponudeni": [
+        "Bez muke nema nauke.",
+        "Sutra idemo na izlet.",
+        "Moja mačka voli mlijeko.",
+        "Školsko zvono zvoni u osam."
+      ],
+      "tocan": 0,
+      "objasnjenje": "„Bez muke nema nauke.“ poslovica je jer je kratka narodna mudrost s poukom.",
+      "savjet": "Potraži rečenicu koja nosi pouku za svakoga, a ne govori o jednom događaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-006",
+      "tezina": "lagano",
+      "pitanje": "Koju bi rečenicu baka mogla izgovoriti kao poslovicu?",
+      "ponudeni": [
+        "Ručak je na stolu.",
+        "Laž ima kratke noge.",
+        "Obuci toplu jaknu.",
+        "Pas laje u dvorištu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Laž ima kratke noge.“ poslovica je s poukom da se laž brzo otkrije.",
+      "savjet": "Poslovica je kratka i nosi pouku za cijeli život."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-007",
+      "tezina": "lagano",
+      "pitanje": "Što znači da poslovica ima preneseno značenje?",
+      "ponudeni": [
+        "Da je prevedena s drugog jezika",
+        "Da se prenosi samo pismom",
+        "Da njezine riječi znače nešto drugo, dublje",
+        "Da je napisana na ploči"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi u poslovici ne shvaćamo doslovno; one nas upućuju na neku životnu pouku.",
+      "savjet": "Sjeti se poslovice o laži koja ima kratke noge. Ima li laž zaista noge?"
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-008",
+      "tezina": "lagano",
+      "pitanje": "Što nam najčešće daje poslovica?",
+      "ponudeni": [
+        "Upute za igru",
+        "Recept za kolač",
+        "Vremensku prognozu",
+        "Pouku ili savjet"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poslovica u kratkoj rečenici daje pouku kako se ponašati u životu.",
+      "savjet": "Razmisli zašto bi stariji ljudi mlađima ponavljali poslovice."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-009",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Tko rano rani, dvije sreće …“",
+      "ponudeni": [
+        "grabi",
+        "nosi",
+        "traži",
+        "gubi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poslovica glasi: „Tko rano rani, dvije sreće grabi.“",
+      "savjet": "Traži se riječ koja znači brzo uzimati punim rukama."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-010",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Bez muke nema …“",
+      "ponudeni": [
+        "igre",
+        "nauke",
+        "sreće",
+        "pjesme"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Poslovica glasi: „Bez muke nema nauke.“ Za znanje je potreban trud.",
+      "savjet": "Poslovica govori o tome što dobivamo trudom u školi."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-011",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Laž ima kratke …“",
+      "ponudeni": [
+        "ruke",
+        "uši",
+        "noge",
+        "oči"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poslovica glasi: „Laž ima kratke noge.“ To znači da se laž brzo otkrije.",
+      "savjet": "Razmisli zašto laž ne može daleko pobjeći."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-012",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Nije zlato sve što …“",
+      "ponudeni": [
+        "vrijedi",
+        "zvoni",
+        "pada",
+        "sja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poslovica glasi: „Nije zlato sve što sja.“ Ne treba suditi po izgledu.",
+      "savjet": "Sjeti se kako izgleda zlato obasjano suncem."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-013",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Ponavljanje je majka …“",
+      "ponudeni": [
+        "znanja",
+        "sreće",
+        "igre",
+        "prijateljstva"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poslovica glasi: „Ponavljanje je majka znanja.“",
+      "savjet": "Razmisli zašto prije ispita ponavljaš gradivo."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-014",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Prijatelj se u … poznaje.“",
+      "ponudeni": [
+        "igri",
+        "nevolji",
+        "školi",
+        "šetnji"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Poslovica glasi: „Prijatelj se u nevolji poznaje.“",
+      "savjet": "Razmisli kada najbolje vidiš tko ti je pravi prijatelj."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-015",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Jedna lasta ne čini …“",
+      "ponudeni": [
+        "ljeto",
+        "gnijezdo",
+        "proljeće",
+        "jato"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poslovica glasi: „Jedna lasta ne čini proljeće.“",
+      "savjet": "Poslovica kaže da jedan znak nije dovoljan da bismo zaključili da je nešto stiglo."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-016",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Što posiješ, to ćeš i …“",
+      "ponudeni": [
+        "jesti",
+        "prodati",
+        "zaliti",
+        "žeti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poslovica glasi: „Što posiješ, to ćeš i žeti.“",
+      "savjet": "Razmisli što seljak radi na polju kad žito sazrije."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-017",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Tiha voda brege …“",
+      "ponudeni": [
+        "dere",
+        "gradi",
+        "čuva",
+        "pere"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poslovica glasi: „Tiha voda brege dere.“",
+      "savjet": "Zamisli što mirna rijeka kroz mnogo godina polako radi s obalom."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-018",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Govor je srebro, a šutnja …“",
+      "ponudeni": [
+        "bronca",
+        "zlato",
+        "željezo",
+        "kamen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Poslovica glasi: „Govor je srebro, a šutnja zlato.“",
+      "savjet": "Poslovica kaže da je šutnja ponekad vrjednija od govora."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-019",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Tko visoko leti, nisko …“",
+      "ponudeni": [
+        "sjedi",
+        "živi",
+        "pada",
+        "spava"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poslovica glasi: „Tko visoko leti, nisko pada.“",
+      "savjet": "Razmisli što se dogodi kad zmaj od papira visoko u zraku izgubi vjetar."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-020",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Bolje vrabac u ruci nego … na grani.“",
+      "ponudeni": [
+        "orao",
+        "lastavica",
+        "sova",
+        "golub"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poslovica glasi: „Bolje vrabac u ruci nego golub na grani.“",
+      "savjet": "Poslovica uspoređuje pticu koju već imaš i pticu koju tek želiš uhvatiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-021",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Tko drugome jamu kopa, sam u nju …“",
+      "ponudeni": [
+        "pada",
+        "gleda",
+        "skače",
+        "sadi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poslovica glasi: „Tko drugome jamu kopa, sam u nju pada.“",
+      "savjet": "Razmisli što se može dogoditi onomu tko kopa duboku rupu."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-022",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Ne ostavljaj za sutra ono što možeš učiniti …“",
+      "ponudeni": [
+        "ujutro",
+        "danas",
+        "prekosutra",
+        "zimi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Poslovica glasi: „Ne ostavljaj za sutra ono što možeš učiniti danas.“",
+      "savjet": "Poslovica uspoređuje sutrašnji dan s jednim drugim danom."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-023",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Zrno po zrno – pogača, kamen po kamen – …“",
+      "ponudeni": [
+        "kuća",
+        "zid",
+        "palača",
+        "most"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Poslovica glasi: „Zrno po zrno – pogača, kamen po kamen – palača.“",
+      "savjet": "Zamisli veliku, raskošnu građevinu u kojoj žive kraljevi."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-024",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Tko se zadnji smije, najslađe se …“",
+      "ponudeni": [
+        "plače",
+        "igra",
+        "raduje",
+        "smije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poslovica glasi: „Tko se zadnji smije, najslađe se smije.“",
+      "savjet": "Pročitaj pažljivo prvi dio poslovice."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-025",
+      "tezina": "lagano",
+      "pitanje": "Dopuni poslovicu: „Ispeci pa …“",
+      "ponudeni": [
+        "reci",
+        "pojedi",
+        "prodaj",
+        "baci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Poslovica glasi: „Ispeci pa reci.“ Znači da treba dobro razmisliti prije nego što nešto kažemo.",
+      "savjet": "Ova poslovica savjetuje kako se ponašati u razgovoru."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-026",
+      "tezina": "lagano",
+      "pitanje": "Koja se mudra izreka pripisuje starogrčkom mudracu Sokratu?",
+      "ponudeni": [
+        "Tko rano rani, dvije sreće grabi.",
+        "Znam da ništa ne znam.",
+        "Laž ima kratke noge.",
+        "Bez muke nema nauke."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sokratu se pripisuje izreka „Znam da ništa ne znam.“ Ostale rečenice narodne su poslovice.",
+      "savjet": "Mudrac je htio reći da uvijek ima još mnogo toga za naučiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-027",
+      "tezina": "lagano",
+      "pitanje": "Tko je autor mudre izreke „Znanje je moć.“?",
+      "ponudeni": [
+        "Sokrat",
+        "Narod",
+        "Francis Bacon",
+        "Nepoznati pjesnik"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izreku „Znanje je moć.“ izrekao je Francis Bacon.",
+      "savjet": "Autor ove izreke bio je engleski mislilac."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-028",
+      "tezina": "lagano",
+      "pitanje": "Je li „Bez muke nema nauke.“ poslovica ili izreka?",
+      "ponudeni": [
+        "Izreka, jer joj se zna autor",
+        "Pjesma, jer ima rimu",
+        "Priča, jer ima likove",
+        "Poslovica, jer je narodna mudrost"
+      ],
+      "tocan": 3,
+      "objasnjenje": "„Bez muke nema nauke.“ narodna je poslovica jer joj autor nije poznat.",
+      "savjet": "Pitaj se zna li itko tko je prvi izgovorio ovu rečenicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-029",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo mudru misao poznate osobe?",
+      "ponudeni": [
+        "Izreka",
+        "Poslovica",
+        "Zagonetka",
+        "Brzalica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mudra misao poznate osobe zove se izreka; poslovici autor nije poznat.",
+      "savjet": "Sjeti se kod koje vrste mudrih misli znamo autora."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-030",
+      "tezina": "lagano",
+      "pitanje": "Kakva je poslovica po duljini?",
+      "ponudeni": [
+        "Duga kao bajka",
+        "Kratka, najčešće jedna rečenica",
+        "Duga nekoliko stranica",
+        "Dugačka kao pjesma s kiticama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Poslovice su kratke i najčešće se sastoje od jedne rečenice.",
+      "savjet": "Sjeti se bilo koje poslovice i prebroji njezine rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-031",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Tko rano rani, dvije sreće grabi.“?",
+      "ponudeni": [
+        "Tko počne rano, više postigne",
+        "Tko kasno ustaje, više zna",
+        "Jutro je najsretnije doba dana",
+        "Treba spavati što dulje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tko na vrijeme počne raditi, stigne učiniti više i ima više uspjeha.",
+      "savjet": "Razmisli što dobiva onaj tko krene na posao prije drugih."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-032",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Bez muke nema nauke.“?",
+      "ponudeni": [
+        "Učenje je lako i zabavno",
+        "Za znanje je potreban trud",
+        "Muka je dobra za zdravlje",
+        "Tko se muči, ne uči"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ muka ovdje znači trud: bez truda ne možemo ništa naučiti.",
+      "savjet": "Razmisli što ti treba da svladaš teško gradivo."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-033",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Tko drugome jamu kopa, sam u nju pada.“?",
+      "ponudeni": [
+        "Kopanje je opasan posao",
+        "Treba pomagati pri kopanju",
+        "Tko drugome želi zlo, sam strada",
+        "Jame treba ograditi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jama ovdje znači zamku; tko želi nauditi drugomu, često na kraju naudi sebi.",
+      "savjet": "Jama u ovoj poslovici nije prava rupa u zemlji."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-034",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Zrno po zrno – pogača, kamen po kamen – palača.“?",
+      "ponudeni": [
+        "Pogača se peče od kamena",
+        "Palače se grade brzo",
+        "Velike stvari ne vrijede truda",
+        "Malo-pomalo dolazi se do velikoga"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od mnogo malih koraka na kraju nastaje nešto veliko.",
+      "savjet": "Razmisli kako od sitnih zrna nastaje cijela pogača."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-035",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Laž ima kratke noge.“?",
+      "ponudeni": [
+        "Laž se brzo otkrije",
+        "Lažljivci su niski ljudi",
+        "Laž putuje daleko",
+        "Laž je teško otkriti"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Laž ne može daleko pobjeći, nego se brzo sazna istina.",
+      "savjet": "Razmisli koliko daleko može pobjeći netko tko ima kratke noge."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-036",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Nije zlato sve što sja.“?",
+      "ponudeni": [
+        "Zlato je jedini vrijedan metal",
+        "Ne sudi samo po izgledu",
+        "Sve što sja vrijedi mnogo",
+        "Zlato treba često čistiti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nešto može lijepo izgledati, a ne vrijediti mnogo, pa ne treba suditi po vanjštini.",
+      "savjet": "Sjeti se da i obično staklo može blistati na suncu."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-037",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Bolje vrabac u ruci nego golub na grani.“?",
+      "ponudeni": [
+        "Vrapci su ljepši od golubova",
+        "Ptice treba držati u ruci",
+        "Bolje sigurno malo nego nesigurno puno",
+        "Golubovi brzo odlete s grane"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bolje je imati nešto malo, ali sigurno, nego čekati nešto veće što možda nećemo dobiti.",
+      "savjet": "Razmisli koju pticu sigurno imaš, a koja ti može odletjeti."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-038",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Jedna lasta ne čini proljeće.“?",
+      "ponudeni": [
+        "Laste dolaze samo ljeti",
+        "Proljeće počinje dolaskom laste",
+        "Laste vole živjeti same",
+        "Jedan znak nije dovoljan za zaključak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Po jednom znaku ne smijemo odmah zaključivati; treba ih vidjeti više.",
+      "savjet": "Ako vidiš samo jednu lastu, možeš li sa sigurnošću reći da je stiglo proljeće?"
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-039",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Što posiješ, to ćeš i žeti.“?",
+      "ponudeni": [
+        "Kako radiš, tako ti se vraća",
+        "Sjeme treba sijati u jesen",
+        "Žetva je teža od sjetve",
+        "Treba sijati što više"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Naša djela vraćaju nam se: dobro donosi dobro, a loše donosi loše.",
+      "savjet": "Razmisli što dobiješ ako se prema drugima ponašaš lijepo, a što ako se ponašaš ružno."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-040",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Tiha voda brege dere.“?",
+      "ponudeni": [
+        "Rijeke su opasne za plivanje",
+        "Mirni ljudi mogu iznenaditi",
+        "Glasni ljudi su najjači",
+        "Voda mora biti tiha"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kao što mirna voda polako mijenja obalu, i povučeni ljudi mogu učiniti nešto veliko.",
+      "savjet": "Mirna voda izgleda bezopasno, ali polako mijenja obalu."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-041",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Ispeci pa reci.“?",
+      "ponudeni": [
+        "Prije jela treba govoriti",
+        "Kuhanje je važnije od govora",
+        "Dobro razmisli prije nego što nešto kažeš",
+        "Pričaj dok pečeš kruh"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kao što kruh treba dobro ispeći, tako i misao treba dobro pripremiti prije govora.",
+      "savjet": "Pečenje ovdje znači nešto dobro pripremiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-042",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Tko visoko leti, nisko pada.“?",
+      "ponudeni": [
+        "Letenje avionom je opasno",
+        "Treba se penjati na drveće",
+        "Ptice lete visoko",
+        "Tko se uzoholi, lako padne"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tko se smatra boljim od drugih i hvali se, često doživi neuspjeh.",
+      "savjet": "Visok let ovdje znači ponašanje osobe koja misli da je iznad drugih."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-043",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Obećanje – ludom radovanje.“?",
+      "ponudeni": [
+        "Ne raduj se unaprijed obećanju",
+        "Obećanja se uvijek ispune",
+        "Radovati se mogu samo djeca",
+        "Obećanje treba zapisati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Obećano još nije dobiveno, pa se ne treba prerano radovati.",
+      "savjet": "Razmisli je li obećano isto što i dobiveno."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-044",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Govor je srebro, a šutnja zlato.“?",
+      "ponudeni": [
+        "Srebro je vrjednije od zlata",
+        "Ponekad je pametnije šutjeti",
+        "Treba stalno govoriti",
+        "Zlato i srebro jednako vrijede"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Govor je vrijedan, ali u nekim je trenutcima šutnja još vrjednija.",
+      "savjet": "Usporedi koji je od ta dva metala vrjedniji."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-045",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Ponavljanje je majka znanja.“?",
+      "ponudeni": [
+        "Majka zna sve odgovore",
+        "Ponavljanje je dosadno",
+        "Ponavljanjem se znanje učvršćuje",
+        "Znanje dolazi samo od sebe"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Što više puta ponoviš gradivo, to ga bolje zapamtiš.",
+      "savjet": "Razmisli što se dogodi s pjesmicom koju izgovoriš mnogo puta."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-046",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Prijatelj se u nevolji poznaje.“?",
+      "ponudeni": [
+        "Prijatelje upoznajemo na igralištu",
+        "Nevolje treba skrivati od prijatelja",
+        "Prijatelji često upadaju u nevolje",
+        "Pravi prijatelj pomogne kad je teško"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravi se prijatelj pokaže onda kad nam je teško i treba nam pomoć.",
+      "savjet": "Razmisli kada se vidi tko je zaista uz tebe."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-047",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Ne ostavljaj za sutra ono što možeš učiniti danas.“?",
+      "ponudeni": [
+        "Obveze ne treba odgađati",
+        "Sutra je bolji dan za rad",
+        "Danas se treba odmarati",
+        "Sve treba raditi navečer"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posao koji možemo obaviti odmah ne treba ostavljati za kasnije.",
+      "savjet": "Razmisli što se dogodi kad zadaću stalno ostavljaš za kasnije."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-048",
+      "tezina": "srednje",
+      "pitanje": "Što znači poslovica „Tko se zadnji smije, najslađe se smije.“?",
+      "ponudeni": [
+        "Smijeh je dobar za zdravlje",
+        "Najveća je radost onoga tko uspije na kraju",
+        "Treba se smijati što glasnije",
+        "Smijeh je sladak kao med"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Važno je kako nešto završi, a ne tko se prvi raduje.",
+      "savjet": "Razmisli tko se raduje kad igra završi, a ne dok još traje."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-049",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica znači da se neistina brzo otkrije?",
+      "ponudeni": [
+        "Tiha voda brege dere.",
+        "Ispeci pa reci.",
+        "Laž ima kratke noge.",
+        "Jedna lasta ne čini proljeće."
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Laž ima kratke noge.“ znači da laž ne može daleko pobjeći, nego se brzo otkrije.",
+      "savjet": "Potraži poslovicu u kojoj nešto ne može daleko pobjeći."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-050",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica savjetuje da ne sudimo samo po izgledu?",
+      "ponudeni": [
+        "Bez muke nema nauke.",
+        "Prijatelj se u nevolji poznaje.",
+        "Ponavljanje je majka znanja.",
+        "Nije zlato sve što sja."
+      ],
+      "tocan": 3,
+      "objasnjenje": "„Nije zlato sve što sja.“ upozorava da ono što lijepo izgleda ne mora biti vrijedno.",
+      "savjet": "Potraži poslovicu u kojoj se spominje nešto što lijepo izgleda."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-051",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica govori da se malo-pomalo dolazi do velikoga?",
+      "ponudeni": [
+        "Zrno po zrno – pogača, kamen po kamen – palača.",
+        "Tko visoko leti, nisko pada.",
+        "Obećanje – ludom radovanje.",
+        "Govor je srebro, a šutnja zlato."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kao što se pogača radi od mnogo zrna, a palača od mnogo kamenja, tako i velike stvari nastaju malo-pomalo.",
+      "savjet": "Potraži poslovicu u kojoj se nešto veliko slaže od mnogo malih dijelova."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-052",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica savjetuje da dobro razmisliš prije nego što progovoriš?",
+      "ponudeni": [
+        "Tko rano rani, dvije sreće grabi.",
+        "Ispeci pa reci.",
+        "Što posiješ, to ćeš i žeti.",
+        "Bolje vrabac u ruci nego golub na grani."
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Ispeci pa reci.“ znači da misao treba dobro pripremiti prije nego što je izgovorimo.",
+      "savjet": "Potraži poslovicu u kojoj se priprema hrane uspoređuje s govorom."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-053",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica govori da ti se vraća ono što sam činiš?",
+      "ponudeni": [
+        "Jedna lasta ne čini proljeće.",
+        "Nije zlato sve što sja.",
+        "Što posiješ, to ćeš i žeti.",
+        "Ponavljanje je majka znanja."
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Što posiješ, to ćeš i žeti.“ znači da nam se naša djela vraćaju.",
+      "savjet": "Potraži poslovicu koja rad na polju uspoređuje s ponašanjem."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-054",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica upozorava da se ne raduješ nečemu što ti je samo obećano?",
+      "ponudeni": [
+        "Tiha voda brege dere.",
+        "Laž ima kratke noge.",
+        "Bez muke nema nauke.",
+        "Obećanje – ludom radovanje."
+      ],
+      "tocan": 3,
+      "objasnjenje": "„Obećanje – ludom radovanje.“ znači da obećano još nije dobiveno.",
+      "savjet": "Potraži poslovicu u kojoj se spominje radost."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-055",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica znači da je bolje imati sigurno malo nego nesigurno puno?",
+      "ponudeni": [
+        "Bolje vrabac u ruci nego golub na grani.",
+        "Tko se zadnji smije, najslađe se smije.",
+        "Prijatelj se u nevolji poznaje.",
+        "Ispeci pa reci."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrabac u ruci je mali, ali siguran, a golub na grani može odletjeti.",
+      "savjet": "Potraži poslovicu koja uspoređuje dvije ptice."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-056",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica znači da mirni i povučeni ljudi mogu iznenaditi?",
+      "ponudeni": [
+        "Tko visoko leti, nisko pada.",
+        "Tiha voda brege dere.",
+        "Zrno po zrno – pogača, kamen po kamen – palača.",
+        "Laž ima kratke noge."
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Tiha voda brege dere.“ znači da i mirna osoba može učiniti nešto veliko i neočekivano.",
+      "savjet": "Potraži poslovicu u kojoj se spominje nešto mirno iz prirode."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-057",
+      "tezina": "srednje",
+      "pitanje": "Koja je od ovih rečenica mudra izreka poznate osobe?",
+      "ponudeni": [
+        "Laž ima kratke noge.",
+        "Tiha voda brege dere.",
+        "Znanje je moć.",
+        "Ispeci pa reci."
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Znanje je moć.“ izreka je Francisa Bacona, a ostale su rečenice narodne poslovice.",
+      "savjet": "Sjeti se koja od ovih rečenica ima poznatog autora."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-058",
+      "tezina": "srednje",
+      "pitanje": "Što je zajedničko poslovicama „Laž ima kratke noge.“ i „Tiha voda brege dere.“?",
+      "ponudeni": [
+        "Obje govore o prirodi",
+        "Obje imaju poznatog autora",
+        "Obje su duge priče",
+        "Obje imaju preneseno značenje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Laž zapravo nema noge, a tiha voda predstavlja mirne ljude; obje poslovice nose pouku.",
+      "savjet": "Razmisli treba li riječi u tim poslovicama shvatiti doslovno."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-059",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica znači da jedan znak nije dovoljan za zaključak?",
+      "ponudeni": [
+        "Jedna lasta ne čini proljeće.",
+        "Ponavljanje je majka znanja.",
+        "Govor je srebro, a šutnja zlato.",
+        "Tko rano rani, dvije sreće grabi."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jedna lasta još ne znači da je stiglo proljeće, kao što ni jedan znak nije dovoljan za zaključak.",
+      "savjet": "Potraži poslovicu koja spominje pticu selicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-060",
+      "tezina": "srednje",
+      "pitanje": "Koja poslovica govori da tko drugome želi zlo, sam strada?",
+      "ponudeni": [
+        "Obećanje – ludom radovanje.",
+        "Tko drugome jamu kopa, sam u nju pada.",
+        "Nije zlato sve što sja.",
+        "Bez muke nema nauke."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jama je zamka za drugoga, a u nju na kraju upadne onaj tko ju je kopao.",
+      "savjet": "Potraži poslovicu u kojoj netko upadne u zamku koju je sam napravio."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-061",
+      "tezina": "tesko",
+      "pitanje": "Ana je svaki dan pročitala nekoliko stranica i za mjesec dana pročitala debelu knjigu. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Zrno po zrno – pogača, kamen po kamen – palača.",
+        "Laž ima kratke noge.",
+        "Tiha voda brege dere.",
+        "Obećanje – ludom radovanje."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ana je malo-pomalo, stranicu po stranicu, došla do velikoga cilja.",
+      "savjet": "Razmisli kako je od malih dijelova nastalo nešto veliko."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-062",
+      "tezina": "tesko",
+      "pitanje": "Luka je mami rekao da je napisao zadaću, ali je učiteljica već sutradan otkrila da nije. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Tko rano rani, dvije sreće grabi.",
+        "Laž ima kratke noge.",
+        "Jedna lasta ne čini proljeće.",
+        "Bolje vrabac u ruci nego golub na grani."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lukina se neistina otkrila već sljedeći dan, baš kako kaže poslovica.",
+      "savjet": "Razmisli koliko je dugo trajala Lukina neistina."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-063",
+      "tezina": "tesko",
+      "pitanje": "Mia je ustala rano, prva stigla na sajam i kupila najljepšu biljku. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Ispeci pa reci.",
+        "Govor je srebro, a šutnja zlato.",
+        "Tko rano rani, dvije sreće grabi.",
+        "Nije zlato sve što sja."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mia je počela rano i zato je dobila ono najbolje.",
+      "savjet": "Razmisli zašto je baš Mia dobila ono najbolje."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-064",
+      "tezina": "tesko",
+      "pitanje": "Kad je Petar slomio nogu, samo mu je Iva svaki dan donosila bilježnice iz škole. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Tko se zadnji smije, najslađe se smije.",
+        "Tko visoko leti, nisko pada.",
+        "Ponavljanje je majka znanja.",
+        "Prijatelj se u nevolji poznaje."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iva je pomogla Petru kad mu je bilo teško i tako pokazala da je pravi prijatelj.",
+      "savjet": "Razmisli što je Iva pokazala u teškom trenutku."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-065",
+      "tezina": "tesko",
+      "pitanje": "Karlo je odabrao bombone s najsjajnijim omotom, ali bili su bez okusa. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Nije zlato sve što sja.",
+        "Bez muke nema nauke.",
+        "Tko visoko leti, nisko pada.",
+        "Ispeci pa reci."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Karlo je birao po izgledu, a ono što lijepo izgleda ne mora biti i dobro.",
+      "savjet": "Razmisli prema čemu je Karlo birao bombone."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-066",
+      "tezina": "tesko",
+      "pitanje": "Ema je prvog toplog dana u veljači spremila zimsku jaknu, a sutradan je pao snijeg. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Laž ima kratke noge.",
+        "Jedna lasta ne čini proljeće.",
+        "Tiha voda brege dere.",
+        "Prijatelj se u nevolji poznaje."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ema je po jednom toplom danu zaključila da je zima prošla, a jedan znak nije dovoljan.",
+      "savjet": "Razmisli je li jedan topao dan dovoljan za zaključak da je zima gotova."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-067",
+      "tezina": "tesko",
+      "pitanje": "Noa je u ljutnji izgovorio ružne riječi prijatelju, a poslije mu je bilo žao. Koju je poslovicu Noa trebao poslušati?",
+      "ponudeni": [
+        "Tko rano rani, dvije sreće grabi.",
+        "Zrno po zrno – pogača, kamen po kamen – palača.",
+        "Ispeci pa reci.",
+        "Bolje vrabac u ruci nego golub na grani."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Da je Noa najprije razmislio, ne bi izgovorio riječi zbog kojih mu je poslije bilo žao.",
+      "savjet": "Razmisli što je Noa trebao učiniti prije nego što je progovorio."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-068",
+      "tezina": "tesko",
+      "pitanje": "Marin je miran i rijetko se javlja na satu, a pobijedio je na školskom natjecanju iz matematike. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Laž ima kratke noge.",
+        "Obećanje – ludom radovanje.",
+        "Tko visoko leti, nisko pada.",
+        "Tiha voda brege dere."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Povučeni Marin iznenadio je sve, kao što mirna voda polako mijenja obalu.",
+      "savjet": "Razmisli što je u priči neobično s obzirom na Marinovu narav."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-069",
+      "tezina": "tesko",
+      "pitanje": "Lana je mogla odmah dobiti jednu naljepnicu ili čekati da možda dobije deset. Uzela je jednu odmah. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Bolje vrabac u ruci nego golub na grani.",
+        "Tko se zadnji smije, najslađe se smije.",
+        "Nije zlato sve što sja.",
+        "Ponavljanje je majka znanja."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lana je izabrala malo, ali sigurno, umjesto mnogo, ali nesigurno.",
+      "savjet": "Razmisli je li Lana izabrala ono sigurno ili ono neizvjesno."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-070",
+      "tezina": "tesko",
+      "pitanje": "Josip je prolio vodu po podu da se Ivan posklizne, ali se na mokrom podu poskliznuo sam Josip. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Ponavljanje je majka znanja.",
+        "Tko drugome jamu kopa, sam u nju pada.",
+        "Jedna lasta ne čini proljeće.",
+        "Govor je srebro, a šutnja zlato."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Josip je htio nauditi Ivanu, a na kraju je sam stradao.",
+      "savjet": "Razmisli kome je Josip htio nauditi, a tko je na kraju stradao."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-071",
+      "tezina": "tesko",
+      "pitanje": "Tea je svaki dan po malo ponavljala tablicu množenja i na provjeri je sve znala. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Tiha voda brege dere.",
+        "Obećanje – ludom radovanje.",
+        "Ponavljanje je majka znanja.",
+        "Tko visoko leti, nisko pada."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tea je učvrstila znanje tako što je gradivo ponavljala svaki dan.",
+      "savjet": "Razmisli što je Tea radila svaki dan prije provjere."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-072",
+      "tezina": "tesko",
+      "pitanje": "Brat je Dori obećao da će joj kupiti bicikl, a Dora je već svima pričala o svojem novom biciklu. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Što posiješ, to ćeš i žeti.",
+        "Laž ima kratke noge.",
+        "Tko rano rani, dvije sreće grabi.",
+        "Obećanje – ludom radovanje."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dora se raduje biciklu koji još nije dobila, nego joj je samo obećan.",
+      "savjet": "Razmisli je li Dora bicikl već dobila ili joj je samo rečeno da hoće."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-073",
+      "tezina": "tesko",
+      "pitanje": "Filip se hvalio da je najbolji igrač i rugao se drugima, a onda je izgubio sve utakmice. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Tko visoko leti, nisko pada.",
+        "Prijatelj se u nevolji poznaje.",
+        "Ispeci pa reci.",
+        "Jedna lasta ne čini proljeće."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Filip se uzoholio i smatrao boljim od drugih, a zatim je doživio neuspjeh.",
+      "savjet": "Razmisli kakvo je bilo Filipovo ponašanje prema drugima prije utakmica."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-074",
+      "tezina": "tesko",
+      "pitanje": "Sara je cijelu godinu pomagala susjedima, a kad je njoj trebala pomoć, svi su joj rado pomogli. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Nije zlato sve što sja.",
+        "Što posiješ, to ćeš i žeti.",
+        "Laž ima kratke noge.",
+        "Tiha voda brege dere."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sarino dobro ponašanje vratilo joj se dobrim.",
+      "savjet": "Razmisli kako se Sarino ponašanje vratilo njoj samoj."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-075",
+      "tezina": "tesko",
+      "pitanje": "Dino je odgađao pisanje sastavka do zadnje večeri pa ga nije stigao dovršiti. Koju je poslovicu Dino trebao poslušati?",
+      "ponudeni": [
+        "Bolje vrabac u ruci nego golub na grani.",
+        "Tko se zadnji smije, najslađe se smije.",
+        "Ne ostavljaj za sutra ono što možeš učiniti danas.",
+        "Nije zlato sve što sja."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Da Dino nije odgađao posao, stigao bi napisati sastavak.",
+      "savjet": "Razmisli kada je Dino trebao početi pisati."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-076",
+      "tezina": "tesko",
+      "pitanje": "Ekipa iz našeg razreda gubila je cijelo prvo poluvrijeme, a na kraju je ipak pobijedila. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Laž ima kratke noge.",
+        "Ispeci pa reci.",
+        "Bolje vrabac u ruci nego golub na grani.",
+        "Tko se zadnji smije, najslađe se smije."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ekipa koja je uspjela na kraju imala je najveću radost.",
+      "savjet": "Razmisli tko se radovao na samom kraju utakmice."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-077",
+      "tezina": "tesko",
+      "pitanje": "Ivan je dugo i strpljivo vježbao gitaru, iako mu je isprva bilo teško, i sada lijepo svira. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Bez muke nema nauke.",
+        "Tko drugome jamu kopa, sam u nju pada.",
+        "Obećanje – ludom radovanje.",
+        "Jedna lasta ne čini proljeće."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ivan je mnogo truda uložio u vježbanje i zato je naučio svirati.",
+      "savjet": "Razmisli što je Ivanu trebalo da nauči svirati."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-078",
+      "tezina": "tesko",
+      "pitanje": "Dok su se prijatelji svađali i vikali, Klara nije rekla ni riječ i tako nikoga nije uvrijedila. Koja poslovica pristaje uz tu priču?",
+      "ponudeni": [
+        "Tko rano rani, dvije sreće grabi.",
+        "Govor je srebro, a šutnja zlato.",
+        "Zrno po zrno – pogača, kamen po kamen – palača.",
+        "Nije zlato sve što sja."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Klara je u toj prilici mudro izabrala tišinu umjesto ružnih riječi.",
+      "savjet": "Razmisli što je Klara izabrala: riječi ili tišinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-079",
+      "tezina": "tesko",
+      "pitanje": "Baka kaže: „Tko rano rani, dvije sreće grabi.“ Djed kaže: „Znanje je moć.“, kao što je rekao Francis Bacon. Što je točno?",
+      "ponudeni": [
+        "Oboje su izgovorili poslovice",
+        "Oboje su izgovorili izreke",
+        "Baka je izgovorila poslovicu, a djed izreku",
+        "Baka je izgovorila izreku, a djed poslovicu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bakina rečenica narodna je poslovica nepoznatog autora, a djedova je izreka poznate osobe.",
+      "savjet": "Razmisli za koju rečenicu znaš tko ju je smislio."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-080",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je situaciji prikladno reći „Laž ima kratke noge.“?",
+      "ponudeni": [
+        "Kad netko pobijedi na utrci",
+        "Kad netko kupi nove cipele",
+        "Kad netko rano ustane",
+        "Kad se otkrije nečija neistina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Poslovica ne govori o pravim nogama, nego o tome da se laž brzo otkrije.",
+      "savjet": "Ne shvaćaj riječi doslovno, nego razmisli o čemu poslovica zapravo govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-081",
+      "tezina": "tesko",
+      "pitanje": "Koja situacija najbolje odgovara poslovici „Prijatelj se u nevolji poznaje.“?",
+      "ponudeni": [
+        "Ivo pomogne Niki kad joj se pokvari bicikl",
+        "Ivo i Nika zajedno gledaju film",
+        "Ivo za rođendan dobije novu loptu",
+        "Ivo prvi stigne u školu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Niki je bilo teško, a Ivo joj je pomogao i tako pokazao da je pravi prijatelj.",
+      "savjet": "Potraži situaciju u kojoj je nekome bilo teško."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-082",
+      "tezina": "tesko",
+      "pitanje": "Kada bi bilo prikladno reći „Tko rano rani, dvije sreće grabi.“?",
+      "ponudeni": [
+        "Kad netko zakasni na autobus",
+        "Kad netko prvi dođe i dobije najbolje mjesto",
+        "Kad netko dugo spava",
+        "Kad netko izgubi ključeve"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Onaj tko je došao prvi dobio je najbolje, baš kako kaže poslovica.",
+      "savjet": "Razmisli tko u ovoj poslovici ima više sreće."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-083",
+      "tezina": "tesko",
+      "pitanje": "Koja situacija najbolje odgovara poslovici „Nije zlato sve što sja.“?",
+      "ponudeni": [
+        "Marta pronađe zlatnu ogrlicu",
+        "Marta pospremi svoju sobu",
+        "Lijepa igračka iz izloga brzo se pokvari",
+        "Marta pomogne baki u vrtu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Igračka je izgledala lijepo, ali nije bila dobra, pa izgled nije pokazao pravu vrijednost.",
+      "savjet": "Ne shvaćaj zlato doslovno; razmisli o izgledu i pravoj vrijednosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-084",
+      "tezina": "tesko",
+      "pitanje": "Koja situacija najbolje odgovara poslovici „Ponavljanje je majka znanja.“?",
+      "ponudeni": [
+        "Leon cijeli dan igra igrice",
+        "Leon pomaže mami kuhati",
+        "Leon uči pravila nove igre",
+        "Leon prije ispita više puta pročita gradivo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Leon gradivo čita više puta i tako ga bolje pamti.",
+      "savjet": "Razmisli što ti pomaže da zapamtiš ono što učiš."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-085",
+      "tezina": "tesko",
+      "pitanje": "Učiteljica je na ploču napisala: „Znam da ništa ne znam.“ Što je točno o toj rečenici?",
+      "ponudeni": [
+        "To je izreka koja se pripisuje Sokratu",
+        "To je narodna poslovica nepoznatog autora",
+        "To je stih iz narodne pjesme",
+        "To je zagonetka za djecu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tu mudru misao pripisujemo starogrčkom mudracu, pa je to izreka, a ne poslovica.",
+      "savjet": "Sjeti se je li autor ove misli poznat."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-086",
+      "tezina": "tesko",
+      "pitanje": "Što poručuje izreka „Znanje je moć.“?",
+      "ponudeni": [
+        "Moćni ljudi ne trebaju učiti",
+        "Tko zna više, može više postići",
+        "Znanje je teško nositi",
+        "Moć se kupuje novcem"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Znanje nam pomaže rješavati probleme i ostvariti ciljeve.",
+      "savjet": "Razmisli što ti omogućuje ono što si naučio u školi."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-087",
+      "tezina": "tesko",
+      "pitanje": "Netko u razredu tvrdi da poslovice treba shvatiti doslovno. Zašto ta tvrdnja nije točna?",
+      "ponudeni": [
+        "Jer poslovice imaju poznatog autora",
+        "Jer su poslovice duge priče",
+        "Jer poslovice imaju preneseno značenje",
+        "Jer se poslovice ne smiju izgovarati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi u poslovicama ne znače ono što doslovno kažu, nego nose dublju pouku.",
+      "savjet": "Sjeti se poslovice o laži i njezinim nogama."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-088",
+      "tezina": "tesko",
+      "pitanje": "Koja situacija najbolje odgovara poslovici „Tiha voda brege dere.“?",
+      "ponudeni": [
+        "Glasan dječak stalno priča na satu",
+        "Rijeka poplavi selo nakon jake kiše",
+        "Prijateljice zajedno crtaju na odmoru",
+        "Povučena Rita iznenadi sve hrabrim govorom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rita je mirna i povučena, a ipak je učinila nešto što nitko nije očekivao.",
+      "savjet": "Razmisli koga među ljudima predstavlja tiha voda."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-089",
+      "tezina": "tesko",
+      "pitanje": "Koja situacija najbolje odgovara poslovici „Tko visoko leti, nisko pada.“?",
+      "ponudeni": [
+        "Hvalisavi igrač na kraju izgubi utakmicu",
+        "Ptica s neba sleti na nisku granu",
+        "Dječak se polako popne na brdo",
+        "Djevojčica nauči voziti bicikl"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Igrač se smatrao boljim od drugih, a na kraju je doživio neuspjeh.",
+      "savjet": "Ne shvaćaj let doslovno; razmisli o ponašanju prema drugima."
+    },
+    {
+      "id": "4-hrvatski-jezik-poslovice-i-izreke-090",
+      "tezina": "tesko",
+      "pitanje": "Koja situacija najbolje odgovara poslovici „Zrno po zrno – pogača, kamen po kamen – palača.“?",
+      "ponudeni": [
+        "Baka ispeče pogaču za ručak",
+        "Nina svaki tjedan uštedi malo i kupi knjigu",
+        "Radnici sruše staru kuću",
+        "Nina odjednom potroši sav džeparac"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nina je malo-pomalo skupila dovoljno novca za nešto veće.",
+      "savjet": "Ne shvaćaj zrna i kamenje doslovno; razmisli kako nastaje nešto veliko."
+    }
+  ]
+}
