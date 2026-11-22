@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "umanjenice-i-uvecanice",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-001",
+      "tezina": "lagano",
+      "pitanje": "Što je umanjenica?",
+      "ponudeni": [
+        "Riječ koja znači nešto maleno ili drago",
+        "Riječ koja znači nešto veliko ili grubo",
+        "Riječ koja ima suprotno značenje",
+        "Riječ koja ima isto značenje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umanjenica je riječ kojom kazujemo da je nešto maleno ili nam je drago, npr. kućica ili psić.",
+      "savjet": "Sjeti se od koje je riječi nastao naziv „umanjenica“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-002",
+      "tezina": "lagano",
+      "pitanje": "Što je uvećanica?",
+      "ponudeni": [
+        "Riječ koja ima isto značenje",
+        "Riječ koja znači nešto veliko ili grubo",
+        "Riječ koja znači nešto maleno ili drago",
+        "Riječ koja ima suprotno značenje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uvećanica je riječ kojom kazujemo da je nešto veliko, a često i grubo ili ružno, npr. kućerina ili nosina.",
+      "savjet": "U nazivu „uvećanica“ skriva se riječ koja ti otkriva značenje."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-003",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ umanjenica od riječi „kuća“?",
+      "ponudeni": [
+        "kućni",
+        "kućerina",
+        "kućica",
+        "kućanstvo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kućica je mala kuća, pa je to umanjenica. Kućerina je uvećanica, a kućni i kućanstvo nisu ni umanjenice ni uvećanice.",
+      "savjet": "Potraži riječ koja znači „mala kuća“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-004",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ uvećanica od riječi „nos“?",
+      "ponudeni": [
+        "nosić",
+        "nosač",
+        "nosnica",
+        "nosina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nosina je velik nos, pa je to uvećanica. Nosić je umanjenica, a nosač i nosnica posve su druge riječi.",
+      "savjet": "Uvećanice često završavaju nastavkom -ina."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-005",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih riječi umanjenica?",
+      "ponudeni": [
+        "stolić",
+        "stolar",
+        "stolnjak",
+        "stolovi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stolić je mali stol, pa je to umanjenica. Stolar je zanimanje, stolnjak je tkanina za stol, a stolovi su množina.",
+      "savjet": "Potraži riječ koja znači „mali stol“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-006",
+      "tezina": "lagano",
+      "pitanje": "Koja je od navedenih riječi uvećanica?",
+      "ponudeni": [
+        "kućica",
+        "psina",
+        "stolić",
+        "cvjetić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Psina je velik pas, pa je to uvećanica. Kućica, stolić i cvjetić su umanjenice.",
+      "savjet": "Tri riječi znače nešto maleno, a jedna nešto veliko."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica napisana pravilno?",
+      "ponudeni": [
+        "kučica",
+        "kućica",
+        "kučića",
+        "kućića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umanjenica od riječi kuća piše se kućica. Ć iz riječi kuća ostaje i u umanjenici.",
+      "savjet": "Sjeti se kako se piše riječ od koje je umanjenica nastala."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-008",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica od riječi „cvijet“ napisana pravilno?",
+      "ponudeni": [
+        "cvijetić",
+        "cvjetič",
+        "cvijetič",
+        "cvjetić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je cvjetić. U umanjenici je slog kratak pa se piše je, a nastavak -ić piše se s ć.",
+      "savjet": "Izgovori riječ polako: je li prvi slog dug ili kratak?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-009",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica od riječi „zec“ napisana pravilno?",
+      "ponudeni": [
+        "zečić",
+        "zećić",
+        "zecić",
+        "zečič"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je zečić. Glas c prelazi u č, a nastavak -ić piše se s ć.",
+      "savjet": "Sjeti se kako se piše nastavak -ić i što se događa s glasom c."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-010",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica od riječi „ruka“ napisana pravilno?",
+      "ponudeni": [
+        "rućica",
+        "ručića",
+        "ručica",
+        "rućića"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je ručica. Glas k iz riječi ruka prelazi u č ispred nastavka -ica.",
+      "savjet": "Razmisli u koji glas prelazi k kad dodaš nastavak -ica."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-011",
+      "tezina": "lagano",
+      "pitanje": "Kojim nastavkom završava umanjenica „loptica“?",
+      "ponudeni": [
+        "-čić",
+        "-ica",
+        "-ić",
+        "-ina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Loptica je nastala od riječi lopta i nastavka -ica.",
+      "savjet": "Pogledaj koja se slova dodaju na kraj riječi „lopta“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-012",
+      "tezina": "lagano",
+      "pitanje": "Kojim nastavkom završava uvećanica „nosina“?",
+      "ponudeni": [
+        "-ica",
+        "-ić",
+        "-čić",
+        "-ina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nosina je nastala od riječi nos i nastavka -ina, kojim često tvorimo uvećanice.",
+      "savjet": "Pogledaj koja se slova dodaju na kraj riječi „nos“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-013",
+      "tezina": "lagano",
+      "pitanje": "Kojim nastavkom završava umanjenica „stolić“?",
+      "ponudeni": [
+        "-ić",
+        "-ica",
+        "-ina",
+        "-etina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stolić je nastao od riječi stol i nastavka -ić.",
+      "savjet": "Pogledaj koja se slova dodaju na kraj riječi „stol“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-014",
+      "tezina": "lagano",
+      "pitanje": "U kojem je paru druga riječ umanjenica prve?",
+      "ponudeni": [
+        "vrt – vrtlar",
+        "vrt – vrtić",
+        "vrt – vrtni",
+        "vrt – vrtovi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrtić je mali vrt, pa je to umanjenica. Vrtlar je zanimanje, vrtni je pridjev, a vrtovi su množina.",
+      "savjet": "Potraži riječ koja znači „mali vrt“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-015",
+      "tezina": "lagano",
+      "pitanje": "U kojem je paru druga riječ uvećanica prve?",
+      "ponudeni": [
+        "pas – psić",
+        "pas – pseći",
+        "pas – psina",
+        "pas – psi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Psina je velik pas, pa je to uvećanica. Psić je umanjenica, pseći je pridjev, a psi su množina.",
+      "savjet": "Potraži riječ koja znači „velik pas“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-016",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ znači „mala ptica“?",
+      "ponudeni": [
+        "ptičica",
+        "ptičji",
+        "ptice",
+        "pticama"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ptičica je mala ptica, umanjenica od riječi ptica.",
+      "savjet": "Potraži riječ koja ima nastavak za umanjenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-017",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ znači „velika kuća“?",
+      "ponudeni": [
+        "kućica",
+        "kućni",
+        "kućerina",
+        "kućanski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kućerina je velika kuća, pa je to uvećanica.",
+      "savjet": "Tražiš uvećanicu, a ne umanjenicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-018",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ znači „mali kamen“?",
+      "ponudeni": [
+        "kamenčić",
+        "kamenit",
+        "kamenje",
+        "kamenolom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kamenčić je mali kamen. Nastao je od riječi kamen i nastavka -čić.",
+      "savjet": "Potraži riječ s nastavkom koji znači nešto maleno."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-019",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ umanjenica od riječi „knjiga“?",
+      "ponudeni": [
+        "knjižnica",
+        "knjižara",
+        "knjižica",
+        "knjižničar"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Knjižica je mala knjiga. Knjižnica je mjesto gdje posuđujemo knjige, a u knjižari ih kupujemo.",
+      "savjet": "Pazi, nekoliko riječi zvuči slično, a znače nešto drugo."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-020",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica od riječi „rijeka“ napisana pravilno?",
+      "ponudeni": [
+        "rijećica",
+        "rjećica",
+        "rječića",
+        "rječica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je rječica. U umanjenici se piše je, a k iz riječi rijeka prelazi u č.",
+      "savjet": "Je li prvi slog u umanjenici dug ili kratak? U koji glas prelazi k?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-021",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica od riječi „svijeća“ napisana pravilno?",
+      "ponudeni": [
+        "svjećica",
+        "svijećica",
+        "svječica",
+        "sviječica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je svjećica. U umanjenici se piše je, a ć iz riječi svijeća ostaje.",
+      "savjet": "Sjeti se kako se piše svijeća i je li slog u umanjenici dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-022",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica od riječi „pas“ napisana pravilno?",
+      "ponudeni": [
+        "pesić",
+        "psić",
+        "psič",
+        "pasič"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno je psić. Glas a se gubi, a nastavak -ić piše se s ć.",
+      "savjet": "Sjeti se kako glasi množina riječi „pas“ i kako se piše nastavak -ić."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-023",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ znači „mali konj“?",
+      "ponudeni": [
+        "konjski",
+        "konjanik",
+        "konjušnica",
+        "konjić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Konjić je mali konj. Konjanik jaše konja, a konjušnica je zgrada za konje.",
+      "savjet": "Potraži riječ s nastavkom -ić."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-024",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ umanjenica od riječi „mačka“?",
+      "ponudeni": [
+        "mačji",
+        "mačak",
+        "mačkama",
+        "mačkica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mačkica je mala mačka. Mačak je muška mačka, a mačji je pridjev.",
+      "savjet": "Potraži riječ koja znači „mala mačka“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-025",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ znači „velik zub“?",
+      "ponudeni": [
+        "zubić",
+        "zubar",
+        "zubina",
+        "zubni"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zubina je velik zub, pa je to uvećanica. Zubić je umanjenica, a zubar je liječnik za zube.",
+      "savjet": "Uvećanice često završavaju nastavkom -ina."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-026",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica od riječi „sunce“ napisana pravilno?",
+      "ponudeni": [
+        "sunačce",
+        "sunašce",
+        "sunašće",
+        "sunaćce"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno je sunašce. Ta se umanjenica piše sa š i c.",
+      "savjet": "Izgovori riječ polako i poslušaj glasove u sredini."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-027",
+      "tezina": "lagano",
+      "pitanje": "Koja je umanjenica od riječi „zvijezda“ napisana pravilno?",
+      "ponudeni": [
+        "zvijezdica",
+        "zvjezdića",
+        "zvijezdića",
+        "zvjezdica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je zvjezdica. U umanjenici je slog kratak pa se piše je.",
+      "savjet": "Je li slog u umanjenici dug ili kratak? Kojim nastavkom završava?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-028",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ umanjenica od riječi „noga“?",
+      "ponudeni": [
+        "nogavica",
+        "nožić",
+        "nožica",
+        "nožni"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nožica je mala noga. Nožić je mali nož, a nogavica je dio hlača.",
+      "savjet": "Pazi da umanjenica bude od riječi „noga“, a ne od neke druge riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-029",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ umanjenica od riječi „brod“?",
+      "ponudeni": [
+        "brodić",
+        "brodar",
+        "brodski",
+        "brodovi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brodić je mali brod, umanjenica s nastavkom -ić.",
+      "savjet": "Potraži riječ koja znači „mali brod“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-030",
+      "tezina": "lagano",
+      "pitanje": "U kojoj se rečenici nalazi umanjenica?",
+      "ponudeni": [
+        "Na stolu je velika knjiga.",
+        "U vrtu raste cvjetić.",
+        "Pas laje na ulici.",
+        "Brat čita novine."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Cvjetić je mali cvijet, pa je to umanjenica.",
+      "savjet": "Potraži riječ koja znači nešto maleno."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-031",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu umanjenicom riječi „ruka“: Beba je stisnula mamin prst svojom malom ___.",
+      "ponudeni": [
+        "rukom",
+        "ručicom",
+        "rućicom",
+        "rukavicom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umanjenica od ruka je ručica, a u ovoj rečenici glasi ručicom. Piše se s č jer k prelazi u č.",
+      "savjet": "Tražiš umanjenicu, i to pravilno napisanu."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-032",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu umanjenicom riječi „ptica“: Na grani pjeva mala ___.",
+      "ponudeni": [
+        "ptićica",
+        "pticica",
+        "ptičica",
+        "ptica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umanjenica od ptica je ptičica. Glas c ispred nastavka -ica prelazi u č.",
+      "savjet": "Što se događa s glasom c kad dodaš nastavak -ica?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-033",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu uvećanicom riječi „kuća“: Na kraju sela stoji stara, ogromna ___.",
+      "ponudeni": [
+        "kućerina",
+        "kućica",
+        "kućanica",
+        "kućište"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kućerina je uvećanica od kuća i znači vrlo velika kuća.",
+      "savjet": "Rečenica opisuje nešto ogromno."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-034",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „vuk“?",
+      "ponudeni": [
+        "vukić",
+        "vućić",
+        "vučić",
+        "vučič"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je vučić. Glas k prelazi u č, a nastavak -ić piše se s ć.",
+      "savjet": "Sjeti se kako se mijenja k u riječima ruka – ručica."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-035",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „muha“?",
+      "ponudeni": [
+        "mušića",
+        "mušica",
+        "mužica",
+        "muščica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno je mušica. Glas h ispred nastavka -ica prelazi u š.",
+      "savjet": "Razmisli u koji glas prelazi h kad dodaš nastavak -ica."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-036",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „kolač“?",
+      "ponudeni": [
+        "kolačić",
+        "kolaćić",
+        "kolačič",
+        "kolaćič"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je kolačić. Č iz riječi kolač ostaje, a nastavak -ić piše se s ć.",
+      "savjet": "Kako se piše riječ kolač, a kako nastavak -ić?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-037",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „ključ“?",
+      "ponudeni": [
+        "kljućić",
+        "ključič",
+        "ključić",
+        "kljucić"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je ključić. Č iz riječi ključ ostaje, a nastavak -ić piše se s ć.",
+      "savjet": "Kako se piše riječ ključ, a kako nastavak -ić?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-038",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „medvjed“?",
+      "ponudeni": [
+        "medvijedić",
+        "medvjedič",
+        "medvjeđić",
+        "medvjedić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je medvjedić. U riječi medvjed piše se je, pa tako i u umanjenici, a nastavak -ić piše se s ć.",
+      "savjet": "Sjeti se kako se piše riječ medvjed."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-039",
+      "tezina": "srednje",
+      "pitanje": "Kojim se nastavkom tvori umanjenica od riječi „kamen“?",
+      "ponudeni": [
+        "-ić",
+        "-čić",
+        "-ica",
+        "-ina"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umanjenica od kamen je kamenčić, pa se tvori nastavkom -čić.",
+      "savjet": "Izgovori umanjenicu naglas i poslušaj kraj riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-040",
+      "tezina": "srednje",
+      "pitanje": "Kojim se nastavkom tvori umanjenica od riječi „balon“?",
+      "ponudeni": [
+        "-ica",
+        "-ina",
+        "-etina",
+        "-čić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umanjenica od balon je balončić, pa se tvori nastavkom -čić.",
+      "savjet": "Izgovori umanjenicu naglas i poslušaj kraj riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-041",
+      "tezina": "srednje",
+      "pitanje": "Kojim je nastavkom tvorena uvećanica „kućetina“?",
+      "ponudeni": [
+        "-ica",
+        "-etina",
+        "-čić",
+        "-ić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kućetina je nastala od riječi kuća i nastavka -etina.",
+      "savjet": "Odvoji dio koji pripada riječi „kuća“ i pogledaj što ostaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-042",
+      "tezina": "srednje",
+      "pitanje": "Kad od riječi „noga“ tvorimo umanjenicu, u koji glas prelazi g?",
+      "ponudeni": [
+        "u glas ž",
+        "u glas z",
+        "u glas č",
+        "u glas đ"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od noga nastaje nožica, pa g prelazi u ž.",
+      "savjet": "Najprije tvori umanjenicu, a onda je izgovori polako."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-043",
+      "tezina": "srednje",
+      "pitanje": "Kad od riječi „zec“ tvorimo umanjenicu, u koji glas prelazi c?",
+      "ponudeni": [
+        "u glas ć",
+        "u glas č",
+        "u glas s",
+        "u glas dž"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od zec nastaje zečić, pa c prelazi u č.",
+      "savjet": "Najprije tvori umanjenicu, a onda je izgovori polako."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-044",
+      "tezina": "srednje",
+      "pitanje": "Što se događa s ije kad od riječi „cvijet“ tvorimo umanjenicu?",
+      "ponudeni": [
+        "ije prelazi u je",
+        "ije prelazi u i",
+        "ije se ne mijenja",
+        "ije prelazi u e"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od cvijet nastaje cvjetić. U umanjenici je slog kratak, a u kratkom slogu piše se je.",
+      "savjet": "Je li slog u umanjenici dug ili kratak?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-045",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „vreća“?",
+      "ponudeni": [
+        "vrečica",
+        "vrijećica",
+        "vrečića",
+        "vrećica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je vrećica. Ć iz riječi vreća ostaje i u umanjenici.",
+      "savjet": "Sjeti se kako se piše riječ od koje je umanjenica nastala."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-046",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „ovca“?",
+      "ponudeni": [
+        "ovcica",
+        "ovćica",
+        "ovčica",
+        "ovčića"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je ovčica. Glas c ispred nastavka -ica prelazi u č.",
+      "savjet": "Sjeti se kako se mijenja c u riječima ptica – ptičica."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-047",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „lonac“?",
+      "ponudeni": [
+        "lončić",
+        "lonćić",
+        "lonacić",
+        "lončič"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je lončić. Glas a se gubi, c prelazi u č, a nastavak -ić piše se s ć.",
+      "savjet": "Razmisli što se događa s glasom c i kako se piše nastavak -ić."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-048",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „jastuk“?",
+      "ponudeni": [
+        "jastukić",
+        "jastućić",
+        "jastučič",
+        "jastučić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je jastučić. Glas k prelazi u č, a nastavak -ić piše se s ć.",
+      "savjet": "Sjeti se kako se mijenja k u riječima ruka – ručica."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-049",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu umanjenicom riječi „vrt“: Moja mlađa sestra ide u ___.",
+      "ponudeni": [
+        "vrtnu",
+        "vrtić",
+        "vrtlara",
+        "vrtove"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umanjenica od vrt je vrtić. Tako zovemo i mjesto u koje idu mala djeca.",
+      "savjet": "Tražiš riječ s nastavkom za umanjenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-050",
+      "tezina": "srednje",
+      "pitanje": "Koja je riječ uvećanica od riječi „momak“?",
+      "ponudeni": [
+        "momci",
+        "momački",
+        "momčina",
+        "momčad"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Momčina je velik, snažan momak, pa je to uvećanica. Glas k prelazi u č.",
+      "savjet": "Uvećanice često završavaju nastavkom -ina."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-051",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo umanjenice?",
+      "ponudeni": [
+        "kućica, stolić, nosina",
+        "loptica, psić, cvjetić",
+        "zubina, ručica, vrtić",
+        "kućerina, psina, zečić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Loptica, psić i cvjetić znače nešto maleno. U ostalim nizovima ima uvećanica: nosina, zubina, kućerina, psina.",
+      "savjet": "Provjeri svaku riječ u nizu: znači li nešto maleno?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-052",
+      "tezina": "srednje",
+      "pitanje": "U kojem su nizu samo uvećanice?",
+      "ponudeni": [
+        "nosina, psina, zubina",
+        "nosić, psić, zubić",
+        "kućica, psina, nosić",
+        "kućetina, zečić, zubina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nosina, psina i zubina znače nešto veliko. U ostalim nizovima ima umanjenica.",
+      "savjet": "Provjeri svaku riječ u nizu: znači li nešto veliko?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-053",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „čaša“?",
+      "ponudeni": [
+        "čašica",
+        "časica",
+        "ćašica",
+        "čašića"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je čašica. Č i š iz riječi čaša ostaju, a dodaje se nastavak -ica.",
+      "savjet": "Sjeti se kako se piše riječ od koje je umanjenica nastala."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-054",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „čamac“?",
+      "ponudeni": [
+        "čamcić",
+        "ćamčić",
+        "čamčić",
+        "čamčič"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je čamčić. Glas a se gubi, c prelazi u č, a nastavak -ić piše se s ć.",
+      "savjet": "Pazi na početno slovo, na glas c i na nastavak -ić."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-055",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu umanjenicom riječi „kutija“: Prsten je bio u ___.",
+      "ponudeni": [
+        "kutiji",
+        "kutijom",
+        "kutijama",
+        "kutijici"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umanjenica od kutija je kutijica, a u ovoj rečenici glasi kutijici.",
+      "savjet": "Tražiš riječ koja znači „mala kutija“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-056",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu umanjenicom riječi „zec“: U travi je skakutao mali ___.",
+      "ponudeni": [
+        "zečji",
+        "zečevi",
+        "zečić",
+        "zecima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Umanjenica od zec je zečić. Zečji je pridjev, a zečevi su množina.",
+      "savjet": "Tražiš riječ s nastavkom -ić."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-057",
+      "tezina": "srednje",
+      "pitanje": "Koja je riječ umanjenica od riječi „list“?",
+      "ponudeni": [
+        "listić",
+        "listati",
+        "lisnat",
+        "listopad"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Listić je mali list. Listati je glagol, lisnat je pridjev, a listopad je mjesec.",
+      "savjet": "Umanjenica je imenica koja znači nešto maleno."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-058",
+      "tezina": "srednje",
+      "pitanje": "Koja je riječ umanjenica od riječi „prst“?",
+      "ponudeni": [
+        "prsten",
+        "prsti",
+        "prstohvat",
+        "prstić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prstić je mali prst. Prsten je nakit, a prsti su množina.",
+      "savjet": "Potraži riječ s nastavkom za umanjenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-059",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pravilno napisana umanjenica od riječi „pčela“?",
+      "ponudeni": [
+        "pćelica",
+        "pčelića",
+        "pćelića",
+        "pčelica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je pčelica. Č iz riječi pčela ostaje, a dodaje se nastavak -ica.",
+      "savjet": "Sjeti se kako se piše riječ od koje je umanjenica nastala."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-060",
+      "tezina": "srednje",
+      "pitanje": "Kojim se slovom piše posljednji glas u umanjenicama „stolić“ i „gradić“?",
+      "ponudeni": [
+        "slovom č",
+        "slovom c",
+        "slovom ć",
+        "slovom đ"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nastavak -ić u umanjenicama piše se s ć: stolić, gradić, brodić.",
+      "savjet": "Sjeti se kako se piše nastavak za umanjenice muškog roda."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-061",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici umanjenica napisana pravilno?",
+      "ponudeni": [
+        "Mačka spava u kućici.",
+        "Mačka spava u kučici.",
+        "Mačka spava u kućići.",
+        "Mačka spava u kučići."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je kućici. Ć iz riječi kuća ostaje, a nastavak -ica ima c.",
+      "savjet": "Provjeri oba mjesta u riječi gdje se može pogriješiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-062",
+      "tezina": "tesko",
+      "pitanje": "U kojoj se rečenici nalazi pogreška?",
+      "ponudeni": [
+        "Zečić jede mrkvu.",
+        "Na stolu je mali kolačić.",
+        "U vazi je jedan cvijetić.",
+        "Psić se igra loptom."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je cvjetić. U umanjenici je slog kratak pa se piše je, a ne ije.",
+      "savjet": "Provjeri u kojoj se umanjenici piše ije ili je."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-063",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica napisana bez pogreške?",
+      "ponudeni": [
+        "Na rječici pliva brodić.",
+        "Na rječici pliva brodič.",
+        "Na rjećici pliva brodić.",
+        "Na rijećici pliva brodić."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je rječica (je i č) i brodić (nastavak -ić s ć).",
+      "savjet": "Provjeri obje umanjenice u rečenici, svaku posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-064",
+      "tezina": "tesko",
+      "pitanje": "Zašto se umanjenica od riječi „cvijet“ piše „cvjetić“?",
+      "ponudeni": [
+        "Jer je u umanjenici slog kratak, a u kratkom slogu piše se je.",
+        "Jer se nakon slova c piše samo je.",
+        "Jer umanjenice nemaju ije ni u jednoj riječi.",
+        "Jer je riječ cvijet stranog podrijetla."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U riječi cvijet slog je dug pa pišemo ije. U umanjenici cvjetić slog je kratak pa pišemo je.",
+      "savjet": "Izgovori obje riječi polako i usporedi duljinu sloga."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u riječi „ručica“ piše č?",
+      "ponudeni": [
+        "Jer se u umanjenicama piše samo ć.",
+        "Jer glas k ispred nastavka -ica prelazi u č.",
+        "Jer riječ ruka ima glas č.",
+        "Jer se č piše na kraju riječi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ručica je nastala od ruka. Glas k ispred nastavka -ica prelazi u č, kao u rijeka – rječica.",
+      "savjet": "Usporedi riječ ruka s umanjenicom: koji se glas promijenio?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-066",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u riječi „kućica“ piše ć?",
+      "ponudeni": [
+        "Jer glas k prelazi u ć.",
+        "Jer je kućica uvećanica.",
+        "Jer se ć nalazi već u riječi kuća.",
+        "Jer se ispred -ica piše samo ć."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kućica je nastala od riječi kuća, u kojoj već postoji ć. Taj glas ostaje i u umanjenici.",
+      "savjet": "Usporedi riječ kuća i umanjenicu: je li se ijedan glas promijenio?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-067",
+      "tezina": "tesko",
+      "pitanje": "Sve riječi završavaju na -ina. Koja je od njih uvećanica?",
+      "ponudeni": [
+        "planina",
+        "visina",
+        "zubina",
+        "tišina"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zubina je velik zub, pa je to uvećanica. Planina, visina i tišina samo završavaju na -ina, ali ne znače nešto uvećano.",
+      "savjet": "Za svaku riječ provjeri postoji li kraća riječ od koje je nastala i koja znači isto, samo manje."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-068",
+      "tezina": "tesko",
+      "pitanje": "Sve riječi završavaju na -ica. Koja je od njih umanjenica?",
+      "ponudeni": [
+        "ulica",
+        "ptica",
+        "učiteljica",
+        "loptica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Loptica je mala lopta, pa je to umanjenica. Ulica, ptica i učiteljica samo završavaju na -ica.",
+      "savjet": "Za svaku riječ provjeri postoji li riječ koja znači isto, samo veće."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-069",
+      "tezina": "tesko",
+      "pitanje": "U nizu „kućica, stolić, nosina, psić“ jedna riječ nije umanjenica. Koja?",
+      "ponudeni": [
+        "stolić",
+        "nosina",
+        "kućica",
+        "psić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nosina je uvećanica jer znači velik nos. Ostale riječi su umanjenice.",
+      "savjet": "Tri riječi znače nešto maleno."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-070",
+      "tezina": "tesko",
+      "pitanje": "U nizu „kućetina, psina, zubina, vrtić“ jedna riječ nije uvećanica. Koja?",
+      "ponudeni": [
+        "kućetina",
+        "psina",
+        "zubina",
+        "vrtić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrtić je umanjenica jer znači mali vrt. Ostale riječi su uvećanice.",
+      "savjet": "Tri riječi znače nešto veliko."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-071",
+      "tezina": "tesko",
+      "pitanje": "Ana je napisala da je umanjenica od riječi „zec“ riječ „zecić“. Kako treba ispraviti pogrešku?",
+      "ponudeni": [
+        "Glas c treba prijeći u č: zečić.",
+        "Glas c treba prijeći u ć: zećić.",
+        "Treba dodati nastavak -ina: zecina.",
+        "Treba dodati nastavak -čić: zecčić."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je zečić. Glas c ispred nastavka -ić prelazi u č, kao u lonac – lončić.",
+      "savjet": "Sjeti se što se događa s glasom c u riječima ptica – ptičica."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-072",
+      "tezina": "tesko",
+      "pitanje": "Luka je napisao: „U šumi sam vidio medvijedića.“ Kako treba pravilno napisati umanjenicu?",
+      "ponudeni": [
+        "medvjedica",
+        "medvjediča",
+        "medvjedića",
+        "medvijedica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je medvjedića. Riječ medvjed piše se s je, a nastavak -ić s ć.",
+      "savjet": "Sjeti se kako se piše riječ medvjed i nastavak za umanjenice muškog roda."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-073",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici i umanjenica i uvećanica napisane pravilno?",
+      "ponudeni": [
+        "Psič se skrio iza kućerine.",
+        "Psić se skrio iza kučerine.",
+        "Psič se skrio iza kučerine.",
+        "Psić se skrio iza kućerine."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je psić (nastavak -ić s ć) i kućerina (ć iz riječi kuća).",
+      "savjet": "Provjeri svaku od dviju riječi posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-074",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici umanjenica napisana pogrešno?",
+      "ponudeni": [
+        "Baka je ispekla kolačiće.",
+        "Na grani je mala ptičica.",
+        "U džepu nosim ključić.",
+        "Na nebu se vidi zvijezdica."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je zvjezdica. U umanjenici je slog kratak pa se piše je.",
+      "savjet": "Provjeri ije i je, ali i č i ć u svakoj umanjenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-075",
+      "tezina": "tesko",
+      "pitanje": "Iva je uzviknula: „Kakva kućetina!“ Što je htjela reći?",
+      "ponudeni": [
+        "Da je kuća vrlo mala i slatka.",
+        "Da je kuća vrlo velika.",
+        "Da je kuća jako daleko.",
+        "Da ta kuća pripada Ivi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kućetina je uvećanica, pa Iva kaže da je kuća vrlo velika.",
+      "savjet": "Je li kućetina umanjenica ili uvećanica?"
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-076",
+      "tezina": "tesko",
+      "pitanje": "Što izriče umanjenica u rečenici „Pokaži mi svoju ručicu.“?",
+      "ponudeni": [
+        "da je nešto maleno i drago",
+        "da je nešto veliko i grubo",
+        "da se nešto već dogodilo",
+        "da nešto pripada drugima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umanjenica ručica kazuje da je ruka malena, ali i da govornik osjeća nježnost.",
+      "savjet": "Zamisli tko bi mogao izgovoriti ovu rečenicu i kakvim glasom."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-077",
+      "tezina": "tesko",
+      "pitanje": "Koja je umanjenica napisana s pogreškom?",
+      "ponudeni": [
+        "svjećica",
+        "vrećica",
+        "ovćica",
+        "čašica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je ovčica jer c iz riječi ovca prelazi u č. Svjećica i vrećica imaju ć jer ga imaju i riječi svijeća i vreća.",
+      "savjet": "Za svaku riječ sjeti se kako se piše riječ od koje je nastala."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-078",
+      "tezina": "tesko",
+      "pitanje": "U kojem je paru umanjenica pravilno tvorena i napisana?",
+      "ponudeni": [
+        "knjiga – knjižica",
+        "ruka – rućica",
+        "ptica – ptićica",
+        "zec – zecić"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Knjižica je pravilno napisana jer g prelazi u ž. Pravilno je ručica, ptičica i zečić.",
+      "savjet": "U svakom paru provjeri kako se promijenio glas ispred nastavka."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-079",
+      "tezina": "tesko",
+      "pitanje": "U kojem paru druga riječ nije umanjenica prve?",
+      "ponudeni": [
+        "kuća – kućica",
+        "ruka – rukavica",
+        "vrt – vrtić",
+        "brod – brodić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rukavica nije mala ruka, nego odjevni predmet za ruke. Umanjenica od ruka je ručica.",
+      "savjet": "Za svaku riječ zapitaj se znači li ona stvarno „mali“ ili „mala“."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-080",
+      "tezina": "tesko",
+      "pitanje": "Dopuni rečenicu umanjenicom riječi „kamen“: U cipelu mi je upao mali ___.",
+      "ponudeni": [
+        "kamenćić",
+        "kamenčič",
+        "kamenčić",
+        "kamencić"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je kamenčić. Nastavak -čić piše se najprije s č, a na kraju s ć.",
+      "savjet": "Nastavak ima dva slična glasa. Izgovori ga polako."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-081",
+      "tezina": "tesko",
+      "pitanje": "U kojoj se rečenici nalazi uvećanica?",
+      "ponudeni": [
+        "Na stolu je mala čašica.",
+        "Na brdu je stara kućerina.",
+        "U vrtu je zeleni listić.",
+        "Psić spava na jastučiću."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kućerina je uvećanica od kuća. U ostalim rečenicama nalaze se umanjenice.",
+      "savjet": "Potraži riječ koja znači nešto veliko."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-082",
+      "tezina": "tesko",
+      "pitanje": "Rečenicu „Pas ima velike zube.“ treba napisati s uvećanicama. Koja je rečenica točna?",
+      "ponudeni": [
+        "Psić ima zubiće.",
+        "Psina ima zubiće.",
+        "Psić ima zubine.",
+        "Psina ima zubine."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uvećanica od pas je psina, a od zub zubina. Psić i zubići su umanjenice.",
+      "savjet": "Obje riječi moraju biti uvećanice."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-083",
+      "tezina": "tesko",
+      "pitanje": "Rečenicu „Mali pas spava u maloj kući.“ treba napisati s umanjenicama. Koja je rečenica točna?",
+      "ponudeni": [
+        "Psić spava u kućici.",
+        "Psina spava u kućici.",
+        "Psić spava u kućerini.",
+        "Psič spava u kučici."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Umanjenica od pas je psić, a od kuća kućica. Obje su napisane pravilno samo u prvoj rečenici.",
+      "savjet": "Provjeri jesu li obje riječi umanjenice i jesu li pravilno napisane."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-084",
+      "tezina": "tesko",
+      "pitanje": "Koji par umanjenica ima isti nastavak?",
+      "ponudeni": [
+        "kućica i stolić",
+        "zečić i loptica",
+        "kamenčić i balončić",
+        "ručica i vrtić"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kamenčić i balončić imaju nastavak -čić. U ostalim parovima jedna riječ ima -ica, a druga -ić.",
+      "savjet": "Odvoji osnovnu riječ i usporedi što je ostalo na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-085",
+      "tezina": "tesko",
+      "pitanje": "Koja umanjenica ima i slovo č i slovo ć?",
+      "ponudeni": [
+        "kućica",
+        "ključić",
+        "ptičica",
+        "stolić"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ključić ima č iz riječi ključ i ć u nastavku -ić. Kućica i stolić imaju samo ć, a ptičica samo č.",
+      "savjet": "Za svaku riječ provjeri osnovnu riječ i nastavak."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-086",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici uvećanica napisana pogrešno?",
+      "ponudeni": [
+        "Ta je psina lajala cijelu noć.",
+        "Vuk je pokazao zubine.",
+        "Klaun je imao veliku nosinu.",
+        "Živjeli su u velikoj kučerini."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je kućerini. Ć iz riječi kuća ostaje i u uvećanici.",
+      "savjet": "Sjeti se kako se pišu riječi od kojih su uvećanice nastale."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-087",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o umanjenicama točna?",
+      "ponudeni": [
+        "Umanjenice završavaju nastavkom -ina.",
+        "Umanjenice mogu izricati maleno, ali i drago.",
+        "Umanjenice znače nešto grubo i ružno.",
+        "Umanjenice se tvore od glagola."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umanjenice kazuju da je nešto maleno, ali često i da nam je drago, npr. sunašce ili ručica.",
+      "savjet": "Sjeti se primjera umanjenica i kako ih izgovaramo."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-088",
+      "tezina": "tesko",
+      "pitanje": "Od koje je riječi nastala umanjenica „rječica“?",
+      "ponudeni": [
+        "riječ",
+        "rijeka",
+        "rječnik",
+        "red"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rječica je mala rijeka. U umanjenici ije prelazi u je, a k u č.",
+      "savjet": "Pokušaj od svake ponuđene riječi tvoriti umanjenicu pa usporedi."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-089",
+      "tezina": "tesko",
+      "pitanje": "Od koje je riječi nastala umanjenica „svjećica“?",
+      "ponudeni": [
+        "svijeća",
+        "svijet",
+        "svjetlo",
+        "svjetiljka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svjećica je mala svijeća. U umanjenici ije prelazi u je, a ć ostaje.",
+      "savjet": "Zamisli koja bi od ponuđenih stvari mogla biti „malena“ i kako bi se tada zvala."
+    },
+    {
+      "id": "4-hrvatski-jezik-umanjenice-i-uvecanice-090",
+      "tezina": "tesko",
+      "pitanje": "Marko je napisao: „Na stoliću je bila šalica i mali kolaćić.“ Koja je riječ napisana pogrešno?",
+      "ponudeni": [
+        "stoliću",
+        "šalica",
+        "mali",
+        "kolaćić"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je kolačić jer se riječ kolač piše s č. Nastavak -ić piše se s ć.",
+      "savjet": "Sjeti se kako se piše riječ od koje je umanjenica nastala."
+    }
+  ]
+}

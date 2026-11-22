@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "pisanje-posvojnih-pridjeva",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-001",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara posvojni pridjev?",
+      "ponudeni": [
+        "Čiji? Čija? Čije?",
+        "Koliko?",
+        "Gdje? Kamo?",
+        "Kada?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posvojni pridjev kazuje čije je nešto, odnosno kome nešto pripada, npr. Ivanova lopta, mamin kaput.",
+      "savjet": "Posvojni pridjev kazuje kome nešto pripada."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-002",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom piše posvojni pridjev izveden od imena osobe, npr. od imena Ivan?",
+      "ponudeni": [
+        "Malim početnim slovom",
+        "Velikim početnim slovom",
+        "Svim velikim slovima",
+        "Malim slovom, osim u naslovu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Posvojni pridjevi izvedeni od imena i prezimena osoba pišu se velikim početnim slovom, npr. Ivanov, Marijin.",
+      "savjet": "Sjeti se kako se piše samo ime od kojega je pridjev nastao."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-003",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom u sredini rečenice piše pridjev izveden od imena grada, npr. od imena Split?",
+      "ponudeni": [
+        "Velikim početnim slovom",
+        "Svim velikim slovima",
+        "Velikim, ako je grad velik",
+        "Malim početnim slovom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pridjevi izvedeni od imena mjesta pišu se malim početnim slovom, npr. splitski, zagrebački.",
+      "savjet": "Usporedi kako pišemo ime države Hrvatska i riječ hrvatski u izrazu hrvatski jezik."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-004",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih posvojnih pridjeva napisan pravilno?",
+      "ponudeni": [
+        "markov",
+        "Petrov",
+        "anin",
+        "lukin"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Petrov je nastao od imena Petar pa se piše velikim početnim slovom. I ostali su nastali od imena, pa ih treba pisati Markov, Anin i Lukin.",
+      "savjet": "Od kojih su riječi nastali ti pridjevi i kako se te riječi pišu?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-005",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi posvojni pridjev od imena Ivan?",
+      "ponudeni": [
+        "Ivanin",
+        "Ivanski",
+        "Ivanov",
+        "Ivanev"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ime Ivan završava suglasnikom n, pa dobiva nastavak -ov: Ivanov. Pridjev Ivanin nastaje od imena Ivana.",
+      "savjet": "Dovrši rečenicu: Lopta pripada Ivanu, to je … lopta."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-006",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi posvojni pridjev od imena Marija?",
+      "ponudeni": [
+        "Marijin",
+        "Marijov",
+        "Marijev",
+        "Marijski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imena koja završavaju na -a dobivaju nastavak -in: Marija – Marijin.",
+      "savjet": "Ime završava na -a. Koji nastavak dobivaju takva imena?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-007",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi posvojni pridjev od imena Luka?",
+      "ponudeni": [
+        "Lukov",
+        "Lukev",
+        "Lukinov",
+        "Lukin"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Luka je muško ime, ali završava na -a, pa dobiva nastavak -in: Lukin.",
+      "savjet": "Gledaj kojim slovom ime završava, a ne je li ime muško ili žensko."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-008",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Split?",
+      "ponudeni": [
+        "splićki",
+        "splitovski",
+        "splitski",
+        "splitčki"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Split – splitski. Pridjev od imena grada piše se malim slovom, a ovdje završava na -ski.",
+      "savjet": "Izgovori polako: … luka, … obala."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-009",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Zagreb?",
+      "ponudeni": [
+        "zagrebski",
+        "zagrebački",
+        "zagrepski",
+        "zagrebaški"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zagreb – zagrebački. Taj pridjev ima nastavak -čki i piše se malim slovom.",
+      "savjet": "Sjeti se kako kažeš za tramvaj koji vozi po Zagrebu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-010",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Rijeka?",
+      "ponudeni": [
+        "riječki",
+        "rijekski",
+        "rječki",
+        "rijeski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rijeka – riječki. Pridjev ima nastavak -čki i zadržava ije kao u imenu grada.",
+      "savjet": "Izgovori polako kako se zove luka u Rijeci."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-011",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Osijek?",
+      "ponudeni": [
+        "osijekski",
+        "osiječki",
+        "osjeki",
+        "osječki"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Osijek – osječki. Pridjev ima nastavak -čki, a umjesto ije piše se je.",
+      "savjet": "Izgovori polako: … tvrđa, … katedrala."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-012",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ u rečenici „Maja voli zagrebačke tramvaje.“ pridjev izveden od imena grada?",
+      "ponudeni": [
+        "Maja",
+        "voli",
+        "zagrebačke",
+        "tramvaje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ zagrebačke nastala je od imena grada Zagreba. Takvi se pridjevi pišu malim slovom.",
+      "savjet": "Potraži riječ koja kazuje odakle su tramvaji."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-013",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici posvojni pridjev napisan pravilno?",
+      "ponudeni": [
+        "Ovo je markova kapa.",
+        "Uzeli smo aninu olovku.",
+        "Pas je pojeo Petrov sendvič.",
+        "Igramo se lukinom loptom."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Petrov je nastao od imena Petar, pa se piše velikim slovom. U ostalim rečenicama treba pisati Markova, Aninu i Lukinom.",
+      "savjet": "Pronađi u svakoj rečenici pridjev nastao od imena i pogledaj prvo slovo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-014",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici pridjev izveden od imena grada napisan pravilno?",
+      "ponudeni": [
+        "Kupili smo Splitske razglednice.",
+        "Posjetili smo Zadarsku tržnicu.",
+        "Igrali smo se u Varaždinskom parku.",
+        "Vozili smo se riječkim autobusom."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pridjevi od imena gradova pišu se malim slovom: riječkim. Ostale treba ispraviti u splitske, zadarsku i varaždinskom.",
+      "savjet": "Pridjev od imena grada nije ime grada. Kojim ga slovom pišemo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-015",
+      "tezina": "lagano",
+      "pitanje": "Koji nastavak dobiva ime Ana kad od njega tvorimo posvojni pridjev?",
+      "ponudeni": [
+        "-ov",
+        "-ev",
+        "-in",
+        "-ski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ana završava na -a, pa dobiva nastavak -in: Anin, Anina, Anino.",
+      "savjet": "Pogledaj kojim slovom ime završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-016",
+      "tezina": "lagano",
+      "pitanje": "Koji nastavak dobiva ime Marko kad od njega tvorimo posvojni pridjev?",
+      "ponudeni": [
+        "-in",
+        "-ov",
+        "-ski",
+        "-ev"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Marko – Markov, Markova, Markovo. Ime ne završava na -a, pa ne dobiva nastavak -in.",
+      "savjet": "Dovrši rečenicu: Bicikl pripada Marku, to je … bicikl."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-017",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ posvojni pridjev nastao od imena osobe?",
+      "ponudeni": [
+        "Nikolin",
+        "zagrebački",
+        "hrvatski",
+        "mamin"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nikolin je nastao od imena Nikola. Zagrebački i hrvatski nastali su od imena mjesta i države, a mamin od riječi mama.",
+      "savjet": "Od koje je riječi nastao svaki pridjev? Koja je od tih riječi ime osobe?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-018",
+      "tezina": "lagano",
+      "pitanje": "Koji je od pridjeva izvedenih od imena gradova napisan pravilno?",
+      "ponudeni": [
+        "Dubrovački",
+        "Šibenski",
+        "pulski",
+        "Sisački"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pridjevi od imena gradova pišu se malim slovom: pulski, dubrovački, šibenski, sisački.",
+      "savjet": "Sjeti se kako pišemo pridjev u izrazu hrvatski jezik."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-019",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi posvojni pridjev od riječi baka?",
+      "ponudeni": [
+        "bakov",
+        "bakski",
+        "bakev",
+        "bakin"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Baka završava na -a, pa dobiva nastavak -in. Baka nije ime osobe, pa se pridjev piše malim slovom.",
+      "savjet": "Riječ baka završava na -a, kao i ime Ana."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-020",
+      "tezina": "lagano",
+      "pitanje": "Kojim se slovom piše posvojni pridjev od riječi tata u rečenici „Ovo je … auto.“ i kako glasi?",
+      "ponudeni": [
+        "Velikim slovom: Tatin",
+        "Malim slovom: tatin",
+        "Velikim slovom: Tatov",
+        "Malim slovom: tatov"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tata nije ime osobe, nego opća imenica, pa se pridjev piše malim slovom. Završava na -a, pa dobiva nastavak -in.",
+      "savjet": "Je li riječ tata nečije ime ili opća imenica? Kojim slovom završava?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-021",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Dubrovnik?",
+      "ponudeni": [
+        "dubrovnikski",
+        "dubrovnički",
+        "dubrovski",
+        "dubrovački"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dubrovnik – dubrovački. Pridjev ima nastavak -čki i piše se malim slovom.",
+      "savjet": "Sjeti se kako kažeš za zidine koje okružuju stari grad Dubrovnik."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-022",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Zadar?",
+      "ponudeni": [
+        "zadarski",
+        "zadrski",
+        "zadarčki",
+        "zadrovski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zadar – zadarski. Pridjev ima nastavak -ski i piše se malim slovom.",
+      "savjet": "Izgovori polako: … luka, … ulice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-023",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Karlovac?",
+      "ponudeni": [
+        "karlovski",
+        "karlovački",
+        "karlovčki",
+        "karlovacski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Karlovac – karlovački. Pridjev ima nastavak -čki i piše se malim slovom.",
+      "savjet": "Sjeti se kako kažeš za rijeke koje teku kroz Karlovac: … rijeke."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-024",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Požega?",
+      "ponudeni": [
+        "požegaski",
+        "požegski",
+        "požeški",
+        "požečki"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Požega – požeški. Taj pridjev ima nastavak -ški i piše se malim slovom.",
+      "savjet": "Sjeti se da pridjevi od imena mjesta mogu završavati na -ski, -ški, -čki ili -ćki."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-025",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi posvojni pridjev od riječi brat?",
+      "ponudeni": [
+        "bratin",
+        "bratov",
+        "bratev",
+        "bratovin"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Brat završava suglasnikom t, pa dobiva nastavak -ov. Brat nije ime osobe, pa se pridjev piše malim slovom.",
+      "savjet": "Dovrši rečenicu: Bicikl pripada bratu, to je … bicikl."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-026",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi posvojni pridjev od imena Petar?",
+      "ponudeni": [
+        "Petarov",
+        "Petrin",
+        "Petrev",
+        "Petrov"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Petar – Petrov. Slovo a ispada kao i u oblicima Petra, Petru. Pridjev Petrin nastaje od imena Petra.",
+      "savjet": "Sjeti se kako kažeš: Idem k Petru."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-027",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ u rečenici „Ovo je Anina torba.“ odgovara na pitanje čija?",
+      "ponudeni": [
+        "Ovo",
+        "je",
+        "Anina",
+        "torba"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Anina je posvojni pridjev: kazuje čija je torba. Nastao je od imena Ana, pa se piše velikim slovom.",
+      "savjet": "Postavi pitanje: Čija je torba?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-028",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi pridjev izveden od imena države Hrvatska?",
+      "ponudeni": [
+        "hrvatski",
+        "hrvatki",
+        "hrvacki",
+        "hrvaški"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrvatska – hrvatski. Pridjev se piše malim slovom, npr. hrvatski jezik.",
+      "savjet": "Kako se zove jezik kojim govoriš u školi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-029",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi posvojni pridjev od imena Nikola?",
+      "ponudeni": [
+        "Nikolin",
+        "Nikolov",
+        "Nikolev",
+        "Nikolski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nikola je muško ime koje završava na -a, pa dobiva nastavak -in: Nikolin.",
+      "savjet": "Gledaj samo zadnje slovo imena."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-030",
+      "tezina": "lagano",
+      "pitanje": "Kako glasi posvojni pridjev od prezimena Babić?",
+      "ponudeni": [
+        "Babićov",
+        "Babićin",
+        "Babićski",
+        "Babićev"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iza slova č, ć, dž, đ, j, lj, nj, š i ž dolazi nastavak -ev: Babić – Babićev.",
+      "savjet": "Prezime završava slovom ć. Koji nastavak dolazi iza č, ć, j, lj, nj, š i ž?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-031",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Pas pripada Ivi. To je … pas.",
+      "ponudeni": [
+        "Ivin",
+        "Ivinov",
+        "Ivov",
+        "Ivev"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Iva završava na -a, pa dobiva nastavak -in: Ivin pas. Pridjev se piše velikim slovom jer je nastao od imena.",
+      "savjet": "Ime Iva završava na -a. Koji nastavak dobivaju takva imena?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-032",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Bicikl pripada Josipu. To je … bicikl.",
+      "ponudeni": [
+        "Josipin",
+        "Josipev",
+        "Josipov",
+        "Josipski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Josip završava suglasnikom p, pa dobiva nastavak -ov: Josipov bicikl.",
+      "savjet": "Iza slova p dolazi nastavak kao u pridjevu Ivanov."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-033",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Kapa pripada Mateju. To je … kapa.",
+      "ponudeni": [
+        "Matejova",
+        "Matejeva",
+        "Matejina",
+        "Matejska"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Matej završava slovom j, a iza j dolazi nastavak -ev: Matejev, Matejeva kapa.",
+      "savjet": "Kojim slovom završava ime? Iza kojih slova dolazi -ev umjesto -ov?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-034",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Lutka pripada sestri. To je … lutka.",
+      "ponudeni": [
+        "sestrova",
+        "sestrena",
+        "sestrinja",
+        "sestrina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sestra završava na -a, pa dobiva nastavak -in: sestrin, sestrina lutka. Piše se malim slovom jer sestra nije ime.",
+      "savjet": "Riječ sestra završava na -a, kao i ime Marija."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-035",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Naočale pripadaju djedu. To su … naočale.",
+      "ponudeni": [
+        "djedove",
+        "djedine",
+        "dijedove",
+        "djedeve"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djed završava suglasnikom d, pa dobiva nastavak -ov: djedov, djedove naočale. Piše se malim slovom i s je.",
+      "savjet": "Riječ djed ne završava na -a. Pazi i kako se piše sama riječ djed."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-036",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu posvojnim pridjevom od imena Luka: Igrali smo se u … dvorištu.",
+      "ponudeni": [
+        "Lukovom",
+        "Lukinom",
+        "Lukevom",
+        "Lukinovom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Luka završava na -a, pa je posvojni pridjev Lukin, a u ovoj rečenici Lukinom dvorištu.",
+      "savjet": "Najprije utvrdi kako glasi pridjev: dvorište pripada Luki, ono je … dvorište."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-037",
+      "tezina": "srednje",
+      "pitanje": "Ana slavi rođendan. Koja riječ pravilno dovršava rečenicu „Sutra idemo na … rođendan.“?",
+      "ponudeni": [
+        "Anov",
+        "Anev",
+        "Anin",
+        "Aninov"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ana završava na -a, pa je posvojni pridjev Anin: Anin rođendan.",
+      "savjet": "Imena koja završavaju na -a dobivaju isti nastavak kao Marija."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-038",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Brod plovi iz Splita. To je … brod.",
+      "ponudeni": [
+        "splitski",
+        "Splitov",
+        "splićanski",
+        "splitovski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od imena grada Split nastaje pridjev splitski. Piše se malim slovom.",
+      "savjet": "Pridjev od imena grada piše se malim slovom i završava na -ski, -ški, -čki ili -ćki."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-039",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Autobus vozi po Varaždinu. To je … autobus.",
+      "ponudeni": [
+        "varaždinov",
+        "varaždinski",
+        "varaždinčki",
+        "varaždinkski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Varaždin – varaždinski. Pridjev ima nastavak -ski i piše se malim slovom.",
+      "savjet": "Grad nije osoba, pa pridjev ne dobiva nastavak -ov."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-040",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Brod je stigao iz Šibenika. To je … brod.",
+      "ponudeni": [
+        "šibenički",
+        "šibenikski",
+        "šibenčki",
+        "šibenski"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Šibenik – šibenski. Dio imena -ik otpada, a dodaje se nastavak -ski.",
+      "savjet": "Izgovori polako i poslušaj koji oblik zvuči kao pravi pridjev, npr. … luka."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-041",
+      "tezina": "srednje",
+      "pitanje": "Tržnica je u Sisku. Koja riječ pravilno dovršava rečenicu „Na … tržnici kupili smo sir.“?",
+      "ponudeni": [
+        "sisačkoj",
+        "siskoj",
+        "sisakoj",
+        "sisčkoj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sisak – sisački, a u ovoj rečenici sisačkoj tržnici. Pridjev ima nastavak -čki.",
+      "savjet": "Sjeti se kako pridjev od imena Karlovac dobiva nastavak -čki."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-042",
+      "tezina": "srednje",
+      "pitanje": "Dovrši rečenicu: Razglednica je iz grada Krka. To je … razglednica.",
+      "ponudeni": [
+        "krkska",
+        "krčka",
+        "krkova",
+        "krkčka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Krk – krčki, krčka razglednica. Slovo k mijenja se u č, a dodaje se -ki.",
+      "savjet": "Usporedi s parom Rijeka – riječki."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-043",
+      "tezina": "srednje",
+      "pitanje": "Od kojeg je imena nastao posvojni pridjev Petrin?",
+      "ponudeni": [
+        "Petar",
+        "Petro",
+        "Petrina",
+        "Petra"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nastavak -in dobivaju imena na -a, pa Petrin nastaje od imena Petra. Od imena Petar nastaje Petrov.",
+      "savjet": "Nastavak -in pokazuje kojim je slovom ime završavalo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-044",
+      "tezina": "srednje",
+      "pitanje": "Od kojeg je imena nastao posvojni pridjev Ivanin?",
+      "ponudeni": [
+        "Ivan",
+        "Ivo",
+        "Ivana",
+        "Ivanka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ivanin nastaje od imena Ivana jer imena na -a dobivaju nastavak -in. Od imena Ivan nastaje Ivanov.",
+      "savjet": "Makni nastavak -in i razmisli kojim je slovom ime završavalo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-045",
+      "tezina": "srednje",
+      "pitanje": "Od imena kojeg je grada nastao pridjev vinkovački?",
+      "ponudeni": [
+        "Vinkovo",
+        "Vinkovac",
+        "Vinkovice",
+        "Vinkovci"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vinkovci – vinkovački. Grad u istočnoj Hrvatskoj zove se Vinkovci.",
+      "savjet": "Taj grad nalazi se u Slavoniji, nedaleko od Vukovara."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-046",
+      "tezina": "srednje",
+      "pitanje": "Od imena kojeg je grada nastao pridjev čakovečki?",
+      "ponudeni": [
+        "Čakovo",
+        "Čakovac",
+        "Čakovec",
+        "Čakovica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čakovec – čakovečki. Slovo c ispred nastavka mijenja se u č.",
+      "savjet": "Taj je grad središte Međimurja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-047",
+      "tezina": "srednje",
+      "pitanje": "Koji je pridjev pravilno izveden od imena grada Koprivnica?",
+      "ponudeni": [
+        "koprivnicski",
+        "koprivnićki",
+        "koprivnički",
+        "koprivnski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Koprivnica – koprivnički. Slovo c mijenja se u č i dodaje se -ki.",
+      "savjet": "Usporedi s parom Karlovac – karlovački: pazi na č i ć."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-048",
+      "tezina": "srednje",
+      "pitanje": "Jastuk pripada baki. Koja riječ pravilno dovršava rečenicu „Pas je ležao na … jastuku.“?",
+      "ponudeni": [
+        "bakovom",
+        "bakinom",
+        "bakenom",
+        "bakskom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Baka – bakin, a u ovoj rečenici bakinom jastuku. Piše se malim slovom jer baka nije ime.",
+      "savjet": "Riječ baka završava na -a. Koji nastavak dobiva?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-049",
+      "tezina": "srednje",
+      "pitanje": "Olovka pripada Marku. Koja riječ pravilno dovršava rečenicu „Uzeli smo … olovku.“?",
+      "ponudeni": [
+        "Markovu",
+        "Markinu",
+        "Markevu",
+        "Markovinu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Marko – Markov, a u ovoj rečenici Markovu olovku. Piše se velikim slovom jer je nastao od imena.",
+      "savjet": "Kako glasi pridjev od imena Marko? Zatim ga uskladi s riječju olovku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-050",
+      "tezina": "srednje",
+      "pitanje": "Šal pripada učitelju. Koja riječ pravilno dovršava rečenicu „Ovo je … šal.“?",
+      "ponudeni": [
+        "učiteljov",
+        "učiteljin",
+        "učiteljev",
+        "učitelijev"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Učitelj završava na lj, a iza lj dolazi nastavak -ev: učiteljev šal.",
+      "savjet": "Kojim glasom završava riječ učitelj? Iza takvih glasova dolazi drugi nastavak, ne -ov."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-051",
+      "tezina": "srednje",
+      "pitanje": "Kruna pripada kralju. Koja riječ pravilno dovršava rečenicu „Ovo je … kruna.“?",
+      "ponudeni": [
+        "kraljova",
+        "kraljina",
+        "kraljinova",
+        "kraljeva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kralj završava na lj, a iza lj dolazi nastavak -ev: kraljev, kraljeva kruna.",
+      "savjet": "Sjeti se pravila za riječi koje završavaju na lj, nj ili j."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-052",
+      "tezina": "srednje",
+      "pitanje": "Kuća pripada gospodinu Kovaču. Koja riječ pravilno dovršava rečenicu „Ovo je … kuća.“?",
+      "ponudeni": [
+        "Kovačova",
+        "Kovačina",
+        "Kovačinova",
+        "Kovačeva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prezime Kovač završava slovom č, a iza č dolazi nastavak -ev: Kovačev, Kovačeva kuća.",
+      "savjet": "Prezime završava slovom č. Koji nastavak dolazi iza tog slova?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-053",
+      "tezina": "srednje",
+      "pitanje": "Koje riječi u rečenici „ovo je lukina loptica.“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "ovo i lukina",
+        "Samo ovo",
+        "ovo, lukina i loptica",
+        "Samo lukina"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prva riječ u rečenici piše se velikim slovom, a i posvojni pridjev od imena Luka: Ovo je Lukina loptica.",
+      "savjet": "Razmisli o dva pravila: početak rečenice i pridjev nastao od imena."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-054",
+      "tezina": "srednje",
+      "pitanje": "Koje riječi u rečenici „ana voli zadarske ulice.“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "ana i zadarske",
+        "Samo zadarske",
+        "Samo ana",
+        "ana, zadarske i ulice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ana je ime i prva riječ u rečenici, pa se piše velikim slovom. Zadarske je pridjev od imena grada, pa se piše malim.",
+      "savjet": "Pridjev od imena grada i ime osobe ne pišu se istim početnim slovom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-055",
+      "tezina": "srednje",
+      "pitanje": "Koje riječi u rečenici „pas je spavao na markovom krevetu.“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "Samo pas",
+        "pas i markovom",
+        "pas, markovom i krevetu",
+        "Samo markovom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pas je prva riječ u rečenici, a Markovom je posvojni pridjev od imena Marko: Pas je spavao na Markovom krevetu.",
+      "savjet": "Provjeri početak rečenice, a zatim potraži pridjev nastao od imena."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-056",
+      "tezina": "srednje",
+      "pitanje": "Riječ je o obali Istre. Koja riječ pravilno dovršava rečenicu „Ljeti putujemo na … obalu.“?",
+      "ponudeni": [
+        "istrsku",
+        "istarčku",
+        "istarsku",
+        "istrovsku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Istra – istarski, a u ovoj rečenici istarsku obalu. Pridjev se piše malim slovom.",
+      "savjet": "Između t i r u pridjevu se pojavljuje jedan samoglasnik koji nema u imenu Istra."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-057",
+      "tezina": "srednje",
+      "pitanje": "Kulen je iz Slavonije. Koja riječ pravilno dovršava rečenicu „Ponijeli smo … kulen.“?",
+      "ponudeni": [
+        "slavonski",
+        "slavonijski",
+        "slavončki",
+        "slavonijin"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Slavonija – slavonski. Pridjev se piše malim slovom i ima nastavak -ski.",
+      "savjet": "Završetak -ija ne ostaje u pridjevu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-058",
+      "tezina": "srednje",
+      "pitanje": "Ulje je iz Dalmacije. Koja riječ pravilno dovršava rečenicu „Kupili smo … ulje.“?",
+      "ponudeni": [
+        "dalmacijsko",
+        "dalmatsko",
+        "dalmacijino",
+        "dalmatinsko"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dalmacija – dalmatinski, a uz riječ ulje dalmatinsko ulje. Pridjev se piše malim slovom.",
+      "savjet": "Sjeti se kako se zove stanovnik Dalmacije."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-059",
+      "tezina": "srednje",
+      "pitanje": "Sajam je u Bjelovaru. Koja riječ pravilno dovršava rečenicu „Posjetili smo … sajam.“?",
+      "ponudeni": [
+        "bjelovarski",
+        "bijelovarski",
+        "bjelovarčki",
+        "bjelovaroski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bjelovar – bjelovarski. Pridjev ima nastavak -ski, a piše se s je kao i ime grada.",
+      "savjet": "Napiši najprije ime grada i pazi kako se u njemu piše je."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-060",
+      "tezina": "srednje",
+      "pitanje": "Auto pripada stricu. Koja riječ pravilno dovršava rečenicu „Vozimo se u … autu.“?",
+      "ponudeni": [
+        "stricovom",
+        "stričevom",
+        "stricevom",
+        "stričovom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stric – stričev: c se mijenja u č, a iza č dolazi nastavak -ev. U ovoj rečenici: stričevom autu.",
+      "savjet": "Sjeti se kako od riječi otac nastaje pridjev očev."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-061",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici nema pravopisne pogreške?",
+      "ponudeni": [
+        "markova mama ima splitski šešir.",
+        "Anin tata radi u riječkoj luci.",
+        "Lukin djed voli Zadarske ulice.",
+        "Ivanov pas trči po Pulskom parku."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Anin je od imena pa ima veliko slovo, a riječkoj je od imena grada pa ima malo. U ostalima treba Markova, zadarske i pulskom.",
+      "savjet": "U svakoj rečenici provjeri dvije stvari: pridjev od imena osobe i pridjev od imena grada."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-062",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ u rečenici „Ivana i Petrov brat šetali su Osječkim parkom.“ napisana pogrešno?",
+      "ponudeni": [
+        "Ivana",
+        "Petrov",
+        "Osječkim",
+        "parkom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pridjev od imena grada Osijeka piše se malim slovom: osječkim parkom. Ivana i Petrov ispravno su napisani velikim slovom.",
+      "savjet": "Koja je riječ pridjev nastao od imena mjesta?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-063",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ u rečenici „Ovo je majina bilježnica s dubrovačkim zidinama.“ napisana pogrešno?",
+      "ponudeni": [
+        "majina",
+        "Ovo",
+        "bilježnica",
+        "dubrovačkim"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Majina je posvojni pridjev od imena Maja, pa se piše velikim slovom: Majina bilježnica.",
+      "savjet": "Koja je riječ nastala od nečijeg imena?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-064",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ u rečenici „Bakin kolač i Tatin sok stoje na stolu.“ napisana pogrešno?",
+      "ponudeni": [
+        "Bakin",
+        "kolač",
+        "Tatin",
+        "stolu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tatin je nastao od opće imenice tata, pa se piše malim slovom. Bakin ima veliko slovo samo zato što je na početku rečenice.",
+      "savjet": "Zašto prva riječ ima veliko slovo? Vrijedi li isti razlog i za drugi pridjev?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u rečenici „Uzeli smo Ivanovu knjigu.“ riječ Ivanovu piše velikim slovom?",
+      "ponudeni": [
+        "Jer je nastala od imena osobe",
+        "Jer je na početku rečenice",
+        "Jer je knjiga važna",
+        "Jer se svi pridjevi na -ov pišu velikim slovom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Posvojni pridjevi od imena osoba pišu se velikim slovom. Pridjevi na -ov od općih imenica pišu se malim, npr. bratov.",
+      "savjet": "Od koje je riječi nastao taj pridjev i kako se ta riječ piše?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-066",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u rečenici „Kupili smo zagrebački kruh.“ riječ zagrebački piše malim slovom?",
+      "ponudeni": [
+        "Jer je Zagreb glavni grad",
+        "Jer je kruh opća imenica",
+        "Jer stoji ispred imenice",
+        "Jer je to pridjev izveden od imena mjesta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pridjevi izvedeni od imena mjesta pišu se malim slovom, osim na početku rečenice.",
+      "savjet": "Od koje je riječi nastao pridjev zagrebački? Je li on sam ime?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-067",
+      "tezina": "tesko",
+      "pitanje": "Dino kaže: „Svi posvojni pridjevi pišu se velikim slovom.“ Zašto ta tvrdnja nije točna?",
+      "ponudeni": [
+        "Jer se posvojni pridjevi pišu samo malim slovom",
+        "Jer se velikim slovom pišu samo pridjevi na -in",
+        "Jer se velikim slovom pišu samo pridjevi na -ov",
+        "Jer se posvojni pridjevi od općih imenica pišu malim slovom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Velikim slovom pišu se samo posvojni pridjevi od imena i prezimena (Anin, Ivanov), a od općih imenica malim (sestrin, bratov).",
+      "savjet": "Sjeti se pridjeva od riječi mama, tata ili sestra."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-068",
+      "tezina": "tesko",
+      "pitanje": "U kojem su paru oba pridjeva napisana pravilno?",
+      "ponudeni": [
+        "Lukin, Pulski",
+        "markov, šibenski",
+        "Petrov, zadarski",
+        "Mamin, osječki"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Petrov je od imena (veliko slovo), a zadarski od imena grada (malo slovo). Treba pisati pulski, Markov i mamin.",
+      "savjet": "Za svaki pridjev odredi je li nastao od imena osobe, od opće imenice ili od imena grada."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-069",
+      "tezina": "tesko",
+      "pitanje": "Koji je posvojni pridjev napisan pogrešno ako stoji u sredini rečenice?",
+      "ponudeni": [
+        "Jurićev",
+        "Majin",
+        "Bratov",
+        "Nikolin"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brat je opća imenica, pa se u sredini rečenice piše bratov. Ostali su nastali od imena i prezimena.",
+      "savjet": "Koji od tih pridjeva nije nastao od imena ili prezimena?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-070",
+      "tezina": "tesko",
+      "pitanje": "Koji je posvojni pridjev pravilno tvoren?",
+      "ponudeni": [
+        "Matejov",
+        "Kovačov",
+        "Horvatov",
+        "Babićov"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Horvat završava slovom t, pa dobiva -ov. Iza j, č i ć dolazi -ev: Matejev, Kovačev, Babićev.",
+      "savjet": "Pogledaj zadnje slovo svakog imena. Iza kojih slova dolazi -ev?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-071",
+      "tezina": "tesko",
+      "pitanje": "U kojem su paru oba posvojna pridjeva pravilno tvorena od imena Ivan i Luka?",
+      "ponudeni": [
+        "Ivanev, Lukin",
+        "Ivanov, Lukin",
+        "Ivanin, Lukov",
+        "Ivanov, Lukev"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ivan završava suglasnikom, pa dobiva -ov: Ivanov. Luka završava na -a, pa dobiva -in: Lukin.",
+      "savjet": "Za svako ime gledaj zadnje slovo, a ne je li ime muško ili žensko."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-072",
+      "tezina": "tesko",
+      "pitanje": "U kojoj se rečenici nalazi pravopisna pogreška?",
+      "ponudeni": [
+        "Djedov šešir visi na vratima.",
+        "Ivanina mačka spava na fotelji.",
+        "Vozili smo se karlovačkim autobusom.",
+        "Kupili smo Varaždinske kolače."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pridjev od imena grada Varaždina piše se malim slovom: varaždinske kolače.",
+      "savjet": "Provjeri pridjeve od imena gradova i od imena osoba u svakoj rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-073",
+      "tezina": "tesko",
+      "pitanje": "Koliko pogrešaka u pisanju pridjeva ima rečenica „Na Splitskoj tržnici Markova mama susrela je Tetinu prijateljicu.“?",
+      "ponudeni": [
+        "Nijednu",
+        "Jednu",
+        "Dvije",
+        "Tri"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba pisati splitskoj (od imena grada) i tetinu (od opće imenice teta). Markova je ispravno napisana.",
+      "savjet": "Pronađi sva tri pridjeva i za svaki odredi od koje je riječi nastao."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-074",
+      "tezina": "tesko",
+      "pitanje": "Koliko pogrešaka u pisanju pridjeva ima rečenica „nikolin brat i Anina sestra idu u pulsku školu.“?",
+      "ponudeni": [
+        "Nijednu",
+        "Jednu",
+        "Dvije",
+        "Tri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nikolin je nastao od imena i stoji na početku rečenice, pa se piše velikim slovom. Anina i pulsku napisane su ispravno.",
+      "savjet": "Provjeri i prvu riječ rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-075",
+      "tezina": "tesko",
+      "pitanje": "Ema je napisala: „Ovo je Bratova lopta.“ Što treba ispraviti?",
+      "ponudeni": [
+        "Riječ ovo treba pisati malim slovom",
+        "Riječ lopta treba pisati velikim slovom",
+        "Pridjev od riječi brat treba glasiti bratinova",
+        "Pridjev od riječi brat treba pisati malim slovom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Brat je opća imenica, pa se posvojni pridjev piše malim slovom: Ovo je bratova lopta.",
+      "savjet": "Je li brat nečije ime ili opća imenica?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-076",
+      "tezina": "tesko",
+      "pitanje": "Petra je napisala: „Ljeto provodimo na Krčkim plažama.“ Je li rečenica pravilno napisana?",
+      "ponudeni": [
+        "Da, jer je Krk ime grada i otoka",
+        "Ne, pridjev od imena Krk piše se malim slovom",
+        "Ne, pridjev od imena Krk glasi krkskim",
+        "Da, jer pridjev stoji ispred imenice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pridjev od imena mjesta piše se malim slovom: na krčkim plažama.",
+      "savjet": "Je li pridjev isto što i ime mjesta od kojega je nastao?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-077",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi posvojni pridjev od imena Ivica?",
+      "ponudeni": [
+        "Ivičin",
+        "Ivicin",
+        "Ivicov",
+        "Ivičev"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ivica završava na -a, pa dobiva nastavak -in, a c se ispred njega mijenja u č: Ivica – Ivičin.",
+      "savjet": "Ime završava na -a. Pazi i što se događa sa slovom c ispred nastavka."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-078",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi pridjev izveden od imena grada Gospić?",
+      "ponudeni": [
+        "gospićki",
+        "gospićski",
+        "gospički",
+        "gospićanski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Gospić – gospićki. Ime završava na ć, pa pridjev ima nastavak -ćki.",
+      "savjet": "Kojim slovom završava ime Gospić? Pazi na razliku između č i ć."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-079",
+      "tezina": "tesko",
+      "pitanje": "Koji pridjev ima nastavak -ški?",
+      "ponudeni": [
+        "zadarski",
+        "sisački",
+        "pulski",
+        "požeški"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Požega – požeški ima nastavak -ški. Zadarski i pulski imaju -ski, a sisački -čki.",
+      "savjet": "Pogledaj pažljivo slova ispred završetka -ki u svakom pridjevu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-080",
+      "tezina": "tesko",
+      "pitanje": "Koji pridjev ima nastavak -čki?",
+      "ponudeni": [
+        "splitski",
+        "šibenski",
+        "dubrovački",
+        "varaždinski"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dubrovnik – dubrovački ima nastavak -čki. Ostali pridjevi imaju nastavak -ski.",
+      "savjet": "Pogledaj koje se slovo nalazi ispred završetka -ki."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-081",
+      "tezina": "tesko",
+      "pitanje": "U kojem je paru ime – posvojni pridjev napravljena pogreška?",
+      "ponudeni": [
+        "Sara – Sarin",
+        "Filip – Filipov",
+        "Leon – Leonin",
+        "Dora – Dorin"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Leon završava suglasnikom n, pa dobiva nastavak -ov: Leonov. Nastavak -in dobivaju imena na -a.",
+      "savjet": "Koji nastavak dobivaju imena na -a, a koji imena na suglasnik?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-082",
+      "tezina": "tesko",
+      "pitanje": "U kojem je paru riječ – posvojni pridjev napravljena pogreška?",
+      "ponudeni": [
+        "ujak – ujakin",
+        "stric – stričev",
+        "sestra – sestrin",
+        "teta – tetin"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ujak završava suglasnikom k, pa dobiva nastavak -ov: ujakov. Nastavak -in dobivaju riječi na -a.",
+      "savjet": "Završava li svaka riječ na -a ili na suglasnik?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-083",
+      "tezina": "tesko",
+      "pitanje": "U kojem je paru grad – pridjev napravljena pogreška?",
+      "ponudeni": [
+        "Zadar – zadarski",
+        "Osijek – osijekski",
+        "Sisak – sisački",
+        "Pula – pulski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od imena Osijek nastaje pridjev osječki, s nastavkom -čki i s je umjesto ije.",
+      "savjet": "Izgovori svaki pridjev uz riječ grad i poslušaj zvuči li pravilno."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-084",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici svi pridjevi napisani pravilno?",
+      "ponudeni": [
+        "Dorin brat i Tatin prijatelj idu na utakmicu.",
+        "Lanin pas voli Riječke plaže.",
+        "Ivanov djed sluša Slavonsku glazbu.",
+        "Filipova baka peče dalmatinske kolače."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Filipova je od imena (veliko slovo), a dalmatinske od imena kraja (malo slovo). Treba pisati tatin, riječke i slavonsku.",
+      "savjet": "U svakoj rečenici odredi od koje je riječi nastao svaki pridjev."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-085",
+      "tezina": "tesko",
+      "pitanje": "Koje riječi u rečenici „Leonova baka nosi Sestrin šal i Istarski šešir.“ treba ispraviti?",
+      "ponudeni": [
+        "Sestrin i Istarski",
+        "Leonova i Sestrin",
+        "Samo Istarski",
+        "Leonova i Istarski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sestrin je od opće imenice sestra, a istarski od imena Istra, pa se oba pišu malim slovom. Leonova je ispravno.",
+      "savjet": "Velikim slovom pišu se samo pridjevi nastali od imena osoba."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-086",
+      "tezina": "tesko",
+      "pitanje": "Kako glasi posvojni pridjev od imena Juraj?",
+      "ponudeni": [
+        "Jurajev",
+        "Jurajov",
+        "Jurjin",
+        "Jurjev"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Juraj – Jurjev: a ispada kao u oblicima Jurja, Jurju, a iza j dolazi nastavak -ev.",
+      "savjet": "Sjeti se kako kažeš: Idem k Jurju. Kojim slovom tada završava osnova?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-087",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko riječima Petrov, Anin i Jurićev?",
+      "ponudeni": [
+        "Sve su imena osoba",
+        "Sve su pridjevi od imena gradova",
+        "Sve imaju nastavak -in",
+        "Posvojni su pridjevi od imena osoba i pišu se velikim slovom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sve tri riječi kazuju čije je nešto i nastale su od imena ili prezimena, pa se pišu velikim slovom.",
+      "savjet": "Na koje pitanje odgovaraju te riječi i od čega su nastale?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-088",
+      "tezina": "tesko",
+      "pitanje": "Dino je napisao: „Ljeti idemo na Pulsku plažu s Teninom obitelji.“ Što treba ispraviti?",
+      "ponudeni": [
+        "Riječ Pulsku treba pisati malim slovom",
+        "Riječ Teninom treba pisati malim slovom",
+        "Riječ Teninom treba glasiti Tenovom",
+        "Riječ plažu treba pisati velikim slovom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pridjev od imena grada Pule piše se malim slovom: na pulsku plažu. Teninom je ispravno jer je od imena Tena.",
+      "savjet": "Od kojih su riječi nastala dva pridjeva u rečenici?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-089",
+      "tezina": "tesko",
+      "pitanje": "Pernica pripada Nikši. Koja riječ pravilno dovršava rečenicu „Ovo je … pernica.“?",
+      "ponudeni": [
+        "Nikšina",
+        "Nikšova",
+        "Nikševa",
+        "Nikšinova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ime Nikša završava na -a, pa dobiva nastavak -in: Nikšin, Nikšina pernica. Slovo š ovdje ne utječe na nastavak.",
+      "savjet": "Gledaj zadnje slovo imena, a ne slovo ispred njega."
+    },
+    {
+      "id": "4-hrvatski-jezik-pisanje-posvojnih-pridjeva-090",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o pisanju pridjeva točna?",
+      "ponudeni": [
+        "Pridjevi od imena gradova pišu se velikim slovom",
+        "Posvojni pridjevi od imena osoba pišu se velikim slovom",
+        "Pridjevi od riječi mama i tata pišu se velikim slovom",
+        "Svi pridjevi na -ski pišu se velikim slovom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Velikim slovom pišu se posvojni pridjevi od imena i prezimena osoba. Pridjevi od imena mjesta i od općih imenica pišu se malim.",
+      "savjet": "Sjeti se kako se pišu pridjevi Ivanov, zagrebački i mamin."
+    }
+  ]
+}

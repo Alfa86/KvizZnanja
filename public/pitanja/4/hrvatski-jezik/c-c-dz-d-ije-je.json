@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "c-c-dz-d-ije-je",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za bijelo piće koje daju krave?",
+      "ponudeni": [
+        "mljeko",
+        "mlijeko",
+        "mlieko",
+        "mleko"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U riječi „mlijeko“ slog je dug pa se piše ije.",
+      "savjet": "Izgovori riječ polako i poslušaj je li slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za vodu koja teče svojim koritom prema moru?",
+      "ponudeni": [
+        "rjeka",
+        "rieka",
+        "reka",
+        "rijeka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U riječi „rijeka“ slog je dug pa se piše ije.",
+      "savjet": "Sjeti se: u dugom slogu pišemo ije, a u kratkom je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-003",
+      "tezina": "lagano",
+      "pitanje": "U kojoj se od ovih riječi piše slovo ć?",
+      "ponudeni": [
+        "čaša",
+        "mačka",
+        "kuća",
+        "ključ"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ „kuća“ piše se s ć. Riječi „čaša“, „mačka“ i „ključ“ pišu se s č.",
+      "savjet": "Izgovori svaku riječ i poslušaj u kojoj se čuje meki glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše dio odjeće u koji stavljamo ruke ili sitne stvari?",
+      "ponudeni": [
+        "džep",
+        "đep",
+        "dzep",
+        "djep"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „džep“ piše se s dž. U hrvatskom jeziku ne pišemo dj umjesto đ ili dž.",
+      "savjet": "Sjeti se je li to glas dž kao u riječi „džem“ ili glas đ kao u riječi „lađa“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-005",
+      "tezina": "lagano",
+      "pitanje": "U kojoj se od ovih riječi piše slovo đ?",
+      "ponudeni": [
+        "džem",
+        "rođendan",
+        "džungla",
+        "udžbenik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „rođendan“ piše se s đ. Riječi „džem“, „džungla“ i „udžbenik“ pišu se s dž.",
+      "savjet": "Izgovori riječi i poslušaj u kojoj se čuje mekši glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za bijele pahulje koje padaju zimi?",
+      "ponudeni": [
+        "snjeg",
+        "sneg",
+        "snijeg",
+        "snieg"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U riječi „snijeg“ slog je dug pa se piše ije.",
+      "savjet": "Razvuci riječ dok je izgovaraš i poslušaj je li slog dug."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ s glasom č ili ć napisana s pogreškom?",
+      "ponudeni": [
+        "čaša",
+        "noć",
+        "kolač",
+        "ćokolada"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno se piše „čokolada“, sa slovom č.",
+      "savjet": "Za svaku riječ provjeri čuje li se tvrdi č ili meki ć."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-008",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ ima dug slog pa se u njoj piše ije?",
+      "ponudeni": [
+        "cvijet",
+        "djeca",
+        "mjesto",
+        "vjetar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U riječi „cvijet“ slog je dug pa se piše ije. U riječima „djeca“, „mjesto“ i „vjetar“ slog je kratak pa se piše je.",
+      "savjet": "Izgovori svaku riječ polako i poslušaj koji se slog razvlači."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-009",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za nebesko biće s krilima?",
+      "ponudeni": [
+        "andžeo",
+        "anđeo",
+        "anđel",
+        "andjeo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „anđeo“ piše se s đ.",
+      "savjet": "Sjeti se kako se piše glas u riječi „rođendan“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-010",
+      "tezina": "lagano",
+      "pitanje": "U kojoj se od ovih riječi piše dž?",
+      "ponudeni": [
+        "lađa",
+        "međa",
+        "žeđ",
+        "svjedodžba"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „svjedodžba“ piše se s dž. Riječi „lađa“, „međa“ i „žeđ“ pišu se s đ.",
+      "savjet": "Izgovori riječi i poslušaj u kojoj se čuje tvrđi glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-011",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ koja nedostaje? „Malo … spava u kolijevci.“",
+      "ponudeni": [
+        "djete",
+        "dite",
+        "dijete",
+        "dete"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U riječi „dijete“ slog je dug pa se piše ije.",
+      "savjet": "Poslušaj je li prvi slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-012",
+      "tezina": "lagano",
+      "pitanje": "U kojoj se od ovih riječi piše slovo č?",
+      "ponudeni": [
+        "ručak",
+        "noć",
+        "sreća",
+        "svijeća"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „ručak“ piše se s č. Riječi „noć“, „sreća“ i „svijeća“ pišu se s ć.",
+      "savjet": "Izgovori svaku riječ i poslušaj u kojoj se čuje tvrdi glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ koja nedostaje? „Danas je vani … i sunčano.“",
+      "ponudeni": [
+        "ljepo",
+        "lijepo",
+        "liepo",
+        "lepo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U riječi „lijepo“ slog je dug pa se piše ije.",
+      "savjet": "Sjeti se: u dugom slogu pišemo ije, a u kratkom je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-014",
+      "tezina": "lagano",
+      "pitanje": "U kojoj riječi je slog kratak pa se piše je?",
+      "ponudeni": [
+        "mlijeko",
+        "snijeg",
+        "rijeka",
+        "ljeto"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U riječi „ljeto“ slog je kratak pa se piše je. U ostalim riječima slog je dug pa se piše ije.",
+      "savjet": "Izgovori svaku riječ i potraži onu u kojoj se slog ne razvlači."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-015",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za dan kad slavimo koliko nam je godina?",
+      "ponudeni": [
+        "rodžendan",
+        "rodjendan",
+        "rođendan",
+        "rogjendan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ „rođendan“ piše se s đ. Slova dj i gj ne pišemo umjesto đ.",
+      "savjet": "Sjeti se da je đ jedno slovo i da se ne piše s dva slova."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-016",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ s glasom dž ili đ napisana s pogreškom?",
+      "ponudeni": [
+        "đungla",
+        "džemper",
+        "patlidžan",
+        "narudžba"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno se piše „džungla“, sa slovom dž.",
+      "savjet": "U svakoj riječi poslušaj čuje li se glas dž ili glas đ."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ koja nedostaje? „Taj … radi u tvornici.“",
+      "ponudeni": [
+        "ćovjek",
+        "čovijek",
+        "čovek",
+        "čovjek"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „čovjek“ piše se s tvrdim č i s je jer je slog kratak.",
+      "savjet": "Provjeri dvije stvari: prvo slovo i je li slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-018",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi završava slovom ć?",
+      "ponudeni": [
+        "igrač",
+        "stolić",
+        "pjevač",
+        "kolač"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „stolić“ znači mali stol i završava na -ić, koji se piše s ć. Riječi „igrač“, „pjevač“ i „kolač“ završavaju na -ač.",
+      "savjet": "Sjeti se kako se pišu riječi koje znače nešto malo."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-019",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za zrak koji puše i njiše granje?",
+      "ponudeni": [
+        "vijetar",
+        "vetar",
+        "vjetar",
+        "vietar"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U riječi „vjetar“ slog je kratak pa se piše je.",
+      "savjet": "Izgovori riječ i poslušaj je li prvi slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-020",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za voće od kojega se radi vino?",
+      "ponudeni": [
+        "grožđe",
+        "groždže",
+        "grozđe",
+        "grožje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „grožđe“ piše se sa ž i đ.",
+      "savjet": "Izgovori riječ polako, glas po glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-021",
+      "tezina": "lagano",
+      "pitanje": "Koja je riječ s ije ili je napisana s pogreškom?",
+      "ponudeni": [
+        "pjesma",
+        "mijesec",
+        "ljeto",
+        "mjesto"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno se piše „mjesec“ jer je slog kratak pa se piše je.",
+      "savjet": "U svakoj riječi poslušaj je li slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-022",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za ono što gori na rođendanskoj torti?",
+      "ponudeni": [
+        "sviječa",
+        "svjeća",
+        "svječa",
+        "svijeća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „svijeća“ ima dug slog pa se piše ije, a na kraju je meki ć.",
+      "savjet": "Provjeri dvije stvari: je li slog dug ili kratak i koji se glas čuje na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-023",
+      "tezina": "lagano",
+      "pitanje": "Koja se od ovih riječi piše sa slovom dž?",
+      "ponudeni": [
+        "đak",
+        "tuđ",
+        "udžbenik",
+        "smeđ"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ „udžbenik“ piše se s dž. Riječi „đak“, „tuđ“ i „smeđ“ pišu se s đ.",
+      "savjet": "Izgovori riječi i poslušaj u kojoj se čuje tvrđi glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-024",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ kojom imenujemo ružu ili tulipan?",
+      "ponudeni": [
+        "cvijet",
+        "cvjet",
+        "cviet",
+        "cvet"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U riječi „cvijet“ slog je dug pa se piše ije.",
+      "savjet": "Razvuci riječ dok je izgovaraš i poslušaj je li slog dug."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-025",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za ženu koja poučava učenike u školi?",
+      "ponudeni": [
+        "ućiteljica",
+        "učitelica",
+        "uciteljica",
+        "učiteljica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „učiteljica“ dolazi od riječi „učiti“ pa se piše s č.",
+      "savjet": "Sjeti se kako se piše glagol od kojeg ta riječ dolazi."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-026",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi s glasom đ ili dž sadrži pogrešku?",
+      "ponudeni": [
+        "žeđ",
+        "smedž",
+        "tuđ",
+        "lađa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno se piše „smeđ“, sa slovom đ.",
+      "savjet": "U svakoj riječi poslušaj čuje li se glas đ ili glas dž."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-027",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše riječ za ono što pjevamo uz glazbu?",
+      "ponudeni": [
+        "pjesma",
+        "pijesma",
+        "pesma",
+        "pjezma"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U riječi „pjesma“ slog je kratak pa se piše je.",
+      "savjet": "Izgovori riječ i poslušaj je li prvi slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-028",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše ime godišnjeg doba koje dolazi nakon zime?",
+      "ponudeni": [
+        "prolječe",
+        "proljeće",
+        "prolijeće",
+        "proleće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „proljeće“ ima kratak slog pa se piše je, a na kraju je meki ć.",
+      "savjet": "Provjeri dvije stvari: je li slog dug ili kratak i koji se glas čuje pri kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-029",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše ime dana koji dolazi nakon subote?",
+      "ponudeni": [
+        "nedijelja",
+        "nedelja",
+        "nedjelja",
+        "nedjela"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U riječi „nedjelja“ slog je kratak pa se piše je.",
+      "savjet": "Sjeti se kako pišeš riječ „ponedjeljak“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-030",
+      "tezina": "lagano",
+      "pitanje": "Kako se pravilno piše ime male životinje s gustim repom koja skače po drveću?",
+      "ponudeni": [
+        "vijeverica",
+        "veverica",
+        "vjeverića",
+        "vjeverica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U riječi „vjeverica“ slog je kratak pa se piše je, a na kraju je slovo c.",
+      "savjet": "Izgovori riječ polako i poslušaj svaki slog."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-031",
+      "tezina": "srednje",
+      "pitanje": "Koje slovo nedostaje u riječi „ku_ica“ (mala kuća)?",
+      "ponudeni": [
+        "č",
+        "ć",
+        "dž",
+        "đ"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „kućica“ nastala je od riječi „kuća“ pa se piše s ć.",
+      "savjet": "Sjeti se kako se piše riječ od koje je nastala."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-032",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Zimi u dvorištu pravimo …“",
+      "ponudeni": [
+        "snijegovića.",
+        "snegovića.",
+        "snjegovića.",
+        "snjegovica."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U riječi „snjegović“ slog je kratak pa se piše je, iako u riječi „snijeg“ pišemo ije.",
+      "savjet": "Duga riječ može imati kratak slog. Izgovori je polako."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-033",
+      "tezina": "srednje",
+      "pitanje": "Kako se pravilno piše riječ koja znači mali cvijet?",
+      "ponudeni": [
+        "cvjetić",
+        "cvijetić",
+        "cvetić",
+        "cvjetič"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U riječi „cvjetić“ slog je kratak pa se piše je, a umanjenice na -ić pišu se s ć.",
+      "savjet": "Kad riječ postane duža, slog se može skratiti. Poslušaj ga."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-034",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Sir i jogurt su … proizvodi.“",
+      "ponudeni": [
+        "mlijećni",
+        "mlječni",
+        "mljećni",
+        "mliječni"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „mliječni“ dolazi od riječi „mlijeko“: slog ostaje dug, a k prelazi u č.",
+      "savjet": "Sjeti se riječi od koje je nastala i kojim je glasom završavala."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-035",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Sutra ću … k tebi.“",
+      "ponudeni": [
+        "doči",
+        "doći",
+        "dođi",
+        "dodži"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagoli u infinitivu koji završavaju na -ći pišu se s ć: doći, reći, pomoći.",
+      "savjet": "Sjeti se kako završavaju glagoli „ići“ i „reći“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-036",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Moj brat je … od mene.“",
+      "ponudeni": [
+        "mladji",
+        "mladži",
+        "mlađi",
+        "mlaći"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od riječi „mlad“ nastaje „mlađi“: glas d prelazi u đ.",
+      "savjet": "Kojim glasom završava riječ „mlad“? Sjeti se u što se taj glas mijenja."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-037",
+      "tezina": "srednje",
+      "pitanje": "Kako se pravilno piše riječ koja znači mala rijeka?",
+      "ponudeni": [
+        "rijećica",
+        "rjećica",
+        "rjekica",
+        "rječica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U riječi „rječica“ slog je kratak pa se piše je, a k iz riječi „rijeka“ prelazi u č.",
+      "savjet": "Pazi na dvije stvari: je li slog dug ili kratak i u koji glas prelazi k."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-038",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Lav je … od mačke.“",
+      "ponudeni": [
+        "jači",
+        "jaći",
+        "jakši",
+        "jaci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od riječi „jak“ nastaje „jači“: glas k prelazi u č.",
+      "savjet": "Kojim glasom završava riječ „jak“? Sjeti se u što se taj glas mijenja."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-039",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Slon je … od miša.“",
+      "ponudeni": [
+        "veči",
+        "večji",
+        "veći",
+        "velikiji"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad nešto uspoređujemo, kažemo „velik – veći“. Ta se riječ piše s ć.",
+      "savjet": "Izgovori riječ i poslušaj čuje li se tvrdi ili meki glas."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-040",
+      "tezina": "srednje",
+      "pitanje": "Kako se pravilno piše riječ koja znači mali kamen?",
+      "ponudeni": [
+        "kamenćić",
+        "kamenčić",
+        "kamenčič",
+        "kamenćič"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U riječi „kamenčić“ prvo dolazi č, a na kraju je ć kao u svim umanjenicama na -ić.",
+      "savjet": "Sjeti se kako se piše završetak riječi „stolić“ i „zečić“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-041",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Kad je vruće, brzo osjetimo …“",
+      "ponudeni": [
+        "žedž.",
+        "žedj.",
+        "žeć.",
+        "žeđ."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „žeđ“ piše se s đ.",
+      "savjet": "Sjeti se kako se piše glas na kraju riječi „smeđ“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-042",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Na igralištu se igraju …“",
+      "ponudeni": [
+        "dijeca.",
+        "deca.",
+        "djeca.",
+        "dijetca."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kažemo „jedno dijete“, ali „djeca“. U riječi „djeca“ slog je kratak pa se piše je.",
+      "savjet": "Riječi „dijete“ i „djeca“ nemaju jednako dug prvi slog."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-043",
+      "tezina": "srednje",
+      "pitanje": "Koje slovo nedostaje u riječi „pti_ica“ (mala ptica)?",
+      "ponudeni": [
+        "ć",
+        "č",
+        "c",
+        "đ"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od riječi „ptica“ nastaje „ptičica“: glas c prelazi u č.",
+      "savjet": "Sjeti se kako od riječi „ruka“ nastaje riječ „ručica“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-044",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Moramo … baki u vrtu.“",
+      "ponudeni": [
+        "pomoći",
+        "pomoči",
+        "pomodži",
+        "pomođi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Infinitiv „pomoći“ završava na -ći, koji se piše s ć.",
+      "savjet": "Sjeti se kako završava glagol „moći“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-045",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Jučer je bio hladan i … dan.“",
+      "ponudeni": [
+        "sniježan",
+        "snežan",
+        "snježan",
+        "snijegan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U riječi „snježan“ slog je kratak pa se piše je, a g iz riječi „snijeg“ prelazi u ž.",
+      "savjet": "Riječ je nastala od riječi „snijeg“, ali slog u njoj nije jednako dug."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-046",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „U torbi nosim bilježnice i …“",
+      "ponudeni": [
+        "uđbenike.",
+        "udžbenike.",
+        "učbenike.",
+        "udzbenike."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „udžbenik“ piše se s dž.",
+      "savjet": "Izgovori riječ i poslušaj čuje li se tvrđi glas dž ili mekši đ."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-047",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Svi su se divili … tog krajolika.“",
+      "ponudeni": [
+        "lijepoti",
+        "lepoti",
+        "liepoti",
+        "ljepoti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kažemo „lijep“ s dugim slogom, ali u riječi „ljepota“ slog je kratak pa se piše je.",
+      "savjet": "Riječ je nastala od riječi „lijep“. Je li slog u novoj riječi jednako dug?"
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-048",
+      "tezina": "srednje",
+      "pitanje": "Koje slovo nedostaje u riječi „sme_a“ (boja čokolade)?",
+      "ponudeni": [
+        "dž",
+        "đ",
+        "ć",
+        "č"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno je „smeđa“, sa slovom đ.",
+      "savjet": "Sjeti se kako se piše riječ „žeđ“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-049",
+      "tezina": "srednje",
+      "pitanje": "Kojim oblikom glagola „peći“ pravilno dopunjuješ rečenicu? „Ja … kruh.“",
+      "ponudeni": [
+        "pećem",
+        "pekem",
+        "pečem",
+        "peđem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Infinitiv je „peći“, ali kažemo „ja pečem“, s tvrdim č.",
+      "savjet": "Sjeti se kako se kaže „ja tučem“ ili „ja vučem“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-050",
+      "tezina": "srednje",
+      "pitanje": "Kako se pravilno piše riječ koja znači mala ruka?",
+      "ponudeni": [
+        "ručica",
+        "rućica",
+        "rukica",
+        "rućića"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od riječi „ruka“ nastaje „ručica“: glas k prelazi u č.",
+      "savjet": "Sjeti se kako od riječi „rijeka“ nastaje riječ „rječica“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-051",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Med je … od limuna.“",
+      "ponudeni": [
+        "sladji",
+        "slaći",
+        "sladži",
+        "slađi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Od riječi „sladak“ nastaje „slađi“: glas d prelazi u đ.",
+      "savjet": "Sjeti se kako se kaže za nekoga tko je manje star: mlad, …"
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-052",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Gledamo utakmicu na … prvenstvu.“",
+      "ponudeni": [
+        "svijetskom",
+        "svjetskom",
+        "svetskom",
+        "svjedskom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo „svijet“ s dugim slogom, ali u riječi „svjetski“ slog je kratak pa se piše je.",
+      "savjet": "Riječ je nastala od riječi „svijet“. Je li slog u novoj riječi jednako dug?"
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-053",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Želim … more.“",
+      "ponudeni": [
+        "vidieti",
+        "videti",
+        "vidjeti",
+        "vidijeti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U glagolu „vidjeti“ slog je kratak pa se piše je, kao i u glagolu „živjeti“.",
+      "savjet": "Sjeti se kako se piše glagol „živjeti“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-054",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Na kraju školske godine dobivamo …“",
+      "ponudeni": [
+        "svedodžbu.",
+        "svjedođbu.",
+        "svijedodžbu.",
+        "svjedodžbu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „svjedodžba“ piše se s je u prvom slogu i s dž.",
+      "savjet": "Provjeri dvije stvari: je li prvi slog dug ili kratak i koji se glas čuje u sredini."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-055",
+      "tezina": "srednje",
+      "pitanje": "Kako se pravilno piše riječ koja znači mala noga?",
+      "ponudeni": [
+        "nožica",
+        "nožiča",
+        "noćica",
+        "nožića"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Od riječi „noga“ nastaje „nožica“: glas g prelazi u ž, a na kraju je -ica.",
+      "savjet": "Sjeti se kako od riječi „knjiga“ nastaje riječ „knjižica“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-056",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Ova je olovka … od tvoje.“",
+      "ponudeni": [
+        "krača",
+        "kratkija",
+        "kraća",
+        "kratča"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Od riječi „kratak“ nastaje „kraći, kraća“: glas t prelazi u ć.",
+      "savjet": "Kojim glasom završava osnova riječi „kratak“? Sjeti se u što se taj glas mijenja."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-057",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Snijeg je prekrio polje svojom …“",
+      "ponudeni": [
+        "bijelinom.",
+        "bjelinom.",
+        "belinom.",
+        "bjelinon."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kažemo „bijel“ s dugim slogom, ali u riječi „bjelina“ slog je kratak pa se piše je.",
+      "savjet": "Riječ je nastala od riječi „bijel“. Je li slog u novoj riječi jednako dug?"
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-058",
+      "tezina": "srednje",
+      "pitanje": "Koje slovo nedostaje u riječi „vrti_“ (mjesto u koje idu mala djeca)?",
+      "ponudeni": [
+        "ć",
+        "č",
+        "đ",
+        "dž"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „vrtić“ znači mali vrt. Umanjenice na -ić pišu se s ć.",
+      "savjet": "Sjeti se kako završavaju riječi koje znače nešto malo, kao „stolić“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-059",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Na nebu sjaji mnogo …“",
+      "ponudeni": [
+        "zvjezda.",
+        "zvezda.",
+        "zviezda.",
+        "zvijezda."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U riječi „zvijezda“ slog je dug pa se piše ije.",
+      "savjet": "Izgovori riječ polako i poslušaj je li slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-060",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pravilno dopunjuje rečenicu? „Djed je izgubio … od kuće.“",
+      "ponudeni": [
+        "ključ",
+        "kljuć",
+        "kljuc",
+        "kljudž"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „ključ“ piše se s tvrdim č.",
+      "savjet": "Izgovori riječ i poslušaj je li glas na kraju tvrd ili mek."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-061",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici pravopisna pogreška?",
+      "ponudeni": [
+        "Djeca se igraju na snijegu.",
+        "Mama kuha mliječnu kašu.",
+        "Vani puše jak vijetar.",
+        "U vazi je lijep cvijet."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je „vjetar“ jer je slog kratak pa se piše je.",
+      "savjet": "U svakoj rečenici provjeri riječi s ije i je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-062",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o hrani napisana bez pogreške?",
+      "ponudeni": [
+        "Za rućak jedemo voće.",
+        "Za ručak jedemo voče.",
+        "Za rućak jedemo voče.",
+        "Za ručak jedemo voće."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je „ručak“ s tvrdim č i „voće“ s mekim ć.",
+      "savjet": "Provjeri obje riječi u kojima se čuje č ili ć."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-063",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o odjeći napisana bez pogreške?",
+      "ponudeni": [
+        "Ana ima smeđi džemper.",
+        "Ana ima smedži džemper.",
+        "Ana ima smeđi đemper.",
+        "Ana ima smedži đemper."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je „smeđi“ s mekim đ i „džemper“ s tvrdim dž.",
+      "savjet": "Provjeri obje riječi u kojima se čuje đ ili dž."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-064",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ u rečenici nije pravilno napisana? „Moj mlađi brat ima rupu na đepu.“",
+      "ponudeni": [
+        "mlađi",
+        "brat",
+        "rupu",
+        "đepu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je „džepu“ jer se riječ „džep“ piše s dž.",
+      "savjet": "Provjeri riječi u kojima se čuje đ ili dž."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto pišemo „snijeg“, a „snjegović“?",
+      "ponudeni": [
+        "U „snijeg“ je slog kratak, a u „snjegović“ dug.",
+        "U „snijeg“ je slog dug, a u „snjegović“ kratak.",
+        "„Snjegović“ je glagol, a „snijeg“ imenica.",
+        "Ije se piše samo na kraju riječi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ije pišemo u dugom slogu, a je u kratkom. U riječi „snjegović“ slog se skratio.",
+      "savjet": "Izgovori obje riječi i usporedi koliko traje prvi slog."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-066",
+      "tezina": "tesko",
+      "pitanje": "U kojem su paru obje riječi pravilno napisane?",
+      "ponudeni": [
+        "cvjet – cvijetić",
+        "cvijet – cvijetić",
+        "cvijet – cvjetić",
+        "cvjet – cvjetić"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U riječi „cvijet“ slog je dug pa pišemo ije, a u riječi „cvjetić“ kratak pa pišemo je.",
+      "savjet": "Za svaku riječ posebno provjeri je li slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-067",
+      "tezina": "tesko",
+      "pitanje": "Koja slova nedostaju u rečenicama „Moram ti nešto re_i.“ i „Ako ti nešto re_em, to je istina.“?",
+      "ponudeni": [
+        "č pa ć",
+        "ć pa č",
+        "ć pa ć",
+        "č pa č"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Infinitiv „reći“ završava na -ći, a kažemo „ja rečem“, s tvrdim č, kao „peći – pečem“.",
+      "savjet": "Sjeti se kako se piše infinitiv i kako se kaže „ja pečem“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-068",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici jedna riječ nije pravilno napisana?",
+      "ponudeni": [
+        "Moj rođak živi u Đakovu.",
+        "Đak nosi udžbenike u torbi.",
+        "Tata je kupio staklenku đema.",
+        "Za doručak jedem kruh i med."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je „džema“ jer se riječ „džem“ piše s dž.",
+      "savjet": "U svakoj rečenici provjeri riječi s đ i dž."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-069",
+      "tezina": "tesko",
+      "pitanje": "Koji oblik glagola „vidjeti“ pravilno dopunjuje rečenicu? „Juraj je … dupina.“",
+      "ponudeni": [
+        "vidjeo",
+        "vidijo",
+        "vidijeo",
+        "vidio"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kod glagola „vidjeti“, „živjeti“ i „htjeti“ u tom obliku pišemo i: vidio, živio, htio.",
+      "savjet": "Sjeti se kako kažemo: „Djed je dugo … u Zagrebu.“"
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-070",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je riječi pogrešno napisano ije ili je?",
+      "ponudeni": [
+        "cvijetić",
+        "ljepota",
+        "bjelina",
+        "rječica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je „cvjetić“ jer je slog kratak. Kao „lijep – ljepota“ i „bijel – bjelina“, tako je i „cvijet – cvjetić“.",
+      "savjet": "Sve su riječi nastale od riječi s dugim slogom. U kojoj je slog ostao predug?"
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-071",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o nebu napisana bez pogreške?",
+      "ponudeni": [
+        "Noču na nebu sjaje zvijezde.",
+        "Noću na nebu sjaje zvijezde.",
+        "Noću na nebu sjaje zvjezde.",
+        "Noču na nebu sjaje zvjezde."
+      ],
+      "tocan": 1,
+      "objasnjenje": "„Noću“ se piše s ć kao i „noć“, a u riječi „zvijezde“ slog je dug pa se piše ije.",
+      "savjet": "Provjeri jednu riječ s č ili ć i jednu s ije ili je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-072",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o knjizi napisana bez pogreške?",
+      "ponudeni": [
+        "Dijećak čita knjigu.",
+        "Dječak ćita knjigu.",
+        "Dječak čita knjigu.",
+        "Djećak čita knjigu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je „dječak“ s je i tvrdim č te „čita“ s tvrdim č.",
+      "savjet": "Pazi na ije ili je i na svaki č ili ć u rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-073",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ u rečenici nije pravilno napisana? „Na rođendanu smo jeli ćokoladnu tortu.“",
+      "ponudeni": [
+        "ćokoladnu",
+        "rođendanu",
+        "jeli",
+        "tortu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je „čokoladnu“ jer se riječ „čokolada“ piše s tvrdim č.",
+      "savjet": "Provjeri riječi u kojima se čuje č, ć ili đ."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-074",
+      "tezina": "tesko",
+      "pitanje": "Kojim se slovom piše završetak riječi koje znače nešto malo, kao „stolić“ ili „konjić“?",
+      "ponudeni": [
+        "č, kao u riječi „čaša“",
+        "đ, kao u riječi „lađa“",
+        "dž, kao u riječi „džep“",
+        "ć, kao u riječi „kuća“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Umanjenice na -ić pišu se s mekim ć: stolić, konjić, zečić, vrtić.",
+      "savjet": "Izgovori „konjić“ i poslušaj je li glas na kraju tvrd ili mek."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-075",
+      "tezina": "tesko",
+      "pitanje": "U kojem su redu oba para riječi pravilno napisana?",
+      "ponudeni": [
+        "jak – jaći, velik – veči",
+        "jak – jači, velik – veći",
+        "jak – jači, velik – veči",
+        "jak – jaći, velik – veći"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Od „jak“ nastaje „jači“ jer k prelazi u č, a od „velik“ nastaje „veći“, s mekim ć.",
+      "savjet": "Za svaki par posebno izgovori riječ i poslušaj je li glas tvrd ili mek."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-076",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica sadrži pogrešno napisanu riječ?",
+      "ponudeni": [
+        "Moja kuča ima crveni krov.",
+        "Rijeka teče kroz grad.",
+        "Sunce jako sja ljeti.",
+        "Pčela leti s cvijeta na cvijet."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je „kuća“, s mekim ć.",
+      "savjet": "U svakoj rečenici provjeri riječi s č, ć, ije i je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-077",
+      "tezina": "tesko",
+      "pitanje": "Koje je pravilo za pisanje ije i je točno?",
+      "ponudeni": [
+        "Ije pišemo u kratkom slogu, a je u dugom.",
+        "Ije pišemo u dugom slogu, a je u kratkom.",
+        "Ije pišemo na početku riječi, a je na kraju.",
+        "Ije pišemo u imenicama, a je u glagolima."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U dugom slogu pišemo ije (mlijeko, rijeka), a u kratkom je (mjesto, vjetar).",
+      "savjet": "Izgovori riječi „mlijeko“ i „mjesto“ i usporedi koliko traju."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-078",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o kupnji napisana bez pogreške?",
+      "ponudeni": [
+        "Gospodža je kupila novo posuđe.",
+        "Gospođa je kupila novo posudže.",
+        "Gospođa je kupila novo posuđe.",
+        "Gospodža je kupila novo posudže."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi „gospođa“ i „posuđe“ pišu se s mekim đ.",
+      "savjet": "Provjeri obje riječi u kojima se čuje đ ili dž."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-079",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ u rečenici nije pravilno napisana? „Moramo pomoči baki pri pečenju kolača.“",
+      "ponudeni": [
+        "Moramo",
+        "pomoči",
+        "pečenju",
+        "kolača"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno je „pomoći“ jer infinitivi na -ći završavaju mekim ć.",
+      "savjet": "Sjeti se kako završavaju glagoli kao „ići“ i „doći“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-080",
+      "tezina": "tesko",
+      "pitanje": "Koji je par riječi napisan bez pogreške?",
+      "ponudeni": [
+        "djete – djeca",
+        "dijete – dijeca",
+        "djete – dijeca",
+        "dijete – djeca"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U riječi „dijete“ slog je dug pa pišemo ije, a u riječi „djeca“ kratak pa pišemo je.",
+      "savjet": "Izgovori obje riječi i usporedi koliko traje prvi slog."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-081",
+      "tezina": "tesko",
+      "pitanje": "Kao što od „mlad“ nastaje „mlađi“, od „tvrd“ nastaje „tvr_i“. Koje slovo nedostaje?",
+      "ponudeni": [
+        "đ",
+        "dž",
+        "ć",
+        "č"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glas d u takvim oblicima prelazi u đ: mlad – mlađi, tvrd – tvrđi, sladak – slađi.",
+      "savjet": "Pogledaj kojim glasom završavaju riječi „mlad“ i „tvrd“."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-082",
+      "tezina": "tesko",
+      "pitanje": "U kojoj od ovih rečenica postoji pogreška?",
+      "ponudeni": [
+        "Ljeti idemo na more.",
+        "Dijed sjedi u hladu.",
+        "Vjeverica skače po grani.",
+        "Cvijeće raste na livadi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno je „djed“ jer je slog kratak pa se piše je.",
+      "savjet": "U svakoj rečenici provjeri riječi s ije i je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-083",
+      "tezina": "tesko",
+      "pitanje": "Koje je pitanje napisano bez pogreške?",
+      "ponudeni": [
+        "Hoču li doći na vrijeme?",
+        "Hoću li doči na vrijeme?",
+        "Hoću li doći na vrjeme?",
+        "Hoću li doći na vrijeme?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je „hoću“ i „doći“, s mekim ć, te „vrijeme“, s ije.",
+      "savjet": "Provjeri svaku riječ s č ili ć i svaku s ije ili je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-084",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ u rečenici nije pravilno napisana? „Lađa plovi rjekom prema moru.“",
+      "ponudeni": [
+        "Lađa",
+        "plovi",
+        "rjekom",
+        "moru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pravilno je „rijekom“ jer se riječ „rijeka“ piše s ije.",
+      "savjet": "Provjeri riječi u kojima se čuje đ, ije ili je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-085",
+      "tezina": "tesko",
+      "pitanje": "Koji glagol nije pravilno napisan?",
+      "ponudeni": [
+        "peči",
+        "reći",
+        "ići",
+        "moći"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je „peći“. Infinitivi na -ći uvijek se pišu s ć: peći, reći, ići, moći.",
+      "savjet": "Sjeti se pravila za glagole u infinitivu koji završavaju na -ći."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-086",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o godišnjem dobu napisana bez pogreške?",
+      "ponudeni": [
+        "U prolječe cvjetaju voćke.",
+        "U proljeće cvijetaju voćke.",
+        "U proljeće cvjetaju vočke.",
+        "U proljeće cvjetaju voćke."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je „proljeće“ i „voćke“, s mekim ć, te „cvjetaju“, s je jer je slog kratak.",
+      "savjet": "Provjeri riječi s č ili ć i riječ s ije ili je."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-087",
+      "tezina": "tesko",
+      "pitanje": "U kojem je nizu svaka riječ pravilno napisana?",
+      "ponudeni": [
+        "mljeko, rijeka, cvijet",
+        "mlijeko, rjeka, cvijet",
+        "mlijeko, rijeka, cvijet",
+        "mlijeko, rijeka, cvjet"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U riječima „mlijeko“, „rijeka“ i „cvijet“ slog je dug pa se u svima piše ije.",
+      "savjet": "Za svaku riječ u nizu provjeri je li slog dug ili kratak."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-088",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ u rečenici nije pravilno napisana? „Djevojčica nosi džemper smedže boje.“",
+      "ponudeni": [
+        "Djevojčica",
+        "nosi",
+        "džemper",
+        "smedže"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravilno je „smeđe“ jer se riječ „smeđ“ piše s đ.",
+      "savjet": "Provjeri riječi u kojima se čuje č, đ ili dž."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica o kućnom ljubimcu napisana bez pogreške?",
+      "ponudeni": [
+        "Bjela mačka spava kraj peći.",
+        "Bijela mačka spava kraj peći.",
+        "Bijela maćka spava kraj peći.",
+        "Bijela mačka spava kraj peči."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravilno je „bijela“ s ije, „mačka“ s tvrdim č i „peći“ s mekim ć.",
+      "savjet": "Provjeri riječ s ije ili je i obje riječi s č ili ć."
+    },
+    {
+      "id": "4-hrvatski-jezik-c-c-dz-d-ije-je-090",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ u rečenici nije pravilno napisana? „Dječak je poklonio mami sviječu.“",
+      "ponudeni": [
+        "sviječu",
+        "Dječak",
+        "poklonio",
+        "mami"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pravilno je „svijeću“ jer se riječ „svijeća“ piše s mekim ć.",
+      "savjet": "Provjeri riječi u kojima se čuje č ili ć."
+    }
+  ]
+}

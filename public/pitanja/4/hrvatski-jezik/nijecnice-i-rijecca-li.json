@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "nijecnice-i-rijecca-li",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-001",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo riječ ne kojom kažemo da nešto nije tako?",
+      "ponudeni": [
+        "Riječca li",
+        "Niječnica",
+        "Imenica",
+        "Pridjev"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ ne zove se niječnica jer njome nešto niječemo, odnosno kažemo da nešto nije tako.",
+      "savjet": "Sjeti se kako se zove kad nešto poričemo ili niječemo."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-002",
+      "tezina": "lagano",
+      "pitanje": "Koji je izraz napisan ispravno?",
+      "ponudeni": [
+        "neznam",
+        "nevolim",
+        "ne vidim",
+        "nemogu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Niječnica ne piše se odvojeno od glagola: ne vidim, ne znam, ne volim, ne mogu.",
+      "savjet": "Piše li se niječnica ne uz glagol zajedno ili odvojeno?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-003",
+      "tezina": "lagano",
+      "pitanje": "Koji je oblik glagola imati s niječnicom napisan ispravno?",
+      "ponudeni": [
+        "ja ne mam",
+        "ti ne maš",
+        "on ne ma",
+        "mi nemamo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Niječni oblici glagola imati pišu se zajedno: nemam, nemaš, nema, nemamo, nemate, nemaju.",
+      "savjet": "Sjeti se iznimaka u kojima se ne s glagolom piše kao jedna riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-004",
+      "tezina": "lagano",
+      "pitanje": "Koji je oblik glagola biti s niječnicom napisan ispravno?",
+      "ponudeni": [
+        "ja nisam",
+        "ti ne si",
+        "on ne je",
+        "mi ne smo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Niječni oblici glagola biti pišu se zajedno: nisam, nisi, nije, nismo, niste, nisu.",
+      "savjet": "Kako kažeš suprotno od „ja sam“? Je li to jedna riječ ili dvije?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-005",
+      "tezina": "lagano",
+      "pitanje": "Uz koju se riječ niječnica ne piše zajedno, kao jedna riječ?",
+      "ponudeni": [
+        "znam",
+        "imam",
+        "volim",
+        "vidim"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Niječni oblik od imam je nemam i piše se zajedno. Ostali se pišu odvojeno: ne znam, ne volim, ne vidim.",
+      "savjet": "Zamisli ispred svake riječi ne i sjeti se iznimaka."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-006",
+      "tezina": "lagano",
+      "pitanje": "Koja je zapovijed napisana ispravno?",
+      "ponudeni": [
+        "Ne moj plakati!",
+        "Nepričaj glasno!",
+        "Nemoj plakati!",
+        "Netrči po hodniku!"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nemoj se piše zajedno jer je to iznimka. Uz ostale glagole ne se piše odvojeno: ne pričaj, ne trči.",
+      "savjet": "Sjeti se koja je riječ za zabranu iznimka i piše se zajedno."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se piše riječca li?",
+      "ponudeni": [
+        "Zajedno s riječju ispred sebe",
+        "Odvojeno od riječi ispred sebe",
+        "Velikim početnim slovom",
+        "Samo na kraju rečenice"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječca li je posebna riječ i piše se odvojeno: Znaš li? Hoćeš li? Je li?",
+      "savjet": "Sjeti se kako izgleda pitanje „Znaš li?“ – koliko u njemu ima riječi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-008",
+      "tezina": "lagano",
+      "pitanje": "Koje je pitanje napisano ispravno?",
+      "ponudeni": [
+        "Znašli odgovor?",
+        "Hoćešli doći?",
+        "Možeš li pomoći?",
+        "Vidišli more?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječca li piše se odvojeno od riječi ispred sebe: Možeš li, Znaš li, Hoćeš li, Vidiš li.",
+      "savjet": "Pazi kako je napisana riječca li u svakom pitanju."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-009",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo riječ li u pitanju „Voliš li čokoladu?“",
+      "ponudeni": [
+        "Niječnica",
+        "Glagol",
+        "Imenica",
+        "Riječca"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Li je riječca. Pomaže nam postaviti pitanje i piše se odvojeno.",
+      "savjet": "Riječ li je kratka i pomaže nam postaviti pitanje. Sjeti se kako je zovemo."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-010",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih izraza s niječnicom ispravno napisan?",
+      "ponudeni": [
+        "ja nepišem",
+        "ja necrtam",
+        "ja nepjevam",
+        "ja ne čitam"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Niječnica ne piše se odvojeno od glagola: ne čitam, ne pišem, ne crtam, ne pjevam.",
+      "savjet": "Piše li se ne uz glagol zajedno ili odvojeno?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-011",
+      "tezina": "lagano",
+      "pitanje": "Koji je izraz u množini napisan ispravno?",
+      "ponudeni": [
+        "mi nećemo",
+        "mi neznamo",
+        "mi nevolimo",
+        "mi nesmijemo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nećemo se piše zajedno jer je to iznimka, kao i neću, nećeš i neće. Uz ostale glagole ne se piše odvojeno.",
+      "savjet": "Sjeti se koji se niječni oblici pišu kao jedna riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-012",
+      "tezina": "lagano",
+      "pitanje": "U kojem je pitanju riječca li napisana ispravno?",
+      "ponudeni": [
+        "Ideš li sa mnom?",
+        "Jesili gladan?",
+        "Imašli olovku?",
+        "Smijemli ući?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječca li piše se odvojeno: Ideš li, Jesi li, Imaš li, Smijem li.",
+      "savjet": "Riječca li je posebna riječ. Potraži pitanje u kojem tako i izgleda."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-013",
+      "tezina": "lagano",
+      "pitanje": "Koji je niječni oblik riječi sam u rečenici „Ja sam umoran.“?",
+      "ponudeni": [
+        "nesam",
+        "nisam",
+        "ne sam",
+        "nijesam"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Niječni oblik od sam je nisam i piše se zajedno: Ja nisam umoran.",
+      "savjet": "Izgovori rečenicu tako da kaže suprotno pa pazi kako se ta riječ piše."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-014",
+      "tezina": "lagano",
+      "pitanje": "Koji je niječni oblik rečenice „Imam psa.“?",
+      "ponudeni": [
+        "Ne mam psa.",
+        "Ne imam psa.",
+        "Nimam psa.",
+        "Nemam psa."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Niječni oblik od imam je nemam i piše se zajedno: Nemam psa.",
+      "savjet": "Glagol imati jedna je od iznimaka. Kako se njegov niječni oblik piše?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-015",
+      "tezina": "lagano",
+      "pitanje": "Koji je niječni oblik rečenice „Znam plivati i volim more.“?",
+      "ponudeni": [
+        "Ne znam plivati i ne volim more.",
+        "Neznam plivati i ne volim more.",
+        "Ne znam plivati i nevolim more.",
+        "Neznam plivati i nevolim more."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagoli znati i voljeti nisu iznimke pa se ne piše odvojeno: ne znam, ne volim.",
+      "savjet": "Provjeri oba mjesta na kojima se pojavljuje niječnica."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-016",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih riječi nije ispravno napisana?",
+      "ponudeni": [
+        "nemam",
+        "nisam",
+        "neću",
+        "nevidim"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nemam, nisam i neću su iznimke i pišu se zajedno, a ne vidim piše se odvojeno.",
+      "savjet": "Sjeti se četiri iznimke u kojima se ne piše zajedno s glagolom."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-017",
+      "tezina": "lagano",
+      "pitanje": "Koje je od ovih pitanja napisano ispravno?",
+      "ponudeni": [
+        "Jeli ovo tvoja torba?",
+        "Jesuli ovo tvoje knjige?",
+        "Je li ovo tvoja kapa?",
+        "Imali ovdje mjesta?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječca li piše se odvojeno: Je li, Jesu li, Ima li.",
+      "savjet": "U kojem je pitanju riječca li posebna riječ?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-018",
+      "tezina": "lagano",
+      "pitanje": "U kojem je izrazu niječnica ne napisana zajedno s glagolom?",
+      "ponudeni": [
+        "nemoj",
+        "ne pjevam",
+        "ne plešem",
+        "ne trčim"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nemoj je iznimka i piše se zajedno. Uz ostale glagole ne se piše odvojeno.",
+      "savjet": "Potraži izraz koji je napisan kao jedna riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-019",
+      "tezina": "lagano",
+      "pitanje": "Gdje stoji riječca li u pitanju „Voliš li sladoled?“",
+      "ponudeni": [
+        "Na početku pitanja",
+        "Iza riječi voliš",
+        "Na kraju pitanja",
+        "Iza riječi sladoled"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječca li stoji iza glagola voliš i piše se odvojeno od njega.",
+      "savjet": "Pročitaj pitanje polako i pronađi riječ koja stoji ispred li."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-020",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih oblika glagola biti ispravno napisan?",
+      "ponudeni": [
+        "oni ne su",
+        "vi ne ste",
+        "ti nisi",
+        "ja ne sam"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Niječni oblici glagola biti pišu se zajedno: nisam, nisi, nije, nismo, niste, nisu.",
+      "savjet": "Glagol biti jedna je od iznimaka. Kako se pišu njegovi niječni oblici?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-021",
+      "tezina": "lagano",
+      "pitanje": "Koji je izraz s niječnicom ispravno napisan?",
+      "ponudeni": [
+        "nerazumijem",
+        "nesjećam se",
+        "ne razumijem",
+        "nebojim se"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Niječnica ne piše se odvojeno od glagola: ne razumijem, ne sjećam se, ne bojim se.",
+      "savjet": "Ovi glagoli nisu iznimke. Kako se onda piše ne uz njih?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-022",
+      "tezina": "lagano",
+      "pitanje": "Od kojeg se glagola niječni oblik piše kao jedna riječ?",
+      "ponudeni": [
+        "biti",
+        "trčati",
+        "pjevati",
+        "plivati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Niječni oblici glagola biti pišu se zajedno: nisam, nisi, nije. Ostali se pišu odvojeno: ne trčim, ne pjevam, ne plivam.",
+      "savjet": "Izgovori niječni oblik svakog glagola i sjeti se iznimaka."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-023",
+      "tezina": "lagano",
+      "pitanje": "Kako se ispravno piše niječni oblik riječi hoću?",
+      "ponudeni": [
+        "necu",
+        "nećem",
+        "neču",
+        "neću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Niječni oblik od hoću je neću. Piše se zajedno i sa slovom ć.",
+      "savjet": "Pazi na dvije stvari: piše li se zajedno i koje slovo stoji na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-024",
+      "tezina": "lagano",
+      "pitanje": "Koje je pitanje o pticama napisano ispravno?",
+      "ponudeni": [
+        "Čuješli ptice?",
+        "Vidiš li ptice?",
+        "Slušašli ptice?",
+        "Gledašli ptice?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječca li piše se odvojeno od glagola: Vidiš li, Čuješ li, Slušaš li, Gledaš li.",
+      "savjet": "Riječca li je posebna riječ. Gdje je tako i napisana?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-025",
+      "tezina": "lagano",
+      "pitanje": "Koja je zabrana napisana ispravno?",
+      "ponudeni": [
+        "Ne mojte gaziti travu!",
+        "Negazite travu!",
+        "Nemojte gaziti travu!",
+        "Nemojte negaziti travu!"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nemojte se piše zajedno, kao i nemoj. Uz glagol gaziti ne se piše odvojeno: ne gazite.",
+      "savjet": "Sjeti se kako se piše nemoj i vrijedi li isto kad se obraćamo većem broju ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-026",
+      "tezina": "lagano",
+      "pitanje": "U kojem je izrazu niječnica napisana pogrešno?",
+      "ponudeni": [
+        "ne pijem",
+        "nespavam",
+        "ne jedem",
+        "ne sjedim"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol spavati nije iznimka pa se ne piše odvojeno: ne spavam.",
+      "savjet": "Potraži izraz u kojem su niječnica i glagol spojeni, a ne bi trebali biti."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-027",
+      "tezina": "lagano",
+      "pitanje": "Koje je pitanje prijatelju napisano ispravno?",
+      "ponudeni": [
+        "Imaš li brata?",
+        "Imašli sestru?",
+        "Volišli pse?",
+        "Idešli van?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječca li piše se odvojeno: Imaš li, Voliš li, Ideš li.",
+      "savjet": "Gdje je riječca li odvojena od riječi ispred sebe?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-028",
+      "tezina": "lagano",
+      "pitanje": "Što izričemo niječnicom ne?",
+      "ponudeni": [
+        "Da nešto pitamo",
+        "Da je nešto veliko",
+        "Da se nešto dogodilo jučer",
+        "Da nešto nije tako"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Niječnicom nešto niječemo, odnosno kažemo da nešto nije tako: Ne volim kišu.",
+      "savjet": "Usporedi rečenice „Volim kišu.“ i „Ne volim kišu.“ Što se promijenilo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-029",
+      "tezina": "lagano",
+      "pitanje": "Koji je oblik glagola dati s niječnicom ispravno napisan?",
+      "ponudeni": [
+        "ja nedam",
+        "on nedaje",
+        "mi nedamo",
+        "ti ne daš"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagol dati nije iznimka pa se ne piše odvojeno: ne dam, ne daš, ne daje, ne damo.",
+      "savjet": "Je li glagol dati jedna od iznimaka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-030",
+      "tezina": "lagano",
+      "pitanje": "U kojoj se rečenici nalazi riječca li?",
+      "ponudeni": [
+        "Danas pada kiša.",
+        "Kiša je pala.",
+        "Pada li kiša?",
+        "Kiša pada cijeli dan."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječca li nalazi se u pitanju „Pada li kiša?“. Njome postavljamo pitanje.",
+      "savjet": "Riječcu li najčešće nalazimo u pitanjima."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-031",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Danas … domaću zadaću pa idem na igralište.“?",
+      "ponudeni": [
+        "ne mam",
+        "nisam",
+        "nemam",
+        "ne imam"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ovdje treba niječni oblik glagola imati, a on se piše zajedno: Danas nemam domaću zadaću.",
+      "savjet": "Koji glagol pristaje uz riječ zadaća? Sjeti se kako se piše njegov niječni oblik."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-032",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Ja … gladan, hvala.“?",
+      "ponudeni": [
+        "nisam",
+        "ne sam",
+        "nemam",
+        "ne jesam"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ovdje treba niječni oblik glagola biti, a on se piše zajedno: Ja nisam gladan.",
+      "savjet": "Kako bi rečenica glasila bez niječnice? Od toga napravi niječni oblik."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-033",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Sutra … doći na trening jer idem k baki.“?",
+      "ponudeni": [
+        "nemogu",
+        "neću",
+        "nisam",
+        "nemam"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica „Sutra neću doći“ ima smisla i ispravno je napisana jer se neću piše zajedno. Nemogu je pogrešno, treba pisati ne mogu.",
+      "savjet": "Uvrsti svaku riječ u rečenicu i provjeri ima li smisla i je li dobro napisana."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-034",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava zabranu „… dirati vruću peć!“?",
+      "ponudeni": [
+        "Ne moj",
+        "Nisam",
+        "Nemam",
+        "Nemoj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za zabranu koristimo nemoj, a ta se riječ piše zajedno.",
+      "savjet": "Kojom riječju nekome nešto zabranjujemo? Sjeti se kako se piše."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-035",
+      "tezina": "srednje",
+      "pitanje": "Kojim ćeš pitanjem ispravno zamoliti prijatelja za pomoć?",
+      "ponudeni": [
+        "Možešli mi pomoći?",
+        "Moželi mi pomoći?",
+        "Možeš mi li pomoći?",
+        "Možeš li mi pomoći?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječca li piše se odvojeno i stoji odmah iza glagola: Možeš li mi pomoći?",
+      "savjet": "Pazi na dvije stvari: je li li odvojen i stoji li odmah iza glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-036",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi niječni oblik rečenice „Oni su u školi.“?",
+      "ponudeni": [
+        "Oni ne su u školi.",
+        "Oni nisu u školi.",
+        "Oni nesu u školi.",
+        "Oni nijesu u školi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Niječni oblik od su je nisu i piše se zajedno: Oni nisu u školi.",
+      "savjet": "Sjeti se kako glase niječni oblici glagola biti: nisam, nisi, nije…"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-037",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pitanje s riječcom li napravljeno od rečenice „Ti znaš put.“?",
+      "ponudeni": [
+        "Znaš li put?",
+        "Znašli put?",
+        "Li znaš put?",
+        "Znaš put li?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol ide na početak, a iza njega odvojeno riječca li: Znaš li put?",
+      "savjet": "Riječca li stoji odmah iza glagola. Piše li se s njim zajedno?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-038",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ nedostaje u pitanju „Hoćeš … sa mnom u kino?“",
+      "ponudeni": [
+        "ne",
+        "ni",
+        "li",
+        "da"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U pitanju iza glagola dolazi riječca li: Hoćeš li sa mnom u kino?",
+      "savjet": "Koja nam riječca pomaže postaviti pitanje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-039",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Ja … rajčicu, ali volim krastavce.“?",
+      "ponudeni": [
+        "nevolim",
+        "ne volim",
+        "nisam",
+        "nemoj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol voljeti nije iznimka pa se ne piše odvojeno: Ja ne volim rajčicu.",
+      "savjet": "Koji glagol nedostaje? Je li on jedna od iznimaka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-040",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi niječni oblik rečenice „Mi imamo vremena.“?",
+      "ponudeni": [
+        "Mi ne imamo vremena.",
+        "Mi ne mamo vremena.",
+        "Mi nimamo vremena.",
+        "Mi nemamo vremena."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Niječni oblik od imamo je nemamo i piše se zajedno: Mi nemamo vremena.",
+      "savjet": "Glagol imati jedna je od iznimaka. Kako glasi i kako se piše njegov niječni oblik?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-041",
+      "tezina": "srednje",
+      "pitanje": "Kako ispravno počinje pitanje „… ovo tvoja olovka?“",
+      "ponudeni": [
+        "Jeli",
+        "Li je",
+        "Je li",
+        "Jel li"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pitanje počinje s je, a iza njega odvojeno dolazi riječca li: Je li ovo tvoja olovka?",
+      "savjet": "Pazi da riječca li bude posebna riječ i da stoji iza glagola."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-042",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi niječni oblik riječi možeš?",
+      "ponudeni": [
+        "ne možeš",
+        "nemožeš",
+        "nemoš",
+        "ne moš"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol moći nije iznimka pa se ne piše odvojeno: ne možeš.",
+      "savjet": "Je li glagol moći jedna od iznimaka? Pazi i da riječ bude cijela."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-043",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Sanja … u školu jer je bolesna.“?",
+      "ponudeni": [
+        "ne ide",
+        "neide",
+        "nije",
+        "nema"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol ići nije iznimka pa se ne piše odvojeno: Sanja ne ide u školu.",
+      "savjet": "Uvrsti svaku riječ u rečenicu. Koja ima smisla i ispravno je napisana?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-044",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava zabranu „Djeco, … bacati papire na pod!“?",
+      "ponudeni": [
+        "ne mojte",
+        "nisu",
+        "nemojte",
+        "nemoj te"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad zabranjujemo većem broju ljudi, kažemo nemojte, a ta se riječ piše zajedno.",
+      "savjet": "Obraćamo se djeci, dakle većem broju ljudi. Kako tada glasi zabrana i kako se piše?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-045",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pitanje s riječcom li napravljeno od rečenice „Pas laje.“?",
+      "ponudeni": [
+        "Lajeli pas?",
+        "Li laje pas?",
+        "Pas laje li?",
+        "Laje li pas?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagol ide na početak, a iza njega odvojeno riječca li: Laje li pas?",
+      "savjet": "Gdje stoji riječca li u pitanju i piše li se zajedno s glagolom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-046",
+      "tezina": "srednje",
+      "pitanje": "Koje riječi ispravno popunjavaju rečenicu „Ja … mlijeko i … ga piti.“?",
+      "ponudeni": [
+        "nevolim, neću",
+        "ne volim, neću",
+        "ne volim, nećem",
+        "nevolim, nećem"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ne volim piše se odvojeno, a neću zajedno jer je iznimka.",
+      "savjet": "Jedna je riječ iznimka, a druga nije. Provjeri obje."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-047",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi niječni oblik riječi smijem?",
+      "ponudeni": [
+        "nesmijem",
+        "ne smjem",
+        "ne smijem",
+        "nesmjem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagol smjeti nije iznimka pa se ne piše odvojeno: ne smijem.",
+      "savjet": "Provjeri piše li se ne odvojeno i je li riječ smijem napisana kao bez niječnice."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-048",
+      "tezina": "srednje",
+      "pitanje": "Kako ispravno počinje pitanje „… tvoji roditelji kod kuće?“",
+      "ponudeni": [
+        "Jesuli",
+        "Jesu li",
+        "Je li",
+        "Jesi li"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Roditelji su oni pa kažemo jesu, a riječca li piše se odvojeno: Jesu li tvoji roditelji kod kuće?",
+      "savjet": "O koliko je osoba riječ? Pazi i kako se piše riječca li."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-049",
+      "tezina": "srednje",
+      "pitanje": "Koje riječi ispravno popunjavaju pitanje „Mama, … mi pročitati priču?“",
+      "ponudeni": [
+        "Hoćešli",
+        "Hoćeš ni",
+        "Li hoćeš",
+        "Hoćeš li"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječca li piše se odvojeno i stoji iza glagola: Hoćeš li mi pročitati priču?",
+      "savjet": "Kojom riječcom postavljamo pitanje i gdje ona stoji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-050",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi niječni oblik rečenice „Hoću jesti juhu.“?",
+      "ponudeni": [
+        "Neću jesti juhu.",
+        "Nećem jesti juhu.",
+        "Ne hoću jesti juhu.",
+        "Neću nejesti juhu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Niječni oblik od hoću je neću i piše se zajedno. Glagol jesti ostaje isti.",
+      "savjet": "Niječnicu dodaješ samo jednom. Kako glasi suprotno od hoću?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-051",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Luka … sestru, ali ima brata.“?",
+      "ponudeni": [
+        "ne ma",
+        "nije",
+        "ne ima",
+        "nema"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ovdje treba niječni oblik glagola imati, a on se piše zajedno: Luka nema sestru.",
+      "savjet": "Drugi dio rečenice otkriva koji glagol nedostaje. Kako se piše njegov niječni oblik?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-052",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi pitanje s riječcom li napravljeno od rečenice „Ti si spreman.“?",
+      "ponudeni": [
+        "Jesi li spreman?",
+        "Jesili spreman?",
+        "Si li spreman?",
+        "Jesi spreman li?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U pitanju umjesto si kažemo jesi, a iza toga odvojeno dolazi li: Jesi li spreman?",
+      "savjet": "Kojim oblikom glagola biti počinje takvo pitanje? Pazi i na riječcu li."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-053",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Ja … čuti što govoriš.“?",
+      "ponudeni": [
+        "nemogu",
+        "ne mogu",
+        "nisam",
+        "nemoj"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol moći nije iznimka pa se ne piše odvojeno: Ja ne mogu čuti.",
+      "savjet": "Koji glagol pristaje ispred čuti? Je li on iznimka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-054",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Baka … naočale pa ne vidi dobro.“?",
+      "ponudeni": [
+        "ne ma",
+        "ne ima",
+        "nema",
+        "nisu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ovdje treba niječni oblik glagola imati, a on se piše zajedno: Baka nema naočale.",
+      "savjet": "Što baki nedostaje? Kojim to glagolom kažemo i kako se piše njegov niječni oblik?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-055",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Danas … hladno.“?",
+      "ponudeni": [
+        "ne je",
+        "nije",
+        "nema",
+        "neće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ovdje treba niječni oblik od je, a to je nije. Piše se zajedno: Danas nije hladno.",
+      "savjet": "Kako bi rečenica glasila bez niječnice? Od toga napravi niječni oblik."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-056",
+      "tezina": "srednje",
+      "pitanje": "Kako glasi niječni oblik riječi pišem?",
+      "ponudeni": [
+        "nepišem",
+        "ne pisem",
+        "ne pišem",
+        "nepisem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagol pisati nije iznimka pa se ne piše odvojeno: ne pišem.",
+      "savjet": "Provjeri piše li se ne odvojeno i je li glagol napisan sa svim kvačicama."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-057",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Ivana, … zaboraviti kišobran!“?",
+      "ponudeni": [
+        "nemoj",
+        "ne moj",
+        "nisi",
+        "nema"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad nekoga upozoravamo ili mu nešto zabranjujemo, kažemo nemoj. Ta se riječ piše zajedno.",
+      "savjet": "Ivanu na nešto upozoravamo. Kojom riječju to činimo i kako se piše?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-058",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Jučer smo … tortu.“?",
+      "ponudeni": [
+        "je li",
+        "jesu li",
+        "jesmo li",
+        "jeli"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jeli je oblik glagola jesti i piše se zajedno: Jučer smo jeli tortu. Je li s riječcom li pišemo samo u pitanjima.",
+      "savjet": "Je li ova rečenica pitanje? Što smo jučer radili s tortom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-059",
+      "tezina": "srednje",
+      "pitanje": "Kako ispravno počinje pitanje „… netko gumicu?“",
+      "ponudeni": [
+        "Ima li",
+        "Imali",
+        "Li ima",
+        "Imaš li"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pitanje počinje glagolom ima, a iza njega odvojeno dolazi li: Ima li netko gumicu?",
+      "savjet": "Pazi da riječca li bude posebna riječ i da glagol odgovara riječi netko."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-060",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ ispravno popunjava rečenicu „Mi … u parku, nego u dvorištu.“?",
+      "ponudeni": [
+        "ne smo",
+        "nemamo",
+        "nećemo",
+        "nismo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ovdje treba niječni oblik od smo, a to je nismo. Piše se zajedno.",
+      "savjet": "Kako bi rečenica glasila bez niječnice? Od toga napravi niječni oblik."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-061",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica napisana bez pogreške?",
+      "ponudeni": [
+        "Ne mam olovku pa ne mogu pisati.",
+        "Nemam olovku pa ne mogu pisati.",
+        "Nemam olovku pa nemogu pisati.",
+        "Ne mam olovku pa nemogu pisati."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nemam se piše zajedno jer je iznimka, a ne mogu odvojeno jer glagol moći nije iznimka.",
+      "savjet": "Provjeri oba mjesta s niječnicom. Je li svaki od tih glagola iznimka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-062",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici pogreška?",
+      "ponudeni": [
+        "Jučer smo jeli kolače.",
+        "Je li ovo tvoj kolač?",
+        "Jeli kolač ukusan?",
+        "Djeca su jela kolače."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U pitanju „Je li kolač ukusan?“ riječca li piše se odvojeno. Jeli zajedno pišemo samo kad je to oblik glagola jesti.",
+      "savjet": "U svakoj rečenici odluči govori li se o jedenju ili se postavlja pitanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-063",
+      "tezina": "tesko",
+      "pitanje": "Koji je zapis napisan bez pogreške?",
+      "ponudeni": [
+        "Ne sam umoran. Možemo li se igrati?",
+        "Nisam umoran. Možemoli se igrati?",
+        "Ne sam umoran. Možemoli se igrati?",
+        "Nisam umoran. Možemo li se igrati?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nisam se piše zajedno jer je iznimka, a riječca li uvijek se piše odvojeno: Možemo li.",
+      "savjet": "Ovdje su dva pravila: jedno za niječnicu, drugo za riječcu li. Provjeri oba."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-064",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u rečenici „Jeli smo jabuke.“ riječ jeli piše zajedno?",
+      "ponudeni": [
+        "Jer je to oblik glagola jesti, a ne riječca li.",
+        "Jer se riječca li piše zajedno s riječju je.",
+        "Jer stoji na početku rečenice.",
+        "Jer je jeli imenica."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jeli dolazi od glagola jesti (jeli smo, jeli ste) i zato je jedna riječ. Riječca li uvijek se piše odvojeno.",
+      "savjet": "Pitaš li nešto u toj rečenici ili pričaš što se dogodilo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-065",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ pogrešno napisana u rečenici „Ja neznam gdje je škola.“?",
+      "ponudeni": [
+        "Ja",
+        "neznam",
+        "gdje",
+        "škola"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glagol znati nije iznimka pa se ne piše odvojeno: Ja ne znam gdje je škola.",
+      "savjet": "Potraži riječ u kojoj se krije niječnica i provjeri pravilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-066",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ pogrešno napisana u rečenici „Nemoj vikati, beba nespava.“?",
+      "ponudeni": [
+        "Nemoj",
+        "vikati",
+        "beba",
+        "nespava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nemoj je iznimka i piše se zajedno, ali spavati nije pa treba pisati: beba ne spava.",
+      "savjet": "U rečenici su dvije riječi s niječnicom. Je li svaka od njih iznimka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-067",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici niječnica napisana pogrešno?",
+      "ponudeni": [
+        "Nisu došli na vrijeme.",
+        "Neću ti reći tajnu.",
+        "Neigramo se vani.",
+        "Nemamo kruha."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nisu, neću i nemamo su iznimke, ali glagol igrati nije pa treba pisati: Ne igramo se vani.",
+      "savjet": "Sjeti se četiri glagola kod kojih se ne piše zajedno. Koja rečenica nema takav glagol?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-068",
+      "tezina": "tesko",
+      "pitanje": "Ema je napisala: „Hoćešli se igrati?“ Što treba ispraviti?",
+      "ponudeni": [
+        "Riječ hoćeš treba napisati kao neću.",
+        "Upitnik treba zamijeniti točkom.",
+        "Riječcu li treba napisati odvojeno.",
+        "Riječ se treba premjestiti na kraj pitanja."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječca li piše se odvojeno od glagola: Hoćeš li se igrati?",
+      "savjet": "Pogledaj prvu riječ u pitanju. Koliko se riječi u njoj krije?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-069",
+      "tezina": "tesko",
+      "pitanje": "Koji je zapis pitanja o Marku i odgovora napisan bez pogreške?",
+      "ponudeni": [
+        "Je li Marko kod kuće? Ne znam.",
+        "Jeli Marko kod kuće? Ne znam.",
+        "Je li Marko kod kuće? Neznam.",
+        "Jeli Marko kod kuće? Neznam."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U pitanju se je li piše odvojeno, a ne znam također odvojeno jer znati nije iznimka.",
+      "savjet": "Provjeri pitanje i odgovor posebno: jedno je pravilo za li, a drugo za ne."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-070",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu sve riječi ispravno napisane?",
+      "ponudeni": [
+        "nemam, nisam, neznam",
+        "nemam, nevolim, neću",
+        "nemogu, nisam, neću",
+        "nemam, nisam, neću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nemam, nisam i neću su iznimke i pišu se zajedno. Ne znam, ne volim i ne mogu pišu se odvojeno.",
+      "savjet": "Provjeri svaku riječ u nizu: je li to jedna od iznimaka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-071",
+      "tezina": "tesko",
+      "pitanje": "U kojem su nizu svi izrazi ispravno napisani?",
+      "ponudeni": [
+        "znaš li, hoćešli, imaš li",
+        "znaš li, hoćeš li, imaš li",
+        "znašli, hoćeš li, imaš li",
+        "znaš li, hoćeš li, imašli"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječca li uvijek se piše odvojeno: znaš li, hoćeš li, imaš li.",
+      "savjet": "Pregledaj svaki izraz u nizu, jedna pogreška kvari cijeli niz."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-072",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o pisanju niječnice ne uz glagole točna?",
+      "ponudeni": [
+        "Uz glagole se piše zajedno.",
+        "Uz glagole se piše odvojeno, bez iznimke.",
+        "Piše se odvojeno, osim u nemam, nisam, neću i nemoj.",
+        "Piše se zajedno samo na početku rečenice."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Niječnica ne uz glagole piše se odvojeno, a iznimke su nemam, nisam, neću i nemoj.",
+      "savjet": "Sjeti se pravila, ali i riječi koje se ne ponašaju po njemu."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-073",
+      "tezina": "tesko",
+      "pitanje": "Lea je napisala: „Ne mam vremena pa ne mogu doći.“ Koji je dio pogrešno napisan?",
+      "ponudeni": [
+        "Ne mam",
+        "vremena",
+        "ne mogu",
+        "doći"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nemam se piše zajedno jer je iznimka, a ne mogu je ispravno napisano odvojeno.",
+      "savjet": "U rečenici su dva glagola s niječnicom. Koji je od njih iznimka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-074",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici riječca li napisana pogrešno?",
+      "ponudeni": [
+        "Voliš li jagode?",
+        "Smijemli uzeti jabuku?",
+        "Ima li mjesta?",
+        "Idemo li sutra?"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječca li piše se odvojeno: Smijem li uzeti jabuku?",
+      "savjet": "Potraži pitanje u kojem li nije posebna riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-075",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je od ovih rečenica pogreška?",
+      "ponudeni": [
+        "Imali smo lijep dan.",
+        "Ima li tko škare?",
+        "Jesmo li gotovi?",
+        "Imali tko ljepilo?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U pitanju se piše odvojeno: Ima li tko ljepilo? Imali zajedno pišemo kad kažemo što smo imali: Imali smo lijep dan.",
+      "savjet": "Odluči u svakoj rečenici je li riječ o pitanju ili o onome što se dogodilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-076",
+      "tezina": "tesko",
+      "pitanje": "Zašto se niječnica u zabranama „Nemoj trčati!“ i „Ne trči!“ piše različito?",
+      "ponudeni": [
+        "Jer se niječnica uz zapovijedi piše zajedno.",
+        "Jer je nemoj iznimka koja se piše zajedno.",
+        "Jer je nemoj imenica, a trči glagol.",
+        "Jer nemoj stoji na početku rečenice."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nemoj je jedna od iznimaka i piše se zajedno. Uz glagol trčati ne se piše odvojeno: Ne trči!",
+      "savjet": "Obje su rečenice zabrane i obje počinju s ne. Što je onda posebno kod jedne od njih?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-077",
+      "tezina": "tesko",
+      "pitanje": "Koliko je pogrešaka u rečenici „Neznam, nemam vremena i nemogu doći.“?",
+      "ponudeni": [
+        "Jedna",
+        "Tri",
+        "Nijedna",
+        "Dvije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pogrešno su napisani neznam i nemogu (treba ne znam, ne mogu). Nemam je ispravno jer je iznimka.",
+      "savjet": "Provjeri svaku riječ s niječnicom posebno i prebroji pogreške."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-078",
+      "tezina": "tesko",
+      "pitanje": "Koja je zabrana napisana bez pogreške?",
+      "ponudeni": [
+        "Ne mojte se bojati, pas ne grize.",
+        "Nemojte se bojati, pas negrize.",
+        "Nemojte se bojati, pas ne grize.",
+        "Ne mojte se bojati, pas negrize."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nemojte se piše zajedno kao i nemoj, a ne grize odvojeno jer glagol gristi nije iznimka.",
+      "savjet": "Dva su mjesta s niječnicom. Provjeri je li svaki od tih glagola iznimka."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-079",
+      "tezina": "tesko",
+      "pitanje": "Koji je zapis pitanja i odgovora napisan bez pogreške?",
+      "ponudeni": [
+        "Je li ti hladno? Nije.",
+        "Jeli ti hladno? Nije.",
+        "Je li ti hladno? Ne je.",
+        "Jeli ti hladno? Ne je."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U pitanju se je li piše odvojeno, a u odgovoru nije zajedno jer je niječni oblik glagola biti.",
+      "savjet": "Pitanje provjeri po pravilu za riječcu li, a odgovor po pravilu za niječnicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u pitanju „Znaš li pjesmu?“ riječca li piše odvojeno?",
+      "ponudeni": [
+        "Jer je li dio glagola znati.",
+        "Jer li zamjenjuje niječnicu ne.",
+        "Jer se li odvaja samo iza imenica.",
+        "Jer je li posebna riječ, riječca."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Li je posebna riječ, riječca, pa se piše odvojeno od riječi ispred sebe.",
+      "savjet": "Sjeti se što je li: dio neke riječi ili zasebna riječ?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-081",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica ispravno napisana i znači isto što i „Ja ne želim ići.“?",
+      "ponudeni": [
+        "Ja nećem ići.",
+        "Ja ne hoću ići.",
+        "Ja neću ići.",
+        "Ja neču ići."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Suprotno od hoću je neću. Piše se zajedno i sa slovom ć: Ja neću ići.",
+      "savjet": "Koja riječ znači isto što i „ne želim“? Pazi kako se piše."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-082",
+      "tezina": "tesko",
+      "pitanje": "Ana je napisala: „Ne, nisam bila tamo i neznam tko je to.“ Koja je riječ pogrešno napisana?",
+      "ponudeni": [
+        "Ne",
+        "nisam",
+        "neznam",
+        "tko"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nisam je ispravno jer je iznimka, a ne znam treba pisati odvojeno.",
+      "savjet": "U rečenici su dvije riječi s niječnicom. Je li svaka od njih iznimka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-083",
+      "tezina": "tesko",
+      "pitanje": "Koji je kratki razgovor napisan bez pogreške?",
+      "ponudeni": [
+        "Hoćešli doći? Ne sam siguran.",
+        "Hoćeš li doći? Ne sam siguran.",
+        "Hoćešli doći? Nisam siguran.",
+        "Hoćeš li doći? Nisam siguran."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječca li piše se odvojeno: Hoćeš li. Nisam se piše zajedno jer je iznimka.",
+      "savjet": "Provjeri posebno pitanje, a posebno odgovor."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-084",
+      "tezina": "tesko",
+      "pitanje": "Kako treba ispravno napisati pitanje „Jesili vidio moju loptu?“",
+      "ponudeni": [
+        "Jesi li vidio moju loptu?",
+        "Jesi vidio li moju loptu?",
+        "Li jesi vidio moju loptu?",
+        "Jesi li vidio moju loptu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječca li piše se odvojeno i stoji iza jesi, a na kraju pitanja dolazi upitnik.",
+      "savjet": "Pazi na tri stvari: je li li odvojen, gdje stoji i koji je znak na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-085",
+      "tezina": "tesko",
+      "pitanje": "Kako treba ispraviti rečenicu „Mi ne smo krivi.“?",
+      "ponudeni": [
+        "Mi nesmo krivi.",
+        "Mi nismo krivi.",
+        "Mi nijesmo krivi.",
+        "Mi ni smo krivi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Niječni oblik od smo je nismo i piše se zajedno: Mi nismo krivi.",
+      "savjet": "Sjeti se kako glase niječni oblici glagola biti: nisam, nisi, nije…"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-086",
+      "tezina": "tesko",
+      "pitanje": "U kojem su paru obje rečenice napisane bez pogreške?",
+      "ponudeni": [
+        "Jeli smo ribu. Je li riba svježa?",
+        "Je li smo ribu. Je li riba svježa?",
+        "Jeli smo ribu. Jeli riba svježa?",
+        "Je li smo ribu. Jeli riba svježa?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jeli smo (od glagola jesti) piše se zajedno, a u pitanju je li odvojeno.",
+      "savjet": "U kojoj se rečenici govori o jedenju, a u kojoj se nešto pita?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-087",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko riječima nemam, nisam, neću i nemoj?",
+      "ponudeni": [
+        "Sve su imenice.",
+        "Pišu se odvojeno od niječnice.",
+        "Pišu se kao jedna riječ iako sadrže niječnicu.",
+        "Sve su pitanja s riječcom li."
+      ],
+      "tocan": 2,
+      "objasnjenje": "To su iznimke: u njima je niječnica ne spojena s glagolom u jednu riječ.",
+      "savjet": "Pogledaj kako su te riječi napisane i usporedi ih s „ne znam“."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-088",
+      "tezina": "tesko",
+      "pitanje": "Koje je pitanje napisano bez pogreške?",
+      "ponudeni": [
+        "Ne maš li olovku?",
+        "Nemašli olovku?",
+        "Ne mašli olovku?",
+        "Nemaš li olovku?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Nemaš se piše zajedno jer je iznimka, a riječca li odvojeno: Nemaš li olovku?",
+      "savjet": "U pitanju su niječnica i riječca li. Za svaku se sjeti pravila."
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-089",
+      "tezina": "tesko",
+      "pitanje": "Koje je od ovih pitanja napisano bez pogreške?",
+      "ponudeni": [
+        "Ne znaš li odgovor?",
+        "Neznaš li odgovor?",
+        "Ne znašli odgovor?",
+        "Neznašli odgovor?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ne znaš piše se odvojeno jer znati nije iznimka, a riječca li također odvojeno.",
+      "savjet": "Je li glagol znati iznimka? Kako se piše riječca li?"
+    },
+    {
+      "id": "4-hrvatski-jezik-nijecnice-i-rijecca-li-090",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ ispravno popunjava obje rečenice: „Ja … kod kuće.“ i „Ja … bolestan.“?",
+      "ponudeni": [
+        "ne sam",
+        "nisam",
+        "nemam",
+        "neću"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U obje rečenice treba niječni oblik glagola biti, a to je nisam. Piše se zajedno.",
+      "savjet": "Uvrsti riječ u obje rečenice. Mora imati smisla i biti ispravno napisana u obje."
+    }
+  ]
+}

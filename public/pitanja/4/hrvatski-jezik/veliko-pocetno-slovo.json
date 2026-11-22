@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "veliko-pocetno-slovo",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-001",
+      "tezina": "lagano",
+      "pitanje": "U kojem je primjeru ime države napisano ispravno?",
+      "ponudeni": [
+        "Italija",
+        "slovenija",
+        "austrija",
+        "mađarska"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imena država pišu se velikim početnim slovom: Italija, Slovenija, Austrija, Mađarska.",
+      "savjet": "Ime države vlastito je ime. Kakvim slovom počinju vlastita imena?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-002",
+      "tezina": "lagano",
+      "pitanje": "U kojem je primjeru ime grada napisano ispravno?",
+      "ponudeni": [
+        "pula",
+        "Varaždin",
+        "karlovac",
+        "šibenik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Imena gradova pišu se velikim početnim slovom: Pula, Varaždin, Karlovac, Šibenik.",
+      "savjet": "Pogledaj prvo slovo svakog imena grada."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-003",
+      "tezina": "lagano",
+      "pitanje": "Koju od ovih riječi treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "planina",
+        "selo",
+        "zagreb",
+        "ulica"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zagreb je ime grada, a imena gradova pišu se velikim početnim slovom. Ostale su riječi opće imenice.",
+      "savjet": "Potraži riječ koja je ime samo jednog određenog mjesta."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-004",
+      "tezina": "lagano",
+      "pitanje": "U kojem je primjeru ime rijeke napisano ispravno?",
+      "ponudeni": [
+        "rijeka sava",
+        "rijeka kupa",
+        "rijeka neretva",
+        "rijeka Drava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ime rijeke piše se velikim slovom (Drava), a riječ „rijeka“ malim jer je opća imenica.",
+      "savjet": "Riječ „rijeka“ opća je imenica. Koji dio primjera je vlastito ime?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-005",
+      "tezina": "lagano",
+      "pitanje": "U kojem je primjeru ime planine napisano ispravno?",
+      "ponudeni": [
+        "planina učka",
+        "planina Papuk",
+        "planina biokovo",
+        "planina medvednica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ime planine piše se velikim slovom (Papuk), a riječ „planina“ malim jer je opća imenica.",
+      "savjet": "Sjeti se da se imena gora pišu kao i ostala vlastita imena."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-006",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici riječ nastala od imena Split napisana ispravno?",
+      "ponudeni": [
+        "Ana je splićanka.",
+        "Ovo je Splitska riva.",
+        "Ivan je Splićanin.",
+        "Volim Splitske ulice."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ime stanovnika piše se velikim slovom (Splićanin, Splićanka), a pridjev malim (splitska riva, splitske ulice).",
+      "savjet": "Razlikuj ime stanovnika od pridjeva koji opisuje neku stvar."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-007",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici ime naroda napisano ispravno?",
+      "ponudeni": [
+        "Mama je hrvatica.",
+        "Moj susjed je nijemac.",
+        "Mađari žive u mađarskoj.",
+        "Talijani vole tjesteninu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Imena naroda pišu se velikim početnim slovom: Talijani, Hrvatica, Nijemac, Mađari. I ime države Mađarska piše se velikim slovom.",
+      "savjet": "Imena naroda vlastita su imena. Provjeri svaku riječ koja označava narod ili državu."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-008",
+      "tezina": "lagano",
+      "pitanje": "Koji je naziv ulice napisan ispravno?",
+      "ponudeni": [
+        "Ulica kralja Tomislava",
+        "ulica Ivana Gundulića",
+        "Vukovarska Ulica",
+        "Školska Ulica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U nazivu ulice prva se riječ piše velikim slovom, a ostale malim, osim osobnih imena: Ulica kralja Tomislava.",
+      "savjet": "Sjeti se: u nazivu ulice velika je prva riječ i osobno ime."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-009",
+      "tezina": "lagano",
+      "pitanje": "Koji je naziv trga napisan ispravno?",
+      "ponudeni": [
+        "trg Stjepana Radića",
+        "Cvjetni Trg",
+        "Trg bana Jelačića",
+        "Trg Petra preradovića"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U nazivu trga prva se riječ piše velikim slovom, ostale malim, a osobna imena i prezimena velikim: Trg bana Jelačića.",
+      "savjet": "Provjeri prvu riječ naziva i svako ime i prezime u njemu."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-010",
+      "tezina": "lagano",
+      "pitanje": "Koji je naziv kraja u Hrvatskoj napisan ispravno?",
+      "ponudeni": [
+        "slavonija",
+        "istra",
+        "dalmacija",
+        "Lika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Imena krajeva (geografskih cjelina) pišu se velikim početnim slovom: Lika, Slavonija, Istra, Dalmacija.",
+      "savjet": "Ime kraja vlastito je ime, kao i ime grada."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-011",
+      "tezina": "lagano",
+      "pitanje": "Koji je naziv ustanove napisan ispravno?",
+      "ponudeni": [
+        "Dječji Vrtić Maslačak",
+        "Osnovna škola Vladimira Nazora",
+        "Hrvatsko Narodno Kazalište",
+        "osnovna škola Ivana Mažuranića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U nazivu ustanove velikim se slovom piše prva riječ i vlastita imena u njemu: Osnovna škola Vladimira Nazora.",
+      "savjet": "U nazivu ustanove pogledaj prvu riječ i ima li u nazivu nečije ime."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-012",
+      "tezina": "lagano",
+      "pitanje": "Koja se od ovih riječi u sredini rečenice piše malim početnim slovom?",
+      "ponudeni": [
+        "Italija",
+        "Osijek",
+        "Dunav",
+        "Svibanj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Imena mjeseci pišu se malim slovom (svibanj), a imena država, gradova i rijeka velikim.",
+      "savjet": "Tri su riječi vlastita imena. Koja riječ nije ime države, grada ni rijeke?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-013",
+      "tezina": "lagano",
+      "pitanje": "Koju riječ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "ponedjeljak",
+        "proljeće",
+        "božić",
+        "siječanj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena blagdana pišu se velikim slovom (Božić), a dani u tjednu, godišnja doba i mjeseci malim.",
+      "savjet": "Potraži riječ koja je ime blagdana."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-014",
+      "tezina": "lagano",
+      "pitanje": "Zašto se riječ „Osijek“ piše velikim početnim slovom?",
+      "ponudeni": [
+        "Jer je to ime rijeke",
+        "Jer je to ime grada",
+        "Jer je to ime države",
+        "Jer je to ime planine"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Osijek je ime grada, a imena gradova pišu se velikim početnim slovom.",
+      "savjet": "Sjeti se što je Osijek: mjesto, voda ili gora?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-015",
+      "tezina": "lagano",
+      "pitanje": "U kojem je primjeru ime otoka napisano ispravno?",
+      "ponudeni": [
+        "otok Brač",
+        "otok krk",
+        "otok hvar",
+        "otok pag"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ime otoka piše se velikim slovom (Brač), a riječ „otok“ malim jer je opća imenica.",
+      "savjet": "Koji dio primjera je vlastito ime otoka?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-016",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici ime mora napisano ispravno?",
+      "ponudeni": [
+        "Brod plovi jadranskim morem.",
+        "Jadransko more je toplo.",
+        "Volim jadransko More.",
+        "Riba živi u jadranskom moru."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U imenu Jadransko more velikim se slovom piše „Jadransko“, a „more“ malim jer je opća imenica.",
+      "savjet": "Koja je riječ u imenu mora vlastito ime, a koja opća imenica?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-017",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih riječi ime vode pa se piše velikim početnim slovom?",
+      "ponudeni": [
+        "rijeka",
+        "more",
+        "jezero",
+        "dunav"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dunav je ime rijeke pa se piše velikim slovom. Rijeka, more i jezero opće su imenice.",
+      "savjet": "Potraži riječ koja je ime jedne određene vode."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-018",
+      "tezina": "lagano",
+      "pitanje": "Koja se riječ i u sredini rečenice piše velikim početnim slovom?",
+      "ponudeni": [
+        "Osječanin",
+        "Osječki",
+        "Ponedjeljak",
+        "Jezero"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Osječanin je ime stanovnika Osijeka pa se piše velikim slovom. Pridjev „osječki“, dan „ponedjeljak“ i imenica „jezero“ pišu se malim.",
+      "savjet": "Imena stanovnika pišu se velikim slovom. Koja riječ označava osobu iz nekog grada?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-019",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici naziv jezika napisan ispravno?",
+      "ponudeni": [
+        "Učimo Hrvatski jezik.",
+        "U školi učim engleski jezik.",
+        "Baka govori Talijanski.",
+        "Volim Njemački jezik."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nazivi jezika pišu se malim početnim slovom: hrvatski, engleski, talijanski, njemački jezik.",
+      "savjet": "Naziv jezika nije ime naroda. Kakvim se slovom piše?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-020",
+      "tezina": "lagano",
+      "pitanje": "Koje je ime grada napisano ispravno?",
+      "ponudeni": [
+        "Slavonski brod",
+        "nova Gradiška",
+        "Velika Gorica",
+        "donji Miholjac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad se ime grada sastoji od više riječi, sve se pišu velikim slovom: Velika Gorica, Slavonski Brod, Nova Gradiška, Donji Miholjac.",
+      "savjet": "U imenima gradova od dviju riječi provjeri obje riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-021",
+      "tezina": "lagano",
+      "pitanje": "U kojem je primjeru ime jezera napisano ispravno?",
+      "ponudeni": [
+        "Vransko jezero",
+        "plitvička jezera",
+        "jezero jarun",
+        "Prošćansko Jezero"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U imenu jezera velikim se slovom piše vlastiti dio imena (Vransko), a riječ „jezero“ malim.",
+      "savjet": "Riječ „jezero“ opća je imenica. Što se piše velikim slovom?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-022",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici ime grada napisano ispravno?",
+      "ponudeni": [
+        "Teta živi u osijeku.",
+        "Idemo u dubrovnik.",
+        "Djed živi u varaždinu.",
+        "Ljeto provodim u Zadru."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ime grada piše se velikim slovom i kad je u sredini rečenice: u Zadru, u Osijeku, u Dubrovnik, u Varaždinu.",
+      "savjet": "Ime grada ostaje vlastito ime bez obzira na mjesto u rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-023",
+      "tezina": "lagano",
+      "pitanje": "Što se uvijek piše velikim početnim slovom?",
+      "ponudeni": [
+        "Naziv mjeseca u godini",
+        "Ime grada ili sela",
+        "Naziv dana u tjednu",
+        "Naziv godišnjeg doba"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Imena gradova i sela vlastita su imena pa se pišu velikim slovom. Mjeseci, dani i godišnja doba pišu se malim.",
+      "savjet": "Sjeti se kako pišeš „svibanj“, „utorak“ i „ljeto“ u sredini rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-024",
+      "tezina": "lagano",
+      "pitanje": "Koje je ime države napisano ispravno?",
+      "ponudeni": [
+        "njemačka",
+        "francuska",
+        "Republika Hrvatska",
+        "republika Slovenija"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena država pišu se velikim slovom. U službenom imenu Republika Hrvatska obje se riječi pišu velikim slovom.",
+      "savjet": "Provjeri prvo slovo svake riječi u imenu države."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-025",
+      "tezina": "lagano",
+      "pitanje": "Koje je ime stanovnika napisano ispravno?",
+      "ponudeni": [
+        "zadranka",
+        "puljanin",
+        "Dubrovčanin",
+        "šibenčanin"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena stanovnika pišu se velikim početnim slovom: Dubrovčanin, Zadranka, Puljanin, Šibenčanin.",
+      "savjet": "Ime stanovnika piše se istim početnim slovom kao i ime grada."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-026",
+      "tezina": "lagano",
+      "pitanje": "Koju od ovih riječi treba napisati velikim početnim slovom jer je ime rijeke?",
+      "ponudeni": [
+        "potok",
+        "izvor",
+        "obala",
+        "mura"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mura je ime rijeke pa se piše velikim slovom. Potok, izvor i obala opće su imenice.",
+      "savjet": "Tri riječi označavaju bilo koju vodu ili mjesto. Koja je ime jedne određene rijeke?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-027",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici sve napisano ispravno?",
+      "ponudeni": [
+        "Moj brat živi u Puli.",
+        "sestra ide u Rijeku.",
+        "Ana putuje u zadar.",
+        "djed voli Osijek."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica počinje velikim slovom, a i ime grada piše se velikim slovom: Moj brat živi u Puli.",
+      "savjet": "Provjeri početak rečenice i ime grada u njoj."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-028",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici riječ nastala od imena Hrvatska napisana ispravno?",
+      "ponudeni": [
+        "Govorim Hrvatski.",
+        "Volim Hrvatsku zastavu.",
+        "Pjevam Hrvatsku pjesmu.",
+        "Ja sam Hrvatica."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ime pripadnice naroda piše se velikim slovom (Hrvatica), a pridjev i naziv jezika malim (hrvatska zastava, govorim hrvatski).",
+      "savjet": "Velikim se slovom piše riječ koja označava osobu, a ne stvar ili jezik."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-029",
+      "tezina": "lagano",
+      "pitanje": "U kojoj su rečenici imena dana, mjeseci i gradova napisana ispravno?",
+      "ponudeni": [
+        "U Ponedjeljak idem na trening.",
+        "U subotu idemo u Split.",
+        "U Svibnju idemo na izlet.",
+        "Božić je u Prosincu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dani u tjednu i mjeseci pišu se malim slovom (subota, svibanj, prosinac), a imena gradova i blagdana velikim.",
+      "savjet": "Sjeti se kako se pišu imena dana i mjeseci."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-030",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici ime planine napisano ispravno?",
+      "ponudeni": [
+        "Penjali smo se na Učku.",
+        "Ljeti idemo na velebit.",
+        "Planinari se penju na dinaru.",
+        "Djed je bio na papuku."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imena planina pišu se velikim slovom i u sredini rečenice: Učka, Velebit, Dinara, Papuk.",
+      "savjet": "Potraži rečenicu u kojoj ime gore počinje kao vlastito ime."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-031",
+      "tezina": "srednje",
+      "pitanje": "Marko je iz Osijeka. Kako se naziva stanovnik Osijeka?",
+      "ponudeni": [
+        "Osijekanin",
+        "Osječanin",
+        "osjekanac",
+        "Osječki"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stanovnik Osijeka je Osječanin. Ime stanovnika piše se velikim slovom, a „osječki“ je pridjev i piše se malim.",
+      "savjet": "Sjeti se kako se naziva stanovnik Osijeka i kojim slovom počinje."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-032",
+      "tezina": "srednje",
+      "pitanje": "Kako se naziva stanovnik Splita?",
+      "ponudeni": [
+        "Splitčanin",
+        "Splitanin",
+        "Splićanin",
+        "splićanac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stanovnik Splita je Splićanin. Imena stanovnika pišu se velikim početnim slovom.",
+      "savjet": "Izgovori naglas ime stanovnika Splita i pazi na početno slovo."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-033",
+      "tezina": "srednje",
+      "pitanje": "Kako se naziva stanovnica Rijeke?",
+      "ponudeni": [
+        "Riječanka",
+        "Rijekanka",
+        "Rječanka",
+        "riječanica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stanovnica Rijeke je Riječanka, a stanovnik Riječanin. Imena stanovnika pišu se velikim slovom.",
+      "savjet": "Sjeti se kako se zove stanovnik Rijeke, pa od toga načini ženski oblik."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-034",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu riječju nastalom od imena Zagreb: „Volim šetati ___ ulicama.“",
+      "ponudeni": [
+        "Zagrebškim",
+        "zagrebačkim",
+        "Zagrebskim",
+        "zagrepskim"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pridjev od imena Zagreb je „zagrebački“. Pridjevi nastali od imena gradova pišu se malim slovom.",
+      "savjet": "Riječ koja nedostaje opisuje ulice. Kako se pišu takvi pridjevi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-035",
+      "tezina": "srednje",
+      "pitanje": "Kako se naziva stanovnik Dalmacije?",
+      "ponudeni": [
+        "Dalmacijanac",
+        "Dalmatinjanin",
+        "Dalmatinski",
+        "Dalmatinac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stanovnik Dalmacije je Dalmatinac i piše se velikim slovom. „Dalmatinski“ je pridjev i piše se malim slovom.",
+      "savjet": "Potraži riječ koja označava osobu, a ne opisuje stvar."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-036",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici pridjev nastao od imena grada napisan ispravno?",
+      "ponudeni": [
+        "Volimo varaždinske ulice.",
+        "Gledali smo Šibensku katedralu.",
+        "Kupili smo Zadarske smokve.",
+        "Posjetili smo Riječku luku."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pridjevi nastali od imena gradova pišu se malim slovom: varaždinske, šibensku, zadarske, riječku.",
+      "savjet": "Pridjev nije ime grada, nego opisuje nešto iz tog grada."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-037",
+      "tezina": "srednje",
+      "pitanje": "Koje riječi u nazivu kraja „hrvatsko zagorje“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "Obje riječi",
+        "Samo prvu riječ",
+        "Samo drugu riječ",
+        "Nijednu riječ"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Piše se Hrvatsko zagorje: prva je riječ velika, a druga mala.",
+      "savjet": "Sjeti se kako se piše Gorski kotar ili Hrvatsko primorje."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-038",
+      "tezina": "srednje",
+      "pitanje": "U nazivu „osnovna škola ivana gorana kovačića“ jedna se riječ piše malim početnim slovom. Koja?",
+      "ponudeni": [
+        "osnovna",
+        "ivana",
+        "škola",
+        "kovačića"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Piše se Osnovna škola Ivana Gorana Kovačića: velika je prva riječ te ime i prezime, a „škola“ je mala.",
+      "savjet": "U nazivu ustanove velika je prva riječ i osobno ime. Što ostaje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-039",
+      "tezina": "srednje",
+      "pitanje": "Koliko riječi u imenu grada „biograd na moru“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "Dvije",
+        "Jednu",
+        "Tri",
+        "Nijednu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Piše se Biograd na Moru. U imenu grada sve se riječi pišu velikim slovom, osim prijedloga.",
+      "savjet": "Pronađi prijedlog u imenu grada. Kakvim se slovom on piše?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-040",
+      "tezina": "srednje",
+      "pitanje": "Koje riječi u nazivu „ulica grada vukovara“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "Prvu i treću riječ",
+        "Samo prvu riječ",
+        "Prvu i drugu riječ",
+        "Sve tri riječi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Piše se Ulica grada Vukovara: velika je prva riječ i ime grada, a „grada“ je opća imenica.",
+      "savjet": "Velika je prva riječ naziva ulice. Ima li u nazivu još neko vlastito ime?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-041",
+      "tezina": "srednje",
+      "pitanje": "Koje je ime države od više riječi napisano ispravno?",
+      "ponudeni": [
+        "Crna gora",
+        "republika Hrvatska",
+        "njemačka",
+        "Bosna i Hercegovina"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U imenima država sve se riječi pišu velikim slovom, osim veznika „i“: Bosna i Hercegovina, Crna Gora, Republika Hrvatska.",
+      "savjet": "U imenu države od više riječi pogledaj svaku riječ. Koja je riječ samo veznik?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-042",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici ime rijeke napisano ispravno?",
+      "ponudeni": [
+        "Kroz Zagreb teče rijeka sava.",
+        "Kroz Osijek teče rijeka Drava.",
+        "Kroz Karlovac teče Rijeka Kupa.",
+        "Kroz Sisak teče Rijeka kupa."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ime rijeke piše se velikim slovom, a riječ „rijeka“ u sredini rečenice malim: rijeka Drava.",
+      "savjet": "Provjeri dvije riječi: opću imenicu „rijeka“ i ime rijeke."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-043",
+      "tezina": "srednje",
+      "pitanje": "U kojoj su rečenici ime planine i opća imenica napisani ispravno?",
+      "ponudeni": [
+        "Velebit je velika planina.",
+        "Iznad Splita je planina mosor.",
+        "Iznad Makarske je Planina Biokovo.",
+        "Na Medvednici je vrh sljeme."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imena planina i vrhova pišu se velikim slovom (Velebit, Mosor, Sljeme), a riječi „planina“ i „vrh“ malim.",
+      "savjet": "Opće imenice „planina“ i „vrh“ u sredini rečenice pišu se malim slovom."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-044",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici naziv trga napisan ispravno?",
+      "ponudeni": [
+        "Sastali smo se na trgu bana Jelačića.",
+        "Šetali smo Trgom Bana Jelačića.",
+        "Na Trgu bana Jelačića stoji kip.",
+        "Na trgu Bana jelačića je fontana."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Naziv trga piše se Trg bana Jelačića: prva je riječ velika, „bana“ je mala, a prezime veliko.",
+      "savjet": "Riječ „trg“ prva je riječ naziva i piše se velikim slovom u svakom obliku."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-045",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici naziv ulice napisan ispravno?",
+      "ponudeni": [
+        "Stanujem u vukovarskoj ulici.",
+        "Škola je u Vukovarskoj Ulici.",
+        "Pekara je u vukovarskoj Ulici.",
+        "Knjižnica je u Vukovarskoj ulici."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U nazivu Vukovarska ulica prva se riječ piše velikim, a riječ „ulica“ malim slovom.",
+      "savjet": "Koja je riječ prva u nazivu ove ulice?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-046",
+      "tezina": "srednje",
+      "pitanje": "Kako se ispravno pišu ime stanovnika i pridjev nastali od imena grada Zadra?",
+      "ponudeni": [
+        "Zadranin i zadarski",
+        "Zadarac i Zadarski",
+        "zadranin i zadranski",
+        "Zadranin i zadrski"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stanovnik Zadra je Zadranin i piše se velikim slovom, a pridjev „zadarski“ piše se malim slovom.",
+      "savjet": "Ime stanovnika i pridjev ne pišu se istim početnim slovom."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-047",
+      "tezina": "srednje",
+      "pitanje": "U kojoj su rečenici ime naroda i naziv jezika napisani ispravno?",
+      "ponudeni": [
+        "Talijani govore Talijanski jezik.",
+        "Slovenci govore Slovenski jezik.",
+        "Nijemci govore njemački jezik.",
+        "mađari govore mađarski jezik."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena naroda pišu se velikim slovom (Nijemci), a nazivi jezika malim (njemački jezik).",
+      "savjet": "Razlikuj ime naroda od naziva jezika."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-048",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici naziv jezera napisan ispravno?",
+      "ponudeni": [
+        "Plitvička jezera su nacionalni park.",
+        "Posjetili smo plitvička jezera.",
+        "Šetali smo uz Plitvička Jezera.",
+        "Slikali smo plitvička Jezera."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Piše se Plitvička jezera: vlastiti dio imena velikim slovom, a opća imenica „jezera“ malim.",
+      "savjet": "Koja je riječ vlastito ime, a koja opća imenica?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-049",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici naziv ustanove napisan ispravno?",
+      "ponudeni": [
+        "Posudili smo knjigu u gradskoj Knjižnici.",
+        "Moj brat ide u Dječji Vrtić Maslačak.",
+        "Idem u Osnovnu Školu Antuna Mihanovića.",
+        "Gledali smo predstavu u Hrvatskom narodnom kazalištu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U nazivu ustanove velika je prva riječ, a ostale male, osim vlastitih imena: Hrvatsko narodno kazalište.",
+      "savjet": "U nazivu ustanove pogledaj prvu riječ i ima li vlastitih imena."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-050",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu: „Lucija je rođena u Hrvatskoj. Ona je ___.“",
+      "ponudeni": [
+        "Hrvatkinja",
+        "Hrvatica",
+        "Hrvatkica",
+        "Hrvatska"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripadnica hrvatskog naroda je Hrvatica. Imena pripadnika naroda pišu se velikim slovom.",
+      "savjet": "Sjeti se kako se zove pripadnik hrvatskog naroda, pa načini ženski oblik."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-051",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici ime grada od dviju riječi napisano ispravno?",
+      "ponudeni": [
+        "Teta živi u Slavonskom brodu.",
+        "Ujak živi u Velikoj Gorici.",
+        "Baka živi u novoj Gradiški.",
+        "Djed živi u donjem Miholjcu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U imenima gradova od više riječi sve se riječi pišu velikim slovom, i kad se mijenjaju: u Velikoj Gorici.",
+      "savjet": "Kad ime grada ima dvije riječi, provjeri prvo slovo obiju."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-052",
+      "tezina": "srednje",
+      "pitanje": "U kojoj su rečenici imena blagdana i mjeseci napisana ispravno?",
+      "ponudeni": [
+        "Za uskrs bojimo jaja.",
+        "U Prosincu slavimo Božić.",
+        "Za Božić kitimo bor.",
+        "Doček nove Godine je veseo."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena blagdana pišu se velikim slovom (Božić, Uskrs, Nova godina), a imena mjeseci malim (prosinac).",
+      "savjet": "Pazi na imena blagdana i na imena mjeseci."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-053",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici ime kraja napisano ispravno?",
+      "ponudeni": [
+        "Delnice su u gorskom kotaru.",
+        "Čakovec je u međimurju.",
+        "Pula je u Istri.",
+        "Gospić je u lici."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena krajeva pišu se velikim slovom i u sredini rečenice: u Istri, u Gorskom kotaru, u Međimurju, u Lici.",
+      "savjet": "Ime kraja vlastito je ime. Provjeri kako počinje u svakoj rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-054",
+      "tezina": "srednje",
+      "pitanje": "Koju riječ u rečenici „Ljeti idemo na otok brač.“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "Ljeti",
+        "idemo",
+        "otok",
+        "brač"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Brač je ime otoka pa se piše velikim slovom, a riječ „otok“ malim jer je opća imenica.",
+      "savjet": "Potraži riječ koja je ime jednog određenog mjesta."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-055",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu pridjevom nastalim od imena Istra: „Kupili smo ___ sir.“",
+      "ponudeni": [
+        "istrijski",
+        "istarski",
+        "Istranski",
+        "istrski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pridjev od imena Istra je „istarski“. Pridjevi nastali od imena krajeva pišu se malim slovom.",
+      "savjet": "Pridjev opisuje sir. Kakvim početnim slovom pišemo pridjeve od imena krajeva?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-056",
+      "tezina": "srednje",
+      "pitanje": "Dopuni rečenicu pridjevom nastalim od imena Dubrovnik: „Šetali smo ___ zidinama.“",
+      "ponudeni": [
+        "Dubrovničkim",
+        "dubrovniškim",
+        "Dubrovskim",
+        "dubrovačkim"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pridjev od imena Dubrovnik je „dubrovački“ i piše se malim slovom: dubrovačkim zidinama.",
+      "savjet": "Pridjevi od imena gradova pišu se malim slovom. Kako zvuči pridjev od Dubrovnika?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-057",
+      "tezina": "srednje",
+      "pitanje": "U kojem se nazivu velikim slovom piše samo prva riječ?",
+      "ponudeni": [
+        "velika gorica",
+        "hrvatsko narodno kazalište",
+        "bosna i hercegovina",
+        "novi vinodolski"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U nazivu ustanove velika je samo prva riječ: Hrvatsko narodno kazalište. Velika Gorica, Bosna i Hercegovina i Novi Vinodolski imaju dvije velike riječi.",
+      "savjet": "Razlikuj imena gradova i država od naziva ustanova."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-058",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici ime stanovnika napisano ispravno?",
+      "ponudeni": [
+        "Moj djed je zagorac.",
+        "Moja teta je slavonka.",
+        "Moja baka je Ličanka.",
+        "Moj ujak je međimurac."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena stanovnika krajeva pišu se velikim slovom: Ličanka, Zagorac, Slavonka, Međimurac.",
+      "savjet": "Ime stanovnika kraja piše se kao i ime samog kraja."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-059",
+      "tezina": "srednje",
+      "pitanje": "Koje riječi u imenu „jadransko more“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "Samo prvu riječ",
+        "Obje riječi",
+        "Samo drugu riječ",
+        "Nijednu riječ"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Piše se Jadransko more: vlastiti dio imena velikim slovom, a opća imenica „more“ malim.",
+      "savjet": "Koja je riječ u imenu opća imenica?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-060",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici naziv ulice s osobnim imenom napisan ispravno?",
+      "ponudeni": [
+        "Živimo u ulici Kralja Tomislava.",
+        "Škola je u Ulici Kralja tomislava.",
+        "Park je u ulici kralja tomislava.",
+        "Pekara je u Ulici kralja Tomislava."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Naziv ulice piše se Ulica kralja Tomislava: velika je prva riječ i ime, a „kralja“ je mala.",
+      "savjet": "U nazivu ulice velika je prva riječ i osobno ime."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-061",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici nema pogreške?",
+      "ponudeni": [
+        "Zagrepčani se kupaju na jarunu.",
+        "Kroz Osijek teče rijeka drava.",
+        "Kroz Zagreb teče rijeka Sava.",
+        "Splićani se kupaju u jadranskom moru."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena voda pišu se velikim slovom: Sava, Jarun, Drava, Jadransko more. Samo je rečenica o Savi bez pogreške.",
+      "savjet": "U svakoj rečenici pronađi ime vode i provjeri njegovo početno slovo."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-062",
+      "tezina": "tesko",
+      "pitanje": "Koju riječ u rečenici „Moj ujak je Osječanin i voli Osječke ulice.“ treba ispraviti?",
+      "ponudeni": [
+        "Moj",
+        "Osječanin",
+        "Osječke",
+        "ulice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Osječke“ je pridjev pa se piše malim slovom: osječke ulice. Osječanin je ime stanovnika i ostaje veliko.",
+      "savjet": "Jedna od riječi označava osobu, a druga opisuje ulice."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-063",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ pogrešno napisana u rečenici „U Slavonskom brodu živi puno Slavonaca.“?",
+      "ponudeni": [
+        "Slavonskom",
+        "brodu",
+        "Slavonaca",
+        "živi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ime grada je Slavonski Brod i obje se riječi pišu velikim slovom: u Slavonskom Brodu.",
+      "savjet": "Sjeti se pravila za imena gradova od dviju riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-064",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u nazivu „Ulica kralja Tomislava“ riječ „Tomislava“ piše velikim slovom?",
+      "ponudeni": [
+        "Jer je to osobno ime",
+        "Jer je to zadnja riječ naziva",
+        "Jer su u nazivu ulice sve riječi velike",
+        "Jer je to ime grada"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tomislav je osobno ime, a osobna imena pišu se velikim slovom i u nazivima ulica.",
+      "savjet": "Razmisli što riječ „Tomislav“ označava."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u nazivu „Ulica kralja Tomislava“ riječ „kralja“ piše malim slovom?",
+      "ponudeni": [
+        "Jer je kraća od ostalih riječi",
+        "Jer stoji ispred osobnog imena",
+        "Jer se svi nazivi ulica pišu malim slovom",
+        "Jer je opća imenica i nije prva riječ naziva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "„Kralj“ je opća imenica, a u nazivu ulice velikim se slovom piše samo prva riječ i vlastita imena.",
+      "savjet": "Je li „kralj“ nečije ime ili riječ koja može označavati mnoge osobe?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-066",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici sve riječi napisane ispravno?",
+      "ponudeni": [
+        "Talijani žive u italiji.",
+        "Mađari govore Mađarski.",
+        "Slovenci žive u Sloveniji.",
+        "nijemci žive u Njemačkoj."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Imena naroda i država pišu se velikim slovom (Slovenci, Slovenija), a nazivi jezika malim (mađarski).",
+      "savjet": "U svakoj rečenici provjeri početak, ime naroda, ime države i naziv jezika."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-067",
+      "tezina": "tesko",
+      "pitanje": "Ivana je napisala: „Idem u školu.“ Luka je napisao: „Idem u Osnovnu školu Antuna Mihanovića.“ Tko je napisao ispravno?",
+      "ponudeni": [
+        "Samo Ivana",
+        "Samo Luka",
+        "Oboje",
+        "Nitko"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ „škola“ sama je opća imenica i piše se malim slovom. Puni naziv ustanove počinje velikim slovom: Osnovna škola Antuna Mihanovića.",
+      "savjet": "Razlikuj opću imenicu od punog naziva ustanove."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-068",
+      "tezina": "tesko",
+      "pitanje": "Koliko riječi u rečenici „ana i ivan šeću ilicom u zagrebu.“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "Dvije",
+        "Tri",
+        "Četiri",
+        "Pet"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treba napisati: Ana i Ivan šeću Ilicom u Zagrebu. Velike su četiri riječi: Ana, Ivan, Ilicom i Zagrebu.",
+      "savjet": "Prebroji osobna imena, ime ulice i ime grada. Ne zaboravi početak rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-069",
+      "tezina": "tesko",
+      "pitanje": "Koliko riječi u rečenici „ljeti putujemo u dalmaciju na otok hvar.“ treba napisati velikim početnim slovom?",
+      "ponudeni": [
+        "Dvije",
+        "Tri",
+        "Četiri",
+        "Pet"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Treba napisati: Ljeti putujemo u Dalmaciju na otok Hvar. Velike su tri riječi, a „otok“ ostaje malo.",
+      "savjet": "Prebroji početak rečenice i vlastita imena. Je li „otok“ vlastito ime?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-070",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici imena gora, krajeva i gradova napisana bez pogreške?",
+      "ponudeni": [
+        "Medvednica je iznad Zagreba.",
+        "Na Učki je hladnije nego u istri.",
+        "Penjali smo se na planinu dinaru.",
+        "Biokovo je iznad makarske."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Imena gora, krajeva i gradova pišu se velikim slovom: Medvednica, Zagreb, Istra, Dinara, Makarska.",
+      "savjet": "U svakoj rečenici pronađi sva vlastita imena, ne samo prvo."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-071",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ pogrešno napisana u rečenici „Svake Subote idemo u Varaždin kod bake.“?",
+      "ponudeni": [
+        "Svake",
+        "Subote",
+        "Varaždin",
+        "bake"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dani u tjednu pišu se malim slovom: svake subote. Varaždin je ime grada i piše se velikim slovom.",
+      "savjet": "Koja riječ nije vlastito ime, a napisana je velikim slovom u sredini rečenice?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-072",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ pogrešno napisana u rečenici „Na satu Engleskog jezika učimo o Londonu.“?",
+      "ponudeni": [
+        "satu",
+        "Engleskog",
+        "jezika",
+        "Londonu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nazivi jezika pišu se malim slovom: engleskog jezika. London je ime grada i piše se velikim slovom.",
+      "savjet": "Sjeti se kako se pišu nazivi jezika, a kako imena gradova."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-073",
+      "tezina": "tesko",
+      "pitanje": "Sve se rečenice odnose na Karlovac. U kojoj nema pogreške?",
+      "ponudeni": [
+        "Moja mama je karlovčanka.",
+        "Volim Karlovačke mostove.",
+        "Kupa teče kroz karlovac.",
+        "Moj tata je Karlovčanin."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ime grada i ime stanovnika pišu se velikim slovom (Karlovac, Karlovčanin, Karlovčanka), a pridjev malim (karlovački).",
+      "savjet": "Razlikuj ime grada, ime stanovnika i pridjev."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-074",
+      "tezina": "tesko",
+      "pitanje": "Koliko riječi treba ispraviti da naziv „trg Petra preradovića“ bude ispravno napisan?",
+      "ponudeni": [
+        "Jednu",
+        "Dvije",
+        "Tri",
+        "Nijednu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ispravno je Trg Petra Preradovića: treba ispraviti prvu riječ „trg“ i prezime „preradovića“.",
+      "savjet": "Provjeri prvu riječ naziva i svako ime i prezime."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-075",
+      "tezina": "tesko",
+      "pitanje": "Koji je naziv napisan pogrešno?",
+      "ponudeni": [
+        "Bosna i Hercegovina",
+        "Crna Gora",
+        "Biograd na Moru",
+        "Slavonski brod"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ime grada je Slavonski Brod i obje se riječi pišu velikim slovom. Ostali su nazivi ispravni.",
+      "savjet": "U imenima država i gradova velike su sve riječi osim prijedloga i veznika."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-076",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici naziv ustanove napisan bez pogreške?",
+      "ponudeni": [
+        "Gledali smo predstavu u Hrvatskom Narodnom kazalištu.",
+        "Djeca idu u Osnovnu školu Vladimira Nazora.",
+        "Moja baka radi u Gradskoj Knjižnici.",
+        "Ljeti posjećujemo Zoološki Vrt grada Zagreba."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U nazivu ustanove velika je prva riječ i vlastita imena: Osnovna škola Vladimira Nazora. Ostale opće imenice pišu se malim slovom.",
+      "savjet": "U svakom nazivu provjeri riječi iza prve. Jesu li one vlastita imena?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto se riječ „more“ u imenu „Jadransko more“ piše malim slovom?",
+      "ponudeni": [
+        "Jer je opća imenica, a vlastiti dio imena je „Jadransko“",
+        "Jer je more manje od oceana",
+        "Jer se imena voda pišu malim slovom",
+        "Jer je to druga riječ u rečenici"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U imenima voda velikim se slovom piše vlastiti dio imena (Jadransko), a opća imenica „more“ malim.",
+      "savjet": "Razmisli koja riječ može označavati bilo koje more."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-078",
+      "tezina": "tesko",
+      "pitanje": "Zašto se u rečenici „Vozimo se zagrebačkim tramvajem.“ riječ „zagrebačkim“ piše malim slovom?",
+      "ponudeni": [
+        "Jer stoji u sredini rečenice",
+        "Jer je to ime stanovnika",
+        "Jer je to pridjev, a ne ime grada",
+        "Jer je tramvaj malen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "„Zagrebački“ je pridjev nastao od imena grada i piše se malim slovom. Ime grada Zagreb piše se velikim slovom.",
+      "savjet": "Što ta riječ radi u rečenici: imenuje grad ili opisuje tramvaj?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-079",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko riječima Zagrepčanin, Hrvat i Dalmatinac?",
+      "ponudeni": [
+        "Sve su pridjevi pa se pišu malim slovom",
+        "Sve su imena gradova",
+        "Sve su imena država",
+        "Sve označavaju stanovnike ili narod pa se pišu velikim slovom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zagrepčanin je stanovnik grada, Dalmatinac stanovnik kraja, a Hrvat pripadnik naroda. Takva imena pišu se velikim slovom.",
+      "savjet": "Razmisli označavaju li ove riječi mjesto, stvar ili osobu."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-080",
+      "tezina": "tesko",
+      "pitanje": "Ana je napisala: „Ljeto smo proveli u Biogradu Na Moru.“ Što treba ispraviti?",
+      "ponudeni": [
+        "„Na“ treba napisati malim slovom",
+        "„Moru“ treba napisati malim slovom",
+        "„Biogradu“ treba napisati malim slovom",
+        "„Ljeto“ treba napisati malim slovom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ime grada piše se Biograd na Moru: prijedlog „na“ piše se malim slovom, a ostale riječi velikim.",
+      "savjet": "Koja je riječ u imenu grada prijedlog?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-081",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici imena rijeka, krajeva i država napisana bez pogreške?",
+      "ponudeni": [
+        "Neretva teče kroz dalmaciju.",
+        "Drava teče kroz podravinu.",
+        "Dunav teče uz baranju.",
+        "Kupa teče uz granicu sa Slovenijom."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Imena rijeka, krajeva i država pišu se velikim slovom: Kupa, Slovenija, Dalmacija, Podravina, Baranja.",
+      "savjet": "U svakoj rečenici provjeri i ime rijeke i ime kraja ili države."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-082",
+      "tezina": "tesko",
+      "pitanje": "Koju riječ u rečenici „Stanujemo u Ulici Hrvatskih branitelja.“ treba ispraviti?",
+      "ponudeni": [
+        "Stanujemo",
+        "Ulici",
+        "Hrvatskih",
+        "branitelja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ispravno je Ulica hrvatskih branitelja: velika je samo prva riječ jer u nazivu nema osobnog imena.",
+      "savjet": "Je li u ovom nazivu ulice neko osobno ime ili ime mjesta?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-083",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici o blagdanima i mjesecima nema pogreške?",
+      "ponudeni": [
+        "Božić slavimo u Prosincu.",
+        "Na Uskrs bojimo jaja.",
+        "Nova Godina počinje u siječnju.",
+        "U Srpnju idemo u Split."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Imena blagdana pišu se velikim slovom (Uskrs, Božić, Nova godina), a mjeseci malim (prosinac, srpanj).",
+      "savjet": "U svakoj rečenici provjeri ime blagdana i ime mjeseca."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-084",
+      "tezina": "tesko",
+      "pitanje": "Luka je napisao „Hrvatsko Zagorje“. Što treba ispraviti?",
+      "ponudeni": [
+        "„Hrvatsko“ treba napisati malim slovom",
+        "Obje riječi treba napisati malim slovom",
+        "„Zagorje“ treba napisati malim slovom",
+        "Ništa, naziv je ispravan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Piše se Hrvatsko zagorje: prva je riječ velika, a druga mala.",
+      "savjet": "Sjeti se kako se piše Gorski kotar."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-085",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici ime države napisano bez pogreške?",
+      "ponudeni": [
+        "Sarajevo je u Bosni i Hercegovini.",
+        "Podgorica je u Crnoj gori.",
+        "Zagreb je glavni grad republike Hrvatske.",
+        "Ljubljana je u sloveniji."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U imenima država sve su riječi velike osim veznika: Bosna i Hercegovina, Crna Gora, Republika Hrvatska, Slovenija.",
+      "savjet": "Provjeri svaku riječ u imenu države, i kad ime ima više riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-086",
+      "tezina": "tesko",
+      "pitanje": "Mia je napisala: „Moj pas Rex i ja šetamo uz rijeku Savu.“ Je li pogriješila?",
+      "ponudeni": [
+        "Jest, „rijeku“ treba pisati velikim slovom",
+        "Jest, „Rex“ treba pisati malim slovom",
+        "Jest, „Savu“ treba pisati malim slovom",
+        "Nije, sve je napisano ispravno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ime životinje (Rex) i ime rijeke (Sava) pišu se velikim slovom, a opća imenica „rijeka“ malim.",
+      "savjet": "Provjeri koja je riječ vlastito ime, a koja opća imenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-087",
+      "tezina": "tesko",
+      "pitanje": "Koji je naziv napisan ispravno?",
+      "ponudeni": [
+        "Ulica Grada Vukovara",
+        "Trg Stjepana Radića",
+        "Frankopanska Ulica",
+        "trg Petra Preradovića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U nazivima ulica i trgova velika je prva riječ te imena i prezimena: Trg Stjepana Radića. Opće imenice pišu se malim slovom.",
+      "savjet": "Velika je prva riječ i vlastito ime. Što je s ostalim riječima?"
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-088",
+      "tezina": "tesko",
+      "pitanje": "Zašto se naziv „Hrvatsko narodno kazalište“ piše samo s jednim velikim slovom?",
+      "ponudeni": [
+        "U nazivu ustanove velika je prva riječ i vlastita imena",
+        "Jer je kazalište u Zagrebu",
+        "Jer su sve riječi pridjevi",
+        "Jer se nazivi ustanova pišu malim slovom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U nazivu ustanove velikim se slovom piše prva riječ i vlastita imena. U ovom nazivu nema vlastitih imena.",
+      "savjet": "Sjeti se kako se piše naziv tvoje škole."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je riječ pogrešno napisana u rečenici „Na izletu u Lici vidjeli smo Plitvička Jezera i Velebit.“?",
+      "ponudeni": [
+        "Lici",
+        "Plitvička",
+        "Velebit",
+        "Jezera"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Piše se Plitvička jezera: „jezera“ je opća imenica i piše se malim slovom. Lika i Velebit vlastita su imena.",
+      "savjet": "Pronađi opću imenicu koja je napisana kao vlastito ime."
+    },
+    {
+      "id": "4-hrvatski-jezik-veliko-pocetno-slovo-090",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici ime stanovnika i pridjev napisani bez pogreške?",
+      "ponudeni": [
+        "Ema je puljanka i voli Pulsku arenu.",
+        "Ivan je Šibenčanin i voli Šibenske ulice.",
+        "Luka je osječanin i voli osječki park.",
+        "Mia je Zadranka i voli zadarski sladoled."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ime stanovnika piše se velikim slovom (Zadranka), a pridjev nastao od imena grada malim (zadarski).",
+      "savjet": "U svakoj rečenici provjeri ime stanovnika i pridjev."
+    }
+  ]
+}
