@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "pjesnicke-slike-usporedba-onomatopeja",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-001",
+      "tezina": "lagano",
+      "pitanje": "Što je usporedba u pjesmi?",
+      "ponudeni": [
+        "Riječ koja oponaša neki zvuk",
+        "Jedan redak pjesme",
+        "Uspoređivanje dvaju bića ili stvari po nekoj sličnosti",
+        "Stih koji se u pjesmi ponavlja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Usporedba povezuje dva bića, stvari ili pojave koji su po nečemu slični, npr. „bijel kao snijeg“.",
+      "savjet": "Sjeti se što radimo kad kažemo da je nešto slično nečemu drugom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-002",
+      "tezina": "lagano",
+      "pitanje": "Što je onomatopeja?",
+      "ponudeni": [
+        "Riječ koja oponaša neki zvuk",
+        "Uspoređivanje dviju stvari po sličnosti",
+        "Skupina stihova u pjesmi",
+        "Naslov pjesme"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Onomatopeja je riječ koja zvuči kao zvuk koji opisuje, npr. „bum“ ili „tik-tak“.",
+      "savjet": "Izgovori naglas „bum“ ili „mijau“ i razmisli što te riječi rade."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-003",
+      "tezina": "lagano",
+      "pitanje": "Što je pjesnička slika?",
+      "ponudeni": [
+        "Crtež koji stoji uz pjesmu u knjizi",
+        "Fotografija pjesnika",
+        "Ilustracija na naslovnici knjige",
+        "Slika koju pjesnik riječima stvara u našoj mašti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pjesnička slika ne nacrta se olovkom, nego je pjesnik stvara riječima, a mi je zamišljamo.",
+      "savjet": "Razmisli čime se služi pjesnik kad stvara pjesmu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-004",
+      "tezina": "lagano",
+      "pitanje": "Kojim osjetilom doživljavamo vidnu pjesničku sliku?",
+      "ponudeni": [
+        "sluhom",
+        "vidom",
+        "njuhom",
+        "okusom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vidna pjesnička slika prikazuje boje, oblike i svjetlo, a to doživljavamo vidom.",
+      "savjet": "Naziv slike otkriva o kojem je osjetilu riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-005",
+      "tezina": "lagano",
+      "pitanje": "Kojim osjetilom doživljavamo slušnu pjesničku sliku?",
+      "ponudeni": [
+        "vidom",
+        "sluhom",
+        "dodirom",
+        "njuhom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Slušna pjesnička slika dočarava zvukove, a zvukove doživljavamo sluhom.",
+      "savjet": "Razmisli što sve u pjesmi možemo „čuti“."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-006",
+      "tezina": "lagano",
+      "pitanje": "Koja se riječ najčešće koristi u usporedbi?",
+      "ponudeni": [
+        "ali",
+        "jer",
+        "ili",
+        "kao"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Usporedba se najčešće gradi s riječju „kao“, npr. „brz kao vjetar“.",
+      "savjet": "Sjeti se izraza u kojima kažemo da je nešto slično nečemu drugom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-007",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih riječi onomatopeja?",
+      "ponudeni": [
+        "bum",
+        "stol",
+        "plav",
+        "trčati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „bum“ oponaša zvuk eksplozije ili udarca, pa je onomatopeja.",
+      "savjet": "Potraži riječ koja zvuči kao neki zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-008",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša glas mačke?",
+      "ponudeni": [
+        "vau-vau",
+        "kvak",
+        "mijau",
+        "mu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mačka se oglašava s „mijau“, a ta riječ oponaša njezin glas.",
+      "savjet": "Zamisli kako se mačka oglašava kad je gladna."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-009",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša zvuk sata?",
+      "ponudeni": [
+        "kukuriku",
+        "mijau",
+        "pljus",
+        "tik-tak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „tik-tak“ oponaša ravnomjerno kucanje sata.",
+      "savjet": "Osluhni kako kuca sat na zidu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-010",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša zvuk zvona?",
+      "ponudeni": [
+        "tik-tak",
+        "bzz",
+        "ding-dong",
+        "kvak"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ „ding-dong“ oponaša zvonjenje zvona.",
+      "savjet": "Zamisli crkveno zvono ili zvono na vratima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-011",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša zujanje pčele?",
+      "ponudeni": [
+        "kvak",
+        "bzz",
+        "mijau",
+        "bum"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „bzz“ oponaša zujanje pčele ili muhe.",
+      "savjet": "Zamisli zvuk koji čuješ kad pčela leti oko cvijeta."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-012",
+      "tezina": "lagano",
+      "pitanje": "Koji glagol oponaša zvuk?",
+      "ponudeni": [
+        "šuštati",
+        "sjediti",
+        "pisati",
+        "gledati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol „šuštati“ zvuči slično zvuku lišća ili papira, pa oponaša zvuk.",
+      "savjet": "Izgovori glagole polako i poslušaj koji zvuči kao ono što opisuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-013",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica sadrži usporedbu?",
+      "ponudeni": [
+        "Snijeg je bijel kao šećer.",
+        "Snijeg pada cijelu noć.",
+        "Djeca grade snjegovića.",
+        "Zima je hladno godišnje doba."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U rečenici „Snijeg je bijel kao šećer.“ snijeg se uspoređuje sa šećerom po boji.",
+      "savjet": "Potraži rečenicu u kojoj se dvije stvari povezuju po sličnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-014",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ, osim riječi „kao“, često uvodi usporedbu?",
+      "ponudeni": [
+        "zato",
+        "poput",
+        "dok",
+        "ako"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Usporedbu možemo izreći i riječju „poput“, npr. „lagan poput pera“.",
+      "savjet": "Pokušaj svaku riječ umetnuti u izraz „lagan … pera“."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-015",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pjesnička slika koju doživljavamo njuhom?",
+      "ponudeni": [
+        "vidna slika",
+        "slušna slika",
+        "okusna slika",
+        "mirisna slika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Njuhom osjećamo mirise, pa je takva slika mirisna.",
+      "savjet": "Sjeti se što osjećamo nosom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-016",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pjesnička slika koju doživljavamo dodirom?",
+      "ponudeni": [
+        "vidna slika",
+        "mirisna slika",
+        "dodirna (opipna) slika",
+        "slušna slika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad u pjesmi osjećamo nešto hladno, toplo, mekano ili hrapavo, to je dodirna slika.",
+      "savjet": "Sjeti se što osjećamo kožom i rukama."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-017",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pjesnička slika u kojoj zamišljamo boje i oblike?",
+      "ponudeni": [
+        "slušna slika",
+        "mirisna slika",
+        "vidna slika",
+        "okusna slika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Boje i oblike vidimo očima, pa je takva slika vidna.",
+      "savjet": "Razmisli kojim osjetilom primjećujemo boje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-018",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pjesnička slika u kojoj zamišljamo zvukove?",
+      "ponudeni": [
+        "vidna slika",
+        "okusna slika",
+        "dodirna slika",
+        "slušna slika"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zvukove čujemo, pa je pjesnička slika sa zvukovima slušna.",
+      "savjet": "Razmisli kojim osjetilom primjećujemo zvukove."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-019",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša glas psa?",
+      "ponudeni": [
+        "vau-vau",
+        "mijau",
+        "kvak",
+        "ku-ku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „vau-vau“ oponaša lavež psa.",
+      "savjet": "Zamisli kako pas laje na poštara."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-020",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša zvuk kamena koji padne u vodu?",
+      "ponudeni": [
+        "tik-tak",
+        "pljus",
+        "mijau",
+        "ku-ku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „pljus“ oponaša zvuk nečega što pada u vodu.",
+      "savjet": "Zamisli zvuk kad baciš kamenčić u jezero."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-021",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša zvuk čaša kad se kucnu?",
+      "ponudeni": [
+        "mijau",
+        "cin-cin",
+        "bzz",
+        "ku-ku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „cin-cin“ oponaša tanak zvuk stakla koje se kucne.",
+      "savjet": "Zamisli kako zvuči staklo kad se lagano dodirne."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-022",
+      "tezina": "lagano",
+      "pitanje": "Koji glagol oponaša glas ptica?",
+      "ponudeni": [
+        "cvrkutati",
+        "spavati",
+        "čitati",
+        "hodati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol „cvrkutati“ zvuči slično pjevu malih ptica.",
+      "savjet": "Zamisli što čuješ ujutro u krošnji punoj vrabaca."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-023",
+      "tezina": "lagano",
+      "pitanje": "Zašto pjesnici u pjesmama koriste usporedbe?",
+      "ponudeni": [
+        "Da pjesma bude kraća",
+        "Da pjesma dobije naslov",
+        "Da bolje zamislimo ono što se opisuje",
+        "Da pjesma ima manje stihova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Usporedba povezuje opisano s nečim poznatim, pa to lakše i jasnije zamišljamo.",
+      "savjet": "Razmisli što ti pomaže kad čuješ da je nešto „mekano kao jastuk“."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-024",
+      "tezina": "lagano",
+      "pitanje": "Zašto pjesnici u pjesmama koriste onomatopeje?",
+      "ponudeni": [
+        "Da pjesma ima više strofa",
+        "Da svi stihovi budu jednako dugi",
+        "Da pjesma dobije naslov",
+        "Da nam se čini kao da čujemo zvukove iz pjesme"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Onomatopeja oponaša zvukove, pa ih dok čitamo kao da čujemo.",
+      "savjet": "Pročitaj naglas „tik-tak“ i razmisli što zamišljaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-025",
+      "tezina": "lagano",
+      "pitanje": "Koliko se bića ili stvari povezuje u jednoj usporedbi?",
+      "ponudeni": [
+        "jedno",
+        "pet",
+        "deset",
+        "dva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U usporedbi se dva bića, stvari ili pojave povezuju po nekoj sličnosti.",
+      "savjet": "Sjeti se primjera „brz kao vjetar“ i prebroji što se povezuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-026",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša glas žabe?",
+      "ponudeni": [
+        "mu",
+        "kvak",
+        "bzz",
+        "ku-ku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „kvak“ oponaša kreketanje žabe.",
+      "savjet": "Zamisli što se ljeti navečer čuje iz bare."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-027",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ oponaša glas kukavice?",
+      "ponudeni": [
+        "kvak",
+        "vau-vau",
+        "ku-ku",
+        "mijau"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kukavica se oglašava s „ku-ku“, pa ta riječ oponaša njezin glas.",
+      "savjet": "Zamisli kako se ta ptica oglašava u proljetnoj šumi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-028",
+      "tezina": "lagano",
+      "pitanje": "Koji glagol oponaša zvuk potoka?",
+      "ponudeni": [
+        "žuboriti",
+        "sjati",
+        "rasti",
+        "plivati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glagol „žuboriti“ zvuči kao tiha voda koja teče preko kamenčića.",
+      "savjet": "Zamisli kako zvuči voda u malom potoku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-029",
+      "tezina": "lagano",
+      "pitanje": "Što zamišljamo u vidnim pjesničkim slikama?",
+      "ponudeni": [
+        "boje, oblike i svjetlo",
+        "zvukove i glasove",
+        "mirise cvijeća i hrane",
+        "okuse slatkoga i kisela"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U vidnim pjesničkim slikama zamišljamo ono što bismo vidjeli očima.",
+      "savjet": "Razmisli što sve primjećuju oči."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-030",
+      "tezina": "lagano",
+      "pitanje": "Koji glagol oponaša glas kokoši?",
+      "ponudeni": [
+        "letjeti",
+        "jesti",
+        "kvocati",
+        "spavati"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagol „kvocati“ zvuči slično glasu kokoši.",
+      "savjet": "Zamisli kako zvuči kokoš u dvorištu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-031",
+      "tezina": "srednje",
+      "pitanje": "Što se s čim uspoređuje u stihu „Mjesec je okrugao kao kolač.“?",
+      "ponudeni": [
+        "mjesec s nebom",
+        "kolač sa zvijezdom",
+        "mjesec s kolačem",
+        "nebo s kolačem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mjesec i kolač povezani su po obliku jer su oba okrugla.",
+      "savjet": "Pogledaj što stoji prije riječi „kao“, a što poslije nje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-032",
+      "tezina": "srednje",
+      "pitanje": "U kojem se stihu nalazi usporedba?",
+      "ponudeni": [
+        "Oblaci plove poput ovaca.",
+        "Oblaci plove nebom.",
+        "Plavo nebo iznad nas.",
+        "Sunce grije cijeli dan."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U stihu „Oblaci plove poput ovaca.“ oblaci se uspoređuju s ovcama.",
+      "savjet": "Potraži stih u kojem se nešto povezuje s nečim sličnim."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-033",
+      "tezina": "srednje",
+      "pitanje": "Koja je riječ onomatopeja u stihovima „Kiša pada: pljus, pljus, / po krovu stare kuće.“?",
+      "ponudeni": [
+        "kiša",
+        "krovu",
+        "kuće",
+        "pljus"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „pljus“ oponaša zvuk kiše koja pada.",
+      "savjet": "Potraži riječ koja zvuči kao kiša."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-034",
+      "tezina": "srednje",
+      "pitanje": "Koju pjesničku sliku stvara stih „Zlatno sunce sja na žutom polju.“?",
+      "ponudeni": [
+        "slušnu",
+        "vidnu",
+        "mirisnu",
+        "okusnu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stih dočarava boje i svjetlo (zlatno, žuto, sja), pa stvara vidnu sliku.",
+      "savjet": "Razmisli kojim osjetilom primjećuješ ono što stih opisuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-035",
+      "tezina": "srednje",
+      "pitanje": "Koju pjesničku sliku stvaraju stihovi „Zvona zvone ding-dong / preko cijelog sela.“?",
+      "ponudeni": [
+        "vidnu",
+        "slušnu",
+        "mirisnu",
+        "dodirnu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stihovi dočaravaju zvonjavu koju čujemo, pa stvaraju slušnu sliku.",
+      "savjet": "Zamisli se u tom selu i razmisli što primjećuješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-036",
+      "tezina": "srednje",
+      "pitanje": "Koju pjesničku sliku stvaraju stihovi „Miris svježeg kruha / širi se iz pekare.“?",
+      "ponudeni": [
+        "vidnu",
+        "slušnu",
+        "dodirnu",
+        "mirisnu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stihovi dočaravaju miris kruha, a mirise osjećamo njuhom.",
+      "savjet": "Zamisli da prolaziš pokraj te pekare."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-037",
+      "tezina": "srednje",
+      "pitanje": "Koju pjesničku sliku stvaraju stihovi „Hladan snijeg mi štipa / prste i obraze.“?",
+      "ponudeni": [
+        "dodirnu",
+        "slušnu",
+        "mirisnu",
+        "okusnu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hladnoću i štipanje osjećamo kožom, pa je to dodirna slika.",
+      "savjet": "Razmisli čime osjećaš taj snijeg."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-038",
+      "tezina": "srednje",
+      "pitanje": "Koju pjesničku sliku stvaraju stihovi „Slatka zrela jagoda / topi se u ustima.“?",
+      "ponudeni": [
+        "slušnu",
+        "vidnu",
+        "okusnu",
+        "mirisnu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Slatkoću jagode osjećamo jezikom, pa stihovi stvaraju okusnu sliku.",
+      "savjet": "Razmisli kojim dijelom tijela osjećaš slatko."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-039",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se oči uspoređuju s morem u stihu „Oči su ti plave poput mora.“?",
+      "ponudeni": [
+        "po veličini",
+        "po mirisu",
+        "po zvuku",
+        "po boji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oči i more povezani su jer su oboje plavi, dakle po boji.",
+      "savjet": "Pogledaj koja riječ u stihu opisuje oči."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-040",
+      "tezina": "srednje",
+      "pitanje": "Koja je riječ onomatopeja u stihovima „Mačka na toplom jastuku: / mrr, mrr, mrr.“?",
+      "ponudeni": [
+        "mačka",
+        "toplom",
+        "mrr",
+        "jastuku"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ „mrr“ oponaša zvuk koji mačka ispušta kad je zadovoljna.",
+      "savjet": "Potraži riječ koja zvuči kao mačka koja prede."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-041",
+      "tezina": "srednje",
+      "pitanje": "Koji stih sadrži onomatopeju?",
+      "ponudeni": [
+        "Sat na zidu je okrugao.",
+        "Sat na zidu kuca: tik-tak.",
+        "Kazaljke se polako miču.",
+        "Sat pokazuje podne."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U stihu „Sat na zidu kuca: tik-tak.“ riječi „tik-tak“ oponašaju zvuk sata.",
+      "savjet": "Potraži stih u kojem se nalazi riječ što zvuči kao sat."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-042",
+      "tezina": "srednje",
+      "pitanje": "Po čemu se trava uspoređuje s tepihom u stihu „Trava je mekana poput tepiha.“?",
+      "ponudeni": [
+        "po mekoći",
+        "po boji",
+        "po mirisu",
+        "po duljini"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Trava i tepih povezani su jer su oboje mekani.",
+      "savjet": "Pogledaj koja riječ u stihu opisuje travu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-043",
+      "tezina": "srednje",
+      "pitanje": "Koja je riječ onomatopeja u stihovima „Iz bare se čuje: kvak, kvak, / dok polako pada mrak.“?",
+      "ponudeni": [
+        "kvak",
+        "bare",
+        "polako",
+        "mrak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „kvak“ oponaša glas žabe iz bare.",
+      "savjet": "Potraži riječ koja zvuči kao glas životinje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-044",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica o jesenskom lišću sadrži usporedbu?",
+      "ponudeni": [
+        "Lišće pada sa stabla.",
+        "Lišće je crveno kao vatra.",
+        "Vjetar nosi lišće po dvorištu.",
+        "U jesen je lišće crveno."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U rečenici „Lišće je crveno kao vatra.“ lišće se uspoređuje s vatrom po boji.",
+      "savjet": "Potraži rečenicu u kojoj se lišće povezuje s nečim drugim po sličnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-045",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u stihovima „Pčele zuje oko cvijeća / dok sunce sja.“ oponaša zvuk?",
+      "ponudeni": [
+        "pčele",
+        "cvijeća",
+        "sunce",
+        "zuje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagol „zujati“ zvuči kao let pčele, pa oponaša zvuk.",
+      "savjet": "Izgovori svaku riječ polako i poslušaj koja zvuči kao pčela."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-046",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u stihu „Suho lišće pod nogama šušti.“ oponaša zvuk?",
+      "ponudeni": [
+        "lišće",
+        "nogama",
+        "šušti",
+        "suho"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glagol „šuštati“ zvuči kao suho lišće kad po njemu hodamo.",
+      "savjet": "Zamisli šetnju po jesenskom lišću i poslušaj zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-047",
+      "tezina": "srednje",
+      "pitanje": "Kojim osjetilom najviše doživljavamo stihove „Nebo je modro, polje zeleno, / a na njemu cvijeće bijelo i crveno.“?",
+      "ponudeni": [
+        "sluhom",
+        "njuhom",
+        "vidom",
+        "okusom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stihovi nabrajaju boje, a boje doživljavamo vidom.",
+      "savjet": "Pogledaj koje riječi u stihovima opisuju nebo, polje i cvijeće."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-048",
+      "tezina": "srednje",
+      "pitanje": "S čim se uspoređuje snijeg u stihu „Snijeg je mekan kao paperje.“?",
+      "ponudeni": [
+        "s oblakom",
+        "s jastukom",
+        "sa šećerom",
+        "s paperjem"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Snijeg se uspoređuje s paperjem jer su oboje mekani.",
+      "savjet": "Pogledaj što stoji nakon riječi koja uvodi usporedbu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-049",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ uvodi usporedbu u stihu „Bijela pahulja poput zvijezde pada.“?",
+      "ponudeni": [
+        "poput",
+        "bijela",
+        "pada",
+        "pahulja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „poput“ povezuje pahulju i zvijezdu, pa uvodi usporedbu.",
+      "savjet": "Sjeti se kojim se riječima najčešće izriče sličnost."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-050",
+      "tezina": "srednje",
+      "pitanje": "Kojom riječju treba dovršiti usporedbu „lagan kao …“ da ima smisla?",
+      "ponudeni": [
+        "kamen",
+        "pero",
+        "željezo",
+        "ormar"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pero je vrlo lagano, pa usporedba „lagan kao pero“ ima smisla.",
+      "savjet": "Razmisli što je od ponuđenoga stvarno lagano."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-051",
+      "tezina": "srednje",
+      "pitanje": "Kojom riječju treba dovršiti usporedbu „brz kao …“ da ima smisla?",
+      "ponudeni": [
+        "puž",
+        "vjetar",
+        "kornjača",
+        "kamen"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjetar je brz, pa usporedba „brz kao vjetar“ ima smisla.",
+      "savjet": "Razmisli što se od ponuđenoga kreće najbrže."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-052",
+      "tezina": "srednje",
+      "pitanje": "Kojom riječju treba dovršiti usporedbu „hladan kao …“ da ima smisla?",
+      "ponudeni": [
+        "led",
+        "vatra",
+        "sunce",
+        "pećnica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Led je hladan, pa usporedba „hladan kao led“ ima smisla.",
+      "savjet": "Razmisli što je od ponuđenoga hladno na dodir."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-053",
+      "tezina": "srednje",
+      "pitanje": "Koji stih stvara mirisnu pjesničku sliku?",
+      "ponudeni": [
+        "Lipa ima zeleno lišće.",
+        "Pod lipom šušti lišće.",
+        "Lipa u cvatu miriše kao med.",
+        "Kora lipe hrapava je pod rukom."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stih „Lipa u cvatu miriše kao med.“ dočarava miris, pa stvara mirisnu sliku.",
+      "savjet": "Razmisli koji se stih doživljava nosom."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-054",
+      "tezina": "srednje",
+      "pitanje": "Koji stih stvara slušnu pjesničku sliku?",
+      "ponudeni": [
+        "Na grani je žuta kruška.",
+        "Kruška je slatka i sočna.",
+        "Grana je hrapava i tvrda.",
+        "Na grani vrabac cvrkuće."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stih „Na grani vrabac cvrkuće.“ dočarava zvuk, pa stvara slušnu sliku.",
+      "savjet": "Razmisli koji se stih doživljava ušima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-055",
+      "tezina": "srednje",
+      "pitanje": "Koji stih stvara vidnu pjesničku sliku?",
+      "ponudeni": [
+        "Iz kuhinje miriše juha.",
+        "Juha je slana i ukusna.",
+        "Vrata škripe na vjetru.",
+        "Crveni krovovi sjaje na suncu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stih „Crveni krovovi sjaje na suncu.“ dočarava boju i svjetlo, pa stvara vidnu sliku.",
+      "savjet": "Razmisli koji se stih doživljava očima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-056",
+      "tezina": "srednje",
+      "pitanje": "Koji zvuk oponaša onomatopeja u stihovima „Netko na vratima: kuc, kuc! / Tko je to u ovo doba?“?",
+      "ponudeni": [
+        "škripanje vrata",
+        "kucanje na vrata",
+        "zvonjavu zvona",
+        "lavež psa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi „kuc, kuc“ oponašaju zvuk kucanja na vrata.",
+      "savjet": "Izgovori naglas onomatopeju iz stihova i zamisli zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-057",
+      "tezina": "srednje",
+      "pitanje": "Koji zvuk oponaša onomatopeja u stihu „Vjetar u granju: fiju, fiju.“?",
+      "ponudeni": [
+        "pjev ptica",
+        "padanje kiše",
+        "puhanje vjetra",
+        "lomljenje grane"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi „fiju, fiju“ oponašaju zvuk vjetra koji puše kroz granje.",
+      "savjet": "Izgovori naglas onomatopeju iz stiha i zamisli zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-058",
+      "tezina": "srednje",
+      "pitanje": "Što se s čim uspoređuje u stihu „Oči su joj sjajne kao dvije zvijezde.“?",
+      "ponudeni": [
+        "oči sa zvijezdama",
+        "zvijezde s nebom",
+        "oči s nebom",
+        "sjaj s mjesecom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oči se uspoređuju sa zvijezdama jer su i jedne i druge sjajne.",
+      "savjet": "Pogledaj što je sjajno i s čim je povezano."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-059",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica sadrži onomatopeju?",
+      "ponudeni": [
+        "Balon je puknuo: bum!",
+        "Balon je crven i velik.",
+        "Balon leti visoko.",
+        "Kupili smo novi balon."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U rečenici „Balon je puknuo: bum!“ riječ „bum“ oponaša zvuk pucanja.",
+      "savjet": "Potraži rečenicu s riječju koja zvuči kao neki zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-060",
+      "tezina": "srednje",
+      "pitanje": "Što se s čim uspoređuje u stihu „Rijeka je nalik na srebrnu vrpcu.“?",
+      "ponudeni": [
+        "srebro s rijekom",
+        "vrpca sa srebrom",
+        "rijeka s vrpcom",
+        "rijeka s obalom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izraz „nalik na“ povezuje rijeku i vrpcu, pa se rijeka uspoređuje s vrpcom.",
+      "savjet": "Sjeti se da usporedbu mogu uvesti i riječi „nalik na“."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-061",
+      "tezina": "tesko",
+      "pitanje": "U kojem stihu NEMA usporedbe?",
+      "ponudeni": [
+        "Mjesec je kao zlatni novčić.",
+        "Mjesec sja poput svjetiljke.",
+        "Mjesec sja nad krovom.",
+        "Mjesec je nalik na krišku limuna."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Samo u stihu „Mjesec sja nad krovom.“ mjesec se ne povezuje s nečim sličnim.",
+      "savjet": "Provjeri u svakom stihu povezuje li se mjesec s nečim drugim."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-062",
+      "tezina": "tesko",
+      "pitanje": "U kojem stihu NEMA onomatopeje?",
+      "ponudeni": [
+        "Konj trči preko polja.",
+        "Kopita kloparaju: klop, klop.",
+        "Konj se oglasi: ihaha!",
+        "Bič zapucketa: pras!"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U stihu „Konj trči preko polja.“ nema riječi koja oponaša zvuk.",
+      "savjet": "U svakom stihu potraži riječ koja zvuči kao neki zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-063",
+      "tezina": "tesko",
+      "pitanje": "Koji stih sadrži usporedbu, a ne personifikaciju?",
+      "ponudeni": [
+        "Oblak se smije djeci.",
+        "Oblak plače nad gradom.",
+        "Oblak razgovara s vjetrom.",
+        "Oblak je mekan kao jastuk."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U stihu „Oblak je mekan kao jastuk.“ oblak se uspoređuje s jastukom, a u ostalima oblak radi ono što rade ljudi.",
+      "savjet": "Razmisli povezuje li se oblak s nečim sličnim ili mu se pridaju ljudske osobine."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-064",
+      "tezina": "tesko",
+      "pitanje": "Koju pjesničku sliku stvara i koje pjesničko sredstvo sadrži stih „Grom je udario: tres!“?",
+      "ponudeni": [
+        "vidnu sliku i usporedbu",
+        "slušnu sliku i onomatopeju",
+        "slušnu sliku i usporedbu",
+        "mirisnu sliku i onomatopeju"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „tres“ oponaša zvuk groma, pa stih sadrži onomatopeju i stvara slušnu sliku.",
+      "savjet": "Najprije odredi što u stihu primjećujemo, a zatim provjeri ima li riječi koja oponaša zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-065",
+      "tezina": "tesko",
+      "pitanje": "Koje pjesničko sredstvo sadrži stih „Jezero je mirno i glatko kao ogledalo.“?",
+      "ponudeni": [
+        "onomatopeju",
+        "usporedbu",
+        "personifikaciju",
+        "refren"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jezero se uspoređuje s ogledalom jer su oba glatka, pa je to usporedba.",
+      "savjet": "Razmisli povezuje li stih dvije stvari, oponaša li zvuk ili jezeru daje ljudske osobine."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-066",
+      "tezina": "tesko",
+      "pitanje": "Zašto je riječ „tik-tak“ onomatopeja?",
+      "ponudeni": [
+        "Jer uspoređuje sat s nečim sličnim",
+        "Jer opisuje boju sata",
+        "Jer sat dobiva ljudske osobine",
+        "Jer oponaša zvuk sata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „tik-tak“ zvuči kao kucanje sata, a onomatopeja oponaša zvukove.",
+      "savjet": "Sjeti se što je onomatopeja i izgovori riječ naglas."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-067",
+      "tezina": "tesko",
+      "pitanje": "Koji stih istodobno stvara vidnu i slušnu pjesničku sliku?",
+      "ponudeni": [
+        "Žuti vlak u daljini: tu-tu!",
+        "Vlak je dug i crven.",
+        "U daljini se čuje zvižduk.",
+        "U vagonu miriše kava."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U stihu „Žuti vlak u daljini: tu-tu!“ vidimo žuti vlak i čujemo njegov zvuk.",
+      "savjet": "Za svaki stih provjeri što vidiš, a što čuješ."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-068",
+      "tezina": "tesko",
+      "pitanje": "Koja usporedba nema smisla jer stvari nisu slične po navedenom svojstvu?",
+      "ponudeni": [
+        "mekan kao jastuk",
+        "tvrd kao kamen",
+        "tvrd kao jastuk",
+        "bijel kao snijeg"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jastuk nije tvrd, pa usporedba „tvrd kao jastuk“ nema smisla.",
+      "savjet": "Za svaku usporedbu provjeri ima li ta stvar stvarno navedeno svojstvo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-069",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ NIJE onomatopeja?",
+      "ponudeni": [
+        "zujati",
+        "šuštati",
+        "cvrkutati",
+        "zvijezda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „zvijezda“ imenuje nebesko tijelo i ne oponaša nikakav zvuk.",
+      "savjet": "Izgovori svaku riječ i provjeri zvuči li kao ono što opisuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-070",
+      "tezina": "tesko",
+      "pitanje": "Koje pjesničke slike stvara stih „Med je sladak, a lipa miriše.“?",
+      "ponudeni": [
+        "vidnu i slušnu",
+        "slušnu i dodirnu",
+        "okusnu i mirisnu",
+        "okusnu i vidnu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Slatkoću meda osjećamo okusom, a miris lipe njuhom.",
+      "savjet": "Za svaki dio stiha odredi kojim ga osjetilom doživljavamo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-071",
+      "tezina": "tesko",
+      "pitanje": "Zašto onomatopeja u pjesmi stvara slušnu pjesničku sliku?",
+      "ponudeni": [
+        "Jer opisuje boje i oblike",
+        "Jer oponaša zvukove koje kao da čujemo",
+        "Jer uspoređuje dvije slične stvari",
+        "Jer opisuje mirise iz prirode"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Onomatopeja oponaša zvukove, a zvukove doživljavamo sluhom.",
+      "savjet": "Sjeti se što onomatopeja oponaša i kojim to osjetilom primjećujemo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-072",
+      "tezina": "tesko",
+      "pitanje": "Koja je razlika između usporedbe i onomatopeje?",
+      "ponudeni": [
+        "Usporedba povezuje slične stvari, a onomatopeja oponaša zvuk",
+        "Usporedba oponaša zvuk, a onomatopeja povezuje slične stvari",
+        "Obje oponašaju zvukove iz prirode",
+        "Obje povezuju dvije slične stvari"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Usporedba povezuje dva bića ili stvari po sličnosti, a onomatopeja je riječ koja oponaša zvuk.",
+      "savjet": "Sjeti se po jednog primjera za svako pjesničko sredstvo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-073",
+      "tezina": "tesko",
+      "pitanje": "Kojom riječju treba dovršiti stih „Njezin se smijeh čuo kao …“ da nastane slušna pjesnička slika?",
+      "ponudeni": [
+        "zvončić",
+        "oblak",
+        "jastuk",
+        "kamen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zvončić proizvodi zvuk, pa usporedba smijeha sa zvončićem stvara slušnu sliku.",
+      "savjet": "Slušna slika nastaje kad nešto zamišljamo sluhom. Kojim osjetilom primjećujemo smijeh?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-074",
+      "tezina": "tesko",
+      "pitanje": "Koji stih sadrži i usporedbu i onomatopeju?",
+      "ponudeni": [
+        "Grom je udario u staro stablo.",
+        "Grom udara: bum, glasno poput bubnja.",
+        "Munja je svijetla kao dan.",
+        "Grom tutnji: bum, bum!"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U tom stihu riječ „bum“ oponaša zvuk, a grom se uspoređuje s bubnjem.",
+      "savjet": "Za svaki stih posebno provjeri ima li usporedbu, a posebno ima li onomatopeju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-075",
+      "tezina": "tesko",
+      "pitanje": "Pjesnik želi da čitatelj „čuje“ kišu. Koji stih treba odabrati?",
+      "ponudeni": [
+        "Kiša je siva i hladna.",
+        "Kapi su sjajne kao biseri.",
+        "Nakon kiše miriše zemlja.",
+        "Kiša bubnja po limenom krovu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stih „Kiša bubnja po limenom krovu.“ dočarava zvuk kiše, pa stvara slušnu sliku.",
+      "savjet": "Potraži stih koji stvara slušnu pjesničku sliku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-076",
+      "tezina": "tesko",
+      "pitanje": "Pjesnik želi da čitatelj osjeti miris jeseni. Koji stih treba odabrati?",
+      "ponudeni": [
+        "Žuto lišće pada sa stabla.",
+        "Kesteni pucketaju u vatri.",
+        "Iz peći miriše pečeni kesten.",
+        "Magla je siva poput vune."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stih „Iz peći miriše pečeni kesten.“ dočarava miris, pa stvara mirisnu sliku.",
+      "savjet": "Potraži stih koji se doživljava nosom, a ne očima ili ušima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-077",
+      "tezina": "tesko",
+      "pitanje": "Pjesnik želi opisati boje zalaska sunca. Koji stih stvara takvu sliku?",
+      "ponudeni": [
+        "Ptice utihnu pred noć.",
+        "Večer miriše na pokošenu travu.",
+        "Nebo je narančasto i ružičasto.",
+        "Zrak je postao hladan i vlažan."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Narančasta i ružičasta boja neba stvaraju vidnu pjesničku sliku.",
+      "savjet": "Potraži stih u kojem se spominju boje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-078",
+      "tezina": "tesko",
+      "pitanje": "Koja usporedba opisuje nešto vrlo tiho?",
+      "ponudeni": [
+        "glasno kao grmljavina",
+        "bučno kao sajam",
+        "snažno kao bubanj",
+        "tiho kao mačji koraci"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mačka hoda gotovo nečujno, pa „tiho kao mačji koraci“ opisuje nešto vrlo tiho.",
+      "savjet": "Zamisli svaki zvuk i procijeni koji se jedva čuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-079",
+      "tezina": "tesko",
+      "pitanje": "Koji glagol najbolje dočarava zvuk suhog lišća pod nogama?",
+      "ponudeni": [
+        "šuškati",
+        "žuboriti",
+        "cvrkutati",
+        "kvocati"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Suho lišće pod nogama šuška, a žubori voda, cvrkuću ptice i kvoče kokoš.",
+      "savjet": "Svi glagoli oponašaju zvuk, pa razmisli čiji je koji zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-080",
+      "tezina": "tesko",
+      "pitanje": "Koji glagol najbolje dočarava zvuk pčela oko košnice?",
+      "ponudeni": [
+        "kvocati",
+        "zujati",
+        "žuboriti",
+        "mijaukati"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pčele zuje, a kvoče kokoš, žubori potok i mijauče mačka.",
+      "savjet": "Svi glagoli oponašaju zvuk, pa razmisli koji zvuk proizvode pčele dok lete."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-081",
+      "tezina": "tesko",
+      "pitanje": "Zašto je stih „Na nebu oblak poput broda plovi.“ usporedba?",
+      "ponudeni": [
+        "Oblak oponaša zvuk broda",
+        "Oblak se povezuje s brodom po sličnosti",
+        "Oblak razgovara s brodom",
+        "Oblak i brod potpuno su ista stvar"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Oblak se povezuje s brodom jer je sličan brodu koji plovi, a to je usporedba.",
+      "savjet": "Sjeti se što se događa s dvjema stvarima u usporedbi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-082",
+      "tezina": "tesko",
+      "pitanje": "U kojoj se usporedbi stvari povezuju po zvuku?",
+      "ponudeni": [
+        "Glas mu je dubok kao bubanj.",
+        "Kosa joj je žuta kao maslačak.",
+        "Ruke su mu hladne kao led.",
+        "Jabuka je kisela kao limun."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glas i bubanj povezani su po dubokom zvuku, a ostale usporedbe po boji, dodiru i okusu.",
+      "savjet": "Za svaku usporedbu odredi kojim osjetilom primjećujemo sličnost."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-083",
+      "tezina": "tesko",
+      "pitanje": "U kojoj se usporedbi stvari povezuju po mirisu?",
+      "ponudeni": [
+        "Soba je svijetla kao dan.",
+        "Pod je gladak kao led.",
+        "Soba miriše kao proljetna livada.",
+        "Soba je tiha kao noć."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Soba i livada povezane su po mirisu, a ostale usporedbe po svjetlu, dodiru i zvuku.",
+      "savjet": "Za svaku usporedbu odredi kojim osjetilom primjećujemo sličnost."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-084",
+      "tezina": "tesko",
+      "pitanje": "Koja usporedba stvara okusnu pjesničku sliku?",
+      "ponudeni": [
+        "Kolač je okrugao kao lopta.",
+        "Kolač je mekan kao spužva.",
+        "Kolač je velik kao kotač.",
+        "Kolač je sladak kao med."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kolač i med povezani su po slatkoći, a nju osjećamo okusom.",
+      "savjet": "Za svaku usporedbu odredi kojim osjetilom primjećujemo sličnost."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-085",
+      "tezina": "tesko",
+      "pitanje": "Koji stih sadrži onomatopeju, ali NE sadrži usporedbu?",
+      "ponudeni": [
+        "Patka pliva poput male lađe.",
+        "Patka je bijela kao snijeg.",
+        "Patkin je glas glasan kao truba.",
+        "Iz bare se čuje patka: kva, kva."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Samo stih s patkom u bari ima riječ koja oponaša zvuk, a nema usporedbe.",
+      "savjet": "Za svaki stih provjeri obje stvari: ima li onomatopeju i ima li usporedbu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-086",
+      "tezina": "tesko",
+      "pitanje": "Luka tvrdi da je stih „Vjetar huči: hu-hu!“ usporedba. Što je točno?",
+      "ponudeni": [
+        "Jest, vjetar se uspoređuje s nečim",
+        "Nije, stih sadrži onomatopeju",
+        "Nije, stih stvara mirisnu sliku",
+        "Jest, stih sadrži riječ poput"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi „hu-hu“ oponašaju zvuk vjetra, a vjetar se ni s čim ne uspoređuje, pa je to onomatopeja.",
+      "savjet": "Provjeri povezuje li se vjetar s nečim sličnim ili se oponaša njegov zvuk."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-087",
+      "tezina": "tesko",
+      "pitanje": "Koji stih stvara pjesničku sliku koju doživljavamo vidom i dodirom?",
+      "ponudeni": [
+        "Snijeg škripi pod čizmama.",
+        "Snijeg je bijel i sjajan.",
+        "Bijeli snijeg hladi mi dlanove.",
+        "Iz kuće miriše čaj."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bijelu boju snijega vidimo, a hladnoću osjećamo dlanovima, dakle vidom i dodirom.",
+      "savjet": "Za svaki stih odredi sva osjetila kojima ga doživljavamo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-088",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko glagolima „šuštati“, „zujati“ i „cvrkutati“?",
+      "ponudeni": [
+        "Svi oponašaju neki zvuk",
+        "Svi označavaju boje",
+        "Svi uvode usporedbu",
+        "Svi opisuju mirise"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ti glagoli zvuče slično zvukovima koje opisuju, pa oponašaju zvukove.",
+      "savjet": "Izgovori glagole naglas i poslušaj kako zvuče."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-089",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko izrazima „bijel kao snijeg“ i „crven poput vatre“?",
+      "ponudeni": [
+        "Oba su usporedbe",
+        "Oba su onomatopeje",
+        "Oba stvaraju slušnu sliku",
+        "Oba stvaraju mirisnu sliku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U oba izraza nešto se povezuje s nečim sličnim po boji, pa su to usporedbe.",
+      "savjet": "Razmisli što se u oba izraza događa s dvjema stvarima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pjesnicke-slike-usporedba-onomatopeja-090",
+      "tezina": "tesko",
+      "pitanje": "Pjesnik želi da čitatelj „vidi“ munju i „čuje“ grom. Koji par stihova to postiže?",
+      "ponudeni": [
+        "Kiša miriše na zemlju, / a vjetar je hladan.",
+        "Oblaci su tamni, / a nebo je sivo.",
+        "Munja bljesne bijelo, / a grom udari: bum!",
+        "Grom tutnji: bum, bum, / bubnja kao bubanj."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvi stih dočarava bijeli bljesak munje (vidna slika), a drugi zvuk groma (slušna slika).",
+      "savjet": "Za svaki par stihova provjeri ima li i vidnu i slušnu sliku."
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "stih-strofa-rima-i-ritam",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove jedan redak pjesme?",
+      "ponudeni": [
+        "strofa",
+        "rima",
+        "stih",
+        "refren"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jedan redak pjesme zove se stih.",
+      "savjet": "Sjeti se kako je pjesma zapisana: red po red, a svaki taj red ima svoje ime."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se još naziva strofa?",
+      "ponudeni": [
+        "odlomak",
+        "kitica",
+        "rečenica",
+        "pripjev"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strofa se još naziva kitica. To je skupina stihova odvojena od ostalih praznim redom.",
+      "savjet": "Sjeti se drugog naziva za skupinu stihova koji se koristi u udžbenicima."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-003",
+      "tezina": "lagano",
+      "pitanje": "Što je strofa?",
+      "ponudeni": [
+        "Jedan redak pjesme",
+        "Naslov pjesme",
+        "Skupina stihova odvojena od ostalih praznim redom",
+        "Podudaranje glasova na kraju stihova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Strofa (kitica) je skupina stihova koja je od drugih stihova odvojena praznim redom.",
+      "savjet": "Zamisli kako pjesma izgleda na stranici i što je podijeljeno u dijelove."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-004",
+      "tezina": "lagano",
+      "pitanje": "Što je rima?",
+      "ponudeni": [
+        "Podudaranje glasova na kraju stihova",
+        "Broj stihova u strofi",
+        "Prvi stih pjesme",
+        "Prazan red između strofa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rima je podudaranje glasova na kraju stihova, kao u riječima kiša i miša.",
+      "savjet": "Pročitaj naglas dva stiha koji zvuče slično i poslušaj zašto zvuče slično."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se još naziva rima?",
+      "ponudeni": [
+        "ritam",
+        "srok",
+        "stih",
+        "kitica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rima se još naziva srok.",
+      "savjet": "Prisjeti se kratke riječi koja se u udžbenicima piše u zagradi uz riječ rima."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-006",
+      "tezina": "lagano",
+      "pitanje": "Koji se par riječi rimuje?",
+      "ponudeni": [
+        "kiša – kuća",
+        "grana – trava",
+        "cvijet – cvijeće",
+        "cesta – mjesta"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječi cesta i mjesta završavaju jednakim glasovima (-esta), pa se rimuju.",
+      "savjet": "Izgovori svaki par naglas i poslušaj zvuči li kraj obiju riječi jednako."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-007",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove stih ili strofa koji se u pjesmi ponavlja?",
+      "ponudeni": [
+        "refren",
+        "naslov",
+        "rima",
+        "dvostih"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stih ili strofa koji se u pjesmi ponavlja zove se refren.",
+      "savjet": "Sjeti se dijela pjesme koji se, kao u pjesmama koje pjevamo, vraća više puta."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-008",
+      "tezina": "lagano",
+      "pitanje": "Kako se još naziva refren?",
+      "ponudeni": [
+        "kitica",
+        "pripjev",
+        "srok",
+        "odlomak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Refren se još naziva pripjev jer ga u pjesmama često svi zajedno ponovno pjevamo.",
+      "savjet": "Sjeti se kako se zove dio pjesme koji svi zajedno ponovno pjevamo."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-009",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove strofa koja ima dva stiha?",
+      "ponudeni": [
+        "trostih",
+        "četverostih",
+        "refren",
+        "dvostih"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strofa od dva stiha zove se dvostih.",
+      "savjet": "Naziv strofe nastaje od broja njezinih stihova."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-010",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove strofa koja ima četiri stiha?",
+      "ponudeni": [
+        "dvostih",
+        "trostih",
+        "četverostih",
+        "refren"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Strofa od četiri stiha zove se četverostih.",
+      "savjet": "Poveži broj stihova s početkom naziva strofe."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-011",
+      "tezina": "lagano",
+      "pitanje": "Koliko stihova ima trostih?",
+      "ponudeni": [
+        "dva",
+        "tri",
+        "četiri",
+        "šest"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Trostih je strofa od tri stiha.",
+      "savjet": "Strofe dobivaju ime po broju stihova koje imaju. Sjeti se kako se zove strofa od dva stiha."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-012",
+      "tezina": "lagano",
+      "pitanje": "Što je ritam u pjesmi?",
+      "ponudeni": [
+        "Ujednačeno i pravilno izmjenjivanje i ponavljanje u pjesmi",
+        "Broj strofa u pjesmi",
+        "Naslov pjesme",
+        "Prazan red između strofa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ritam je ujednačeno, pravilno izmjenjivanje i ponavljanje u pjesmi, slično otkucajima.",
+      "savjet": "Sjeti se kako zvuči pjesma kad je čitaš naglas i pljeskaš uz nju."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove tekst napisan u stihovima?",
+      "ponudeni": [
+        "prozni tekst",
+        "novinski tekst",
+        "poetski tekst",
+        "obavijest"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tekst napisan u stihovima, kao što je pjesma, zove se poetski tekst.",
+      "savjet": "Sjeti se kojoj vrsti teksta pripadaju pjesme."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-014",
+      "tezina": "lagano",
+      "pitanje": "Po čemu se pjesma na prvi pogled razlikuje od priče?",
+      "ponudeni": [
+        "Pjesma ima naslov, a priča nema",
+        "Pjesma je napisana u stihovima i strofama",
+        "Pjesma je uvijek duža od priče",
+        "Pjesma nema nijednu rečenicu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pjesma je napisana u stihovima i strofama, a priča u rečenicama i odlomcima.",
+      "savjet": "Zamisli kako su retci pjesme raspoređeni na stranici."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-015",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu dijelovi na koje je podijeljena priča?",
+      "ponudeni": [
+        "strofe",
+        "stihovi",
+        "odlomci",
+        "refreni"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Priča je prozni tekst i dijeli se na odlomke, a pjesma na strofe.",
+      "savjet": "Sjeti se kako se zovu dijelovi priče koji počinju u novom retku, malo uvučeno."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-016",
+      "tezina": "lagano",
+      "pitanje": "Što u pjesmi odvaja jednu strofu od druge?",
+      "ponudeni": [
+        "zarez",
+        "naslov",
+        "točka",
+        "prazan red"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strofe su u pjesmi odvojene praznim redom.",
+      "savjet": "Zamisli pjesmu na stranici i mjesto gdje počinje nova kitica."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-017",
+      "tezina": "lagano",
+      "pitanje": "Gdje se u pjesmi najčešće nalazi rima?",
+      "ponudeni": [
+        "Na početku stihova",
+        "U naslovu pjesme",
+        "Ispod pjesme",
+        "Na kraju stihova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rima se najčešće nalazi na kraju stihova, gdje se glasovi podudaraju.",
+      "savjet": "Pročitaj naglas dva stiha koji zvuče slično i poslušaj gdje se čuje ta sličnost."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-018",
+      "tezina": "lagano",
+      "pitanje": "Mora li svaka pjesma imati rimu?",
+      "ponudeni": [
+        "Da, bez rime tekst nije pjesma",
+        "Ne, postoje i pjesme bez rime",
+        "Da, ali samo u prvoj strofi",
+        "Ne, rima se nalazi samo u pričama"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pjesma ne mora imati rimu. Postoje pjesme bez rime, ali su i one napisane u stihovima.",
+      "savjet": "Razmisli što pjesmu čini pjesmom osim zvuka na kraju stihova."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-019",
+      "tezina": "lagano",
+      "pitanje": "Koje se riječi rimuju u stihovima „Pada kiša, / nema miša.“?",
+      "ponudeni": [
+        "pada – nema",
+        "pada – miša",
+        "kiša – miša",
+        "nema – kiša"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi kiša i miša nalaze se na kraju stihova i završavaju jednako (-iša).",
+      "savjet": "Usporedi zadnje riječi u oba stiha."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-020",
+      "tezina": "lagano",
+      "pitanje": "Koja se riječ rimuje s riječju „grana“?",
+      "ponudeni": [
+        "dana",
+        "grane",
+        "trava",
+        "gnijezdo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Grana i dana završavaju jednakim glasovima (-ana), pa se rimuju.",
+      "savjet": "Izgovori svaku riječ naglas i usporedi njezin završetak sa završetkom riječi grana."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-021",
+      "tezina": "lagano",
+      "pitanje": "Koja se riječ rimuje s riječju „ruka“?",
+      "ponudeni": [
+        "noga",
+        "buka",
+        "rupa",
+        "ručak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ruka i buka završavaju jednako (-uka), pa se rimuju.",
+      "savjet": "Rima se ne čuje na početku riječi, nego na njezinu kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-022",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove tekst koji nije napisan u stihovima, nego u rečenicama i odlomcima?",
+      "ponudeni": [
+        "prozni tekst",
+        "poetski tekst",
+        "refren",
+        "kitica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tekst napisan u rečenicama i odlomcima, kao priča, zove se prozni tekst.",
+      "savjet": "Sjeti se kojoj vrsti teksta pripadaju priče."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-023",
+      "tezina": "lagano",
+      "pitanje": "Koliko stihova ima ovaj dio pjesme: „Sunce sja, / ptica leti, / mačak spava.“?",
+      "ponudeni": [
+        "tri",
+        "dva",
+        "četiri",
+        "šest"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kose crte odvajaju stihove, a ovdje su tri retka, dakle tri stiha.",
+      "savjet": "Znak „/“ označava mjesto gdje završava jedan stih i počinje sljedeći."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-024",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga pomaže da pjesma ima ritam?",
+      "ponudeni": [
+        "Dugi odlomci kao u priči",
+        "Slika uz pjesmu",
+        "Ponavljanje riječi i stihova",
+        "Naslov pisan velikim slovima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ponavljanje riječi i stihova stvara ritam, kao i rima i slična duljina stihova.",
+      "savjet": "Razmisli što se u pjesmi čuje kad je čitaš naglas."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-025",
+      "tezina": "lagano",
+      "pitanje": "Čemu je sličan ritam u pjesmi?",
+      "ponudeni": [
+        "Tišini u praznoj sobi",
+        "Jednoj boji na slici",
+        "Praznoj stranici bilježnice",
+        "Pravilnim otkucajima sata"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ritam je pravilno izmjenjivanje i ponavljanje, kao otkucaji sata ili srca.",
+      "savjet": "Zamisli kako zvuči pjesma kad je čitaš naglas i pljeskaš uz nju."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-026",
+      "tezina": "lagano",
+      "pitanje": "Koja se riječ rimuje s riječju „trava“?",
+      "ponudeni": [
+        "trska",
+        "travnjak",
+        "glava",
+        "stablo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trava i glava završavaju jednakim glasovima (-ava), pa se rimuju.",
+      "savjet": "Ne gledaj kako riječ počinje, nego kako završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-027",
+      "tezina": "lagano",
+      "pitanje": "Pjesma ima tri skupine stihova odvojene praznim redom. Koliko strofa ima ta pjesma?",
+      "ponudeni": [
+        "jednu",
+        "dvije",
+        "šest",
+        "tri"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svaka skupina stihova odvojena praznim redom jedna je strofa, pa pjesma ima tri strofe.",
+      "savjet": "Sjeti se kako se zove skupina stihova odvojena praznim redom."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-028",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove onaj tko piše pjesme?",
+      "ponudeni": [
+        "pjesnik",
+        "glumac",
+        "slikar",
+        "kipar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pjesme piše pjesnik.",
+      "savjet": "Sjeti se kako se u čitanci naziva autor pjesme."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-029",
+      "tezina": "lagano",
+      "pitanje": "Koji se par riječi NE rimuje?",
+      "ponudeni": [
+        "mak – rak",
+        "nos – kos",
+        "put – kut",
+        "kuća – mačka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kuća i mačka imaju jednako samo zadnje slovo, a to nije dovoljno za rimu.",
+      "savjet": "Za rimu nije dovoljno da riječi imaju jednako samo zadnje slovo."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-030",
+      "tezina": "lagano",
+      "pitanje": "U pjesmi se stih „Hajde, hajde, ljeto!“ ponavlja nakon svake strofe. Kako se zove takav stih?",
+      "ponudeni": [
+        "naslov",
+        "dvostih",
+        "rima",
+        "refren"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stih koji se u pjesmi ponavlja zove se refren ili pripjev.",
+      "savjet": "Sjeti se kako se zove dio pjesme koji se vraća više puta."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-031",
+      "tezina": "srednje",
+      "pitanje": "Koliko stihova ima ova strofa? „Ide jesen preko polja, / pada kiša cijeli dan, / žuto lišće leti s grana, / a ja gledam kroz prozor van.“",
+      "ponudeni": [
+        "dva",
+        "tri",
+        "četiri",
+        "pet"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Strofa ima četiri retka odvojena kosim crtama, dakle četiri stiha. To je četverostih.",
+      "savjet": "Svaka kosa crta odvaja jedan stih od sljedećega."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-032",
+      "tezina": "srednje",
+      "pitanje": "Koliko strofa ima ova pjesma? Strofe su odvojene znakom „ // “. „Sviće jutro, / budi se mače. // U podne / ručak se kuha. // Pada mrak, / svi već spavaju.“",
+      "ponudeni": [
+        "dvije",
+        "tri",
+        "šest",
+        "četiri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dvostruka kosa crta dva puta dijeli pjesmu, pa pjesma ima tri strofe. Svaka je dvostih.",
+      "savjet": "Ne broji stihove, nego skupine stihova između dvostrukih kosih crta."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-033",
+      "tezina": "srednje",
+      "pitanje": "Koje se riječi rimuju u ovim stihovima? „Na brijegu stoji kuća, / iz dimnjaka dim se vije, / na prozoru sjedi maca, / mlijeko polako pije.“",
+      "ponudeni": [
+        "vije – pije",
+        "kuća – maca",
+        "stoji – sjedi",
+        "dim – mlijeko"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vije i pije stoje na kraju drugog i četvrtog stiha i završavaju jednako (-ije).",
+      "savjet": "Pogledaj samo zadnje riječi u stihovima i izgovori ih naglas."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-034",
+      "tezina": "srednje",
+      "pitanje": "Koji se stihovi rimuju? „Pada bijeli snijeg / na krovove i polja, / djeca nose sanjke / i dobra im je volja.“",
+      "ponudeni": [
+        "prvi i drugi",
+        "drugi i četvrti",
+        "prvi i treći",
+        "treći i četvrti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Drugi stih završava riječju polja, a četvrti riječju volja. Te se riječi rimuju (-olja).",
+      "savjet": "Napiši zadnju riječ svakog stiha i potraži dvije koje zvuče jednako na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-035",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ dovršava drugi stih tako da se rimuje s prvim? „Na nebu svijetli zvijezda sjajna, / noć je tiha i ___.“",
+      "ponudeni": [
+        "tamna",
+        "duga",
+        "hladna",
+        "tajna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sjajna i tajna završavaju jednakim glasovima (-ajna), pa se stihovi rimuju.",
+      "savjet": "Izgovori riječ sjajna pa redom svaku ponuđenu riječ i slušaj njihov kraj."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-036",
+      "tezina": "srednje",
+      "pitanje": "Kojom riječju treba završiti drugi stih da se rimuje s prvim? „U kutiji spava mače, / a kraj njega lopta ___.“",
+      "ponudeni": [
+        "leži",
+        "stoji",
+        "skače",
+        "čeka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mače i skače završavaju jednako (-ače), pa se stihovi rimuju.",
+      "savjet": "Usporedi završetak riječi mače sa završetkom svake ponuđene riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-037",
+      "tezina": "srednje",
+      "pitanje": "Dopuni drugi stih riječju koja se rimuje s prvim stihom: „Moj pas grize kost, / a k nama dolazi ___.“",
+      "ponudeni": [
+        "susjed",
+        "prijatelj",
+        "stric",
+        "gost"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kost i gost završavaju jednakim glasovima (-ost), pa se rimuju.",
+      "savjet": "Sve ponuđene riječi imaju smisla, zato slušaj samo kako završavaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-038",
+      "tezina": "srednje",
+      "pitanje": "U kojim se stihovima riječi na kraju rimuju?",
+      "ponudeni": [
+        "Pada snijeg, / djeca se igraju.",
+        "Leti ptica / iznad polja.",
+        "Sviće zora / iznad mora.",
+        "Zvoni zvono, / ja sam doma."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zora i mora završavaju jednako (-ora), pa se ti stihovi rimuju.",
+      "savjet": "U svakom paru usporedi zadnje riječi obaju stihova."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-039",
+      "tezina": "srednje",
+      "pitanje": "Pjesma ima tri strofe, a svaka je strofa četverostih. Koliko stihova ima ta pjesma?",
+      "ponudeni": [
+        "7",
+        "12",
+        "4",
+        "3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Četverostih ima četiri stiha, a tri takve strofe imaju 3 · 4 = 12 stihova.",
+      "savjet": "Prvo se sjeti koliko stihova ima jedan četverostih."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-040",
+      "tezina": "srednje",
+      "pitanje": "Pjesma ima 10 stihova, a sve su njezine strofe dvostisi. Koliko strofa ima ta pjesma?",
+      "ponudeni": [
+        "5",
+        "10",
+        "2",
+        "20"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvostih ima dva stiha, pa 10 stihova čini 10 : 2 = 5 strofa.",
+      "savjet": "Sjeti se koliko stihova ima jedan dvostih i koliko puta to stane u 10."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-041",
+      "tezina": "srednje",
+      "pitanje": "Kako se zove ova strofa? „Kiša pada, / lokve rastu, / žabe skaču.“",
+      "ponudeni": [
+        "dvostih",
+        "trostih",
+        "četverostih",
+        "refren"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strofa ima tri stiha, pa je to trostih.",
+      "savjet": "Prebroji stihove pa se sjeti kako se strofa naziva prema broju stihova."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-042",
+      "tezina": "srednje",
+      "pitanje": "Koji je stih refren u ovoj pjesmi? Strofe su odvojene znakom „ // “. „Snijeg pada na grad, / hajde, zimo, hajde! // Sanjke čekaju nas, / hajde, zimo, hajde! // Grudve lete svud, / hajde, zimo, hajde!“",
+      "ponudeni": [
+        "Snijeg pada na grad",
+        "Hajde, zimo, hajde!",
+        "Sanjke čekaju nas",
+        "Grudve lete svud"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stih „Hajde, zimo, hajde!“ ponavlja se u svakoj strofi, pa je on refren.",
+      "savjet": "Potraži stih koji se pojavljuje više puta."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-043",
+      "tezina": "srednje",
+      "pitanje": "Čime je u ovim stihovima postignut ritam? „Kap po kap, / kap po kap, / pada kiša, / tap, tap, tap.“",
+      "ponudeni": [
+        "Ponavljanjem stiha „kap po kap“",
+        "Velikim brojem strofa",
+        "Dugim i nejednakim stihovima",
+        "Opisivanjem boja kiše"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stih „kap po kap“ ponavlja se, a ponavljanje stvara pravilan ritam.",
+      "savjet": "Pročitaj stihove naglas i poslušaj što se u njima vraća."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-044",
+      "tezina": "srednje",
+      "pitanje": "Koji se stih rimuje sa stihom „U vrtu raste trava“?",
+      "ponudeni": [
+        "pokraj nje je cvijeće",
+        "rosa je na njoj",
+        "ptice lete nad njom",
+        "na njoj mače spava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Trava i spava završavaju jednakim glasovima (-ava), pa se ti stihovi rimuju.",
+      "savjet": "Usporedi zadnju riječ zadanog stiha sa zadnjom riječi svakog ponuđenog stiha."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-045",
+      "tezina": "srednje",
+      "pitanje": "Koja se riječ ponavlja i stvara ritam u ovim stihovima? „Trči, trči, mali zeko, / trči, trči, put je dalek.“",
+      "ponudeni": [
+        "trči",
+        "mali",
+        "zeko",
+        "dalek"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ trči ponavlja se četiri puta i daje stihovima ritam.",
+      "savjet": "Prebroji koliko se puta pojavljuje svaka riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-046",
+      "tezina": "srednje",
+      "pitanje": "Koliko stihova ima ova pjesma? Strofe su odvojene znakom „ // “. „Pada lišće, / pada kiša. // Djeca sjede / pokraj prozora, / gledaju van.“",
+      "ponudeni": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prva strofa ima dva stiha, a druga tri, pa pjesma ima 2 + 3 = 5 stihova.",
+      "savjet": "Prebroji stihove u svakoj strofi pa ih zbroji."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-047",
+      "tezina": "srednje",
+      "pitanje": "Koja je od ovih strofa četverostih?",
+      "ponudeni": [
+        "Mjesec sja, / noć je tiha.",
+        "Sunce, kiša, / vjetar, snijeg, / godina ide / svojim putem.",
+        "Lopta skače, / pas je lovi, / mačak spava.",
+        "Zvonce zvoni, / djeca trče, / dan je lijep, / ali kratak, / pada mrak."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strofa „Sunce, kiša, / vjetar, snijeg, / godina ide / svojim putem“ ima četiri stiha.",
+      "savjet": "Prebroji stihove u svakoj strofi pomoću kosih crta."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-048",
+      "tezina": "srednje",
+      "pitanje": "S kojom se riječju rimuje riječ „mlin“ u ovim stihovima? „Na brijegu stoji mlin, / kraj njega teče potok, / u mlinu radi mlinar / i njegov mali sin.“",
+      "ponudeni": [
+        "potok",
+        "sin",
+        "mlinar",
+        "brijegu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mlin i sin završavaju jednako (-in) i stoje na kraju prvog i četvrtog stiha.",
+      "savjet": "Riječ koja počinje slično nije zato i rima; slušaj kraj riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-049",
+      "tezina": "srednje",
+      "pitanje": "Koja se riječ rimuje s prvim stihom i dovršava drugi? „Čekamo da vidimo more / još od rane ___.“",
+      "ponudeni": [
+        "jeseni",
+        "večeri",
+        "zime",
+        "zore"
+      ],
+      "tocan": 3,
+      "objasnjenje": "More i zore završavaju jednakim glasovima (-ore), pa se stihovi rimuju.",
+      "savjet": "Sve ponuđene riječi imaju smisla, zato usporedi njihov kraj s riječju more."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-050",
+      "tezina": "srednje",
+      "pitanje": "Koji je od ovih tekstova napisan u stihovima? Znak „/“ označava novi redak.",
+      "ponudeni": [
+        "Jučer smo išli u park i igrali se loptom.",
+        "Molimo učenike da sutra donesu bilježnice.",
+        "Mali zeko / skače lako, / ide preko / polja tako.",
+        "Mačka je spavala na suncu cijelo poslijepodne."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tekst o zeki napisan je u kratkim recima, stihovima, i ima rimu, pa je to pjesma.",
+      "savjet": "Potraži tekst koji je podijeljen u kratke retke i zvuči pjevno."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-051",
+      "tezina": "srednje",
+      "pitanje": "Kako je postignut ritam u stihovima „Hoda baka polako, / hoda baka kroz selo, / hoda baka do kuće.“?",
+      "ponudeni": [
+        "Ponavljanjem riječi „hoda baka“",
+        "Rimom na kraju svakog stiha",
+        "Podjelom na mnogo strofa",
+        "Jednim dugim odlomkom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Na početku svakog stiha ponavljaju se riječi „hoda baka“, a ponavljanje stvara ritam.",
+      "savjet": "Usporedi početke i krajeve stihova i potraži ono što se vraća."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-052",
+      "tezina": "srednje",
+      "pitanje": "Koliko parova riječi koje se rimuju ima ova strofa? „U vrtu cvate cvijet, / a nad njim leti pčela, / šaren je cijeli svijet, / livada je sva bijela.“",
+      "ponudeni": [
+        "jedan",
+        "dva",
+        "tri",
+        "četiri"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rimuju se cvijet i svijet te pčela i bijela, dakle dva para.",
+      "savjet": "Ispiši zadnje riječi svih stihova i spoji one koje zvuče jednako."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-053",
+      "tezina": "srednje",
+      "pitanje": "Koji je treći stih ove strofe? „Sunce izlazi, / pijetao se budi, / baka hrani kokoši, / dan počinje.“",
+      "ponudeni": [
+        "Sunce izlazi",
+        "pijetao se budi",
+        "baka hrani kokoši",
+        "dan počinje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stihovi su odvojeni kosim crtama, a treći po redu je „baka hrani kokoši“.",
+      "savjet": "Broji retke odvojene kosim crtama od početka strofe."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-054",
+      "tezina": "srednje",
+      "pitanje": "U pjesmi se nakon svake strofe ponavlja stih „Pjevaj, pjevaj, sa mnom pjevaj“. Što taj stih daje pjesmi?",
+      "ponudeni": [
+        "Pretvara pjesmu u priču",
+        "Skraćuje pjesmu",
+        "Uklanja rimu iz pjesme",
+        "Stvara ritam jer se ponavlja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Taj stih je refren. Njegovo ponavljanje stvara ritam i pjesmu čini pjevnom.",
+      "savjet": "Sjeti se što se postiže kad se nešto u pjesmi ponavlja."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-055",
+      "tezina": "srednje",
+      "pitanje": "Kojom riječju treba dovršiti drugi stih da se rimuje s prvim? „Moj je pas veseo i mlad, / sa mnom šeta cijeli ___.“",
+      "ponudeni": [
+        "park",
+        "dan",
+        "grad",
+        "put"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mlad i grad završavaju jednakim glasovima (-ad), pa se stihovi rimuju.",
+      "savjet": "Pazi: dvije riječi mogu imati smisla, ali samo jedna zvuči jednako na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-056",
+      "tezina": "srednje",
+      "pitanje": "Koja se riječ NE rimuje s ostalima?",
+      "ponudeni": [
+        "kruh",
+        "duh",
+        "njuh",
+        "kruška"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kruh, duh i njuh završavaju na -uh, a kruška završava drukčije.",
+      "savjet": "Usporedi kako završava svaka riječ, a ne kako počinje."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-057",
+      "tezina": "srednje",
+      "pitanje": "Koji od ovih dvostiha nema rimu?",
+      "ponudeni": [
+        "Na nebu zvijezde, / u travi cvrčci.",
+        "Raste mak, / skače rak.",
+        "Mjesec sja, / spavam ja.",
+        "Svijetli dan, / a ja gledam van."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zvijezde i cvrčci ne završavaju jednakim glasovima, pa taj dvostih nema rimu.",
+      "savjet": "U svakom dvostihu usporedi zadnje riječi obaju stihova."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-058",
+      "tezina": "srednje",
+      "pitanje": "Pjesma ima dvije strofe: prva je trostih, a druga četverostih. Koliko stihova ima pjesma?",
+      "ponudeni": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trostih ima 3 stiha, a četverostih 4, pa pjesma ima 3 + 4 = 7 stihova.",
+      "savjet": "Sjeti se koliko stihova ima svaka od tih strofa pa ih zbroji."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-059",
+      "tezina": "srednje",
+      "pitanje": "U kojoj strofi svaki stih počinje istom riječju?",
+      "ponudeni": [
+        "Pada snijeg, / spava grad, / dolazi noć.",
+        "Snijeg je bijel, / grad je malen, / noć je duga.",
+        "Bijeli snijeg / i mali grad / u dugoj noći.",
+        "Tiho pada snijeg, / tiho spava grad, / tiho dolazi noć."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U strofi sa „Tiho pada snijeg…“ svaki stih počinje riječju tiho, što stvara ritam.",
+      "savjet": "Pogledaj samo prvu riječ svakog stiha u svakoj strofi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-060",
+      "tezina": "srednje",
+      "pitanje": "Koje se riječi rimuju u stihovima „U vrtu raste ruža, / vrtlar joj vodu pruža.“?",
+      "ponudeni": [
+        "ruža – pruža",
+        "vrtu – vrtlar",
+        "raste – vodu",
+        "ruža – vrtlar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ruža i pruža stoje na kraju stihova i završavaju jednako (-uža).",
+      "savjet": "Rima se najčešće čuje na samom kraju stihova."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-061",
+      "tezina": "tesko",
+      "pitanje": "Koji se stih ne rimuje s ostalima? „Otvorena su vrata, / čekam svoga brata, / u ruci držim loptu, / već više od sata.“",
+      "ponudeni": [
+        "prvi",
+        "drugi",
+        "treći",
+        "četvrti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrata, brata i sata završavaju na -ata, a treći stih završava riječju loptu.",
+      "savjet": "Ispiši zadnje riječi svih stihova i potraži onu koja zvuči drukčije."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-062",
+      "tezina": "tesko",
+      "pitanje": "U kojim stihovima ritam stvara rima, a ne ponavljanje riječi?",
+      "ponudeni": [
+        "Gleda sova / s visokog krova.",
+        "Tiho, tiho pada snijeg, / tiho, tiho spava grad.",
+        "Hoda baka polako, / hoda baka kroz selo.",
+        "Sunce, sunce, / dođi k nama."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U stihovima o sovi nijedna se riječ ne ponavlja, a sova i krova se rimuju.",
+      "savjet": "Za svaki par provjeri dvije stvari: ponavlja li se neka riječ i rimuju li se krajevi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-063",
+      "tezina": "tesko",
+      "pitanje": "Isti događaj zapisan je jednom kao priča, a jednom kao pjesma. Što ima samo pjesma?",
+      "ponudeni": [
+        "likove",
+        "događaj",
+        "naslov",
+        "stihove i strofe"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Likove, događaj i naslov mogu imati i priča i pjesma, a stihove i strofe ima samo pjesma.",
+      "savjet": "Razmisli što od ponuđenoga mogu imati oba teksta, a što samo poetski tekst."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-064",
+      "tezina": "tesko",
+      "pitanje": "U kojem dvostihu stihovi imaju sličnu duljinu i rimu?",
+      "ponudeni": [
+        "Tih je naš dom, / a vani, iza stare šume i visokih brda, tutnji grom.",
+        "Tih je naš dom, / vani pada kiša.",
+        "Tih je naš dom u kojem živimo svi zajedno, / vani pada kiša.",
+        "Tih je naš dom, / vani tutnji grom."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U dvostihu „Tih je naš dom, / vani tutnji grom.“ stihovi su slične duljine, a dom i grom se rimuju.",
+      "savjet": "Za svaki dvostih provjeri dvije stvari: jesu li stihovi slično dugi i rimuju li se."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-065",
+      "tezina": "tesko",
+      "pitanje": "Što od navedenoga NE stvara ritam u pjesmi?",
+      "ponudeni": [
+        "ponavljanje riječi i stihova",
+        "rima na kraju stihova",
+        "slična duljina stihova",
+        "naslov pjesme"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ritam stvaraju ponavljanje, rima i slična duljina stihova, a naslov ne utječe na ritam.",
+      "savjet": "Sjeti se što se čuje kad pjesmu čitaš naglas, stih po stih."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-066",
+      "tezina": "tesko",
+      "pitanje": "Koji stih svojom duljinom narušava ritam ove strofe? „Kiša pada, / vjetar puše, / a djeca u dvorištu skaču preko lokvi i glasno se smiju, / grmi grom.“",
+      "ponudeni": [
+        "prvi",
+        "drugi",
+        "treći",
+        "četvrti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Treći stih mnogo je duži od ostalih, pa se pri čitanju gubi ujednačen ritam.",
+      "savjet": "Pročitaj strofu naglas i uoči koji stih traje mnogo dulje od drugih."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-067",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima 9 stihova raspoređenih u tri jednake strofe. Kako se zovu te strofe?",
+      "ponudeni": [
+        "dvostisi",
+        "trostisi",
+        "četverostisi",
+        "refreni"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad se 9 stihova podijeli u tri jednake strofe, svaka ima 3 stiha, pa su to trostisi.",
+      "savjet": "Izračunaj koliko stihova dolazi u svaku strofu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-068",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima četiri strofe, a na kraju svake od njih nalazi se isti stih. Koliko se puta u pjesmi pojavljuje taj refren?",
+      "ponudeni": [
+        "jednom",
+        "dva puta",
+        "četiri puta",
+        "osam puta"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Refren se nalazi na kraju svake od četiri strofe, pa se pojavljuje četiri puta.",
+      "savjet": "Zamisli pjesmu strofu po strofu i broji koliko se puta vraća isti stih."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-069",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ dovršava drugi stih tako da se rimuje s prvim i da stih ima smisla? „Zimi pada bijeli snijeg, / djeca jure na ___.“",
+      "ponudeni": [
+        "brijeg",
+        "bijeg",
+        "brdo",
+        "klizalište"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brijeg se rimuje sa snijeg i ima smisla u stihu. Bijeg se rimuje, ali „jure na bijeg“ nema smisla.",
+      "savjet": "Provjeri obje stvari: rimuje li se riječ i ima li stih s njom smisla."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-070",
+      "tezina": "tesko",
+      "pitanje": "Zašto pjesnici u pjesmama često ponavljaju riječi i stihove?",
+      "ponudeni": [
+        "Da pjesma bude duža od priče",
+        "Da ne moraju pisati rimu",
+        "Da se pjesma ne može pjevati",
+        "Da pjesma ima ritam i da se lakše pamti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ponavljanje stvara ritam, pjesma zvuči pjevno i lakše se pamti.",
+      "savjet": "Sjeti se pjesme koju znaš napamet i dijela koji se u njoj stalno vraća."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-071",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o strofi točna?",
+      "ponudeni": [
+        "Strofa uvijek ima četiri stiha.",
+        "Strofa može imati dva, tri, četiri ili više stihova.",
+        "Strofa je jedan redak pjesme.",
+        "Strofa se nalazi samo u pričama."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strofe mogu imati različit broj stihova, zato postoje dvostih, trostih i četverostih.",
+      "savjet": "Sjeti se koliko različitih naziva za strofe znaš i zašto postoje."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-072",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o ritmu i rimi točna?",
+      "ponudeni": [
+        "Rima je jedini način da pjesma ima ritam.",
+        "Ritam postoji samo u pjesmama s refrenom.",
+        "Pjesma može imati ritam i bez rime.",
+        "Rima se nalazi samo u prvom stihu pjesme."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ritam se postiže i ponavljanjem riječi i stihova te sličnom duljinom stihova, pa pjesma može imati ritam i bez rime.",
+      "savjet": "Sjeti se svih načina na koje se u pjesmi stvara ritam."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-073",
+      "tezina": "tesko",
+      "pitanje": "Ana kaže da se riječi „mak“ i „mačka“ rimuju jer počinju jednako. Zašto nije u pravu?",
+      "ponudeni": [
+        "Mak i mačka su različite vrste riječi.",
+        "Rimuju se samo dugačke riječi.",
+        "Riječi se rimuju samo ako znače isto.",
+        "Rima se čuje na kraju riječi, a ne na početku."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Za rimu je važno da riječi jednako završavaju, a mak i mačka završavaju različito.",
+      "savjet": "Sjeti se na kojem se dijelu stiha i riječi čuje rima."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-074",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o pjesmi bez rime točna?",
+      "ponudeni": [
+        "I dalje je napisana u stihovima.",
+        "Zapravo je priča, a ne pjesma.",
+        "Ne smije imati strofe.",
+        "Mora imati refren."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pjesma bez rime i dalje je pjesma jer je napisana u stihovima, a može imati i strofe.",
+      "savjet": "Razmisli što pjesmu odvaja od priče ako u njoj nema rime."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-075",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima dvije strofe po četiri stiha, a nakon svake strofe dolazi refren od dva stiha. Koliko stihova ima pjesma?",
+      "ponudeni": [
+        "10",
+        "12",
+        "8",
+        "14"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Strofe imaju 2 · 4 = 8 stihova, a refren se javlja dva puta po 2 stiha, dakle 4. Ukupno 8 + 4 = 12.",
+      "savjet": "Posebno izračunaj stihove u strofama, a posebno stihove refrena."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-076",
+      "tezina": "tesko",
+      "pitanje": "Koja se riječ rimuje s riječju „vjetar“?",
+      "ponudeni": [
+        "vjetrić",
+        "metar",
+        "vjeverica",
+        "vatra"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjetar i metar završavaju jednakim glasovima (-etar), pa se rimuju.",
+      "savjet": "Riječi koje počinju slično mogu zbuniti; usporedi samo završetke."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-077",
+      "tezina": "tesko",
+      "pitanje": "Riječi u parovima nalikuju jedna drugoj. U kojem se paru riječi zaista rimuju?",
+      "ponudeni": [
+        "kuća – kućica",
+        "slika – vika",
+        "more – mora",
+        "list – lisica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Slika i vika završavaju jednako (-ika). U ostalim parovima riječi su slične, ali ne završavaju jednako.",
+      "savjet": "Ne daj se zbuniti riječima koje imaju isti početak; slušaj samo kraj."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-078",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o stihu i rečenici točna?",
+      "ponudeni": [
+        "Stih i rečenica uvijek su isto.",
+        "Rečenica postoji samo u priči.",
+        "Rečenica se u pjesmi može protegnuti kroz više stihova.",
+        "Stih uvijek završava točkom."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stih je redak pjesme, a jedna rečenica može zauzeti dio stiha ili više stihova.",
+      "savjet": "Sjeti se pjesme u kojoj rečenica završava tek u sljedećem retku."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-079",
+      "tezina": "tesko",
+      "pitanje": "Koliko rečenica i koliko stihova ima ovaj dio pjesme? „Pada snijeg / na moj mali grad. / Djeca se raduju.“",
+      "ponudeni": [
+        "2 rečenice i 3 stiha",
+        "3 rečenice i 3 stiha",
+        "2 rečenice i 2 stiha",
+        "1 rečenica i 3 stiha"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stihovi su tri retka, a točke pokazuju dvije rečenice: prva se proteže kroz dva stiha.",
+      "savjet": "Stihove broji po kosim crtama, a rečenice po točkama."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-080",
+      "tezina": "tesko",
+      "pitanje": "Što zajedno stvara ritam u stihovima „Tik, tak, kuca sat, / tik, tak, spava brat.“?",
+      "ponudeni": [
+        "Različita duljina stihova",
+        "Podjela teksta u odlomke",
+        "Ponavljanje riječi i rima na kraju stihova",
+        "Rima na početku stihova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi „tik, tak“ ponavljaju se na početku stihova, a sat i brat se rimuju. Oboje stvara ritam.",
+      "savjet": "Pogledaj posebno početke stihova, a posebno njihove krajeve."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-081",
+      "tezina": "tesko",
+      "pitanje": "Što će se dogoditi s ritmom ako iz pjesme izbacimo sva ponavljanja i rime?",
+      "ponudeni": [
+        "Ritam će biti slabiji, a pjesma manje pjevna.",
+        "Ritam će postati jači.",
+        "Pjesma će dobiti više strofa.",
+        "Stihovi će se početi rimovati."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ponavljanja i rime pomažu stvaranju ritma, pa bez njih ritam slabi.",
+      "savjet": "Sjeti se što sve stvara ritam u pjesmi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-082",
+      "tezina": "tesko",
+      "pitanje": "Koji stih ima jednako slogova kao stih „Pada kiša“, pa bi s njim imao sličan ritam?",
+      "ponudeni": [
+        "Sunce sja",
+        "Dolazi jesen",
+        "Mak",
+        "Pjeva ptica"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pa-da ki-ša i Sja-ji sun-ce imaju po četiri sloga, pa zvuče jednako dugo.",
+      "savjet": "Rastavi „Pada kiša“ na slogove pa tako rastavi i svaki ponuđeni stih."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-083",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima četiri strofe. Prve tri su četverostisi, a zadnja ima jedan stih manje. Koliko stihova ima pjesma?",
+      "ponudeni": [
+        "15",
+        "16",
+        "14",
+        "13"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tri četverostiha imaju 12 stihova, a zadnja strofa 3, pa je ukupno 12 + 3 = 15 stihova.",
+      "savjet": "Prvo izračunaj stihove u prve tri strofe, a zatim odredi koliko ih ima zadnja."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-084",
+      "tezina": "tesko",
+      "pitanje": "Kojom riječju treba zamijeniti zadnju riječ drugog stiha da bi se stihovi rimovali? „Na stolu je zdjela, / u njoj kruška žuta.“",
+      "ponudeni": [
+        "zrela",
+        "slatka",
+        "velika",
+        "zelena"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zdjela i zrela završavaju jednakim glasovima (-ela), pa bi se stihovi rimovali.",
+      "savjet": "Izgovori riječ zdjela i usporedi je sa završetkom svake ponuđene riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-085",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se refren razlikuje od ostalih strofa pjesme?",
+      "ponudeni": [
+        "Uvijek je najduži dio pjesme.",
+        "Nema nijedan stih.",
+        "Ponavlja se, a ostale se strofe mijenjaju.",
+        "Nalazi se samo u naslovu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Refren se ponavlja u istom obliku, a ostale strofe donose nove stihove.",
+      "savjet": "Sjeti se pjesme koju pjevaš i dijela koji se vraća jednak."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-086",
+      "tezina": "tesko",
+      "pitanje": "Koji par riječi NIJE rima, iako riječi završavaju istim slovom?",
+      "ponudeni": [
+        "brdo – tvrdo",
+        "lopta – kuća",
+        "vrata – zlata",
+        "polje – bolje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lopta i kuća imaju jednako samo zadnje slovo, a za rimu se mora podudarati više glasova.",
+      "savjet": "Usporedi zadnja dva ili tri glasa u svakom paru."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-087",
+      "tezina": "tesko",
+      "pitanje": "U kojoj se strofi ponavlja cijeli stih?",
+      "ponudeni": [
+        "Pada snijeg, / leti ptica.",
+        "Pada bijeli snijeg, / pada noć.",
+        "Snijeg je bijel, / noć je duga.",
+        "Pada, pada snijeg, / pada, pada snijeg."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U strofi „Pada, pada snijeg, / pada, pada snijeg.“ drugi je stih jednak prvomu.",
+      "savjet": "Pazi na razliku: ponavlja li se samo jedna riječ ili cijeli redak."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-088",
+      "tezina": "tesko",
+      "pitanje": "Što od navedenoga mogu imati i pjesma i priča?",
+      "ponudeni": [
+        "naslov",
+        "strofe",
+        "stihove",
+        "refren"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Naslov mogu imati i pjesma i priča, a stihove, strofe i refren ima samo pjesma.",
+      "savjet": "Sjeti se priče iz čitanke i provjeri što od ponuđenoga ona ima."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-089",
+      "tezina": "tesko",
+      "pitanje": "Koji se stihovi rimuju? „Na grani sjedi vrana, / gleda na sve strane, / čeka kraj dana / i onda odleti.“",
+      "ponudeni": [
+        "prvi i drugi",
+        "prvi i treći",
+        "drugi i treći",
+        "drugi i četvrti"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrana i dana završavaju jednako (-ana). Strane završava na -ane, pa se ne rimuje s njima.",
+      "savjet": "Pazi na zadnji glas: riječi koje su vrlo slične ne moraju se rimovati."
+    },
+    {
+      "id": "4-hrvatski-jezik-stih-strofa-rima-i-ritam-090",
+      "tezina": "tesko",
+      "pitanje": "Zašto se stihovi u pjesmi pišu u zasebnim recima, a ne jedan iza drugoga kao u priči?",
+      "ponudeni": [
+        "Da pjesma zauzme više mjesta",
+        "Da se sakrije rima",
+        "Da se istaknu ritam i zvuk pjesme",
+        "Da se pjesma ne čita naglas"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pisanje u stihovima ističe ritam, rimu i zvuk pjesme, pa je čitamo drukčije od priče.",
+      "savjet": "Razmisli kako se pjesma čita naglas u usporedbi s pričom."
+    }
+  ]
+}

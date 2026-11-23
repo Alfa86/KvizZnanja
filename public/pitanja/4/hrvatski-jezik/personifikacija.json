@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "personifikacija",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-personifikacija-001",
+      "tezina": "lagano",
+      "pitanje": "Što je personifikacija?",
+      "ponudeni": [
+        "Pridavanje ljudskih osobina životinjama, biljkama, predmetima ili pojavama",
+        "Uspoređivanje dviju stvari s pomoću riječi kao",
+        "Riječ koja oponaša neki zvuk",
+        "Stih koji se u pjesmi ponavlja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Personifikacija je pridavanje ljudskih osobina, postupaka i govora onome što nije čovjek.",
+      "savjet": "U nazivu se krije latinska riječ za osobu, odnosno čovjeka."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-002",
+      "tezina": "lagano",
+      "pitanje": "Kojom se riječju još može nazvati personifikacija?",
+      "ponudeni": [
+        "uspoređivanje",
+        "oživljavanje",
+        "oponašanje zvuka",
+        "rimovanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Personifikaciju zovemo i oživljavanjem jer stvari, biljke i pojave postaju poput živih ljudi.",
+      "savjet": "Razmisli što se događa sa stolom ili oblakom kad u pjesmi počne govoriti i osjećati."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-003",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o Mjesecu sadrži personifikaciju?",
+      "ponudeni": [
+        "Mjesec sja na nebu.",
+        "Mjesec je okrugao.",
+        "Mjesec je namignuo zvijezdama.",
+        "Mjesec je izašao iznad brda."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Namigivanje je ljudski postupak, pa je Mjesec u toj rečenici oživljen.",
+      "savjet": "Potraži radnju koju inače čini samo čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-004",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o ormaru sadrži personifikaciju?",
+      "ponudeni": [
+        "Ormar je pun odjeće.",
+        "Ormar je smeđe boje.",
+        "Ormar je od drveta.",
+        "Stari ormar tiho uzdiše."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uzdisanje je ljudski postupak, a ormar je predmet, pa je to personifikacija.",
+      "savjet": "Zapitaj se koja rečenica ormaru daje nešto što ima samo čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-005",
+      "tezina": "lagano",
+      "pitanje": "Koju ljudsku osobinu dobiva drvo u rečenici „Drvo je tužno spustilo grane.“?",
+      "ponudeni": [
+        "osjećaj tuge",
+        "zelenu boju",
+        "veliku visinu",
+        "ugodan miris"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tuga je ljudski osjećaj, a u rečenici ga dobiva drvo.",
+      "savjet": "Pronađi riječ koja govori kako se drvo osjeća."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-006",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ u rečenici „Oblak se ___ nad gradom.“ stvara personifikaciju?",
+      "ponudeni": [
+        "pojavio",
+        "rasplakao",
+        "zadržao",
+        "pomaknuo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Plakanje je ljudski postupak, pa oblak koji se rasplakao postaje poput čovjeka.",
+      "savjet": "Odaberi radnju koju oblak u stvarnosti ne može učiniti, a čovjek može."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-007",
+      "tezina": "lagano",
+      "pitanje": "Kome ili čemu pjesnik pridaje ljudske osobine kad stvara personifikaciju?",
+      "ponudeni": [
+        "samo ljudima u pjesmi",
+        "samo glavnom junaku priče",
+        "samo samom sebi",
+        "životinjama, biljkama, predmetima i pojavama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Personifikacijom oživljavamo ono što nije čovjek: životinje, biljke, predmete i pojave.",
+      "savjet": "Sjeti se da personifikacija oživljava ono što inače nije čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-008",
+      "tezina": "lagano",
+      "pitanje": "Koja je od ovih radnji ljudska, pa njome možemo oživjeti predmet?",
+      "ponudeni": [
+        "padati",
+        "teći",
+        "govoriti",
+        "svijetliti"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Govor je ljudska osobina; kad predmet govori, nastaje personifikacija.",
+      "savjet": "Razmisli koju od ovih radnji može učiniti samo čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-009",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o cvijeću sadrži personifikaciju?",
+      "ponudeni": [
+        "Cvijeće se smiješi suncu.",
+        "Cvijeće raste u vrtu.",
+        "Cvijeće je mirisno.",
+        "Cvijeće je žuto i crveno."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Smiješiti se može čovjek, a ne cvijeće, pa je to personifikacija.",
+      "savjet": "Potraži rečenicu u kojoj cvijeće čini nešto što inače čine ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-010",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o pticama sadrži personifikaciju?",
+      "ponudeni": [
+        "Vrabac skuplja mrvice.",
+        "Golub spava na krovu.",
+        "Vrabac je golubu ispričao šalu.",
+        "Golub leti iznad trga."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pričanje šala ljudski je postupak, pa je vrabac oživljen poput čovjeka.",
+      "savjet": "Razmisli što ptice stvarno rade, a što rade samo ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-011",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o rijeci sadrži personifikaciju?",
+      "ponudeni": [
+        "Rijeka teče prema moru.",
+        "Rijeka je ljubazno pozdravila ribice.",
+        "Rijeka je široka i duboka.",
+        "Rijeka je poplavila polje."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pozdravljanje je ljudski postupak, pa je rijeka u toj rečenici oživljena.",
+      "savjet": "Ono što rijeka stvarno čini nije personifikacija."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-012",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pjesničko izražajno sredstvo u stihu „Sunce se probudilo i protegnulo zrake“?",
+      "ponudeni": [
+        "usporedba",
+        "onomatopeja",
+        "rima",
+        "personifikacija"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sunce se budi i proteže kao čovjek, pa je to personifikacija.",
+      "savjet": "Razmisli tko se inače ujutro budi i proteže."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-013",
+      "tezina": "lagano",
+      "pitanje": "U rečenici „Vjetar se naljutio i zalupio vratima.“ vjetar se ponaša kao čovjek. Kako se to zove?",
+      "ponudeni": [
+        "personifikacija",
+        "usporedba",
+        "onomatopeja",
+        "refren"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vjetar dobiva ljudski osjećaj ljutnje i ljudski postupak, a to je personifikacija.",
+      "savjet": "Sjeti se kako se zove oživljavanje onoga što nije čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-014",
+      "tezina": "lagano",
+      "pitanje": "Zašto je rečenica „Kišobran se veselio kiši.“ personifikacija?",
+      "ponudeni": [
+        "Zato što se kišobran nosi kad pada kiša",
+        "Zato što se u rečenici spominje kiša",
+        "Zato što kišobran dobiva ljudski osjećaj",
+        "Zato što je rečenica vrlo kratka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Veselje je ljudski osjećaj, a kišobran je predmet koji ne može osjećati.",
+      "savjet": "Razmisli može li kišobran u stvarnosti nešto osjećati."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-015",
+      "tezina": "lagano",
+      "pitanje": "Gdje možemo pronaći personifikaciju?",
+      "ponudeni": [
+        "samo u vremenskoj prognozi",
+        "u pjesmama i u pričama",
+        "samo u rječniku",
+        "samo na prometnim znakovima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pjesnici i pisci koriste personifikaciju i u pjesmama i u pričama.",
+      "savjet": "Sjeti se gdje se sve pojavljuju životinje i stvari koje govore i osjećaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-016",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ u rečenici „Stolica je uzdahnula pod teškim teretom.“ stolici daje ljudsku osobinu?",
+      "ponudeni": [
+        "teškim",
+        "teretom",
+        "pod",
+        "uzdahnula"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uzdisanje je ljudski postupak, pa stolica koja uzdiše postaje poput čovjeka.",
+      "savjet": "Potraži riječ koja kaže što stolica radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-017",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o zimi sadrži personifikaciju?",
+      "ponudeni": [
+        "Snijeg je hladan.",
+        "Snijeg je pokrio krovove.",
+        "Snjegović je zaplakao kad je granulo sunce.",
+        "Snijeg pada cijeli dan."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Plakanje je ljudski postupak, a snjegović je predmet od snijega.",
+      "savjet": "Pronađi rečenicu u kojoj nešto osjeća kao čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-018",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o lampi sadrži personifikaciju?",
+      "ponudeni": [
+        "Lampa svijetli u sobi.",
+        "Lampa je umorno zijevnula i ugasila se.",
+        "Lampa stoji na stolu.",
+        "Lampa je nova i sjajna."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Umor i zijevanje pripadaju ljudima, pa je lampa u toj rečenici oživljena.",
+      "savjet": "Razmisli što lampa stvarno može, a što samo čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-019",
+      "tezina": "lagano",
+      "pitanje": "Što je oživljeno u rečenici „Ljuti oblak gunđao je nad selom.“?",
+      "ponudeni": [
+        "oblak",
+        "selo",
+        "nebo",
+        "kiša"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oblak se ljuti i gunđa kao čovjek, pa je on oživljen.",
+      "savjet": "Pitaj se tko se u rečenici ljuti i gunđa."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-020",
+      "tezina": "lagano",
+      "pitanje": "Što pjesnik postiže personifikacijom?",
+      "ponudeni": [
+        "Stihovi dobivaju rimu.",
+        "Pjesma postaje kraća.",
+        "Svi stihovi postaju jednako dugi.",
+        "Priroda i stvari postaju žive i bliže nama."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Personifikacija oživljava prirodu i stvari pa nam postaju bliske i zanimljive.",
+      "savjet": "Zamisli kakav ti se čini stol koji razgovara s tobom."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-021",
+      "tezina": "lagano",
+      "pitanje": "U kojoj se rečenici ptica ponaša kao čovjek?",
+      "ponudeni": [
+        "Ptica gradi gnijezdo.",
+        "Ptica leti iznad krova.",
+        "Ptica je pozvala drvo na rođendan.",
+        "Ptica traži hranu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pozivanje na rođendan ljudski je postupak, a ostale su radnje stvarno ponašanje ptica.",
+      "savjet": "Razmisli koju radnju ptica u prirodi nikad ne čini."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-022",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o hrastu sadrži personifikaciju?",
+      "ponudeni": [
+        "Hrast je mudro razmišljao o prošlim godinama.",
+        "Hrast je star i visok.",
+        "Hrast raste na brijegu.",
+        "Na hrastu ima mnogo žira."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Razmišljanje je ljudska osobina, pa je hrast u toj rečenici oživljen.",
+      "savjet": "Potraži rečenicu u kojoj hrast čini nešto što može samo čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-023",
+      "tezina": "lagano",
+      "pitanje": "U kojoj je rečenici oživljen predmet?",
+      "ponudeni": [
+        "Mama je zaspala na kauču.",
+        "Olovka je zaspala u pernici.",
+        "Beba je zaspala u kolijevci.",
+        "Olovka je oštra i nova."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Olovka je predmet, a spavanje je radnja živih bića, pa je to personifikacija.",
+      "savjet": "Sjeti se što je predmet i što personifikacija oživljava."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-024",
+      "tezina": "lagano",
+      "pitanje": "U kojoj rečenici predmet dobiva ljudski govor?",
+      "ponudeni": [
+        "Telefon je zazvonio u kuhinji.",
+        "Telefon je ostao bez baterije.",
+        "Telefon je na stolu.",
+        "Telefon je pitao gdje mu je punjač."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Postavljanje pitanja ljudski je govor, a telefon ga dobiva personifikacijom.",
+      "savjet": "Razmisli što telefon zaista može, a što može samo čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-025",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o ježu sadrži personifikaciju?",
+      "ponudeni": [
+        "Jež spava zimski san.",
+        "Jež ima mnogo bodlji.",
+        "Jež je stavio naočale i čitao novine.",
+        "Jež jede kukce i crve."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Čitanje novina s naočalama ljudski je postupak, a ne ponašanje ježa.",
+      "savjet": "Razmisli što jež stvarno radi u prirodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-026",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ u rečenici „Zvijezde su ___ cijelu noć.“ stvara personifikaciju?",
+      "ponudeni": [
+        "čavrljale",
+        "sjale",
+        "svjetlucale",
+        "svijetlile"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Čavrljanje je ljudski razgovor, a zvijezde stvarno samo sjaje i svjetlucaju.",
+      "savjet": "Odaberi radnju koju zvijezde ne mogu stvarno činiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-027",
+      "tezina": "lagano",
+      "pitanje": "Što pjesnik čini kad napiše da se kuća smiješi?",
+      "ponudeni": [
+        "opisuje boju kuće",
+        "daje kući ljudsku osobinu",
+        "oponaša zvuk kuće",
+        "uspoređuje dvije kuće"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Smiješak pripada ljudima, pa pjesnik kuću oživljava.",
+      "savjet": "Sjeti se tko se inače smiješi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-028",
+      "tezina": "lagano",
+      "pitanje": "Kako zovemo pjesničko sredstvo kojim se životinja, biljka ili predmet ponaša kao čovjek?",
+      "ponudeni": [
+        "usporedba",
+        "onomatopeja",
+        "strofa",
+        "personifikacija"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad nešto što nije čovjek dobije ljudske osobine, to zovemo personifikacijom.",
+      "savjet": "Sjeti se naziva koji se još zove oživljavanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-029",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o cipelama sadrži personifikaciju?",
+      "ponudeni": [
+        "Cipele su se požalile na blato.",
+        "Cipele su prljave od blata.",
+        "Cipele stoje u hodniku.",
+        "Cipele su mi tijesne."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Žaliti se može samo čovjek, pa su cipele u toj rečenici oživljene.",
+      "savjet": "Pronađi rečenicu u kojoj cipele nešto govore."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-030",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica o proljeću sadrži personifikaciju?",
+      "ponudeni": [
+        "Proljeće počinje u ožujku.",
+        "U proljeće cvjeta voćka.",
+        "Proljeće je stidljivo pokucalo na prozor.",
+        "U proljeće su dani sve dulji."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stid i kucanje na prozor pripadaju ljudima, pa je proljeće oživljeno.",
+      "savjet": "Potraži rečenicu u kojoj proljeće nešto osjeća i radi kao čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-031",
+      "tezina": "srednje",
+      "pitanje": "U kojem je dijelu stihova personifikacija? „Jutro je sivo i hladno, / a magla pije kavu / na krovu staroga sela.“",
+      "ponudeni": [
+        "magla pije kavu",
+        "jutro je sivo",
+        "i hladno",
+        "staroga sela"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Piti kavu može samo čovjek, pa je magla oživljena.",
+      "savjet": "Potraži dio u kojem netko radi nešto što inače radi čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-032",
+      "tezina": "srednje",
+      "pitanje": "Što u ovim stihovima dobiva ljudski govor? „Na grani visi kruška, / a vjetar joj priča priču / o dalekom moru.“",
+      "ponudeni": [
+        "kruška",
+        "vjetar",
+        "grana",
+        "more"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vjetar priča priču, a pričanje je ljudski govor.",
+      "savjet": "Pitaj se tko u stihovima nešto priča."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-033",
+      "tezina": "srednje",
+      "pitanje": "Kako je klupa oživljena u stihovima „Stara klupa u parku / tužno gleda prazne staze / i čeka djecu.“?",
+      "ponudeni": [
+        "Klupa stoji u parku.",
+        "Klupa je od drveta.",
+        "Klupa je tužna i čeka kao čovjek.",
+        "Klupa je stara."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tuga i čekanje ljudski su osjećaj i postupak, pa je klupa oživljena.",
+      "savjet": "Pronađi osjećaj i radnju koju klupa u stvarnosti ne bi mogla imati."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-034",
+      "tezina": "srednje",
+      "pitanje": "Koji stih sadrži personifikaciju? „Kiša pada na krov, / potok žubori pod mostom, / lokva se smije čizmama, / oblak je siv i težak.“",
+      "ponudeni": [
+        "Kiša pada na krov",
+        "potok žubori pod mostom",
+        "oblak je siv i težak",
+        "lokva se smije čizmama"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lokva se smije kao čovjek; kiša stvarno pada, a potok stvarno žubori.",
+      "savjet": "Odvoji ono što se u prirodi stvarno događa od onoga što čini samo čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-035",
+      "tezina": "srednje",
+      "pitanje": "Koje je ljudske postupke dobio snjegović u stihovima „Snjegović u dvorištu / mahnuo je ptici / i rekao joj: Dobro jutro!“?",
+      "ponudeni": [
+        "mahanje i govor",
+        "topljenje i hladnoću",
+        "stajanje u dvorištu",
+        "bijelu boju"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Snjegović maše i govori kao čovjek, a to su ljudski postupci.",
+      "savjet": "Pronađi glagole koji govore što snjegović radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-036",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica NIJE personifikacija?",
+      "ponudeni": [
+        "Sunce je namignulo oblaku.",
+        "Sunce grije polja.",
+        "Vjetar se naljutio na zastavu.",
+        "Drveće je zaplesalo na livadi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sunce stvarno grije, pa ta rečenica opisuje pravu pojavu, a ne ljudsku osobinu.",
+      "savjet": "Za svaku rečenicu pitaj se događa li se to i u stvarnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-037",
+      "tezina": "srednje",
+      "pitanje": "Kako rečenicu „Lišće pada s drveta.“ pretvoriti u personifikaciju?",
+      "ponudeni": [
+        "Žuto lišće pada s visokog drveta.",
+        "Lišće pada kao kiša.",
+        "Lišće šuška pod nogama.",
+        "Lišće se oprašta od drveta."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opraštanje je ljudski postupak, pa lišće postaje poput čovjeka.",
+      "savjet": "Lišću treba dati radnju ili osjećaj koji inače ima čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-038",
+      "tezina": "srednje",
+      "pitanje": "Što je oživljeno u stihovima „Ključ se sakrio pod tepih / i smije se mami / koja ga traži.“?",
+      "ponudeni": [
+        "tepih",
+        "mama",
+        "ključ",
+        "soba"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ključ se skriva i smije kao čovjek, a mama je čovjek pa nije personificirana.",
+      "savjet": "Personifikacija oživljava ono što nije čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-039",
+      "tezina": "srednje",
+      "pitanje": "Zašto su stihovi „Kos je obukao frak / i otišao na ples / u susjedni vrt.“ personifikacija?",
+      "ponudeni": [
+        "Kos se oblači i pleše kao čovjek.",
+        "Kos živi u vrtu.",
+        "Kos je crne boje.",
+        "Kos leti s grane na granu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oblačenje fraka i odlazak na ples ljudski su postupci, a ne ponašanje ptice.",
+      "savjet": "Razmisli što kos stvarno radi, a što je u stihovima izmišljeno."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-040",
+      "tezina": "srednje",
+      "pitanje": "Koji izraz prikazuje ljudsku radnju u stihovima „Mjesec gleda kroz prozor / i broji djeci snove.“?",
+      "ponudeni": [
+        "kroz prozor",
+        "djeci",
+        "broji snove",
+        "Mjesec"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Brojenje je ljudska radnja, a Mjesec ju u stihovima čini kao čovjek.",
+      "savjet": "Radnju u rečenici izriče glagol."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-041",
+      "tezina": "srednje",
+      "pitanje": "Koji stih o zimi sadrži personifikaciju?",
+      "ponudeni": [
+        "Zimi su dani kratki.",
+        "Zima je ljutito otjerala jesen.",
+        "Zimi nosimo kapu i šal.",
+        "Zima traje tri mjeseca."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljutnja i tjeranje nekoga ljudski su osjećaj i postupak, pa je zima oživljena.",
+      "savjet": "Potraži stih u kojem se zima ponaša poput osobe."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-042",
+      "tezina": "srednje",
+      "pitanje": "Što zastava čini kao čovjek u stihovima „Zastava na školi / veselo maše djeci / koja dolaze u razred.“?",
+      "ponudeni": [
+        "visi na školi",
+        "ima boje",
+        "dolazi u razred",
+        "veselo maše djeci"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zastava se veseli i maše kao čovjek koji pozdravlja.",
+      "savjet": "Pitaj se koji postupak i osjećaj inače pripadaju ljudima."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-043",
+      "tezina": "srednje",
+      "pitanje": "Što treba upisati u stihove „Mali potok ___ / dok teče preko kamenja.“ da nastane personifikacija?",
+      "ponudeni": [
+        "se smije",
+        "je bistar",
+        "je plitak",
+        "je hladan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Smijeh je ljudska osobina, pa potok koji se smije postaje poput čovjeka.",
+      "savjet": "Odaberi nešto što potok u stvarnosti ne može."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-044",
+      "tezina": "srednje",
+      "pitanje": "Koliko je personifikacija u stihovima „Breza češlja kosu, / bor je zelen i visok, / a hrast priča bajke.“?",
+      "ponudeni": [
+        "jedna",
+        "tri",
+        "dvije",
+        "četiri"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Breza češlja kosu i hrast priča bajke; bor je samo opisan, pa su personifikacije dvije.",
+      "savjet": "Provjeri svaki stih zasebno: radi li drvo nešto što radi samo čovjek?"
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-045",
+      "tezina": "srednje",
+      "pitanje": "U kojem je stihu oživljen predmet, a ne biljka, životinja ili pojava?",
+      "ponudeni": [
+        "Ruža se ponosno hvali.",
+        "Šalica se požalila na vrući čaj.",
+        "Lisica čita novine.",
+        "Oblak se ljuti na vjetar."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šalica je predmet; ruža je biljka, lisica životinja, a oblak pojava.",
+      "savjet": "Predmet je stvar koju je napravio čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-046",
+      "tezina": "srednje",
+      "pitanje": "Kako je jesen oživljena u stihovima „Jesen je uzela kist / i polako obojila šumu / žutom i crvenom bojom.“?",
+      "ponudeni": [
+        "Jesen donosi kišu.",
+        "U jesen su dani kraći.",
+        "Jesen traje tri mjeseca.",
+        "Jesen slika kistom kao čovjek."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Slikanje kistom ljudski je postupak, pa je jesen u stihovima oživljena.",
+      "savjet": "Pronađi radnju koju jesen čini u stihovima."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-047",
+      "tezina": "srednje",
+      "pitanje": "Što je oživljeno u stihu „Planina je skinula bijelu kapu“ i zašto?",
+      "ponudeni": [
+        "kapa, jer je bijela",
+        "snijeg, jer se topi",
+        "planina, jer skida kapu kao čovjek",
+        "planina, jer je visoka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Planina skida kapu kao čovjek; tako pjesnik kaže da se snijeg otopio.",
+      "savjet": "Pitaj se tko u stihu nešto radi i je li ta radnja ljudska."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-048",
+      "tezina": "srednje",
+      "pitanje": "Koji stih o životinjama na selu sadrži personifikaciju?",
+      "ponudeni": [
+        "Krava muče na livadi.",
+        "Konj je zahvalio seljaku.",
+        "Pas maše repom.",
+        "Mačka lovi miša."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zahvaljivanje je ljudski govor, a ostale su radnje stvarno ponašanje životinja.",
+      "savjet": "Razmisli koju radnju životinja na selu nikad ne čini."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-049",
+      "tezina": "srednje",
+      "pitanje": "Što je oživljeno u stihu „Umorni vlak uzdiše na peronu.“?",
+      "ponudeni": [
+        "vlak",
+        "peron",
+        "tračnice",
+        "putnik"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vlak je umoran i uzdiše kao čovjek, pa je on oživljen.",
+      "savjet": "Pitaj se tko je u stihu umoran."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-050",
+      "tezina": "srednje",
+      "pitanje": "Koji nastavak stiha „Vjetar je ___“ stvara personifikaciju?",
+      "ponudeni": [
+        "puhao cijelu noć",
+        "bio jak i hladan",
+        "srušio staru granu",
+        "zagrlio staru kuću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Grljenje je ljudski postupak, a vjetar stvarno puše i može srušiti granu.",
+      "savjet": "Odaberi radnju koju vjetar u stvarnosti ne može učiniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-051",
+      "tezina": "srednje",
+      "pitanje": "Koji dio stihova NIJE personifikacija? „Vrata škripe, / prozor se dosađuje, / pod spava, / a strop broji muhe.“",
+      "ponudeni": [
+        "prozor se dosađuje",
+        "pod spava",
+        "Vrata škripe",
+        "a strop broji muhe"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrata stvarno škripe; dosada, spavanje i brojenje pripadaju živim bićima.",
+      "savjet": "Pitaj se koja se od tih stvari može stvarno čuti ili vidjeti u kući."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-052",
+      "tezina": "srednje",
+      "pitanje": "Koliko je stvari oživljeno u stihovima „Ulica se probudila, / zijevnula je trgovina, / a tramvaj je pjevušio.“?",
+      "ponudeni": [
+        "tri",
+        "jedna",
+        "dvije",
+        "četiri"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ulica se budi, trgovina zijeva, a tramvaj pjevuši, pa su oživljene tri stvari.",
+      "savjet": "Provjeri svaki stih i prebroji što se ponaša kao čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-053",
+      "tezina": "srednje",
+      "pitanje": "U priči olovka ljutito prigovara gumici da joj briše crteže. Što je u toj rečenici personifikacija?",
+      "ponudeni": [
+        "Gumica briše crteže.",
+        "Olovka se ljuti i govori kao čovjek.",
+        "Olovka crta crteže.",
+        "Olovka i gumica su u pernici."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljutnja i prigovaranje ljudski su osjećaj i govor; gumica stvarno briše.",
+      "savjet": "Odvoji ono što olovka i gumica stvarno rade od onoga što rade samo ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-054",
+      "tezina": "srednje",
+      "pitanje": "Koji je osjećaj pridan tulipanu u stihovima „Tulipan je stidljivo pocrvenio / kad ga je sunce pogledalo.“?",
+      "ponudeni": [
+        "ljutnja",
+        "strah",
+        "dosada",
+        "stid"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „stidljivo“ pokazuje da tulipan osjeća stid kao čovjek.",
+      "savjet": "Pogledaj kako je opisano crvenjenje tulipana."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-055",
+      "tezina": "srednje",
+      "pitanje": "Koji stih sadrži personifikaciju? „Rano je jutro u šumi, / ptice pjevaju, / potok žubori, / a gljiva čita novine.“",
+      "ponudeni": [
+        "ptice pjevaju",
+        "potok žubori",
+        "a gljiva čita novine",
+        "Rano je jutro u šumi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gljiva ne može čitati; ptice stvarno pjevaju, a potok stvarno žubori.",
+      "savjet": "Razmisli što se u stvarnoj šumi ujutro može čuti i vidjeti, a što ne."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-056",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica o oluji sadrži personifikaciju?",
+      "ponudeni": [
+        "Grmljavina je ljutito lupala šakama po nebu.",
+        "Munja je osvijetlila nebo.",
+        "Grmi već sat vremena.",
+        "Oluja je počela navečer."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljutnja i lupanje šakama pripadaju ljudima, pa je grmljavina oživljena.",
+      "savjet": "Potraži rečenicu u kojoj pojava ima ljudski osjećaj."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-057",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ pokazuje da je lampa oživljena u stihovima „Na stolu žuta lampa / čita knjigu s djetetom / sve do kasne noći.“?",
+      "ponudeni": [
+        "žuta",
+        "čita",
+        "stolu",
+        "noći"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čitati može čovjek, a ne lampa, pa ta riječ stvara personifikaciju.",
+      "savjet": "Potraži glagol koji kaže što lampa radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-058",
+      "tezina": "srednje",
+      "pitanje": "Kako je oživljena jabuka u stihovima „Jabuka se na grani / hvali da je najljepša / u cijelom voćnjaku.“?",
+      "ponudeni": [
+        "Jabuka je crvena.",
+        "Jabuka je slatka.",
+        "Jabuka raste na grani.",
+        "Jabuka se hvali kao čovjek."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Hvalisanje je ljudsko ponašanje, a jabuka ga dobiva personifikacijom.",
+      "savjet": "Pronađi što jabuka u stihovima radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-059",
+      "tezina": "srednje",
+      "pitanje": "Koji naslov izmišljene pjesme najavljuje personifikaciju?",
+      "ponudeni": [
+        "Kad se ormar naljutio",
+        "Moj ljetni odmor",
+        "Zimski dan u gradu",
+        "Kuća moje bake"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ormar je predmet, a ljutnja ljudski osjećaj, pa naslov najavljuje personifikaciju.",
+      "savjet": "Potraži naslov u kojem nešto što nije čovjek ima ljudski osjećaj."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-060",
+      "tezina": "srednje",
+      "pitanje": "Što cesta čini kao čovjek u stihovima „Cesta je dugo hodala / kroz polja i šume / i stigla do mora.“?",
+      "ponudeni": [
+        "Cesta je duga i siva.",
+        "Cesta ima mnogo rupa.",
+        "Cesta hoda kroz polja i šume.",
+        "Cesta je od asfalta."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hodanje je ljudska radnja, pa je cesta u stihovima oživljena.",
+      "savjet": "Potraži glagol u prvom stihu."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-061",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica sadrži usporedbu, a ne personifikaciju?",
+      "ponudeni": [
+        "Oblak je mekan kao jastuk.",
+        "Oblak je zaspao na brdu.",
+        "Oblak se rasplakao nad poljem.",
+        "Oblak je pozdravio sunce."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Oblak se uspoređuje s jastukom po mekoći, ali ne dobiva ljudsku osobinu.",
+      "savjet": "Usporedba spaja dvije stvari po sličnosti, a personifikacija daje ljudske osobine."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-062",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica sadrži personifikaciju, a ne usporedbu?",
+      "ponudeni": [
+        "Sunce je žuto kao limun.",
+        "More je ljutito udaralo o stijene.",
+        "More je plavo poput neba.",
+        "Rijeka je duga kao zmija."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljutnja je ljudski osjećaj, a ostale rečenice samo uspoređuju dvije stvari.",
+      "savjet": "Razmisli koja rečenica pridaje nečemu osjećaj koji inače ima čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-063",
+      "tezina": "tesko",
+      "pitanje": "Luka kaže da je rečenica „Pas laje na poštara.“ personifikacija jer pas nešto radi. Je li Luka u pravu?",
+      "ponudeni": [
+        "Jest, svaka radnja životinje je personifikacija.",
+        "Jest, jer se u rečenici spominje poštar.",
+        "Nije, lajanje je pravo ponašanje psa.",
+        "Nije, personifikacija postoji samo u pjesmi."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pas stvarno laje, pa ne dobiva ljudsku osobinu i nema personifikacije.",
+      "savjet": "Razmisli je li ta radnja ljudska ili ju pas stvarno čini."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-064",
+      "tezina": "tesko",
+      "pitanje": "Je li rečenica „Djevojčica razgovara s bakom u vrtu.“ personifikacija?",
+      "ponudeni": [
+        "Jest, jer se u njoj razgovara.",
+        "Jest, jer se spominje vrt.",
+        "Nije, jer u njoj nema rime.",
+        "Nije, jer razgovaraju ljudi."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djevojčica i baka su ljudi, pa njihov razgovor nije oživljavanje.",
+      "savjet": "Sjeti se kome personifikacija pridaje ljudske osobine."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-065",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici ptica dobiva ljudske osobine?",
+      "ponudeni": [
+        "Ptica je napisala pismo prijateljici.",
+        "Ptica pjeva na grani.",
+        "Ptica leti na jug.",
+        "Ptica hrani mlade."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pisanje pisma ljudski je postupak; ptica stvarno pjeva, leti na jug i hrani mlade.",
+      "savjet": "Razmisli koju od tih radnji ptica u prirodi ne može učiniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-066",
+      "tezina": "tesko",
+      "pitanje": "Koji stih NE sadrži personifikaciju?",
+      "ponudeni": [
+        "Sunce se smiješi livadi.",
+        "Zvono je odzvonilo podne.",
+        "Krov se boji tuče.",
+        "Kamen razmišlja o moru."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zvono stvarno zvoni; smijeh, strah i razmišljanje ljudske su osobine.",
+      "savjet": "Provjeri koji stih opisuje nešto što se stvarno događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-067",
+      "tezina": "tesko",
+      "pitanje": "Zašto pjesnik u pjesmi o jeseni piše da se drveće tužno oprašta od lišća?",
+      "ponudeni": [
+        "Da bi stihovi imali rimu.",
+        "Da bi točno opisao kako lišće pada.",
+        "Da bi pjesma bila duža.",
+        "Da bi prirodu oživio i približio čitatelju."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Personifikacijom priroda postaje živa, pa lakše osjetimo tugu jeseni.",
+      "savjet": "Razmisli kako se osjećaš kad drveće u pjesmi ima osjećaje kao ti."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-068",
+      "tezina": "tesko",
+      "pitanje": "Ema je napisala: „Mačka je predla na krilu.“ Kojom bi rečenicom Ema napravila personifikaciju?",
+      "ponudeni": [
+        "Mačka je spavala na krilu.",
+        "Mačka je bila meka kao vuna.",
+        "Mačka je pjevala uspavanku na krilu.",
+        "Mačka je mijaukala na krilu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pjevanje uspavanke ljudski je postupak; mačke stvarno spavaju i mijauču.",
+      "savjet": "Razmisli što mačke stvarno rade, a što rade samo ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-069",
+      "tezina": "tesko",
+      "pitanje": "Što je oživljeno u stihovima „Vrba plače nad rijekom, / a rijeka joj tiho pjeva / da je utješi.“?",
+      "ponudeni": [
+        "vrba i rijeka",
+        "samo vrba",
+        "samo rijeka",
+        "rijeka i nebo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrba plače, a rijeka pjeva da je utješi, pa su obje oživljene.",
+      "savjet": "Provjeri oba stiha: tko u svakome od njih radi nešto ljudsko?"
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-070",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica sadrži i usporedbu i personifikaciju?",
+      "ponudeni": [
+        "Mjesec je okrugao kao lopta.",
+        "Mjesec se pojavio iza brda.",
+        "Mjesec se smije kao veseli dječak.",
+        "Mjesec je pjevao zvijezdama."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Mjesec se smije kao čovjek, a riječ „kao“ ga uspoređuje s dječakom.",
+      "savjet": "Za svaku rečenicu provjeri dvoje: ima li ljudsku radnju i uspoređuje li nešto s nečim."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-071",
+      "tezina": "tesko",
+      "pitanje": "Ivan kaže da je rečenica „Šuma je zelena kao smaragd.“ personifikacija. Zašto Ivan nije u pravu?",
+      "ponudeni": [
+        "Šuma ne može biti u pjesmi.",
+        "Šuma se uspoređuje, a ne dobiva ljudsku osobinu.",
+        "Personifikacija mora imati rimu.",
+        "Riječ kao uvijek označava onomatopeju."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Šuma se po boji uspoređuje sa smaragdom, pa je to usporedba.",
+      "savjet": "Razmisli ima li zelena boja veze s ljudima."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-072",
+      "tezina": "tesko",
+      "pitanje": "U kojoj je rečenici oživljena prirodna pojava, a ne predmet ni biljka?",
+      "ponudeni": [
+        "Tanjur se razbio od straha.",
+        "Ruža se uvrijedila.",
+        "Lonac se hvalio susjedima.",
+        "Magla se sakrila u dolini."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Magla je prirodna pojava; tanjur i lonac su predmeti, a ruža je biljka.",
+      "savjet": "Prvo odredi je li oživljeno nešto napravljeno, nešto što raste ili nešto što se događa u prirodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-073",
+      "tezina": "tesko",
+      "pitanje": "Kako treba promijeniti rečenicu „Kuća se rastužila kad su se ljudi odselili.“ da u njoj više NE bude personifikacije?",
+      "ponudeni": [
+        "Kuća je ostala prazna kad su se ljudi odselili.",
+        "Kuća je plakala kad su se ljudi odselili.",
+        "Kuća je čeznula za ljudima koji su se odselili.",
+        "Kuća se pitala kamo su se ljudi odselili."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prazna kuća opisana je stvarno, bez ljudskih osjećaja i misli.",
+      "savjet": "Odaberi rečenicu u kojoj kuća ne osjeća, ne misli i ne radi ništa ljudsko."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-074",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica opisuje stvarno ponašanje biljke, a ne personifikaciju?",
+      "ponudeni": [
+        "Suncokret je pozdravio pčele.",
+        "Suncokret se hvali visinom.",
+        "Suncokret se okreće prema suncu.",
+        "Suncokret se naljutio na oblak."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Suncokret se stvarno okreće prema suncu; pozdravljanje, hvaljenje i ljutnja su ljudski.",
+      "savjet": "Sjeti se što biljke stvarno rade kad rastu."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-075",
+      "tezina": "tesko",
+      "pitanje": "Kakvo raspoloženje stvaraju personifikacije u stihovima „Ljuljačka se smije, / tobogan pjevuši, / a lopta skakuće od sreće.“?",
+      "ponudeni": [
+        "tužno",
+        "veselo",
+        "ljutito",
+        "zabrinuto"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Smijeh, pjevušenje i sreća stvaraju veselo raspoloženje.",
+      "savjet": "Razmisli kako se osjećaju igračke i sprave u tim stihovima."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-076",
+      "tezina": "tesko",
+      "pitanje": "Kakvo raspoloženje stvara personifikacija u stihovima „Prozori stare škole / gledaju prazno dvorište / i čekaju djecu koja ne dolaze.“?",
+      "ponudeni": [
+        "veselo",
+        "razigrano",
+        "ljutito",
+        "tužno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prozori uzalud čekaju djecu u praznom dvorištu, pa je raspoloženje tužno.",
+      "savjet": "Zamisli kako je nekome tko čeka, a nitko ne dolazi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-077",
+      "tezina": "tesko",
+      "pitanje": "Koji stih treba dodati stihovima „Pada snijeg na grad, / bijeli su krovovi,“ da pjesmica dobije personifikaciju?",
+      "ponudeni": [
+        "a djeca grade snjegovića",
+        "a ptice traže hranu",
+        "a semafor zijeva od dosade",
+        "a ceste su skliske i bijele"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zijevanje i dosada pripadaju ljudima, a semafor je predmet.",
+      "savjet": "Dodani stih treba nečemu što nije čovjek dati ljudsko ponašanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-078",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica o vratima NIJE personifikacija?",
+      "ponudeni": [
+        "Vrata su se nasmijala gostima.",
+        "Vrata su škripnula: škrip!",
+        "Vrata su pozdravila tatu.",
+        "Vrata su se uvrijedila kad ih je netko zalupio."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrata stvarno škripe, a riječ škrip je onomatopeja, ne personifikacija.",
+      "savjet": "Za svaku rečenicu pitaj se mogu li vrata to stvarno učiniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-079",
+      "tezina": "tesko",
+      "pitanje": "Mia je u svojoj pjesmi oživjela predmet. Koji je stih njezin?",
+      "ponudeni": [
+        "Moj se jastuk duri na podu.",
+        "Moja ruža pjeva na prozoru.",
+        "Moj pas spava na podu.",
+        "Moja mačka prede na jastuku."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jastuk je predmet koji se duri kao čovjek; ruža je biljka, a pas i mačka se ponašaju stvarno.",
+      "savjet": "Traži stih s personifikacijom, ali pazi što je u njemu oživljeno."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-080",
+      "tezina": "tesko",
+      "pitanje": "Petra kaže da je rečenica „Ruža je crvena.“ personifikacija jer ruža ima neku osobinu. Je li Petra u pravu?",
+      "ponudeni": [
+        "Jest, svaka osobina stvara personifikaciju.",
+        "Jest, jer je ruža biljka.",
+        "Nije, jer je rečenica prekratka.",
+        "Nije, crvena boja nije ljudska osobina."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Personifikacija nastaje samo kad nešto dobije ljudsku osobinu, a boja to nije.",
+      "savjet": "Razmisli pripada li ta osobina samo ljudima."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-081",
+      "tezina": "tesko",
+      "pitanje": "Koji stih sadrži personifikaciju, a ne onomatopeju?",
+      "ponudeni": [
+        "Tik-tak, kuca sat.",
+        "Bzz, zuji pčela.",
+        "Sat se žuri na posao.",
+        "Pljus, pada kiša."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sat koji se žuri na posao ponaša se kao čovjek; ostali stihovi oponašaju zvukove.",
+      "savjet": "Onomatopeja oponaša zvuk, a personifikacija daje ljudske postupke."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-082",
+      "tezina": "tesko",
+      "pitanje": "U kojem paru obje rečenice sadrže personifikaciju?",
+      "ponudeni": [
+        "Stol se ljuti. / Lonac se hvali.",
+        "Ruža se smiješi. / Sunce sja.",
+        "Pas laje. / Mačka mijauče.",
+        "Kiša pada. / Oblak plače."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stol i lonac dobivaju ljudski osjećaj i ponašanje; u ostalim parovima jedna ili obje rečenice opisuju stvarnost.",
+      "savjet": "Provjeri svaku rečenicu u paru posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-083",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici personifikacija daje brdu ljudsko razmišljanje?",
+      "ponudeni": [
+        "Brdo se ljuti na vjetar.",
+        "Brdo se pita što je iza oblaka.",
+        "Brdo je pozdravilo jutro.",
+        "Brdo je visoko i strmo."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pitati se znači razmišljati; ljutnja je osjećaj, a pozdrav je govor.",
+      "savjet": "Razlikuj osjećaj, govor i mišljenje."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-084",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici personifikacija daje predmetu ljudski osjećaj?",
+      "ponudeni": [
+        "Škare su pjevale pjesmu.",
+        "Ravnalo je reklo: Dobar dan.",
+        "Bilježnica je puna zadataka.",
+        "Gumica se boji škara."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Strah je osjećaj; pjevanje je postupak, a pozdrav je govor.",
+      "savjet": "Razlikuj ono što predmet radi ili govori od onoga što osjeća."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-085",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica iz izmišljene priče sadrži personifikaciju?",
+      "ponudeni": [
+        "Stara kruška pod prozorom dozivala je Marka u vrt.",
+        "Marko je otvorio prozor i pogledao van.",
+        "Vani je padala sitna kiša.",
+        "Marko je istrčao u vrt bez kape."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kruška doziva Marka kao čovjek; Marko je čovjek, a kiša stvarno pada.",
+      "savjet": "Za svaku rečenicu pitaj se tko radi radnju i može li to stvarno činiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-086",
+      "tezina": "tesko",
+      "pitanje": "Što treba provjeriti da bi se znalo je li rečenica personifikacija?",
+      "ponudeni": [
+        "Ima li u rečenici riječ kao.",
+        "Rimuju li se riječi u rečenici.",
+        "Ima li nešto što nije čovjek osobinu koju ima čovjek.",
+        "Ima li riječ koja oponaša zvuk."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Personifikacija nastaje kad životinja, biljka, predmet ili pojava dobije ljudsku osobinu.",
+      "savjet": "Sjeti se što personifikacija pridaje i čemu."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-087",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici pas NE dobiva ljudske osobine?",
+      "ponudeni": [
+        "Pas je pročitao knjigu.",
+        "Pas je zaspao pred kućicom.",
+        "Pas je ispekao kolač.",
+        "Pas je telefonom nazvao susjeda."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pas stvarno spava, a čitanje, pečenje i telefoniranje ljudski su postupci.",
+      "savjet": "Potraži rečenicu koja bi se mogla dogoditi i u stvarnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-088",
+      "tezina": "tesko",
+      "pitanje": "Koji stih NE sadrži personifikaciju? „Trava se proteže na suncu, / maslačak pjeva s pčelama, / grm se smije oblaku, / a rosa nestaje s lišća.“",
+      "ponudeni": [
+        "Trava se proteže na suncu",
+        "maslačak pjeva s pčelama",
+        "grm se smije oblaku",
+        "a rosa nestaje s lišća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rosa stvarno nestaje kad je sunce zagrije; ostali stihovi daju biljkama ljudske postupke.",
+      "savjet": "Pronađi stih koji opisuje ono što se u prirodi stvarno događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o personifikaciji točna?",
+      "ponudeni": [
+        "Personifikacija se može naći i u pjesmi i u priči.",
+        "Personifikacija uvijek sadrži riječ kao.",
+        "Personifikacija pridaje ljudske osobine samo životinjama.",
+        "Personifikacija je riječ koja oponaša zvuk."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Personifikaciju koriste i pjesnici i pisci priča, a oživljavaju i biljke, predmete i pojave.",
+      "savjet": "Sjeti se gdje se sve stvari i životinje ponašaju kao ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-personifikacija-090",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se rečenica „Sunce je radoznalo zavirilo kroz prozor.“ razlikuje od rečenice „Sunce sja kroz prozor.“?",
+      "ponudeni": [
+        "U prvoj se sunce s nečim uspoređuje.",
+        "U drugoj je sunce oživljeno.",
+        "U prvoj sunce dobiva ljudsku znatiželju.",
+        "U prvoj je riječ koja oponaša zvuk."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Radoznalost i zavirivanje ljudske su osobine; da sunce sja, to je stvarno.",
+      "savjet": "Razmisli koja rečenica opisuje sunce onako kako ga stvarno vidimo."
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "tema-i-motivi-pjesme",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-001",
+      "tezina": "lagano",
+      "pitanje": "Što je tema pjesme?",
+      "ponudeni": [
+        "Ono o čemu pjesma govori",
+        "Broj stihova u pjesmi",
+        "Ime osobe koja je napisala pjesmu",
+        "Zadnja riječ u svakom stihu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tema je ono o čemu pjesma govori, npr. proljeće ili prijateljstvo.",
+      "savjet": "Sjeti se pitanja koje postavljaš kad želiš ukratko saznati sadržaj pjesme."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-002",
+      "tezina": "lagano",
+      "pitanje": "Što su motivi pjesme?",
+      "ponudeni": [
+        "Riječi koje se rimuju na kraju stihova",
+        "Prazni redovi između strofa",
+        "Bića, stvari, pojave i osjećaji o kojima pjesma govori",
+        "Stihovi koji se u pjesmi ponavljaju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Motivi su manje cjeline pjesme: bića, stvari, pojave i osjećaji koje pjesnik opisuje.",
+      "savjet": "Sjeti se što sve pjesnik opisuje u pjesmi o jeseni: lišće, kišu, maglu…"
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se naziva motiv o kojem se u pjesmi najviše govori?",
+      "ponudeni": [
+        "sporedni motiv",
+        "glavni motiv",
+        "refren",
+        "naslov"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Glavni motiv je onaj o kojem se u pjesmi najviše govori; ostali su motivi sporedni.",
+      "savjet": "Razmisli koji je motiv najvažniji i stoji u središtu pjesme."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se nazivaju motivi o kojima se u pjesmi govori manje?",
+      "ponudeni": [
+        "glavni motivi",
+        "rime",
+        "strofe",
+        "sporedni motivi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sporedni motivi manje su važni i nadopunjuju glavni motiv.",
+      "savjet": "Ti motivi stoje uz najvažniji motiv, ali sami nisu najvažniji."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se tema pjesme najčešće izriče?",
+      "ponudeni": [
+        "Cijelom strofom pjesme",
+        "Jednim brojem",
+        "Kratko, s nekoliko riječi",
+        "Nizom riječi koje se rimuju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Temu izričemo kratko, npr. „more ljeti“ ili „ljubav prema majci“.",
+      "savjet": "Sjeti se primjera tema poput „proljeće“ ili „prijateljstvo“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-006",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga može biti tema pjesme?",
+      "ponudeni": [
+        "ljubav prema baki",
+        "treći stih pjesme",
+        "rima kiša – miša",
+        "prazan red između strofa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ljubav prema baki kazuje o čemu bi pjesma mogla govoriti, pa može biti tema.",
+      "savjet": "Tema odgovara na pitanje o čemu pjesma govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-007",
+      "tezina": "lagano",
+      "pitanje": "Što od navedenoga može biti motiv u pjesmi o zimi?",
+      "ponudeni": [
+        "zrele trešnje",
+        "kupaći kostim",
+        "suncokret u cvatu",
+        "snijeg"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Snijeg pripada zimi, pa je čest motiv u pjesmama o zimi.",
+      "savjet": "Zamisli što vidiš kroz prozor u siječnju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-008",
+      "tezina": "lagano",
+      "pitanje": "Pjesma ima naslov „Moj pas Žućko“. O čemu ta pjesma najvjerojatnije govori?",
+      "ponudeni": [
+        "o zimskom moru",
+        "o psu kojeg pjesnik voli",
+        "o školskom zvonu",
+        "o jesenskoj kiši"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Naslov često kazuje temu, a ovaj naslov govori o psu.",
+      "savjet": "Pročitaj pažljivo naslov; on često otkriva o čemu je pjesma."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-009",
+      "tezina": "lagano",
+      "pitanje": "Što izražava lirska pjesma?",
+      "ponudeni": [
+        "upute za igru",
+        "osjećaje i doživljaje",
+        "točne brojeve i podatke",
+        "vozni red autobusa"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lirska pjesma izražava osjećaje i doživljaje onoga tko govori u pjesmi.",
+      "savjet": "Sjeti se što se događa u tebi dok čitaš ili slušaš pjesmu."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-010",
+      "tezina": "lagano",
+      "pitanje": "Kako nazivamo ono što osjećamo i zamišljamo dok čitamo ili slušamo pjesmu?",
+      "ponudeni": [
+        "tema pjesme",
+        "naslov pjesme",
+        "strofa pjesme",
+        "doživljaj pjesme"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Doživljaj pjesme čine osjećaji i slike koje pjesma u nama pobudi.",
+      "savjet": "Misli na ono što se događa u tebi, a ne na dijelove pjesme."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-011",
+      "tezina": "lagano",
+      "pitanje": "Što je raspoloženje (ugođaj) pjesme?",
+      "ponudeni": [
+        "osjećaj koji pjesma prenosi, npr. veselje ili tuga",
+        "broj stihova u pjesmi",
+        "riječi koje se rimuju",
+        "ime pjesnika"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Raspoloženje pjesme je osjećaj koji ona prenosi: veselo, tužno, nježno, mirno…",
+      "savjet": "Pitaj se kako se osjećaš nakon što pročitaš neku pjesmu."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-012",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ opisuje raspoloženje pjesme?",
+      "ponudeni": [
+        "četverostih",
+        "naslov",
+        "veselo",
+        "stih"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječ „veselo“ kazuje osjećaj, a ostale su riječi nazivi dijelova pjesme.",
+      "savjet": "Raspoloženje se opisuje riječju koja kazuje neki osjećaj."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-013",
+      "tezina": "lagano",
+      "pitanje": "Može li pjesma imati više motiva?",
+      "ponudeni": [
+        "Ne, svaka pjesma ima samo jedan motiv.",
+        "Ne, pjesme nemaju motive.",
+        "Da, ali samo ako ima naslov.",
+        "Da, pjesma obično ima više motiva."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pjesma obično ima jedan glavni i više sporednih motiva.",
+      "savjet": "Sjeti se koliko bića i stvari obično opisuje jedna pjesma."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-014",
+      "tezina": "lagano",
+      "pitanje": "Što često kazuje naslov pjesme?",
+      "ponudeni": [
+        "broj strofa",
+        "temu pjesme",
+        "ime čitatelja",
+        "broj rima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Naslov pjesme često kazuje o čemu pjesma govori, tj. njezinu temu.",
+      "savjet": "Pomisli što o pjesmi saznaš već prije čitanja, samo iz naslova."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-015",
+      "tezina": "lagano",
+      "pitanje": "Koja od navedenih riječi može biti motiv pjesme?",
+      "ponudeni": [
+        "stih",
+        "strofa",
+        "kiša",
+        "rima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kiša je pojava koju pjesnik može opisati, a stih, strofa i rima nazivi su dijelova pjesme.",
+      "savjet": "Motiv je nešto o čemu pjesma govori, a ne dio njezina oblika."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-016",
+      "tezina": "lagano",
+      "pitanje": "Pjesma govori o proljeću, a u njoj se spominju cvijeće, ptice i sunce. Što je tema pjesme?",
+      "ponudeni": [
+        "proljeće",
+        "cvijeće",
+        "ptice",
+        "sunce"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tema je proljeće, a cvijeće, ptice i sunce motivi su te pjesme.",
+      "savjet": "Tema je ono o čemu govori cijela pjesma, a ne samo jedan njezin dio."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-017",
+      "tezina": "lagano",
+      "pitanje": "Može li osjećaj, npr. radost, biti motiv pjesme?",
+      "ponudeni": [
+        "Da, i osjećaji mogu biti motivi.",
+        "Ne, motivi su samo životinje.",
+        "Ne, motivi su samo predmeti.",
+        "Ne, motiv je samo naslov pjesme."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Motivi mogu biti bića, stvari i pojave, ali i osjećaji poput radosti ili tuge.",
+      "savjet": "Sjeti se svega što pjesnik može opisivati u pjesmi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-018",
+      "tezina": "lagano",
+      "pitanje": "Pjesma o moru spominje valove, galebove i školjke. Što su valovi, galebovi i školjke u toj pjesmi?",
+      "ponudeni": [
+        "teme",
+        "naslovi",
+        "motivi",
+        "strofe"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Valovi, galebovi i školjke manje su cjeline pjesme o moru, dakle motivi.",
+      "savjet": "Pjesma govori o moru, a ovo su bića i stvari koje se u njoj opisuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-019",
+      "tezina": "lagano",
+      "pitanje": "Koji je od navedenih motiva pojava u prirodi?",
+      "ponudeni": [
+        "školska torba",
+        "duga",
+        "mačka",
+        "radost"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Duga je pojava u prirodi; torba je stvar, mačka biće, a radost osjećaj.",
+      "savjet": "Motivi mogu biti bića, stvari, pojave i osjećaji; razvrstaj svaku riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-020",
+      "tezina": "lagano",
+      "pitanje": "Što znači povezati pjesmu s vlastitim iskustvom?",
+      "ponudeni": [
+        "prepisati pjesmu u bilježnicu",
+        "prebrojiti stihove pjesme",
+        "pročitati pjesmu dvaput naglas",
+        "sjetiti se nečega sličnog što smo i sami doživjeli"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad se sjetimo nečeg sličnog iz svog života, pjesmu bolje razumijemo i doživimo.",
+      "savjet": "Riječ „vlastito“ znači da je riječ o tvom životu."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-021",
+      "tezina": "lagano",
+      "pitanje": "Koje pitanje pomaže odrediti temu pjesme?",
+      "ponudeni": [
+        "Koliko pjesma ima stihova?",
+        "Koje se riječi rimuju?",
+        "O čemu pjesma govori?",
+        "Koliko je dug naslov?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tema je kratak odgovor na pitanje o čemu pjesma govori.",
+      "savjet": "Tema se tiče sadržaja pjesme, a ne njezina oblika."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-022",
+      "tezina": "lagano",
+      "pitanje": "Koje pitanje pomaže pronaći motive pjesme?",
+      "ponudeni": [
+        "Koja se bića, stvari i pojave spominju u pjesmi?",
+        "Koliko strofa ima pjesma?",
+        "Koji se stih ponavlja?",
+        "Kada je pjesma napisana?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Motivi su bića, stvari, pojave i osjećaji koje pjesnik opisuje.",
+      "savjet": "Motivi su manje cjeline pjesme koje pjesnik opisuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-023",
+      "tezina": "lagano",
+      "pitanje": "Kakvo je raspoloženje pjesme koja govori o igri, smijehu i suncu?",
+      "ponudeni": [
+        "tužno",
+        "ljutito",
+        "uplašeno",
+        "veselo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Igra, smijeh i sunce stvaraju veselo raspoloženje.",
+      "savjet": "Zamisli kako se osjećaš dok se igraš na suncu."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-024",
+      "tezina": "lagano",
+      "pitanje": "Je li tema isto što i naslov pjesme?",
+      "ponudeni": [
+        "Da, tema i naslov uvijek su iste riječi.",
+        "Ne mora biti, ali naslov često kazuje temu.",
+        "Ne, naslov nikad nema veze s temom.",
+        "Ne, naslov je zadnji stih pjesme."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Naslov često kazuje temu, ali tema i naslov ne moraju biti iste riječi.",
+      "savjet": "Sjeti se imenuje li svaki naslov točno ono o čemu pjesma govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-025",
+      "tezina": "lagano",
+      "pitanje": "Može li ista pjesma u različitim čitateljima pobuditi različite doživljaje?",
+      "ponudeni": [
+        "Ne, svi je moraju doživjeti jednako.",
+        "Da, svatko pjesmu doživljava na svoj način.",
+        "Ne, pjesma ne budi nikakve osjećaje.",
+        "Da, ali samo ako je pjesma duga."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svaki čitatelj pjesmu doživljava na svoj način, prema svojim osjećajima i iskustvu.",
+      "savjet": "Sjeti se kako ti i prijatelji različito doživite isti film ili igru."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-026",
+      "tezina": "lagano",
+      "pitanje": "Pjesma govori o tome koliko dijete voli svoj rodni grad. Koja je tema te pjesme?",
+      "ponudeni": [
+        "zimski praznici",
+        "školski izlet",
+        "rođendanska torta",
+        "ljubav prema rodnom gradu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pjesma govori o ljubavi prema rodnom gradu, pa je to njezina tema.",
+      "savjet": "Ponovno pročitaj što pjesma opisuje i izreci to s nekoliko riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-027",
+      "tezina": "lagano",
+      "pitanje": "Koji motiv najvjerojatnije nalazimo u pjesmi s naslovom „Ljetni dan“?",
+      "ponudeni": [
+        "vruće sunce",
+        "sanjke",
+        "vuneni šal",
+        "snjegović"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vruće sunce pripada ljetu, a sanjke, šal i snjegović pripadaju zimi.",
+      "savjet": "Zamisli kakvo je vrijeme u srpnju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-028",
+      "tezina": "lagano",
+      "pitanje": "Što najprije treba učiniti da bi se odredila tema pjesme?",
+      "ponudeni": [
+        "prebrojiti slova u naslovu pjesme",
+        "pronaći najdulju riječ u pjesmi",
+        "pažljivo pročitati pjesmu i razmisliti o čemu govori",
+        "pročitati samo zadnji stih pjesme"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Temu možemo odrediti tek kad pročitamo cijelu pjesmu i razumijemo je.",
+      "savjet": "Tema se tiče cijele pjesme, a ne jednog njezina dijela."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-029",
+      "tezina": "lagano",
+      "pitanje": "Čemu služe sporedni motivi u pjesmi?",
+      "ponudeni": [
+        "zamjenjuju naslov pjesme",
+        "određuju broj strofa",
+        "služe samo za rimu",
+        "upotpunjuju sliku glavnog motiva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sporedni motivi nadopunjuju glavni motiv i pomažu da ga bolje zamislimo.",
+      "savjet": "Zamisli pjesmu o psu: što bi joj dodali lopta, kućica i kost?"
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-030",
+      "tezina": "lagano",
+      "pitanje": "Kako se drugim imenom naziva ugođaj pjesme?",
+      "ponudeni": [
+        "rima",
+        "raspoloženje",
+        "refren",
+        "kitica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ugođaj pjesme naziva se i raspoloženje pjesme: veselo, tužno, mirno…",
+      "savjet": "Ugođaj kazuje kakav osjećaj pjesma budi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-031",
+      "tezina": "srednje",
+      "pitanje": "„Sitna kiša pada s neba, / kišobrani šeću gradom, / lokve sjaje na pločniku.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "ljetovanje na moru",
+        "kišni dan u gradu",
+        "zimska igra u snijegu",
+        "rođendan u parku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kiša, kišobrani i lokve na pločniku govore o kišnom danu u gradu.",
+      "savjet": "Pogledaj što se spominje u svakom stihu i što je tome zajedničko."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-032",
+      "tezina": "srednje",
+      "pitanje": "„Snjegović stoji pred kućom, / nos mu je od mrkve, / a djeca oko njega pjevaju.“ Koji je glavni motiv tih stihova?",
+      "ponudeni": [
+        "mrkva",
+        "kuća",
+        "djeca",
+        "snjegović"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svi stihovi govore o snjegoviću, a mrkva, kuća i djeca sporedni su motivi.",
+      "savjet": "Potraži o kome ili čemu govore svi stihovi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-033",
+      "tezina": "srednje",
+      "pitanje": "„Baka mi plete šal od vune, / priča mi priče uz toplu peć, / a mače prede kraj njezinih nogu.“ Koji je glavni motiv tih stihova?",
+      "ponudeni": [
+        "šal",
+        "peć",
+        "baka",
+        "mače"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stihovi najviše govore o baki: što radi i tko je uz nju.",
+      "savjet": "Odredi tko je u središtu svakog stiha."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-034",
+      "tezina": "srednje",
+      "pitanje": "„Jesen je stigla u naš vrt, / žuto lišće pada s grana, / a jež skuplja zrele jabuke.“ Što je od navedenoga motiv u tim stihovima?",
+      "ponudeni": [
+        "jež",
+        "sanjke",
+        "more",
+        "tulipan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jež se spominje u stihovima, pa je jedan od motiva.",
+      "savjet": "Motiv je biće ili stvar koja se u stihovima zaista spominje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-035",
+      "tezina": "srednje",
+      "pitanje": "„Skačemo po livadi, / smijeh nam leti do oblaka, / sunce se s nama igra.“ Kakvo je raspoloženje tih stihova?",
+      "ponudeni": [
+        "tužno",
+        "uplašeno",
+        "ljutito",
+        "veselo i razigrano"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Skakanje, smijeh i igra stvaraju veselo i razigrano raspoloženje.",
+      "savjet": "Obrati pažnju na to što rade oni o kojima stihovi govore."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-036",
+      "tezina": "srednje",
+      "pitanje": "„Prazna je klupa u parku, / otišao je moj prijatelj, / a ja ga čekam sam.“ Kakvo je raspoloženje tih stihova?",
+      "ponudeni": [
+        "veselo",
+        "tužno",
+        "šaljivo",
+        "razigrano"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prazna klupa, odlazak prijatelja i samoća stvaraju tužno raspoloženje.",
+      "savjet": "Zamisli kako se osjeća netko tko čeka prijatelja koji je otišao."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-037",
+      "tezina": "srednje",
+      "pitanje": "„Moja mama ima tople ruke, / njezin me glas budi ujutro, / volim je više od svega.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "ljubav prema majci",
+        "jutro u školi",
+        "igra s prijateljima",
+        "zimski dan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stihovi govore o mami i o tome koliko je dijete voli.",
+      "savjet": "Pročitaj zadnji stih i razmisli što on kazuje o cijeloj pjesmi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-038",
+      "tezina": "srednje",
+      "pitanje": "„Galeb leti iznad vala, / brodić plovi prema otoku, / a ja skupljam školjke na žalu.“ Koji su motivi u tim stihovima?",
+      "ponudeni": [
+        "snijeg, sanjke, šal",
+        "lišće, kesteni, magla",
+        "galeb, val, brodić, školjke",
+        "stih, strofa, rima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Galeb, val, brodić i školjke bića su i stvari o kojima stihovi govore.",
+      "savjet": "Motivi su bića i stvari koje se u stihovima zaista spominju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-039",
+      "tezina": "srednje",
+      "pitanje": "„Moj pas Rex trči za loptom, / maše repom, laje na mačku, / a navečer spava kraj mene.“ Koji je od navedenih sporedni motiv?",
+      "ponudeni": [
+        "pas Rex",
+        "snijeg",
+        "lopta",
+        "škola"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lopta se spominje uz psa, ali o njoj se govori manje; pas Rex je glavni motiv.",
+      "savjet": "Sporedni motiv spominje se u stihovima, ali nije u središtu pjesme."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-040",
+      "tezina": "srednje",
+      "pitanje": "„Zvoni zvono, torba čeka, / nova klupa, nova knjiga, / učiteljica mi se smiješi.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "početak školske godine",
+        "ljetni praznici na moru",
+        "zimska šetnja šumom",
+        "rođendanska zabava"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zvono, torba, nova klupa i učiteljica govore o početku školske godine.",
+      "savjet": "Razmisli gdje se nalaze zvono, klupa i učiteljica."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-041",
+      "tezina": "srednje",
+      "pitanje": "„Ptice se vraćaju s juga, / visibaba probija snijeg, / dani su sve dulji.“ Koji naslov najbolje izriče temu tih stihova?",
+      "ponudeni": [
+        "„Ljetna oluja“",
+        "„Dolazak proljeća“",
+        "„Zimska noć“",
+        "„Jesenska berba“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Povratak ptica, visibabe i dulji dani znakovi su da dolazi proljeće.",
+      "savjet": "Razmisli u koje doba godine niče visibaba i vraćaju se ptice."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-042",
+      "tezina": "srednje",
+      "pitanje": "„Kad tata dođe s puta, / srce mi skače od sreće.“ Koji je osjećaj motiv tih stihova?",
+      "ponudeni": [
+        "strah",
+        "ljutnja",
+        "dosada",
+        "radost"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Srce koje „skače od sreće“ pokazuje radost zbog tatina povratka.",
+      "savjet": "Zamisli kako je kad nakon dugo vremena opet vidiš nekoga dragog."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-043",
+      "tezina": "srednje",
+      "pitanje": "Pjesma govori o djetetu koje se boji mraka. Koje je iskustvo najbliže toj pjesmi?",
+      "ponudeni": [
+        "strah od mraka u svojoj sobi",
+        "kupanje u moru ljeti",
+        "pobjeda u nogometnoj utakmici",
+        "pečenje kolača s tatom"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pjesmu najlakše povezujemo s iskustvom u kojem smo osjetili isti strah.",
+      "savjet": "Potraži iskustvo u kojem se javlja isti osjećaj kao u pjesmi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-044",
+      "tezina": "srednje",
+      "pitanje": "„Kesteni padaju u travu, / magla se spušta na polja, / ptice odlaze na jug.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "ljetovanje na moru",
+        "zimske igre",
+        "jesen u prirodi",
+        "proljetno cvijeće"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kesteni, magla i odlazak ptica motivi su jeseni u prirodi.",
+      "savjet": "Sjeti se kada padaju kesteni i kada ptice odlaze."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-045",
+      "tezina": "srednje",
+      "pitanje": "„Na stolu gori svijeća, / u loncu se kuha juha, / a vani pada snijeg.“ Što se od navedenoga NE spominje kao motiv u tim stihovima?",
+      "ponudeni": [
+        "svijeća",
+        "juha",
+        "snijeg",
+        "sunce"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svijeća, juha i snijeg spominju se u stihovima, a sunce se ne spominje.",
+      "savjet": "Pročitaj svaki stih i u njemu potraži svaku ponuđenu riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-046",
+      "tezina": "srednje",
+      "pitanje": "„Stara lipa u dvorištu / pamti djeda kad je bio dječak, / u hladu joj spavaju mačke.“ Koji je glavni motiv tih stihova?",
+      "ponudeni": [
+        "djed",
+        "stara lipa",
+        "mačke",
+        "dvorište"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svi stihovi govore o staroj lipi, a djed, mačke i dvorište sporedni su motivi.",
+      "savjet": "Potraži o čemu se govori u svakom od tri stiha."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-047",
+      "tezina": "srednje",
+      "pitanje": "„Tiho pada večer, / mjesec gleda kroz prozor, / sve u kući spava.“ Kakvo je raspoloženje tih stihova?",
+      "ponudeni": [
+        "bučno",
+        "mirno i spokojno",
+        "ljutito",
+        "razigrano"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tiha večer i kuća u kojoj sve spava stvaraju mirno raspoloženje.",
+      "savjet": "Zamisli kakva je kuća kad svi u njoj spavaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-048",
+      "tezina": "srednje",
+      "pitanje": "„S Lukom dijelim užinu, / tajne, smijeh i loptu, / zajedno smo i kad pada kiša.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "kišni dan",
+        "nogometna utakmica",
+        "školska užina",
+        "prijateljstvo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stihovi govore o prijateljstvu, a užina, lopta i kiša samo su motivi.",
+      "savjet": "Ne biraj jedan motiv, nego ono što povezuje sve stihove."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-049",
+      "tezina": "srednje",
+      "pitanje": "Koji se motiv spominje u stihu „Leptir sleti na crveni mak.“?",
+      "ponudeni": [
+        "pčela",
+        "ruža",
+        "leptir",
+        "livada"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U stihu se spominju leptir i mak, a pčela, ruža i livada ne spominju se.",
+      "savjet": "Pronađi bića i stvari koje stih zaista imenuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-050",
+      "tezina": "srednje",
+      "pitanje": "Nakon pjesme o moru Ana kaže: „Kao da čujem valove i osjećam sol na usnama.“ Što Ana opisuje?",
+      "ponudeni": [
+        "svoj doživljaj pjesme",
+        "broj stihova pjesme",
+        "rimu u pjesmi",
+        "naslov pjesme"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ana opisuje što je osjetila i zamislila dok je čitala, a to je njezin doživljaj pjesme.",
+      "savjet": "Ana govori o onome što je pjesma pobudila u njoj."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-051",
+      "tezina": "srednje",
+      "pitanje": "„Vjetar nosi zmaja visoko, / konac mi bježi iz ruku, / a ja trčim za njim livadom.“ Koji je glavni motiv tih stihova?",
+      "ponudeni": [
+        "konac",
+        "livada",
+        "ruke",
+        "zmaj od papira"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Stihovi govore o zmaju koji leti i za kojim dijete trči; ostalo su sporedni motivi.",
+      "savjet": "Glavni motiv povezuje sve stihove. Što se pojavljuje u svakom od njih?"
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-052",
+      "tezina": "srednje",
+      "pitanje": "„Djed i ja pecamo na rijeci, / šutimo i gledamo plovak, / a sunce zalazi iza vrba.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "zimovanje u planini",
+        "pecanje s djedom",
+        "prvi dan škole",
+        "rođendan u parku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stihovi opisuju kako dijete i djed zajedno pecaju na rijeci.",
+      "savjet": "Pročitaj prvi stih i razmisli što rade oni o kojima pjesma govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-053",
+      "tezina": "srednje",
+      "pitanje": "„Grmi, sijeva, kiša lupa, / mače se skriva pod krevet.“ Kakvo je raspoloženje tih stihova?",
+      "ponudeni": [
+        "uznemireno, puno straha",
+        "veselo i razigrano",
+        "mirno i pospano",
+        "šaljivo i bezbrižno"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Grmljavina i mače koje se skriva stvaraju uznemireno raspoloženje puno straha.",
+      "savjet": "Zamisli kako se osjeća mače koje se skriva pod krevet."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-054",
+      "tezina": "srednje",
+      "pitanje": "Pjesma govori o djetetu koje je izgubilo dragu igračku. Koji ti osjećaj iz vlastitog iskustva pomaže razumjeti tu pjesmu?",
+      "ponudeni": [
+        "radost zbog praznika",
+        "umor nakon trčanja",
+        "tuga kad izgubimo nešto drago",
+        "glad prije ručka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pjesmu bolje razumijemo kad se sjetimo kako je kad izgubimo nešto što volimo.",
+      "savjet": "Razmisli što bi dijete iz pjesme moglo osjećati."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-055",
+      "tezina": "srednje",
+      "pitanje": "„Pod borom svjetla trepere, / ispod grana darovi čekaju, / a u kući miriše kolač.“ Koji naslov najbolje izriče temu tih stihova?",
+      "ponudeni": [
+        "„Ljetni dan na moru“",
+        "„Jesen u voćnjaku“",
+        "„Božićna večer“",
+        "„Prvi školski sat“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Okićeni bor, darovi i miris kolača motivi su božićne večeri.",
+      "savjet": "Razmisli kada se kiti bor i kada se pod njim nalaze darovi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-056",
+      "tezina": "srednje",
+      "pitanje": "U pjesmi se spominju lopta, igralište, smijeh i prijatelji. Koja tema najbolje odgovara tim motivima?",
+      "ponudeni": [
+        "igra s prijateljima",
+        "zimska noć",
+        "rastanak s bakom",
+        "kišna jesen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lopta, igralište, smijeh i prijatelji zajedno govore o igri s prijateljima.",
+      "savjet": "Zamisli gdje se mogu naći svi ti motivi odjednom."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-057",
+      "tezina": "srednje",
+      "pitanje": "„Jutro miriše na kruh, / tata reže kriške, / a mlijeko se puši u šalici.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "večer uz vatru",
+        "obiteljski doručak",
+        "školski izlet",
+        "kupanje u rijeci"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Jutro, kruh, kriške i mlijeko govore o doručku s obitelji.",
+      "savjet": "Razmisli koje je doba dana i što se jede."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-058",
+      "tezina": "srednje",
+      "pitanje": "Koja skupina motiva najbolje pristaje pjesmi o proljeću?",
+      "ponudeni": [
+        "snijeg, sanjke, led",
+        "kesteni, magla, žuto lišće",
+        "vrućina, kupanje, sladoled",
+        "pupoljci, lastavice, mlada trava"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pupoljci, lastavice i mlada trava znakovi su proljeća.",
+      "savjet": "Za svaku skupinu odredi kojem godišnjem dobu pripada."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-059",
+      "tezina": "srednje",
+      "pitanje": "„Moj je brat još malen, / tek uči hodati, / a ja ga čuvam i vodim za ruku.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "briga za mlađeg brata",
+        "šetnja gradom",
+        "igra loptom",
+        "strah od mraka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Stihovi govore o tome kako se dijete brine za svog malog brata.",
+      "savjet": "Razmisli što onaj tko govori u pjesmi radi za brata."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-060",
+      "tezina": "srednje",
+      "pitanje": "Marko čita pjesmu o baki i sjeti se svoje bake. Što Marko radi?",
+      "ponudeni": [
+        "određuje broj strofa",
+        "traži rimu u pjesmi",
+        "povezuje pjesmu s vlastitim iskustvom",
+        "mijenja naslov pjesme"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad se sjeti svoje bake, Marko povezuje pjesmu s onim što je sam doživio.",
+      "savjet": "Razmisli odakle dolazi ono čega se Marko sjetio."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-061",
+      "tezina": "tesko",
+      "pitanje": "U kojem su paru točno navedeni tema i jedan motiv iste pjesme?",
+      "ponudeni": [
+        "tema: galeb; motiv: ljeto na moru",
+        "tema: ljeto na moru; motiv: snjegović",
+        "tema: ljeto na moru; motiv: galeb",
+        "tema: stih; motiv: rima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tema je šira i kazuje o čemu pjesma govori, a galeb je manja cjelina koja toj temi pristaje.",
+      "savjet": "Tema obuhvaća cijelu pjesmu, a motiv je jedan njezin manji dio koji temi pristaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-062",
+      "tezina": "tesko",
+      "pitanje": "Ivan kaže: „Tema moje pjesme je pas, mačka i lopta.“ Što je točno?",
+      "ponudeni": [
+        "To su motivi, a tema kratko kaže o čemu pjesma govori.",
+        "Ivan je u pravu jer je tema popis svih bića.",
+        "Ivan je u pravu jer se te riječi rimuju.",
+        "To su strofe, a tema je uvijek naslov."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pas, mačka i lopta motivi su pjesme; tema je ono o čemu govori cijela pjesma.",
+      "savjet": "Sjeti se razlike između cijele pjesme i njezinih manjih dijelova."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-063",
+      "tezina": "tesko",
+      "pitanje": "U pjesmi „Moj djed“ dijete s ponosom priča kako djed popravlja bicikle, sadi rajčice i priča priče. Koja je tema pjesme?",
+      "ponudeni": [
+        "popravak bicikla",
+        "sadnja rajčica",
+        "pričanje priča",
+        "ponos i ljubav prema djedu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bicikli, rajčice i priče samo su motivi; cijela pjesma govori o ponosu i ljubavi prema djedu.",
+      "savjet": "Tema kazuje o čemu govori cijela pjesma, a ne samo jedan njezin dio."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-064",
+      "tezina": "tesko",
+      "pitanje": "„Ljuljačka škripi u vrtu, / na njoj nema nikoga, / brat je otišao u veliku školu.“ Kakvo je raspoloženje tih stihova i po čemu se to vidi?",
+      "ponudeni": [
+        "Veselo, jer se ljuljačka ljulja.",
+        "Tužno, jer je ljuljačka ostala prazna bez brata.",
+        "Ljutito, jer ljuljačka škripi.",
+        "Razigrano, jer je ljuljačka u vrtu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prazna ljuljačka i brat koji je otišao stvaraju tužno raspoloženje.",
+      "savjet": "Razmisli što nedostaje u vrtu i kako se zbog toga osjeća onaj tko govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-065",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima motive: snijeg, sanjke, rumene obraze i smijeh djece. Koji naslov najbolje izriče njezinu temu?",
+      "ponudeni": [
+        "„Zimska radost“",
+        "„Tužna zima“",
+        "„Ljetni smijeh“",
+        "„Snijeg se topi“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Snijeg i sanjke pripadaju zimi, a smijeh djece pokazuje radost.",
+      "savjet": "Naslov treba odgovarati i godišnjem dobu i raspoloženju motiva."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-066",
+      "tezina": "tesko",
+      "pitanje": "U dvjema pjesmama glavni je motiv more. U jednoj je more mirno i plavo, a u drugoj olujno i strašno. Po čemu se te pjesme najviše razlikuju?",
+      "ponudeni": [
+        "po glavnom motivu",
+        "po broju slova u riječi „more“",
+        "po raspoloženju",
+        "po imenu mora"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Glavni je motiv isti, ali mirno more budi spokoj, a olujno strah, pa se razlikuje raspoloženje.",
+      "savjet": "Usporedi kako se osjećaš uz mirno, a kako uz olujno more."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-067",
+      "tezina": "tesko",
+      "pitanje": "„Tata i ja gradimo kućicu za ptice, / zabijamo čavle, lijepimo krov, / a vrapci već čekaju na grani.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "vrapci na grani",
+        "gradnja kućice za ptice s tatom",
+        "zabijanje čavala",
+        "popravak krova na kući"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vrapci i čavli samo su motivi; stihovi govore o tome kako dijete i tata grade kućicu za ptice.",
+      "savjet": "Tema obuhvaća sve stihove, a ne samo jedan njihov dio."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-068",
+      "tezina": "tesko",
+      "pitanje": "Koji stih može pripadati pjesmi kojoj je tema zimska igra?",
+      "ponudeni": [
+        "„Kupamo se u toplom moru.“",
+        "„Beremo zrele trešnje.“",
+        "„Skupljamo kestene u parku.“",
+        "„Grudamo se pred školom do mraka.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Grudanje je zimska igra, a kupanje, trešnje i kesteni pripadaju drugim godišnjim dobima.",
+      "savjet": "Za svaki stih odredi godišnje doba i provjeri govori li o igri."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-069",
+      "tezina": "tesko",
+      "pitanje": "Zašto je dobro sjetiti se vlastitog iskustva dok čitamo pjesmu?",
+      "ponudeni": [
+        "Lakše prebrojimo stihove.",
+        "Pjesma tada dobije novi naslov.",
+        "Saznamo kako se pjesnik zove.",
+        "Lakše razumijemo i doživimo osjećaje iz pjesme."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad se sjetimo sličnog doživljaja, bolje razumijemo kako se osjeća onaj tko govori u pjesmi.",
+      "savjet": "Razmisli što ti se događa kad u pjesmi prepoznaš nešto što ti se i samo dogodilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-070",
+      "tezina": "tesko",
+      "pitanje": "Pjesma o rastanku na kolodvoru ima motive: vlak, peron, kofer i suze. Koji od tih motiva najviše otkriva raspoloženje pjesme?",
+      "ponudeni": [
+        "vlak",
+        "suze",
+        "peron",
+        "kofer"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Suze pokazuju osjećaj tuge, a vlak, peron i kofer samo su stvari na kolodvoru.",
+      "savjet": "Potraži motiv koji kazuje neki osjećaj, a ne samo mjesto ili stvar."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-071",
+      "tezina": "tesko",
+      "pitanje": "Koja je tvrdnja o temi i motivima točna?",
+      "ponudeni": [
+        "Pjesma ima više tema, a samo jedan motiv.",
+        "Tema i motiv uvijek su ista riječ.",
+        "Pjesma obično ima jednu temu i više motiva.",
+        "Motivi se nalaze samo u naslovu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pjesma obično govori o jednoj temi, a nju opisuje s pomoću više motiva.",
+      "savjet": "Sjeti se što je šire: ono o čemu govori cijela pjesma ili njezini manji dijelovi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-072",
+      "tezina": "tesko",
+      "pitanje": "„Sivo nebo, hladna kiša, / prazne ulice i tišina.“ Koja bi promjena riječi te stihove učinila veselijima?",
+      "ponudeni": [
+        "„sivo nebo“ u „plavo nebo“",
+        "„hladna kiša“ u „ledena kiša“",
+        "„prazne ulice“ u „puste ulice“",
+        "„tišina“ u „muk“"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Plavo nebo budi vedrinu, a ostale zamjene zadržavaju tužno raspoloženje.",
+      "savjet": "Za svaku zamjenu provjeri mijenja li se osjećaj ili ostaje isti."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-073",
+      "tezina": "tesko",
+      "pitanje": "„Brod odlazi iz luke, / s palube mi maše tata, / a ja brojim dane do proljeća.“ Koja je tema tih stihova?",
+      "ponudeni": [
+        "putovanje brodom na ljetovanje",
+        "čekanje tate koji je otplovio",
+        "dolazak proljeća u luku",
+        "igra u luci"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tata odlazi brodom, a dijete broji dane do njegova povratka.",
+      "savjet": "Razmisli zašto onaj tko govori u pjesmi broji dane."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-074",
+      "tezina": "tesko",
+      "pitanje": "Luka kaže da je glavni motiv pjesme lopta jer se ta riječ pojavljuje u prvom stihu. Je li Luka u pravu?",
+      "ponudeni": [
+        "Jest, glavni motiv uvijek je u prvom stihu.",
+        "Jest, svaka riječ iz prvog stiha glavni je motiv.",
+        "Nije, glavni motiv uvijek je u zadnjem stihu.",
+        "Nije, glavni je motiv ono o čemu se najviše govori."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glavni motiv ne određujemo po mjestu u pjesmi, nego po tome koliko se o njemu govori.",
+      "savjet": "Sjeti se po čemu se glavni motiv razlikuje od sporednih."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-075",
+      "tezina": "tesko",
+      "pitanje": "Nakon čitanja iste pjesme o zimi Ema se razveselila, a Petar rastužio. Što to pokazuje?",
+      "ponudeni": [
+        "Ista pjesma može pobuditi različite doživljaje.",
+        "Jedno od njih nije pročitalo pjesmu.",
+        "Pjesma o zimi nema temu.",
+        "Pjesma ima onoliko tema koliko i čitatelja."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svatko pjesmu doživljava na svoj način, prema svojim sjećanjima i osjećajima.",
+      "savjet": "Razmisli mogu li dvije osobe isto pročitati, a različito osjetiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-076",
+      "tezina": "tesko",
+      "pitanje": "„Sama sam u sobi, / nedostaje mi sestra.“ Koji je od navedenih motiva osjećaj?",
+      "ponudeni": [
+        "soba",
+        "sestra",
+        "čežnja za sestrom",
+        "prozor"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Soba je stvar, sestra biće, a čežnja za sestrom osjećaj koji stihovi izražavaju.",
+      "savjet": "Motivi mogu biti bića, stvari i osjećaji; razvrstaj svaku ponuđenu riječ."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-077",
+      "tezina": "tesko",
+      "pitanje": "Koji motiv NE pristaje pjesmi s temom „mirna noć na selu“?",
+      "ponudeni": [
+        "zvijezde nad krovovima",
+        "cvrčci u travi",
+        "bučna gradska gužva",
+        "mjesečina na putu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Gradska gužva nije ni mirna ni seoska, pa ne pristaje toj temi.",
+      "savjet": "Provjeri pristaje li svaki motiv i mjestu i raspoloženju iz teme."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-078",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima temu „prijateljstvo“. Koja skupina motiva najbolje odgovara toj temi?",
+      "ponudeni": [
+        "zajednička igra, dijeljenje užine, pomoć",
+        "snijeg, led, sanjke",
+        "kiša, magla, žuto lišće",
+        "more, sol, galebovi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Zajednička igra, dijeljenje i pomoć pokazuju što prijatelji rade jedni za druge.",
+      "savjet": "Razmisli koji motivi govore o odnosu među ljudima, a ne o vremenu ili mjestu."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-079",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima dvije strofe (odvojene znakom //): „Sunce sja, a mi se igramo / i smijemo do oblaka. // Pala je noć, prijatelj je otišao, / a igralište je ostalo prazno.“ Kako se mijenja raspoloženje?",
+      "ponudeni": [
+        "od tužnog prema veselom",
+        "cijelo je vrijeme ljutito",
+        "cijelo je vrijeme uplašeno",
+        "od veselog prema tužnijem"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U prvoj strofi su igra i smijeh, a u drugoj odlazak prijatelja i prazno igralište.",
+      "savjet": "Odredi raspoloženje svake strofe posebno pa ih usporedi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-080",
+      "tezina": "tesko",
+      "pitanje": "Zašto pjesnik bira baš određene motive?",
+      "ponudeni": [
+        "Da pjesma ima više strofa.",
+        "Da njima dočara temu i raspoloženje pjesme.",
+        "Da svi stihovi budu jednako dugi.",
+        "Da pjesmi ne treba naslov."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Motivima pjesnik oslikava ono o čemu pjesma govori i osjećaj koji želi prenijeti.",
+      "savjet": "Sjeti se kako motivi u pjesmi o jeseni pomažu da zamisliš jesen."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-081",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima naslov „Prozor“, ali govori o djetetu koje kroz prozor gleda prvi snijeg i raduje mu se. Koja je tema pjesme?",
+      "ponudeni": [
+        "radost zbog prvog snijega",
+        "prozor u dječjoj sobi",
+        "popravak razbijenog prozora",
+        "hladnoća u kući zimi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Naslov ne mora kazivati temu; pjesma govori o radosti zbog prvog snijega.",
+      "savjet": "Ne oslanjaj se samo na naslov, nego na ono o čemu pjesma najviše govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-082",
+      "tezina": "tesko",
+      "pitanje": "Pjesma govori o djetetu koje se posvađalo s prijateljem, a zatim se pomirilo. Koji je postupak iz života najsličniji onome u pjesmi?",
+      "ponudeni": [
+        "otići na more s obitelji",
+        "naučiti voziti bicikl",
+        "ispričati se prijatelju nakon svađe",
+        "pospremiti svoju sobu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Isprika prijatelju nakon svađe vodi do pomirenja, baš kao u pjesmi.",
+      "savjet": "Potraži postupak u kojem sudjeluje prijatelj i koji popravlja odnos."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-083",
+      "tezina": "tesko",
+      "pitanje": "Pjesma o rijeci koja je postala prljava budi tugu. Koji postupak čitatelja najbolje pokazuje da je razumio poruku pjesme?",
+      "ponudeni": [
+        "prepisati naslov pjesme pet puta",
+        "ne bacati smeće u prirodu",
+        "ne čitati više pjesme o prirodi",
+        "brzo zaboraviti pjesmu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tko je razumio zašto je rijeka tužna, pazit će da ne onečišćuje prirodu.",
+      "savjet": "Razmisli zbog čega je rijeka iz pjesme postala prljava."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-084",
+      "tezina": "tesko",
+      "pitanje": "Pjesma nema rimu. Ima li ona temu i motive?",
+      "ponudeni": [
+        "Ne, temu imaju samo pjesme s rimom.",
+        "Ne, motive imaju samo pjesme s naslovom.",
+        "Ima temu, ali ne može imati motive.",
+        "Ima, svaka pjesma o nečemu govori i ima motive."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rima je dio oblika pjesme, a tema i motivi dio njezina sadržaja; pjesma bez rime ima i jedno i drugo.",
+      "savjet": "Razmisli ovisi li sadržaj pjesme o tome rimuju li se stihovi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-085",
+      "tezina": "tesko",
+      "pitanje": "„Vrapci se gurkaju na grani, / cvrkuću i skakuću, / sunce im grije perje.“ Koje riječi najviše stvaraju razigrano raspoloženje?",
+      "ponudeni": [
+        "grana, perje",
+        "vrapci, grana",
+        "na, im",
+        "gurkaju se, skakuću"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glagoli gurkati se i skakutati opisuju živo kretanje i igru, pa stvaraju razigrano raspoloženje.",
+      "savjet": "Potraži riječi koje kazuju što vrapci rade."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-086",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima dvije strofe: u prvoj se opisuje hladna zima, a u drugoj dijete koje jedva čeka proljeće. Koja je tema cijele pjesme?",
+      "ponudeni": [
+        "samo zimska hladnoća",
+        "čekanje proljeća usred zime",
+        "ljetni odmor",
+        "jesenska berba"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tema mora obuhvatiti obje strofe: zimu i dijete koje čeka proljeće.",
+      "savjet": "Tema treba obuhvatiti sadržaj obiju strofa, a ne samo jedne."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-087",
+      "tezina": "tesko",
+      "pitanje": "Pjesma govori o mački koja se igra klupkom vune. Što je bolje izrečena tema te pjesme: „mačja igra“ ili „klupko“?",
+      "ponudeni": [
+        "„klupko“, jer je to najmanji motiv",
+        "obje, jer su tema i motiv isto",
+        "„mačja igra“, jer kazuje o čemu govori pjesma",
+        "nijedna, jer pjesme o životinjama nemaju temu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Klupko je samo jedan motiv, a „mačja igra“ kazuje o čemu govori cijela pjesma.",
+      "savjet": "Razmisli koji izraz obuhvaća cijelu pjesmu, a koji samo jedan njezin dio."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-088",
+      "tezina": "tesko",
+      "pitanje": "Koji je izraz najprikladniji kao tema pjesme, a ne kao motiv?",
+      "ponudeni": [
+        "zajedničko ljetovanje obitelji",
+        "suncobran",
+        "pijesak",
+        "sladoled"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Suncobran, pijesak i sladoled pojedine su stvari, a ljetovanje obitelji kazuje o čemu bi govorila cijela pjesma.",
+      "savjet": "Tema je šira od motiva i može obuhvatiti više njih."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-089",
+      "tezina": "tesko",
+      "pitanje": "Pjesma ima tri strofe (odvojene znakom //): „Mak se crveni u žitu. // Pčela zuji oko maka. // Mak se njiše na vjetru.“ Koji je glavni motiv i zašto?",
+      "ponudeni": [
+        "pčela, jer zuji",
+        "mak, jer se spominje u svim strofama",
+        "vjetar, jer je u zadnjoj strofi",
+        "žito, jer je u prvoj strofi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "O maku se govori u svakoj strofi, a pčela, vjetar i žito spominju se samo jednom.",
+      "savjet": "Prebroji u koliko se strofa spominje svaki od ponuđenih motiva."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-i-motivi-pjesme-090",
+      "tezina": "tesko",
+      "pitanje": "Pjesma govori o djetetu koje dijeli užinu s prijateljem koji je svoju zaboravio. Što iz te pjesme možemo primijeniti u svom životu?",
+      "ponudeni": [
+        "Užinu treba pojesti sam.",
+        "U školi se ne treba družiti.",
+        "Užinu je bolje ostaviti kod kuće.",
+        "Pomoći prijatelju kad mu nešto treba."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dijete iz pjesme pomaže prijatelju, a to možemo činiti i mi u svom životu.",
+      "savjet": "Razmisli što dijete iz pjesme čini za prijatelja."
+    }
+  ]
+}
