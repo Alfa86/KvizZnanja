@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "pripovjedne-tehnike",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove razgovor dvaju ili više likova u priči?",
+      "ponudeni": [
+        "Opis",
+        "Dijalog",
+        "Monolog",
+        "Pripovijedanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Dijalog je razgovor dvaju ili više likova koji izmjenjuju svoje riječi.",
+      "savjet": "Sjeti se kako se zove dio priče u kojem likovi jedni drugima nešto govore i odgovaraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove govor lika koji govori sam, bez sugovornika?",
+      "ponudeni": [
+        "Monolog",
+        "Dijalog",
+        "Opis",
+        "Pripovijedanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Monolog je govor jednoga lika koji govori sam ili sam sa sobom, a nitko mu ne odgovara.",
+      "savjet": "Razmisli kako se zove tehnika u kojoj lik govori, ali nema s kim razgovarati."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-003",
+      "tezina": "lagano",
+      "pitanje": "Kojom pripovjednom tehnikom saznajemo kako netko ili nešto izgleda?",
+      "ponudeni": [
+        "Dijalogom",
+        "Monologom",
+        "Pripovijedanjem",
+        "Opisom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opisom prikazujemo kako izgledaju likovi, mjesta ili priroda.",
+      "savjet": "Sjeti se kako se zove tehnika kojom dočaravamo boje, oblike i izgled."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-004",
+      "tezina": "lagano",
+      "pitanje": "Kojom pripovjednom tehnikom pripovjedač kazuje događaje, odnosno ono što se dogodilo?",
+      "ponudeni": [
+        "Opisom",
+        "Monologom",
+        "Pripovijedanjem",
+        "Dijalogom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pripovijedanjem pripovjedač kazuje događaje redom kojim su se dogodili.",
+      "savjet": "Razmisli koja tehnika odgovara na pitanje što se dogodilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove onaj tko u priči kazuje događaje?",
+      "ponudeni": [
+        "Čitatelj",
+        "Slušatelj",
+        "Sugovornik",
+        "Pripovjedač"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pripovjedač je onaj tko u priči kazuje (pripovijeda) događaje.",
+      "savjet": "Razmisli tko u priči kazuje što se dogodilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-006",
+      "tezina": "lagano",
+      "pitanje": "Čime se u pisanom tekstu obilježavaju riječi likova u dijalogu?",
+      "ponudeni": [
+        "Zagradama",
+        "Navodnicima ili crticama",
+        "Zarezima",
+        "Točkom sa zarezom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi likova (replike) u dijalogu obilježavaju se navodnicima ili crticama.",
+      "savjet": "Prisjeti se kako u knjigama izgleda mjesto gdje lik počinje govoriti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-007",
+      "tezina": "lagano",
+      "pitanje": "Koliko najmanje likova mora sudjelovati u dijalogu?",
+      "ponudeni": [
+        "Jedan",
+        "Tri",
+        "Dva",
+        "Nijedan"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dijalog je razgovor, a za razgovor su potrebna najmanje dva lika.",
+      "savjet": "Razmisli koliko je osoba potrebno da bi netko pitao, a netko odgovorio."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-008",
+      "tezina": "lagano",
+      "pitanje": "Pripovjedač kaže: „Toga sam dana otišla na more.“ U kojem licu pripovijeda?",
+      "ponudeni": [
+        "U 1. licu jednine",
+        "U 2. licu jednine",
+        "U 3. licu jednine",
+        "U 3. licu množine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pripovjedač govori o sebi (otišla sam), pa pripovijeda u 1. licu jednine.",
+      "savjet": "Pogledaj govori li pripovjedač o sebi ili o nekome drugome."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-009",
+      "tezina": "lagano",
+      "pitanje": "Pripovjedač kaže: „Lana je otvorila prozor i ugledala snijeg.“ U kojem licu pripovijeda?",
+      "ponudeni": [
+        "U 1. licu jednine",
+        "U 1. licu množine",
+        "U 3. licu jednine",
+        "U 2. licu jednine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pripovjedač pripovijeda o Lani, a ne o sebi, pa pripovijeda u 3. licu.",
+      "savjet": "Razmisli je li pripovjedač sudionik događaja ili pripovijeda o drugome liku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-010",
+      "tezina": "lagano",
+      "pitanje": "Što znači da pripovjedač pripovijeda u 1. licu?",
+      "ponudeni": [
+        "Pripovijeda o drugima, a sam ne sudjeluje",
+        "Sudionik je događaja i o sebi govori ‚ja‘",
+        "Samo opisuje kako izgleda mjesto radnje",
+        "Pripovijeda isključivo dijalogom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripovjedač u 1. licu (ja-pripovjedač) sudionik je događaja i pripovijeda o sebi.",
+      "savjet": "Izgovori neku rečenicu o sebi i razmisli bi li tada bio sudionik događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-011",
+      "tezina": "lagano",
+      "pitanje": "Što je opis u priči?",
+      "ponudeni": [
+        "Razgovor dvaju likova",
+        "Govor lika samog sa sobom",
+        "Kazivanje redoslijeda događaja",
+        "Prikaz kako netko ili nešto izgleda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opisom prikazujemo kako izgledaju likovi, mjesta, predmeti ili priroda.",
+      "savjet": "Razmisli što čitatelj može zamisliti kad pročita odlomak pun boja i oblika."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-012",
+      "tezina": "lagano",
+      "pitanje": "Što je monolog?",
+      "ponudeni": [
+        "Govor jednoga lika bez sugovornika",
+        "Razgovor više likova",
+        "Opis mjesta radnje",
+        "Kazivanje događaja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U monologu govori samo jedan lik, a nitko mu ne odgovara.",
+      "savjet": "Sjeti se koliko likova govori u toj tehnici i odgovara li mu tko."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-013",
+      "tezina": "lagano",
+      "pitanje": "Kojom je tehnikom napisana rečenica: „Kuća je imala crveni krov, zelene prozore i mali drveni trijem.“?",
+      "ponudeni": [
+        "Dijalogom",
+        "Monologom",
+        "Opisom",
+        "Pripovijedanjem"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica prikazuje kako kuća izgleda, pa je to opis.",
+      "savjet": "Pitaj se govori li rečenica što se dogodilo ili kako nešto izgleda."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-014",
+      "tezina": "lagano",
+      "pitanje": "Kojom je tehnikom napisan odlomak: „— Ideš li sa mnom? — upita Tin. — Idem! — odgovori Mia.“?",
+      "ponudeni": [
+        "Opisom",
+        "Dijalogom",
+        "Monologom",
+        "Pripovijedanjem"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tin i Mia razgovaraju i izmjenjuju replike, pa je to dijalog.",
+      "savjet": "Prebroji koliko likova govori i odgovaraju li jedan drugome."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-015",
+      "tezina": "lagano",
+      "pitanje": "Kojom je tehnikom napisan odlomak: „Najprije je Luka obukao jaknu, zatim je izašao i otrčao do škole.“?",
+      "ponudeni": [
+        "Dijalogom",
+        "Opisom",
+        "Monologom",
+        "Pripovijedanjem"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Odlomak redom kazuje što je Luka učinio, pa je to pripovijedanje.",
+      "savjet": "Obrati pozornost na riječi najprije i zatim te na to što one pokazuju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-016",
+      "tezina": "lagano",
+      "pitanje": "Mia je sama u sobi i govori: „Moram biti hrabra. Sutra ću sve priznati. Da, tako ću učiniti!“ Koja je to tehnika?",
+      "ponudeni": [
+        "Monolog",
+        "Dijalog",
+        "Opis",
+        "Pripovijedanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mia govori sama, bez sugovornika, pa je to monolog.",
+      "savjet": "Provjeri je li u sobi još netko tko bi Miji mogao odgovoriti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-017",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ najčešće otkriva da pripovijeda pripovjedač u 1. licu?",
+      "ponudeni": [
+        "On",
+        "Ona",
+        "Ja",
+        "Oni"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pripovjedač u 1. licu pripovijeda o sebi i kaže ja.",
+      "savjet": "Sjeti se što znači da pripovjedač sudjeluje u događaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-018",
+      "tezina": "lagano",
+      "pitanje": "Što znači ispričati priču iz perspektive drugoga lika?",
+      "ponudeni": [
+        "Ispričati je onako kako ju je vidio i doživio drugi lik",
+        "Promijeniti kraj priče",
+        "Dodati u priču nove likove",
+        "Napisati priču u stihovima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Perspektiva lika znači da istu priču pripovijeda drugi lik, iz svojega kuta.",
+      "savjet": "Zamisli da isti događaj prepričava netko drugi tko je u njemu sudjelovao."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-019",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu riječi koje u dijalogu izgovara pojedini lik?",
+      "ponudeni": [
+        "Replike",
+        "Kitice",
+        "Stihovi",
+        "Naslovi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječi koje lik izgovori u dijalogu zovu se replike.",
+      "savjet": "Sjeti se kako se zove ono što pojedini lik kaže kad dođe na red u razgovoru."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-020",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove pripovjedač koji pripovijeda o drugim likovima, a sam ne sudjeluje u događajima?",
+      "ponudeni": [
+        "Pripovjedač u 1. licu",
+        "Pripovjedač u 3. licu",
+        "Glavni lik",
+        "Sugovornik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripovjedač u 3. licu pripovijeda o drugima (on, ona, oni), a sam nije sudionik.",
+      "savjet": "Sjeti se kojim riječima pripovjedač govori o drugim likovima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-021",
+      "tezina": "lagano",
+      "pitanje": "Pripovjedač kaže: „Toga sam jutra zakasnila na autobus.“ Tko je taj pripovjedač?",
+      "ponudeni": [
+        "Pripovjedač izvan događaja",
+        "Sudionik događaja",
+        "Sugovornik u dijalogu",
+        "Čitatelj priče"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripovjedač pripovijeda o sebi (zakasnila sam), dakle sudjeluje u događaju.",
+      "savjet": "Pogledaj pripovijeda li pripovjedač o sebi ili o drugima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-022",
+      "tezina": "lagano",
+      "pitanje": "Kad pripovjedač prikazuje kako izgleda mjesto radnje, služi se…",
+      "ponudeni": [
+        "dijalogom.",
+        "monologom.",
+        "replikom.",
+        "opisom."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izgled mjesta radnje prikazuje se opisom.",
+      "savjet": "Razmisli kojom tehnikom čitatelju dočaravamo izgled nečega."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-023",
+      "tezina": "lagano",
+      "pitanje": "Koliko likova govori u monologu?",
+      "ponudeni": [
+        "Jedan",
+        "Dva",
+        "Tri",
+        "Svi likovi priče"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U monologu govori jedan lik, sam ili sam sa sobom.",
+      "savjet": "Sjeti se po čemu se monolog razlikuje od razgovora."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-024",
+      "tezina": "lagano",
+      "pitanje": "Kojom je tehnikom napisana rečenica: „Mjesec je bio okrugao i žut, a zvijezde sitne kao zrnca šećera.“?",
+      "ponudeni": [
+        "Pripovijedanjem",
+        "Opisom",
+        "Dijalogom",
+        "Monologom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica prikazuje kako izgledaju Mjesec i zvijezde, pa je to opis.",
+      "savjet": "Provjeri događa li se u rečenici nešto ili se samo prikazuje izgled."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-025",
+      "tezina": "lagano",
+      "pitanje": "Ja-pripovjedač drugi je naziv za…",
+      "ponudeni": [
+        "pripovjedača u 3. licu.",
+        "sporednog lika.",
+        "pripovjedača u 1. licu.",
+        "sugovornika u dijalogu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ja-pripovjedač pripovijeda o sebi, dakle u 1. licu.",
+      "savjet": "Pokušaj izreći jednu rečenicu kao ja-pripovjedač i odredi njezino lice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-026",
+      "tezina": "lagano",
+      "pitanje": "Kojom je tehnikom napisana rečenica: „Lisica Riđa preskočila je potok, pronjušila grm i nestala u šumi.“?",
+      "ponudeni": [
+        "Dijalogom",
+        "Monologom",
+        "Opisom",
+        "Pripovijedanjem"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica redom kazuje što je Riđa učinila, pa je to pripovijedanje.",
+      "savjet": "Pogledaj glagole u rečenici i razmisli kazuju li oni radnje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-027",
+      "tezina": "lagano",
+      "pitanje": "Po čemu u tekstu prepoznajemo dijalog?",
+      "ponudeni": [
+        "Po izmjeni replika dvaju ili više likova",
+        "Po opisu izgleda lika",
+        "Po nabrajanju događaja",
+        "Po broju odlomaka"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U dijalogu se izmjenjuju replike likova koji razgovaraju.",
+      "savjet": "Sjeti se što likovi rade u dijalogu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-028",
+      "tezina": "lagano",
+      "pitanje": "Pripovjedač kaže: „Mi smo se toga ljeta preselili na otok.“ U kojem licu pripovijeda?",
+      "ponudeni": [
+        "U 3. licu jednine",
+        "U 3. licu množine",
+        "U 1. licu",
+        "U 2. licu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pripovjedač je sudionik (mi smo se preselili), pa pripovijeda u 1. licu, i to u množini.",
+      "savjet": "Razmisli je li pripovjedač i sam među onima koji su se preselili."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-029",
+      "tezina": "lagano",
+      "pitanje": "Lana i njezin pas Rex išli su u šetnju. Iz čije je perspektive priča ako je pripovijeda Rex?",
+      "ponudeni": [
+        "Iz Lanine perspektive",
+        "Iz Rexove perspektive",
+        "Iz perspektive Lanina tate",
+        "Iz perspektive čitatelja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad priču pripovijeda Rex, događaje vidimo njegovim očima, iz njegove perspektive.",
+      "savjet": "Sjeti se što znači ispričati priču iz perspektive nekog lika."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-030",
+      "tezina": "lagano",
+      "pitanje": "Što je pripovijedanje?",
+      "ponudeni": [
+        "Prikaz kako lik izgleda",
+        "Razgovor dvaju likova",
+        "Govor lika samog sa sobom",
+        "Kazivanje događaja redom kojim su se dogodili"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pripovijedanjem pripovjedač kazuje događaje, ono što se dogodilo.",
+      "savjet": "Sjeti se što radi pripovjedač kad priča priču."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-031",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica opis?",
+      "ponudeni": [
+        "Tin je uzeo loptu i izašao.",
+        "Stari svjetionik bio je visok, bijel i pomalo nakrivljen.",
+        "— Dođi ovamo! — viknula je Mia.",
+        "Zatim su svi otišli kući."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica o svjetioniku prikazuje kako on izgleda, pa je to opis.",
+      "savjet": "Potraži rečenicu u kojoj se ništa ne događa, nego se prikazuje izgled."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-032",
+      "tezina": "srednje",
+      "pitanje": "Koji je odlomak dijalog?",
+      "ponudeni": [
+        "— Gdje si? — pitala je Lana. — Ovdje, iza ormara! — javio se Tin.",
+        "Lana je tražila Tina po cijeloj kući.",
+        "Ormar je bio star, smeđ i visok.",
+        "Lana je pomislila da se Tin sakrio."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U prvom odlomku Lana i Tin izmjenjuju replike, pa je to dijalog.",
+      "savjet": "Potraži odlomak u kojem jedan lik pita, a drugi mu odgovara."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-033",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica pripovijedanje?",
+      "ponudeni": [
+        "Livada je bila zelena i puna žutih cvjetića.",
+        "— Hoćeš li kolač? — upita baka.",
+        "Luka je pojeo doručak, spakirao torbu i krenuo u školu.",
+        "Oblak je bio pahuljast i bijel poput vate."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica o Luki redom kazuje što je učinio, pa je to pripovijedanje.",
+      "savjet": "Potraži rečenicu u kojoj se redom nižu radnje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-034",
+      "tezina": "srednje",
+      "pitanje": "Koji je odlomak monolog?",
+      "ponudeni": [
+        "— Kamo ćeš? — pitao je tata. — Van! — rekla je Ana.",
+        "Ana je bila visoka djevojčica crne kose.",
+        "Ana je izašla i zatvorila vrata.",
+        "Ana je sama sebi govorila: „Neću odustati. Pokušat ću opet. Mogu ja to!“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "U zadnjem odlomku Ana govori sama sebi i nitko joj ne odgovara, pa je to monolog.",
+      "savjet": "Potraži odlomak u kojem lik govori, ali nema sugovornika."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-035",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Toga sam ljeta prvi put vidio more. Bio sam presretan.“ Kakav je ovo pripovjedač?",
+      "ponudeni": [
+        "U 3. licu, pripovjedač je promatrač",
+        "U 1. licu, pripovjedač je sudionik",
+        "U 2. licu, pripovjedač se obraća čitatelju",
+        "U 3. licu, pripovjedač je sudionik"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripovjedač govori o sebi (vidio sam, bio sam), pa je sudionik i pripovijeda u 1. licu.",
+      "savjet": "Pogledaj glagole: o kome pripovjedač govori?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-036",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Mia je uzela kist i nacrtala sunce. Zatim je sliku poklonila mami.“ U kojem licu pripovjedač pripovijeda?",
+      "ponudeni": [
+        "U 1. licu jednine",
+        "U 1. licu množine",
+        "U 3. licu",
+        "U 2. licu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pripovjedač pripovijeda o Miji (ona je uzela, nacrtala), pa pripovijeda u 3. licu.",
+      "savjet": "Provjeri govori li pripovjedač igdje o sebi."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-037",
+      "tezina": "srednje",
+      "pitanje": "Rečenicu „Tin je pronašao mačića.“ treba ispričati tako da pripovijeda sam Tin. Kako glasi?",
+      "ponudeni": [
+        "Pronašao sam mačića.",
+        "Tin je pronašao mačića.",
+        "Pronašao je mačića.",
+        "Pronašli su mačića."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad Tin pripovijeda o sebi, govori u 1. licu: Pronašao sam mačića.",
+      "savjet": "Kad lik pripovijeda o sebi, kojim licem govori?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-038",
+      "tezina": "srednje",
+      "pitanje": "Lana pripovijeda: „Ujutro sam zalila cvijeće.“ Kako glasi ista rečenica ako je pripovijeda pripovjedač u 3. licu?",
+      "ponudeni": [
+        "Ujutro smo zalili cvijeće.",
+        "Ujutro sam zalila cvijeće.",
+        "Ujutro zalij cvijeće!",
+        "Lana je ujutro zalila cvijeće."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pripovjedač u 3. licu govori o Lani: Lana je ujutro zalila cvijeće.",
+      "savjet": "Pripovjedač u 3. licu ne govori o sebi, nego o liku kojega imenuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-039",
+      "tezina": "srednje",
+      "pitanje": "U kojoj rečenici lik izgovara repliku?",
+      "ponudeni": [
+        "Mia je otvorila prozor.",
+        "— Pada snijeg! — uzviknula je Mia.",
+        "Snijeg je bio bijel i mekan.",
+        "Mia je sretno gledala van."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi Pada snijeg! izgovara Mia, a crtica pokazuje da je to replika lika.",
+      "savjet": "Potraži znak kojim se u tekstu obilježava govor lika."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-040",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Kuća je stajala na brežuljku, okružena starim kestenima i niskom kamenom ogradom.“ Što je ovdje opisano?",
+      "ponudeni": [
+        "Izgled lika",
+        "Razgovor dvaju likova",
+        "Lik koji govori sam",
+        "Mjesto"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica prikazuje kako izgleda kuća i njezina okolina, dakle opisuje mjesto.",
+      "savjet": "Razmisli o čemu nam rečenica daje sliku: o osobi ili o prostoru."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-041",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „— Dobro jutro! — reče Luka. — Dobro jutro i tebi! — odgovori baka. — Je li doručak gotov? — upita djed.“ Koliko likova sudjeluje u dijalogu?",
+      "ponudeni": [
+        "Jedan",
+        "Dva",
+        "Tri",
+        "Četiri"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Govore Luka, baka i djed, dakle tri lika.",
+      "savjet": "Pogledaj tko izgovara svaku repliku i prebroji različite likove."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-042",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „— Hoćeš li se igrati? — upita Tin.“ Što pokazuje crtica na početku?",
+      "ponudeni": [
+        "Početak riječi koje lik izgovara",
+        "Kraj priče",
+        "Početak novog poglavlja",
+        "Početak opisa prirode"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Crtica na početku pokazuje da počinje replika, ono što lik izgovara.",
+      "savjet": "Pogledaj što stoji odmah iza crtice."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-043",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Oblačica je lebdjela sama nad poljem i govorila: ‚Zašto nitko ne voli kišu? Ja samo želim pomoći cvijeću.‘“ Koja je tehnika u Oblačičinim riječima?",
+      "ponudeni": [
+        "Dijalog",
+        "Opis",
+        "Monolog",
+        "Pripovijedanje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Oblačica je sama i govori bez sugovornika, pa su njezine riječi monolog.",
+      "savjet": "Provjeri ima li Oblačica sugovornika koji joj odgovara."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-044",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Tin je ušao u sobu. Soba je bila mala, s plavim zidovima. Tin je sjeo na krevet. — Ima li koga? — upitao je.“ Koja je rečenica opis?",
+      "ponudeni": [
+        "Tin je ušao u sobu.",
+        "Soba je bila mala, s plavim zidovima.",
+        "Tin je sjeo na krevet.",
+        "— Ima li koga? — upitao je."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica o sobi prikazuje kako soba izgleda, pa je to opis.",
+      "savjet": "Potraži rečenicu u kojoj se ne kazuje radnja, nego izgled."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-045",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Mia je bacila loptu, a pas Bobi potrčao je za njom.“ Kako bi to ispričao Bobi?",
+      "ponudeni": [
+        "Bobi je potrčao za loptom.",
+        "Mia je bacila loptu, a ja sam potrčao za njom.",
+        "Bacila sam loptu, a Bobi je potrčao.",
+        "Mia i Bobi igrali su se loptom."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bobi pripovijeda o sebi u 1. licu: ja sam potrčao, a o Miji govori u 3. licu.",
+      "savjet": "Kad Bobi pripovijeda, kako će govoriti o sebi, a kako o Miji?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-046",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Luka je posudio Tinu bicikl.“ Kako bi tu rečenicu ispričao Tin?",
+      "ponudeni": [
+        "Luka mi je posudio bicikl.",
+        "Posudio sam Tinu bicikl.",
+        "Luka je posudio Tinu bicikl.",
+        "Tin je posudio Luki bicikl."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tin pripovijeda o sebi u 1. licu, pa kaže: Luka mi je posudio bicikl.",
+      "savjet": "Tin je onaj koji je dobio bicikl; kako bi on to rekao o sebi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-047",
+      "tezina": "srednje",
+      "pitanje": "Koju je rečenicu napisao pripovjedač u 1. licu?",
+      "ponudeni": [
+        "Lana je otišla na izlet.",
+        "Riđa je potrčala kroz šumu.",
+        "Djeca su se igrala u parku.",
+        "Na izletu sam pronašao lijepu školjku."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U rečenici Na izletu sam pronašao lijepu školjku pripovjedač govori o sebi.",
+      "savjet": "Potraži rečenicu u kojoj pripovjedač i sam sudjeluje u događaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-048",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica napisana u 3. licu?",
+      "ponudeni": [
+        "Jučer sam pomogla baki.",
+        "Mi smo pobijedili!",
+        "Svjetionik je cijelu noć svijetlio brodovima.",
+        "Bojao sam se mraka."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica o svjetioniku govori o nekome drugome (on je svijetlio), pa je u 3. licu.",
+      "savjet": "Potraži rečenicu u kojoj se ne govori ni o sebi ni o nama."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-049",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Šuma je bila puna žutog i crvenog lišća, a staze su bile mekane od mahovine.“ Što je u odlomku opisano?",
+      "ponudeni": [
+        "Izgled lika",
+        "Priroda",
+        "Razgovor likova",
+        "Tijek događaja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Odlomak prikazuje kako izgleda šuma, dakle opisuje prirodu.",
+      "savjet": "Razmisli o čemu ti odlomak daje sliku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-050",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „— Gdje si bio? — pitala je mama. — Kod Luke, igrali smo šah — odgovorio je Tin.“ Tko izgovara prvu repliku?",
+      "ponudeni": [
+        "Tin",
+        "Luka",
+        "Mama",
+        "Pripovjedač"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prvu repliku, pitanje Gdje si bio?, izgovara mama.",
+      "savjet": "Pogledaj riječi koje stoje odmah iza prve replike."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-051",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u rečenici „Iznenada sam začula korake.“ pokazuje da pripovijeda pripovjedač u 1. licu?",
+      "ponudeni": [
+        "Iznenada",
+        "sam",
+        "začula",
+        "korake"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ sam pokazuje da pripovjedač govori o sebi (ja sam začula).",
+      "savjet": "Pokušaj umjesto pripovjedača staviti lik u 3. licu i pogledaj koja se riječ mora promijeniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-052",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Luka je stajao pred pločom i mrmljao: ‚Sedam puta osam… pedeset i šest. Da, sigurno!‘“ Zašto su Lukine riječi monolog, a ne dijalog?",
+      "ponudeni": [
+        "Luka govori sam, nitko mu ne odgovara",
+        "Luka razgovara s učiteljicom",
+        "U tekstu se opisuje izgled ploče",
+        "Pripovijeda se u 3. licu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Luka govori sam sa sobom i nitko mu ne odgovara, zato je to monolog.",
+      "savjet": "Sjeti se što dijalog treba, a ovdje toga nema."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-053",
+      "tezina": "srednje",
+      "pitanje": "Lana želi opisati svoju sobu. Koja rečenica pripada tom opisu?",
+      "ponudeni": [
+        "Moja soba ima žute zidove i veliki prozor.",
+        "Ušla sam u sobu i bacila torbu.",
+        "— Pospremi sobu! — rekla je mama.",
+        "Sutra ću pospremiti sobu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica o žutim zidovima i velikom prozoru prikazuje kako soba izgleda.",
+      "savjet": "Opis odgovara na pitanje kako nešto izgleda."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-054",
+      "tezina": "srednje",
+      "pitanje": "Luka želi napisati dijalog između sebe i sestre. Što taj dijalog mora sadržavati?",
+      "ponudeni": [
+        "Samo opis sestrina izgleda",
+        "Samo Lukine misli",
+        "Popis događaja",
+        "Replike obaju likova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dijalog je razgovor, pa u njemu moraju govoriti oba lika, svaki svojim replikama.",
+      "savjet": "Sjeti se što je dijalog i tko u njemu govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-055",
+      "tezina": "srednje",
+      "pitanje": "Mačka je ukrala ribu s tanjura. Koja je rečenica ispričana iz mačkine perspektive?",
+      "ponudeni": [
+        "Mačka je ukrala ribu s tanjura.",
+        "Riba je tako mirisala da sam je morala zgrabiti.",
+        "Ukrala je ribu s tanjura.",
+        "Gledao sam kako mačka krade ribu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U toj rečenici mačka pripovijeda o sebi i svojim osjećajima, iz svojega kuta.",
+      "savjet": "Iz mačkine perspektive pripovijeda sama mačka; pazi tko govori ja."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-056",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Toga smo dana Tin i ja sagradili kućicu za ptice.“ Je li pripovjedač sudionik događaja?",
+      "ponudeni": [
+        "Ne, pripovijeda u 3. licu",
+        "Ne, on je samo čitatelj",
+        "Da, pripovijeda u 1. licu i sudjeluje",
+        "Da, ali pripovijeda u 2. licu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pripovjedač kaže Tin i ja, sagradili smo, pa je sudionik i pripovijeda u 1. licu.",
+      "savjet": "Potraži riječ kojom pripovjedač upućuje na sebe."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-057",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Djed je bio nizak, sijede brade i toplih smeđih očiju. Nosio je plavu kapu.“ Što saznajemo iz ovog opisa?",
+      "ponudeni": [
+        "Što je djed rekao",
+        "Kamo je djed otišao",
+        "Što se djedu dogodilo",
+        "Kako djed izgleda"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opis nam prikazuje djedov izgled: visinu, bradu, oči i kapu.",
+      "savjet": "Pogledaj što sve rečenice govore o djedu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-058",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Jutro je bilo hladno, a nebo sivo i tmurno. Mia je izašla iz kuće i potrčala prema školi.“ Koje su tehnike upotrijebljene?",
+      "ponudeni": [
+        "Opis i pripovijedanje",
+        "Dijalog i monolog",
+        "Samo dijalog",
+        "Monolog i opis"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prva rečenica opisuje kakvo je jutro, a druga kazuje što je Mia učinila.",
+      "savjet": "Odredi tehniku za svaku rečenicu posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-059",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „— Je li ovo tvoja kapa? — Jest, hvala! — Nema na čemu.“ Koliko replika ima ovaj dijalog?",
+      "ponudeni": [
+        "Tri",
+        "Dvije",
+        "Četiri",
+        "Jednu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svaka crtica uvodi jednu repliku, a ovdje ih ima tri.",
+      "savjet": "Svaki put kad netko progovori, počinje nova replika."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-060",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Ja sam stari svjetionik. Svake noći palim svoje svjetlo i pazim na brodove.“ Tko pripovijeda?",
+      "ponudeni": [
+        "Mornar u 1. licu",
+        "Pripovjedač u 3. licu",
+        "Brod u 1. licu",
+        "Svjetionik u 1. licu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pripovjedač kaže Ja sam stari svjetionik, dakle pripovijeda svjetionik o sebi.",
+      "savjet": "Pročitaj pozorno prvu rečenicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-061",
+      "tezina": "tesko",
+      "pitanje": "Tin priču o izletu prepričava iz perspektive svojega psa. Što ostaje isto?",
+      "ponudeni": [
+        "Događaji koji su se dogodili",
+        "Tko je pripovjedač",
+        "Osjećaji koje pripovjedač opisuje",
+        "Ono što pripovjedač zna i primjećuje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad mijenjamo perspektivu, mijenjaju se pripovjedač i njegovi osjećaji, a događaji ostaju isti.",
+      "savjet": "Razmisli što bi pas drukčije doživio, a što se ipak stvarno dogodilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-062",
+      "tezina": "tesko",
+      "pitanje": "Što se mijenja kad istu priču ispričamo iz perspektive drugoga lika?",
+      "ponudeni": [
+        "Mjesto radnje",
+        "Redoslijed događaja",
+        "Tko pripovijeda i što osjeća",
+        "Vrijeme radnje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Novi pripovjedač iste događaje kazuje svojim očima i sa svojim osjećajima.",
+      "savjet": "Sjeti se da se događaji ne mijenjaju; razmisli što se onda može promijeniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-063",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „— Pazi, kiša! — viknula je Lana. — Imam kišobran! — odgovorio je Tin i brzo ga otvorio.“ Koje se tehnike ovdje izmjenjuju?",
+      "ponudeni": [
+        "Monolog i opis",
+        "Dijalog i pripovijedanje",
+        "Samo opis",
+        "Samo monolog"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lana i Tin izmjenjuju replike (dijalog), a pripovjedač kazuje što su učinili (pripovijedanje).",
+      "savjet": "Odvoji riječi likova od riječi pripovjedača i odredi tehniku za svaki dio."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-064",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici pripovjedač kazuje događaj, a ne opisuje?",
+      "ponudeni": [
+        "Lopta je bila velika, crvena i sjajna.",
+        "Igralište je bilo zeleno i ograđeno žicom.",
+        "Luka je uzeo loptu, šutnuo je i zabio gol.",
+        "Golovi su bili bijeli i visoki."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica o Luki kazuje radnje koje su se dogodile, a ostale prikazuju izgled.",
+      "savjet": "Pitaj se za svaku rečenicu: događa li se nešto?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-065",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „— Što crtaš? — upita Luka. — Svjetionik — odgovori Mia.“ Zašto je ovo dijalog, a ne monolog?",
+      "ponudeni": [
+        "Govore dva lika i odgovaraju jedan drugome",
+        "Opisuje se izgled svjetionika",
+        "Mia govori sama sa sobom",
+        "Pripovjedač pripovijeda u 1. licu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U dijalogu razgovaraju najmanje dva lika, a ovdje Luka pita, a Mia odgovara.",
+      "savjet": "Prebroji tko govori i odgovara li netko na pitanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-066",
+      "tezina": "tesko",
+      "pitanje": "Mia pripovijeda: „Kad sam vidjela psića, odmah sam ga uzela u naručje.“ Kako glasi ista rečenica u 3. licu?",
+      "ponudeni": [
+        "Kad smo vidjeli psića, odmah smo ga uzeli.",
+        "Kad sam vidio psića, odmah sam ga uzeo.",
+        "Kad vidiš psića, uzmi ga u naručje.",
+        "Kad je Mia vidjela psića, odmah ga je uzela u naručje."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pripovjedač u 3. licu govori o Miji: Mia je vidjela, uzela ga je.",
+      "savjet": "U 3. licu pripovjedač ne govori o sebi, nego imenuje lik."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-067",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Luka je bacio kamenčić u jezero, a žaba je preplašeno skočila u vodu.“ Kako bi to ispričala žaba?",
+      "ponudeni": [
+        "Bacio sam kamenčić, a žaba je skočila.",
+        "Luka je bacio kamenčić u jezero.",
+        "Pokraj mene je pljusnuo kamenčić pa sam preplašena skočila u vodu.",
+        "Žaba je skočila jer se preplašila."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Žaba pripovijeda u 1. licu i iznosi svoje osjećaje: preplašena sam skočila.",
+      "savjet": "Žaba će o sebi govoriti u 1. licu i reći što je ona osjetila."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-068",
+      "tezina": "tesko",
+      "pitanje": "Pripovjedač u 1. licu sudionik je događaja. Što zato najbolje može ispričati?",
+      "ponudeni": [
+        "Svoje misli i osjećaje",
+        "Što misle svi drugi likovi",
+        "Događaje na kojima nije bio",
+        "Izgled mjesta koje nikad nije vidio"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ja-pripovjedač najbolje zna što je on sam vidio, mislio i osjećao.",
+      "savjet": "Razmisli što o događaju sigurno zna onaj tko je u njemu sudjelovao."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-069",
+      "tezina": "tesko",
+      "pitanje": "U svakom odlomku netko govori. U kojem je odlomku monolog?",
+      "ponudeni": [
+        "— Kamo ideš? — Kući. — Pričekaj me!",
+        "Tin je sam u mraku šaptao: „Ne bojim se. Brojit ću do deset.“",
+        "— Dobar dan! — pozdravila je Lana prodavača, a on joj je odzdravio.",
+        "Mama je pitala Tina je li gladan, a on je kimnuo."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tin je sam i govori sebi, bez sugovornika, pa je to monolog.",
+      "savjet": "Potraži odlomak u kojem lik nema sugovornika."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-070",
+      "tezina": "tesko",
+      "pitanje": "Koja je razlika između dijaloga i monologa?",
+      "ponudeni": [
+        "Dijalog je opis, a monolog pripovijedanje",
+        "U monologu razgovara više likova, a u dijalogu jedan",
+        "U dijalogu razgovara više likova, a u monologu govori jedan",
+        "Dijalog je u 1. licu, a monolog u 3. licu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Dijalog je razgovor dvaju ili više likova, a monolog govor jednoga lika.",
+      "savjet": "Usporedi koliko likova govori u svakoj od tih tehnika."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-071",
+      "tezina": "tesko",
+      "pitanje": "Koja je razlika između opisa i pripovijedanja?",
+      "ponudeni": [
+        "Opis kazuje što se dogodilo, a pripovijedanje kako nešto izgleda",
+        "Opis je razgovor, a pripovijedanje govor jednoga lika",
+        "Opis je u 1. licu, a pripovijedanje u 3. licu",
+        "Opis kazuje kako nešto izgleda, a pripovijedanje što se dogodilo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Opisom prikazujemo izgled, a pripovijedanjem kazujemo događaje.",
+      "savjet": "Sjeti se što čitatelju daje opis, a što pripovijedanje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-072",
+      "tezina": "tesko",
+      "pitanje": "Priča počinje: „Lana i Tin cijelo su ljeto gradili kućicu na drvetu.“ Kakav je pripovjedač?",
+      "ponudeni": [
+        "Lana, koja pripovijeda o sebi",
+        "Tin, koji pripovijeda o sebi",
+        "Pripovjedač u 3. licu, koji ne sudjeluje",
+        "Pripovjedač u 1. licu množine"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pripovjedač govori o Lani i Tinu (oni su gradili), pa pripovijeda u 3. licu.",
+      "savjet": "Kad bi Lana ili Tin pripovijedali, kako bi glasio glagol?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-073",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Mia i Luka cijelu su zimu hranili ptice.“ Kako bi tu rečenicu ispričao Luka?",
+      "ponudeni": [
+        "Mia i Luka cijelu su zimu hranili ptice.",
+        "Mia i ja cijelu smo zimu hranili ptice.",
+        "Vi ste cijelu zimu hranili ptice.",
+        "Oni su cijelu zimu hranili ptice."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Luka je sudionik, pa o sebi govori ja, a o sebi i Miji mi: Mia i ja hranili smo.",
+      "savjet": "Kako Luka spominje sebe, a kako sebe i Miju zajedno?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-074",
+      "tezina": "tesko",
+      "pitanje": "Lik je sam u sobi i naglas razmišlja što da učini. Kojom se tehnikom pisac služi za njegove riječi?",
+      "ponudeni": [
+        "Dijalogom",
+        "Opisom mjesta",
+        "Monologom",
+        "Opisom izgleda lika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik govori sam, bez sugovornika, pa su njegove riječi monolog.",
+      "savjet": "Lik govori, ali je sam: koja tehnika to opisuje?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-075",
+      "tezina": "tesko",
+      "pitanje": "Ema piše priču i želi da čitatelj točno zamisli staru kuću na brdu. Čime će se najviše služiti?",
+      "ponudeni": [
+        "Dijalogom",
+        "Monologom",
+        "Replikama",
+        "Opisom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Da bi čitatelj zamislio kako kuća izgleda, Ema mora upotrijebiti opis.",
+      "savjet": "Razmisli što čitatelj treba saznati da bi kuću vidio u mislima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-076",
+      "tezina": "tesko",
+      "pitanje": "Tin piše o svađi i pomirenju dvaju prijatelja i želi da čitatelj čuje njihove riječi. Koju tehniku treba upotrijebiti?",
+      "ponudeni": [
+        "Opis",
+        "Dijalog",
+        "Monolog",
+        "Opis prirode"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi dvaju prijatelja koji razgovaraju zapisujemo dijalogom.",
+      "savjet": "Koliko likova govori u svađi i pomirenju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-077",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj dvije rečenice o istom događaju: A) „Pas Bobi pojeo je Lukin sendvič.“ B) „Mahao sam repom, a onda sam zgrabio sendvič i pobjegao.“ Tko pripovijeda rečenicu B?",
+      "ponudeni": [
+        "Luka",
+        "Bobi",
+        "Lukina mama",
+        "Pripovjedač u 3. licu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pripovjedač B maše repom i zgrabi sendvič, dakle to je pas Bobi u 1. licu.",
+      "savjet": "Potraži u rečenici B pojedinost koja otkriva tko je pripovjedač."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-078",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Sjedio sam na klupi i gledao more. Valovi su bili visoki i pjenušavi.“ Što je točno?",
+      "ponudeni": [
+        "Pripovijedanje u 1. licu i opis",
+        "Dijalog i opis",
+        "Pripovijedanje u 3. licu i opis",
+        "Monolog u 3. licu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pripovjedač kazuje što je radio (sjedio sam), a zatim opisuje valove.",
+      "savjet": "Odredi lice u prvoj rečenici i tehniku u drugoj."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-079",
+      "tezina": "tesko",
+      "pitanje": "Mia je napisala: „Pas je ušao u kuhinju i pojeo kobasicu.“ Kako bi to ispričala kuharica koja je sve vidjela?",
+      "ponudeni": [
+        "Ušao sam u kuhinju i pojeo kobasicu.",
+        "Vidjela sam kako pas ulazi u kuhinju i jede kobasicu.",
+        "Pas je ušao u kuhinju.",
+        "Ušli smo u kuhinju i pojeli kobasicu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kuharica pripovijeda u 1. licu što je ona vidjela, a o psu govori u 3. licu.",
+      "savjet": "Kuharica nije pojela kobasicu; što je ona radila dok se to događalo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-080",
+      "tezina": "tesko",
+      "pitanje": "Lana pripovijeda o šetnji sa psom. Što bi u priči mogao ispričati samo pas, a Lana ne bi?",
+      "ponudeni": [
+        "Kamo su išli u šetnju",
+        "Koliko je dugo trajala šetnja",
+        "Kakvo je bilo vrijeme",
+        "Kako je pas osjećao mirise u parku"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lana zna kamo su išli i kakvo je bilo vrijeme, ali samo pas zna što on osjeća.",
+      "savjet": "Razmisli što zna samo onaj tko nešto osjeća iznutra."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-081",
+      "tezina": "tesko",
+      "pitanje": "Luka u dnevnik zapisuje što mu se danas dogodilo. Kakvim će pripovjedačem najvjerojatnije pisati?",
+      "ponudeni": [
+        "Pripovjedačem u 3. licu",
+        "Pripovjedačem u 1. licu",
+        "Pripovjedačem u 2. licu",
+        "Samo dijalogom"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Luka piše o sebi i svojim doživljajima, pa piše u 1. licu.",
+      "savjet": "Razmisli o kome Luka piše u dnevniku."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-082",
+      "tezina": "tesko",
+      "pitanje": "Priča o mačku pripovijeda se u 3. licu. Što će se promijeniti ako je ispriča sam mačak?",
+      "ponudeni": [
+        "Mačak će o sebi govoriti ‚ja‘",
+        "Promijenit će se mjesto radnje",
+        "Mačak će postati sporedni lik",
+        "Promijenit će se svi događaji"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mačak postaje pripovjedač u 1. licu, a događaji i mjesto ostaju isti.",
+      "savjet": "Kad lik postane pripovjedač, kako će govoriti o sebi?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-083",
+      "tezina": "tesko",
+      "pitanje": "U kojoj rečenici pripovjedač sudjeluje u događaju?",
+      "ponudeni": [
+        "Tin i njegov tata pecali su na molu.",
+        "Na molu je pecao jedan stari ribar.",
+        "Tata i ja pecali smo na molu.",
+        "Ribari su pecali cijelo jutro."
+      ],
+      "tocan": 2,
+      "objasnjenje": "U rečenici Tata i ja pecali smo pripovjedač govori i o sebi, pa je sudionik.",
+      "savjet": "Potraži rečenicu u 1. licu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-084",
+      "tezina": "tesko",
+      "pitanje": "Usporedi: A) „Tin je bio visok i mršav, a nosio je velike naočale.“ B) „Tin je stavio naočale i pročitao pismo.“ Koja je tvrdnja točna?",
+      "ponudeni": [
+        "A je opis, a B pripovijedanje",
+        "A je pripovijedanje, a B opis",
+        "A i B su opis",
+        "A i B su dijalog"
+      ],
+      "tocan": 0,
+      "objasnjenje": "A prikazuje kako Tin izgleda (opis), a B kazuje što je Tin učinio (pripovijedanje).",
+      "savjet": "Za svaku rečenicu pitaj: prikazuje li izgled ili kazuje radnju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-085",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se monolog razlikuje od pripovijedanja?",
+      "ponudeni": [
+        "U monologu govori lik, a pripovijedanjem pripovjedač kazuje događaje",
+        "U monologu se opisuje izgled, a u pripovijedanju se razgovara",
+        "Monolog je razgovor više likova, a pripovijedanje govor jednog lika",
+        "Pripovijedanje ima replike, a monolog ih nema"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Monolog je govor lika u priči, a pripovijedanjem pripovjedač kazuje što se dogodilo.",
+      "savjet": "Razmisli tko govori u monologu, a tko pripovijeda događaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-086",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica najbolje nastavlja opis lika: „Baka je bila niska i okrugla.“?",
+      "ponudeni": [
+        "Zatim je otišla na tržnicu.",
+        "— Dođite na kolače! — viknula je.",
+        "Sutra ćemo je posjetiti.",
+        "Imala je sijedu punđu i rumene obraze."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica o sijedoj punđi i rumenim obrazima nastavlja prikaz bakina izgleda.",
+      "savjet": "Opis lika nastavljaš novim pojedinostima o njegovu izgledu."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-087",
+      "tezina": "tesko",
+      "pitanje": "Odlomak počinje pripovijedanjem: „Tin je ušao u šumu.“ Koja rečenica nastavlja tekst opisom?",
+      "ponudeni": [
+        "Zatim je skrenuo lijevo.",
+        "Drveće je bilo visoko, a mahovina meka i zelena.",
+        "— Ima li koga? — viknuo je.",
+        "Odjednom je nešto zašuštalo."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica o visokom drveću i mekoj mahovini prikazuje kako šuma izgleda.",
+      "savjet": "Opis odgovara na pitanje kako nešto izgleda."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-088",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica nastavlja tekst dijalogom? „— Gdje si to pronašao? — upitala je Mia.“",
+      "ponudeni": [
+        "— Iza škole, pod klupom — odgovorio je Luka.",
+        "Luka je slegnuo ramenima.",
+        "Klupa je bila stara i drvena.",
+        "Mia je pogledala kroz prozor."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dijalog se nastavlja kad drugi lik odgovori svojom replikom.",
+      "savjet": "Dijalog traži da netko odgovori riječima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-089",
+      "tezina": "tesko",
+      "pitanje": "Kako pripovjedač u 3. licu govori o glavnom liku?",
+      "ponudeni": [
+        "O sebi govori ‚ja‘",
+        "Glavnom liku govori ‚ti‘",
+        "Za sebe i lika kaže ‚mi‘",
+        "Zove ga imenom ili kaže ‚on‘ ili ‚ona‘"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pripovjedač u 3. licu ne sudjeluje, nego o liku govori imenom ili riječima on i ona.",
+      "savjet": "Pripovjedač u 3. licu nije sudionik; razmisli kako onda govori o drugima."
+    },
+    {
+      "id": "4-hrvatski-jezik-pripovjedne-tehnike-090",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko dijalogu i monologu?",
+      "ponudeni": [
+        "U oba razgovara više likova",
+        "Oba opisuju izgled mjesta",
+        "Oba pripovijeda pripovjedač u 3. licu",
+        "U oba čujemo riječi likova"
+      ],
+      "tocan": 3,
+      "objasnjenje": "I u dijalogu i u monologu likovi govore, samo što u monologu govori jedan lik.",
+      "savjet": "Razmisli tko govori u objema tehnikama."
+    }
+  ]
+}

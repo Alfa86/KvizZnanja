@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "stvarno-i-nestvarno",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-001",
+      "tezina": "lagano",
+      "pitanje": "Što je stvarni događaj u priči?",
+      "ponudeni": [
+        "Događaj u kojem predmeti razgovaraju",
+        "Događaj u kojem sudjeluju vile i divovi",
+        "Događaj koji bi se mogao dogoditi u životu",
+        "Događaj u kojem netko leti bez krila"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stvarni događaj mogao bi se zaista dogoditi u svakodnevnom životu.",
+      "savjet": "Zamisli bi li se takav događaj mogao zbiti u tvojoj ulici ili školi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-002",
+      "tezina": "lagano",
+      "pitanje": "Što je nestvarni (čudesni) događaj u priči?",
+      "ponudeni": [
+        "Događaj koji se ne bi mogao dogoditi u životu",
+        "Događaj koji se dogodio jučer",
+        "Događaj koji je kratko trajao",
+        "Događaj koji se zbio u gradu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nestvarni ili čudesni događaj ne može se dogoditi u stvarnom životu, nego samo u priči.",
+      "savjet": "Pomisli bi li netko mogao vidjeti takav događaj izvan knjige."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-003",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih likova čudesni (nestvarni) lik?",
+      "ponudeni": [
+        "učiteljica",
+        "poštar",
+        "baka",
+        "zmaj"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zmajevi ne postoje u stvarnom životu, pa je zmaj čudesni lik.",
+      "savjet": "Potraži lik koji postoji samo u pričama."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-004",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih likova stvaran?",
+      "ponudeni": [
+        "vila",
+        "ribar",
+        "div",
+        "vještica"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ribari postoje u stvarnom životu, a vile, divovi i vještice samo u pričama.",
+      "savjet": "Sjeti se koja bića postoje i u stvarnom svijetu, a ne samo u pričama."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-005",
+      "tezina": "lagano",
+      "pitanje": "Što je personifikacija?",
+      "ponudeni": [
+        "Opisivanje izgleda neke osobe",
+        "Pridavanje ljudskih osobina životinjama, biljkama ili predmetima",
+        "Razgovor dvaju ili više likova",
+        "Nabrajanje događaja redom kojim su se dogodili"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Personifikacija je pridavanje ljudskih osobina, poput govora i osjećaja, nečemu što nije čovjek.",
+      "savjet": "Prisjeti se rečenica u kojima stara kuća tuguje ili Mjesec namiguje."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-006",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove priča u kojoj se pojavljuju vile, patuljci i čarobni predmeti?",
+      "ponudeni": [
+        "obavijest",
+        "čestitka",
+        "izvješće",
+        "bajka"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bajka je priča s čudesnim likovima i događajima, kao što su vile, patuljci i čarobni predmeti.",
+      "savjet": "Sjeti se priča koje često počinju riječima „Bilo jednom…“."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-007",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih događaja nestvaran?",
+      "ponudeni": [
+        "Dječak je poletio bez krila iznad krovova.",
+        "Dječak je potrčao za loptom.",
+        "Dječak je pao s bicikla.",
+        "Dječak je pojeo jabuku."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Čovjek ne može letjeti bez krila, pa je taj događaj nestvaran.",
+      "savjet": "Provjeri koji od tih događaja može napraviti pravi dječak."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-008",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih događaja stvaran?",
+      "ponudeni": [
+        "Mia se pretvorila u leptira.",
+        "Mia je razgovarala s oblakom.",
+        "Mia je zalijevala cvijeće u vrtu.",
+        "Mia je pljesnula i stol se sam postavio."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zalijevanje cvijeća događa se i u stvarnom životu, a ostali su događaji čudesni.",
+      "savjet": "Zamisli koji bi od tih događaja mogao vidjeti tvoj susjed."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-009",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica sadrži personifikaciju?",
+      "ponudeni": [
+        "Stara kuća ima crveni krov.",
+        "Djeca su se rastužila kad su otišla.",
+        "Kuća je stajala na brežuljku.",
+        "Stara kuća se rastužila kad su djeca otišla."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kuća ne može osjećati tugu, pa joj je u toj rečenici pridana ljudska osobina.",
+      "savjet": "Potraži rečenicu u kojoj nešto što nije čovjek osjeća kao čovjek."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-010",
+      "tezina": "lagano",
+      "pitanje": "Kojoj vrsti likova pripadaju vile, patuljci i divovi?",
+      "ponudeni": [
+        "stvarnim likovima",
+        "čudesnim likovima",
+        "povijesnim likovima",
+        "svakodnevnim likovima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Vile, patuljci i divovi ne postoje u stvarnom životu, nego su čudesni likovi iz priča.",
+      "savjet": "Razmisli postoje li ta bića izvan priča."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-011",
+      "tezina": "lagano",
+      "pitanje": "Lisica u priči govori i razmišlja kao čovjek. Kakav je to lik?",
+      "ponudeni": [
+        "nestvaran (čudesan) lik",
+        "stvaran lik",
+        "pripovjedač priče",
+        "lik koji ne sudjeluje u priči"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Prave lisice ne govore ljudskim jezikom, pa je lisica koja govori nestvaran lik.",
+      "savjet": "Sjeti se mogu li prave lisice govoriti."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-012",
+      "tezina": "lagano",
+      "pitanje": "Što se u personifikaciji pridaje predmetima, biljkama ili životinjama?",
+      "ponudeni": [
+        "boja i veličina",
+        "ime i prezime pisca",
+        "ljudske osobine, kao što su govor i osjećaji",
+        "mjesto i vrijeme radnje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U personifikaciji predmeti, biljke ili životinje govore, osjećaju ili se ponašaju kao ljudi.",
+      "savjet": "Sjeti se rečenice „Mjesec je namignuo.“ i što Mjesec u njoj radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-013",
+      "tezina": "lagano",
+      "pitanje": "Može li ista priča imati i stvarne i nestvarne dijelove?",
+      "ponudeni": [
+        "Ne, priča smije imati samo stvarne događaje.",
+        "Ne, priča smije imati samo čudesne događaje.",
+        "Da, u priči se mogu miješati stvarni i čudesni dijelovi.",
+        "Da, ali samo kad pripovijeda ja-pripovjedač."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Priča može početi stvarno, a zatim se u njoj može dogoditi nešto čudesno.",
+      "savjet": "Zamisli priču o običnoj djevojčici koja pronađe čarobni ključ."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-014",
+      "tezina": "lagano",
+      "pitanje": "Koje se od ovih bića pojavljuje samo u pričama, a ne u stvarnom životu?",
+      "ponudeni": [
+        "patuljak",
+        "jež",
+        "sova",
+        "pčela"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Patuljci su čudesna bića iz priča, a jež, sova i pčela žive u prirodi.",
+      "savjet": "Sjeti se koja bića možeš vidjeti u šumi ili na livadi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-015",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih predmeta čaroban?",
+      "ponudeni": [
+        "kapa koja grije uši zimi",
+        "kapa koja vlasnika čini nevidljivim",
+        "kišobran koji štiti od kiše",
+        "svjetiljka koja svijetli u mraku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nijedna prava kapa ne može nekoga učiniti nevidljivim, pa je ta kapa čarobna.",
+      "savjet": "Razmisli koji predmet radi nešto što pravi predmeti ne mogu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-016",
+      "tezina": "lagano",
+      "pitanje": "Rečenica glasi: „Mačka Mrvica pretvorila se u mali oblak.“ Kakav je to događaj?",
+      "ponudeni": [
+        "stvaran",
+        "svakodnevni",
+        "običan",
+        "nestvaran"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pretvaranje u drugo biće ili stvar ne može se dogoditi u životu, pa je događaj nestvaran.",
+      "savjet": "Zapitaj se bi li to netko mogao vidjeti u stvarnom životu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-017",
+      "tezina": "lagano",
+      "pitanje": "Rečenica glasi: „Tin je ujutro otišao u školu.“ Kakav je to događaj?",
+      "ponudeni": [
+        "nestvaran",
+        "čudesan",
+        "čaroban",
+        "stvaran"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Odlazak u školu događa se svakodnevno, pa je to stvaran događaj.",
+      "savjet": "Usporedi taj događaj s onim što se događa oko tebe."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-018",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica opisuje stvarno ponašanje psa?",
+      "ponudeni": [
+        "Pas je Lani rekao dobro jutro.",
+        "Pas je mahao repom kad je vidio Lanu.",
+        "Pas je Lani napisao pismo.",
+        "Pas je Lani ispričao priču."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Psi zaista mašu repom, a ne govore, ne pišu i ne pričaju priče.",
+      "savjet": "Sjeti se što psi zaista mogu raditi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-019",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica opisuje biljku kao čudesno biće?",
+      "ponudeni": [
+        "Ruža je procvjetala u svibnju.",
+        "Ruža ima oštro trnje.",
+        "Ruža je zamolila vrtlara da je ne bere.",
+        "Ruža je uvela bez vode."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Biljke ne govore i ne mole, pa je ruža koja moli vrtlara čudesna.",
+      "savjet": "Potraži rečenicu u kojoj ruža radi ono što rade samo ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-020",
+      "tezina": "lagano",
+      "pitanje": "Kakvi su likovi i događaji u stvarnoj (realističnoj) priči?",
+      "ponudeni": [
+        "Mogli bi postojati i dogoditi se u životu.",
+        "U njoj se pojavljuju vile i zmajevi.",
+        "U njoj životinje govore kao ljudi.",
+        "U njoj se predmeti sami pomiču."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U stvarnoj priči sve bi se moglo dogoditi i u životu, iako je priču netko smislio.",
+      "savjet": "Sjeti se što znači riječ stvaran."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-021",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih bića ne postoje u stvarnom životu?",
+      "ponudeni": [
+        "div i vila",
+        "konj i krava",
+        "vuk i medvjed",
+        "orao i sova"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Div i vila čudesna su bića iz priča, a ostale životinje žive u prirodi.",
+      "savjet": "Sjeti se koja bića možeš vidjeti u zoološkom vrtu ili na selu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-022",
+      "tezina": "lagano",
+      "pitanje": "U kojoj rečenici Mjesec radi nešto što rade ljudi?",
+      "ponudeni": [
+        "Mjesec je obasjao livadu.",
+        "Mjesec je bio pun i okrugao.",
+        "Mjesec se nasmiješio usnuloj djevojčici.",
+        "Mjesec je sjao na nebu."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Smiješiti se mogu ljudi, a ne Mjesec, pa je to personifikacija.",
+      "savjet": "Sjeti se što Mjesec stvarno radi na nebu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-023",
+      "tezina": "lagano",
+      "pitanje": "Koji je od ovih događaja čudesan?",
+      "ponudeni": [
+        "Kamen se otkotrljao niz brdo.",
+        "Kamen je zaplakao od tuge.",
+        "Kiša je smočila kamen.",
+        "Mahovina je prekrila kamen."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kamen ne osjeća tugu i ne plače, pa je taj događaj čudesan.",
+      "savjet": "Pomisli što se kamenu zaista može dogoditi u prirodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-024",
+      "tezina": "lagano",
+      "pitanje": "Što je zajedničko vilama, zmajevima i čarobnim štapićima?",
+      "ponudeni": [
+        "Sve su to životinje.",
+        "Sve se to može kupiti u trgovini.",
+        "Sve su to stvarni likovi.",
+        "Sve to pripada čudesnom, nestvarnom svijetu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vile, zmajevi i čarobni štapići postoje samo u pričama i bajkama.",
+      "savjet": "Razmisli gdje se sve to može susresti."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-025",
+      "tezina": "lagano",
+      "pitanje": "Koja je rečenica primjer personifikacije?",
+      "ponudeni": [
+        "Potok je tekao kroz šumu.",
+        "Potok je veselo čavrljao s kamenčićima.",
+        "U potoku plivaju ribe.",
+        "Potok je bio hladan i bistar."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Čavrljati, odnosno veselo razgovarati, mogu ljudi, a ne potok.",
+      "savjet": "Potraži rečenicu u kojoj potok radi nešto ljudsko."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-026",
+      "tezina": "lagano",
+      "pitanje": "Što znači riječ čudesan kad govorimo o likovima i događajima u priči?",
+      "ponudeni": [
+        "vrlo velik i težak",
+        "svakodnevan i običan",
+        "tužan i žalostan",
+        "nestvaran, ono što se ne može dogoditi u životu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Čudesni likovi i događaji nestvarni su, jer ih nema u stvarnom životu.",
+      "savjet": "Sjeti se kojom smo riječju opisivali vile i zmajeve."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-027",
+      "tezina": "lagano",
+      "pitanje": "Koja je rečenica stvarna?",
+      "ponudeni": [
+        "Lišće je u jesen požutjelo.",
+        "Lišće se posvađalo s granom.",
+        "Jabuka je pozdravila krušku.",
+        "Grana je zaplakala za lišćem."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lišće u jesen zaista požuti, a svađa, pozdrav i plač ljudske su radnje.",
+      "savjet": "Razmisli što lišće i drveće stvarno mogu, a što ne."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-028",
+      "tezina": "lagano",
+      "pitanje": "Mali oblak u priči se naljutio i nije htio pustiti kišu. Koja je ljudska osobina pridana oblaku?",
+      "ponudeni": [
+        "bijela boja",
+        "kretanje po nebu",
+        "ljutnja",
+        "kišne kapi"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ljutnja je ljudski osjećaj, a oblak ga u stvarnosti ne može osjećati.",
+      "savjet": "Potraži ono što oblak u stvarnosti nema."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-029",
+      "tezina": "lagano",
+      "pitanje": "Koja radnja pripada samo čudesnim likovima?",
+      "ponudeni": [
+        "trčanje",
+        "spavanje",
+        "pjevanje",
+        "pretvaranje u drugo biće"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pretvaranje u drugo biće ne događa se u životu, nego samo u čudesnim pričama.",
+      "savjet": "Razmisli koje od tih radnji mogu izvesti ljudi ili životinje."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-030",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica opisuje čudesno, nestvarno mjesto?",
+      "ponudeni": [
+        "Dvorac od oblaka lebdio je iznad šume.",
+        "Kuća je stajala na kraju ulice.",
+        "Škola ima veliko igralište.",
+        "Na brdu je stara crkvica."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Dvorac od oblaka koji lebdi ne postoji u stvarnosti, pa je to čudesno mjesto.",
+      "savjet": "Zamisli bi li se takvo mjesto moglo pronaći na karti."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-031",
+      "tezina": "srednje",
+      "pitanje": "„Lana je svako jutro hranila mačku. Jednoga dana mačka joj je rekla: ‚Hvala ti, Lana!‘“ Što je u odlomku nestvarno?",
+      "ponudeni": [
+        "Lana hrani mačku.",
+        "Lana se brine o mački.",
+        "Mačka govori kao čovjek.",
+        "Mačka živi kod Lane."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Hranjenje mačke stvaran je događaj, ali mačke ne govore ljudskim jezikom.",
+      "savjet": "Razmisli što od toga može napraviti prava mačka."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-032",
+      "tezina": "srednje",
+      "pitanje": "„Lisica Riđa trčala je šumom, a zatim je pozdravila zeca: ‚Dobar dan, susjede!‘“ Što je u odlomku nestvarno?",
+      "ponudeni": [
+        "Lisica pozdravlja zeca riječima.",
+        "Lisica trči šumom.",
+        "U šumi živi zec.",
+        "Lisica i zec žive u istoj šumi."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lisice zaista trče šumom, ali ne mogu nekoga pozdraviti riječima.",
+      "savjet": "Usporedi ponašanje Riđe s onim što prave lisice rade."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-033",
+      "tezina": "srednje",
+      "pitanje": "Koja je rečenica personifikacija?",
+      "ponudeni": [
+        "Kiša je padala cijelu noć.",
+        "Kiša je napunila lokve.",
+        "Nakon kiše pojavila se duga.",
+        "Kiša je tiho kucala na prozor i molila da je puste unutra."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kiša ne može moliti, to rade ljudi, pa joj je pridana ljudska osobina.",
+      "savjet": "Za svaku rečenicu provjeri opisuje li kišu onakvom kakva je u prirodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-034",
+      "tezina": "srednje",
+      "pitanje": "Što je personifikacija u rečenici „Stara svjetiljka je uzdahnula i ugasila se.“?",
+      "ponudeni": [
+        "Svjetiljka je stara.",
+        "Svjetiljka je uzdahnula.",
+        "Svjetiljka se ugasila.",
+        "Svjetiljka je svijetlila."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uzdisati može čovjek, a svjetiljka se u stvarnosti može samo ugasiti.",
+      "savjet": "Razmisli što se svjetiljci stvarno može dogoditi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-035",
+      "tezina": "srednje",
+      "pitanje": "Koji je odlomak potpuno stvaran?",
+      "ponudeni": [
+        "Luka je ulovio ribu koja ga je zamolila da je pusti.",
+        "Luka je s tatom pecao na rijeci i ulovio malu ribu.",
+        "Luka je skočio u rijeku i disao pod vodom kao riba.",
+        "Luka i tata veslali su po rijeci od oblaka."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pecanje s tatom moglo bi se dogoditi u životu, a riba koja govori, disanje pod vodom i rijeka od oblaka ne bi.",
+      "savjet": "Provjeri u svakom odlomku ima li nešto što se ne bi moglo dogoditi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-036",
+      "tezina": "srednje",
+      "pitanje": "„Mia je zaspala, a igračke u njezinoj sobi ustale su i počele plesati.“ Kakav je to događaj?",
+      "ponudeni": [
+        "stvaran, jer djeca imaju igračke",
+        "stvaran, jer se događa noću",
+        "nestvaran, jer Mia spava",
+        "nestvaran, jer se igračke same ne mogu kretati"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Igračke se ne mogu same ustati i plesati, pa je događaj nestvaran; spavanje je stvarno.",
+      "savjet": "Razmisli koji dio odlomka u životu nije moguć."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-037",
+      "tezina": "srednje",
+      "pitanje": "U priči se pojavljuju drvosječa Ivo, patuljak Brk, vila Zora i hrast koji govori. Koji je lik stvaran?",
+      "ponudeni": [
+        "drvosječa Ivo",
+        "patuljak Brk",
+        "vila Zora",
+        "hrast koji govori"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Drvosječe postoje u stvarnom životu, a patuljci, vile i drveće koje govori ne postoje.",
+      "savjet": "Potraži lik koji bi mogao živjeti u tvojem mjestu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-038",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica opisuje snijeg bez ljudskih osobina?",
+      "ponudeni": [
+        "Snijeg se radovao djeci.",
+        "Snijeg je zaplakao kad je došlo proljeće.",
+        "Snijeg je prekrio polja.",
+        "Snijeg je ljubomorno gledao proljeće."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Snijeg zaista prekrije polja, a radost, plač i ljubomora ljudski su osjećaji.",
+      "savjet": "Sjeti se što snijeg zaista radi zimi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-039",
+      "tezina": "srednje",
+      "pitanje": "„Tin je pronašao staru olovku. Sve što bi njome nacrtao, oživjelo bi.“ Što je u odlomku čudesno?",
+      "ponudeni": [
+        "Tin je pronašao olovku.",
+        "Olovka je stara.",
+        "Tin crta olovkom.",
+        "Crteži nacrtani olovkom oživljavaju."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Crteži ne mogu oživjeti, pa je olovka čarobni predmet, a ostalo je stvarno.",
+      "savjet": "Razmisli što obična olovka može, a što ne može."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-040",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ u rečenici „Ljuta rijeka odnijela je most.“ rijeci pridaje ljudsku osobinu?",
+      "ponudeni": [
+        "rijeka",
+        "ljuta",
+        "odnijela",
+        "most"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljutnja je ljudski osjećaj, a nabujala rijeka zaista može odnijeti most.",
+      "savjet": "Razmisli što rijeka stvarno može učiniti mostu, a što ne može osjećati."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-041",
+      "tezina": "srednje",
+      "pitanje": "„Baka je mijesila kruh, a mačak Šapko dodavao joj je brašno i pjevušio.“ Što je u odlomku stvarno?",
+      "ponudeni": [
+        "Baka mijesi kruh.",
+        "Mačak dodaje brašno.",
+        "Mačak pjevuši.",
+        "Mačak radi kao kuhar."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Baka koja mijesi kruh stvarna je, a mačak koji dodaje brašno i pjevuši nije.",
+      "savjet": "Odvoji ono što rade ljudi od onoga što rade prave mačke."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-042",
+      "tezina": "srednje",
+      "pitanje": "Koji naslov najbolje pristaje priči s čudesnim događajima?",
+      "ponudeni": [
+        "Izlet na obližnje jezero",
+        "Moj prvi dan u školi",
+        "Kišobran koji je naučio letjeti",
+        "Kako smo sadili rajčice"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kišobran ne može učiti ni sam letjeti, pa taj naslov najavljuje čudesnu priču.",
+      "savjet": "Razmisli u kojem se naslovu spominje nešto što u životu nije moguće."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-043",
+      "tezina": "srednje",
+      "pitanje": "U kojoj rečenici predmet osjeća kao čovjek?",
+      "ponudeni": [
+        "Stara stolica je škripala kad je djed sjeo.",
+        "Djed se veselio novoj stolici.",
+        "Stara stolica veselila se kad je djed sjeo na nju.",
+        "Stolica je stajala uz prozor."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Stolica se ne može veseliti, pa joj je pridan ljudski osjećaj; škripanje je stvarno.",
+      "savjet": "Pazi tko u rečenici osjeća: čovjek ili predmet."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-044",
+      "tezina": "srednje",
+      "pitanje": "„Mali oblak ugledao je žednu livadu pa je odlučio pomoći joj kišom.“ Što oblak radi kao čovjek?",
+      "ponudeni": [
+        "Odlučuje pomoći livadi.",
+        "Nalazi se visoko na nebu.",
+        "Kreće se po nebu.",
+        "Iz njega pada kiša."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Odlučivati i pomagati mogu ljudi, a oblak u prirodi samo plovi nebom i daje kišu.",
+      "savjet": "Odvoji ono što oblak zaista radi u prirodi od ljudskih postupaka."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-045",
+      "tezina": "srednje",
+      "pitanje": "Ana s razredom ide na izlet, izgubi kapu i pronađe je u autobusu. Kakva je to priča?",
+      "ponudeni": [
+        "bajka",
+        "stvarna (realistična) priča",
+        "priča o čudesnim bićima",
+        "priča o čarobnim predmetima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Svi su događaji u toj priči mogući u životu, pa je ona stvarna.",
+      "savjet": "Provjeri ima li u priči ijedan događaj koji nije moguć."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-046",
+      "tezina": "srednje",
+      "pitanje": "Koja bi rečenica priču o Tinovu nogometnom treningu učinila nestvarnom?",
+      "ponudeni": [
+        "Tin je zabio gol u zadnjoj minuti.",
+        "Trener je pohvalio Tina.",
+        "Tin je nakon treninga bio umoran.",
+        "Lopta je Tinu šapnula kamo da je šutne."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lopta ne može govoriti, pa bi ta rečenica unijela čudesan dio u priču.",
+      "savjet": "Za svaku rečenicu zapitaj se je li moguća na pravom treningu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-047",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica o psu Rexu opisuje nestvaran događaj?",
+      "ponudeni": [
+        "Rex je zalajao na poštara.",
+        "Rex je donio loptu.",
+        "Rex je zaspao na tepihu.",
+        "Rex je mami ispričao kako je proveo dan."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Psi laju, donose loptu i spavaju, ali ne mogu pričati o svojem danu.",
+      "savjet": "Usporedi svaku radnju s onim što psi rade u stvarnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-048",
+      "tezina": "srednje",
+      "pitanje": "„Svjetionik je stajao na stijeni i svake noći tješio usamljene brodove.“ Što je u rečenici personifikacija?",
+      "ponudeni": [
+        "Svjetionik stoji na stijeni.",
+        "Svjetionik tješi brodove.",
+        "Svjetionik svijetli noću.",
+        "Brodovi plove morem."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tješiti nekoga može čovjek, a svjetionik u stvarnosti samo stoji i svijetli.",
+      "savjet": "Potraži ono što svjetionik u stvarnosti ne može."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-049",
+      "tezina": "srednje",
+      "pitanje": "U kojoj se rečenici pojavljuje čudesno biće?",
+      "ponudeni": [
+        "Ribar je čamcem prešao rijeku.",
+        "Djeca su skakala preko potoka.",
+        "Div je jednim korakom prešao rijeku.",
+        "Konj je pregazio plitku rijeku."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Divovi su čudesna bića iz priča, a ribar, djeca i konj postoje u stvarnosti.",
+      "savjet": "Sjeti se koja bića postoje samo u pričama."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-050",
+      "tezina": "srednje",
+      "pitanje": "„Mia je otvorila staru kutiju i iz nje je izletjela sićušna vila.“ Koji je dio odlomka nestvaran?",
+      "ponudeni": [
+        "Iz kutije izlijeće vila.",
+        "Mia otvara kutiju.",
+        "Kutija je stara.",
+        "Mia ima kutiju."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vile su čudesna bića, a otvaranje stare kutije stvaran je događaj.",
+      "savjet": "Razmisli što bi se zaista moglo naći u staroj kutiji."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-051",
+      "tezina": "srednje",
+      "pitanje": "U kojoj rečenici vrabac radi nešto što rade samo ljudi?",
+      "ponudeni": [
+        "Vrabac je pozvao prijatelje na rođendansku zabavu.",
+        "Vrabac je pjevao na grani.",
+        "Vrabac je kljucao mrvice.",
+        "Vrabac je odletio na krov."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ptice zaista pjevaju, kljucaju i lete, ali ne pozivaju prijatelje na rođendan.",
+      "savjet": "Usporedi svaku radnju s onim što vrapci rade u prirodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-052",
+      "tezina": "srednje",
+      "pitanje": "„Luka je poslije škole otišao baki. Zajedno su ispekli kolače i igrali karte.“ Kakav je taj odlomak?",
+      "ponudeni": [
+        "nestvaran, jer baka peče kolače",
+        "nestvaran, jer se igraju karte",
+        "stvaran, jer bi se to moglo dogoditi u životu",
+        "stvaran, jer u njemu nema likova"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Posjet baki, pečenje kolača i igranje karata mogući su u životu, pa je odlomak stvaran.",
+      "savjet": "Provjeri je li ijedan događaj u odlomku nemoguć."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-053",
+      "tezina": "srednje",
+      "pitanje": "„Ema je stavila ključ u bravu, a zatim obula cipele koje su je u trenu odnijele do mora.“ Koji je predmet čaroban?",
+      "ponudeni": [
+        "ključ",
+        "cipele",
+        "brava",
+        "more"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nijedne prave cipele ne mogu nekoga u trenu odnijeti do mora, pa su te cipele čarobne.",
+      "savjet": "Razmisli koliko bi trajao put do mora u stvarnom životu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-054",
+      "tezina": "srednje",
+      "pitanje": "Što drveće radi kao ljudi u rečenici „Drveće je šaptalo jedno drugome tajne.“?",
+      "ponudeni": [
+        "raste u šumi",
+        "ima lišće",
+        "njiše se na vjetru",
+        "dijeli tajne jedno s drugim"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Šaptanje i dijeljenje tajni ljudske su radnje, pa je to personifikacija.",
+      "savjet": "Odvoji ono što drveće zaista radi od onoga što rade ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-055",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica opisuje stvarno ponašanje suncokreta?",
+      "ponudeni": [
+        "Suncokret je mahnuo pčeli.",
+        "Suncokret se okreće prema suncu.",
+        "Suncokret se požalio da je žedan.",
+        "Suncokret se rasplakao zbog suše."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Suncokret se zaista okreće prema suncu, a mahanje, žaljenje i plakanje ljudske su radnje.",
+      "savjet": "Za svaku rečenicu provjeri bi li je vrtlar mogao potvrditi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-056",
+      "tezina": "srednje",
+      "pitanje": "Mia čita priču u kojoj medvjed ide u trgovinu i plaća kruh. Kakav je taj medvjed?",
+      "ponudeni": [
+        "stvaran lik, jer medvjedi žive u šumi",
+        "stvaran lik, jer jede kruh",
+        "nestvaran lik, jer je velik i snažan",
+        "nestvaran lik, jer se ponaša kao čovjek"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pravi medvjedi ne kupuju u trgovini, pa je medvjed koji se ponaša kao čovjek nestvaran.",
+      "savjet": "Usporedi medvjeda iz priče s pravim medvjedom."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-057",
+      "tezina": "srednje",
+      "pitanje": "Koji se događaj iz Lanina dana ne bi mogao dogoditi u stvarnom životu?",
+      "ponudeni": [
+        "Lana je u trenu narasla do krova kuće.",
+        "Lana je zakasnila na autobus.",
+        "Lani je ispao mliječni zub.",
+        "Lana je naučila plivati."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nitko ne može u trenu narasti do krova, a ostali se događaji zbivaju i u životu.",
+      "savjet": "Zamisli svaki događaj u stvarnom životu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-058",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica pridaje ljudski osjećaj pojavi u prirodi?",
+      "ponudeni": [
+        "Duga se pojavila nakon kiše.",
+        "Duga ima mnogo boja.",
+        "Duga se ponosila svojim bojama.",
+        "Djeca su se divila dugi."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ponos je ljudski osjećaj, a duga ga ne može osjećati; djeca se zaista mogu diviti.",
+      "savjet": "Pazi osjećaju li nešto ljudi ili sama duga."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-059",
+      "tezina": "srednje",
+      "pitanje": "„Na livadi su pasle krave, iznad njih letjela je vila, uz potok su skakale žabe, a na grani je sjedila sova.“ Koje biće ne postoji u stvarnom životu?",
+      "ponudeni": [
+        "krava",
+        "žaba",
+        "sova",
+        "vila"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vila je čudesno biće, a krave, žabe i sove žive u prirodi.",
+      "savjet": "Sjeti se koja od tih bića možeš vidjeti na selu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-060",
+      "tezina": "srednje",
+      "pitanje": "„Kuća je bila prazna i tužna. Čekala je da se djeca vrate s ljetovanja.“ Što kuća radi kao čovjek?",
+      "ponudeni": [
+        "tuguje i čeka djecu",
+        "prazna je",
+        "stoji na istom mjestu",
+        "ima vrata i prozore"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tugovati i čekati nekoga mogu ljudi, pa je kući pridana ljudska osobina.",
+      "savjet": "Potraži osjećaje i postupke koji pripadaju ljudima."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-061",
+      "tezina": "tesko",
+      "pitanje": "Samo jedna rečenica sadrži personifikaciju. Koja?",
+      "ponudeni": [
+        "Pas je glasno lajao na mačku.",
+        "Ptica je cijelo jutro pjevala.",
+        "Pas se nasmijao i rekao mački da joj oprašta.",
+        "Mačka je mijaukala pred vratima."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Psi laju, ptice pjevaju i mačke mijauču, a smijanje i govor ljudske su osobine.",
+      "savjet": "Za svaku rečenicu provjeri radi li životinja ono što inače radi u prirodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-062",
+      "tezina": "tesko",
+      "pitanje": "Usporedi rečenice: 1) Lana je ozlijeđenu pticu odnijela veterinaru. 2) Lana je pronašla pticu koja joj je ispunila želju. Što je točno?",
+      "ponudeni": [
+        "Prva je stvarna, a druga nestvarna.",
+        "Obje su stvarne.",
+        "Prva je nestvarna, a druga stvarna.",
+        "Obje su nestvarne."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Odnijeti pticu veterinaru moguće je u životu, a ptica koja ispunjava želje čudesna je.",
+      "savjet": "Za svaku rečenicu zasebno provjeri može li se dogoditi u životu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-063",
+      "tezina": "tesko",
+      "pitanje": "Tin piše stvarnu (realističnu) priču o svojem psu. Koja rečenica ne pripada takvoj priči?",
+      "ponudeni": [
+        "Pas je čekao Tina na vratima.",
+        "Tin je psu kupio novu ogrlicu.",
+        "Pas je zalajao od veselja.",
+        "Pas je rekao: „Idemo u šetnju!“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Pas koji govori nestvaran je, a u stvarnoj priči sve mora biti moguće u životu.",
+      "savjet": "Sjeti se da u stvarnoj priči likovi rade samo ono što mogu i u životu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-064",
+      "tezina": "tesko",
+      "pitanje": "Po čemu se bajka razlikuje od stvarne (realistične) priče?",
+      "ponudeni": [
+        "Bajka ima likove, a stvarna priča nema.",
+        "U bajci ima čudesnih likova i događaja, a u stvarnoj priči nema.",
+        "U stvarnoj priči nema mjesta radnje.",
+        "Bajka se piše u stihovima, a priča u prozi."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Obje imaju likove i mjesto radnje, ali samo bajka ima čudesna bića i događaje.",
+      "savjet": "Razmisli što bajku čini drukčijom od priče o običnom školskom danu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-065",
+      "tezina": "tesko",
+      "pitanje": "Zašto rečenica „Ptica je pjevala na grani.“ nije personifikacija?",
+      "ponudeni": [
+        "Jer u rečenici nema glagola.",
+        "Jer ptice zaista pjevaju, to je njihovo stvarno ponašanje.",
+        "Jer ptica nije stvarno biće.",
+        "Jer se personifikacija odnosi samo na ljude."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Personifikacija pridaje ljudske osobine, a pjevanje je prirodno ponašanje ptica.",
+      "savjet": "Sjeti se da personifikacija biću pridaje osobine koje ono inače nema."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-066",
+      "tezina": "tesko",
+      "pitanje": "Kako bi rečenica „Stari hrast stoji na brdu.“ postala personifikacija?",
+      "ponudeni": [
+        "Stari hrast na brdu ima debelo deblo.",
+        "Stari hrast na brdu raste stotinu godina.",
+        "Stari hrast na brdu baca sjenu.",
+        "Stari hrast na brdu ponosno čuva selo."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ponos i čuvanje sela ljudske su osobine i postupci, pa ih hrast dobiva personifikacijom.",
+      "savjet": "Potraži nastavak u kojem hrast radi ono što drvo u prirodi ne može."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-067",
+      "tezina": "tesko",
+      "pitanje": "Lisica Riđa u priči ide u školu, nosi torbu i razgovara s učiteljicom sovom. Što treba promijeniti da priča postane stvarna?",
+      "ponudeni": [
+        "Lisica bi se ponašala kao prava lisica, bez škole i govora.",
+        "Lisica bi trebala dobiti drugo ime.",
+        "Priča bi se trebala događati zimi.",
+        "Sova bi trebala biti veća."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Priču čini nestvarnom to što se životinje ponašaju kao ljudi, a ne ime, godišnje doba ili veličina.",
+      "savjet": "Razmisli što u priči ne bi bilo moguće u pravoj šumi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-068",
+      "tezina": "tesko",
+      "pitanje": "Što je zajedničko rečenicama „Vjetrić se igrao lišćem.“ i „Ulica je zaspala.“?",
+      "ponudeni": [
+        "Obje opisuju stvarno ponašanje.",
+        "Obje govore o čudesnim bićima.",
+        "Obje pridaju ljudske postupke nečemu što nije čovjek.",
+        "Obje su dijalog dvaju likova."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Igra i spavanje ljudski su postupci, a pridani su vjetriću i ulici, pa su obje personifikacije.",
+      "savjet": "Razmisli tko se inače igra i spava."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-069",
+      "tezina": "tesko",
+      "pitanje": "Usporedi rečenice: 1) Vila je mahnula štapićem i livada je procvjetala. 2) Livada se nasmiješila suncu. Što je točno?",
+      "ponudeni": [
+        "Obje su potpuno stvarne.",
+        "Prva je stvarna, a druga čudesna.",
+        "Prva je personifikacija, a druga opisuje stvarnu livadu.",
+        "Prva ima čudesno biće i čaroliju, a druga je personifikacija."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U prvoj rečenici čaroliju izvodi vila, a u drugoj livada dobiva ljudsku osobinu, osmijeh.",
+      "savjet": "U prvoj rečenici potraži tko što čini, a u drugoj kako se livada ponaša."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-070",
+      "tezina": "tesko",
+      "pitanje": "„Luka je zalijevao rajčice u vrtu. Navečer ga je najveća rajčica pozvala na večeru.“ Koja je tvrdnja točna?",
+      "ponudeni": [
+        "Cijeli je odlomak stvaran.",
+        "Odlomak počinje stvarno, a završava nestvarnim događajem.",
+        "Cijeli je odlomak nestvaran.",
+        "Odlomak počinje nestvarno, a završava stvarno."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Zalijevanje rajčica stvarno je, a rajčica koja poziva na večeru nestvarna je.",
+      "savjet": "Provjeri svaku rečenicu odlomka posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-071",
+      "tezina": "tesko",
+      "pitanje": "Mia kaže: „Ova je priča nestvarna jer se u njoj događaju tužne stvari.“ Je li Mia u pravu?",
+      "ponudeni": [
+        "Nije, nestvarno je ono što se ne bi moglo dogoditi u životu.",
+        "Jest, tužni su događaji uvijek nestvarni.",
+        "Jest, stvarne su priče uvijek vesele.",
+        "Nije, nestvarno je samo ono što se događa noću."
+      ],
+      "tocan": 0,
+      "objasnjenje": "I tužni se događaji zbivaju u životu; nestvarno je samo ono što nije moguće.",
+      "savjet": "Sjeti se po čemu razlikujemo stvarne od nestvarnih događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-072",
+      "tezina": "tesko",
+      "pitanje": "Koji naslov najbolje pristaje priči u kojoj su svi likovi i događaji stvarni?",
+      "ponudeni": [
+        "Ježić koji je naučio čarobne riječi",
+        "Jež i vila iz šumskog dvorca",
+        "Kako smo spasili ježa u dvorištu",
+        "Jež koji je razgovarao s Mjesecom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Spašavanje ježa moguće je u životu, a čarolije, vile i razgovor s Mjesecom nisu.",
+      "savjet": "Za svaki naslov zamisli bi li se to moglo dogoditi tebi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-073",
+      "tezina": "tesko",
+      "pitanje": "U rečenici „Sat na zidu nestrpljivo je kucao i požurivao Tina.“ što je stvarno, a što personifikacija?",
+      "ponudeni": [
+        "Stvarno je da je sat nestrpljiv, a personifikacija da kuca.",
+        "Stvarno je da sat požuruje Tina, a personifikacija da visi.",
+        "Stvarno je da sat kuca, a personifikacija da je nestrpljiv i požuruje.",
+        "Stvarno je da sat visi na zidu, a personifikacija da kuca."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Sat zaista kuca, ali nestrpljivost i požurivanje ljudske su osobine.",
+      "savjet": "Razmisli što pravi sat radi, a što osjećaju samo ljudi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-074",
+      "tezina": "tesko",
+      "pitanje": "Ana je napisala: „Mama je kupila novi bicikl.“ Kojim bi nastavkom priča postala nestvarna?",
+      "ponudeni": [
+        "Bicikl je sam odvezao Anu do bake.",
+        "Bicikl je imao zvonce i košaricu.",
+        "Ana je odmah sjela na bicikl.",
+        "Mama je pomogla Ani da nauči voziti."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Bicikl ne može sam voziti, pa bi taj nastavak unio čudesan događaj.",
+      "savjet": "Zamisli svaki nastavak u svojem dvorištu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-075",
+      "tezina": "tesko",
+      "pitanje": "„Ujutro je Tin pod jastukom pronašao zlatno pero. Kad ga je dotaknuo, postao je nevidljiv.“ Što priču čini nestvarnom?",
+      "ponudeni": [
+        "Tin se ujutro probudio.",
+        "Tin je postao nevidljiv kad je dotaknuo pero.",
+        "Pod jastukom je bilo pero.",
+        "Pero je bilo zlatne boje."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nitko ne može postati nevidljiv, pa je pero čarobno, a ostalo je moguće.",
+      "savjet": "Razmisli koji dio odlomka nijedan čovjek ne bi mogao doživjeti."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-076",
+      "tezina": "tesko",
+      "pitanje": "Luka tvrdi da je rečenica „Mačka je predla u Lukinu krilu.“ personifikacija. Je li u pravu?",
+      "ponudeni": [
+        "Jest, jer mačka nešto radi.",
+        "Jest, jer je mačka životinja.",
+        "Nije, jer u rečenici nema životinje.",
+        "Nije, jer mačke zaista predu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Predenje je stvarno ponašanje mačaka, pa toj mački nije pridana ljudska osobina.",
+      "savjet": "Provjeri radi li mačka išta što prava mačka ne radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-077",
+      "tezina": "tesko",
+      "pitanje": "Zašto je rečenica „Planina je zijevnula i pokrila se oblacima.“ personifikacija?",
+      "ponudeni": [
+        "Jer je planina visoka i stjenovita.",
+        "Jer se oblaci zaista nalaze iznad planine.",
+        "Jer je planina čudesno biće iz bajke.",
+        "Jer su planini pridane ljudske radnje."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zijevanje i pokrivanje ljudske su radnje, a ovdje ih izvodi planina.",
+      "savjet": "Razmisli tko inače zijeva i pokriva se prije spavanja."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-078",
+      "tezina": "tesko",
+      "pitanje": "Usporedi odlomke: 1) Kraljević je čarobnim mačem pobijedio troglavog zmaja. 2) Mia je s tatom popravila probušenu gumu bicikla. Što je točno?",
+      "ponudeni": [
+        "Prvi je stvarna priča, a drugi bajka.",
+        "Prvi je bajka, a drugi stvarna priča.",
+        "Oba su bajke.",
+        "Oba su stvarne priče."
+      ],
+      "tocan": 1,
+      "objasnjenje": "U prvom odlomku su čarobni mač i zmaj, a popravak gume moguć je u životu.",
+      "savjet": "Potraži u odlomcima čudesna bića i predmete."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-079",
+      "tezina": "tesko",
+      "pitanje": "Zašto pisci u pričama često pridaju ljudske osobine prirodi i predmetima?",
+      "ponudeni": [
+        "da priča bude kraća",
+        "da priča ostane bez likova",
+        "da priča bude živopisnija i bliža čitatelju",
+        "da priča postane pjesma u stihovima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad priroda i predmeti osjećaju i govore, priča postaje živa i lakše je zamišljamo.",
+      "savjet": "Zamisli kako djeluje kuća koja tuguje u usporedbi s običnom kućom."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-080",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica opisuje pčelu bez ljudskih osobina?",
+      "ponudeni": [
+        "Pčela je skupljala pelud s cvijeta.",
+        "Pčela je cvijetu zahvalila na peludi.",
+        "Pčela je odlučila otvoriti slastičarnicu.",
+        "Pčela je leptiru ispričala šalu."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Pčele zaista skupljaju pelud, a zahvaljivanje, otvaranje slastičarnice i šale ljudske su radnje.",
+      "savjet": "Sjeti se što pčele zaista rade u prirodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-081",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica opisuje sunce bez personifikacije?",
+      "ponudeni": [
+        "Sunce je obasjalo krovove.",
+        "Sunce se umorilo i otišlo spavati.",
+        "Sunce je ljutito gledalo oblake.",
+        "Sunce je poljubilo usnulo polje."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sunce zaista obasjava krovove, a umor, ljutnja i ljubljenje pripadaju ljudima.",
+      "savjet": "Odvoji ono što sunce radi u prirodi od ljudskih postupaka i osjećaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-082",
+      "tezina": "tesko",
+      "pitanje": "Lana je napisala: „Kiša je padala, a cesta se sjajila.“ Kojom bi izmjenom u rečenicu unijela personifikaciju?",
+      "ponudeni": [
+        "Kiša je jako padala, a cesta se sjajila.",
+        "Kiša je padala cijelu noć, a cesta se sjajila.",
+        "Kiša je veselo plesala po cesti, a cesta se sjajila.",
+        "Kiša je padala, a mokra cesta se sjajila."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Veselo plesati mogu ljudi, pa kiša u toj rečenici dobiva ljudsku osobinu.",
+      "savjet": "Usporedi glagole u rečenicama i pitaj se tko inače tako radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-083",
+      "tezina": "tesko",
+      "pitanje": "Zašto je patuljak čudesan lik, a vrtlar stvaran?",
+      "ponudeni": [
+        "Patuljak je malen, a vrtlar velik.",
+        "Patuljci postoje samo u pričama, a vrtlari i u stvarnom životu.",
+        "Vrtlar radi u vrtu, a patuljak u šumi.",
+        "Patuljak je sporedni, a vrtlar glavni lik."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik je čudesan kad ga nema u stvarnom životu, a ne zbog veličine, posla ili uloge u priči.",
+      "savjet": "Sjeti se po čemu se razlikuju stvarni i čudesni likovi."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-084",
+      "tezina": "tesko",
+      "pitanje": "„Tin je zaspao i sanjao da leti na zmaju iznad grada. Ujutro se probudio u svojem krevetu.“ Što je u odlomku nestvarno?",
+      "ponudeni": [
+        "Tin je zaspao.",
+        "Tin se probudio u krevetu.",
+        "Bilo je jutro.",
+        "Let na zmaju iz Tinova sna."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Spavanje i buđenje stvarni su, a let na zmaju nestvaran je i zbio se samo u snu.",
+      "savjet": "Za svaki dio odlomka provjeri bi li se mogao dogoditi u životu."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-085",
+      "tezina": "tesko",
+      "pitanje": "Koji lik može biti stvaran ili nestvaran, ovisno o tome što radi u priči?",
+      "ponudeni": [
+        "vila",
+        "mačka",
+        "zmaj",
+        "div"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mačka koja prede stvarna je, a mačka koja govori nestvarna; vila, zmaj i div uvijek su čudesni.",
+      "savjet": "Potraži lik koji postoji i izvan priča."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-086",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica sadrži čarobni predmet, a ne personifikaciju?",
+      "ponudeni": [
+        "Zdjela se rastužila kad je ostala prazna.",
+        "Žlica je ljubomorno gledala vilicu.",
+        "Stol je zadovoljno zaškripao.",
+        "Djed je imao zdjelu koja se sama punila juhom."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Zdjela koja se sama puni ima čudesnu moć, ali ne osjeća kao čovjek; u ostalim rečenicama predmeti osjećaju.",
+      "savjet": "Personifikacija predmetu daje ljudske osjećaje, a čarobni predmet ima čudesnu moć."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-087",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica sadrži personifikaciju, a ne čudesno biće?",
+      "ponudeni": [
+        "Vrata su zacvilila i požalila se na hladnoću.",
+        "Vila je otvorila vrata dvorca.",
+        "Patuljak je zaključao vrata.",
+        "Div je provalio kroz vrata."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vrata se žale kao ljudi, a u ostalim rečenicama radnju izvode čudesna bića.",
+      "savjet": "U svakoj rečenici potraži tko izvodi radnju."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-088",
+      "tezina": "tesko",
+      "pitanje": "„Ivan je spasio ptića koji je ispao iz gnijezda. Ptić mu je rekao: ‚Hvala ti!‘“ Što je u odlomku stvarno, a što nestvarno?",
+      "ponudeni": [
+        "Cijeli je odlomak stvaran.",
+        "Spašavanje ptića nestvarno je, a njegov govor stvaran.",
+        "Spašavanje ptića stvarno je, a ptić koji govori nestvaran.",
+        "Cijeli je odlomak nestvaran."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ptić zaista može ispasti iz gnijezda i netko ga može spasiti, ali ptići ne govore.",
+      "savjet": "Svaki događaj u odlomku provjeri posebno."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-089",
+      "tezina": "tesko",
+      "pitanje": "Koja je rečenica stvarna, iako se u njoj spominje zmaj?",
+      "ponudeni": [
+        "Zmaj je Tinu donio rođendanski poklon.",
+        "Tin je uz pomoć zmaja preletio more.",
+        "Zmaj je Tinu otpjevao rođendansku pjesmu.",
+        "Tin je za rođendan dobio igračku zmaja."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Igračka zmaja postoji u stvarnosti, a pravi zmaj koji leti, pjeva ili donosi poklone ne postoji.",
+      "savjet": "Za svaku rečenicu provjeri bi li se mogla dogoditi u tvojoj kući."
+    },
+    {
+      "id": "4-hrvatski-jezik-stvarno-i-nestvarno-090",
+      "tezina": "tesko",
+      "pitanje": "Što bi se promijenilo kad bi u stvarnoj priči o Lukinu ljetovanju more počelo govoriti?",
+      "ponudeni": [
+        "Priča bi dobila nestvaran, čudesan dio.",
+        "Priča bi postala potpuno stvarna.",
+        "Priča bi ostala bez mjesta radnje.",
+        "Luka više ne bi bio lik u priči."
+      ],
+      "tocan": 0,
+      "objasnjenje": "More ne može govoriti, pa bi taj događaj stvarnoj priči dodao čudesan dio.",
+      "savjet": "Sjeti se što se događa kad se u priču doda nešto nemoguće."
+    }
+  ]
+}

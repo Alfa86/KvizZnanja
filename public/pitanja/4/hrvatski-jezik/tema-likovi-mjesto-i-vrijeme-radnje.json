@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "tema-likovi-mjesto-i-vrijeme-radnje",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-001",
+      "tezina": "lagano",
+      "pitanje": "Što je tema priče?",
+      "ponudeni": [
+        "Mjesto na kojem se priča događa",
+        "Ono o čemu priča govori",
+        "Vrijeme kada se priča događa",
+        "Lik koji sudjeluje u većini događaja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Tema je ono o čemu priča govori, npr. prijateljstvo ili pomaganje. Najčešće se izriče kratko, s nekoliko riječi.",
+      "savjet": "Razmisli na koje pitanje odgovara tema priče."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove lik o kojem se u priči najviše govori i koji sudjeluje u većini događaja?",
+      "ponudeni": [
+        "Sporedni lik",
+        "Pisac",
+        "Čitatelj",
+        "Glavni lik"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Glavni lik je najvažniji lik u priči: o njemu se najviše govori i sudjeluje u većini događaja.",
+      "savjet": "Sjeti se kako se likovi u priči dijele prema tome koliko su važni."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-003",
+      "tezina": "lagano",
+      "pitanje": "Što je mjesto radnje?",
+      "ponudeni": [
+        "Mjesto na kojem se događaji u priči odvijaju",
+        "Vrijeme kada se događaji u priči odvijaju",
+        "Lik koji se u priči najviše spominje",
+        "Ono o čemu priča govori"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mjesto radnje kazuje gdje se događa ono o čemu priča pripovijeda, npr. u šumi ili u školi.",
+      "savjet": "Sam naziv tog pojma govori na što se odnosi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-004",
+      "tezina": "lagano",
+      "pitanje": "Što je vrijeme radnje?",
+      "ponudeni": [
+        "Mjesto gdje se priča događa",
+        "Broj likova u priči",
+        "Kada se događaji u priči odvijaju",
+        "Naslov priče"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Vrijeme radnje kazuje kada se događa ono o čemu priča pripovijeda, npr. ljeti ili jedne večeri.",
+      "savjet": "Sam naziv tog pojma govori na što se odnosi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu likovi koji se u priči pojavljuju manje i pomažu ili ometaju glavnog lika?",
+      "ponudeni": [
+        "Sporedni likovi",
+        "Glavni likovi",
+        "Pripovjedači",
+        "Pisci"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Sporedni likovi pojavljuju se rjeđe od glavnog lika. Oni mu pomažu ili ga ometaju.",
+      "savjet": "Likovi u priči dijele se na dvije skupine prema važnosti."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-006",
+      "tezina": "lagano",
+      "pitanje": "Koji od ponuđenih izraza označava vrijeme radnje?",
+      "ponudeni": [
+        "u staroj šumi",
+        "mali zec Skok",
+        "jedne zimske večeri",
+        "prijateljstvo"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izraz „jedne zimske večeri“ kazuje kada se nešto dogodilo, pa označava vrijeme radnje.",
+      "savjet": "Za svaki izraz provjeri odgovara li na pitanje „Kada?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-007",
+      "tezina": "lagano",
+      "pitanje": "Koji od ponuđenih izraza označava mjesto radnje?",
+      "ponudeni": [
+        "u proljeće",
+        "rano ujutro",
+        "hrabrost",
+        "na obali mora"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izraz „na obali mora“ kazuje gdje se nešto događa, pa označava mjesto radnje.",
+      "savjet": "Za svaki izraz provjeri odgovara li na pitanje „Gdje?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-008",
+      "tezina": "lagano",
+      "pitanje": "Koji od ponuđenih odgovora može biti tema priče?",
+      "ponudeni": [
+        "u školskom dvorištu",
+        "pomaganje prijatelju",
+        "jednog ljetnog dana",
+        "djevojčica Lana"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pomaganje prijatelju kazuje o čemu priča govori, pa to može biti tema. Ostalo su mjesto, vrijeme i lik.",
+      "savjet": "Tema odgovara na pitanje „O čemu priča govori?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-009",
+      "tezina": "lagano",
+      "pitanje": "Tko sve može biti lik u priči?",
+      "ponudeni": [
+        "Samo ljudi",
+        "Samo djeca",
+        "Samo životinje",
+        "Ljudi, životinje, biljke, predmeti i čudesna bića"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lik u priči može biti čovjek, životinja, biljka, predmet ili čudesno biće, npr. zmaj.",
+      "savjet": "Sjeti se priča u kojima govore i djeluju životinje ili predmeti."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-010",
+      "tezina": "lagano",
+      "pitanje": "Pročitaj rečenicu: „Jednog sunčanog jutra Tin je otišao na livadu puštati zmaja.“ Kada se događa radnja?",
+      "ponudeni": [
+        "jednog sunčanog jutra",
+        "na livadi",
+        "u Tinovoj sobi",
+        "jedne kišne večeri"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječi „jednog sunčanog jutra“ kazuju kada se radnja događa.",
+      "savjet": "Potraži u rečenici riječi koje odgovaraju na pitanje „Kada?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-011",
+      "tezina": "lagano",
+      "pitanje": "Pročitaj rečenicu: „Mia je cijelo poslijepodne čitala u gradskoj knjižnici.“ Gdje se događa radnja?",
+      "ponudeni": [
+        "u školi",
+        "u gradskoj knjižnici",
+        "cijelo poslijepodne",
+        "u parku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi „u gradskoj knjižnici“ kazuju gdje se radnja događa.",
+      "savjet": "Potraži u rečenici riječi koje odgovaraju na pitanje „Gdje?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-012",
+      "tezina": "lagano",
+      "pitanje": "Pročitaj rečenicu: „Lisica Riđa svake je noći šetala uz potok.“ Koji se lik spominje u rečenici?",
+      "ponudeni": [
+        "potok",
+        "svaka noć",
+        "lisica Riđa",
+        "šetnja"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lisica Riđa je lik jer ona nešto radi u priči. Potok je mjesto, a noć vrijeme radnje.",
+      "savjet": "Lik je onaj tko u priči nešto radi ili doživljava."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-013",
+      "tezina": "lagano",
+      "pitanje": "Koji izraz označava neodređeno vrijeme radnje, za koje ne znamo točno kada je bilo?",
+      "ponudeni": [
+        "u utorak ujutro",
+        "jučer u podne",
+        "jednom davno",
+        "prošle subote"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izraz „jednom davno“ ne kazuje točno kada se nešto dogodilo, pa je vrijeme radnje neodređeno.",
+      "savjet": "Za svaki izraz razmisli bi li se po njemu moglo odrediti točno kada je to bilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-014",
+      "tezina": "lagano",
+      "pitanje": "Može li se radnja jedne priče odvijati na više mjesta?",
+      "ponudeni": [
+        "Ne, priča ima samo jedno mjesto radnje.",
+        "Da, likovi mogu ići s mjesta na mjesto.",
+        "Samo ako je priča bajka.",
+        "Samo ako priča ima naslov."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Priča može imati više mjesta radnje, npr. radnja počne kod kuće, a nastavi se u školi.",
+      "savjet": "Sjeti se neke priče u kojoj likovi putuju ili se sele."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-015",
+      "tezina": "lagano",
+      "pitanje": "Koji izraz kazuje u kojem se godišnjem dobu događa radnja?",
+      "ponudeni": [
+        "u jesen",
+        "u podrumu",
+        "na brodu",
+        "uz rijeku"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jesen je godišnje doba, pa izraz „u jesen“ kazuje vrijeme radnje.",
+      "savjet": "Sjeti se kako se zovu četiri godišnja doba."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-016",
+      "tezina": "lagano",
+      "pitanje": "Koji izraz kazuje u koje se doba dana događa radnja?",
+      "ponudeni": [
+        "u veljači",
+        "zimi",
+        "u planini",
+        "u sumrak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Sumrak je doba dana kada pada mrak, pa izraz „u sumrak“ kazuje doba dana.",
+      "savjet": "Doba dana su dijelovi jednog dana, npr. ono što je između jutra i noći."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-017",
+      "tezina": "lagano",
+      "pitanje": "Pročitaj rečenicu: „Starom svjetioniku svake je večeri u posjet dolazio galeb Pero.“ Koji su likovi u rečenici?",
+      "ponudeni": [
+        "more i galeb Pero",
+        "svjetionik i galeb Pero",
+        "večer i svjetionik",
+        "galeb Pero i otok"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Likovi su stari svjetionik i galeb Pero, jer galeb dolazi u posjet svjetioniku. Večer je vrijeme radnje.",
+      "savjet": "I predmet može biti lik ako sudjeluje u događaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-018",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara mjesto radnje?",
+      "ponudeni": [
+        "Gdje?",
+        "Kada?",
+        "Tko?",
+        "O čemu?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mjesto radnje kazuje gdje se događa ono o čemu priča pripovijeda.",
+      "savjet": "Razmisli kojim bi pitanjem saznao ili saznala za šumu, školu ili more u priči."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-019",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara vrijeme radnje?",
+      "ponudeni": [
+        "Gdje?",
+        "Tko?",
+        "O čemu?",
+        "Kada?"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrijeme radnje kazuje kada se događa ono o čemu priča pripovijeda.",
+      "savjet": "Razmisli kojim bi pitanjem saznao ili saznala za jutro, ljeto ili večer u priči."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-020",
+      "tezina": "lagano",
+      "pitanje": "Na koje pitanje odgovara tema priče?",
+      "ponudeni": [
+        "Gdje se priča događa?",
+        "Kada se priča događa?",
+        "O čemu priča govori?",
+        "Tko je glavni lik?"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tema kazuje o čemu priča govori, npr. o prijateljstvu ili hrabrosti.",
+      "savjet": "Mjesto, vrijeme i likovi imaju svoja pitanja, a tema svoje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-021",
+      "tezina": "lagano",
+      "pitanje": "Kako se zovu svi koji sudjeluju u događajima neke priče?",
+      "ponudeni": [
+        "likovi",
+        "čitatelji",
+        "naslovi",
+        "ilustratori"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Svi koji u priči nešto rade, govore ili doživljavaju zovu se likovi.",
+      "savjet": "Razmisli kako zovemo one koji „žive“ unutar priče."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-022",
+      "tezina": "lagano",
+      "pitanje": "Pročitaj rečenicu: „Mali oblak Pufić putovao je nebom iznad sela.“ Gdje se događa radnja?",
+      "ponudeni": [
+        "u gradu",
+        "na dnu mora",
+        "u šumi",
+        "na nebu iznad sela"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Oblak putuje nebom iznad sela, pa je to mjesto radnje.",
+      "savjet": "Potraži u rečenici kuda se kreće lik."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-023",
+      "tezina": "lagano",
+      "pitanje": "Koja je tema prikladna za priču o dvoje djece koja dijele užinu s novim učenikom?",
+      "ponudeni": [
+        "strah od mraka",
+        "putovanje na more",
+        "prijateljstvo i dijeljenje",
+        "natjecanje u trčanju"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djeca dijele užinu s novim učenikom i sprijateljuju se, pa priča govori o prijateljstvu i dijeljenju.",
+      "savjet": "Razmisli što djeca u toj priči rade i zašto."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-024",
+      "tezina": "lagano",
+      "pitanje": "Riječi „ljeto“, „jesen“, „zima“ i „proljeće“ u priči najčešće kazuju:",
+      "ponudeni": [
+        "mjesto radnje",
+        "vrijeme radnje",
+        "glavnog lika",
+        "temu priče"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Godišnja doba kazuju kada se nešto događa, pa označavaju vrijeme radnje.",
+      "savjet": "Postavi pitanje „Gdje?“ ili „Kada?“ i vidi na koje te riječi odgovaraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-025",
+      "tezina": "lagano",
+      "pitanje": "Izrazi „u šumi“, „na brodu“ i „u kuhinji“ u priči kazuju:",
+      "ponudeni": [
+        "vrijeme radnje",
+        "temu priče",
+        "mjesto radnje",
+        "sporedne likove"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ti izrazi kazuju gdje se nešto događa, pa označavaju mjesto radnje.",
+      "savjet": "Postavi pitanje „Gdje?“ ili „Kada?“ i vidi na koje ti izrazi odgovaraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-026",
+      "tezina": "lagano",
+      "pitanje": "Pročitaj rečenicu: „Prošle zime Lana i Tin gradili su snjegovića ispred kuće.“ Koje riječi kazuju vrijeme radnje?",
+      "ponudeni": [
+        "ispred kuće",
+        "Prošle zime",
+        "Lana i Tin",
+        "gradili su snjegovića"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi „prošle zime“ kazuju kada su djeca gradila snjegovića.",
+      "savjet": "Potraži u rečenici riječi koje odgovaraju na pitanje „Kada?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-027",
+      "tezina": "lagano",
+      "pitanje": "Pročitaj rečenicu: „Na sajmu u susjednom gradu Luka je kupio crvenu kapu.“ Koje riječi kazuju mjesto radnje?",
+      "ponudeni": [
+        "Luka",
+        "crvenu kapu",
+        "je kupio",
+        "Na sajmu u susjednom gradu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječi „na sajmu u susjednom gradu“ kazuju gdje je Luka kupio kapu.",
+      "savjet": "Potraži u rečenici riječi koje odgovaraju na pitanje „Gdje?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-028",
+      "tezina": "lagano",
+      "pitanje": "Može li lik u priči biti predmet, npr. stara stolica?",
+      "ponudeni": [
+        "Da, i predmeti mogu biti likovi.",
+        "Ne, likovi mogu biti samo ljudi.",
+        "Ne, likovi mogu biti samo životinje.",
+        "Da, ali samo u pjesmama."
+      ],
+      "tocan": 0,
+      "objasnjenje": "U priči likovi mogu biti i predmeti, npr. stolica, sat ili olovka.",
+      "savjet": "Sjeti se koje sve vrste likova mogu sudjelovati u događajima priče."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-029",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica govori o vremenu radnje?",
+      "ponudeni": [
+        "Kuća je stajala na brežuljku.",
+        "Bilo je to prvoga dana ljetnih praznika.",
+        "Djed je imao sijedu bradu.",
+        "Pas je trčao za loptom."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica o prvom danu ljetnih praznika kazuje kada se nešto dogodilo.",
+      "savjet": "Potraži rečenicu koja odgovara na pitanje „Kada?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-030",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica govori o mjestu radnje?",
+      "ponudeni": [
+        "Mala se koliba skrivala duboko u šumi.",
+        "Bilo je to jedne hladne noći.",
+        "Mia je bila znatiželjna djevojčica.",
+        "Sve se dogodilo prije mnogo godina."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica o kolibi duboko u šumi kazuje gdje se radnja događa.",
+      "savjet": "Potraži rečenicu koja odgovara na pitanje „Gdje?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-031",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Lana je svakog jutra hranila ptice na prozoru. Zimi im je stavljala sjemenke i zrnca.“ Koja je tema?",
+      "ponudeni": [
+        "putovanje na more",
+        "svađa s bratom",
+        "briga za ptice zimi",
+        "učenje za ispit"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lana se brine da ptice zimi imaju hrane, pa je to tema odlomka.",
+      "savjet": "Razmisli što Lana radi svakog jutra i za koga."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-032",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Tin je ostao sam na polju dok je sunce zalazilo. Iza stoga sijena začuo je tiho cviljenje.“ Gdje je i kada radnja?",
+      "ponudeni": [
+        "na polju, u predvečerje",
+        "u kući, u podne",
+        "na polju, rano ujutro",
+        "u šumi, u ponoć"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tin je na polju, a sunce zalazi, što znači da je predvečerje.",
+      "savjet": "Razmisli u koje doba dana sunce zalazi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-033",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Luka je u subotu krenuo na pecanje. Na putu mu je prijatelj Ivo posudio udicu. Luka je zatim cijeli dan sjedio uz jezero.“ Tko je glavni lik?",
+      "ponudeni": [
+        "Ivo",
+        "Luka",
+        "riba u jezeru",
+        "Lukin tata"
+      ],
+      "tocan": 1,
+      "objasnjenje": "O Luki se najviše govori i on sudjeluje u svim događajima, pa je glavni lik. Ivo se pojavljuje samo nakratko.",
+      "savjet": "Prebroji u koliko rečenica sudjeluje svaki lik."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-034",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Lisica Riđa tražila je hranu za svoje mlade. Usput ju je vrana Kra upozorila na lovca. Riđa se sakrila i sretno se vratila u jazbinu.“ Koji je lik sporedni?",
+      "ponudeni": [
+        "lisica Riđa",
+        "jazbina",
+        "hrana za mlade",
+        "vrana Kra"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrana se pojavljuje samo jednom i pomaže lisici, pa je sporedni lik. Glavni je lik lisica Riđa.",
+      "savjet": "Sporedni se lik pojavljuje manje i pomaže ili ometa glavnog lika."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-035",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Bilo je to jednom davno, u kraljevstvu iza sedam gora.“ Kakvo je vrijeme radnje?",
+      "ponudeni": [
+        "točno određeni dan u tjednu",
+        "neodređeno, ne zna se točno kada",
+        "današnji dan",
+        "sutrašnje jutro"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izraz „jednom davno“ ne kazuje točno kada se nešto dogodilo, pa je vrijeme radnje neodređeno.",
+      "savjet": "Razmisli može li se iz tih riječi saznati koje je godine ili koji dan to bilo."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-036",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Na kraju školske godine razred je otišao na izlet u zoološki vrt. Djeca su gledala žirafe i slonove.“ Kada se događa radnja?",
+      "ponudeni": [
+        "početkom rujna",
+        "za vrijeme zimskih praznika",
+        "u zoološkom vrtu",
+        "na kraju školske godine"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječi „na kraju školske godine“ kazuju kada je razred otišao na izlet.",
+      "savjet": "Pazi da ne pomiješaš riječi koje kazuju gdje i riječi koje kazuju kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-037",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Ujutro je Ema čekala autobus na stanici. Poslijepodne je već šetala uz more kod bake.“ Koja su mjesta radnje?",
+      "ponudeni": [
+        "autobusna stanica i obala mora",
+        "škola i obala mora",
+        "autobusna stanica i planina",
+        "bakina kuhinja i škola"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ema je najprije na autobusnoj stanici, a zatim uz more, pa priča ima dva mjesta radnje.",
+      "savjet": "Pronađi gdje je Ema ujutro, a gdje poslijepodne."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-038",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Petra i Ivan natjecali su se tko će prvi doplivati do plutače. Ivan je pobijedio, a Petra mu je prva čestitala.“ Koja je tema?",
+      "ponudeni": [
+        "strah od vode",
+        "izgubljena igračka",
+        "natjecanje i čestitanje pobjedniku",
+        "zimski praznici"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djeca se natječu, a Petra čestita pobjedniku, pa o tome odlomak govori.",
+      "savjet": "Razmisli što se u odlomku događa od početka do kraja."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-039",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Mali oblak Pufić htio je vidjeti more. Vjetar ga je nosio preko planina i polja sve dok nije stigao do obale.“ Tko je glavni lik?",
+      "ponudeni": [
+        "oblak Pufić",
+        "vjetar",
+        "more",
+        "planine"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Priča govori o oblaku Pufiću i njegovoj želji, pa je on glavni lik. Vjetar mu samo pomaže.",
+      "savjet": "Razmisli čija se želja ispunjava u odlomku."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-040",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „U staroj kući na kraju ulice živjela je baka Mara sa svojim mačkom Mrkom.“ Gdje se događa radnja?",
+      "ponudeni": [
+        "u novoj zgradi u središtu grada",
+        "u staroj kući na kraju ulice",
+        "u skloništu za mačke",
+        "na rubu šume"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Baka Mara i mačak Mrki žive u staroj kući na kraju ulice, pa je to mjesto radnje.",
+      "savjet": "Potraži riječi koje kazuju gdje likovi žive."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-041",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Za vrijeme ljetnih praznika Tin je kod djeda naučio voziti bicikl. Djed ga je strpljivo pridržavao.“ Koji je lik sporedni?",
+      "ponudeni": [
+        "Tin",
+        "bicikl",
+        "djed",
+        "Tinova sestra"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djed pomaže Tinu da nauči voziti bicikl, pa je sporedni lik. Glavni je lik Tin.",
+      "savjet": "Razmisli tko uči nešto novo, a tko mu u tome pomaže."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-042",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Kad je Luka slomio nogu, prijatelji su mu svaki dan donosili zadaće i s njim igrali društvene igre.“ Koja je tema?",
+      "ponudeni": [
+        "ljubav prema sportu",
+        "putovanje u nepoznato",
+        "briga za kućne ljubimce",
+        "pomoć prijatelju u nevolji"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Prijatelji pomažu Luki dok je ozlijeđen, pa odlomak govori o pomoći prijatelju u nevolji.",
+      "savjet": "Razmisli što prijatelji rade za Luku i zašto."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-043",
+      "tezina": "srednje",
+      "pitanje": "Koja skupina sadrži samo izraze za vrijeme radnje?",
+      "ponudeni": [
+        "u šumi, ujutro, na moru",
+        "na brdu, u gradu, kod kuće",
+        "Lana, djed, pas Žućko",
+        "ujutro, u proljeće, jednom davno"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izrazi „ujutro“, „u proljeće“ i „jednom davno“ odgovaraju na pitanje „Kada?“.",
+      "savjet": "Provjeri svaki izraz u skupini, a ne samo prvi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-044",
+      "tezina": "srednje",
+      "pitanje": "Koja skupina sadrži samo izraze za mjesto radnje?",
+      "ponudeni": [
+        "u dvorištu, navečer, kraj rijeke",
+        "zimi, u podne, prošle godine",
+        "u dvorištu, na tavanu, kraj rijeke",
+        "vila, patuljak, kralj"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izrazi „u dvorištu“, „na tavanu“ i „kraj rijeke“ odgovaraju na pitanje „Gdje?“.",
+      "savjet": "Provjeri svaki izraz u skupini, a ne samo prvi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-045",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Kad je pao prvi snijeg, Mia i Luka istrčali su u park sanjkati se.“ Kada se događa radnja?",
+      "ponudeni": [
+        "u kasno ljeto",
+        "kad je pao prvi snijeg",
+        "u parku",
+        "prvog dana proljeća"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi „kad je pao prvi snijeg“ kazuju kada su djeca otišla sanjkati se.",
+      "savjet": "Pazi da ne pomiješaš riječi koje kazuju gdje i riječi koje kazuju kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-046",
+      "tezina": "srednje",
+      "pitanje": "Priča govori o djevojčici koja se bojala prvog dana u novoj školi. S kojim se iskustvom ta tema najbolje povezuje?",
+      "ponudeni": [
+        "kad netko prvi put dođe u novi razred",
+        "kad netko slavi rođendan",
+        "kad netko kupuje kruh",
+        "kad netko gleda crtić"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tema priče je strah od novog početka u školi, a to je slično iskustvu dolaska u novi razred.",
+      "savjet": "Najprije odredi o čemu priča govori, a zatim potraži slično iskustvo."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-047",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „U kutu sobe živio je plišani medvjedić Bubi. Svake ga je noći djevojčica Ena grlila prije spavanja.“ Koji se likovi pojavljuju?",
+      "ponudeni": [
+        "Ena i njezina mama",
+        "noć i soba",
+        "medvjedić Bubi i djevojčica Ena",
+        "medvjedić Bubi i Enin pas"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U odlomku sudjeluju medvjedić Bubi i djevojčica Ena. Soba je mjesto, a noć vrijeme radnje.",
+      "savjet": "I igračka može biti lik ako sudjeluje u događaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-048",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Bilo je vruće ljetno popodne. Lana i njezin pas Žućko trčali su livadom do potoka.“ Kada se događa radnja?",
+      "ponudeni": [
+        "zimsko jutro",
+        "ljetno popodne",
+        "jesenska večer",
+        "proljetna noć"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prva rečenica kazuje da je bilo ljetno popodne.",
+      "savjet": "Potraži riječi koje kazuju godišnje doba i doba dana."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-049",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Jedne noći, dok je cijeli grad spavao, u muzeju je oživio stari kameni vitez.“ Gdje se događa radnja?",
+      "ponudeni": [
+        "u muzeju",
+        "u gradskom parku",
+        "u dvorcu",
+        "u školi"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Vitez oživljava u muzeju, pa je muzej mjesto radnje.",
+      "savjet": "Potraži gdje se događa ono što je neobično u rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-050",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Ivo je svaki dan vježbao klavir, iako mu nije uvijek išlo. Na kraju godine svirao je na školskoj priredbi.“ Koja je tema?",
+      "ponudeni": [
+        "izlet u planine",
+        "svađa među prijateljima",
+        "briga za životinje",
+        "upornost u vježbanju glazbe"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ivo uporno vježba klavir dok ne zasvira na priredbi, pa odlomak govori o upornosti.",
+      "savjet": "Razmisli što Ivo radi svaki dan i čime to završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-051",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „U podne je Mia na tržnici kupila jabuke za baku.“ Koje riječi kazuju mjesto radnje?",
+      "ponudeni": [
+        "u podne",
+        "na tržnici",
+        "jabuke",
+        "za baku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi „na tržnici“ kazuju gdje je Mia kupila jabuke.",
+      "savjet": "Postavi pitanje „Gdje je Mia kupila jabuke?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-052",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Tin je izgubio ključ od kuće. Susjed Branko pomogao mu ga je tražiti u travi. Tin je ključ našao ispod klupe.“ Koji je lik sporedni?",
+      "ponudeni": [
+        "susjed Branko",
+        "Tin",
+        "Tinova mama",
+        "Tinov učitelj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Susjed Branko pojavljuje se samo jednom i pomaže Tinu, pa je sporedni lik.",
+      "savjet": "Razmisli tko ima problem, a tko mu pomaže da ga riješi."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-053",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Djeca iz ulice skupila su se u subotu. Zajedno su očistila park od smeća i posadila cvijeće.“ Koja je tema?",
+      "ponudeni": [
+        "rođendanska zabava",
+        "natjecanje u nogometu",
+        "strah od mraka",
+        "briga za okoliš"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Djeca čiste park i sade cvijeće, pa odlomak govori o brizi za okoliš.",
+      "savjet": "Razmisli što su djeca učinila za park."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-054",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Leptir Šarenko letio je od cvijeta do cvijeta po vrtu bake Ruže. Pio je nektar i igrao se na suncu.“ Tko je glavni lik?",
+      "ponudeni": [
+        "baka Ruža",
+        "vrt",
+        "leptir Šarenko",
+        "sunce"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Odlomak govori o tome što radi leptir Šarenko, pa je on glavni lik. Vrt je mjesto radnje.",
+      "savjet": "Razmisli o kome se u obje rečenice govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-055",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Navečer je Luka sjedio na balkonu. Gledao je zvijezde sve do ponoći.“ Kada se događa radnja?",
+      "ponudeni": [
+        "rano ujutro",
+        "u podne",
+        "poslijepodne",
+        "navečer, do ponoći"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječi „navečer“ i „do ponoći“ kazuju kada je Luka gledao zvijezde.",
+      "savjet": "Potraži u obje rečenice riječi koje odgovaraju na pitanje „Kada?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-056",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Luka je iz škole otišao u knjižnicu, a zatim na igralište.“ Koja su mjesta radnje?",
+      "ponudeni": [
+        "škola, park i trgovina",
+        "knjižnica i bazen",
+        "škola, knjižnica i igralište",
+        "kuća i igralište"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Luka je bio u školi, zatim u knjižnici i na kraju na igralištu, pa su to tri mjesta radnje.",
+      "savjet": "Prati kamo Luka ide redom kroz cijelu rečenicu."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-057",
+      "tezina": "srednje",
+      "pitanje": "Koje pitanje pomaže povezati priču o prijateljstvu s vlastitim iskustvom?",
+      "ponudeni": [
+        "Kada mi je prijatelj pomogao?",
+        "Koliko stranica ima knjiga?",
+        "Tko je nacrtao slike u knjizi?",
+        "Koje su boje korice knjige?"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad se prisjetimo kako nam je prijatelj pomogao, temu priče povezujemo s vlastitim životom.",
+      "savjet": "Potraži pitanje koje se odnosi na temu priče i na tvoj život."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-058",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „Ema je na plaži vidjela galeba zapetljanog u mrežu. Pažljivo ga je oslobodila. Galeb je zalepršao i odletio nad more.“ Koja je tema?",
+      "ponudeni": [
+        "gradnja dvorca od pijeska",
+        "pomaganje životinji u nevolji",
+        "učenje plivanja",
+        "skupljanje školjaka"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ema oslobađa galeba iz mreže, pa odlomak govori o pomaganju životinji u nevolji.",
+      "savjet": "Razmisli što Ema radi i kome."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-059",
+      "tezina": "srednje",
+      "pitanje": "U kojoj je rečenici vrijeme radnje neodređeno?",
+      "ponudeni": [
+        "U subotu ujutro Tin je ustao rano.",
+        "Prošlog ljeta Mia je bila na moru.",
+        "Nekoć davno živio je jedan mlinar.",
+        "Na Badnjak je pao snijeg."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi „nekoć davno“ ne kazuju točno kada se nešto dogodilo, pa je vrijeme neodređeno.",
+      "savjet": "Za svaku rečenicu razmisli bi li se moglo reći koji je to bio dan ili godina."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-060",
+      "tezina": "srednje",
+      "pitanje": "Pročitaj: „U spilji ispod planine živio je mali zmaj Plamko. Svake je zime grijao jazbine šumskih životinja.“ Gdje živi glavni lik?",
+      "ponudeni": [
+        "na vrhu planine",
+        "u spilji ispod planine",
+        "u jazbini lisice",
+        "u šumi kraj jezera"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prva rečenica kazuje da zmaj Plamko živi u spilji ispod planine.",
+      "savjet": "Pažljivo pročitaj prvu rečenicu i riječi koje kazuju gdje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-061",
+      "tezina": "tesko",
+      "pitanje": "Koji je od ponuđenih odgovora tema priče, a ne poruka?",
+      "ponudeni": [
+        "Pravom prijatelju treba pomoći.",
+        "Laž se ne isplati.",
+        "Treba čuvati prirodu.",
+        "prijateljstvo"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tema kratko kazuje o čemu priča govori, npr. prijateljstvo. Poruka je cijela rečenica koja nas uči kako se ponašati.",
+      "savjet": "Tema kazuje o čemu priča govori, a poruka čemu nas uči."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-062",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Mačak Mrki ujutro je krenuo u lov na miša. Pas Rex ga je ometao lavežom. Mrki se popeo na stablo i odande promatrao dvorište.“ Što je točno?",
+      "ponudeni": [
+        "Rex je glavni, a Mrki sporedni lik.",
+        "Mrki je glavni, a Rex sporedni lik.",
+        "Oba su lika sporedna.",
+        "Miš je glavni lik."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mrki sudjeluje u svim događajima, pa je glavni lik. Rex se pojavljuje jednom i ometa ga, pa je sporedni.",
+      "savjet": "Provjeri koji lik sudjeluje u svim trima rečenicama."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-063",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Luka je na klupi našao novčanik. Odnio ga je učiteljici da pronađe vlasnika. Vlasnik mu je poslao pismo zahvale.“ Koja je tema?",
+      "ponudeni": [
+        "školski izlet",
+        "natjecanje u trčanju",
+        "poštenje",
+        "strah od mraka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Luka vraća pronađeni novčanik vlasniku, pa odlomak govori o poštenju.",
+      "savjet": "Razmisli što je Luka mogao učiniti s novčanikom, a što je učinio."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-064",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Toga je jutra Ana zakasnila u školu. Navečer je za stolom pričala mami što joj se dogodilo.“ Što je točno za vrijeme radnje?",
+      "ponudeni": [
+        "Radnja traje od jutra do večeri jednog dana.",
+        "Radnja traje cijelo ljeto.",
+        "Radnja se događa samo navečer.",
+        "Vrijeme radnje nije spomenuto."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Radnja počinje ujutro, a završava navečer istoga dana.",
+      "savjet": "Pronađi kada radnja počinje, a kada završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-065",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Tin je iz sela otputovao teti u grad. U gradu je prvi put vidio tramvaj, a zatim se vlakom vratio kući.“ Što je točno za mjesto radnje?",
+      "ponudeni": [
+        "Radnja se odvija samo u gradu.",
+        "Radnja se odvija samo u vlaku.",
+        "Radnja se odvija na više mjesta.",
+        "Mjesto radnje nije spomenuto."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tin je bio u selu, u gradu i u vlaku, pa se radnja odvija na više mjesta.",
+      "savjet": "Prati Tina od početka do kraja odlomka i zapamti gdje je sve bio."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-066",
+      "tezina": "tesko",
+      "pitanje": "Priča se događa na snježnoj planini. Što bi se najvjerojatnije promijenilo da se radnja premjesti na pješčanu plažu?",
+      "ponudeni": [
+        "opis okoline i ono što likovi rade",
+        "ništa, jer mjesto ne utječe na priču",
+        "samo imena likova",
+        "samo broj stranica"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mjesto radnje utječe na opis okoline i na ono što likovi rade, npr. umjesto skijanja bi se kupali.",
+      "savjet": "Zamisli što se radi na snježnoj planini, a što na plaži."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-067",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Djeca su izrezivala lica na bundevama, a s drveća je padalo žuto i crveno lišće.“ U kojem se godišnjem dobu događa radnja?",
+      "ponudeni": [
+        "u proljeće",
+        "u jesen",
+        "ljeti",
+        "zimi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lišće žuti i pada s drveća u jesen, a tada sazrijevaju i bundeve.",
+      "savjet": "Vrijeme nije izravno napisano, pa razmisli kada lišće mijenja boju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-068",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Ulične su se svjetiljke upalile, a na nebu su se pojavile prve zvijezde.“ U koje se doba dana događa radnja?",
+      "ponudeni": [
+        "rano ujutro",
+        "u podne",
+        "poslijepodne",
+        "navečer"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Svjetiljke se pale i zvijezde se pojavljuju kad pada mrak, a to je navečer.",
+      "savjet": "Vrijeme nije izravno napisano, pa razmisli kada se pale ulične svjetiljke."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-069",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Valovi su udarali o stijene, a galebovi su kružili oko jarbola.“ Gdje se najvjerojatnije događa radnja?",
+      "ponudeni": [
+        "u planini",
+        "na moru",
+        "u pustinji",
+        "u gradskom parku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Valovi, galebovi i jarbol broda pokazuju da se radnja događa na moru.",
+      "savjet": "Mjesto nije izravno napisano, pa razmisli gdje se može vidjeti sve što se spominje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-070",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Između polica širio se miris papira. Svi su govorili šapatom, a dječak je vratio knjigu koju je posudio prošli tjedan.“ Gdje se događa radnja?",
+      "ponudeni": [
+        "u pekarnici",
+        "u kinu",
+        "u knjižnici",
+        "na tržnici"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Police, tišina i vraćanje posuđene knjige pokazuju da se radnja događa u knjižnici.",
+      "savjet": "Mjesto nije izravno napisano, pa razmisli gdje se knjige posuđuju i vraćaju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-071",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Učiteljica je razredu predstavila novog učenika Marka. Marko se isprva bojao, ali je na odmoru upoznao Ivu. Do kraja dana Marko je imao novu prijateljicu.“ Tko je glavni lik?",
+      "ponudeni": [
+        "učiteljica",
+        "Iva",
+        "cijeli razred",
+        "Marko"
+      ],
+      "tocan": 3,
+      "objasnjenje": "O Marku se najviše govori i on sudjeluje u svim događajima. Učiteljica se spominje prva, ali samo jednom.",
+      "savjet": "Glavni lik ne mora biti onaj koji se prvi spominje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-072",
+      "tezina": "tesko",
+      "pitanje": "Po čemu prepoznajemo glavnog lika priče?",
+      "ponudeni": [
+        "O njemu se najviše govori i sudjeluje u većini događaja.",
+        "Uvijek se prvi spominje u priči.",
+        "Najstariji je od svih likova.",
+        "Ima najduže ime od svih likova."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Glavni lik prepoznajemo po tome što se o njemu najviše govori i što sudjeluje u većini događaja.",
+      "savjet": "Razmisli što glavnog lika čini najvažnijim za priču."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-073",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Vjeverica Lješka skupljala je orahe za zimu. Djetlić joj je pokazao gdje raste stari orah, a sova ju je upozorila na oluju.“ Kakvi su djetlić i sova?",
+      "ponudeni": [
+        "sporedni likovi koji pomažu glavnom liku",
+        "glavni likovi priče",
+        "sporedni likovi koji ometaju glavnog lika",
+        "likovi koji ne sudjeluju u događajima"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Djetlić i sova pojavljuju se manje od vjeverice i pomažu joj, pa su sporedni likovi koji pomažu.",
+      "savjet": "Razmisli o kome se najviše govori i što ostali likovi čine za njega."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-074",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Mia je gradila kulu od kocaka. Mlađi brat Niko stalno joj ju je rušio. Mia ju je ipak dovršila kad je Niko zaspao.“ Što je točno za Nika?",
+      "ponudeni": [
+        "Niko je glavni lik.",
+        "Niko je sporedni lik koji pomaže Miji.",
+        "Niko je pripovjedač priče.",
+        "Niko je sporedni lik koji ometa Miju."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Priča govori o Mijinoj kuli, a Niko joj ruši kulu, pa je sporedni lik koji je ometa.",
+      "savjet": "Razmisli olakšava li Niko Miji gradnju ili joj je otežava."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-075",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Ivan se bojao vode. Svaki je dan s trenerom vježbao u bazenu. Na kraju ljeta preplivao je cijeli bazen bez pomoći.“ Koja je tema?",
+      "ponudeni": [
+        "ljetni odmor na moru",
+        "natjecanje u plivanju",
+        "svladavanje straha od vode",
+        "prijateljstvo s trenerom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ivan se bojao vode, ali je vježbom svladao strah, pa o tome odlomak govori.",
+      "savjet": "Usporedi kakav je Ivan na početku, a kakav na kraju odlomka."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-076",
+      "tezina": "tesko",
+      "pitanje": "U priči „Ljeto na otoku“ dvoje prijatelja zajedno spašava ozlijeđenu pticu. Što je tema te priče?",
+      "ponudeni": [
+        "otok",
+        "spašavanje ozlijeđene ptice",
+        "ljeto",
+        "dvoje prijatelja"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Priča govori o spašavanju ptice. Otok je mjesto radnje, ljeto vrijeme radnje, a prijatelji su likovi.",
+      "savjet": "Naslov ne mora kazivati temu; razmisli što se u priči događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-077",
+      "tezina": "tesko",
+      "pitanje": "Lana čita priču o dječaku koji se seli u novi grad. I Lana se prošle godine preselila. Što Lana radi kad priču uspoređuje sa svojim doživljajem?",
+      "ponudeni": [
+        "određuje mjesto radnje",
+        "određuje sporedne likove",
+        "smišlja novi naslov",
+        "povezuje temu priče s vlastitim iskustvom"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lana uspoređuje ono o čemu priča govori s onim što je sama doživjela, pa povezuje temu s iskustvom.",
+      "savjet": "Razmisli što Lana uspoređuje: dva mjesta, dva lika ili dva doživljaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-078",
+      "tezina": "tesko",
+      "pitanje": "Učenik je za vrijeme radnje napisao „u šumi“. Zašto je to pogrešno?",
+      "ponudeni": [
+        "Šuma ne može biti u priči.",
+        "Vrijeme radnje može biti samo godišnje doba.",
+        "„U šumi“ kazuje gdje, a ne kada se radnja događa.",
+        "Priče nemaju vrijeme radnje."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Izraz „u šumi“ odgovara na pitanje „Gdje?“, pa je to mjesto radnje, a ne vrijeme.",
+      "savjet": "Postavi pitanje na koje odgovara izraz „u šumi“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-079",
+      "tezina": "tesko",
+      "pitanje": "Za temu priče o dvojici braće koja se pomire Mia je napisala „Ivan i Petar“. Što je pogrešno?",
+      "ponudeni": [
+        "Napisala je mjesto radnje.",
+        "Napisala je likove, a ne o čemu priča govori.",
+        "Napisala je vrijeme radnje.",
+        "Napisala je poruku priče."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ivan i Petar su likovi. Tema bi kazivala o čemu priča govori, npr. o pomirenju braće.",
+      "savjet": "Razmisli što su Ivan i Petar u toj priči."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-080",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Stari sat na tornju mjerio je vrijeme cijelom gradu. Jednog se dana zaustavio. Sat je opet proradio kad ga je popravio majstor Ivo.“ Što je točno?",
+      "ponudeni": [
+        "Sat je glavni, a majstor Ivo sporedni lik.",
+        "Majstor Ivo je glavni, a sat sporedni lik.",
+        "Grad je glavni lik.",
+        "Priča nema glavnog lika jer je sat predmet."
+      ],
+      "tocan": 0,
+      "objasnjenje": "O satu se govori u svim rečenicama, pa je on glavni lik. Majstor Ivo se pojavljuje jednom i pomaže.",
+      "savjet": "Sjeti se da i predmet može biti lik, a zatim provjeri o kome se najviše govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-081",
+      "tezina": "tesko",
+      "pitanje": "Može li priča imati dva glavna lika?",
+      "ponudeni": [
+        "Ne, priča može imati samo jednog lika.",
+        "Da, ali samo ako su to životinje.",
+        "Da, ako oba lika podjednako sudjeluju u većini događaja.",
+        "Ne, drugi lik po redu uvijek je sporedni."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Ako se o dvama likovima podjednako govori i oba sudjeluju u većini događaja, oba su glavni likovi.",
+      "savjet": "Sjeti se po čemu lik postaje glavni i može li to vrijediti za dva lika."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-082",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Bilo je to zimi, kad je jezero kraj sela bilo zaleđeno. Djeca su se cijeli dan klizala po ledu.“ Koji odgovor točno navodi mjesto i vrijeme radnje?",
+      "ponudeni": [
+        "u selu, ljeti",
+        "na zaleđenom jezeru kraj sela, zimi",
+        "na jezeru, u proljeće",
+        "u školskoj dvorani, zimi"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djeca se kližu na zaleđenom jezeru kraj sela, a to se događa zimi.",
+      "savjet": "Provjeri da su u odgovoru točni i mjesto i vrijeme, a ne samo jedno od toga."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-083",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Baka Vera više nije dobro vidjela. Unuka Lea svake joj je večeri čitala novine i pomagala joj presaditi cvijeće.“ Koja je tema?",
+      "ponudeni": [
+        "briga za baku",
+        "uzgoj cvijeća",
+        "čitanje novina",
+        "kupnja naočala"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Čitanje novina i presađivanje cvijeća samo su pojedinosti; cijeli odlomak govori o tome kako se Lea brine za baku.",
+      "savjet": "Tema obuhvaća cijeli odlomak, a ne samo jednu pojedinost."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-084",
+      "tezina": "tesko",
+      "pitanje": "Koja promjena u priči mijenja vrijeme radnje?",
+      "ponudeni": [
+        "Umjesto „u šumi“ napiše se „na moru“.",
+        "Umjesto Tina glavni lik postane Mia.",
+        "Promijeni se naslov priče.",
+        "Umjesto „jednog ljetnog jutra“ napiše se „jedne zimske noći“."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Izrazi „jednog ljetnog jutra“ i „jedne zimske noći“ kazuju kada se radnja događa, pa ta promjena mijenja vrijeme radnje.",
+      "savjet": "Za svaku promjenu razmisli mijenja li ona odgovor na pitanje „Kada?“."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-085",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Lana je cijeli tjedan tražila izgubljenu mačku. Pitala je susjede i lijepila plakate. Na kraju joj je poštar Josip javio da je mačka u njegovu vrtu.“ Što je točno?",
+      "ponudeni": [
+        "Lana je glavni lik, a poštar Josip sporedni.",
+        "Poštar Josip je glavni lik jer je pronašao mačku.",
+        "Susjedi su glavni likovi priče.",
+        "Priča nema sporednih likova."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lana sudjeluje u svim događajima, pa je glavni lik. Poštar Josip pojavljuje se jednom i pomaže joj.",
+      "savjet": "Ne odlučuje tko je riješio problem, nego o kome se najviše govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-086",
+      "tezina": "tesko",
+      "pitanje": "Priča se događa u gradu u kojem i ti živiš. Kako ti to pomaže pri čitanju?",
+      "ponudeni": [
+        "Ne moraš pročitati kraj priče.",
+        "Ne trebaš znati tko je glavni lik.",
+        "Priča postaje kraća.",
+        "Lakše zamišljaš mjesto radnje jer ga poznaješ."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad poznajemo mjesto radnje, lakše ga zamišljamo i priču povezujemo s vlastitim životom.",
+      "savjet": "Razmisli što ti je poznato kad priča opisuje ulice tvoga grada."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-087",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Tin i Luka posvađali su se oko lopte. Cijeli tjedan nisu razgovarali. U subotu je Tin prvi pružio ruku i opet su se zajedno igrali.“ Koja je tema?",
+      "ponudeni": [
+        "nogometna utakmica",
+        "svađa i pomirenje prijatelja",
+        "kupnja nove lopte",
+        "subotnji izlet"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prijatelji se posvađaju, a zatim pomire, pa o tome odlomak govori. Lopta je samo povod svađi.",
+      "savjet": "Usporedi što se događa između Tina i Luke na početku, a što na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-088",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „U proljeće je Mia posadila sjemenku suncokreta. Svaki ju je dan zalijevala. Krajem ljeta suncokret je bio viši od nje.“ Koliko dugo traje radnja?",
+      "ponudeni": [
+        "jedan dan",
+        "jedan tjedan",
+        "od proljeća do kraja ljeta",
+        "cijelu zimu"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Radnja počinje u proljeće, kad Mia sadi sjemenku, a završava krajem ljeta.",
+      "savjet": "Pronađi riječi o vremenu u prvoj i u zadnjoj rečenici."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-089",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Ena je za rođendan dobila štene Bobija. Bobi je istražio svaki kut kuće, izgrizao papuču i pronašao skrivenu loptu. Navečer je umorno zaspao u košari.“ Tko je glavni lik?",
+      "ponudeni": [
+        "Ena",
+        "Enina mama",
+        "papuča",
+        "štene Bobi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Bobi sudjeluje u gotovo svim događajima, pa je on glavni lik. Ena se spominje samo na početku.",
+      "savjet": "Glavni lik ne mora biti onaj koji se prvi spominje."
+    },
+    {
+      "id": "4-hrvatski-jezik-tema-likovi-mjesto-i-vrijeme-radnje-090",
+      "tezina": "tesko",
+      "pitanje": "Pročitaj: „Luka je u bakinu podrumu pronašao staru kartu. Kad ju je dotaknuo, našao se na otoku punom divovskih kornjača.“ Koja su mjesta radnje?",
+      "ponudeni": [
+        "samo bakin podrum",
+        "škola i park",
+        "bakin podrum i otok s kornjačama",
+        "samo otok s kornjačama"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Radnja počinje u bakinu podrumu, a nastavlja se na čudesnom otoku, pa ima dva mjesta radnje.",
+      "savjet": "Prati gdje je Luka na početku, a gdje nakon što dotakne kartu."
+    }
+  ]
+}

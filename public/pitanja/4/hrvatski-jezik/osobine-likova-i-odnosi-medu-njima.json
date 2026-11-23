@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "osobine-likova-i-odnosi-medu-njima",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-001",
+      "tezina": "lagano",
+      "pitanje": "Po čemu upoznajemo osobine lika u priči?",
+      "ponudeni": [
+        "Samo po imenu lika",
+        "Samo po naslovu priče",
+        "Po njegovu izgledu, postupcima i govoru",
+        "Po broju stranica priče"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Osobine lika upoznajemo po tome kako izgleda, što čini i što govori, ali i po tome što drugi likovi kažu o njemu.",
+      "savjet": "Sjeti se kako u priči saznaješ kakav je netko."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-002",
+      "tezina": "lagano",
+      "pitanje": "Što su postupci lika?",
+      "ponudeni": [
+        "Ono što lik čini",
+        "Ono kako lik izgleda",
+        "Mjesto gdje se priča događa",
+        "Ime pisca priče"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Postupci su djela lika, ono što on radi u priči.",
+      "savjet": "Razmisli što lik radi dok se priča odvija."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-003",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ opisuje osobinu lika?",
+      "ponudeni": [
+        "Šuma",
+        "Jutro",
+        "Trčati",
+        "Hrabar"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ hrabar govori kakav je lik, a ostale riječi imenuju mjesto, vrijeme ili radnju.",
+      "savjet": "Osobina odgovara na pitanje: kakav je lik?"
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-004",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ opisuje izgled lika?",
+      "ponudeni": [
+        "Pošten",
+        "Kovrčav",
+        "Sebičan",
+        "Marljiv"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kovrčav govori kakvu kosu lik ima, a pošten, sebičan i marljiv govore o njegovu ponašanju.",
+      "savjet": "Izgled je ono što vidimo očima kad pogledamo lik."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-005",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik koji rado dijeli svoje stvari s drugima?",
+      "ponudeni": [
+        "Sebičan",
+        "Lijen",
+        "Plašljiv",
+        "Velikodušan"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Velikodušan lik rado daje i dijeli s drugima.",
+      "savjet": "Razmisli kako se zove osobina onoga tko rado daje drugima."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-006",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik koji govori istinu i onda kad mu nije lako?",
+      "ponudeni": [
+        "Ljubomoran",
+        "Pošten",
+        "Lijen",
+        "Hvalisav"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pošten lik govori istinu i ne laže, čak ni kad mu je teško.",
+      "savjet": "Razmisli kakva je osoba kojoj možeš vjerovati."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-007",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik koji puno i rado radi?",
+      "ponudeni": [
+        "Marljiv",
+        "Lijen",
+        "Plašljiv",
+        "Ljubomoran"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Marljiv lik rado i puno radi i trudi se.",
+      "savjet": "Razmisli kako se zove osobina onoga tko se trudi i ne bježi od posla."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-008",
+      "tezina": "lagano",
+      "pitanje": "Koja je osobina suprotna osobini hrabar?",
+      "ponudeni": [
+        "Marljiv",
+        "Pošten",
+        "Plašljiv",
+        "Strpljiv"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Suprotno od hrabrog lika je plašljiv lik, koji se lako uplaši.",
+      "savjet": "Zamisli lik koji se ne usudi ući u mračnu sobu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-009",
+      "tezina": "lagano",
+      "pitanje": "Koja je osobina suprotna osobini marljiv?",
+      "ponudeni": [
+        "Hrabar",
+        "Lijen",
+        "Dobar",
+        "Znatiželjan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Marljiv lik rado radi, a lijen lik izbjegava rad.",
+      "savjet": "Suprotne osobine opisuju potpuno drukčiji odnos prema radu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-010",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik koji sve želi saznati i o svemu postavlja pitanja?",
+      "ponudeni": [
+        "Sebičan",
+        "Lijen",
+        "Ljubomoran",
+        "Znatiželjan"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Znatiželjan lik želi saznati nove stvari pa često pita.",
+      "savjet": "Razmisli kako se zove želja da nešto saznaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-011",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik koji mirno čeka i ne ljuti se kad nešto dugo traje?",
+      "ponudeni": [
+        "Nestrpljiv",
+        "Ljubomoran",
+        "Strpljiv",
+        "Hvalisav"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Strpljiv lik zna mirno čekati i ne odustaje kad nešto traje.",
+      "savjet": "Pročitaj pažljivo: lik ostaje miran dok čeka."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-012",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove odnos dvaju likova koji se druže, vole i pomažu jedno drugome?",
+      "ponudeni": [
+        "Prijateljstvo",
+        "Svađa",
+        "Ljubomora",
+        "Natjecanje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Likovi koji se druže i pomažu jedno drugome su prijatelji.",
+      "savjet": "Razmisli kako zoveš dijete s kojim se najradije družiš."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-013",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove odnos u kojem likovi zajedno rade na istom zadatku?",
+      "ponudeni": [
+        "Suradnja",
+        "Svađa",
+        "Ljubomora",
+        "Osveta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad likovi zajedno rade da bi nešto postigli, to je suradnja.",
+      "savjet": "Razmisli što znači raditi nešto zajedno s drugima."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-014",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove ono što se dogodi kad se posvađani likovi ponovno sprijatelje?",
+      "ponudeni": [
+        "Natjecanje",
+        "Ljubomora",
+        "Pomirenje",
+        "Svađa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kad se posvađani likovi sprijatelje, dogodilo se pomirenje.",
+      "savjet": "Razmisli što se dogodi kad nestane ljutnje između likova."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-015",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik kojemu smeta što netko drugi ima više ili je uspješniji?",
+      "ponudeni": [
+        "Velikodušan",
+        "Ljubomoran",
+        "Uslužan",
+        "Strpljiv"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ljubomoran lik zavidi drugima na onome što imaju ili postižu.",
+      "savjet": "Razmisli kako se osjeća onaj tko zavidi drugome."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-016",
+      "tezina": "lagano",
+      "pitanje": "„Tin je pred cijelim razredom priznao da je on razbio vazu.“ Koju osobinu pokazuje Tin?",
+      "ponudeni": [
+        "Lijenost",
+        "Sebičnost",
+        "Ljubomoru",
+        "Poštenje"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tin je priznao što je učinio i nije lagao, a to je poštenje.",
+      "savjet": "Razmisli što znači priznati svoju pogrešku."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-017",
+      "tezina": "lagano",
+      "pitanje": "„Mia je cijelo poslijepodne vježbala klavir, iako su je prijatelji zvali van.“ Kakva je Mia?",
+      "ponudeni": [
+        "Lijena",
+        "Plašljiva",
+        "Sebična",
+        "Marljiva"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mia se trudila i dugo vježbala, a to pokazuje marljivost.",
+      "savjet": "Pogledaj što je Mia odabrala raditi umjesto igre."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-018",
+      "tezina": "lagano",
+      "pitanje": "„Luka nije htio nikome posuditi svoje bojice.“ Kakav je Luka u tom trenutku?",
+      "ponudeni": [
+        "Sebičan",
+        "Velikodušan",
+        "Marljiv",
+        "Hrabar"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Luka nije htio dijeliti svoje stvari, a to je sebično ponašanje.",
+      "savjet": "Razmisli kako se zove osobina onoga tko ne želi dijeliti."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-019",
+      "tezina": "lagano",
+      "pitanje": "Što pripada govoru lika?",
+      "ponudeni": [
+        "Odjeća koju lik nosi",
+        "Mjesto gdje lik živi",
+        "Ono što lik kaže i kako to kaže",
+        "Boja kose lika"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Govor lika čine njegove riječi i način na koji ih izgovara.",
+      "savjet": "Govor je povezan s riječima, a ne s izgledom."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-020",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica opisuje izgled lika?",
+      "ponudeni": [
+        "Lana je pomogla baki.",
+        "Lana ima duge crvene pletenice.",
+        "Lana se boji mraka.",
+        "Lana voli čitati."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica o pletenicama govori kako Lana izgleda.",
+      "savjet": "Traži rečenicu koja govori o onome što se vidi očima."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-021",
+      "tezina": "lagano",
+      "pitanje": "Koja rečenica govori o postupku lika?",
+      "ponudeni": [
+        "Tin ima plave oči.",
+        "Tin je pokupio smeće s livade.",
+        "Tin je visok dječak.",
+        "Tin nosi zelenu kapu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pokupiti smeće je nešto što Tin čini, dakle njegov postupak.",
+      "savjet": "Postupak je ono što lik radi."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-022",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik koji se ne boji pomoći drugome u opasnosti?",
+      "ponudeni": [
+        "Plašljiv",
+        "Lijen",
+        "Hrabar",
+        "Ljubomoran"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lik koji se ne boji opasnosti da bi pomogao drugome je hrabar.",
+      "savjet": "Razmisli kako se zove onaj tko svlada strah."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-023",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik koji rado čini usluge drugima?",
+      "ponudeni": [
+        "Sebičan",
+        "Hvalisav",
+        "Lijen",
+        "Uslužan"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uslužan lik rado pomaže drugima i čini im usluge.",
+      "savjet": "Razmisli kako se zove onaj tko drugima rado izlazi u susret."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-024",
+      "tezina": "lagano",
+      "pitanje": "Što znači prosuditi postupak lika?",
+      "ponudeni": [
+        "Reći je li postupak dobar ili loš i zašto",
+        "Prepisati rečenicu iz priče",
+        "Nabrojiti sve likove u priči",
+        "Nacrtati lik iz priče"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad prosuđujemo postupak, procjenjujemo je li dobar ili loš i objašnjavamo zašto.",
+      "savjet": "Prosuditi znači donijeti mišljenje o nečemu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-025",
+      "tezina": "lagano",
+      "pitanje": "Koji je postupak primjer poželjnog ponašanja?",
+      "ponudeni": [
+        "Ismijavati druge",
+        "Uzeti tuđu stvar bez pitanja",
+        "Pomoći prijatelju koji je pao",
+        "Slagati roditeljima"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pomoći prijatelju lijep je i poželjan postupak.",
+      "savjet": "Razmisli koji bi postupak pohvalila učiteljica."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-026",
+      "tezina": "lagano",
+      "pitanje": "Koji je postupak primjer nepoželjnog ponašanja?",
+      "ponudeni": [
+        "Podijeliti užinu",
+        "Ispričati se za pogrešku",
+        "Pomoći baki u vrtu",
+        "Rugati se slabijemu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rugati se drugome ružno je i povređuje ga.",
+      "savjet": "Razmisli koji bi postupak nekoga rastužio."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-027",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove odnos u kojem se likovi nadmeću tko će biti bolji ili brži?",
+      "ponudeni": [
+        "Natjecanje",
+        "Pomirenje",
+        "Suradnja",
+        "Prijateljstvo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad se likovi nadmeću tko je bolji, natječu se.",
+      "savjet": "Sjeti se kako se zove utrka ili turnir."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-028",
+      "tezina": "lagano",
+      "pitanje": "„Lisica Riđa ponudila je zečiću mjesto u svojoj jazbini kad je počela oluja.“ Kako se Riđa odnosi prema zečiću?",
+      "ponudeni": [
+        "Svađa se s njim",
+        "Pomaže mu",
+        "Natječe se s njim",
+        "Ljubomorna je na njega"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riđa je zečiću dala sklonište, dakle pomogla mu je.",
+      "savjet": "Razmisli što je zečiću trebalo kad je počela oluja."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-029",
+      "tezina": "lagano",
+      "pitanje": "Tko u priči može imati osobine?",
+      "ponudeni": [
+        "Ljudi, životinje, pa i predmeti",
+        "Samo odrasli ljudi",
+        "Samo djeca",
+        "Samo životinje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Likovi u priči mogu biti ljudi, životinje, biljke i predmeti, i svi mogu imati osobine.",
+      "savjet": "Sjeti se kakvi sve likovi mogu biti u pričama."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-030",
+      "tezina": "lagano",
+      "pitanje": "Kakav je lik koji se hvali i misli da je bolji od drugih?",
+      "ponudeni": [
+        "Skroman",
+        "Hvalisav",
+        "Strpljiv",
+        "Uslužan"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lik koji se stalno hvali je hvalisav.",
+      "savjet": "Razmisli kako se zove onaj tko stalno ističe sebe."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-031",
+      "tezina": "srednje",
+      "pitanje": "„Ana je cijeli dan čuvala mlađeg brata i čitala mu priče dok se roditelji nisu vratili.“ Kakva je Ana?",
+      "ponudeni": [
+        "Lijena i nemarna",
+        "Ljubomorna i zločesta",
+        "Hvalisava i ohola",
+        "Brižna i odgovorna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ana se cijeli dan brinula o bratu, a to pokazuje brižnost i odgovornost.",
+      "savjet": "Razmisli što Ana radi i kako se ponaša prema bratu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-032",
+      "tezina": "srednje",
+      "pitanje": "„Kad je mama pohvalila sestrin kolač, Petra se namrštila i rekla da bi ona ispekla bolji.“ Što pokazuje Petrino ponašanje?",
+      "ponudeni": [
+        "Velikodušnost",
+        "Ljubomoru",
+        "Strpljivost",
+        "Marljivost"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Petri smeta što je pohvaljena sestra, a to je ljubomora.",
+      "savjet": "Razmisli zašto se Petra namrštila."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-033",
+      "tezina": "srednje",
+      "pitanje": "Što o Janu otkriva njegov govor: ‚Ne mogu, sigurno ću pasti!‘ šaptao je Jan na rubu bazena.",
+      "ponudeni": [
+        "Da je plašljiv",
+        "Da je hvalisav",
+        "Da je sebičan",
+        "Da je lijen"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Jan se boji da će pasti i ne usudi se, što pokazuje da je plašljiv.",
+      "savjet": "Pažljivo pročitaj Janove riječi i razmisli što osjeća."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-034",
+      "tezina": "srednje",
+      "pitanje": "„Vid je pao na utrci, a Marko se zaustavio, pomogao mu ustati i s njim ušao u cilj.“ Koju osobinu pokazuje Marko?",
+      "ponudeni": [
+        "Sebičnost",
+        "Lijenost",
+        "Dobrotu",
+        "Hvalisavost"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Marko je odustao od pobjede da bi pomogao Vidu, što pokazuje dobrotu.",
+      "savjet": "Razmisli što je Marku bilo važnije od pobjede."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-035",
+      "tezina": "srednje",
+      "pitanje": "„Mačak Mrki ležao je cijeli dan na suncu i nije htio loviti miševe, iako ga je gazdarica molila.“ Kakav je Mrki?",
+      "ponudeni": [
+        "Lijen",
+        "Marljiv",
+        "Hrabar",
+        "Uslužan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mrki je izbjegavao posao i samo ležao, što pokazuje lijenost.",
+      "savjet": "Pogledaj što Mrki radi cijeli dan."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-036",
+      "tezina": "srednje",
+      "pitanje": "„Lucija je tri tjedna svaki dan zalijevala sadnicu i nijednom se nije požalila što cvijet još ne raste.“ Kakva je Lucija?",
+      "ponudeni": [
+        "Hvalisava",
+        "Ljubomorna",
+        "Strpljiva",
+        "Plašljiva"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lucija je dugo i mirno čekala, a to pokazuje strpljivost.",
+      "savjet": "Pogledaj kako se Lucija ponaša dok čeka cvijet."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-037",
+      "tezina": "srednje",
+      "pitanje": "„Ja sam najbrži u razredu, nitko me ne može stići!“ vikao je Bruno. Što otkriva Brunin govor?",
+      "ponudeni": [
+        "Da je skroman",
+        "Da je hvalisav",
+        "Da je plašljiv",
+        "Da je strpljiv"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Bruno glasno ističe kako je najbolji, a to je hvalisanje.",
+      "savjet": "Razmisli kako zvuče Brunine riječi o samome sebi."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-038",
+      "tezina": "srednje",
+      "pitanje": "„Lana je pronašla novčanik na klupi i odmah ga odnijela u školsko tajništvo.“ Kakva je Lana?",
+      "ponudeni": [
+        "Sebična",
+        "Lijena",
+        "Ljubomorna",
+        "Poštena"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Lana nije zadržala tuđe, nego je novčanik predala da se vrati vlasniku.",
+      "savjet": "Razmisli što je Lana mogla učiniti, a što je učinila."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-039",
+      "tezina": "srednje",
+      "pitanje": "„Tin prvi priskoči kad netko treba pomoć,“ rekla je učiteljica. Kako ovdje upoznajemo Tinovu osobinu?",
+      "ponudeni": [
+        "Po Tinovu izgledu",
+        "Po Tinovim riječima",
+        "Po onome što drugi lik kaže o njemu",
+        "Po mjestu radnje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenicu je izgovorila učiteljica, a ne Tin, pa osobinu saznajemo od drugoga lika.",
+      "savjet": "Pogledaj tko izgovara rečenicu o Tinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-040",
+      "tezina": "srednje",
+      "pitanje": "„Rita je imala kovrčavu kosu i pjegice po cijelom nosu.“ Što o Riti saznajemo iz te rečenice?",
+      "ponudeni": [
+        "Kako izgleda",
+        "Kako se ponaša",
+        "Što misli o drugima",
+        "S kim se svađa"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kosa i pjegice dio su Ritina izgleda.",
+      "savjet": "Razmisli što se od toga može vidjeti očima."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-041",
+      "tezina": "srednje",
+      "pitanje": "„Luka i Ema svađali su se oko lopte, a onda su odlučili igrati zajedno i zagrlili se.“ Kako se mijenjao njihov odnos?",
+      "ponudeni": [
+        "Od prijateljstva do svađe",
+        "Od suradnje do natjecanja",
+        "Od pomirenja do ljubomore",
+        "Od svađe do pomirenja"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Na početku su se svađali, a na kraju su se zagrlili i pomirili.",
+      "savjet": "Usporedi kako se Luka i Ema ponašaju na početku i na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-042",
+      "tezina": "srednje",
+      "pitanje": "„Vrapci Pip i Čip zajedno su donosili grančice za novo gnijezdo.“ Kakav je odnos Pipa i Čipa?",
+      "ponudeni": [
+        "Svađa",
+        "Suradnja",
+        "Ljubomora",
+        "Natjecanje"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pip i Čip zajedno rade na istom poslu, a to je suradnja.",
+      "savjet": "Pogledaj rade li vrapci jedan protiv drugoga ili zajedno."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-043",
+      "tezina": "srednje",
+      "pitanje": "„Sara i Ivo utrkivali su se tko će prvi riješiti zagonetku.“ Kakav je odnos Sare i Ive?",
+      "ponudeni": [
+        "Pomirenje",
+        "Natjecanje",
+        "Obiteljska ljubav",
+        "Ljubomora"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sara i Ivo žele biti prvi, dakle natječu se.",
+      "savjet": "Razmisli što znači utrkivati se."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-044",
+      "tezina": "srednje",
+      "pitanje": "„Toni je potajno pojeo bratovu čokoladu i rekao da je nije ni vidio.“ Kakav je Tonijev postupak?",
+      "ponudeni": [
+        "Dobar, jer je bio gladan",
+        "Dobar, jer brat ima previše slatkiša",
+        "Loš, jer je jeo prebrzo",
+        "Loš, jer je uzeo tuđe i slagao"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Toni je uzeo nešto što nije njegovo i još je slagao, a to nije u redu.",
+      "savjet": "Razmisli dvije stvari: čija je čokolada i je li Toni rekao istinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-045",
+      "tezina": "srednje",
+      "pitanje": "„Djed Ivan svakog je jutra hranio ptice u dvorištu i popravljao im kućice.“ Kakav je djed prema pticama?",
+      "ponudeni": [
+        "Okrutan",
+        "Lijen",
+        "Brižan",
+        "Ljubomoran"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Djed se svaki dan brine o pticama, što pokazuje brižnost.",
+      "savjet": "Pogledaj što djed svako jutro radi za ptice."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-046",
+      "tezina": "srednje",
+      "pitanje": "„Zec Brko sakrio je sve mrkve da ih ne mora podijeliti s prijateljima.“ Kakav je Brko?",
+      "ponudeni": [
+        "Sebičan",
+        "Velikodušan",
+        "Pošten",
+        "Uslužan"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Brko ne želi dijeliti s prijateljima, a to je sebičnost.",
+      "savjet": "Razmisli zašto je Brko sakrio mrkve."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-047",
+      "tezina": "srednje",
+      "pitanje": "„Mia je kroz povećalo satima promatrala mrave i pitala mamu gdje oni spavaju.“ Kakva je Mia?",
+      "ponudeni": [
+        "Znatiželjna",
+        "Lijena",
+        "Ljubomorna",
+        "Hvalisava"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mia želi saznati nešto novo o mravima, što pokazuje znatiželju.",
+      "savjet": "Pogledaj što Mia pita mamu i zašto."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-048",
+      "tezina": "srednje",
+      "pitanje": "„Mali oblak Pufko poklonio je svu svoju kišu žednom polju, iako je nakon toga sasvim nestao.“ Kakav je Pufko?",
+      "ponudeni": [
+        "Sebičan",
+        "Velikodušan",
+        "Lijen",
+        "Hvalisav"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pufko je dao sve što ima da pomogne polju, a to je velikodušnost.",
+      "savjet": "Razmisli koliko je Pufko dao i što je time izgubio."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-049",
+      "tezina": "srednje",
+      "pitanje": "„Ena je vidjela Martu samu u kutu igrališta pa joj je prišla i pozvala je u igru.“ Kakav je Enin postupak?",
+      "ponudeni": [
+        "Loš, jer je prekinula svoju igru",
+        "Loš, jer Martu ne poznaje dobro",
+        "Nevažan, jer to nitko nije vidio",
+        "Lijep, jer je uključila usamljenu djevojčicu"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ena je pomogla Marti da ne bude sama, a to je lijep i poželjan postupak.",
+      "savjet": "Razmisli kako se Marta osjećala prije, a kako poslije."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-050",
+      "tezina": "srednje",
+      "pitanje": "„Baka je Lani isplela topli šal, a Lana joj je za rođendan nacrtala čestitku punu srca.“ Kakav je odnos bake i Lane?",
+      "ponudeni": [
+        "Natjecanje",
+        "Ljubomora",
+        "Obiteljska ljubav",
+        "Svađa"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Baka i Lana jedna drugoj pokazuju pažnju i ljubav, a to je obiteljska ljubav.",
+      "savjet": "Pogledaj što baka i Lana čine jedna za drugu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-051",
+      "tezina": "srednje",
+      "pitanje": "„Stari svjetionik svijetlio je brodovima svake noći, iako su ga vjetar i kiša tukli.“ Koju osobinu pokazuje svjetionik?",
+      "ponudeni": [
+        "Lijenost",
+        "Sebičnost",
+        "Upornost",
+        "Ljubomoru"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svjetionik ne odustaje ni po lošem vremenu, a to je upornost.",
+      "savjet": "Razmisli odustaje li svjetionik kad mu je teško."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-052",
+      "tezina": "srednje",
+      "pitanje": "„Molim te, smijem li posuditi tvoju gumicu? Hvala ti!“ rekla je Dora. Što otkriva Dorin govor?",
+      "ponudeni": [
+        "Da je hvalisava",
+        "Da je ljubomorna",
+        "Da je lijena",
+        "Da je pristojna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dora koristi riječi molim i hvala, a to pokazuje pristojnost.",
+      "savjet": "Pogledaj kojim se riječima Dora obraća prijateljici."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-053",
+      "tezina": "srednje",
+      "pitanje": "„Ema je pomela učionicu i složila stolice, iako to nije bio njezin red.“ Kakva je Ema?",
+      "ponudeni": [
+        "Uslužna",
+        "Lijena",
+        "Sebična",
+        "Ljubomorna"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ema je napravila posao umjesto drugih iako nije morala, što pokazuje uslužnost.",
+      "savjet": "Razmisli je li Ema morala to učiniti."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-054",
+      "tezina": "srednje",
+      "pitanje": "„Kad je brat dobio novi bicikl, Nikola se durio i nije htio razgovarati s njim.“ Kakav je Nikolin odnos prema bratu u tom trenutku?",
+      "ponudeni": [
+        "Suradnja",
+        "Ljubomora",
+        "Pomirenje",
+        "Prijateljstvo"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Nikoli smeta što je brat dobio bicikl, a to je ljubomora.",
+      "savjet": "Razmisli zašto se Nikola durio."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-055",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica pokazuje Tininu hrabrost njezinim postupkom?",
+      "ponudeni": [
+        "Tina ima kratku smeđu kosu.",
+        "Tina nosi crvene čizme.",
+        "Tina je visoka djevojčica.",
+        "Tina je sama ušla u mračni podrum po lampu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Ulazak u mračni podrum je Tinin postupak koji pokazuje hrabrost.",
+      "savjet": "Traži rečenicu u kojoj Tina nešto čini."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-056",
+      "tezina": "srednje",
+      "pitanje": "„Luka je drhtao i sakrio se pod deku kad je zagrmjelo.“ Po čemu ovdje upoznajemo Lukinu plašljivost?",
+      "ponudeni": [
+        "Po njegovu ponašanju",
+        "Po onome što drugi kažu o njemu",
+        "Po njegovim riječima",
+        "Po njegovoj odjeći"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Luka ništa ne govori, nego se skriva pod deku, dakle osobinu vidimo po ponašanju.",
+      "savjet": "Pogledaj govori li Luka nešto ili samo nešto čini."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-057",
+      "tezina": "srednje",
+      "pitanje": "„Matej je djevojčici koja je plakala na kiši dao svoj kišobran i pokisao do kuće.“ Kakav je Matej?",
+      "ponudeni": [
+        "Sebičan",
+        "Nesebičan",
+        "Lijen",
+        "Hvalisav"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Matej je dao svoje i sam pokisao da bi pomogao drugome, što je nesebično.",
+      "savjet": "Razmisli tko je pokisao i zašto."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-058",
+      "tezina": "srednje",
+      "pitanje": "„Pas Žućo svako je popodne čekao Leu na vratima i veselo mahao repom kad bi stigla iz škole.“ Kakav je odnos Žuće i Lee?",
+      "ponudeni": [
+        "Svađa i ljutnja",
+        "Natjecanje i nadmetanje",
+        "Privrženost i prijateljstvo",
+        "Ljubomora i zavist"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Žućo se veseli Lei i čeka je, a to pokazuje privrženost i prijateljstvo.",
+      "savjet": "Razmisli zašto pas svaki dan čeka Leu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-059",
+      "tezina": "srednje",
+      "pitanje": "„Daj mi to, to je moje!“ viknuo je Fran i istrgnuo sestri knjigu iz ruku. Kakav je Franov postupak?",
+      "ponudeni": [
+        "Pristojan i ljubazan",
+        "Nepristojan i grub",
+        "Hrabar i plemenit",
+        "Strpljiv i miran"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Fran viče i otima knjigu, a to je grub i nepristojan postupak.",
+      "savjet": "Pogledaj i što Fran govori i što pritom čini."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-060",
+      "tezina": "srednje",
+      "pitanje": "„Kad je učiteljica pitala tko je razbio prozor, Bruno je pokazao na Tina, iako je to sam učinio.“ Kakav je Bruno?",
+      "ponudeni": [
+        "Pošten",
+        "Velikodušan",
+        "Nepošten",
+        "Strpljiv"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Bruno je svoju krivnju svalio na drugoga, a to je nepošteno.",
+      "savjet": "Razmisli je li Bruno rekao istinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-061",
+      "tezina": "tesko",
+      "pitanje": "„Ivan se popeo na stablo da spasi mačića, iako su mu se koljena tresla od straha.“ Koja je Ivanova osobina najvažnija u tom trenutku?",
+      "ponudeni": [
+        "Hrabrost, jer je pomogao unatoč strahu",
+        "Plašljivost, jer su mu se tresla koljena",
+        "Lijenost, jer se sporo penjao",
+        "Sebičnost, jer je htio mačića za sebe"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Hrabar nije onaj tko se ne boji, nego onaj tko svlada strah, kao Ivan.",
+      "savjet": "Razmisli je li Ivana strah zaustavio."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-062",
+      "tezina": "tesko",
+      "pitanje": "Lea je rekla: ‚Svi su zaslužni za pobjedu.‘ Trener je dodao: ‚Lea je zabila sve golove.‘ Kakva je Lea?",
+      "ponudeni": [
+        "Hvalisava",
+        "Lijena",
+        "Skromna",
+        "Ljubomorna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Lea je zabila sve golove, a ipak ne ističe sebe, što pokazuje skromnost.",
+      "savjet": "Usporedi što Lea kaže o sebi s onim što kaže trener."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-063",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer otkriva osobinu lika po tome što o njemu kaže drugi lik?",
+      "ponudeni": [
+        "Maja je mirno čekala autobus.",
+        "„Maja je najstrpljivija osoba koju znam,“ rekla je baka.",
+        "Maja ima dugu smeđu kosu.",
+        "„Pričekat ću,“ rekla je Maja."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Samo u prvom primjeru o Maji govori netko drugi, baka.",
+      "savjet": "Pogledaj tko izgovara riječi u svakom primjeru."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-064",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer otkriva osobinu lika po njegovu govoru?",
+      "ponudeni": [
+        "Dino je gurnuo dječaka u redu.",
+        "Dino ima plavu jaknu.",
+        "„Dino je sebičan,“ rekla je Ana.",
+        "„Briga me za druge,“ rekao je Dino."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Samo u prvom primjeru Dino sam govori i svojim riječima otkriva kakav je.",
+      "savjet": "Traži primjer u kojem govori upravo Dino."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-065",
+      "tezina": "tesko",
+      "pitanje": "„Mia je posudila Tinu bicikl. Sutradan je Tin Miji pomogao s matematikom.“ Kakav je odnos Mije i Tina?",
+      "ponudeni": [
+        "Natjecateljski, žele biti bolji",
+        "Prijateljski, pomažu jedno drugome",
+        "Ljubomoran, jedno zavidi drugome",
+        "Svađalački, stalno se prepiru"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mia i Tin naizmjence si pomažu, a to je prijateljstvo.",
+      "savjet": "Pogledaj što svatko od njih čini za onoga drugoga."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-066",
+      "tezina": "tesko",
+      "pitanje": "„Na početku priče Dora se nije javljala susjedima. Na kraju ih je veselo pozdravljala i grlila.“ Kako se Dora promijenila?",
+      "ponudeni": [
+        "Iz vesele postala je tužna",
+        "Iz poštene postala je lažljiva",
+        "Iz hrabre postala je plašljiva",
+        "Iz povučene postala je prijazna"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Dora se na početku povlačila od ljudi, a na kraju im je prilazila s radošću.",
+      "savjet": "Usporedi Dorino ponašanje na početku i na kraju priče."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-067",
+      "tezina": "tesko",
+      "pitanje": "„Zec Skok rugao se pužu što je spor. Kad je Skok upao u jarak, puž je dozvao pomoć.“ Kako se puž odnosio prema Skoku?",
+      "ponudeni": [
+        "Osvetio mu se za ruganje",
+        "Natjecao se s njim u trčanju",
+        "Pomogao mu je iako mu se Skok rugao",
+        "Zavidio mu je na brzini"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Puž nije vratio zlo za zlo, nego je pomogao Skoku u nevolji.",
+      "savjet": "Pogledaj što je puž učinio kad je Skok bio u nevolji."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-068",
+      "tezina": "tesko",
+      "pitanje": "„Ana je vidjela da Petar prepisuje na ispitu pa mu je poslije sata nasamo rekla da to nije u redu.“ Kako prosuđuješ Anin postupak?",
+      "ponudeni": [
+        "Dobar, jer je iskreno i nasamo upozorila prijatelja",
+        "Loš, jer ga je izvikala pred razredom",
+        "Loš, jer je i ona trebala prepisivati",
+        "Dobar, jer će Petar dobiti lošu ocjenu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ana je prijatelju iskreno i obzirno rekla da griješi, a to je dobar postupak.",
+      "savjet": "Pažljivo pročitaj kada i kako je Ana razgovarala s Petrom."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-069",
+      "tezina": "tesko",
+      "pitanje": "„Iva i Rok su se utrkivali. Kad je Rok pobijedio, Iva mu je čestitala i zatražila novu utrku.“ Kakva je Iva?",
+      "ponudeni": [
+        "Ljubomorna je na Roka",
+        "Lijena je za trčanje",
+        "Sebična je prema Roku",
+        "Zna lijepo izgubiti"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Iva je čestitala pobjedniku i nije se ljutila, dakle zna lijepo izgubiti.",
+      "savjet": "Razmisli kako se Iva ponijela prema Roku nakon utrke."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-070",
+      "tezina": "tesko",
+      "pitanje": "„Sestre Ana i Iva dobile su po jednu jabuku. Ana je svoju pojela sama, a Iva je svoju podijelila s prijateljicom.“ Što je točno?",
+      "ponudeni": [
+        "Ana je pokazala velikodušnost.",
+        "Iva je pokazala velikodušnost.",
+        "Iva je ljubomorna na Anu.",
+        "Ana je ljubomorna na Ivu."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Iva je dala dio svoje jabuke drugome, a to je velikodušan postupak.",
+      "savjet": "Usporedi što je svaka sestra učinila sa svojom jabukom."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-071",
+      "tezina": "tesko",
+      "pitanje": "„Mia se nije usudila javiti na satu, pocrvenjela je kad su je prozvali i tiho šapnula odgovor.“ Kakva je Mia?",
+      "ponudeni": [
+        "Sramežljiva",
+        "Hvalisava",
+        "Lijena",
+        "Sebična"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mia se ne usudi javiti, crveni i šapće, što pokazuje sramežljivost.",
+      "savjet": "Poveži sva tri Mijina postupka u jednu osobinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-072",
+      "tezina": "tesko",
+      "pitanje": "„Luka je prvi došao na trening, pomogao treneru postaviti čunjeve i bodrio suigrače.“ Koja osobina NE odgovara Luki?",
+      "ponudeni": [
+        "Marljiv",
+        "Uslužan",
+        "Lijen",
+        "Prijateljski raspoložen"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Luka se trudi, pomaže i bodri druge, pa za njega ne možemo reći da je lijen.",
+      "savjet": "Za svaku osobinu potraži u rečenici postupak koji je pokazuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-073",
+      "tezina": "tesko",
+      "pitanje": "„Vrana Kra našla je sjajni kamenčić. Svraka ga je htjela pa je svima rekla da ga je Kra ukrala.“ Kakva je svraka?",
+      "ponudeni": [
+        "Velikodušna i poštena",
+        "Hrabra i uslužna",
+        "Ljubomorna i nepoštena",
+        "Strpljiva i skromna"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Svraka zavidi Kri na kamenčiću i laže o njoj, pa je ljubomorna i nepoštena.",
+      "savjet": "Razmisli zašto je svraka govorila o Kri i je li govorila istinu."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-074",
+      "tezina": "tesko",
+      "pitanje": "„Tin je loptom razbio susjedov prozor, pokucao mu na vrata i ponudio da popravak plati iz svoje kasice.“ Zašto je Tinov postupak dobar?",
+      "ponudeni": [
+        "Jer je priznao pogrešku i preuzeo odgovornost",
+        "Jer je lopta ostala cijela",
+        "Jer susjed nije bio kod kuće",
+        "Jer je brzo pobjegao s mjesta"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Tin nije sakrio pogrešku, nego ju je priznao i htio popraviti štetu.",
+      "savjet": "Razmisli što je Tin učinio nakon što je prozor bio razbijen."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-075",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica govori o osobini lika, a ne o njegovu izgledu?",
+      "ponudeni": [
+        "Kapetan Bura ima sijedu bradu.",
+        "Kapetan Bura nosi plavu kapu.",
+        "Kapetan Bura je visok i snažan.",
+        "Kapetan Bura ne odustaje ni u najvećoj oluji."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Neodustajanje u oluji govori kakav je kapetan, a ostale rečenice opisuju kako izgleda.",
+      "savjet": "Za svaku rečenicu provjeri može li se to vidjeti na slici."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-076",
+      "tezina": "tesko",
+      "pitanje": "Koji postupak najbolje pokazuje pravo prijateljstvo?",
+      "ponudeni": [
+        "Družiti se s prijateljem samo kad ima nove igračke",
+        "Ostati uz prijatelja kad je u nevolji",
+        "Smijati se prijatelju kad pogriješi",
+        "Pričati prijateljeve tajne drugima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Pravi prijatelj ostaje uz nas i kad nam je teško.",
+      "savjet": "Zamisli kako bi se osjećalo dijete kojemu prijatelj tako postupi."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-077",
+      "tezina": "tesko",
+      "pitanje": "„Petra je pomogla Luki nositi torbu samo zato da joj on posudi svoj novi mobitel.“ Što je točno o Petrinu postupku?",
+      "ponudeni": [
+        "Pomogla je iz čiste dobrote",
+        "Pomogla je, ali iz sebičnog razloga",
+        "Uopće nije pomogla Luki",
+        "Pomogla je jer su je prisilili"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Petra je pomogla, ali samo da bi nešto dobila za sebe.",
+      "savjet": "Pažljivo pročitaj zašto je Petra pomogla."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-078",
+      "tezina": "tesko",
+      "pitanje": "„Ničega se ne bojim!“ hvalio se Rok. Kad je kraj šatora zašuštalo, prvi je pobjegao. Što otkrivaju Rokove riječi i postupak?",
+      "ponudeni": [
+        "Hrabar je i u riječima i u djelima",
+        "Skroman je i ne voli se hvaliti",
+        "Hvali se hrabrošću, a zapravo je plašljiv",
+        "Plašljiv je i to iskreno priznaje"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rok govori da je hrabar, ali njegov postupak pokazuje da se boji.",
+      "savjet": "Usporedi što Rok kaže s onim što učini."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-079",
+      "tezina": "tesko",
+      "pitanje": "„Lana i Mia natjecale su se tko će ljepše urediti pano. Kad im je ponestalo vremena, spojile su crteže u jedan.“ Kako se mijenjao njihov odnos?",
+      "ponudeni": [
+        "Od natjecanja do suradnje",
+        "Od suradnje do svađe",
+        "Od prijateljstva do ljubomore",
+        "Od svađe do natjecanja"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije su se natjecale, a onda su zajedno napravile jedan pano.",
+      "savjet": "Usporedi što djevojčice rade na početku, a što na kraju."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-080",
+      "tezina": "tesko",
+      "pitanje": "„Susjedi su govorili da je ribar Jakov škrt. No kad je oluja potopila čamce, Jakov je svima podijelio svoju ribu.“ Kakav se Jakov pokazao?",
+      "ponudeni": [
+        "Škrt, kako su susjedi i rekli",
+        "Lijen, jer nije išao u ribolov",
+        "Plašljiv, jer se bojao oluje",
+        "Velikodušan, iako su drugi mislili drukčije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Jakovljev postupak pokazuje velikodušnost, iako su ga susjedi smatrali škrtim.",
+      "savjet": "Odluči čemu više vjeruješ: onome što drugi kažu ili onome što lik učini."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-081",
+      "tezina": "tesko",
+      "pitanje": "„Tin je ljut jer mu je Leo slučajno srušio dvorac od pijeska.“ Koji bi Tinov postupak bio najbolji?",
+      "ponudeni": [
+        "Srušiti Leov dvorac da mu vrati",
+        "Više nikad ne razgovarati s Leom",
+        "Svima ispričati da je Leo zločest",
+        "Reći Leu da ga je to rastužilo pa zajedno sagraditi novi"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mirno reći kako se osjećaš i zajedno popraviti štetu najbolji je način da prijateljstvo ostane.",
+      "savjet": "Pogledaj riječ slučajno i razmisli koji postupak čuva prijateljstvo."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-082",
+      "tezina": "tesko",
+      "pitanje": "Stara olovka rekla je novim bojicama: ‚Vi ste samo šarene, a ja pišem prave riječi!‘ Kakva je stara olovka?",
+      "ponudeni": [
+        "Ohola i hvalisava",
+        "Skromna i tiha",
+        "Plašljiva i tužna",
+        "Velikodušna i uslužna"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Olovka sebe hvali i omalovažava bojice, što je oholo i hvalisavo.",
+      "savjet": "Razmisli kako olovka govori o sebi, a kako o bojicama."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-083",
+      "tezina": "tesko",
+      "pitanje": "„Kad je počela kiša, Luka je potrčao skloniti bakino rublje, a Ivo je rekao da mu se ne da ustati.“ Što je točno?",
+      "ponudeni": [
+        "Luka je lijen, a Ivo uslužan.",
+        "Luka je uslužan, a Ivo lijen.",
+        "Obojica su jednako uslužni.",
+        "Obojica su jednako lijeni."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Luka je odmah pomogao baki, a Ivu se nije dalo ustati.",
+      "savjet": "Za svakog dječaka posebno pogledaj što je učinio."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-084",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica pokazuje strpljivost lika?",
+      "ponudeni": [
+        "Sven je bacio olovku jer mu nije išlo.",
+        "Sven je vikao da sve mora biti gotovo odmah.",
+        "Sven je mirno ponavljao vježbu dok konačno nije uspio.",
+        "Sven je odustao nakon prvog pokušaja."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Strpljiv lik mirno ponavlja i ne odustaje, kao Sven u prvoj rečenici.",
+      "savjet": "Razmisli kako se ponaša netko tko zna čekati na uspjeh."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-085",
+      "tezina": "tesko",
+      "pitanje": "Koja rečenica pokazuje sebičnost, a ne lijenost?",
+      "ponudeni": [
+        "Ana je sama pojela cijelu tortu i nikome nije dala.",
+        "Ana cijeli dan nije pospremila sobu.",
+        "Ana nije htjela pisati zadaću.",
+        "Ana je zaspala umjesto da pomogne mami."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Ana nije podijelila tortu s drugima, a to je sebičnost; ostale rečenice govore o izbjegavanju posla.",
+      "savjet": "Sebičnost je povezana s dijeljenjem, a lijenost s radom."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-086",
+      "tezina": "tesko",
+      "pitanje": "„Lisica Riđa pomogla je ježu prijeći potok, iako je zbog toga zakasnila na proslavu.“ Što taj postupak govori o Riđi?",
+      "ponudeni": [
+        "Boji se vode pa ne zna plivati",
+        "Pomoć drugome važnija joj je od zabave",
+        "Ljubomorna je na ježa",
+        "Voli se hvaliti pred drugima"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riđa je radije zakasnila nego ostavila ježa samoga, što pokazuje njezinu dobrotu.",
+      "savjet": "Razmisli što je Riđa izgubila, a što je učinila za ježa."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-087",
+      "tezina": "tesko",
+      "pitanje": "„Tin je htio razveseliti mamu pa joj je bez pitanja ubrao tulipane iz susjedova vrta.“ Kako treba prosuditi Tinov postupak?",
+      "ponudeni": [
+        "Postupak je dobar jer je mislio na mamu",
+        "Postupak je loš jer tulipani nisu lijepi",
+        "Želja je lijepa, ali uzeti tuđe bez pitanja nije u redu",
+        "Postupak je dobar jer ga susjed nije vidio"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tin je imao lijepu namjeru, ali je uzeo tuđe cvijeće bez dopuštenja.",
+      "savjet": "Odvojeno prosudi Tinovu želju i ono što je zapravo učinio."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-088",
+      "tezina": "tesko",
+      "pitanje": "Koji primjer pokazuje ljubomoru, a ne natjecanje?",
+      "ponudeni": [
+        "Vid i Lea trčali su tko će prvi do drveta.",
+        "Vid je Lei pomogao zavezati tenisice.",
+        "Vid i Lea zajedno su složili slagalicu.",
+        "Vid se ljutito namrštio kad su Leu izabrali za kapetanicu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vidu smeta što je Lea izabrana, a to je ljubomora; utrka je samo natjecanje.",
+      "savjet": "Ljubomora je osjećaj zavisti, a ne igra u kojoj netko pobjeđuje."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-089",
+      "tezina": "tesko",
+      "pitanje": "U selu su govorili: ‚Kad baki Mari zatreba pomoć, Josip je prvi na vratima.‘ Kakav je Josip i kako to saznajemo?",
+      "ponudeni": [
+        "Uslužan; iz njegova izgleda",
+        "Sebičan; iz njegova govora",
+        "Uslužan; iz onoga što drugi govore o njemu",
+        "Lijen; iz njegovih postupaka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "O Josipu govore drugi ljudi, a iz njihovih riječi vidimo da rado pomaže.",
+      "savjet": "Odgovori na dva pitanja: što Josip čini i tko o tome govori."
+    },
+    {
+      "id": "4-hrvatski-jezik-osobine-likova-i-odnosi-medu-njima-090",
+      "tezina": "tesko",
+      "pitanje": "„Mia i Lana bile su najbolje prijateljice. Kad je došla nova učenica Ena, Lana se počela družiti s njom, a Mia se povukla i durila.“ Što Mia osjeća?",
+      "ponudeni": [
+        "Zahvalnost prema Eni",
+        "Ponos zbog Lane",
+        "Strah od učiteljice",
+        "Ljubomoru prema Eni"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Miji smeta što se njezina prijateljica druži s drugom djevojčicom, a to je ljubomora.",
+      "savjet": "Razmisli zašto se Mia povukla kad je došla Ena."
+    }
+  ]
+}

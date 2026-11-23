@@ -1,0 +1,1265 @@
+{
+  "lekcijaId": "redoslijed-dogadaja",
+  "pitanja": [
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-001",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dio priče u kojem upoznajemo likove, mjesto i vrijeme radnje?",
+      "ponudeni": [
+        "Završetak",
+        "Vrhunac",
+        "Uvod",
+        "Rasplet"
+      ],
+      "tocan": 2,
+      "objasnjenje": "U uvodu priče upoznajemo likove i saznajemo gdje se i kada radnja događa.",
+      "savjet": "Sjeti se što čitatelj mora znati prije nego što se išta dogodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-002",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dio priče u kojem se pojavi problem ili nevolja?",
+      "ponudeni": [
+        "Zaplet",
+        "Uvod",
+        "Završetak",
+        "Naslov"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U zapletu se pojavi problem ili nevolja i radnja se zakomplicira.",
+      "savjet": "Prisjeti se dijelova priče: ovaj dolazi odmah iza uvoda."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-003",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove najnapetiji trenutak priče?",
+      "ponudeni": [
+        "Uvod",
+        "Završetak",
+        "Naslov",
+        "Vrhunac"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Vrhunac je najnapetiji trenutak priče, kad s nestrpljenjem čekamo što će se dogoditi.",
+      "savjet": "Sjeti se trenutka u priči kad najviše strahuješ za lika."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-004",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove dio priče u kojem se problem rješava?",
+      "ponudeni": [
+        "Uvod",
+        "Rasplet",
+        "Zaplet",
+        "Naslov"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U raspletu se problem rješava i napetost popušta.",
+      "savjet": "Razmisli što se mora dogoditi s problemom prije sretnog završetka."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-005",
+      "tezina": "lagano",
+      "pitanje": "Kako se zove posljednji dio priče?",
+      "ponudeni": [
+        "Uvod",
+        "Završetak",
+        "Zaplet",
+        "Vrhunac"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Priča završava završetkom, u kojem saznajemo kako je sve završilo.",
+      "savjet": "Sjeti se kojim dijelom priča prestaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-006",
+      "tezina": "lagano",
+      "pitanje": "Priču možemo podijeliti na početak, glavni dio i…",
+      "ponudeni": [
+        "naslov.",
+        "dijalog.",
+        "opis.",
+        "završetak."
+      ],
+      "tocan": 3,
+      "objasnjenje": "U trodijelnoj podjeli priča ima početak, glavni dio i završetak.",
+      "savjet": "Svaka priča negdje počinje, nešto se u njoj događa i negdje prestaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-007",
+      "tezina": "lagano",
+      "pitanje": "Koji dio priče dolazi između početka i završetka?",
+      "ponudeni": [
+        "Glavni dio",
+        "Uvod",
+        "Naslov",
+        "Kraj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Između početka i završetka nalazi se glavni dio u kojem se događa najviše toga.",
+      "savjet": "Sjeti se trodijelne podjele priče."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-008",
+      "tezina": "lagano",
+      "pitanje": "Što znači pripovijedati događaje redom?",
+      "ponudeni": [
+        "Pričati najprije kraj, a onda početak",
+        "Pričati samo jedan najvažniji događaj",
+        "Pričati ih onako kako su se dogodili, jedan za drugim",
+        "Pričati događaje bilo kojim redom"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Pripovijedati redom znači pričati događaje onim redom kojim su se dogodili.",
+      "savjet": "Razmisli kako svoj dan ispričati prijatelju da te lako razumije."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-009",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ pokazuje da se nešto dogodilo prvo?",
+      "ponudeni": [
+        "Zatim",
+        "Poslije",
+        "Na kraju",
+        "Najprije"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „najprije“ pokazuje prvi događaj u nizu.",
+      "savjet": "Zamisli kojom riječju počinje nabrajanje jutarnjih poslova."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-010",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ ima isto značenje kao riječ „zatim“?",
+      "ponudeni": [
+        "Najprije",
+        "Onda",
+        "Odjednom",
+        "Jednom davno"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi „zatim“ i „onda“ obje pokazuju da jedan događaj slijedi iza drugoga.",
+      "savjet": "Probaj svaku riječ staviti u rečenicu umjesto riječi „zatim“."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-011",
+      "tezina": "lagano",
+      "pitanje": "Kojim riječima često počinje priča?",
+      "ponudeni": [
+        "„Na kraju…“",
+        "„Nakon toga…“",
+        "„Jednom davno…“",
+        "„Zatim…“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi „jednom davno“ često otvaraju priču i govore o vremenu radnje.",
+      "savjet": "Potraži riječi koje ne trebaju nijedan događaj prije sebe."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-012",
+      "tezina": "lagano",
+      "pitanje": "Riječi „najprije“, „zatim“, „onda“ i „na kraju“ pokazuju…",
+      "ponudeni": [
+        "redoslijed događaja.",
+        "mjesto radnje.",
+        "izgled lika.",
+        "naslov priče."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Te riječi pokazuju kojim su se redom događaji dogodili.",
+      "savjet": "Razmisli što nam govore riječi poput „prvo“ i „poslije“."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-013",
+      "tezina": "lagano",
+      "pitanje": "Koja od ovih riječi pokazuje redoslijed događaja?",
+      "ponudeni": [
+        "Nakon toga",
+        "Veselo",
+        "Ovdje",
+        "Plavo"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izraz „nakon toga“ pokazuje da se jedan događaj dogodio poslije drugoga.",
+      "savjet": "Potraži riječi koje govore o tome što je bilo prije, a što poslije."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-014",
+      "tezina": "lagano",
+      "pitanje": "Poredaj događaje: (1) Biljka je procvjetala. (2) Tin je posadio sjemenku. (3) Iz zemlje je izniknula klica.",
+      "ponudeni": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 3, 1",
+        "2, 1, 3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najprije se sjemenka posadi, zatim nikne klica, a na kraju biljka procvjeta.",
+      "savjet": "Razmisli kako raste biljka: što mora biti prvo?"
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-015",
+      "tezina": "lagano",
+      "pitanje": "Poredaj događaje: (1) Mia je doručkovala. (2) Mia je otišla u školu. (3) Mia se probudila.",
+      "ponudeni": [
+        "1, 2, 3",
+        "3, 1, 2",
+        "2, 3, 1",
+        "3, 2, 1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Mia se najprije probudila, zatim je doručkovala, a onda je otišla u školu.",
+      "savjet": "Sjeti se kako izgleda tvoje školsko jutro."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-016",
+      "tezina": "lagano",
+      "pitanje": "Što najčešće saznajemo u uvodu priče?",
+      "ponudeni": [
+        "Kako je problem riješen",
+        "Koji je najnapetiji trenutak",
+        "Kako je sve završilo",
+        "Tko su likovi i gdje se radnja događa"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Uvod nas upoznaje s likovima, mjestom i vremenom radnje.",
+      "savjet": "Razmisli što moraš znati da bi uopće mogao pratiti priču."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-017",
+      "tezina": "lagano",
+      "pitanje": "Što saznajemo u završetku priče?",
+      "ponudeni": [
+        "Tko su likovi priče",
+        "Kako je sve završilo",
+        "Kada je počeo problem",
+        "Gdje je lik živio prije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "U završetku saznajemo kako je priča završila i što je bilo s likovima.",
+      "savjet": "Razmisli što čitatelj želi znati kad pročita posljednje rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-018",
+      "tezina": "lagano",
+      "pitanje": "„Jednog sunčanog jutra mali Luka i njegov pas Bubi šetali su uz rijeku.“ Iz kojeg je dijela priče ova rečenica?",
+      "ponudeni": [
+        "Uvod",
+        "Rasplet",
+        "Vrhunac",
+        "Završetak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica nas upoznaje s likovima, mjestom i vremenom radnje, pa je iz uvoda.",
+      "savjet": "Pogledaj saznaješ li iz rečenice tko su likovi i gdje su."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-019",
+      "tezina": "lagano",
+      "pitanje": "„I od toga dana Riđa i zec bili su najbolji prijatelji.“ Iz kojeg je dijela priče ova rečenica?",
+      "ponudeni": [
+        "Uvod",
+        "Zaplet",
+        "Vrhunac",
+        "Završetak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica govori kako je sve završilo, pa pripada završetku priče.",
+      "savjet": "Obrati pozornost na riječi „od toga dana“."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-020",
+      "tezina": "lagano",
+      "pitanje": "Koji dio priče dolazi odmah nakon uvoda?",
+      "ponudeni": [
+        "Rasplet",
+        "Završetak",
+        "Zaplet",
+        "Vrhunac"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon uvoda pojavi se problem, a to je zaplet.",
+      "savjet": "Sjeti se: kad upoznamo likove, što se mora dogoditi da priča krene?"
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-021",
+      "tezina": "lagano",
+      "pitanje": "Koji dio priče dolazi odmah nakon vrhunca?",
+      "ponudeni": [
+        "Uvod",
+        "Zaplet",
+        "Rasplet",
+        "Naslov"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nakon najnapetijeg trenutka slijedi rasplet, u kojem se problem rješava.",
+      "savjet": "Razmisli što se događa kad napetost počne popuštati."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-022",
+      "tezina": "lagano",
+      "pitanje": "Koji je ispravan redoslijed dijelova priče?",
+      "ponudeni": [
+        "uvod, vrhunac, zaplet, rasplet, završetak",
+        "zaplet, uvod, rasplet, vrhunac, završetak",
+        "uvod, rasplet, zaplet, vrhunac, završetak",
+        "uvod, zaplet, vrhunac, rasplet, završetak"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Priča počinje uvodom, slijede zaplet, vrhunac i rasplet, a na kraju je završetak.",
+      "savjet": "Problem se mora pojaviti prije nego što se može riješiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-023",
+      "tezina": "lagano",
+      "pitanje": "Koji je ispravan redoslijed dijelova priče u trodijelnoj podjeli?",
+      "ponudeni": [
+        "početak, glavni dio, završetak",
+        "glavni dio, početak, završetak",
+        "početak, završetak, glavni dio",
+        "završetak, glavni dio, početak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "U trodijelnoj podjeli priča ima početak, glavni dio i završetak, tim redom.",
+      "savjet": "Nazivi dijelova sami govore gdje se nalaze."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-024",
+      "tezina": "lagano",
+      "pitanje": "Što bi se dogodilo da događaje u priči ispričamo izmiješanim redom?",
+      "ponudeni": [
+        "Priča bi bila jasnija i kraća",
+        "Priča bi bila nejasna i teško bi se pratila",
+        "Likovi bi dobili nove osobine",
+        "Priča bi dobila novi naslov"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Kad su događaji izmiješani, čitatelj ne zna što je bilo prije, a što poslije, pa se teško snalazi.",
+      "savjet": "Zamisli da ti netko ispriča film od kraja prema početku."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-025",
+      "tezina": "lagano",
+      "pitanje": "Što najčešće najavljuje riječ „odjednom“ u priči?",
+      "ponudeni": [
+        "Kraj priče",
+        "Opis lika",
+        "Mjesto radnje",
+        "Nešto neočekivano"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „odjednom“ najavljuje nešto iznenadno i neočekivano.",
+      "savjet": "Zamisli rečenicu „Odjednom je zazvonio telefon.“ i kako se tada osjećaš."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-026",
+      "tezina": "lagano",
+      "pitanje": "Koja riječ nedostaje: „Tin je najprije obukao jaknu, ___ je obuo cipele.“",
+      "ponudeni": [
+        "najprije",
+        "zatim",
+        "iznad",
+        "daleko"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „zatim“ pokazuje da je obuvanje cipela došlo poslije oblačenja jakne.",
+      "savjet": "Prvi događaj već je označen; potraži riječ za sljedeći."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-027",
+      "tezina": "lagano",
+      "pitanje": "Gdje se u priči nalazi uvod?",
+      "ponudeni": [
+        "U sredini priče",
+        "Na kraju priče",
+        "Na početku priče",
+        "Iza vrhunca"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uvod je na samom početku priče jer nas uvodi u radnju.",
+      "savjet": "Sjeti se što uvod predstavlja čitatelju."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-028",
+      "tezina": "lagano",
+      "pitanje": "„Riđa je pala u duboku jamu i nije mogla izaći.“ Što opisuje ova rečenica?",
+      "ponudeni": [
+        "Problem u priči",
+        "Sretan završetak",
+        "Upoznavanje lika",
+        "Vrijeme radnje"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Lisica je upala u nevolju, a to je problem u priči.",
+      "savjet": "Razmisli je li Riđi u tom trenutku dobro ili loše."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-029",
+      "tezina": "lagano",
+      "pitanje": "Poredaj događaje: (1) Na nebu se pojavila duga. (2) Kiša je prestala. (3) Padala je jaka kiša.",
+      "ponudeni": [
+        "3, 2, 1",
+        "1, 2, 3",
+        "2, 3, 1",
+        "3, 1, 2"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Najprije je padala kiša, zatim je prestala, a onda se pojavila duga.",
+      "savjet": "Sjeti se kada se na nebu najčešće vidi duga."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-030",
+      "tezina": "lagano",
+      "pitanje": "Poredaj događaje: (1) Ana je bacila loptu. (2) Pas je donio loptu natrag. (3) Pas je potrčao za loptom.",
+      "ponudeni": [
+        "2, 1, 3",
+        "1, 3, 2",
+        "3, 1, 2",
+        "1, 2, 3"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Ana je najprije bacila loptu, pas je potrčao za njom, a onda ju je donio natrag.",
+      "savjet": "Pas ne može donijeti loptu prije nego što do nje dotrči."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-031",
+      "tezina": "srednje",
+      "pitanje": "„Konop je pucao nit po nit, a Luka je visio iznad rijeke.“ Iz kojeg je dijela priče ova rečenica?",
+      "ponudeni": [
+        "Uvod",
+        "Vrhunac",
+        "Završetak",
+        "Rasplet"
+      ],
+      "tocan": 1,
+      "objasnjenje": "To je najnapetiji trenutak priče jer ne znamo hoće li Luka pasti, pa je to vrhunac.",
+      "savjet": "Razmisli koliko je napeto ono što se događa Luki."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-032",
+      "tezina": "srednje",
+      "pitanje": "„Kad su se vratili kući, mama ih je zagrlila i svi su sjeli za večeru.“ Iz kojeg je dijela priče ova rečenica?",
+      "ponudeni": [
+        "Završetak",
+        "Uvod",
+        "Zaplet",
+        "Vrhunac"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rečenica govori kako je sve mirno i sretno završilo, pa je to završetak.",
+      "savjet": "Razmisli postoji li u rečenici još neki problem."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-033",
+      "tezina": "srednje",
+      "pitanje": "„Usred noći Mia je primijetila da joj je nestala mačka.“ Iz kojeg je dijela priče ova rečenica?",
+      "ponudeni": [
+        "Zaplet",
+        "Uvod",
+        "Rasplet",
+        "Završetak"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Nestanak mačke je problem koji pokreće radnju, pa je to zaplet.",
+      "savjet": "Pitaj se počinje li ovdje nevolja ili završava."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-034",
+      "tezina": "srednje",
+      "pitanje": "„Tin je dohvatio granu i njome izvukao Riđu iz jame.“ Iz kojeg je dijela priče ova rečenica?",
+      "ponudeni": [
+        "Uvod",
+        "Zaplet",
+        "Rasplet",
+        "Naslov"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riđa je spašena, problem je riješen, pa je to rasplet.",
+      "savjet": "Razmisli nastaje li ovdje problem ili nestaje."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-035",
+      "tezina": "srednje",
+      "pitanje": "Poredaj događaje: (1) Lana je zalila cvijet. (2) Cvijet se uspravio. (3) Lana je vidjela da je cvijet uvenuo. (4) Lana se razveselila.",
+      "ponudeni": [
+        "1, 3, 2, 4",
+        "3, 1, 2, 4",
+        "3, 2, 1, 4",
+        "1, 2, 3, 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Lana je najprije vidjela uveli cvijet, zatim ga je zalila, cvijet se uspravio i Lana se razveselila.",
+      "savjet": "Potraži događaj zbog kojeg je Lana uopće uzela kantu."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-036",
+      "tezina": "srednje",
+      "pitanje": "Poredaj događaje: (1) Prijatelji su došli i igrali se. (2) Luka je pozvao prijatelje. (3) Navečer su se pozdravili. (4) Luka je dobio novu loptu.",
+      "ponudeni": [
+        "2, 4, 1, 3",
+        "4, 1, 2, 3",
+        "2, 1, 4, 3",
+        "4, 2, 1, 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Luka je dobio loptu, pozvao prijatelje, igrali su se, a navečer su se pozdravili.",
+      "savjet": "Razmisli zbog čega je Luka uopće pozvao prijatelje."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-037",
+      "tezina": "srednje",
+      "pitanje": "Koja riječ nedostaje: „___ je Mia stavila brašno u zdjelu, zatim je dodala jaja, a na kraju je sve izmiješala.“",
+      "ponudeni": [
+        "Nakon toga",
+        "Najprije",
+        "Na kraju",
+        "Poslije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Stavljanje brašna je prvi događaj, pa ga najavljuje riječ „najprije“.",
+      "savjet": "Pogledaj koje su riječi već upotrijebljene za ostale korake."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-038",
+      "tezina": "srednje",
+      "pitanje": "„Tin je trčao prema autobusu. ___ se spotaknuo i pao.“ Koja riječ pokazuje da je pad bio neočekivan?",
+      "ponudeni": [
+        "Iznenada",
+        "Najprije",
+        "Na kraju",
+        "Zatim"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječ „iznenada“ pokazuje da se nešto dogodilo neočekivano.",
+      "savjet": "Potraži riječ koja ne govori samo o redu, nego i o tome je li se nešto očekivalo."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-039",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica najvjerojatnije pripada uvodu priče?",
+      "ponudeni": [
+        "„Riđa je napokon izašla iz jame.“",
+        "„Od tada je Riđa bila opreznija.“",
+        "„Odjednom se tlo pod Riđom urušilo.“",
+        "„Na rubu šume živjela je lisica Riđa.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Rečenica nas upoznaje s likom i mjestom radnje, a to je posao uvoda.",
+      "savjet": "Potraži rečenicu iz koje tek upoznajemo lik."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-040",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica najvjerojatnije pripada završetku priče?",
+      "ponudeni": [
+        "„Mia je živjela u kući uz more.“",
+        "„Jednog jutra vrata su ostala otvorena.“",
+        "„Otad Mia uvijek zatvara vrata.“",
+        "„Mačka je kroz vrata pobjegla na ulicu.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Rečenica govori što se promijenilo nakon svih događaja, pa pripada završetku.",
+      "savjet": "Potraži rečenicu koja govori o vremenu nakon nevolje."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-041",
+      "tezina": "srednje",
+      "pitanje": "Koja rečenica najvjerojatnije pripada zapletu priče?",
+      "ponudeni": [
+        "„Bila je zimska večer i Luka je čitao.“",
+        "„Kad se svjetlo vratilo, svi su se nasmijali.“",
+        "„Odjednom je nestalo struje i u kući je postalo mračno.“",
+        "„Te je noći Luka mirno zaspao.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Nestanak struje je problem koji se iznenada pojavio, pa je to zaplet.",
+      "savjet": "Potraži rečenicu u kojoj nastaje nevolja."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-042",
+      "tezina": "srednje",
+      "pitanje": "„Najprije je oblačić bio malen. Zatim je skupio mnogo kapljica. Na kraju je pala kiša.“ Što se dogodilo nakon što je oblačić skupio kapljice?",
+      "ponudeni": [
+        "Oblačić je bio malen.",
+        "Oblačić je nestao.",
+        "Zasjalo je sunce.",
+        "Pala je kiša."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječi „na kraju“ pokazuju da je kiša pala posljednja, nakon skupljanja kapljica.",
+      "savjet": "Prati riječi „najprije“, „zatim“ i „na kraju“."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-043",
+      "tezina": "srednje",
+      "pitanje": "„Lana je otvorila prozor. Nakon toga je u sobu uletjela ptičica.“ Što se dogodilo prvo?",
+      "ponudeni": [
+        "Lana je otvorila prozor.",
+        "Ptičica je uletjela u sobu.",
+        "Ptičica je odletjela.",
+        "Lana je zatvorila prozor."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izraz „nakon toga“ pokazuje da je ptičica uletjela tek kad je prozor bio otvoren.",
+      "savjet": "Razmisli kako bi ptičica ušla da je prozor zatvoren."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-044",
+      "tezina": "srednje",
+      "pitanje": "„Prije nego što je izašao, Tin je obukao kabanicu.“ Što je Tin učinio prvo?",
+      "ponudeni": [
+        "Izašao je van.",
+        "Obukao je kabanicu.",
+        "Skinuo je kabanicu.",
+        "Zatvorio je vrata."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječi „prije nego što“ pokazuju da je Tin najprije obukao kabanicu, a tek onda izašao.",
+      "savjet": "Pazi: redoslijed u rečenici nije uvijek isti kao redoslijed događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-045",
+      "tezina": "srednje",
+      "pitanje": "„Poslije ručka Mia je pisala zadaću, a navečer je čitala knjigu.“ Što je Mia radila posljednje?",
+      "ponudeni": [
+        "Pisala je zadaću.",
+        "Ručala je.",
+        "Igrala se u parku.",
+        "Čitala je knjigu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Večer dolazi nakon ručka i popodneva, pa je čitanje knjige posljednji događaj.",
+      "savjet": "Poredaj dijelove dana: podne, popodne, večer."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-046",
+      "tezina": "srednje",
+      "pitanje": "„Luka je posadio sjemenku suncokreta. ___ Iz zemlje je izrastao veliki suncokret.“ Koja rečenica nedostaje?",
+      "ponudeni": [
+        "Suncokret je uvenuo.",
+        "Svaki dan ju je zalijevao.",
+        "Luka je kupio sjemenku.",
+        "Luka je ubrao suncokret."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Između sadnje i rasta biljke treba je zalijevati, pa ta rečenica povezuje događaje.",
+      "savjet": "Potraži događaj koji se mora dogoditi između sadnje i rasta."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-047",
+      "tezina": "srednje",
+      "pitanje": "Poredaj događaje: (1) Navečer je Tin gledao zvijezde. (2) Ujutro je Tin otišao u školu. (3) U podne je Tin ručao s bakom.",
+      "ponudeni": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 3, 1",
+        "2, 1, 3"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Jutro je prvo, zatim podne, a na kraju večer.",
+      "savjet": "Riječi o dobu dana pokazuju redoslijed."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-048",
+      "tezina": "srednje",
+      "pitanje": "Poredaj događaje: (1) Ljeti je jabuka narasla. (2) U proljeće se na grani pojavio cvijet. (3) U jesen ju je Mia ubrala. (4) Zimi je baka ispekla kolač od jabuka.",
+      "ponudeni": [
+        "2, 1, 3, 4",
+        "1, 2, 3, 4",
+        "2, 3, 1, 4",
+        "4, 2, 1, 3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Godišnja doba idu redom: proljeće, ljeto, jesen, zima.",
+      "savjet": "Sjeti se kojim redom dolaze godišnja doba, počevši od cvjetanja."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-049",
+      "tezina": "srednje",
+      "pitanje": "„Mia i Tin gradili su kućicu na drvetu. Odjednom su vidjeli da više nemaju čavala. Tin se sjetio da djed ima pune kutije.“ U kojem se događaju pojavljuje problem?",
+      "ponudeni": [
+        "Ostali su bez čavala.",
+        "Gradili su kućicu.",
+        "Tin se sjetio djeda.",
+        "Kućica je bila gotova."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad su ostali bez čavala, nisu mogli nastaviti graditi, a to je problem.",
+      "savjet": "Potraži trenutak u kojem djeci nešto krene po zlu."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-050",
+      "tezina": "srednje",
+      "pitanje": "„Lana je zaboravila kišobran. Pala je kiša i Lana je pokisla. Tin joj je posudio svoju kabanicu.“ Kojim se događajem problem rješava?",
+      "ponudeni": [
+        "Lana je zaboravila kišobran.",
+        "Pala je kiša.",
+        "Tin joj je posudio kabanicu.",
+        "Lana je pokisla."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Tinova kabanica rješava Laninu nevolju, pa je to rasplet.",
+      "savjet": "Potraži događaj nakon kojeg je Lani lakše."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-051",
+      "tezina": "srednje",
+      "pitanje": "„Luka je pojeo sladoled. Zatim ga je kupio u slastičarnici.“ Što ne valja u ovom pripovijedanju?",
+      "ponudeni": [
+        "Nema riječi koja pokazuje redoslijed.",
+        "Događaji su ispričani obrnutim redom.",
+        "Rečenice su predugačke.",
+        "Nije rečeno gdje je bio Luka."
+      ],
+      "tocan": 1,
+      "objasnjenje": "Sladoled se najprije kupi pa pojede, a ovdje je ispričano obrnuto.",
+      "savjet": "Razmisli može li se pojesti nešto što još nije kupljeno."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-052",
+      "tezina": "srednje",
+      "pitanje": "„Ana je najprije nahranila zečića, zatim mu je očistila kavez, a onda ga je pustila u vrt.“ Što je Ana učinila odmah nakon hranjenja?",
+      "ponudeni": [
+        "Pustila ga je u vrt.",
+        "Kupila mu je mrkvu.",
+        "Zatvorila je vrt.",
+        "Očistila je kavez."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „zatim“ pokazuje da je čišćenje kaveza došlo odmah iza hranjenja.",
+      "savjet": "Pronađi riječ koja dolazi odmah poslije „najprije“."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-053",
+      "tezina": "srednje",
+      "pitanje": "„U malom selu ispod planine živio je dječak Tin sa svojim djedom.“ Što saznajemo iz ovog uvoda?",
+      "ponudeni": [
+        "Kako je riješen problem",
+        "Koji je najnapetiji trenutak",
+        "Tko je lik i gdje živi",
+        "Kako priča završava"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Uvod nas upoznaje s Tinom i njegovim djedom te s mjestom na kojem žive.",
+      "savjet": "Pitaj se odgovara li rečenica na pitanja tko i gdje."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-054",
+      "tezina": "srednje",
+      "pitanje": "„___ su se Riđa i zec zajedno vratili kući.“ Koja riječ pokazuje da je to posljednji događaj?",
+      "ponudeni": [
+        "Na kraju",
+        "Najprije",
+        "Iznenada",
+        "Jednom davno"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Izraz „na kraju“ najavljuje posljednji događaj u priči.",
+      "savjet": "Potraži izraz koji zatvara niz događaja."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-055",
+      "tezina": "srednje",
+      "pitanje": "Poredaj događaje: (1) Mia je pozvala tatu u pomoć. (2) Zmaj od papira zapeo je na grani. (3) Tata je ljestvama dohvatio zmaja. (4) Mia je puštala zmaja.",
+      "ponudeni": [
+        "2, 4, 1, 3",
+        "4, 1, 2, 3",
+        "1, 4, 2, 3",
+        "4, 2, 1, 3"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mia je puštala zmaja, on je zapeo, ona je pozvala tatu, a tata ga je dohvatio.",
+      "savjet": "Zmaj mora najprije letjeti da bi uopće mogao zapeti."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-056",
+      "tezina": "srednje",
+      "pitanje": "„U proljeće ju je Tin pustio na slobodu i ptica je veselo odletjela.“ Kojem dijelu priče pripada ova rečenica?",
+      "ponudeni": [
+        "Početku",
+        "Završetku",
+        "Glavnom dijelu",
+        "Naslovu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica govori kako je sve završilo, pa pripada završetku.",
+      "savjet": "Razmisli ostaje li nakon ove rečenice još nešto za riješiti."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-057",
+      "tezina": "srednje",
+      "pitanje": "„Jednog zimskog jutra Lana se probudila i kroz prozor ugledala snijeg.“ Kojem dijelu priče pripada ova rečenica?",
+      "ponudeni": [
+        "Glavnom dijelu",
+        "Početku",
+        "Završetku",
+        "Naslovu"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Rečenica nas upoznaje s likom, mjestom i vremenom, pa pripada početku.",
+      "savjet": "Pitaj se saznaješ li tek sad tko je lik i kada se radnja događa."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-058",
+      "tezina": "srednje",
+      "pitanje": "„Tin je zaboravio ključ. Zato je morao čekati mamu ispred vrata.“ Što se dogodilo zbog toga što je Tin zaboravio ključ?",
+      "ponudeni": [
+        "Izgubio je školsku torbu.",
+        "Mama je zaboravila ključ.",
+        "Otišao je k baki.",
+        "Čekao je mamu ispred vrata."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „zato“ pokazuje posljedicu: bez ključa Tin nije mogao ući, pa je čekao mamu.",
+      "savjet": "Riječ „zato“ uvodi ono što se dogodilo kao posljedica."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-059",
+      "tezina": "srednje",
+      "pitanje": "„Kad je sunce zašlo, Luka je upalio lampu.“ Što se dogodilo prije?",
+      "ponudeni": [
+        "Sunce je zašlo.",
+        "Luka je upalio lampu.",
+        "Luka je ugasio lampu.",
+        "Luka je zaspao."
+      ],
+      "tocan": 0,
+      "objasnjenje": "Riječi „kad je sunce zašlo“ pokazuju da je najprije zašlo sunce, a onda je Luka upalio lampu.",
+      "savjet": "Razmisli zašto bi Luka uopće trebao svjetlo."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-060",
+      "tezina": "srednje",
+      "pitanje": "„Mia je izgubila rukavicu u parku. Sutradan se vratila i tražila je ispod klupe.“ Koja rečenica može biti završetak?",
+      "ponudeni": [
+        "„Mia je imala crvene rukavice.“",
+        "„Bila je hladna zimska večer.“",
+        "„Napokon ju je pronašla i sretna otišla kući.“",
+        "„Mia je krenula u park.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Završetak govori kako je problem s rukavicom završio, a to opisuje samo ta rečenica.",
+      "savjet": "Potraži rečenicu koja govori kako je potraga završila."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-061",
+      "tezina": "tesko",
+      "pitanje": "(1) Luka se popeo na stablo po mačka. (2) Grana je zapucketala i počela se savijati. (3) Tata je donio ljestve. (4) Luka i mačak sretno su sišli. Koja je rečenica vrhunac?",
+      "ponudeni": [
+        "Rečenica 1",
+        "Rečenica 3",
+        "Rečenica 4",
+        "Rečenica 2"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Kad grana zapucketa, napetost je najveća jer ne znamo hoće li Luka pasti.",
+      "savjet": "Potraži trenutak u kojem najviše strahuješ za Luku."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-062",
+      "tezina": "tesko",
+      "pitanje": "Poredaj događaje: (1) Ribe su se vratile u potok. (2) Djeca su očistila smeće iz potoka. (3) Djeca su vidjela da u potoku nema riba. (4) Voda je postala bistra.",
+      "ponudeni": [
+        "2, 3, 4, 1",
+        "3, 2, 4, 1",
+        "3, 4, 2, 1",
+        "2, 4, 3, 1"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Djeca su uočila problem, očistila potok, voda se izbistrila i ribe su se vratile.",
+      "savjet": "Svaki događaj je posljedica prethodnoga; nađi onaj koji je sve pokrenuo."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-063",
+      "tezina": "tesko",
+      "pitanje": "Poredaj događaje: (1) Mia je vratila novčanik vlasniku. (2) Mia je na klupi ugledala novčanik. (3) Vlasnik joj je zahvalio. (4) Mia je u novčaniku pronašla adresu.",
+      "ponudeni": [
+        "2, 4, 1, 3",
+        "2, 1, 4, 3",
+        "4, 2, 1, 3",
+        "2, 4, 3, 1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Mia je našla novčanik, u njemu adresu, vratila ga je i vlasnik joj je zahvalio.",
+      "savjet": "Razmisli kako je Mia znala kome treba vratiti novčanik."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-064",
+      "tezina": "tesko",
+      "pitanje": "Poredaj događaje: (1) Svjetionik je ponovno zasvijetlio. (2) Oluja je ugasila svjetlo svjetionika. (3) Čuvar je zamijenio žarulju. (4) Brodovi su sigurno uplovili u luku.",
+      "ponudeni": [
+        "3, 2, 1, 4",
+        "2, 1, 3, 4",
+        "2, 3, 1, 4",
+        "2, 3, 4, 1"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Najprije se svjetlo ugasilo, čuvar je zamijenio žarulju, svjetionik je zasvijetlio i brodovi su sigurno uplovili.",
+      "savjet": "Brodovi trebaju svjetlo da bi našli put; kada ga opet imaju?"
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-065",
+      "tezina": "tesko",
+      "pitanje": "(1) Tin je želio pobijediti na utrci. (2) ___ (3) Na utrci je stigao prvi. Koji događaj najbolje popunjava sredinu?",
+      "ponudeni": [
+        "Nakon utrke dobio je medalju.",
+        "Odlučio je odustati od utrke.",
+        "Svaki je dan marljivo trenirao.",
+        "Potpuno je zaboravio na utrku."
+      ],
+      "tocan": 2,
+      "objasnjenje": "Trening povezuje želju s pobjedom: zbog vježbanja je Tin stigao prvi.",
+      "savjet": "Traži događaj koji objašnjava kako je od želje došlo do pobjede."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-066",
+      "tezina": "tesko",
+      "pitanje": "(1) Mia je zalila vrt. (2) Mia je ubrala zrele rajčice. (3) Mia je posadila rajčice. Koja promjena popravlja redoslijed?",
+      "ponudeni": [
+        "Rečenicu 3 premjestiti na početak",
+        "Rečenicu 1 premjestiti na kraj",
+        "Rečenicu 2 premjestiti na početak",
+        "Rečenicu 3 premjestiti iza rečenice 1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Rajčice se najprije posade, zatim zalijevaju, a na kraju beru: redoslijed 3, 1, 2.",
+      "savjet": "Odredi najprije pravi redoslijed, a onda provjeri svaku promjenu."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-067",
+      "tezina": "tesko",
+      "pitanje": "„Luka je jeo kolač. Prije toga ga je ispekao s bakom. Poslije su zajedno oprali posuđe.“ Kojim su se redom događaji dogodili?",
+      "ponudeni": [
+        "jeo kolač, pekli kolač, oprali posuđe",
+        "pekli kolač, jeo kolač, oprali posuđe",
+        "oprali posuđe, pekli kolač, jeo kolač",
+        "pekli kolač, oprali posuđe, jeo kolač"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Izraz „prije toga“ pokazuje da je pečenje bilo prije jela, a „poslije“ da je pranje posuđa bilo na kraju.",
+      "savjet": "Ne prati redoslijed rečenica, nego riječi „prije toga“ i „poslije“."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-068",
+      "tezina": "tesko",
+      "pitanje": "„Mia je plakala jer je slomila omiljenu šalicu. Tata ju je zalijepio i šalica je opet bila cijela.“ Što se dogodilo prvo?",
+      "ponudeni": [
+        "Mia je plakala.",
+        "Tata je zalijepio šalicu.",
+        "Šalica je opet bila cijela.",
+        "Mia je slomila šalicu."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „jer“ otkriva uzrok: Mia je plakala zato što je najprije slomila šalicu.",
+      "savjet": "Riječ „jer“ uvodi ono što se dogodilo ranije."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-069",
+      "tezina": "tesko",
+      "pitanje": "Ako priču dijelimo na početak, glavni dio i završetak, u kojem se dijelu nalaze zaplet i vrhunac?",
+      "ponudeni": [
+        "U glavnom dijelu",
+        "U početku",
+        "U završetku",
+        "U naslovu"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Problem i najnapetiji trenutak događaju se u glavnom dijelu priče.",
+      "savjet": "Usporedi dvije podjele priče i smjesti zaplet i vrhunac."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-070",
+      "tezina": "tesko",
+      "pitanje": "Zašto je zaplet važan za priču?",
+      "ponudeni": [
+        "Zaplet otkriva kako se lik zove",
+        "U zapletu se opisuje mjesto radnje",
+        "Bez problema ne bi bilo napetosti ni događaja",
+        "Zaplet je zadnja rečenica priče"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Zaplet donosi problem, a problem pokreće radnju i stvara napetost.",
+      "savjet": "Zamisli priču u kojoj se nikome ništa ne dogodi."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-071",
+      "tezina": "tesko",
+      "pitanje": "„Luka se posvađao s Tinom zbog lopte. Cijeli dan nisu razgovarali.“ Koja rečenica je najbolji završetak?",
+      "ponudeni": [
+        "„Luka je imao plavu loptu.“",
+        "„Jednog dana Luka je dobio loptu.“",
+        "„Tin je živio u susjedstvu.“",
+        "„Sutradan su se ispričali i opet igrali.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Završetak treba pokazati kako je svađa završila, a to čini samo pomirenje.",
+      "savjet": "Potraži rečenicu koja rješava problem iz priče."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-072",
+      "tezina": "tesko",
+      "pitanje": "„Odjednom se čamac počeo ljuljati. Tata je čvrsto uhvatio vesla i doveslao do obale.“ Koja rečenica može biti uvod ove priče?",
+      "ponudeni": [
+        "„Od tada Lana voli veslati.“",
+        "„Jednog popodneva Lana i tata veslali su po jezeru.“",
+        "„Zatim su otišli kući.“",
+        "„Iznenada je počela jaka kiša.“"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Uvod treba predstaviti likove, mjesto i vrijeme, a to čini samo ta rečenica.",
+      "savjet": "Potraži rečenicu koja odgovara na pitanja tko, gdje i kada."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-073",
+      "tezina": "tesko",
+      "pitanje": "„Mia je ___ pospremila sobu, ___ je izašla van, a ___ se igrala sa psom.“ Koje riječi pravilno popunjavaju praznine?",
+      "ponudeni": [
+        "na kraju, zatim, najprije",
+        "najprije, zatim, na kraju",
+        "zatim, najprije, na kraju",
+        "najprije, na kraju, zatim"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Prvi događaj najavljuje „najprije“, srednji „zatim“, a posljednji „na kraju“.",
+      "savjet": "Svaka praznina pripada jednom događaju po redu."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-074",
+      "tezina": "tesko",
+      "pitanje": "„Tin je otišao na trening poslije ručka. Ručao je kad se vratio iz škole. Navečer je pisao zadaću.“ Kojim je redom Tin to radio?",
+      "ponudeni": [
+        "ručak, škola, trening, zadaća",
+        "škola, trening, ručak, zadaća",
+        "trening, škola, ručak, zadaća",
+        "škola, ručak, trening, zadaća"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tin se vratio iz škole, ručao, poslije ručka otišao na trening, a navečer pisao zadaću.",
+      "savjet": "Prati riječi „poslije“, „kad“ i „navečer“, a ne redoslijed rečenica."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-075",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici događaji ispričani pravilnim redom?",
+      "ponudeni": [
+        "„Cesta je bila mokra, pa je pala kiša.“",
+        "„Mia se probudila, pa je zazvonila budilica.“",
+        "„Pala je kiša, pa je cesta bila mokra.“",
+        "„Luka je pojeo jabuku, pa ju je ubrao.“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Kiša je uzrok, a mokra cesta posljedica, pa je redoslijed pravilan.",
+      "savjet": "Za svaku rečenicu pitaj se što je uzrok, a što posljedica."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-076",
+      "tezina": "tesko",
+      "pitanje": "(1) Luka je ujutro spakirao torbu. (2) Na izletu je fotografirao jezero. (3) Navečer se vratio kući. (4) Autobusom je krenuo na izlet. Koju rečenicu treba premjestiti?",
+      "ponudeni": [
+        "Rečenicu 4",
+        "Rečenicu 1",
+        "Rečenicu 2",
+        "Rečenicu 3"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Polazak na izlet mora doći prije fotografiranja jezera, pa rečenica 4 ide na drugo mjesto.",
+      "savjet": "Odredi pravi redoslijed pa usporedi s brojevima."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-077",
+      "tezina": "tesko",
+      "pitanje": "(1) Tin i Mia sanjkali su se na brijegu. (2) Sanjke su udarile u grm i slomile se. (3) Djed je popravio sanjke. (4) Djeca su se opet sanjkala. Koja rečenica pripada početku?",
+      "ponudeni": [
+        "Rečenica 2",
+        "Rečenica 3",
+        "Rečenica 1",
+        "Rečenica 4"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Prva rečenica upoznaje nas s likovima i mjestom radnje, pa pripada početku.",
+      "savjet": "Početak predstavlja likove prije nego što se pojavi problem."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-078",
+      "tezina": "tesko",
+      "pitanje": "(1) Luka je igrao nogomet u dvorištu. (2) Lopta je razbila susjedov prozor. (3) Luka je susjedu priznao što se dogodilo. (4) Susjed mu je oprostio. Koja je rečenica zaplet?",
+      "ponudeni": [
+        "Rečenica 1",
+        "Rečenica 2",
+        "Rečenica 3",
+        "Rečenica 4"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Razbijeni prozor je problem koji pokreće radnju, pa je to zaplet.",
+      "savjet": "Potraži trenutak u kojem nastaje nevolja."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-079",
+      "tezina": "tesko",
+      "pitanje": "(1) Mia je pošla u park sa psom. (2) Pas je potrčao za mačkom i nestao. (3) Mia ga je dugo tražila. (4) Pas je dotrčao iza grma. (5) Sretni su otišli kući. Koja je rečenica rasplet?",
+      "ponudeni": [
+        "Rečenica 4",
+        "Rečenica 2",
+        "Rečenica 3",
+        "Rečenica 1"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Kad pas dotrči, problem je riješen, pa je to rasplet; posljednja rečenica je završetak.",
+      "savjet": "Potraži trenutak u kojem se nevolja rješava."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-080",
+      "tezina": "tesko",
+      "pitanje": "U kojoj su rečenici riječi redoslijeda pravilno upotrijebljene?",
+      "ponudeni": [
+        "„Na kraju je Tin oprao zube, najprije je legao, a zatim je zaspao.“",
+        "„Zatim je Tin oprao zube, na kraju je legao, a najprije je zaspao.“",
+        "„Najprije je Tin zaspao, zatim je legao, a na kraju je oprao zube.“",
+        "„Najprije je Tin oprao zube, zatim je legao, a na kraju je zaspao.“"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Tin najprije pere zube, zatim liježe i na kraju zaspi, a riječi redoslijeda to pravilno prate.",
+      "savjet": "Odredi pravi redoslijed večernjih događaja pa provjeri riječi."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-081",
+      "tezina": "tesko",
+      "pitanje": "„Dok je Luka spavao, pao je snijeg. Kad se probudio, dvorište je bilo bijelo.“ Što je točno?",
+      "ponudeni": [
+        "Luka se probudio prije snijega.",
+        "Snijeg je počeo padati kad se Luka probudio.",
+        "Luka je gledao kako pada snijeg.",
+        "Snijeg je pao prije Lukina buđenja."
+      ],
+      "tocan": 3,
+      "objasnjenje": "Riječ „dok“ pokazuje da je snijeg padao za vrijeme Lukina sna, dakle prije buđenja.",
+      "savjet": "Razmisli što znači riječ „dok“."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-082",
+      "tezina": "tesko",
+      "pitanje": "Tin je napisao: „Tin je na plaži gradio dvorac od pijeska. Odjednom je veliki val srušio dvorac.“ Što još nedostaje toj priči?",
+      "ponudeni": [
+        "Kako je Tin riješio problem i kako je završilo",
+        "Gdje se Tin nalazio",
+        "Tko je glavni lik priče",
+        "Koji se problem pojavio"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Priča ima uvod i problem, ali još ne znamo kako se problem riješio ni kako je završilo.",
+      "savjet": "Provjeri koje dijelove priče Tin već ima."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-083",
+      "tezina": "tesko",
+      "pitanje": "„Luka je stigao u školu mokar. Na putu ga je uhvatio pljusak. Ujutro je zaboravio kišobran kod kuće.“ Kojim su se redom događaji dogodili?",
+      "ponudeni": [
+        "stigao mokar, pljusak, zaboravio kišobran",
+        "zaboravio kišobran, pljusak, stigao mokar",
+        "pljusak, zaboravio kišobran, stigao mokar",
+        "zaboravio kišobran, stigao mokar, pljusak"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Luka je ujutro zaboravio kišobran, na putu ga je uhvatio pljusak i zato je stigao mokar.",
+      "savjet": "Ovdje su događaji ispričani od posljedice prema uzroku."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-084",
+      "tezina": "tesko",
+      "pitanje": "Koja dva izraza mogu zamijeniti jedan drugoga bez promjene značenja?",
+      "ponudeni": [
+        "„najprije“ i „na kraju“",
+        "„odjednom“ i „polako“",
+        "„zatim“ i „nakon toga“",
+        "„prije“ i „poslije“"
+      ],
+      "tocan": 2,
+      "objasnjenje": "I „zatim“ i „nakon toga“ znače da jedan događaj slijedi iza drugoga.",
+      "savjet": "Usporedi znače li izrazi u paru isto ili suprotno."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-085",
+      "tezina": "tesko",
+      "pitanje": "Lana je priču počela rečenicom „Odjednom je pukla grana!“ Što njezinoj priči nedostaje na početku?",
+      "ponudeni": [
+        "Uvod u kojem upoznajemo lik, mjesto i vrijeme",
+        "Vrhunac s najviše napetosti",
+        "Rasplet u kojem se problem rješava",
+        "Riječi koje najavljuju kraj"
+      ],
+      "tocan": 0,
+      "objasnjenje": "Priča odmah počinje nevoljom, a čitatelj još ne zna tko je lik, gdje je i kada.",
+      "savjet": "Razmisli što čitatelj treba znati prije nego što pukne grana."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-086",
+      "tezina": "tesko",
+      "pitanje": "„Luka se izgubio u gradu. Bilo mu je strašno. I tako je Luka sretno večerao kod kuće.“ Što nedostaje u ovoj priči?",
+      "ponudeni": [
+        "Tko je Luka",
+        "Gdje se Luka izgubio",
+        "Kako je Luka pronašao put kući",
+        "Kakav je problem imao Luka"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Priči nedostaje rasplet: ne znamo kako se Luka vratio kući.",
+      "savjet": "Provjeri što se dogodilo između straha i večere."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-087",
+      "tezina": "tesko",
+      "pitanje": "Poredaj događaje: (1) Biljka je počela venuti. (2) Mia je zaboravila zalijevati biljku. (3) Mia je biljku zalila. (4) Biljka se oporavila.",
+      "ponudeni": [
+        "1, 2, 3, 4",
+        "2, 3, 1, 4",
+        "1, 3, 2, 4",
+        "2, 1, 3, 4"
+      ],
+      "tocan": 3,
+      "objasnjenje": "Mia je zaboravila zalijevati, zato je biljka venula, a kad ju je zalila, biljka se oporavila.",
+      "savjet": "Pronađi uzrok zbog kojeg je biljka venula."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-088",
+      "tezina": "tesko",
+      "pitanje": "Koja riječ pokazuje da su se dva događaja dogodila u isto vrijeme?",
+      "ponudeni": [
+        "Zatim",
+        "Dok",
+        "Na kraju",
+        "Najprije"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Riječ „dok“ povezuje dva događaja koja traju istodobno.",
+      "savjet": "Probaj riječi u rečenici: „___ je mama kuhala, Tin je čitao.“"
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-089",
+      "tezina": "tesko",
+      "pitanje": "„Mia je živjela kraj mora. I tako je Mia postala najbolja plivačica u razredu.“ Što nedostaje ovoj priči?",
+      "ponudeni": [
+        "Početak u kojem upoznajemo Miju",
+        "Glavni dio u kojem saznajemo kako je Mia vježbala",
+        "Završetak u kojem saznajemo kako je završilo",
+        "Riječi „jednom davno“ na početku"
+      ],
+      "tocan": 1,
+      "objasnjenje": "Priča ima početak i završetak, ali nema glavnog dijela s događajima između njih.",
+      "savjet": "Provjeri koji dio dolazi između prve i posljednje rečenice."
+    },
+    {
+      "id": "4-hrvatski-jezik-redoslijed-dogadaja-090",
+      "tezina": "tesko",
+      "pitanje": "„Na kraju je mačić zaspao u košari. Najprije je pio mlijeko. Onda se igrao klupkom. Nakon igre se umorio.“ Kojim su se redom događaji dogodili?",
+      "ponudeni": [
+        "zaspao, pio mlijeko, igrao se, umorio se",
+        "igrao se, pio mlijeko, umorio se, zaspao",
+        "pio mlijeko, igrao se, umorio se, zaspao",
+        "pio mlijeko, umorio se, igrao se, zaspao"
+      ],
+      "tocan": 2,
+      "objasnjenje": "Riječi „najprije“, „onda“, „nakon igre“ i „na kraju“ pokazuju pravi redoslijed.",
+      "savjet": "Ne gledaj redoslijed rečenica, nego riječi koje pokazuju redoslijed."
+    }
+  ]
+}
